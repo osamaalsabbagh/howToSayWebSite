@@ -4,38 +4,79 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>تطبيق How to Say - تعلم الإنجليزية بطريقة طبيعية</title>
+    <link rel="icon" type="image/png" href="images/favicon.png">
     <style>
         body {
             font-family: Arial, sans-serif;
             text-align: center;
-            padding: 50px;
             line-height: 1.8;
             direction: rtl;
-            background: #f9f9f9;
+            background: #4b004f;
+            margin: 0;
+            padding: 0;
+            color: white;
         }
+
+        .topContainer{
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            align-items: center;
+        }
+        .topContainer > *{
+            margin: 20px;
+        }
+
+        .topImage {
+            max-width: 100%;
+            max-height: 315px;
+            height: auto;
+            display: block;
+            margin: 0 auto;
+        }
+
         h1 {
             font-size: 2.5em;
+            margin-top: 30px;
         }
+
         p, ul {
             max-width: 600px;
             margin: 0 auto 20px;
+            padding: 0 10px;
         }
-        .btn {
-            display: inline-block;
-            margin: 10px;
-            padding: 15px 25px;
-            background: #007bff;
-            color: #fff;
-            text-decoration: none;
-            border-radius: 5px;
+
+        ul {
+            list-style: none;
+            padding: 0;
         }
-        .btn:hover {
-            background: #0056b3;
+
+        .download-buttons {
+            display: flex;
+            justify-content: center;
+            flex-wrap: wrap;
+            gap: 15px;
+            margin-top: 20px;
+        }
+
+        .downloadButton img {
+            height: 40px;
+            width: 120px;
+            line-height: 0;
+        }
+
+        footer {
+            margin-top: 40px;
+            font-size: 0.9em;
         }
     </style>
 </head>
 <body>
 
+<div class="topContainer">
+    <img class="topImage" src="images/topImage.png" alt="صورة توضيحية للتطبيق">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/gXyNNwWgOVc?si=tvFYurGD5LQ2uHKC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 <h1>تطبيق How to Say</h1>
 
 <p>يساعدك هذا التطبيق على تعلم اللغة الإنجليزية من خلال ترجمة الجمل من لغتك الأم.</p>
@@ -43,8 +84,8 @@
 <p>إذا كانت ترجمتك مطابقة للترجمة المتوقعة من التطبيق، تُعتبر صحيحة.</p>
 <p>وإذا لم تتطابق، يمكنك استشارة الذكاء الاصطناعي للحصول على مقارنة وملاحظات ذكية حول إجابتك.</p>
 
-<ul style="list-style: none; padding: 0;">
-    <li>• يحتوي التطبيق على عدد كبير جدا من الجمل اليومية</li>
+<ul>
+    <li>• يحتوي التطبيق على عدد كبير جدًا من الجمل اليومية</li>
     <li>• تعلم عملي بالترجمة المباشرة وليس بالحفظ</li>
     <li>• تحليل وتصحيح مدعوم بالذكاء الاصطناعي لتحسين مستواك</li>
     <li>• يساعدك على تحسين النطق الصحيح من خلال الإستماع واستخدام المايكروفون</li>
@@ -55,10 +96,18 @@
 
 <p><strong>هدفنا:</strong> أن تتعلم الإنجليزية بطريقة طبيعية، من خلال الممارسة الفعلية، حتى تصل لمرحلة تتحدث فيها بثقة وبدون تردد.</p>
 
-<a href="https://play.google.com/store/apps/details?id=com.howtosay.app" class="btn">تحميل التطبيق على Google Play</a>
-<a href="https://apps.apple.com/us/app/how-to-say/id6745604243" class="btn">تحميل التطبيق على App Store</a>
+<div class="download-buttons">
+    <a class="downloadButton" href="https://play.google.com/store/apps/details?id=com.howtosay.app" target="_blank">
+        <img src="images/google-play-download.png" alt="تنزيل التطبيق على Google Play">
+    </a>
+    <a class="downloadButton" href="https://apps.apple.com/us/app/how-to-say/id6745604243" target="_blank">
+        <img src="images/apple-store-download.svg" alt="تنزيل التطبيق على App Store">
+    </a>
+</div>
 
-<p style="margin-top: 40px; color: gray; font-size: 0.9em;">&copy; 2025 جميع الحقوق محفوظة - How to Say</p>
+<footer>
+    &copy; 2025 جميع الحقوق محفوظة - How to Say
+</footer>
 
 </body>
 </html>
