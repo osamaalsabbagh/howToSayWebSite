@@ -11,25 +11,18 @@
             text-align: center;
             line-height: 1.8;
             direction: rtl;
-            background: #4b004f;
+            background-color: #4b004f;
             margin: 0;
             padding: 0;
             color: white;
+            text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.7);
         }
-
-        .topContainer{
-            display: flex;
-            flex-wrap: wrap;
-            justify-content: center;
-            align-items: center;
-        }
-        .topContainer > *{
-            margin: 20px;
+        .appDescription{
+            padding: 50px;
         }
 
         .topImage {
             max-width: 100%;
-            max-height: 315px;
             height: auto;
             display: block;
             margin: 0 auto;
@@ -37,7 +30,7 @@
 
         h1 {
             font-size: 2.5em;
-            margin-top: 30px;
+            margin: 30px 0 20px;
         }
 
         p, ul {
@@ -60,50 +53,56 @@
         }
 
         .downloadButton img {
-            height: 40px;
-            width: 120px;
+            height: 60px;
+            width: 180px;
             line-height: 0;
         }
 
         footer {
-            margin-top: 40px;
+            margin: 40px 0 20px;
             font-size: 0.9em;
         }
     </style>
 </head>
 <body>
-
-<div class="topContainer">
-    <img class="topImage" src="images/topImage.png" alt="صورة توضيحية للتطبيق">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/gXyNNwWgOVc?si=tvFYurGD5LQ2uHKC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
+    <iframe src="https://www.youtube.com/embed/gXyNNwWgOVc?si=tvFYurGD5LQ2uHKC"
+            title="YouTube video player"
+            style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            referrerpolicy="strict-origin-when-cross-origin"
+            allowfullscreen></iframe>
 </div>
-<h1>تطبيق How to Say</h1>
+<div class="appDescription">
+    <h1>How to Say</h1>
 
-<p>يساعدك هذا التطبيق على تعلم اللغة الإنجليزية من خلال ترجمة الجمل من لغتك الأم.</p>
-<p>يعرض لك التطبيق جملة بلغتك الأم ويطلب منك ترجمتها إلى الإنجليزية.</p>
-<p>إذا كانت ترجمتك مطابقة للترجمة المتوقعة من التطبيق، تُعتبر صحيحة.</p>
-<p>وإذا لم تتطابق، يمكنك استشارة الذكاء الاصطناعي للحصول على مقارنة وملاحظات ذكية حول إجابتك.</p>
+    <p>يساعدك هذا التطبيق على تعلم اللغة الإنجليزية من خلال ترجمة الجمل من لغتك الأم.</p>
+    <p>يعرض لك التطبيق جملة بلغتك الأم ويطلب منك ترجمتها إلى الإنجليزية.</p>
+    <p>إذا كانت ترجمتك مطابقة للترجمة المتوقعة من التطبيق، تُعتبر صحيحة.</p>
+    <p>وإذا لم تتطابق، يمكنك استشارة الذكاء الاصطناعي للحصول على مقارنة وملاحظات ذكية حول إجابتك.</p>
 
-<ul>
-    <li>• يحتوي التطبيق على عدد كبير جدًا من الجمل اليومية</li>
-    <li>• تعلم عملي بالترجمة المباشرة وليس بالحفظ</li>
-    <li>• تحليل وتصحيح مدعوم بالذكاء الاصطناعي لتحسين مستواك</li>
-    <li>• يساعدك على تحسين النطق الصحيح من خلال الإستماع واستخدام المايكروفون</li>
-    <li>• مناسب للمبتدئين أو لمن يرغب في تطوير مهاراته</li>
-    <li>• واجهة بسيطة وسهلة الاستخدام</li>
-    <li>• يدعم حاليا اللغة العربية فقط وهناك خطة لدعم باقي اللغات</li>
-</ul>
+    <ul>
+        <li>• يحتوي التطبيق على عدد كبير جدًا من الجمل اليومية</li>
+        <li>• تعلم عملي بالترجمة المباشرة وليس بالحفظ</li>
+        <li>• تحليل وتصحيح مدعوم بالذكاء الاصطناعي لتحسين مستواك</li>
+        <li>• يساعدك على تحسين النطق الصحيح من خلال الإستماع واستخدام المايكروفون</li>
+        <li>• مناسب للمبتدئين أو لمن يرغب في تطوير مهاراته</li>
+        <li>• واجهة بسيطة وسهلة الاستخدام</li>
+        <li>• يدعم حاليا اللغة العربية فقط وهناك خطة لدعم باقي اللغات</li>
+    </ul>
 
-<p><strong>هدفنا:</strong> أن تتعلم الإنجليزية بطريقة طبيعية، من خلال الممارسة الفعلية، حتى تصل لمرحلة تتحدث فيها بثقة وبدون تردد.</p>
-
-<div class="download-buttons">
-    <a class="downloadButton" href="https://play.google.com/store/apps/details?id=com.howtosay.app" target="_blank">
-        <img src="images/google-play-download.png" alt="تنزيل التطبيق على Google Play">
-    </a>
-    <a class="downloadButton" href="https://apps.apple.com/us/app/how-to-say/id6745604243" target="_blank">
-        <img src="images/apple-store-download.svg" alt="تنزيل التطبيق على App Store">
-    </a>
+    <p><strong>هدفنا:</strong> أن تتعلم الإنجليزية بطريقة طبيعية، من خلال الممارسة الفعلية، حتى تصل لمرحلة تتحدث فيها بثقة وبدون تردد.</p>
+    <div class="download-buttons">
+        <a class="downloadButton" href="https://play.google.com/store/apps/details?id=com.howtosay.app" target="_blank">
+            <img src="images/google-play-download.png" alt="تنزيل التطبيق على Google Play">
+        </a>
+        <a class="downloadButton" href="https://apps.apple.com/us/app/how-to-say/id6745604243" target="_blank">
+            <img src="images/apple-store-download.svg" alt="تنزيل التطبيق على App Store">
+        </a>
+    </div>
 </div>
+<img class="topImage" src="images/topImage.png" alt="صورة توضيحية للتطبيق">
 
 <footer>
     &copy; 2025 جميع الحقوق محفوظة - How to Say
