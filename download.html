@@ -131,18 +131,18 @@
         const p = url.searchParams;
 
         const playURL = linkUtils.buildPlayUrl(utm);
-        const appleURL = linkUtils.buildAppleUrl(utm, { providerToken: linkUtils.APPLE_PROVIDER_TOKEN, mt: 8 });
+        const appleURL = linkUtils.buildAppleUrl(utm);
 
         const androidBtn = document.getElementById("btn-android");
         const iosBtn = document.getElementById("btn-ios");
         androidBtn.href = playURL;
         iosBtn.href = appleURL;
 
-        androidBtn.addEventListener("click", function(){
-            window.gtag && gtag('event','click_play_direct', Object.assign({ link_url: playURL }, utm));
+        androidBtn.addEventListener("click", function(e){
+            linkUtils.storeBtnClick(e, playURL, 'click_play_direct', utm);
         });
-        iosBtn.addEventListener("click", function(){
-            window.gtag && gtag('event','click_appstore_direct', Object.assign({ link_url: appleURL }, utm));
+        iosBtn.addEventListener("click", function(e){
+            linkUtils.storeBtnClick(e, appleURL, 'click_appstore_direct', utm);
         });
 
         function detectOS(){

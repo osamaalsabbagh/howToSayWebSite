@@ -419,21 +419,15 @@
             const playURL = linkUtils.buildPlayUrl(utm);
             playBtn.href = playURL;
             playBtn.addEventListener("click", function (e) {
-                const payload = Object.assign({ link_url: playURL }, utm);
-                window.gtag && gtag('event', 'click_play_direct', payload);
-                e.preventDefault();
-                window.open(playURL, '_blank', 'noopener');
+                linkUtils.storeBtnClick(e, playURL, 'click_play_direct', utm);
             });
         }
 
         if (appstoreBtn) {
-            const appURL = linkUtils.buildAppleUrl(utm, { providerToken: linkUtils.APPLE_PROVIDER_TOKEN, mt: 8 });
+            const appURL = linkUtils.buildAppleUrl(utm);
             appstoreBtn.href = appURL;
             appstoreBtn.addEventListener("click", function (e) {
-                const payload = Object.assign({ link_url: appURL }, utm);
-                window.gtag && gtag('event', 'click_appstore_direct', payload);
-                e.preventDefault();
-                window.open(appURL, '_blank', 'noopener');
+                linkUtils.storeBtnClick(e, appURL, 'click_appstore_direct', utm);
             });
         }
 

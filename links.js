@@ -30,6 +30,7 @@
     }
 
     function buildAppleUrl(utm, opts){
+        if(!opts){opts = { providerToken: APPLE_PROVIDER_TOKEN, mt: 8 }}
         const url = new URL(APPLE_BASE, window.location.origin);
         opts = opts || {};
         if(opts.providerToken){
@@ -59,11 +60,17 @@
         return DOWNLOAD_PATH + (window.location.search || '');
     }
 
+    function storeBtnClick(e, storeUrl, eventName, utm){
+        const payload = Object.assign({ link_url: storeUrl }, utm);
+        window.gtag && gtag('event', eventName, payload);
+    }
+
     window.linkUtils = {
         getUtmParams: getUtmParams,
         buildPlayUrl: buildPlayUrl,
         buildAppleUrl: buildAppleUrl,
         buildDownloadUrl: buildDownloadUrl,
+        storeBtnClick: storeBtnClick,
         PLAY_BASE: PLAY_BASE,
         APPLE_BASE: APPLE_BASE,
         DOWNLOAD_PATH: DOWNLOAD_PATH,
