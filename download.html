@@ -214,6 +214,8 @@
                     countdownEl.textContent = "🚀 جارٍ التحويل…";
                     window.gtag && gtag('event','redirect_to_store', Object.assign({store: os, auto: true, link_url: storeURL}, utm));
                     window.location.href = storeURL;
+                    countdownEl.style.display = "none";
+                    stopEl.style.display = "none";
                 } else {
                     countdownEl.textContent = `⏳ سيتم التحويل خلال ${sec} ث (في نفس التبويب)`;
                 }
