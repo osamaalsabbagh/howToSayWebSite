@@ -42,7 +42,7 @@
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-HXKQT2T87V"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
+        function gtag(){ dataLayer.push(arguments); }
         gtag('js', new Date());
 
         gtag('config', 'G-HXKQT2T87V');
@@ -86,12 +86,19 @@
         .download-buttons,.appDescriptionContainer {
             display: flex;
             justify-content: center;
+            align-items: center;
             flex-wrap: wrap;
             gap: 15px;
             margin-top: 20px;
         }
         .appDescriptionContainer{
             margin-top: 0;
+            background-color: #226696;
+            border-width: 1px 0;
+            border-color: gray;
+        }
+        .download-buttons a {
+            line-height: 0;
         }
 
         .downloadButton img {
@@ -99,27 +106,180 @@
             width: 180px;
             line-height: 0;
         }
-
         footer {
             margin: 40px 0 20px;
             font-size: 0.9em;
         }
-
         a{
             color: white;
+        }
+
+        .video-wrapper {
+            flex-basis: 100%;
+            flex-grow: 0;
+            flex-shrink: 0;
+        }
+
+        /* Hero download block under video */
+        .download-hero{
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            flex-wrap:wrap;
+            padding: 0 12px 6px;
+            flex-direction: column;
+        }
+        .download-section{
+            background-color: #28613b;
+            padding-bottom: 10px;
+            flex: 100% 0 0;
+            border-width: 1px 0;
+            border-color: gray;
+        }
+        .download-section h2{
+            text-align: center;
+            margin: 12px 30px 4px;
+            flex-basis: 100%;
+            flex-grow: 0;
+            flex-shrink: 0;
+        }
+        .qr{
+            width:140px;
+            height:140px;
+            border-radius:12px;
+            overflow:hidden;
+            background:#fff;
+            box-shadow:0 6px 16px rgba(0,0,0,.25);
+            display:flex;
+            align-items:center;
+            justify-content:center;
+        }
+        .qr img{ width:140px; height:140px; display:block; }
+        .smart-link{
+            padding:8px 16px;
+            border-radius:15px;
+            border:1px solid #a6a6a6;
+            background-color: black;
+            font-weight: bold;
+            box-shadow:0 6px 16px rgba(0,0,0,.15);
+            display: flex;
+            align-content: center;
+            align-items: center;
+            height: 43px;
+            line-height: 1.3 !important;
+            text-decoration: none;
+        }
+        .youtube-container {
+            position: relative;
+            padding-bottom: 56.25%; /* 16:9 نسبة */
+            height: 0;
+            margin: auto;
+            width: 100%;
+        }
+
+        .youtube-container iframe {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+        }
+
+        /* عندما تكون الشاشة أكبر من 800px */
+        @media (min-width: 800px) {
+            .video-wrapper {
+                flex-basis: 800px;
+            }
+        }
+        .downloadButtonsSeperator{
+            display: none;
+        }
+        /* عندما تكون الشاشة أكبر من 800px */
+        @media (max-width: 800px) {
+            .downloadButtonsSeperator{
+                display: flex;
+                flex: 100% 0 0;
+            }
+        }
+        .firstRow{
+            display: flex;
+            flex-wrap: wrap;
+            align-items: center;
+            align-content: center;
+            width: 100%;
+            justify-content: center;
         }
     </style>
 </head>
 <body>
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
-    <iframe src="https://www.youtube.com/embed/1D2mgEfuOJk?si=x9rIvIJwhtROLBE5"
-            title="YouTube video player"
-            style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
-            frameborder="0"
-            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-            referrerpolicy="strict-origin-when-cross-origin"
-            allowfullscreen></iframe>
+<div class="firstRow">
+    <div class="video-wrapper">
+        <div class="youtube-container">
+            <iframe
+                    src="https://www.youtube.com/embed/1D2mgEfuOJk?si=V-Zo0bEEP6a3VOw-"
+                    title="YouTube video player"
+                    frameborder="0"
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                    referrerpolicy="strict-origin-when-cross-origin"
+                    allowfullscreen>
+            </iframe>
+        </div>
+    </div>
+    <section class="download-section" aria-label="تحميل التطبيق" style="margin-top: 8px;">
+        <h2>حمّل التطبيق الآن</h2>
+        <p style="text-align: center; max-width: none;margin: 0">
+            إضغط على صورة متجر جوالك أو على زر صفحة التحويل الذكي أو امسح رمز QR.
+        </p>
+        <div class="download-hero">
+            <div class="download-buttons">
+                <!-- Direct store links (with GA4 tracking) -->
+                <a id="btn-play-direct" class="downloadButton" href="https://play.google.com/store/apps/details?id=com.howtosay.app" target="_blank" rel="noopener">
+                    <img src="images/google-play-download.png" alt="تنزيل التطبيق على Google Play">
+                </a>
+                <a id="btn-appstore-direct" class="downloadButton" href="https://apps.apple.com/us/app/how-to-say/id6745604243" target="_blank" rel="noopener">
+                    <img src="images/apple-store-download.svg" alt="تنزيل التطبيق على App Store">
+                </a>
+                <a class="smart-link" id="smart-link" href="https://howtosay.app/download.html">
+                    <div style="text-align: right">
+                        <span style="font-size: 13px">
+                            تنزيل من
+                        </span>
+                        <br>
+                        🚀 صفحة التحويل الذكي
+                    </div>
+                </a>
+                <div class="downloadButtonsSeperator"></div>
+                <a class="qr" title="امسح بالهاتف لفتح صفحة التحويل الذكي" id="qr-link" href="https://howtosay.app/download.html" aria-label="افتح صفحة التحويل الذكي">
+                    <img src="https://howtosay.app/images/qr-code.png" alt="رمز QR لصفحة التحويل الذكي">
+                </a>
+            </div>
+            <div class="download-buttons" style="flex-direction: column;">
+                <h2>تابعنا على شبكات التواصل:</h2>
+                <div style="display: flex; justify-content: center; gap: 15px; margin-top: 10px;flex-wrap: wrap;">
+                    <a href="https://www.facebook.com/HowToSayApp" target="_blank" aria-label="تابعنا على فيسبوك">
+                        <img src="images/logo-facebook.svg" alt="فيسبوك" style="width:40px; height:40px;">
+                    </a>
+                    <a href="https://www.instagram.com/hawtosay.app/" target="_blank" aria-label="تابعنا على إنستغرام">
+                        <img src="images/logo-instagram.svg" alt="إنستغرام" style="width:40px; height:40px;">
+                    </a>
+                    <a href="https://x.com/HowToSayApp" target="_blank" aria-label="تابعنا على تويتر">
+                        <img src="images/logo-twitter.svg" alt="تويتر" style="width:40px; height:40px;">
+                    </a>
+                    <a href="https://www.youtube.com/@HowToSayApp" target="_blank" aria-label="تابعنا على يوتيوب">
+                        <img src="images/logo-youtube.svg" alt="يوتيوب" style="width:40px; height:40px;">
+                    </a>
+                    <a href="https://www.tiktok.com/@howtosay.app" target="_blank" aria-label="تابعنا على تيك توك">
+                        <img src="images/logo-tiktok.svg" alt="تيك توك" style="width:40px; height:40px;">
+                    </a>
+                    <a href="https://linkedin.com/company/how-to-say" target="_blank" aria-label="تابعنا على لينكد إن">
+                        <img src="images/logo-linkedin.svg" alt="لينكد إن" style="width:40px; height:40px;">
+                    </a>
+                </div>
+            </div>
+        </div>
+    </section>
 </div>
+
 <div class="appDescriptionContainer">
     <div class="appDescription">
         <h1>HOW TO SAY</h1>
@@ -225,41 +385,7 @@
         </ul>
 
         <h2>الهدف من التطبيق:</h2>
-        <p> أن تتعلم الإنجليزية بطريقة طبيعية، من خلال الممارسة الفعلية، حتى تصل لمرحلة تتحدث فيها بثقة وبدون تردد.</p>
-        <h2>تحميل التطبيق:</h2>
-        يمكنك تحميل التطبيق من خلال الضغط على متجر التطبيقات الخاص بجوالك
-        <div class="download-buttons">
-            <a class="downloadButton" href="https://play.google.com/store/apps/details?id=com.howtosay.app" target="_blank">
-                <img src="images/google-play-download.png" alt="تنزيل التطبيق على Google Play">
-            </a>
-            <a class="downloadButton" href="https://apps.apple.com/us/app/how-to-say/id6745604243" target="_blank">
-                <img src="images/apple-store-download.svg" alt="تنزيل التطبيق على App Store">
-            </a>
-        </div>
-        <!-- Social Media Links Section -->
-        <div class="download-buttons" style="margin-top: 40px; flex-direction: column;">
-            <h2>تابعنا على شبكات التواصل الاجتماعي:</h2>
-            <div style="display: flex; justify-content: center; gap: 15px; margin-top: 10px;flex-wrap: wrap;">
-                <a href="https://www.facebook.com/HowToSayApp" target="_blank" aria-label="تابعنا على فيسبوك">
-                    <img src="images/logo-facebook.svg" alt="فيسبوك" style="width:40px; height:40px;">
-                </a>
-                <a href="https://www.instagram.com/hawtosay.app/" target="_blank" aria-label="تابعنا على إنستغرام">
-                    <img src="images/logo-instagram.svg" alt="إنستغرام" style="width:40px; height:40px;">
-                </a>
-                <a href="https://x.com/HowToSayApp" target="_blank" aria-label="تابعنا على تويتر">
-                    <img src="images/logo-twitter.svg" alt="تويتر" style="width:40px; height:40px;">
-                </a>
-                <a href="https://www.youtube.com/@HowToSayApp" target="_blank" aria-label="تابعنا على يوتيوب">
-                    <img src="images/logo-youtube.svg" alt="يوتيوب" style="width:40px; height:40px;">
-                </a>
-                <a href="https://www.tiktok.com/@howtosay.app" target="_blank" aria-label="تابعنا على تيك توك">
-                    <img src="images/logo-tiktok.svg" alt="تيك توك" style="width:40px; height:40px;">
-                </a>
-                <a href="https://linkedin.com/company/how-to-say" target="_blank" aria-label="تابعنا على لينكد إن">
-                    <img src="images/logo-linkedin.svg" alt="لينكد إن" style="width:40px; height:40px;">
-                </a>
-            </div>
-        </div>
+        <p>أن تتعلم الإنجليزية بطريقة طبيعية، من خلال الممارسة الفعلية، حتى تصل لمرحلة تتحدث فيها بثقة وبدون تردد.</p>
         <h2>تواصل معنا:</h2>
         <p>
             إذا كانت لديك أي أسئلة، يرجى مراسلتنا على البريد الإلكتروني التالي:
@@ -274,6 +400,51 @@
 <footer>
     &copy; 2025 جميع الحقوق محفوظة - HOW TO SAY
 </footer>
+
+<!-- Tracking: preserve UTM for /download.html + GA4 click events -->
+<script>
+    (function(){
+        var query = window.location.search || "";
+        var smartLink = document.getElementById("smart-link");
+        var qrLink = document.getElementById("qr-link");
+        if (smartLink) smartLink.href = "/download.html" + query;
+        if (qrLink) qrLink.href = "/download.html" + query;
+
+        // Read UTM once
+        var params = new URLSearchParams(window.location.search);
+        var utmData = {
+            'utm_source': params.get('utm_source') || '',
+            'utm_medium': params.get('utm_medium') || '',
+            'utm_campaign': params.get('utm_campaign') || '',
+            'utm_term': params.get('utm_term') || '',
+            'utm_content': params.get('utm_content') || ''
+        };
+
+        // GA4: smart redirect click
+        if (smartLink) {
+            smartLink.addEventListener("click", function(){
+                window.gtag && gtag('event', 'click_smart_redirect', utmData);
+            });
+        }
+
+        // GA4: direct store clicks
+        var playBtn = document.getElementById("btn-play-direct");
+        var appstoreBtn = document.getElementById("btn-appstore-direct");
+
+        if (playBtn) {
+            playBtn.addEventListener("click", function(){
+                var payload = Object.assign({ 'link_url': playBtn.href }, utmData);
+                window.gtag && gtag('event', 'click_play_direct', payload);
+            });
+        }
+        if (appstoreBtn) {
+            appstoreBtn.addEventListener("click", function(){
+                var payload = Object.assign({ 'link_url': appstoreBtn.href }, utmData);
+                window.gtag && gtag('event', 'click_appstore_direct', payload);
+            });
+        }
+    })();
+</script>
 
 </body>
 </html>
