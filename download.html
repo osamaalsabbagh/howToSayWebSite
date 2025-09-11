@@ -126,15 +126,15 @@
 <script src="links.js"></script>
 <script>
     (function(){
-        var utm = linkUtils.getUtmParams();
-        var url = new URL(window.location.href);
-        var p = url.searchParams;
+        const utm = linkUtils.getUtmParams();
+        const url = new URL(window.location.href);
+        const p = url.searchParams;
 
-        var playURL = linkUtils.buildPlayUrl(utm);
-        var appleURL = linkUtils.buildAppleUrl(utm, { providerToken: linkUtils.APPLE_PROVIDER_TOKEN, mt: 8 });
+        const playURL = linkUtils.buildPlayUrl(utm);
+        const appleURL = linkUtils.buildAppleUrl(utm, { providerToken: linkUtils.APPLE_PROVIDER_TOKEN, mt: 8 });
 
-        var androidBtn = document.getElementById("btn-android");
-        var iosBtn = document.getElementById("btn-ios");
+        const androidBtn = document.getElementById("btn-android");
+        const iosBtn = document.getElementById("btn-ios");
         androidBtn.href = playURL;
         iosBtn.href = appleURL;
 
@@ -146,27 +146,27 @@
         });
 
         function detectOS(){
-            var ua = navigator.userAgent || "";
+            const ua = navigator.userAgent || "";
             if(/Android/i.test(ua)) return "android";
             if(/iPhone|iPad|iPod/i.test(ua) || (ua.includes("Mac") && "ontouchend" in document)) return "ios";
             return "desktop";
         }
-        var force = (p.get("force")||"").toLowerCase();
-        var noredirect = p.get("noredirect")==="1";
-        var os = ["android","ios","desktop"].includes(force) ? force : detectOS();
+        const force = (p.get("force")||"").toLowerCase();
+        const noredirect = p.get("noredirect")==="1";
+        const os = ["android","ios","desktop"].includes(force) ? force : detectOS();
 
-        var hintEl = document.getElementById("hint");
-        var detectedEl = document.getElementById("detected");
-        var countdownEl = document.getElementById("countdown");
-        var stopEl = document.getElementById("stop");
-        var ctaEl = document.getElementById("open-newtab");
-        var qrImg = document.getElementById("qr");
+        const hintEl = document.getElementById("hint");
+        const detectedEl = document.getElementById("detected");
+        const countdownEl = document.getElementById("countdown");
+        const stopEl = document.getElementById("stop");
+        const ctaEl = document.getElementById("open-newtab");
+        const qrImg = document.getElementById("qr");
 
         detectedEl.textContent = `📱 الجهاز: ${os.toUpperCase()}`;
 
         // QR generation with fallback preserving UTM
-        var qrData = window.location.origin + linkUtils.buildDownloadUrl();
-        var generatorURL = `https://api.qrserver.com/v1/create-qr-code/?size=140x140&data=${encodeURIComponent(qrData)}`;
+        const qrData = window.location.origin + linkUtils.buildDownloadUrl();
+        const generatorURL = `https://api.qrserver.com/v1/create-qr-code/?size=140x140&data=${encodeURIComponent(qrData)}`;
         qrImg.src = generatorURL;
         qrImg.loading = "lazy";
         qrImg.onerror = function(){
@@ -182,12 +182,12 @@
             return;
         }
 
-        var storeURL = os === "android" ? playURL : appleURL;
+        const storeURL = os === "android" ? playURL : appleURL;
 
         ctaEl.style.display = "inline-flex";
         ctaEl.addEventListener("click", function(e){
             e.preventDefault();
-            var w = window.open(storeURL, "_blank", "noopener");
+            const w = window.open(storeURL, "_blank", "noopener");
             if (!w) {
                 countdownEl.textContent = "⚠️ تعذّر فتح المتجر تلقائيًا. اضغط على زر المتجر أعلاه.";
             } else {
@@ -195,7 +195,7 @@
             }
         });
 
-        var stopped = false;
+        let stopped = false;
         stopEl.addEventListener("click", function(e){
             e.preventDefault();
             stopped = true;
@@ -203,9 +203,9 @@
         });
 
         if (!noredirect) {
-            var sec = 3;
+            let sec = 3;
             countdownEl.textContent = `⏳ سيتم التحويل خلال ${sec} ث (في نفس التبويب)`;
-            var t = setInterval(function(){
+            const t = setInterval(function(){
                 if (stopped) { clearInterval(t); return; }
                 sec--;
                 if (sec <= 0) {

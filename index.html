@@ -405,21 +405,21 @@
 <script src="links.js"></script>
 <script>
     (function () {
-        var smartLink = document.getElementById("smart-link");
-        var qrLink = document.getElementById("qr-link");
-        var playBtn = document.getElementById("btn-play-direct");
-        var appstoreBtn = document.getElementById("btn-appstore-direct");
+        const smartLink = document.getElementById("smart-link");
+        const qrLink = document.getElementById("qr-link");
+        const playBtn = document.getElementById("btn-play-direct");
+        const appstoreBtn = document.getElementById("btn-appstore-direct");
 
-        var utm = linkUtils.getUtmParams();
-        var downloadUrl = linkUtils.buildDownloadUrl();
+        const utm = linkUtils.getUtmParams();
+        const downloadUrl = linkUtils.buildDownloadUrl();
         if (smartLink) smartLink.href = downloadUrl;
         if (qrLink) qrLink.href = downloadUrl;
 
         if (playBtn) {
-            var playURL = linkUtils.buildPlayUrl(utm);
+            const playURL = linkUtils.buildPlayUrl(utm);
             playBtn.href = playURL;
             playBtn.addEventListener("click", function (e) {
-                var payload = Object.assign({ link_url: playURL }, utm);
+                const payload = Object.assign({ link_url: playURL }, utm);
                 window.gtag && gtag('event', 'click_play_direct', payload);
                 e.preventDefault();
                 window.open(playURL, '_blank', 'noopener');
@@ -427,10 +427,10 @@
         }
 
         if (appstoreBtn) {
-            var appURL = linkUtils.buildAppleUrl(utm, { providerToken: linkUtils.APPLE_PROVIDER_TOKEN, mt: 8 });
+            const appURL = linkUtils.buildAppleUrl(utm, { providerToken: linkUtils.APPLE_PROVIDER_TOKEN, mt: 8 });
             appstoreBtn.href = appURL;
             appstoreBtn.addEventListener("click", function (e) {
-                var payload = Object.assign({ link_url: appURL }, utm);
+                const payload = Object.assign({ link_url: appURL }, utm);
                 window.gtag && gtag('event', 'click_appstore_direct', payload);
                 e.preventDefault();
                 window.open(appURL, '_blank', 'noopener');

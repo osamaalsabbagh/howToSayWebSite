@@ -1,11 +1,11 @@
 (function(window){
-    var PLAY_BASE = 'https://play.google.com/store/apps/details?id=com.howtosay.app';
-    var APPLE_BASE = 'https://apps.apple.com/us/app/how-to-say/id6745604243';
-    var APPLE_PROVIDER_TOKEN = '127823002';
-    var DOWNLOAD_PATH = '/download.html';
+    const PLAY_BASE = 'https://play.google.com/store/apps/details?id=com.howtosay.app';
+    const APPLE_BASE = 'https://apps.apple.com/us/app/how-to-say/id6745604243';
+    const APPLE_PROVIDER_TOKEN = '127823002';
+    const DOWNLOAD_PATH = '/download.html';
 
     function getUtmParams(){
-        var params = new URLSearchParams(window.location.search);
+        const params = new URLSearchParams(window.location.search);
         return {
             utm_source:  params.get('utm_source')  || '',
             utm_medium:  params.get('utm_medium')  || '',
@@ -16,13 +16,13 @@
     }
 
     function buildPlayUrl(utm){
-        var refParts = [];
+        const refParts = [];
         if(utm.utm_source)  refParts.push('utm_source=' + encodeURIComponent(utm.utm_source));
         if(utm.utm_medium)  refParts.push('utm_medium=' + encodeURIComponent(utm.utm_medium));
         if(utm.utm_campaign)refParts.push('utm_campaign=' + encodeURIComponent(utm.utm_campaign));
         if(utm.utm_term)    refParts.push('utm_term=' + encodeURIComponent(utm.utm_term));
         if(utm.utm_content) refParts.push('utm_content=' + encodeURIComponent(utm.utm_content));
-        var url = PLAY_BASE;
+        let url = PLAY_BASE;
         if(refParts.length){
             url += '&referrer=' + encodeURIComponent(refParts.join('&'));
         }
@@ -30,7 +30,7 @@
     }
 
     function buildAppleUrl(utm, opts){
-        var url = new URL(APPLE_BASE, window.location.origin);
+        const url = new URL(APPLE_BASE, window.location.origin);
         opts = opts || {};
         if(opts.providerToken){
             url.searchParams.set('pt', opts.providerToken);
@@ -44,7 +44,7 @@
         if(utm.utm_term)    url.searchParams.set('utm_term', utm.utm_term);
         if(utm.utm_content) url.searchParams.set('utm_content', utm.utm_content);
 
-        var ct = utm.utm_campaign || [utm.utm_source, utm.utm_medium].filter(Boolean).join('-');
+        let ct = utm.utm_campaign || [utm.utm_source, utm.utm_medium].filter(Boolean).join('-');
         if(ct){
             ct = ct.replace(/\s+/g, '-').slice(0,100);
             url.searchParams.set('ct', ct);
