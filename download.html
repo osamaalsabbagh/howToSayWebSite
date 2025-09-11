@@ -200,7 +200,8 @@
         stopEl.addEventListener("click", function(e){
             e.preventDefault();
             stopped = true;
-            countdownEl.textContent = "✋ تم إيقاف التحويل التلقائي";
+            countdownEl.style.display = "none";
+            stopEl.style.display = "none";
         });
 
         if (!noRedirect) {
