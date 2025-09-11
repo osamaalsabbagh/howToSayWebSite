@@ -403,44 +403,96 @@
 
 <!-- Tracking: preserve UTM for /download.html + GA4 click events -->
 <script>
-    (function(){
+    (function () {
+        // ===== إعداد عام =====
         var query = window.location.search || "";
         var smartLink = document.getElementById("smart-link");
         var qrLink = document.getElementById("qr-link");
         if (smartLink) smartLink.href = "/download.html" + query;
         if (qrLink) qrLink.href = "/download.html" + query;
 
-        // Read UTM once
+        // قراءة UTM من رابط الصفحة
         var params = new URLSearchParams(window.location.search);
-        var utmData = {
-            'utm_source': params.get('utm_source') || '',
-            'utm_medium': params.get('utm_medium') || '',
-            'utm_campaign': params.get('utm_campaign') || '',
-            'utm_term': params.get('utm_term') || '',
-            'utm_content': params.get('utm_content') || ''
+        var utm = {
+            utm_source:  params.get('utm_source')  || '',
+            utm_medium:  params.get('utm_medium')  || '',
+            utm_campaign:params.get('utm_campaign')|| '',
+            utm_term:    params.get('utm_term')    || '',
+            utm_content: params.get('utm_content') || ''
         };
 
-        // GA4: smart redirect click
-        if (smartLink) {
-            smartLink.addEventListener("click", function(){
-                window.gtag && gtag('event', 'click_smart_redirect', utmData);
+        // helpers
+        function buildUtmQueryString(u) {
+            var entries = Object.entries(u).filter(function ([,v]) { return v; });
+            return entries.map(function ([k,v]) {
+                return encodeURIComponent(k) + '=' + encodeURIComponent(v);
+            }).join('&');
+        }
+        function stripParam(url, paramName) {
+            var urlObj = new URL(url, window.location.origin);
+            urlObj.searchParams.delete(paramName);
+            return urlObj.toString();
+        }
+        function appendParams(url, kv) {
+            var urlObj = new URL(url, window.location.origin);
+            Object.keys(kv).forEach(function (k) {
+                if (kv[k] !== undefined && kv[k] !== null && kv[k] !== '') {
+                    urlObj.searchParams.set(k, kv[k]);
+                }
             });
+            return urlObj.toString();
+        }
+        function openInNewTab(url) {
+            window.open(url, '_blank', 'noopener');
         }
 
-        // GA4: direct store clicks
+        // ===== روابط التنزيل المباشر =====
         var playBtn = document.getElementById("btn-play-direct");
         var appstoreBtn = document.getElementById("btn-appstore-direct");
 
+        // --- Google Play: referrer يحوي UTM ---
         if (playBtn) {
-            playBtn.addEventListener("click", function(){
-                var payload = Object.assign({ 'link_url': playBtn.href }, utmData);
+            playBtn.addEventListener("click", function (e) {
+                var payload = Object.assign({ link_url: playBtn.href }, utm);
                 window.gtag && gtag('event', 'click_play_direct', payload);
+
+                var utmQS = buildUtmQueryString(utm);
+                var base = stripParam(playBtn.href, 'referrer');
+                var playURL = new URL(base, window.location.origin);
+                if (utmQS) {
+                    playURL.searchParams.set('referrer', utmQS);
+                }
+                e.preventDefault();
+                openInNewTab(playURL.toString());
             });
         }
+
+        // --- Apple App Store: pt + ct + mt=8 ---
         if (appstoreBtn) {
-            appstoreBtn.addEventListener("click", function(){
-                var payload = Object.assign({ 'link_url': appstoreBtn.href }, utmData);
+            var APPLE_PROVIDER_TOKEN = '127823002'; // ثابت من حملتك الأولى
+
+            appstoreBtn.addEventListener("click", function (e) {
+                var payload = Object.assign({ link_url: appstoreBtn.href }, utm);
                 window.gtag && gtag('event', 'click_appstore_direct', payload);
+
+                var ct = utm.utm_campaign || [utm.utm_source, utm.utm_medium].filter(Boolean).join('-');
+                if (ct) ct = ct.replace(/\s+/g, '-').slice(0, 100);
+
+                var finalUrl = appendParams(appstoreBtn.href, {
+                    pt: APPLE_PROVIDER_TOKEN,
+                    ct: ct || undefined,
+                    mt: 8
+                });
+
+                e.preventDefault();
+                openInNewTab(finalUrl);
+            });
+        }
+
+        // ===== تتبع روابط التحويل الذكي =====
+        if (smartLink) {
+            smartLink.addEventListener("click", function () {
+                window.gtag && gtag('event', 'click_smart_redirect', utm);
             });
         }
     })();
