@@ -123,73 +123,58 @@
     </div>
 </div>
 
+<script src="links.js"></script>
 <script>
     (function(){
-        const CANONICAL = "https://howtosay.app/download.html";
-        const PLAY_BASE = "https://play.google.com/store/apps/details?id=com.howtosay.app";
-        const APPLE_BASE = "https://apps.apple.com/us/app/how-to-say/id6745604243";
+        var utm = linkUtils.getUtmParams();
+        var url = new URL(window.location.href);
+        var p = url.searchParams;
 
-        // Read UTM (standard five)
-        const url = new URL(window.location.href);
-        const p = url.searchParams;
-        const utm_source=p.get("utm_source"), utm_medium=p.get("utm_medium"),
-            utm_campaign=p.get("utm_campaign"), utm_term=p.get("utm_term"), utm_content=p.get("utm_content");
+        var playURL = linkUtils.buildPlayUrl(utm);
+        var appleURL = linkUtils.buildAppleUrl(utm, { providerToken: linkUtils.APPLE_PROVIDER_TOKEN, mt: 8 });
 
-        // Build Play referrer
-        const playRefParts=[];
-        if(utm_source)  playRefParts.push(`utm_source=${encodeURIComponent(utm_source)}`);
-        if(utm_medium)  playRefParts.push(`utm_medium=${encodeURIComponent(utm_medium)}`);
-        if(utm_campaign)playRefParts.push(`utm_campaign=${encodeURIComponent(utm_campaign)}`);
-        if(utm_term)    playRefParts.push(`utm_term=${encodeURIComponent(utm_term)}`);
-        if(utm_content) playRefParts.push(`utm_content=${encodeURIComponent(utm_content)}`);
-        const playURL = playRefParts.length ? `${PLAY_BASE}&referrer=${encodeURIComponent(playRefParts.join("&"))}` : PLAY_BASE;
+        var androidBtn = document.getElementById("btn-android");
+        var iosBtn = document.getElementById("btn-ios");
+        androidBtn.href = playURL;
+        iosBtn.href = appleURL;
 
-        // Apple campaign token (Apple ignores full UTM set)
-        const appleURL = (utm_campaign || utm_source) ? `${APPLE_BASE}?ct=${encodeURIComponent(utm_campaign || utm_source)}` : APPLE_BASE;
+        androidBtn.addEventListener("click", function(){
+            window.gtag && gtag('event','click_play_direct', Object.assign({ link_url: playURL }, utm));
+        });
+        iosBtn.addEventListener("click", function(){
+            window.gtag && gtag('event','click_appstore_direct', Object.assign({ link_url: appleURL }, utm));
+        });
 
-        // Assign store buttons
-        document.getElementById("btn-android").href = playURL;
-        document.getElementById("btn-ios").href = appleURL;
-
-        // Detect OS
         function detectOS(){
-            const ua = navigator.userAgent || "";
+            var ua = navigator.userAgent || "";
             if(/Android/i.test(ua)) return "android";
             if(/iPhone|iPad|iPod/i.test(ua) || (ua.includes("Mac") && "ontouchend" in document)) return "ios";
             return "desktop";
         }
-        const force = (p.get("force")||"").toLowerCase();
-        const noredirect = p.get("noredirect")==="1";
-        const os = ["android","ios","desktop"].includes(force) ? force : detectOS();
+        var force = (p.get("force")||"").toLowerCase();
+        var noredirect = p.get("noredirect")==="1";
+        var os = ["android","ios","desktop"].includes(force) ? force : detectOS();
 
-        // Elements
-        const hintEl = document.getElementById("hint");
-        const detectedEl = document.getElementById("detected");
-        const countdownEl = document.getElementById("countdown");
-        const stopEl = document.getElementById("stop");
-        const ctaEl = document.getElementById("open-newtab");
-        const qrImg = document.getElementById("qr");
+        var hintEl = document.getElementById("hint");
+        var detectedEl = document.getElementById("detected");
+        var countdownEl = document.getElementById("countdown");
+        var stopEl = document.getElementById("stop");
+        var ctaEl = document.getElementById("open-newtab");
+        var qrImg = document.getElementById("qr");
 
         detectedEl.textContent = `📱 الجهاز: ${os.toUpperCase()}`;
 
-        /* =========================
-           QR generation with fallback
-           - Always encode CANONICAL + current query to preserve UTM
-           - If external QR service fails, fall back to local image
-        ========================== */
-        const query = window.location.search || "";
-        const qrData = CANONICAL + query;
-        const generatorURL = `https://api.qrserver.com/v1/create-qr-code/?size=140x140&data=${encodeURIComponent(qrData)}`;
+        // QR generation with fallback preserving UTM
+        var qrData = window.location.origin + linkUtils.buildDownloadUrl();
+        var generatorURL = `https://api.qrserver.com/v1/create-qr-code/?size=140x140&data=${encodeURIComponent(qrData)}`;
         qrImg.src = generatorURL;
         qrImg.loading = "lazy";
         qrImg.onerror = function(){
-            // Fallback to local static QR image
             this.src = "images/qr-code.png";
-            this.onerror = null; // prevent loop
+            this.onerror = null;
         };
 
         if(os === "desktop"){
-            // Desktop/unsupported: message + hide countdown/stop/cta, no auto redirect
             hintEl.textContent = "لم نجد لجهازك هذا رابط تحويل بشكل تلقائي، لتحميل التطبيق يمكنك استخدام زر المتجر المناسب أو مسح رمز QR.";
             countdownEl.style.display = "none";
             stopEl.style.display = "none";
@@ -197,47 +182,36 @@
             return;
         }
 
-        // Mobile behavior (Android/iOS)
-        const storeURL = os === "android" ? playURL : appleURL;
+        var storeURL = os === "android" ? playURL : appleURL;
 
-        // Show CTA only on mobile
         ctaEl.style.display = "inline-flex";
         ctaEl.addEventListener("click", function(e){
             e.preventDefault();
-            const w = window.open(storeURL, "_blank", "noopener");
+            var w = window.open(storeURL, "_blank", "noopener");
             if (!w) {
                 countdownEl.textContent = "⚠️ تعذّر فتح المتجر تلقائيًا. اضغط على زر المتجر أعلاه.";
             } else {
-                // Track GA4 event
-                gtag('event','redirect_to_store',{
-                    store: os,
-                    utm_source: utm_source || '',
-                    utm_medium: utm_medium || '',
-                    utm_campaign: utm_campaign || '',
-                    utm_term: utm_term || '',
-                    utm_content: utm_content || ''
-                });
+                window.gtag && gtag('event','redirect_to_store', Object.assign({store: os, link_url: storeURL}, utm));
             }
         });
 
-        // Stop auto redirect
-        let stopped = false;
+        var stopped = false;
         stopEl.addEventListener("click", function(e){
             e.preventDefault();
             stopped = true;
             countdownEl.textContent = "✋ تم إيقاف التحويل التلقائي";
         });
 
-        // Auto-redirect in same tab (mobile only)
         if (!noredirect) {
-            let sec = 3;
+            var sec = 3;
             countdownEl.textContent = `⏳ سيتم التحويل خلال ${sec} ث (في نفس التبويب)`;
-            const t = setInterval(()=>{
+            var t = setInterval(function(){
                 if (stopped) { clearInterval(t); return; }
                 sec--;
                 if (sec <= 0) {
                     clearInterval(t);
                     countdownEl.textContent = "🚀 جارٍ التحويل…";
+                    window.gtag && gtag('event','redirect_to_store', Object.assign({store: os, auto: true, link_url: storeURL}, utm));
                     window.location.href = storeURL;
                 } else {
                     countdownEl.textContent = `⏳ سيتم التحويل خلال ${sec} ث (في نفس التبويب)`;
