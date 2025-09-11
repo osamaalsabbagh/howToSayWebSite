@@ -73,6 +73,10 @@
 
     function updateQrImageSrc(imageElement, url){
         imageElement.src = `https://api.qrserver.com/v1/create-qr-code/?size=140x140&data=${encodeURIComponent(url)}`;
+        imageElement.onerror = function(){
+            this.src = "images/qr-code.png";
+            this.onerror = null;
+        };
     }
 
     window.linkUtils = {
