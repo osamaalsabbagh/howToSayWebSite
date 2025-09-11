@@ -1,0 +1,237 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>تحميل HOW TO SAY – تحويل تلقائي للمتجر المناسب</title>
+    <meta name="description" content="صفحة تحميل ذكية: نحدد نوع جهازك ونحوّلك مباشرة إلى متجر التطبيقات المناسب.">
+    <link rel="icon" type="image/png" href="images/favicon.png">
+
+    <!-- Open Graph -->
+    <meta property="og:title" content="تحميل HOW TO SAY – تحويل تلقائي للمتجر المناسب">
+    <meta property="og:description" content="صفحة تحميل ذكية: نحدد نوع جهازك ونحوّلك مباشرة إلى متجر التطبيقات المناسب.">
+    <meta property="og:image" content="https://howtosay.app/images/ogImage2.png">
+    <meta property="og:url" content="https://howtosay.app/download.html">
+    <meta property="og:type" content="website">
+    <meta property="og:image:alt" content="شعار تطبيق HOW TO SAY">
+    <meta property="og:site_name" content="HOW TO SAY">
+    <meta property="og:locale" content="ar_SA">
+
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="تحميل HOW TO SAY – تحويل تلقائي للمتجر المناسب">
+    <meta name="twitter:description" content="صفحة تحميل ذكية: نحدد نوع جهازك ونحوّلك مباشرة إلى متجر التطبيقات المناسب.">
+    <meta name="twitter:image" content="https://howtosay.app/images/ogImage2.png">
+    <meta name="twitter:site" content="@HowToSayApp">
+
+    <!-- App Links -->
+    <meta name="apple-itunes-app" content="app-id=6745604243">
+
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-HXKQT2T87V"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-HXKQT2T87V');
+    </script>
+
+    <style>
+        :root{
+            --brand:#4b004f;
+            --text:#ffffff;
+            --shadow:rgba(0,0,0,.7);
+        }
+        *{box-sizing:border-box}
+        body{
+            font-family: Arial, sans-serif;
+            background-color: var(--brand);
+            color: var(--text);
+            margin:0; padding:0;
+            line-height:1.8;
+            text-shadow:1px 1px 3px var(--shadow);
+        }
+        a{color:#fff; text-decoration:none}
+        .wrap{
+            min-height:100dvh;
+            display:flex; align-items:center; justify-content:center;
+            padding:24px;
+        }
+        .card{
+            width:100%; max-width:900px;
+            background:rgba(255,255,255,.06);
+            border:1px solid rgba(255,255,255,.12);
+            border-radius:18px;
+            padding:24px;
+            box-shadow:0 10px 30px rgba(0,0,0,.25);
+        }
+        h1,h2,h3{margin:8px 0 12px; text-align:center}
+        h1{font-size:2.2rem}
+        p{max-width:720px; margin:0 auto 16px; text-align:center}
+        .center{display:flex; justify-content:center; align-items:center}
+        .stack{display:flex; gap:14px; flex-wrap:wrap; justify-content:center}
+        .download-buttons img{height:60px; width:180px}
+        .hint{opacity:.9; font-size:.95rem}
+        .muted{opacity:.8}
+        .row{display:flex; gap:18px; flex-wrap:wrap; justify-content:center; align-items:center}
+        .qr{
+            width:140px; height:140px; border-radius:12px; overflow:hidden;
+            background:#fff; box-shadow:0 6px 16px rgba(0,0,0,.25);
+        }
+        .badge{
+            display:inline-block;
+            background:rgba(255,255,255,.12);
+            border:1px solid rgba(255,255,255,.18);
+            padding:4px 10px; border-radius:999px; font-size:.9rem;
+            margin:6px 6px 0;
+        }
+        .controls{margin-top:10px}
+        .footer{margin-top:16px; text-align:center; font-size:.9rem; opacity:.85}
+        .hr{height:1px; background:rgba(255,255,255,.15); margin:18px auto; max-width:720px}
+    </style>
+</head>
+<body>
+  <div class="wrap">
+    <div class="card" id="card">
+      <h1>HOW TO SAY</h1>
+      <h2>نحوّلك تلقائيًا إلى المتجر المناسب لجهازك</h2>
+      <p class="hint">
+        إن لم يتم التحويل تلقائيًا خلال ثوانٍ، استخدم الأزرار أدناه أو امسح رمز الـ QR من هاتفك.
+      </p>
+
+      <div class="hr"></div>
+
+      <div class="row">
+        <div class="download-buttons stack">
+          <a id="btn-android" class="downloadButton" href="https://play.google.com/store/apps/details?id=com.howtosay.app" target="_blank" rel="noopener">
+            <img src="images/google-play-download.png" alt="تنزيل التطبيق على Google Play">
+          </a>
+          <a id="btn-ios" class="downloadButton" href="https://apps.apple.com/us/app/how-to-say/id6745604243" target="_blank" rel="noopener">
+            <img src="images/apple-store-download.svg" alt="تنزيل التطبيق على App Store">
+          </a>
+        </div>
+
+        <div class="qr center" title="امسح QR بهاتفك">
+          <!-- يُنشأ لاحقًا عبر JS لتمرير رابط المتجر المناسب -->
+          <img id="qr" alt="QR للتنزيل" width="140" height="140" />
+        </div>
+      </div>
+
+      <div class="controls center" style="margin-top:8px">
+        <span class="badge" id="detected"></span>
+        <span class="badge" id="countdown"></span>
+        <a class="badge" href="#" id="stop">إيقاف التحويل</a>
+      </div>
+
+      <div class="hr"></div>
+
+      <p class="muted">
+        تلميح: يمكنك إجبار نوع الوجهة عبر إضافة <code>?force=android</code> أو <code>?force=ios</code> أو <code>?force=desktop</code> لعنوان الصفحة.
+        لإيقاف التحويل التلقائي استخدم <code>?noredirect=1</code>.
+      </p>
+
+      <div class="footer">
+        &copy; 2025 جميع الحقوق محفوظة – HOW TO SAY
+      </div>
+    </div>
+  </div>
+
+  <script>
+    (function(){
+      const PLAY_BASE = "https://play.google.com/store/apps/details?id=com.howtosay.app";
+      const APPLE_BASE = "https://apps.apple.com/us/app/how-to-say/id6745604243";
+
+      // التقاط باراميترات الحملة وتمريرها
+      const url = new URL(window.location.href);
+      const params = url.searchParams;
+
+      const utm_source   = params.get("utm_source");
+      const utm_medium   = params.get("utm_medium");
+      const utm_campaign = params.get("utm_campaign");
+      const utm_term     = params.get("utm_term");
+      const utm_content  = params.get("utm_content");
+
+      // Google Play: referrer=utm_source%3D...%26utm_campaign%3D...
+      const playRefParts = [];
+      if (utm_source)   playRefParts.push(`utm_source=${encodeURIComponent(utm_source)}`);
+      if (utm_medium)   playRefParts.push(`utm_medium=${encodeURIComponent(utm_medium)}`);
+      if (utm_campaign) playRefParts.push(`utm_campaign=${encodeURIComponent(utm_campaign)}`);
+      if (utm_term)     playRefParts.push(`utm_term=${encodeURIComponent(utm_term)}`);
+      if (utm_content)  playRefParts.push(`utm_content=${encodeURIComponent(utm_content)}`);
+      const playURL = playRefParts.length
+        ? `${PLAY_BASE}&referrer=${encodeURIComponent(playRefParts.join("&"))}`
+        : PLAY_BASE;
+
+      // App Store: نمرر ct (Campaign Token) إن وُجد
+      const appleURL = (utm_campaign || utm_source)
+        ? `${APPLE_BASE}?ct=${encodeURIComponent(utm_campaign || utm_source)}`
+        : APPLE_BASE;
+
+      // ربط الأزرار
+      const btnAndroid = document.getElementById("btn-android");
+      const btnIos = document.getElementById("btn-ios");
+      btnAndroid.href = playURL;
+      btnIos.href = appleURL;
+
+      // كشف النظام
+      function detectOS(){
+        const ua = navigator.userAgent || "";
+        const platform = navigator.platform || "";
+        const isAndroid = /Android/i.test(ua);
+        const isIOS = /iPhone|iPad|iPod/i.test(ua) || (ua.includes("Mac") && "ontouchend" in document); // iPadOS
+        if (isAndroid) return "android";
+        if (isIOS) return "ios";
+        return "desktop";
+      }
+
+      // معيار القوة والخيارات
+      const force = (params.get("force") || "").toLowerCase();
+      const noredirect = params.get("noredirect") === "1";
+      let os = ["android","ios","desktop"].includes(force) ? force : detectOS();
+
+      // شارة النظام
+      const detected = document.getElementById("detected");
+      detected.textContent = `الجهاز المُكتشف: ${os.toUpperCase()}`;
+
+      // QR: نولّد QR للرابط المناسب
+      const qrImg = document.getElementById("qr");
+      const qrTarget = os === "android" ? playURL : (os === "ios" ? appleURL : "https://howtosay.app");
+      // استخدام خدمة QR عامة
+      qrImg.src = `https://api.qrserver.com/v1/create-qr-code/?size=140x140&data=${encodeURIComponent(qrTarget)}`;
+
+      // عدّاد وتحويل
+      const stop = document.getElementById("stop");
+      const countdownEl = document.getElementById("countdown");
+      let stopped = false;
+      stop.addEventListener("click", function(e){ e.preventDefault(); stopped = true; countdownEl.textContent = "تم إيقاف التحويل"; });
+
+      function redirectToStore(){
+        if (stopped || noredirect) return;
+        if (os === "android") window.location.href = playURL;
+        else if (os === "ios") window.location.href = appleURL;
+        // desktop: بدون تحويل تلقائي، يبقى على الصفحة مع الأزرار/QR
+      }
+
+      // للهواتف فقط نفعل العدّاد ثم التحويل
+      if (!noredirect && (os === "android" || os === "ios")) {
+        let sec = 2; // ثانيتان انتباه
+        countdownEl.textContent = `سيتم التحويل خلال ${sec} ث`;
+        const t = setInterval(()=>{
+          if (stopped) { clearInterval(t); return; }
+          sec--;
+          if (sec <= 0) {
+            clearInterval(t);
+            countdownEl.textContent = "جارٍ التحويل…";
+            redirectToStore();
+          } else {
+            countdownEl.textContent = `سيتم التحويل خلال ${sec} ث`;
+          }
+        }, 1000);
+      } else {
+        countdownEl.textContent = "افتح الرابط من هاتفك أو استخدم الأزرار أعلاه";
+      }
+    })();
+  </script>
+</body>
+</html>
