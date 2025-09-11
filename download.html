@@ -142,8 +142,7 @@
         const qrImg = document.getElementById("qr");
 
         const utm = linkUtils.getUtmParams();
-        const url = new URL(window.location.href);
-        const params = url.searchParams;
+        const params = new URLSearchParams(window.location.search);
 
         const playURL = linkUtils.buildPlayUrl(utm);
         const appleURL = linkUtils.buildAppleUrl(utm);

@@ -30,10 +30,11 @@
     }
 
     function buildAppleUrl(utm, opts){
-        if(!opts){opts = { providerToken: APPLE_PROVIDER_TOKEN, mt: 8 }}
-        const url = new URL(APPLE_BASE, window.location.origin);
-        opts = opts || {};
-        if(opts.providerToken){
+        if (!opts) {
+            opts = { providerToken: APPLE_PROVIDER_TOKEN, mt: 8 };
+        }
+        const url = new URL(APPLE_BASE);
+        if (opts.providerToken) {
             url.searchParams.set('pt', opts.providerToken);
         }
 
@@ -63,7 +64,7 @@
     function updateStoreButtonLink(linkElement, url, eventName, utm){
         if (linkElement) {
             linkElement.href = url;
-            linkElement.addEventListener("click", function (e) {
+            linkElement.addEventListener("click", function () {
                 const payload = Object.assign({ link_url: url }, utm);
                 window.gtag && gtag('event', eventName, payload);
             });
