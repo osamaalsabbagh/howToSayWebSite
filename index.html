@@ -246,7 +246,7 @@
                 </a>
                 <div class="downloadButtonsSeparator"></div>
                 <a class="qr" title="امسح بالهاتف لفتح صفحة التحويل الذكي" id="qr-link" href="https://howtosay.app/download.html" aria-label="افتح صفحة التحويل الذكي">
-                    <img src="https://howtosay.app/images/qr-code.png" alt="رمز QR لصفحة التحويل الذكي">
+                    <img id="qr" src="https://howtosay.app/images/qr-code.png" alt="رمز QR لصفحة التحويل الذكي">
                 </a>
             </div>
             <div class="download-buttons" style="flex-direction: column;">
@@ -405,10 +405,12 @@
         const qrLink = document.getElementById("qr-link");
         const playBtn = document.getElementById("btn-play-direct");
         const appstoreBtn = document.getElementById("btn-appstore-direct");
+        const qrImg = document.getElementById("qr");
         const utm = linkUtils.getUtmParams();
         linkUtils.updateStoreButtonLink(playBtn, linkUtils.buildPlayUrl(utm), 'click_play_direct', utm);
         linkUtils.updateStoreButtonLink(appstoreBtn, linkUtils.buildAppleUrl(utm), 'click_appstore_direct', utm);
         const downloadUrl = linkUtils.buildDownloadUrl();
+        linkUtils.updateQrImageSrc(qrImg, downloadUrl);
         linkUtils.updateStoreButtonLink(smartLink, downloadUrl, 'click_smart_redirect', utm);
         linkUtils.updateStoreButtonLink(qrLink, downloadUrl, 'click_qr_smart_redirect', utm);
     })();

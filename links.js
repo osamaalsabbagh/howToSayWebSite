@@ -71,12 +71,17 @@
         }
     }
 
+    function updateQrImageSrc(imageElement, url){
+        imageElement.src = `https://api.qrserver.com/v1/create-qr-code/?size=140x140&data=${encodeURIComponent(url)}`;
+    }
+
     window.linkUtils = {
         getUtmParams: getUtmParams,
         buildPlayUrl: buildPlayUrl,
         buildAppleUrl: buildAppleUrl,
         buildDownloadUrl: buildDownloadUrl,
         updateStoreButtonLink: updateStoreButtonLink,
+        updateQrImageSrc: updateQrImageSrc,
         PLAY_BASE: PLAY_BASE,
         APPLE_BASE: APPLE_BASE,
         DOWNLOAD_PATH: DOWNLOAD_PATH,

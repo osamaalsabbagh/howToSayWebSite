@@ -173,7 +173,7 @@
 
         detectedEl.textContent = `📱 الجهاز: ${os.toUpperCase()}`;
 
-        qrImg.src = `https://api.qrserver.com/v1/create-qr-code/?size=140x140&data=${encodeURIComponent(linkUtils.buildDownloadUrl())}`;
+        linkUtils.updateQrImageSrc(qrImg, linkUtils.buildDownloadUrl());
 
         if(os === "desktop"){
             hintEl.textContent = "لم نجد لجهازك هذا رابط تحويل بشكل تلقائي، لتحميل التطبيق يمكنك استخدام زر المتجر المناسب أو مسح رمز QR.";
