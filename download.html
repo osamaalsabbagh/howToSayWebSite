@@ -105,7 +105,7 @@
                    target="_blank" rel="noopener"><img src="images/apple-store-download.svg" alt="تنزيل من App Store"></a>
             </div>
             <div class="qr">
-                <img id="qr" alt="رمز QR" width="140" height="140" />
+                <img src="https://howtosay.app/images/qr-code.png" id="qr" alt="رمز QR" width="140" height="140" />
             </div>
         </div>
 
@@ -118,7 +118,7 @@
         </div>
 
         <div class="hr"></div>
-        <p class="muted">تلميح: ?force=android أو ?force=ios لتحديد الوجهة يدويًا. ?noredirect=1 لإيقاف التحويل التلقائي.</p>
+        <p class="muted">تلميح: ?force=android أو ?force=ios لتحديد الوجهة يدويًا. ?noRedirect=1 لإيقاف التحويل التلقائي.</p>
         <div class="footer">&copy; 2025 HOW TO SAY – جميع الحقوق محفوظة</div>
     </div>
 </div>
@@ -126,35 +126,14 @@
 <script src="links.js"></script>
 <script>
     (function(){
-        const utm = linkUtils.getUtmParams();
-        const url = new URL(window.location.href);
-        const p = url.searchParams;
-
-        const playURL = linkUtils.buildPlayUrl(utm);
-        const appleURL = linkUtils.buildAppleUrl(utm);
-
-        const androidBtn = document.getElementById("btn-android");
-        const iosBtn = document.getElementById("btn-ios");
-        androidBtn.href = playURL;
-        iosBtn.href = appleURL;
-
-        androidBtn.addEventListener("click", function(e){
-            linkUtils.storeBtnClick(e, playURL, 'click_play_direct', utm);
-        });
-        iosBtn.addEventListener("click", function(e){
-            linkUtils.storeBtnClick(e, appleURL, 'click_appstore_direct', utm);
-        });
-
         function detectOS(){
             const ua = navigator.userAgent || "";
             if(/Android/i.test(ua)) return "android";
             if(/iPhone|iPad|iPod/i.test(ua) || (ua.includes("Mac") && "ontouchend" in document)) return "ios";
             return "desktop";
         }
-        const force = (p.get("force")||"").toLowerCase();
-        const noredirect = p.get("noredirect")==="1";
-        const os = ["android","ios","desktop"].includes(force) ? force : detectOS();
-
+        const androidBtn = document.getElementById("btn-android");
+        const iosBtn = document.getElementById("btn-ios");
         const hintEl = document.getElementById("hint");
         const detectedEl = document.getElementById("detected");
         const countdownEl = document.getElementById("countdown");
@@ -162,17 +141,27 @@
         const ctaEl = document.getElementById("open-newtab");
         const qrImg = document.getElementById("qr");
 
+        const utm = linkUtils.getUtmParams();
+        const url = new URL(window.location.href);
+        const params = url.searchParams;
+
+        const playURL = linkUtils.buildPlayUrl(utm);
+        const appleURL = linkUtils.buildAppleUrl(utm);
+
+
+        linkUtils.updateStoreButtonLink(androidBtn, playURL, 'click_play_direct', utm);
+        linkUtils.updateStoreButtonLink(iosBtn, appleURL, 'click_appstore_direct', utm);
+
+
+        const force = (params.get("force")||"").toLowerCase();
+        const noRedirect = params.get("noRedirect")==="1";
+        const os = ["android","ios","desktop"].includes(force) ? force : detectOS();
+
+
+
         detectedEl.textContent = `📱 الجهاز: ${os.toUpperCase()}`;
 
-        // QR generation with fallback preserving UTM
-        const qrData = window.location.origin + linkUtils.buildDownloadUrl();
-        const generatorURL = `https://api.qrserver.com/v1/create-qr-code/?size=140x140&data=${encodeURIComponent(qrData)}`;
-        qrImg.src = generatorURL;
-        qrImg.loading = "lazy";
-        qrImg.onerror = function(){
-            this.src = "images/qr-code.png";
-            this.onerror = null;
-        };
+        qrImg.src = `https://api.qrserver.com/v1/create-qr-code/?size=140x140&data=${encodeURIComponent(linkUtils.buildDownloadUrl())}`;
 
         if(os === "desktop"){
             hintEl.textContent = "لم نجد لجهازك هذا رابط تحويل بشكل تلقائي، لتحميل التطبيق يمكنك استخدام زر المتجر المناسب أو مسح رمز QR.";
@@ -202,7 +191,7 @@
             countdownEl.textContent = "✋ تم إيقاف التحويل التلقائي";
         });
 
-        if (!noredirect) {
+        if (!noRedirect) {
             let sec = 3;
             countdownEl.textContent = `⏳ سيتم التحويل خلال ${sec} ث (في نفس التبويب)`;
             const t = setInterval(function(){

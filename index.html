@@ -409,33 +409,12 @@
         const qrLink = document.getElementById("qr-link");
         const playBtn = document.getElementById("btn-play-direct");
         const appstoreBtn = document.getElementById("btn-appstore-direct");
-
         const utm = linkUtils.getUtmParams();
+        linkUtils.updateStoreButtonLink(playBtn, linkUtils.buildPlayUrl(utm), 'click_play_direct', utm);
+        linkUtils.updateStoreButtonLink(appstoreBtn, linkUtils.buildAppleUrl(utm), 'click_appstore_direct', utm);
         const downloadUrl = linkUtils.buildDownloadUrl();
-        if (smartLink) smartLink.href = downloadUrl;
-        if (qrLink) qrLink.href = downloadUrl;
-
-        if (playBtn) {
-            const playURL = linkUtils.buildPlayUrl(utm);
-            playBtn.href = playURL;
-            playBtn.addEventListener("click", function (e) {
-                linkUtils.storeBtnClick(e, playURL, 'click_play_direct', utm);
-            });
-        }
-
-        if (appstoreBtn) {
-            const appURL = linkUtils.buildAppleUrl(utm);
-            appstoreBtn.href = appURL;
-            appstoreBtn.addEventListener("click", function (e) {
-                linkUtils.storeBtnClick(e, appURL, 'click_appstore_direct', utm);
-            });
-        }
-
-        if (smartLink) {
-            smartLink.addEventListener("click", function () {
-                window.gtag && gtag('event', 'click_smart_redirect', utm);
-            });
-        }
+        linkUtils.updateStoreButtonLink(smartLink, downloadUrl, 'click_smart_redirect', utm);
+        linkUtils.updateStoreButtonLink(qrLink, downloadUrl, 'click_qr-smart_redirect', utm);
     })();
 </script>
 

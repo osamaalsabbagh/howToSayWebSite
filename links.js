@@ -57,12 +57,17 @@
     }
 
     function buildDownloadUrl(){
-        return DOWNLOAD_PATH + (window.location.search || '');
+        return window.location.origin + DOWNLOAD_PATH + (window.location.search || '');
     }
 
-    function storeBtnClick(e, storeUrl, eventName, utm){
-        const payload = Object.assign({ link_url: storeUrl }, utm);
-        window.gtag && gtag('event', eventName, payload);
+    function updateStoreButtonLink(linkElement, url, eventName, utm){
+        if (linkElement) {
+            linkElement.href = url;
+            linkElement.addEventListener("click", function (e) {
+                const payload = Object.assign({ link_url: url }, utm);
+                window.gtag && gtag('event', eventName, payload);
+            });
+        }
     }
 
     window.linkUtils = {
@@ -70,7 +75,7 @@
         buildPlayUrl: buildPlayUrl,
         buildAppleUrl: buildAppleUrl,
         buildDownloadUrl: buildDownloadUrl,
-        storeBtnClick: storeBtnClick,
+        updateStoreButtonLink: updateStoreButtonLink,
         PLAY_BASE: PLAY_BASE,
         APPLE_BASE: APPLE_BASE,
         DOWNLOAD_PATH: DOWNLOAD_PATH,
