@@ -55,7 +55,10 @@
             background:rgba(255,255,255,.06); border:1px solid rgba(255,255,255,.12);
             box-shadow:0 10px 30px rgba(0,0,0,.25);
         }
-        .row { display:flex; gap:18px; flex-wrap:wrap; justify-content:center; align-items:center; }
+        .row { display:flex; gap:15px; flex-wrap:wrap; justify-content:center; align-items:center; }
+        .row a{
+            line-height: 0;
+        }
         .stack { display:flex; gap:14px; flex-wrap:wrap; justify-content:center; }
         .download-buttons img { width:180px; height:60px; }
         .qr { width:140px; height:140px; overflow:hidden; border-radius:12px; background:#fff; box-shadow:0 6px 16px rgba(0,0,0,.25); }
@@ -79,8 +82,17 @@
         @media (max-width:480px){
             .controls { display:grid; grid-template-columns:1fr; width:100%; }
             .controls .badge,.controls a.badge,.badge { width:100%; }
-            .qr { width:120px; height:120px; }
             .card { padding:18px; }
+        }
+        .downloadButtonsSeparator{
+            display: none;
+        }
+        /* عندما تكون الشاشة أكبر من 800px */
+        @media (max-width: 800px) {
+            .downloadButtonsSeparator{
+                display: flex;
+                flex: 100% 0 0;
+            }
         }
     </style>
 </head>
@@ -104,6 +116,7 @@
                 <a id="btn-ios" href="https://apps.apple.com/us/app/how-to-say/id6745604243"
                    target="_blank" rel="noopener"><img src="images/apple-store-download.svg" alt="تنزيل من App Store"></a>
             </div>
+            <div class="downloadButtonsSeparator"></div>
             <div class="qr">
                 <img src="https://howtosay.app/images/qr-code.png" id="qr" alt="رمز QR" width="140" height="140" />
             </div>
