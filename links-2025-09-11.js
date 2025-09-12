@@ -89,12 +89,6 @@
         if (!linkElement) return;
         linkElement.href = url;
 
-        // تأكد من إضافة noreferrer بالإضافة إلى noopener لأمان أفضل
-        const rel = (linkElement.getAttribute('rel') || '').split(/\s+/);
-        if (!rel.includes('noopener'))  rel.push('noopener');
-        if (!rel.includes('noreferrer')) rel.push('noreferrer');
-        linkElement.setAttribute('rel', rel.join(' ').trim());
-
         linkElement.addEventListener('click', function () {
             const payload = Object.assign({ link_url: url }, utm);
             if (window.gtag) { gtag('event', eventName, payload); }
