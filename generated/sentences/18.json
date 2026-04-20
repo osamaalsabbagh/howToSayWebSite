@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 1,
+  "id": 18,
+  "sentence": {
+    "en": "How are you?",
+    "ar": "كيف حالك؟",
+    "context": "اسأل عن حالة شخص."
+  },
+  "lesson": {
+    "wordMeanings": [
+      {
+        "term": "How",
+        "description": "أداة سؤال عن الحال أو الكيفية."
+      },
+      {
+        "term": "are",
+        "description": "فعل be مع you."
+      },
+      {
+        "term": "you",
+        "description": "الضمير المخاطَب."
+      }
+    ],
+    "tense": "المضارع البسيط",
+    "tenseEn": "Present Simple",
+    "tenseReason": "استُعمل المضارع البسيط لأن السؤال عن الحال أو الوضع الحالي للشخص في لحظة الكلام.",
+    "examples": [
+      {
+        "id": 1,
+        "en": "How are you today?",
+        "ar": "كيف حالك اليوم؟",
+        "context": "تسأل عن حال شخص في هذا اليوم."
+      },
+      {
+        "id": 2,
+        "en": "Hi, how are you?",
+        "ar": "مرحبًا، كيف حالك؟",
+        "context": "تجمع بين التحية والسؤال عن الحال."
+      },
+      {
+        "id": 3,
+        "en": "How are you now?",
+        "ar": "كيف حالك الآن؟",
+        "context": "تسأل عن الحالة في هذه اللحظة."
+      },
+      {
+        "id": 4,
+        "en": "How are you feeling?",
+        "ar": "كيف تشعر؟",
+        "context": "نسخة قريبة أكثر تركيزًا على الشعور."
+      },
+      {
+        "id": 5,
+        "en": "How are you doing?",
+        "ar": "كيف حالك؟ / كيف تسير أمورك؟",
+        "context": "صيغة شائعة جدًا في الكلام اليومي."
+      },
+      {
+        "id": 6,
+        "en": "How are you after the trip?",
+        "ar": "كيف حالك بعد الرحلة؟",
+        "context": "تسأل عن الحال بعد حدث معين."
+      },
+      {
+        "id": 7,
+        "en": "How are you these days?",
+        "ar": "كيف حالك هذه الأيام؟",
+        "context": "تسأل عن الحال في فترة قريبة."
+      },
+      {
+        "id": 8,
+        "en": "How are you and your family?",
+        "ar": "كيف حالك وحال عائلتك؟",
+        "context": "توسع السؤال ليشمل أشخاصًا آخرين."
+      },
+      {
+        "id": 9,
+        "en": "How are you? You look tired.",
+        "ar": "كيف حالك؟ تبدو متعبًا.",
+        "context": "تربط السؤال بملاحظة على الشخص."
+      },
+      {
+        "id": 10,
+        "en": "How are you? It has been a long time.",
+        "ar": "كيف حالك؟ لقد مر وقت طويل.",
+        "context": "تسأل بعد غياب أو انقطاع."
+      }
+    ]
+  }
+}

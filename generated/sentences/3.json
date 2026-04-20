@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "id": 3,
+  "sentence": {
+    "en": "Could you translate this for me?",
+    "ar": "هل يمكنك أن تترجم هذا لي؟",
+    "context": "اطلب المساعدة بأدب."
+  },
+  "lesson": {
+    "wordMeanings": [
+      {
+        "term": "Could",
+        "description": "فعل مساعد يجعل الطلب ألطف وأكثر تهذيبًا من can."
+      },
+      {
+        "term": "you",
+        "description": "الضمير المخاطَب."
+      },
+      {
+        "term": "translate",
+        "description": "فعل يعني يترجم."
+      },
+      {
+        "term": "this",
+        "description": "اسم إشارة يعني هذا."
+      },
+      {
+        "term": "for",
+        "description": "حرف جر يعني لـ أو من أجل."
+      },
+      {
+        "term": "me",
+        "description": "ضمير مفعول به يعني أنا / لي."
+      }
+    ],
+    "tense": null,
+    "tenseReason": "استُعملت could هنا لجعل الطلب أكثر لطفًا وتهذيبًا من can، خصوصًا مع من لا تعرفه جيدًا أو في سياق أكثر أدبًا.",
+    "examples": [
+      {
+        "id": 1,
+        "en": "Could you translate this email for me?",
+        "ar": "هل يمكنك أن تترجم هذا البريد لي؟",
+        "context": "تطلب خدمة بأدب في العمل أو الدراسة."
+      },
+      {
+        "id": 2,
+        "en": "Could you translate this sentence for me, please?",
+        "ar": "هل يمكنك أن تترجم هذه الجملة لي، من فضلك؟",
+        "context": "طلب مهذب جدًا."
+      },
+      {
+        "id": 3,
+        "en": "Could you translate this part for me?",
+        "ar": "هل يمكنك أن تترجم هذا الجزء لي؟",
+        "context": "تطلب ترجمة جزء محدد بأدب."
+      },
+      {
+        "id": 4,
+        "en": "Could you translate this note for me?",
+        "ar": "هل يمكنك أن تترجم هذه الملاحظة لي؟",
+        "context": "تطلب ترجمة نص قصير."
+      },
+      {
+        "id": 5,
+        "en": "Could you translate this for me when you have time?",
+        "ar": "هل يمكنك أن تترجم هذا لي عندما يكون لديك وقت؟",
+        "context": "طلب مهذب غير ضاغط."
+      },
+      {
+        "id": 6,
+        "en": "Could you translate this word for me?",
+        "ar": "هل يمكنك أن تترجم هذه الكلمة لي؟",
+        "context": "تطلب ترجمة مفردة بصيغة مؤدبة."
+      },
+      {
+        "id": 7,
+        "en": "Could you translate this message for me now?",
+        "ar": "هل يمكنك أن تترجم هذه الرسالة لي الآن؟",
+        "context": "طلب مهذب لكن فيه استعجال."
+      },
+      {
+        "id": 8,
+        "en": "Could you translate this for me? I am still learning.",
+        "ar": "هل يمكنك أن تترجم هذا لي؟ أنا ما زلت أتعلم.",
+        "context": "توضح سبب حاجتك للمساعدة."
+      },
+      {
+        "id": 9,
+        "en": "Could you translate this into Arabic for me?",
+        "ar": "هل يمكنك أن تترجم هذا إلى العربية لي؟",
+        "context": "تحدد لغة الهدف."
+      },
+      {
+        "id": 10,
+        "en": "Could you translate this one line for me?",
+        "ar": "هل يمكنك أن تترجم هذا السطر الواحد لي؟",
+        "context": "تطلب مساعدة بسيطة ومحددة."
+      }
+    ]
+  }
+}

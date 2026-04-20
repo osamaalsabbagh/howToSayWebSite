@@ -1,0 +1,134 @@
+{
+  "schemaVersion": 1,
+  "id": 11,
+  "sentence": {
+    "en": "Near that lot, there is a juice place that just opened. Let us try it.",
+    "ar": "بالقرب من تلك الساحة يوجد مكان عصائر افتتح حديثًا. دعنا نجربه.",
+    "context": "يقترح مكانًا قريبًا للشرب."
+  },
+  "lesson": {
+    "wordMeanings": [
+      {
+        "term": "Near",
+        "description": "حرف جر أو ظرف يعني قريب من."
+      },
+      {
+        "term": "that",
+        "description": "تشير إلى أمر أو خبر سبق ذكره."
+      },
+      {
+        "term": "lot",
+        "description": "اسم يعني الساحة."
+      },
+      {
+        "term": "there",
+        "description": "ظرف مكان يعني هناك."
+      },
+      {
+        "term": "is",
+        "description": "فعل be في الحاضر مع المفرد."
+      },
+      {
+        "term": "a",
+        "description": "أداة نكرة تأتي قبل الاسم المفرد المعدود."
+      },
+      {
+        "term": "juice",
+        "description": "اسم يعني يوجد."
+      },
+      {
+        "term": "place",
+        "description": "اسم يعني مكان."
+      },
+      {
+        "term": "just",
+        "description": "ظرف يعني للتو أو فقط أو تمامًا حسب السياق."
+      },
+      {
+        "term": "opened",
+        "description": "فعل يعني حديثا."
+      },
+      {
+        "term": "Let",
+        "description": "فعل يُستعمل للسماح أو في تركيب let me / let us لاقتراح أو طلب شيء."
+      },
+      {
+        "term": "us",
+        "description": "ضمير مفعول به يعود على المتكلمين."
+      },
+      {
+        "term": "try",
+        "description": "فعل يعني دعنا."
+      },
+      {
+        "term": "it",
+        "description": "ضمير يعود على الشيء أو الجملة التي قيلت."
+      }
+    ],
+    "tense": "الماضي البسيط",
+    "tenseEn": "Past Simple",
+    "tenseReason": "استُعمل الماضي البسيط لأن الجملة تتحدث عن حدث وقع في الماضي واكتمل هناك.",
+    "examples": [
+      {
+        "id": 1,
+        "en": "Yesterday, Near that lot, there is a juice place that just opened. Let us try it.",
+        "ar": "أمس، بالقرب من تلك الساحة يوجد مكان عصائر افتتح حديثًا. دعنا نجربه.",
+        "context": "تضيف زمنًا ماضيًا واضحًا."
+      },
+      {
+        "id": 2,
+        "en": "Near that lot, there is a juice place that just opened. Let us try it this morning.",
+        "ar": "بالقرب من تلك الساحة يوجد مكان عصائر افتتح حديثًا. دعنا نجربه هذا الصباح.",
+        "context": "تحدد وقتًا ماضيًا قريبًا."
+      },
+      {
+        "id": 3,
+        "en": "Near that lot, there is a juice place that just opened. Let us try it after lunch.",
+        "ar": "بالقرب من تلك الساحة يوجد مكان عصائر افتتح حديثًا. دعنا نجربه بعد الغداء.",
+        "context": "تربط الحدث بوقت تالٍ لحدث آخر."
+      },
+      {
+        "id": 4,
+        "en": "Near that lot, there is a juice place that just opened. Let us try it because it was necessary.",
+        "ar": "بالقرب من تلك الساحة يوجد مكان عصائر افتتح حديثًا. دعنا نجربه لأنه كان ضروريًا.",
+        "context": "تضيف سببًا لحدوث الفعل في الماضي."
+      },
+      {
+        "id": 5,
+        "en": "Earlier, Near that lot, there is a juice place that just opened. Let us try it.",
+        "ar": "في وقت سابق، بالقرب من تلك الساحة يوجد مكان عصائر افتتح حديثًا. دعنا نجربه.",
+        "context": "تربط الحدث بفترة ماضية غير بعيدة."
+      },
+      {
+        "id": 6,
+        "en": "Near that lot, there is a juice place that just opened. Let us try it, and everyone noticed.",
+        "ar": "بالقرب من تلك الساحة يوجد مكان عصائر افتتح حديثًا. دعنا نجربه، والجميع لاحظ ذلك.",
+        "context": "تضيف نتيجة لما حدث في الماضي."
+      },
+      {
+        "id": 7,
+        "en": "Near that lot, there is a juice place that just opened. Let us try it before we left.",
+        "ar": "بالقرب من تلك الساحة يوجد مكان عصائر افتتح حديثًا. دعنا نجربه قبل أن نغادر.",
+        "context": "تربط الفعل الماضي بحدث ماضٍ آخر."
+      },
+      {
+        "id": 8,
+        "en": "Near that lot, there is a juice place that just opened. Let us try it during the trip.",
+        "ar": "بالقرب من تلك الساحة يوجد مكان عصائر افتتح حديثًا. دعنا نجربه أثناء الرحلة.",
+        "context": "تضع الحدث في إطار زمني أو مكاني محدد."
+      },
+      {
+        "id": 9,
+        "en": "At that time, Near that lot, there is a juice place that just opened. Let us try it.",
+        "ar": "في ذلك الوقت، بالقرب من تلك الساحة يوجد مكان عصائر افتتح حديثًا. دعنا نجربه.",
+        "context": "تجعل الجملة جزءًا من سرد ماضٍ."
+      },
+      {
+        "id": 10,
+        "en": "Soon after that, Near that lot, there is a juice place that just opened. Let us try it.",
+        "ar": "بعد ذلك بقليل، بالقرب من تلك الساحة يوجد مكان عصائر افتتح حديثًا. دعنا نجربه.",
+        "context": "توضح ترتيب الحدث بعد شيء آخر في الماضي."
+      }
+    ]
+  }
+}
