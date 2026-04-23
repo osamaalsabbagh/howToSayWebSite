@@ -7,40 +7,41 @@
     "context": "قارن بين مدينتين."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Chicago",
-        "description": "اسم مدينة شيكاغو."
-      },
-      {
-        "term": "is",
-        "description": "تربط المدينة بوصفها."
-      },
-      {
-        "term": "very",
-        "description": "كلمة تقوّي الصفة وتعني كثيرًا أو جدًا."
-      },
-      {
-        "term": "different",
-        "description": "مختلف أو غير مشابه."
-      },
-      {
-        "term": "from",
-        "description": "تأتي مع different للمقارنة بين شيئين."
-      },
-      {
-        "term": "Boston",
-        "description": "اسم مدينة بوسطن."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "Chicago is very different from Boston.",
-        "explanation": {
+        "ar": "شيكاغو مختلفة تمامًا عن بوسطن.",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "الجملة تقدم مقارنة عامة بين مدينتين وتصف اختلافًا قائمًا بينهما."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Chicago",
+            "description": "اسم مدينة شيكاغو."
+          },
+          {
+            "term": "is",
+            "description": "تربط المدينة بوصفها."
+          },
+          {
+            "term": "very",
+            "description": "كلمة تقوّي الصفة وتعني كثيرًا أو جدًا."
+          },
+          {
+            "term": "different",
+            "description": "مختلف أو غير مشابه."
+          },
+          {
+            "term": "from",
+            "description": "تأتي مع different للمقارنة بين شيئين."
+          },
+          {
+            "term": "Boston",
+            "description": "اسم مدينة بوسطن."
+          }
+        ]
       }
     ],
     "examples": [

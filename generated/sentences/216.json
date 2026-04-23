@@ -7,24 +7,25 @@
     "context": "استفسر عن الرفض أو اقترح إمكانية."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Why",
-        "description": "لماذا أو لم، وتستخدم للسؤال عن السبب."
-      },
-      {
-        "term": "not",
-        "description": "لا، وتستخدم هنا للسؤال عن سبب الرفض أو اقتراح إمكانية."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "Why not?",
-        "explanation": {
+        "ar": "لم لا؟",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذه عبارة سؤال مختصرة بلا فعل ظاهر، وتستخدم إما للسؤال عن سبب الرفض أو للموافقة على اقتراح بمعنى لا مانع."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Why",
+            "description": "لماذا أو لم، وتستخدم للسؤال عن السبب."
+          },
+          {
+            "term": "not",
+            "description": "لا، وتستخدم هنا للسؤال عن سبب الرفض أو اقتراح إمكانية."
+          }
+        ]
       }
     ],
     "examples": [

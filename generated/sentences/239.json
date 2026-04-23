@@ -7,40 +7,41 @@
     "context": "اطلب بأدب نفس الطعام أو الشراب الذي طلبه شخص آخر في مطعم."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "I",
-        "description": "أنا، وتشير إلى المتكلم."
-      },
-      {
-        "term": "will",
-        "description": "تدل على قرار أو اختيار في المستقبل القريب."
-      },
-      {
-        "term": "have",
-        "description": "آخذ أو أطلب في سياق الطعام والشراب."
-      },
-      {
-        "term": "the",
-        "description": "أداة تشير إلى شيء محدد معروف من السياق."
-      },
-      {
-        "term": "same",
-        "description": "نفس أو مطابق لما ذُكر سابقًا."
-      },
-      {
-        "term": "thing",
-        "description": "شيء، ويشير هنا إلى الطلب نفسه من طعام أو شراب."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "I will have the same thing.",
-        "explanation": {
+        "ar": "سآخذ نفس الشيء.",
+        "grammar": {
           "tense": "المستقبل البسيط",
           "tenseEn": "Future Simple",
           "reason": "يستخدم المستقبل البسيط للتعبير عن قرار فوري أو اختيار في مطعم، ومعنى الفعل هنا هو سأطلب أو سآخذ."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "أنا، وتشير إلى المتكلم."
+          },
+          {
+            "term": "will",
+            "description": "تدل على قرار أو اختيار في المستقبل القريب."
+          },
+          {
+            "term": "have",
+            "description": "آخذ أو أطلب في سياق الطعام والشراب."
+          },
+          {
+            "term": "the",
+            "description": "أداة تشير إلى شيء محدد معروف من السياق."
+          },
+          {
+            "term": "same",
+            "description": "نفس أو مطابق لما ذُكر سابقًا."
+          },
+          {
+            "term": "thing",
+            "description": "شيء، ويشير هنا إلى الطلب نفسه من طعام أو شراب."
+          }
+        ]
       }
     ],
     "examples": [

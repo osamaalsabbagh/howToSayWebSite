@@ -7,44 +7,45 @@
     "context": "تُستخدم لطلب حجز، غالبًا في مطعم أو فندق."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "I",
-        "description": "أنا، وتشير إلى المتكلم."
-      },
-      {
-        "term": "would",
-        "description": "تجعل الطلب أكثر تهذيبًا ولطفًا."
-      },
-      {
-        "term": "like",
-        "description": "أرغب أو أود."
-      },
-      {
-        "term": "to",
-        "description": "تربط الرغبة بالفعل المطلوب بعدها."
-      },
-      {
-        "term": "make",
-        "description": "أجري أو أرتب، وتستخدم هنا مع الحجز."
-      },
-      {
-        "term": "a",
-        "description": "أداة تدل على شيء واحد غير محدد."
-      },
-      {
-        "term": "reservation",
-        "description": "حجز مسبق في مطعم أو فندق أو خدمة."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "I would like to make a reservation.",
-        "explanation": {
+        "ar": "أود أن أحجز.",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذه صيغة مهذبة لطلب حجز، وفيها تركيب يدل على الرغبة يتبعه فعل بصيغة المصدر، لذلك لا يشرح كزمن مستقل."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "أنا، وتشير إلى المتكلم."
+          },
+          {
+            "term": "would",
+            "description": "تجعل الطلب أكثر تهذيبًا ولطفًا."
+          },
+          {
+            "term": "like",
+            "description": "أرغب أو أود."
+          },
+          {
+            "term": "to",
+            "description": "تربط الرغبة بالفعل المطلوب بعدها."
+          },
+          {
+            "term": "make",
+            "description": "أجري أو أرتب، وتستخدم هنا مع الحجز."
+          },
+          {
+            "term": "a",
+            "description": "أداة تدل على شيء واحد غير محدد."
+          },
+          {
+            "term": "reservation",
+            "description": "حجز مسبق في مطعم أو فندق أو خدمة."
+          }
+        ]
       }
     ],
     "examples": [

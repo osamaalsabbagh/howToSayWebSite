@@ -7,28 +7,29 @@
     "context": "امتدح المظهر الخارجي."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "You",
-        "description": "ضمير يشير إلى الشخص الذي أتحدث معه."
-      },
-      {
-        "term": "are",
-        "description": "صيغة تربط المخاطب بوصفه أو حالته."
-      },
-      {
-        "term": "beautiful",
-        "description": "جميل في المظهر أو الشكل."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "You are beautiful.",
-        "explanation": {
+        "ar": "أنت جميل.",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "تستخدم are مع المخاطب لوصف صفة حالية، وهي الجمال في المظهر."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "You",
+            "description": "ضمير يشير إلى الشخص الذي أتحدث معه."
+          },
+          {
+            "term": "are",
+            "description": "صيغة تربط المخاطب بوصفه أو حالته."
+          },
+          {
+            "term": "beautiful",
+            "description": "جميل في المظهر أو الشكل."
+          }
+        ]
       }
     ],
     "examples": [

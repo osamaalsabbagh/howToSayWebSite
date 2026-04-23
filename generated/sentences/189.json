@@ -7,52 +7,56 @@
     "context": "حدد موعد ذهابك للمنزل."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "I",
-        "description": "أنا، وتشير إلى المتكلم."
-      },
-      {
-        "term": "am",
-        "description": "صيغة تأتي مع أنا وتساعد في تكوين فعل مستمر أو ترتيب قريب."
-      },
-      {
-        "term": "going",
-        "description": "ذاهب، وتدل هنا على خطة مستقبلية مرتبة."
-      },
-      {
-        "term": "home",
-        "description": "إلى المنزل."
-      },
-      {
-        "term": "in",
-        "description": "بعد، وتستخدم هنا مع مدة قبل حدوث الشيء."
-      },
-      {
-        "term": "four",
-        "description": "العدد أربعة."
-      },
-      {
-        "term": "days",
-        "description": "أيام."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "I am going home",
-        "explanation": {
+        "ar": "سأذهب إلى المنزل بعد أربعة أيام.",
+        "grammar": {
           "tense": "المضارع المستمر",
           "tenseEn": "Present Continuous",
           "reason": "يستخدم المضارع المستمر هنا للتعبير عن خطة مستقبلية مرتبة، وليس بالضرورة عن ذهاب يحدث في هذه اللحظة."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "أنا، وتشير إلى المتكلم."
+          },
+          {
+            "term": "am",
+            "description": "صيغة تأتي مع أنا وتساعد في تكوين فعل مستمر أو ترتيب قريب."
+          },
+          {
+            "term": "going",
+            "description": "ذاهب، وتدل هنا على خطة مستقبلية مرتبة."
+          },
+          {
+            "term": "home",
+            "description": "إلى المنزل."
+          }
+        ]
       },
       {
         "sentence": "in four days",
-        "explanation": {
+        "ar": "سأذهب إلى المنزل بعد أربعة أيام.",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذه عبارة زمنية تحدد متى سيحدث الذهاب، ومعناها بعد مرور أربعة أيام من الآن."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "in",
+            "description": "بعد، وتستخدم هنا مع مدة قبل حدوث الشيء."
+          },
+          {
+            "term": "four",
+            "description": "العدد أربعة."
+          },
+          {
+            "term": "days",
+            "description": "أيام."
+          }
+        ]
       }
     ],
     "examples": [

@@ -7,72 +7,88 @@
     "context": "إخبار بموعد العودة قبل زيارة العمة"
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "I",
-        "description": "ضمير المتكلم المفرد."
-      },
-      {
-        "term": "will",
-        "description": "يدل على المستقبل."
-      },
-      {
-        "term": "be",
-        "description": "تأتي مع back لتكوين معنى سأعود."
-      },
-      {
-        "term": "back",
-        "description": "تعني عائدًا أو موجودًا مرة أخرى."
-      },
-      {
-        "term": "from",
-        "description": "حرف يوضح مصدر العودة."
-      },
-      {
-        "term": "my",
-        "description": "صفة ملكية تعني الخاصة بي."
-      },
-      {
-        "term": "trip",
-        "description": "رحلة."
-      },
-      {
-        "term": "the",
-        "description": "أداة تعريف في عبارة زمنية محددة."
-      },
-      {
-        "term": "day",
-        "description": "يوم."
-      },
-      {
-        "term": "before",
-        "description": "تعني السابق مباشرة."
-      },
-      {
-        "term": "she",
-        "description": "ضمير يعود على العمة."
-      },
-      {
-        "term": "arrives",
-        "description": "تعني تصل."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "I will be back from my trip the day before she arrives.",
-        "explanation": {
+        "ar": "سأعود من رحلتي في اليوم الذي يسبق وصولها.",
+        "grammar": {
           "tense": "المستقبل البسيط",
           "tenseEn": "Future Simple",
           "reason": "استُعمل المستقبل البسيط لإخبار الشخص بموعد العودة المتوقع قبل وصول العمة."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير المتكلم المفرد."
+          },
+          {
+            "term": "will",
+            "description": "يدل على المستقبل."
+          },
+          {
+            "term": "be",
+            "description": "تأتي مع back لتكوين معنى سأعود."
+          },
+          {
+            "term": "back",
+            "description": "تعني عائدًا أو موجودًا مرة أخرى."
+          },
+          {
+            "term": "from",
+            "description": "حرف يوضح مصدر العودة."
+          },
+          {
+            "term": "my",
+            "description": "صفة ملكية تعني الخاصة بي."
+          },
+          {
+            "term": "trip",
+            "description": "رحلة."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف في عبارة زمنية محددة."
+          },
+          {
+            "term": "day",
+            "description": "يوم."
+          },
+          {
+            "term": "before",
+            "description": "تعني السابق مباشرة."
+          },
+          {
+            "term": "she",
+            "description": "ضمير يعود على العمة."
+          },
+          {
+            "term": "arrives",
+            "description": "تعني تصل."
+          }
+        ]
       },
       {
         "sentence": "before she arrives",
-        "explanation": {
+        "ar": "سأعود من رحلتي في اليوم الذي يسبق وصولها.",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "استُعمل المضارع البسيط بعد before للإشارة إلى حدث مستقبلي داخل عبارة زمنية."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "before",
+            "description": "تعني السابق مباشرة."
+          },
+          {
+            "term": "she",
+            "description": "ضمير يعود على العمة."
+          },
+          {
+            "term": "arrives",
+            "description": "تعني تصل."
+          }
+        ]
       }
     ],
     "examples": [

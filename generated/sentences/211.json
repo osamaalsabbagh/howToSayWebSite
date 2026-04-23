@@ -7,32 +7,33 @@
     "context": "اسأل عن الموعد المعتاد لوصول المجموعة."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "When",
-        "description": "متى، وتستخدم للسؤال عن موعد."
-      },
-      {
-        "term": "do",
-        "description": "تأتي في السؤال مع نحن لتكوين سؤال في الحاضر."
-      },
-      {
-        "term": "we",
-        "description": "نحن، وتشمل المتكلم مع شخص أو أكثر."
-      },
-      {
-        "term": "arrive",
-        "description": "نصل إلى المكان المقصود."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "When do we arrive?",
-        "explanation": {
+        "ar": "متى نصل؟",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "يستخدم المضارع البسيط للسؤال عن موعد مقرر أو متوقع لوصول المجموعة."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "When",
+            "description": "متى، وتستخدم للسؤال عن موعد."
+          },
+          {
+            "term": "do",
+            "description": "تأتي في السؤال مع نحن لتكوين سؤال في الحاضر."
+          },
+          {
+            "term": "we",
+            "description": "نحن، وتشمل المتكلم مع شخص أو أكثر."
+          },
+          {
+            "term": "arrive",
+            "description": "نصل إلى المكان المقصود."
+          }
+        ]
       }
     ],
     "examples": [

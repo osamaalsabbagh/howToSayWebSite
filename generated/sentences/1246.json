@@ -7,48 +7,49 @@
     "context": "بشكل رسمي أو كتابي أكثر، وغالبًا في التعليمات أو في النماذج أو اللافتات."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Please",
-        "description": "يرجى أو من فضلك، وتدل على طلب مهذب."
-      },
-      {
-        "term": "enter",
-        "description": "ادخل، وهي صيغة رسمية أكثر من تعال إلى الداخل."
-      },
-      {
-        "term": "the",
-        "description": "أداة تشير إلى مبنى محدد."
-      },
-      {
-        "term": "building",
-        "description": "مبنى."
-      },
-      {
-        "term": "through",
-        "description": "من خلال أو عبر، وتحدد طريق الدخول."
-      },
-      {
-        "term": "the",
-        "description": "أداة تشير إلى باب محدد."
-      },
-      {
-        "term": "main",
-        "description": "الرئيسي."
-      },
-      {
-        "term": "door",
-        "description": "باب."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "Please enter the building through the main door.",
-        "explanation": {
+        "ar": "يرجى الدخول إلى المبنى من الباب الرئيسي.",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذه جملة أمر مهذبة ورسمية تعطي تعليمات دخول، والفعل يأتي بصيغته الأساسية ولا يحمل زمنًا مستقلًا."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Please",
+            "description": "يرجى أو من فضلك، وتدل على طلب مهذب."
+          },
+          {
+            "term": "enter",
+            "description": "ادخل، وهي صيغة رسمية أكثر من تعال إلى الداخل."
+          },
+          {
+            "term": "the",
+            "description": "أداة تشير إلى مبنى محدد."
+          },
+          {
+            "term": "building",
+            "description": "مبنى."
+          },
+          {
+            "term": "through",
+            "description": "من خلال أو عبر، وتحدد طريق الدخول."
+          },
+          {
+            "term": "the",
+            "description": "أداة تشير إلى باب محدد."
+          },
+          {
+            "term": "main",
+            "description": "الرئيسي."
+          },
+          {
+            "term": "door",
+            "description": "باب."
+          }
+        ]
       }
     ],
     "examples": [

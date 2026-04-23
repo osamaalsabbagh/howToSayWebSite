@@ -7,40 +7,41 @@
     "context": "إشارة إلى أن شيئًا ما يقع مباشرة أسفل شيء آخر، وغالبًا يكون مغطى به أو تحته مباشرة."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "The",
-        "description": "أداة تشير إلى كتاب محدد معروف من السياق."
-      },
-      {
-        "term": "book",
-        "description": "كتاب أو شيء للقراءة."
-      },
-      {
-        "term": "is",
-        "description": "صيغة تربط الشيء بمكانه الحالي."
-      },
-      {
-        "term": "under",
-        "description": "تحت مباشرة أو أسفل شيء مع قرب أو تغطية غالبًا."
-      },
-      {
-        "term": "the",
-        "description": "أداة تشير إلى طاولة محددة معروفة من السياق."
-      },
-      {
-        "term": "table",
-        "description": "طاولة أو منضدة."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "The book is under the table.",
-        "explanation": {
+        "ar": "الكتاب تحت الطاولة.",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "تستخدم is لوصف مكان الكتاب الحالي، وتستخدم under عندما يكون الشيء أسفل شيء آخر مباشرة أو قريبًا منه."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "The",
+            "description": "أداة تشير إلى كتاب محدد معروف من السياق."
+          },
+          {
+            "term": "book",
+            "description": "كتاب أو شيء للقراءة."
+          },
+          {
+            "term": "is",
+            "description": "صيغة تربط الشيء بمكانه الحالي."
+          },
+          {
+            "term": "under",
+            "description": "تحت مباشرة أو أسفل شيء مع قرب أو تغطية غالبًا."
+          },
+          {
+            "term": "the",
+            "description": "أداة تشير إلى طاولة محددة معروفة من السياق."
+          },
+          {
+            "term": "table",
+            "description": "طاولة أو منضدة."
+          }
+        ]
       }
     ],
     "examples": [

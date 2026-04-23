@@ -7,48 +7,49 @@
     "context": "اعرض توصيل شخص إلى موقف الحافلات."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "I",
-        "description": "ضمير المتكلم ويشير إلى الشخص الذي يتحدث."
-      },
-      {
-        "term": "will",
-        "description": "كلمة تدل هنا على عرض أو وعد بفعل شيء."
-      },
-      {
-        "term": "take",
-        "description": "أوصلك أو أرافقك إلى مكان في هذا السياق."
-      },
-      {
-        "term": "you",
-        "description": "ضمير يشير إلى الشخص الذي أتحدث معه."
-      },
-      {
-        "term": "to",
-        "description": "إلى، وتدل على الاتجاه أو المكان المقصود."
-      },
-      {
-        "term": "the",
-        "description": "أداة تشير إلى مكان محدد ومعروف من السياق."
-      },
-      {
-        "term": "bus",
-        "description": "حافلة، وهي وسيلة نقل جماعية."
-      },
-      {
-        "term": "stop",
-        "description": "موقف أو مكان انتظار وسيلة النقل."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "I will take you to the bus stop.",
-        "explanation": {
+        "ar": "سأوصلك إلى موقف الحافلات.",
+        "grammar": {
           "tense": "المستقبل البسيط",
           "tenseEn": "Future Simple",
           "reason": "تستخدم will مع الفعل الأساسي لعرض المساعدة في المستقبل القريب، والتعبير take you to يعني أوصلك أو أرافقك إلى مكان."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير المتكلم ويشير إلى الشخص الذي يتحدث."
+          },
+          {
+            "term": "will",
+            "description": "كلمة تدل هنا على عرض أو وعد بفعل شيء."
+          },
+          {
+            "term": "take",
+            "description": "أوصلك أو أرافقك إلى مكان في هذا السياق."
+          },
+          {
+            "term": "you",
+            "description": "ضمير يشير إلى الشخص الذي أتحدث معه."
+          },
+          {
+            "term": "to",
+            "description": "إلى، وتدل على الاتجاه أو المكان المقصود."
+          },
+          {
+            "term": "the",
+            "description": "أداة تشير إلى مكان محدد ومعروف من السياق."
+          },
+          {
+            "term": "bus",
+            "description": "حافلة، وهي وسيلة نقل جماعية."
+          },
+          {
+            "term": "stop",
+            "description": "موقف أو مكان انتظار وسيلة النقل."
+          }
+        ]
       }
     ],
     "examples": [

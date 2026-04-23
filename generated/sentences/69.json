@@ -7,44 +7,48 @@
     "context": "علق على الطعم."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "I",
-        "description": "ضمير المتكلم ويشير إلى الشخص الذي يتحدث."
-      },
-      {
-        "term": "think",
-        "description": "أعتقد أو أرى برأيي."
-      },
-      {
-        "term": "it",
-        "description": "ضمير يشير إلى الطعام أو الشراب المقصود في السياق."
-      },
-      {
-        "term": "tastes",
-        "description": "طعمه يبدو أو يكون عند التذوق."
-      },
-      {
-        "term": "good",
-        "description": "جيد أو لذيذ في سياق الطعم."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "I think",
-        "explanation": {
+        "ar": "أعتقد أن طعمه جيد.",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "تستخدم think في المضارع البسيط للتعبير عن رأي المتكلم الحالي."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير المتكلم ويشير إلى الشخص الذي يتحدث."
+          },
+          {
+            "term": "think",
+            "description": "أعتقد أو أرى برأيي."
+          }
+        ]
       },
       {
         "sentence": "it tastes good",
-        "explanation": {
+        "ar": "أعتقد أن طعمه جيد.",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "تستخدم tastes في المضارع البسيط لوصف طعم الشيء كحالة أو انطباع عام، وتضاف s لأن الفاعل مفرد."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "it",
+            "description": "ضمير يشير إلى الطعام أو الشراب المقصود في السياق."
+          },
+          {
+            "term": "tastes",
+            "description": "طعمه يبدو أو يكون عند التذوق."
+          },
+          {
+            "term": "good",
+            "description": "جيد أو لذيذ في سياق الطعم."
+          }
+        ]
       }
     ],
     "examples": [

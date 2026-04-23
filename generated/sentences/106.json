@@ -7,20 +7,21 @@
     "context": "أمر بالتوقف فورًا."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Stop",
-        "description": "توقف فورًا عن فعل شيء أو عن الحركة."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "Stop!",
-        "explanation": {
+        "ar": "توقف!",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذه صيغة أمر قصيرة وعاجلة، والفاعل مفهوم من السياق، لذلك لا تحمل زمنًا مستقلًا."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Stop",
+            "description": "توقف فورًا عن فعل شيء أو عن الحركة."
+          }
+        ]
       }
     ],
     "examples": [

@@ -7,52 +7,68 @@
     "context": "المعلم يوضح المعنى في السياق اليومي لكلمة الماء النظيف"
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Clean",
-        "description": "نظيف أو يبدو غير متسخ."
-      },
-      {
-        "term": "water",
-        "description": "ماء."
-      },
-      {
-        "term": "just",
-        "description": "فقط أو ليس أكثر من ذلك."
-      },
-      {
-        "term": "means",
-        "description": "يعني أو يدل على."
-      },
-      {
-        "term": "it",
-        "description": "ضمير يعود على الماء النظيف."
-      },
-      {
-        "term": "looks",
-        "description": "يبدو أو يظهر للعين."
-      },
-      {
-        "term": "clear",
-        "description": "صافٍ أو شفاف."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "Clean water just means it looks clear.",
-        "explanation": {
+        "ar": "الماء النظيف فقط يعني أنه يبدو صافياً.",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "الجملة تقدم تعريفًا عامًا في الاستعمال اليومي لمعنى الماء النظيف."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Clean",
+            "description": "نظيف أو يبدو غير متسخ."
+          },
+          {
+            "term": "water",
+            "description": "ماء."
+          },
+          {
+            "term": "just",
+            "description": "فقط أو ليس أكثر من ذلك."
+          },
+          {
+            "term": "means",
+            "description": "يعني أو يدل على."
+          },
+          {
+            "term": "it",
+            "description": "ضمير يعود على الماء النظيف."
+          },
+          {
+            "term": "looks",
+            "description": "يبدو أو يظهر للعين."
+          },
+          {
+            "term": "clear",
+            "description": "صافٍ أو شفاف."
+          }
+        ]
       },
       {
         "sentence": "it looks clear",
-        "explanation": {
+        "ar": "الماء النظيف فقط يعني أنه يبدو صافياً.",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "هذا الجزء يصف مظهر الماء في الحاضر أو كصفة عامة."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "it",
+            "description": "ضمير يعود على الماء النظيف."
+          },
+          {
+            "term": "looks",
+            "description": "يبدو أو يظهر للعين."
+          },
+          {
+            "term": "clear",
+            "description": "صافٍ أو شفاف."
+          }
+        ]
       }
     ],
     "examples": [

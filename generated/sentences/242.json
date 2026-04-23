@@ -7,36 +7,37 @@
     "context": "أخبر بعمرك."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "I",
-        "description": "أنا، وتشير إلى المتكلم."
-      },
-      {
-        "term": "am",
-        "description": "صيغة تأتي مع أنا وتربط المتكلم بوصف أو حالة."
-      },
-      {
-        "term": "26",
-        "description": "العدد ستة وعشرون."
-      },
-      {
-        "term": "years",
-        "description": "سنوات."
-      },
-      {
-        "term": "old",
-        "description": "بعمر، وتكمل التعبير عن العمر."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "I am 26 years old.",
-        "explanation": {
+        "ar": "عمري ٢٦ سنة.",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "يستخدم فعل الربط في الحاضر للتعبير عن حالة حالية، وهي عمر المتكلم الآن."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "أنا، وتشير إلى المتكلم."
+          },
+          {
+            "term": "am",
+            "description": "صيغة تأتي مع أنا وتربط المتكلم بوصف أو حالة."
+          },
+          {
+            "term": "26",
+            "description": "العدد ستة وعشرون."
+          },
+          {
+            "term": "years",
+            "description": "سنوات."
+          },
+          {
+            "term": "old",
+            "description": "بعمر، وتكمل التعبير عن العمر."
+          }
+        ]
       }
     ],
     "examples": [

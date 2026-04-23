@@ -7,28 +7,29 @@
     "context": "تطلب المساعدة بلطف."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Help",
-        "description": "ساعد أو قدم دعمًا."
-      },
-      {
-        "term": "me",
-        "description": "ضمير يعود على المتكلم الذي يطلب المساعدة."
-      },
-      {
-        "term": "please",
-        "description": "كلمة تجعل الطلب ألطف وأكثر أدبًا."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "Help me, please.",
-        "explanation": {
+        "ar": "ساعدني من فضلك.",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "الجملة طلب مباشر بصيغة الأمر مع please للتلطيف، ولا تُعامل كزمن مستقل."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Help",
+            "description": "ساعد أو قدم دعمًا."
+          },
+          {
+            "term": "me",
+            "description": "ضمير يعود على المتكلم الذي يطلب المساعدة."
+          },
+          {
+            "term": "please",
+            "description": "كلمة تجعل الطلب ألطف وأكثر أدبًا."
+          }
+        ]
       }
     ],
     "examples": [

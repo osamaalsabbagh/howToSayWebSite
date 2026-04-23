@@ -7,32 +7,33 @@
     "context": "قبل لحظة الدفع أثناء الترتيب أو التخطيط."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "How",
-        "description": "كيف، وتستخدم للسؤال عن الطريقة."
-      },
-      {
-        "term": "will",
-        "description": "تدل على طريقة دفع مستقبلية أو قرار لاحق."
-      },
-      {
-        "term": "you",
-        "description": "أنت، وتشير إلى الشخص المخاطب."
-      },
-      {
-        "term": "pay",
-        "description": "تدفع المال مقابل شيء."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "How will you pay?",
-        "explanation": {
+        "ar": "كيف سوف تدفع؟",
+        "grammar": {
           "tense": "المستقبل البسيط",
           "tenseEn": "Future Simple",
           "reason": "يستخدم المستقبل البسيط للسؤال عن طريقة دفع سيختارها الشخص لاحقًا أو ضمن ترتيب قبل لحظة الدفع."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "How",
+            "description": "كيف، وتستخدم للسؤال عن الطريقة."
+          },
+          {
+            "term": "will",
+            "description": "تدل على طريقة دفع مستقبلية أو قرار لاحق."
+          },
+          {
+            "term": "you",
+            "description": "أنت، وتشير إلى الشخص المخاطب."
+          },
+          {
+            "term": "pay",
+            "description": "تدفع المال مقابل شيء."
+          }
+        ]
       }
     ],
     "examples": [

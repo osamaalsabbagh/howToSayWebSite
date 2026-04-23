@@ -7,28 +7,29 @@
     "context": "اسأل إن كان شخص قد وصل."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Have",
-        "description": "تأتي في بداية السؤال لتكوين معنى الوصول حتى الآن."
-      },
-      {
-        "term": "you",
-        "description": "أنت، وتشير إلى الشخص المخاطب."
-      },
-      {
-        "term": "arrived",
-        "description": "وصلت إلى المكان المقصود."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "Have you arrived?",
-        "explanation": {
+        "ar": "هل وصلت؟",
+        "grammar": {
           "tense": "المضارع التام",
           "tenseEn": "Present Perfect",
           "reason": "يستخدم المضارع التام للسؤال عن نتيجة حدث متوقع حتى الآن، أي هل حدث الوصول في أي وقت قبل لحظة السؤال."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Have",
+            "description": "تأتي في بداية السؤال لتكوين معنى الوصول حتى الآن."
+          },
+          {
+            "term": "you",
+            "description": "أنت، وتشير إلى الشخص المخاطب."
+          },
+          {
+            "term": "arrived",
+            "description": "وصلت إلى المكان المقصود."
+          }
+        ]
       }
     ],
     "examples": [

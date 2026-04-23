@@ -7,28 +7,29 @@
     "context": "عبر عن تشابه كبير بين الأشياء أو الأشخاص."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "They",
-        "description": "ضمير يشير إلى أكثر من شيء أو شخص."
-      },
-      {
-        "term": "are",
-        "description": "صيغة تربط الجمع بوصف أو حالة."
-      },
-      {
-        "term": "similar",
-        "description": "متشابهون أو بينهم شبه كبير، لكن ليسوا بالضرورة متطابقين."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "They are similar.",
-        "explanation": {
+        "ar": "إنهم متشابهون.",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "تستخدم are مع الجمع لوصف حالة أو صفة حالية، وهي التشابه بين الأشخاص أو الأشياء."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "They",
+            "description": "ضمير يشير إلى أكثر من شيء أو شخص."
+          },
+          {
+            "term": "are",
+            "description": "صيغة تربط الجمع بوصف أو حالة."
+          },
+          {
+            "term": "similar",
+            "description": "متشابهون أو بينهم شبه كبير، لكن ليسوا بالضرورة متطابقين."
+          }
+        ]
       }
     ],
     "examples": [

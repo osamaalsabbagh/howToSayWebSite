@@ -7,56 +7,80 @@
     "context": "المعلم يوضح معنى الماء النظيف في السياق العلمي"
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Clean",
-        "description": "نظيف أو خالٍ مما يضر أو يلوث."
-      },
-      {
-        "term": "water",
-        "description": "ماء."
-      },
-      {
-        "term": "means",
-        "description": "يعني أو يدل على معنى معين."
-      },
-      {
-        "term": "it",
-        "description": "ضمير يعود على الماء النظيف."
-      },
-      {
-        "term": "is",
-        "description": "تربط الضمير بوصفه."
-      },
-      {
-        "term": "safe",
-        "description": "آمن أو لا يسبب ضررًا."
-      },
-      {
-        "term": "to",
-        "description": "تأتي قبل الفعل لتوضيح الغرض أو الاستخدام."
-      },
-      {
-        "term": "drink",
-        "description": "يشرب."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "Clean water means it is safe to drink.",
-        "explanation": {
+        "ar": "الماء النظيف يعني أنه صالح للشرب.",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "الجملة تعطي تعريفًا عامًا لمعنى الماء النظيف في السياق العلمي."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Clean",
+            "description": "نظيف أو خالٍ مما يضر أو يلوث."
+          },
+          {
+            "term": "water",
+            "description": "ماء."
+          },
+          {
+            "term": "means",
+            "description": "يعني أو يدل على معنى معين."
+          },
+          {
+            "term": "it",
+            "description": "ضمير يعود على الماء النظيف."
+          },
+          {
+            "term": "is",
+            "description": "تربط الضمير بوصفه."
+          },
+          {
+            "term": "safe",
+            "description": "آمن أو لا يسبب ضررًا."
+          },
+          {
+            "term": "to",
+            "description": "تأتي قبل الفعل لتوضيح الغرض أو الاستخدام."
+          },
+          {
+            "term": "drink",
+            "description": "يشرب."
+          }
+        ]
       },
       {
         "sentence": "it is safe to drink",
-        "explanation": {
+        "ar": "الماء النظيف يعني أنه صالح للشرب.",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "هذا الجزء يصف حالة عامة للماء بأنه صالح للشرب."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "it",
+            "description": "ضمير يعود على الماء النظيف."
+          },
+          {
+            "term": "is",
+            "description": "تربط الضمير بوصفه."
+          },
+          {
+            "term": "safe",
+            "description": "آمن أو لا يسبب ضررًا."
+          },
+          {
+            "term": "to",
+            "description": "تأتي قبل الفعل لتوضيح الغرض أو الاستخدام."
+          },
+          {
+            "term": "drink",
+            "description": "يشرب."
+          }
+        ]
       }
     ],
     "examples": [

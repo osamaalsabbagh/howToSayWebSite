@@ -7,24 +7,25 @@
     "context": "اشر إلى فرصة لاحقة."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Next",
-        "description": "القادم أو التالي."
-      },
-      {
-        "term": "time",
-        "description": "مرة أو فرصة حدوث."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "Next time.",
-        "explanation": {
+        "ar": "في المرة القادمة.",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذا تعبير قصير يشير إلى فرصة لاحقة، ولا يحتوي على فعل ظاهر أو زمن مستقل."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Next",
+            "description": "القادم أو التالي."
+          },
+          {
+            "term": "time",
+            "description": "مرة أو فرصة حدوث."
+          }
+        ]
       }
     ],
     "examples": [

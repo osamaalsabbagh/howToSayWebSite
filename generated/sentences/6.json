@@ -7,28 +7,29 @@
     "context": "أذكر حقيقة معروفة."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Everyone",
-        "description": "كل الناس أو جميع الموجودين."
-      },
-      {
-        "term": "knows",
-        "description": "يعرف أو لديه المعلومة."
-      },
-      {
-        "term": "it",
-        "description": "ضمير يعود على الأمر أو الحقيقة المذكورة."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "Everyone knows it.",
-        "explanation": {
+        "ar": "الجميع يعرف ذلك.",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "الجملة تعرض حقيقة عامة أو معلومة معروفة عند الجميع، لذلك استُخدم المضارع البسيط."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Everyone",
+            "description": "كل الناس أو جميع الموجودين."
+          },
+          {
+            "term": "knows",
+            "description": "يعرف أو لديه المعلومة."
+          },
+          {
+            "term": "it",
+            "description": "ضمير يعود على الأمر أو الحقيقة المذكورة."
+          }
+        ]
       }
     ],
     "examples": [

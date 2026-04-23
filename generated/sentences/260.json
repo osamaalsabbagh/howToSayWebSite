@@ -7,32 +7,33 @@
     "context": "اطلب مقارنة بين خيارين."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Which",
-        "description": "أي، وتستخدم للاختيار بين خيارات."
-      },
-      {
-        "term": "one",
-        "description": "واحد أو خيار محدد."
-      },
-      {
-        "term": "is",
-        "description": "صيغة تربط الخيار بالوصف في الحاضر."
-      },
-      {
-        "term": "better",
-        "description": "أفضل، أي أكثر جودة أو مناسبة."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "Which one is better?",
-        "explanation": {
+        "ar": "أيّهما أفضل؟",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "يستخدم فعل الربط في الحاضر للسؤال عن المقارنة الحالية بين خيارين أو أكثر."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Which",
+            "description": "أي، وتستخدم للاختيار بين خيارات."
+          },
+          {
+            "term": "one",
+            "description": "واحد أو خيار محدد."
+          },
+          {
+            "term": "is",
+            "description": "صيغة تربط الخيار بالوصف في الحاضر."
+          },
+          {
+            "term": "better",
+            "description": "أفضل، أي أكثر جودة أو مناسبة."
+          }
+        ]
       }
     ],
     "examples": [

@@ -7,32 +7,33 @@
     "context": "اعتذر أثناء أو بعد إزعاجك لشخص ما."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Sorry",
-        "description": "عذرًا أو آسف، وتستخدم للاعتذار."
-      },
-      {
-        "term": "for",
-        "description": "تأتي لذكر سبب الاعتذار."
-      },
-      {
-        "term": "bothering",
-        "description": "إزعاج أو مقاطعة شخص."
-      },
-      {
-        "term": "you",
-        "description": "ضمير يشير إلى الشخص الذي أتحدث معه."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "Sorry for bothering you.",
-        "explanation": {
+        "ar": "عذرًا لإزعاجك.",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذا تعبير اعتذار يستخدم أثناء أو بعد إزعاج شخص، وتأتي for قبل الفعل المنتهي ب ing لذكر سبب الاعتذار، ولا يحمل زمنًا مستقلًا."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Sorry",
+            "description": "عذرًا أو آسف، وتستخدم للاعتذار."
+          },
+          {
+            "term": "for",
+            "description": "تأتي لذكر سبب الاعتذار."
+          },
+          {
+            "term": "bothering",
+            "description": "إزعاج أو مقاطعة شخص."
+          },
+          {
+            "term": "you",
+            "description": "ضمير يشير إلى الشخص الذي أتحدث معه."
+          }
+        ]
       }
     ],
     "examples": [

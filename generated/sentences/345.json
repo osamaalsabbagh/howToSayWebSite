@@ -5,5 +5,106 @@
     "en": "Where can I find a hospital?",
     "ar": "أين يمكنني أن أجد مستشفى؟",
     "context": "السؤال عن أقرب مستشفى."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Where can I find a hospital?",
+        "ar": "أين يمكنني أن أجد مستشفى؟",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه صيغة سؤال باستخدام can لطلب إمكانية أو طريقة العثور على مكان، وليست زمنًا مستقلًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "Where",
+            "description": "أداة سؤال عن المكان وتعني أين."
+          },
+          {
+            "term": "can",
+            "description": "كلمة تدل على القدرة أو الإمكانية."
+          },
+          {
+            "term": "I",
+            "description": "ضمير يشير إلى المتكلم."
+          },
+          {
+            "term": "find",
+            "description": "يعني أجد أو أعثر على."
+          },
+          {
+            "term": "a",
+            "description": "أداة نكرة تعني شيئًا واحدًا غير محدد."
+          },
+          {
+            "term": "hospital",
+            "description": "يعني مستشفى."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Where can I find a pharmacy?",
+        "ar": "أين يمكنني أن أجد صيدلية؟",
+        "context": "تستخدم عند البحث عن مكان لشراء دواء."
+      },
+      {
+        "id": 2,
+        "en": "Where can I find a doctor?",
+        "ar": "أين يمكنني أن أجد طبيبًا؟",
+        "context": "تستخدم عند الحاجة إلى مساعدة طبية."
+      },
+      {
+        "id": 3,
+        "en": "Where can I find the emergency room?",
+        "ar": "أين يمكنني أن أجد غرفة الطوارئ؟",
+        "context": "تستخدم في المستشفى عند حالة عاجلة."
+      },
+      {
+        "id": 4,
+        "en": "Where can I find a taxi?",
+        "ar": "أين يمكنني أن أجد سيارة أجرة؟",
+        "context": "تستخدم عند الحاجة إلى وسيلة نقل."
+      },
+      {
+        "id": 5,
+        "en": "Where can I find help?",
+        "ar": "أين يمكنني أن أجد مساعدة؟",
+        "context": "تستخدم عند الحاجة إلى إرشاد أو دعم."
+      },
+      {
+        "id": 6,
+        "en": "Can you help me find a hospital?",
+        "ar": "هل يمكنك مساعدتي في العثور على مستشفى؟",
+        "context": "تستخدم لطلب مساعدة مباشرة."
+      },
+      {
+        "id": 7,
+        "en": "Where is the nearest hospital?",
+        "ar": "أين أقرب مستشفى؟",
+        "context": "تستخدم للسؤال عن أقرب مكان طبي."
+      },
+      {
+        "id": 8,
+        "en": "I need to find a hospital quickly.",
+        "ar": "أحتاج إلى العثور على مستشفى بسرعة.",
+        "context": "تستخدم في حالة مستعجلة."
+      },
+      {
+        "id": 9,
+        "en": "Where can we find a clinic?",
+        "ar": "أين يمكننا أن نجد عيادة؟",
+        "context": "تستخدم عندما يبحث أكثر من شخص عن رعاية طبية."
+      },
+      {
+        "id": 10,
+        "en": "Where can I find medical help?",
+        "ar": "أين يمكنني أن أجد مساعدة طبية؟",
+        "context": "تستخدم عند عدم معرفة المكان المناسب للعلاج."
+      }
+    ]
   }
 }

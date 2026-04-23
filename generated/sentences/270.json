@@ -7,40 +7,41 @@
     "context": "اسأل عن المسافة إلى شيكاغو."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "How",
-        "description": "تستخدم للسؤال عن مقدار المسافة."
-      },
-      {
-        "term": "far",
-        "description": "بعيد أو ذو مسافة."
-      },
-      {
-        "term": "is",
-        "description": "تربط السؤال بالمسافة."
-      },
-      {
-        "term": "it",
-        "description": "يشير إلى الطريق أو المكان المقصود."
-      },
-      {
-        "term": "to",
-        "description": "إلى، وتحدد وجهة المسافة."
-      },
-      {
-        "term": "Chicago",
-        "description": "اسم مدينة شيكاغو."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "How far is it to Chicago?",
-        "explanation": {
+        "ar": "كم المسافة إلى شيكاغو؟",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "السؤال يستخدم تركيبًا شائعًا للمسافة، حيث تأتي to قبل اسم الوجهة التي تريد معرفة بعدها."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "How",
+            "description": "تستخدم للسؤال عن مقدار المسافة."
+          },
+          {
+            "term": "far",
+            "description": "بعيد أو ذو مسافة."
+          },
+          {
+            "term": "is",
+            "description": "تربط السؤال بالمسافة."
+          },
+          {
+            "term": "it",
+            "description": "يشير إلى الطريق أو المكان المقصود."
+          },
+          {
+            "term": "to",
+            "description": "إلى، وتحدد وجهة المسافة."
+          },
+          {
+            "term": "Chicago",
+            "description": "اسم مدينة شيكاغو."
+          }
+        ]
       }
     ],
     "examples": [

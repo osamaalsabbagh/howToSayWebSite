@@ -7,28 +7,29 @@
     "context": "اطلب التحدث ببطء."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Please",
-        "description": "من فضلك، وتجعل الطلب مهذبًا."
-      },
-      {
-        "term": "speak",
-        "description": "تحدث أو تكلم."
-      },
-      {
-        "term": "slower",
-        "description": "ببطء أكثر."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "Please speak slower.",
-        "explanation": {
+        "ar": "من فضلك تحدث ببطء أكثر.",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذه جملة أمر مهذبة تطلب من المخاطب تغيير طريقة الكلام، والفعل يأتي بصيغته الأساسية ولا يحمل زمنًا مستقلًا."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Please",
+            "description": "من فضلك، وتجعل الطلب مهذبًا."
+          },
+          {
+            "term": "speak",
+            "description": "تحدث أو تكلم."
+          },
+          {
+            "term": "slower",
+            "description": "ببطء أكثر."
+          }
+        ]
       }
     ],
     "examples": [

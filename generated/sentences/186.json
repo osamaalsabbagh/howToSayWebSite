@@ -7,60 +7,64 @@
     "context": "طلب مباشر وعفوي للسؤال."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "I",
-        "description": "أنا، وتشير إلى المتكلم."
-      },
-      {
-        "term": "have",
-        "description": "لدي أو أملك."
-      },
-      {
-        "term": "a",
-        "description": "أداة تدل على شيء واحد غير محدد."
-      },
-      {
-        "term": "question",
-        "description": "سؤال."
-      },
-      {
-        "term": "I",
-        "description": "أنا، وتشير مرة أخرى إلى المتكلم."
-      },
-      {
-        "term": "want",
-        "description": "أريد أو أرغب."
-      },
-      {
-        "term": "to",
-        "description": "تربط الرغبة بالفعل بعدها."
-      },
-      {
-        "term": "ask",
-        "description": "أطرح سؤالًا أو أسأل."
-      },
-      {
-        "term": "you",
-        "description": "أنت أو عليك، وتشير إلى الشخص المخاطب."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "I have a question",
-        "explanation": {
+        "ar": "لدي سؤال أريد أن أطرحه عليك.",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "يستخدم المضارع البسيط للتعبير عن حالة حالية لدى المتكلم، وهي أن لديه سؤالًا الآن."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "أنا، وتشير إلى المتكلم."
+          },
+          {
+            "term": "have",
+            "description": "لدي أو أملك."
+          },
+          {
+            "term": "a",
+            "description": "أداة تدل على شيء واحد غير محدد."
+          },
+          {
+            "term": "question",
+            "description": "سؤال."
+          }
+        ]
       },
       {
         "sentence": "I want to ask you",
-        "explanation": {
+        "ar": "لدي سؤال أريد أن أطرحه عليك.",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "يستخدم المضارع البسيط للتعبير عن رغبة حالية ومباشرة، ثم يأتي الفعل بصيغة المصدر ليشرح ما يريد المتكلم فعله."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "أنا، وتشير مرة أخرى إلى المتكلم."
+          },
+          {
+            "term": "want",
+            "description": "أريد أو أرغب."
+          },
+          {
+            "term": "to",
+            "description": "تربط الرغبة بالفعل بعدها."
+          },
+          {
+            "term": "ask",
+            "description": "أطرح سؤالًا أو أسأل."
+          },
+          {
+            "term": "you",
+            "description": "أنت أو عليك، وتشير إلى الشخص المخاطب."
+          }
+        ]
       }
     ],
     "examples": [

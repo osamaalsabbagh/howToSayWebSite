@@ -7,28 +7,29 @@
     "context": "قدّر مسافة."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "About",
-        "description": "حوالي أو تقريبًا، وتستخدم عندما لا يكون الرقم دقيقًا تمامًا."
-      },
-      {
-        "term": "300",
-        "description": "العدد ثلاثمئة."
-      },
-      {
-        "term": "kilometers",
-        "description": "كيلومترات، وهي وحدة لقياس المسافات الطويلة."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "About 300 kilometers.",
-        "explanation": {
+        "ar": "حوالي ٣٠٠ كيلومتر.",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذه عبارة قصيرة لتقدير مسافة وليست جملة كاملة بفعل، لذلك لا تحمل زمنًا مستقلًا."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "About",
+            "description": "حوالي أو تقريبًا، وتستخدم عندما لا يكون الرقم دقيقًا تمامًا."
+          },
+          {
+            "term": "300",
+            "description": "العدد ثلاثمئة."
+          },
+          {
+            "term": "kilometers",
+            "description": "كيلومترات، وهي وحدة لقياس المسافات الطويلة."
+          }
+        ]
       }
     ],
     "examples": [

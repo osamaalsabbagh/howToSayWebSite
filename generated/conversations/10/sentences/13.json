@@ -7,40 +7,41 @@
     "context": "الموظف يرد بلطف على إعجاب الزبون."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "I",
-        "description": "ضمير المتكلم المفرد."
-      },
-      {
-        "term": "am",
-        "description": "صيغة تأتي مع ضمير المتكلم المفرد للتعبير عن الحالة الحالية."
-      },
-      {
-        "term": "glad",
-        "description": "سعيد أو مسرور."
-      },
-      {
-        "term": "you",
-        "description": "الشخص المخاطب."
-      },
-      {
-        "term": "like",
-        "description": "تعجب بشيء أو تجده مناسبًا."
-      },
-      {
-        "term": "it",
-        "description": "ضمير يعود على الشيء الذي أعجب الشخص."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "I am glad you like it.",
-        "explanation": {
+        "ar": "سعيد لأنها أعجبتك.",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "الجملة تصف شعور المتكلم الحالي، وتذكر أن المخاطب يعجبه الشيء في الوقت الحالي."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير المتكلم المفرد."
+          },
+          {
+            "term": "am",
+            "description": "صيغة تأتي مع ضمير المتكلم المفرد للتعبير عن الحالة الحالية."
+          },
+          {
+            "term": "glad",
+            "description": "سعيد أو مسرور."
+          },
+          {
+            "term": "you",
+            "description": "الشخص المخاطب."
+          },
+          {
+            "term": "like",
+            "description": "تعجب بشيء أو تجده مناسبًا."
+          },
+          {
+            "term": "it",
+            "description": "ضمير يعود على الشيء الذي أعجب الشخص."
+          }
+        ]
       }
     ],
     "examples": [

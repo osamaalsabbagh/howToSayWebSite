@@ -7,28 +7,29 @@
     "context": "تخبر أنك بحاجة إلى مساعدة."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "I",
-        "description": "ضمير المتكلم المفرد."
-      },
-      {
-        "term": "need",
-        "description": "أحتاج أو أطلب شيئًا ضروريًا."
-      },
-      {
-        "term": "help",
-        "description": "مساعدة أو دعم."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "I need help.",
-        "explanation": {
+        "ar": "أحتاج مساعدة.",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "الجملة تصف حاجة المتكلم الحالية إلى المساعدة."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير المتكلم المفرد."
+          },
+          {
+            "term": "need",
+            "description": "أحتاج أو أطلب شيئًا ضروريًا."
+          },
+          {
+            "term": "help",
+            "description": "مساعدة أو دعم."
+          }
+        ]
       }
     ],
     "examples": [

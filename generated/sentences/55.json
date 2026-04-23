@@ -7,28 +7,29 @@
     "context": "حدد حالتك الاجتماعية."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "I",
-        "description": "ضمير المتكلم ويشير إلى الشخص الذي يتحدث."
-      },
-      {
-        "term": "am",
-        "description": "صيغة تأتي مع ضمير المتكلم المفرد وتربط الشخص بحالته أو هويته."
-      },
-      {
-        "term": "married",
-        "description": "متزوج أو في علاقة زواج."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "I am married.",
-        "explanation": {
+        "ar": "أنا متزوج.",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "تستخدم الجملة am مع صفة لوصف الحالة الاجتماعية الحالية للمتكلم."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير المتكلم ويشير إلى الشخص الذي يتحدث."
+          },
+          {
+            "term": "am",
+            "description": "صيغة تأتي مع ضمير المتكلم المفرد وتربط الشخص بحالته أو هويته."
+          },
+          {
+            "term": "married",
+            "description": "متزوج أو في علاقة زواج."
+          }
+        ]
       }
     ],
     "examples": [

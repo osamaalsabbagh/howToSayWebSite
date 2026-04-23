@@ -5,5 +5,98 @@
     "en": "What is your address?",
     "ar": "ما هو عنوانك؟",
     "context": "طلب معرفة عنوان شخص ما."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "What is your address?",
+        "ar": "ما هو عنوانك؟",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "What is صيغة سؤال في المضارع البسيط لطلب معلومة حالية، وهي عنوان الشخص."
+        },
+        "wordMeanings": [
+          {
+            "term": "What",
+            "description": "أداة سؤال تعني ما."
+          },
+          {
+            "term": "is",
+            "description": "صيغة تستخدم للسؤال عن شيء مفرد في المضارع."
+          },
+          {
+            "term": "your",
+            "description": "تعني الخاص بك أو التابعة لك."
+          },
+          {
+            "term": "address",
+            "description": "يعني عنوان السكن أو المكان."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "What is your phone number?",
+        "ar": "ما رقم هاتفك؟",
+        "context": "تستخدم لطلب معلومة اتصال."
+      },
+      {
+        "id": 2,
+        "en": "What is your email address?",
+        "ar": "ما عنوان بريدك الإلكتروني؟",
+        "context": "تستخدم لطلب بريد إلكتروني."
+      },
+      {
+        "id": 3,
+        "en": "What is your home address?",
+        "ar": "ما عنوان منزلك؟",
+        "context": "تستخدم عند الحاجة إلى عنوان السكن."
+      },
+      {
+        "id": 4,
+        "en": "My address is on this paper.",
+        "ar": "عنواني على هذه الورقة.",
+        "context": "تستخدم عند إعطاء العنوان كتابة."
+      },
+      {
+        "id": 5,
+        "en": "Please write your address here.",
+        "ar": "من فضلك اكتب عنوانك هنا.",
+        "context": "تستخدم عند تعبئة نموذج."
+      },
+      {
+        "id": 6,
+        "en": "Can you give me your address?",
+        "ar": "هل يمكنك أن تعطيني عنوانك؟",
+        "context": "تستخدم لطلب العنوان بأدب."
+      },
+      {
+        "id": 7,
+        "en": "What is the address of the hotel?",
+        "ar": "ما عنوان الفندق؟",
+        "context": "تستخدم للسؤال عن موقع فندق."
+      },
+      {
+        "id": 8,
+        "en": "Is this your correct address?",
+        "ar": "هل هذا عنوانك الصحيح؟",
+        "context": "تستخدم للتأكد من العنوان."
+      },
+      {
+        "id": 9,
+        "en": "I need your address for delivery.",
+        "ar": "أحتاج إلى عنوانك للتوصيل.",
+        "context": "تستخدم عند ترتيب توصيل."
+      },
+      {
+        "id": 10,
+        "en": "The driver needs your address.",
+        "ar": "السائق يحتاج إلى عنوانك.",
+        "context": "تستخدم عند طلب سيارة أو توصيل."
+      }
+    ]
   }
 }

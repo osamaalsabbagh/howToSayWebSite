@@ -7,28 +7,29 @@
     "context": "امتدح مظهر شيء."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "That",
-        "description": "ذلك الشيء أو الشكل الذي تشير إليه."
-      },
-      {
-        "term": "looks",
-        "description": "يبدو أو يظهر للعين، وتأتي بصيغة تناسب المفرد."
-      },
-      {
-        "term": "great",
-        "description": "رائع أو ممتاز في المظهر."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "That looks great.",
-        "explanation": {
+        "ar": "يبدو ذلك رائعًا.",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "تستخدم looks في المضارع البسيط لوصف الانطباع الحالي عن مظهر شيء، وتضاف s لأن الفاعل مفرد."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "That",
+            "description": "ذلك الشيء أو الشكل الذي تشير إليه."
+          },
+          {
+            "term": "looks",
+            "description": "يبدو أو يظهر للعين، وتأتي بصيغة تناسب المفرد."
+          },
+          {
+            "term": "great",
+            "description": "رائع أو ممتاز في المظهر."
+          }
+        ]
       }
     ],
     "examples": [

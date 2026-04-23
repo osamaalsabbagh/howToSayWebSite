@@ -7,32 +7,33 @@
     "context": "تمنَّ رحلة جيدة من حيث السلامة والظروف العامة (مثل عدم مواجهة مشاكل أو متاعب) لشخص."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Have",
-        "description": "تأتي هنا في بداية أمنية بمعنى اقض أو عِش تجربة معينة."
-      },
-      {
-        "term": "a",
-        "description": "أداة تدل على شيء واحد غير محدد."
-      },
-      {
-        "term": "good",
-        "description": "جيد من حيث السلامة والراحة وعدم وجود مشكلات."
-      },
-      {
-        "term": "trip",
-        "description": "رحلة أو سفر من مكان إلى آخر."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "Have a good trip.",
-        "explanation": {
+        "ar": "رحلة جيدة.",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذه صيغة تمن تبدأ بالفعل الأساسي للتعبير عن أمنية لشخص، ولا تصف حدثًا بزمن محدد."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Have",
+            "description": "تأتي هنا في بداية أمنية بمعنى اقض أو عِش تجربة معينة."
+          },
+          {
+            "term": "a",
+            "description": "أداة تدل على شيء واحد غير محدد."
+          },
+          {
+            "term": "good",
+            "description": "جيد من حيث السلامة والراحة وعدم وجود مشكلات."
+          },
+          {
+            "term": "trip",
+            "description": "رحلة أو سفر من مكان إلى آخر."
+          }
+        ]
       }
     ],
     "examples": [

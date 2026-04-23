@@ -7,68 +7,72 @@
     "context": "كلمة مثالي هنا تُستخدم للتعبير عن الموافقة والرضا بشكل أقوى من كلمة حسناً."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Perfect",
-        "description": "كلمة تعبر عن الرضا وأن المعلومة مناسبة تمامًا."
-      },
-      {
-        "term": "Are",
-        "description": "صيغة تبدأ سؤالًا عن حالة أو ترتيب حالي مع المخاطب."
-      },
-      {
-        "term": "you",
-        "description": "ضمير المخاطب."
-      },
-      {
-        "term": "joining",
-        "description": "تعني تنضم أو تشارك."
-      },
-      {
-        "term": "as",
-        "description": "تعني بصفة أو باعتبارك."
-      },
-      {
-        "term": "an",
-        "description": "أداة نكرة قبل اسم يبدأ بصوت علّة."
-      },
-      {
-        "term": "adult",
-        "description": "شخص بالغ."
-      },
-      {
-        "term": "or",
-        "description": "حرف يفيد الاختيار بين احتمالين."
-      },
-      {
-        "term": "with",
-        "description": "تعني بصحبة أو مع."
-      },
-      {
-        "term": "a",
-        "description": "أداة نكرة قبل اسم مفرد."
-      },
-      {
-        "term": "child",
-        "description": "طفل."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "Perfect.",
-        "explanation": {
+        "ar": "مثالي.",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذه كلمة تقييم وموافقة قصيرة وليست جملة فعلية لها زمن مستقل."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Perfect",
+            "description": "كلمة تعبر عن الرضا وأن المعلومة مناسبة تمامًا."
+          }
+        ]
       },
       {
         "sentence": "Are you joining as an adult or with a child?",
-        "explanation": {
+        "ar": "هل ستنضم كشخص بالغ أم مع طفل؟",
+        "grammar": {
           "tense": "المضارع المستمر",
           "tenseEn": "Present Continuous",
           "reason": "استُعمل المضارع المستمر للسؤال عن ترتيب قريب أو طريقة مشاركة الشخص في النشاط."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Are",
+            "description": "صيغة تبدأ سؤالًا عن حالة أو ترتيب حالي مع المخاطب."
+          },
+          {
+            "term": "you",
+            "description": "ضمير المخاطب."
+          },
+          {
+            "term": "joining",
+            "description": "تعني تنضم أو تشارك."
+          },
+          {
+            "term": "as",
+            "description": "تعني بصفة أو باعتبارك."
+          },
+          {
+            "term": "an",
+            "description": "أداة نكرة قبل اسم يبدأ بصوت علّة."
+          },
+          {
+            "term": "adult",
+            "description": "شخص بالغ."
+          },
+          {
+            "term": "or",
+            "description": "حرف يفيد الاختيار بين احتمالين."
+          },
+          {
+            "term": "with",
+            "description": "تعني بصحبة أو مع."
+          },
+          {
+            "term": "a",
+            "description": "أداة نكرة قبل اسم مفرد."
+          },
+          {
+            "term": "child",
+            "description": "طفل."
+          }
+        ]
       }
     ],
     "examples": [

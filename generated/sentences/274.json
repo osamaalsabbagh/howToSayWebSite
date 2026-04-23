@@ -7,28 +7,29 @@
     "context": "امدح طعم الطعام."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "It",
-        "description": "يشير إلى الطعام أو الشيء الذي تتذوقه."
-      },
-      {
-        "term": "is",
-        "description": "تربط الشيء بوصفه الحالي."
-      },
-      {
-        "term": "delicious",
-        "description": "لذيذ أو طعمه جميل."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "It is delicious!",
-        "explanation": {
+        "ar": "إنه لذيذ!",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "تستخدم الجملة فعل الربط في الحاضر لوصف طعم شيء الآن أو كحكم عام عليه."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "It",
+            "description": "يشير إلى الطعام أو الشيء الذي تتذوقه."
+          },
+          {
+            "term": "is",
+            "description": "تربط الشيء بوصفه الحالي."
+          },
+          {
+            "term": "delicious",
+            "description": "لذيذ أو طعمه جميل."
+          }
+        ]
       }
     ],
     "examples": [

@@ -7,36 +7,37 @@
     "context": "أبلغ شخصًا بوجود أغراضه."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Your",
-        "description": "تدل على أن الشيء يخص الشخص الذي أتحدث معه."
-      },
-      {
-        "term": "things",
-        "description": "أغراض أو ممتلكات."
-      },
-      {
-        "term": "are",
-        "description": "صيغة تربط الجمع بمكانه أو حالته."
-      },
-      {
-        "term": "all",
-        "description": "كلها دون استثناء."
-      },
-      {
-        "term": "here",
-        "description": "في هذا المكان القريب من المتكلم."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "Your things are all here.",
-        "explanation": {
+        "ar": "أغراضك كلها هنا.",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "تستخدم are مع الجمع للإخبار عن مكان الأغراض الآن، وتأتي all لتأكيد أن كل الأغراض موجودة."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Your",
+            "description": "تدل على أن الشيء يخص الشخص الذي أتحدث معه."
+          },
+          {
+            "term": "things",
+            "description": "أغراض أو ممتلكات."
+          },
+          {
+            "term": "are",
+            "description": "صيغة تربط الجمع بمكانه أو حالته."
+          },
+          {
+            "term": "all",
+            "description": "كلها دون استثناء."
+          },
+          {
+            "term": "here",
+            "description": "في هذا المكان القريب من المتكلم."
+          }
+        ]
       }
     ],
     "examples": [

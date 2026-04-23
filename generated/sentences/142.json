@@ -7,32 +7,33 @@
     "context": "قدر لطف شخص."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "You",
-        "description": "ضمير يشير إلى الشخص الذي أتحدث معه."
-      },
-      {
-        "term": "are",
-        "description": "صيغة تربط المخاطب بوصفه أو حالته."
-      },
-      {
-        "term": "very",
-        "description": "كلمة تقوي الصفة وتجعلها بدرجة كبيرة."
-      },
-      {
-        "term": "nice",
-        "description": "لطيف أو حسن التعامل."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "You are very nice.",
-        "explanation": {
+        "ar": "أنت لطيف جدًا.",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "تستخدم are مع المخاطب لوصف صفة في الشخص، وتأتي very لتقوية معنى اللطف."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "You",
+            "description": "ضمير يشير إلى الشخص الذي أتحدث معه."
+          },
+          {
+            "term": "are",
+            "description": "صيغة تربط المخاطب بوصفه أو حالته."
+          },
+          {
+            "term": "very",
+            "description": "كلمة تقوي الصفة وتجعلها بدرجة كبيرة."
+          },
+          {
+            "term": "nice",
+            "description": "لطيف أو حسن التعامل."
+          }
+        ]
       }
     ],
     "examples": [

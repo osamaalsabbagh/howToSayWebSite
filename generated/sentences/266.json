@@ -7,28 +7,29 @@
     "context": "قدم شيئًا لشخص بأدب."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Here",
-        "description": "تأتي هنا عند تقديم شيء قريب أو لفت الانتباه إليه."
-      },
-      {
-        "term": "you",
-        "description": "ضمير للمخاطب، أي الشخص الذي تعطيه الشيء."
-      },
-      {
-        "term": "are",
-        "description": "جزء من عبارة ثابتة تقال عند تقديم شيء لشخص."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "Here you are.",
-        "explanation": {
+        "ar": "تفضل.",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذه عبارة ثابتة ومهذبة تستخدم عند إعطاء شيء لشخص، ولا يكون التركيز فيها على زمن مستقل."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Here",
+            "description": "تأتي هنا عند تقديم شيء قريب أو لفت الانتباه إليه."
+          },
+          {
+            "term": "you",
+            "description": "ضمير للمخاطب، أي الشخص الذي تعطيه الشيء."
+          },
+          {
+            "term": "are",
+            "description": "جزء من عبارة ثابتة تقال عند تقديم شيء لشخص."
+          }
+        ]
       }
     ],
     "examples": [

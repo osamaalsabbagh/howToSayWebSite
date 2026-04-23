@@ -7,24 +7,25 @@
     "context": "اطلب من شخص أن يتجاهل الأمر."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Never",
-        "description": "تأتي هنا داخل تعبير يعني تجاهل الأمر أو لا تهتم به."
-      },
-      {
-        "term": "mind",
-        "description": "تهتم أو تنشغل بالأمر داخل هذا التعبير."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "Never mind.",
-        "explanation": {
+        "ar": "لا عليك.",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذا تعبير ثابت يطلب من شخص تجاهل الأمر أو عدم القلق بشأنه، ولا يحمل زمنًا مستقلًا."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Never",
+            "description": "تأتي هنا داخل تعبير يعني تجاهل الأمر أو لا تهتم به."
+          },
+          {
+            "term": "mind",
+            "description": "تهتم أو تنشغل بالأمر داخل هذا التعبير."
+          }
+        ]
       }
     ],
     "examples": [

@@ -7,60 +7,64 @@
     "context": "اسأل عن مدة الوصول إلى جورجيا."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "How",
-        "description": "تبدأ السؤال عن المقدار."
-      },
-      {
-        "term": "long",
-        "description": "طويل من حيث المدة، ومع الكلمة السابقة تعني كم من الوقت."
-      },
-      {
-        "term": "does",
-        "description": "تأتي في السؤال مع المفرد لتكوين سؤال في الحاضر."
-      },
-      {
-        "term": "it",
-        "description": "تشير إلى عملية الوصول أو الرحلة المقصودة."
-      },
-      {
-        "term": "take",
-        "description": "يستغرق من الوقت."
-      },
-      {
-        "term": "to",
-        "description": "تربط المدة بالفعل الذي يوضح الهدف."
-      },
-      {
-        "term": "get",
-        "description": "أصل أو أذهب إلى مكان."
-      },
-      {
-        "term": "to",
-        "description": "إلى، وتربط الوصول بالوجهة."
-      },
-      {
-        "term": "Georgia",
-        "description": "جورجيا، اسم مكان أو ولاية حسب السياق."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "How long does it take",
-        "explanation": {
+        "ar": "كم من الوقت يستغرق للوصول إلى جورجيا؟",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "هذا جزء السؤال الرئيسي، ويستخدم المضارع البسيط للسؤال عن مدة معتادة أو متوقعة."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "How",
+            "description": "تبدأ السؤال عن المقدار."
+          },
+          {
+            "term": "long",
+            "description": "طويل من حيث المدة، ومع الكلمة السابقة تعني كم من الوقت."
+          },
+          {
+            "term": "does",
+            "description": "تأتي في السؤال مع المفرد لتكوين سؤال في الحاضر."
+          },
+          {
+            "term": "it",
+            "description": "تشير إلى عملية الوصول أو الرحلة المقصودة."
+          },
+          {
+            "term": "take",
+            "description": "يستغرق من الوقت."
+          }
+        ]
       },
       {
         "sentence": "to get to Georgia",
-        "explanation": {
+        "ar": "كم من الوقت يستغرق للوصول إلى جورجيا؟",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذا جزء تابع بصيغة المصدر يوضح الهدف من المدة، وهو الوصول إلى جورجيا، ولا يحمل زمنًا مستقلًا."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "to",
+            "description": "تربط المدة بالفعل الذي يوضح الهدف."
+          },
+          {
+            "term": "get",
+            "description": "أصل أو أذهب إلى مكان."
+          },
+          {
+            "term": "to",
+            "description": "إلى، وتربط الوصول بالوجهة."
+          },
+          {
+            "term": "Georgia",
+            "description": "جورجيا، اسم مكان أو ولاية حسب السياق."
+          }
+        ]
       }
     ],
     "examples": [

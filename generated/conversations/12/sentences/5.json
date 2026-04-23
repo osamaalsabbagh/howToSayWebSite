@@ -7,36 +7,40 @@
     "context": "العميل يؤكد أنه يتصل من نفس الرقم."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Yes",
-        "description": "إجابة موافقة أو تأكيد."
-      },
-      {
-        "term": "I",
-        "description": "ضمير المتكلم المفرد."
-      },
-      {
-        "term": "am",
-        "description": "تأتي هنا لتأكيد الجواب على سؤال فيه are."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "Yes",
-        "explanation": {
+        "ar": "نعم.",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "كلمة جواب قصيرة للتأكيد وليست جملة بزمن مستقل."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Yes",
+            "description": "إجابة موافقة أو تأكيد."
+          }
+        ]
       },
       {
         "sentence": "I am",
-        "explanation": {
+        "ar": "نعم.",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "جواب مختصر يحذف بقية الكلام المفهوم من السؤال السابق، لذلك يُشرح كإجابة مختصرة لا كزمن مستقل."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير المتكلم المفرد."
+          },
+          {
+            "term": "am",
+            "description": "تأتي هنا لتأكيد الجواب على سؤال فيه are."
+          }
+        ]
       }
     ],
     "examples": [

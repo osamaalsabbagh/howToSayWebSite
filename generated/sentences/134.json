@@ -7,32 +7,33 @@
     "context": "قل إن شيئًا صعب جدًا."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "This",
-        "description": "هذا الشيء أو الأمر القريب في الحديث."
-      },
-      {
-        "term": "is",
-        "description": "صيغة تربط الشيء بوصفه الحالي."
-      },
-      {
-        "term": "very",
-        "description": "كلمة تقوي الصفة وتجعلها بدرجة كبيرة."
-      },
-      {
-        "term": "difficult",
-        "description": "صعب أو يحتاج إلى جهد كبير."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "This is very difficult.",
-        "explanation": {
+        "ar": "هذا صعب جدًا.",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "تستخدم is مع صفة لوصف صعوبة الشيء في الحاضر، وتأتي very لتقوية الصفة."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "This",
+            "description": "هذا الشيء أو الأمر القريب في الحديث."
+          },
+          {
+            "term": "is",
+            "description": "صيغة تربط الشيء بوصفه الحالي."
+          },
+          {
+            "term": "very",
+            "description": "كلمة تقوي الصفة وتجعلها بدرجة كبيرة."
+          },
+          {
+            "term": "difficult",
+            "description": "صعب أو يحتاج إلى جهد كبير."
+          }
+        ]
       }
     ],
     "examples": [

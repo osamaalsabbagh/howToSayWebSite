@@ -7,28 +7,29 @@
     "context": "حدد وقتًا."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "At",
-        "description": "في، وتستخدم مع الوقت لتحديد ساعة معينة."
-      },
-      {
-        "term": "3",
-        "description": "العدد ثلاثة، ويمثل الساعة هنا."
-      },
-      {
-        "term": "o'clock",
-        "description": "تستخدم مع الساعة الكاملة دون دقائق."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "At 3 o'clock.",
-        "explanation": {
+        "ar": "في الساعة الثالثة.",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذه عبارة زمنية قصيرة بلا فعل ظاهر، وتستخدم لتحديد وقت حدوث شيء بحسب السياق."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "At",
+            "description": "في، وتستخدم مع الوقت لتحديد ساعة معينة."
+          },
+          {
+            "term": "3",
+            "description": "العدد ثلاثة، ويمثل الساعة هنا."
+          },
+          {
+            "term": "o'clock",
+            "description": "تستخدم مع الساعة الكاملة دون دقائق."
+          }
+        ]
       }
     ],
     "examples": [

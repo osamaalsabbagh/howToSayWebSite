@@ -7,32 +7,33 @@
     "context": "أكد أهمية شيء ما."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "This",
-        "description": "هذا الشيء أو الأمر القريب في الحديث."
-      },
-      {
-        "term": "is",
-        "description": "صيغة تربط الشيء بوصفه الحالي."
-      },
-      {
-        "term": "very",
-        "description": "كلمة تقوي الصفة وتجعلها بدرجة كبيرة."
-      },
-      {
-        "term": "important",
-        "description": "مهم أو له قيمة وتأثير."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "This is very important.",
-        "explanation": {
+        "ar": "هذا مهم جدًا.",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "تستخدم is مع صفة لوصف أهمية الشيء في الحاضر، وتأتي very للتأكيد على قوة الأهمية."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "This",
+            "description": "هذا الشيء أو الأمر القريب في الحديث."
+          },
+          {
+            "term": "is",
+            "description": "صيغة تربط الشيء بوصفه الحالي."
+          },
+          {
+            "term": "very",
+            "description": "كلمة تقوي الصفة وتجعلها بدرجة كبيرة."
+          },
+          {
+            "term": "important",
+            "description": "مهم أو له قيمة وتأثير."
+          }
+        ]
       }
     ],
     "examples": [

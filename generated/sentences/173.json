@@ -7,32 +7,33 @@
     "context": "صف الانتقال بين مكانين."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "From",
-        "description": "من، وتدل على نقطة البداية."
-      },
-      {
-        "term": "here",
-        "description": "هنا، أي المكان القريب من المتكلم."
-      },
-      {
-        "term": "to",
-        "description": "إلى، وتدل على الاتجاه أو نقطة الوصول."
-      },
-      {
-        "term": "there",
-        "description": "هناك، أي مكان أبعد عن المتكلم."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "From here to there.",
-        "explanation": {
+        "ar": "من هنا إلى هناك.",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذه عبارة مكانية تصف الانتقال بين نقطتين، ولا تحتوي على فعل ظاهر أو زمن مستقل."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "From",
+            "description": "من، وتدل على نقطة البداية."
+          },
+          {
+            "term": "here",
+            "description": "هنا، أي المكان القريب من المتكلم."
+          },
+          {
+            "term": "to",
+            "description": "إلى، وتدل على الاتجاه أو نقطة الوصول."
+          },
+          {
+            "term": "there",
+            "description": "هناك، أي مكان أبعد عن المتكلم."
+          }
+        ]
       }
     ],
     "examples": [

@@ -5,5 +5,106 @@
     "en": "Did you come with your family?",
     "ar": "هل أتيت مع عائلتك؟",
     "context": "السؤال إن كان الشخص برفقة عائلته."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Did you come with your family?",
+        "ar": "هل أتيت مع عائلتك؟",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "السؤال يبدأ بـ Did لأنه يسأل عن فعل حصل في الماضي، ويبقى الفعل come في صورته الأساسية بعد Did."
+        },
+        "wordMeanings": [
+          {
+            "term": "Did",
+            "description": "تستخدم في سؤال عن فعل حدث في الماضي."
+          },
+          {
+            "term": "you",
+            "description": "تعني أنت أو أنتم حسب السياق."
+          },
+          {
+            "term": "come",
+            "description": "تعني تأتي أو حضرت."
+          },
+          {
+            "term": "with",
+            "description": "تعني برفقة أو مع."
+          },
+          {
+            "term": "your",
+            "description": "تعني الخاص بك."
+          },
+          {
+            "term": "family",
+            "description": "تعني العائلة أو الأسرة."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Did you come by taxi?",
+        "ar": "هل أتيت بسيارة أجرة؟",
+        "context": "تسأل عن وسيلة الوصول."
+      },
+      {
+        "id": 2,
+        "en": "Did you come alone?",
+        "ar": "هل أتيت وحدك؟",
+        "context": "تسأل إن كان الشخص جاء دون مرافق."
+      },
+      {
+        "id": 3,
+        "en": "Did they come with you?",
+        "ar": "هل أتوا معك؟",
+        "context": "تسأل إن كان أشخاص آخرون رافقوا المخاطب."
+      },
+      {
+        "id": 4,
+        "en": "Did she come with her brother?",
+        "ar": "هل أتت مع أخيها؟",
+        "context": "تسأل إن كانت امرأة جاءت برفقة أخيها."
+      },
+      {
+        "id": 5,
+        "en": "Did you bring your family?",
+        "ar": "هل أحضرت عائلتك؟",
+        "context": "تسأل إن كانت العائلة حضرت مع الشخص."
+      },
+      {
+        "id": 6,
+        "en": "Did you arrive with your friends?",
+        "ar": "هل وصلت مع أصدقائك؟",
+        "context": "تسأل عن مرافقي الشخص عند الوصول."
+      },
+      {
+        "id": 7,
+        "en": "Did your family enjoy the trip?",
+        "ar": "هل استمتعت عائلتك بالرحلة؟",
+        "context": "تسأل عن تجربة العائلة بعد رحلة."
+      },
+      {
+        "id": 8,
+        "en": "Did you visit with your parents?",
+        "ar": "هل زرت المكان مع والديك؟",
+        "context": "تسأل عن زيارة تمت مع الوالدين."
+      },
+      {
+        "id": 9,
+        "en": "Did he come with his wife?",
+        "ar": "هل أتى مع زوجته؟",
+        "context": "تسأل عن مرافقة زوجة شخص له."
+      },
+      {
+        "id": 10,
+        "en": "Did you travel with your family?",
+        "ar": "هل سافرت مع عائلتك؟",
+        "context": "تسأل عن مرافقي السفر."
+      }
+    ]
   }
 }

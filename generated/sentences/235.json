@@ -7,60 +7,64 @@
     "context": "أبدِ رغبة بتناول الطعام في مطعم محدد."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "I",
-        "description": "أنا، وتشير إلى المتكلم."
-      },
-      {
-        "term": "would",
-        "description": "تجعل التعبير عن الرغبة أكثر تهذيبًا."
-      },
-      {
-        "term": "like",
-        "description": "أود أو أرغب."
-      },
-      {
-        "term": "to",
-        "description": "تربط الرغبة بالفعل بعدها."
-      },
-      {
-        "term": "eat",
-        "description": "آكل أو أتناول الطعام."
-      },
-      {
-        "term": "at",
-        "description": "في أو عند، وتستخدم هنا مع مكان تناول الطعام."
-      },
-      {
-        "term": "5th",
-        "description": "الخامسة، وهي جزء من اسم الشارع."
-      },
-      {
-        "term": "street",
-        "description": "شارع، وهي جزء من اسم المكان."
-      },
-      {
-        "term": "restaurant",
-        "description": "مطعم."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "I would like to eat",
-        "explanation": {
+        "ar": "أود أن أتناول الطعام في مطعم شارع الخامسة.",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذا تركيب مهذب للتعبير عن رغبة، ويأتي بعده فعل بصيغة المصدر لشرح ما يريد المتكلم فعله، لذلك لا يشرح كزمن مستقل."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "أنا، وتشير إلى المتكلم."
+          },
+          {
+            "term": "would",
+            "description": "تجعل التعبير عن الرغبة أكثر تهذيبًا."
+          },
+          {
+            "term": "like",
+            "description": "أود أو أرغب."
+          },
+          {
+            "term": "to",
+            "description": "تربط الرغبة بالفعل بعدها."
+          },
+          {
+            "term": "eat",
+            "description": "آكل أو أتناول الطعام."
+          }
+        ]
       },
       {
         "sentence": "at 5th street restaurant",
-        "explanation": {
+        "ar": "أود أن أتناول الطعام في مطعم شارع الخامسة.",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذه عبارة مكانية تحدد المطعم الذي يريد المتكلم تناول الطعام فيه، ولا تحتوي على فعل أو زمن مستقل."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "at",
+            "description": "في أو عند، وتستخدم هنا مع مكان تناول الطعام."
+          },
+          {
+            "term": "5th",
+            "description": "الخامسة، وهي جزء من اسم الشارع."
+          },
+          {
+            "term": "street",
+            "description": "شارع، وهي جزء من اسم المكان."
+          },
+          {
+            "term": "restaurant",
+            "description": "مطعم."
+          }
+        ]
       }
     ],
     "examples": [

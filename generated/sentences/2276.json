@@ -1,93 +1,94 @@
 {
-	"schemaVersion": 1,
-	"id": 2276,
-	"sentence": {
-		"en": "Good job.",
-		"ar": "عمل جيد.",
-		"context": "تمدح شخصًا على ما قام به."
-	},
-	"lesson": {
-		"wordMeanings": [
-			{
-				"term": "Good",
-				"description": "صفة تُستخدم لوصف الشيء بأنه جيد أو مُرضٍ"
-			},
-			{
-				"term": "job",
-				"description": "العمل أو المهمة التي قام بها الشخص"
-			}
-		],
-		"grammarExplanations": [
-			{
-				"sentence": "Good job.",
-				"explanation": {
-					"tense": null,
-					"tenseEn": null,
-					"reason": "هذه عبارة قصيرة تُستخدم كتعليق لمدح شخص على عمل قام به، وهي ليست جملة فعلية كاملة ولا ترتبط بزمن معين"
-				}
-			}
-		],
-		"examples": [
-			{
-				"id": 1,
-				"en": "Good job on the project.",
-				"ar": "عمل جيد في المشروع.",
-				"context": "مدح شخص بعد إنهاء مشروع"
-			},
-			{
-				"id": 2,
-				"en": "Good job, you did well.",
-				"ar": "عمل جيد، لقد أديت بشكل جيد.",
-				"context": "تشجيع شخص بعد أداء ناجح"
-			},
-			{
-				"id": 3,
-				"en": "Good job finishing early.",
-				"ar": "عمل جيد في إنهاء العمل مبكرًا.",
-				"context": "مدح لإنهاء مهمة بسرعة"
-			},
-			{
-				"id": 4,
-				"en": "Good job solving the problem.",
-				"ar": "عمل جيد في حل المشكلة.",
-				"context": "مدح على إيجاد حل"
-			},
-			{
-				"id": 5,
-				"en": "Good job on your presentation.",
-				"ar": "عمل جيد في عرضك التقديمي.",
-				"context": "مدح أداء عرض"
-			},
-			{
-				"id": 6,
-				"en": "Good job today.",
-				"ar": "عمل جيد اليوم.",
-				"context": "مدح أداء يوم كامل"
-			},
-			{
-				"id": 7,
-				"en": "Good job handling that situation.",
-				"ar": "عمل جيد في التعامل مع ذلك الموقف.",
-				"context": "مدح طريقة التعامل مع موقف"
-			},
-			{
-				"id": 8,
-				"en": "Good job keeping calm.",
-				"ar": "عمل جيد في الحفاظ على الهدوء.",
-				"context": "مدح التحكم في النفس"
-			},
-			{
-				"id": 9,
-				"en": "Good job learning quickly.",
-				"ar": "عمل جيد في التعلم بسرعة.",
-				"context": "مدح سرعة التعلم"
-			},
-			{
-				"id": 10,
-				"en": "Good job improving your skills.",
-				"ar": "عمل جيد في تحسين مهاراتك.",
-				"context": "مدح التقدم والتطور"
-			}
-		]
-	}
+  "schemaVersion": 1,
+  "id": 2276,
+  "sentence": {
+    "en": "Good job.",
+    "ar": "عمل جيد.",
+    "context": "تمدح شخصًا على ما قام به."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Good job.",
+        "ar": "عمل جيد.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه عبارة قصيرة تُستخدم كتعليق لمدح شخص على عمل قام به، وهي ليست جملة فعلية كاملة ولا ترتبط بزمن معين"
+        },
+        "wordMeanings": [
+          {
+            "term": "Good",
+            "description": "صفة تُستخدم لوصف الشيء بأنه جيد أو مُرضٍ"
+          },
+          {
+            "term": "job",
+            "description": "العمل أو المهمة التي قام بها الشخص"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Good job on the project.",
+        "ar": "عمل جيد في المشروع.",
+        "context": "مدح شخص بعد إنهاء مشروع"
+      },
+      {
+        "id": 2,
+        "en": "Good job, you did well.",
+        "ar": "عمل جيد، لقد أديت بشكل جيد.",
+        "context": "تشجيع شخص بعد أداء ناجح"
+      },
+      {
+        "id": 3,
+        "en": "Good job finishing early.",
+        "ar": "عمل جيد في إنهاء العمل مبكرًا.",
+        "context": "مدح لإنهاء مهمة بسرعة"
+      },
+      {
+        "id": 4,
+        "en": "Good job solving the problem.",
+        "ar": "عمل جيد في حل المشكلة.",
+        "context": "مدح على إيجاد حل"
+      },
+      {
+        "id": 5,
+        "en": "Good job on your presentation.",
+        "ar": "عمل جيد في عرضك التقديمي.",
+        "context": "مدح أداء عرض"
+      },
+      {
+        "id": 6,
+        "en": "Good job today.",
+        "ar": "عمل جيد اليوم.",
+        "context": "مدح أداء يوم كامل"
+      },
+      {
+        "id": 7,
+        "en": "Good job handling that situation.",
+        "ar": "عمل جيد في التعامل مع ذلك الموقف.",
+        "context": "مدح طريقة التعامل مع موقف"
+      },
+      {
+        "id": 8,
+        "en": "Good job keeping calm.",
+        "ar": "عمل جيد في الحفاظ على الهدوء.",
+        "context": "مدح التحكم في النفس"
+      },
+      {
+        "id": 9,
+        "en": "Good job learning quickly.",
+        "ar": "عمل جيد في التعلم بسرعة.",
+        "context": "مدح سرعة التعلم"
+      },
+      {
+        "id": 10,
+        "en": "Good job improving your skills.",
+        "ar": "عمل جيد في تحسين مهاراتك.",
+        "context": "مدح التقدم والتطور"
+      }
+    ]
+  }
 }

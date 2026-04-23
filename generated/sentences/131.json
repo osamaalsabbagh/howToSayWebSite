@@ -7,32 +7,33 @@
     "context": "قل إن شيئين متطابقين بدون أي فرق."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "They",
-        "description": "ضمير يشير إلى شيئين أو أكثر."
-      },
-      {
-        "term": "are",
-        "description": "صيغة تربط الجمع بوصفه أو حالته."
-      },
-      {
-        "term": "the",
-        "description": "أداة تدخل هنا في تعبير يدل على التطابق."
-      },
-      {
-        "term": "same",
-        "description": "نفس الشيء أو متطابقان بلا فرق."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "They are the same.",
-        "explanation": {
+        "ar": "إنهم متطابقون.",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "تستخدم are مع الجمع لوصف شيئين أو أكثر بأنهم متطابقون في الوقت الحالي."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "They",
+            "description": "ضمير يشير إلى شيئين أو أكثر."
+          },
+          {
+            "term": "are",
+            "description": "صيغة تربط الجمع بوصفه أو حالته."
+          },
+          {
+            "term": "the",
+            "description": "أداة تدخل هنا في تعبير يدل على التطابق."
+          },
+          {
+            "term": "same",
+            "description": "نفس الشيء أو متطابقان بلا فرق."
+          }
+        ]
       }
     ],
     "examples": [

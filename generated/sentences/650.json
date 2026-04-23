@@ -7,32 +7,33 @@
     "context": "طلب المساعدة من شخص ما."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Can",
-        "description": "تبدأ سؤالًا عن إمكانية المساعدة أو طلبها."
-      },
-      {
-        "term": "you",
-        "description": "الشخص الذي يُطلب منه المساعدة."
-      },
-      {
-        "term": "help",
-        "description": "يساعد أو يقدم دعمًا."
-      },
-      {
-        "term": "me",
-        "description": "ضمير يعود على المتكلم بوصفه من يحتاج المساعدة."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "Can you help me?",
-        "explanation": {
+        "ar": "هل يمكنك مساعدتي؟",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "السؤال يستخدم Can لطلب المساعدة بلطف، لذلك لا يُعامل كزمن مستقل."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Can",
+            "description": "تبدأ سؤالًا عن إمكانية المساعدة أو طلبها."
+          },
+          {
+            "term": "you",
+            "description": "الشخص الذي يُطلب منه المساعدة."
+          },
+          {
+            "term": "help",
+            "description": "يساعد أو يقدم دعمًا."
+          },
+          {
+            "term": "me",
+            "description": "ضمير يعود على المتكلم بوصفه من يحتاج المساعدة."
+          }
+        ]
       }
     ],
     "examples": [

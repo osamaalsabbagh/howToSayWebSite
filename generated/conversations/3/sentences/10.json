@@ -7,44 +7,45 @@
     "context": "تحدد له موعد اللقاء في فترة ما بعد الظهر من اليوم التالي"
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "We",
-        "description": "ضمير المتكلم الجمع، ويشير هنا إلى موظفي النشاط أو المركز."
-      },
-      {
-        "term": "will",
-        "description": "تدل على حدوث الفعل في المستقبل."
-      },
-      {
-        "term": "see",
-        "description": "تعني نراك أو نلتقي بك."
-      },
-      {
-        "term": "you",
-        "description": "ضمير المخاطب."
-      },
-      {
-        "term": "tomorrow",
-        "description": "اليوم التالي ليوم الكلام."
-      },
-      {
-        "term": "afternoon",
-        "description": "فترة بعد الظهر."
-      },
-      {
-        "term": "then",
-        "description": "تعني إذًا، وتستخدم لتأكيد النتيجة أو الموعد."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "We will see you tomorrow afternoon, then!",
-        "explanation": {
+        "ar": "سنراك غدًا بعد الظهر إذًا!",
+        "grammar": {
           "tense": "المستقبل البسيط",
           "tenseEn": "Future Simple",
           "reason": "استُعمل المستقبل البسيط لتأكيد لقاء سيحدث في اليوم التالي بعد الظهر."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "We",
+            "description": "ضمير المتكلم الجمع، ويشير هنا إلى موظفي النشاط أو المركز."
+          },
+          {
+            "term": "will",
+            "description": "تدل على حدوث الفعل في المستقبل."
+          },
+          {
+            "term": "see",
+            "description": "تعني نراك أو نلتقي بك."
+          },
+          {
+            "term": "you",
+            "description": "ضمير المخاطب."
+          },
+          {
+            "term": "tomorrow",
+            "description": "اليوم التالي ليوم الكلام."
+          },
+          {
+            "term": "afternoon",
+            "description": "فترة بعد الظهر."
+          },
+          {
+            "term": "then",
+            "description": "تعني إذًا، وتستخدم لتأكيد النتيجة أو الموعد."
+          }
+        ]
       }
     ],
     "examples": [

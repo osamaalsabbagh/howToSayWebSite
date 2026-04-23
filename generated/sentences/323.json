@@ -5,5 +5,110 @@
     "en": "I would like to rent a car.",
     "ar": "أود استئجار سيارة.",
     "context": "طلب استئجار سيارة."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "I would like to rent a car.",
+        "ar": "أود استئجار سيارة.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "الجملة طلب خدمة مهذب باستخدام would like to ثم الفعل rent، وتناسب مواقف مكاتب تأجير السيارات."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "تعني أنا."
+          },
+          {
+            "term": "would",
+            "description": "تجعل الطلب أو الرغبة مهذبة."
+          },
+          {
+            "term": "like",
+            "description": "مع would تعني أود."
+          },
+          {
+            "term": "to",
+            "description": "تأتي قبل الفعل rent لتكوين معنى أود أن أستأجر."
+          },
+          {
+            "term": "rent",
+            "description": "تعني أستأجر لفترة محددة."
+          },
+          {
+            "term": "a",
+            "description": "أداة قبل اسم مفرد غير محدد."
+          },
+          {
+            "term": "car",
+            "description": "تعني سيارة."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I would like to rent a bike.",
+        "ar": "أود استئجار دراجة.",
+        "context": "تطلب استئجار دراجة لفترة قصيرة."
+      },
+      {
+        "id": 2,
+        "en": "I would like to rent a room.",
+        "ar": "أود استئجار غرفة.",
+        "context": "تسأل عن استئجار غرفة."
+      },
+      {
+        "id": 3,
+        "en": "I would like to rent a small car.",
+        "ar": "أود استئجار سيارة صغيرة.",
+        "context": "تحدد نوع السيارة التي تريدها."
+      },
+      {
+        "id": 4,
+        "en": "We would like to rent a car for two days.",
+        "ar": "نود استئجار سيارة لمدة يومين.",
+        "context": "تطلب تأجير سيارة لمدة محددة."
+      },
+      {
+        "id": 5,
+        "en": "She would like to rent an apartment.",
+        "ar": "هي تود استئجار شقة.",
+        "context": "تذكر رغبة امرأة في استئجار شقة."
+      },
+      {
+        "id": 6,
+        "en": "I would like to rent this car.",
+        "ar": "أود استئجار هذه السيارة.",
+        "context": "تختار سيارة معينة للإيجار."
+      },
+      {
+        "id": 7,
+        "en": "They would like to rent a van.",
+        "ar": "هم يودون استئجار شاحنة صغيرة.",
+        "context": "تذكر رغبة مجموعة في مركبة أكبر."
+      },
+      {
+        "id": 8,
+        "en": "I would like to rent a car with insurance.",
+        "ar": "أود استئجار سيارة مع تأمين.",
+        "context": "تطلب إضافة التأمين إلى الإيجار."
+      },
+      {
+        "id": 9,
+        "en": "He would like to rent a car today.",
+        "ar": "هو يود استئجار سيارة اليوم.",
+        "context": "تذكر أن الطلب مطلوب في نفس اليوم."
+      },
+      {
+        "id": 10,
+        "en": "I would like to rent a car at the airport.",
+        "ar": "أود استئجار سيارة في المطار.",
+        "context": "تحدد مكان استلام السيارة."
+      }
+    ]
   }
 }

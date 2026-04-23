@@ -7,28 +7,29 @@
     "context": "علق على شيء سيء الرائحة."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "That",
-        "description": "ذلك الشيء أو المصدر الذي تشير إليه."
-      },
-      {
-        "term": "smells",
-        "description": "رائحته تبدو أو تصل إلى الأنف، وتأتي بصيغة تناسب المفرد."
-      },
-      {
-        "term": "bad",
-        "description": "سيئ أو غير لطيف في هذا السياق."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "That smells bad.",
-        "explanation": {
+        "ar": "ذلك سيء الرائحة.",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "تستخدم smells في المضارع البسيط لوصف رائحة الشيء الحالية أو الانطباع العام عنها، وتضاف s لأن الفاعل مفرد."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "That",
+            "description": "ذلك الشيء أو المصدر الذي تشير إليه."
+          },
+          {
+            "term": "smells",
+            "description": "رائحته تبدو أو تصل إلى الأنف، وتأتي بصيغة تناسب المفرد."
+          },
+          {
+            "term": "bad",
+            "description": "سيئ أو غير لطيف في هذا السياق."
+          }
+        ]
       }
     ],
     "examples": [

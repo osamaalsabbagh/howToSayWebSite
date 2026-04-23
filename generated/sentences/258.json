@@ -7,36 +7,37 @@
     "context": "اسأل عن مكان شراء التذاكر."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Where",
-        "description": "أين، وتستخدم للسؤال عن مكان."
-      },
-      {
-        "term": "can",
-        "description": "تستخدم للسؤال عن الإمكانية أو المكان المناسب لفعل شيء."
-      },
-      {
-        "term": "I",
-        "description": "أنا، وتشير إلى المتكلم."
-      },
-      {
-        "term": "buy",
-        "description": "أشتري."
-      },
-      {
-        "term": "tickets",
-        "description": "تذاكر."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "Where can I buy tickets?",
-        "explanation": {
+        "ar": "أين يمكنني شراء التذاكر؟",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذه صيغة سؤال عن المكان باستخدام تركيب يدل على الإمكانية، والفعل بعدها بصيغته الأساسية، لذلك تشرح كتركيب سؤال لا كزمن مستقل."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Where",
+            "description": "أين، وتستخدم للسؤال عن مكان."
+          },
+          {
+            "term": "can",
+            "description": "تستخدم للسؤال عن الإمكانية أو المكان المناسب لفعل شيء."
+          },
+          {
+            "term": "I",
+            "description": "أنا، وتشير إلى المتكلم."
+          },
+          {
+            "term": "buy",
+            "description": "أشتري."
+          },
+          {
+            "term": "tickets",
+            "description": "تذاكر."
+          }
+        ]
       }
     ],
     "examples": [

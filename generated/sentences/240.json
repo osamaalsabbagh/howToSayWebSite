@@ -7,36 +7,37 @@
     "context": "اعرض دفع تكلفة العشاء."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "I",
-        "description": "أنا، وتشير إلى المتكلم."
-      },
-      {
-        "term": "will",
-        "description": "تدل على قرار أو وعد بفعل شيء."
-      },
-      {
-        "term": "pay",
-        "description": "أدفع المال."
-      },
-      {
-        "term": "for",
-        "description": "ثمن أو مقابل، وتربط الدفع بالشيء المدفوع عنه."
-      },
-      {
-        "term": "dinner",
-        "description": "العشاء أو وجبة المساء."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "I will pay for dinner.",
-        "explanation": {
+        "ar": "سأدفع ثمن العشاء.",
+        "grammar": {
           "tense": "المستقبل البسيط",
           "tenseEn": "Future Simple",
           "reason": "يستخدم المستقبل البسيط للتعبير عن عرض أو قرار بدفع تكلفة العشاء لاحقًا أو عند انتهاء الوجبة."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "أنا، وتشير إلى المتكلم."
+          },
+          {
+            "term": "will",
+            "description": "تدل على قرار أو وعد بفعل شيء."
+          },
+          {
+            "term": "pay",
+            "description": "أدفع المال."
+          },
+          {
+            "term": "for",
+            "description": "ثمن أو مقابل، وتربط الدفع بالشيء المدفوع عنه."
+          },
+          {
+            "term": "dinner",
+            "description": "العشاء أو وجبة المساء."
+          }
+        ]
       }
     ],
     "examples": [

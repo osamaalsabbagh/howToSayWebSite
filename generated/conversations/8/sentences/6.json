@@ -7,60 +7,61 @@
     "context": "ذكر نشاط الطفل المفضل"
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Yes",
-        "description": "كلمة تأكيد أو موافقة."
-      },
-      {
-        "term": "and",
-        "description": "حرف عطف يضيف معلومة جديدة."
-      },
-      {
-        "term": "he",
-        "description": "ضمير يعود على الطفل."
-      },
-      {
-        "term": "even",
-        "description": "تستخدم للتأكيد وإظهار أن المعلومة لطيفة أو مفاجئة."
-      },
-      {
-        "term": "likes",
-        "description": "تعني يحب أو يستمتع."
-      },
-      {
-        "term": "riding",
-        "description": "الركوب أو الجلوس على شيء يتحرك أو يُحمل."
-      },
-      {
-        "term": "on",
-        "description": "تعني على سطح أو فوق شيء."
-      },
-      {
-        "term": "his",
-        "description": "صفة ملكية تعني الخاص به."
-      },
-      {
-        "term": "father's",
-        "description": "تعني الخاص بوالده."
-      },
-      {
-        "term": "back",
-        "description": "ظهر الإنسان."
-      },
-      {
-        "term": "now",
-        "description": "الآن، في هذه الفترة الحالية."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "Yes, and he even likes riding on his father's back now.",
-        "explanation": {
+        "ar": "نعم، وهو حتى يحب الركوب على ظهر والده الآن.",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "استُعمل المضارع البسيط لوصف شيء يحبه الطفل في الفترة الحالية."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Yes",
+            "description": "كلمة تأكيد أو موافقة."
+          },
+          {
+            "term": "and",
+            "description": "حرف عطف يضيف معلومة جديدة."
+          },
+          {
+            "term": "he",
+            "description": "ضمير يعود على الطفل."
+          },
+          {
+            "term": "even",
+            "description": "تستخدم للتأكيد وإظهار أن المعلومة لطيفة أو مفاجئة."
+          },
+          {
+            "term": "likes",
+            "description": "تعني يحب أو يستمتع."
+          },
+          {
+            "term": "riding",
+            "description": "الركوب أو الجلوس على شيء يتحرك أو يُحمل."
+          },
+          {
+            "term": "on",
+            "description": "تعني على سطح أو فوق شيء."
+          },
+          {
+            "term": "his",
+            "description": "صفة ملكية تعني الخاص به."
+          },
+          {
+            "term": "father's",
+            "description": "تعني الخاص بوالده."
+          },
+          {
+            "term": "back",
+            "description": "ظهر الإنسان."
+          },
+          {
+            "term": "now",
+            "description": "الآن، في هذه الفترة الحالية."
+          }
+        ]
       }
     ],
     "examples": [

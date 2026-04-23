@@ -7,44 +7,48 @@
     "context": "رد على سؤال عن الحال بأنك بحال جيد واسأل بالمقابل."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "I",
-        "description": "ضمير المتكلم ويشير إلى الشخص الذي يتحدث."
-      },
-      {
-        "term": "am",
-        "description": "صيغة تأتي مع ضمير المتكلم المفرد وتربط الشخص بحالته."
-      },
-      {
-        "term": "good",
-        "description": "بخير أو في حالة جيدة."
-      },
-      {
-        "term": "and",
-        "description": "تربط بين الرد والسؤال المقابل."
-      },
-      {
-        "term": "you",
-        "description": "ضمير يشير إلى الشخص الذي أتحدث معه."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "I am good",
-        "explanation": {
+        "ar": "أنا جيد، وأنت؟",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "تستخدم am مع صفة لوصف حالة المتكلم الحالية في رد قصير على سؤال عن الحال."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير المتكلم ويشير إلى الشخص الذي يتحدث."
+          },
+          {
+            "term": "am",
+            "description": "صيغة تأتي مع ضمير المتكلم المفرد وتربط الشخص بحالته."
+          },
+          {
+            "term": "good",
+            "description": "بخير أو في حالة جيدة."
+          }
+        ]
       },
       {
         "sentence": "and you?",
-        "explanation": {
+        "ar": "أنا جيد، وأنت؟",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذا سؤال مقابل مختصر يعني السؤال عن حال المخاطب، ولا يحتوي على فعل ظاهر أو زمن مستقل."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "and",
+            "description": "تربط بين الرد والسؤال المقابل."
+          },
+          {
+            "term": "you",
+            "description": "ضمير يشير إلى الشخص الذي أتحدث معه."
+          }
+        ]
       }
     ],
     "examples": [

@@ -7,24 +7,25 @@
     "context": "اطلب من شخص أن يتبعك."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Follow",
-        "description": "اتبع أو سر خلف شخص أو افعل مثله."
-      },
-      {
-        "term": "me",
-        "description": "إياي أو خلفي، وتشير إلى المتكلم."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "Follow me.",
-        "explanation": {
+        "ar": "اتبعني.",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذه جملة أمر مباشرة تبدأ بالفعل الأساسي لطلب أن يتبع المخاطب المتكلم، ولا تصف حدثًا بزمن مستقل."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Follow",
+            "description": "اتبع أو سر خلف شخص أو افعل مثله."
+          },
+          {
+            "term": "me",
+            "description": "إياي أو خلفي، وتشير إلى المتكلم."
+          }
+        ]
       }
     ],
     "examples": [

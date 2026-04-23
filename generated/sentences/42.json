@@ -7,28 +7,29 @@
     "context": "اعرض الدفع."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "I",
-        "description": "ضمير المتكلم ويشير إلى الشخص الذي يتحدث."
-      },
-      {
-        "term": "will",
-        "description": "كلمة تدل هنا على قرار أو عرض للقيام بالفعل."
-      },
-      {
-        "term": "pay",
-        "description": "أدفع المال مقابل شيء."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "I will pay.",
-        "explanation": {
+        "ar": "سأدفع.",
+        "grammar": {
           "tense": "المستقبل البسيط",
           "tenseEn": "Future Simple",
           "reason": "تستخدم will هنا لعرض القيام بالدفع أو إعلان قرار فوري بأن المتكلم سيدفع."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير المتكلم ويشير إلى الشخص الذي يتحدث."
+          },
+          {
+            "term": "will",
+            "description": "كلمة تدل هنا على قرار أو عرض للقيام بالفعل."
+          },
+          {
+            "term": "pay",
+            "description": "أدفع المال مقابل شيء."
+          }
+        ]
       }
     ],
     "examples": [

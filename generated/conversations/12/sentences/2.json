@@ -7,64 +7,71 @@
     "context": "موظف خدمة العملاء يرد التحية ويوافق على تقديم الإجابة فورًا."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Hello",
-        "description": "تحية لبدء الرد على المكالمة."
-      },
-      {
-        "term": "Sure",
-        "description": "كلمة موافقة تعني بالتأكيد."
-      },
-      {
-        "term": "I",
-        "description": "ضمير المتكلم المفرد."
-      },
-      {
-        "term": "can",
-        "description": "تدل هنا على القدرة أو الاستعداد للمساعدة."
-      },
-      {
-        "term": "answer",
-        "description": "يجيب عن سؤال."
-      },
-      {
-        "term": "your",
-        "description": "يدل على أن السؤال يخص المخاطب."
-      },
-      {
-        "term": "question",
-        "description": "سؤال أو استفسار."
-      },
-      {
-        "term": "now",
-        "description": "في هذه اللحظة."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "Hello",
-        "explanation": {
+        "ar": "مرحبًا! بالتأكيد، أستطيع أن أجيب على سؤالك الآن.",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "تحية قصيرة وليست جملة بزمن مستقل."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Hello",
+            "description": "تحية لبدء الرد على المكالمة."
+          }
+        ]
       },
       {
         "sentence": "Sure",
-        "explanation": {
+        "ar": "مرحبًا! بالتأكيد، أستطيع أن أجيب على سؤالك الآن.",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "كلمة موافقة ثابتة لا تحمل زمنًا مستقلًا."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Sure",
+            "description": "كلمة موافقة تعني بالتأكيد."
+          }
+        ]
       },
       {
         "sentence": "I can answer your question now",
-        "explanation": {
+        "ar": "مرحبًا! بالتأكيد، أستطيع أن أجيب على سؤالك الآن.",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "الجملة تستخدم can للتعبير عن القدرة والاستعداد للإجابة الآن، لذلك تُفهم كتركيب قدرة لا كزمن مستقل."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير المتكلم المفرد."
+          },
+          {
+            "term": "can",
+            "description": "تدل هنا على القدرة أو الاستعداد للمساعدة."
+          },
+          {
+            "term": "answer",
+            "description": "يجيب عن سؤال."
+          },
+          {
+            "term": "your",
+            "description": "يدل على أن السؤال يخص المخاطب."
+          },
+          {
+            "term": "question",
+            "description": "سؤال أو استفسار."
+          },
+          {
+            "term": "now",
+            "description": "في هذه اللحظة."
+          }
+        ]
       }
     ],
     "examples": [

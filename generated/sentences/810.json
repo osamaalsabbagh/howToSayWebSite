@@ -1,89 +1,90 @@
 {
-	"schemaVersion": 1,
-	"id": 810,
-	"sentence": {
-		"en": "Yes.",
-		"ar": "نعم.",
-		"context": "رد بالإيجاب على سؤال ما."
-	},
-	"lesson": {
-		"wordMeanings": [
-			{
-				"term": "Yes",
-				"description": "كلمة تُستخدم للموافقة أو للإجابة بالإيجاب على سؤال"
-			}
-		],
-		"grammarExplanations": [
-			{
-				"sentence": "Yes.",
-				"explanation": {
-					"tense": null,
-					"tenseEn": null,
-					"reason": "هذه كلمة تُستخدم كإجابة قصيرة مستقلة للتعبير عن الموافقة أو التأكيد، ولا ترتبط بزمن معين"
-				}
-			}
-		],
-		"examples": [
-			{
-				"id": 1,
-				"en": "Yes, I understand.",
-				"ar": "نعم، أنا أفهم.",
-				"context": "تأكيد الفهم بعد شرح"
-			},
-			{
-				"id": 2,
-				"en": "Yes, I can do that.",
-				"ar": "نعم، أستطيع فعل ذلك.",
-				"context": "الموافقة على طلب"
-			},
-			{
-				"id": 3,
-				"en": "Yes, that is correct.",
-				"ar": "نعم، هذا صحيح.",
-				"context": "تأكيد صحة معلومة"
-			},
-			{
-				"id": 4,
-				"en": "Yes, I agree with you.",
-				"ar": "نعم، أنا أتفق معك.",
-				"context": "إظهار الموافقة على رأي"
-			},
-			{
-				"id": 5,
-				"en": "Yes, I will come.",
-				"ar": "نعم، سوف آتي.",
-				"context": "تأكيد الحضور في المستقبل"
-			},
-			{
-				"id": 6,
-				"en": "Yes, it is possible.",
-				"ar": "نعم، هذا ممكن.",
-				"context": "التأكيد على إمكانية شيء"
-			},
-			{
-				"id": 7,
-				"en": "Yes, I have seen it.",
-				"ar": "نعم، لقد رأيته.",
-				"context": "تأكيد حدوث تجربة سابقة"
-			},
-			{
-				"id": 8,
-				"en": "Yes, please.",
-				"ar": "نعم، من فضلك.",
-				"context": "الموافقة على عرض أو اقتراح"
-			},
-			{
-				"id": 9,
-				"en": "Yes, that sounds good.",
-				"ar": "نعم، يبدو ذلك جيدًا.",
-				"context": "الموافقة على فكرة أو خطة"
-			},
-			{
-				"id": 10,
-				"en": "Yes, I am ready.",
-				"ar": "نعم، أنا مستعد.",
-				"context": "تأكيد الاستعداد للبدء"
-			}
-		]
-	}
+  "schemaVersion": 1,
+  "id": 810,
+  "sentence": {
+    "en": "Yes.",
+    "ar": "نعم.",
+    "context": "رد بالإيجاب على سؤال ما."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Yes.",
+        "ar": "نعم.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه كلمة تُستخدم كإجابة قصيرة مستقلة للتعبير عن الموافقة أو التأكيد، ولا ترتبط بزمن معين"
+        },
+        "wordMeanings": [
+          {
+            "term": "Yes",
+            "description": "كلمة تُستخدم للموافقة أو للإجابة بالإيجاب على سؤال"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Yes, I understand.",
+        "ar": "نعم، أنا أفهم.",
+        "context": "تأكيد الفهم بعد شرح"
+      },
+      {
+        "id": 2,
+        "en": "Yes, I can do that.",
+        "ar": "نعم، أستطيع فعل ذلك.",
+        "context": "الموافقة على طلب"
+      },
+      {
+        "id": 3,
+        "en": "Yes, that is correct.",
+        "ar": "نعم، هذا صحيح.",
+        "context": "تأكيد صحة معلومة"
+      },
+      {
+        "id": 4,
+        "en": "Yes, I agree with you.",
+        "ar": "نعم، أنا أتفق معك.",
+        "context": "إظهار الموافقة على رأي"
+      },
+      {
+        "id": 5,
+        "en": "Yes, I will come.",
+        "ar": "نعم، سوف آتي.",
+        "context": "تأكيد الحضور في المستقبل"
+      },
+      {
+        "id": 6,
+        "en": "Yes, it is possible.",
+        "ar": "نعم، هذا ممكن.",
+        "context": "التأكيد على إمكانية شيء"
+      },
+      {
+        "id": 7,
+        "en": "Yes, I have seen it.",
+        "ar": "نعم، لقد رأيته.",
+        "context": "تأكيد حدوث تجربة سابقة"
+      },
+      {
+        "id": 8,
+        "en": "Yes, please.",
+        "ar": "نعم، من فضلك.",
+        "context": "الموافقة على عرض أو اقتراح"
+      },
+      {
+        "id": 9,
+        "en": "Yes, that sounds good.",
+        "ar": "نعم، يبدو ذلك جيدًا.",
+        "context": "الموافقة على فكرة أو خطة"
+      },
+      {
+        "id": 10,
+        "en": "Yes, I am ready.",
+        "ar": "نعم، أنا مستعد.",
+        "context": "تأكيد الاستعداد للبدء"
+      }
+    ]
+  }
 }

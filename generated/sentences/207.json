@@ -7,32 +7,33 @@
     "context": "اسأل عن موعد الوصول المعتاد لشخص."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "When",
-        "description": "متى، وتستخدم للسؤال عن موعد."
-      },
-      {
-        "term": "does",
-        "description": "تأتي في السؤال مع المفرد لتكوين سؤال في الحاضر."
-      },
-      {
-        "term": "he",
-        "description": "هو، وتشير إلى رجل أو ذكر."
-      },
-      {
-        "term": "arrive",
-        "description": "يصل إلى المكان."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "When does he arrive?",
-        "explanation": {
+        "ar": "متى يصل؟",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "يستخدم المضارع البسيط للسؤال عن موعد مقرر أو معتاد لوصوله، وليس عن وصول يحدث الآن."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "When",
+            "description": "متى، وتستخدم للسؤال عن موعد."
+          },
+          {
+            "term": "does",
+            "description": "تأتي في السؤال مع المفرد لتكوين سؤال في الحاضر."
+          },
+          {
+            "term": "he",
+            "description": "هو، وتشير إلى رجل أو ذكر."
+          },
+          {
+            "term": "arrive",
+            "description": "يصل إلى المكان."
+          }
+        ]
       }
     ],
     "examples": [

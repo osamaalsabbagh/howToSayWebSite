@@ -7,36 +7,37 @@
     "context": "تحدث عن هواية مفضلة."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "I",
-        "description": "ضمير المتكلم المفرد."
-      },
-      {
-        "term": "like",
-        "description": "أحب أو أستمتع."
-      },
-      {
-        "term": "to",
-        "description": "تأتي قبل الفعل لتوضيح النشاط المحبوب."
-      },
-      {
-        "term": "watch",
-        "description": "أشاهد أو أنظر إلى شيء لفترة."
-      },
-      {
-        "term": "TV",
-        "description": "التلفاز أو البرامج التلفزيونية."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "I like to watch TV.",
-        "explanation": {
+        "ar": "أحب مشاهدة التلفاز.",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "يستخدم المضارع البسيط للتعبير عن تفضيل أو عادة عامة، ويأتي to قبل الفعل watch لتوضيح النشاط المحبوب."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير المتكلم المفرد."
+          },
+          {
+            "term": "like",
+            "description": "أحب أو أستمتع."
+          },
+          {
+            "term": "to",
+            "description": "تأتي قبل الفعل لتوضيح النشاط المحبوب."
+          },
+          {
+            "term": "watch",
+            "description": "أشاهد أو أنظر إلى شيء لفترة."
+          },
+          {
+            "term": "TV",
+            "description": "التلفاز أو البرامج التلفزيونية."
+          }
+        ]
       }
     ],
     "examples": [

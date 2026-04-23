@@ -7,32 +7,33 @@
     "context": "تذكرة للسفر ذهابًا وإيابًا."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "A",
-        "description": "أداة تدل على شيء واحد غير محدد."
-      },
-      {
-        "term": "round",
-        "description": "جزء من وصف التذكرة ويعني هنا أن الرحلة تشمل الذهاب والعودة."
-      },
-      {
-        "term": "trip",
-        "description": "رحلة أو سفر من مكان إلى آخر."
-      },
-      {
-        "term": "ticket",
-        "description": "تذكرة تسمح بالسفر أو الركوب."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "A round trip ticket.",
-        "explanation": {
+        "ar": "تذكرة ذهاب وعودة.",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذه عبارة اسمية تصف نوع التذكرة، ولا تحتوي على فعل ظاهر أو زمن مستقل."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "A",
+            "description": "أداة تدل على شيء واحد غير محدد."
+          },
+          {
+            "term": "round",
+            "description": "جزء من وصف التذكرة ويعني هنا أن الرحلة تشمل الذهاب والعودة."
+          },
+          {
+            "term": "trip",
+            "description": "رحلة أو سفر من مكان إلى آخر."
+          },
+          {
+            "term": "ticket",
+            "description": "تذكرة تسمح بالسفر أو الركوب."
+          }
+        ]
       }
     ],
     "examples": [

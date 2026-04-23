@@ -7,28 +7,29 @@
     "context": "أعطِ تعليمات بسيطة للاتجاه."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Go",
-        "description": "اذهب أو تحرك في اتجاه معين."
-      },
-      {
-        "term": "straight",
-        "description": "مباشرة أو بدون انعطاف."
-      },
-      {
-        "term": "ahead",
-        "description": "إلى الأمام في الاتجاه الذي تواجهه."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "Go straight ahead.",
-        "explanation": {
+        "ar": "اذهب مباشرة إلى الأمام.",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذه جملة أمر تستخدم الفعل الأساسي في البداية لإعطاء اتجاه، ولا تصف حدثًا بزمن مستقل."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Go",
+            "description": "اذهب أو تحرك في اتجاه معين."
+          },
+          {
+            "term": "straight",
+            "description": "مباشرة أو بدون انعطاف."
+          },
+          {
+            "term": "ahead",
+            "description": "إلى الأمام في الاتجاه الذي تواجهه."
+          }
+        ]
       }
     ],
     "examples": [

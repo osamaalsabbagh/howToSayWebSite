@@ -7,60 +7,61 @@
     "context": "يوضح أنه على وشك السفر من هذا المطار خلال وقت قصير"
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Yes",
-        "description": "كلمة تأكيد أو موافقة."
-      },
-      {
-        "term": "I",
-        "description": "ضمير المتكلم المفرد."
-      },
-      {
-        "term": "have",
-        "description": "تعني لدي أو أملك في هذا السياق."
-      },
-      {
-        "term": "a",
-        "description": "أداة نكرة قبل اسم مفرد."
-      },
-      {
-        "term": "flight",
-        "description": "رحلة جوية."
-      },
-      {
-        "term": "to",
-        "description": "حرف يوضح وجهة الرحلة."
-      },
-      {
-        "term": "Los",
-        "description": "جزء من اسم مدينة لوس أنجلوس."
-      },
-      {
-        "term": "Angeles",
-        "description": "جزء من اسم مدينة لوس أنجلوس."
-      },
-      {
-        "term": "in",
-        "description": "تستخدم هنا لتحديد مدة قبل حدوث الرحلة."
-      },
-      {
-        "term": "an",
-        "description": "أداة نكرة قبل كلمة تبدأ بصوت علّة."
-      },
-      {
-        "term": "hour",
-        "description": "ساعة واحدة."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "Yes, I have a flight to Los Angeles in an hour.",
-        "explanation": {
+        "ar": "نعم، لدي رحلة إلى لوس أنجلوس خلال ساعة.",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "استُعمل المضارع البسيط لأن المتكلم يذكر معلومة حالية عن رحلته القادمة ووقت حدوثها."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Yes",
+            "description": "كلمة تأكيد أو موافقة."
+          },
+          {
+            "term": "I",
+            "description": "ضمير المتكلم المفرد."
+          },
+          {
+            "term": "have",
+            "description": "تعني لدي أو أملك في هذا السياق."
+          },
+          {
+            "term": "a",
+            "description": "أداة نكرة قبل اسم مفرد."
+          },
+          {
+            "term": "flight",
+            "description": "رحلة جوية."
+          },
+          {
+            "term": "to",
+            "description": "حرف يوضح وجهة الرحلة."
+          },
+          {
+            "term": "Los",
+            "description": "جزء من اسم مدينة لوس أنجلوس."
+          },
+          {
+            "term": "Angeles",
+            "description": "جزء من اسم مدينة لوس أنجلوس."
+          },
+          {
+            "term": "in",
+            "description": "تستخدم هنا لتحديد مدة قبل حدوث الرحلة."
+          },
+          {
+            "term": "an",
+            "description": "أداة نكرة قبل كلمة تبدأ بصوت علّة."
+          },
+          {
+            "term": "hour",
+            "description": "ساعة واحدة."
+          }
+        ]
       }
     ],
     "examples": [

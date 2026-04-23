@@ -7,24 +7,25 @@
     "context": "اذكر مبلغًا ماليًا صغيرًا."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "52",
-        "description": "العدد اثنان وخمسون."
-      },
-      {
-        "term": "cents",
-        "description": "سنتات، وهي أجزاء صغيرة من الدولار."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "52 cents.",
-        "explanation": {
+        "ar": "٥٢ سنتًا.",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذه عبارة مبلغ مالي مختصرة بلا فعل ظاهر، وتستخدم لذكر قيمة صغيرة فقط."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "52",
+            "description": "العدد اثنان وخمسون."
+          },
+          {
+            "term": "cents",
+            "description": "سنتات، وهي أجزاء صغيرة من الدولار."
+          }
+        ]
       }
     ],
     "examples": [

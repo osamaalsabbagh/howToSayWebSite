@@ -7,40 +7,41 @@
     "context": "اطلب تذكرة إلى نيويورك."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "One",
-        "description": "واحدة، وتحدد عدد التذاكر المطلوبة."
-      },
-      {
-        "term": "ticket",
-        "description": "تذكرة للسفر أو الدخول."
-      },
-      {
-        "term": "to",
-        "description": "إلى، وتربط التذكرة بالوجهة."
-      },
-      {
-        "term": "New",
-        "description": "جزء من اسم مدينة نيويورك."
-      },
-      {
-        "term": "York",
-        "description": "جزء من اسم مدينة نيويورك."
-      },
-      {
-        "term": "please",
-        "description": "من فضلك، وتجعل الطلب مهذبًا."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "One ticket to New York please.",
-        "explanation": {
+        "ar": "تذكرة واحدة إلى نيويورك من فضلك.",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذه عبارة طلب مختصرة في موقف شراء تذكرة، وفيها حذف لكلمات مفهومة مثل أريد، لذلك لا تحمل زمنًا مستقلًا."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "One",
+            "description": "واحدة، وتحدد عدد التذاكر المطلوبة."
+          },
+          {
+            "term": "ticket",
+            "description": "تذكرة للسفر أو الدخول."
+          },
+          {
+            "term": "to",
+            "description": "إلى، وتربط التذكرة بالوجهة."
+          },
+          {
+            "term": "New",
+            "description": "جزء من اسم مدينة نيويورك."
+          },
+          {
+            "term": "York",
+            "description": "جزء من اسم مدينة نيويورك."
+          },
+          {
+            "term": "please",
+            "description": "من فضلك، وتجعل الطلب مهذبًا."
+          }
+        ]
       }
     ],
     "examples": [

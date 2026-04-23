@@ -7,32 +7,33 @@
     "context": "حدد جنسيتك."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "I",
-        "description": "ضمير المتكلم ويشير إلى الشخص الذي يتحدث."
-      },
-      {
-        "term": "am",
-        "description": "صيغة تأتي مع ضمير المتكلم المفرد وتربط الشخص بوصفه أو هويته."
-      },
-      {
-        "term": "an",
-        "description": "أداة تأتي قبل اسم مفرد يبدأ بصوت متحرك."
-      },
-      {
-        "term": "American",
-        "description": "شخص أمريكي أو صاحب جنسية أمريكية."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "I am an American.",
-        "explanation": {
+        "ar": "أنا أمريكي.",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "تستخدم الجملة المضارع البسيط مع am للتعريف بالهوية أو الجنسية الحالية للمتكلم."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير المتكلم ويشير إلى الشخص الذي يتحدث."
+          },
+          {
+            "term": "am",
+            "description": "صيغة تأتي مع ضمير المتكلم المفرد وتربط الشخص بوصفه أو هويته."
+          },
+          {
+            "term": "an",
+            "description": "أداة تأتي قبل اسم مفرد يبدأ بصوت متحرك."
+          },
+          {
+            "term": "American",
+            "description": "شخص أمريكي أو صاحب جنسية أمريكية."
+          }
+        ]
       }
     ],
     "examples": [

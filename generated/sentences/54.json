@@ -7,28 +7,29 @@
     "context": "عبّر عن الشعور بالجوع."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "I",
-        "description": "ضمير المتكلم ويشير إلى الشخص الذي يتحدث."
-      },
-      {
-        "term": "am",
-        "description": "صيغة تأتي مع ضمير المتكلم المفرد وتربط الشخص بحالته."
-      },
-      {
-        "term": "hungry",
-        "description": "جائع أو يحتاج إلى الطعام."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "I am hungry.",
-        "explanation": {
+        "ar": "أنا جائع.",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "تستخدم الجملة am مع صفة لوصف حالة المتكلم الحالية، وهي الشعور بالجوع."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير المتكلم ويشير إلى الشخص الذي يتحدث."
+          },
+          {
+            "term": "am",
+            "description": "صيغة تأتي مع ضمير المتكلم المفرد وتربط الشخص بحالته."
+          },
+          {
+            "term": "hungry",
+            "description": "جائع أو يحتاج إلى الطعام."
+          }
+        ]
       }
     ],
     "examples": [

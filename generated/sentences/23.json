@@ -7,32 +7,33 @@
     "context": "قل أنك لا تسمع شخصًا."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "I",
-        "description": "ضمير المتكلم ويشير إلى الشخص الذي يتحدث."
-      },
-      {
-        "term": "cannot",
-        "description": "تعني أنني غير قادر على فعل شيء."
-      },
-      {
-        "term": "hear",
-        "description": "أسمع أو ألتقط الصوت."
-      },
-      {
-        "term": "you",
-        "description": "ضمير يشير إلى الشخص الذي أتحدث معه."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "I cannot hear you.",
-        "explanation": {
+        "ar": "لا أستطيع سماعك.",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "الجملة تستخدم cannot للتعبير عن عدم القدرة على السمع في الموقف الحالي، وهذا تركيب قدرة أو عجز وليس زمنًا مستقلًا."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير المتكلم ويشير إلى الشخص الذي يتحدث."
+          },
+          {
+            "term": "cannot",
+            "description": "تعني أنني غير قادر على فعل شيء."
+          },
+          {
+            "term": "hear",
+            "description": "أسمع أو ألتقط الصوت."
+          },
+          {
+            "term": "you",
+            "description": "ضمير يشير إلى الشخص الذي أتحدث معه."
+          }
+        ]
       }
     ],
     "examples": [

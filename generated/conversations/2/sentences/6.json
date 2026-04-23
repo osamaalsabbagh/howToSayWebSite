@@ -7,72 +7,76 @@
     "context": "يُفاجئه بأنه كان يعمل سابقًا في مجال التمثيل"
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "That",
-        "description": "اسم أو صفة إشارة لشيء أبعد أو لمعلومة مذكورة."
-      },
-      {
-        "term": "is",
-        "description": "صيغة تربط اسم الإشارة بالوصف الذي بعده."
-      },
-      {
-        "term": "funny",
-        "description": "صفة تعني طريف."
-      },
-      {
-        "term": "I",
-        "description": "ضمير المتكلم المفرد."
-      },
-      {
-        "term": "used",
-        "description": "جزء من تركيب يدل على شيء كان صحيحًا في الماضي ولم يعد كذلك الآن."
-      },
-      {
-        "term": "to",
-        "description": "تأتي هنا ضمن تركيب يدل على حالة أو عادة سابقة."
-      },
-      {
-        "term": "be",
-        "description": "تعني يكون، وتوضح هنا المهنة السابقة للشخص."
-      },
-      {
-        "term": "an",
-        "description": "أداة نكرة تأتي قبل الاسم المفرد الذي يبدأ بصوت علّة."
-      },
-      {
-        "term": "actor",
-        "description": "اسم يعني ممثلا."
-      },
-      {
-        "term": "before",
-        "description": "ظرف أو حرف جر يعني قبل."
-      },
-      {
-        "term": "switching",
-        "description": "تعني تغيير أو انتقال من شيء إلى آخر، وهنا تغيير المسار المهني."
-      },
-      {
-        "term": "careers",
-        "description": "جمع مسار مهني أو مجال عمل."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "That is funny!",
-        "explanation": {
+        "ar": "هذا طريف!",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "استُعمل المضارع البسيط لأن هذا الجزء يصف حالة أو حقيقة أو معنى حاضرًا في سياق الكلام."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "That",
+            "description": "اسم أو صفة إشارة لشيء أبعد أو لمعلومة مذكورة."
+          },
+          {
+            "term": "is",
+            "description": "صيغة تربط اسم الإشارة بالوصف الذي بعده."
+          },
+          {
+            "term": "funny",
+            "description": "صفة تعني طريف."
+          }
+        ]
       },
       {
         "sentence": "I used to be an actor before switching careers.",
-        "explanation": {
+        "ar": "كنت ممثلًا قبل أن أغير مساري المهني.",
+        "grammar": {
           "tense": "الماضي البسيط",
           "tenseEn": "Past Simple",
           "reason": "استُعمل الماضي البسيط داخل تركيب يدل على حالة أو عادة كانت صحيحة في الماضي ولم تعد كذلك الآن."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير المتكلم المفرد."
+          },
+          {
+            "term": "used",
+            "description": "جزء من تركيب يدل على شيء كان صحيحًا في الماضي ولم يعد كذلك الآن."
+          },
+          {
+            "term": "to",
+            "description": "تأتي هنا ضمن تركيب يدل على حالة أو عادة سابقة."
+          },
+          {
+            "term": "be",
+            "description": "تعني يكون، وتوضح هنا المهنة السابقة للشخص."
+          },
+          {
+            "term": "an",
+            "description": "أداة نكرة تأتي قبل الاسم المفرد الذي يبدأ بصوت علّة."
+          },
+          {
+            "term": "actor",
+            "description": "اسم يعني ممثلا."
+          },
+          {
+            "term": "before",
+            "description": "ظرف أو حرف جر يعني قبل."
+          },
+          {
+            "term": "switching",
+            "description": "تعني تغيير أو انتقال من شيء إلى آخر، وهنا تغيير المسار المهني."
+          },
+          {
+            "term": "careers",
+            "description": "جمع مسار مهني أو مجال عمل."
+          }
+        ]
       }
     ],
     "examples": [

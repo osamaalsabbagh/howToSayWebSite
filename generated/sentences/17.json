@@ -7,32 +7,33 @@
     "context": "أخبر أن شخصًا معروف."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "He",
-        "description": "ضمير يشير إلى رجل أو ولد معروف من السياق."
-      },
-      {
-        "term": "is",
-        "description": "صيغة تأتي مع المفرد الغائب وتربط الشخص بوصفه الحالي."
-      },
-      {
-        "term": "very",
-        "description": "كلمة تقوي الصفة وتجعلها بدرجة كبيرة."
-      },
-      {
-        "term": "famous",
-        "description": "مشهور أو معروف عند كثير من الناس."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "He is very famous.",
-        "explanation": {
+        "ar": "هو مشهور جدًا.",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "تصف الجملة حالة أو صفة حالية لشخص، لذلك تستخدم المضارع البسيط مع is، وتأتي very لتقوية الصفة."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "He",
+            "description": "ضمير يشير إلى رجل أو ولد معروف من السياق."
+          },
+          {
+            "term": "is",
+            "description": "صيغة تأتي مع المفرد الغائب وتربط الشخص بوصفه الحالي."
+          },
+          {
+            "term": "very",
+            "description": "كلمة تقوي الصفة وتجعلها بدرجة كبيرة."
+          },
+          {
+            "term": "famous",
+            "description": "مشهور أو معروف عند كثير من الناس."
+          }
+        ]
       }
     ],
     "examples": [

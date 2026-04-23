@@ -7,40 +7,41 @@
     "context": "اسأل عن المبلغ الذي يجب دفعه."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "How",
-        "description": "تبدأ سؤالًا عن المقدار."
-      },
-      {
-        "term": "much",
-        "description": "كم، وتستخدم مع المال."
-      },
-      {
-        "term": "do",
-        "description": "تأتي في السؤال مع أنا لتكوين سؤال في الحاضر."
-      },
-      {
-        "term": "I",
-        "description": "أنا، وتشير إلى المتكلم."
-      },
-      {
-        "term": "owe",
-        "description": "أدين أو يجب علي دفع مبلغ."
-      },
-      {
-        "term": "you",
-        "description": "لك أو أنت، وتشير إلى الشخص الذي سيستلم المال."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "How much do I owe you?",
-        "explanation": {
+        "ar": "كم أدين لك؟",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "يستخدم المضارع البسيط للسؤال عن المبلغ المستحق الآن الذي يجب على المتكلم دفعه."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "How",
+            "description": "تبدأ سؤالًا عن المقدار."
+          },
+          {
+            "term": "much",
+            "description": "كم، وتستخدم مع المال."
+          },
+          {
+            "term": "do",
+            "description": "تأتي في السؤال مع أنا لتكوين سؤال في الحاضر."
+          },
+          {
+            "term": "I",
+            "description": "أنا، وتشير إلى المتكلم."
+          },
+          {
+            "term": "owe",
+            "description": "أدين أو يجب علي دفع مبلغ."
+          },
+          {
+            "term": "you",
+            "description": "لك أو أنت، وتشير إلى الشخص الذي سيستلم المال."
+          }
+        ]
       }
     ],
     "examples": [

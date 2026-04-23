@@ -7,28 +7,29 @@
     "context": "أمر بالاتصال بالشرطة."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Call",
-        "description": "اتصل أو تواصل بالهاتف."
-      },
-      {
-        "term": "the",
-        "description": "أداة تشير إلى جهة معروفة ومحددة."
-      },
-      {
-        "term": "police",
-        "description": "الشرطة، وهي جهة الأمن الرسمية."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "Call the police.",
-        "explanation": {
+        "ar": "اتصل بالشرطة.",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذه جملة أمر مباشرة تبدأ بالفعل الأساسي لطلب الاتصال بالشرطة، ولا تصف حدثًا بزمن مستقل."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Call",
+            "description": "اتصل أو تواصل بالهاتف."
+          },
+          {
+            "term": "the",
+            "description": "أداة تشير إلى جهة معروفة ومحددة."
+          },
+          {
+            "term": "police",
+            "description": "الشرطة، وهي جهة الأمن الرسمية."
+          }
+        ]
       }
     ],
     "examples": [

@@ -7,40 +7,41 @@
     "context": "صف طول شيء ما."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "It",
-        "description": "ضمير يشير إلى الشيء أو الطريق أو المسافة المقصودة."
-      },
-      {
-        "term": "is",
-        "description": "صيغة تأتي مع المفرد وتربط الشيء بوصفه."
-      },
-      {
-        "term": "longer",
-        "description": "أطول، وتستخدم للمقارنة في الطول أو المسافة."
-      },
-      {
-        "term": "than",
-        "description": "من، وتأتي بعد صيغة المقارنة لبيان الشيء المقارَن به."
-      },
-      {
-        "term": "2",
-        "description": "العدد اثنان."
-      },
-      {
-        "term": "miles",
-        "description": "أميال، وهي وحدة قياس للمسافة."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "It is longer than 2 miles.",
-        "explanation": {
+        "ar": "إنه أطول من ميلين.",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "تستخدم is لوصف طول الشيء الحالي، وتأتي longer than للمقارنة وإظهار أن المسافة تتجاوز ميلين."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "It",
+            "description": "ضمير يشير إلى الشيء أو الطريق أو المسافة المقصودة."
+          },
+          {
+            "term": "is",
+            "description": "صيغة تأتي مع المفرد وتربط الشيء بوصفه."
+          },
+          {
+            "term": "longer",
+            "description": "أطول، وتستخدم للمقارنة في الطول أو المسافة."
+          },
+          {
+            "term": "than",
+            "description": "من، وتأتي بعد صيغة المقارنة لبيان الشيء المقارَن به."
+          },
+          {
+            "term": "2",
+            "description": "العدد اثنان."
+          },
+          {
+            "term": "miles",
+            "description": "أميال، وهي وحدة قياس للمسافة."
+          }
+        ]
       }
     ],
     "examples": [

@@ -7,32 +7,33 @@
     "context": "اسأل عن المسافة إلى مكان."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "How",
-        "description": "تستخدم هنا للسؤال عن مقدار المسافة."
-      },
-      {
-        "term": "far",
-        "description": "بعيد أو ذو مسافة."
-      },
-      {
-        "term": "is",
-        "description": "تربط السؤال بالمسافة الحالية أو المعروفة."
-      },
-      {
-        "term": "it",
-        "description": "يشير إلى المكان أو الطريق المقصود."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "How far is it?",
-        "explanation": {
+        "ar": "كم يبعد؟",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "السؤال يستخدم فعل الربط في الحاضر للسؤال عن مسافة عامة أو حالية إلى مكان مفهوم من السياق."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "How",
+            "description": "تستخدم هنا للسؤال عن مقدار المسافة."
+          },
+          {
+            "term": "far",
+            "description": "بعيد أو ذو مسافة."
+          },
+          {
+            "term": "is",
+            "description": "تربط السؤال بالمسافة الحالية أو المعروفة."
+          },
+          {
+            "term": "it",
+            "description": "يشير إلى المكان أو الطريق المقصود."
+          }
+        ]
       }
     ],
     "examples": [

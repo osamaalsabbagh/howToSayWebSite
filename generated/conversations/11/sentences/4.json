@@ -7,48 +7,49 @@
     "context": "الطالب يطلب أن يسأل سؤالًا إضافيًا"
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Can",
-        "description": "تبدأ سؤالًا عن الإمكانية أو الإذن، وتستعمل هنا لطلب السماح بلطف."
-      },
-      {
-        "term": "I",
-        "description": "ضمير المتكلم المفرد."
-      },
-      {
-        "term": "ask",
-        "description": "يطرح سؤالًا أو يستفسر."
-      },
-      {
-        "term": "another",
-        "description": "واحد إضافي غير السؤال السابق."
-      },
-      {
-        "term": "question",
-        "description": "سؤال أو استفسار."
-      },
-      {
-        "term": "about",
-        "description": "حول أو بخصوص."
-      },
-      {
-        "term": "the",
-        "description": "أداة تعريف تشير إلى موضوع معروف في الحديث."
-      },
-      {
-        "term": "topic",
-        "description": "الموضوع الذي يجري الكلام عنه."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "Can I ask another question about the topic?",
-        "explanation": {
+        "ar": "هل يمكنني أن أطرح سؤالًا آخر حول الموضوع؟",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "الجملة سؤال طلب إذن باستخدام Can، لذلك تُفهم بوظيفتها في طلب السماح وليست زمنًا مستقلًا."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Can",
+            "description": "تبدأ سؤالًا عن الإمكانية أو الإذن، وتستعمل هنا لطلب السماح بلطف."
+          },
+          {
+            "term": "I",
+            "description": "ضمير المتكلم المفرد."
+          },
+          {
+            "term": "ask",
+            "description": "يطرح سؤالًا أو يستفسر."
+          },
+          {
+            "term": "another",
+            "description": "واحد إضافي غير السؤال السابق."
+          },
+          {
+            "term": "question",
+            "description": "سؤال أو استفسار."
+          },
+          {
+            "term": "about",
+            "description": "حول أو بخصوص."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف تشير إلى موضوع معروف في الحديث."
+          },
+          {
+            "term": "topic",
+            "description": "الموضوع الذي يجري الكلام عنه."
+          }
+        ]
       }
     ],
     "examples": [

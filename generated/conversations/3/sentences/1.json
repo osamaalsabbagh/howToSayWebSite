@@ -7,92 +7,99 @@
     "context": "يسأل عن مكان النشاط الرياضي الذي شاهده في إعلان مكتوب"
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Hi",
-        "description": "تحية قصيرة وغير رسمية لبدء الحديث."
-      },
-      {
-        "term": "I",
-        "description": "ضمير المتكلم المفرد."
-      },
-      {
-        "term": "saw",
-        "description": "صيغة ماضية تعني رأيت أو لاحظت بعيني."
-      },
-      {
-        "term": "a",
-        "description": "أداة نكرة تأتي قبل اسم مفرد غير محدد."
-      },
-      {
-        "term": "sign",
-        "description": "إعلان أو لوحة مكتوبة تعطي معلومة."
-      },
-      {
-        "term": "about",
-        "description": "حرف يوضح موضوع الإعلان أو الكلام."
-      },
-      {
-        "term": "a",
-        "description": "أداة نكرة تأتي قبل اسم مفرد غير محدد."
-      },
-      {
-        "term": "new",
-        "description": "صفة تعني جديدًا أو لم يكن موجودًا من قبل."
-      },
-      {
-        "term": "fitness",
-        "description": "اللياقة البدنية أو التمارين المرتبطة بالصحة والحركة."
-      },
-      {
-        "term": "activity",
-        "description": "نشاط أو فعالية يشارك فيها الناس."
-      },
-      {
-        "term": "Is",
-        "description": "صيغة سؤال تربط الشيء بالوصف أو المكان المقصود."
-      },
-      {
-        "term": "this",
-        "description": "اسم إشارة يشير إلى المكان الحالي."
-      },
-      {
-        "term": "the",
-        "description": "أداة تعريف تشير إلى مكان محدد معروف من السياق."
-      },
-      {
-        "term": "right",
-        "description": "صفة تعني الصحيح أو المناسب."
-      },
-      {
-        "term": "place",
-        "description": "مكان أو موقع."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "Hi!",
-        "explanation": {
+        "ar": "مرحبًا!",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذه تحية قصيرة لبدء الكلام ولا تحمل زمنًا فعليًا مستقلًا."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Hi",
+            "description": "تحية قصيرة وغير رسمية لبدء الحديث."
+          }
+        ]
       },
       {
         "sentence": "I saw a sign about a new fitness activity.",
-        "explanation": {
+        "ar": "رأيت إعلانًا عن نشاط لياقة جديد.",
+        "grammar": {
           "tense": "الماضي البسيط",
           "tenseEn": "Past Simple",
           "reason": "استُعمل الماضي البسيط لأن رؤية الإعلان حدثت قبل لحظة السؤال."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير المتكلم المفرد."
+          },
+          {
+            "term": "saw",
+            "description": "صيغة ماضية تعني رأيت أو لاحظت بعيني."
+          },
+          {
+            "term": "a",
+            "description": "أداة نكرة تأتي قبل اسم مفرد غير محدد."
+          },
+          {
+            "term": "sign",
+            "description": "إعلان أو لوحة مكتوبة تعطي معلومة."
+          },
+          {
+            "term": "about",
+            "description": "حرف يوضح موضوع الإعلان أو الكلام."
+          },
+          {
+            "term": "a",
+            "description": "أداة نكرة تأتي قبل اسم مفرد غير محدد."
+          },
+          {
+            "term": "new",
+            "description": "صفة تعني جديدًا أو لم يكن موجودًا من قبل."
+          },
+          {
+            "term": "fitness",
+            "description": "اللياقة البدنية أو التمارين المرتبطة بالصحة والحركة."
+          },
+          {
+            "term": "activity",
+            "description": "نشاط أو فعالية يشارك فيها الناس."
+          }
+        ]
       },
       {
         "sentence": "Is this the right place?",
-        "explanation": {
+        "ar": "هل هذا هو المكان الصحيح؟",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "استُعمل المضارع البسيط في سؤال عن حالة المكان الحالي: هل هو المكان الصحيح الآن؟"
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Is",
+            "description": "صيغة سؤال تربط الشيء بالوصف أو المكان المقصود."
+          },
+          {
+            "term": "this",
+            "description": "اسم إشارة يشير إلى المكان الحالي."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف تشير إلى مكان محدد معروف من السياق."
+          },
+          {
+            "term": "right",
+            "description": "صفة تعني الصحيح أو المناسب."
+          },
+          {
+            "term": "place",
+            "description": "مكان أو موقع."
+          }
+        ]
       }
     ],
     "examples": [

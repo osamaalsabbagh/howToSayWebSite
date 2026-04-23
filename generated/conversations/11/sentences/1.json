@@ -7,48 +7,49 @@
     "context": "المعلم يسأل الصف إذا كان هناك من يعرف حل السؤال الثالث"
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Does",
-        "description": "أداة تبدأ سؤالًا في الحاضر مع فاعل مفرد أو غير محدد."
-      },
-      {
-        "term": "anyone",
-        "description": "أي شخص، وتُستخدم عندما لا نحدد شخصًا بعينه."
-      },
-      {
-        "term": "know",
-        "description": "يعرف أو لديه معلومة."
-      },
-      {
-        "term": "the",
-        "description": "أداة تعريف تشير إلى إجابة معروفة في السياق."
-      },
-      {
-        "term": "answer",
-        "description": "الإجابة أو الحل المطلوب."
-      },
-      {
-        "term": "to",
-        "description": "تربط الإجابة بالسؤال الذي تخصه."
-      },
-      {
-        "term": "question",
-        "description": "سؤال أو مسألة مطلوب حلها."
-      },
-      {
-        "term": "three",
-        "description": "العدد ثلاثة."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "Does anyone know the answer to question three?",
-        "explanation": {
+        "ar": "هل يعرف أي شخص الإجابة على السؤال ثلاثة؟",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "استُخدم المضارع البسيط لأن السؤال يستفسر عن معرفة موجودة الآن لدى أي شخص في الصف."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Does",
+            "description": "أداة تبدأ سؤالًا في الحاضر مع فاعل مفرد أو غير محدد."
+          },
+          {
+            "term": "anyone",
+            "description": "أي شخص، وتُستخدم عندما لا نحدد شخصًا بعينه."
+          },
+          {
+            "term": "know",
+            "description": "يعرف أو لديه معلومة."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف تشير إلى إجابة معروفة في السياق."
+          },
+          {
+            "term": "answer",
+            "description": "الإجابة أو الحل المطلوب."
+          },
+          {
+            "term": "to",
+            "description": "تربط الإجابة بالسؤال الذي تخصه."
+          },
+          {
+            "term": "question",
+            "description": "سؤال أو مسألة مطلوب حلها."
+          },
+          {
+            "term": "three",
+            "description": "العدد ثلاثة."
+          }
+        ]
       }
     ],
     "examples": [

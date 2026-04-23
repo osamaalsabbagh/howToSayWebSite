@@ -7,32 +7,33 @@
     "context": "اطلب من شخص تذكيرك."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Will",
-        "description": "تستخدم هنا في بداية سؤال مهذب لطلب فعل في المستقبل."
-      },
-      {
-        "term": "you",
-        "description": "أنت، وتشير إلى الشخص المخاطب."
-      },
-      {
-        "term": "remind",
-        "description": "تذكّر شخصًا بشيء حتى لا ينساه."
-      },
-      {
-        "term": "me",
-        "description": "إياي أو ني، وتشير إلى المتكلم."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "Will you remind me?",
-        "explanation": {
+        "ar": "هَلْ سَتُذَكِّرُنِي؟",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذه صيغة طلب مهذب باستخدام كلمة تدل على المستقبل أو الاستعداد، والمقصود طلب التذكير لا مجرد الإخبار عن زمن."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Will",
+            "description": "تستخدم هنا في بداية سؤال مهذب لطلب فعل في المستقبل."
+          },
+          {
+            "term": "you",
+            "description": "أنت، وتشير إلى الشخص المخاطب."
+          },
+          {
+            "term": "remind",
+            "description": "تذكّر شخصًا بشيء حتى لا ينساه."
+          },
+          {
+            "term": "me",
+            "description": "إياي أو ني، وتشير إلى المتكلم."
+          }
+        ]
       }
     ],
     "examples": [

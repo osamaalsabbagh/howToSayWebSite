@@ -5,5 +5,110 @@
     "en": "I would like to send a fax.",
     "ar": "أود إرسال فاكس.",
     "context": "طلب إرسال فاكس."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "I would like to send a fax.",
+        "ar": "أود إرسال فاكس.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "الجملة طلب خدمة مهذب باستخدام would like to ثم الفعل send، وتستخدم عند طلب إرسال مستند بالفاكس."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "تعني أنا."
+          },
+          {
+            "term": "would",
+            "description": "تجعل الرغبة أو الطلب مهذبا."
+          },
+          {
+            "term": "like",
+            "description": "مع would تعني أود."
+          },
+          {
+            "term": "to",
+            "description": "تأتي قبل الفعل send لتكوين معنى أود أن أرسل."
+          },
+          {
+            "term": "send",
+            "description": "تعني أرسل."
+          },
+          {
+            "term": "a",
+            "description": "أداة قبل اسم مفرد غير محدد."
+          },
+          {
+            "term": "fax",
+            "description": "رسالة أو مستند يرسل عبر جهاز الفاكس."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I would like to send an email.",
+        "ar": "أود إرسال بريد إلكتروني.",
+        "context": "تطلب إرسال رسالة إلكترونية."
+      },
+      {
+        "id": 2,
+        "en": "I would like to send a letter.",
+        "ar": "أود إرسال رسالة.",
+        "context": "تطلب إرسال رسالة ورقية."
+      },
+      {
+        "id": 3,
+        "en": "I would like to send a package.",
+        "ar": "أود إرسال طرد.",
+        "context": "تطلب شحن طرد."
+      },
+      {
+        "id": 4,
+        "en": "I would like to send this document.",
+        "ar": "أود إرسال هذا المستند.",
+        "context": "تطلب إرسال مستند محدد."
+      },
+      {
+        "id": 5,
+        "en": "She would like to send a fax today.",
+        "ar": "هي تود إرسال فاكس اليوم.",
+        "context": "تذكر رغبة امرأة في إرسال فاكس في نفس اليوم."
+      },
+      {
+        "id": 6,
+        "en": "We would like to send a message.",
+        "ar": "نود إرسال رسالة.",
+        "context": "تطلب المجموعة إرسال رسالة."
+      },
+      {
+        "id": 7,
+        "en": "I would like to send a copy.",
+        "ar": "أود إرسال نسخة.",
+        "context": "تطلب إرسال نسخة من مستند."
+      },
+      {
+        "id": 8,
+        "en": "I would like to send it now.",
+        "ar": "أود إرساله الآن.",
+        "context": "توضح أنك تريد الإرسال فورا."
+      },
+      {
+        "id": 9,
+        "en": "They would like to send the form.",
+        "ar": "هم يودون إرسال النموذج.",
+        "context": "تذكر رغبة مجموعة في إرسال نموذج."
+      },
+      {
+        "id": 10,
+        "en": "I would like to send a fax to the office.",
+        "ar": "أود إرسال فاكس إلى المكتب.",
+        "context": "تحدد جهة إرسال الفاكس."
+      }
+    ]
   }
 }

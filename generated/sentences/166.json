@@ -7,36 +7,37 @@
     "context": "اطلب إعادة ما قيل."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Can",
-        "description": "تستخدم في بداية السؤال لطلب شيء بأدب."
-      },
-      {
-        "term": "you",
-        "description": "أنت، وتشير إلى الشخص المخاطب."
-      },
-      {
-        "term": "repeat",
-        "description": "تكرر أو تقول الشيء مرة أخرى."
-      },
-      {
-        "term": "that",
-        "description": "ذلك، وتشير إلى الكلام الذي قيل قبل قليل."
-      },
-      {
-        "term": "please",
-        "description": "كلمة تجعل الطلب ألطف وأكثر أدبًا."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "Can you repeat that please?",
-        "explanation": {
+        "ar": "هل يمكنك تكرار ذلك من فضلك؟",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذه صيغة طلب مهذب باستخدام كلمة تدل على الإمكانية، والفعل بعدها يأتي بصيغته الأساسية، ومعنى الجملة طلب إعادة الكلام لا وصف زمن."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Can",
+            "description": "تستخدم في بداية السؤال لطلب شيء بأدب."
+          },
+          {
+            "term": "you",
+            "description": "أنت، وتشير إلى الشخص المخاطب."
+          },
+          {
+            "term": "repeat",
+            "description": "تكرر أو تقول الشيء مرة أخرى."
+          },
+          {
+            "term": "that",
+            "description": "ذلك، وتشير إلى الكلام الذي قيل قبل قليل."
+          },
+          {
+            "term": "please",
+            "description": "كلمة تجعل الطلب ألطف وأكثر أدبًا."
+          }
+        ]
       }
     ],
     "examples": [

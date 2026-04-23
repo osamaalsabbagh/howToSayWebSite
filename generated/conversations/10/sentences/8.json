@@ -7,60 +7,64 @@
     "context": "الموظف يوضح أن المالك في العمل ولا يمكنه الحضور الآن."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "The",
-        "description": "أداة تعريف تدل على مالك معروف في الحديث."
-      },
-      {
-        "term": "owner",
-        "description": "الشخص الذي يملك الشيء، مثل مالك الشقة."
-      },
-      {
-        "term": "is",
-        "description": "تربط المالك بحالته أو مكانه الحالي."
-      },
-      {
-        "term": "at",
-        "description": "حرف يحدد مكان وجود الشخص هنا."
-      },
-      {
-        "term": "work",
-        "description": "مكان العمل أو وقت أداء العمل."
-      },
-      {
-        "term": "and",
-        "description": "تربط بين كونه في العمل وعدم قدرته على المغادرة."
-      },
-      {
-        "term": "cannot",
-        "description": "تعني لا يستطيع أو لا يمكنه."
-      },
-      {
-        "term": "leave",
-        "description": "يغادر المكان الذي هو فيه."
-      },
-      {
-        "term": "now",
-        "description": "في الوقت الحالي."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "The owner is at work",
-        "explanation": {
+        "ar": "المالك في العمل ولا يستطيع المغادرة الآن.",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "يصف حالة ومكان المالك الآن بوصفها معلومة حالية ثابتة في لحظة الحديث."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "The",
+            "description": "أداة تعريف تدل على مالك معروف في الحديث."
+          },
+          {
+            "term": "owner",
+            "description": "الشخص الذي يملك الشيء، مثل مالك الشقة."
+          },
+          {
+            "term": "is",
+            "description": "تربط المالك بحالته أو مكانه الحالي."
+          },
+          {
+            "term": "at",
+            "description": "حرف يحدد مكان وجود الشخص هنا."
+          },
+          {
+            "term": "work",
+            "description": "مكان العمل أو وقت أداء العمل."
+          }
+        ]
       },
       {
-        "sentence": "cannot leave now",
-        "explanation": {
+        "sentence": "and cannot leave now",
+        "ar": "المالك في العمل ولا يستطيع المغادرة الآن.",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذا تركيب قدرة منفية؛ cannot يوضح أن المغادرة غير ممكنة في الوقت الحالي، لذلك لا يُعامل كزمن مستقل."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "and",
+            "description": "تربط بين كونه في العمل وعدم قدرته على المغادرة."
+          },
+          {
+            "term": "cannot",
+            "description": "تعني لا يستطيع أو لا يمكنه."
+          },
+          {
+            "term": "leave",
+            "description": "يغادر المكان الذي هو فيه."
+          },
+          {
+            "term": "now",
+            "description": "في الوقت الحالي."
+          }
+        ]
       }
     ],
     "examples": [

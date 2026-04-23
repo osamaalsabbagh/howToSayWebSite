@@ -7,36 +7,37 @@
     "context": "ارفض شيئًا محددًا."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "I",
-        "description": "ضمير المتكلم ويشير إلى الشخص الذي يتحدث."
-      },
-      {
-        "term": "do",
-        "description": "تساعد هنا على تكوين النفي في المضارع مع I."
-      },
-      {
-        "term": "not",
-        "description": "كلمة نفي تجعل المعنى لا أريد."
-      },
-      {
-        "term": "want",
-        "description": "أريد أو أرغب في شيء."
-      },
-      {
-        "term": "that",
-        "description": "ذلك الشيء المحدد أو البعيد قليلًا في الحديث."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "I do not want that.",
-        "explanation": {
+        "ar": "لا أريد ذلك.",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "تستخدم الجملة المضارع البسيط للتعبير عن رفض شيء محدد في الموقف الحالي، ويأتي that لتحديد الشيء المقصود."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير المتكلم ويشير إلى الشخص الذي يتحدث."
+          },
+          {
+            "term": "do",
+            "description": "تساعد هنا على تكوين النفي في المضارع مع I."
+          },
+          {
+            "term": "not",
+            "description": "كلمة نفي تجعل المعنى لا أريد."
+          },
+          {
+            "term": "want",
+            "description": "أريد أو أرغب في شيء."
+          },
+          {
+            "term": "that",
+            "description": "ذلك الشيء المحدد أو البعيد قليلًا في الحديث."
+          }
+        ]
       }
     ],
     "examples": [

@@ -7,36 +7,37 @@
     "context": "اذكر مكان دراسة شخص."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "He",
-        "description": "ضمير يشير إلى رجل أو ولد."
-      },
-      {
-        "term": "studies",
-        "description": "يدرس أو يتعلم بانتظام."
-      },
-      {
-        "term": "at",
-        "description": "تستخدم هنا لربط الدراسة بمكان أو مؤسسة."
-      },
-      {
-        "term": "Boston",
-        "description": "اسم مدينة بوسطن."
-      },
-      {
-        "term": "University",
-        "description": "جامعة أو مؤسسة تعليم عال."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "He studies at Boston University.",
-        "explanation": {
+        "ar": "هو يدرس في جامعة بوسطن.",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "يستخدم المضارع البسيط لوصف وضع دراسي عام أو حقيقة حالية عن مكان دراسة الشخص."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "He",
+            "description": "ضمير يشير إلى رجل أو ولد."
+          },
+          {
+            "term": "studies",
+            "description": "يدرس أو يتعلم بانتظام."
+          },
+          {
+            "term": "at",
+            "description": "تستخدم هنا لربط الدراسة بمكان أو مؤسسة."
+          },
+          {
+            "term": "Boston",
+            "description": "اسم مدينة بوسطن."
+          },
+          {
+            "term": "University",
+            "description": "جامعة أو مؤسسة تعليم عال."
+          }
+        ]
       }
     ],
     "examples": [

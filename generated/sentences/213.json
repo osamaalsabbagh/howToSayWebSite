@@ -7,36 +7,37 @@
     "context": "اسأل عن مكان إرسال البريد."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Where",
-        "description": "أين، وتستخدم للسؤال عن مكان."
-      },
-      {
-        "term": "can",
-        "description": "تستخدم للسؤال عن الإمكانية أو المكان المناسب لفعل شيء."
-      },
-      {
-        "term": "I",
-        "description": "أنا، وتشير إلى المتكلم."
-      },
-      {
-        "term": "mail",
-        "description": "أرسل بالبريد."
-      },
-      {
-        "term": "this",
-        "description": "هذا، وتشير إلى الشيء الذي يريد المتكلم إرساله."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "Where can I mail this?",
-        "explanation": {
+        "ar": "أين يمكنني إرسال هذا بالبريد؟",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذه صيغة سؤال عن المكان باستخدام تركيب يدل على الإمكانية، والفعل بعدها بصيغته الأساسية، لذلك تشرح كتركيب سؤال لا كزمن مستقل."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Where",
+            "description": "أين، وتستخدم للسؤال عن مكان."
+          },
+          {
+            "term": "can",
+            "description": "تستخدم للسؤال عن الإمكانية أو المكان المناسب لفعل شيء."
+          },
+          {
+            "term": "I",
+            "description": "أنا، وتشير إلى المتكلم."
+          },
+          {
+            "term": "mail",
+            "description": "أرسل بالبريد."
+          },
+          {
+            "term": "this",
+            "description": "هذا، وتشير إلى الشيء الذي يريد المتكلم إرساله."
+          }
+        ]
       }
     ],
     "examples": [

@@ -7,36 +7,37 @@
     "context": "قل أنك ستعود لاحقًا."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "I",
-        "description": "ضمير المتكلم ويشير إلى الشخص الذي يتحدث."
-      },
-      {
-        "term": "will",
-        "description": "كلمة تدل على أن الفعل سيحدث في المستقبل."
-      },
-      {
-        "term": "come",
-        "description": "آتي أو أتحرك نحو المكان المقصود."
-      },
-      {
-        "term": "back",
-        "description": "تدل على الرجوع إلى مكان كنت فيه من قبل."
-      },
-      {
-        "term": "later",
-        "description": "لاحقًا أو في وقت بعد الآن."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "I will come back later.",
-        "explanation": {
+        "ar": "سأعود لاحقًا.",
+        "grammar": {
           "tense": "المستقبل البسيط",
           "tenseEn": "Future Simple",
           "reason": "تستخدم will مع الفعل الأساسي للتعبير عن نية أو وعد بالعودة في وقت لاحق."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير المتكلم ويشير إلى الشخص الذي يتحدث."
+          },
+          {
+            "term": "will",
+            "description": "كلمة تدل على أن الفعل سيحدث في المستقبل."
+          },
+          {
+            "term": "come",
+            "description": "آتي أو أتحرك نحو المكان المقصود."
+          },
+          {
+            "term": "back",
+            "description": "تدل على الرجوع إلى مكان كنت فيه من قبل."
+          },
+          {
+            "term": "later",
+            "description": "لاحقًا أو في وقت بعد الآن."
+          }
+        ]
       }
     ],
     "examples": [

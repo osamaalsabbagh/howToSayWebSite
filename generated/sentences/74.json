@@ -7,40 +7,41 @@
     "context": "تفاعل مع شيء غير مألوف."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "I",
-        "description": "ضمير المتكلم ويشير إلى الشخص الذي يتحدث."
-      },
-      {
-        "term": "have",
-        "description": "تساعد هنا على تكوين معنى تجربة حدثت أو لم تحدث قبل الآن."
-      },
-      {
-        "term": "never",
-        "description": "أبدًا، وتدل على أن التجربة لم تحدث في أي وقت سابق."
-      },
-      {
-        "term": "seen",
-        "description": "رأيت أو شاهدت، وتأتي هنا بعد have."
-      },
-      {
-        "term": "that",
-        "description": "ذلك الشيء المحدد أو المشهد المقصود."
-      },
-      {
-        "term": "before",
-        "description": "من قبل أو في وقت سابق."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "I have never seen that before.",
-        "explanation": {
+        "ar": "لم أرَ ذلك أبداً من قبل.",
+        "grammar": {
           "tense": "المضارع التام",
           "tenseEn": "Present Perfect",
           "reason": "تستخدم have never seen للتحدث عن تجربة غير موجودة في حياة المتكلم حتى الآن، وكلمة before تؤكد المقارنة مع أي وقت سابق."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير المتكلم ويشير إلى الشخص الذي يتحدث."
+          },
+          {
+            "term": "have",
+            "description": "تساعد هنا على تكوين معنى تجربة حدثت أو لم تحدث قبل الآن."
+          },
+          {
+            "term": "never",
+            "description": "أبدًا، وتدل على أن التجربة لم تحدث في أي وقت سابق."
+          },
+          {
+            "term": "seen",
+            "description": "رأيت أو شاهدت، وتأتي هنا بعد have."
+          },
+          {
+            "term": "that",
+            "description": "ذلك الشيء المحدد أو المشهد المقصود."
+          },
+          {
+            "term": "before",
+            "description": "من قبل أو في وقت سابق."
+          }
+        ]
       }
     ],
     "examples": [

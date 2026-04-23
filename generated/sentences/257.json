@@ -7,36 +7,37 @@
     "context": "اطلب رقم هاتف."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "What",
-        "description": "ما، وتستخدم للسؤال عن معلومة."
-      },
-      {
-        "term": "is",
-        "description": "صيغة تربط السؤال بالمعلومة المطلوبة في الحاضر."
-      },
-      {
-        "term": "the",
-        "description": "أداة تشير إلى رقم محدد مطلوب."
-      },
-      {
-        "term": "phone",
-        "description": "هاتف."
-      },
-      {
-        "term": "number",
-        "description": "رقم."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "What is the phone number?",
-        "explanation": {
+        "ar": "ما هو رقم الهاتف؟",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "يستخدم فعل الربط في الحاضر للسؤال عن معلومة ثابتة أو متاحة الآن، وهي رقم الهاتف."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "What",
+            "description": "ما، وتستخدم للسؤال عن معلومة."
+          },
+          {
+            "term": "is",
+            "description": "صيغة تربط السؤال بالمعلومة المطلوبة في الحاضر."
+          },
+          {
+            "term": "the",
+            "description": "أداة تشير إلى رقم محدد مطلوب."
+          },
+          {
+            "term": "phone",
+            "description": "هاتف."
+          },
+          {
+            "term": "number",
+            "description": "رقم."
+          }
+        ]
       }
     ],
     "examples": [

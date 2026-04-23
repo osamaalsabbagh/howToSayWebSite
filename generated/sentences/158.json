@@ -7,32 +7,33 @@
     "context": "رحب بشخص لأول مرة بلطف."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Nice",
-        "description": "لطيف أو سار، وتستخدم هنا للتعبير عن المجاملة."
-      },
-      {
-        "term": "to",
-        "description": "تربط الصفة بالفعل بعدها لتكوين معنى: من اللطيف أن."
-      },
-      {
-        "term": "meet",
-        "description": "ألتقي أو أتعرف إلى شخص."
-      },
-      {
-        "term": "you",
-        "description": "أنت أو إياك، وتشير إلى الشخص المخاطب."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "Nice to meet you.",
-        "explanation": {
+        "ar": "من اللطيف أن ألتقي بك.",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذه عبارة مجاملة مختصرة عند التعارف، وفيها حذف لكلمات مفهومة مثل: من اللطيف أن ألتقي بك، لذلك لا يظهر فيها فعل بزمن مستقل."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Nice",
+            "description": "لطيف أو سار، وتستخدم هنا للتعبير عن المجاملة."
+          },
+          {
+            "term": "to",
+            "description": "تربط الصفة بالفعل بعدها لتكوين معنى: من اللطيف أن."
+          },
+          {
+            "term": "meet",
+            "description": "ألتقي أو أتعرف إلى شخص."
+          },
+          {
+            "term": "you",
+            "description": "أنت أو إياك، وتشير إلى الشخص المخاطب."
+          }
+        ]
       }
     ],
     "examples": [

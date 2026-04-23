@@ -7,36 +7,37 @@
     "context": "اطلب الإرشاد إلى مكان."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "How",
-        "description": "كيف، وتستخدم للسؤال عن الطريقة."
-      },
-      {
-        "term": "do",
-        "description": "تأتي في السؤال مع المتكلم لتكوين سؤال في الحاضر."
-      },
-      {
-        "term": "I",
-        "description": "أنا، وتشير إلى المتكلم."
-      },
-      {
-        "term": "get",
-        "description": "أصل أو أذهب إلى مكان."
-      },
-      {
-        "term": "there",
-        "description": "هناك، أي المكان المقصود."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "How do I get there?",
-        "explanation": {
+        "ar": "كيف أصل إلى هناك؟",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "يستخدم السؤال المضارع البسيط مع كيف للسؤال عن طريقة عامة للوصول إلى مكان، وليس عن حدث يحدث الآن."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "How",
+            "description": "كيف، وتستخدم للسؤال عن الطريقة."
+          },
+          {
+            "term": "do",
+            "description": "تأتي في السؤال مع المتكلم لتكوين سؤال في الحاضر."
+          },
+          {
+            "term": "I",
+            "description": "أنا، وتشير إلى المتكلم."
+          },
+          {
+            "term": "get",
+            "description": "أصل أو أذهب إلى مكان."
+          },
+          {
+            "term": "there",
+            "description": "هناك، أي المكان المقصود."
+          }
+        ]
       }
     ],
     "examples": [

@@ -7,36 +7,37 @@
     "context": "اطلب وقتًا للتفكير."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Let",
-        "description": "تأتي هنا بمعنى اسمح أو دع، لطلب فرصة لفعل شيء."
-      },
-      {
-        "term": "me",
-        "description": "ضمير يشير إلى المتكلم عندما يكون متلقيًا للفعل."
-      },
-      {
-        "term": "think",
-        "description": "أفكر أو أراجع الأمر في ذهني."
-      },
-      {
-        "term": "about",
-        "description": "عن أو بخصوص، وتربط التفكير بالموضوع."
-      },
-      {
-        "term": "it",
-        "description": "ضمير يشير إلى الأمر أو العرض المعروف من السياق."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "Let me think about it.",
-        "explanation": {
+        "ar": "دعني أفكر في الأمر.",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذه صيغة طلب مهذبة للحصول على وقت للتفكير، وتعمل كتعبير عملي لا يحمل زمنًا مستقلًا."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Let",
+            "description": "تأتي هنا بمعنى اسمح أو دع، لطلب فرصة لفعل شيء."
+          },
+          {
+            "term": "me",
+            "description": "ضمير يشير إلى المتكلم عندما يكون متلقيًا للفعل."
+          },
+          {
+            "term": "think",
+            "description": "أفكر أو أراجع الأمر في ذهني."
+          },
+          {
+            "term": "about",
+            "description": "عن أو بخصوص، وتربط التفكير بالموضوع."
+          },
+          {
+            "term": "it",
+            "description": "ضمير يشير إلى الأمر أو العرض المعروف من السياق."
+          }
+        ]
       }
     ],
     "examples": [

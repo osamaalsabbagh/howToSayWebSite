@@ -7,44 +7,45 @@
     "context": "تحديد شيء بجوار شيء آخر تمامًا."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "The",
-        "description": "أداة تشير إلى كتاب محدد معروف من السياق."
-      },
-      {
-        "term": "book",
-        "description": "كتاب أو شيء للقراءة."
-      },
-      {
-        "term": "is",
-        "description": "تربط الكتاب بمكانه الحالي."
-      },
-      {
-        "term": "next",
-        "description": "جزء من عبارة next to التي تعني بجانب مباشرة."
-      },
-      {
-        "term": "to",
-        "description": "تكمل عبارة next to وتربطها بالشيء المجاور."
-      },
-      {
-        "term": "the",
-        "description": "أداة تشير إلى طاولة محددة."
-      },
-      {
-        "term": "table",
-        "description": "طاولة أو منضدة."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "The book is next to the table.",
-        "explanation": {
+        "ar": "الكتاب بجانب الطاولة.",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "تستخدم الجملة is لوصف مكان الكتاب الحالي، وnext to تعني أنه بجانب الطاولة مباشرة."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "The",
+            "description": "أداة تشير إلى كتاب محدد معروف من السياق."
+          },
+          {
+            "term": "book",
+            "description": "كتاب أو شيء للقراءة."
+          },
+          {
+            "term": "is",
+            "description": "تربط الكتاب بمكانه الحالي."
+          },
+          {
+            "term": "next",
+            "description": "جزء من عبارة next to التي تعني بجانب مباشرة."
+          },
+          {
+            "term": "to",
+            "description": "تكمل عبارة next to وتربطها بالشيء المجاور."
+          },
+          {
+            "term": "the",
+            "description": "أداة تشير إلى طاولة محددة."
+          },
+          {
+            "term": "table",
+            "description": "طاولة أو منضدة."
+          }
+        ]
       }
     ],
     "examples": [

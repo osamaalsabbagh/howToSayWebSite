@@ -7,32 +7,33 @@
     "context": "ركز على حركة الشخص نحوك."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "He",
-        "description": "ضمير يشير إلى رجل أو ولد معروف من السياق."
-      },
-      {
-        "term": "is",
-        "description": "صيغة تأتي مع المفرد الغائب وتساعد على وصف فعل يحدث الآن أو في المستقبل القريب."
-      },
-      {
-        "term": "coming",
-        "description": "قادم أو يتحرك نحو مكان المتكلم أو المكان المقصود."
-      },
-      {
-        "term": "soon",
-        "description": "قريبًا، أي بعد وقت قصير."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "He is coming soon.",
-        "explanation": {
+        "ar": "هو قادم قريبًا.",
+        "grammar": {
           "tense": "المضارع المستمر",
           "tenseEn": "Present Continuous",
           "reason": "تستخدم صيغة is مع الفعل المنتهي ب ing للدلالة على حركة قريبة أو ترتيب قريب الحدوث، وكلمة soon تجعل الزمن قريبًا."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "He",
+            "description": "ضمير يشير إلى رجل أو ولد معروف من السياق."
+          },
+          {
+            "term": "is",
+            "description": "صيغة تأتي مع المفرد الغائب وتساعد على وصف فعل يحدث الآن أو في المستقبل القريب."
+          },
+          {
+            "term": "coming",
+            "description": "قادم أو يتحرك نحو مكان المتكلم أو المكان المقصود."
+          },
+          {
+            "term": "soon",
+            "description": "قريبًا، أي بعد وقت قصير."
+          }
+        ]
       }
     ],
     "examples": [

@@ -7,32 +7,33 @@
     "context": "اقترح التدرب على الإنجليزية معًا."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Let",
-        "description": "تأتي هنا لاقتراح فعل شيء معًا."
-      },
-      {
-        "term": "us",
-        "description": "ضمير يشمل المتكلم والشخص أو الأشخاص معه."
-      },
-      {
-        "term": "practice",
-        "description": "نتدرب أو نكرر فعلًا لتحسين المهارة."
-      },
-      {
-        "term": "English",
-        "description": "اللغة الإنجليزية."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "Let us practice English.",
-        "explanation": {
+        "ar": "دعنا نتدرب على اللغة الإنجليزية.",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذه صيغة اقتراح لفعل شيء معًا، وهو التدرب على الإنجليزية، ولا تحمل زمنًا مستقلًا."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Let",
+            "description": "تأتي هنا لاقتراح فعل شيء معًا."
+          },
+          {
+            "term": "us",
+            "description": "ضمير يشمل المتكلم والشخص أو الأشخاص معه."
+          },
+          {
+            "term": "practice",
+            "description": "نتدرب أو نكرر فعلًا لتحسين المهارة."
+          },
+          {
+            "term": "English",
+            "description": "اللغة الإنجليزية."
+          }
+        ]
       }
     ],
     "examples": [

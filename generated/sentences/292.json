@@ -7,28 +7,29 @@
     "context": "الإشارة إلى الاتجاه الأيمن."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "On",
-        "description": "تستخدم هنا لتحديد جهة أو جانب."
-      },
-      {
-        "term": "the",
-        "description": "أداة تشير إلى جهة محددة."
-      },
-      {
-        "term": "right",
-        "description": "الجهة اليمنى."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "On the right.",
-        "explanation": {
+        "ar": "على اليمين.",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذا تعبير اتجاهي قصير يحدد الجهة اليمنى، ولا يحتوي على فعل ظاهر أو زمن مستقل."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "On",
+            "description": "تستخدم هنا لتحديد جهة أو جانب."
+          },
+          {
+            "term": "the",
+            "description": "أداة تشير إلى جهة محددة."
+          },
+          {
+            "term": "right",
+            "description": "الجهة اليمنى."
+          }
+        ]
       }
     ],
     "examples": [

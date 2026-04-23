@@ -7,36 +7,37 @@
     "context": "التعبير عن الإعجاب بمعرض فن"
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "This",
-        "description": "اسم إشارة يشير إلى المعرض الحالي."
-      },
-      {
-        "term": "art",
-        "description": "فن أو متعلق بالفن."
-      },
-      {
-        "term": "exhibition",
-        "description": "معرض تعرض فيه الأعمال الفنية."
-      },
-      {
-        "term": "is",
-        "description": "صيغة تربط المعرض بالوصف."
-      },
-      {
-        "term": "amazing",
-        "description": "صفة تعني مذهلًا أو رائعًا جدًا."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "This art exhibition is amazing!",
-        "explanation": {
+        "ar": "هذا المعرض الفني مذهل!",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "استُعمل المضارع البسيط للتعبير عن انطباع حاضر تجاه المعرض."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "This",
+            "description": "اسم إشارة يشير إلى المعرض الحالي."
+          },
+          {
+            "term": "art",
+            "description": "فن أو متعلق بالفن."
+          },
+          {
+            "term": "exhibition",
+            "description": "معرض تعرض فيه الأعمال الفنية."
+          },
+          {
+            "term": "is",
+            "description": "صيغة تربط المعرض بالوصف."
+          },
+          {
+            "term": "amazing",
+            "description": "صفة تعني مذهلًا أو رائعًا جدًا."
+          }
+        ]
       }
     ],
     "examples": [

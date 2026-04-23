@@ -7,40 +7,41 @@
     "context": "الإشارة إلى توقعات الطقس ليوم الغد."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "It",
-        "description": "تستخدم هنا للإشارة إلى حالة الطقس."
-      },
-      {
-        "term": "is",
-        "description": "تساعد في تكوين عبارة التوقع."
-      },
-      {
-        "term": "supposed",
-        "description": "جزء من تعبير يعني من المتوقع أو المفترض."
-      },
-      {
-        "term": "to",
-        "description": "تأتي قبل الفعل بعد supposed."
-      },
-      {
-        "term": "rain",
-        "description": "تمطر أو ينزل المطر."
-      },
-      {
-        "term": "tomorrow",
-        "description": "غدًا."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "It is supposed to rain tomorrow.",
-        "explanation": {
+        "ar": "من المفترض أن تمطر غدًا.",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "تستخدم الجملة تركيب is supposed to للتعبير عن توقع مستقبلي بناءً على معلومات أو نشرة طقس."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "It",
+            "description": "تستخدم هنا للإشارة إلى حالة الطقس."
+          },
+          {
+            "term": "is",
+            "description": "تساعد في تكوين عبارة التوقع."
+          },
+          {
+            "term": "supposed",
+            "description": "جزء من تعبير يعني من المتوقع أو المفترض."
+          },
+          {
+            "term": "to",
+            "description": "تأتي قبل الفعل بعد supposed."
+          },
+          {
+            "term": "rain",
+            "description": "تمطر أو ينزل المطر."
+          },
+          {
+            "term": "tomorrow",
+            "description": "غدًا."
+          }
+        ]
       }
     ],
     "examples": [

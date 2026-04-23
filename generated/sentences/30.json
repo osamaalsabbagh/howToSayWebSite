@@ -7,36 +7,37 @@
     "context": "ارفض شيئًا."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "I",
-        "description": "ضمير المتكلم ويشير إلى الشخص الذي يتحدث."
-      },
-      {
-        "term": "do",
-        "description": "تساعد هنا على تكوين النفي في المضارع مع I."
-      },
-      {
-        "term": "not",
-        "description": "كلمة نفي تجعل المعنى لا أريد."
-      },
-      {
-        "term": "want",
-        "description": "أريد أو أرغب في شيء."
-      },
-      {
-        "term": "it",
-        "description": "ضمير يشير إلى شيء معروف من السياق."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "I do not want it.",
-        "explanation": {
+        "ar": "لا أريده.",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "تستخدم الجملة المضارع البسيط للتعبير عن رغبة أو رفض حالي، ويأتي do not قبل الفعل الأساسي لتكوين النفي."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير المتكلم ويشير إلى الشخص الذي يتحدث."
+          },
+          {
+            "term": "do",
+            "description": "تساعد هنا على تكوين النفي في المضارع مع I."
+          },
+          {
+            "term": "not",
+            "description": "كلمة نفي تجعل المعنى لا أريد."
+          },
+          {
+            "term": "want",
+            "description": "أريد أو أرغب في شيء."
+          },
+          {
+            "term": "it",
+            "description": "ضمير يشير إلى شيء معروف من السياق."
+          }
+        ]
       }
     ],
     "examples": [

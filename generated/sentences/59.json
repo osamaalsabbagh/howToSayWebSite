@@ -7,32 +7,33 @@
     "context": "عبّر عن عدم التأكد."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "I",
-        "description": "ضمير المتكلم ويشير إلى الشخص الذي يتحدث."
-      },
-      {
-        "term": "am",
-        "description": "صيغة تأتي مع ضمير المتكلم المفرد وتربط الشخص بحالته."
-      },
-      {
-        "term": "not",
-        "description": "كلمة نفي تجعل المعنى لست."
-      },
-      {
-        "term": "sure",
-        "description": "متأكد أو واثق من المعلومة."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "I am not sure.",
-        "explanation": {
+        "ar": "لست متأكدًا.",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "تستخدم الجملة am not مع صفة لنفي حالة المتكلم الحالية، وهي التأكد أو الثقة بالمعلومة."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير المتكلم ويشير إلى الشخص الذي يتحدث."
+          },
+          {
+            "term": "am",
+            "description": "صيغة تأتي مع ضمير المتكلم المفرد وتربط الشخص بحالته."
+          },
+          {
+            "term": "not",
+            "description": "كلمة نفي تجعل المعنى لست."
+          },
+          {
+            "term": "sure",
+            "description": "متأكد أو واثق من المعلومة."
+          }
+        ]
       }
     ],
     "examples": [

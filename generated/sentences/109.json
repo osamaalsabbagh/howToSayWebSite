@@ -7,28 +7,29 @@
     "context": "اطلب إخراج شيء للخارج."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Take",
-        "description": "خذ أو انقل شيئًا من مكان إلى آخر."
-      },
-      {
-        "term": "it",
-        "description": "ضمير يشير إلى الشيء المطلوب إخراجه."
-      },
-      {
-        "term": "outside",
-        "description": "إلى الخارج أو خارج المكان الحالي."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "Take it outside.",
-        "explanation": {
+        "ar": "خذه إلى الخارج.",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذه صيغة أمر تطلب نقل شيء إلى الخارج، والفاعل مفهوم من السياق، لذلك لا تحمل زمنًا مستقلًا."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Take",
+            "description": "خذ أو انقل شيئًا من مكان إلى آخر."
+          },
+          {
+            "term": "it",
+            "description": "ضمير يشير إلى الشيء المطلوب إخراجه."
+          },
+          {
+            "term": "outside",
+            "description": "إلى الخارج أو خارج المكان الحالي."
+          }
+        ]
       }
     ],
     "examples": [

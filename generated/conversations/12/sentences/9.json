@@ -7,84 +7,91 @@
     "context": "يؤكد إمكانية الإرسال لعنوان بديل بشرط الإبلاغ في نفس اليوم."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Yes",
-        "description": "إجابة موافقة أو تأكيد."
-      },
-      {
-        "term": "we",
-        "description": "ضمير يشير إلى المتكلم ومن معه، مثل الشركة أو فريق الخدمة."
-      },
-      {
-        "term": "can",
-        "description": "تدل على القدرة أو الإمكانية."
-      },
-      {
-        "term": "send",
-        "description": "يرسل أو يشحن."
-      },
-      {
-        "term": "it",
-        "description": "ضمير يعود على الطلب أو الطرد."
-      },
-      {
-        "term": "to",
-        "description": "تحدد الجهة أو المكان الذي سيصل إليه الشيء."
-      },
-      {
-        "term": "another",
-        "description": "آخر أو مختلف."
-      },
-      {
-        "term": "address",
-        "description": "عنوان."
-      },
-      {
-        "term": "if",
-        "description": "تدخل شرطًا."
-      },
-      {
-        "term": "you",
-        "description": "ضمير المخاطب."
-      },
-      {
-        "term": "tell",
-        "description": "تخبر أو تبلغ."
-      },
-      {
-        "term": "us",
-        "description": "ضمير يشير إلى فريق الخدمة أو الشركة."
-      },
-      {
-        "term": "today",
-        "description": "هذا اليوم."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "Yes",
-        "explanation": {
+        "ar": "نعم، يمكننا إرساله إلى عنوان آخر إذا أخبرتنا اليوم.",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "كلمة موافقة قصيرة وليست جملة بزمن مستقل."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Yes",
+            "description": "إجابة موافقة أو تأكيد."
+          }
+        ]
       },
       {
         "sentence": "we can send it to another address",
-        "explanation": {
+        "ar": "نعم، يمكننا إرساله إلى عنوان آخر إذا أخبرتنا اليوم.",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "تستخدم can للتعبير عن الإمكانية أو القدرة على إرسال الطرد لعنوان آخر."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "we",
+            "description": "ضمير يشير إلى المتكلم ومن معه، مثل الشركة أو فريق الخدمة."
+          },
+          {
+            "term": "can",
+            "description": "تدل على القدرة أو الإمكانية."
+          },
+          {
+            "term": "send",
+            "description": "يرسل أو يشحن."
+          },
+          {
+            "term": "it",
+            "description": "ضمير يعود على الطلب أو الطرد."
+          },
+          {
+            "term": "to",
+            "description": "تحدد الجهة أو المكان الذي سيصل إليه الشيء."
+          },
+          {
+            "term": "another",
+            "description": "آخر أو مختلف."
+          },
+          {
+            "term": "address",
+            "description": "عنوان."
+          }
+        ]
       },
       {
         "sentence": "if you tell us today",
-        "explanation": {
+        "ar": "نعم، يمكننا إرساله إلى عنوان آخر إذا أخبرتنا اليوم.",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "يأتي المضارع البسيط داخل شرط حقيقي يحدد ما يجب أن يحدث اليوم."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "if",
+            "description": "تدخل شرطًا."
+          },
+          {
+            "term": "you",
+            "description": "ضمير المخاطب."
+          },
+          {
+            "term": "tell",
+            "description": "تخبر أو تبلغ."
+          },
+          {
+            "term": "us",
+            "description": "ضمير يشير إلى فريق الخدمة أو الشركة."
+          },
+          {
+            "term": "today",
+            "description": "هذا اليوم."
+          }
+        ]
       }
     ],
     "examples": [

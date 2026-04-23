@@ -7,36 +7,37 @@
     "context": "اسأل عن سعر الأقراط."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "How",
-        "description": "تبدأ سؤالًا عن السعر أو المقدار."
-      },
-      {
-        "term": "much",
-        "description": "كم، وتستخدم مع المال والسعر."
-      },
-      {
-        "term": "are",
-        "description": "صيغة تربط السؤال بسعر الأشياء في الحاضر."
-      },
-      {
-        "term": "these",
-        "description": "هذه، وتشير إلى أشياء قريبة متعددة."
-      },
-      {
-        "term": "earrings",
-        "description": "أقراط أو حلقان للأذن."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "How much are these earrings?",
-        "explanation": {
+        "ar": "كم سعر هذه الأقراط؟",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "يستخدم المضارع البسيط مع فعل الربط للسؤال عن سعر حالي لأشياء معروضة للبيع."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "How",
+            "description": "تبدأ سؤالًا عن السعر أو المقدار."
+          },
+          {
+            "term": "much",
+            "description": "كم، وتستخدم مع المال والسعر."
+          },
+          {
+            "term": "are",
+            "description": "صيغة تربط السؤال بسعر الأشياء في الحاضر."
+          },
+          {
+            "term": "these",
+            "description": "هذه، وتشير إلى أشياء قريبة متعددة."
+          },
+          {
+            "term": "earrings",
+            "description": "أقراط أو حلقان للأذن."
+          }
+        ]
       }
     ],
     "examples": [

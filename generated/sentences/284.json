@@ -7,40 +7,41 @@
     "context": "التعبير عن نية أو وجهة سابقة."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "I",
-        "description": "ضمير المتكلم المفرد."
-      },
-      {
-        "term": "was",
-        "description": "صيغة ماضية تأتي مع I وتساعد في تكوين الماضي المستمر."
-      },
-      {
-        "term": "going",
-        "description": "ذاهب أو متجه إلى مكان."
-      },
-      {
-        "term": "to",
-        "description": "إلى، وتحدد الوجهة."
-      },
-      {
-        "term": "the",
-        "description": "أداة تشير إلى مكان محدد."
-      },
-      {
-        "term": "library",
-        "description": "المكتبة، مكان قراءة أو استعارة الكتب."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "I was going to the library.",
-        "explanation": {
+        "ar": "كنت ذاهبًا إلى المكتبة.",
+        "grammar": {
           "tense": "الماضي المستمر",
           "tenseEn": "Past Continuous",
           "reason": "تستخدم الجملة was going لوصف حركة أو اتجاه كان مستمرًا في وقت سابق نحو المكتبة."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير المتكلم المفرد."
+          },
+          {
+            "term": "was",
+            "description": "صيغة ماضية تأتي مع I وتساعد في تكوين الماضي المستمر."
+          },
+          {
+            "term": "going",
+            "description": "ذاهب أو متجه إلى مكان."
+          },
+          {
+            "term": "to",
+            "description": "إلى، وتحدد الوجهة."
+          },
+          {
+            "term": "the",
+            "description": "أداة تشير إلى مكان محدد."
+          },
+          {
+            "term": "library",
+            "description": "المكتبة، مكان قراءة أو استعارة الكتب."
+          }
+        ]
       }
     ],
     "examples": [

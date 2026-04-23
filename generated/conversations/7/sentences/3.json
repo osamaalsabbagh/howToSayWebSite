@@ -7,72 +7,73 @@
     "context": "ذكر وظيفة سابقة للشخص باستخدام as"
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "I",
-        "description": "ضمير المتكلم المفرد."
-      },
-      {
-        "term": "met",
-        "description": "صيغة ماضية تعني قابلت أو التقيت."
-      },
-      {
-        "term": "him",
-        "description": "ضمير مفعول به يعود على الرجل أو الفنان."
-      },
-      {
-        "term": "last",
-        "description": "تعني الماضي أو السابق عند الحديث عن وقت."
-      },
-      {
-        "term": "year",
-        "description": "سنة."
-      },
-      {
-        "term": "when",
-        "description": "أداة تربط الحدث بوقت أو ظرف."
-      },
-      {
-        "term": "he",
-        "description": "ضمير يعود على الرجل أو الفنان."
-      },
-      {
-        "term": "worked",
-        "description": "صيغة ماضية تعني عمل."
-      },
-      {
-        "term": "as",
-        "description": "تعني بصفة أو بوظيفة."
-      },
-      {
-        "term": "a",
-        "description": "أداة نكرة قبل اسم مفرد."
-      },
-      {
-        "term": "teacher",
-        "description": "معلم."
-      },
-      {
-        "term": "in",
-        "description": "حرف يحدد المكان."
-      },
-      {
-        "term": "my",
-        "description": "صفة ملكية تعني الخاص بي."
-      },
-      {
-        "term": "school",
-        "description": "مدرسة."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "I met him last year when he worked as a teacher in my school.",
-        "explanation": {
+        "ar": "قابلته العام الماضي عندما عمل كمعلم في مدرستي.",
+        "grammar": {
           "tense": "الماضي البسيط",
           "tenseEn": "Past Simple",
           "reason": "استُعمل الماضي البسيط لأن المقابلة والعمل كمعلم حدثا في فترة ماضية محددة."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير المتكلم المفرد."
+          },
+          {
+            "term": "met",
+            "description": "صيغة ماضية تعني قابلت أو التقيت."
+          },
+          {
+            "term": "him",
+            "description": "ضمير مفعول به يعود على الرجل أو الفنان."
+          },
+          {
+            "term": "last",
+            "description": "تعني الماضي أو السابق عند الحديث عن وقت."
+          },
+          {
+            "term": "year",
+            "description": "سنة."
+          },
+          {
+            "term": "when",
+            "description": "أداة تربط الحدث بوقت أو ظرف."
+          },
+          {
+            "term": "he",
+            "description": "ضمير يعود على الرجل أو الفنان."
+          },
+          {
+            "term": "worked",
+            "description": "صيغة ماضية تعني عمل."
+          },
+          {
+            "term": "as",
+            "description": "تعني بصفة أو بوظيفة."
+          },
+          {
+            "term": "a",
+            "description": "أداة نكرة قبل اسم مفرد."
+          },
+          {
+            "term": "teacher",
+            "description": "معلم."
+          },
+          {
+            "term": "in",
+            "description": "حرف يحدد المكان."
+          },
+          {
+            "term": "my",
+            "description": "صفة ملكية تعني الخاص بي."
+          },
+          {
+            "term": "school",
+            "description": "مدرسة."
+          }
+        ]
       }
     ],
     "examples": [

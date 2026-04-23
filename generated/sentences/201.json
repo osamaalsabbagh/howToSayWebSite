@@ -7,24 +7,25 @@
     "context": "أعطِ أمرًا بالاستدارة."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Turn",
-        "description": "استدر أو غيّر اتجاه جسمك."
-      },
-      {
-        "term": "around",
-        "description": "إلى الخلف أو في الاتجاه المعاكس."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "Turn around.",
-        "explanation": {
+        "ar": "استدر.",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذه جملة أمر مباشرة تبدأ بالفعل الأساسي لطلب الاستدارة، ولا تصف حدثًا بزمن مستقل."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Turn",
+            "description": "استدر أو غيّر اتجاه جسمك."
+          },
+          {
+            "term": "around",
+            "description": "إلى الخلف أو في الاتجاه المعاكس."
+          }
+        ]
       }
     ],
     "examples": [

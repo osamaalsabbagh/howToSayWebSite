@@ -7,64 +7,68 @@
     "context": "توضيح أن العمة لم تلتقِ بطفل المتحدث من قبل"
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Almost",
-        "description": "تعني تقريبًا أو قرابة."
-      },
-      {
-        "term": "two",
-        "description": "العدد اثنان."
-      },
-      {
-        "term": "years",
-        "description": "سنوات."
-      },
-      {
-        "term": "She",
-        "description": "ضمير يعود على العمة."
-      },
-      {
-        "term": "has",
-        "description": "فعل مساعد في المضارع التام مع she."
-      },
-      {
-        "term": "not",
-        "description": "أداة نفي."
-      },
-      {
-        "term": "met",
-        "description": "تعني قابلت أو التقت."
-      },
-      {
-        "term": "my",
-        "description": "صفة ملكية تعني الخاص بي."
-      },
-      {
-        "term": "baby",
-        "description": "طفلي أو طفل صغير."
-      },
-      {
-        "term": "yet",
-        "description": "تعني بعد، وتستعمل غالبًا في النفي والأسئلة."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "Almost two years.",
-        "explanation": {
+        "ar": "قرابة عامين.",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذه عبارة زمنية مختصرة تجيب عن مدة الغياب، وليست جملة فعلية لها زمن مستقل."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Almost",
+            "description": "تعني تقريبًا أو قرابة."
+          },
+          {
+            "term": "two",
+            "description": "العدد اثنان."
+          },
+          {
+            "term": "years",
+            "description": "سنوات."
+          }
+        ]
       },
       {
         "sentence": "She has not met my baby yet.",
-        "explanation": {
+        "ar": "لم تلتقِ بطفلي بعد.",
+        "grammar": {
           "tense": "المضارع التام",
           "tenseEn": "Present Perfect",
           "reason": "استُعمل المضارع التام المنفي لأن المقابلة لم تحدث حتى الآن، وما زالت النتيجة مهمة في الحاضر."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "She",
+            "description": "ضمير يعود على العمة."
+          },
+          {
+            "term": "has",
+            "description": "فعل مساعد في المضارع التام مع she."
+          },
+          {
+            "term": "not",
+            "description": "أداة نفي."
+          },
+          {
+            "term": "met",
+            "description": "تعني قابلت أو التقت."
+          },
+          {
+            "term": "my",
+            "description": "صفة ملكية تعني الخاص بي."
+          },
+          {
+            "term": "baby",
+            "description": "طفلي أو طفل صغير."
+          },
+          {
+            "term": "yet",
+            "description": "تعني بعد، وتستعمل غالبًا في النفي والأسئلة."
+          }
+        ]
       }
     ],
     "examples": [

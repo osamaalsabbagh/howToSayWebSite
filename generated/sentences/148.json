@@ -7,24 +7,25 @@
     "context": "تمنَّ النجاح لشخص."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Good",
-        "description": "جيد أو طيب، وتأتي هنا ضمن أمنية بالنجاح."
-      },
-      {
-        "term": "Luck",
-        "description": "حظ أو توفيق."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "Good Luck.",
-        "explanation": {
+        "ar": "حظًا سعيدًا.",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذه عبارة تمني بالنجاح أو التوفيق، وهي تعبير قصير لا يحتوي على فعل ظاهر أو زمن مستقل."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Good",
+            "description": "جيد أو طيب، وتأتي هنا ضمن أمنية بالنجاح."
+          },
+          {
+            "term": "Luck",
+            "description": "حظ أو توفيق."
+          }
+        ]
       }
     ],
     "examples": [

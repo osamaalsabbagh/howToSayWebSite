@@ -7,36 +7,37 @@
     "context": "صديق يسأل الآخر عن تفرغه في شهر أبريل"
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Are",
-        "description": "صيغة تبدأ سؤالًا عن حالة الشخص الحالية أو جدول وقته."
-      },
-      {
-        "term": "you",
-        "description": "ضمير المخاطب."
-      },
-      {
-        "term": "free",
-        "description": "تعني متفرغًا أو غير مشغول."
-      },
-      {
-        "term": "in",
-        "description": "تستخدم مع الشهور لتحديد الوقت."
-      },
-      {
-        "term": "April",
-        "description": "شهر أبريل."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "Are you free in April?",
-        "explanation": {
+        "ar": "هل أنت متفرغ في شهر أبريل؟",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "استُعمل المضارع البسيط للسؤال عن حالة التفرغ أو جدول الشخص في شهر محدد."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Are",
+            "description": "صيغة تبدأ سؤالًا عن حالة الشخص الحالية أو جدول وقته."
+          },
+          {
+            "term": "you",
+            "description": "ضمير المخاطب."
+          },
+          {
+            "term": "free",
+            "description": "تعني متفرغًا أو غير مشغول."
+          },
+          {
+            "term": "in",
+            "description": "تستخدم مع الشهور لتحديد الوقت."
+          },
+          {
+            "term": "April",
+            "description": "شهر أبريل."
+          }
+        ]
       }
     ],
     "examples": [

@@ -7,28 +7,29 @@
     "context": "طمئن شخصًا."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Do",
-        "description": "تبدأ هنا صيغة نهي مع not."
-      },
-      {
-        "term": "not",
-        "description": "أداة نفي."
-      },
-      {
-        "term": "worry",
-        "description": "تقلق أو تشعر بالخوف من شيء."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "Do not worry.",
-        "explanation": {
+        "ar": "لا تقلق.",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "الجملة نهي أو طمأنة بصيغة الأمر المنفي، وليست زمنًا مستقلًا."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Do",
+            "description": "تبدأ هنا صيغة نهي مع not."
+          },
+          {
+            "term": "not",
+            "description": "أداة نفي."
+          },
+          {
+            "term": "worry",
+            "description": "تقلق أو تشعر بالخوف من شيء."
+          }
+        ]
       }
     ],
     "examples": [

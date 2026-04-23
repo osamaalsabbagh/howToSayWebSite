@@ -7,44 +7,45 @@
     "context": "اسأل عن تكلفة يومية."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "How",
-        "description": "تبدأ سؤالًا عن السعر أو المقدار."
-      },
-      {
-        "term": "much",
-        "description": "كم، وتستخدم مع التكلفة والمال."
-      },
-      {
-        "term": "does",
-        "description": "تأتي في السؤال مع المفرد لتكوين سؤال في الحاضر."
-      },
-      {
-        "term": "it",
-        "description": "هو أو هي، وتشير إلى الخدمة أو الشيء المقصود."
-      },
-      {
-        "term": "cost",
-        "description": "يكلف أو يبلغ سعره."
-      },
-      {
-        "term": "per",
-        "description": "لكل، وتستخدم لتحديد السعر لكل وحدة."
-      },
-      {
-        "term": "day",
-        "description": "يوم."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "How much does it cost per day?",
-        "explanation": {
+        "ar": "كم يكلف في اليوم؟",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "يستخدم المضارع البسيط للسؤال عن تكلفة عامة أو ثابتة، وعبارة لكل يوم تحدد أن السعر يومي."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "How",
+            "description": "تبدأ سؤالًا عن السعر أو المقدار."
+          },
+          {
+            "term": "much",
+            "description": "كم، وتستخدم مع التكلفة والمال."
+          },
+          {
+            "term": "does",
+            "description": "تأتي في السؤال مع المفرد لتكوين سؤال في الحاضر."
+          },
+          {
+            "term": "it",
+            "description": "هو أو هي، وتشير إلى الخدمة أو الشيء المقصود."
+          },
+          {
+            "term": "cost",
+            "description": "يكلف أو يبلغ سعره."
+          },
+          {
+            "term": "per",
+            "description": "لكل، وتستخدم لتحديد السعر لكل وحدة."
+          },
+          {
+            "term": "day",
+            "description": "يوم."
+          }
+        ]
       }
     ],
     "examples": [

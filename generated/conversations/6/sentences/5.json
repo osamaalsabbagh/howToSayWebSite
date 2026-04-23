@@ -7,52 +7,53 @@
     "context": "إضافة معلومة عن بيع فطائر التفاح في المهرجان"
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Yes",
-        "description": "كلمة تأكيد أو موافقة."
-      },
-      {
-        "term": "and",
-        "description": "حرف عطف يضيف معلومة جديدة."
-      },
-      {
-        "term": "they",
-        "description": "ضمير يشير إلى منظمي المهرجان أو البائعين هناك."
-      },
-      {
-        "term": "will",
-        "description": "يدل على المستقبل."
-      },
-      {
-        "term": "sell",
-        "description": "تعني يبيعون."
-      },
-      {
-        "term": "apple",
-        "description": "تفاح، ويصف نوع الفطائر."
-      },
-      {
-        "term": "pies",
-        "description": "فطائر."
-      },
-      {
-        "term": "there",
-        "description": "في ذلك المكان."
-      },
-      {
-        "term": "too",
-        "description": "تعني أيضًا."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "Yes, and they will sell apple pies there too.",
-        "explanation": {
+        "ar": "نعم، وسيبيعون فطائر التفاح هناك أيضًا.",
+        "grammar": {
           "tense": "المستقبل البسيط",
           "tenseEn": "Future Simple",
           "reason": "استُعمل المستقبل البسيط لإضافة معلومة عن شيء سيحدث في المهرجان لاحقًا."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Yes",
+            "description": "كلمة تأكيد أو موافقة."
+          },
+          {
+            "term": "and",
+            "description": "حرف عطف يضيف معلومة جديدة."
+          },
+          {
+            "term": "they",
+            "description": "ضمير يشير إلى منظمي المهرجان أو البائعين هناك."
+          },
+          {
+            "term": "will",
+            "description": "يدل على المستقبل."
+          },
+          {
+            "term": "sell",
+            "description": "تعني يبيعون."
+          },
+          {
+            "term": "apple",
+            "description": "تفاح، ويصف نوع الفطائر."
+          },
+          {
+            "term": "pies",
+            "description": "فطائر."
+          },
+          {
+            "term": "there",
+            "description": "في ذلك المكان."
+          },
+          {
+            "term": "too",
+            "description": "تعني أيضًا."
+          }
+        ]
       }
     ],
     "examples": [

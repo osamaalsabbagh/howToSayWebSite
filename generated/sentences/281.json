@@ -7,36 +7,37 @@
     "context": "تحديد عنوان مكان معين."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "It",
-        "description": "يشير إلى المكان أو الشيء الذي تحدد عنوانه."
-      },
-      {
-        "term": "is",
-        "description": "تربط المكان بعنوانه."
-      },
-      {
-        "term": "on",
-        "description": "تستخدم مع أسماء الشوارع بمعنى يقع في أو على."
-      },
-      {
-        "term": "7th",
-        "description": "السابع، وهو رقم ترتيبي لاسم الشارع."
-      },
-      {
-        "term": "Street",
-        "description": "شارع."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "It is on 7th Street.",
-        "explanation": {
+        "ar": "إنه في شارع السابع.",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "تستخدم الجملة فعل الربط في الحاضر لوصف عنوان مكان، وتأتي on عادة مع أسماء الشوارع."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "It",
+            "description": "يشير إلى المكان أو الشيء الذي تحدد عنوانه."
+          },
+          {
+            "term": "is",
+            "description": "تربط المكان بعنوانه."
+          },
+          {
+            "term": "on",
+            "description": "تستخدم مع أسماء الشوارع بمعنى يقع في أو على."
+          },
+          {
+            "term": "7th",
+            "description": "السابع، وهو رقم ترتيبي لاسم الشارع."
+          },
+          {
+            "term": "Street",
+            "description": "شارع."
+          }
+        ]
       }
     ],
     "examples": [

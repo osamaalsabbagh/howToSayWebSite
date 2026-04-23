@@ -5,5 +5,102 @@
     "en": "What is the area code?",
     "ar": "ما هو رمز المنطقة؟",
     "context": "السؤال عن رمز الاتصال المحلي."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "What is the area code?",
+        "ar": "ما هو رمز المنطقة؟",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "What is صيغة سؤال في المضارع البسيط لمعرفة معلومة ثابتة أو حالية، وهي رمز المنطقة."
+        },
+        "wordMeanings": [
+          {
+            "term": "What",
+            "description": "أداة سؤال تعني ما."
+          },
+          {
+            "term": "is",
+            "description": "صيغة تستخدم للسؤال عن شيء مفرد في المضارع."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف تشير إلى شيء محدد."
+          },
+          {
+            "term": "area",
+            "description": "تعني منطقة."
+          },
+          {
+            "term": "code",
+            "description": "يعني رمزًا أو رقمًا مخصصًا."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "What is the phone number?",
+        "ar": "ما رقم الهاتف؟",
+        "context": "تستخدم للسؤال عن رقم اتصال."
+      },
+      {
+        "id": 2,
+        "en": "What is the country code?",
+        "ar": "ما رمز الدولة؟",
+        "context": "تستخدم عند إجراء اتصال دولي."
+      },
+      {
+        "id": 3,
+        "en": "What is the zip code?",
+        "ar": "ما الرمز البريدي؟",
+        "context": "تستخدم عند تعبئة عنوان."
+      },
+      {
+        "id": 4,
+        "en": "What is the code for this city?",
+        "ar": "ما الرمز لهذه المدينة؟",
+        "context": "تستخدم للسؤال عن رمز محلي."
+      },
+      {
+        "id": 5,
+        "en": "What is your phone number?",
+        "ar": "ما رقم هاتفك؟",
+        "context": "تستخدم لطلب رقم شخص."
+      },
+      {
+        "id": 6,
+        "en": "What is the extension number?",
+        "ar": "ما رقم التحويلة؟",
+        "context": "تستخدم في مكالمة مع شركة أو مكتب."
+      },
+      {
+        "id": 7,
+        "en": "Do I need the area code?",
+        "ar": "هل أحتاج إلى رمز المنطقة؟",
+        "context": "تستخدم قبل طلب رقم محلي."
+      },
+      {
+        "id": 8,
+        "en": "The area code is 212.",
+        "ar": "رمز المنطقة هو 212.",
+        "context": "تستخدم لإعطاء رمز منطقة."
+      },
+      {
+        "id": 9,
+        "en": "Please include the area code.",
+        "ar": "من فضلك أدرج رمز المنطقة.",
+        "context": "تستخدم عند طلب كتابة الرقم كاملًا."
+      },
+      {
+        "id": 10,
+        "en": "What is the local code?",
+        "ar": "ما الرمز المحلي؟",
+        "context": "تستخدم للسؤال عن رمز اتصال داخل بلد."
+      }
+    ]
   }
 }

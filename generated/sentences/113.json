@@ -1,93 +1,94 @@
 {
-	"schemaVersion": 1,
-	"id": 113,
-	"sentence": {
-		"en": "Thank you.",
-		"ar": "شكرًا لك.",
-		"context": "تعبير عام عن الشكر."
-	},
-	"lesson": {
-		"wordMeanings": [
-			{
-				"term": "Thank",
-				"description": "فعل يُستخدم للتعبير عن الامتنان لشخص"
-			},
-			{
-				"term": "you",
-				"description": "ضمير يشير إلى الشخص الذي يتم توجيه الشكر له"
-			}
-		],
-		"grammarExplanations": [
-			{
-				"sentence": "Thank you.",
-				"explanation": {
-					"tense": null,
-					"tenseEn": null,
-					"reason": "هذه عبارة ثابتة تُستخدم للتعبير عن الشكر، وهي اختصار لجملة أطول لكنها تُستعمل كجملة مستقلة في الحياة اليومية"
-				}
-			}
-		],
-		"examples": [
-			{
-				"id": 1,
-				"en": "Thank you for your help.",
-				"ar": "شكرًا لك على مساعدتك.",
-				"context": "التعبير عن الامتنان بعد تلقي مساعدة"
-			},
-			{
-				"id": 2,
-				"en": "Thank you for coming.",
-				"ar": "شكرًا لك على حضورك.",
-				"context": "شكر شخص على حضوره"
-			},
-			{
-				"id": 3,
-				"en": "Thank you, I appreciate it.",
-				"ar": "شكرًا لك، أنا أقدّر ذلك.",
-				"context": "إظهار امتنان أعمق"
-			},
-			{
-				"id": 4,
-				"en": "Thank you for the information.",
-				"ar": "شكرًا لك على المعلومات.",
-				"context": "شكر شخص على تقديم معلومات"
-			},
-			{
-				"id": 5,
-				"en": "Thank you for your time.",
-				"ar": "شكرًا لك على وقتك.",
-				"context": "شكر شخص على تخصيص وقت"
-			},
-			{
-				"id": 6,
-				"en": "Thank you for the invitation.",
-				"ar": "شكرًا لك على الدعوة.",
-				"context": "التعبير عن الامتنان لدعوة"
-			},
-			{
-				"id": 7,
-				"en": "Thank you for your support.",
-				"ar": "شكرًا لك على دعمك.",
-				"context": "التعبير عن الامتنان للمساندة"
-			},
-			{
-				"id": 8,
-				"en": "Thank you, that helps a lot.",
-				"ar": "شكرًا لك، هذا يساعد كثيرًا.",
-				"context": "إظهار فائدة المساعدة"
-			},
-			{
-				"id": 9,
-				"en": "Thank you, I understand now.",
-				"ar": "شكرًا لك، أنا أفهم الآن.",
-				"context": "التعبير عن الامتنان بعد توضيح شيء"
-			},
-			{
-				"id": 10,
-				"en": "Thank you very much.",
-				"ar": "شكرًا لك جزيلًا.",
-				"context": "التعبير عن امتنان قوي"
-			}
-		]
-	}
+  "schemaVersion": 1,
+  "id": 113,
+  "sentence": {
+    "en": "Thank you.",
+    "ar": "شكرًا لك.",
+    "context": "تعبير عام عن الشكر."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Thank you.",
+        "ar": "شكرًا لك.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه عبارة ثابتة تُستخدم للتعبير عن الشكر، وهي اختصار لجملة أطول لكنها تُستعمل كجملة مستقلة في الحياة اليومية"
+        },
+        "wordMeanings": [
+          {
+            "term": "Thank",
+            "description": "فعل يُستخدم للتعبير عن الامتنان لشخص"
+          },
+          {
+            "term": "you",
+            "description": "ضمير يشير إلى الشخص الذي يتم توجيه الشكر له"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Thank you for your help.",
+        "ar": "شكرًا لك على مساعدتك.",
+        "context": "التعبير عن الامتنان بعد تلقي مساعدة"
+      },
+      {
+        "id": 2,
+        "en": "Thank you for coming.",
+        "ar": "شكرًا لك على حضورك.",
+        "context": "شكر شخص على حضوره"
+      },
+      {
+        "id": 3,
+        "en": "Thank you, I appreciate it.",
+        "ar": "شكرًا لك، أنا أقدّر ذلك.",
+        "context": "إظهار امتنان أعمق"
+      },
+      {
+        "id": 4,
+        "en": "Thank you for the information.",
+        "ar": "شكرًا لك على المعلومات.",
+        "context": "شكر شخص على تقديم معلومات"
+      },
+      {
+        "id": 5,
+        "en": "Thank you for your time.",
+        "ar": "شكرًا لك على وقتك.",
+        "context": "شكر شخص على تخصيص وقت"
+      },
+      {
+        "id": 6,
+        "en": "Thank you for the invitation.",
+        "ar": "شكرًا لك على الدعوة.",
+        "context": "التعبير عن الامتنان لدعوة"
+      },
+      {
+        "id": 7,
+        "en": "Thank you for your support.",
+        "ar": "شكرًا لك على دعمك.",
+        "context": "التعبير عن الامتنان للمساندة"
+      },
+      {
+        "id": 8,
+        "en": "Thank you, that helps a lot.",
+        "ar": "شكرًا لك، هذا يساعد كثيرًا.",
+        "context": "إظهار فائدة المساعدة"
+      },
+      {
+        "id": 9,
+        "en": "Thank you, I understand now.",
+        "ar": "شكرًا لك، أنا أفهم الآن.",
+        "context": "التعبير عن الامتنان بعد توضيح شيء"
+      },
+      {
+        "id": 10,
+        "en": "Thank you very much.",
+        "ar": "شكرًا لك جزيلًا.",
+        "context": "التعبير عن امتنان قوي"
+      }
+    ]
+  }
 }

@@ -7,68 +7,72 @@
     "context": "يؤكد أنه كان يعمل في التمثيل في الماضي وتوقف منذ سنوات"
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "I",
-        "description": "ضمير المتكلم المفرد."
-      },
-      {
-        "term": "used",
-        "description": "تأتي ضمن تركيب يدل على حالة أو عادة كانت في الماضي ولم تعد الآن."
-      },
-      {
-        "term": "to",
-        "description": "جزء من تركيب used to ولا تعني إلى هنا."
-      },
-      {
-        "term": "be",
-        "description": "تعني أكون، وهي تكمل معنى الحالة السابقة."
-      },
-      {
-        "term": "I",
-        "description": "ضمير المتكلم المفرد."
-      },
-      {
-        "term": "stopped",
-        "description": "صيغة ماضية تعني توقفت أو أنهيت فعلًا."
-      },
-      {
-        "term": "acting",
-        "description": "التمثيل أو أداء الأدوار."
-      },
-      {
-        "term": "a",
-        "description": "جزء من عبارة كمية تعني بضع."
-      },
-      {
-        "term": "few",
-        "description": "تعني عددًا قليلًا."
-      },
-      {
-        "term": "years",
-        "description": "سنوات."
-      },
-      {
-        "term": "ago",
-        "description": "تعني مضت من الآن، وتستخدم مع زمن ماضٍ."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "I used to be.",
-        "explanation": {
+        "ar": "كنت كذلك.",
+        "grammar": {
           "tense": "الماضي البسيط",
           "tenseEn": "Past Simple",
           "reason": "استُعمل تركيب used to للدلالة على حالة كانت صحيحة في الماضي، وهي كونه ممثلًا، ولم تعد صحيحة الآن."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير المتكلم المفرد."
+          },
+          {
+            "term": "used",
+            "description": "تأتي ضمن تركيب يدل على حالة أو عادة كانت في الماضي ولم تعد الآن."
+          },
+          {
+            "term": "to",
+            "description": "جزء من تركيب used to ولا تعني إلى هنا."
+          },
+          {
+            "term": "be",
+            "description": "تعني أكون، وهي تكمل معنى الحالة السابقة."
+          }
+        ]
       },
       {
         "sentence": "I stopped acting a few years ago.",
-        "explanation": {
+        "ar": "توقفت عن التمثيل قبل بضع سنوات.",
+        "grammar": {
           "tense": "الماضي البسيط",
           "tenseEn": "Past Simple",
           "reason": "استُعمل الماضي البسيط لأن التوقف عن التمثيل حدث مكتمل في الماضي."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير المتكلم المفرد."
+          },
+          {
+            "term": "stopped",
+            "description": "صيغة ماضية تعني توقفت أو أنهيت فعلًا."
+          },
+          {
+            "term": "acting",
+            "description": "التمثيل أو أداء الأدوار."
+          },
+          {
+            "term": "a",
+            "description": "جزء من عبارة كمية تعني بضع."
+          },
+          {
+            "term": "few",
+            "description": "تعني عددًا قليلًا."
+          },
+          {
+            "term": "years",
+            "description": "سنوات."
+          },
+          {
+            "term": "ago",
+            "description": "تعني مضت من الآن، وتستخدم مع زمن ماضٍ."
+          }
+        ]
       }
     ],
     "examples": [

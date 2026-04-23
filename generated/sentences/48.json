@@ -7,36 +7,37 @@
     "context": "تحدث عن تنظيف غرفتك."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "I",
-        "description": "ضمير المتكلم ويشير إلى الشخص الذي يتحدث."
-      },
-      {
-        "term": "am",
-        "description": "صيغة تأتي مع ضمير المتكلم المفرد وتساعد هنا على وصف فعل يحدث الآن."
-      },
-      {
-        "term": "cleaning",
-        "description": "أنظف أو أزيل الأوساخ وأرتب المكان."
-      },
-      {
-        "term": "my",
-        "description": "كلمة تدل على أن الشيء يخص المتكلم."
-      },
-      {
-        "term": "room",
-        "description": "غرفة أو مكان خاص داخل البيت."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "I am cleaning my room.",
-        "explanation": {
+        "ar": "أنا أنظف غرفتي.",
+        "grammar": {
           "tense": "المضارع المستمر",
           "tenseEn": "Present Continuous",
           "reason": "تستخدم الجملة am مع الفعل المنتهي ب ing للتعبير عن فعل يحدث الآن أو في هذه الفترة، وهو تنظيف الغرفة."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير المتكلم ويشير إلى الشخص الذي يتحدث."
+          },
+          {
+            "term": "am",
+            "description": "صيغة تأتي مع ضمير المتكلم المفرد وتساعد هنا على وصف فعل يحدث الآن."
+          },
+          {
+            "term": "cleaning",
+            "description": "أنظف أو أزيل الأوساخ وأرتب المكان."
+          },
+          {
+            "term": "my",
+            "description": "كلمة تدل على أن الشيء يخص المتكلم."
+          },
+          {
+            "term": "room",
+            "description": "غرفة أو مكان خاص داخل البيت."
+          }
+        ]
       }
     ],
     "examples": [

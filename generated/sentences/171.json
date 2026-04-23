@@ -7,64 +7,68 @@
     "context": "اعرض توصيل شخص."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Do",
-        "description": "تأتي في بداية السؤال مع المخاطب لتكوين سؤال في الحاضر."
-      },
-      {
-        "term": "you",
-        "description": "أنت، وتشير إلى الشخص المخاطب."
-      },
-      {
-        "term": "want",
-        "description": "تريد أو ترغب."
-      },
-      {
-        "term": "me",
-        "description": "إياي أو مني، وتشير إلى المتكلم."
-      },
-      {
-        "term": "to",
-        "description": "تربط الرغبة بالفعل المطلوب بعدها."
-      },
-      {
-        "term": "come",
-        "description": "آتي أو أحضر إلى مكان."
-      },
-      {
-        "term": "and",
-        "description": "تربط فعلين معًا في المعنى."
-      },
-      {
-        "term": "pick",
-        "description": "جزء من تعبير يعني هنا الذهاب لإحضار شخص بالسيارة أو وسيلة نقل."
-      },
-      {
-        "term": "you",
-        "description": "إياك، وتشير إلى الشخص الذي سيجري توصيله."
-      },
-      {
-        "term": "up",
-        "description": "جزء من تعبير يدل هنا على اصطحاب شخص من مكانه."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "Do you want me",
-        "explanation": {
+        "ar": "هل تريدني أن آتي وأوصلك؟",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "هذا جزء السؤال الرئيسي، ويستخدم المضارع البسيط للسؤال عن رغبة الشخص الآن."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Do",
+            "description": "تأتي في بداية السؤال مع المخاطب لتكوين سؤال في الحاضر."
+          },
+          {
+            "term": "you",
+            "description": "أنت، وتشير إلى الشخص المخاطب."
+          },
+          {
+            "term": "want",
+            "description": "تريد أو ترغب."
+          },
+          {
+            "term": "me",
+            "description": "إياي أو مني، وتشير إلى المتكلم."
+          }
+        ]
       },
       {
         "sentence": "to come and pick you up",
-        "explanation": {
+        "ar": "هل تريدني أن آتي وأوصلك؟",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذا جزء تابع يشرح الفعل المطلوب بعد الرغبة، ويستخدم صيغة المصدر مع فعلين مرتبطين، والتعبير الأخير يعني اصطحابك من مكانك."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "to",
+            "description": "تربط الرغبة بالفعل المطلوب بعدها."
+          },
+          {
+            "term": "come",
+            "description": "آتي أو أحضر إلى مكان."
+          },
+          {
+            "term": "and",
+            "description": "تربط فعلين معًا في المعنى."
+          },
+          {
+            "term": "pick",
+            "description": "جزء من تعبير يعني هنا الذهاب لإحضار شخص بالسيارة أو وسيلة نقل."
+          },
+          {
+            "term": "you",
+            "description": "إياك، وتشير إلى الشخص الذي سيجري توصيله."
+          },
+          {
+            "term": "up",
+            "description": "جزء من تعبير يدل هنا على اصطحاب شخص من مكانه."
+          }
+        ]
       }
     ],
     "examples": [

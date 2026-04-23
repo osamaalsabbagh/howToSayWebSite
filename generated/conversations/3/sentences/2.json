@@ -7,60 +7,61 @@
     "context": "توضح له نوع التمارين المقدمة ضمن الحصة الرياضية"
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Yes",
-        "description": "كلمة موافقة أو تأكيد."
-      },
-      {
-        "term": "we",
-        "description": "ضمير يشير هنا إلى المركز أو الموظفين المسؤولين."
-      },
-      {
-        "term": "have",
-        "description": "تعني نملك أو نوفر في هذا السياق."
-      },
-      {
-        "term": "a",
-        "description": "أداة نكرة قبل اسم مفرد."
-      },
-      {
-        "term": "class",
-        "description": "حصة أو درس منظم."
-      },
-      {
-        "term": "that",
-        "description": "أداة تربط الحصة بالوصف الذي بعدها."
-      },
-      {
-        "term": "combines",
-        "description": "تعني يجمع بين شيئين أو أكثر."
-      },
-      {
-        "term": "fitness",
-        "description": "اللياقة البدنية والتمارين الصحية."
-      },
-      {
-        "term": "and",
-        "description": "حرف عطف يربط بين عنصرين."
-      },
-      {
-        "term": "action",
-        "description": "حركة نشيطة أو حركات تشبه مشاهد الحركة."
-      },
-      {
-        "term": "moves",
-        "description": "حركات جسدية ضمن التمرين."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "Yes, we have a class that combines fitness and action moves.",
-        "explanation": {
+        "ar": "نعم، لدينا حصة تجمع بين اللياقة وحركات الأكشن.",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "استُعمل المضارع البسيط لأن المتكلم يصف خدمة متوفرة حاليًا في المركز."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Yes",
+            "description": "كلمة موافقة أو تأكيد."
+          },
+          {
+            "term": "we",
+            "description": "ضمير يشير هنا إلى المركز أو الموظفين المسؤولين."
+          },
+          {
+            "term": "have",
+            "description": "تعني نملك أو نوفر في هذا السياق."
+          },
+          {
+            "term": "a",
+            "description": "أداة نكرة قبل اسم مفرد."
+          },
+          {
+            "term": "class",
+            "description": "حصة أو درس منظم."
+          },
+          {
+            "term": "that",
+            "description": "أداة تربط الحصة بالوصف الذي بعدها."
+          },
+          {
+            "term": "combines",
+            "description": "تعني يجمع بين شيئين أو أكثر."
+          },
+          {
+            "term": "fitness",
+            "description": "اللياقة البدنية والتمارين الصحية."
+          },
+          {
+            "term": "and",
+            "description": "حرف عطف يربط بين عنصرين."
+          },
+          {
+            "term": "action",
+            "description": "حركة نشيطة أو حركات تشبه مشاهد الحركة."
+          },
+          {
+            "term": "moves",
+            "description": "حركات جسدية ضمن التمرين."
+          }
+        ]
       }
     ],
     "examples": [

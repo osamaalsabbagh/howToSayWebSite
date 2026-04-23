@@ -7,68 +7,72 @@
     "context": "يرغب في تسجيل اسمه ضمن المشاركين في النشاط"
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Great",
-        "description": "كلمة تعبر عن الرضا أو الحماس."
-      },
-      {
-        "term": "I",
-        "description": "ضمير المتكلم المفرد."
-      },
-      {
-        "term": "would",
-        "description": "تجعل الطلب أو الرغبة ألطف وأكثر تهذيبًا."
-      },
-      {
-        "term": "like",
-        "description": "تعني أرغب في هذا السياق."
-      },
-      {
-        "term": "to",
-        "description": "تأتي قبل الفعل لتكوين معنى الرغبة في فعل شيء."
-      },
-      {
-        "term": "add",
-        "description": "تعني أضيف أو أضع شيئًا ضمن قائمة."
-      },
-      {
-        "term": "my",
-        "description": "صفة ملكية تعني الخاص بي."
-      },
-      {
-        "term": "name",
-        "description": "الاسم الشخصي."
-      },
-      {
-        "term": "to",
-        "description": "حرف يوضح الاتجاه نحو القائمة أو الإضافة إليها."
-      },
-      {
-        "term": "the",
-        "description": "أداة تعريف لقائمة معروفة من السياق."
-      },
-      {
-        "term": "list",
-        "description": "قائمة أسماء أو مشاركين."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "Great!",
-        "explanation": {
+        "ar": "رائع!",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذه كلمة تعبير عن الرضا والحماس وليست جملة فعلية لها زمن مستقل."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Great",
+            "description": "كلمة تعبر عن الرضا أو الحماس."
+          }
+        ]
       },
       {
         "sentence": "I would like to add my name to the list.",
-        "explanation": {
+        "ar": "أود أن أُضيف اسمي إلى القائمة.",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذا تركيب مهذب للتعبير عن الرغبة في التسجيل، ويعتمد على would لتلطيف الطلب لا على زمن مستقل واضح."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير المتكلم المفرد."
+          },
+          {
+            "term": "would",
+            "description": "تجعل الطلب أو الرغبة ألطف وأكثر تهذيبًا."
+          },
+          {
+            "term": "like",
+            "description": "تعني أرغب في هذا السياق."
+          },
+          {
+            "term": "to",
+            "description": "تأتي قبل الفعل لتكوين معنى الرغبة في فعل شيء."
+          },
+          {
+            "term": "add",
+            "description": "تعني أضيف أو أضع شيئًا ضمن قائمة."
+          },
+          {
+            "term": "my",
+            "description": "صفة ملكية تعني الخاص بي."
+          },
+          {
+            "term": "name",
+            "description": "الاسم الشخصي."
+          },
+          {
+            "term": "to",
+            "description": "حرف يوضح الاتجاه نحو القائمة أو الإضافة إليها."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف لقائمة معروفة من السياق."
+          },
+          {
+            "term": "list",
+            "description": "قائمة أسماء أو مشاركين."
+          }
+        ]
       }
     ],
     "examples": [

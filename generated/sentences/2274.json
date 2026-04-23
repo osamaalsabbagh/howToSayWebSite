@@ -7,24 +7,25 @@
     "context": "تستخدم للموافقة أو القبول."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "All",
-        "description": "جزء من تعبير ثابت يدل على القبول أو الموافقة."
-      },
-      {
-        "term": "right",
-        "description": "جزء من تعبير ثابت يعني حسنًا أو موافق."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "All right.",
-        "explanation": {
+        "ar": "حسنًا.",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "تعبير موافقة أو قبول قصير، وليس جملة فعلية بزمن مستقل."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "All",
+            "description": "جزء من تعبير ثابت يدل على القبول أو الموافقة."
+          },
+          {
+            "term": "right",
+            "description": "جزء من تعبير ثابت يعني حسنًا أو موافق."
+          }
+        ]
       }
     ],
     "examples": [

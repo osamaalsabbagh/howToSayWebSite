@@ -5,5 +5,110 @@
     "en": "I would like some water too, please.",
     "ar": "أود بعض الماء أيضًا، من فضلك.",
     "context": "طلب ماء بأسلوب مهذب مع شيء آخر."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "I would like some water too, please.",
+        "ar": "أود بعض الماء أيضًا، من فضلك.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "الجملة طلب مهذب باستخدام would like، وكلمة too تضيف الطلب إلى شيء أو طلب آخر في السياق."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "تعني أنا."
+          },
+          {
+            "term": "would",
+            "description": "تستخدم لجعل الرغبة مهذبة."
+          },
+          {
+            "term": "like",
+            "description": "مع would تعني أود أو أرغب."
+          },
+          {
+            "term": "some",
+            "description": "تعني بعض أو كمية غير محددة."
+          },
+          {
+            "term": "water",
+            "description": "تعني ماء."
+          },
+          {
+            "term": "too",
+            "description": "تعني أيضا."
+          },
+          {
+            "term": "please",
+            "description": "تجعل الطلب مؤدبا."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I would like some tea too, please.",
+        "ar": "أود بعض الشاي أيضا، من فضلك.",
+        "context": "تضيف طلب شاي إلى طلب سابق."
+      },
+      {
+        "id": 2,
+        "en": "I would like some coffee, please.",
+        "ar": "أود بعض القهوة، من فضلك.",
+        "context": "تطلب قهوة بأدب."
+      },
+      {
+        "id": 3,
+        "en": "I would like some bread too, please.",
+        "ar": "أود بعض الخبز أيضا، من فضلك.",
+        "context": "تضيف طلب خبز إلى الطلب."
+      },
+      {
+        "id": 4,
+        "en": "I would like some juice, please.",
+        "ar": "أود بعض العصير، من فضلك.",
+        "context": "تطلب عصيرا بطريقة مهذبة."
+      },
+      {
+        "id": 5,
+        "en": "We would like some water, please.",
+        "ar": "نود بعض الماء، من فضلك.",
+        "context": "تطلب ماء لمجموعة."
+      },
+      {
+        "id": 6,
+        "en": "She would like some soup too.",
+        "ar": "هي تود بعض الحساء أيضا.",
+        "context": "تذكر رغبة امرأة في إضافة حساء."
+      },
+      {
+        "id": 7,
+        "en": "I would like a glass of water, please.",
+        "ar": "أود كوبا من الماء، من فضلك.",
+        "context": "تطلب كوبا واحدا من الماء."
+      },
+      {
+        "id": 8,
+        "en": "I would like some milk too, please.",
+        "ar": "أود بعض الحليب أيضا، من فضلك.",
+        "context": "تضيف الحليب إلى طلبك."
+      },
+      {
+        "id": 9,
+        "en": "They would like some water too.",
+        "ar": "هم يودون بعض الماء أيضا.",
+        "context": "تذكر أن أشخاصا آخرين يريدون الماء أيضا."
+      },
+      {
+        "id": 10,
+        "en": "I would like some ice too, please.",
+        "ar": "أود بعض الثلج أيضا، من فضلك.",
+        "context": "تضيف طلب الثلج إلى المشروب."
+      }
+    ]
   }
 }

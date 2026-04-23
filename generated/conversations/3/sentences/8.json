@@ -7,104 +7,111 @@
     "context": "تقدم له نصائح بشأن التهوية وضرورة ارتداء الملابس المناسبة"
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Good",
-        "description": "تعني جيد، وتأتي هنا ضمن عبارة تعني من المفيد معرفة ذلك."
-      },
-      {
-        "term": "to",
-        "description": "تأتي قبل الفعل لتكوين عبارة قصيرة."
-      },
-      {
-        "term": "know",
-        "description": "تعني معرفة أو إدراك معلومة."
-      },
-      {
-        "term": "Please",
-        "description": "كلمة تجعل الطلب مهذبًا."
-      },
-      {
-        "term": "bring",
-        "description": "تعني أحضر شيئًا معك."
-      },
-      {
-        "term": "a",
-        "description": "أداة نكرة قبل اسم مفرد."
-      },
-      {
-        "term": "water",
-        "description": "ماء."
-      },
-      {
-        "term": "bottle",
-        "description": "زجاجة أو عبوة."
-      },
-      {
-        "term": "and",
-        "description": "حرف عطف يربط بين طلبين."
-      },
-      {
-        "term": "wear",
-        "description": "تعني ارتدِ ملابس أو شيئًا على الجسم."
-      },
-      {
-        "term": "light",
-        "description": "تعني خفيفًا، والمقصود ملابس غير ثقيلة."
-      },
-      {
-        "term": "clothes",
-        "description": "ملابس."
-      },
-      {
-        "term": "There",
-        "description": "تبدأ تركيبًا يدل على وجود شيء."
-      },
-      {
-        "term": "is",
-        "description": "صيغة تدل على وجود شيء مفرد أو كمية غير معدودة."
-      },
-      {
-        "term": "not",
-        "description": "أداة نفي."
-      },
-      {
-        "term": "much",
-        "description": "تعني كثيرًا وتستعمل مع الأشياء غير المعدودة."
-      },
-      {
-        "term": "air",
-        "description": "هواء أو تهوية."
-      },
-      {
-        "term": "inside",
-        "description": "في الداخل."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "Good to know.",
-        "explanation": {
+        "ar": "جيد أن نعرف.",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذه عبارة رد قصيرة تعني أن المعلومة مفيدة، وليست جملة فعلية كاملة لها زمن مستقل."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Good",
+            "description": "تعني جيد، وتأتي هنا ضمن عبارة تعني من المفيد معرفة ذلك."
+          },
+          {
+            "term": "to",
+            "description": "تأتي قبل الفعل لتكوين عبارة قصيرة."
+          },
+          {
+            "term": "know",
+            "description": "تعني معرفة أو إدراك معلومة."
+          }
+        ]
       },
       {
         "sentence": "Please bring a water bottle and wear light clothes.",
-        "explanation": {
+        "ar": "من فضلك أحضر زجاجة ماء وارتدِ ملابس خفيفة.",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذا طلب أو توجيه مباشر، لذلك لا نعامله كزمن فعلي مستقل."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Please",
+            "description": "كلمة تجعل الطلب مهذبًا."
+          },
+          {
+            "term": "bring",
+            "description": "تعني أحضر شيئًا معك."
+          },
+          {
+            "term": "a",
+            "description": "أداة نكرة قبل اسم مفرد."
+          },
+          {
+            "term": "water",
+            "description": "ماء."
+          },
+          {
+            "term": "bottle",
+            "description": "زجاجة أو عبوة."
+          },
+          {
+            "term": "and",
+            "description": "حرف عطف يربط بين طلبين."
+          },
+          {
+            "term": "wear",
+            "description": "تعني ارتدِ ملابس أو شيئًا على الجسم."
+          },
+          {
+            "term": "light",
+            "description": "تعني خفيفًا، والمقصود ملابس غير ثقيلة."
+          },
+          {
+            "term": "clothes",
+            "description": "ملابس."
+          }
+        ]
       },
       {
         "sentence": "There is not much air inside.",
-        "explanation": {
+        "ar": "لا يوجد هواء كثير في الداخل.",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "استُعمل المضارع البسيط لوصف حالة المكان الحالية من حيث التهوية."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "There",
+            "description": "تبدأ تركيبًا يدل على وجود شيء."
+          },
+          {
+            "term": "is",
+            "description": "صيغة تدل على وجود شيء مفرد أو كمية غير معدودة."
+          },
+          {
+            "term": "not",
+            "description": "أداة نفي."
+          },
+          {
+            "term": "much",
+            "description": "تعني كثيرًا وتستعمل مع الأشياء غير المعدودة."
+          },
+          {
+            "term": "air",
+            "description": "هواء أو تهوية."
+          },
+          {
+            "term": "inside",
+            "description": "في الداخل."
+          }
+        ]
       }
     ],
     "examples": [

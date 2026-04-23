@@ -7,40 +7,41 @@
     "context": "اطلب من سائق الذهاب لمكان معين."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Please",
-        "description": "كلمة تجعل الطلب مهذبًا."
-      },
-      {
-        "term": "take",
-        "description": "أوصل أو خذ شخصًا إلى مكان."
-      },
-      {
-        "term": "me",
-        "description": "ضمير يشير إلى المتكلم عندما يكون متلقيًا للفعل."
-      },
-      {
-        "term": "to",
-        "description": "إلى، وتدل على الاتجاه أو المكان المقصود."
-      },
-      {
-        "term": "this",
-        "description": "هذا، وتشير إلى شيء قريب أو معروض."
-      },
-      {
-        "term": "address",
-        "description": "عنوان أو مكان محدد للوصول إليه."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "Please take me to this address.",
-        "explanation": {
+        "ar": "يرجى أخذي إلى هذا العنوان.",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذه صيغة طلب مهذب من شخص أن يوصلك إلى مكان محدد، وهي أقرب إلى الأمر المهذب ولا تحمل زمنًا مستقلًا."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Please",
+            "description": "كلمة تجعل الطلب مهذبًا."
+          },
+          {
+            "term": "take",
+            "description": "أوصل أو خذ شخصًا إلى مكان."
+          },
+          {
+            "term": "me",
+            "description": "ضمير يشير إلى المتكلم عندما يكون متلقيًا للفعل."
+          },
+          {
+            "term": "to",
+            "description": "إلى، وتدل على الاتجاه أو المكان المقصود."
+          },
+          {
+            "term": "this",
+            "description": "هذا، وتشير إلى شيء قريب أو معروض."
+          },
+          {
+            "term": "address",
+            "description": "عنوان أو مكان محدد للوصول إليه."
+          }
+        ]
       }
     ],
     "examples": [

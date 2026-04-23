@@ -5,5 +5,118 @@
     "en": "I would like to speak to Mr. Smith please.",
     "ar": "أود التحدث إلى السيد سميث من فضلك.",
     "context": "طلب مهذب للتحدث إلى شخص معين."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "I would like to speak to Mr. Smith please.",
+        "ar": "أود التحدث إلى السيد سميث من فضلك.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه صيغة طلب مهذب باستخدام would like، ولا تعبر عن زمن مستقل بقدر ما تعبر عن رغبة مؤدبة في التحدث إلى شخص معين."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير يشير إلى المتكلم نفسه."
+          },
+          {
+            "term": "would",
+            "description": "تستخدم هنا لجعل الطلب مهذبًا وغير مباشر."
+          },
+          {
+            "term": "like",
+            "description": "تعني أرغب أو أود في هذا السياق."
+          },
+          {
+            "term": "to",
+            "description": "أداة تأتي قبل الفعل لتوضيح الفعل المطلوب."
+          },
+          {
+            "term": "speak",
+            "description": "يعني أتحدث أو أكلم شخصًا."
+          },
+          {
+            "term": "to",
+            "description": "حرف يبين الشخص الذي تريد التحدث معه."
+          },
+          {
+            "term": "Mr",
+            "description": "لقب احترام للرجل قبل اسمه أو اسم عائلته."
+          },
+          {
+            "term": "Smith",
+            "description": "اسم عائلة الشخص المطلوب التحدث إليه."
+          },
+          {
+            "term": "please",
+            "description": "كلمة تلطف الطلب وتعني من فضلك."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I would like to speak to the manager please.",
+        "ar": "أود التحدث إلى المدير من فضلك.",
+        "context": "تستخدم عند طلب التحدث إلى مسؤول."
+      },
+      {
+        "id": 2,
+        "en": "I would like to speak to Dr. Ali please.",
+        "ar": "أود التحدث إلى الدكتور علي من فضلك.",
+        "context": "تستخدم عند طلب شخص محدد بلقب احترام."
+      },
+      {
+        "id": 3,
+        "en": "I would like to ask a question please.",
+        "ar": "أود طرح سؤال من فضلك.",
+        "context": "تستخدم لطلب الإذن بالكلام بأدب."
+      },
+      {
+        "id": 4,
+        "en": "I would like to make an appointment please.",
+        "ar": "أود حجز موعد من فضلك.",
+        "context": "تستخدم عند الاتصال بعيادة أو مكتب."
+      },
+      {
+        "id": 5,
+        "en": "I would like to talk to someone in charge please.",
+        "ar": "أود التحدث إلى شخص مسؤول من فضلك.",
+        "context": "تستخدم عندما تحتاج إلى مسؤول يساعدك."
+      },
+      {
+        "id": 6,
+        "en": "May I speak to Mr. Brown please?",
+        "ar": "هل يمكنني التحدث إلى السيد براون من فضلك؟",
+        "context": "تستخدم كطلب رسمي عبر الهاتف."
+      },
+      {
+        "id": 7,
+        "en": "Could I speak to the receptionist please?",
+        "ar": "هل يمكنني التحدث إلى موظف الاستقبال من فضلك؟",
+        "context": "تستخدم عند الحاجة إلى موظف استقبال."
+      },
+      {
+        "id": 8,
+        "en": "I would like to leave a message please.",
+        "ar": "أود ترك رسالة من فضلك.",
+        "context": "تستخدم عندما لا يكون الشخص المطلوب متاحًا."
+      },
+      {
+        "id": 9,
+        "en": "I would like to speak with your supervisor please.",
+        "ar": "أود التحدث مع مشرفك من فضلك.",
+        "context": "تستخدم عند تصعيد طلب أو مشكلة."
+      },
+      {
+        "id": 10,
+        "en": "I would like to confirm my reservation please.",
+        "ar": "أود تأكيد حجزي من فضلك.",
+        "context": "تستخدم عند الاتصال بفندق أو مطعم."
+      }
+    ]
   }
 }

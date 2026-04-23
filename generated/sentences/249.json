@@ -7,28 +7,29 @@
     "context": "ادعُ شخصًا للدخول إلى المكان الذي أنت فيه، وغالبًا تُستخدم في المحادثات اليومية."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Please",
-        "description": "من فضلك، وتجعل الدعوة أو الطلب مهذبًا."
-      },
-      {
-        "term": "come",
-        "description": "تعال أو ادخل باتجاه المتكلم."
-      },
-      {
-        "term": "in",
-        "description": "إلى الداخل."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "Please come in.",
-        "explanation": {
+        "ar": "تفضل بالدخول.",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذه جملة أمر مهذبة تدعو شخصًا للدخول إلى المكان الذي يوجد فيه المتكلم، ولا تحمل زمنًا مستقلًا."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Please",
+            "description": "من فضلك، وتجعل الدعوة أو الطلب مهذبًا."
+          },
+          {
+            "term": "come",
+            "description": "تعال أو ادخل باتجاه المتكلم."
+          },
+          {
+            "term": "in",
+            "description": "إلى الداخل."
+          }
+        ]
       }
     ],
     "examples": [

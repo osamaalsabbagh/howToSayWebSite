@@ -5,5 +5,102 @@
     "en": "Can we sit over there?",
     "ar": "هل يمكننا الجلوس هناك؟",
     "context": "طلب الجلوس في مكان معين."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Can we sit over there?",
+        "ar": "هل يمكننا الجلوس هناك؟",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "الجملة طلب إذن باستخدام Can we، والتعبير over there يشير إلى مكان محدد بعيد قليلا أو واضح بالإشارة."
+        },
+        "wordMeanings": [
+          {
+            "term": "Can",
+            "description": "تستخدم لطلب الإذن أو الإمكانية."
+          },
+          {
+            "term": "we",
+            "description": "تعني نحن."
+          },
+          {
+            "term": "sit",
+            "description": "تعني نجلس."
+          },
+          {
+            "term": "over",
+            "description": "تساعد على الإشارة إلى مكان بعيد قليلا عن المتكلم."
+          },
+          {
+            "term": "there",
+            "description": "تعني هناك."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Can we sit by the window?",
+        "ar": "هل يمكننا الجلوس بجانب النافذة؟",
+        "context": "تطلب طاولة بجانب النافذة."
+      },
+      {
+        "id": 2,
+        "en": "Can we sit outside?",
+        "ar": "هل يمكننا الجلوس في الخارج؟",
+        "context": "تسأل عن إمكانية الجلوس خارج المكان."
+      },
+      {
+        "id": 3,
+        "en": "Can we sit here?",
+        "ar": "هل يمكننا الجلوس هنا؟",
+        "context": "تطلب الإذن بالجلوس في مكان قريب."
+      },
+      {
+        "id": 4,
+        "en": "Can we move over there?",
+        "ar": "هل يمكننا الانتقال إلى هناك؟",
+        "context": "تطلب تغيير مكان الجلوس."
+      },
+      {
+        "id": 5,
+        "en": "Can I sit next to you?",
+        "ar": "هل يمكنني الجلوس بجانبك؟",
+        "context": "تطلب الجلوس بجانب شخص."
+      },
+      {
+        "id": 6,
+        "en": "Can we take that table?",
+        "ar": "هل يمكننا أخذ تلك الطاولة؟",
+        "context": "تسأل عن طاولة محددة في مطعم."
+      },
+      {
+        "id": 7,
+        "en": "Can we wait over there?",
+        "ar": "هل يمكننا الانتظار هناك؟",
+        "context": "تسأل عن مكان مناسب للانتظار."
+      },
+      {
+        "id": 8,
+        "en": "Can we stand over there?",
+        "ar": "هل يمكننا الوقوف هناك؟",
+        "context": "تطلب مكانا للوقوف."
+      },
+      {
+        "id": 9,
+        "en": "Can we sit near the door?",
+        "ar": "هل يمكننا الجلوس قرب الباب؟",
+        "context": "تطلب مكانا قرب الباب."
+      },
+      {
+        "id": 10,
+        "en": "Can we sit together?",
+        "ar": "هل يمكننا الجلوس معا؟",
+        "context": "تطلب أن تجلس المجموعة في مكان واحد."
+      }
+    ]
   }
 }

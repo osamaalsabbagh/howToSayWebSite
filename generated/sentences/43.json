@@ -7,32 +7,33 @@
     "context": "اقبل أخذ شيء."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "I",
-        "description": "ضمير المتكلم ويشير إلى الشخص الذي يتحدث."
-      },
-      {
-        "term": "will",
-        "description": "كلمة تدل هنا على قرار أو قبول."
-      },
-      {
-        "term": "take",
-        "description": "آخذ أو أقبل الحصول على شيء."
-      },
-      {
-        "term": "it",
-        "description": "ضمير يشير إلى شيء معروف من السياق."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "I will take it.",
-        "explanation": {
+        "ar": "سآخذه.",
+        "grammar": {
           "tense": "المستقبل البسيط",
           "tenseEn": "Future Simple",
           "reason": "تستخدم will مع الفعل الأساسي للتعبير عن قرار فوري أو قبول أخذ شيء معروض."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير المتكلم ويشير إلى الشخص الذي يتحدث."
+          },
+          {
+            "term": "will",
+            "description": "كلمة تدل هنا على قرار أو قبول."
+          },
+          {
+            "term": "take",
+            "description": "آخذ أو أقبل الحصول على شيء."
+          },
+          {
+            "term": "it",
+            "description": "ضمير يشير إلى شيء معروف من السياق."
+          }
+        ]
       }
     ],
     "examples": [

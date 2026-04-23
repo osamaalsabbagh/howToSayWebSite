@@ -7,48 +7,49 @@
     "context": "اذكر موعد إقلاع الطائرة."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "The",
-        "description": "أداة تشير إلى طائرة أو رحلة محددة معروفة."
-      },
-      {
-        "term": "plane",
-        "description": "طائرة."
-      },
-      {
-        "term": "departs",
-        "description": "تغادر أو تقلع في وقت محدد."
-      },
-      {
-        "term": "at",
-        "description": "تستخدم مع الوقت لتحديد ساعة معينة."
-      },
-      {
-        "term": "5",
-        "description": "العدد خمسة، ويمثل الساعة هنا."
-      },
-      {
-        "term": "30",
-        "description": "العدد ثلاثون، ويمثل الدقائق هنا."
-      },
-      {
-        "term": "p",
-        "description": "جزء من اختصار يدل على وقت بعد الظهر أو المساء."
-      },
-      {
-        "term": "m",
-        "description": "جزء من اختصار يدل مع الحرف السابق على المساء."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "The plane departs at 5:30 p.m.",
-        "explanation": {
+        "ar": "تقلع الطائرة في الساعة ٥:٣٠ مساءً.",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "يستخدم المضارع البسيط للتعبير عن موعد رسمي أو جدول ثابت لإقلاع الطائرة."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "The",
+            "description": "أداة تشير إلى طائرة أو رحلة محددة معروفة."
+          },
+          {
+            "term": "plane",
+            "description": "طائرة."
+          },
+          {
+            "term": "departs",
+            "description": "تغادر أو تقلع في وقت محدد."
+          },
+          {
+            "term": "at",
+            "description": "تستخدم مع الوقت لتحديد ساعة معينة."
+          },
+          {
+            "term": "5",
+            "description": "العدد خمسة، ويمثل الساعة هنا."
+          },
+          {
+            "term": "30",
+            "description": "العدد ثلاثون، ويمثل الدقائق هنا."
+          },
+          {
+            "term": "p",
+            "description": "جزء من اختصار يدل على وقت بعد الظهر أو المساء."
+          },
+          {
+            "term": "m",
+            "description": "جزء من اختصار يدل مع الحرف السابق على المساء."
+          }
+        ]
       }
     ],
     "examples": [

@@ -7,64 +7,68 @@
     "context": "يسأل بلطف عن السبب المحتمل لتأخر الرحلة"
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Oh",
-        "description": "كلمة تعجب أو رد فعل سريع عند سماع خبر غير مريح."
-      },
-      {
-        "term": "no",
-        "description": "كلمة للنفي أو الرفض."
-      },
-      {
-        "term": "Do",
-        "description": "تبدأ سؤالًا في المضارع البسيط عن معرفة الشخص بشيء."
-      },
-      {
-        "term": "you",
-        "description": "ضمير المخاطب."
-      },
-      {
-        "term": "know",
-        "description": "فعل يعني يعرف أو يعلم."
-      },
-      {
-        "term": "what",
-        "description": "أداة سؤال عن الشيء أو المعنى أو الاختيار."
-      },
-      {
-        "term": "the",
-        "description": "أداة تعريف تشير إلى شيء معروف أو محدد."
-      },
-      {
-        "term": "delay",
-        "description": "اسم يعني التأخير."
-      },
-      {
-        "term": "is",
-        "description": "صيغة تربط التأخير بالسبب أو الموضوع الذي بعده."
-      },
-      {
-        "term": "about",
-        "description": "تعني هنا بسبب ماذا أو بخصوص ماذا، وتطلب سبب التأخير."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "Oh no.",
-        "explanation": {
+        "ar": "أوه، لا.",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذا الجزء تعبير قصير أو غير مكتمل فعليًا، لذلك لا نضع له زمنًا مستقلًا."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Oh",
+            "description": "كلمة تعجب أو رد فعل سريع عند سماع خبر غير مريح."
+          },
+          {
+            "term": "no",
+            "description": "كلمة للنفي أو الرفض."
+          }
+        ]
       },
       {
         "sentence": "Do you know what the delay is about?",
-        "explanation": {
+        "ar": "هل تعرف ما سبب التأخير؟",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "استُعمل المضارع البسيط لأن هذا الجزء يصف حالة أو حقيقة أو معنى حاضرًا في سياق الكلام."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Do",
+            "description": "تبدأ سؤالًا في المضارع البسيط عن معرفة الشخص بشيء."
+          },
+          {
+            "term": "you",
+            "description": "ضمير المخاطب."
+          },
+          {
+            "term": "know",
+            "description": "فعل يعني يعرف أو يعلم."
+          },
+          {
+            "term": "what",
+            "description": "أداة سؤال عن الشيء أو المعنى أو الاختيار."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف تشير إلى شيء معروف أو محدد."
+          },
+          {
+            "term": "delay",
+            "description": "اسم يعني التأخير."
+          },
+          {
+            "term": "is",
+            "description": "صيغة تربط التأخير بالسبب أو الموضوع الذي بعده."
+          },
+          {
+            "term": "about",
+            "description": "تعني هنا بسبب ماذا أو بخصوص ماذا، وتطلب سبب التأخير."
+          }
+        ]
       }
     ],
     "examples": [

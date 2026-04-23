@@ -5,5 +5,106 @@
     "en": "Where would you like to go?",
     "ar": "إلى أين تود أن تذهب؟",
     "context": "طلب تحديد وجهة مفضلة."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Where would you like to go?",
+        "ar": "إلى أين تود أن تذهب؟",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذا سؤال مهذب عن الرغبة باستخدام would like ثم to مع الفعل، ولا يصف زمنا محددا مثل الماضي أو المضارع."
+        },
+        "wordMeanings": [
+          {
+            "term": "Where",
+            "description": "تستخدم للسؤال عن الوجهة أو المكان المرغوب."
+          },
+          {
+            "term": "would",
+            "description": "تجعل السؤال مهذبا وتدل على رغبة أو اختيار محتمل."
+          },
+          {
+            "term": "you",
+            "description": "تعني أنت أو أنتم حسب الموقف."
+          },
+          {
+            "term": "like",
+            "description": "تعني تود أو ترغب عندما تأتي بعد would."
+          },
+          {
+            "term": "to",
+            "description": "تأتي قبل الفعل لتكوين معنى الغرض أو الاتجاه نحو فعل."
+          },
+          {
+            "term": "go",
+            "description": "تعني تذهب أو تنتقل إلى مكان."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Where would you like to sit?",
+        "ar": "أين تود أن تجلس؟",
+        "context": "تسأل شخصا بأدب عن المكان الذي يفضله للجلوس."
+      },
+      {
+        "id": 2,
+        "en": "What would you like to drink?",
+        "ar": "ماذا تود أن تشرب؟",
+        "context": "تسأل عن المشروب المفضل بأدب."
+      },
+      {
+        "id": 3,
+        "en": "When would you like to leave?",
+        "ar": "متى تود أن تغادر؟",
+        "context": "تسأل عن وقت المغادرة المفضل."
+      },
+      {
+        "id": 4,
+        "en": "Which room would you like to see?",
+        "ar": "أي غرفة تود أن ترى؟",
+        "context": "تسأل عن اختيار شخص بين غرف."
+      },
+      {
+        "id": 5,
+        "en": "Would you like to go now?",
+        "ar": "هل تود أن تذهب الآن؟",
+        "context": "تعرض الذهاب الآن بطريقة مهذبة."
+      },
+      {
+        "id": 6,
+        "en": "I would like to go home.",
+        "ar": "أود أن أذهب إلى البيت.",
+        "context": "تعبير مهذب عن رغبة في العودة إلى البيت."
+      },
+      {
+        "id": 7,
+        "en": "She would like to visit Paris.",
+        "ar": "هي تود زيارة باريس.",
+        "context": "تذكر رغبة شخص في زيارة مدينة."
+      },
+      {
+        "id": 8,
+        "en": "We would like to try that cafe.",
+        "ar": "نود تجربة ذلك المقهى.",
+        "context": "تعبير عن رغبة جماعية في تجربة مكان."
+      },
+      {
+        "id": 9,
+        "en": "Where would they like to meet?",
+        "ar": "أين يودون أن يلتقوا؟",
+        "context": "تسأل عن مكان لقاء مفضل لمجموعة."
+      },
+      {
+        "id": 10,
+        "en": "How would you like to travel?",
+        "ar": "كيف تود أن تسافر؟",
+        "context": "تسأل عن وسيلة السفر المفضلة."
+      }
+    ]
   }
 }

@@ -7,44 +7,48 @@
     "context": "الطالب يوضح أنه يفهم الفرق في الوقت الحالي ويشكر المعلم"
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Now",
-        "description": "في هذه اللحظة أو بعد الشرح مباشرة."
-      },
-      {
-        "term": "I",
-        "description": "ضمير المتكلم المفرد."
-      },
-      {
-        "term": "understand",
-        "description": "أفهم أو أدرك المعنى."
-      },
-      {
-        "term": "thank",
-        "description": "أشكر أو أعبّر عن الامتنان."
-      },
-      {
-        "term": "you",
-        "description": "الشخص الذي يوجه إليه الشكر."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "Now I understand",
-        "explanation": {
+        "ar": "الآن أنا أفهم، شكرًا لك.",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "الجملة تصف حالة فهم المتكلم في الوقت الحالي بعد الشرح."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Now",
+            "description": "في هذه اللحظة أو بعد الشرح مباشرة."
+          },
+          {
+            "term": "I",
+            "description": "ضمير المتكلم المفرد."
+          },
+          {
+            "term": "understand",
+            "description": "أفهم أو أدرك المعنى."
+          }
+        ]
       },
       {
         "sentence": "thank you",
-        "explanation": {
+        "ar": "الآن أنا أفهم، شكرًا لك.",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذا تعبير شكر ثابت وليس جملة بزمن مستقل."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "thank",
+            "description": "أشكر أو أعبّر عن الامتنان."
+          },
+          {
+            "term": "you",
+            "description": "الشخص الذي يوجه إليه الشكر."
+          }
+        ]
       }
     ],
     "examples": [

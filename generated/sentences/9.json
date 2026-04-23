@@ -7,32 +7,33 @@
     "context": "صف أفعالًا تحدث أحيانًا."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "From",
-        "description": "تأتي هنا كبداية لتعبير يدل على تكرار غير منتظم."
-      },
-      {
-        "term": "time",
-        "description": "وقت، وهي جزء من تعبير يعني أحيانًا."
-      },
-      {
-        "term": "to",
-        "description": "تربط الكلمتين في التعبير للدلالة على تكرار بين حين وآخر."
-      },
-      {
-        "term": "time",
-        "description": "تكرار لكلمة وقت داخل التعبير الكامل الذي يعني من حين لآخر."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "From time to time.",
-        "explanation": {
+        "ar": "من وقت لآخر.",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذا تعبير ظرفي يصف مدى تكرار الفعل، ولا يحتوي على فعل مستقل أو زمن مستقل."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "From",
+            "description": "تأتي هنا كبداية لتعبير يدل على تكرار غير منتظم."
+          },
+          {
+            "term": "time",
+            "description": "وقت، وهي جزء من تعبير يعني أحيانًا."
+          },
+          {
+            "term": "to",
+            "description": "تربط الكلمتين في التعبير للدلالة على تكرار بين حين وآخر."
+          },
+          {
+            "term": "time",
+            "description": "تكرار لكلمة وقت داخل التعبير الكامل الذي يعني من حين لآخر."
+          }
+        ]
       }
     ],
     "examples": [

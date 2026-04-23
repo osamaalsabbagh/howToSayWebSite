@@ -7,52 +7,56 @@
     "context": "الموظف يبدأ تتبع الطلب في النظام."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Alright",
-        "description": "كلمة موافقة أو انتقال للخطوة التالية."
-      },
-      {
-        "term": "I",
-        "description": "ضمير المتكلم المفرد."
-      },
-      {
-        "term": "will",
-        "description": "تدل على قرار فوري أو وعد بفعل شيء."
-      },
-      {
-        "term": "start",
-        "description": "يبدأ."
-      },
-      {
-        "term": "tracking",
-        "description": "يتابع حالة شيء أو مكانه."
-      },
-      {
-        "term": "it",
-        "description": "ضمير يعود على الطلب أو الطرد."
-      },
-      {
-        "term": "now",
-        "description": "في هذه اللحظة."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "Alright",
-        "explanation": {
+        "ar": "تمام، سوف أبدأ تتبعه الآن.",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "كلمة موافقة أو انتقال ولا تحمل زمنًا مستقلًا."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Alright",
+            "description": "كلمة موافقة أو انتقال للخطوة التالية."
+          }
+        ]
       },
       {
         "sentence": "I will start tracking it now",
-        "explanation": {
+        "ar": "تمام، سوف أبدأ تتبعه الآن.",
+        "grammar": {
           "tense": "المستقبل البسيط",
           "tenseEn": "Future Simple",
           "reason": "استُخدم will للتعبير عن قرار فوري سيبدأ بعد لحظة الكلام."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير المتكلم المفرد."
+          },
+          {
+            "term": "will",
+            "description": "تدل على قرار فوري أو وعد بفعل شيء."
+          },
+          {
+            "term": "start",
+            "description": "يبدأ."
+          },
+          {
+            "term": "tracking",
+            "description": "يتابع حالة شيء أو مكانه."
+          },
+          {
+            "term": "it",
+            "description": "ضمير يعود على الطلب أو الطرد."
+          },
+          {
+            "term": "now",
+            "description": "في هذه اللحظة."
+          }
+        ]
       }
     ],
     "examples": [

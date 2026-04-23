@@ -7,24 +7,25 @@
     "context": "التأكيد على فهمك لما قيل."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "I",
-        "description": "ضمير المتكلم المفرد."
-      },
-      {
-        "term": "understand",
-        "description": "أفهم أو أدرك المعنى."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "I understand.",
-        "explanation": {
+        "ar": "أنا أفهم.",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "الجملة تصف حالة فهم المتكلم في الوقت الحالي."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير المتكلم المفرد."
+          },
+          {
+            "term": "understand",
+            "description": "أفهم أو أدرك المعنى."
+          }
+        ]
       }
     ],
     "examples": [

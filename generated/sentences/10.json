@@ -7,24 +7,25 @@
     "context": "وافق على اقتراح."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Good",
-        "description": "جيد أو مناسب في هذا السياق."
-      },
-      {
-        "term": "idea",
-        "description": "فكرة أو اقتراح يمكن التفكير فيه أو تنفيذه."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "Good idea.",
-        "explanation": {
+        "ar": "فكرة جيدة.",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذا تركيب اسمي قصير يستخدم للموافقة على اقتراح، ولا يحتوي على فعل أو زمن مستقل."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Good",
+            "description": "جيد أو مناسب في هذا السياق."
+          },
+          {
+            "term": "idea",
+            "description": "فكرة أو اقتراح يمكن التفكير فيه أو تنفيذه."
+          }
+        ]
       }
     ],
     "examples": [

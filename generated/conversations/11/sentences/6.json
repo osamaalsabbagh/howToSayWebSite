@@ -7,56 +7,57 @@
     "context": "الطالب يسأل عن الفروقات بين نوعين من الماء"
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Is",
-        "description": "تبدأ سؤالًا عن وجود فرق أو حالة."
-      },
-      {
-        "term": "there",
-        "description": "تأتي مع السؤال للدلالة على وجود شيء."
-      },
-      {
-        "term": "any",
-        "description": "أي مقدار من الفرق، حتى لو كان صغيرًا."
-      },
-      {
-        "term": "difference",
-        "description": "فرق أو اختلاف بين شيئين."
-      },
-      {
-        "term": "between",
-        "description": "بين شيئين أو أكثر للمقارنة."
-      },
-      {
-        "term": "fresh",
-        "description": "عذب أو غير مالح عندما يصف الماء في السياق العلمي."
-      },
-      {
-        "term": "water",
-        "description": "ماء."
-      },
-      {
-        "term": "and",
-        "description": "تربط بين العنصرين المقارنين."
-      },
-      {
-        "term": "clean",
-        "description": "نظيف أو خالٍ من الأوساخ أو ما يضر."
-      },
-      {
-        "term": "water",
-        "description": "ماء، والمقصود هنا ماء نظيف أو آمن."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "Is there any difference between fresh water and clean water?",
-        "explanation": {
+        "ar": "هل هناك أي فرق بين الماء العذب والماء النظيف؟",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "استُخدم السؤال في المضارع البسيط للاستفسار عن فرق عام أو مفهوم قائم بين مصطلحين."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Is",
+            "description": "تبدأ سؤالًا عن وجود فرق أو حالة."
+          },
+          {
+            "term": "there",
+            "description": "تأتي مع السؤال للدلالة على وجود شيء."
+          },
+          {
+            "term": "any",
+            "description": "أي مقدار من الفرق، حتى لو كان صغيرًا."
+          },
+          {
+            "term": "difference",
+            "description": "فرق أو اختلاف بين شيئين."
+          },
+          {
+            "term": "between",
+            "description": "بين شيئين أو أكثر للمقارنة."
+          },
+          {
+            "term": "fresh",
+            "description": "عذب أو غير مالح عندما يصف الماء في السياق العلمي."
+          },
+          {
+            "term": "water",
+            "description": "ماء."
+          },
+          {
+            "term": "and",
+            "description": "تربط بين العنصرين المقارنين."
+          },
+          {
+            "term": "clean",
+            "description": "نظيف أو خالٍ من الأوساخ أو ما يضر."
+          },
+          {
+            "term": "water",
+            "description": "ماء، والمقصود هنا ماء نظيف أو آمن."
+          }
+        ]
       }
     ],
     "examples": [

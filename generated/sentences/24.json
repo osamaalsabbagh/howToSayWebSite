@@ -7,48 +7,49 @@
     "context": "عبّر عن رغبتك بالمشي."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "I",
-        "description": "ضمير المتكلم ويشير إلى الشخص الذي يتحدث."
-      },
-      {
-        "term": "would",
-        "description": "تجعل التعبير عن الرغبة ألطف وأكثر تهذيبًا."
-      },
-      {
-        "term": "like",
-        "description": "أرغب أو أود في هذا السياق."
-      },
-      {
-        "term": "to",
-        "description": "تأتي قبل الفعل لتربط الرغبة بالفعل المطلوب."
-      },
-      {
-        "term": "go",
-        "description": "أذهب أو أتحرك إلى مكان أو نشاط."
-      },
-      {
-        "term": "for",
-        "description": "تأتي هنا لربط الذهاب بنشاط مقصود."
-      },
-      {
-        "term": "a",
-        "description": "أداة تدل على شيء واحد غير محدد."
-      },
-      {
-        "term": "walk",
-        "description": "مشي أو نزهة قصيرة على القدمين."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "I would like to go for a walk.",
-        "explanation": {
+        "ar": "أود الذهاب للمشي.",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "تستخدم would like للتعبير عن رغبة بطريقة مهذبة، ثم يأتي to go لبيان الفعل المرغوب، وهذا تركيب رغبة مهذب لا يحمل زمنًا مستقلًا."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير المتكلم ويشير إلى الشخص الذي يتحدث."
+          },
+          {
+            "term": "would",
+            "description": "تجعل التعبير عن الرغبة ألطف وأكثر تهذيبًا."
+          },
+          {
+            "term": "like",
+            "description": "أرغب أو أود في هذا السياق."
+          },
+          {
+            "term": "to",
+            "description": "تأتي قبل الفعل لتربط الرغبة بالفعل المطلوب."
+          },
+          {
+            "term": "go",
+            "description": "أذهب أو أتحرك إلى مكان أو نشاط."
+          },
+          {
+            "term": "for",
+            "description": "تأتي هنا لربط الذهاب بنشاط مقصود."
+          },
+          {
+            "term": "a",
+            "description": "أداة تدل على شيء واحد غير محدد."
+          },
+          {
+            "term": "walk",
+            "description": "مشي أو نزهة قصيرة على القدمين."
+          }
+        ]
       }
     ],
     "examples": [

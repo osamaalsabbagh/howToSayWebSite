@@ -7,24 +7,25 @@
     "context": "الزبون يشكر الموظف."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Thank",
-        "description": "تعبير شكر أو تقدير لشخص."
-      },
-      {
-        "term": "you",
-        "description": "الشخص الذي يوجه إليه الشكر."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "Thank you.",
-        "explanation": {
+        "ar": "شكرًا لك.",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذا تعبير ثابت للشكر، ويُستخدم كرد قصير لا يحتاج إلى زمن مستقل."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Thank",
+            "description": "تعبير شكر أو تقدير لشخص."
+          },
+          {
+            "term": "you",
+            "description": "الشخص الذي يوجه إليه الشكر."
+          }
+        ]
       }
     ],
     "examples": [

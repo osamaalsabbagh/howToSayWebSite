@@ -7,44 +7,45 @@
     "context": "اسأل عن المسافة إلى بنسلفانيا بالأميال."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "How",
-        "description": "تستخدم في بداية سؤال عن الكمية."
-      },
-      {
-        "term": "many",
-        "description": "كم عدد، وتستخدم مع الأشياء المعدودة."
-      },
-      {
-        "term": "miles",
-        "description": "أميال، وهي وحدة لقياس المسافة."
-      },
-      {
-        "term": "is",
-        "description": "تربط السؤال بالمسافة المطلوبة."
-      },
-      {
-        "term": "it",
-        "description": "يشير إلى الطريق أو المسافة المقصودة."
-      },
-      {
-        "term": "to",
-        "description": "إلى، وتحدد الوجهة."
-      },
-      {
-        "term": "Pennsylvania",
-        "description": "اسم ولاية بنسلفانيا."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "How many miles is it to Pennsylvania?",
-        "explanation": {
+        "ar": "كم عدد الأميال إلى بنسلفانيا؟",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "السؤال يستخدم How many مع miles للسؤال عن عدد الأميال إلى وجهة محددة."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "How",
+            "description": "تستخدم في بداية سؤال عن الكمية."
+          },
+          {
+            "term": "many",
+            "description": "كم عدد، وتستخدم مع الأشياء المعدودة."
+          },
+          {
+            "term": "miles",
+            "description": "أميال، وهي وحدة لقياس المسافة."
+          },
+          {
+            "term": "is",
+            "description": "تربط السؤال بالمسافة المطلوبة."
+          },
+          {
+            "term": "it",
+            "description": "يشير إلى الطريق أو المسافة المقصودة."
+          },
+          {
+            "term": "to",
+            "description": "إلى، وتحدد الوجهة."
+          },
+          {
+            "term": "Pennsylvania",
+            "description": "اسم ولاية بنسلفانيا."
+          }
+        ]
       }
     ],
     "examples": [

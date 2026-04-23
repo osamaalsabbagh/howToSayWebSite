@@ -7,40 +7,41 @@
     "context": "قل إن السعر أكثر من ٥ دولارات."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "It",
-        "description": "يشير إلى الشيء أو السعر المقصود."
-      },
-      {
-        "term": "is",
-        "description": "تربط الشيء بوصف سعره."
-      },
-      {
-        "term": "more",
-        "description": "أكثر."
-      },
-      {
-        "term": "than",
-        "description": "من، وتستخدم للمقارنة."
-      },
-      {
-        "term": "5",
-        "description": "العدد خمسة."
-      },
-      {
-        "term": "dollars",
-        "description": "دولارات، وهي عملة."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "It is more than 5 dollars.",
-        "explanation": {
+        "ar": "إنه أكثر من خمسة دولارات.",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "تستخدم الجملة فعل الربط في الحاضر لوصف السعر، وتركيب more than يقارن السعر بحد معين."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "It",
+            "description": "يشير إلى الشيء أو السعر المقصود."
+          },
+          {
+            "term": "is",
+            "description": "تربط الشيء بوصف سعره."
+          },
+          {
+            "term": "more",
+            "description": "أكثر."
+          },
+          {
+            "term": "than",
+            "description": "من، وتستخدم للمقارنة."
+          },
+          {
+            "term": "5",
+            "description": "العدد خمسة."
+          },
+          {
+            "term": "dollars",
+            "description": "دولارات، وهي عملة."
+          }
+        ]
       }
     ],
     "examples": [

@@ -7,44 +7,45 @@
     "context": "حدد وقت انتهاء عملك."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "I",
-        "description": "ضمير المتكلم ويشير إلى الشخص الذي يتحدث."
-      },
-      {
-        "term": "get",
-        "description": "جزء من تعبير يعني أنهي العمل أو أغادره."
-      },
-      {
-        "term": "off",
-        "description": "جزء من التعبير الذي يدل على الخروج من وقت العمل."
-      },
-      {
-        "term": "of",
-        "description": "تأتي هنا داخل التعبير العامي الذي يعني الانتهاء من العمل."
-      },
-      {
-        "term": "work",
-        "description": "العمل أو الدوام."
-      },
-      {
-        "term": "at",
-        "description": "تستخدم قبل الوقت المحدد."
-      },
-      {
-        "term": "6",
-        "description": "الساعة السادسة."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "I get off of work at 6.",
-        "explanation": {
+        "ar": "أنهي عملي الساعة السادسة.",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "تستخدم الجملة المضارع البسيط لذكر موعد معتاد أو جدول ثابت لانتهاء الدوام، والتعبير get off of work يعني مغادرة العمل أو إنهاء الدوام."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير المتكلم ويشير إلى الشخص الذي يتحدث."
+          },
+          {
+            "term": "get",
+            "description": "جزء من تعبير يعني أنهي العمل أو أغادره."
+          },
+          {
+            "term": "off",
+            "description": "جزء من التعبير الذي يدل على الخروج من وقت العمل."
+          },
+          {
+            "term": "of",
+            "description": "تأتي هنا داخل التعبير العامي الذي يعني الانتهاء من العمل."
+          },
+          {
+            "term": "work",
+            "description": "العمل أو الدوام."
+          },
+          {
+            "term": "at",
+            "description": "تستخدم قبل الوقت المحدد."
+          },
+          {
+            "term": "6",
+            "description": "الساعة السادسة."
+          }
+        ]
       }
     ],
     "examples": [

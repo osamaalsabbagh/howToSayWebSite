@@ -5,5 +5,136 @@
     "en": "Sorry, I think I have the wrong number.",
     "ar": "عذرًا، أعتقد أن بحوزتي الرقم الخطأ.",
     "context": "الاعتذار عند الاتصال برقم خاطئ."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Sorry",
+        "ar": "عذرًا، أعتقد أن بحوزتي الرقم الخطأ.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه كلمة اعتذار مستقلة تستخدم قبل توضيح الخطأ، ولا تحمل زمنًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "Sorry",
+            "description": "كلمة اعتذار تعني عذرًا أو آسف."
+          }
+        ]
+      },
+      {
+        "sentence": "I think",
+        "ar": "عذرًا، أعتقد أن بحوزتي الرقم الخطأ.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "think في المضارع البسيط يعبر عن رأي أو اعتقاد حالي لدى المتكلم."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير يشير إلى المتكلم."
+          },
+          {
+            "term": "think",
+            "description": "يعني أظن أو أعتقد."
+          }
+        ]
+      },
+      {
+        "sentence": "I have the wrong number",
+        "ar": "عذرًا، أعتقد أن بحوزتي الرقم الخطأ.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "have في المضارع البسيط يصف الحالة الحالية، وهي أن الرقم الموجود لدى المتكلم غير صحيح."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير يشير إلى المتكلم مرة أخرى."
+          },
+          {
+            "term": "have",
+            "description": "يعني لدي أو بحوزتي."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف تشير إلى شيء محدد."
+          },
+          {
+            "term": "wrong",
+            "description": "تعني غير صحيح أو خاطئ."
+          },
+          {
+            "term": "number",
+            "description": "يعني رقم الهاتف هنا."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Sorry, I called the wrong number.",
+        "ar": "عذرًا، اتصلت بالرقم الخطأ.",
+        "context": "تستخدم عند إدراك خطأ في الاتصال."
+      },
+      {
+        "id": 2,
+        "en": "I think I have the wrong address.",
+        "ar": "أعتقد أن لدي العنوان الخطأ.",
+        "context": "تستخدم عند الشك في صحة عنوان."
+      },
+      {
+        "id": 3,
+        "en": "Sorry, I think this is the wrong room.",
+        "ar": "عذرًا، أعتقد أن هذه الغرفة خطأ.",
+        "context": "تستخدم عند دخول مكان غير صحيح."
+      },
+      {
+        "id": 4,
+        "en": "I think I dialed the wrong number.",
+        "ar": "أعتقد أنني طلبت الرقم الخطأ.",
+        "context": "تستخدم لتوضيح سبب مكالمة خاطئة."
+      },
+      {
+        "id": 5,
+        "en": "Sorry, I made a mistake.",
+        "ar": "عذرًا، لقد ارتكبت خطأ.",
+        "context": "تستخدم للاعتذار عن خطأ عام."
+      },
+      {
+        "id": 6,
+        "en": "I think this number is not correct.",
+        "ar": "أعتقد أن هذا الرقم غير صحيح.",
+        "context": "تستخدم عند مراجعة رقم هاتف."
+      },
+      {
+        "id": 7,
+        "en": "Sorry, I am looking for another person.",
+        "ar": "عذرًا، أنا أبحث عن شخص آخر.",
+        "context": "تستخدم عندما يجيب شخص غير المقصود."
+      },
+      {
+        "id": 8,
+        "en": "I have the wrong email address.",
+        "ar": "لدي عنوان البريد الإلكتروني الخطأ.",
+        "context": "تستخدم عند فشل إرسال رسالة."
+      },
+      {
+        "id": 9,
+        "en": "Sorry, this is not the office I need.",
+        "ar": "عذرًا، هذا ليس المكتب الذي أحتاجه.",
+        "context": "تستخدم عند الذهاب إلى مكتب غير مناسب."
+      },
+      {
+        "id": 10,
+        "en": "I think there is a mistake in the number.",
+        "ar": "أعتقد أن هناك خطأ في الرقم.",
+        "context": "تستخدم عند ملاحظة رقم غير صحيح."
+      }
+    ]
   }
 }

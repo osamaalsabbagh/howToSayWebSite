@@ -5,5 +5,106 @@
     "en": "My cell phone does not work.",
     "ar": "هاتفي المحمول لا يعمل.",
     "context": "الإشارة إلى أن الهاتف معطل."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "My cell phone does not work.",
+        "ar": "هاتفي المحمول لا يعمل.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "does not work هو نفي في المضارع البسيط مع فاعل مفرد، ويصف حالة الهاتف المعطل الآن أو بشكل عام."
+        },
+        "wordMeanings": [
+          {
+            "term": "My",
+            "description": "تعني الخاص بي أو التابع لي."
+          },
+          {
+            "term": "cell",
+            "description": "تأتي هنا ضمن تعبير يعني الهاتف المحمول."
+          },
+          {
+            "term": "phone",
+            "description": "يعني هاتفًا."
+          },
+          {
+            "term": "does",
+            "description": "تستخدم مع المفرد في النفي أو السؤال في المضارع."
+          },
+          {
+            "term": "not",
+            "description": "كلمة نفي تعني لا."
+          },
+          {
+            "term": "work",
+            "description": "يعني يعمل أو يؤدي وظيفته."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "My phone does not work.",
+        "ar": "هاتفي لا يعمل.",
+        "context": "تستخدم عند تعطل الهاتف."
+      },
+      {
+        "id": 2,
+        "en": "My computer does not work.",
+        "ar": "حاسوبي لا يعمل.",
+        "context": "تستخدم عند تعطل جهاز."
+      },
+      {
+        "id": 3,
+        "en": "The charger does not work.",
+        "ar": "الشاحن لا يعمل.",
+        "context": "تستخدم عند وجود مشكلة في الشاحن."
+      },
+      {
+        "id": 4,
+        "en": "This app does not work on my phone.",
+        "ar": "هذا التطبيق لا يعمل على هاتفي.",
+        "context": "تستخدم عند مشكلة في تطبيق."
+      },
+      {
+        "id": 5,
+        "en": "My phone is broken.",
+        "ar": "هاتفي معطل.",
+        "context": "تستخدم لوصف عطل عام."
+      },
+      {
+        "id": 6,
+        "en": "The screen does not work.",
+        "ar": "الشاشة لا تعمل.",
+        "context": "تستخدم عند عطل في الشاشة."
+      },
+      {
+        "id": 7,
+        "en": "It does not turn on.",
+        "ar": "إنه لا يعمل عند تشغيله.",
+        "context": "تستخدم عندما لا يفتح الجهاز."
+      },
+      {
+        "id": 8,
+        "en": "My phone does not charge.",
+        "ar": "هاتفي لا يشحن.",
+        "context": "تستخدم عند مشكلة في الشحن."
+      },
+      {
+        "id": 9,
+        "en": "The keypad does not work.",
+        "ar": "لوحة المفاتيح لا تعمل.",
+        "context": "تستخدم عند تعطل الأزرار."
+      },
+      {
+        "id": 10,
+        "en": "Can you fix my phone?",
+        "ar": "هل يمكنك إصلاح هاتفي؟",
+        "context": "تستخدم عند طلب إصلاح الهاتف."
+      }
+    ]
   }
 }

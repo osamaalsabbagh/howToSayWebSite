@@ -7,40 +7,41 @@
     "context": "اطلب اقتراحًا لمطعم جيد."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Can",
-        "description": "تستخدم في السؤال لطلب القدرة أو المساعدة بأدب."
-      },
-      {
-        "term": "you",
-        "description": "أنت، وتشير إلى الشخص المخاطب."
-      },
-      {
-        "term": "recommend",
-        "description": "توصي أو تقترح شيئًا مناسبًا."
-      },
-      {
-        "term": "a",
-        "description": "أداة تدل على شيء واحد غير محدد."
-      },
-      {
-        "term": "good",
-        "description": "جيد أو مناسب."
-      },
-      {
-        "term": "restaurant",
-        "description": "مطعم."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "Can you recommend a good restaurant?",
-        "explanation": {
+        "ar": "هل يمكنك أن توصي بمطعم جيد؟",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذه صيغة طلب مهذب باستخدام تركيب يدل على القدرة أو المساعدة، والفعل بعدها يأتي بصيغته الأساسية، لذلك لا تعامل كزمن مستقل."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Can",
+            "description": "تستخدم في السؤال لطلب القدرة أو المساعدة بأدب."
+          },
+          {
+            "term": "you",
+            "description": "أنت، وتشير إلى الشخص المخاطب."
+          },
+          {
+            "term": "recommend",
+            "description": "توصي أو تقترح شيئًا مناسبًا."
+          },
+          {
+            "term": "a",
+            "description": "أداة تدل على شيء واحد غير محدد."
+          },
+          {
+            "term": "good",
+            "description": "جيد أو مناسب."
+          },
+          {
+            "term": "restaurant",
+            "description": "مطعم."
+          }
+        ]
       }
     ],
     "examples": [

@@ -7,32 +7,33 @@
     "context": "تطلب إعادة الكلام."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Please",
-        "description": "كلمة تجعل الطلب ألطف وأكثر أدبًا."
-      },
-      {
-        "term": "say",
-        "description": "قل أو انطق."
-      },
-      {
-        "term": "it",
-        "description": "ضمير يعود على الكلام المطلوب إعادته."
-      },
-      {
-        "term": "again",
-        "description": "مرة أخرى."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "Please say it again.",
-        "explanation": {
+        "ar": "من فضلك قلها مرة أخرى.",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "الجملة طلب مهذب لإعادة الكلام، وليست جملة بزمن مستقل."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Please",
+            "description": "كلمة تجعل الطلب ألطف وأكثر أدبًا."
+          },
+          {
+            "term": "say",
+            "description": "قل أو انطق."
+          },
+          {
+            "term": "it",
+            "description": "ضمير يعود على الكلام المطلوب إعادته."
+          },
+          {
+            "term": "again",
+            "description": "مرة أخرى."
+          }
+        ]
       }
     ],
     "examples": [

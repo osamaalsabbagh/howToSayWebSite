@@ -7,36 +7,37 @@
     "context": "توشك على الحضور أو أنت بالفعل قادم في الطريق، وغالبًا تُستخدم بشكل سريع سواء قبل التحرك أو أثناء الطريق."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "I",
-        "description": "أنا، وتشير إلى المتكلم."
-      },
-      {
-        "term": "am",
-        "description": "صيغة تأتي مع أنا وتساعد في وصف فعل يحدث الآن أو قريبًا."
-      },
-      {
-        "term": "coming",
-        "description": "قادم أو في طريق الحضور."
-      },
-      {
-        "term": "right",
-        "description": "تؤكد القرب الشديد في الوقت مع الكلمة التالية."
-      },
-      {
-        "term": "now",
-        "description": "الآن أو في هذه اللحظة."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "I am coming right now.",
-        "explanation": {
+        "ar": "أنا قادم حالًا.",
+        "grammar": {
           "tense": "المضارع المستمر",
           "tenseEn": "Present Continuous",
           "reason": "يستخدم المضارع المستمر للتعبير عن فعل جار أو قريب جدًا من الحدوث، والعبارة الأخيرة تؤكد أن الحضور فوري."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "أنا، وتشير إلى المتكلم."
+          },
+          {
+            "term": "am",
+            "description": "صيغة تأتي مع أنا وتساعد في وصف فعل يحدث الآن أو قريبًا."
+          },
+          {
+            "term": "coming",
+            "description": "قادم أو في طريق الحضور."
+          },
+          {
+            "term": "right",
+            "description": "تؤكد القرب الشديد في الوقت مع الكلمة التالية."
+          },
+          {
+            "term": "now",
+            "description": "الآن أو في هذه اللحظة."
+          }
+        ]
       }
     ],
     "examples": [

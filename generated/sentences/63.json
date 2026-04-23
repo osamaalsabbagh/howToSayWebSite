@@ -7,44 +7,48 @@
     "context": "قل أنك بحاجة لتغيير الملابس."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "I",
-        "description": "ضمير المتكلم ويشير إلى الشخص الذي يتحدث."
-      },
-      {
-        "term": "need",
-        "description": "أحتاج أو يلزمني شيء."
-      },
-      {
-        "term": "to",
-        "description": "تأتي قبل الفعل لتربط الحاجة بالفعل المطلوب."
-      },
-      {
-        "term": "change",
-        "description": "أبدل أو أغير شيئًا."
-      },
-      {
-        "term": "clothes",
-        "description": "ملابس أو ما يلبسه الشخص."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "I need",
-        "explanation": {
+        "ar": "أحتاج إلى تغيير الملابس.",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "تستخدم need في المضارع البسيط للتعبير عن حاجة حالية عند المتكلم."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير المتكلم ويشير إلى الشخص الذي يتحدث."
+          },
+          {
+            "term": "need",
+            "description": "أحتاج أو يلزمني شيء."
+          }
+        ]
       },
       {
         "sentence": "to change clothes",
-        "explanation": {
+        "ar": "أحتاج إلى تغيير الملابس.",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذا جزء يوضح الفعل المطلوب بسبب الحاجة، وهو تبديل الملابس، ولا يحمل زمنًا مستقلًا لأنه يبدأ بـ to قبل الفعل."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "to",
+            "description": "تأتي قبل الفعل لتربط الحاجة بالفعل المطلوب."
+          },
+          {
+            "term": "change",
+            "description": "أبدل أو أغير شيئًا."
+          },
+          {
+            "term": "clothes",
+            "description": "ملابس أو ما يلبسه الشخص."
+          }
+        ]
       }
     ],
     "examples": [

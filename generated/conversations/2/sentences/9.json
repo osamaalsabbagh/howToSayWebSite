@@ -7,60 +7,64 @@
     "context": "يشكره على الحديث الذي جعله يشعر بأن الوقت يمر أسرع"
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Thanks",
-        "description": "كلمة شكر قصيرة تستخدم للتعبير عن الامتنان بطريقة ودية."
-      },
-      {
-        "term": "Talking",
-        "description": "الحديث أو الكلام مع شخص، وهي هنا اسم للفعل وليست فعلًا مباشرًا."
-      },
-      {
-        "term": "with",
-        "description": "حرف يوضح أن الحديث كان بمشاركة الشخص الآخر."
-      },
-      {
-        "term": "you",
-        "description": "ضمير يشير إلى الشخص الذي يتحدث معه المتكلم."
-      },
-      {
-        "term": "made",
-        "description": "صيغة ماضية تعني جعل الشيء على حال معينة."
-      },
-      {
-        "term": "this",
-        "description": "اسم إشارة يحدد الانتظار القريب أو الحالي."
-      },
-      {
-        "term": "wait",
-        "description": "فترة الانتظار قبل السفر أو قبل حدوث شيء."
-      },
-      {
-        "term": "more",
-        "description": "كلمة مقارنة تعني بدرجة أكبر."
-      },
-      {
-        "term": "interesting",
-        "description": "صفة تعني ممتعًا أو يجذب الانتباه."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "Thanks!",
-        "explanation": {
+        "ar": "شكرًا!",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذه كلمة شكر قصيرة وليست جملة فعلية لها زمن مستقل."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Thanks",
+            "description": "كلمة شكر قصيرة تستخدم للتعبير عن الامتنان بطريقة ودية."
+          }
+        ]
       },
       {
         "sentence": "Talking with you made this wait more interesting.",
-        "explanation": {
+        "ar": "الحديث معك جعل هذا الانتظار أكثر إثارة للاهتمام.",
+        "grammar": {
           "tense": "الماضي البسيط",
           "tenseEn": "Past Simple",
           "reason": "استُعمل الماضي البسيط لأن المتكلم يصف أثر الحديث الذي حدث أثناء فترة الانتظار وجعلها أفضل."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Talking",
+            "description": "الحديث أو الكلام مع شخص، وهي هنا اسم للفعل وليست فعلًا مباشرًا."
+          },
+          {
+            "term": "with",
+            "description": "حرف يوضح أن الحديث كان بمشاركة الشخص الآخر."
+          },
+          {
+            "term": "you",
+            "description": "ضمير يشير إلى الشخص الذي يتحدث معه المتكلم."
+          },
+          {
+            "term": "made",
+            "description": "صيغة ماضية تعني جعل الشيء على حال معينة."
+          },
+          {
+            "term": "this",
+            "description": "اسم إشارة يحدد الانتظار القريب أو الحالي."
+          },
+          {
+            "term": "wait",
+            "description": "فترة الانتظار قبل السفر أو قبل حدوث شيء."
+          },
+          {
+            "term": "more",
+            "description": "كلمة مقارنة تعني بدرجة أكبر."
+          },
+          {
+            "term": "interesting",
+            "description": "صفة تعني ممتعًا أو يجذب الانتباه."
+          }
+        ]
       }
     ],
     "examples": [

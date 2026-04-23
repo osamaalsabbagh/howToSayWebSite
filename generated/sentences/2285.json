@@ -7,32 +7,33 @@
     "context": "تخبر أنك تتعلم اللغة."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "I",
-        "description": "ضمير المتكلم المفرد."
-      },
-      {
-        "term": "am",
-        "description": "تساعد هنا في تكوين الفعل المستمر."
-      },
-      {
-        "term": "learning",
-        "description": "أتعلم أو أكتسب معرفة تدريجيًا."
-      },
-      {
-        "term": "English",
-        "description": "اللغة الإنجليزية."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "I am learning English.",
-        "explanation": {
+        "ar": "أنا أتعلم الإنجليزية.",
+        "grammar": {
           "tense": "المضارع المستمر",
           "tenseEn": "Present Continuous",
           "reason": "الجملة تصف عملية تعلم مستمرة حول الفترة الحالية، وليست فعلًا لحظيًا فقط."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير المتكلم المفرد."
+          },
+          {
+            "term": "am",
+            "description": "تساعد هنا في تكوين الفعل المستمر."
+          },
+          {
+            "term": "learning",
+            "description": "أتعلم أو أكتسب معرفة تدريجيًا."
+          },
+          {
+            "term": "English",
+            "description": "اللغة الإنجليزية."
+          }
+        ]
       }
     ],
     "examples": [

@@ -1,89 +1,90 @@
 {
-	"schemaVersion": 1,
-	"id": 2275,
-	"sentence": {
-		"en": "Good.",
-		"ar": "جيد.",
-		"context": "تصف شيئًا بأنه جيد."
-	},
-	"lesson": {
-		"wordMeanings": [
-			{
-				"term": "Good",
-				"description": "صفة تُستخدم لوصف شيء بأنه جيد أو مناسب أو مُرضٍ"
-			}
-		],
-		"grammarExplanations": [
-			{
-				"sentence": "Good.",
-				"explanation": {
-					"tense": null,
-					"tenseEn": null,
-					"reason": "هذه كلمة تُستخدم كتعليق قصير لوصف شيء أو للتعبير عن الرضا، وهي ليست جملة كاملة ولا ترتبط بزمن معين"
-				}
-			}
-		],
-		"examples": [
-			{
-				"id": 1,
-				"en": "Good job.",
-				"ar": "عمل جيد.",
-				"context": "مدح أداء شخص"
-			},
-			{
-				"id": 2,
-				"en": "That is good.",
-				"ar": "هذا جيد.",
-				"context": "التعبير عن الرضا عن شيء"
-			},
-			{
-				"id": 3,
-				"en": "Good idea.",
-				"ar": "فكرة جيدة.",
-				"context": "الإعجاب باقتراح"
-			},
-			{
-				"id": 4,
-				"en": "Good to see you.",
-				"ar": "من الجيد رؤيتك.",
-				"context": "التعبير عن السعادة بلقاء شخص"
-			},
-			{
-				"id": 5,
-				"en": "Good work.",
-				"ar": "عمل جيد.",
-				"context": "الإشادة بإنجاز"
-			},
-			{
-				"id": 6,
-				"en": "Good choice.",
-				"ar": "اختيار جيد.",
-				"context": "مدح قرار شخص"
-			},
-			{
-				"id": 7,
-				"en": "Good answer.",
-				"ar": "إجابة جيدة.",
-				"context": "الإشادة بإجابة صحيحة أو مناسبة"
-			},
-			{
-				"id": 8,
-				"en": "Good result.",
-				"ar": "نتيجة جيدة.",
-				"context": "وصف نتيجة إيجابية"
-			},
-			{
-				"id": 9,
-				"en": "Good point.",
-				"ar": "نقطة جيدة.",
-				"context": "الإعجاب بملاحظة ذكية"
-			},
-			{
-				"id": 10,
-				"en": "Good plan.",
-				"ar": "خطة جيدة.",
-				"context": "الموافقة على خطة"
-			}
-		]
-	}
+  "schemaVersion": 1,
+  "id": 2275,
+  "sentence": {
+    "en": "Good.",
+    "ar": "جيد.",
+    "context": "تصف شيئًا بأنه جيد."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Good.",
+        "ar": "جيد.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه كلمة تُستخدم كتعليق قصير لوصف شيء أو للتعبير عن الرضا، وهي ليست جملة كاملة ولا ترتبط بزمن معين"
+        },
+        "wordMeanings": [
+          {
+            "term": "Good",
+            "description": "صفة تُستخدم لوصف شيء بأنه جيد أو مناسب أو مُرضٍ"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Good job.",
+        "ar": "عمل جيد.",
+        "context": "مدح أداء شخص"
+      },
+      {
+        "id": 2,
+        "en": "That is good.",
+        "ar": "هذا جيد.",
+        "context": "التعبير عن الرضا عن شيء"
+      },
+      {
+        "id": 3,
+        "en": "Good idea.",
+        "ar": "فكرة جيدة.",
+        "context": "الإعجاب باقتراح"
+      },
+      {
+        "id": 4,
+        "en": "Good to see you.",
+        "ar": "من الجيد رؤيتك.",
+        "context": "التعبير عن السعادة بلقاء شخص"
+      },
+      {
+        "id": 5,
+        "en": "Good work.",
+        "ar": "عمل جيد.",
+        "context": "الإشادة بإنجاز"
+      },
+      {
+        "id": 6,
+        "en": "Good choice.",
+        "ar": "اختيار جيد.",
+        "context": "مدح قرار شخص"
+      },
+      {
+        "id": 7,
+        "en": "Good answer.",
+        "ar": "إجابة جيدة.",
+        "context": "الإشادة بإجابة صحيحة أو مناسبة"
+      },
+      {
+        "id": 8,
+        "en": "Good result.",
+        "ar": "نتيجة جيدة.",
+        "context": "وصف نتيجة إيجابية"
+      },
+      {
+        "id": 9,
+        "en": "Good point.",
+        "ar": "نقطة جيدة.",
+        "context": "الإعجاب بملاحظة ذكية"
+      },
+      {
+        "id": 10,
+        "en": "Good plan.",
+        "ar": "خطة جيدة.",
+        "context": "الموافقة على خطة"
+      }
+    ]
+  }
 }

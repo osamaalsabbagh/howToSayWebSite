@@ -7,28 +7,29 @@
     "context": "أخبر أنك أكلت في وقت سابق."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "I",
-        "description": "ضمير المتكلم ويشير إلى الشخص الذي يتحدث."
-      },
-      {
-        "term": "ate",
-        "description": "أكلت، وهي صيغة ماضية للفعل."
-      },
-      {
-        "term": "already",
-        "description": "تعني أن الفعل حدث قبل الوقت المتوقع أو قبل الآن."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "I ate already.",
-        "explanation": {
+        "ar": "لقد أكلت سابقًا.",
+        "grammar": {
           "tense": "الماضي البسيط",
           "tenseEn": "Past Simple",
           "reason": "تستخدم الجملة الماضي البسيط للإخبار عن فعل اكتمل في وقت سابق، وكلمة already تؤكد أن الأكل حدث قبل الآن."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير المتكلم ويشير إلى الشخص الذي يتحدث."
+          },
+          {
+            "term": "ate",
+            "description": "أكلت، وهي صيغة ماضية للفعل."
+          },
+          {
+            "term": "already",
+            "description": "تعني أن الفعل حدث قبل الوقت المتوقع أو قبل الآن."
+          }
+        ]
       }
     ],
     "examples": [

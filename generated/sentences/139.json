@@ -7,40 +7,41 @@
     "context": "اتصلت عبر الهاتف ولم تجد الشخص المطلوب، فرد عليك شخص آخر، فتطلب منه تدوين رسالة لهذا الشخص."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Would",
-        "description": "تجعل الطلب مهذبًا وغير مباشر."
-      },
-      {
-        "term": "you",
-        "description": "ضمير يشير إلى الشخص الذي أتحدث معه."
-      },
-      {
-        "term": "take",
-        "description": "تدوّن أو تسجل في هذا السياق."
-      },
-      {
-        "term": "a",
-        "description": "أداة تدل على شيء واحد غير محدد."
-      },
-      {
-        "term": "message",
-        "description": "رسالة أو كلام يترك لشخص غير موجود."
-      },
-      {
-        "term": "please",
-        "description": "كلمة تجعل الطلب أكثر أدبًا."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "Would you take a message please?",
-        "explanation": {
+        "ar": "هل يمكنك تدوين رسالة من فضلك؟",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذه صيغة طلب مهذب باستخدام Would you لطلب تدوين رسالة لشخص غير متاح، وهي بنية طلب وليست زمنًا مستقلًا."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Would",
+            "description": "تجعل الطلب مهذبًا وغير مباشر."
+          },
+          {
+            "term": "you",
+            "description": "ضمير يشير إلى الشخص الذي أتحدث معه."
+          },
+          {
+            "term": "take",
+            "description": "تدوّن أو تسجل في هذا السياق."
+          },
+          {
+            "term": "a",
+            "description": "أداة تدل على شيء واحد غير محدد."
+          },
+          {
+            "term": "message",
+            "description": "رسالة أو كلام يترك لشخص غير موجود."
+          },
+          {
+            "term": "please",
+            "description": "كلمة تجعل الطلب أكثر أدبًا."
+          }
+        ]
       }
     ],
     "examples": [

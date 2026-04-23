@@ -7,48 +7,49 @@
     "context": "يسأل عن آخر المستجدات حول موعد الشحن."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Is",
-        "description": "تبدأ سؤالًا عن وجود شيء."
-      },
-      {
-        "term": "there",
-        "description": "تُستخدم مع Is للسؤال عن وجود تحديث."
-      },
-      {
-        "term": "any",
-        "description": "أي تحديث، حتى لو كان بسيطًا."
-      },
-      {
-        "term": "update",
-        "description": "معلومة جديدة أو آخر خبر."
-      },
-      {
-        "term": "about",
-        "description": "بخصوص أو حول."
-      },
-      {
-        "term": "the",
-        "description": "أداة تعريف لتاريخ شحن محدد."
-      },
-      {
-        "term": "shipping",
-        "description": "الشحن أو إرسال الطلب."
-      },
-      {
-        "term": "date",
-        "description": "تاريخ أو موعد."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "Is there any update about the shipping date?",
-        "explanation": {
+        "ar": "هل هناك أي تحديث عن تاريخ الشحن؟",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "السؤال يستفسر عن وجود معلومة حالية جديدة بخصوص تاريخ الشحن."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Is",
+            "description": "تبدأ سؤالًا عن وجود شيء."
+          },
+          {
+            "term": "there",
+            "description": "تُستخدم مع Is للسؤال عن وجود تحديث."
+          },
+          {
+            "term": "any",
+            "description": "أي تحديث، حتى لو كان بسيطًا."
+          },
+          {
+            "term": "update",
+            "description": "معلومة جديدة أو آخر خبر."
+          },
+          {
+            "term": "about",
+            "description": "بخصوص أو حول."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف لتاريخ شحن محدد."
+          },
+          {
+            "term": "shipping",
+            "description": "الشحن أو إرسال الطلب."
+          },
+          {
+            "term": "date",
+            "description": "تاريخ أو موعد."
+          }
+        ]
       }
     ],
     "examples": [

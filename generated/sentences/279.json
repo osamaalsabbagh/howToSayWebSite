@@ -7,44 +7,45 @@
     "context": "تحدث عن توقعات الطقس اليوم."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "It",
-        "description": "تستخدم هنا للإشارة إلى حالة الطقس."
-      },
-      {
-        "term": "is",
-        "description": "تساعد في تكوين عبارة التوقع."
-      },
-      {
-        "term": "not",
-        "description": "تجعل المعنى منفيًا."
-      },
-      {
-        "term": "supposed",
-        "description": "جزء من تعبير يعني من المتوقع أو المفترض."
-      },
-      {
-        "term": "to",
-        "description": "تأتي قبل الفعل بعد supposed."
-      },
-      {
-        "term": "rain",
-        "description": "تمطر أو ينزل المطر."
-      },
-      {
-        "term": "today",
-        "description": "اليوم الحالي."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "It is not supposed to rain today.",
-        "explanation": {
+        "ar": "من المفترض ألا تمطر اليوم.",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "تستخدم الجملة تركيب is not supposed to للتعبير عن توقع منفي، أي أن المطر غير متوقع اليوم."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "It",
+            "description": "تستخدم هنا للإشارة إلى حالة الطقس."
+          },
+          {
+            "term": "is",
+            "description": "تساعد في تكوين عبارة التوقع."
+          },
+          {
+            "term": "not",
+            "description": "تجعل المعنى منفيًا."
+          },
+          {
+            "term": "supposed",
+            "description": "جزء من تعبير يعني من المتوقع أو المفترض."
+          },
+          {
+            "term": "to",
+            "description": "تأتي قبل الفعل بعد supposed."
+          },
+          {
+            "term": "rain",
+            "description": "تمطر أو ينزل المطر."
+          },
+          {
+            "term": "today",
+            "description": "اليوم الحالي."
+          }
+        ]
       }
     ],
     "examples": [

@@ -7,28 +7,29 @@
     "context": "اطلب تأكيدًا أو موافقة."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Is",
-        "description": "تأتي في بداية السؤال لطلب تأكيد أو موافقة."
-      },
-      {
-        "term": "not",
-        "description": "لا أو أليس، وتدخل في السؤال لتوقع الموافقة."
-      },
-      {
-        "term": "it",
-        "description": "هو أو ذلك، وتشير إلى الفكرة أو الكلام السابق."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "Is not it?",
-        "explanation": {
+        "ar": "أليس كذلك؟",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذه عبارة تأكيد مختصرة تطلب موافقة المخاطب على شيء قيل سابقًا، وتعمل كتعبير ثابت أكثر من كونها جملة بزمن مستقل."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Is",
+            "description": "تأتي في بداية السؤال لطلب تأكيد أو موافقة."
+          },
+          {
+            "term": "not",
+            "description": "لا أو أليس، وتدخل في السؤال لتوقع الموافقة."
+          },
+          {
+            "term": "it",
+            "description": "هو أو ذلك، وتشير إلى الفكرة أو الكلام السابق."
+          }
+        ]
       }
     ],
     "examples": [

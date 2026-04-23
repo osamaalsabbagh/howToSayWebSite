@@ -7,48 +7,52 @@
     "context": "الفترة بعد الظهر في صالة الانتظار بالمطار، يبدأ الحديث بسؤال لبق"
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Good",
-        "description": "جزء من تحية مهذبة تناسب وقتًا معينًا من اليوم."
-      },
-      {
-        "term": "afternoon",
-        "description": "فترة بعد الظهر."
-      },
-      {
-        "term": "Is",
-        "description": "صيغة سؤال تربط الشيء بحالته الحالية."
-      },
-      {
-        "term": "this",
-        "description": "اسم إشارة يشير إلى المقعد القريب."
-      },
-      {
-        "term": "seat",
-        "description": "مقعد."
-      },
-      {
-        "term": "taken",
-        "description": "تعني مشغولًا أو محجوزًا في هذا السياق."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "Good afternoon.",
-        "explanation": {
+        "ar": "طاب مساؤك.",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذه تحية مرتبطة بوقت اليوم وليست جملة فعلية لها زمن مستقل."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Good",
+            "description": "جزء من تحية مهذبة تناسب وقتًا معينًا من اليوم."
+          },
+          {
+            "term": "afternoon",
+            "description": "فترة بعد الظهر."
+          }
+        ]
       },
       {
         "sentence": "Is this seat taken?",
-        "explanation": {
+        "ar": "هل هذا المقعد مشغول؟",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "استُعمل المضارع البسيط للسؤال عن الحالة الحالية للمقعد: هل هو مشغول الآن؟"
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Is",
+            "description": "صيغة سؤال تربط الشيء بحالته الحالية."
+          },
+          {
+            "term": "this",
+            "description": "اسم إشارة يشير إلى المقعد القريب."
+          },
+          {
+            "term": "seat",
+            "description": "مقعد."
+          },
+          {
+            "term": "taken",
+            "description": "تعني مشغولًا أو محجوزًا في هذا السياق."
+          }
+        ]
       }
     ],
     "examples": [

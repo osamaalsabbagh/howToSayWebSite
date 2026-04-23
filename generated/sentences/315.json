@@ -5,5 +5,117 @@
     "en": "Do you think it is possible?",
     "ar": "هل تعتقد أن ذلك ممكن؟",
     "context": "السؤال عن رأي شخص في إمكانية حدوث أمر ما."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Do you think",
+        "ar": "هل تعتقد أن ذلك ممكن؟",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "الجزء الأول سؤال رأي في المضارع البسيط يبدأ بـ Do ثم الفاعل ثم الفعل الأساسي think."
+        },
+        "wordMeanings": [
+          {
+            "term": "Do",
+            "description": "تستخدم في بداية السؤال في المضارع البسيط."
+          },
+          {
+            "term": "you",
+            "description": "تعني أنت أو أنتم حسب السياق."
+          },
+          {
+            "term": "think",
+            "description": "تعني تعتقد أو ترى برأيك."
+          }
+        ]
+      },
+      {
+        "sentence": "it is possible",
+        "ar": "هل تعتقد أن ذلك ممكن؟",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "هذا الجزء يصف حالة الأمر الآن أو بشكل عام باستخدام is مع الصفة possible."
+        },
+        "wordMeanings": [
+          {
+            "term": "it",
+            "description": "ضمير يشير إلى الأمر أو الفكرة المذكورة."
+          },
+          {
+            "term": "is",
+            "description": "تعني يكون أو هو في حالة معينة."
+          },
+          {
+            "term": "possible",
+            "description": "تعني ممكن أو قابل للحدوث."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Do you think it is safe?",
+        "ar": "هل تعتقد أن ذلك آمن؟",
+        "context": "تسأل عن رأي شخص في الأمان."
+      },
+      {
+        "id": 2,
+        "en": "Do you think it is ready?",
+        "ar": "هل تعتقد أنه جاهز؟",
+        "context": "تسأل عن جاهزية شيء."
+      },
+      {
+        "id": 3,
+        "en": "Do you think it is expensive?",
+        "ar": "هل تعتقد أنه غال؟",
+        "context": "تسأل عن رأي شخص في السعر."
+      },
+      {
+        "id": 4,
+        "en": "Do you think we can finish today?",
+        "ar": "هل تعتقد أننا نستطيع الانتهاء اليوم؟",
+        "context": "تسأل عن إمكانية إنجاز عمل في نفس اليوم."
+      },
+      {
+        "id": 5,
+        "en": "Do you think she is right?",
+        "ar": "هل تعتقد أنها محقة؟",
+        "context": "تسأل عن رأي شخص في كلام امرأة."
+      },
+      {
+        "id": 6,
+        "en": "Do you think this plan works?",
+        "ar": "هل تعتقد أن هذه الخطة تنجح؟",
+        "context": "تسأل عن صلاحية خطة."
+      },
+      {
+        "id": 7,
+        "en": "Do you think it is too late?",
+        "ar": "هل تعتقد أن الوقت متأخر جدا؟",
+        "context": "تسأل عن مناسبة الوقت."
+      },
+      {
+        "id": 8,
+        "en": "Do you think he knows?",
+        "ar": "هل تعتقد أنه يعرف؟",
+        "context": "تسأل عن علم شخص بشيء."
+      },
+      {
+        "id": 9,
+        "en": "Do you think it is a good idea?",
+        "ar": "هل تعتقد أنها فكرة جيدة؟",
+        "context": "تسأل عن تقييم فكرة."
+      },
+      {
+        "id": 10,
+        "en": "Do you think they are open?",
+        "ar": "هل تعتقد أنهم مفتوحون؟",
+        "context": "تسأل عن احتمال أن يكون مكان أو متجر مفتوحا."
+      }
+    ]
   }
 }

@@ -7,96 +7,103 @@
     "context": "الموظف يخبر العميل بعد التحقق أن الطرد قد شُحن اليوم ويذكر موعد الوصول المتوقع."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "I",
-        "description": "ضمير المتكلم المفرد."
-      },
-      {
-        "term": "can",
-        "description": "تدل هنا على القدرة على رؤية المعلومة في النظام."
-      },
-      {
-        "term": "see",
-        "description": "أرى أو ألاحظ في البيانات."
-      },
-      {
-        "term": "that",
-        "description": "تدخل معلومة أو جملة يراها المتكلم."
-      },
-      {
-        "term": "your",
-        "description": "يدل على أن الطرد يخص المخاطب."
-      },
-      {
-        "term": "package",
-        "description": "طرد أو شحنة."
-      },
-      {
-        "term": "has",
-        "description": "تساعد هنا في تكوين معنى أن الشحن اكتمل وله نتيجة الآن."
-      },
-      {
-        "term": "been",
-        "description": "جزء من تركيب يوضح أن الطرد وقع عليه فعل الشحن."
-      },
-      {
-        "term": "shipped",
-        "description": "تم شحنه أو إرساله."
-      },
-      {
-        "term": "today",
-        "description": "هذا اليوم."
-      },
-      {
-        "term": "and",
-        "description": "تربط بين معلومة الشحن ومعلومة الوصول."
-      },
-      {
-        "term": "it",
-        "description": "ضمير يعود على الطرد."
-      },
-      {
-        "term": "will",
-        "description": "تدل على توقع أو معلومة عن المستقبل."
-      },
-      {
-        "term": "arrive",
-        "description": "يصل."
-      },
-      {
-        "term": "on",
-        "description": "تستخدم مع يوم محدد."
-      },
-      {
-        "term": "Monday",
-        "description": "يوم الإثنين."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "I can see that",
-        "explanation": {
+        "ar": "أستطيع أن أرى أن طردك قد تم شحنه اليوم، وهو سوف يصل يوم الإثنين.",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذا تركيب قدرة مع can يوضح أن المتكلم يستطيع رؤية المعلومة في النظام."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير المتكلم المفرد."
+          },
+          {
+            "term": "can",
+            "description": "تدل هنا على القدرة على رؤية المعلومة في النظام."
+          },
+          {
+            "term": "see",
+            "description": "أرى أو ألاحظ في البيانات."
+          },
+          {
+            "term": "that",
+            "description": "تدخل معلومة أو جملة يراها المتكلم."
+          }
+        ]
       },
       {
         "sentence": "your package has been shipped today",
-        "explanation": {
+        "ar": "أستطيع أن أرى أن طردك قد تم شحنه اليوم، وهو سوف يصل يوم الإثنين.",
+        "grammar": {
           "tense": "المضارع التام",
           "tenseEn": "Present Perfect",
           "reason": "استُخدم للتعبير عن أن الشحن تم اليوم وأن نتيجته مهمة الآن، مع صيغة مبنية للمجهول لأن التركيز على الطرد لا على من شحنه."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "your",
+            "description": "يدل على أن الطرد يخص المخاطب."
+          },
+          {
+            "term": "package",
+            "description": "طرد أو شحنة."
+          },
+          {
+            "term": "has",
+            "description": "تساعد هنا في تكوين معنى أن الشحن اكتمل وله نتيجة الآن."
+          },
+          {
+            "term": "been",
+            "description": "جزء من تركيب يوضح أن الطرد وقع عليه فعل الشحن."
+          },
+          {
+            "term": "shipped",
+            "description": "تم شحنه أو إرساله."
+          },
+          {
+            "term": "today",
+            "description": "هذا اليوم."
+          }
+        ]
       },
       {
-        "sentence": "it will arrive on Monday",
-        "explanation": {
+        "sentence": "and it will arrive on Monday",
+        "ar": "أستطيع أن أرى أن طردك قد تم شحنه اليوم، وهو سوف يصل يوم الإثنين.",
+        "grammar": {
           "tense": "المستقبل البسيط",
           "tenseEn": "Future Simple",
           "reason": "استُخدم will للتحدث عن موعد وصول متوقع في المستقبل."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "and",
+            "description": "تربط بين معلومة الشحن ومعلومة الوصول."
+          },
+          {
+            "term": "it",
+            "description": "ضمير يعود على الطرد."
+          },
+          {
+            "term": "will",
+            "description": "تدل على توقع أو معلومة عن المستقبل."
+          },
+          {
+            "term": "arrive",
+            "description": "يصل."
+          },
+          {
+            "term": "on",
+            "description": "تستخدم مع يوم محدد."
+          },
+          {
+            "term": "Monday",
+            "description": "يوم الإثنين."
+          }
+        ]
       }
     ],
     "examples": [

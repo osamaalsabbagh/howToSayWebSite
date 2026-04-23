@@ -7,64 +7,68 @@
     "context": "قل أنك مشغول جدًا الآن."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "I",
-        "description": "ضمير المتكلم ويشير إلى الشخص الذي يتحدث."
-      },
-      {
-        "term": "am",
-        "description": "صيغة تأتي مع ضمير المتكلم المفرد وتربط الشخص بحالته."
-      },
-      {
-        "term": "very",
-        "description": "كلمة تقوي الصفة وتجعل الانشغال بدرجة كبيرة."
-      },
-      {
-        "term": "busy",
-        "description": "مشغول أو غير متفرغ."
-      },
-      {
-        "term": "I",
-        "description": "ضمير المتكلم ويشير إلى الشخص نفسه في الجملة الثانية."
-      },
-      {
-        "term": "do",
-        "description": "تساعد هنا على تكوين النفي في المضارع مع I."
-      },
-      {
-        "term": "not",
-        "description": "كلمة نفي تجعل المعنى ليس لدي."
-      },
-      {
-        "term": "have",
-        "description": "أملك أو يتوفر لدي في هذا السياق."
-      },
-      {
-        "term": "time",
-        "description": "وقت متاح لفعل شيء."
-      },
-      {
-        "term": "now",
-        "description": "الآن أو في هذه اللحظة."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "I am very busy.",
-        "explanation": {
+        "ar": "أنا مشغول جدًا.",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "تستخدم الجملة am مع صفة لوصف حالة المتكلم الحالية، وتأتي very لتقوية معنى الانشغال."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير المتكلم ويشير إلى الشخص الذي يتحدث."
+          },
+          {
+            "term": "am",
+            "description": "صيغة تأتي مع ضمير المتكلم المفرد وتربط الشخص بحالته."
+          },
+          {
+            "term": "very",
+            "description": "كلمة تقوي الصفة وتجعل الانشغال بدرجة كبيرة."
+          },
+          {
+            "term": "busy",
+            "description": "مشغول أو غير متفرغ."
+          }
+        ]
       },
       {
         "sentence": "I do not have time now.",
-        "explanation": {
+        "ar": "ليس لدي وقت الآن.",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "تستخدم do not مع الفعل الأساسي have لنفي توفر الوقت عند المتكلم في الوقت الحالي."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير المتكلم ويشير إلى الشخص نفسه في الجملة الثانية."
+          },
+          {
+            "term": "do",
+            "description": "تساعد هنا على تكوين النفي في المضارع مع I."
+          },
+          {
+            "term": "not",
+            "description": "كلمة نفي تجعل المعنى ليس لدي."
+          },
+          {
+            "term": "have",
+            "description": "أملك أو يتوفر لدي في هذا السياق."
+          },
+          {
+            "term": "time",
+            "description": "وقت متاح لفعل شيء."
+          },
+          {
+            "term": "now",
+            "description": "الآن أو في هذه اللحظة."
+          }
+        ]
       }
     ],
     "examples": [

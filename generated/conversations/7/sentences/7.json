@@ -7,48 +7,49 @@
     "context": "كلمة عظيم هنا تُستخدم غالبًا للتعبير عن شيء رائع أو جميل أكثر من معناها الثقيل في العربية."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Great",
-        "description": "كلمة تعبر عن الرضا أو الموافقة."
-      },
-      {
-        "term": "I",
-        "description": "ضمير المتكلم المفرد."
-      },
-      {
-        "term": "will",
-        "description": "يدل على المستقبل أو قرار المتكلم."
-      },
-      {
-        "term": "be",
-        "description": "يعني أكون أو أتواجد بعد will."
-      },
-      {
-        "term": "at",
-        "description": "حرف يحدد المكان."
-      },
-      {
-        "term": "the",
-        "description": "أداة تعريف لقسم محدد."
-      },
-      {
-        "term": "reading",
-        "description": "القراءة أو مكان مخصص لها."
-      },
-      {
-        "term": "section",
-        "description": "قسم أو جزء من مكان."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "Great, I will be at the reading section.",
-        "explanation": {
+        "ar": "عظيم، سأكون في قسم القراءة.",
+        "grammar": {
           "tense": "المستقبل البسيط",
           "tenseEn": "Future Simple",
           "reason": "استُعمل المستقبل البسيط لأن المتكلم يحدد مكان وجوده لاحقًا في المكتبة."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Great",
+            "description": "كلمة تعبر عن الرضا أو الموافقة."
+          },
+          {
+            "term": "I",
+            "description": "ضمير المتكلم المفرد."
+          },
+          {
+            "term": "will",
+            "description": "يدل على المستقبل أو قرار المتكلم."
+          },
+          {
+            "term": "be",
+            "description": "يعني أكون أو أتواجد بعد will."
+          },
+          {
+            "term": "at",
+            "description": "حرف يحدد المكان."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف لقسم محدد."
+          },
+          {
+            "term": "reading",
+            "description": "القراءة أو مكان مخصص لها."
+          },
+          {
+            "term": "section",
+            "description": "قسم أو جزء من مكان."
+          }
+        ]
       }
     ],
     "examples": [

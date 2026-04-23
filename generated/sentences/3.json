@@ -1,109 +1,110 @@
 {
-	"schemaVersion": 1,
-	"id": 3,
-	"sentence": {
-		"en": "Could you translate this for me?",
-		"ar": "هل يمكنك أن تترجم هذا لي؟",
-		"context": "اطلب المساعدة بأدب."
-	},
-	"lesson": {
-		"wordMeanings": [
-			{
-				"term": "Could",
-				"description": "فعل يُستخدم لطلب المساعدة بطريقة أكثر أدبًا ولطفًا من can"
-			},
-			{
-				"term": "you",
-				"description": "ضمير يشير إلى الشخص المخاطَب"
-			},
-			{
-				"term": "translate",
-				"description": "يحوّل الكلام من لغة إلى لغة أخرى"
-			},
-			{
-				"term": "this",
-				"description": "هذا الشيء القريب الذي تشير إليه"
-			},
-			{
-				"term": "for",
-				"description": "حرف يوضح أن الفعل يتم لصالح شخص معين"
-			},
-			{
-				"term": "me",
-				"description": "ضمير يشير إلى المتكلم كمتلقي للفعل"
-			}
-		],
-		"grammarExplanations": [
-			{
-				"sentence": "Could you translate this for me?",
-				"explanation": {
-					"tense": null,
-					"tenseEn": null,
-					"reason": "هذه جملة سؤال تُستخدم لطلب المساعدة بأدب، حيث يُستعمل Could بدلاً من Can لجعل الطلب أكثر تهذيبًا، ويتبعها الفاعل ثم الفعل في صورته الأساسية"
-				}
-			}
-		],
-		"examples": [
-			{
-				"id": 1,
-				"en": "Could you help me with this?",
-				"ar": "هل يمكنك مساعدتي في هذا؟",
-				"context": "طلب مساعدة بطريقة مهذبة"
-			},
-			{
-				"id": 2,
-				"en": "Could you explain this to me?",
-				"ar": "هل يمكنك شرح هذا لي؟",
-				"context": "طلب توضيح شيء بأدب"
-			},
-			{
-				"id": 3,
-				"en": "Could you write this for me?",
-				"ar": "هل يمكنك كتابة هذا لي؟",
-				"context": "طلب كتابة شيء بلطف"
-			},
-			{
-				"id": 4,
-				"en": "Could you check this for me?",
-				"ar": "هل يمكنك التحقق من هذا لي؟",
-				"context": "طلب مراجعة شيء بطريقة مهذبة"
-			},
-			{
-				"id": 5,
-				"en": "Could you send this to me?",
-				"ar": "هل يمكنك إرسال هذا لي؟",
-				"context": "طلب إرسال شيء بأدب"
-			},
-			{
-				"id": 6,
-				"en": "Could you read this for me?",
-				"ar": "هل يمكنك قراءة هذا لي؟",
-				"context": "طلب قراءة نص بلطف"
-			},
-			{
-				"id": 7,
-				"en": "Could you open this for me?",
-				"ar": "هل يمكنك فتح هذا لي؟",
-				"context": "طلب فتح شيء بأدب"
-			},
-			{
-				"id": 8,
-				"en": "Could you fix this for me?",
-				"ar": "هل يمكنك إصلاح هذا لي؟",
-				"context": "طلب إصلاح شيء بطريقة مهذبة"
-			},
-			{
-				"id": 9,
-				"en": "Could you bring this to me?",
-				"ar": "هل يمكنك إحضار هذا لي؟",
-				"context": "طلب إحضار شيء بلطف"
-			},
-			{
-				"id": 10,
-				"en": "Could you show this to me?",
-				"ar": "هل يمكنك عرض هذا لي؟",
-				"context": "طلب رؤية شيء بطريقة مهذبة"
-			}
-		]
-	}
+  "schemaVersion": 1,
+  "id": 3,
+  "sentence": {
+    "en": "Could you translate this for me?",
+    "ar": "هل يمكنك أن تترجم هذا لي؟",
+    "context": "اطلب المساعدة بأدب."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Could you translate this for me?",
+        "ar": "هل يمكنك أن تترجم هذا لي؟",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه جملة سؤال تُستخدم لطلب المساعدة بأدب، حيث يُستعمل Could بدلاً من Can لجعل الطلب أكثر تهذيبًا، ويتبعها الفاعل ثم الفعل في صورته الأساسية"
+        },
+        "wordMeanings": [
+          {
+            "term": "Could",
+            "description": "فعل يُستخدم لطلب المساعدة بطريقة أكثر أدبًا ولطفًا من can"
+          },
+          {
+            "term": "you",
+            "description": "ضمير يشير إلى الشخص المخاطَب"
+          },
+          {
+            "term": "translate",
+            "description": "يحوّل الكلام من لغة إلى لغة أخرى"
+          },
+          {
+            "term": "this",
+            "description": "هذا الشيء القريب الذي تشير إليه"
+          },
+          {
+            "term": "for",
+            "description": "حرف يوضح أن الفعل يتم لصالح شخص معين"
+          },
+          {
+            "term": "me",
+            "description": "ضمير يشير إلى المتكلم كمتلقي للفعل"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Could you help me with this?",
+        "ar": "هل يمكنك مساعدتي في هذا؟",
+        "context": "طلب مساعدة بطريقة مهذبة"
+      },
+      {
+        "id": 2,
+        "en": "Could you explain this to me?",
+        "ar": "هل يمكنك شرح هذا لي؟",
+        "context": "طلب توضيح شيء بأدب"
+      },
+      {
+        "id": 3,
+        "en": "Could you write this for me?",
+        "ar": "هل يمكنك كتابة هذا لي؟",
+        "context": "طلب كتابة شيء بلطف"
+      },
+      {
+        "id": 4,
+        "en": "Could you check this for me?",
+        "ar": "هل يمكنك التحقق من هذا لي؟",
+        "context": "طلب مراجعة شيء بطريقة مهذبة"
+      },
+      {
+        "id": 5,
+        "en": "Could you send this to me?",
+        "ar": "هل يمكنك إرسال هذا لي؟",
+        "context": "طلب إرسال شيء بأدب"
+      },
+      {
+        "id": 6,
+        "en": "Could you read this for me?",
+        "ar": "هل يمكنك قراءة هذا لي؟",
+        "context": "طلب قراءة نص بلطف"
+      },
+      {
+        "id": 7,
+        "en": "Could you open this for me?",
+        "ar": "هل يمكنك فتح هذا لي؟",
+        "context": "طلب فتح شيء بأدب"
+      },
+      {
+        "id": 8,
+        "en": "Could you fix this for me?",
+        "ar": "هل يمكنك إصلاح هذا لي؟",
+        "context": "طلب إصلاح شيء بطريقة مهذبة"
+      },
+      {
+        "id": 9,
+        "en": "Could you bring this to me?",
+        "ar": "هل يمكنك إحضار هذا لي؟",
+        "context": "طلب إحضار شيء بلطف"
+      },
+      {
+        "id": 10,
+        "en": "Could you show this to me?",
+        "ar": "هل يمكنك عرض هذا لي؟",
+        "context": "طلب رؤية شيء بطريقة مهذبة"
+      }
+    ]
+  }
 }

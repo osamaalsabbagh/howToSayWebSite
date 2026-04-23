@@ -7,40 +7,41 @@
     "context": "قل إن السعر أقل من ٥ دولارات."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "It",
-        "description": "يشير إلى الشيء أو السعر المقصود."
-      },
-      {
-        "term": "is",
-        "description": "تربط الشيء بوصف سعره."
-      },
-      {
-        "term": "less",
-        "description": "أقل."
-      },
-      {
-        "term": "than",
-        "description": "من، وتستخدم للمقارنة."
-      },
-      {
-        "term": "5",
-        "description": "العدد خمسة."
-      },
-      {
-        "term": "dollars",
-        "description": "دولارات، وهي عملة."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "It is less than 5 dollars.",
-        "explanation": {
+        "ar": "إنه أقل من خمسة دولارات.",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "تستخدم الجملة فعل الربط في الحاضر لوصف السعر، وتركيب less than يقارن السعر بحد معين."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "It",
+            "description": "يشير إلى الشيء أو السعر المقصود."
+          },
+          {
+            "term": "is",
+            "description": "تربط الشيء بوصف سعره."
+          },
+          {
+            "term": "less",
+            "description": "أقل."
+          },
+          {
+            "term": "than",
+            "description": "من، وتستخدم للمقارنة."
+          },
+          {
+            "term": "5",
+            "description": "العدد خمسة."
+          },
+          {
+            "term": "dollars",
+            "description": "دولارات، وهي عملة."
+          }
+        ]
       }
     ],
     "examples": [

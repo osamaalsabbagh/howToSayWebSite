@@ -7,32 +7,33 @@
     "context": "الإشارة إلى مكان الأصل أو الإقامة."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "We",
-        "description": "ضمير يشمل المتكلم ومعه شخص أو أكثر."
-      },
-      {
-        "term": "are",
-        "description": "تربط الضمير بمكان الأصل أو الانتماء."
-      },
-      {
-        "term": "from",
-        "description": "من، وتدل هنا على الأصل أو مكان القدوم."
-      },
-      {
-        "term": "California",
-        "description": "اسم ولاية كاليفورنيا."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "We are from California.",
-        "explanation": {
+        "ar": "نحن من كاليفورنيا.",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "تستخدم الجملة فعل الربط في الحاضر لذكر مكان الأصل أو الإقامة بوصفه معلومة عامة."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "We",
+            "description": "ضمير يشمل المتكلم ومعه شخص أو أكثر."
+          },
+          {
+            "term": "are",
+            "description": "تربط الضمير بمكان الأصل أو الانتماء."
+          },
+          {
+            "term": "from",
+            "description": "من، وتدل هنا على الأصل أو مكان القدوم."
+          },
+          {
+            "term": "California",
+            "description": "اسم ولاية كاليفورنيا."
+          }
+        ]
       }
     ],
     "examples": [

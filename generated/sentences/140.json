@@ -7,24 +7,25 @@
     "context": "أكد الأمر بجدية."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Yes",
-        "description": "نعم، وتستخدم للتأكيد أو الموافقة."
-      },
-      {
-        "term": "really",
-        "description": "حقًا، وتؤكد أن الكلام جدي أو صحيح."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "Yes, really.",
-        "explanation": {
+        "ar": "نعم، حقًا.",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذا رد قصير لتأكيد أمر بجدية أو إزالة الشك، ولا يحتوي على فعل ظاهر أو زمن مستقل."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Yes",
+            "description": "نعم، وتستخدم للتأكيد أو الموافقة."
+          },
+          {
+            "term": "really",
+            "description": "حقًا، وتؤكد أن الكلام جدي أو صحيح."
+          }
+        ]
       }
     ],
     "examples": [

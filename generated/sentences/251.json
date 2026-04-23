@@ -7,44 +7,48 @@
     "context": "أخبر أن الدفع يجب أن يكون نقدًا."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Sorry",
-        "description": "عذرًا، وتستخدم للتلطف قبل توضيح أمر غير مريح."
-      },
-      {
-        "term": "we",
-        "description": "نحن، وتشير إلى المتجر أو الجهة المتحدثة."
-      },
-      {
-        "term": "only",
-        "description": "فقط، وتدل على حصر الخيار."
-      },
-      {
-        "term": "accept",
-        "description": "نقبل."
-      },
-      {
-        "term": "cash",
-        "description": "نقد أو مال ورقي ومعدني."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "Sorry",
-        "explanation": {
+        "ar": "عذرًا، نقبل فقط الدفع نقدًا.",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذه كلمة اعتذار أو تلطف قبل توضيح طريقة الدفع، ولا تحمل زمنًا مستقلًا."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Sorry",
+            "description": "عذرًا، وتستخدم للتلطف قبل توضيح أمر غير مريح."
+          }
+        ]
       },
       {
         "sentence": "we only accept cash",
-        "explanation": {
+        "ar": "عذرًا، نقبل فقط الدفع نقدًا.",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "يستخدم المضارع البسيط للتعبير عن سياسة عامة في المكان، وكلمة فقط تحصر طريقة الدفع في النقد."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "we",
+            "description": "نحن، وتشير إلى المتجر أو الجهة المتحدثة."
+          },
+          {
+            "term": "only",
+            "description": "فقط، وتدل على حصر الخيار."
+          },
+          {
+            "term": "accept",
+            "description": "نقبل."
+          },
+          {
+            "term": "cash",
+            "description": "نقد أو مال ورقي ومعدني."
+          }
+        ]
       }
     ],
     "examples": [

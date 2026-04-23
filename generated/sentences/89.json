@@ -7,24 +7,25 @@
     "context": "قل أنك لا تحتاج شيئًا آخر."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Nothing",
-        "description": "لا شيء أو عدم وجود أي شيء."
-      },
-      {
-        "term": "else",
-        "description": "آخر أو إضافي."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "Nothing else.",
-        "explanation": {
+        "ar": "لا شيء آخر.",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذا تعبير قصير يعني عدم الحاجة إلى أي شيء إضافي، ولا يحتوي على فعل ظاهر أو زمن مستقل."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Nothing",
+            "description": "لا شيء أو عدم وجود أي شيء."
+          },
+          {
+            "term": "else",
+            "description": "آخر أو إضافي."
+          }
+        ]
       }
     ],
     "examples": [

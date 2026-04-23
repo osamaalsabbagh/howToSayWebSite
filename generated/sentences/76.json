@@ -7,28 +7,29 @@
     "context": "التعبير عن كمية قليلة."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Just",
-        "description": "فقط، وتقلل الكمية أو تحددها."
-      },
-      {
-        "term": "a",
-        "description": "أداة تدل على شيء واحد غير محدد."
-      },
-      {
-        "term": "little",
-        "description": "قليل أو كمية صغيرة."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "Just a little.",
-        "explanation": {
+        "ar": "قليل فقط.",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذا تعبير قصير عن كمية قليلة، ولا يحتوي على فعل ظاهر أو زمن مستقل."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Just",
+            "description": "فقط، وتقلل الكمية أو تحددها."
+          },
+          {
+            "term": "a",
+            "description": "أداة تدل على شيء واحد غير محدد."
+          },
+          {
+            "term": "little",
+            "description": "قليل أو كمية صغيرة."
+          }
+        ]
       }
     ],
     "examples": [

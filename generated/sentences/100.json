@@ -7,28 +7,29 @@
     "context": "وداع مع نية اللقاء لاحقًا."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "See",
-        "description": "أراك، وتأتي هنا ضمن تعبير وداع."
-      },
-      {
-        "term": "you",
-        "description": "ضمير يشير إلى الشخص الذي أتحدث معه."
-      },
-      {
-        "term": "later",
-        "description": "لاحقًا أو في وقت بعد الآن."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "See you later.",
-        "explanation": {
+        "ar": "أراك لاحقًا.",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذا تعبير وداع ثابت يعني أن المتكلم يتوقع لقاء المخاطب أو التحدث معه لاحقًا، ولا يستخدم كزمن مستقل."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "See",
+            "description": "أراك، وتأتي هنا ضمن تعبير وداع."
+          },
+          {
+            "term": "you",
+            "description": "ضمير يشير إلى الشخص الذي أتحدث معه."
+          },
+          {
+            "term": "later",
+            "description": "لاحقًا أو في وقت بعد الآن."
+          }
+        ]
       }
     ],
     "examples": [

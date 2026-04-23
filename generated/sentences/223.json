@@ -7,36 +7,37 @@
     "context": "اسأل عن رأي الزوجة في كاليفورنيا."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Did",
-        "description": "تأتي في بداية السؤال عن الماضي مع الفعل الأساسي بعدها."
-      },
-      {
-        "term": "your",
-        "description": "خاصتك، وتشير إلى علاقة الزوجة بالمخاطب."
-      },
-      {
-        "term": "wife",
-        "description": "زوجة."
-      },
-      {
-        "term": "like",
-        "description": "أعجبها أو أحبّت."
-      },
-      {
-        "term": "California",
-        "description": "كاليفورنيا، اسم ولاية أو مكان."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "Did your wife like California?",
-        "explanation": {
+        "ar": "هل أعجبت زوجتك بكاليفورنيا؟",
+        "grammar": {
           "tense": "الماضي البسيط",
           "tenseEn": "Past Simple",
           "reason": "يستخدم السؤال الماضي البسيط للسؤال عن رأي أو تجربة حدثت في الماضي، وبعد كلمة السؤال المساعدة يأتي الفعل بصيغته الأساسية."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Did",
+            "description": "تأتي في بداية السؤال عن الماضي مع الفعل الأساسي بعدها."
+          },
+          {
+            "term": "your",
+            "description": "خاصتك، وتشير إلى علاقة الزوجة بالمخاطب."
+          },
+          {
+            "term": "wife",
+            "description": "زوجة."
+          },
+          {
+            "term": "like",
+            "description": "أعجبها أو أحبّت."
+          },
+          {
+            "term": "California",
+            "description": "كاليفورنيا، اسم ولاية أو مكان."
+          }
+        ]
       }
     ],
     "examples": [

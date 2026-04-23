@@ -7,60 +7,64 @@
     "context": "إبداء الحماس والسؤال عن مدة غياب العمة"
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "That",
-        "description": "يشير إلى خبر زيارة العمة."
-      },
-      {
-        "term": "is",
-        "description": "صيغة تربط اسم الإشارة بالوصف."
-      },
-      {
-        "term": "awesome",
-        "description": "صفة تعني رائعًا جدًا أو مفرحًا."
-      },
-      {
-        "term": "How",
-        "description": "تبدأ سؤالًا عن مقدار أو مدة."
-      },
-      {
-        "term": "long",
-        "description": "تعني مدة زمنية طويلة أو قصيرة حسب السؤال."
-      },
-      {
-        "term": "has",
-        "description": "فعل مساعد في المضارع التام مع she."
-      },
-      {
-        "term": "she",
-        "description": "ضمير يعود على العمة."
-      },
-      {
-        "term": "been",
-        "description": "صيغة تأتي مع المضارع التام للدلالة على استمرار حالة."
-      },
-      {
-        "term": "away",
-        "description": "تعني بعيدة أو غير موجودة في المكان."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "That is awesome!",
-        "explanation": {
+        "ar": "ذلك رائع!",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "استُعمل المضارع البسيط للتعبير عن انطباع حاضر تجاه خبر الزيارة."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "That",
+            "description": "يشير إلى خبر زيارة العمة."
+          },
+          {
+            "term": "is",
+            "description": "صيغة تربط اسم الإشارة بالوصف."
+          },
+          {
+            "term": "awesome",
+            "description": "صفة تعني رائعًا جدًا أو مفرحًا."
+          }
+        ]
       },
       {
         "sentence": "How long has she been away?",
-        "explanation": {
+        "ar": "منذ متى وهي بعيدة؟",
+        "grammar": {
           "tense": "المضارع التام",
           "tenseEn": "Present Perfect",
           "reason": "استُعمل المضارع التام للسؤال عن مدة حالة بدأت في الماضي وما زالت مرتبطة بالحاضر، وهي غياب العمة."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "How",
+            "description": "تبدأ سؤالًا عن مقدار أو مدة."
+          },
+          {
+            "term": "long",
+            "description": "تعني مدة زمنية طويلة أو قصيرة حسب السؤال."
+          },
+          {
+            "term": "has",
+            "description": "فعل مساعد في المضارع التام مع she."
+          },
+          {
+            "term": "she",
+            "description": "ضمير يعود على العمة."
+          },
+          {
+            "term": "been",
+            "description": "صيغة تأتي مع المضارع التام للدلالة على استمرار حالة."
+          },
+          {
+            "term": "away",
+            "description": "تعني بعيدة أو غير موجودة في المكان."
+          }
+        ]
       }
     ],
     "examples": [

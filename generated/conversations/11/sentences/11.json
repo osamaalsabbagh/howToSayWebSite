@@ -7,76 +7,80 @@
     "context": "المعلم يوضح المعنى في الاستعمال اليومي لكلمة الماء العذب"
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "But",
-        "description": "تربط بين فكرتين متقابلتين أو مختلفتين."
-      },
-      {
-        "term": "in",
-        "description": "داخل مجال أو سياق معين."
-      },
-      {
-        "term": "daily",
-        "description": "يومي أو مرتبط بالحياة العادية."
-      },
-      {
-        "term": "life",
-        "description": "الحياة أو الاستعمال اليومي."
-      },
-      {
-        "term": "fresh",
-        "description": "قد تعني باردًا أو حديثًا في الاستعمال اليومي."
-      },
-      {
-        "term": "water",
-        "description": "ماء."
-      },
-      {
-        "term": "can",
-        "description": "تدل هنا على احتمال معنى مختلف بحسب السياق."
-      },
-      {
-        "term": "mean",
-        "description": "يعني أو يدل على."
-      },
-      {
-        "term": "cold",
-        "description": "بارد."
-      },
-      {
-        "term": "or",
-        "description": "تربط بين احتمالين أو خيارين."
-      },
-      {
-        "term": "newly",
-        "description": "حديثًا أو منذ وقت قصير."
-      },
-      {
-        "term": "poured",
-        "description": "مصبوب أو تم سكبه."
-      },
-      {
-        "term": "water",
-        "description": "ماء، والمقصود هنا ماء صُب حديثًا."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "But in daily life",
-        "explanation": {
+        "ar": "لكن في الحياة اليومية، الماء العذب قد يعني الماء البارد أو المصبوب حديثًا.",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذا تمهيد يغيّر السياق من المعنى العلمي إلى الاستعمال اليومي، وليس جملة بزمن مستقل."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "But",
+            "description": "تربط بين فكرتين متقابلتين أو مختلفتين."
+          },
+          {
+            "term": "in",
+            "description": "داخل مجال أو سياق معين."
+          },
+          {
+            "term": "daily",
+            "description": "يومي أو مرتبط بالحياة العادية."
+          },
+          {
+            "term": "life",
+            "description": "الحياة أو الاستعمال اليومي."
+          }
+        ]
       },
       {
         "sentence": "fresh water can mean cold or newly poured water",
-        "explanation": {
+        "ar": "لكن في الحياة اليومية، الماء العذب قد يعني الماء البارد أو المصبوب حديثًا.",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "الجملة تستخدم can للتعبير عن احتمال معنى في سياق معين، لذلك تُفهم كتركيب احتمال لا كزمن مستقل."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "fresh",
+            "description": "قد تعني باردًا أو حديثًا في الاستعمال اليومي."
+          },
+          {
+            "term": "water",
+            "description": "ماء."
+          },
+          {
+            "term": "can",
+            "description": "تدل هنا على احتمال معنى مختلف بحسب السياق."
+          },
+          {
+            "term": "mean",
+            "description": "يعني أو يدل على."
+          },
+          {
+            "term": "cold",
+            "description": "بارد."
+          },
+          {
+            "term": "or",
+            "description": "تربط بين احتمالين أو خيارين."
+          },
+          {
+            "term": "newly",
+            "description": "حديثًا أو منذ وقت قصير."
+          },
+          {
+            "term": "poured",
+            "description": "مصبوب أو تم سكبه."
+          },
+          {
+            "term": "water",
+            "description": "ماء، والمقصود هنا ماء صُب حديثًا."
+          }
+        ]
       }
     ],
     "examples": [

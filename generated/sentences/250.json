@@ -7,52 +7,56 @@
     "context": "اشرح أن الدفع بالبطاقات غير متاح."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Sorry",
-        "description": "عذرًا، وتستخدم للتلطف قبل خبر غير مناسب للمخاطب."
-      },
-      {
-        "term": "we",
-        "description": "نحن، وتشير إلى المتجر أو الجهة المتحدثة."
-      },
-      {
-        "term": "do",
-        "description": "تستخدم مع النفي لتكوين جملة منفية في الحاضر."
-      },
-      {
-        "term": "not",
-        "description": "لا، وتدل على النفي."
-      },
-      {
-        "term": "accept",
-        "description": "نقبل."
-      },
-      {
-        "term": "credit",
-        "description": "جزء من وصف بطاقة دفع تعتمد على الائتمان."
-      },
-      {
-        "term": "cards",
-        "description": "بطاقات، والمقصود بطاقات الدفع."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "Sorry",
-        "explanation": {
+        "ar": "عذرًا، لا نقبل بطاقات الائتمان.",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذه كلمة اعتذار أو تلطف قبل توضيح سياسة الدفع، ولا تحمل زمنًا مستقلًا."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Sorry",
+            "description": "عذرًا، وتستخدم للتلطف قبل خبر غير مناسب للمخاطب."
+          }
+        ]
       },
       {
         "sentence": "we do not accept credit cards",
-        "explanation": {
+        "ar": "عذرًا، لا نقبل بطاقات الائتمان.",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "يستخدم المضارع البسيط المنفي للتعبير عن سياسة عامة أو قاعدة ثابتة، وهي عدم قبول بطاقات الائتمان."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "we",
+            "description": "نحن، وتشير إلى المتجر أو الجهة المتحدثة."
+          },
+          {
+            "term": "do",
+            "description": "تستخدم مع النفي لتكوين جملة منفية في الحاضر."
+          },
+          {
+            "term": "not",
+            "description": "لا، وتدل على النفي."
+          },
+          {
+            "term": "accept",
+            "description": "نقبل."
+          },
+          {
+            "term": "credit",
+            "description": "جزء من وصف بطاقة دفع تعتمد على الائتمان."
+          },
+          {
+            "term": "cards",
+            "description": "بطاقات، والمقصود بطاقات الدفع."
+          }
+        ]
       }
     ],
     "examples": [

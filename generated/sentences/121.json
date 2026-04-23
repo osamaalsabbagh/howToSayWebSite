@@ -7,28 +7,29 @@
     "context": "قل إن الشيء انتهى."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "That",
-        "description": "ذلك الشيء أو الأمر الذي تشير إليه."
-      },
-      {
-        "term": "is",
-        "description": "صيغة تأتي مع المفرد وتربط الشيء بمعناه أو حالته."
-      },
-      {
-        "term": "it",
-        "description": "كل شيء أو نهاية الأمر في هذا السياق."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "That is it.",
-        "explanation": {
+        "ar": "ذلك كل شيء.",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "تستخدم is هنا في تعبير يعني أن الأمر اكتمل أو أن هذا هو كل المطلوب في اللحظة الحالية."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "That",
+            "description": "ذلك الشيء أو الأمر الذي تشير إليه."
+          },
+          {
+            "term": "is",
+            "description": "صيغة تأتي مع المفرد وتربط الشيء بمعناه أو حالته."
+          },
+          {
+            "term": "it",
+            "description": "كل شيء أو نهاية الأمر في هذا السياق."
+          }
+        ]
       }
     ],
     "examples": [

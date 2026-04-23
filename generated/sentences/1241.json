@@ -7,64 +7,68 @@
     "context": "طلب رسمي للسؤال."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "I",
-        "description": "أنا، وتشير إلى المتكلم."
-      },
-      {
-        "term": "have",
-        "description": "لدي أو أملك."
-      },
-      {
-        "term": "a",
-        "description": "أداة تدل على شيء واحد غير محدد."
-      },
-      {
-        "term": "question",
-        "description": "سؤال."
-      },
-      {
-        "term": "I",
-        "description": "أنا، وتشير مرة أخرى إلى المتكلم."
-      },
-      {
-        "term": "would",
-        "description": "تجعل الطلب أكثر تهذيبًا ورسمية."
-      },
-      {
-        "term": "like",
-        "description": "أود أو أرغب."
-      },
-      {
-        "term": "to",
-        "description": "تربط الرغبة بالفعل بعدها."
-      },
-      {
-        "term": "ask",
-        "description": "أطرح سؤالًا أو أسأل."
-      },
-      {
-        "term": "you",
-        "description": "أنت أو عليك، وتشير إلى الشخص المخاطب."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "I have a question",
-        "explanation": {
+        "ar": "لدي سؤال أود أن أطرحه عليك.",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "يستخدم المضارع البسيط للتعبير عن حالة حالية لدى المتكلم، وهي وجود سؤال لديه."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "أنا، وتشير إلى المتكلم."
+          },
+          {
+            "term": "have",
+            "description": "لدي أو أملك."
+          },
+          {
+            "term": "a",
+            "description": "أداة تدل على شيء واحد غير محدد."
+          },
+          {
+            "term": "question",
+            "description": "سؤال."
+          }
+        ]
       },
       {
         "sentence": "I would like to ask you",
-        "explanation": {
+        "ar": "لدي سؤال أود أن أطرحه عليك.",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذا تركيب مهذب ورسمي للتعبير عن الرغبة في طرح سؤال، ولا يشرح كزمن مستقل لأن كلمة التهذيب تغيّر وظيفة العبارة إلى طلب لطيف."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "أنا، وتشير مرة أخرى إلى المتكلم."
+          },
+          {
+            "term": "would",
+            "description": "تجعل الطلب أكثر تهذيبًا ورسمية."
+          },
+          {
+            "term": "like",
+            "description": "أود أو أرغب."
+          },
+          {
+            "term": "to",
+            "description": "تربط الرغبة بالفعل بعدها."
+          },
+          {
+            "term": "ask",
+            "description": "أطرح سؤالًا أو أسأل."
+          },
+          {
+            "term": "you",
+            "description": "أنت أو عليك، وتشير إلى الشخص المخاطب."
+          }
+        ]
       }
     ],
     "examples": [

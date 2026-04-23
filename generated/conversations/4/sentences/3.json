@@ -7,80 +7,87 @@
     "context": "يظن أنه يعرفه من مكان ما، فيسأله بلطف واحتراز عمّا إذا كان يعمل في التمثيل، تعبير 'بأي مصادفة' بالإنكليزية يستخدم لتلطيف السؤال وجعله غير مباشر ولا يغير المعنى"
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Thank",
-        "description": "تبدأ عبارة شكر موجهة إلى شخص."
-      },
-      {
-        "term": "you",
-        "description": "ضمير المخاطب، ويشير إلى الشخص الذي يتم شكره."
-      },
-      {
-        "term": "You",
-        "description": "ضمير المخاطب."
-      },
-      {
-        "term": "look",
-        "description": "تعني تبدو أو يظهر عليك."
-      },
-      {
-        "term": "familiar",
-        "description": "صفة تعني مألوفًا أو كأنني رأيتك من قبل."
-      },
-      {
-        "term": "Are",
-        "description": "صيغة تبدأ سؤالًا عن هوية أو صفة حالية."
-      },
-      {
-        "term": "you",
-        "description": "ضمير المخاطب."
-      },
-      {
-        "term": "an",
-        "description": "أداة نكرة قبل اسم يبدأ بصوت علّة."
-      },
-      {
-        "term": "actor",
-        "description": "ممثل."
-      },
-      {
-        "term": "by",
-        "description": "تأتي ضمن عبارة by any chance لتلطيف السؤال."
-      },
-      {
-        "term": "any",
-        "description": "تأتي ضمن العبارة لتجعل السؤال أقل مباشرة."
-      },
-      {
-        "term": "chance",
-        "description": "تعني مصادفة أو احتمال في هذا التعبير."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "Thank you.",
-        "explanation": {
+        "ar": "شكرًا.",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذه عبارة شكر ثابتة وليست جملة فعلية لها زمن مستقل."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Thank",
+            "description": "تبدأ عبارة شكر موجهة إلى شخص."
+          },
+          {
+            "term": "you",
+            "description": "ضمير المخاطب، ويشير إلى الشخص الذي يتم شكره."
+          }
+        ]
       },
       {
         "sentence": "You look familiar.",
-        "explanation": {
+        "ar": "تبدو مألوفًا.",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "استُعمل المضارع البسيط لوصف الانطباع الحالي عن شكل الشخص."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "You",
+            "description": "ضمير المخاطب."
+          },
+          {
+            "term": "look",
+            "description": "تعني تبدو أو يظهر عليك."
+          },
+          {
+            "term": "familiar",
+            "description": "صفة تعني مألوفًا أو كأنني رأيتك من قبل."
+          }
+        ]
       },
       {
         "sentence": "Are you an actor by any chance?",
-        "explanation": {
+        "ar": "هل أنت ممثل بأي مصادفة؟",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "استُعمل المضارع البسيط للسؤال عن هوية أو مهنة الشخص في الوقت الحالي، مع عبارة تلطف السؤال."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Are",
+            "description": "صيغة تبدأ سؤالًا عن هوية أو صفة حالية."
+          },
+          {
+            "term": "you",
+            "description": "ضمير المخاطب."
+          },
+          {
+            "term": "an",
+            "description": "أداة نكرة قبل اسم يبدأ بصوت علّة."
+          },
+          {
+            "term": "actor",
+            "description": "ممثل."
+          },
+          {
+            "term": "by",
+            "description": "تأتي ضمن عبارة by any chance لتلطيف السؤال."
+          },
+          {
+            "term": "any",
+            "description": "تأتي ضمن العبارة لتجعل السؤال أقل مباشرة."
+          },
+          {
+            "term": "chance",
+            "description": "تعني مصادفة أو احتمال في هذا التعبير."
+          }
+        ]
       }
     ],
     "examples": [

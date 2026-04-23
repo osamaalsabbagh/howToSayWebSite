@@ -7,28 +7,29 @@
     "context": "اقتراح مهذب يأخذ رأي الطرف الآخر."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Shall",
-        "description": "تستخدم هنا لاقتراح فعل شيء معًا بطريقة مهذبة."
-      },
-      {
-        "term": "we",
-        "description": "ضمير يشمل المتكلم والشخص أو الأشخاص معه."
-      },
-      {
-        "term": "go",
-        "description": "نذهب أو نتحرك من المكان الحالي."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "Shall we go?",
-        "explanation": {
+        "ar": "هل نذهب؟",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذه صيغة اقتراح مهذب باستخدام shall لسؤال الطرف الآخر عن الاستعداد للذهاب، ولا تعامل كزمن مستقل."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Shall",
+            "description": "تستخدم هنا لاقتراح فعل شيء معًا بطريقة مهذبة."
+          },
+          {
+            "term": "we",
+            "description": "ضمير يشمل المتكلم والشخص أو الأشخاص معه."
+          },
+          {
+            "term": "go",
+            "description": "نذهب أو نتحرك من المكان الحالي."
+          }
+        ]
       }
     ],
     "examples": [

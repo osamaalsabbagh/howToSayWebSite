@@ -7,32 +7,33 @@
     "context": "اشتكِ من ارتفاع السعر."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "That",
-        "description": "ذلك، وتشير إلى شيء أو سعر محدد."
-      },
-      {
-        "term": "is",
-        "description": "صيغة تربط الشيء بوصفه في الحاضر."
-      },
-      {
-        "term": "too",
-        "description": "جدًا أو أكثر من المقبول."
-      },
-      {
-        "term": "expensive",
-        "description": "غالي أو مرتفع السعر."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "That is too expensive.",
-        "explanation": {
+        "ar": "ذلك غالٍ جدًا.",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "يستخدم فعل الربط في الحاضر للتعبير عن حكم على السعر الآن، وكلمة جدًا تعني أن السعر أعلى من المقبول."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "That",
+            "description": "ذلك، وتشير إلى شيء أو سعر محدد."
+          },
+          {
+            "term": "is",
+            "description": "صيغة تربط الشيء بوصفه في الحاضر."
+          },
+          {
+            "term": "too",
+            "description": "جدًا أو أكثر من المقبول."
+          },
+          {
+            "term": "expensive",
+            "description": "غالي أو مرتفع السعر."
+          }
+        ]
       }
     ],
     "examples": [

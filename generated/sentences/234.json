@@ -7,40 +7,41 @@
     "context": "اسأل عن دخل شخص."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "How",
-        "description": "تبدأ سؤالًا عن المقدار."
-      },
-      {
-        "term": "much",
-        "description": "كم، وتستخدم مع المال."
-      },
-      {
-        "term": "money",
-        "description": "مال أو نقود."
-      },
-      {
-        "term": "do",
-        "description": "تأتي في السؤال مع المخاطب لتكوين سؤال في الحاضر."
-      },
-      {
-        "term": "you",
-        "description": "أنت، وتشير إلى الشخص المخاطب."
-      },
-      {
-        "term": "make",
-        "description": "تكسب أو تجني من المال."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "How much money do you make?",
-        "explanation": {
+        "ar": "كم تكسب من المال؟",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "يستخدم المضارع البسيط للسؤال عن دخل أو عادة عامة في كسب المال، وليس عن مبلغ يحدث الآن فقط."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "How",
+            "description": "تبدأ سؤالًا عن المقدار."
+          },
+          {
+            "term": "much",
+            "description": "كم، وتستخدم مع المال."
+          },
+          {
+            "term": "money",
+            "description": "مال أو نقود."
+          },
+          {
+            "term": "do",
+            "description": "تأتي في السؤال مع المخاطب لتكوين سؤال في الحاضر."
+          },
+          {
+            "term": "you",
+            "description": "أنت، وتشير إلى الشخص المخاطب."
+          },
+          {
+            "term": "make",
+            "description": "تكسب أو تجني من المال."
+          }
+        ]
       }
     ],
     "examples": [

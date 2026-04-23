@@ -7,44 +7,45 @@
     "context": "العميل يسأل إن كان عليه إعطاء العنوان الجديد مباشرة."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Shall",
-        "description": "تبدأ سؤالًا لاقتراح فعل أو طلب توجيه."
-      },
-      {
-        "term": "I",
-        "description": "ضمير المتكلم المفرد."
-      },
-      {
-        "term": "give",
-        "description": "يعطي أو يقدم معلومة."
-      },
-      {
-        "term": "you",
-        "description": "الشخص الذي سيستلم المعلومة."
-      },
-      {
-        "term": "the",
-        "description": "أداة تعريف لعنوان محدد."
-      },
-      {
-        "term": "address",
-        "description": "العنوان."
-      },
-      {
-        "term": "now",
-        "description": "في هذه اللحظة."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "Shall I give you the address now?",
-        "explanation": {
+        "ar": "هل أعطيك العنوان الآن؟",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "السؤال يستخدم Shall I لعرض القيام بفعل الآن أو طلب تأكيد من المخاطب، لذلك لا يُعامل كزمن مستقل."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Shall",
+            "description": "تبدأ سؤالًا لاقتراح فعل أو طلب توجيه."
+          },
+          {
+            "term": "I",
+            "description": "ضمير المتكلم المفرد."
+          },
+          {
+            "term": "give",
+            "description": "يعطي أو يقدم معلومة."
+          },
+          {
+            "term": "you",
+            "description": "الشخص الذي سيستلم المعلومة."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف لعنوان محدد."
+          },
+          {
+            "term": "address",
+            "description": "العنوان."
+          },
+          {
+            "term": "now",
+            "description": "في هذه اللحظة."
+          }
+        ]
       }
     ],
     "examples": [

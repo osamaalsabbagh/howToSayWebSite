@@ -7,32 +7,33 @@
     "context": "التعبير عن شدة الحرارة."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "It",
-        "description": "تستخدم هنا للإشارة إلى الطقس أو الجو."
-      },
-      {
-        "term": "is",
-        "description": "تربط الحالة بوصفها الحالي."
-      },
-      {
-        "term": "really",
-        "description": "حقًا، وتستخدم لتقوية الوصف."
-      },
-      {
-        "term": "hot",
-        "description": "حار أو شديد الحرارة."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "It is really hot.",
-        "explanation": {
+        "ar": "الجو حار حقاً.",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "تستخدم الجملة فعل الربط في الحاضر لوصف حالة الجو أو الحرارة في الوقت الحالي."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "It",
+            "description": "تستخدم هنا للإشارة إلى الطقس أو الجو."
+          },
+          {
+            "term": "is",
+            "description": "تربط الحالة بوصفها الحالي."
+          },
+          {
+            "term": "really",
+            "description": "حقًا، وتستخدم لتقوية الوصف."
+          },
+          {
+            "term": "hot",
+            "description": "حار أو شديد الحرارة."
+          }
+        ]
       }
     ],
     "examples": [

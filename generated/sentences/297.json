@@ -7,40 +7,41 @@
     "context": "تحديد مكان شيء خلف شيء آخر."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "The",
-        "description": "أداة تشير إلى كتاب محدد معروف من السياق."
-      },
-      {
-        "term": "book",
-        "description": "كتاب أو شيء للقراءة."
-      },
-      {
-        "term": "is",
-        "description": "تربط الكتاب بمكانه الحالي."
-      },
-      {
-        "term": "behind",
-        "description": "خلف أو في الجهة الخلفية من شيء."
-      },
-      {
-        "term": "the",
-        "description": "أداة تشير إلى طاولة محددة."
-      },
-      {
-        "term": "table",
-        "description": "طاولة أو منضدة."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "The book is behind the table.",
-        "explanation": {
+        "ar": "الكتاب خلف الطاولة.",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "تستخدم الجملة is لوصف مكان الكتاب الحالي، وbehind يوضح أنه في الجهة الخلفية من الطاولة."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "The",
+            "description": "أداة تشير إلى كتاب محدد معروف من السياق."
+          },
+          {
+            "term": "book",
+            "description": "كتاب أو شيء للقراءة."
+          },
+          {
+            "term": "is",
+            "description": "تربط الكتاب بمكانه الحالي."
+          },
+          {
+            "term": "behind",
+            "description": "خلف أو في الجهة الخلفية من شيء."
+          },
+          {
+            "term": "the",
+            "description": "أداة تشير إلى طاولة محددة."
+          },
+          {
+            "term": "table",
+            "description": "طاولة أو منضدة."
+          }
+        ]
       }
     ],
     "examples": [

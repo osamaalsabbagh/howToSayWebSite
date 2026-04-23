@@ -7,32 +7,33 @@
     "context": "تذكرة لسفر باتجاه واحد."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "A",
-        "description": "أداة تدل على شيء واحد غير محدد."
-      },
-      {
-        "term": "one",
-        "description": "واحد، وهنا جزء من وصف يدل على اتجاه واحد فقط."
-      },
-      {
-        "term": "way",
-        "description": "طريق أو اتجاه، وهنا مع الكلمة السابقة تعني أن السفر بلا عودة في التذكرة نفسها."
-      },
-      {
-        "term": "ticket",
-        "description": "تذكرة تسمح بالسفر أو الدخول."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "A one way ticket.",
-        "explanation": {
+        "ar": "تذكرة ذهاب فقط.",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذه عبارة اسمية تطلب أو تصف نوع التذكرة، ولا تحتوي على فعل ظاهر أو زمن مستقل."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "A",
+            "description": "أداة تدل على شيء واحد غير محدد."
+          },
+          {
+            "term": "one",
+            "description": "واحد، وهنا جزء من وصف يدل على اتجاه واحد فقط."
+          },
+          {
+            "term": "way",
+            "description": "طريق أو اتجاه، وهنا مع الكلمة السابقة تعني أن السفر بلا عودة في التذكرة نفسها."
+          },
+          {
+            "term": "ticket",
+            "description": "تذكرة تسمح بالسفر أو الدخول."
+          }
+        ]
       }
     ],
     "examples": [

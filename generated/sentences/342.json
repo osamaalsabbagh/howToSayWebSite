@@ -5,5 +5,133 @@
     "en": "What is the name of the company you work for?",
     "ar": "ما اسم الشركة التي تعمل بها؟",
     "context": "السؤال عن مكان العمل."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "What is the name of the company",
+        "ar": "ما اسم الشركة التي تعمل بها؟",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "What is تستخدم للسؤال عن معلومة حالية، وهي اسم الشركة."
+        },
+        "wordMeanings": [
+          {
+            "term": "What",
+            "description": "أداة سؤال تعني ما."
+          },
+          {
+            "term": "is",
+            "description": "صيغة تستخدم للسؤال عن شيء مفرد في المضارع."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف تشير إلى شيء محدد."
+          },
+          {
+            "term": "name",
+            "description": "يعني اسمًا."
+          },
+          {
+            "term": "of",
+            "description": "حرف يربط الاسم بما يملكه أو ينتمي إليه."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف تشير إلى شركة محددة في السؤال."
+          },
+          {
+            "term": "company",
+            "description": "تعني شركة أو مؤسسة عمل."
+          }
+        ]
+      },
+      {
+        "sentence": "you work for",
+        "ar": "ما اسم الشركة التي تعمل بها؟",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "work في المضارع البسيط يصف مكان عمل الشخص بشكل عام أو مستمر."
+        },
+        "wordMeanings": [
+          {
+            "term": "you",
+            "description": "ضمير يشير إلى الشخص المخاطب."
+          },
+          {
+            "term": "work",
+            "description": "يعني تعمل."
+          },
+          {
+            "term": "for",
+            "description": "حرف يبين الجهة التي يعمل الشخص لديها."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "What is the name of your company?",
+        "ar": "ما اسم شركتك؟",
+        "context": "تستخدم للسؤال المباشر عن اسم الشركة."
+      },
+      {
+        "id": 2,
+        "en": "What company do you work for?",
+        "ar": "في أي شركة تعمل؟",
+        "context": "تستخدم للسؤال عن جهة العمل."
+      },
+      {
+        "id": 3,
+        "en": "I work for a small company.",
+        "ar": "أنا أعمل في شركة صغيرة.",
+        "context": "تستخدم لوصف مكان العمل."
+      },
+      {
+        "id": 4,
+        "en": "She works for a travel company.",
+        "ar": "هي تعمل في شركة سفر.",
+        "context": "تستخدم لذكر نوع الشركة التي يعمل بها شخص."
+      },
+      {
+        "id": 5,
+        "en": "What is the name of the hotel you work for?",
+        "ar": "ما اسم الفندق الذي تعمل فيه؟",
+        "context": "تستخدم للسؤال عن جهة عمل في فندق."
+      },
+      {
+        "id": 6,
+        "en": "What is the address of the company?",
+        "ar": "ما عنوان الشركة؟",
+        "context": "تستخدم للسؤال عن معلومات الشركة."
+      },
+      {
+        "id": 7,
+        "en": "Do you work for this company?",
+        "ar": "هل تعمل في هذه الشركة؟",
+        "context": "تستخدم للتأكد من جهة عمل شخص."
+      },
+      {
+        "id": 8,
+        "en": "The company I work for is new.",
+        "ar": "الشركة التي أعمل فيها جديدة.",
+        "context": "تستخدم لوصف الشركة المرتبطة بعملك."
+      },
+      {
+        "id": 9,
+        "en": "What is the name of your manager?",
+        "ar": "ما اسم مديرك؟",
+        "context": "تستخدم للسؤال عن اسم شخص في العمل."
+      },
+      {
+        "id": 10,
+        "en": "He works for an international company.",
+        "ar": "هو يعمل في شركة دولية.",
+        "context": "تستخدم لوصف جهة عمل كبيرة أو عالمية."
+      }
+    ]
   }
 }

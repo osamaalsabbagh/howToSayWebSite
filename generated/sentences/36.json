@@ -7,32 +7,33 @@
     "context": "اشتكِ من ألم الرأس."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "I",
-        "description": "ضمير المتكلم ويشير إلى الشخص الذي يتحدث."
-      },
-      {
-        "term": "have",
-        "description": "تعني أعاني من أو عندي في سياق الألم أو المرض."
-      },
-      {
-        "term": "a",
-        "description": "أداة تدل على شيء واحد غير محدد."
-      },
-      {
-        "term": "headache",
-        "description": "صداع أو ألم في الرأس."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "I have a headache.",
-        "explanation": {
+        "ar": "أعاني من صداع.",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "تستخدم الجملة المضارع البسيط لوصف حالة صحية حالية، ويأتي have هنا بمعنى أعاني من أو عندي."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير المتكلم ويشير إلى الشخص الذي يتحدث."
+          },
+          {
+            "term": "have",
+            "description": "تعني أعاني من أو عندي في سياق الألم أو المرض."
+          },
+          {
+            "term": "a",
+            "description": "أداة تدل على شيء واحد غير محدد."
+          },
+          {
+            "term": "headache",
+            "description": "صداع أو ألم في الرأس."
+          }
+        ]
       }
     ],
     "examples": [

@@ -7,80 +7,87 @@
     "context": "يُشجّعه على المحاولة دون خوف من الفشل"
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Sure",
-        "description": "كلمة موافقة وتشجيع تعني بالتأكيد أو نعم."
-      },
-      {
-        "term": "Do",
-        "description": "تبدأ هنا صيغة نهي أو نصيحة بعدم فعل شيء."
-      },
-      {
-        "term": "not",
-        "description": "أداة نفي."
-      },
-      {
-        "term": "be",
-        "description": "تعني كن أو تكون، وتأتي هنا ضمن نصيحة بعدم الخوف."
-      },
-      {
-        "term": "afraid",
-        "description": "صفة تعني خائف أو قلق."
-      },
-      {
-        "term": "of",
-        "description": "حرف جر يربط بين اسمين وغالبًا يعني من أو الخاص بـ حسب السياق."
-      },
-      {
-        "term": "failing",
-        "description": "تعني الفشل أو عدم النجاح في المحاولة."
-      },
-      {
-        "term": "Every",
-        "description": "كلمة تعني كل."
-      },
-      {
-        "term": "great",
-        "description": "صفة تعني عظيم أو بارع، وتصف جودة الممثل."
-      },
-      {
-        "term": "actor",
-        "description": "اسم يعني ممثل."
-      },
-      {
-        "term": "started",
-        "description": "فعل يعني بدأ."
-      },
-      {
-        "term": "somewhere",
-        "description": "تعني في مكان ما أو من نقطة بداية غير محددة."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "Sure.",
-        "explanation": {
+        "ar": "بالتأكيد.",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذا الجزء تعبير قصير أو غير مكتمل فعليًا، لذلك لا نضع له زمنًا مستقلًا."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Sure",
+            "description": "كلمة موافقة وتشجيع تعني بالتأكيد أو نعم."
+          }
+        ]
       },
       {
         "sentence": "Do not be afraid of failing.",
-        "explanation": {
+        "ar": "لا تخف من الفشل.",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذا الجزء طلب أو توجيه مباشر، لذلك لا نعامله كزمن فعلي مستقل."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Do",
+            "description": "تبدأ هنا صيغة نهي أو نصيحة بعدم فعل شيء."
+          },
+          {
+            "term": "not",
+            "description": "أداة نفي."
+          },
+          {
+            "term": "be",
+            "description": "تعني كن أو تكون، وتأتي هنا ضمن نصيحة بعدم الخوف."
+          },
+          {
+            "term": "afraid",
+            "description": "صفة تعني خائف أو قلق."
+          },
+          {
+            "term": "of",
+            "description": "حرف جر يربط بين اسمين وغالبًا يعني من أو الخاص بـ حسب السياق."
+          },
+          {
+            "term": "failing",
+            "description": "تعني الفشل أو عدم النجاح في المحاولة."
+          }
+        ]
       },
       {
         "sentence": "Every great actor started somewhere.",
-        "explanation": {
+        "ar": "كل ممثل عظيم بدأ من مكان ما.",
+        "grammar": {
           "tense": "الماضي البسيط",
           "tenseEn": "Past Simple",
           "reason": "استُعمل الماضي البسيط لأن هذا الجزء يتحدث عن حدث أو حالة في الماضي."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Every",
+            "description": "كلمة تعني كل."
+          },
+          {
+            "term": "great",
+            "description": "صفة تعني عظيم أو بارع، وتصف جودة الممثل."
+          },
+          {
+            "term": "actor",
+            "description": "اسم يعني ممثل."
+          },
+          {
+            "term": "started",
+            "description": "فعل يعني بدأ."
+          },
+          {
+            "term": "somewhere",
+            "description": "تعني في مكان ما أو من نقطة بداية غير محددة."
+          }
+        ]
       }
     ],
     "examples": [

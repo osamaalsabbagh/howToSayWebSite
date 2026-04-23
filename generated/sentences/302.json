@@ -7,44 +7,45 @@
     "context": "ذكر وجود كتب على سطح معين."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "There",
-        "description": "تستخدم لبدء جملة تدل على وجود شيء."
-      },
-      {
-        "term": "are",
-        "description": "تستخدم مع الجمع للدلالة على وجود أشياء."
-      },
-      {
-        "term": "some",
-        "description": "بعض أو عدد غير محدد."
-      },
-      {
-        "term": "books",
-        "description": "كتب، أشياء للقراءة."
-      },
-      {
-        "term": "on",
-        "description": "على سطح شيء."
-      },
-      {
-        "term": "the",
-        "description": "أداة تشير إلى طاولة محددة."
-      },
-      {
-        "term": "table",
-        "description": "طاولة أو منضدة."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "There are some books on the table.",
-        "explanation": {
+        "ar": "هناك بعض الكتب على الطاولة.",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "تستخدم There are للدلالة على وجود أشياء جمع في الحاضر، وon the table يحدد مكانها على سطح الطاولة."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "There",
+            "description": "تستخدم لبدء جملة تدل على وجود شيء."
+          },
+          {
+            "term": "are",
+            "description": "تستخدم مع الجمع للدلالة على وجود أشياء."
+          },
+          {
+            "term": "some",
+            "description": "بعض أو عدد غير محدد."
+          },
+          {
+            "term": "books",
+            "description": "كتب، أشياء للقراءة."
+          },
+          {
+            "term": "on",
+            "description": "على سطح شيء."
+          },
+          {
+            "term": "the",
+            "description": "أداة تشير إلى طاولة محددة."
+          },
+          {
+            "term": "table",
+            "description": "طاولة أو منضدة."
+          }
+        ]
       }
     ],
     "examples": [

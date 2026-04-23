@@ -7,60 +7,61 @@
     "context": "الإشارة إلى الفنان الذي أنجز معظم اللوحات"
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Yes",
-        "description": "كلمة تأكيد أو موافقة."
-      },
-      {
-        "term": "and",
-        "description": "حرف عطف يضيف معلومة."
-      },
-      {
-        "term": "the",
-        "description": "أداة تعريف لفنان محدد."
-      },
-      {
-        "term": "artist",
-        "description": "فنان."
-      },
-      {
-        "term": "over",
-        "description": "تأتي هنا مع there للإشارة إلى مكان أبعد قليلًا."
-      },
-      {
-        "term": "there",
-        "description": "هناك، أي في ذلك المكان."
-      },
-      {
-        "term": "painted",
-        "description": "صيغة ماضية تعني رسم أو لوّن."
-      },
-      {
-        "term": "most",
-        "description": "تعني معظم أو أغلب."
-      },
-      {
-        "term": "of",
-        "description": "يربط الكمية بالأعمال."
-      },
-      {
-        "term": "these",
-        "description": "اسم إشارة للجمع القريب."
-      },
-      {
-        "term": "works",
-        "description": "أعمال فنية."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "Yes, and the artist over there painted most of these works.",
-        "explanation": {
+        "ar": "نعم، والفنان هناك رسم معظم هذه الأعمال.",
+        "grammar": {
           "tense": "الماضي البسيط",
           "tenseEn": "Past Simple",
           "reason": "استُعمل الماضي البسيط لأن رسم الأعمال حدث مكتمل قبل وقت الحديث."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Yes",
+            "description": "كلمة تأكيد أو موافقة."
+          },
+          {
+            "term": "and",
+            "description": "حرف عطف يضيف معلومة."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف لفنان محدد."
+          },
+          {
+            "term": "artist",
+            "description": "فنان."
+          },
+          {
+            "term": "over",
+            "description": "تأتي هنا مع there للإشارة إلى مكان أبعد قليلًا."
+          },
+          {
+            "term": "there",
+            "description": "هناك، أي في ذلك المكان."
+          },
+          {
+            "term": "painted",
+            "description": "صيغة ماضية تعني رسم أو لوّن."
+          },
+          {
+            "term": "most",
+            "description": "تعني معظم أو أغلب."
+          },
+          {
+            "term": "of",
+            "description": "يربط الكمية بالأعمال."
+          },
+          {
+            "term": "these",
+            "description": "اسم إشارة للجمع القريب."
+          },
+          {
+            "term": "works",
+            "description": "أعمال فنية."
+          }
+        ]
       }
     ],
     "examples": [

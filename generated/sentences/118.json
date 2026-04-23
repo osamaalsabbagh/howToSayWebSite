@@ -7,28 +7,29 @@
     "context": "للتعبير عن قبول الشيء كما هو، بنبرة هادئة أقل حماسًا من كلمة okay."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "That",
-        "description": "ذلك الشيء أو الوضع الذي يتحدث عنه الشخص."
-      },
-      {
-        "term": "is",
-        "description": "صيغة تأتي مع المفرد وتربط الشيء بحالته أو تقييمه."
-      },
-      {
-        "term": "alright",
-        "description": "مقبول أو لا بأس به، بنبرة هادئة."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "That is alright.",
-        "explanation": {
+        "ar": "ذلك تمام.",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "تستخدم is لوصف قبول الشيء أو الوضع الحالي كما هو، وكلمة alright تعطي قبولًا هادئًا لا حماسًا قويًا."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "That",
+            "description": "ذلك الشيء أو الوضع الذي يتحدث عنه الشخص."
+          },
+          {
+            "term": "is",
+            "description": "صيغة تأتي مع المفرد وتربط الشيء بحالته أو تقييمه."
+          },
+          {
+            "term": "alright",
+            "description": "مقبول أو لا بأس به، بنبرة هادئة."
+          }
+        ]
       }
     ],
     "examples": [

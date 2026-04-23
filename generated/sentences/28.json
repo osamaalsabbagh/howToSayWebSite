@@ -7,40 +7,41 @@
     "context": "تحدث عن ضعف مهارات اللغة."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "I",
-        "description": "ضمير المتكلم ويشير إلى الشخص الذي يتحدث."
-      },
-      {
-        "term": "do",
-        "description": "تساعد هنا على تكوين النفي في المضارع مع I."
-      },
-      {
-        "term": "not",
-        "description": "كلمة نفي تجعل المعنى لا أتحدث."
-      },
-      {
-        "term": "speak",
-        "description": "أتحدث أو أتكلم بلغة أو مع شخص."
-      },
-      {
-        "term": "very",
-        "description": "كلمة تقوي المعنى، وهنا تنفي الوصول إلى درجة جيدة."
-      },
-      {
-        "term": "well",
-        "description": "بشكل جيد أو بمهارة مناسبة."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "I do not speak very well.",
-        "explanation": {
+        "ar": "لا أتحدث بشكل جيد.",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "تستخدم الجملة المضارع البسيط لوصف قدرة أو مستوى عام في الحديث، ويأتي do not لنفي الفعل speak."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير المتكلم ويشير إلى الشخص الذي يتحدث."
+          },
+          {
+            "term": "do",
+            "description": "تساعد هنا على تكوين النفي في المضارع مع I."
+          },
+          {
+            "term": "not",
+            "description": "كلمة نفي تجعل المعنى لا أتحدث."
+          },
+          {
+            "term": "speak",
+            "description": "أتحدث أو أتكلم بلغة أو مع شخص."
+          },
+          {
+            "term": "very",
+            "description": "كلمة تقوي المعنى، وهنا تنفي الوصول إلى درجة جيدة."
+          },
+          {
+            "term": "well",
+            "description": "بشكل جيد أو بمهارة مناسبة."
+          }
+        ]
       }
     ],
     "examples": [

@@ -7,28 +7,29 @@
     "context": "عبّر عن شعور بالسعادة."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "I",
-        "description": "ضمير المتكلم المفرد."
-      },
-      {
-        "term": "am",
-        "description": "صيغة تأتي مع ضمير المتكلم المفرد للتعبير عن الشعور الحالي."
-      },
-      {
-        "term": "happy",
-        "description": "سعيد أو يشعر بالفرح."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "I am happy.",
-        "explanation": {
+        "ar": "أنا سعيد.",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "الجملة تصف شعور المتكلم الحالي بالسعادة."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير المتكلم المفرد."
+          },
+          {
+            "term": "am",
+            "description": "صيغة تأتي مع ضمير المتكلم المفرد للتعبير عن الشعور الحالي."
+          },
+          {
+            "term": "happy",
+            "description": "سعيد أو يشعر بالفرح."
+          }
+        ]
       }
     ],
     "examples": [

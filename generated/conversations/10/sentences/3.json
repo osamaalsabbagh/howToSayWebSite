@@ -7,44 +7,45 @@
     "context": "الزبون يستفسر بلطف إذا كان بالإمكان رؤية الشقة الآن."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Is",
-        "description": "صيغة تبدأ سؤالًا عن حالة أو إمكانية."
-      },
-      {
-        "term": "it",
-        "description": "ضمير يعود على رؤية الشقة الآن."
-      },
-      {
-        "term": "possible",
-        "description": "تعني ممكنًا أو قابلًا للحدوث."
-      },
-      {
-        "term": "to",
-        "description": "تأتي قبل الفعل بعد possible."
-      },
-      {
-        "term": "see",
-        "description": "تعني رؤية أو معاينة."
-      },
-      {
-        "term": "it",
-        "description": "ضمير يعود على الشقة."
-      },
-      {
-        "term": "now",
-        "description": "الآن، في هذه اللحظة."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "Is it possible to see it now?",
-        "explanation": {
+        "ar": "هل من الممكن رؤيتها الآن؟",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "استُعمل المضارع البسيط للسؤال عن إمكانية حالية: هل المعاينة ممكنة الآن؟"
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Is",
+            "description": "صيغة تبدأ سؤالًا عن حالة أو إمكانية."
+          },
+          {
+            "term": "it",
+            "description": "ضمير يعود على رؤية الشقة الآن."
+          },
+          {
+            "term": "possible",
+            "description": "تعني ممكنًا أو قابلًا للحدوث."
+          },
+          {
+            "term": "to",
+            "description": "تأتي قبل الفعل بعد possible."
+          },
+          {
+            "term": "see",
+            "description": "تعني رؤية أو معاينة."
+          },
+          {
+            "term": "it",
+            "description": "ضمير يعود على الشقة."
+          },
+          {
+            "term": "now",
+            "description": "الآن، في هذه اللحظة."
+          }
+        ]
       }
     ],
     "examples": [

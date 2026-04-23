@@ -7,28 +7,29 @@
     "context": "قدم شيئًا أو أشِر إليه."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Here",
-        "description": "هنا أو ها، وتستخدم عند تقديم شيء قريب."
-      },
-      {
-        "term": "it",
-        "description": "هو أو الشيء المقصود."
-      },
-      {
-        "term": "is",
-        "description": "تربط الإشارة بالشيء الموجود الآن."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "Here it is.",
-        "explanation": {
+        "ar": "ها هو.",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذه عبارة تقديم أو إشارة ثابتة تستخدم عند إعطاء شيء أو إظهاره، ولا يكون التركيز فيها على زمن مستقل."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Here",
+            "description": "هنا أو ها، وتستخدم عند تقديم شيء قريب."
+          },
+          {
+            "term": "it",
+            "description": "هو أو الشيء المقصود."
+          },
+          {
+            "term": "is",
+            "description": "تربط الإشارة بالشيء الموجود الآن."
+          }
+        ]
       }
     ],
     "examples": [

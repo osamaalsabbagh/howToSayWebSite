@@ -7,36 +7,37 @@
     "context": "اطلب تعبئة نموذج."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Please",
-        "description": "كلمة تجعل الطلب مهذبًا."
-      },
-      {
-        "term": "fill",
-        "description": "جزء من تعبير يعني تعبئة الخانات بالمعلومات."
-      },
-      {
-        "term": "out",
-        "description": "جزء من التعبير الذي يعني إكمال نموذج بالمعلومات."
-      },
-      {
-        "term": "this",
-        "description": "هذا، وتشير إلى شيء قريب أو مقدم للمخاطب."
-      },
-      {
-        "term": "form",
-        "description": "نموذج أو ورقة تحتوي على خانات للمعلومات."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "Please fill out this form.",
-        "explanation": {
+        "ar": "يرجى تعبئة هذا النموذج.",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذه صيغة طلب مهذب، والتعبير fill out يعني تعبئة النموذج بالمعلومات، ولا تحمل الجملة زمنًا مستقلًا."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Please",
+            "description": "كلمة تجعل الطلب مهذبًا."
+          },
+          {
+            "term": "fill",
+            "description": "جزء من تعبير يعني تعبئة الخانات بالمعلومات."
+          },
+          {
+            "term": "out",
+            "description": "جزء من التعبير الذي يعني إكمال نموذج بالمعلومات."
+          },
+          {
+            "term": "this",
+            "description": "هذا، وتشير إلى شيء قريب أو مقدم للمخاطب."
+          },
+          {
+            "term": "form",
+            "description": "نموذج أو ورقة تحتوي على خانات للمعلومات."
+          }
+        ]
       }
     ],
     "examples": [

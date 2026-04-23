@@ -7,60 +7,61 @@
     "context": "الزبون يوضح إعجابه بالشقة بعد رؤية الصور."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "I",
-        "description": "ضمير المتكلم المفرد."
-      },
-      {
-        "term": "have",
-        "description": "تساعد هنا في تكوين معنى خبرة أو رؤية حدثت قبل الآن وما زال أثرها حاضرًا."
-      },
-      {
-        "term": "not",
-        "description": "أداة نفي تجعل المعنى أن الرؤية لم تحدث."
-      },
-      {
-        "term": "seen",
-        "description": "رأيت أو شاهدت."
-      },
-      {
-        "term": "anything",
-        "description": "أي شيء، وتأتي هنا بعد النفي لتقوية معنى عدم وجود مثال مشابه."
-      },
-      {
-        "term": "like",
-        "description": "تعني مثل أو شبيه، وليست بمعنى الإعجاب هنا."
-      },
-      {
-        "term": "this",
-        "description": "تشير إلى شيء قريب أو حاضر في الحديث."
-      },
-      {
-        "term": "apartment",
-        "description": "شقة أو مسكن داخل مبنى."
-      },
-      {
-        "term": "in",
-        "description": "داخل مكان أو نطاق معين."
-      },
-      {
-        "term": "the",
-        "description": "أداة تعريف تدل على منطقة معروفة في الحديث."
-      },
-      {
-        "term": "area",
-        "description": "منطقة أو مكان محدد."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "I have not seen anything like this apartment in the area.",
-        "explanation": {
+        "ar": "لم أرَ شيئًا مثل هذه الشقة في المنطقة.",
+        "grammar": {
           "tense": "المضارع التام",
           "tenseEn": "Present Perfect",
           "reason": "استُخدم هذا الزمن للحديث عن خبرة المتكلم حتى الآن؛ فهو لم يرَ قبل لحظة الكلام شيئًا مشابهًا في تلك المنطقة."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير المتكلم المفرد."
+          },
+          {
+            "term": "have",
+            "description": "تساعد هنا في تكوين معنى خبرة أو رؤية حدثت قبل الآن وما زال أثرها حاضرًا."
+          },
+          {
+            "term": "not",
+            "description": "أداة نفي تجعل المعنى أن الرؤية لم تحدث."
+          },
+          {
+            "term": "seen",
+            "description": "رأيت أو شاهدت."
+          },
+          {
+            "term": "anything",
+            "description": "أي شيء، وتأتي هنا بعد النفي لتقوية معنى عدم وجود مثال مشابه."
+          },
+          {
+            "term": "like",
+            "description": "تعني مثل أو شبيه، وليست بمعنى الإعجاب هنا."
+          },
+          {
+            "term": "this",
+            "description": "تشير إلى شيء قريب أو حاضر في الحديث."
+          },
+          {
+            "term": "apartment",
+            "description": "شقة أو مسكن داخل مبنى."
+          },
+          {
+            "term": "in",
+            "description": "داخل مكان أو نطاق معين."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف تدل على منطقة معروفة في الحديث."
+          },
+          {
+            "term": "area",
+            "description": "منطقة أو مكان محدد."
+          }
+        ]
       }
     ],
     "examples": [

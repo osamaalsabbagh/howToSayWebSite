@@ -7,28 +7,29 @@
     "context": "اشكر آنسة بأدب."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Thank",
-        "description": "أشكر، وتأتي هنا ضمن تعبير شكر."
-      },
-      {
-        "term": "you",
-        "description": "ضمير يشير إلى الشخص الذي أشكره."
-      },
-      {
-        "term": "miss",
-        "description": "آنسة، لقب مهذب لمخاطبة امرأة أو فتاة."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "Thank you miss.",
-        "explanation": {
+        "ar": "شكرًا آنسة.",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذا تعبير شكر مهذب مع لقب للمخاطبة، ولا يستخدم كجملة بزمن مستقل."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Thank",
+            "description": "أشكر، وتأتي هنا ضمن تعبير شكر."
+          },
+          {
+            "term": "you",
+            "description": "ضمير يشير إلى الشخص الذي أشكره."
+          },
+          {
+            "term": "miss",
+            "description": "آنسة، لقب مهذب لمخاطبة امرأة أو فتاة."
+          }
+        ]
       }
     ],
     "examples": [

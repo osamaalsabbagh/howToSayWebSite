@@ -7,48 +7,49 @@
     "context": "الكتاب موجود فوق الطاولة وظاهر بالكامل، بغض النظر عما إذا كان تحته أشياء أخرى، المهم ألا يكون مغطى أو مخفيًا."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "The",
-        "description": "أداة تشير إلى كتاب محدد معروف من السياق."
-      },
-      {
-        "term": "book",
-        "description": "كتاب أو شيء للقراءة."
-      },
-      {
-        "term": "is",
-        "description": "تربط الكتاب بمكانه الحالي."
-      },
-      {
-        "term": "on",
-        "description": "جزء من عبارة on top of التي تعني فوق."
-      },
-      {
-        "term": "top",
-        "description": "الأعلى أو السطح العلوي ضمن عبارة فوق."
-      },
-      {
-        "term": "of",
-        "description": "تربط عبارة on top بالشيء الذي يقع الكتاب فوقه."
-      },
-      {
-        "term": "the",
-        "description": "أداة تشير إلى طاولة محددة."
-      },
-      {
-        "term": "table",
-        "description": "طاولة أو منضدة."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "The book is on top of the table.",
-        "explanation": {
+        "ar": "الكتاب في أعلى الطاولة.",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "تستخدم الجملة is لوصف مكان الكتاب الحالي، وon top of تؤكد أنه فوق سطح الطاولة وظاهر عليها."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "The",
+            "description": "أداة تشير إلى كتاب محدد معروف من السياق."
+          },
+          {
+            "term": "book",
+            "description": "كتاب أو شيء للقراءة."
+          },
+          {
+            "term": "is",
+            "description": "تربط الكتاب بمكانه الحالي."
+          },
+          {
+            "term": "on",
+            "description": "جزء من عبارة on top of التي تعني فوق."
+          },
+          {
+            "term": "top",
+            "description": "الأعلى أو السطح العلوي ضمن عبارة فوق."
+          },
+          {
+            "term": "of",
+            "description": "تربط عبارة on top بالشيء الذي يقع الكتاب فوقه."
+          },
+          {
+            "term": "the",
+            "description": "أداة تشير إلى طاولة محددة."
+          },
+          {
+            "term": "table",
+            "description": "طاولة أو منضدة."
+          }
+        ]
       }
     ],
     "examples": [

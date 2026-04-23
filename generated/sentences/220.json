@@ -7,24 +7,25 @@
     "context": "اشرح كمية صغيرة من أشياء معدودة."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "A",
-        "description": "جزء من التعبير ويأتي قبل الكمية الصغيرة."
-      },
-      {
-        "term": "few",
-        "description": "قليل من أشياء يمكن عدها."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "A few.",
-        "explanation": {
+        "ar": "القليل.",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذه عبارة كمية قصيرة وليست جملة كاملة بفعل، وتستخدم مع الأشياء المعدودة مثل كتب أو أيام أو أشخاص."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "A",
+            "description": "جزء من التعبير ويأتي قبل الكمية الصغيرة."
+          },
+          {
+            "term": "few",
+            "description": "قليل من أشياء يمكن عدها."
+          }
+        ]
       }
     ],
     "examples": [

@@ -7,32 +7,33 @@
     "context": "تحديد الطابق داخل مبنى."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "On",
-        "description": "تستخدم هنا لتحديد الطابق داخل مبنى."
-      },
-      {
-        "term": "the",
-        "description": "أداة تشير إلى طابق محدد."
-      },
-      {
-        "term": "second",
-        "description": "الثاني في الترتيب."
-      },
-      {
-        "term": "floor",
-        "description": "طابق داخل مبنى."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "On the second floor.",
-        "explanation": {
+        "ar": "في الطابق الثاني.",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذا تعبير مكاني قصير يحدد الطابق داخل مبنى، ولا يحتوي على فعل ظاهر أو زمن مستقل."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "On",
+            "description": "تستخدم هنا لتحديد الطابق داخل مبنى."
+          },
+          {
+            "term": "the",
+            "description": "أداة تشير إلى طابق محدد."
+          },
+          {
+            "term": "second",
+            "description": "الثاني في الترتيب."
+          },
+          {
+            "term": "floor",
+            "description": "طابق داخل مبنى."
+          }
+        ]
       }
     ],
     "examples": [

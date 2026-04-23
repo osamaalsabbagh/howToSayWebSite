@@ -7,48 +7,49 @@
     "context": "اطلب تحديد موعد."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Can",
-        "description": "تستخدم في بداية السؤال لطلب الإذن أو الإمكانية بأدب."
-      },
-      {
-        "term": "I",
-        "description": "أنا، وتشير إلى المتكلم."
-      },
-      {
-        "term": "make",
-        "description": "أحدد أو أرتب، وتستخدم هنا مع الموعد."
-      },
-      {
-        "term": "an",
-        "description": "أداة تدل على شيء واحد غير محدد قبل كلمة تبدأ بصوت علة."
-      },
-      {
-        "term": "appointment",
-        "description": "موعد مرتب مسبقًا للقاء أو خدمة."
-      },
-      {
-        "term": "for",
-        "description": "تستخدم هنا لربط الموعد باليوم المطلوب."
-      },
-      {
-        "term": "next",
-        "description": "القادم أو التالي."
-      },
-      {
-        "term": "Wednesday",
-        "description": "يوم الأربعاء."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "Can I make an appointment for next Wednesday?",
-        "explanation": {
+        "ar": "هل يمكنني تحديد موعد يوم الأربعاء القادم؟",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذه صيغة سؤال مهذب باستخدام فعل يدل على الإمكانية أو الإذن، والفعل بعده يأتي بصيغته الأساسية، لذلك الأفضل شرحها كتركيب طلب لا كزمن مستقل."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Can",
+            "description": "تستخدم في بداية السؤال لطلب الإذن أو الإمكانية بأدب."
+          },
+          {
+            "term": "I",
+            "description": "أنا، وتشير إلى المتكلم."
+          },
+          {
+            "term": "make",
+            "description": "أحدد أو أرتب، وتستخدم هنا مع الموعد."
+          },
+          {
+            "term": "an",
+            "description": "أداة تدل على شيء واحد غير محدد قبل كلمة تبدأ بصوت علة."
+          },
+          {
+            "term": "appointment",
+            "description": "موعد مرتب مسبقًا للقاء أو خدمة."
+          },
+          {
+            "term": "for",
+            "description": "تستخدم هنا لربط الموعد باليوم المطلوب."
+          },
+          {
+            "term": "next",
+            "description": "القادم أو التالي."
+          },
+          {
+            "term": "Wednesday",
+            "description": "يوم الأربعاء."
+          }
+        ]
       }
     ],
     "examples": [

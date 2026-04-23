@@ -7,56 +7,57 @@
     "context": "الموظف يصف مواصفات الشقة."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "It",
-        "description": "ضمير يعود على الشقة."
-      },
-      {
-        "term": "has",
-        "description": "تعني تحتوي على أو فيها."
-      },
-      {
-        "term": "one",
-        "description": "عدد يعني واحد."
-      },
-      {
-        "term": "bedroom",
-        "description": "غرفة نوم."
-      },
-      {
-        "term": "a",
-        "description": "أداة نكرة قبل اسم مفرد."
-      },
-      {
-        "term": "small",
-        "description": "صفة تعني صغيرًا."
-      },
-      {
-        "term": "kitchen",
-        "description": "مطبخ."
-      },
-      {
-        "term": "and",
-        "description": "حرف عطف يربط بين عناصر القائمة."
-      },
-      {
-        "term": "a",
-        "description": "أداة نكرة قبل اسم مفرد."
-      },
-      {
-        "term": "balcony",
-        "description": "شرفة."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "It has one bedroom, a small kitchen, and a balcony.",
-        "explanation": {
+        "ar": "فيها غرفة نوم واحدة، ومطبخ صغير، وشرفة.",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "استُعمل المضارع البسيط لوصف مكونات الشقة الحالية."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "It",
+            "description": "ضمير يعود على الشقة."
+          },
+          {
+            "term": "has",
+            "description": "تعني تحتوي على أو فيها."
+          },
+          {
+            "term": "one",
+            "description": "عدد يعني واحد."
+          },
+          {
+            "term": "bedroom",
+            "description": "غرفة نوم."
+          },
+          {
+            "term": "a",
+            "description": "أداة نكرة قبل اسم مفرد."
+          },
+          {
+            "term": "small",
+            "description": "صفة تعني صغيرًا."
+          },
+          {
+            "term": "kitchen",
+            "description": "مطبخ."
+          },
+          {
+            "term": "and",
+            "description": "حرف عطف يربط بين عناصر القائمة."
+          },
+          {
+            "term": "a",
+            "description": "أداة نكرة قبل اسم مفرد."
+          },
+          {
+            "term": "balcony",
+            "description": "شرفة."
+          }
+        ]
       }
     ],
     "examples": [

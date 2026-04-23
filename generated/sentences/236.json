@@ -7,40 +7,41 @@
     "context": "حدد حالتك الاجتماعية."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "I",
-        "description": "أنا، وتشير إلى المتكلم."
-      },
-      {
-        "term": "do",
-        "description": "تستخدم مع النفي لتكوين جملة منفية في الحاضر."
-      },
-      {
-        "term": "not",
-        "description": "لا، وتدل على النفي."
-      },
-      {
-        "term": "have",
-        "description": "لدي أو أملك."
-      },
-      {
-        "term": "a",
-        "description": "أداة تدل على شخص واحد غير محدد."
-      },
-      {
-        "term": "girlfriend",
-        "description": "صديقة عاطفية."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "I do not have a girlfriend.",
-        "explanation": {
+        "ar": "ليس لدي صديقة.",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "يستخدم المضارع البسيط المنفي للتعبير عن حالة حالية أو عامة، وهي أن المتكلم لا يملك علاقة عاطفية من هذا النوع."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "أنا، وتشير إلى المتكلم."
+          },
+          {
+            "term": "do",
+            "description": "تستخدم مع النفي لتكوين جملة منفية في الحاضر."
+          },
+          {
+            "term": "not",
+            "description": "لا، وتدل على النفي."
+          },
+          {
+            "term": "have",
+            "description": "لدي أو أملك."
+          },
+          {
+            "term": "a",
+            "description": "أداة تدل على شخص واحد غير محدد."
+          },
+          {
+            "term": "girlfriend",
+            "description": "صديقة عاطفية."
+          }
+        ]
       }
     ],
     "examples": [

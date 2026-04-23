@@ -5,5 +5,98 @@
     "en": "I will teach you.",
     "ar": "سأعلّمك.",
     "context": "عرض المساعدة في التعليم."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "I will teach you.",
+        "ar": "سأعلّمك.",
+        "grammar": {
+          "tense": "المستقبل البسيط",
+          "tenseEn": "Future Simple",
+          "reason": "will teach يعبر عن عرض أو وعد بفعل التعليم في المستقبل."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير يشير إلى المتكلم."
+          },
+          {
+            "term": "will",
+            "description": "كلمة تدل على وعد أو فعل مستقبلي."
+          },
+          {
+            "term": "teach",
+            "description": "يعني أشرح أو أعلم شخصًا شيئًا."
+          },
+          {
+            "term": "you",
+            "description": "ضمير يشير إلى الشخص المخاطب."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I will help you.",
+        "ar": "سأساعدك.",
+        "context": "تستخدم لعرض المساعدة."
+      },
+      {
+        "id": 2,
+        "en": "I will teach you English.",
+        "ar": "سأعلمك الإنجليزية.",
+        "context": "تستخدم عند عرض تعليم لغة."
+      },
+      {
+        "id": 3,
+        "en": "She will teach the class tomorrow.",
+        "ar": "ستعلم الصف غدًا.",
+        "context": "تستخدم للحديث عن درس قادم."
+      },
+      {
+        "id": 4,
+        "en": "I will show you the answer.",
+        "ar": "سأريك الإجابة.",
+        "context": "تستخدم عند شرح شيء لشخص."
+      },
+      {
+        "id": 5,
+        "en": "He will teach me how to cook.",
+        "ar": "سيعلمني كيف أطبخ.",
+        "context": "تستخدم عند تعلم مهارة."
+      },
+      {
+        "id": 6,
+        "en": "We will teach them the rules.",
+        "ar": "سنعلمهم القواعد.",
+        "context": "تستخدم عند شرح قواعد للآخرين."
+      },
+      {
+        "id": 7,
+        "en": "I will explain it to you.",
+        "ar": "سأشرحه لك.",
+        "context": "تستخدم عندما يحتاج شخص إلى توضيح."
+      },
+      {
+        "id": 8,
+        "en": "The trainer will teach us today.",
+        "ar": "سيعلمنا المدرب اليوم.",
+        "context": "تستخدم في سياق تدريب."
+      },
+      {
+        "id": 9,
+        "en": "I will teach you step by step.",
+        "ar": "سأعلمك خطوة بخطوة.",
+        "context": "تستخدم عند الوعد بشرح تدريجي."
+      },
+      {
+        "id": 10,
+        "en": "They will teach the children music.",
+        "ar": "سيعلمون الأطفال الموسيقى.",
+        "context": "تستخدم لوصف درس أو نشاط تعليمي."
+      }
+    ]
   }
 }

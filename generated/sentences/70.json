@@ -7,48 +7,52 @@
     "context": "عبّر عن الاستغراب من السعر."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "I",
-        "description": "ضمير المتكلم ويشير إلى الشخص الذي يتحدث."
-      },
-      {
-        "term": "thought",
-        "description": "اعتقدت أو ظننت في الماضي."
-      },
-      {
-        "term": "the",
-        "description": "أداة تشير إلى ملابس محددة معروفة من السياق."
-      },
-      {
-        "term": "clothes",
-        "description": "ملابس أو قطع ملبوسة."
-      },
-      {
-        "term": "were",
-        "description": "صيغة ماضية تربط الجمع بوصفه."
-      },
-      {
-        "term": "cheaper",
-        "description": "أرخص أو أقل سعرًا من المتوقع أو من شيء آخر."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "I thought",
-        "explanation": {
+        "ar": "اعتقدت أن الملابس كانت أرخص.",
+        "grammar": {
           "tense": "الماضي البسيط",
           "tenseEn": "Past Simple",
           "reason": "تستخدم thought في الماضي البسيط للتعبير عن اعتقاد سابق تغيّر أو ظهر أنه غير مطابق للتوقع."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير المتكلم ويشير إلى الشخص الذي يتحدث."
+          },
+          {
+            "term": "thought",
+            "description": "اعتقدت أو ظننت في الماضي."
+          }
+        ]
       },
       {
         "sentence": "the clothes were cheaper",
-        "explanation": {
+        "ar": "اعتقدت أن الملابس كانت أرخص.",
+        "grammar": {
           "tense": "الماضي البسيط",
           "tenseEn": "Past Simple",
           "reason": "تستخدم were لوصف توقع سابق عن سعر الملابس، وتأتي cheaper للمقارنة مع السعر الحقيقي أو المتوقع."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "the",
+            "description": "أداة تشير إلى ملابس محددة معروفة من السياق."
+          },
+          {
+            "term": "clothes",
+            "description": "ملابس أو قطع ملبوسة."
+          },
+          {
+            "term": "were",
+            "description": "صيغة ماضية تربط الجمع بوصفه."
+          },
+          {
+            "term": "cheaper",
+            "description": "أرخص أو أقل سعرًا من المتوقع أو من شيء آخر."
+          }
+        ]
       }
     ],
     "examples": [

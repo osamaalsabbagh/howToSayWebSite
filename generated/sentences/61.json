@@ -7,28 +7,29 @@
     "context": "عبّر عن الحاجة للشرب."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "I",
-        "description": "ضمير المتكلم ويشير إلى الشخص الذي يتحدث."
-      },
-      {
-        "term": "am",
-        "description": "صيغة تأتي مع ضمير المتكلم المفرد وتربط الشخص بحالته."
-      },
-      {
-        "term": "thirsty",
-        "description": "عطشان أو يحتاج إلى الشرب."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "I am thirsty.",
-        "explanation": {
+        "ar": "أنا عطشان.",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "تستخدم الجملة am مع صفة لوصف حالة المتكلم الحالية، وهي الحاجة إلى الشرب."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير المتكلم ويشير إلى الشخص الذي يتحدث."
+          },
+          {
+            "term": "am",
+            "description": "صيغة تأتي مع ضمير المتكلم المفرد وتربط الشخص بحالته."
+          },
+          {
+            "term": "thirsty",
+            "description": "عطشان أو يحتاج إلى الشرب."
+          }
+        ]
       }
     ],
     "examples": [

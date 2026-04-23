@@ -7,44 +7,45 @@
     "context": "اذكر منذ متى وأنت هنا."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "I",
-        "description": "ضمير المتكلم ويشير إلى الشخص الذي يتحدث."
-      },
-      {
-        "term": "have",
-        "description": "تساعد هنا على تكوين معنى بدأ في الماضي وما زال مستمرًا."
-      },
-      {
-        "term": "been",
-        "description": "تدل هنا على الوجود أو البقاء في مكان."
-      },
-      {
-        "term": "here",
-        "description": "هنا، أي في المكان الحالي."
-      },
-      {
-        "term": "for",
-        "description": "تستخدم مع مدة زمنية كاملة."
-      },
-      {
-        "term": "two",
-        "description": "العدد اثنان."
-      },
-      {
-        "term": "days",
-        "description": "أيام، وهي مدة زمنية."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "I have been here for two days.",
-        "explanation": {
+        "ar": "أنا هنا منذ يومين.",
+        "grammar": {
           "tense": "المضارع التام",
           "tenseEn": "Present Perfect",
           "reason": "تستخدم have been للتعبير عن حالة بدأت في الماضي وما زالت صحيحة الآن، وكلمة for تأتي مع مدة البقاء وهي يومان."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير المتكلم ويشير إلى الشخص الذي يتحدث."
+          },
+          {
+            "term": "have",
+            "description": "تساعد هنا على تكوين معنى بدأ في الماضي وما زال مستمرًا."
+          },
+          {
+            "term": "been",
+            "description": "تدل هنا على الوجود أو البقاء في مكان."
+          },
+          {
+            "term": "here",
+            "description": "هنا، أي في المكان الحالي."
+          },
+          {
+            "term": "for",
+            "description": "تستخدم مع مدة زمنية كاملة."
+          },
+          {
+            "term": "two",
+            "description": "العدد اثنان."
+          },
+          {
+            "term": "days",
+            "description": "أيام، وهي مدة زمنية."
+          }
+        ]
       }
     ],
     "examples": [

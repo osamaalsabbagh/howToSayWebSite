@@ -7,24 +7,25 @@
     "context": "الإشارة إلى مكان قريب."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Over",
-        "description": "تأتي هنا مع here للإشارة إلى مكان قريب من المتكلم."
-      },
-      {
-        "term": "here",
-        "description": "هنا، أي في المكان القريب من المتكلم."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "Over here.",
-        "explanation": {
+        "ar": "هنا.",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذه عبارة إشارة قصيرة تلفت الانتباه إلى مكان قريب من المتكلم، ولا تحتوي على فعل ظاهر أو زمن مستقل."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Over",
+            "description": "تأتي هنا مع here للإشارة إلى مكان قريب من المتكلم."
+          },
+          {
+            "term": "here",
+            "description": "هنا، أي في المكان القريب من المتكلم."
+          }
+        ]
       }
     ],
     "examples": [

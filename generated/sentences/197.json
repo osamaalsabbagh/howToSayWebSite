@@ -7,40 +7,41 @@
     "context": "اطلب التوصيل إلى المطار."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Please",
-        "description": "من فضلك، وتجعل الطلب مهذبًا."
-      },
-      {
-        "term": "take",
-        "description": "خذ أو أوصل، وتستخدم هنا بمعنى انقلني إلى مكان."
-      },
-      {
-        "term": "me",
-        "description": "إياي أو ني، وتشير إلى المتكلم."
-      },
-      {
-        "term": "to",
-        "description": "إلى، وتربط فعل التوصيل بالوجهة."
-      },
-      {
-        "term": "the",
-        "description": "أداة تشير إلى مطار محدد معروف من السياق."
-      },
-      {
-        "term": "airport",
-        "description": "المطار."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "Please take me to the airport.",
-        "explanation": {
+        "ar": "من فضلك خذني إلى المطار.",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذه جملة أمر مهذبة تطلب من شخص أن يوصلك إلى مكان، والفعل في البداية بصيغته الأساسية ولا يحمل زمنًا مستقلًا."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Please",
+            "description": "من فضلك، وتجعل الطلب مهذبًا."
+          },
+          {
+            "term": "take",
+            "description": "خذ أو أوصل، وتستخدم هنا بمعنى انقلني إلى مكان."
+          },
+          {
+            "term": "me",
+            "description": "إياي أو ني، وتشير إلى المتكلم."
+          },
+          {
+            "term": "to",
+            "description": "إلى، وتربط فعل التوصيل بالوجهة."
+          },
+          {
+            "term": "the",
+            "description": "أداة تشير إلى مطار محدد معروف من السياق."
+          },
+          {
+            "term": "airport",
+            "description": "المطار."
+          }
+        ]
       }
     ],
     "examples": [

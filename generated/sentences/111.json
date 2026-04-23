@@ -7,28 +7,29 @@
     "context": "اشكر شخصًا على كل المساعدة."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Thanks",
-        "description": "شكرًا، وتستخدم للتعبير عن الامتنان."
-      },
-      {
-        "term": "for",
-        "description": "تأتي لذكر سبب الشكر."
-      },
-      {
-        "term": "everything",
-        "description": "كل شيء، أي كل المساعدة أو كل ما فعله الشخص."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "Thanks for everything.",
-        "explanation": {
+        "ar": "شكرًا على كل شيء.",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذا تعبير شكر ثابت يستخدم للامتنان لشخص على كل ما قدمه، ولا يحتوي على فعل ظاهر أو زمن مستقل."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Thanks",
+            "description": "شكرًا، وتستخدم للتعبير عن الامتنان."
+          },
+          {
+            "term": "for",
+            "description": "تأتي لذكر سبب الشكر."
+          },
+          {
+            "term": "everything",
+            "description": "كل شيء، أي كل المساعدة أو كل ما فعله الشخص."
+          }
+        ]
       }
     ],
     "examples": [

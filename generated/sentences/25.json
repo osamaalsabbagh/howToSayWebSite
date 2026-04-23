@@ -7,56 +7,60 @@
     "context": "اعترف بعدم معرفة استخدام شيء."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "I",
-        "description": "ضمير المتكلم ويشير إلى الشخص الذي يتحدث."
-      },
-      {
-        "term": "do",
-        "description": "تساعد هنا على تكوين النفي في المضارع مع I."
-      },
-      {
-        "term": "not",
-        "description": "كلمة نفي تجعل المعنى لا أعرف."
-      },
-      {
-        "term": "know",
-        "description": "أعرف أو أملك معرفة بشيء."
-      },
-      {
-        "term": "how",
-        "description": "تعني الطريقة أو الكيفية."
-      },
-      {
-        "term": "to",
-        "description": "تأتي قبل الفعل لربطه بكلمة how وبيان الطريقة."
-      },
-      {
-        "term": "use",
-        "description": "أستخدم أو أستعمل شيئًا."
-      },
-      {
-        "term": "it",
-        "description": "ضمير يشير إلى شيء معروف من السياق."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "I do not know",
-        "explanation": {
+        "ar": "لا أعرف كيف أستخدمه.",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "تستخدم do not مع الفعل الأساسي للتعبير عن نفي معرفة حالية أو عامة عند المتكلم."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير المتكلم ويشير إلى الشخص الذي يتحدث."
+          },
+          {
+            "term": "do",
+            "description": "تساعد هنا على تكوين النفي في المضارع مع I."
+          },
+          {
+            "term": "not",
+            "description": "كلمة نفي تجعل المعنى لا أعرف."
+          },
+          {
+            "term": "know",
+            "description": "أعرف أو أملك معرفة بشيء."
+          }
+        ]
       },
       {
         "sentence": "how to use it",
-        "explanation": {
+        "ar": "لا أعرف كيف أستخدمه.",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذا جزء يشرح الشيء غير المعروف، وهو طريقة استخدام شيء معين، ولا يحتوي على فعل مصرف بزمن مستقل."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "how",
+            "description": "تعني الطريقة أو الكيفية."
+          },
+          {
+            "term": "to",
+            "description": "تأتي قبل الفعل لربطه بكلمة how وبيان الطريقة."
+          },
+          {
+            "term": "use",
+            "description": "أستخدم أو أستعمل شيئًا."
+          },
+          {
+            "term": "it",
+            "description": "ضمير يشير إلى شيء معروف من السياق."
+          }
+        ]
       }
     ],
     "examples": [

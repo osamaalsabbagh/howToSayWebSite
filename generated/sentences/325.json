@@ -5,5 +5,114 @@
     "en": "I would like to send this to America.",
     "ar": "أود إرسال هذا إلى أمريكا.",
     "context": "طلب إرسال شيء إلى الخارج."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "I would like to send this to America.",
+        "ar": "أود إرسال هذا إلى أمريكا.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "الجملة طلب إرسال مهذب باستخدام would like to، وكلمة this تشير إلى الشيء المراد إرساله، وto America تحدد الوجهة."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "تعني أنا."
+          },
+          {
+            "term": "would",
+            "description": "تجعل الطلب مهذبا."
+          },
+          {
+            "term": "like",
+            "description": "مع would تعني أود."
+          },
+          {
+            "term": "to",
+            "description": "تأتي قبل الفعل send لتكوين معنى أود أن أرسل."
+          },
+          {
+            "term": "send",
+            "description": "تعني أرسل."
+          },
+          {
+            "term": "this",
+            "description": "تعني هذا الشيء القريب أو المشار إليه."
+          },
+          {
+            "term": "to",
+            "description": "تعني إلى وتحدد جهة الإرسال."
+          },
+          {
+            "term": "America",
+            "description": "تعني أمريكا كوجهة للإرسال."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I would like to send this to Canada.",
+        "ar": "أود إرسال هذا إلى كندا.",
+        "context": "تطلب إرسال شيء إلى كندا."
+      },
+      {
+        "id": 2,
+        "en": "I would like to send this to my friend.",
+        "ar": "أود إرسال هذا إلى صديقي.",
+        "context": "تحدد صديقك كجهة استلام."
+      },
+      {
+        "id": 3,
+        "en": "I would like to send this package to America.",
+        "ar": "أود إرسال هذا الطرد إلى أمريكا.",
+        "context": "تطلب شحن طرد إلى أمريكا."
+      },
+      {
+        "id": 4,
+        "en": "I would like to send these papers to the office.",
+        "ar": "أود إرسال هذه الأوراق إلى المكتب.",
+        "context": "تطلب إرسال أوراق إلى مكتب."
+      },
+      {
+        "id": 5,
+        "en": "She would like to send this to her family.",
+        "ar": "هي تود إرسال هذا إلى عائلتها.",
+        "context": "تذكر رغبة امرأة في إرسال شيء لعائلتها."
+      },
+      {
+        "id": 6,
+        "en": "We would like to send this today.",
+        "ar": "نود إرسال هذا اليوم.",
+        "context": "تطلب المجموعة الإرسال في نفس اليوم."
+      },
+      {
+        "id": 7,
+        "en": "I would like to send this by air mail.",
+        "ar": "أود إرسال هذا بالبريد الجوي.",
+        "context": "تحدد طريقة الإرسال."
+      },
+      {
+        "id": 8,
+        "en": "I would like to send this letter to America.",
+        "ar": "أود إرسال هذه الرسالة إلى أمريكا.",
+        "context": "تطلب إرسال رسالة إلى أمريكا."
+      },
+      {
+        "id": 9,
+        "en": "He would like to send this to New York.",
+        "ar": "هو يود إرسال هذا إلى نيويورك.",
+        "context": "تذكر وجهة الإرسال داخل أمريكا."
+      },
+      {
+        "id": 10,
+        "en": "I would like to send this as a gift.",
+        "ar": "أود إرسال هذا كهدية.",
+        "context": "توضح أن الشيء المرسل هدية."
+      }
+    ]
   }
 }

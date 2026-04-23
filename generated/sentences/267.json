@@ -7,36 +7,37 @@
     "context": "أخبر عن مكان شخص."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "He",
-        "description": "ضمير يشير إلى رجل أو ولد."
-      },
-      {
-        "term": "is",
-        "description": "تربط الشخص بمكانه الحالي."
-      },
-      {
-        "term": "in",
-        "description": "داخل مكان أو في نطاقه."
-      },
-      {
-        "term": "the",
-        "description": "أداة تشير إلى مكان محدد يعرفه المتكلم والسامع."
-      },
-      {
-        "term": "kitchen",
-        "description": "المطبخ، وهو مكان إعداد الطعام."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "He is in the kitchen.",
-        "explanation": {
+        "ar": "هو في المطبخ.",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "تستخدم الجملة فعل الربط في الحاضر لوصف مكان الشخص الآن أو في هذا السياق."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "He",
+            "description": "ضمير يشير إلى رجل أو ولد."
+          },
+          {
+            "term": "is",
+            "description": "تربط الشخص بمكانه الحالي."
+          },
+          {
+            "term": "in",
+            "description": "داخل مكان أو في نطاقه."
+          },
+          {
+            "term": "the",
+            "description": "أداة تشير إلى مكان محدد يعرفه المتكلم والسامع."
+          },
+          {
+            "term": "kitchen",
+            "description": "المطبخ، وهو مكان إعداد الطعام."
+          }
+        ]
       }
     ],
     "examples": [

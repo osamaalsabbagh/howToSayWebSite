@@ -7,36 +7,37 @@
     "context": "قل إن المطعم سعره مناسب."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "That",
-        "description": "ذلك، وتشير إلى مطعم محدد."
-      },
-      {
-        "term": "restaurant",
-        "description": "مطعم."
-      },
-      {
-        "term": "is",
-        "description": "صيغة تربط المطعم بوصفه في الحاضر."
-      },
-      {
-        "term": "not",
-        "description": "ليس أو غير، وتدل على النفي."
-      },
-      {
-        "term": "expensive",
-        "description": "غالي أو مرتفع السعر."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "That restaurant is not expensive.",
-        "explanation": {
+        "ar": "ذلك المطعم ليس غاليًا.",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "يستخدم فعل الربط في الحاضر لوصف المطعم الآن أو بشكل عام، والنفي يوضح أن سعره ليس مرتفعًا."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "That",
+            "description": "ذلك، وتشير إلى مطعم محدد."
+          },
+          {
+            "term": "restaurant",
+            "description": "مطعم."
+          },
+          {
+            "term": "is",
+            "description": "صيغة تربط المطعم بوصفه في الحاضر."
+          },
+          {
+            "term": "not",
+            "description": "ليس أو غير، وتدل على النفي."
+          },
+          {
+            "term": "expensive",
+            "description": "غالي أو مرتفع السعر."
+          }
+        ]
       }
     ],
     "examples": [

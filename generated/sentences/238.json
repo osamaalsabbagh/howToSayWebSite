@@ -7,32 +7,33 @@
     "context": "أبلغ عن وجود حجز مسبق."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "I",
-        "description": "أنا، وتشير إلى المتكلم."
-      },
-      {
-        "term": "have",
-        "description": "لدي أو أملك."
-      },
-      {
-        "term": "a",
-        "description": "أداة تدل على شيء واحد غير محدد."
-      },
-      {
-        "term": "reservation",
-        "description": "حجز مسبق في مطعم أو فندق أو خدمة."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "I have a reservation.",
-        "explanation": {
+        "ar": "لدي حجز.",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "يستخدم المضارع البسيط للتعبير عن حالة حالية، وهي أن لدى المتكلم حجزًا موجودًا الآن."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "أنا، وتشير إلى المتكلم."
+          },
+          {
+            "term": "have",
+            "description": "لدي أو أملك."
+          },
+          {
+            "term": "a",
+            "description": "أداة تدل على شيء واحد غير محدد."
+          },
+          {
+            "term": "reservation",
+            "description": "حجز مسبق في مطعم أو فندق أو خدمة."
+          }
+        ]
       }
     ],
     "examples": [

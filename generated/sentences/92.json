@@ -7,24 +7,25 @@
     "context": "وافق بقوة."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Of",
-        "description": "جزء من تعبير ثابت يدل على الموافقة أو التأكيد."
-      },
-      {
-        "term": "course",
-        "description": "جزء من التعبير الذي يعني بالطبع أو أكيد."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "Of course.",
-        "explanation": {
+        "ar": "بالطبع.",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذا تعبير ثابت للموافقة القوية أو التأكيد، ولا يحتوي على فعل ظاهر أو زمن مستقل."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Of",
+            "description": "جزء من تعبير ثابت يدل على الموافقة أو التأكيد."
+          },
+          {
+            "term": "course",
+            "description": "جزء من التعبير الذي يعني بالطبع أو أكيد."
+          }
+        ]
       }
     ],
     "examples": [

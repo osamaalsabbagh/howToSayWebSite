@@ -7,40 +7,41 @@
     "context": "اسأل إن كان شخص سيساعدها."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Are",
-        "description": "تأتي في بداية السؤال مع ضمير المخاطب لتكوين سؤال."
-      },
-      {
-        "term": "you",
-        "description": "أنت، وتشير إلى الشخص المخاطب."
-      },
-      {
-        "term": "going",
-        "description": "جزء من تركيب يدل هنا على نية أو خطة مستقبلية."
-      },
-      {
-        "term": "to",
-        "description": "تربط تركيب النية بالفعل الأساسي بعده."
-      },
-      {
-        "term": "help",
-        "description": "تساعد أو تقدم العون."
-      },
-      {
-        "term": "her",
-        "description": "إياها أو لها، وتشير إلى امرأة أو فتاة."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "Are you going to help her?",
-        "explanation": {
+        "ar": "هل ستساعدها؟",
+        "grammar": {
           "tense": "المستقبل البسيط",
           "tenseEn": "Future Simple",
           "reason": "السؤال يستخدم تركيب النية المستقبلية: هل أنت ذاهب إلى فعل شيء، ومعناه هنا السؤال عن خطة أو نية لمساعدتها لاحقًا."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Are",
+            "description": "تأتي في بداية السؤال مع ضمير المخاطب لتكوين سؤال."
+          },
+          {
+            "term": "you",
+            "description": "أنت، وتشير إلى الشخص المخاطب."
+          },
+          {
+            "term": "going",
+            "description": "جزء من تركيب يدل هنا على نية أو خطة مستقبلية."
+          },
+          {
+            "term": "to",
+            "description": "تربط تركيب النية بالفعل الأساسي بعده."
+          },
+          {
+            "term": "help",
+            "description": "تساعد أو تقدم العون."
+          },
+          {
+            "term": "her",
+            "description": "إياها أو لها، وتشير إلى امرأة أو فتاة."
+          }
+        ]
       }
     ],
     "examples": [

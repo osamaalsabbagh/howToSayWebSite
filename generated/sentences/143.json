@@ -7,32 +7,33 @@
     "context": "امتدح ذكاء شخص."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "You",
-        "description": "ضمير يشير إلى الشخص الذي أتحدث معه."
-      },
-      {
-        "term": "are",
-        "description": "صيغة تربط المخاطب بوصفه أو حالته."
-      },
-      {
-        "term": "very",
-        "description": "كلمة تقوي الصفة وتجعلها بدرجة كبيرة."
-      },
-      {
-        "term": "smart",
-        "description": "ذكي أو سريع الفهم."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "You are very smart.",
-        "explanation": {
+        "ar": "أنت ذكي جدًا.",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "تستخدم are مع المخاطب لوصف صفة عقلية عامة أو حالية، وتأتي very لتقوية معنى الذكاء."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "You",
+            "description": "ضمير يشير إلى الشخص الذي أتحدث معه."
+          },
+          {
+            "term": "are",
+            "description": "صيغة تربط المخاطب بوصفه أو حالته."
+          },
+          {
+            "term": "very",
+            "description": "كلمة تقوي الصفة وتجعلها بدرجة كبيرة."
+          },
+          {
+            "term": "smart",
+            "description": "ذكي أو سريع الفهم."
+          }
+        ]
       }
     ],
     "examples": [

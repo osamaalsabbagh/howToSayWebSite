@@ -7,44 +7,48 @@
     "context": "عبّر عن الحاجة للعودة إلى المنزل."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "I",
-        "description": "ضمير المتكلم ويشير إلى الشخص الذي يتحدث."
-      },
-      {
-        "term": "need",
-        "description": "أحتاج أو يلزمني فعل شيء."
-      },
-      {
-        "term": "to",
-        "description": "تأتي قبل الفعل لتربط الحاجة بالفعل المطلوب."
-      },
-      {
-        "term": "go",
-        "description": "أذهب أو أتحرك إلى مكان."
-      },
-      {
-        "term": "home",
-        "description": "البيت أو المكان الذي يسكن فيه الشخص."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "I need",
-        "explanation": {
+        "ar": "أحتاج إلى العودة إلى المنزل.",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "تستخدم need في المضارع البسيط للتعبير عن حاجة حالية عند المتكلم."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير المتكلم ويشير إلى الشخص الذي يتحدث."
+          },
+          {
+            "term": "need",
+            "description": "أحتاج أو يلزمني فعل شيء."
+          }
+        ]
       },
       {
         "sentence": "to go home",
-        "explanation": {
+        "ar": "أحتاج إلى العودة إلى المنزل.",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذا جزء يوضح الفعل المطلوب بسبب الحاجة، وهو الذهاب إلى البيت، ولا يحمل زمنًا مستقلًا لأنه يبدأ بـ to قبل الفعل."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "to",
+            "description": "تأتي قبل الفعل لتربط الحاجة بالفعل المطلوب."
+          },
+          {
+            "term": "go",
+            "description": "أذهب أو أتحرك إلى مكان."
+          },
+          {
+            "term": "home",
+            "description": "البيت أو المكان الذي يسكن فيه الشخص."
+          }
+        ]
       }
     ],
     "examples": [

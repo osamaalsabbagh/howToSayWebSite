@@ -7,32 +7,33 @@
     "context": "وضح حالتك الاجتماعية."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "I",
-        "description": "ضمير المتكلم ويشير إلى الشخص الذي يتحدث."
-      },
-      {
-        "term": "am",
-        "description": "صيغة تأتي مع ضمير المتكلم المفرد وتربط الشخص بحالته."
-      },
-      {
-        "term": "not",
-        "description": "كلمة نفي تجعل المعنى لست."
-      },
-      {
-        "term": "married",
-        "description": "متزوج أو في علاقة زواج."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "I am not married.",
-        "explanation": {
+        "ar": "أنا لست متزوجًا.",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "تستخدم الجملة am not مع صفة لنفي الحالة الاجتماعية الحالية، وهي الزواج."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير المتكلم ويشير إلى الشخص الذي يتحدث."
+          },
+          {
+            "term": "am",
+            "description": "صيغة تأتي مع ضمير المتكلم المفرد وتربط الشخص بحالته."
+          },
+          {
+            "term": "not",
+            "description": "كلمة نفي تجعل المعنى لست."
+          },
+          {
+            "term": "married",
+            "description": "متزوج أو في علاقة زواج."
+          }
+        ]
       }
     ],
     "examples": [

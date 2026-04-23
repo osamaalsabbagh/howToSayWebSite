@@ -7,100 +7,104 @@
     "context": "الزبون يطلب بشكل مباشر رؤية الشقة دون استخدام صيغة تهذيب إضافية."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Good",
-        "description": "جزء من تحية مهذبة في بداية اليوم."
-      },
-      {
-        "term": "morning",
-        "description": "الصباح، وتكمل عبارة التحية."
-      },
-      {
-        "term": "Can",
-        "description": "تبدأ طلبًا عن إمكانية فعل شيء."
-      },
-      {
-        "term": "I",
-        "description": "ضمير المتكلم المفرد."
-      },
-      {
-        "term": "see",
-        "description": "تعني أرى أو أعاين في هذا السياق."
-      },
-      {
-        "term": "the",
-        "description": "أداة تعريف لشقة محددة معروفة من الإعلان."
-      },
-      {
-        "term": "apartment",
-        "description": "شقة سكنية."
-      },
-      {
-        "term": "listed",
-        "description": "معروضة أو مُعلَن عنها."
-      },
-      {
-        "term": "on",
-        "description": "حرف يحدد مكان ظهور الإعلان."
-      },
-      {
-        "term": "the",
-        "description": "أداة تعريف لموضع محدد في المكتب."
-      },
-      {
-        "term": "front",
-        "description": "الواجهة أو الجزء الأمامي."
-      },
-      {
-        "term": "of",
-        "description": "يربط الواجهة بالمكتب."
-      },
-      {
-        "term": "your",
-        "description": "صفة ملكية تعني الخاص بكم."
-      },
-      {
-        "term": "office",
-        "description": "مكتب أو مقر عمل."
-      },
-      {
-        "term": "for",
-        "description": "تستخدم هنا لذكر السعر المطلوب."
-      },
-      {
-        "term": "900",
-        "description": "الرقم تسعمئة."
-      },
-      {
-        "term": "dollars",
-        "description": "دولارات، وهي العملة المذكورة في السعر."
-      },
-      {
-        "term": "per",
-        "description": "تعني لكل أو في كل، وتستخدم مع الأسعار الدورية."
-      },
-      {
-        "term": "month",
-        "description": "شهر."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "Good morning.",
-        "explanation": {
+        "ar": "صباح الخير.",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذه تحية صباحية وليست جملة فعلية لها زمن مستقل."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Good",
+            "description": "جزء من تحية مهذبة في بداية اليوم."
+          },
+          {
+            "term": "morning",
+            "description": "الصباح، وتكمل عبارة التحية."
+          }
+        ]
       },
       {
         "sentence": "Can I see the apartment listed on the front of your office for 900 dollars per month?",
-        "explanation": {
+        "ar": "هل يمكنني رؤية الشقة المُعلَن عنها على واجهة مكتبكم بسعر 900 دولار في الشهر؟",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذا طلب مباشر باستخدام can للسؤال عن إمكانية معاينة الشقة. لذلك يشرح كتركيب طلب لا كزمن مستقل."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Can",
+            "description": "تبدأ طلبًا عن إمكانية فعل شيء."
+          },
+          {
+            "term": "I",
+            "description": "ضمير المتكلم المفرد."
+          },
+          {
+            "term": "see",
+            "description": "تعني أرى أو أعاين في هذا السياق."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف لشقة محددة معروفة من الإعلان."
+          },
+          {
+            "term": "apartment",
+            "description": "شقة سكنية."
+          },
+          {
+            "term": "listed",
+            "description": "معروضة أو مُعلَن عنها."
+          },
+          {
+            "term": "on",
+            "description": "حرف يحدد مكان ظهور الإعلان."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف لموضع محدد في المكتب."
+          },
+          {
+            "term": "front",
+            "description": "الواجهة أو الجزء الأمامي."
+          },
+          {
+            "term": "of",
+            "description": "يربط الواجهة بالمكتب."
+          },
+          {
+            "term": "your",
+            "description": "صفة ملكية تعني الخاص بكم."
+          },
+          {
+            "term": "office",
+            "description": "مكتب أو مقر عمل."
+          },
+          {
+            "term": "for",
+            "description": "تستخدم هنا لذكر السعر المطلوب."
+          },
+          {
+            "term": "900",
+            "description": "الرقم تسعمئة."
+          },
+          {
+            "term": "dollars",
+            "description": "دولارات، وهي العملة المذكورة في السعر."
+          },
+          {
+            "term": "per",
+            "description": "تعني لكل أو في كل، وتستخدم مع الأسعار الدورية."
+          },
+          {
+            "term": "month",
+            "description": "شهر."
+          }
+        ]
       }
     ],
     "examples": [

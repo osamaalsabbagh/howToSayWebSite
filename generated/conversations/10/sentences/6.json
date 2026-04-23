@@ -7,72 +7,76 @@
     "context": "الموظف يقترح موعدًا بعد ساعتين."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "We",
-        "description": "ضمير يشير إلى الموظف والزبون معًا."
-      },
-      {
-        "term": "can",
-        "description": "يدل على الإمكانية أو القدرة."
-      },
-      {
-        "term": "see",
-        "description": "تعني نرى أو نعاين."
-      },
-      {
-        "term": "it",
-        "description": "ضمير يعود على الشقة."
-      },
-      {
-        "term": "after",
-        "description": "تعني بعد."
-      },
-      {
-        "term": "two",
-        "description": "العدد اثنان."
-      },
-      {
-        "term": "hours",
-        "description": "ساعات."
-      },
-      {
-        "term": "Is",
-        "description": "صيغة تبدأ سؤالًا عن الحالة أو الملاءمة."
-      },
-      {
-        "term": "that",
-        "description": "يشير إلى الموعد المقترح بعد ساعتين."
-      },
-      {
-        "term": "okay",
-        "description": "تعني مناسبًا أو مقبولًا."
-      },
-      {
-        "term": "for",
-        "description": "تعني بالنسبة إلى أو مناسبًا لـ."
-      },
-      {
-        "term": "you",
-        "description": "ضمير المخاطب، ويشير إلى الزبون."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "We can see it after two hours.",
-        "explanation": {
+        "ar": "يمكننا رؤيتها بعد ساعتين.",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "الجملة تستخدم can لاقتراح إمكانية معاينة الشقة بعد مدة محددة، لذلك تشرح كتركيب إمكانية لا كزمن مستقل."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "We",
+            "description": "ضمير يشير إلى الموظف والزبون معًا."
+          },
+          {
+            "term": "can",
+            "description": "يدل على الإمكانية أو القدرة."
+          },
+          {
+            "term": "see",
+            "description": "تعني نرى أو نعاين."
+          },
+          {
+            "term": "it",
+            "description": "ضمير يعود على الشقة."
+          },
+          {
+            "term": "after",
+            "description": "تعني بعد."
+          },
+          {
+            "term": "two",
+            "description": "العدد اثنان."
+          },
+          {
+            "term": "hours",
+            "description": "ساعات."
+          }
+        ]
       },
       {
         "sentence": "Is that okay for you?",
-        "explanation": {
+        "ar": "هل هذا مناسب لك؟",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "استُعمل المضارع البسيط للسؤال عن ملاءمة الموعد المقترح للزبون الآن."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Is",
+            "description": "صيغة تبدأ سؤالًا عن الحالة أو الملاءمة."
+          },
+          {
+            "term": "that",
+            "description": "يشير إلى الموعد المقترح بعد ساعتين."
+          },
+          {
+            "term": "okay",
+            "description": "تعني مناسبًا أو مقبولًا."
+          },
+          {
+            "term": "for",
+            "description": "تعني بالنسبة إلى أو مناسبًا لـ."
+          },
+          {
+            "term": "you",
+            "description": "ضمير المخاطب، ويشير إلى الزبون."
+          }
+        ]
       }
     ],
     "examples": [

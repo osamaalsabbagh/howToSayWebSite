@@ -7,60 +7,64 @@
     "context": "اعرض المساعدة بأدب."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "If",
-        "description": "إذا، وتفتح شرطًا يعتمد عليه ما بعده."
-      },
-      {
-        "term": "you",
-        "description": "ضمير يشير إلى الشخص الذي أتحدث معه."
-      },
-      {
-        "term": "need",
-        "description": "تحتاج أو تكون بحاجة إلى شيء."
-      },
-      {
-        "term": "my",
-        "description": "كلمة تدل على أن الشيء يخص المتكلم."
-      },
-      {
-        "term": "help",
-        "description": "مساعدة أو دعم."
-      },
-      {
-        "term": "please",
-        "description": "كلمة تجعل الطلب أكثر أدبًا."
-      },
-      {
-        "term": "let",
-        "description": "تأتي هنا بمعنى اسمح أو اجعلني أعرف ضمن تعبير طلب الإخبار."
-      },
-      {
-        "term": "me",
-        "description": "ضمير يشير إلى المتكلم عندما يكون متلقيًا للفعل."
-      },
-      {
-        "term": "know",
-        "description": "أعرف أو يتم إخباري بالمعلومة."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "If you need my help",
-        "explanation": {
+        "ar": "إذا كنت تحتاج إلى مساعدتي، من فضلك دعني أعلم.",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "تستخدم جملة الشرط If مع المضارع البسيط للحديث عن احتمال حقيقي في المستقبل أو الحاضر، وهو احتياج المخاطب للمساعدة."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "If",
+            "description": "إذا، وتفتح شرطًا يعتمد عليه ما بعده."
+          },
+          {
+            "term": "you",
+            "description": "ضمير يشير إلى الشخص الذي أتحدث معه."
+          },
+          {
+            "term": "need",
+            "description": "تحتاج أو تكون بحاجة إلى شيء."
+          },
+          {
+            "term": "my",
+            "description": "كلمة تدل على أن الشيء يخص المتكلم."
+          },
+          {
+            "term": "help",
+            "description": "مساعدة أو دعم."
+          }
+        ]
       },
       {
         "sentence": "please let me know",
-        "explanation": {
+        "ar": "إذا كنت تحتاج إلى مساعدتي، من فضلك دعني أعلم.",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذا طلب مهذب بإخبار المتكلم عند الحاجة، وصيغة let me know تعمل كأمر لطيف لا يحمل زمنًا مستقلًا."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "please",
+            "description": "كلمة تجعل الطلب أكثر أدبًا."
+          },
+          {
+            "term": "let",
+            "description": "تأتي هنا بمعنى اسمح أو اجعلني أعرف ضمن تعبير طلب الإخبار."
+          },
+          {
+            "term": "me",
+            "description": "ضمير يشير إلى المتكلم عندما يكون متلقيًا للفعل."
+          },
+          {
+            "term": "know",
+            "description": "أعرف أو يتم إخباري بالمعلومة."
+          }
+        ]
       }
     ],
     "examples": [

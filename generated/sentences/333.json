@@ -5,5 +5,98 @@
     "en": "I need some tissues.",
     "ar": "أحتاج إلى بعض المناديل.",
     "context": "طلب مناديل ورقية."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "I need some tissues.",
+        "ar": "أحتاج إلى بعض المناديل.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "need في المضارع البسيط يعبر عن حاجة حالية، وsome تستخدم مع كمية غير محددة من المناديل."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير يشير إلى المتكلم."
+          },
+          {
+            "term": "need",
+            "description": "يعني أحتاج أو أطلب شيئًا ضروريًا."
+          },
+          {
+            "term": "some",
+            "description": "تعني بعض أو كمية غير محددة."
+          },
+          {
+            "term": "tissues",
+            "description": "تعني مناديل ورقية."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I need some water.",
+        "ar": "أحتاج إلى بعض الماء.",
+        "context": "تستخدم عند طلب شيء للشرب."
+      },
+      {
+        "id": 2,
+        "en": "I need some help.",
+        "ar": "أحتاج إلى بعض المساعدة.",
+        "context": "تستخدم عند طلب مساعدة عامة."
+      },
+      {
+        "id": 3,
+        "en": "I need some medicine.",
+        "ar": "أحتاج إلى بعض الدواء.",
+        "context": "تستخدم عند الشعور بالمرض."
+      },
+      {
+        "id": 4,
+        "en": "She needs some tissues.",
+        "ar": "هي تحتاج إلى بعض المناديل.",
+        "context": "تستخدم عندما يحتاج شخص آخر إلى مناديل."
+      },
+      {
+        "id": 5,
+        "en": "We need some napkins.",
+        "ar": "نحتاج إلى بعض المناديل.",
+        "context": "تستخدم في مطعم أو أثناء الأكل."
+      },
+      {
+        "id": 6,
+        "en": "Do you need some tissues?",
+        "ar": "هل تحتاج إلى بعض المناديل؟",
+        "context": "تستخدم لعرض مناديل على شخص."
+      },
+      {
+        "id": 7,
+        "en": "I need a clean tissue.",
+        "ar": "أحتاج إلى منديل نظيف.",
+        "context": "تستخدم عند طلب منديل واحد."
+      },
+      {
+        "id": 8,
+        "en": "He needs some rest.",
+        "ar": "هو يحتاج إلى بعض الراحة.",
+        "context": "تستخدم عند التعب أو المرض."
+      },
+      {
+        "id": 9,
+        "en": "I need some time.",
+        "ar": "أحتاج إلى بعض الوقت.",
+        "context": "تستخدم عندما لا تستطيع الرد فورًا."
+      },
+      {
+        "id": 10,
+        "en": "They need some supplies.",
+        "ar": "هم يحتاجون إلى بعض اللوازم.",
+        "context": "تستخدم عند طلب أشياء ضرورية."
+      }
+    ]
   }
 }

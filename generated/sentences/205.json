@@ -7,32 +7,33 @@
     "context": "اسأل عن وقت وقوع حدث."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "When",
-        "description": "متى، وتستخدم للسؤال عن وقت حدوث شيء."
-      },
-      {
-        "term": "did",
-        "description": "تأتي في السؤال عن الماضي مع الفعل الأساسي بعدها."
-      },
-      {
-        "term": "this",
-        "description": "هذا، وتشير إلى الحدث المقصود."
-      },
-      {
-        "term": "happen",
-        "description": "يحدث أو يقع."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "When did this happen?",
-        "explanation": {
+        "ar": "متى حدث هذا؟",
+        "grammar": {
           "tense": "الماضي البسيط",
           "tenseEn": "Past Simple",
           "reason": "يستخدم السؤال الماضي البسيط لأن المتكلم يسأل عن وقت وقوع حدث حدث وانتهى في الماضي."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "When",
+            "description": "متى، وتستخدم للسؤال عن وقت حدوث شيء."
+          },
+          {
+            "term": "did",
+            "description": "تأتي في السؤال عن الماضي مع الفعل الأساسي بعدها."
+          },
+          {
+            "term": "this",
+            "description": "هذا، وتشير إلى الحدث المقصود."
+          },
+          {
+            "term": "happen",
+            "description": "يحدث أو يقع."
+          }
+        ]
       }
     ],
     "examples": [

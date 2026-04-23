@@ -7,24 +7,25 @@
     "context": "اشرح كمية صغيرة من شيء غير معدود."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "A",
-        "description": "جزء من التعبير ويأتي قبل وصف الكمية الصغيرة."
-      },
-      {
-        "term": "little",
-        "description": "قليل من شيء لا يعد عادة، مثل ماء أو وقت أو مال."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "A little.",
-        "explanation": {
+        "ar": "قليلًا.",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذه عبارة كمية قصيرة بلا فعل، وتستخدم مع الأشياء غير المعدودة أو المعاني العامة مثل الوقت والمال والماء."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "A",
+            "description": "جزء من التعبير ويأتي قبل وصف الكمية الصغيرة."
+          },
+          {
+            "term": "little",
+            "description": "قليل من شيء لا يعد عادة، مثل ماء أو وقت أو مال."
+          }
+        ]
       }
     ],
     "examples": [

@@ -7,44 +7,45 @@
     "context": "اسأل إن كان الطريق يؤدي إلى نيويورك."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Does",
-        "description": "تأتي في بداية السؤال مع المفرد لتكوين سؤال عن حقيقة أو عادة."
-      },
-      {
-        "term": "this",
-        "description": "هذا، وتشير إلى شيء قريب أو محدد."
-      },
-      {
-        "term": "road",
-        "description": "طريق تسير عليه المركبات أو الناس."
-      },
-      {
-        "term": "go",
-        "description": "يؤدي أو يصل إلى مكان، وليس المقصود المشي هنا."
-      },
-      {
-        "term": "to",
-        "description": "إلى، وتربط الطريق بالوجهة."
-      },
-      {
-        "term": "New",
-        "description": "جزء من اسم مدينة نيويورك."
-      },
-      {
-        "term": "York",
-        "description": "جزء من اسم مدينة نيويورك."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "Does this road go to New York?",
-        "explanation": {
+        "ar": "هل يؤدي هذا الطريق إلى نيويورك؟",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "يستخدم السؤال المضارع البسيط مع كلمة السؤال المساعدة في البداية لأنه يسأل عن حقيقة عامة أو اتجاه ثابت للطريق."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Does",
+            "description": "تأتي في بداية السؤال مع المفرد لتكوين سؤال عن حقيقة أو عادة."
+          },
+          {
+            "term": "this",
+            "description": "هذا، وتشير إلى شيء قريب أو محدد."
+          },
+          {
+            "term": "road",
+            "description": "طريق تسير عليه المركبات أو الناس."
+          },
+          {
+            "term": "go",
+            "description": "يؤدي أو يصل إلى مكان، وليس المقصود المشي هنا."
+          },
+          {
+            "term": "to",
+            "description": "إلى، وتربط الطريق بالوجهة."
+          },
+          {
+            "term": "New",
+            "description": "جزء من اسم مدينة نيويورك."
+          },
+          {
+            "term": "York",
+            "description": "جزء من اسم مدينة نيويورك."
+          }
+        ]
       }
     ],
     "examples": [

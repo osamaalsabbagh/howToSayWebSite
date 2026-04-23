@@ -7,44 +7,45 @@
     "context": "يُبدي موافقته على الإرشادات دون اعتراض"
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "No",
-        "description": "كلمة نفي، وتأتي هنا ضمن عبارة تعني لا توجد مشكلة."
-      },
-      {
-        "term": "problem",
-        "description": "مشكلة أو اعتراض."
-      },
-      {
-        "term": "I",
-        "description": "ضمير المتكلم المفرد."
-      },
-      {
-        "term": "totally",
-        "description": "تعني تمامًا أو بشكل كامل للتأكيد."
-      },
-      {
-        "term": "agree",
-        "description": "تعني أوافق أو أقبل الرأي."
-      },
-      {
-        "term": "with",
-        "description": "حرف يربط الموافقة بالشيء المتفق عليه."
-      },
-      {
-        "term": "that",
-        "description": "يشير إلى الإرشادات أو الكلام السابق."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "No problem, I totally agree with that.",
-        "explanation": {
+        "ar": "لا مشكلة، أوافق تمامًا على ذلك.",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "استُعمل المضارع البسيط لأن المتكلم يعبّر عن موافقته الحالية على التعليمات."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "No",
+            "description": "كلمة نفي، وتأتي هنا ضمن عبارة تعني لا توجد مشكلة."
+          },
+          {
+            "term": "problem",
+            "description": "مشكلة أو اعتراض."
+          },
+          {
+            "term": "I",
+            "description": "ضمير المتكلم المفرد."
+          },
+          {
+            "term": "totally",
+            "description": "تعني تمامًا أو بشكل كامل للتأكيد."
+          },
+          {
+            "term": "agree",
+            "description": "تعني أوافق أو أقبل الرأي."
+          },
+          {
+            "term": "with",
+            "description": "حرف يربط الموافقة بالشيء المتفق عليه."
+          },
+          {
+            "term": "that",
+            "description": "يشير إلى الإرشادات أو الكلام السابق."
+          }
+        ]
       }
     ],
     "examples": [

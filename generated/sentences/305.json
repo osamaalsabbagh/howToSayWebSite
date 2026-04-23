@@ -7,32 +7,33 @@
     "context": "السؤال عن عنوان مكان أو شخص."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "What",
-        "description": "أداة سؤال عن الشيء أو المعلومة المطلوبة."
-      },
-      {
-        "term": "is",
-        "description": "تستخدم في السؤال لطلب تعريف أو تحديد شيء."
-      },
-      {
-        "term": "the",
-        "description": "أداة تشير إلى عنوان محدد في السياق."
-      },
-      {
-        "term": "address",
-        "description": "العنوان، أي معلومات مكان شخص أو مبنى."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "What is the address?",
-        "explanation": {
+        "ar": "ما هو العنوان؟",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "يستخدم السؤال فعل الربط في الحاضر لطلب معلومة محددة عن العنوان."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "What",
+            "description": "أداة سؤال عن الشيء أو المعلومة المطلوبة."
+          },
+          {
+            "term": "is",
+            "description": "تستخدم في السؤال لطلب تعريف أو تحديد شيء."
+          },
+          {
+            "term": "the",
+            "description": "أداة تشير إلى عنوان محدد في السياق."
+          },
+          {
+            "term": "address",
+            "description": "العنوان، أي معلومات مكان شخص أو مبنى."
+          }
+        ]
       }
     ],
     "examples": [

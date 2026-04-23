@@ -7,40 +7,41 @@
     "context": "اسأل عن موعد وصول شخص إلى بوسطن."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "When",
-        "description": "متى، وتستخدم للسؤال عن وقت."
-      },
-      {
-        "term": "did",
-        "description": "تأتي في السؤال عن الماضي مع الفعل الأساسي بعدها."
-      },
-      {
-        "term": "you",
-        "description": "أنت، وتشير إلى الشخص المخاطب."
-      },
-      {
-        "term": "arrive",
-        "description": "تصل إلى مكان."
-      },
-      {
-        "term": "in",
-        "description": "في أو إلى، وتستخدم هنا مع مدينة الوصول."
-      },
-      {
-        "term": "Boston",
-        "description": "مدينة بوسطن."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "When did you arrive in Boston?",
-        "explanation": {
+        "ar": "متى وصلت إلى بوسطن؟",
+        "grammar": {
           "tense": "الماضي البسيط",
           "tenseEn": "Past Simple",
           "reason": "يستخدم السؤال الماضي البسيط لأن المتكلم يسأل عن وقت وصول حدث وانتهى في الماضي."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "When",
+            "description": "متى، وتستخدم للسؤال عن وقت."
+          },
+          {
+            "term": "did",
+            "description": "تأتي في السؤال عن الماضي مع الفعل الأساسي بعدها."
+          },
+          {
+            "term": "you",
+            "description": "أنت، وتشير إلى الشخص المخاطب."
+          },
+          {
+            "term": "arrive",
+            "description": "تصل إلى مكان."
+          },
+          {
+            "term": "in",
+            "description": "في أو إلى، وتستخدم هنا مع مدينة الوصول."
+          },
+          {
+            "term": "Boston",
+            "description": "مدينة بوسطن."
+          }
+        ]
       }
     ],
     "examples": [

@@ -7,44 +7,45 @@
     "context": "اطلب الاتجاه إلى شارع محدد."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "How",
-        "description": "كيف، وتستخدم للسؤال عن طريقة الوصول."
-      },
-      {
-        "term": "do",
-        "description": "تأتي في السؤال مع المتكلم لتكوين سؤال في الحاضر."
-      },
-      {
-        "term": "I",
-        "description": "أنا، وتشير إلى المتكلم."
-      },
-      {
-        "term": "get",
-        "description": "أصل أو أذهب إلى مكان."
-      },
-      {
-        "term": "to",
-        "description": "إلى، وتربط فعل الوصول بالوجهة."
-      },
-      {
-        "term": "Daniel",
-        "description": "اسم علم جزء من اسم شارع."
-      },
-      {
-        "term": "Street",
-        "description": "شارع."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "How do I get to Daniel Street?",
-        "explanation": {
+        "ar": "كيف أصل إلى شارع دانيال؟",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "يستخدم السؤال المضارع البسيط للسؤال عن طريقة الوصول إلى شارع محدد، والتركيب يطلب إرشادات عامة لا حدثًا مستمرًا."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "How",
+            "description": "كيف، وتستخدم للسؤال عن طريقة الوصول."
+          },
+          {
+            "term": "do",
+            "description": "تأتي في السؤال مع المتكلم لتكوين سؤال في الحاضر."
+          },
+          {
+            "term": "I",
+            "description": "أنا، وتشير إلى المتكلم."
+          },
+          {
+            "term": "get",
+            "description": "أصل أو أذهب إلى مكان."
+          },
+          {
+            "term": "to",
+            "description": "إلى، وتربط فعل الوصول بالوجهة."
+          },
+          {
+            "term": "Daniel",
+            "description": "اسم علم جزء من اسم شارع."
+          },
+          {
+            "term": "Street",
+            "description": "شارع."
+          }
+        ]
       }
     ],
     "examples": [

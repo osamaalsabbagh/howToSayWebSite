@@ -7,36 +7,37 @@
     "context": "اسأل عن الموعد المعتاد لفتح البنك."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "When",
-        "description": "متى، وتستخدم للسؤال عن موعد."
-      },
-      {
-        "term": "does",
-        "description": "تأتي في السؤال مع المفرد لتكوين سؤال في الحاضر."
-      },
-      {
-        "term": "the",
-        "description": "أداة تشير إلى بنك محدد أو معروف."
-      },
-      {
-        "term": "bank",
-        "description": "البنك، مكان للخدمات المالية."
-      },
-      {
-        "term": "open",
-        "description": "يفتح أو يبدأ العمل."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "When does the bank open?",
-        "explanation": {
+        "ar": "متى يفتح البنك؟",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "يستخدم المضارع البسيط للسؤال عن موعد ثابت أو معتاد لفتح البنك."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "When",
+            "description": "متى، وتستخدم للسؤال عن موعد."
+          },
+          {
+            "term": "does",
+            "description": "تأتي في السؤال مع المفرد لتكوين سؤال في الحاضر."
+          },
+          {
+            "term": "the",
+            "description": "أداة تشير إلى بنك محدد أو معروف."
+          },
+          {
+            "term": "bank",
+            "description": "البنك، مكان للخدمات المالية."
+          },
+          {
+            "term": "open",
+            "description": "يفتح أو يبدأ العمل."
+          }
+        ]
       }
     ],
     "examples": [

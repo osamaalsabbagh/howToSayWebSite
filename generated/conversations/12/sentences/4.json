@@ -7,64 +7,84 @@
     "context": "الموظف يتحقق من أن رقم الهاتف الحالي هو نفسه المسجل في الطلب."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Are",
-        "description": "تبدأ سؤالًا عن فعل يحدث الآن مع المخاطب."
-      },
-      {
-        "term": "you",
-        "description": "ضمير المخاطب."
-      },
-      {
-        "term": "calling",
-        "description": "تتصل هاتفيًا الآن."
-      },
-      {
-        "term": "from",
-        "description": "من أو باستخدام مصدر معين."
-      },
-      {
-        "term": "the",
-        "description": "أداة تعريف تشير إلى رقم محدد."
-      },
-      {
-        "term": "number",
-        "description": "رقم هاتف."
-      },
-      {
-        "term": "registered",
-        "description": "مسجل في النظام أو محفوظ مسبقًا."
-      },
-      {
-        "term": "with",
-        "description": "مرتبط بـ أو مع."
-      },
-      {
-        "term": "your",
-        "description": "يدل على أن الطلب يخص المخاطب."
-      },
-      {
-        "term": "order",
-        "description": "طلب شراء أو شحنة."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "Are you calling from the number registered with your order?",
-        "explanation": {
+        "ar": "هل تتصل من الرقم المسجل في طلبك؟",
+        "grammar": {
           "tense": "المضارع المستمر",
           "tenseEn": "Present Continuous",
           "reason": "السؤال يتحقق من الفعل الجاري الآن، وهو الاتصال من رقم معين."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Are",
+            "description": "تبدأ سؤالًا عن فعل يحدث الآن مع المخاطب."
+          },
+          {
+            "term": "you",
+            "description": "ضمير المخاطب."
+          },
+          {
+            "term": "calling",
+            "description": "تتصل هاتفيًا الآن."
+          },
+          {
+            "term": "from",
+            "description": "من أو باستخدام مصدر معين."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف تشير إلى رقم محدد."
+          },
+          {
+            "term": "number",
+            "description": "رقم هاتف."
+          },
+          {
+            "term": "registered",
+            "description": "مسجل في النظام أو محفوظ مسبقًا."
+          },
+          {
+            "term": "with",
+            "description": "مرتبط بـ أو مع."
+          },
+          {
+            "term": "your",
+            "description": "يدل على أن الطلب يخص المخاطب."
+          },
+          {
+            "term": "order",
+            "description": "طلب شراء أو شحنة."
+          }
+        ]
       },
       {
         "sentence": "registered with your order",
-        "explanation": {
+        "ar": "هل تتصل من الرقم المسجل في طلبك؟",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذا وصف مختصر للرقم بأنه محفوظ أو مرتبط بالطلب، وليس جملة بزمن مستقل."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "registered",
+            "description": "مسجل في النظام أو محفوظ مسبقًا."
+          },
+          {
+            "term": "with",
+            "description": "مرتبط بـ أو مع."
+          },
+          {
+            "term": "your",
+            "description": "يدل على أن الطلب يخص المخاطب."
+          },
+          {
+            "term": "order",
+            "description": "طلب شراء أو شحنة."
+          }
+        ]
       }
     ],
     "examples": [

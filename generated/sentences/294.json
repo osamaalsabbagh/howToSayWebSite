@@ -7,28 +7,29 @@
     "context": "تحديد موقع خارج مبنى الفندق."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Outside",
-        "description": "خارج أو في الجهة الخارجية من مكان."
-      },
-      {
-        "term": "the",
-        "description": "أداة تشير إلى مبنى محدد."
-      },
-      {
-        "term": "hotel",
-        "description": "فندق أو مكان إقامة."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "Outside the hotel.",
-        "explanation": {
+        "ar": "خارج الفندق.",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذا تعبير مكاني قصير يحدد موقعًا خارج الفندق، ولا يحتوي على فعل ظاهر أو زمن مستقل."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Outside",
+            "description": "خارج أو في الجهة الخارجية من مكان."
+          },
+          {
+            "term": "the",
+            "description": "أداة تشير إلى مبنى محدد."
+          },
+          {
+            "term": "hotel",
+            "description": "فندق أو مكان إقامة."
+          }
+        ]
       }
     ],
     "examples": [

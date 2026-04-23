@@ -7,56 +7,60 @@
     "context": "اسأل عن تكلفة السفر إلى ميامي."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "How",
-        "description": "تبدأ سؤالًا عن السعر أو المقدار."
-      },
-      {
-        "term": "much",
-        "description": "كم، وتستخدم مع المال والتكلفة."
-      },
-      {
-        "term": "is",
-        "description": "صيغة تربط السؤال بالتكلفة في الحاضر."
-      },
-      {
-        "term": "it",
-        "description": "تشير إلى تكلفة الرحلة أو التذكرة المقصودة."
-      },
-      {
-        "term": "to",
-        "description": "تربط التكلفة بالفعل أو الوجهة بعدها."
-      },
-      {
-        "term": "go",
-        "description": "يذهب أو يسافر."
-      },
-      {
-        "term": "to",
-        "description": "إلى، وتربط الذهاب بالوجهة."
-      },
-      {
-        "term": "Miami",
-        "description": "ميامي، اسم مدينة."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "How much is it",
-        "explanation": {
+        "ar": "كم يكلف الذهاب إلى ميامي؟",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "هذا الجزء يسأل عن تكلفة حالية أو معروفة، ويستخدم فعل الربط في الحاضر."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "How",
+            "description": "تبدأ سؤالًا عن السعر أو المقدار."
+          },
+          {
+            "term": "much",
+            "description": "كم، وتستخدم مع المال والتكلفة."
+          },
+          {
+            "term": "is",
+            "description": "صيغة تربط السؤال بالتكلفة في الحاضر."
+          },
+          {
+            "term": "it",
+            "description": "تشير إلى تكلفة الرحلة أو التذكرة المقصودة."
+          }
+        ]
       },
       {
         "sentence": "to go to Miami",
-        "explanation": {
+        "ar": "كم يكلف الذهاب إلى ميامي؟",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذا جزء تابع بصيغة المصدر يوضح الغرض أو الوجهة التي ترتبط بها التكلفة، ولا يحمل زمنًا مستقلًا."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "to",
+            "description": "تربط التكلفة بالفعل أو الوجهة بعدها."
+          },
+          {
+            "term": "go",
+            "description": "يذهب أو يسافر."
+          },
+          {
+            "term": "to",
+            "description": "إلى، وتربط الذهاب بالوجهة."
+          },
+          {
+            "term": "Miami",
+            "description": "ميامي، اسم مدينة."
+          }
+        ]
       }
     ],
     "examples": [

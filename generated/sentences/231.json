@@ -7,36 +7,37 @@
     "context": "اسأل عن ثمن شيء ما."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "How",
-        "description": "تبدأ سؤالًا عن السعر."
-      },
-      {
-        "term": "much",
-        "description": "كم، وتستخدم مع المال والتكلفة."
-      },
-      {
-        "term": "does",
-        "description": "تأتي في السؤال مع المفرد لتكوين سؤال في الحاضر."
-      },
-      {
-        "term": "this",
-        "description": "هذا، وتشير إلى شيء قريب أو مشار إليه."
-      },
-      {
-        "term": "cost",
-        "description": "يكلف أو يبلغ ثمنه."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "How much does this cost?",
-        "explanation": {
+        "ar": "كم سعر هذا؟",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "يستخدم المضارع البسيط للسؤال عن السعر الحالي لشيء معروض أو محدد."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "How",
+            "description": "تبدأ سؤالًا عن السعر."
+          },
+          {
+            "term": "much",
+            "description": "كم، وتستخدم مع المال والتكلفة."
+          },
+          {
+            "term": "does",
+            "description": "تأتي في السؤال مع المفرد لتكوين سؤال في الحاضر."
+          },
+          {
+            "term": "this",
+            "description": "هذا، وتشير إلى شيء قريب أو مشار إليه."
+          },
+          {
+            "term": "cost",
+            "description": "يكلف أو يبلغ ثمنه."
+          }
+        ]
       }
     ],
     "examples": [

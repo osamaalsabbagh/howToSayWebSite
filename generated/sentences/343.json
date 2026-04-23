@@ -5,5 +5,94 @@
     "en": "What is wrong?",
     "ar": "ما الخطب؟",
     "context": "السؤال عن سبب القلق أو الخطأ."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "What is wrong?",
+        "ar": "ما الخطب؟",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "What is تستخدم للسؤال عن حالة موجودة الآن، وwrong تسأل عن المشكلة أو سبب القلق."
+        },
+        "wordMeanings": [
+          {
+            "term": "What",
+            "description": "أداة سؤال تعني ما."
+          },
+          {
+            "term": "is",
+            "description": "صيغة تستخدم للسؤال عن حالة أو أمر في المضارع."
+          },
+          {
+            "term": "wrong",
+            "description": "تعني خطأ أو غير طبيعي أو سبب المشكلة."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "What is the problem?",
+        "ar": "ما المشكلة؟",
+        "context": "تستخدم للسؤال عن سبب مشكلة."
+      },
+      {
+        "id": 2,
+        "en": "What is wrong with you?",
+        "ar": "ما بك؟",
+        "context": "تستخدم للسؤال عن حالة شخص."
+      },
+      {
+        "id": 3,
+        "en": "What is wrong with the car?",
+        "ar": "ما عطل السيارة؟",
+        "context": "تستخدم عند وجود مشكلة في سيارة."
+      },
+      {
+        "id": 4,
+        "en": "Is something wrong?",
+        "ar": "هل هناك شيء خطأ؟",
+        "context": "تستخدم عندما تلاحظ قلقًا أو مشكلة."
+      },
+      {
+        "id": 5,
+        "en": "Nothing is wrong.",
+        "ar": "لا يوجد شيء خطأ.",
+        "context": "تستخدم لطمأنة شخص."
+      },
+      {
+        "id": 6,
+        "en": "What is wrong with this phone?",
+        "ar": "ما مشكلة هذا الهاتف؟",
+        "context": "تستخدم عند تعطل جهاز."
+      },
+      {
+        "id": 7,
+        "en": "Tell me what is wrong.",
+        "ar": "أخبرني ما المشكلة.",
+        "context": "تستخدم لطلب توضيح من شخص."
+      },
+      {
+        "id": 8,
+        "en": "What is wrong with the food?",
+        "ar": "ما مشكلة الطعام؟",
+        "context": "تستخدم عند الشكوى من طعام."
+      },
+      {
+        "id": 9,
+        "en": "The address is wrong.",
+        "ar": "العنوان خطأ.",
+        "context": "تستخدم لتصحيح معلومة."
+      },
+      {
+        "id": 10,
+        "en": "What is wrong with my order?",
+        "ar": "ما مشكلة طلبي؟",
+        "context": "تستخدم عند الاستفسار عن طلب في مطعم أو متجر."
+      }
+    ]
   }
 }

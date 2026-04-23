@@ -7,24 +7,25 @@
     "context": "اذكر سعرًا."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "11",
-        "description": "العدد أحد عشر."
-      },
-      {
-        "term": "dollars",
-        "description": "دولارات، وهي وحدة نقدية."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "11 dollars.",
-        "explanation": {
+        "ar": "١١ دولارًا.",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذه عبارة سعرية مختصرة بلا فعل ظاهر، وتستخدم لذكر مبلغ مالي فقط."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "11",
+            "description": "العدد أحد عشر."
+          },
+          {
+            "term": "dollars",
+            "description": "دولارات، وهي وحدة نقدية."
+          }
+        ]
       }
     ],
     "examples": [

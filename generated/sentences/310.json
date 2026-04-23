@@ -5,5 +5,106 @@
     "en": "Can I see your passport please?",
     "ar": "هل يمكنني رؤية جواز سفرك من فضلك؟",
     "context": "طلب رؤية جواز السفر."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Can I see your passport please?",
+        "ar": "هل يمكنني رؤية جواز سفرك من فضلك؟",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "الجملة سؤال إذن باستخدام Can ثم الفاعل I ثم الفعل الأساسي see، وتستعمل please لتخفيف الطلب وجعله مهذبا."
+        },
+        "wordMeanings": [
+          {
+            "term": "Can",
+            "description": "تستخدم لطلب الإذن أو القدرة بطريقة مباشرة."
+          },
+          {
+            "term": "I",
+            "description": "ضمير المتكلم ويعني أنا."
+          },
+          {
+            "term": "see",
+            "description": "تعني أرى أو أطلع على شيء."
+          },
+          {
+            "term": "your",
+            "description": "تعني الخاص بك أو التابع لك."
+          },
+          {
+            "term": "passport",
+            "description": "وثيقة السفر الرسمية."
+          },
+          {
+            "term": "please",
+            "description": "كلمة تجعل الطلب مؤدبا."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Can I see your ticket please?",
+        "ar": "هل يمكنني رؤية تذكرتك من فضلك؟",
+        "context": "موظف يطلب الاطلاع على تذكرة."
+      },
+      {
+        "id": 2,
+        "en": "Can I see your ID please?",
+        "ar": "هل يمكنني رؤية هويتك من فضلك؟",
+        "context": "طلب رسمي للتحقق من الهوية."
+      },
+      {
+        "id": 3,
+        "en": "Can I see your receipt please?",
+        "ar": "هل يمكنني رؤية إيصالك من فضلك؟",
+        "context": "موظف يطلب إيصال الشراء."
+      },
+      {
+        "id": 4,
+        "en": "Can I check your bag please?",
+        "ar": "هل يمكنني فحص حقيبتك من فضلك؟",
+        "context": "طلب أمني لفحص حقيبة."
+      },
+      {
+        "id": 5,
+        "en": "Can I take your name please?",
+        "ar": "هل يمكنني أخذ اسمك من فضلك؟",
+        "context": "تطلب اسم شخص لتسجيله."
+      },
+      {
+        "id": 6,
+        "en": "Can I have your address please?",
+        "ar": "هل يمكنني أخذ عنوانك من فضلك؟",
+        "context": "تطلب عنوانا لإتمام خدمة."
+      },
+      {
+        "id": 7,
+        "en": "Can I see the booking please?",
+        "ar": "هل يمكنني رؤية الحجز من فضلك؟",
+        "context": "تطلب تأكيد الحجز في فندق أو مكتب."
+      },
+      {
+        "id": 8,
+        "en": "Can I ask a question please?",
+        "ar": "هل يمكنني طرح سؤال من فضلك؟",
+        "context": "تطلب الإذن بالكلام بأدب."
+      },
+      {
+        "id": 9,
+        "en": "Can I look at the form please?",
+        "ar": "هل يمكنني النظر إلى النموذج من فضلك؟",
+        "context": "تطلب مراجعة نموذج."
+      },
+      {
+        "id": 10,
+        "en": "Can I scan your passport please?",
+        "ar": "هل يمكنني مسح جواز سفرك من فضلك؟",
+        "context": "موظف يطلب مسح جواز السفر إلكترونيا."
+      }
+    ]
   }
 }

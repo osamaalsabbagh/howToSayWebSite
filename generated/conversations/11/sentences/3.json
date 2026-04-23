@@ -7,44 +7,48 @@
     "context": "المعلم يؤكد صحة الإجابة ويشجع الطالب"
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "That",
-        "description": "يشير إلى الإجابة أو الفكرة التي قيلت قبل قليل."
-      },
-      {
-        "term": "is",
-        "description": "تربط الشيء المشار إليه بوصفه صحيحًا."
-      },
-      {
-        "term": "correct",
-        "description": "صحيح أو مطابق للحقيقة."
-      },
-      {
-        "term": "Good",
-        "description": "جيد أو ممتاز في سياق التشجيع."
-      },
-      {
-        "term": "job",
-        "description": "عمل أو إنجاز قام به الشخص."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "That is correct!",
-        "explanation": {
+        "ar": "هذا صحيح!",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "الجملة تصف صحة الإجابة في لحظة الحديث بوصفها حقيقة حالية."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "That",
+            "description": "يشير إلى الإجابة أو الفكرة التي قيلت قبل قليل."
+          },
+          {
+            "term": "is",
+            "description": "تربط الشيء المشار إليه بوصفه صحيحًا."
+          },
+          {
+            "term": "correct",
+            "description": "صحيح أو مطابق للحقيقة."
+          }
+        ]
       },
       {
         "sentence": "Good job.",
-        "explanation": {
+        "ar": "عمل جيد.",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذه عبارة تشجيع قصيرة وليست جملة فعلية لها زمن مستقل."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Good",
+            "description": "جيد أو ممتاز في سياق التشجيع."
+          },
+          {
+            "term": "job",
+            "description": "عمل أو إنجاز قام به الشخص."
+          }
+        ]
       }
     ],
     "examples": [

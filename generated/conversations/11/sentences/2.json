@@ -7,60 +7,64 @@
     "context": "الطالب يحاول تقديم الإجابة التي يظنها صحيحة"
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "I",
-        "description": "ضمير المتكلم المفرد."
-      },
-      {
-        "term": "think",
-        "description": "أعتقد أو أظن."
-      },
-      {
-        "term": "I",
-        "description": "ضمير المتكلم المفرد مرة أخرى لأنه صاحب المعرفة أيضًا."
-      },
-      {
-        "term": "know",
-        "description": "أعرف أو لدي المعلومة."
-      },
-      {
-        "term": "the",
-        "description": "أداة تعريف تشير إلى إجابة محددة ومعروفة في السياق."
-      },
-      {
-        "term": "answer",
-        "description": "الإجابة أو الحل."
-      },
-      {
-        "term": "Is",
-        "description": "تبدأ سؤالًا عن هوية الشيء أو صحة التخمين."
-      },
-      {
-        "term": "it",
-        "description": "ضمير يعود على الإجابة المحتملة."
-      },
-      {
-        "term": "water",
-        "description": "ماء."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "I think I know the answer.",
-        "explanation": {
+        "ar": "أعتقد أنني أعرف الإجابة.",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "استُخدم المضارع البسيط للتعبير عن اعتقاد المتكلم ومعرفته الحالية بالإجابة."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير المتكلم المفرد."
+          },
+          {
+            "term": "think",
+            "description": "أعتقد أو أظن."
+          },
+          {
+            "term": "I",
+            "description": "ضمير المتكلم المفرد مرة أخرى لأنه صاحب المعرفة أيضًا."
+          },
+          {
+            "term": "know",
+            "description": "أعرف أو لدي المعلومة."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف تشير إلى إجابة محددة ومعروفة في السياق."
+          },
+          {
+            "term": "answer",
+            "description": "الإجابة أو الحل."
+          }
+        ]
       },
       {
         "sentence": "Is it water?",
-        "explanation": {
+        "ar": "هل هي الماء؟",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "السؤال يستخدم صيغة حالية للتحقق من هوية الإجابة المقترحة الآن."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Is",
+            "description": "تبدأ سؤالًا عن هوية الشيء أو صحة التخمين."
+          },
+          {
+            "term": "it",
+            "description": "ضمير يعود على الإجابة المحتملة."
+          },
+          {
+            "term": "water",
+            "description": "ماء."
+          }
+        ]
       }
     ],
     "examples": [

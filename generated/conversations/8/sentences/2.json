@@ -7,68 +7,72 @@
     "context": "الموافقة على ملاحظة المتحدث الأول وإضافة خبر عن زيارة العمة"
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "I",
-        "description": "ضمير المتكلم المفرد."
-      },
-      {
-        "term": "know",
-        "description": "تعني أعرف أو أتفق مع ما قيل."
-      },
-      {
-        "term": "My",
-        "description": "صفة ملكية تعني الخاصة بي."
-      },
-      {
-        "term": "aunt",
-        "description": "العمة أو الخالة حسب السياق العائلي."
-      },
-      {
-        "term": "is",
-        "description": "صيغة تساعد على تكوين المضارع المستمر."
-      },
-      {
-        "term": "coming",
-        "description": "تعني قادمة أو ستأتي قريبًا."
-      },
-      {
-        "term": "to",
-        "description": "تأتي قبل الفعل لتوضيح الغرض من القدوم."
-      },
-      {
-        "term": "visit",
-        "description": "تعني تزور."
-      },
-      {
-        "term": "us",
-        "description": "ضمير يعود على المتكلم ومن معه."
-      },
-      {
-        "term": "next",
-        "description": "تعني القادم أو التالي."
-      },
-      {
-        "term": "week",
-        "description": "أسبوع."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "I know!",
-        "explanation": {
+        "ar": "أعلم!",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "استُعمل المضارع البسيط للتعبير عن معرفة أو موافقة حاضرة على ما قيل."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير المتكلم المفرد."
+          },
+          {
+            "term": "know",
+            "description": "تعني أعرف أو أتفق مع ما قيل."
+          }
+        ]
       },
       {
         "sentence": "My aunt is coming to visit us next week.",
-        "explanation": {
+        "ar": "عمتي ستأتي لزيارتنا الأسبوع القادم.",
+        "grammar": {
           "tense": "المضارع المستمر",
           "tenseEn": "Present Continuous",
           "reason": "استُعمل المضارع المستمر للحديث عن ترتيب مستقبلي قريب ومخطط له، وهو زيارة العمة الأسبوع القادم."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "My",
+            "description": "صفة ملكية تعني الخاصة بي."
+          },
+          {
+            "term": "aunt",
+            "description": "العمة أو الخالة حسب السياق العائلي."
+          },
+          {
+            "term": "is",
+            "description": "صيغة تساعد على تكوين المضارع المستمر."
+          },
+          {
+            "term": "coming",
+            "description": "تعني قادمة أو ستأتي قريبًا."
+          },
+          {
+            "term": "to",
+            "description": "تأتي قبل الفعل لتوضيح الغرض من القدوم."
+          },
+          {
+            "term": "visit",
+            "description": "تعني تزور."
+          },
+          {
+            "term": "us",
+            "description": "ضمير يعود على المتكلم ومن معه."
+          },
+          {
+            "term": "next",
+            "description": "تعني القادم أو التالي."
+          },
+          {
+            "term": "week",
+            "description": "أسبوع."
+          }
+        ]
       }
     ],
     "examples": [

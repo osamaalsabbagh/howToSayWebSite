@@ -7,32 +7,33 @@
     "context": "ذكر مسافة طويلة."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "More",
-        "description": "أكثر أو كمية أكبر."
-      },
-      {
-        "term": "than",
-        "description": "من، وتستخدم للمقارنة."
-      },
-      {
-        "term": "200",
-        "description": "العدد مئتان."
-      },
-      {
-        "term": "miles",
-        "description": "أميال، وهي وحدة لقياس المسافة."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "More than 200 miles.",
-        "explanation": {
+        "ar": "أكثر من ٢٠٠ ميل.",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذا تعبير قصير للمقارنة في المسافة، ولا يحتوي على فعل ظاهر أو زمن مستقل."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "More",
+            "description": "أكثر أو كمية أكبر."
+          },
+          {
+            "term": "than",
+            "description": "من، وتستخدم للمقارنة."
+          },
+          {
+            "term": "200",
+            "description": "العدد مئتان."
+          },
+          {
+            "term": "miles",
+            "description": "أميال، وهي وحدة لقياس المسافة."
+          }
+        ]
       }
     ],
     "examples": [

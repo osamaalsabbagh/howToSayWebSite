@@ -7,48 +7,49 @@
     "context": "البائع يسأل الزبون بأدب عن الكمية التي يرغب بها."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "How",
-        "description": "تبدأ سؤالًا عن الكمية أو العدد عندما تأتي مع many."
-      },
-      {
-        "term": "many",
-        "description": "تعني كم عدد أو كم كمية للأشياء المعدودة."
-      },
-      {
-        "term": "kilos",
-        "description": "كيلوغرامات، وهي وحدة وزن."
-      },
-      {
-        "term": "of",
-        "description": "يربط الكمية بالشيء المطلوب."
-      },
-      {
-        "term": "apples",
-        "description": "تفاح بصيغة الجمع."
-      },
-      {
-        "term": "would",
-        "description": "تجعل السؤال ألطف عند طلب رغبة الزبون."
-      },
-      {
-        "term": "you",
-        "description": "ضمير المخاطب، ويشير إلى الزبون."
-      },
-      {
-        "term": "like",
-        "description": "تعني ترغب أو تود في هذا السياق."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "How many kilos of apples would you like?",
-        "explanation": {
+        "ar": "كم كيلو من التفاح تود؟",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذا سؤال مهذب عن الكمية المطلوبة باستخدام would you like، لذلك يشرح كتركيب طلب ورغبة لا كزمن مستقل."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "How",
+            "description": "تبدأ سؤالًا عن الكمية أو العدد عندما تأتي مع many."
+          },
+          {
+            "term": "many",
+            "description": "تعني كم عدد أو كم كمية للأشياء المعدودة."
+          },
+          {
+            "term": "kilos",
+            "description": "كيلوغرامات، وهي وحدة وزن."
+          },
+          {
+            "term": "of",
+            "description": "يربط الكمية بالشيء المطلوب."
+          },
+          {
+            "term": "apples",
+            "description": "تفاح بصيغة الجمع."
+          },
+          {
+            "term": "would",
+            "description": "تجعل السؤال ألطف عند طلب رغبة الزبون."
+          },
+          {
+            "term": "you",
+            "description": "ضمير المخاطب، ويشير إلى الزبون."
+          },
+          {
+            "term": "like",
+            "description": "تعني ترغب أو تود في هذا السياق."
+          }
+        ]
       }
     ],
     "examples": [

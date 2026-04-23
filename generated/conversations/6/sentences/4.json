@@ -7,60 +7,64 @@
     "context": "السؤال عن موقع المهرجان بالنسبة لمنطقة الحديقة"
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "That",
-        "description": "يشير إلى خبر المهرجان."
-      },
-      {
-        "term": "sounds",
-        "description": "تعني يبدو من الكلام أو الخبر."
-      },
-      {
-        "term": "great",
-        "description": "صفة تعني رائعًا أو ممتازًا."
-      },
-      {
-        "term": "Is",
-        "description": "صيغة تبدأ سؤالًا عن حالة أو موقع."
-      },
-      {
-        "term": "it",
-        "description": "ضمير يعود على المهرجان."
-      },
-      {
-        "term": "near",
-        "description": "تعني قريبًا من."
-      },
-      {
-        "term": "the",
-        "description": "أداة تعريف لمكان معروف."
-      },
-      {
-        "term": "park",
-        "description": "حديقة أو متنزه."
-      },
-      {
-        "term": "area",
-        "description": "منطقة."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "That sounds great!",
-        "explanation": {
+        "ar": "هذا يبدو رائعًا!",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "استُعمل المضارع البسيط للتعبير عن الانطباع الحالي تجاه الخبر."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "That",
+            "description": "يشير إلى خبر المهرجان."
+          },
+          {
+            "term": "sounds",
+            "description": "تعني يبدو من الكلام أو الخبر."
+          },
+          {
+            "term": "great",
+            "description": "صفة تعني رائعًا أو ممتازًا."
+          }
+        ]
       },
       {
         "sentence": "Is it near the park area?",
-        "explanation": {
+        "ar": "هل هو قريب من منطقة الحديقة؟",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "استُعمل المضارع البسيط للسؤال عن موقع المهرجان بوصفه معلومة حالية."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Is",
+            "description": "صيغة تبدأ سؤالًا عن حالة أو موقع."
+          },
+          {
+            "term": "it",
+            "description": "ضمير يعود على المهرجان."
+          },
+          {
+            "term": "near",
+            "description": "تعني قريبًا من."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف لمكان معروف."
+          },
+          {
+            "term": "park",
+            "description": "حديقة أو متنزه."
+          },
+          {
+            "term": "area",
+            "description": "منطقة."
+          }
+        ]
       }
     ],
     "examples": [

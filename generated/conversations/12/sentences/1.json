@@ -7,60 +7,64 @@
     "context": "عميل يتصل بخدمة العملاء للسؤال عن طلبه."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Hello",
-        "description": "تحية تُستخدم في بداية المكالمة أو الحديث."
-      },
-      {
-        "term": "I",
-        "description": "ضمير المتكلم المفرد."
-      },
-      {
-        "term": "am",
-        "description": "تأتي مع المتكلم المفرد لتكوين الفعل المستمر هنا."
-      },
-      {
-        "term": "calling",
-        "description": "أتصل هاتفيًا في هذه اللحظة."
-      },
-      {
-        "term": "to",
-        "description": "توضح الغرض من الاتصال."
-      },
-      {
-        "term": "ask",
-        "description": "يسأل أو يطلب معلومة."
-      },
-      {
-        "term": "about",
-        "description": "بخصوص أو حول."
-      },
-      {
-        "term": "my",
-        "description": "يدل على أن الطلب يخص المتكلم."
-      },
-      {
-        "term": "order",
-        "description": "طلب شراء أو حجز."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "Hello",
-        "explanation": {
+        "ar": "مرحبًا، أنا أتصل للسؤال عن طلبي.",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "تحية قصيرة لبدء المكالمة وليست جملة بزمن مستقل."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Hello",
+            "description": "تحية تُستخدم في بداية المكالمة أو الحديث."
+          }
+        ]
       },
       {
         "sentence": "I am calling to ask about my order",
-        "explanation": {
+        "ar": "مرحبًا، أنا أتصل للسؤال عن طلبي.",
+        "grammar": {
           "tense": "المضارع المستمر",
           "tenseEn": "Present Continuous",
           "reason": "يصف فعلًا يحدث أثناء المكالمة الآن، مع توضيح الغرض منه باستخدام to ask."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير المتكلم المفرد."
+          },
+          {
+            "term": "am",
+            "description": "تأتي مع المتكلم المفرد لتكوين الفعل المستمر هنا."
+          },
+          {
+            "term": "calling",
+            "description": "أتصل هاتفيًا في هذه اللحظة."
+          },
+          {
+            "term": "to",
+            "description": "توضح الغرض من الاتصال."
+          },
+          {
+            "term": "ask",
+            "description": "يسأل أو يطلب معلومة."
+          },
+          {
+            "term": "about",
+            "description": "بخصوص أو حول."
+          },
+          {
+            "term": "my",
+            "description": "يدل على أن الطلب يخص المتكلم."
+          },
+          {
+            "term": "order",
+            "description": "طلب شراء أو حجز."
+          }
+        ]
       }
     ],
     "examples": [

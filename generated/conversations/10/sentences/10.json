@@ -7,56 +7,60 @@
     "context": "الموظف يوافق على عرض الصور على الشاشة."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Sure",
-        "description": "كلمة موافقة تعني بالتأكيد أو نعم."
-      },
-      {
-        "term": "I",
-        "description": "ضمير المتكلم المفرد."
-      },
-      {
-        "term": "will",
-        "description": "تدل هنا على قرار أو وعد بفعل شيء بعد لحظة الكلام."
-      },
-      {
-        "term": "display",
-        "description": "يعرض شيئًا ليكون مرئيًا."
-      },
-      {
-        "term": "them",
-        "description": "ضمير يعود على أشياء متعددة، مثل الصور."
-      },
-      {
-        "term": "on",
-        "description": "حرف جر يحدد السطح أو الوسيلة التي سيظهر عليها الشيء."
-      },
-      {
-        "term": "the",
-        "description": "أداة تعريف تشير إلى شاشة معروفة في الموقف."
-      },
-      {
-        "term": "screen",
-        "description": "الشاشة التي تظهر عليها الصور أو المعلومات."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "Sure",
-        "explanation": {
+        "ar": "بالتأكيد، سأعرضها على الشاشة.",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "كلمة موافقة قصيرة وليست جملة بزمن مستقل."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Sure",
+            "description": "كلمة موافقة تعني بالتأكيد أو نعم."
+          }
+        ]
       },
       {
         "sentence": "I will display them on the screen",
-        "explanation": {
+        "ar": "بالتأكيد، سأعرضها على الشاشة.",
+        "grammar": {
           "tense": "المستقبل البسيط",
           "tenseEn": "Future Simple",
           "reason": "استُخدم will للتعبير عن قرار فوري أو وعد بعرض الصور بعد لحظة الكلام."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير المتكلم المفرد."
+          },
+          {
+            "term": "will",
+            "description": "تدل هنا على قرار أو وعد بفعل شيء بعد لحظة الكلام."
+          },
+          {
+            "term": "display",
+            "description": "يعرض شيئًا ليكون مرئيًا."
+          },
+          {
+            "term": "them",
+            "description": "ضمير يعود على أشياء متعددة، مثل الصور."
+          },
+          {
+            "term": "on",
+            "description": "حرف جر يحدد السطح أو الوسيلة التي سيظهر عليها الشيء."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف تشير إلى شاشة معروفة في الموقف."
+          },
+          {
+            "term": "screen",
+            "description": "الشاشة التي تظهر عليها الصور أو المعلومات."
+          }
+        ]
       }
     ],
     "examples": [

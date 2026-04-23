@@ -7,56 +7,60 @@
     "context": "قل أنك سمعت شيئًا إيجابيًا."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "I",
-        "description": "ضمير المتكلم ويشير إلى الشخص الذي يتحدث."
-      },
-      {
-        "term": "have",
-        "description": "تساعد هنا على تكوين معنى أن الخبر وصل إلى المتكلم قبل الآن."
-      },
-      {
-        "term": "heard",
-        "description": "سمعت أو وصلني خبر."
-      },
-      {
-        "term": "Texas",
-        "description": "تكساس، اسم مكان أو ولاية."
-      },
-      {
-        "term": "is",
-        "description": "صيغة تأتي مع المفرد وتربط المكان بوصفه."
-      },
-      {
-        "term": "a",
-        "description": "أداة تدل على شيء واحد غير محدد."
-      },
-      {
-        "term": "beautiful",
-        "description": "جميل أو حسن المنظر."
-      },
-      {
-        "term": "place",
-        "description": "مكان أو منطقة."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "I have heard",
-        "explanation": {
+        "ar": "سمعت أن تكساس مكان جميل.",
+        "grammar": {
           "tense": "المضارع التام",
           "tenseEn": "Present Perfect",
           "reason": "تستخدم have heard للتعبير عن خبر وصل إلى المتكلم قبل الآن، مع بقاء أثره في الرأي أو المعرفة الحالية."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير المتكلم ويشير إلى الشخص الذي يتحدث."
+          },
+          {
+            "term": "have",
+            "description": "تساعد هنا على تكوين معنى أن الخبر وصل إلى المتكلم قبل الآن."
+          },
+          {
+            "term": "heard",
+            "description": "سمعت أو وصلني خبر."
+          }
+        ]
       },
       {
         "sentence": "Texas is a beautiful place",
-        "explanation": {
+        "ar": "سمعت أن تكساس مكان جميل.",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "تستخدم is لوصف مكان بصفة عامة في الحاضر، وهي أن تكساس مكان جميل."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Texas",
+            "description": "تكساس، اسم مكان أو ولاية."
+          },
+          {
+            "term": "is",
+            "description": "صيغة تأتي مع المفرد وتربط المكان بوصفه."
+          },
+          {
+            "term": "a",
+            "description": "أداة تدل على شيء واحد غير محدد."
+          },
+          {
+            "term": "beautiful",
+            "description": "جميل أو حسن المنظر."
+          },
+          {
+            "term": "place",
+            "description": "مكان أو منطقة."
+          }
+        ]
       }
     ],
     "examples": [

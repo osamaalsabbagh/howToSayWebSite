@@ -7,24 +7,25 @@
     "context": "اطلب من شخص التزام الصمت."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Be",
-        "description": "كن، وتستخدم في الأمر لطلب حالة أو تصرف."
-      },
-      {
-        "term": "quiet",
-        "description": "هادئ أو صامت."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "Be quiet.",
-        "explanation": {
+        "ar": "كن هادئًا.",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذه جملة أمر تطلب من المخاطب الهدوء أو الصمت، ولا تصف حدثًا بزمن مستقل."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Be",
+            "description": "كن، وتستخدم في الأمر لطلب حالة أو تصرف."
+          },
+          {
+            "term": "quiet",
+            "description": "هادئ أو صامت."
+          }
+        ]
       }
     ],
     "examples": [

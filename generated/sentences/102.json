@@ -7,28 +7,29 @@
     "context": "وداع حتى الليل."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "See",
-        "description": "أراك، وتأتي هنا ضمن تعبير وداع."
-      },
-      {
-        "term": "you",
-        "description": "ضمير يشير إلى الشخص الذي أتحدث معه."
-      },
-      {
-        "term": "tonight",
-        "description": "الليلة، أي في مساء أو ليل هذا اليوم."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "See you tonight.",
-        "explanation": {
+        "ar": "أراك الليلة.",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذا تعبير وداع ثابت يعني أن المتكلم يتوقع لقاء المخاطب الليلة، ولا يحمل زمنًا مستقلًا."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "See",
+            "description": "أراك، وتأتي هنا ضمن تعبير وداع."
+          },
+          {
+            "term": "you",
+            "description": "ضمير يشير إلى الشخص الذي أتحدث معه."
+          },
+          {
+            "term": "tonight",
+            "description": "الليلة، أي في مساء أو ليل هذا اليوم."
+          }
+        ]
       }
     ],
     "examples": [

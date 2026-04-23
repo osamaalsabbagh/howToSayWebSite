@@ -7,64 +7,68 @@
     "context": "تمنّ لشخصين رحلة طيبة."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "I",
-        "description": "ضمير المتكلم ويشير إلى الشخص الذي يتحدث."
-      },
-      {
-        "term": "hope",
-        "description": "آمل أو أتمنى حدوث شيء جيد."
-      },
-      {
-        "term": "you",
-        "description": "ضمير يشير إلى الشخص المخاطب."
-      },
-      {
-        "term": "and",
-        "description": "تربط بين شخصين أو شيئين."
-      },
-      {
-        "term": "your",
-        "description": "كلمة تدل على أن الشيء أو الشخص يخص المخاطب."
-      },
-      {
-        "term": "wife",
-        "description": "زوجة."
-      },
-      {
-        "term": "have",
-        "description": "تأتي هنا بمعنى تقضيان أو تحصلان على تجربة رحلة."
-      },
-      {
-        "term": "a",
-        "description": "أداة تدل على شيء واحد غير محدد."
-      },
-      {
-        "term": "nice",
-        "description": "جميل أو لطيف وممتع."
-      },
-      {
-        "term": "trip",
-        "description": "رحلة أو سفر."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "I hope",
-        "explanation": {
+        "ar": "آمل أن تحظيا أنت وزوجتك برحلة جميلة.",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "يستخدم المضارع البسيط هنا للتعبير عن أمنية أو شعور حالي عند المتكلم."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير المتكلم ويشير إلى الشخص الذي يتحدث."
+          },
+          {
+            "term": "hope",
+            "description": "آمل أو أتمنى حدوث شيء جيد."
+          }
+        ]
       },
       {
         "sentence": "you and your wife have a nice trip",
-        "explanation": {
+        "ar": "آمل أن تحظيا أنت وزوجتك برحلة جميلة.",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "بعد hope يمكن استخدام المضارع البسيط للتعبير عن أمر مأمول في المستقبل، وهو أن تكون الرحلة جميلة."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "you",
+            "description": "ضمير يشير إلى الشخص المخاطب."
+          },
+          {
+            "term": "and",
+            "description": "تربط بين شخصين أو شيئين."
+          },
+          {
+            "term": "your",
+            "description": "كلمة تدل على أن الشيء أو الشخص يخص المخاطب."
+          },
+          {
+            "term": "wife",
+            "description": "زوجة."
+          },
+          {
+            "term": "have",
+            "description": "تأتي هنا بمعنى تقضيان أو تحصلان على تجربة رحلة."
+          },
+          {
+            "term": "a",
+            "description": "أداة تدل على شيء واحد غير محدد."
+          },
+          {
+            "term": "nice",
+            "description": "جميل أو لطيف وممتع."
+          },
+          {
+            "term": "trip",
+            "description": "رحلة أو سفر."
+          }
+        ]
       }
     ],
     "examples": [

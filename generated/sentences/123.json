@@ -7,32 +7,33 @@
     "context": "اشتكِ من الظلم."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "That",
-        "description": "ذلك الشيء أو الموقف الذي تشير إليه."
-      },
-      {
-        "term": "is",
-        "description": "صيغة تأتي مع المفرد وتربط الشيء بوصفه أو حكمك عليه."
-      },
-      {
-        "term": "not",
-        "description": "كلمة نفي تجعل المعنى ليس."
-      },
-      {
-        "term": "fair",
-        "description": "عادل أو منصف."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "That is not fair.",
-        "explanation": {
+        "ar": "ذلك ليس عدلًا.",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "تستخدم is not مع صفة للتعبير عن حكم حالي على موقف بأنه غير عادل."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "That",
+            "description": "ذلك الشيء أو الموقف الذي تشير إليه."
+          },
+          {
+            "term": "is",
+            "description": "صيغة تأتي مع المفرد وتربط الشيء بوصفه أو حكمك عليه."
+          },
+          {
+            "term": "not",
+            "description": "كلمة نفي تجعل المعنى ليس."
+          },
+          {
+            "term": "fair",
+            "description": "عادل أو منصف."
+          }
+        ]
       }
     ],
     "examples": [

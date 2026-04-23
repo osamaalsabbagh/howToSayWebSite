@@ -7,32 +7,33 @@
     "context": "اعتذر قبل أو مع بدء إزعاجك لشخص ما."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Sorry",
-        "description": "عذرًا أو آسف، وتستخدم للاعتذار."
-      },
-      {
-        "term": "to",
-        "description": "تأتي قبل الفعل لتوضح سبب الاعتذار أو الفعل المتوقع."
-      },
-      {
-        "term": "bother",
-        "description": "أزعج أو أقاطع شخصًا."
-      },
-      {
-        "term": "you",
-        "description": "ضمير يشير إلى الشخص الذي أتحدث معه."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "Sorry to bother you.",
-        "explanation": {
+        "ar": "عذرًا لإزعاجك.",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذا تعبير اعتذار مهذب يستخدم قبل أو أثناء مقاطعة شخص، ولا يحتوي على فعل مصرف بزمن مستقل."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Sorry",
+            "description": "عذرًا أو آسف، وتستخدم للاعتذار."
+          },
+          {
+            "term": "to",
+            "description": "تأتي قبل الفعل لتوضح سبب الاعتذار أو الفعل المتوقع."
+          },
+          {
+            "term": "bother",
+            "description": "أزعج أو أقاطع شخصًا."
+          },
+          {
+            "term": "you",
+            "description": "ضمير يشير إلى الشخص الذي أتحدث معه."
+          }
+        ]
       }
     ],
     "examples": [

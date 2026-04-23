@@ -7,48 +7,52 @@
     "context": "اقترح الذهاب لرؤية شيء."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Let",
-        "description": "تأتي هنا لاقتراح فعل شيء معًا."
-      },
-      {
-        "term": "us",
-        "description": "ضمير يشمل المتكلم والشخص أو الأشخاص معه."
-      },
-      {
-        "term": "go",
-        "description": "نذهب أو نتحرك إلى مكان."
-      },
-      {
-        "term": "have",
-        "description": "جزء من تعبير يعني نلقي أو نأخذ نظرة."
-      },
-      {
-        "term": "a",
-        "description": "أداة تدل على شيء واحد غير محدد."
-      },
-      {
-        "term": "look",
-        "description": "نظرة أو فحص سريع بالعين."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "Let us go",
-        "explanation": {
+        "ar": "دعنا نذهب لنلقي نظرة.",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذه صيغة اقتراح لفعل شيء معًا، وليست جملة خبرية بزمن مستقل."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Let",
+            "description": "تأتي هنا لاقتراح فعل شيء معًا."
+          },
+          {
+            "term": "us",
+            "description": "ضمير يشمل المتكلم والشخص أو الأشخاص معه."
+          },
+          {
+            "term": "go",
+            "description": "نذهب أو نتحرك إلى مكان."
+          }
+        ]
       },
       {
         "sentence": "have a look",
-        "explanation": {
+        "ar": "دعنا نذهب لنلقي نظرة.",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذا تعبير يعني إلقاء نظرة أو فحص شيء بسرعة، ويأتي تابعًا للاقتراح ولا يحمل زمنًا مستقلًا."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "have",
+            "description": "جزء من تعبير يعني نلقي أو نأخذ نظرة."
+          },
+          {
+            "term": "a",
+            "description": "أداة تدل على شيء واحد غير محدد."
+          },
+          {
+            "term": "look",
+            "description": "نظرة أو فحص سريع بالعين."
+          }
+        ]
       }
     ],
     "examples": [

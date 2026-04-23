@@ -7,32 +7,33 @@
     "context": "تفاعل مع خبر سيء."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "That",
-        "description": "ذلك الخبر أو الموقف الذي تشير إليه."
-      },
-      {
-        "term": "is",
-        "description": "صيغة تربط الخبر بوصف أو رد فعل."
-      },
-      {
-        "term": "too",
-        "description": "تدل هنا على درجة كبيرة أو مؤسفة."
-      },
-      {
-        "term": "bad",
-        "description": "سيئ أو مؤسف في هذا السياق."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "That is too bad.",
-        "explanation": {
+        "ar": "ذلك أمر مؤسف.",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذا تعبير شائع للتعاطف أو التفاعل مع خبر سيئ، والأفضل فهمه كتعبير ثابت لا كزمن مستقل."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "That",
+            "description": "ذلك الخبر أو الموقف الذي تشير إليه."
+          },
+          {
+            "term": "is",
+            "description": "صيغة تربط الخبر بوصف أو رد فعل."
+          },
+          {
+            "term": "too",
+            "description": "تدل هنا على درجة كبيرة أو مؤسفة."
+          },
+          {
+            "term": "bad",
+            "description": "سيئ أو مؤسف في هذا السياق."
+          }
+        ]
       }
     ],
     "examples": [

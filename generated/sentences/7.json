@@ -7,28 +7,29 @@
     "context": "أخبر أن التحضير مكتمل."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Everything",
-        "description": "كل الأشياء أو كل ما نحتاجه في الموقف."
-      },
-      {
-        "term": "is",
-        "description": "صيغة تأتي مع المفرد الغائب وتربط الشيء بوصفه الحالي."
-      },
-      {
-        "term": "ready",
-        "description": "جاهز أو مكتمل التحضير."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "Everything is ready.",
-        "explanation": {
+        "ar": "كل شيء جاهز.",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "تستخدم الجملة وصفًا حاليًا ثابتًا نسبيًا لتأكيد أن التحضير مكتمل الآن."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Everything",
+            "description": "كل الأشياء أو كل ما نحتاجه في الموقف."
+          },
+          {
+            "term": "is",
+            "description": "صيغة تأتي مع المفرد الغائب وتربط الشيء بوصفه الحالي."
+          },
+          {
+            "term": "ready",
+            "description": "جاهز أو مكتمل التحضير."
+          }
+        ]
       }
     ],
     "examples": [

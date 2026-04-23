@@ -5,5 +5,98 @@
     "en": "Here is my number.",
     "ar": "هذا رقمي.",
     "context": "تقديم رقم هاتفك لشخص ما."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Here is my number.",
+        "ar": "هذا رقمي.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "التعبير Here is يستخدم في المضارع البسيط لتقديم شيء موجود الآن، مثل رقم الهاتف."
+        },
+        "wordMeanings": [
+          {
+            "term": "Here",
+            "description": "تعني هنا أو هذا الشيء الموجود أمامك."
+          },
+          {
+            "term": "is",
+            "description": "تستخدم لتقديم شيء مفرد أو الإشارة إليه."
+          },
+          {
+            "term": "my",
+            "description": "تعني الخاص بي."
+          },
+          {
+            "term": "number",
+            "description": "تعني رقم الهاتف في هذا السياق."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Here is my email.",
+        "ar": "هذا بريدي الإلكتروني.",
+        "context": "تعطي شخصا بريدك الإلكتروني."
+      },
+      {
+        "id": 2,
+        "en": "Here is my address.",
+        "ar": "هذا عنواني.",
+        "context": "تقدم عنوانك لشخص يحتاجه."
+      },
+      {
+        "id": 3,
+        "en": "Here is my ticket.",
+        "ar": "هذه تذكرتي.",
+        "context": "تظهر تذكرتك لموظف."
+      },
+      {
+        "id": 4,
+        "en": "Here is your receipt.",
+        "ar": "هذا إيصالك.",
+        "context": "تعطي إيصالا للعميل."
+      },
+      {
+        "id": 5,
+        "en": "Here is the key.",
+        "ar": "هذا هو المفتاح.",
+        "context": "تسلم مفتاحا لشخص."
+      },
+      {
+        "id": 6,
+        "en": "Here is the menu.",
+        "ar": "هذه قائمة الطعام.",
+        "context": "تقدم قائمة الطعام في مطعم."
+      },
+      {
+        "id": 7,
+        "en": "Here is my card.",
+        "ar": "هذه بطاقتي.",
+        "context": "تعطي بطاقة عمل أو بطاقة دفع."
+      },
+      {
+        "id": 8,
+        "en": "Here is the form.",
+        "ar": "هذا هو النموذج.",
+        "context": "تعطي نموذجا لشخص ليملأه."
+      },
+      {
+        "id": 9,
+        "en": "Here is your change.",
+        "ar": "هذا باقي نقودك.",
+        "context": "تعيد باقي النقود بعد الدفع."
+      },
+      {
+        "id": 10,
+        "en": "Here is my passport.",
+        "ar": "هذا جواز سفري.",
+        "context": "تقدم جواز سفرك للتفتيش أو التسجيل."
+      }
+    ]
   }
 }

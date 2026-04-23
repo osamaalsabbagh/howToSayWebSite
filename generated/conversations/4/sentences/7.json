@@ -7,44 +7,45 @@
     "context": "يسأله ليتأكد إن كان على وشك السفر اليوم من هذا المطار."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Are",
-        "description": "صيغة تبدأ سؤالًا عن فعل جارٍ أو ترتيب قريب."
-      },
-      {
-        "term": "you",
-        "description": "ضمير المخاطب."
-      },
-      {
-        "term": "traveling",
-        "description": "تعني تسافر أو في طريق السفر."
-      },
-      {
-        "term": "today",
-        "description": "هذا اليوم."
-      },
-      {
-        "term": "from",
-        "description": "حرف يوضح نقطة بداية السفر."
-      },
-      {
-        "term": "this",
-        "description": "اسم إشارة للمطار الحالي."
-      },
-      {
-        "term": "airport",
-        "description": "مطار."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "Are you traveling today from this airport?",
-        "explanation": {
+        "ar": "هل تسافر اليوم من هذا المطار؟",
+        "grammar": {
           "tense": "المضارع المستمر",
           "tenseEn": "Present Continuous",
           "reason": "استُعمل المضارع المستمر للسؤال عن ترتيب سفر قريب يحدث اليوم."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Are",
+            "description": "صيغة تبدأ سؤالًا عن فعل جارٍ أو ترتيب قريب."
+          },
+          {
+            "term": "you",
+            "description": "ضمير المخاطب."
+          },
+          {
+            "term": "traveling",
+            "description": "تعني تسافر أو في طريق السفر."
+          },
+          {
+            "term": "today",
+            "description": "هذا اليوم."
+          },
+          {
+            "term": "from",
+            "description": "حرف يوضح نقطة بداية السفر."
+          },
+          {
+            "term": "this",
+            "description": "اسم إشارة للمطار الحالي."
+          },
+          {
+            "term": "airport",
+            "description": "مطار."
+          }
+        ]
       }
     ],
     "examples": [

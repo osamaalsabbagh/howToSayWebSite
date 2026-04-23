@@ -7,68 +7,72 @@
     "context": "يؤكد أن المساحة مناسبة لاحتياجه."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "That",
-        "description": "يشير إلى وصف الشقة السابق."
-      },
-      {
-        "term": "sounds",
-        "description": "تعني يبدو من الكلام أو الوصف."
-      },
-      {
-        "term": "perfect",
-        "description": "صفة تعني مناسبًا جدًا أو مثاليًا."
-      },
-      {
-        "term": "I",
-        "description": "ضمير المتكلم المفرد."
-      },
-      {
-        "term": "do",
-        "description": "فعل مساعد يستخدم هنا لتكوين النفي."
-      },
-      {
-        "term": "not",
-        "description": "أداة نفي."
-      },
-      {
-        "term": "need",
-        "description": "تعني أحتاج."
-      },
-      {
-        "term": "anything",
-        "description": "أي شيء."
-      },
-      {
-        "term": "larger",
-        "description": "صفة مقارنة تعني أكبر حجمًا."
-      },
-      {
-        "term": "than",
-        "description": "تستخدم في المقارنة."
-      },
-      {
-        "term": "that",
-        "description": "يشير إلى حجم الشقة أو مواصفاتها المذكورة."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "That sounds perfect.",
-        "explanation": {
+        "ar": "هذا يبدو مثاليًا.",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "استُعمل المضارع البسيط لوصف الانطباع الحالي عن الشقة بعد سماع مواصفاتها."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "That",
+            "description": "يشير إلى وصف الشقة السابق."
+          },
+          {
+            "term": "sounds",
+            "description": "تعني يبدو من الكلام أو الوصف."
+          },
+          {
+            "term": "perfect",
+            "description": "صفة تعني مناسبًا جدًا أو مثاليًا."
+          }
+        ]
       },
       {
         "sentence": "I do not need anything larger than that.",
-        "explanation": {
+        "ar": "لا أحتاج أي شيء أكبر من ذلك.",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "استُعمل المضارع البسيط المنفي للتعبير عن حاجة المتكلم الحالية وما لا يحتاجه."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير المتكلم المفرد."
+          },
+          {
+            "term": "do",
+            "description": "فعل مساعد يستخدم هنا لتكوين النفي."
+          },
+          {
+            "term": "not",
+            "description": "أداة نفي."
+          },
+          {
+            "term": "need",
+            "description": "تعني أحتاج."
+          },
+          {
+            "term": "anything",
+            "description": "أي شيء."
+          },
+          {
+            "term": "larger",
+            "description": "صفة مقارنة تعني أكبر حجمًا."
+          },
+          {
+            "term": "than",
+            "description": "تستخدم في المقارنة."
+          },
+          {
+            "term": "that",
+            "description": "يشير إلى حجم الشقة أو مواصفاتها المذكورة."
+          }
+        ]
       }
     ],
     "examples": [

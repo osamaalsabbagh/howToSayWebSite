@@ -7,68 +7,72 @@
     "context": "يذكر قرب موقع عمله من مكان النشاط لبيان سهولة الوصول"
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Just",
-        "description": "تعني فقط، وتحدد أن المتكلم وحده."
-      },
-      {
-        "term": "me",
-        "description": "ضمير يعود على المتكلم، ومعنى العبارة: أنا فقط."
-      },
-      {
-        "term": "I",
-        "description": "ضمير المتكلم المفرد."
-      },
-      {
-        "term": "work",
-        "description": "تعني أعمل أو لدي وظيفة."
-      },
-      {
-        "term": "across",
-        "description": "تعني في الجهة المقابلة عند استعمالها مع from."
-      },
-      {
-        "term": "the",
-        "description": "أداة تعريف لشيء معروف في السياق."
-      },
-      {
-        "term": "street",
-        "description": "شارع أو طريق داخل المدينة."
-      },
-      {
-        "term": "so",
-        "description": "تربط السبب بالنتيجة، بمعنى لذلك."
-      },
-      {
-        "term": "it",
-        "description": "ضمير يعود على المكان أو الانضمام إلى النشاط."
-      },
-      {
-        "term": "is",
-        "description": "صيغة تربط الضمير بالوصف الذي بعده."
-      },
-      {
-        "term": "convenient",
-        "description": "صفة تعني مناسبًا وسهلًا من ناحية الوقت أو المكان."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "Just me.",
-        "explanation": {
+        "ar": "أنا فقط.",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذه عبارة قصيرة تعني أن المتكلم وحده، وليست جملة فعلية بزمن مستقل."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Just",
+            "description": "تعني فقط، وتحدد أن المتكلم وحده."
+          },
+          {
+            "term": "me",
+            "description": "ضمير يعود على المتكلم، ومعنى العبارة: أنا فقط."
+          }
+        ]
       },
       {
         "sentence": "I work across the street, so it is convenient.",
-        "explanation": {
+        "ar": "أعمل في الجهة المقابلة من الشارع، لذا فهو مناسب.",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "استُعمل المضارع البسيط لأن المتكلم يذكر مكان عمله وحقيقة حالية تجعل النشاط مناسبًا له."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير المتكلم المفرد."
+          },
+          {
+            "term": "work",
+            "description": "تعني أعمل أو لدي وظيفة."
+          },
+          {
+            "term": "across",
+            "description": "تعني في الجهة المقابلة عند استعمالها مع from."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف لشيء معروف في السياق."
+          },
+          {
+            "term": "street",
+            "description": "شارع أو طريق داخل المدينة."
+          },
+          {
+            "term": "so",
+            "description": "تربط السبب بالنتيجة، بمعنى لذلك."
+          },
+          {
+            "term": "it",
+            "description": "ضمير يعود على المكان أو الانضمام إلى النشاط."
+          },
+          {
+            "term": "is",
+            "description": "صيغة تربط الضمير بالوصف الذي بعده."
+          },
+          {
+            "term": "convenient",
+            "description": "صفة تعني مناسبًا وسهلًا من ناحية الوقت أو المكان."
+          }
+        ]
       }
     ],
     "examples": [

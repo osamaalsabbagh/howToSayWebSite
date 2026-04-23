@@ -7,36 +7,37 @@
     "context": "قل أنك تريد وجبة خفيفة فقط."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "I",
-        "description": "ضمير المتكلم ويشير إلى الشخص الذي يتحدث."
-      },
-      {
-        "term": "only",
-        "description": "فقط، وتحدد أن المطلوب شيء صغير أو محدود."
-      },
-      {
-        "term": "want",
-        "description": "أريد أو أرغب في شيء."
-      },
-      {
-        "term": "a",
-        "description": "أداة تدل على شيء واحد غير محدد."
-      },
-      {
-        "term": "snack",
-        "description": "وجبة خفيفة أو طعام صغير بين الوجبات."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "I only want a snack.",
-        "explanation": {
+        "ar": "انا فقط أريد وجبة خفيفة.",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "تستخدم الجملة المضارع البسيط للتعبير عن رغبة حالية، وتأتي only لتحديد أن المتكلم لا يريد وجبة كبيرة."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير المتكلم ويشير إلى الشخص الذي يتحدث."
+          },
+          {
+            "term": "only",
+            "description": "فقط، وتحدد أن المطلوب شيء صغير أو محدود."
+          },
+          {
+            "term": "want",
+            "description": "أريد أو أرغب في شيء."
+          },
+          {
+            "term": "a",
+            "description": "أداة تدل على شيء واحد غير محدد."
+          },
+          {
+            "term": "snack",
+            "description": "وجبة خفيفة أو طعام صغير بين الوجبات."
+          }
+        ]
       }
     ],
     "examples": [

@@ -7,28 +7,29 @@
     "context": "أكد صحة الرأي."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "He",
-        "description": "ضمير يشير إلى رجل أو ولد معروف من السياق."
-      },
-      {
-        "term": "is",
-        "description": "صيغة تأتي مع المفرد الغائب وتربط الشخص بوصفه الحالي."
-      },
-      {
-        "term": "right",
-        "description": "على حق أو كلامه صحيح في هذا السياق."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "He is right.",
-        "explanation": {
+        "ar": "هو على حق.",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "تستخدم الجملة وصفًا حاليًا لرأي الشخص أو صحة كلامه، لذلك تأتي بصيغة المضارع البسيط مع is."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "He",
+            "description": "ضمير يشير إلى رجل أو ولد معروف من السياق."
+          },
+          {
+            "term": "is",
+            "description": "صيغة تأتي مع المفرد الغائب وتربط الشخص بوصفه الحالي."
+          },
+          {
+            "term": "right",
+            "description": "على حق أو كلامه صحيح في هذا السياق."
+          }
+        ]
       }
     ],
     "examples": [

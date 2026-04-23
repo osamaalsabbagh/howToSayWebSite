@@ -7,56 +7,60 @@
     "context": "أسلوب محادثة يومية يوضح الحركة باتجاه شخص أو مكان."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "She",
-        "description": "هي، وتشير إلى امرأة أو فتاة."
-      },
-      {
-        "term": "came",
-        "description": "دخلت أو جاءت باتجاه مكان."
-      },
-      {
-        "term": "into",
-        "description": "إلى داخل، وتدل على الحركة من الخارج إلى الداخل."
-      },
-      {
-        "term": "the",
-        "description": "أداة تشير إلى غرفة محددة معروفة."
-      },
-      {
-        "term": "room",
-        "description": "غرفة."
-      },
-      {
-        "term": "and",
-        "description": "و، وتربط فعلين متتابعين."
-      },
-      {
-        "term": "sat",
-        "description": "جلست."
-      },
-      {
-        "term": "down",
-        "description": "إلى الأسفل، وتكمل معنى الجلوس."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "She came into the room",
-        "explanation": {
+        "ar": "دَخَلَتْ إِلَى الغُرْفَةِ وَجَلَسَتْ.",
+        "grammar": {
           "tense": "الماضي البسيط",
           "tenseEn": "Past Simple",
           "reason": "يستخدم الماضي البسيط لوصف حركة حدثت وانتهت في الماضي، وهي دخولها إلى الغرفة."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "She",
+            "description": "هي، وتشير إلى امرأة أو فتاة."
+          },
+          {
+            "term": "came",
+            "description": "دخلت أو جاءت باتجاه مكان."
+          },
+          {
+            "term": "into",
+            "description": "إلى داخل، وتدل على الحركة من الخارج إلى الداخل."
+          },
+          {
+            "term": "the",
+            "description": "أداة تشير إلى غرفة محددة معروفة."
+          },
+          {
+            "term": "room",
+            "description": "غرفة."
+          }
+        ]
       },
       {
-        "sentence": "sat down",
-        "explanation": {
+        "sentence": "and sat down",
+        "ar": "دَخَلَتْ إِلَى الغُرْفَةِ وَجَلَسَتْ.",
+        "grammar": {
           "tense": "الماضي البسيط",
           "tenseEn": "Past Simple",
           "reason": "هذا فعل ثان في الماضي يصف ما فعلته بعد دخول الغرفة، وترتيبه بعد الواو يدل على تسلسل الأحداث."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "and",
+            "description": "و، وتربط فعلين متتابعين."
+          },
+          {
+            "term": "sat",
+            "description": "جلست."
+          },
+          {
+            "term": "down",
+            "description": "إلى الأسفل، وتكمل معنى الجلوس."
+          }
+        ]
       }
     ],
     "examples": [

@@ -7,24 +7,25 @@
     "context": "تمنَّ لشخص عيد ميلاد سعيد."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Happy",
-        "description": "سعيد أو مبهج، وتستخدم هنا للتمني بالفرح."
-      },
-      {
-        "term": "Birthday",
-        "description": "يوم ميلاد الشخص أو ذكرى مولده."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "Happy Birthday.",
-        "explanation": {
+        "ar": "عيد ميلاد سعيد.",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذا تعبير تهنئة ثابت بلا فعل ظاهر، لذلك لا يحمل زمنًا مستقلًا، ويستخدم لتمني الفرح في يوم الميلاد."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Happy",
+            "description": "سعيد أو مبهج، وتستخدم هنا للتمني بالفرح."
+          },
+          {
+            "term": "Birthday",
+            "description": "يوم ميلاد الشخص أو ذكرى مولده."
+          }
+        ]
       }
     ],
     "examples": [

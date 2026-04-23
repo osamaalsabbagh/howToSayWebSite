@@ -7,60 +7,64 @@
     "context": "يسأل عن أبرز مواصفات الشقة قبل المعاينة."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Great",
-        "description": "كلمة تعبر عن الرضا أو الحماس."
-      },
-      {
-        "term": "What",
-        "description": "أداة سؤال عن الشيء أو المعلومات."
-      },
-      {
-        "term": "are",
-        "description": "صيغة سؤال تربط الجمع بالوصف أو الهوية."
-      },
-      {
-        "term": "the",
-        "description": "أداة تعريف لمزايا محددة في الشقة."
-      },
-      {
-        "term": "main",
-        "description": "تعني الأساسية أو الأهم."
-      },
-      {
-        "term": "features",
-        "description": "مزايا أو صفات مهمة."
-      },
-      {
-        "term": "of",
-        "description": "يربط المزايا بالشقة."
-      },
-      {
-        "term": "the",
-        "description": "أداة تعريف للشقة المحددة."
-      },
-      {
-        "term": "apartment",
-        "description": "شقة سكنية."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "Great.",
-        "explanation": {
+        "ar": "رائع.",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذه كلمة رد قصيرة تعبر عن الرضا وليست جملة فعلية لها زمن مستقل."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Great",
+            "description": "كلمة تعبر عن الرضا أو الحماس."
+          }
+        ]
       },
       {
         "sentence": "What are the main features of the apartment?",
-        "explanation": {
+        "ar": "ما هي المزايا الرئيسية للشقة؟",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "استُعمل المضارع البسيط للسؤال عن صفات الشقة الحالية أو الثابتة."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "What",
+            "description": "أداة سؤال عن الشيء أو المعلومات."
+          },
+          {
+            "term": "are",
+            "description": "صيغة سؤال تربط الجمع بالوصف أو الهوية."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف لمزايا محددة في الشقة."
+          },
+          {
+            "term": "main",
+            "description": "تعني الأساسية أو الأهم."
+          },
+          {
+            "term": "features",
+            "description": "مزايا أو صفات مهمة."
+          },
+          {
+            "term": "of",
+            "description": "يربط المزايا بالشقة."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف للشقة المحددة."
+          },
+          {
+            "term": "apartment",
+            "description": "شقة سكنية."
+          }
+        ]
       }
     ],
     "examples": [

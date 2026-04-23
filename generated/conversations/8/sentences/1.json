@@ -7,56 +7,60 @@
     "context": "بدء مكالمة هاتفية بالتعليق على سرعة مرور الوقت"
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Hi",
-        "description": "تحية قصيرة وغير رسمية لبدء الحديث."
-      },
-      {
-        "term": "Can",
-        "description": "تبدأ سؤالًا عن القدرة أو التصديق، وتستعمل هنا للتعجب."
-      },
-      {
-        "term": "you",
-        "description": "ضمير المخاطب."
-      },
-      {
-        "term": "believe",
-        "description": "تعني تصدق أو تستوعب أن شيئًا صحيح."
-      },
-      {
-        "term": "it",
-        "description": "ضمير يعود على فكرة وصول شهر أغسطس."
-      },
-      {
-        "term": "is",
-        "description": "صيغة تربط الضمير بالحالة أو الوقت الحالي."
-      },
-      {
-        "term": "already",
-        "description": "تعني بالفعل أو بهذه السرعة قبل المتوقع."
-      },
-      {
-        "term": "August",
-        "description": "شهر أغسطس."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "Hi!",
-        "explanation": {
+        "ar": "مرحبًا!",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذه تحية قصيرة وليست جملة فعلية لها زمن مستقل."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Hi",
+            "description": "تحية قصيرة وغير رسمية لبدء الحديث."
+          }
+        ]
       },
       {
         "sentence": "Can you believe it is already August?",
-        "explanation": {
+        "ar": "هل يمكنك أن تصدق أنه أصبح بالفعل شهر أغسطس؟",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذا سؤال تعجبي يعتمد على can للتعبير عن صعوبة تصديق سرعة مرور الوقت، لذلك يشرح كتركيب وظيفي لا كزمن مستقل."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Can",
+            "description": "تبدأ سؤالًا عن القدرة أو التصديق، وتستعمل هنا للتعجب."
+          },
+          {
+            "term": "you",
+            "description": "ضمير المخاطب."
+          },
+          {
+            "term": "believe",
+            "description": "تعني تصدق أو تستوعب أن شيئًا صحيح."
+          },
+          {
+            "term": "it",
+            "description": "ضمير يعود على فكرة وصول شهر أغسطس."
+          },
+          {
+            "term": "is",
+            "description": "صيغة تربط الضمير بالحالة أو الوقت الحالي."
+          },
+          {
+            "term": "already",
+            "description": "تعني بالفعل أو بهذه السرعة قبل المتوقع."
+          },
+          {
+            "term": "August",
+            "description": "شهر أغسطس."
+          }
+        ]
       }
     ],
     "examples": [

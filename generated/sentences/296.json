@@ -7,24 +7,25 @@
     "context": "الإشارة إلى مكان أبعد."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Over",
-        "description": "تأتي هنا مع there للإشارة إلى مكان أبعد."
-      },
-      {
-        "term": "there",
-        "description": "هناك، أي في مكان بعيد نسبيًا عن المتكلم."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "Over there.",
-        "explanation": {
+        "ar": "هناك.",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذه عبارة إشارة قصيرة تحدد مكانًا بعيدًا نسبيًا، ولا تحتوي على فعل ظاهر أو زمن مستقل."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Over",
+            "description": "تأتي هنا مع there للإشارة إلى مكان أبعد."
+          },
+          {
+            "term": "there",
+            "description": "هناك، أي في مكان بعيد نسبيًا عن المتكلم."
+          }
+        ]
       }
     ],
     "examples": [

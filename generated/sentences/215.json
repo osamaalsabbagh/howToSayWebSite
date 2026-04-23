@@ -7,32 +7,33 @@
     "context": "تُستخدم للسؤال عن مكان دورة المياه بشكل عام."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Where",
-        "description": "أين، وتستخدم للسؤال عن مكان."
-      },
-      {
-        "term": "is",
-        "description": "صيغة تربط السؤال بمكان الشيء في الحاضر."
-      },
-      {
-        "term": "the",
-        "description": "أداة تشير إلى حمام محدد أو معروف في المكان."
-      },
-      {
-        "term": "bathroom",
-        "description": "الحمام أو دورة المياه."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "Where is the bathroom?",
-        "explanation": {
+        "ar": "أين الحمام؟",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "يستخدم فعل الربط في الحاضر للسؤال عن مكان ثابت أو معروف داخل المكان الحالي."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Where",
+            "description": "أين، وتستخدم للسؤال عن مكان."
+          },
+          {
+            "term": "is",
+            "description": "صيغة تربط السؤال بمكان الشيء في الحاضر."
+          },
+          {
+            "term": "the",
+            "description": "أداة تشير إلى حمام محدد أو معروف في المكان."
+          },
+          {
+            "term": "bathroom",
+            "description": "الحمام أو دورة المياه."
+          }
+        ]
       }
     ],
     "examples": [

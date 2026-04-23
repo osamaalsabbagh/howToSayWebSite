@@ -7,28 +7,29 @@
     "context": "الإشارة إلى الاتجاه الأيسر."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "On",
-        "description": "تستخدم هنا لتحديد جهة أو جانب."
-      },
-      {
-        "term": "the",
-        "description": "أداة تشير إلى جهة محددة."
-      },
-      {
-        "term": "left",
-        "description": "الجهة اليسرى."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "On the left.",
-        "explanation": {
+        "ar": "على اليسار.",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذا تعبير اتجاهي قصير يحدد الجهة اليسرى، ولا يحتوي على فعل ظاهر أو زمن مستقل."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "On",
+            "description": "تستخدم هنا لتحديد جهة أو جانب."
+          },
+          {
+            "term": "the",
+            "description": "أداة تشير إلى جهة محددة."
+          },
+          {
+            "term": "left",
+            "description": "الجهة اليسرى."
+          }
+        ]
       }
     ],
     "examples": [

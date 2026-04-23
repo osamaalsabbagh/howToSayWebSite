@@ -7,52 +7,56 @@
     "context": "الممثل يرد بلطف ويشجعه على أن يجلس بجانبه دون تردد"
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "No",
-        "description": "كلمة نفي تعني أن المقعد غير مشغول."
-      },
-      {
-        "term": "go",
-        "description": "تأتي هنا ضمن عبارة تشجيع تعني تفضل أو أكمل."
-      },
-      {
-        "term": "ahead",
-        "description": "تكمل عبارة go ahead وتعطي معنى السماح بالمضي."
-      },
-      {
-        "term": "Feel",
-        "description": "تأتي هنا ضمن عبارة تشجيع تعني لا تتردد."
-      },
-      {
-        "term": "free",
-        "description": "تعني بحرية أو بدون حرج في هذا السياق."
-      },
-      {
-        "term": "to",
-        "description": "تأتي قبل الفعل بعد feel free."
-      },
-      {
-        "term": "sit",
-        "description": "تعني اجلس أو اتخذ مقعدًا."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "No, go ahead.",
-        "explanation": {
+        "ar": "لا، امضِ قدماً.",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذه إجابة قصيرة مع عبارة سماح وتشجيع، وليست جملة خبرية بزمن مستقل."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "No",
+            "description": "كلمة نفي تعني أن المقعد غير مشغول."
+          },
+          {
+            "term": "go",
+            "description": "تأتي هنا ضمن عبارة تشجيع تعني تفضل أو أكمل."
+          },
+          {
+            "term": "ahead",
+            "description": "تكمل عبارة go ahead وتعطي معنى السماح بالمضي."
+          }
+        ]
       },
       {
         "sentence": "Feel free to sit.",
-        "explanation": {
+        "ar": "اجلس براحتك.",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذه صيغة تشجيع أو دعوة مهذبة للجلوس، لذلك لا نعاملها كزمن فعلي مستقل."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Feel",
+            "description": "تأتي هنا ضمن عبارة تشجيع تعني لا تتردد."
+          },
+          {
+            "term": "free",
+            "description": "تعني بحرية أو بدون حرج في هذا السياق."
+          },
+          {
+            "term": "to",
+            "description": "تأتي قبل الفعل بعد feel free."
+          },
+          {
+            "term": "sit",
+            "description": "تعني اجلس أو اتخذ مقعدًا."
+          }
+        ]
       }
     ],
     "examples": [

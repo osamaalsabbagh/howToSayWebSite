@@ -7,24 +7,25 @@
     "context": "اطلب من شخص أن يخبرك بشيء."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Tell",
-        "description": "أخبر أو قل معلومة لشخص."
-      },
-      {
-        "term": "me",
-        "description": "ضمير يشير إلى المتكلم عندما يكون متلقيًا للمعلومة."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "Tell me.",
-        "explanation": {
+        "ar": "أخبرني.",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذه صيغة أمر أو طلب مباشر لسماع معلومة، والفاعل مفهوم من السياق، لذلك لا تحمل زمنًا مستقلًا."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Tell",
+            "description": "أخبر أو قل معلومة لشخص."
+          },
+          {
+            "term": "me",
+            "description": "ضمير يشير إلى المتكلم عندما يكون متلقيًا للمعلومة."
+          }
+        ]
       }
     ],
     "examples": [

@@ -7,36 +7,40 @@
     "context": "يرد بالمثل ويودعه بتمنيات طيبة"
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Likewise",
-        "description": "كلمة تعني وأنا أيضًا أو الشعور نفسه يعود إليك."
-      },
-      {
-        "term": "Safe",
-        "description": "صفة تعني آمنًا أو خاليًا من الخطر."
-      },
-      {
-        "term": "travels",
-        "description": "رحلات أو تنقلات، وتستعمل هنا في تمني السلامة أثناء السفر."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "Likewise.",
-        "explanation": {
+        "ar": "وأنا كذلك.",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذه كلمة رد مختصرة تعني تبادل الشعور نفسه، وليست جملة فعلية لها زمن مستقل."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Likewise",
+            "description": "كلمة تعني وأنا أيضًا أو الشعور نفسه يعود إليك."
+          }
+        ]
       },
       {
         "sentence": "Safe travels!",
-        "explanation": {
+        "ar": "رحلات آمنة!",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذه عبارة تمني ثابتة تقال عند الوداع قبل السفر، وليست جملة فعلية بزمن مستقل."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Safe",
+            "description": "صفة تعني آمنًا أو خاليًا من الخطر."
+          },
+          {
+            "term": "travels",
+            "description": "رحلات أو تنقلات، وتستعمل هنا في تمني السلامة أثناء السفر."
+          }
+        ]
       }
     ],
     "examples": [

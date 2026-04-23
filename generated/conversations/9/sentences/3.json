@@ -7,64 +7,68 @@
     "context": "الزبون يمدح جودة التفاح القادم من تلك المنطقة"
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "I",
-        "description": "ضمير المتكلم المفرد."
-      },
-      {
-        "term": "love",
-        "description": "تعني أحب بشدة أو أفضّل."
-      },
-      {
-        "term": "apples",
-        "description": "تفاح بصيغة الجمع."
-      },
-      {
-        "term": "from",
-        "description": "حرف يوضح مصدر التفاح."
-      },
-      {
-        "term": "that",
-        "description": "اسم إشارة لمنطقة معروفة سبق ذكرها."
-      },
-      {
-        "term": "area",
-        "description": "منطقة أو مكان محدد."
-      },
-      {
-        "term": "they",
-        "description": "ضمير يعود على التفاح."
-      },
-      {
-        "term": "are",
-        "description": "صيغة تربط التفاح بصفته."
-      },
-      {
-        "term": "always",
-        "description": "تعني دائمًا أو في كل مرة تقريبًا."
-      },
-      {
-        "term": "sweet",
-        "description": "حلو المذاق."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "I love apples from that area",
-        "explanation": {
+        "ar": "أعشق التفاح من تلك المنطقة؛ يكون دائمًا حلو المذاق.",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "استُعمل المضارع البسيط لأن الزبون يعبّر عن تفضيل عام ومستقر لهذا النوع من التفاح."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير المتكلم المفرد."
+          },
+          {
+            "term": "love",
+            "description": "تعني أحب بشدة أو أفضّل."
+          },
+          {
+            "term": "apples",
+            "description": "تفاح بصيغة الجمع."
+          },
+          {
+            "term": "from",
+            "description": "حرف يوضح مصدر التفاح."
+          },
+          {
+            "term": "that",
+            "description": "اسم إشارة لمنطقة معروفة سبق ذكرها."
+          },
+          {
+            "term": "area",
+            "description": "منطقة أو مكان محدد."
+          }
+        ]
       },
       {
         "sentence": "they are always sweet.",
-        "explanation": {
+        "ar": "أعشق التفاح من تلك المنطقة؛ يكون دائمًا حلو المذاق.",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "استُعمل المضارع البسيط لأن المتكلم يصف صفة عامة يلاحظها عادة في التفاح القادم من تلك المنطقة."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "they",
+            "description": "ضمير يعود على التفاح."
+          },
+          {
+            "term": "are",
+            "description": "صيغة تربط التفاح بصفته."
+          },
+          {
+            "term": "always",
+            "description": "تعني دائمًا أو في كل مرة تقريبًا."
+          },
+          {
+            "term": "sweet",
+            "description": "حلو المذاق."
+          }
+        ]
       }
     ],
     "examples": [

@@ -5,5 +5,94 @@
     "en": "Where is it?",
     "ar": "أين هو؟",
     "context": "السؤال عن موقع شيء معين."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Where is it?",
+        "ar": "أين هو؟",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "السؤال يستخدم is مع الضمير it للسؤال عن مكان شيء في الوقت الحالي أو بشكل عام."
+        },
+        "wordMeanings": [
+          {
+            "term": "Where",
+            "description": "تستخدم للسؤال عن مكان شيء أو شخص."
+          },
+          {
+            "term": "is",
+            "description": "صيغة تدل على الوجود أو الحالة مع المفرد."
+          },
+          {
+            "term": "it",
+            "description": "ضمير يشير إلى شيء سبق ذكره أو معروف من السياق."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Where is my bag?",
+        "ar": "أين حقيبتي؟",
+        "context": "تسأل عن مكان حقيبة مفقودة."
+      },
+      {
+        "id": 2,
+        "en": "Where is the key?",
+        "ar": "أين المفتاح؟",
+        "context": "تسأل عن مكان مفتاح."
+      },
+      {
+        "id": 3,
+        "en": "Where is the station?",
+        "ar": "أين المحطة؟",
+        "context": "تسأل عن موقع محطة."
+      },
+      {
+        "id": 4,
+        "en": "Where is your phone?",
+        "ar": "أين هاتفك؟",
+        "context": "تسأل شخصا عن مكان هاتفه."
+      },
+      {
+        "id": 5,
+        "en": "Where is the bathroom?",
+        "ar": "أين الحمام؟",
+        "context": "تسأل عن موقع الحمام في مكان عام."
+      },
+      {
+        "id": 6,
+        "en": "Where is the receipt?",
+        "ar": "أين الإيصال؟",
+        "context": "تبحث عن إيصال بعد شراء شيء."
+      },
+      {
+        "id": 7,
+        "en": "Where is the hotel?",
+        "ar": "أين الفندق؟",
+        "context": "تسأل عن موقع الفندق."
+      },
+      {
+        "id": 8,
+        "en": "Where is this address?",
+        "ar": "أين هذا العنوان؟",
+        "context": "تسأل عن مكان عنوان مكتوب."
+      },
+      {
+        "id": 9,
+        "en": "Where is the nearest bank?",
+        "ar": "أين أقرب بنك؟",
+        "context": "تسأل عن أقرب بنك."
+      },
+      {
+        "id": 10,
+        "en": "Where is the problem?",
+        "ar": "أين المشكلة؟",
+        "context": "تسأل عن موضع المشكلة في شيء ما."
+      }
+    ]
   }
 }

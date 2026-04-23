@@ -7,36 +7,37 @@
     "context": "ذكر مكان كنت فيه سابقًا."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "I",
-        "description": "ضمير المتكلم المفرد."
-      },
-      {
-        "term": "was",
-        "description": "كنت، وتصف حالة أو وجودًا في الماضي."
-      },
-      {
-        "term": "in",
-        "description": "داخل مكان أو في نطاقه."
-      },
-      {
-        "term": "the",
-        "description": "أداة تشير إلى مكان محدد."
-      },
-      {
-        "term": "library",
-        "description": "المكتبة، مكان قراءة أو استعارة الكتب."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "I was in the library.",
-        "explanation": {
+        "ar": "كنت في المكتبة.",
+        "grammar": {
           "tense": "الماضي البسيط",
           "tenseEn": "Past Simple",
           "reason": "تستخدم الجملة was لوصف وجود المتكلم في مكان معين في وقت سابق."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير المتكلم المفرد."
+          },
+          {
+            "term": "was",
+            "description": "كنت، وتصف حالة أو وجودًا في الماضي."
+          },
+          {
+            "term": "in",
+            "description": "داخل مكان أو في نطاقه."
+          },
+          {
+            "term": "the",
+            "description": "أداة تشير إلى مكان محدد."
+          },
+          {
+            "term": "library",
+            "description": "المكتبة، مكان قراءة أو استعارة الكتب."
+          }
+        ]
       }
     ],
     "examples": [

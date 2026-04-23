@@ -7,32 +7,33 @@
     "context": "أثناء الدفع أو عندما يوشك الشخص على الدفع."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "How",
-        "description": "كيف، وتستخدم للسؤال عن الطريقة."
-      },
-      {
-        "term": "are",
-        "description": "تأتي مع المخاطب لتكوين فعل يحدث الآن أو في اللحظة الحالية."
-      },
-      {
-        "term": "you",
-        "description": "أنت، وتشير إلى الشخص المخاطب."
-      },
-      {
-        "term": "paying",
-        "description": "تدفع أو ستدفع في موقف الدفع الحالي."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "How are you paying?",
-        "explanation": {
+        "ar": "كيف ستدفع؟",
+        "grammar": {
           "tense": "المضارع المستمر",
           "tenseEn": "Present Continuous",
           "reason": "يستخدم المضارع المستمر لأن السؤال يحدث أثناء عملية الدفع أو عندما يكون الدفع وشيكًا، ويسأل عن طريقة الدفع الحالية."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "How",
+            "description": "كيف، وتستخدم للسؤال عن الطريقة."
+          },
+          {
+            "term": "are",
+            "description": "تأتي مع المخاطب لتكوين فعل يحدث الآن أو في اللحظة الحالية."
+          },
+          {
+            "term": "you",
+            "description": "أنت، وتشير إلى الشخص المخاطب."
+          },
+          {
+            "term": "paying",
+            "description": "تدفع أو ستدفع في موقف الدفع الحالي."
+          }
+        ]
       }
     ],
     "examples": [

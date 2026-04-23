@@ -7,64 +7,68 @@
     "context": "المعلم يمدح السؤال ويقصد أنه سؤال رائع يستحق التقدير"
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "That",
-        "description": "يشير إلى السؤال الذي طرحه الطالب."
-      },
-      {
-        "term": "is",
-        "description": "تربط الشيء المشار إليه بوصفه رائعًا."
-      },
-      {
-        "term": "a",
-        "description": "أداة نكرة تأتي قبل اسم مفرد."
-      },
-      {
-        "term": "great",
-        "description": "رائع أو ممتاز."
-      },
-      {
-        "term": "question",
-        "description": "سؤال أو استفسار."
-      },
-      {
-        "term": "The",
-        "description": "أداة تعريف تشير إلى إجابة محددة للسؤال."
-      },
-      {
-        "term": "answer",
-        "description": "الإجابة أو الحل."
-      },
-      {
-        "term": "depends",
-        "description": "يعتمد أو يتغير بحسب شيء آخر."
-      },
-      {
-        "term": "on",
-        "description": "تأتي مع depends لتوضيح الشيء الذي يعتمد عليه المعنى."
-      },
-      {
-        "term": "context",
-        "description": "السياق أو الظروف التي تحدد المعنى."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "That is a great question.",
-        "explanation": {
+        "ar": "ذلك سؤال عظيم.",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "تصف الجملة السؤال في لحظة الحديث بأنه رائع أو مناسب."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "That",
+            "description": "يشير إلى السؤال الذي طرحه الطالب."
+          },
+          {
+            "term": "is",
+            "description": "تربط الشيء المشار إليه بوصفه رائعًا."
+          },
+          {
+            "term": "a",
+            "description": "أداة نكرة تأتي قبل اسم مفرد."
+          },
+          {
+            "term": "great",
+            "description": "رائع أو ممتاز."
+          },
+          {
+            "term": "question",
+            "description": "سؤال أو استفسار."
+          }
+        ]
       },
       {
         "sentence": "The answer depends on context.",
-        "explanation": {
+        "ar": "الإجابة تعتمد على السياق.",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "تقدم الجملة حقيقة عامة: الإجابة تتغير حسب السياق."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "The",
+            "description": "أداة تعريف تشير إلى إجابة محددة للسؤال."
+          },
+          {
+            "term": "answer",
+            "description": "الإجابة أو الحل."
+          },
+          {
+            "term": "depends",
+            "description": "يعتمد أو يتغير بحسب شيء آخر."
+          },
+          {
+            "term": "on",
+            "description": "تأتي مع depends لتوضيح الشيء الذي يعتمد عليه المعنى."
+          },
+          {
+            "term": "context",
+            "description": "السياق أو الظروف التي تحدد المعنى."
+          }
+        ]
       }
     ],
     "examples": [

@@ -7,28 +7,29 @@
     "context": "صف شعورك الجيد."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "I",
-        "description": "ضمير المتكلم ويشير إلى الشخص الذي يتحدث."
-      },
-      {
-        "term": "feel",
-        "description": "أشعر بحالة جسدية أو نفسية."
-      },
-      {
-        "term": "good",
-        "description": "بخير أو بحالة جيدة في هذا السياق."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "I feel good.",
-        "explanation": {
+        "ar": "أشعر أنني بحالة جيدة.",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "تستخدم الجملة المضارع البسيط للتعبير عن شعور المتكلم أو حالته الحالية بطريقة مباشرة."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير المتكلم ويشير إلى الشخص الذي يتحدث."
+          },
+          {
+            "term": "feel",
+            "description": "أشعر بحالة جسدية أو نفسية."
+          },
+          {
+            "term": "good",
+            "description": "بخير أو بحالة جيدة في هذا السياق."
+          }
+        ]
       }
     ],
     "examples": [

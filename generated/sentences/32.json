@@ -7,52 +7,56 @@
     "context": "تجنب إزعاج شخص."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "I",
-        "description": "ضمير المتكلم ويشير إلى الشخص الذي يتحدث."
-      },
-      {
-        "term": "do",
-        "description": "تساعد هنا على تكوين النفي في المضارع مع I."
-      },
-      {
-        "term": "not",
-        "description": "كلمة نفي تجعل المعنى لا أريد."
-      },
-      {
-        "term": "want",
-        "description": "أريد أو أرغب في فعل شيء."
-      },
-      {
-        "term": "to",
-        "description": "تأتي قبل الفعل لتربط الرغبة بالفعل المقصود."
-      },
-      {
-        "term": "bother",
-        "description": "أزعج أو أسبب إرباكًا لشخص."
-      },
-      {
-        "term": "you",
-        "description": "ضمير يشير إلى الشخص الذي أتحدث معه."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "I do not want",
-        "explanation": {
+        "ar": "لا أريد أن أزعجك.",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "تستخدم الجملة المضارع البسيط لنفي رغبة المتكلم في الموقف الحالي، ويأتي do not لتكوين النفي."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير المتكلم ويشير إلى الشخص الذي يتحدث."
+          },
+          {
+            "term": "do",
+            "description": "تساعد هنا على تكوين النفي في المضارع مع I."
+          },
+          {
+            "term": "not",
+            "description": "كلمة نفي تجعل المعنى لا أريد."
+          },
+          {
+            "term": "want",
+            "description": "أريد أو أرغب في فعل شيء."
+          }
+        ]
       },
       {
         "sentence": "to bother you",
-        "explanation": {
+        "ar": "لا أريد أن أزعجك.",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذا جزء يوضح الفعل الذي لا يريد المتكلم فعله، وهو إزعاج المخاطب، ولا يحمل زمنًا مستقلًا لأنه يبدأ بـ to قبل الفعل."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "to",
+            "description": "تأتي قبل الفعل لتربط الرغبة بالفعل المقصود."
+          },
+          {
+            "term": "bother",
+            "description": "أزعج أو أسبب إرباكًا لشخص."
+          },
+          {
+            "term": "you",
+            "description": "ضمير يشير إلى الشخص الذي أتحدث معه."
+          }
+        ]
       }
     ],
     "examples": [

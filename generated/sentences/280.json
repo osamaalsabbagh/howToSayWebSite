@@ -7,28 +7,29 @@
     "context": "قل إن الأمر مقبول."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "It",
-        "description": "ضمير يشير إلى الأمر أو الموقف المذكور."
-      },
-      {
-        "term": "is",
-        "description": "تربط الضمير بالوصف الحالي."
-      },
-      {
-        "term": "okay",
-        "description": "مقبول أو لا توجد مشكلة."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "It is okay.",
-        "explanation": {
+        "ar": "لا بأس.",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "الجملة تصف الموقف الحالي بأنه مقبول أو غير مقلق."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "It",
+            "description": "ضمير يشير إلى الأمر أو الموقف المذكور."
+          },
+          {
+            "term": "is",
+            "description": "تربط الضمير بالوصف الحالي."
+          },
+          {
+            "term": "okay",
+            "description": "مقبول أو لا توجد مشكلة."
+          }
+        ]
       }
     ],
     "examples": [

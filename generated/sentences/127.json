@@ -7,32 +7,33 @@
     "context": "للمعدود."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "That",
-        "description": "ذلك العدد أو المقدار الذي تشير إليه."
-      },
-      {
-        "term": "is",
-        "description": "صيغة تربط الشيء بحكمك عليه."
-      },
-      {
-        "term": "too",
-        "description": "أكثر من الحد المناسب."
-      },
-      {
-        "term": "many",
-        "description": "كثير جدًا، وتستخدم مع الأشياء المعدودة."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "That is too many.",
-        "explanation": {
+        "ar": "ذلك كثير جدًا.",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "تستخدم is لتقييم عدد حاضر بأنه أكثر من المناسب، وتستخدم too many مع الأشياء التي يمكن عدها."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "That",
+            "description": "ذلك العدد أو المقدار الذي تشير إليه."
+          },
+          {
+            "term": "is",
+            "description": "صيغة تربط الشيء بحكمك عليه."
+          },
+          {
+            "term": "too",
+            "description": "أكثر من الحد المناسب."
+          },
+          {
+            "term": "many",
+            "description": "كثير جدًا، وتستخدم مع الأشياء المعدودة."
+          }
+        ]
       }
     ],
     "examples": [

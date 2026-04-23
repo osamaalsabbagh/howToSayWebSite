@@ -7,24 +7,25 @@
     "context": "قل إن شيئًا لم يحدث بعد."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Not",
-        "description": "تستخدم هنا للنفي، أي أن الأمر لم يحدث."
-      },
-      {
-        "term": "yet",
-        "description": "بعد، وتدل على أن الأمر لم يحدث حتى الآن."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "Not yet.",
-        "explanation": {
+        "ar": "ليس بعد.",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذا رد مختصر يعني أن الشيء لم يحدث حتى الآن، ولا يحتوي على فعل ظاهر أو زمن مستقل."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Not",
+            "description": "تستخدم هنا للنفي، أي أن الأمر لم يحدث."
+          },
+          {
+            "term": "yet",
+            "description": "بعد، وتدل على أن الأمر لم يحدث حتى الآن."
+          }
+        ]
       }
     ],
     "examples": [

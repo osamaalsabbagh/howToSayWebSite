@@ -7,64 +7,68 @@
     "context": "تطلب معلوماته الأساسية لاستكمال التسجيل"
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Sure",
-        "description": "كلمة موافقة تعني بالتأكيد أو لا مشكلة."
-      },
-      {
-        "term": "Can",
-        "description": "تبدأ طلبًا مهذبًا عن قدرة الشخص أو استعداده لفعل شيء."
-      },
-      {
-        "term": "you",
-        "description": "ضمير المخاطب، ويشير إلى الشخص الذي يُطلب منه شيء."
-      },
-      {
-        "term": "give",
-        "description": "تعني تعطي أو تقدم معلومة."
-      },
-      {
-        "term": "me",
-        "description": "ضمير يعود على المتكلم بوصفه متلقي المعلومة."
-      },
-      {
-        "term": "your",
-        "description": "صفة ملكية تعني الخاص بك."
-      },
-      {
-        "term": "full",
-        "description": "تعني كاملًا أو غير مختصر."
-      },
-      {
-        "term": "address",
-        "description": "مكان السكن أو العنوان الكامل."
-      },
-      {
-        "term": "and",
-        "description": "حرف عطف يربط بين معلومتين مطلوبتين."
-      },
-      {
-        "term": "age",
-        "description": "العمر أو عدد سنوات الشخص."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "Sure.",
-        "explanation": {
+        "ar": "بالتأكيد.",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذه كلمة موافقة قصيرة وليست جملة فعلية لها زمن مستقل."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Sure",
+            "description": "كلمة موافقة تعني بالتأكيد أو لا مشكلة."
+          }
+        ]
       },
       {
         "sentence": "Can you give me your full address and age?",
-        "explanation": {
+        "ar": "هل يمكنك أن تعطيني عنوانك الكامل وعمرك؟",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذا سؤال طلب يعتمد على can لطلب معلومات التسجيل بطريقة مباشرة ومقبولة، لذلك يشرح كتركيب طلب لا كزمن مستقل."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Can",
+            "description": "تبدأ طلبًا مهذبًا عن قدرة الشخص أو استعداده لفعل شيء."
+          },
+          {
+            "term": "you",
+            "description": "ضمير المخاطب، ويشير إلى الشخص الذي يُطلب منه شيء."
+          },
+          {
+            "term": "give",
+            "description": "تعني تعطي أو تقدم معلومة."
+          },
+          {
+            "term": "me",
+            "description": "ضمير يعود على المتكلم بوصفه متلقي المعلومة."
+          },
+          {
+            "term": "your",
+            "description": "صفة ملكية تعني الخاص بك."
+          },
+          {
+            "term": "full",
+            "description": "تعني كاملًا أو غير مختصر."
+          },
+          {
+            "term": "address",
+            "description": "مكان السكن أو العنوان الكامل."
+          },
+          {
+            "term": "and",
+            "description": "حرف عطف يربط بين معلومتين مطلوبتين."
+          },
+          {
+            "term": "age",
+            "description": "العمر أو عدد سنوات الشخص."
+          }
+        ]
       }
     ],
     "examples": [

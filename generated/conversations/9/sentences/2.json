@@ -7,60 +7,61 @@
     "context": "البائع يوضح أن التفاح مصدره مزرعة تقع في منطقة الجبل المعروفة."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Yes",
-        "description": "كلمة تأكيد أو موافقة."
-      },
-      {
-        "term": "these",
-        "description": "اسم إشارة للجمع القريب، ويشير هنا إلى التفاح الموجود أمام الزبون."
-      },
-      {
-        "term": "apples",
-        "description": "تفاح بصيغة الجمع."
-      },
-      {
-        "term": "are",
-        "description": "صيغة تربط التفاح بمصدره أو وصفه."
-      },
-      {
-        "term": "from",
-        "description": "حرف يوضح مصدر الشيء أو المكان الذي جاء منه."
-      },
-      {
-        "term": "a",
-        "description": "أداة نكرة قبل اسم مفرد غير محدد."
-      },
-      {
-        "term": "farm",
-        "description": "مزرعة يزرع فيها التفاح أو منتجات أخرى."
-      },
-      {
-        "term": "in",
-        "description": "حرف يحدد مكان المزرعة."
-      },
-      {
-        "term": "the",
-        "description": "أداة تعريف لمنطقة معروفة في السياق."
-      },
-      {
-        "term": "mountain",
-        "description": "جبل أو منطقة جبلية."
-      },
-      {
-        "term": "area",
-        "description": "منطقة أو جزء من مكان."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "Yes, these apples are from a farm in the mountain area.",
-        "explanation": {
+        "ar": "نعم، هذا التفاح من مزرعة في منطقة الجبل.",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "استُعمل المضارع البسيط لأن البائع يصف مصدر التفاح الحالي بوصفه معلومة ثابتة عن المنتج."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Yes",
+            "description": "كلمة تأكيد أو موافقة."
+          },
+          {
+            "term": "these",
+            "description": "اسم إشارة للجمع القريب، ويشير هنا إلى التفاح الموجود أمام الزبون."
+          },
+          {
+            "term": "apples",
+            "description": "تفاح بصيغة الجمع."
+          },
+          {
+            "term": "are",
+            "description": "صيغة تربط التفاح بمصدره أو وصفه."
+          },
+          {
+            "term": "from",
+            "description": "حرف يوضح مصدر الشيء أو المكان الذي جاء منه."
+          },
+          {
+            "term": "a",
+            "description": "أداة نكرة قبل اسم مفرد غير محدد."
+          },
+          {
+            "term": "farm",
+            "description": "مزرعة يزرع فيها التفاح أو منتجات أخرى."
+          },
+          {
+            "term": "in",
+            "description": "حرف يحدد مكان المزرعة."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف لمنطقة معروفة في السياق."
+          },
+          {
+            "term": "mountain",
+            "description": "جبل أو منطقة جبلية."
+          },
+          {
+            "term": "area",
+            "description": "منطقة أو جزء من مكان."
+          }
+        ]
       }
     ],
     "examples": [

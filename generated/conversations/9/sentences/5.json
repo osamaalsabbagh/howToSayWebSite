@@ -7,52 +7,53 @@
     "context": "الزبون يحدد كمية ونوع التفاح المطلوب"
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Please",
-        "description": "كلمة تجعل الطلب مهذبًا."
-      },
-      {
-        "term": "give",
-        "description": "تعني أعطِ أو قدم شيئًا لشخص."
-      },
-      {
-        "term": "me",
-        "description": "ضمير يعود على المتكلم بوصفه الشخص الذي سيأخذ التفاح."
-      },
-      {
-        "term": "two",
-        "description": "العدد اثنان."
-      },
-      {
-        "term": "kilos",
-        "description": "كيلوغرامات، وهي وحدة وزن."
-      },
-      {
-        "term": "of",
-        "description": "يربط الكمية بالشيء المطلوب."
-      },
-      {
-        "term": "the",
-        "description": "أداة تعريف لنوع محدد من التفاح."
-      },
-      {
-        "term": "red",
-        "description": "صفة تعني أحمر اللون."
-      },
-      {
-        "term": "apples",
-        "description": "تفاح بصيغة الجمع."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "Please give me two kilos of the red apples.",
-        "explanation": {
+        "ar": "من فضلك، أعطني كيلوَين من التفاح الأحمر.",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذه صيغة طلب مباشرة ومهذبة باستخدام please، لذلك لا نعاملها كزمن فعلي مستقل."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Please",
+            "description": "كلمة تجعل الطلب مهذبًا."
+          },
+          {
+            "term": "give",
+            "description": "تعني أعطِ أو قدم شيئًا لشخص."
+          },
+          {
+            "term": "me",
+            "description": "ضمير يعود على المتكلم بوصفه الشخص الذي سيأخذ التفاح."
+          },
+          {
+            "term": "two",
+            "description": "العدد اثنان."
+          },
+          {
+            "term": "kilos",
+            "description": "كيلوغرامات، وهي وحدة وزن."
+          },
+          {
+            "term": "of",
+            "description": "يربط الكمية بالشيء المطلوب."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف لنوع محدد من التفاح."
+          },
+          {
+            "term": "red",
+            "description": "صفة تعني أحمر اللون."
+          },
+          {
+            "term": "apples",
+            "description": "تفاح بصيغة الجمع."
+          }
+        ]
       }
     ],
     "examples": [

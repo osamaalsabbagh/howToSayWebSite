@@ -7,28 +7,29 @@
     "context": "اسأل عن مدى قبول شيء."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Is",
-        "description": "تأتي في بداية السؤال للسؤال عن حالة شيء في الحاضر."
-      },
-      {
-        "term": "that",
-        "description": "ذلك، وتشير إلى اقتراح أو ترتيب أو شيء قيل قبل قليل."
-      },
-      {
-        "term": "okay",
-        "description": "مناسب أو مقبول أو لا مشكلة فيه."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "Is that okay?",
-        "explanation": {
+        "ar": "هل ذلك مناسب؟",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "يستخدم فعل الربط في الحاضر للسؤال عن قبول شيء أو مناسبته الآن."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Is",
+            "description": "تأتي في بداية السؤال للسؤال عن حالة شيء في الحاضر."
+          },
+          {
+            "term": "that",
+            "description": "ذلك، وتشير إلى اقتراح أو ترتيب أو شيء قيل قبل قليل."
+          },
+          {
+            "term": "okay",
+            "description": "مناسب أو مقبول أو لا مشكلة فيه."
+          }
+        ]
       }
     ],
     "examples": [

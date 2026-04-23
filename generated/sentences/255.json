@@ -7,40 +7,41 @@
     "context": "أخبر بتكلفة شيء يوميًا."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "They",
-        "description": "هم، وتشير إلى الجهة أو الأشخاص الذين يطلبون المال."
-      },
-      {
-        "term": "charge",
-        "description": "يتقاضون أو يطلبون مبلغًا مقابل خدمة."
-      },
-      {
-        "term": "26",
-        "description": "العدد ستة وعشرون."
-      },
-      {
-        "term": "dollars",
-        "description": "دولارات، وهي وحدة نقدية."
-      },
-      {
-        "term": "per",
-        "description": "لكل، وتحدد السعر لكل وحدة."
-      },
-      {
-        "term": "day",
-        "description": "يوم."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "They charge 26 dollars per day.",
-        "explanation": {
+        "ar": "يتقاضون ٢٦ دولارًا في اليوم.",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "يستخدم المضارع البسيط للتعبير عن سعر أو سياسة عامة يتبعها المكان، وعبارة لكل يوم تحدد أن التكلفة يومية."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "They",
+            "description": "هم، وتشير إلى الجهة أو الأشخاص الذين يطلبون المال."
+          },
+          {
+            "term": "charge",
+            "description": "يتقاضون أو يطلبون مبلغًا مقابل خدمة."
+          },
+          {
+            "term": "26",
+            "description": "العدد ستة وعشرون."
+          },
+          {
+            "term": "dollars",
+            "description": "دولارات، وهي وحدة نقدية."
+          },
+          {
+            "term": "per",
+            "description": "لكل، وتحدد السعر لكل وحدة."
+          },
+          {
+            "term": "day",
+            "description": "يوم."
+          }
+        ]
       }
     ],
     "examples": [

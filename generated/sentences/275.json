@@ -7,36 +7,37 @@
     "context": "أخبر بالوقت (١١:٣٠)."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "It",
-        "description": "تستخدم بشكل عام عند الإخبار بالوقت."
-      },
-      {
-        "term": "is",
-        "description": "تربط الجملة بالوقت الحالي."
-      },
-      {
-        "term": "half",
-        "description": "نصف ساعة، أي ثلاثون دقيقة."
-      },
-      {
-        "term": "past",
-        "description": "بعد، وتستخدم في الوقت بمعنى بعد الساعة المذكورة."
-      },
-      {
-        "term": "11",
-        "description": "الساعة الحادية عشرة."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "It is half past 11.",
-        "explanation": {
+        "ar": "الساعة الحادية عشرة والنصف.",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "يستخدم فعل الربط في الحاضر للإخبار بالوقت الحالي، وعبارة half past 11 تعني ١١:٣٠."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "It",
+            "description": "تستخدم بشكل عام عند الإخبار بالوقت."
+          },
+          {
+            "term": "is",
+            "description": "تربط الجملة بالوقت الحالي."
+          },
+          {
+            "term": "half",
+            "description": "نصف ساعة، أي ثلاثون دقيقة."
+          },
+          {
+            "term": "past",
+            "description": "بعد، وتستخدم في الوقت بمعنى بعد الساعة المذكورة."
+          },
+          {
+            "term": "11",
+            "description": "الساعة الحادية عشرة."
+          }
+        ]
       }
     ],
     "examples": [

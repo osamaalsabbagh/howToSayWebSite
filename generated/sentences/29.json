@@ -7,32 +7,33 @@
     "context": "قل أنك لا تفهم."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "I",
-        "description": "ضمير المتكلم المفرد."
-      },
-      {
-        "term": "do",
-        "description": "تساعد هنا في تكوين النفي مع الفعل."
-      },
-      {
-        "term": "not",
-        "description": "أداة نفي."
-      },
-      {
-        "term": "understand",
-        "description": "أفهم أو أدرك المعنى."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "I do not understand.",
-        "explanation": {
+        "ar": "لا أفهم.",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "الجملة تنفي فهم المتكلم في الوقت الحالي باستخدام do not قبل الفعل."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير المتكلم المفرد."
+          },
+          {
+            "term": "do",
+            "description": "تساعد هنا في تكوين النفي مع الفعل."
+          },
+          {
+            "term": "not",
+            "description": "أداة نفي."
+          },
+          {
+            "term": "understand",
+            "description": "أفهم أو أدرك المعنى."
+          }
+        ]
       }
     ],
     "examples": [

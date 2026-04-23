@@ -7,32 +7,33 @@
     "context": "أبلغ أنك ستغادر غدًا."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "I",
-        "description": "أنا، وتشير إلى المتكلم."
-      },
-      {
-        "term": "am",
-        "description": "صيغة تأتي مع أنا وتساعد في تكوين فعل مستمر أو خطة قريبة."
-      },
-      {
-        "term": "leaving",
-        "description": "مغادر أو سأغادر."
-      },
-      {
-        "term": "tomorrow",
-        "description": "غدًا، أي اليوم التالي."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "I am leaving tomorrow.",
-        "explanation": {
+        "ar": "سأغادر غدًا.",
+        "grammar": {
           "tense": "المضارع المستمر",
           "tenseEn": "Present Continuous",
           "reason": "يستخدم المضارع المستمر هنا للتعبير عن خطة مستقبلية مرتبة، وكلمة غدًا تحدد وقت المغادرة."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "أنا، وتشير إلى المتكلم."
+          },
+          {
+            "term": "am",
+            "description": "صيغة تأتي مع أنا وتساعد في تكوين فعل مستمر أو خطة قريبة."
+          },
+          {
+            "term": "leaving",
+            "description": "مغادر أو سأغادر."
+          },
+          {
+            "term": "tomorrow",
+            "description": "غدًا، أي اليوم التالي."
+          }
+        ]
       }
     ],
     "examples": [

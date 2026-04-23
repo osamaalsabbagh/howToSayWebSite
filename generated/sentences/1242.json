@@ -7,36 +7,37 @@
     "context": "أنت تضيف شيئًا آخر إلى ما اخترته بالفعل دون التركيز على عنصر معين بحد ذاته."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "I",
-        "description": "أنا، وتشير إلى المتكلم."
-      },
-      {
-        "term": "will",
-        "description": "تدل على قرار أو نية مستقبلية."
-      },
-      {
-        "term": "take",
-        "description": "آخذ أو أختار للشراء."
-      },
-      {
-        "term": "that",
-        "description": "ذلك، وتشير إلى شيء مشار إليه دون تركيز على كلمة واحد."
-      },
-      {
-        "term": "also",
-        "description": "أيضًا، وتدل على إضافة شيء إلى ما تم اختياره."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "I will take that also.",
-        "explanation": {
+        "ar": "سآخذ ذلك أيضًا.",
+        "grammar": {
           "tense": "المستقبل البسيط",
           "tenseEn": "Future Simple",
           "reason": "يستخدم المستقبل البسيط للتعبير عن قرار فوري بإضافة شيء آخر إلى الاختيار أو الشراء."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "أنا، وتشير إلى المتكلم."
+          },
+          {
+            "term": "will",
+            "description": "تدل على قرار أو نية مستقبلية."
+          },
+          {
+            "term": "take",
+            "description": "آخذ أو أختار للشراء."
+          },
+          {
+            "term": "that",
+            "description": "ذلك، وتشير إلى شيء مشار إليه دون تركيز على كلمة واحد."
+          },
+          {
+            "term": "also",
+            "description": "أيضًا، وتدل على إضافة شيء إلى ما تم اختياره."
+          }
+        ]
       }
     ],
     "examples": [

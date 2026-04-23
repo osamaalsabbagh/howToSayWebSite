@@ -7,32 +7,33 @@
     "context": "اسأل عن موطن امرأة."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Where",
-        "description": "أين أو من أين، وتستخدم للسؤال عن المكان أو الأصل."
-      },
-      {
-        "term": "is",
-        "description": "صيغة تربط الضمير بالمعلومة المطلوبة في الحاضر."
-      },
-      {
-        "term": "she",
-        "description": "هي، وتشير إلى امرأة أو فتاة."
-      },
-      {
-        "term": "from",
-        "description": "من، وتستخدم للسؤال عن الموطن أو الأصل."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "Where is she from?",
-        "explanation": {
+        "ar": "من أين هي؟",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "يستخدم فعل الربط في الحاضر للسؤال عن أصلها أو موطنها، وهي معلومة حالية أو عامة."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Where",
+            "description": "أين أو من أين، وتستخدم للسؤال عن المكان أو الأصل."
+          },
+          {
+            "term": "is",
+            "description": "صيغة تربط الضمير بالمعلومة المطلوبة في الحاضر."
+          },
+          {
+            "term": "she",
+            "description": "هي، وتشير إلى امرأة أو فتاة."
+          },
+          {
+            "term": "from",
+            "description": "من، وتستخدم للسؤال عن الموطن أو الأصل."
+          }
+        ]
       }
     ],
     "examples": [

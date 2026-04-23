@@ -7,64 +7,68 @@
     "context": "عبّر عن استفسارك عن ملكية القلم بعد أن وجدته على الطاولة."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "I",
-        "description": "أنا، وتشير إلى المتكلم."
-      },
-      {
-        "term": "found",
-        "description": "وجدت أو عثرت على شيء."
-      },
-      {
-        "term": "this",
-        "description": "هذا، وتشير إلى شيء قريب أو ممسوك."
-      },
-      {
-        "term": "pen",
-        "description": "قلم."
-      },
-      {
-        "term": "on",
-        "description": "على، وتدل على مكان الشيء فوق سطح."
-      },
-      {
-        "term": "the",
-        "description": "أداة تشير إلى طاولة محددة معروفة من السياق."
-      },
-      {
-        "term": "table",
-        "description": "طاولة."
-      },
-      {
-        "term": "Is",
-        "description": "تأتي في بداية السؤال للسؤال عن حالة أو ملكية شيء."
-      },
-      {
-        "term": "it",
-        "description": "هو أو هي، وتشير هنا إلى القلم."
-      },
-      {
-        "term": "yours",
-        "description": "ملكك أو خاصتك."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "I found this pen on the table.",
-        "explanation": {
+        "ar": "وجدت هذا القلم على الطاولة.",
+        "grammar": {
           "tense": "الماضي البسيط",
           "tenseEn": "Past Simple",
           "reason": "يستخدم الماضي البسيط لأن العثور على القلم حدث وانتهى قبل لحظة السؤال."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "أنا، وتشير إلى المتكلم."
+          },
+          {
+            "term": "found",
+            "description": "وجدت أو عثرت على شيء."
+          },
+          {
+            "term": "this",
+            "description": "هذا، وتشير إلى شيء قريب أو ممسوك."
+          },
+          {
+            "term": "pen",
+            "description": "قلم."
+          },
+          {
+            "term": "on",
+            "description": "على، وتدل على مكان الشيء فوق سطح."
+          },
+          {
+            "term": "the",
+            "description": "أداة تشير إلى طاولة محددة معروفة من السياق."
+          },
+          {
+            "term": "table",
+            "description": "طاولة."
+          }
+        ]
       },
       {
         "sentence": "Is it yours?",
-        "explanation": {
+        "ar": "هل هو لك؟",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "يستخدم السؤال بفعل الربط في الحاضر للسؤال عن ملكية القلم الآن."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Is",
+            "description": "تأتي في بداية السؤال للسؤال عن حالة أو ملكية شيء."
+          },
+          {
+            "term": "it",
+            "description": "هو أو هي، وتشير هنا إلى القلم."
+          },
+          {
+            "term": "yours",
+            "description": "ملكك أو خاصتك."
+          }
+        ]
       }
     ],
     "examples": [

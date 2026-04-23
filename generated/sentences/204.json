@@ -7,52 +7,53 @@
     "context": "اسأل عن وقت الذهاب إلى المحطة."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "What",
-        "description": "أي، وتستخدم هنا مع الوقت للسؤال عن ساعة محددة."
-      },
-      {
-        "term": "time",
-        "description": "وقت أو ساعة."
-      },
-      {
-        "term": "are",
-        "description": "تأتي مع المخاطب في السؤال لتكوين فعل مستمر أو خطة قريبة."
-      },
-      {
-        "term": "you",
-        "description": "أنت، وتشير إلى الشخص المخاطب."
-      },
-      {
-        "term": "going",
-        "description": "ذاهب، وتدل هنا على الذهاب المخطط له."
-      },
-      {
-        "term": "to",
-        "description": "إلى، وتربط الذهاب بالوجهة."
-      },
-      {
-        "term": "the",
-        "description": "أداة تشير إلى محطة محددة معروفة في الحديث."
-      },
-      {
-        "term": "bus",
-        "description": "حافلة، وتصف نوع المحطة."
-      },
-      {
-        "term": "station",
-        "description": "محطة."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "What time are you going to the bus station?",
-        "explanation": {
+        "ar": "في أي وقت ستذهب إلى محطة الحافلات؟",
+        "grammar": {
           "tense": "المضارع المستمر",
           "tenseEn": "Present Continuous",
           "reason": "يستخدم المضارع المستمر هنا للسؤال عن خطة أو ترتيب قريب للذهاب إلى محطة الحافلات، وعبارة أي وقت تطلب تحديد الساعة."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "What",
+            "description": "أي، وتستخدم هنا مع الوقت للسؤال عن ساعة محددة."
+          },
+          {
+            "term": "time",
+            "description": "وقت أو ساعة."
+          },
+          {
+            "term": "are",
+            "description": "تأتي مع المخاطب في السؤال لتكوين فعل مستمر أو خطة قريبة."
+          },
+          {
+            "term": "you",
+            "description": "أنت، وتشير إلى الشخص المخاطب."
+          },
+          {
+            "term": "going",
+            "description": "ذاهب، وتدل هنا على الذهاب المخطط له."
+          },
+          {
+            "term": "to",
+            "description": "إلى، وتربط الذهاب بالوجهة."
+          },
+          {
+            "term": "the",
+            "description": "أداة تشير إلى محطة محددة معروفة في الحديث."
+          },
+          {
+            "term": "bus",
+            "description": "حافلة، وتصف نوع المحطة."
+          },
+          {
+            "term": "station",
+            "description": "محطة."
+          }
+        ]
       }
     ],
     "examples": [

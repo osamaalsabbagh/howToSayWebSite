@@ -7,28 +7,29 @@
     "context": "دعوة للانطلاق أو المغادرة."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Let",
-        "description": "تأتي هنا لاقتراح فعل شيء معًا."
-      },
-      {
-        "term": "us",
-        "description": "ضمير يشمل المتكلم والشخص أو الأشخاص معه."
-      },
-      {
-        "term": "go",
-        "description": "نذهب أو نتحرك من المكان الحالي."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "Let us go.",
-        "explanation": {
+        "ar": "هيا بنا.",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذه صيغة اقتراح أو دعوة للتحرك معًا، ولا تحمل زمنًا مستقلًا مثل الجملة الخبرية."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Let",
+            "description": "تأتي هنا لاقتراح فعل شيء معًا."
+          },
+          {
+            "term": "us",
+            "description": "ضمير يشمل المتكلم والشخص أو الأشخاص معه."
+          },
+          {
+            "term": "go",
+            "description": "نذهب أو نتحرك من المكان الحالي."
+          }
+        ]
       }
     ],
     "examples": [

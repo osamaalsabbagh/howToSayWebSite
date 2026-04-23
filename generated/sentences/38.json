@@ -7,24 +7,25 @@
     "context": "أكد المعرفة."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "I",
-        "description": "ضمير المتكلم ويشير إلى الشخص الذي يتحدث."
-      },
-      {
-        "term": "know",
-        "description": "أعرف أو لدي معرفة بالمعلومة."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "I know.",
-        "explanation": {
+        "ar": "أعرف.",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "تستخدم الجملة المضارع البسيط للتعبير عن معرفة موجودة عند المتكلم الآن أو بشكل عام."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير المتكلم ويشير إلى الشخص الذي يتحدث."
+          },
+          {
+            "term": "know",
+            "description": "أعرف أو لدي معرفة بالمعلومة."
+          }
+        ]
       }
     ],
     "examples": [

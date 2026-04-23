@@ -7,44 +7,48 @@
     "context": "عبّر عن أمنية بامتلاك شيء."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "I",
-        "description": "أنا، وتشير إلى المتكلم."
-      },
-      {
-        "term": "wish",
-        "description": "أتمنى أو ليتني."
-      },
-      {
-        "term": "I",
-        "description": "أنا، وتشير مرة أخرى إلى المتكلم."
-      },
-      {
-        "term": "had",
-        "description": "أملك، وتأتي هنا بصيغة ماضية للتعبير عن أمنية غير حقيقية في الحاضر."
-      },
-      {
-        "term": "one",
-        "description": "واحدًا أو شيئًا من النوع المذكور في السياق."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "I wish",
-        "explanation": {
+        "ar": "ليتني أملك واحدًا.",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "يستخدم الفعل في الحاضر للتعبير عن أمنية يشعر بها المتكلم الآن."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "أنا، وتشير إلى المتكلم."
+          },
+          {
+            "term": "wish",
+            "description": "أتمنى أو ليتني."
+          }
+        ]
       },
       {
         "sentence": "I had one",
-        "explanation": {
+        "ar": "ليتني أملك واحدًا.",
+        "grammar": {
           "tense": "الماضي البسيط",
           "tenseEn": "Past Simple",
           "reason": "تأتي صيغة الماضي بعد التمني للتعبير عن شيء غير موجود في الحاضر، أي أن المتكلم لا يملك هذا الشيء لكنه يتمناه."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "أنا، وتشير مرة أخرى إلى المتكلم."
+          },
+          {
+            "term": "had",
+            "description": "أملك، وتأتي هنا بصيغة ماضية للتعبير عن أمنية غير حقيقية في الحاضر."
+          },
+          {
+            "term": "one",
+            "description": "واحدًا أو شيئًا من النوع المذكور في السياق."
+          }
+        ]
       }
     ],
     "examples": [

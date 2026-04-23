@@ -7,36 +7,37 @@
     "context": "اسأل إن كان شخص قد زار بوسطن في أي وقت من حياته."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Have",
-        "description": "تأتي في بداية السؤال لتكوين سؤال عن تجربة حدثت قبل الآن."
-      },
-      {
-        "term": "you",
-        "description": "أنت، وتشير إلى الشخص المخاطب."
-      },
-      {
-        "term": "been",
-        "description": "زرت أو كنت في مكان في وقت سابق."
-      },
-      {
-        "term": "to",
-        "description": "إلى، وتربط التجربة بالمكان."
-      },
-      {
-        "term": "Boston",
-        "description": "مدينة بوسطن."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "Have you been to Boston?",
-        "explanation": {
+        "ar": "هل زرت بوسطن من قبل؟",
+        "grammar": {
           "tense": "المضارع التام",
           "tenseEn": "Present Perfect",
           "reason": "يستخدم المضارع التام للسؤال عن تجربة في حياة الشخص حتى الآن، وليس عن وقت زيارة محدد في الماضي."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Have",
+            "description": "تأتي في بداية السؤال لتكوين سؤال عن تجربة حدثت قبل الآن."
+          },
+          {
+            "term": "you",
+            "description": "أنت، وتشير إلى الشخص المخاطب."
+          },
+          {
+            "term": "been",
+            "description": "زرت أو كنت في مكان في وقت سابق."
+          },
+          {
+            "term": "to",
+            "description": "إلى، وتربط التجربة بالمكان."
+          },
+          {
+            "term": "Boston",
+            "description": "مدينة بوسطن."
+          }
+        ]
       }
     ],
     "examples": [

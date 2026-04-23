@@ -7,48 +7,49 @@
     "context": "اطلب إذنًا لإجراء مكالمة."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "I",
-        "description": "أنا، وتشير إلى المتكلم."
-      },
-      {
-        "term": "would",
-        "description": "تجعل الطلب أكثر تهذيبًا ولطفًا."
-      },
-      {
-        "term": "like",
-        "description": "أرغب أو أود."
-      },
-      {
-        "term": "to",
-        "description": "تربط الرغبة بالفعل المطلوب بعدها."
-      },
-      {
-        "term": "make",
-        "description": "أجري أو أقوم بعمل شيء."
-      },
-      {
-        "term": "a",
-        "description": "أداة تدل على شيء واحد غير محدد."
-      },
-      {
-        "term": "phone",
-        "description": "هاتف، وتصف نوع المكالمة."
-      },
-      {
-        "term": "call",
-        "description": "مكالمة أو اتصال."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "I would like to make a phone call.",
-        "explanation": {
+        "ar": "أود إجراء مكالمة هاتفية.",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذه صيغة طلب مهذب باستخدام تركيب يدل على الرغبة، ويأتي بعدها فعل بصيغة المصدر لشرح ما يريد المتكلم فعله، لذلك لا تعامل كزمن مستقل."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "أنا، وتشير إلى المتكلم."
+          },
+          {
+            "term": "would",
+            "description": "تجعل الطلب أكثر تهذيبًا ولطفًا."
+          },
+          {
+            "term": "like",
+            "description": "أرغب أو أود."
+          },
+          {
+            "term": "to",
+            "description": "تربط الرغبة بالفعل المطلوب بعدها."
+          },
+          {
+            "term": "make",
+            "description": "أجري أو أقوم بعمل شيء."
+          },
+          {
+            "term": "a",
+            "description": "أداة تدل على شيء واحد غير محدد."
+          },
+          {
+            "term": "phone",
+            "description": "هاتف، وتصف نوع المكالمة."
+          },
+          {
+            "term": "call",
+            "description": "مكالمة أو اتصال."
+          }
+        ]
       }
     ],
     "examples": [

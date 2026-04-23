@@ -7,36 +7,37 @@
     "context": "اسأل عن الموعد المعتاد لمغادرة الحافلة."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "When",
-        "description": "متى، وتستخدم للسؤال عن موعد."
-      },
-      {
-        "term": "does",
-        "description": "تأتي في السؤال مع المفرد لتكوين سؤال في الحاضر."
-      },
-      {
-        "term": "the",
-        "description": "أداة تشير إلى حافلة محددة أو معروفة من السياق."
-      },
-      {
-        "term": "bus",
-        "description": "الحافلة."
-      },
-      {
-        "term": "leave",
-        "description": "تغادر أو تنطلق من مكان."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "When does the bus leave?",
-        "explanation": {
+        "ar": "متى تغادر الحافلة؟",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "يستخدم المضارع البسيط للسؤال عن موعد مقرر أو معتاد لمغادرة الحافلة."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "When",
+            "description": "متى، وتستخدم للسؤال عن موعد."
+          },
+          {
+            "term": "does",
+            "description": "تأتي في السؤال مع المفرد لتكوين سؤال في الحاضر."
+          },
+          {
+            "term": "the",
+            "description": "أداة تشير إلى حافلة محددة أو معروفة من السياق."
+          },
+          {
+            "term": "bus",
+            "description": "الحافلة."
+          },
+          {
+            "term": "leave",
+            "description": "تغادر أو تنطلق من مكان."
+          }
+        ]
       }
     ],
     "examples": [

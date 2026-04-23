@@ -7,44 +7,45 @@
     "context": "تحديد موقع المنزل نسبةً إلى مكان معروف."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "My",
-        "description": "ملكي أو خاص بي."
-      },
-      {
-        "term": "house",
-        "description": "منزل أو بيت."
-      },
-      {
-        "term": "is",
-        "description": "تربط المنزل بوصف موقعه."
-      },
-      {
-        "term": "close",
-        "description": "قريب."
-      },
-      {
-        "term": "to",
-        "description": "إلى أو من، وتكمل معنى القرب من مكان."
-      },
-      {
-        "term": "the",
-        "description": "أداة تشير إلى مكان محدد معروف."
-      },
-      {
-        "term": "bank",
-        "description": "البنك أو المصرف."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "My house is close to the bank.",
-        "explanation": {
+        "ar": "منزلي قريب من البنك.",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "تستخدم الجملة فعل الربط في الحاضر لوصف موقع المنزل بوصفه حقيقة مكانية ثابتة نسبيًا."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "My",
+            "description": "ملكي أو خاص بي."
+          },
+          {
+            "term": "house",
+            "description": "منزل أو بيت."
+          },
+          {
+            "term": "is",
+            "description": "تربط المنزل بوصف موقعه."
+          },
+          {
+            "term": "close",
+            "description": "قريب."
+          },
+          {
+            "term": "to",
+            "description": "إلى أو من، وتكمل معنى القرب من مكان."
+          },
+          {
+            "term": "the",
+            "description": "أداة تشير إلى مكان محدد معروف."
+          },
+          {
+            "term": "bank",
+            "description": "البنك أو المصرف."
+          }
+        ]
       }
     ],
     "examples": [

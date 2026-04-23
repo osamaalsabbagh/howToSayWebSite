@@ -7,40 +7,41 @@
     "context": "أخبر بالوقت (٩:١٥)."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "It",
-        "description": "تستخدم بشكل عام عند الإخبار بالوقت."
-      },
-      {
-        "term": "is",
-        "description": "صيغة تربط الجملة بالوقت الحالي."
-      },
-      {
-        "term": "a",
-        "description": "أداة تأتي هنا ضمن عبارة الوقت."
-      },
-      {
-        "term": "quarter",
-        "description": "ربع ساعة، أي خمس عشرة دقيقة."
-      },
-      {
-        "term": "past",
-        "description": "بعد، وتستخدم في الوقت بمعنى بعد الساعة المذكورة."
-      },
-      {
-        "term": "nine",
-        "description": "الساعة التاسعة."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "It is a quarter past nine.",
-        "explanation": {
+        "ar": "الساعة التاسعة والربع.",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "يستخدم فعل الربط في الحاضر للإخبار بالوقت الحالي، وعبارة ربع بعد التاسعة تعني ٩:١٥."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "It",
+            "description": "تستخدم بشكل عام عند الإخبار بالوقت."
+          },
+          {
+            "term": "is",
+            "description": "صيغة تربط الجملة بالوقت الحالي."
+          },
+          {
+            "term": "a",
+            "description": "أداة تأتي هنا ضمن عبارة الوقت."
+          },
+          {
+            "term": "quarter",
+            "description": "ربع ساعة، أي خمس عشرة دقيقة."
+          },
+          {
+            "term": "past",
+            "description": "بعد، وتستخدم في الوقت بمعنى بعد الساعة المذكورة."
+          },
+          {
+            "term": "nine",
+            "description": "الساعة التاسعة."
+          }
+        ]
       }
     ],
     "examples": [

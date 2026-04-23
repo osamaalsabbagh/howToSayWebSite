@@ -7,48 +7,49 @@
     "context": "اقتراح مكان للقاء بعد انتهاء المعرض"
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "After",
-        "description": "تعني بعد."
-      },
-      {
-        "term": "this",
-        "description": "يشير إلى المعرض أو الحدث الحالي."
-      },
-      {
-        "term": "shall",
-        "description": "تستخدم في الاقتراحات بصيغة مهذبة."
-      },
-      {
-        "term": "we",
-        "description": "ضمير يشمل المتكلم والشخص الآخر."
-      },
-      {
-        "term": "meet",
-        "description": "تعني نلتقي."
-      },
-      {
-        "term": "at",
-        "description": "حرف يحدد مكان اللقاء."
-      },
-      {
-        "term": "the",
-        "description": "أداة تعريف لمكان محدد."
-      },
-      {
-        "term": "library",
-        "description": "مكتبة."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "After this, shall we meet at the library?",
-        "explanation": {
+        "ar": "بعد هذا، هل نلتقي في المكتبة؟",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذه صيغة اقتراح مهذب باستخدام shall عن ترتيب لاحق، ولا تعامل كزمن مستقل واضح."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "After",
+            "description": "تعني بعد."
+          },
+          {
+            "term": "this",
+            "description": "يشير إلى المعرض أو الحدث الحالي."
+          },
+          {
+            "term": "shall",
+            "description": "تستخدم في الاقتراحات بصيغة مهذبة."
+          },
+          {
+            "term": "we",
+            "description": "ضمير يشمل المتكلم والشخص الآخر."
+          },
+          {
+            "term": "meet",
+            "description": "تعني نلتقي."
+          },
+          {
+            "term": "at",
+            "description": "حرف يحدد مكان اللقاء."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف لمكان محدد."
+          },
+          {
+            "term": "library",
+            "description": "مكتبة."
+          }
+        ]
       }
     ],
     "examples": [

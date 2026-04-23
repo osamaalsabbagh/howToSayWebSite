@@ -7,32 +7,33 @@
     "context": "ركز على الوصول إلى مكان."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "He",
-        "description": "ضمير يشير إلى رجل أو ولد معروف من السياق."
-      },
-      {
-        "term": "will",
-        "description": "كلمة تدل على أن الفعل سيحدث في المستقبل."
-      },
-      {
-        "term": "arrive",
-        "description": "يصل إلى مكان."
-      },
-      {
-        "term": "soon",
-        "description": "قريبًا، أي بعد وقت قصير."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "He will arrive soon.",
-        "explanation": {
+        "ar": "سيصل قريبًا.",
+        "grammar": {
           "tense": "المستقبل البسيط",
           "tenseEn": "Future Simple",
           "reason": "تستخدم will مع الفعل الأساسي للتحدث عن حدث متوقع في المستقبل، وكلمة soon توضح أن الوصول قريب."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "He",
+            "description": "ضمير يشير إلى رجل أو ولد معروف من السياق."
+          },
+          {
+            "term": "will",
+            "description": "كلمة تدل على أن الفعل سيحدث في المستقبل."
+          },
+          {
+            "term": "arrive",
+            "description": "يصل إلى مكان."
+          },
+          {
+            "term": "soon",
+            "description": "قريبًا، أي بعد وقت قصير."
+          }
+        ]
       }
     ],
     "examples": [

@@ -7,32 +7,33 @@
     "context": "اطلب كتابة شيء."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Please",
-        "description": "كلمة تجعل الطلب مهذبًا."
-      },
-      {
-        "term": "write",
-        "description": "اكتب أو سجل بالكلمات أو الأرقام."
-      },
-      {
-        "term": "it",
-        "description": "ضمير يشير إلى المعلومة أو الشيء المطلوب كتابته."
-      },
-      {
-        "term": "down",
-        "description": "جزء من تعبير يعني تسجيل الشيء كتابة حتى لا ينسى."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "Please write it down.",
-        "explanation": {
+        "ar": "يرجى كتابته.",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذه صيغة طلب مهذب، والتعبير write it down يعني سجل المعلومة كتابة، ولا تحمل الجملة زمنًا مستقلًا."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Please",
+            "description": "كلمة تجعل الطلب مهذبًا."
+          },
+          {
+            "term": "write",
+            "description": "اكتب أو سجل بالكلمات أو الأرقام."
+          },
+          {
+            "term": "it",
+            "description": "ضمير يشير إلى المعلومة أو الشيء المطلوب كتابته."
+          },
+          {
+            "term": "down",
+            "description": "جزء من تعبير يعني تسجيل الشيء كتابة حتى لا ينسى."
+          }
+        ]
       }
     ],
     "examples": [

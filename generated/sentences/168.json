@@ -7,36 +7,37 @@
     "context": "اسأل إن كان لدى شخص مال كافٍ."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Do",
-        "description": "تأتي في بداية السؤال مع المخاطب لتكوين سؤال في الحاضر."
-      },
-      {
-        "term": "you",
-        "description": "أنت، وتشير إلى الشخص المخاطب."
-      },
-      {
-        "term": "have",
-        "description": "تملك أو لديك."
-      },
-      {
-        "term": "enough",
-        "description": "كافٍ أو بمقدار مناسب للحاجة."
-      },
-      {
-        "term": "money",
-        "description": "مال أو نقود."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "Do you have enough money?",
-        "explanation": {
+        "ar": "هل لديك ما يكفي من المال؟",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "يستخدم السؤال المضارع البسيط لأنه يسأل عن حالة حالية أو امتلاك المال في الوقت العام، وتأتي كلمة السؤال المساعدة قبل المخاطب."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Do",
+            "description": "تأتي في بداية السؤال مع المخاطب لتكوين سؤال في الحاضر."
+          },
+          {
+            "term": "you",
+            "description": "أنت، وتشير إلى الشخص المخاطب."
+          },
+          {
+            "term": "have",
+            "description": "تملك أو لديك."
+          },
+          {
+            "term": "enough",
+            "description": "كافٍ أو بمقدار مناسب للحاجة."
+          },
+          {
+            "term": "money",
+            "description": "مال أو نقود."
+          }
+        ]
       }
     ],
     "examples": [

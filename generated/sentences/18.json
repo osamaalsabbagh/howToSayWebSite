@@ -7,28 +7,29 @@
     "context": "اسأل عن حالة شخص."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "How",
-        "description": "كلمة سؤال عن الحال أو الطريقة."
-      },
-      {
-        "term": "are",
-        "description": "صيغة تأتي مع المخاطب أو الجمع وتربط الشخص بحالته."
-      },
-      {
-        "term": "you",
-        "description": "ضمير يشير إلى الشخص الذي أتحدث معه."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "How are you?",
-        "explanation": {
+        "ar": "كيف حالك؟",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذه صيغة سؤال شائعة للسؤال عن حال شخص أو بدء التحية، والأفضل فهمها كتعبير تواصلي لا كزمن مستقل."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "How",
+            "description": "كلمة سؤال عن الحال أو الطريقة."
+          },
+          {
+            "term": "are",
+            "description": "صيغة تأتي مع المخاطب أو الجمع وتربط الشخص بحالته."
+          },
+          {
+            "term": "you",
+            "description": "ضمير يشير إلى الشخص الذي أتحدث معه."
+          }
+        ]
       }
     ],
     "examples": [

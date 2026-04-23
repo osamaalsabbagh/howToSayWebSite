@@ -7,32 +7,33 @@
     "context": "تُستخدم لسؤال شخص عن وضعه في العمل."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "How",
-        "description": "كلمة سؤال عن الحالة أو سير الأمر."
-      },
-      {
-        "term": "is",
-        "description": "صيغة تأتي مع المفرد وتساعد هنا في السؤال عن شيء يحدث أو يتقدم الآن."
-      },
-      {
-        "term": "work",
-        "description": "العمل أو الوضع المهني."
-      },
-      {
-        "term": "going",
-        "description": "يسير أو يتقدم في هذا السياق."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "How is work going?",
-        "explanation": {
+        "ar": "كيف يسير العمل؟",
+        "grammar": {
           "tense": "المضارع المستمر",
           "tenseEn": "Present Continuous",
           "reason": "تستخدم is مع الفعل المنتهي ب ing للسؤال عن سير العمل في الفترة الحالية، وليس عن حقيقة عامة فقط."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "How",
+            "description": "كلمة سؤال عن الحالة أو سير الأمر."
+          },
+          {
+            "term": "is",
+            "description": "صيغة تأتي مع المفرد وتساعد هنا في السؤال عن شيء يحدث أو يتقدم الآن."
+          },
+          {
+            "term": "work",
+            "description": "العمل أو الوضع المهني."
+          },
+          {
+            "term": "going",
+            "description": "يسير أو يتقدم في هذا السياق."
+          }
+        ]
       }
     ],
     "examples": [

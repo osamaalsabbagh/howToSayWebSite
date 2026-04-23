@@ -7,28 +7,29 @@
     "context": "حيِّ رجلًا رسميًا في المساء."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Good",
-        "description": "كلمة تأتي في التحية لتمني وقت طيب."
-      },
-      {
-        "term": "evening",
-        "description": "وقت المساء."
-      },
-      {
-        "term": "sir",
-        "description": "سيدي، وتستخدم لمخاطبة رجل باحترام."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "Good evening sir.",
-        "explanation": {
+        "ar": "مساء الخير سيدي.",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذه تحية رسمية في المساء مع مخاطبة رجل باحترام، وهي تعبير ثابت لا يحتوي على فعل ظاهر أو زمن مستقل."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Good",
+            "description": "كلمة تأتي في التحية لتمني وقت طيب."
+          },
+          {
+            "term": "evening",
+            "description": "وقت المساء."
+          },
+          {
+            "term": "sir",
+            "description": "سيدي، وتستخدم لمخاطبة رجل باحترام."
+          }
+        ]
       }
     ],
     "examples": [

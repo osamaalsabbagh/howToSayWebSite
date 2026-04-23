@@ -7,48 +7,49 @@
     "context": "اسأل عن عدد السكان في نيويورك."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "How",
-        "description": "تبدأ سؤالًا عن الكمية أو العدد."
-      },
-      {
-        "term": "many",
-        "description": "كثير أو كم عدد، وتستخدم مع الأشياء المعدودة."
-      },
-      {
-        "term": "people",
-        "description": "أشخاص أو سكان."
-      },
-      {
-        "term": "are",
-        "description": "صيغة تربط السؤال بوجود عدد في الحاضر."
-      },
-      {
-        "term": "there",
-        "description": "تستخدم هنا مع صيغة الوجود بمعنى يوجد أو هناك."
-      },
-      {
-        "term": "in",
-        "description": "في، وتربط العدد بالمكان."
-      },
-      {
-        "term": "New",
-        "description": "جزء من اسم مدينة نيويورك."
-      },
-      {
-        "term": "York",
-        "description": "جزء من اسم مدينة نيويورك."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "How many people are there in New York?",
-        "explanation": {
+        "ar": "كم عدد الأشخاص في نيويورك؟",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "يستخدم المضارع البسيط مع تركيب الوجود للسؤال عن عدد موجود أو عام في مكان، وكلمة كم عدد تناسب الأشياء المعدودة."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "How",
+            "description": "تبدأ سؤالًا عن الكمية أو العدد."
+          },
+          {
+            "term": "many",
+            "description": "كثير أو كم عدد، وتستخدم مع الأشياء المعدودة."
+          },
+          {
+            "term": "people",
+            "description": "أشخاص أو سكان."
+          },
+          {
+            "term": "are",
+            "description": "صيغة تربط السؤال بوجود عدد في الحاضر."
+          },
+          {
+            "term": "there",
+            "description": "تستخدم هنا مع صيغة الوجود بمعنى يوجد أو هناك."
+          },
+          {
+            "term": "in",
+            "description": "في، وتربط العدد بالمكان."
+          },
+          {
+            "term": "New",
+            "description": "جزء من اسم مدينة نيويورك."
+          },
+          {
+            "term": "York",
+            "description": "جزء من اسم مدينة نيويورك."
+          }
+        ]
       }
     ],
     "examples": [

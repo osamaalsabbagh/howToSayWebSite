@@ -7,28 +7,29 @@
     "context": "أخبر عن موعد وصول أشخاص."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "They",
-        "description": "هم أو هن، وتشير إلى مجموعة أشخاص."
-      },
-      {
-        "term": "arrived",
-        "description": "وصلوا إلى المكان المقصود."
-      },
-      {
-        "term": "yesterday",
-        "description": "أمس، أي اليوم السابق لليوم الحالي."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "They arrived yesterday.",
-        "explanation": {
+        "ar": "وصلوا أمس.",
+        "grammar": {
           "tense": "الماضي البسيط",
           "tenseEn": "Past Simple",
           "reason": "يستخدم الماضي البسيط لأن الوصول حدث وانتهى في وقت محدد في الماضي، وهو أمس."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "They",
+            "description": "هم أو هن، وتشير إلى مجموعة أشخاص."
+          },
+          {
+            "term": "arrived",
+            "description": "وصلوا إلى المكان المقصود."
+          },
+          {
+            "term": "yesterday",
+            "description": "أمس، أي اليوم السابق لليوم الحالي."
+          }
+        ]
       }
     ],
     "examples": [

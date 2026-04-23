@@ -7,40 +7,41 @@
     "context": "الطالب يطلب توضيحًا أكثر لمعنى اختلاف الإجابة حسب السياق"
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "How",
-        "description": "أداة سؤال عن الطريقة أو الكيفية."
-      },
-      {
-        "term": "does",
-        "description": "تساعد في تكوين سؤال في المضارع مع فاعل مفرد."
-      },
-      {
-        "term": "it",
-        "description": "ضمير يعود على الجواب أو المعنى المذكور سابقًا."
-      },
-      {
-        "term": "depend",
-        "description": "يعتمد أو يتحدد بحسب شيء آخر."
-      },
-      {
-        "term": "on",
-        "description": "تأتي مع depend لتحديد الشيء المؤثر."
-      },
-      {
-        "term": "context",
-        "description": "السياق أو الظروف التي تغيّر المعنى."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "How does it depend on context?",
-        "explanation": {
+        "ar": "كيف يعتمد على السياق؟",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "السؤال يستخدم المضارع البسيط للاستفسار عن علاقة عامة بين المعنى والسياق."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "How",
+            "description": "أداة سؤال عن الطريقة أو الكيفية."
+          },
+          {
+            "term": "does",
+            "description": "تساعد في تكوين سؤال في المضارع مع فاعل مفرد."
+          },
+          {
+            "term": "it",
+            "description": "ضمير يعود على الجواب أو المعنى المذكور سابقًا."
+          },
+          {
+            "term": "depend",
+            "description": "يعتمد أو يتحدد بحسب شيء آخر."
+          },
+          {
+            "term": "on",
+            "description": "تأتي مع depend لتحديد الشيء المؤثر."
+          },
+          {
+            "term": "context",
+            "description": "السياق أو الظروف التي تغيّر المعنى."
+          }
+        ]
       }
     ],
     "examples": [

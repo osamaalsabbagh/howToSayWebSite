@@ -7,40 +7,41 @@
     "context": "قل إنه لا يوجد لديك مال."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "I",
-        "description": "أنا، وتشير إلى المتكلم."
-      },
-      {
-        "term": "do",
-        "description": "تستخدم مع النفي لتكوين جملة منفية في الحاضر."
-      },
-      {
-        "term": "not",
-        "description": "لا، وتدل على النفي."
-      },
-      {
-        "term": "have",
-        "description": "لدي أو أملك."
-      },
-      {
-        "term": "any",
-        "description": "أي كمية، وتستخدم في النفي للتأكيد على عدم وجود شيء."
-      },
-      {
-        "term": "money",
-        "description": "مال أو نقود."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "I do not have any money.",
-        "explanation": {
+        "ar": "ليس لدي أي مال.",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "يستخدم المضارع البسيط المنفي للتعبير عن حالة حالية، وكلمة أي تؤكد عدم وجود مال إطلاقًا أو عدم توفره."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "أنا، وتشير إلى المتكلم."
+          },
+          {
+            "term": "do",
+            "description": "تستخدم مع النفي لتكوين جملة منفية في الحاضر."
+          },
+          {
+            "term": "not",
+            "description": "لا، وتدل على النفي."
+          },
+          {
+            "term": "have",
+            "description": "لدي أو أملك."
+          },
+          {
+            "term": "any",
+            "description": "أي كمية، وتستخدم في النفي للتأكيد على عدم وجود شيء."
+          },
+          {
+            "term": "money",
+            "description": "مال أو نقود."
+          }
+        ]
       }
     ],
     "examples": [

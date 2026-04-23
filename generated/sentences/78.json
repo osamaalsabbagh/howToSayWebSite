@@ -7,28 +7,29 @@
     "context": "اعرض التحقق من شيء."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Let",
-        "description": "تأتي هنا بمعنى اسمح أو دع، لطلب فرصة لفعل شيء."
-      },
-      {
-        "term": "me",
-        "description": "ضمير يشير إلى المتكلم عندما يكون متلقيًا للفعل."
-      },
-      {
-        "term": "check",
-        "description": "أتحقق أو أراجع المعلومة."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "Let me check.",
-        "explanation": {
+        "ar": "دعني أتحقق.",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذه صيغة طلب أو عرض للتحقق من شيء، وتعمل كتعبير عملي مهذب لا يحمل زمنًا مستقلًا."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Let",
+            "description": "تأتي هنا بمعنى اسمح أو دع، لطلب فرصة لفعل شيء."
+          },
+          {
+            "term": "me",
+            "description": "ضمير يشير إلى المتكلم عندما يكون متلقيًا للفعل."
+          },
+          {
+            "term": "check",
+            "description": "أتحقق أو أراجع المعلومة."
+          }
+        ]
       }
     ],
     "examples": [

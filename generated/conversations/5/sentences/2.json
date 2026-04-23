@@ -7,112 +7,116 @@
     "context": "الموظف يوضح قاعدة الموعد المسبق ويستثنيها في هذه الحالة."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Good",
-        "description": "جزء من تحية الصباح."
-      },
-      {
-        "term": "morning",
-        "description": "الصباح، وتكمل عبارة التحية."
-      },
-      {
-        "term": "Usually",
-        "description": "تعني عادةً أو في أغلب الحالات."
-      },
-      {
-        "term": "anyone",
-        "description": "أي شخص."
-      },
-      {
-        "term": "interested",
-        "description": "مهتم أو لديه رغبة في شيء."
-      },
-      {
-        "term": "in",
-        "description": "حرف يربط الاهتمام بالشيء المقصود."
-      },
-      {
-        "term": "this",
-        "description": "اسم إشارة لهذه الشقة المحددة."
-      },
-      {
-        "term": "apartment",
-        "description": "شقة سكنية."
-      },
-      {
-        "term": "must",
-        "description": "يدل على الوجوب أو الشرط المطلوب."
-      },
-      {
-        "term": "book",
-        "description": "تعني يحجز موعدًا."
-      },
-      {
-        "term": "a",
-        "description": "أداة نكرة قبل اسم مفرد."
-      },
-      {
-        "term": "viewing",
-        "description": "معاينة للعقار."
-      },
-      {
-        "term": "in",
-        "description": "جزء من عبارة in advance التي تعني مسبقًا."
-      },
-      {
-        "term": "advance",
-        "description": "تكمل عبارة مسبقًا أو قبل الوقت."
-      },
-      {
-        "term": "but",
-        "description": "حرف يبين استثناء أو اختلافًا عن القاعدة."
-      },
-      {
-        "term": "I",
-        "description": "ضمير المتكلم المفرد."
-      },
-      {
-        "term": "can",
-        "description": "يدل على القدرة أو الإمكانية."
-      },
-      {
-        "term": "show",
-        "description": "تعني أُري أو أعرض."
-      },
-      {
-        "term": "it",
-        "description": "ضمير يعود على الشقة."
-      },
-      {
-        "term": "to",
-        "description": "يوضح الشخص الذي سيُعرض عليه الشيء."
-      },
-      {
-        "term": "you",
-        "description": "ضمير المخاطب."
-      },
-      {
-        "term": "now",
-        "description": "الآن، في هذه اللحظة."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "Good morning.",
-        "explanation": {
+        "ar": "صباح الخير.",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذه تحية صباحية وليست جملة فعلية لها زمن مستقل."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Good",
+            "description": "جزء من تحية الصباح."
+          },
+          {
+            "term": "morning",
+            "description": "الصباح، وتكمل عبارة التحية."
+          }
+        ]
       },
       {
         "sentence": "Usually, anyone interested in this apartment must book a viewing in advance, but I can show it to you now.",
-        "explanation": {
+        "ar": "عادةً أي شخص مهتم بهذه الشقة يجب أن يحجز معاينة مسبقًا، لكن يمكنني أن أريك إياها الآن.",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "الجملة تشرح قاعدة وإمكانية باستخدام must وcan، وهما فعلان مساعدان يعبّران عن الوجوب والقدرة، لذلك يشرحان كتركيب وظيفي لا كزمن مستقل."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Usually",
+            "description": "تعني عادةً أو في أغلب الحالات."
+          },
+          {
+            "term": "anyone",
+            "description": "أي شخص."
+          },
+          {
+            "term": "interested",
+            "description": "مهتم أو لديه رغبة في شيء."
+          },
+          {
+            "term": "in",
+            "description": "حرف يربط الاهتمام بالشيء المقصود."
+          },
+          {
+            "term": "this",
+            "description": "اسم إشارة لهذه الشقة المحددة."
+          },
+          {
+            "term": "apartment",
+            "description": "شقة سكنية."
+          },
+          {
+            "term": "must",
+            "description": "يدل على الوجوب أو الشرط المطلوب."
+          },
+          {
+            "term": "book",
+            "description": "تعني يحجز موعدًا."
+          },
+          {
+            "term": "a",
+            "description": "أداة نكرة قبل اسم مفرد."
+          },
+          {
+            "term": "viewing",
+            "description": "معاينة للعقار."
+          },
+          {
+            "term": "in",
+            "description": "جزء من عبارة in advance التي تعني مسبقًا."
+          },
+          {
+            "term": "advance",
+            "description": "تكمل عبارة مسبقًا أو قبل الوقت."
+          },
+          {
+            "term": "but",
+            "description": "حرف يبين استثناء أو اختلافًا عن القاعدة."
+          },
+          {
+            "term": "I",
+            "description": "ضمير المتكلم المفرد."
+          },
+          {
+            "term": "can",
+            "description": "يدل على القدرة أو الإمكانية."
+          },
+          {
+            "term": "show",
+            "description": "تعني أُري أو أعرض."
+          },
+          {
+            "term": "it",
+            "description": "ضمير يعود على الشقة."
+          },
+          {
+            "term": "to",
+            "description": "يوضح الشخص الذي سيُعرض عليه الشيء."
+          },
+          {
+            "term": "you",
+            "description": "ضمير المخاطب."
+          },
+          {
+            "term": "now",
+            "description": "الآن، في هذه اللحظة."
+          }
+        ]
       }
     ],
     "examples": [

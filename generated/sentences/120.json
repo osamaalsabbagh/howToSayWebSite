@@ -7,28 +7,29 @@
     "context": "أبدِ الرضا أو الموافقة بشكل رسمي وحيادي."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "That",
-        "description": "يشير إلى أمر أو اقتراح مذكور."
-      },
-      {
-        "term": "is",
-        "description": "تربط الإشارة بالوصف الحالي."
-      },
-      {
-        "term": "fine",
-        "description": "مقبول أو مناسب."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "That is fine.",
-        "explanation": {
+        "ar": "لا بأس بذلك.",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "الجملة تصف الأمر الحالي بأنه مقبول أو مناسب."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "That",
+            "description": "يشير إلى أمر أو اقتراح مذكور."
+          },
+          {
+            "term": "is",
+            "description": "تربط الإشارة بالوصف الحالي."
+          },
+          {
+            "term": "fine",
+            "description": "مقبول أو مناسب."
+          }
+        ]
       }
     ],
     "examples": [

@@ -7,44 +7,45 @@
     "context": "اطلب الاتجاه إلى مكتب البريد."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "I",
-        "description": "أنا، وتشير إلى المتكلم."
-      },
-      {
-        "term": "am",
-        "description": "صيغة تأتي مع أنا وتساعد في وصف فعل يحدث الآن."
-      },
-      {
-        "term": "looking",
-        "description": "أبحث، ومع الكلمة التالية تعني أحاول العثور على شيء."
-      },
-      {
-        "term": "for",
-        "description": "عن، وتكمل معنى البحث عن شيء."
-      },
-      {
-        "term": "the",
-        "description": "أداة تشير إلى مكان محدد معروف أو مطلوب."
-      },
-      {
-        "term": "post",
-        "description": "بريد، وتصف نوع المكتب."
-      },
-      {
-        "term": "office",
-        "description": "مكتب أو مبنى خدمة."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "I am looking for the post office.",
-        "explanation": {
+        "ar": "أنا أبحث عن مكتب البريد.",
+        "grammar": {
           "tense": "المضارع المستمر",
           "tenseEn": "Present Continuous",
           "reason": "يستخدم المضارع المستمر لأن المتكلم يصف بحثًا يحدث الآن أو في هذه اللحظة عن مكان محدد."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "أنا، وتشير إلى المتكلم."
+          },
+          {
+            "term": "am",
+            "description": "صيغة تأتي مع أنا وتساعد في وصف فعل يحدث الآن."
+          },
+          {
+            "term": "looking",
+            "description": "أبحث، ومع الكلمة التالية تعني أحاول العثور على شيء."
+          },
+          {
+            "term": "for",
+            "description": "عن، وتكمل معنى البحث عن شيء."
+          },
+          {
+            "term": "the",
+            "description": "أداة تشير إلى مكان محدد معروف أو مطلوب."
+          },
+          {
+            "term": "post",
+            "description": "بريد، وتصف نوع المكتب."
+          },
+          {
+            "term": "office",
+            "description": "مكتب أو مبنى خدمة."
+          }
+        ]
       }
     ],
     "examples": [

@@ -7,28 +7,29 @@
     "context": "امتدح مظهرها."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "She",
-        "description": "ضمير يشير إلى امرأة أو فتاة."
-      },
-      {
-        "term": "is",
-        "description": "صيغة تأتي مع المفرد الغائب وتربط الشخص بوصفه."
-      },
-      {
-        "term": "pretty",
-        "description": "جميلة أو لطيفة المظهر."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "She is pretty.",
-        "explanation": {
+        "ar": "هي جميلة.",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "تستخدم الجملة is مع صفة لوصف مظهر شخص في الحاضر."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "She",
+            "description": "ضمير يشير إلى امرأة أو فتاة."
+          },
+          {
+            "term": "is",
+            "description": "صيغة تأتي مع المفرد الغائب وتربط الشخص بوصفه."
+          },
+          {
+            "term": "pretty",
+            "description": "جميلة أو لطيفة المظهر."
+          }
+        ]
       }
     ],
     "examples": [

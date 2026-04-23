@@ -7,36 +7,37 @@
     "context": "عبّر عن عدم الإعجاب بشخص."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "I",
-        "description": "ضمير المتكلم ويشير إلى الشخص الذي يتحدث."
-      },
-      {
-        "term": "do",
-        "description": "تساعد هنا على تكوين النفي في المضارع مع I."
-      },
-      {
-        "term": "not",
-        "description": "كلمة نفي تجعل المعنى لا أحب."
-      },
-      {
-        "term": "like",
-        "description": "أحب أو يعجبني، وهنا تأتي منفية."
-      },
-      {
-        "term": "him",
-        "description": "ضمير يشير إلى رجل أو ولد يكون مفعولًا به."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "I do not like him.",
-        "explanation": {
+        "ar": "لا أحبه.",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "تستخدم الجملة المضارع البسيط للتعبير عن شعور أو رأي عام، ويأتي do not قبل الفعل الأساسي لتكوين النفي."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير المتكلم ويشير إلى الشخص الذي يتحدث."
+          },
+          {
+            "term": "do",
+            "description": "تساعد هنا على تكوين النفي في المضارع مع I."
+          },
+          {
+            "term": "not",
+            "description": "كلمة نفي تجعل المعنى لا أحب."
+          },
+          {
+            "term": "like",
+            "description": "أحب أو يعجبني، وهنا تأتي منفية."
+          },
+          {
+            "term": "him",
+            "description": "ضمير يشير إلى رجل أو ولد يكون مفعولًا به."
+          }
+        ]
       }
     ],
     "examples": [

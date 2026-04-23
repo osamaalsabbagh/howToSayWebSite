@@ -7,40 +7,41 @@
     "context": "أنت تشير إلى عنصر محدد وتقول أنك ستأخذه بالإضافة إلى ما لديك بالفعل."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "I",
-        "description": "أنا، وتشير إلى المتكلم."
-      },
-      {
-        "term": "will",
-        "description": "تدل على قرار أو نية مستقبلية."
-      },
-      {
-        "term": "take",
-        "description": "آخذ أو أختار للشراء."
-      },
-      {
-        "term": "that",
-        "description": "ذلك، وتشير إلى شيء محدد بعيد أو مشار إليه."
-      },
-      {
-        "term": "one",
-        "description": "واحد أو عنصر محدد من بين خيارات."
-      },
-      {
-        "term": "also",
-        "description": "أيضًا، وتدل على إضافة هذا الشيء إلى شيء آخر."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "I will take that one also.",
-        "explanation": {
+        "ar": "سآخذ ذلك الواحد أيضًا.",
+        "grammar": {
           "tense": "المستقبل البسيط",
           "tenseEn": "Future Simple",
           "reason": "يستخدم المستقبل البسيط للتعبير عن قرار يتخذه المتكلم الآن بشأن شيء سيأخذه أو يشتريه."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "أنا، وتشير إلى المتكلم."
+          },
+          {
+            "term": "will",
+            "description": "تدل على قرار أو نية مستقبلية."
+          },
+          {
+            "term": "take",
+            "description": "آخذ أو أختار للشراء."
+          },
+          {
+            "term": "that",
+            "description": "ذلك، وتشير إلى شيء محدد بعيد أو مشار إليه."
+          },
+          {
+            "term": "one",
+            "description": "واحد أو عنصر محدد من بين خيارات."
+          },
+          {
+            "term": "also",
+            "description": "أيضًا، وتدل على إضافة هذا الشيء إلى شيء آخر."
+          }
+        ]
       }
     ],
     "examples": [

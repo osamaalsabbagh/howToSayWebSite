@@ -7,36 +7,37 @@
     "context": "حدد أن الموقع يقع على الجانب المقابل من الشارع لمكتب البريد، وليس بالضرورة مباشرة أمامه."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Across",
-        "description": "على الجهة المقابلة أو عبر الطريق."
-      },
-      {
-        "term": "from",
-        "description": "من، وتكمل عبارة الموقع المقابل لشيء."
-      },
-      {
-        "term": "the",
-        "description": "أداة تشير إلى مكتب بريد محدد معروف."
-      },
-      {
-        "term": "post",
-        "description": "بريد، وتصف نوع المكتب."
-      },
-      {
-        "term": "office",
-        "description": "مكتب أو مكان خدمة."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "Across from the post office.",
-        "explanation": {
+        "ar": "مقابل مكتب البريد.",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذه عبارة مكانية قصيرة بلا فعل ظاهر، وتحدد أن الموقع على الجهة المقابلة من مكتب البريد."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Across",
+            "description": "على الجهة المقابلة أو عبر الطريق."
+          },
+          {
+            "term": "from",
+            "description": "من، وتكمل عبارة الموقع المقابل لشيء."
+          },
+          {
+            "term": "the",
+            "description": "أداة تشير إلى مكتب بريد محدد معروف."
+          },
+          {
+            "term": "post",
+            "description": "بريد، وتصف نوع المكتب."
+          },
+          {
+            "term": "office",
+            "description": "مكتب أو مكان خدمة."
+          }
+        ]
       }
     ],
     "examples": [

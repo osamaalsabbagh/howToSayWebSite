@@ -5,5 +5,106 @@
     "en": "Is there an English speaking guide?",
     "ar": "هل يوجد دليل يتحدث الإنجليزية؟",
     "context": "الاستفسار عن وجود دليل سياحي يتحدث الإنجليزية."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Is there an English speaking guide?",
+        "ar": "هل يوجد دليل يتحدث الإنجليزية؟",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "Is there صيغة سؤال عن وجود شيء في الوقت الحالي، وEnglish speaking تصف نوع الدليل المطلوب."
+        },
+        "wordMeanings": [
+          {
+            "term": "Is",
+            "description": "صيغة سؤال عن وجود شيء أو حالته في المضارع."
+          },
+          {
+            "term": "there",
+            "description": "تستخدم مع is للسؤال عن وجود شيء."
+          },
+          {
+            "term": "an",
+            "description": "أداة نكرة تأتي قبل كلمة تبدأ بصوت متحرك."
+          },
+          {
+            "term": "English",
+            "description": "تعني اللغة الإنجليزية أو متعلقًا بها."
+          },
+          {
+            "term": "speaking",
+            "description": "تعني يتحدث، وتصف الدليل بأنه قادر على الكلام بالإنجليزية."
+          },
+          {
+            "term": "guide",
+            "description": "يعني دليلًا سياحيًا أو شخصًا يرشد الزائر."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Is there a tour guide?",
+        "ar": "هل يوجد دليل سياحي؟",
+        "context": "تستخدم للسؤال عن وجود دليل."
+      },
+      {
+        "id": 2,
+        "en": "Is there an English menu?",
+        "ar": "هل توجد قائمة طعام باللغة الإنجليزية؟",
+        "context": "تستخدم في مطعم عند الحاجة إلى ترجمة."
+      },
+      {
+        "id": 3,
+        "en": "Is there a Spanish speaking guide?",
+        "ar": "هل يوجد دليل يتحدث الإسبانية؟",
+        "context": "تستخدم للسؤال عن دليل بلغة معينة."
+      },
+      {
+        "id": 4,
+        "en": "Is there someone who speaks English?",
+        "ar": "هل يوجد شخص يتحدث الإنجليزية؟",
+        "context": "تستخدم عند طلب مساعدة بلغة مفهومة."
+      },
+      {
+        "id": 5,
+        "en": "Is there a guide at the museum?",
+        "ar": "هل يوجد دليل في المتحف؟",
+        "context": "تستخدم عند زيارة متحف."
+      },
+      {
+        "id": 6,
+        "en": "Is there an information desk?",
+        "ar": "هل يوجد مكتب استعلامات؟",
+        "context": "تستخدم عند البحث عن مساعدة في مكان عام."
+      },
+      {
+        "id": 7,
+        "en": "There is an English speaking doctor here.",
+        "ar": "يوجد طبيب يتحدث الإنجليزية هنا.",
+        "context": "تستخدم لإخبار شخص بوجود طبيب مناسب."
+      },
+      {
+        "id": 8,
+        "en": "Is there a map of the city?",
+        "ar": "هل توجد خريطة للمدينة؟",
+        "context": "تستخدم عند الحاجة إلى خريطة."
+      },
+      {
+        "id": 9,
+        "en": "Is there a guide available now?",
+        "ar": "هل يوجد دليل متاح الآن؟",
+        "context": "تستخدم للسؤال عن توفر الدليل فورًا."
+      },
+      {
+        "id": 10,
+        "en": "Is there an English speaking driver?",
+        "ar": "هل يوجد سائق يتحدث الإنجليزية؟",
+        "context": "تستخدم عند حجز سيارة أو جولة."
+      }
+    ]
   }
 }

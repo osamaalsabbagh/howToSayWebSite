@@ -7,88 +7,115 @@
     "context": "التعبير عن توقع الدهشة من حجم الطفل الحالي رغم أنها لم تره من قبل"
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "I",
-        "description": "ضمير المتكلم المفرد."
-      },
-      {
-        "term": "am",
-        "description": "صيغة تأتي مع ضمير المتكلم المفرد للتعبير عن حالة أو يقين."
-      },
-      {
-        "term": "sure",
-        "description": "تعني متأكد."
-      },
-      {
-        "term": "she",
-        "description": "ضمير يعود على العمة."
-      },
-      {
-        "term": "will",
-        "description": "يدل على المستقبل أو توقع ما سيحدث."
-      },
-      {
-        "term": "be",
-        "description": "يعني تكون بعد will."
-      },
-      {
-        "term": "surprised",
-        "description": "مندَهشة أو متفاجئة."
-      },
-      {
-        "term": "to",
-        "description": "تأتي قبل الفعل لتوضيح سبب الدهشة."
-      },
-      {
-        "term": "see",
-        "description": "تعني ترى أو تشاهد."
-      },
-      {
-        "term": "how",
-        "description": "تبدأ تعبيرًا عن درجة أو مقدار."
-      },
-      {
-        "term": "big",
-        "description": "كبير الحجم أو النمو."
-      },
-      {
-        "term": "he",
-        "description": "ضمير يعود على الطفل."
-      },
-      {
-        "term": "is",
-        "description": "صيغة تربط الضمير بالوصف الحالي."
-      },
-      {
-        "term": "now",
-        "description": "الآن، في الوقت الحالي."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "I am sure",
-        "explanation": {
+        "ar": "أنا متأكد أنها ستندهش عندما ترى كم هو كبير الآن.",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "استُعمل المضارع البسيط للتعبير عن يقين المتكلم الحالي."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير المتكلم المفرد."
+          },
+          {
+            "term": "am",
+            "description": "صيغة تأتي مع ضمير المتكلم المفرد للتعبير عن حالة أو يقين."
+          },
+          {
+            "term": "sure",
+            "description": "تعني متأكد."
+          }
+        ]
       },
       {
         "sentence": "she will be surprised to see how big he is now",
-        "explanation": {
+        "ar": "أنا متأكد أنها ستندهش عندما ترى كم هو كبير الآن.",
+        "grammar": {
           "tense": "المستقبل البسيط",
           "tenseEn": "Future Simple",
           "reason": "استُعمل المستقبل البسيط للتعبير عن توقع ما سيحدث عندما ترى العمة الطفل."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "she",
+            "description": "ضمير يعود على العمة."
+          },
+          {
+            "term": "will",
+            "description": "يدل على المستقبل أو توقع ما سيحدث."
+          },
+          {
+            "term": "be",
+            "description": "يعني تكون بعد will."
+          },
+          {
+            "term": "surprised",
+            "description": "مندَهشة أو متفاجئة."
+          },
+          {
+            "term": "to",
+            "description": "تأتي قبل الفعل لتوضيح سبب الدهشة."
+          },
+          {
+            "term": "see",
+            "description": "تعني ترى أو تشاهد."
+          },
+          {
+            "term": "how",
+            "description": "تبدأ تعبيرًا عن درجة أو مقدار."
+          },
+          {
+            "term": "big",
+            "description": "كبير الحجم أو النمو."
+          },
+          {
+            "term": "he",
+            "description": "ضمير يعود على الطفل."
+          },
+          {
+            "term": "is",
+            "description": "صيغة تربط الضمير بالوصف الحالي."
+          },
+          {
+            "term": "now",
+            "description": "الآن، في الوقت الحالي."
+          }
+        ]
       },
       {
         "sentence": "how big he is now",
-        "explanation": {
+        "ar": "أنا متأكد أنها ستندهش عندما ترى كم هو كبير الآن.",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "استُعمل المضارع البسيط لوصف حجم الطفل الحالي."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "how",
+            "description": "تبدأ تعبيرًا عن درجة أو مقدار."
+          },
+          {
+            "term": "big",
+            "description": "كبير الحجم أو النمو."
+          },
+          {
+            "term": "he",
+            "description": "ضمير يعود على الطفل."
+          },
+          {
+            "term": "is",
+            "description": "صيغة تربط الضمير بالوصف الحالي."
+          },
+          {
+            "term": "now",
+            "description": "الآن، في الوقت الحالي."
+          }
+        ]
       }
     ],
     "examples": [

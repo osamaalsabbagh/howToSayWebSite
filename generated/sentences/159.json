@@ -7,28 +7,29 @@
     "context": "اطلب من شخص الاتصال بك."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Please",
-        "description": "كلمة تجعل الطلب أكثر أدبًا ولطفًا."
-      },
-      {
-        "term": "call",
-        "description": "اتصل، أي تواصل بالهاتف."
-      },
-      {
-        "term": "me",
-        "description": "إياي أو بي، وتشير إلى المتكلم."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "Please call me.",
-        "explanation": {
+        "ar": "من فضلك اتصل بي.",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذه جملة طلب مهذب؛ وجود كلمة من فضلك يجعل الأمر ألطف، والفعل يأتي بصيغته الأساسية لأن المقصود طلب فعل لا وصف زمن."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Please",
+            "description": "كلمة تجعل الطلب أكثر أدبًا ولطفًا."
+          },
+          {
+            "term": "call",
+            "description": "اتصل، أي تواصل بالهاتف."
+          },
+          {
+            "term": "me",
+            "description": "إياي أو بي، وتشير إلى المتكلم."
+          }
+        ]
       }
     ],
     "examples": [

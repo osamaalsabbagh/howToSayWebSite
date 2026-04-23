@@ -5,5 +5,106 @@
     "en": "He is not in right now.",
     "ar": "هو غير موجود حاليًا.",
     "context": "إبلاغ بعدم وجود شخص بشكل مؤقت."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "He is not in right now.",
+        "ar": "هو غير موجود حاليًا.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "الجملة تصف حالة مؤقتة الآن باستخدام is not، والتعبير in يعني موجودا أو متاحا في المكان."
+        },
+        "wordMeanings": [
+          {
+            "term": "He",
+            "description": "ضمير يشير إلى رجل أو ذكر."
+          },
+          {
+            "term": "is",
+            "description": "تدل على الحالة أو الوجود في الوقت الحالي."
+          },
+          {
+            "term": "not",
+            "description": "تستخدم للنفي."
+          },
+          {
+            "term": "in",
+            "description": "تعني موجودا في المكان أو المكتب في هذا السياق."
+          },
+          {
+            "term": "right",
+            "description": "تأتي مع now لتقوية معنى الآن بالضبط."
+          },
+          {
+            "term": "now",
+            "description": "تعني الآن."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "She is not here right now.",
+        "ar": "هي ليست هنا الآن.",
+        "context": "تخبر شخصا أن امرأة غير موجودة حاليا."
+      },
+      {
+        "id": 2,
+        "en": "He is not available right now.",
+        "ar": "هو غير متاح الآن.",
+        "context": "تخبر المتصل أن الشخص لا يستطيع الرد حاليا."
+      },
+      {
+        "id": 3,
+        "en": "The manager is not in today.",
+        "ar": "المدير غير موجود اليوم.",
+        "context": "توضح أن المدير غائب في هذا اليوم."
+      },
+      {
+        "id": 4,
+        "en": "She is in a meeting right now.",
+        "ar": "هي في اجتماع الآن.",
+        "context": "تشرح سبب عدم توفر شخص."
+      },
+      {
+        "id": 5,
+        "en": "He is out right now.",
+        "ar": "هو خارج الآن.",
+        "context": "تقول إن الشخص غادر المكان مؤقتا."
+      },
+      {
+        "id": 6,
+        "en": "They are not in right now.",
+        "ar": "هم غير موجودين الآن.",
+        "context": "تخبر أن مجموعة أشخاص غير موجودة حاليا."
+      },
+      {
+        "id": 7,
+        "en": "My father is not home right now.",
+        "ar": "أبي ليس في البيت الآن.",
+        "context": "توضح أن والدك غير موجود في المنزل."
+      },
+      {
+        "id": 8,
+        "en": "The doctor is not in right now.",
+        "ar": "الطبيب غير موجود الآن.",
+        "context": "تخبر مريضا أن الطبيب غير متاح حاليا."
+      },
+      {
+        "id": 9,
+        "en": "He is not at his desk.",
+        "ar": "هو ليس عند مكتبه.",
+        "context": "تقول إن الشخص بعيد عن مكتبه."
+      },
+      {
+        "id": 10,
+        "en": "She is not in the office.",
+        "ar": "هي ليست في المكتب.",
+        "context": "توضح أن امرأة غير موجودة في المكتب."
+      }
+    ]
   }
 }

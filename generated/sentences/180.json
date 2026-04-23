@@ -7,44 +7,45 @@
     "context": "اسأل عن مدة السفر بالسيارة."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "How",
-        "description": "تبدأ السؤال عن المقدار."
-      },
-      {
-        "term": "long",
-        "description": "طويل من حيث المدة، ومع الكلمة السابقة تعني كم من الوقت."
-      },
-      {
-        "term": "does",
-        "description": "تأتي في السؤال مع المفرد لتكوين سؤال في الحاضر."
-      },
-      {
-        "term": "it",
-        "description": "تشير إلى الرحلة أو الوصول المقصود من السياق."
-      },
-      {
-        "term": "take",
-        "description": "يستغرق من الوقت."
-      },
-      {
-        "term": "by",
-        "description": "بواسطة أو عن طريق، وتدل هنا على وسيلة النقل."
-      },
-      {
-        "term": "car",
-        "description": "سيارة."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "How long does it take by car?",
-        "explanation": {
+        "ar": "كم من الوقت يستغرق بالسيارة؟",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "يستخدم السؤال المضارع البسيط للسؤال عن مدة معتادة أو متوقعة للرحلة، وليس عن رحلة تحدث الآن."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "How",
+            "description": "تبدأ السؤال عن المقدار."
+          },
+          {
+            "term": "long",
+            "description": "طويل من حيث المدة، ومع الكلمة السابقة تعني كم من الوقت."
+          },
+          {
+            "term": "does",
+            "description": "تأتي في السؤال مع المفرد لتكوين سؤال في الحاضر."
+          },
+          {
+            "term": "it",
+            "description": "تشير إلى الرحلة أو الوصول المقصود من السياق."
+          },
+          {
+            "term": "take",
+            "description": "يستغرق من الوقت."
+          },
+          {
+            "term": "by",
+            "description": "بواسطة أو عن طريق، وتدل هنا على وسيلة النقل."
+          },
+          {
+            "term": "car",
+            "description": "سيارة."
+          }
+        ]
       }
     ],
     "examples": [

@@ -5,5 +5,102 @@
     "en": "Please take off your shoes.",
     "ar": "من فضلك اخلع حذاءك.",
     "context": "طلب خلع الحذاء."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Please take off your shoes.",
+        "ar": "من فضلك اخلع حذاءك.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه جملة أمر مهذبة؛ يبدأ الطلب بالفعل take، وكلمة please تجعل الأمر ألطف، وtake off تعني خلع شيء مثل الحذاء."
+        },
+        "wordMeanings": [
+          {
+            "term": "Please",
+            "description": "كلمة تلطف الطلب وتعني من فضلك."
+          },
+          {
+            "term": "take",
+            "description": "تأتي هنا ضمن تعبير يعني اخلع أو أزل."
+          },
+          {
+            "term": "off",
+            "description": "تتمم معنى take off لتدل على إزالة شيء من الجسم."
+          },
+          {
+            "term": "your",
+            "description": "تعني الخاص بك أو التابعة لك."
+          },
+          {
+            "term": "shoes",
+            "description": "تعني أحذية."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Please take off your coat.",
+        "ar": "من فضلك اخلع معطفك.",
+        "context": "تستخدم عند دخول مكان دافئ."
+      },
+      {
+        "id": 2,
+        "en": "Please take off your hat.",
+        "ar": "من فضلك اخلع قبعتك.",
+        "context": "تستخدم عند طلب إزالة قبعة."
+      },
+      {
+        "id": 3,
+        "en": "Please remove your shoes.",
+        "ar": "من فضلك انزع حذاءك.",
+        "context": "تستخدم كطلب رسمي أو مباشر."
+      },
+      {
+        "id": 4,
+        "en": "Take off your shoes before you enter.",
+        "ar": "اخلع حذاءك قبل أن تدخل.",
+        "context": "تستخدم عند دخول منزل أو مكان نظيف."
+      },
+      {
+        "id": 5,
+        "en": "Please leave your shoes by the door.",
+        "ar": "من فضلك اترك حذاءك عند الباب.",
+        "context": "تستخدم لتوضيح مكان وضع الحذاء."
+      },
+      {
+        "id": 6,
+        "en": "Please take off your wet shoes.",
+        "ar": "من فضلك اخلع حذاءك المبلل.",
+        "context": "تستخدم عند المطر أو الأرض المتسخة."
+      },
+      {
+        "id": 7,
+        "en": "Can you take off your shoes here?",
+        "ar": "هل يمكنك خلع حذائك هنا؟",
+        "context": "تستخدم لطلب مؤدب بصيغة سؤال."
+      },
+      {
+        "id": 8,
+        "en": "Please put your shoes on the shelf.",
+        "ar": "من فضلك ضع حذاءك على الرف.",
+        "context": "تستخدم لإرشاد شخص بعد خلع الحذاء."
+      },
+      {
+        "id": 9,
+        "en": "You need to take off your shoes.",
+        "ar": "تحتاج إلى خلع حذائك.",
+        "context": "تستخدم لتوضيح قاعدة في مكان معين."
+      },
+      {
+        "id": 10,
+        "en": "Please take off your shoes in the house.",
+        "ar": "من فضلك اخلع حذاءك في المنزل.",
+        "context": "تستخدم عند شرح عادة داخل المنزل."
+      }
+    ]
   }
 }

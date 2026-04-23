@@ -7,28 +7,29 @@
     "context": "الإشارة إلى مكان قريب من معلم."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Near",
-        "description": "قريب من أو بجوار مكان."
-      },
-      {
-        "term": "the",
-        "description": "أداة تشير إلى مكان محدد معروف."
-      },
-      {
-        "term": "bank",
-        "description": "البنك أو المصرف."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "Near the bank.",
-        "explanation": {
+        "ar": "بالقرب من البنك.",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذا تعبير مكاني قصير يحدد الموقع بالنسبة إلى البنك، ولا يحتوي على فعل ظاهر أو زمن مستقل."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Near",
+            "description": "قريب من أو بجوار مكان."
+          },
+          {
+            "term": "the",
+            "description": "أداة تشير إلى مكان محدد معروف."
+          },
+          {
+            "term": "bank",
+            "description": "البنك أو المصرف."
+          }
+        ]
       }
     ],
     "examples": [

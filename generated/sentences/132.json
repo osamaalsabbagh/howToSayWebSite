@@ -7,32 +7,33 @@
     "context": "قل إن الأشخاص مشغولون جدًا."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "They",
-        "description": "ضمير يشير إلى مجموعة من الأشخاص."
-      },
-      {
-        "term": "are",
-        "description": "صيغة تربط الجمع بحالة أو صفة."
-      },
-      {
-        "term": "very",
-        "description": "كلمة تقوي الصفة وتجعلها بدرجة كبيرة."
-      },
-      {
-        "term": "busy",
-        "description": "مشغولون أو غير متفرغين."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "They are very busy.",
-        "explanation": {
+        "ar": "هم مشغولون جدًا.",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "تستخدم are مع الجمع لوصف حالتهم الحالية، وتأتي very لتقوية معنى الانشغال."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "They",
+            "description": "ضمير يشير إلى مجموعة من الأشخاص."
+          },
+          {
+            "term": "are",
+            "description": "صيغة تربط الجمع بحالة أو صفة."
+          },
+          {
+            "term": "very",
+            "description": "كلمة تقوي الصفة وتجعلها بدرجة كبيرة."
+          },
+          {
+            "term": "busy",
+            "description": "مشغولون أو غير متفرغين."
+          }
+        ]
       }
     ],
     "examples": [

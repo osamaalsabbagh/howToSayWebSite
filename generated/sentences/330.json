@@ -5,5 +5,106 @@
     "en": "I will call you on Friday.",
     "ar": "سأتصل بك يوم الجمعة.",
     "context": "تحديد موعد الاتصال في يوم معين."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "I will call you on Friday.",
+        "ar": "سأتصل بك يوم الجمعة.",
+        "grammar": {
+          "tense": "المستقبل البسيط",
+          "tenseEn": "Future Simple",
+          "reason": "will call يوضح وعدًا أو نية للاتصال في المستقبل، وon Friday يحدد يوم حدوث الاتصال."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير يشير إلى المتكلم."
+          },
+          {
+            "term": "will",
+            "description": "كلمة تدل على فعل سيحدث في المستقبل."
+          },
+          {
+            "term": "call",
+            "description": "يعني أتصل بالهاتف."
+          },
+          {
+            "term": "you",
+            "description": "ضمير يشير إلى الشخص المخاطب."
+          },
+          {
+            "term": "on",
+            "description": "حرف يستخدم مع أيام الأسبوع لتحديد اليوم."
+          },
+          {
+            "term": "Friday",
+            "description": "اسم يوم من أيام الأسبوع وهو الجمعة."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I will call you tomorrow.",
+        "ar": "سأتصل بك غدًا.",
+        "context": "تستخدم لتحديد موعد اتصال قريب."
+      },
+      {
+        "id": 2,
+        "en": "I will call you on Monday.",
+        "ar": "سأتصل بك يوم الاثنين.",
+        "context": "تستخدم مع يوم محدد من الأسبوع."
+      },
+      {
+        "id": 3,
+        "en": "She will call me on Friday.",
+        "ar": "ستتصل بي يوم الجمعة.",
+        "context": "تستخدم للحديث عن اتصال من شخص آخر."
+      },
+      {
+        "id": 4,
+        "en": "We will meet on Friday.",
+        "ar": "سنلتقي يوم الجمعة.",
+        "context": "تستخدم لترتيب موعد في يوم معين."
+      },
+      {
+        "id": 5,
+        "en": "I will send the message on Friday.",
+        "ar": "سأرسل الرسالة يوم الجمعة.",
+        "context": "تستخدم لتحديد موعد إرسال شيء."
+      },
+      {
+        "id": 6,
+        "en": "They will visit us on Sunday.",
+        "ar": "سيزوروننا يوم الأحد.",
+        "context": "تستخدم للحديث عن زيارة مستقبلية."
+      },
+      {
+        "id": 7,
+        "en": "I will see you next week.",
+        "ar": "سأراك الأسبوع القادم.",
+        "context": "تستخدم لترتيب لقاء لاحق."
+      },
+      {
+        "id": 8,
+        "en": "The doctor will call you on Tuesday.",
+        "ar": "سيتصل بك الطبيب يوم الثلاثاء.",
+        "context": "تستخدم في سياق مواعيد طبية."
+      },
+      {
+        "id": 9,
+        "en": "I will call my friend tonight.",
+        "ar": "سأتصل بصديقي الليلة.",
+        "context": "تستخدم للتحدث عن خطة اتصال."
+      },
+      {
+        "id": 10,
+        "en": "We will confirm the time on Friday.",
+        "ar": "سنؤكد الوقت يوم الجمعة.",
+        "context": "تستخدم عند الاتفاق على تأكيد موعد."
+      }
+    ]
   }
 }

@@ -7,24 +7,25 @@
     "context": "أشر إلى اتجاه معين."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "That",
-        "description": "ذلك، وتشير إلى اتجاه بعيد أو مشار إليه."
-      },
-      {
-        "term": "way",
-        "description": "طريق أو اتجاه."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "That way.",
-        "explanation": {
+        "ar": "من ذلك الاتجاه.",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذه عبارة اتجاه قصيرة بلا فعل ظاهر، وتستخدم للإشارة إلى الطريق أو الجهة المطلوبة."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "That",
+            "description": "ذلك، وتشير إلى اتجاه بعيد أو مشار إليه."
+          },
+          {
+            "term": "way",
+            "description": "طريق أو اتجاه."
+          }
+        ]
       }
     ],
     "examples": [

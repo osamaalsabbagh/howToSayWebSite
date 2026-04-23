@@ -1,93 +1,94 @@
 {
-	"schemaVersion": 1,
-	"id": 2277,
-	"sentence": {
-		"en": "Very good.",
-		"ar": "جيد جدًا.",
-		"context": "تعبّر عن رضا أكبر."
-	},
-	"lesson": {
-		"wordMeanings": [
-			{
-				"term": "Very",
-				"description": "كلمة تُستخدم لزيادة درجة الصفة وجعلها أقوى"
-			},
-			{
-				"term": "good",
-				"description": "صفة تُستخدم لوصف شيء بأنه جيد أو مُرضٍ"
-			}
-		],
-		"grammarExplanations": [
-			{
-				"sentence": "Very good.",
-				"explanation": {
-					"tense": null,
-					"tenseEn": null,
-					"reason": "هذه عبارة قصيرة تُستخدم كتعليق للتعبير عن رضا قوي أو إعجاب، وهي ليست جملة فعلية كاملة ولا ترتبط بزمن معين، وكلمة Very تُستخدم لتقوية معنى الصفة good"
-				}
-			}
-		],
-		"examples": [
-			{
-				"id": 1,
-				"en": "That is very good.",
-				"ar": "هذا جيد جدًا.",
-				"context": "التعبير عن رضا كبير عن شيء"
-			},
-			{
-				"id": 2,
-				"en": "You did very good work.",
-				"ar": "لقد قمت بعمل جيد جدًا.",
-				"context": "مدح أداء شخص"
-			},
-			{
-				"id": 3,
-				"en": "This is a very good idea.",
-				"ar": "هذه فكرة جيدة جدًا.",
-				"context": "الإعجاب باقتراح قوي"
-			},
-			{
-				"id": 4,
-				"en": "The result is very good.",
-				"ar": "النتيجة جيدة جدًا.",
-				"context": "وصف نتيجة ممتازة"
-			},
-			{
-				"id": 5,
-				"en": "Your answer is very good.",
-				"ar": "إجابتك جيدة جدًا.",
-				"context": "مدح إجابة"
-			},
-			{
-				"id": 6,
-				"en": "This looks very good.",
-				"ar": "هذا يبدو جيدًا جدًا.",
-				"context": "التعبير عن إعجاب بشيء مرئي"
-			},
-			{
-				"id": 7,
-				"en": "That sounds very good.",
-				"ar": "هذا يبدو جيدًا جدًا.",
-				"context": "الإعجاب بفكرة أو اقتراح مسموع"
-			},
-			{
-				"id": 8,
-				"en": "You are doing very good.",
-				"ar": "أنت تقوم بعمل جيد جدًا.",
-				"context": "تشجيع شخص على أدائه"
-			},
-			{
-				"id": 9,
-				"en": "This is very good news.",
-				"ar": "هذه أخبار جيدة جدًا.",
-				"context": "التعبير عن السعادة بخبر"
-			},
-			{
-				"id": 10,
-				"en": "Everything is very good.",
-				"ar": "كل شيء جيد جدًا.",
-				"context": "التعبير عن رضا عام"
-			}
-		]
-	}
+  "schemaVersion": 1,
+  "id": 2277,
+  "sentence": {
+    "en": "Very good.",
+    "ar": "جيد جدًا.",
+    "context": "تعبّر عن رضا أكبر."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Very good.",
+        "ar": "جيد جدًا.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه عبارة قصيرة تُستخدم كتعليق للتعبير عن رضا قوي أو إعجاب، وهي ليست جملة فعلية كاملة ولا ترتبط بزمن معين، وكلمة Very تُستخدم لتقوية معنى الصفة good"
+        },
+        "wordMeanings": [
+          {
+            "term": "Very",
+            "description": "كلمة تُستخدم لزيادة درجة الصفة وجعلها أقوى"
+          },
+          {
+            "term": "good",
+            "description": "صفة تُستخدم لوصف شيء بأنه جيد أو مُرضٍ"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "That is very good.",
+        "ar": "هذا جيد جدًا.",
+        "context": "التعبير عن رضا كبير عن شيء"
+      },
+      {
+        "id": 2,
+        "en": "You did very good work.",
+        "ar": "لقد قمت بعمل جيد جدًا.",
+        "context": "مدح أداء شخص"
+      },
+      {
+        "id": 3,
+        "en": "This is a very good idea.",
+        "ar": "هذه فكرة جيدة جدًا.",
+        "context": "الإعجاب باقتراح قوي"
+      },
+      {
+        "id": 4,
+        "en": "The result is very good.",
+        "ar": "النتيجة جيدة جدًا.",
+        "context": "وصف نتيجة ممتازة"
+      },
+      {
+        "id": 5,
+        "en": "Your answer is very good.",
+        "ar": "إجابتك جيدة جدًا.",
+        "context": "مدح إجابة"
+      },
+      {
+        "id": 6,
+        "en": "This looks very good.",
+        "ar": "هذا يبدو جيدًا جدًا.",
+        "context": "التعبير عن إعجاب بشيء مرئي"
+      },
+      {
+        "id": 7,
+        "en": "That sounds very good.",
+        "ar": "هذا يبدو جيدًا جدًا.",
+        "context": "الإعجاب بفكرة أو اقتراح مسموع"
+      },
+      {
+        "id": 8,
+        "en": "You are doing very good.",
+        "ar": "أنت تقوم بعمل جيد جدًا.",
+        "context": "تشجيع شخص على أدائه"
+      },
+      {
+        "id": 9,
+        "en": "This is very good news.",
+        "ar": "هذه أخبار جيدة جدًا.",
+        "context": "التعبير عن السعادة بخبر"
+      },
+      {
+        "id": 10,
+        "en": "Everything is very good.",
+        "ar": "كل شيء جيد جدًا.",
+        "context": "التعبير عن رضا عام"
+      }
+    ]
+  }
 }

@@ -7,56 +7,60 @@
     "context": "اقتراح اجتماع عائلي على العشاء"
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Perfect",
-        "description": "كلمة تعبر عن الموافقة والرضا بالخطة."
-      },
-      {
-        "term": "We",
-        "description": "ضمير المتكلمين، ويشير إلى أفراد العائلة."
-      },
-      {
-        "term": "can",
-        "description": "يدل على الإمكانية أو القدرة."
-      },
-      {
-        "term": "all",
-        "description": "تعني جميعًا."
-      },
-      {
-        "term": "have",
-        "description": "تعني نتناول عندما تأتي مع وجبة."
-      },
-      {
-        "term": "dinner",
-        "description": "وجبة العشاء."
-      },
-      {
-        "term": "together",
-        "description": "معًا، أي في اجتماع واحد."
-      },
-      {
-        "term": "then",
-        "description": "حينها أو في ذلك الوقت."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "Perfect!",
-        "explanation": {
+        "ar": "مثالي!",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذه كلمة موافقة ورضا قصيرة وليست جملة فعلية لها زمن مستقل."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Perfect",
+            "description": "كلمة تعبر عن الموافقة والرضا بالخطة."
+          }
+        ]
       },
       {
         "sentence": "We can all have dinner together then.",
-        "explanation": {
+        "ar": "يمكننا جميعًا تناول العشاء معًا حينها.",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "الجملة تستخدم can لاقتراح إمكانية اجتماع العائلة على العشاء، لذلك تشرح كتركيب اقتراح لا كزمن مستقل."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "We",
+            "description": "ضمير المتكلمين، ويشير إلى أفراد العائلة."
+          },
+          {
+            "term": "can",
+            "description": "يدل على الإمكانية أو القدرة."
+          },
+          {
+            "term": "all",
+            "description": "تعني جميعًا."
+          },
+          {
+            "term": "have",
+            "description": "تعني نتناول عندما تأتي مع وجبة."
+          },
+          {
+            "term": "dinner",
+            "description": "وجبة العشاء."
+          },
+          {
+            "term": "together",
+            "description": "معًا، أي في اجتماع واحد."
+          },
+          {
+            "term": "then",
+            "description": "حينها أو في ذلك الوقت."
+          }
+        ]
       }
     ],
     "examples": [

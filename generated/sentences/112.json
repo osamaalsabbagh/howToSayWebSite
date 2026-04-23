@@ -7,32 +7,33 @@
     "context": "اشكر شخصًا على المساعدة."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Thanks",
-        "description": "شكرًا، وتستخدم للتعبير عن الامتنان."
-      },
-      {
-        "term": "for",
-        "description": "تأتي لذكر سبب الشكر."
-      },
-      {
-        "term": "your",
-        "description": "كلمة تدل على أن المساعدة من الشخص المخاطب."
-      },
-      {
-        "term": "help",
-        "description": "مساعدة أو دعم قدمه شخص."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "Thanks for your help.",
-        "explanation": {
+        "ar": "شكرًا على مساعدتك.",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذا تعبير شكر ثابت يذكر سبب الامتنان، وهو مساعدة المخاطب، ولا يحتوي على فعل ظاهر أو زمن مستقل."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Thanks",
+            "description": "شكرًا، وتستخدم للتعبير عن الامتنان."
+          },
+          {
+            "term": "for",
+            "description": "تأتي لذكر سبب الشكر."
+          },
+          {
+            "term": "your",
+            "description": "كلمة تدل على أن المساعدة من الشخص المخاطب."
+          },
+          {
+            "term": "help",
+            "description": "مساعدة أو دعم قدمه شخص."
+          }
+        ]
       }
     ],
     "examples": [

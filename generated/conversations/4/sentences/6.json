@@ -7,60 +7,64 @@
     "context": "يعبر عن امتنانه ويوضح مدى حبه لذلك الدور"
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "That",
-        "description": "يشير إلى كلام الشخص أو إعجابه بالفيلم."
-      },
-      {
-        "term": "means",
-        "description": "تعني له قيمة أو يدل على شيء مهم."
-      },
-      {
-        "term": "a",
-        "description": "جزء من عبارة a lot التي تعني كثيرًا."
-      },
-      {
-        "term": "lot",
-        "description": "تكمل عبارة a lot وتعني مقدارًا كبيرًا."
-      },
-      {
-        "term": "It",
-        "description": "ضمير يعود على الدور في الفيلم."
-      },
-      {
-        "term": "was",
-        "description": "صيغة ماضية تربط الضمير بالوصف."
-      },
-      {
-        "term": "my",
-        "description": "صفة ملكية تعني الخاص بي."
-      },
-      {
-        "term": "favorite",
-        "description": "صفة تعني المفضل أو الأحب."
-      },
-      {
-        "term": "role",
-        "description": "دور تمثيلي أو شخصية يؤديها الممثل."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "That means a lot.",
-        "explanation": {
+        "ar": "هذا يعني الكثير.",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "استُعمل المضارع البسيط للتعبير عن أثر كلام الشخص وقيمته الحالية عند المتكلم."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "That",
+            "description": "يشير إلى كلام الشخص أو إعجابه بالفيلم."
+          },
+          {
+            "term": "means",
+            "description": "تعني له قيمة أو يدل على شيء مهم."
+          },
+          {
+            "term": "a",
+            "description": "جزء من عبارة a lot التي تعني كثيرًا."
+          },
+          {
+            "term": "lot",
+            "description": "تكمل عبارة a lot وتعني مقدارًا كبيرًا."
+          }
+        ]
       },
       {
         "sentence": "It was my favorite role.",
-        "explanation": {
+        "ar": "كان ذلك دوري المفضل.",
+        "grammar": {
           "tense": "الماضي البسيط",
           "tenseEn": "Past Simple",
           "reason": "استُعمل الماضي البسيط لأن المتكلم يتحدث عن دور سابق في فيلم انتهى العمل عليه."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "It",
+            "description": "ضمير يعود على الدور في الفيلم."
+          },
+          {
+            "term": "was",
+            "description": "صيغة ماضية تربط الضمير بالوصف."
+          },
+          {
+            "term": "my",
+            "description": "صفة ملكية تعني الخاص بي."
+          },
+          {
+            "term": "favorite",
+            "description": "صفة تعني المفضل أو الأحب."
+          },
+          {
+            "term": "role",
+            "description": "دور تمثيلي أو شخصية يؤديها الممثل."
+          }
+        ]
       }
     ],
     "examples": [

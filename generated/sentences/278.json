@@ -7,36 +7,37 @@
     "context": "حدد موقعًا بجوار السوبرماركت."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "It",
-        "description": "يشير إلى المكان أو الشيء المقصود."
-      },
-      {
-        "term": "is",
-        "description": "تربط المكان بوصف موقعه."
-      },
-      {
-        "term": "near",
-        "description": "قريب من."
-      },
-      {
-        "term": "the",
-        "description": "أداة تشير إلى مكان محدد يعرفه المتكلم والسامع."
-      },
-      {
-        "term": "supermarket",
-        "description": "السوبرماركت أو متجر كبير لشراء الطعام والحاجات."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "It is near the supermarket.",
-        "explanation": {
+        "ar": "إنه قريب من السوبرماركت.",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "تستخدم الجملة فعل الربط في الحاضر لوصف موقع مكان بالنسبة إلى السوبرماركت."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "It",
+            "description": "يشير إلى المكان أو الشيء المقصود."
+          },
+          {
+            "term": "is",
+            "description": "تربط المكان بوصف موقعه."
+          },
+          {
+            "term": "near",
+            "description": "قريب من."
+          },
+          {
+            "term": "the",
+            "description": "أداة تشير إلى مكان محدد يعرفه المتكلم والسامع."
+          },
+          {
+            "term": "supermarket",
+            "description": "السوبرماركت أو متجر كبير لشراء الطعام والحاجات."
+          }
+        ]
       }
     ],
     "examples": [

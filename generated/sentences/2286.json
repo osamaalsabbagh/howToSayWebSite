@@ -7,32 +7,33 @@
     "context": "تعبّر عن الرغبة في المتابعة."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "I",
-        "description": "ضمير المتكلم المفرد."
-      },
-      {
-        "term": "want",
-        "description": "أريد أو أرغب."
-      },
-      {
-        "term": "to",
-        "description": "تأتي قبل الفعل لتوضيح ما يريده المتكلم."
-      },
-      {
-        "term": "continue",
-        "description": "أستمر أو أتابع."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "I want to continue.",
-        "explanation": {
+        "ar": "أريد أن أستمر.",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "الجملة تعبّر عن رغبة المتكلم الحالية في المتابعة، مع to قبل الفعل المطلوب."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير المتكلم المفرد."
+          },
+          {
+            "term": "want",
+            "description": "أريد أو أرغب."
+          },
+          {
+            "term": "to",
+            "description": "تأتي قبل الفعل لتوضيح ما يريده المتكلم."
+          },
+          {
+            "term": "continue",
+            "description": "أستمر أو أتابع."
+          }
+        ]
       }
     ],
     "examples": [

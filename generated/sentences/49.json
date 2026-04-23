@@ -7,28 +7,29 @@
     "context": "صف شعور البرد."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "I",
-        "description": "ضمير المتكلم ويشير إلى الشخص الذي يتحدث."
-      },
-      {
-        "term": "am",
-        "description": "صيغة تأتي مع ضمير المتكلم المفرد وتربط الشخص بحالته."
-      },
-      {
-        "term": "cold",
-        "description": "أشعر بالبرد أو أن جسمي يحتاج إلى الدفء."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "I am cold.",
-        "explanation": {
+        "ar": "أنا أشعر بالبرد.",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "تستخدم الجملة am مع صفة لوصف حالة المتكلم الحالية، وهي الشعور بالبرد."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير المتكلم ويشير إلى الشخص الذي يتحدث."
+          },
+          {
+            "term": "am",
+            "description": "صيغة تأتي مع ضمير المتكلم المفرد وتربط الشخص بحالته."
+          },
+          {
+            "term": "cold",
+            "description": "أشعر بالبرد أو أن جسمي يحتاج إلى الدفء."
+          }
+        ]
       }
     ],
     "examples": [

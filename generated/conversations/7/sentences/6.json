@@ -7,60 +7,61 @@
     "context": "توضيح سبب الذهاب إلى المكتبة"
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Sure",
-        "description": "كلمة موافقة تعني بالتأكيد أو لا مشكلة."
-      },
-      {
-        "term": "I",
-        "description": "ضمير المتكلم المفرد."
-      },
-      {
-        "term": "need",
-        "description": "تعني أحتاج."
-      },
-      {
-        "term": "to",
-        "description": "تأتي قبل الفعل بعد need."
-      },
-      {
-        "term": "read",
-        "description": "تعني أقرأ."
-      },
-      {
-        "term": "an",
-        "description": "أداة نكرة قبل اسم يبدأ بصوت علّة."
-      },
-      {
-        "term": "article",
-        "description": "مقال."
-      },
-      {
-        "term": "for",
-        "description": "تعني من أجل أو لغرض."
-      },
-      {
-        "term": "my",
-        "description": "صفة ملكية تعني الخاص بي."
-      },
-      {
-        "term": "history",
-        "description": "التاريخ كمادة دراسية."
-      },
-      {
-        "term": "class",
-        "description": "حصة أو درس."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "Sure, I need to read an article for my history class.",
-        "explanation": {
+        "ar": "بالتأكيد، أحتاج أن أقرأ مقالًا لدرس التاريخ.",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "استُعمل المضارع البسيط للتعبير عن حاجة المتكلم الحالية إلى قراءة مقال لغرض دراسي."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Sure",
+            "description": "كلمة موافقة تعني بالتأكيد أو لا مشكلة."
+          },
+          {
+            "term": "I",
+            "description": "ضمير المتكلم المفرد."
+          },
+          {
+            "term": "need",
+            "description": "تعني أحتاج."
+          },
+          {
+            "term": "to",
+            "description": "تأتي قبل الفعل بعد need."
+          },
+          {
+            "term": "read",
+            "description": "تعني أقرأ."
+          },
+          {
+            "term": "an",
+            "description": "أداة نكرة قبل اسم يبدأ بصوت علّة."
+          },
+          {
+            "term": "article",
+            "description": "مقال."
+          },
+          {
+            "term": "for",
+            "description": "تعني من أجل أو لغرض."
+          },
+          {
+            "term": "my",
+            "description": "صفة ملكية تعني الخاص بي."
+          },
+          {
+            "term": "history",
+            "description": "التاريخ كمادة دراسية."
+          },
+          {
+            "term": "class",
+            "description": "حصة أو درس."
+          }
+        ]
       }
     ],
     "examples": [

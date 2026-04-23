@@ -7,64 +7,65 @@
     "context": "الزبون يصل إلى مكتب العقار لمعاينة شقة معروضة."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Good",
-        "description": "جزء من تحية مهذبة تناسب بداية اليوم."
-      },
-      {
-        "term": "morning",
-        "description": "الصباح، وتكمل عبارة التحية."
-      },
-      {
-        "term": "I",
-        "description": "ضمير المتكلم المفرد."
-      },
-      {
-        "term": "am",
-        "description": "صيغة تأتي مع ضمير المتكلم المفرد وتوضح وجود المتكلم الآن."
-      },
-      {
-        "term": "here",
-        "description": "تعني هنا، أي في هذا المكان."
-      },
-      {
-        "term": "to",
-        "description": "تأتي قبل الفعل لتوضيح الغرض من الحضور."
-      },
-      {
-        "term": "see",
-        "description": "تعني يرى أو يعاين في هذا السياق."
-      },
-      {
-        "term": "the",
-        "description": "أداة تعريف لشقة محددة معروفة من الإعلان."
-      },
-      {
-        "term": "apartment",
-        "description": "شقة سكنية."
-      },
-      {
-        "term": "you",
-        "description": "ضمير المخاطب، ويشير هنا إلى المكتب أو الموظف."
-      },
-      {
-        "term": "listed",
-        "description": "تعني عرضتم أو أدرجتم للبيع أو الإيجار."
-      },
-      {
-        "term": "online",
-        "description": "على الإنترنت."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "Good morning, I am here to see the apartment you listed online.",
-        "explanation": {
+        "ar": "صباح الخير، أنا هنا لرؤية الشقة التي أعلنتم عنها على الإنترنت.",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "استُعمل المضارع البسيط مع I am لوصف وجود المتكلم الحالي وسبب حضوره الآن."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Good",
+            "description": "جزء من تحية مهذبة تناسب بداية اليوم."
+          },
+          {
+            "term": "morning",
+            "description": "الصباح، وتكمل عبارة التحية."
+          },
+          {
+            "term": "I",
+            "description": "ضمير المتكلم المفرد."
+          },
+          {
+            "term": "am",
+            "description": "صيغة تأتي مع ضمير المتكلم المفرد وتوضح وجود المتكلم الآن."
+          },
+          {
+            "term": "here",
+            "description": "تعني هنا، أي في هذا المكان."
+          },
+          {
+            "term": "to",
+            "description": "تأتي قبل الفعل لتوضيح الغرض من الحضور."
+          },
+          {
+            "term": "see",
+            "description": "تعني يرى أو يعاين في هذا السياق."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف لشقة محددة معروفة من الإعلان."
+          },
+          {
+            "term": "apartment",
+            "description": "شقة سكنية."
+          },
+          {
+            "term": "you",
+            "description": "ضمير المخاطب، ويشير هنا إلى المكتب أو الموظف."
+          },
+          {
+            "term": "listed",
+            "description": "تعني عرضتم أو أدرجتم للبيع أو الإيجار."
+          },
+          {
+            "term": "online",
+            "description": "على الإنترنت."
+          }
+        ]
       }
     ],
     "examples": [

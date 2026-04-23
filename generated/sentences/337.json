@@ -5,5 +5,114 @@
     "en": "My cell phone does not have good reception.",
     "ar": "هاتفي المحمول لا يلتقط إشارة جيدة.",
     "context": "الشكوى من ضعف الشبكة."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "My cell phone does not have good reception.",
+        "ar": "هاتفي المحمول لا يلتقط إشارة جيدة.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "does not have هو نفي في المضارع البسيط مع فاعل مفرد، ويصف مشكلة حالية أو عامة في استقبال الهاتف."
+        },
+        "wordMeanings": [
+          {
+            "term": "My",
+            "description": "تعني الخاص بي أو التابع لي."
+          },
+          {
+            "term": "cell",
+            "description": "تأتي هنا ضمن تعبير يعني الهاتف المحمول."
+          },
+          {
+            "term": "phone",
+            "description": "يعني هاتفًا."
+          },
+          {
+            "term": "does",
+            "description": "تستخدم مع المفرد في النفي أو السؤال في المضارع."
+          },
+          {
+            "term": "not",
+            "description": "كلمة نفي تعني لا."
+          },
+          {
+            "term": "have",
+            "description": "تعني يملك أو لديه في هذا السياق."
+          },
+          {
+            "term": "good",
+            "description": "تعني جيدًا."
+          },
+          {
+            "term": "reception",
+            "description": "تعني قوة استقبال إشارة الهاتف."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "My phone does not have a signal.",
+        "ar": "هاتفي لا توجد به إشارة.",
+        "context": "تستخدم عند انقطاع الشبكة."
+      },
+      {
+        "id": 2,
+        "en": "My cell phone has poor reception here.",
+        "ar": "هاتفي المحمول لديه استقبال ضعيف هنا.",
+        "context": "تستخدم عند ضعف الشبكة في مكان محدد."
+      },
+      {
+        "id": 3,
+        "en": "The phone does not have good reception inside.",
+        "ar": "الهاتف لا يلتقط إشارة جيدة في الداخل.",
+        "context": "تستخدم عند ضعف الإشارة داخل مبنى."
+      },
+      {
+        "id": 4,
+        "en": "I cannot hear you clearly.",
+        "ar": "لا أستطيع سماعك بوضوح.",
+        "context": "تستخدم أثناء مكالمة رديئة."
+      },
+      {
+        "id": 5,
+        "en": "The signal is weak in this area.",
+        "ar": "الإشارة ضعيفة في هذه المنطقة.",
+        "context": "تستخدم لوصف مشكلة شبكة محلية."
+      },
+      {
+        "id": 6,
+        "en": "My phone does not work well here.",
+        "ar": "هاتفي لا يعمل جيدًا هنا.",
+        "context": "تستخدم عند مشكلة مرتبطة بالمكان."
+      },
+      {
+        "id": 7,
+        "en": "Do you have better reception outside?",
+        "ar": "هل لديك استقبال أفضل في الخارج؟",
+        "context": "تستخدم للسؤال عن مكان بإشارة أقوى."
+      },
+      {
+        "id": 8,
+        "en": "We do not have good reception in the basement.",
+        "ar": "لا توجد لدينا إشارة جيدة في الطابق السفلي.",
+        "context": "تستخدم لوصف ضعف الشبكة في الطابق السفلي."
+      },
+      {
+        "id": 9,
+        "en": "My phone keeps losing the signal.",
+        "ar": "هاتفي يستمر في فقدان الإشارة.",
+        "context": "تستخدم عند انقطاع متكرر."
+      },
+      {
+        "id": 10,
+        "en": "The call dropped because of bad reception.",
+        "ar": "انقطعت المكالمة بسبب سوء الاستقبال.",
+        "context": "تستخدم لشرح سبب انقطاع مكالمة."
+      }
+    ]
   }
 }

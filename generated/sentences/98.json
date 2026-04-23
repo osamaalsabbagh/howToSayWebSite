@@ -7,24 +7,25 @@
     "context": "اشر إلى مكان قريب بدقة."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Right",
-        "description": "تمامًا أو بالضبط في هذا السياق."
-      },
-      {
-        "term": "here",
-        "description": "هنا، أي في هذا المكان القريب من المتكلم."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "Right here.",
-        "explanation": {
+        "ar": "هنا تمامًا.",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذا تعبير مكاني قصير يحدد المكان القريب بدقة، ولا يحتوي على فعل ظاهر أو زمن مستقل."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Right",
+            "description": "تمامًا أو بالضبط في هذا السياق."
+          },
+          {
+            "term": "here",
+            "description": "هنا، أي في هذا المكان القريب من المتكلم."
+          }
+        ]
       }
     ],
     "examples": [

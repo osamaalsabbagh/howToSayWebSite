@@ -7,40 +7,41 @@
     "context": "اسأل إن كان شخص يعرف الطهي."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Do",
-        "description": "تأتي في بداية السؤال مع المخاطب لتكوين سؤال في الحاضر."
-      },
-      {
-        "term": "you",
-        "description": "أنت، وتشير إلى الشخص المخاطب."
-      },
-      {
-        "term": "know",
-        "description": "تعرف أو لديك معرفة."
-      },
-      {
-        "term": "how",
-        "description": "كيف، وتستخدم هنا للسؤال عن طريقة أو مهارة."
-      },
-      {
-        "term": "to",
-        "description": "تربط كلمة كيف بالفعل بعدها لتكوين معنى معرفة طريقة فعل الشيء."
-      },
-      {
-        "term": "cook",
-        "description": "تطبخ أو تعد الطعام."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "Do you know how to cook?",
-        "explanation": {
+        "ar": "هل تعرف كيف تطبخ؟",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "يستخدم السؤال المضارع البسيط لأنه يسأل عن معرفة أو مهارة عامة لدى الشخص، وعبارة كيف تطبخ تأتي بعد الفعل لتحديد المهارة."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Do",
+            "description": "تأتي في بداية السؤال مع المخاطب لتكوين سؤال في الحاضر."
+          },
+          {
+            "term": "you",
+            "description": "أنت، وتشير إلى الشخص المخاطب."
+          },
+          {
+            "term": "know",
+            "description": "تعرف أو لديك معرفة."
+          },
+          {
+            "term": "how",
+            "description": "كيف، وتستخدم هنا للسؤال عن طريقة أو مهارة."
+          },
+          {
+            "term": "to",
+            "description": "تربط كلمة كيف بالفعل بعدها لتكوين معنى معرفة طريقة فعل الشيء."
+          },
+          {
+            "term": "cook",
+            "description": "تطبخ أو تعد الطعام."
+          }
+        ]
       }
     ],
     "examples": [

@@ -7,32 +7,33 @@
     "context": "اطلب رأيًا عن فيلم."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "How",
-        "description": "كيف، وتستخدم هنا للسؤال عن رأي أو وصف."
-      },
-      {
-        "term": "was",
-        "description": "كان، وتربط السؤال بشيء حدث أو انتهى في الماضي."
-      },
-      {
-        "term": "the",
-        "description": "أداة تشير إلى فيلم محدد معروف للمتكلم والمخاطب."
-      },
-      {
-        "term": "movie",
-        "description": "فيلم."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "How was the movie?",
-        "explanation": {
+        "ar": "كيف كان الفيلم؟",
+        "grammar": {
           "tense": "الماضي البسيط",
           "tenseEn": "Past Simple",
           "reason": "يستخدم الماضي البسيط لأن السؤال يطلب رأيًا عن فيلم شاهده الشخص وانتهى في الماضي."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "How",
+            "description": "كيف، وتستخدم هنا للسؤال عن رأي أو وصف."
+          },
+          {
+            "term": "was",
+            "description": "كان، وتربط السؤال بشيء حدث أو انتهى في الماضي."
+          },
+          {
+            "term": "the",
+            "description": "أداة تشير إلى فيلم محدد معروف للمتكلم والمخاطب."
+          },
+          {
+            "term": "movie",
+            "description": "فيلم."
+          }
+        ]
       }
     ],
     "examples": [

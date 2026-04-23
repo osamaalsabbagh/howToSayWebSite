@@ -7,52 +7,53 @@
     "context": "المتقدم يذكر خبرته"
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "I",
-        "description": "ضمير المتكلم المفرد، ويشير هنا إلى المتقدم نفسه."
-      },
-      {
-        "term": "have",
-        "description": "يعني لدي أو أملك، ويستعمل هنا للحديث عن خبرة يملكها المتقدم."
-      },
-      {
-        "term": "three",
-        "description": "عدد يعني ثلاثة، ويحدد مقدار سنوات الخبرة."
-      },
-      {
-        "term": "years",
-        "description": "جمع سنة، ويشير هنا إلى مدة الخبرة المهنية."
-      },
-      {
-        "term": "of",
-        "description": "حرف يربط عدد السنوات بكلمة الخبرة."
-      },
-      {
-        "term": "experience",
-        "description": "خبرة عملية أو معرفة اكتسبها الشخص من العمل أو الممارسة."
-      },
-      {
-        "term": "in",
-        "description": "في مجال أو داخل نطاق معين."
-      },
-      {
-        "term": "software",
-        "description": "برمجيات أو برامج، وهي المجال الذي يصف نوع الخبرة هنا."
-      },
-      {
-        "term": "development",
-        "description": "تطوير أو بناء تدريجي لمنتج أو مهارة أو نظام."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "I have three years of experience in software development.",
-        "explanation": {
+        "ar": "لدي ثلاث سنوات من الخبرة في تطوير البرمجيات.",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "استُعمل المضارع البسيط لأن المتكلم يذكر حقيقة حالية عن خبرته المهنية المتراكمة حتى الآن."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير المتكلم المفرد، ويشير هنا إلى المتقدم نفسه."
+          },
+          {
+            "term": "have",
+            "description": "يعني لدي أو أملك، ويستعمل هنا للحديث عن خبرة يملكها المتقدم."
+          },
+          {
+            "term": "three",
+            "description": "عدد يعني ثلاثة، ويحدد مقدار سنوات الخبرة."
+          },
+          {
+            "term": "years",
+            "description": "جمع سنة، ويشير هنا إلى مدة الخبرة المهنية."
+          },
+          {
+            "term": "of",
+            "description": "حرف يربط عدد السنوات بكلمة الخبرة."
+          },
+          {
+            "term": "experience",
+            "description": "خبرة عملية أو معرفة اكتسبها الشخص من العمل أو الممارسة."
+          },
+          {
+            "term": "in",
+            "description": "في مجال أو داخل نطاق معين."
+          },
+          {
+            "term": "software",
+            "description": "برمجيات أو برامج، وهي المجال الذي يصف نوع الخبرة هنا."
+          },
+          {
+            "term": "development",
+            "description": "تطوير أو بناء تدريجي لمنتج أو مهارة أو نظام."
+          }
+        ]
       }
     ],
     "examples": [

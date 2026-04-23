@@ -7,36 +7,37 @@
     "context": "أشر إلى وجود ازدحام."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "There",
-        "description": "تستخدم مع صيغة الوجود بمعنى يوجد أو هناك."
-      },
-      {
-        "term": "are",
-        "description": "صيغة تدل على وجود أشياء أو أشخاص متعددين."
-      },
-      {
-        "term": "many",
-        "description": "كثير من أشياء أو أشخاص معدودين."
-      },
-      {
-        "term": "people",
-        "description": "ناس أو أشخاص."
-      },
-      {
-        "term": "here",
-        "description": "هنا، أي في المكان الحالي."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "There are many people here.",
-        "explanation": {
+        "ar": "يوجد الكثير من الناس هنا.",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "يستخدم تركيب الوجود في الحاضر لوصف عدد كبير من الأشخاص الموجودين الآن في المكان الحالي."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "There",
+            "description": "تستخدم مع صيغة الوجود بمعنى يوجد أو هناك."
+          },
+          {
+            "term": "are",
+            "description": "صيغة تدل على وجود أشياء أو أشخاص متعددين."
+          },
+          {
+            "term": "many",
+            "description": "كثير من أشياء أو أشخاص معدودين."
+          },
+          {
+            "term": "people",
+            "description": "ناس أو أشخاص."
+          },
+          {
+            "term": "here",
+            "description": "هنا، أي في المكان الحالي."
+          }
+        ]
       }
     ],
     "examples": [

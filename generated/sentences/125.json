@@ -7,28 +7,29 @@
     "context": "أكد صحة الشيء."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "That",
-        "description": "ذلك الشيء أو الكلام الذي تشير إليه."
-      },
-      {
-        "term": "is",
-        "description": "صيغة تأتي مع المفرد وتربط الشيء بحكمك عليه."
-      },
-      {
-        "term": "right",
-        "description": "صحيح أو مناسب."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "That is right.",
-        "explanation": {
+        "ar": "ذلك صحيح.",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "تستخدم is مع صفة للتأكيد على أن الشيء أو الكلام صحيح في الوقت الحالي."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "That",
+            "description": "ذلك الشيء أو الكلام الذي تشير إليه."
+          },
+          {
+            "term": "is",
+            "description": "صيغة تأتي مع المفرد وتربط الشيء بحكمك عليه."
+          },
+          {
+            "term": "right",
+            "description": "صحيح أو مناسب."
+          }
+        ]
       }
     ],
     "examples": [

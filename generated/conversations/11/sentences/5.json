@@ -7,64 +7,79 @@
     "context": "المعلم يفتح المجال للطالب كي يسأل ما يحب"
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Of",
-        "description": "جزء من تعبير ثابت مع course يعني الموافقة أو التأكيد."
-      },
-      {
-        "term": "course",
-        "description": "جزء من تعبير ثابت يعني بالطبع أو نعم بالتأكيد."
-      },
-      {
-        "term": "You",
-        "description": "ضمير المخاطب."
-      },
-      {
-        "term": "can",
-        "description": "تدل هنا على السماح أو الإمكانية."
-      },
-      {
-        "term": "ask",
-        "description": "يسأل أو يطرح سؤالًا."
-      },
-      {
-        "term": "anything",
-        "description": "أي شيء دون تحديد."
-      },
-      {
-        "term": "you",
-        "description": "ضمير يعود على المخاطب مرة أخرى."
-      },
-      {
-        "term": "like",
-        "description": "تحب أو تريد، وتحدد ما يسمح له بالسؤال عنه."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "Of course.",
-        "explanation": {
+        "ar": "بالطبع. يمكنك أن تسأل أي شيء تحبه.",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذا تعبير موافقة ثابت ولا يحمل زمنًا مستقلًا."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Of",
+            "description": "جزء من تعبير ثابت مع course يعني الموافقة أو التأكيد."
+          },
+          {
+            "term": "course",
+            "description": "جزء من تعبير ثابت يعني بالطبع أو نعم بالتأكيد."
+          }
+        ]
       },
       {
         "sentence": "You can ask anything you like.",
-        "explanation": {
+        "ar": "بالطبع. يمكنك أن تسأل أي شيء تحبه.",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "الجملة تستخدم can لإعطاء الإذن والسماح بالسؤال، لذلك تُفهم كتركيب إذن لا كزمن مستقل."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "You",
+            "description": "ضمير المخاطب."
+          },
+          {
+            "term": "can",
+            "description": "تدل هنا على السماح أو الإمكانية."
+          },
+          {
+            "term": "ask",
+            "description": "يسأل أو يطرح سؤالًا."
+          },
+          {
+            "term": "anything",
+            "description": "أي شيء دون تحديد."
+          },
+          {
+            "term": "you",
+            "description": "ضمير يعود على المخاطب مرة أخرى."
+          },
+          {
+            "term": "like",
+            "description": "تحب أو تريد، وتحدد ما يسمح له بالسؤال عنه."
+          }
+        ]
       },
       {
         "sentence": "you like",
-        "explanation": {
+        "ar": "بالطبع. يمكنك أن تسأل أي شيء تحبه.",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "تصف ما يريده المخاطب أو يميل إليه بشكل عام في لحظة الحديث."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "you",
+            "description": "ضمير يعود على المخاطب مرة أخرى."
+          },
+          {
+            "term": "like",
+            "description": "تحب أو تريد، وتحدد ما يسمح له بالسؤال عنه."
+          }
+        ]
       }
     ],
     "examples": [

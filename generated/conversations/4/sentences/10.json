@@ -7,60 +7,67 @@
     "context": "يبقي الاحتمال مفتوحًا بخصوص عودته ويودعه بتمنيات طيبة"
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Who",
-        "description": "أداة سؤال عن الشخص، وتأتي هنا في عبارة تعني لا أحد يعرف."
-      },
-      {
-        "term": "knows",
-        "description": "تعني يعرف، والعبارة كلها تفيد أن الأمر غير مؤكد."
-      },
-      {
-        "term": "Maybe",
-        "description": "تعني ربما أو من الممكن."
-      },
-      {
-        "term": "one",
-        "description": "تأتي ضمن عبارة one day التي تعني يومًا ما."
-      },
-      {
-        "term": "day",
-        "description": "تكمل عبارة one day وتعني يومًا في المستقبل."
-      },
-      {
-        "term": "Safe",
-        "description": "صفة تعني آمنًا أو سالمًا."
-      },
-      {
-        "term": "travels",
-        "description": "رحلات أو تنقلات، وتستعمل هنا كتمنٍّ بالسلامة أثناء السفر."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "Who knows?",
-        "explanation": {
+        "ar": "من يدري؟",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "استُعمل المضارع البسيط في سؤال بلاغي قصير معناه أن المستقبل غير معروف."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Who",
+            "description": "أداة سؤال عن الشخص، وتأتي هنا في عبارة تعني لا أحد يعرف."
+          },
+          {
+            "term": "knows",
+            "description": "تعني يعرف، والعبارة كلها تفيد أن الأمر غير مؤكد."
+          }
+        ]
       },
       {
         "sentence": "Maybe one day.",
-        "explanation": {
+        "ar": "ربما يومًا ما.",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذه عبارة احتمال قصيرة وليست جملة فعلية كاملة لها زمن مستقل."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Maybe",
+            "description": "تعني ربما أو من الممكن."
+          },
+          {
+            "term": "one",
+            "description": "تأتي ضمن عبارة one day التي تعني يومًا ما."
+          },
+          {
+            "term": "day",
+            "description": "تكمل عبارة one day وتعني يومًا في المستقبل."
+          }
+        ]
       },
       {
         "sentence": "Safe travels!",
-        "explanation": {
+        "ar": "رحلة موفقة!",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذه عبارة تمني ثابتة تقال قبل سفر شخص، وليست جملة فعلية بزمن مستقل."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Safe",
+            "description": "صفة تعني آمنًا أو سالمًا."
+          },
+          {
+            "term": "travels",
+            "description": "رحلات أو تنقلات، وتستعمل هنا كتمنٍّ بالسلامة أثناء السفر."
+          }
+        ]
       }
     ],
     "examples": [

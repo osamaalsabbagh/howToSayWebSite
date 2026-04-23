@@ -7,32 +7,33 @@
     "context": "قل أنك فقدت ساعتك."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "I",
-        "description": "ضمير المتكلم ويشير إلى الشخص الذي يتحدث."
-      },
-      {
-        "term": "lost",
-        "description": "فقدت أو لم أعد أجد شيئًا."
-      },
-      {
-        "term": "my",
-        "description": "كلمة تدل على أن الشيء يخص المتكلم."
-      },
-      {
-        "term": "watch",
-        "description": "ساعة يد أو ساعة شخصية."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "I lost my watch.",
-        "explanation": {
+        "ar": "فقدت ساعتي.",
+        "grammar": {
           "tense": "الماضي البسيط",
           "tenseEn": "Past Simple",
           "reason": "تستخدم الجملة الماضي البسيط للإخبار عن حدث اكتمل في الماضي، وهو فقدان الساعة."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير المتكلم ويشير إلى الشخص الذي يتحدث."
+          },
+          {
+            "term": "lost",
+            "description": "فقدت أو لم أعد أجد شيئًا."
+          },
+          {
+            "term": "my",
+            "description": "كلمة تدل على أن الشيء يخص المتكلم."
+          },
+          {
+            "term": "watch",
+            "description": "ساعة يد أو ساعة شخصية."
+          }
+        ]
       }
     ],
     "examples": [

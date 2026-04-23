@@ -7,56 +7,60 @@
     "context": "زبون يسأل البائع في السوق عن التفاح"
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Good",
-        "description": "جزء من تحية مهذبة في بداية اليوم."
-      },
-      {
-        "term": "morning",
-        "description": "الصباح، وتكمل عبارة التحية."
-      },
-      {
-        "term": "Do",
-        "description": "فعل مساعد يبدأ سؤالًا في المضارع البسيط."
-      },
-      {
-        "term": "you",
-        "description": "ضمير المخاطب، ويشير إلى البائع."
-      },
-      {
-        "term": "have",
-        "description": "تعني لديك أو تبيع في هذا السياق."
-      },
-      {
-        "term": "fresh",
-        "description": "طازج أو جديد وغير قديم."
-      },
-      {
-        "term": "apples",
-        "description": "تفاح، بصيغة الجمع."
-      },
-      {
-        "term": "today",
-        "description": "هذا اليوم."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "Good morning!",
-        "explanation": {
+        "ar": "صباح الخير!",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذه تحية صباحية وليست جملة فعلية لها زمن مستقل."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Good",
+            "description": "جزء من تحية مهذبة في بداية اليوم."
+          },
+          {
+            "term": "morning",
+            "description": "الصباح، وتكمل عبارة التحية."
+          }
+        ]
       },
       {
         "sentence": "Do you have fresh apples today?",
-        "explanation": {
+        "ar": "هل لديك تفاح طازج اليوم؟",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "استُعمل المضارع البسيط للسؤال عن توفر التفاح الطازج عند البائع اليوم."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Do",
+            "description": "فعل مساعد يبدأ سؤالًا في المضارع البسيط."
+          },
+          {
+            "term": "you",
+            "description": "ضمير المخاطب، ويشير إلى البائع."
+          },
+          {
+            "term": "have",
+            "description": "تعني لديك أو تبيع في هذا السياق."
+          },
+          {
+            "term": "fresh",
+            "description": "طازج أو جديد وغير قديم."
+          },
+          {
+            "term": "apples",
+            "description": "تفاح، بصيغة الجمع."
+          },
+          {
+            "term": "today",
+            "description": "هذا اليوم."
+          }
+        ]
       }
     ],
     "examples": [

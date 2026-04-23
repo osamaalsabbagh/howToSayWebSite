@@ -7,28 +7,29 @@
     "context": "ارفض بأدب."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "No",
-        "description": "لا، وتستخدم هنا للرفض."
-      },
-      {
-        "term": "thank",
-        "description": "جزء من تعبير شكر مهذب عند الرفض."
-      },
-      {
-        "term": "you",
-        "description": "ضمير يشير إلى الشخص الذي أتحدث معه."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "No, thank you.",
-        "explanation": {
+        "ar": "لا، شكرًا لك.",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذا تعبير ثابت للرفض بأدب مع الشكر، ولا يحمل زمنًا مستقلًا."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "No",
+            "description": "لا، وتستخدم هنا للرفض."
+          },
+          {
+            "term": "thank",
+            "description": "جزء من تعبير شكر مهذب عند الرفض."
+          },
+          {
+            "term": "you",
+            "description": "ضمير يشير إلى الشخص الذي أتحدث معه."
+          }
+        ]
       }
     ],
     "examples": [

@@ -7,60 +7,64 @@
     "context": "إبداء رغبة في سؤال الفنان عن ما يلهمه"
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Really",
-        "description": "كلمة تعبر عن الدهشة أو طلب التأكيد."
-      },
-      {
-        "term": "I",
-        "description": "ضمير المتكلم المفرد."
-      },
-      {
-        "term": "want",
-        "description": "تعني أريد أو أرغب."
-      },
-      {
-        "term": "to",
-        "description": "تأتي قبل الفعل بعد want."
-      },
-      {
-        "term": "ask",
-        "description": "تعني أسأل أو أطلب معلومة."
-      },
-      {
-        "term": "him",
-        "description": "ضمير مفعول به يعود على الفنان."
-      },
-      {
-        "term": "about",
-        "description": "حرف يوضح موضوع السؤال."
-      },
-      {
-        "term": "his",
-        "description": "صفة ملكية تعني الخاص به."
-      },
-      {
-        "term": "inspiration",
-        "description": "الإلهام أو ما يعطي الشخص فكرة وإبداعًا."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "Really?",
-        "explanation": {
+        "ar": "حقًا؟",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذه كلمة تعجب أو طلب تأكيد قصيرة وليست جملة فعلية لها زمن مستقل."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Really",
+            "description": "كلمة تعبر عن الدهشة أو طلب التأكيد."
+          }
+        ]
       },
       {
         "sentence": "I want to ask him about his inspiration.",
-        "explanation": {
+        "ar": "أريد أن أسأله عن إلهامه.",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "استُعمل المضارع البسيط للتعبير عن رغبة المتكلم الحالية في طرح سؤال."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير المتكلم المفرد."
+          },
+          {
+            "term": "want",
+            "description": "تعني أريد أو أرغب."
+          },
+          {
+            "term": "to",
+            "description": "تأتي قبل الفعل بعد want."
+          },
+          {
+            "term": "ask",
+            "description": "تعني أسأل أو أطلب معلومة."
+          },
+          {
+            "term": "him",
+            "description": "ضمير مفعول به يعود على الفنان."
+          },
+          {
+            "term": "about",
+            "description": "حرف يوضح موضوع السؤال."
+          },
+          {
+            "term": "his",
+            "description": "صفة ملكية تعني الخاص به."
+          },
+          {
+            "term": "inspiration",
+            "description": "الإلهام أو ما يعطي الشخص فكرة وإبداعًا."
+          }
+        ]
       }
     ],
     "examples": [

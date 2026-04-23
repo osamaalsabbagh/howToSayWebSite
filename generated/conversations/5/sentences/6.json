@@ -7,108 +7,112 @@
     "context": "يعرض المعاينة فورًا ويجعل الحجز مشروطًا بإعجاب الزبون، مع بقاء أولوية قبل أي مهتم آخر."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Alright",
-        "description": "كلمة انتقال أو موافقة تعني حسنًا."
-      },
-      {
-        "term": "let",
-        "description": "تأتي هنا لاقتراح فعل مشترك."
-      },
-      {
-        "term": "us",
-        "description": "ضمير يشمل المتكلم والمخاطب، ومع let us تعني دعنا."
-      },
-      {
-        "term": "go",
-        "description": "تعني نذهب أو نتحرك إلى مكان."
-      },
-      {
-        "term": "see",
-        "description": "تعني نرى أو نعاين."
-      },
-      {
-        "term": "it",
-        "description": "ضمير يعود على الشقة."
-      },
-      {
-        "term": "now",
-        "description": "الآن، في هذه اللحظة."
-      },
-      {
-        "term": "If",
-        "description": "أداة شرط تعني إذا."
-      },
-      {
-        "term": "you",
-        "description": "ضمير المخاطب."
-      },
-      {
-        "term": "like",
-        "description": "تعني يعجبك أو تفضله."
-      },
-      {
-        "term": "it",
-        "description": "ضمير يعود على الشقة."
-      },
-      {
-        "term": "I",
-        "description": "ضمير المتكلم المفرد."
-      },
-      {
-        "term": "can",
-        "description": "يدل على القدرة أو الإمكانية."
-      },
-      {
-        "term": "reserve",
-        "description": "تعني أحجز أو أخصص."
-      },
-      {
-        "term": "it",
-        "description": "ضمير يعود على الشقة."
-      },
-      {
-        "term": "for",
-        "description": "تعني لصالح أو من أجل."
-      },
-      {
-        "term": "you",
-        "description": "ضمير المخاطب."
-      },
-      {
-        "term": "before",
-        "description": "تعني قبل حدوث شيء آخر."
-      },
-      {
-        "term": "anyone",
-        "description": "أي شخص."
-      },
-      {
-        "term": "else",
-        "description": "تعني آخر أو غيرك."
-      },
-      {
-        "term": "asks",
-        "description": "تعني يسأل أو يطلب معلومات."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "Alright, let us go see it now.",
-        "explanation": {
+        "ar": "تمام، دعنا نذهب لرؤيتها الآن.",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذه صيغة اقتراح مباشر لفعل مشترك الآن، وليست جملة زمنية مستقلة."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Alright",
+            "description": "كلمة انتقال أو موافقة تعني حسنًا."
+          },
+          {
+            "term": "let",
+            "description": "تأتي هنا لاقتراح فعل مشترك."
+          },
+          {
+            "term": "us",
+            "description": "ضمير يشمل المتكلم والمخاطب، ومع let us تعني دعنا."
+          },
+          {
+            "term": "go",
+            "description": "تعني نذهب أو نتحرك إلى مكان."
+          },
+          {
+            "term": "see",
+            "description": "تعني نرى أو نعاين."
+          },
+          {
+            "term": "it",
+            "description": "ضمير يعود على الشقة."
+          },
+          {
+            "term": "now",
+            "description": "الآن، في هذه اللحظة."
+          }
+        ]
       },
       {
         "sentence": "If you like it, I can reserve it for you before anyone else asks.",
-        "explanation": {
+        "ar": "إذا أعجبتك، يمكنني حجزها لك قبل أن يسأل عنها أي شخص آخر.",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذا تركيب شرط مع can للتعبير عن إمكانية الحجز إذا تحقق الشرط، لذلك يشرح كتركيب وظيفي لا كزمن مستقل واحد."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "If",
+            "description": "أداة شرط تعني إذا."
+          },
+          {
+            "term": "you",
+            "description": "ضمير المخاطب."
+          },
+          {
+            "term": "like",
+            "description": "تعني يعجبك أو تفضله."
+          },
+          {
+            "term": "it",
+            "description": "ضمير يعود على الشقة."
+          },
+          {
+            "term": "I",
+            "description": "ضمير المتكلم المفرد."
+          },
+          {
+            "term": "can",
+            "description": "يدل على القدرة أو الإمكانية."
+          },
+          {
+            "term": "reserve",
+            "description": "تعني أحجز أو أخصص."
+          },
+          {
+            "term": "it",
+            "description": "ضمير يعود على الشقة."
+          },
+          {
+            "term": "for",
+            "description": "تعني لصالح أو من أجل."
+          },
+          {
+            "term": "you",
+            "description": "ضمير المخاطب."
+          },
+          {
+            "term": "before",
+            "description": "تعني قبل حدوث شيء آخر."
+          },
+          {
+            "term": "anyone",
+            "description": "أي شخص."
+          },
+          {
+            "term": "else",
+            "description": "تعني آخر أو غيرك."
+          },
+          {
+            "term": "asks",
+            "description": "تعني يسأل أو يطلب معلومات."
+          }
+        ]
       }
     ],
     "examples": [

@@ -7,72 +7,76 @@
     "context": "الفترة بعد الظهر في صالة الانتظار، يفتتح الحديث بسؤال عن نفس الرحلة"
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Good",
-        "description": "صفة تعني جيد أو مريح أو مناسب هنا."
-      },
-      {
-        "term": "afternoon",
-        "description": "اسم يعني فترة بعد الظهر، ويأتي هنا ضمن تحية مناسبة لهذا الوقت."
-      },
-      {
-        "term": "Are",
-        "description": "صيغة تبدأ سؤالًا عن حالة أو فعل يحدث الآن مع المخاطب."
-      },
-      {
-        "term": "you",
-        "description": "ضمير المخاطب."
-      },
-      {
-        "term": "waiting",
-        "description": "تعني ينتظر الآن، وتدل هنا على انتظار الرحلة في المطار."
-      },
-      {
-        "term": "for",
-        "description": "حرف جر يربط الانتظار بالشيء المنتظر."
-      },
-      {
-        "term": "the",
-        "description": "أداة تعريف تشير إلى شيء معروف أو محدد."
-      },
-      {
-        "term": "flight",
-        "description": "اسم يعني رحلة."
-      },
-      {
-        "term": "to",
-        "description": "تعني إلى، وتربط الرحلة بوجهتها."
-      },
-      {
-        "term": "New",
-        "description": "جزء من اسم مدينة نيويورك، ولا يُقصد به معنى جديد هنا."
-      },
-      {
-        "term": "York",
-        "description": "اسم علم يشير إلى نيويورك."
-      },
-      {
-        "term": "too",
-        "description": "تعني أيضًا، وتدل على أن المتكلم ينتظر الرحلة نفسها."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "Good afternoon!",
-        "explanation": {
+        "ar": "طاب مساؤك!",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذا الجزء تعبير قصير أو غير مكتمل فعليًا، لذلك لا نضع له زمنًا مستقلًا."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Good",
+            "description": "صفة تعني جيد أو مريح أو مناسب هنا."
+          },
+          {
+            "term": "afternoon",
+            "description": "اسم يعني فترة بعد الظهر، ويأتي هنا ضمن تحية مناسبة لهذا الوقت."
+          }
+        ]
       },
       {
         "sentence": "Are you waiting for the flight to New York too?",
-        "explanation": {
+        "ar": "هل تنتظر رحلة نيويورك أيضًا؟",
+        "grammar": {
           "tense": "المضارع المستمر",
           "tenseEn": "Present Continuous",
           "reason": "استُعمل المضارع المستمر لأن هذا الجزء يصف فعلًا يحدث الآن أو في فترة قريبة من الآن."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Are",
+            "description": "صيغة تبدأ سؤالًا عن حالة أو فعل يحدث الآن مع المخاطب."
+          },
+          {
+            "term": "you",
+            "description": "ضمير المخاطب."
+          },
+          {
+            "term": "waiting",
+            "description": "تعني ينتظر الآن، وتدل هنا على انتظار الرحلة في المطار."
+          },
+          {
+            "term": "for",
+            "description": "حرف جر يربط الانتظار بالشيء المنتظر."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف تشير إلى شيء معروف أو محدد."
+          },
+          {
+            "term": "flight",
+            "description": "اسم يعني رحلة."
+          },
+          {
+            "term": "to",
+            "description": "تعني إلى، وتربط الرحلة بوجهتها."
+          },
+          {
+            "term": "New",
+            "description": "جزء من اسم مدينة نيويورك، ولا يُقصد به معنى جديد هنا."
+          },
+          {
+            "term": "York",
+            "description": "اسم علم يشير إلى نيويورك."
+          },
+          {
+            "term": "too",
+            "description": "تعني أيضًا، وتدل على أن المتكلم ينتظر الرحلة نفسها."
+          }
+        ]
       }
     ],
     "examples": [

@@ -7,36 +7,37 @@
     "context": "اسأل عن مدة الرحلة الجوية."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "How",
-        "description": "تبدأ السؤال عن المقدار."
-      },
-      {
-        "term": "long",
-        "description": "طويل من حيث المدة، ومع الكلمة السابقة تعني كم مدته."
-      },
-      {
-        "term": "is",
-        "description": "صيغة تربط السؤال بمدة الرحلة."
-      },
-      {
-        "term": "the",
-        "description": "أداة تشير إلى رحلة محددة معروفة في الحديث."
-      },
-      {
-        "term": "flight",
-        "description": "رحلة جوية بالطائرة."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "How long is the flight?",
-        "explanation": {
+        "ar": "كم مدة الرحلة؟",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "يستخدم المضارع البسيط مع فعل الربط للسؤال عن صفة ثابتة أو متوقعة للرحلة، وهي مدتها."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "How",
+            "description": "تبدأ السؤال عن المقدار."
+          },
+          {
+            "term": "long",
+            "description": "طويل من حيث المدة، ومع الكلمة السابقة تعني كم مدته."
+          },
+          {
+            "term": "is",
+            "description": "صيغة تربط السؤال بمدة الرحلة."
+          },
+          {
+            "term": "the",
+            "description": "أداة تشير إلى رحلة محددة معروفة في الحديث."
+          },
+          {
+            "term": "flight",
+            "description": "رحلة جوية بالطائرة."
+          }
+        ]
       }
     ],
     "examples": [

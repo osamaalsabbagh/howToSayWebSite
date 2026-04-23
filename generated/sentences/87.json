@@ -7,52 +7,56 @@
     "context": "ارفض شيئًا على أنه سخيف أو لا معنى له، وأشر إلى أن الطرف الآخر يدرك ذلك."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "This",
-        "description": "هذا الشيء أو الكلام القريب في النقاش."
-      },
-      {
-        "term": "is",
-        "description": "صيغة تربط الشيء بوصفه الحالي."
-      },
-      {
-        "term": "nonsense",
-        "description": "كلام سخيف أو غير منطقي."
-      },
-      {
-        "term": "and",
-        "description": "تربط بين الحكم على الكلام وتأكيد معرفة المخاطب بذلك."
-      },
-      {
-        "term": "you",
-        "description": "ضمير يشير إلى الشخص الذي أتحدث معه."
-      },
-      {
-        "term": "know",
-        "description": "تعرف أو تدرك المعلومة."
-      },
-      {
-        "term": "it",
-        "description": "ضمير يشير إلى أن الكلام سخيف أو غير منطقي."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "This is nonsense",
-        "explanation": {
+        "ar": "هذا هراء وأنت تعرف ذلك.",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "تستخدم is لوصف الكلام أو الفكرة في اللحظة الحالية بأنها غير منطقية."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "This",
+            "description": "هذا الشيء أو الكلام القريب في النقاش."
+          },
+          {
+            "term": "is",
+            "description": "صيغة تربط الشيء بوصفه الحالي."
+          },
+          {
+            "term": "nonsense",
+            "description": "كلام سخيف أو غير منطقي."
+          }
+        ]
       },
       {
-        "sentence": "you know it",
-        "explanation": {
+        "sentence": "and you know it",
+        "ar": "هذا هراء وأنت تعرف ذلك.",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "تستخدم know في المضارع البسيط لتأكيد أن المخاطب يدرك الحقيقة أو يعرف أن الكلام غير مقبول."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "and",
+            "description": "تربط بين الحكم على الكلام وتأكيد معرفة المخاطب بذلك."
+          },
+          {
+            "term": "you",
+            "description": "ضمير يشير إلى الشخص الذي أتحدث معه."
+          },
+          {
+            "term": "know",
+            "description": "تعرف أو تدرك المعلومة."
+          },
+          {
+            "term": "it",
+            "description": "ضمير يشير إلى أن الكلام سخيف أو غير منطقي."
+          }
+        ]
       }
     ],
     "examples": [

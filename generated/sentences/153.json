@@ -7,32 +7,33 @@
     "context": "تمنَّ رحلة ممتعة و مليئة بالتجارب الجيدة، مع إحساس أكبر بالود واللطف لشخص."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Have",
-        "description": "تستخدم هنا لبداية أمنية بمعنى اقض أو عِش تجربة."
-      },
-      {
-        "term": "a",
-        "description": "أداة تدل على شيء واحد غير محدد."
-      },
-      {
-        "term": "nice",
-        "description": "لطيف أو ممتع، وفيها إحساس بالود."
-      },
-      {
-        "term": "trip",
-        "description": "رحلة أو سفر من مكان إلى آخر."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "Have a nice trip.",
-        "explanation": {
+        "ar": "رحلة لطيفة.",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذه عبارة تمن ودية تبدأ بالفعل الأساسي، ومعناها أن المتكلم يتمنى للمخاطب رحلة ممتعة، وليست جملة زمنية تصف حدثًا."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Have",
+            "description": "تستخدم هنا لبداية أمنية بمعنى اقض أو عِش تجربة."
+          },
+          {
+            "term": "a",
+            "description": "أداة تدل على شيء واحد غير محدد."
+          },
+          {
+            "term": "nice",
+            "description": "لطيف أو ممتع، وفيها إحساس بالود."
+          },
+          {
+            "term": "trip",
+            "description": "رحلة أو سفر من مكان إلى آخر."
+          }
+        ]
       }
     ],
     "examples": [

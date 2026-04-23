@@ -7,48 +7,49 @@
     "context": "اطلب الاتجاه إلى جهة رسمية."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "How",
-        "description": "كيف، وتستخدم للسؤال عن طريقة الوصول."
-      },
-      {
-        "term": "do",
-        "description": "تأتي في السؤال مع المتكلم لتكوين سؤال في الحاضر."
-      },
-      {
-        "term": "I",
-        "description": "أنا، وتشير إلى المتكلم."
-      },
-      {
-        "term": "get",
-        "description": "أصل أو أذهب إلى مكان."
-      },
-      {
-        "term": "to",
-        "description": "إلى، وتربط فعل الوصول بالوجهة."
-      },
-      {
-        "term": "the",
-        "description": "أداة تشير إلى مكان محدد معروف في الحديث."
-      },
-      {
-        "term": "American",
-        "description": "الأمريكية، وتصف السفارة المقصودة."
-      },
-      {
-        "term": "Embassy",
-        "description": "سفارة، أي مقر رسمي لدولة في بلد آخر."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "How do I get to the American Embassy?",
-        "explanation": {
+        "ar": "كيف أصل إلى السفارة الأمريكية؟",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "يستخدم السؤال المضارع البسيط لطلب طريقة الوصول إلى مكان محدد، وكلمة التعريف قبل المكان تجعله جهة معروفة أو محددة."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "How",
+            "description": "كيف، وتستخدم للسؤال عن طريقة الوصول."
+          },
+          {
+            "term": "do",
+            "description": "تأتي في السؤال مع المتكلم لتكوين سؤال في الحاضر."
+          },
+          {
+            "term": "I",
+            "description": "أنا، وتشير إلى المتكلم."
+          },
+          {
+            "term": "get",
+            "description": "أصل أو أذهب إلى مكان."
+          },
+          {
+            "term": "to",
+            "description": "إلى، وتربط فعل الوصول بالوجهة."
+          },
+          {
+            "term": "the",
+            "description": "أداة تشير إلى مكان محدد معروف في الحديث."
+          },
+          {
+            "term": "American",
+            "description": "الأمريكية، وتصف السفارة المقصودة."
+          },
+          {
+            "term": "Embassy",
+            "description": "سفارة، أي مقر رسمي لدولة في بلد آخر."
+          }
+        ]
       }
     ],
     "examples": [

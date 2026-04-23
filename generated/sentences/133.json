@@ -7,32 +7,33 @@
     "context": "قل إن شيئًا لا يعمل."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "This",
-        "description": "هذا الشيء القريب أو الذي تشير إليه."
-      },
-      {
-        "term": "does",
-        "description": "تساعد هنا على تكوين النفي مع المفرد."
-      },
-      {
-        "term": "not",
-        "description": "كلمة نفي تجعل المعنى لا يعمل."
-      },
-      {
-        "term": "work",
-        "description": "يعمل أو يؤدي وظيفته كما ينبغي."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "This does not work.",
-        "explanation": {
+        "ar": "هذا لا يعمل.",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "تستخدم does not مع الفعل الأساسي work لنفي أن الشيء يعمل أو يعطي النتيجة المطلوبة في الوقت الحالي."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "This",
+            "description": "هذا الشيء القريب أو الذي تشير إليه."
+          },
+          {
+            "term": "does",
+            "description": "تساعد هنا على تكوين النفي مع المفرد."
+          },
+          {
+            "term": "not",
+            "description": "كلمة نفي تجعل المعنى لا يعمل."
+          },
+          {
+            "term": "work",
+            "description": "يعمل أو يؤدي وظيفته كما ينبغي."
+          }
+        ]
       }
     ],
     "examples": [

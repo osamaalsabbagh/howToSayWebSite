@@ -7,44 +7,45 @@
     "context": "اطلب بأدب التحدث مع سيدة متزوجة."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "May",
-        "description": "تستخدم هنا في سؤال مهذب لطلب الإذن."
-      },
-      {
-        "term": "I",
-        "description": "ضمير المتكلم ويشير إلى الشخص الذي يطلب التحدث."
-      },
-      {
-        "term": "speak",
-        "description": "أتحدث أو أتكلم مع شخص."
-      },
-      {
-        "term": "to",
-        "description": "إلى أو مع، وتربط فعل الكلام بالشخص المقصود."
-      },
-      {
-        "term": "Mrs",
-        "description": "لقب احترام يوضع قبل اسم امرأة متزوجة."
-      },
-      {
-        "term": "Smith",
-        "description": "اسم عائلة للشخص المقصود."
-      },
-      {
-        "term": "please",
-        "description": "كلمة تجعل الطلب أكثر أدبًا."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "May I speak to Mrs. Smith please?",
-        "explanation": {
+        "ar": "هل يمكنني التحدث إلى السيدة سميث من فضلك؟",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذه صيغة طلب إذن مهذبة باستخدام May I، وتستخدم غالبًا في الهاتف أو المواقف الرسمية، ولا تحمل زمنًا مستقلًا."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "May",
+            "description": "تستخدم هنا في سؤال مهذب لطلب الإذن."
+          },
+          {
+            "term": "I",
+            "description": "ضمير المتكلم ويشير إلى الشخص الذي يطلب التحدث."
+          },
+          {
+            "term": "speak",
+            "description": "أتحدث أو أتكلم مع شخص."
+          },
+          {
+            "term": "to",
+            "description": "إلى أو مع، وتربط فعل الكلام بالشخص المقصود."
+          },
+          {
+            "term": "Mrs",
+            "description": "لقب احترام يوضع قبل اسم امرأة متزوجة."
+          },
+          {
+            "term": "Smith",
+            "description": "اسم عائلة للشخص المقصود."
+          },
+          {
+            "term": "please",
+            "description": "كلمة تجعل الطلب أكثر أدبًا."
+          }
+        ]
       }
     ],
     "examples": [

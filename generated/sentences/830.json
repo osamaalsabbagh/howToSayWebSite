@@ -7,28 +7,29 @@
     "context": "تقال عندما يكون الشخص مستعدًا للبدء أو القيام بشيء."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "I",
-        "description": "ضمير المتكلم المفرد."
-      },
-      {
-        "term": "am",
-        "description": "صيغة تأتي مع ضمير المتكلم المفرد للتعبير عن الحالة الحالية."
-      },
-      {
-        "term": "ready",
-        "description": "مستعد أو جاهز للبدء أو القيام بشيء."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "I am ready.",
-        "explanation": {
+        "ar": "أنا جاهز.",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "الجملة تصف حالة المتكلم الحالية بأنه مستعد الآن."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير المتكلم المفرد."
+          },
+          {
+            "term": "am",
+            "description": "صيغة تأتي مع ضمير المتكلم المفرد للتعبير عن الحالة الحالية."
+          },
+          {
+            "term": "ready",
+            "description": "مستعد أو جاهز للبدء أو القيام بشيء."
+          }
+        ]
       }
     ],
     "examples": [

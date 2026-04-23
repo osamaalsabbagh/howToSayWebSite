@@ -7,56 +7,57 @@
     "context": "الموظف يوضح أنه سيتحقق من إمكانية الحصول على المفتاح."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Let",
-        "description": "تبدأ عبارة تعني اسمح لي أو دعني أفعل شيئًا."
-      },
-      {
-        "term": "me",
-        "description": "ضمير يعود على المتكلم."
-      },
-      {
-        "term": "check",
-        "description": "تعني أتحقق أو أفحص."
-      },
-      {
-        "term": "if",
-        "description": "تعني إن كان أو إذا."
-      },
-      {
-        "term": "I",
-        "description": "ضمير المتكلم المفرد."
-      },
-      {
-        "term": "can",
-        "description": "يدل على الإمكانية أو القدرة."
-      },
-      {
-        "term": "get",
-        "description": "تعني أحصل على أو أجلب."
-      },
-      {
-        "term": "the",
-        "description": "أداة تعريف لمفتاح محدد."
-      },
-      {
-        "term": "key",
-        "description": "مفتاح الشقة."
-      },
-      {
-        "term": "now",
-        "description": "الآن، في هذه اللحظة."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "Let me check if I can get the key now.",
-        "explanation": {
+        "ar": "دعني أتحقق إن كان بإمكاني الحصول على المفتاح الآن.",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذه عبارة عرض أو إجراء مباشر تبدأ بـ Let me، وداخلها can للتعبير عن الإمكانية، لذلك لا نعاملها كزمن مستقل واحد."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Let",
+            "description": "تبدأ عبارة تعني اسمح لي أو دعني أفعل شيئًا."
+          },
+          {
+            "term": "me",
+            "description": "ضمير يعود على المتكلم."
+          },
+          {
+            "term": "check",
+            "description": "تعني أتحقق أو أفحص."
+          },
+          {
+            "term": "if",
+            "description": "تعني إن كان أو إذا."
+          },
+          {
+            "term": "I",
+            "description": "ضمير المتكلم المفرد."
+          },
+          {
+            "term": "can",
+            "description": "يدل على الإمكانية أو القدرة."
+          },
+          {
+            "term": "get",
+            "description": "تعني أحصل على أو أجلب."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف لمفتاح محدد."
+          },
+          {
+            "term": "key",
+            "description": "مفتاح الشقة."
+          },
+          {
+            "term": "now",
+            "description": "الآن، في هذه اللحظة."
+          }
+        ]
       }
     ],
     "examples": [

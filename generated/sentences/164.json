@@ -7,28 +7,29 @@
     "context": "اسأل عن وقت محدد."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "At",
-        "description": "تستخدم مع الوقت للسؤال عن لحظة أو ساعة محددة."
-      },
-      {
-        "term": "what",
-        "description": "أي، وتستخدم هنا للسؤال عن المعلومة المطلوبة."
-      },
-      {
-        "term": "time",
-        "description": "وقت أو ساعة حدوث شيء."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "At what time?",
-        "explanation": {
+        "ar": "في أي وقت؟",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذه عبارة سؤال مختصرة عن الوقت، وفيها حذف للفعل حسب السياق، لذلك لا يظهر فيها زمن مستقل."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "At",
+            "description": "تستخدم مع الوقت للسؤال عن لحظة أو ساعة محددة."
+          },
+          {
+            "term": "what",
+            "description": "أي، وتستخدم هنا للسؤال عن المعلومة المطلوبة."
+          },
+          {
+            "term": "time",
+            "description": "وقت أو ساعة حدوث شيء."
+          }
+        ]
       }
     ],
     "examples": [

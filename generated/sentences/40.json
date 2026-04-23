@@ -7,52 +7,56 @@
     "context": "وعد بالاتصال بعد المغادرة."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "I",
-        "description": "ضمير المتكلم ويشير إلى الشخص الذي يتحدث."
-      },
-      {
-        "term": "will",
-        "description": "كلمة تدل على أن الفعل سيحدث في المستقبل أو كتعهد من المتكلم."
-      },
-      {
-        "term": "call",
-        "description": "أتصل هاتفيًا أو أتواصل عبر مكالمة."
-      },
-      {
-        "term": "you",
-        "description": "ضمير يشير إلى الشخص الذي أتحدث معه."
-      },
-      {
-        "term": "when",
-        "description": "عندما، وتربط الفعل بوقت حدوث فعل آخر."
-      },
-      {
-        "term": "I",
-        "description": "ضمير المتكلم ويشير إلى الشخص الذي يتحدث."
-      },
-      {
-        "term": "leave",
-        "description": "أغادر أو أترك المكان."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "I will call you",
-        "explanation": {
+        "ar": "سأتصل بك عندما أغادر.",
+        "grammar": {
           "tense": "المستقبل البسيط",
           "tenseEn": "Future Simple",
           "reason": "تستخدم will مع الفعل الأساسي للتعبير عن وعد أو قرار بالاتصال في وقت لاحق."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير المتكلم ويشير إلى الشخص الذي يتحدث."
+          },
+          {
+            "term": "will",
+            "description": "كلمة تدل على أن الفعل سيحدث في المستقبل أو كتعهد من المتكلم."
+          },
+          {
+            "term": "call",
+            "description": "أتصل هاتفيًا أو أتواصل عبر مكالمة."
+          },
+          {
+            "term": "you",
+            "description": "ضمير يشير إلى الشخص الذي أتحدث معه."
+          }
+        ]
       },
       {
         "sentence": "when I leave",
-        "explanation": {
+        "ar": "سأتصل بك عندما أغادر.",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "بعد when يستخدم المضارع البسيط للحديث عن حدث مستقبلي يحدد وقت الفعل الآخر، وهو المغادرة هنا."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "when",
+            "description": "عندما، وتربط الفعل بوقت حدوث فعل آخر."
+          },
+          {
+            "term": "I",
+            "description": "ضمير المتكلم ويشير إلى الشخص الذي يتحدث."
+          },
+          {
+            "term": "leave",
+            "description": "أغادر أو أترك المكان."
+          }
+        ]
       }
     ],
     "examples": [

@@ -7,44 +7,45 @@
     "context": "تحديد وجود شيء أسفل شيء آخر."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "There",
-        "description": "تستخدم لبدء جملة تدل على وجود شيء."
-      },
-      {
-        "term": "is",
-        "description": "تستخدم مع المفرد للدلالة على وجود شيء واحد."
-      },
-      {
-        "term": "a",
-        "description": "أداة تدل على شيء واحد غير محدد."
-      },
-      {
-        "term": "book",
-        "description": "كتاب أو شيء للقراءة."
-      },
-      {
-        "term": "under",
-        "description": "تحت أو أسفل شيء."
-      },
-      {
-        "term": "the",
-        "description": "أداة تشير إلى طاولة محددة."
-      },
-      {
-        "term": "table",
-        "description": "طاولة أو منضدة."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "There is a book under the table.",
-        "explanation": {
+        "ar": "هناك كتاب تحت الطاولة.",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "تستخدم There is للدلالة على وجود شيء مفرد في الحاضر، وunder the table يحدد أنه أسفل الطاولة."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "There",
+            "description": "تستخدم لبدء جملة تدل على وجود شيء."
+          },
+          {
+            "term": "is",
+            "description": "تستخدم مع المفرد للدلالة على وجود شيء واحد."
+          },
+          {
+            "term": "a",
+            "description": "أداة تدل على شيء واحد غير محدد."
+          },
+          {
+            "term": "book",
+            "description": "كتاب أو شيء للقراءة."
+          },
+          {
+            "term": "under",
+            "description": "تحت أو أسفل شيء."
+          },
+          {
+            "term": "the",
+            "description": "أداة تشير إلى طاولة محددة."
+          },
+          {
+            "term": "table",
+            "description": "طاولة أو منضدة."
+          }
+        ]
       }
     ],
     "examples": [

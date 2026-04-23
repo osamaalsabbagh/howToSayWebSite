@@ -7,64 +7,68 @@
     "context": "العميل يسأل عن إمكانية تغيير عنوان التسليم."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "That",
-        "description": "يشير إلى الخبر الذي سمعه المتكلم."
-      },
-      {
-        "term": "is",
-        "description": "تربط الخبر بوصفه جيدًا."
-      },
-      {
-        "term": "good",
-        "description": "جيد أو مفرح."
-      },
-      {
-        "term": "news",
-        "description": "خبر أو معلومة جديدة."
-      },
-      {
-        "term": "Can",
-        "description": "تبدأ سؤالًا عن الإمكانية أو السماح."
-      },
-      {
-        "term": "I",
-        "description": "ضمير المتكلم المفرد."
-      },
-      {
-        "term": "change",
-        "description": "يغيّر أو يعدّل."
-      },
-      {
-        "term": "the",
-        "description": "أداة تعريف لعنوان تسليم محدد."
-      },
-      {
-        "term": "delivery",
-        "description": "التسليم أو إيصال الطلب."
-      },
-      {
-        "term": "address",
-        "description": "العنوان الذي سيصل إليه الطلب."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "That is good news.",
-        "explanation": {
+        "ar": "تلك أخبار جيدة.",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "الجملة تصف الخبر الحالي بأنه جيد."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "That",
+            "description": "يشير إلى الخبر الذي سمعه المتكلم."
+          },
+          {
+            "term": "is",
+            "description": "تربط الخبر بوصفه جيدًا."
+          },
+          {
+            "term": "good",
+            "description": "جيد أو مفرح."
+          },
+          {
+            "term": "news",
+            "description": "خبر أو معلومة جديدة."
+          }
+        ]
       },
       {
         "sentence": "Can I change the delivery address?",
-        "explanation": {
+        "ar": "هل يمكنني تغيير عنوان التسليم؟",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "السؤال يستخدم Can للسؤال عن إمكانية أو إذن تغيير العنوان، لذلك لا يُعامل كزمن مستقل."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Can",
+            "description": "تبدأ سؤالًا عن الإمكانية أو السماح."
+          },
+          {
+            "term": "I",
+            "description": "ضمير المتكلم المفرد."
+          },
+          {
+            "term": "change",
+            "description": "يغيّر أو يعدّل."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف لعنوان تسليم محدد."
+          },
+          {
+            "term": "delivery",
+            "description": "التسليم أو إيصال الطلب."
+          },
+          {
+            "term": "address",
+            "description": "العنوان الذي سيصل إليه الطلب."
+          }
+        ]
       }
     ],
     "examples": [

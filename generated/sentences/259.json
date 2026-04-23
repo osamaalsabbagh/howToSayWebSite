@@ -7,40 +7,41 @@
     "context": "اطلب من شخص تحديد مكان اللقاء."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Where",
-        "description": "أين، وتستخدم للسؤال عن مكان."
-      },
-      {
-        "term": "would",
-        "description": "تجعل السؤال أكثر تهذيبًا وافتراضية."
-      },
-      {
-        "term": "you",
-        "description": "أنت، وتشير إلى الشخص المخاطب."
-      },
-      {
-        "term": "like",
-        "description": "تود أو ترغب."
-      },
-      {
-        "term": "to",
-        "description": "تربط الرغبة بالفعل بعدها."
-      },
-      {
-        "term": "meet",
-        "description": "نلتقي أو نتقابل."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "Where would you like to meet?",
-        "explanation": {
+        "ar": "أين تود أن نلتقي؟",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذه صيغة سؤال مهذبة عن الرغبة في اختيار مكان اللقاء، وتستخدم تركيبًا افتراضيًا لا يشرح كزمن مستقل."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Where",
+            "description": "أين، وتستخدم للسؤال عن مكان."
+          },
+          {
+            "term": "would",
+            "description": "تجعل السؤال أكثر تهذيبًا وافتراضية."
+          },
+          {
+            "term": "you",
+            "description": "أنت، وتشير إلى الشخص المخاطب."
+          },
+          {
+            "term": "like",
+            "description": "تود أو ترغب."
+          },
+          {
+            "term": "to",
+            "description": "تربط الرغبة بالفعل بعدها."
+          },
+          {
+            "term": "meet",
+            "description": "نلتقي أو نتقابل."
+          }
+        ]
       }
     ],
     "examples": [

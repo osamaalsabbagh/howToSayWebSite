@@ -7,68 +7,72 @@
     "context": "صف تغيرًا في الخطط."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "I",
-        "description": "ضمير المتكلم ويشير إلى الشخص الذي يتحدث."
-      },
-      {
-        "term": "was",
-        "description": "صيغة ماضية تأتي مع ضمير المتكلم وتصف حالة في الماضي."
-      },
-      {
-        "term": "about",
-        "description": "جزء من تعبير يدل على أن الفعل كان على وشك الحدوث."
-      },
-      {
-        "term": "to",
-        "description": "تربط التعبير بالفعل الذي كان سيحدث."
-      },
-      {
-        "term": "leave",
-        "description": "أغادر أو أترك المكان."
-      },
-      {
-        "term": "the",
-        "description": "أداة تشير إلى مطعم محدد معروف من السياق."
-      },
-      {
-        "term": "restaurant",
-        "description": "مطعم أو مكان لتناول الطعام."
-      },
-      {
-        "term": "when",
-        "description": "عندما، وتربط حدثًا بوقت حدث آخر."
-      },
-      {
-        "term": "my",
-        "description": "كلمة تدل على أن الأصدقاء يخصون المتكلم."
-      },
-      {
-        "term": "friends",
-        "description": "أصدقاء أو أشخاص قريبون اجتماعيًا."
-      },
-      {
-        "term": "arrived",
-        "description": "وصلوا إلى المكان."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "I was about to leave the restaurant",
-        "explanation": {
+        "ar": "كنت على وشك مغادرة المطعم عندما وصل أصدقائي.",
+        "grammar": {
           "tense": "الماضي البسيط",
           "tenseEn": "Past Simple",
           "reason": "تستخدم was about to مع الفعل للتعبير عن فعل كان قريبًا جدًا من الحدوث في الماضي، وهو مغادرة المطعم."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير المتكلم ويشير إلى الشخص الذي يتحدث."
+          },
+          {
+            "term": "was",
+            "description": "صيغة ماضية تأتي مع ضمير المتكلم وتصف حالة في الماضي."
+          },
+          {
+            "term": "about",
+            "description": "جزء من تعبير يدل على أن الفعل كان على وشك الحدوث."
+          },
+          {
+            "term": "to",
+            "description": "تربط التعبير بالفعل الذي كان سيحدث."
+          },
+          {
+            "term": "leave",
+            "description": "أغادر أو أترك المكان."
+          },
+          {
+            "term": "the",
+            "description": "أداة تشير إلى مطعم محدد معروف من السياق."
+          },
+          {
+            "term": "restaurant",
+            "description": "مطعم أو مكان لتناول الطعام."
+          }
+        ]
       },
       {
         "sentence": "when my friends arrived",
-        "explanation": {
+        "ar": "كنت على وشك مغادرة المطعم عندما وصل أصدقائي.",
+        "grammar": {
           "tense": "الماضي البسيط",
           "tenseEn": "Past Simple",
           "reason": "تستخدم arrived في الماضي البسيط لحدث مكتمل قطع الخطة أو غيّرها، وهو وصول الأصدقاء."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "when",
+            "description": "عندما، وتربط حدثًا بوقت حدث آخر."
+          },
+          {
+            "term": "my",
+            "description": "كلمة تدل على أن الأصدقاء يخصون المتكلم."
+          },
+          {
+            "term": "friends",
+            "description": "أصدقاء أو أشخاص قريبون اجتماعيًا."
+          },
+          {
+            "term": "arrived",
+            "description": "وصلوا إلى المكان."
+          }
+        ]
       }
     ],
     "examples": [

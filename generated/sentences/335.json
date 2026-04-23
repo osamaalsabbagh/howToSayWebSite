@@ -5,5 +5,110 @@
     "en": "I want to give you a gift.",
     "ar": "أريد أن أقدم لك هدية.",
     "context": "إبداء الرغبة في تقديم هدية."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "I want to give you a gift.",
+        "ar": "أريد أن أقدم لك هدية.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "want في المضارع البسيط يعبر عن رغبة حالية، وto give يوضح الفعل الذي يرغب المتكلم في فعله."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير يشير إلى المتكلم."
+          },
+          {
+            "term": "want",
+            "description": "يعني أرغب أو أريد."
+          },
+          {
+            "term": "to",
+            "description": "أداة تأتي قبل الفعل لتوضيح ما تريد فعله."
+          },
+          {
+            "term": "give",
+            "description": "يعني أقدم أو أعطي."
+          },
+          {
+            "term": "you",
+            "description": "ضمير يشير إلى الشخص المخاطب."
+          },
+          {
+            "term": "a",
+            "description": "أداة نكرة تعني شيئًا واحدًا غير محدد."
+          },
+          {
+            "term": "gift",
+            "description": "يعني هدية."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I want to give you this book.",
+        "ar": "أريد أن أعطيك هذا الكتاب.",
+        "context": "تستخدم عند تقديم شيء لشخص."
+      },
+      {
+        "id": 2,
+        "en": "I want to give her a present.",
+        "ar": "أريد أن أعطيها هدية.",
+        "context": "تستخدم عند الحديث عن هدية لشخص آخر."
+      },
+      {
+        "id": 3,
+        "en": "She wants to give you some flowers.",
+        "ar": "هي تريد أن تعطيك بعض الزهور.",
+        "context": "تستخدم لنقل رغبة شخص في الإهداء."
+      },
+      {
+        "id": 4,
+        "en": "I want to give my friend a card.",
+        "ar": "أريد أن أعطي صديقي بطاقة.",
+        "context": "تستخدم عند تجهيز هدية بسيطة."
+      },
+      {
+        "id": 5,
+        "en": "We want to give them a surprise.",
+        "ar": "نريد أن نعطيهم مفاجأة.",
+        "context": "تستخدم عند التخطيط لمفاجأة."
+      },
+      {
+        "id": 6,
+        "en": "Do you want to give him a gift?",
+        "ar": "هل تريد أن تعطيه هدية؟",
+        "context": "تستخدم للسؤال عن نية الإهداء."
+      },
+      {
+        "id": 7,
+        "en": "I want to give you my phone number.",
+        "ar": "أريد أن أعطيك رقم هاتفي.",
+        "context": "تستخدم عند تبادل معلومات الاتصال."
+      },
+      {
+        "id": 8,
+        "en": "He wants to give his mother a gift.",
+        "ar": "هو يريد أن يعطي أمه هدية.",
+        "context": "تستخدم لوصف نية شخص في مناسبة عائلية."
+      },
+      {
+        "id": 9,
+        "en": "I want to give you something special.",
+        "ar": "أريد أن أعطيك شيئًا مميزًا.",
+        "context": "تستخدم عند تقديم شيء له قيمة خاصة."
+      },
+      {
+        "id": 10,
+        "en": "They want to give the teacher a gift.",
+        "ar": "هم يريدون أن يعطوا المعلم هدية.",
+        "context": "تستخدم في سياق شكر معلم."
+      }
+    ]
   }
 }

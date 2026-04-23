@@ -7,28 +7,29 @@
     "context": "اشكر رجلًا بأدب."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Thank",
-        "description": "أشكر، وتأتي هنا ضمن تعبير شكر."
-      },
-      {
-        "term": "you",
-        "description": "ضمير يشير إلى الشخص الذي أشكره."
-      },
-      {
-        "term": "sir",
-        "description": "سيدي، لقب مهذب لمخاطبة رجل."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "Thank you sir.",
-        "explanation": {
+        "ar": "شكرًا سيدي.",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذا تعبير شكر مهذب مع لقب للمخاطبة، ولا يستخدم كجملة بزمن مستقل."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Thank",
+            "description": "أشكر، وتأتي هنا ضمن تعبير شكر."
+          },
+          {
+            "term": "you",
+            "description": "ضمير يشير إلى الشخص الذي أشكره."
+          },
+          {
+            "term": "sir",
+            "description": "سيدي، لقب مهذب لمخاطبة رجل."
+          }
+        ]
       }
     ],
     "examples": [

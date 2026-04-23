@@ -7,68 +7,72 @@
     "context": "يوضح مكان سكنه باعتباره فوق متجر الكتب ويذكر عمره"
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "I",
-        "description": "ضمير المتكلم المفرد."
-      },
-      {
-        "term": "live",
-        "description": "تعني أسكن أو أقيم."
-      },
-      {
-        "term": "above",
-        "description": "تعني فوق أو في مستوى أعلى من شيء."
-      },
-      {
-        "term": "the",
-        "description": "أداة تعريف لمكان معروف في السياق."
-      },
-      {
-        "term": "bookstore",
-        "description": "متجر يبيع الكتب."
-      },
-      {
-        "term": "on",
-        "description": "تستخدم مع أسماء الشوارع للدلالة على الموقع."
-      },
-      {
-        "term": "Main",
-        "description": "جزء من اسم الشارع، ويعني الرئيسي عندما لا يكون اسمًا خاصًا."
-      },
-      {
-        "term": "Street",
-        "description": "شارع، وهي هنا جزء من اسم المكان."
-      },
-      {
-        "term": "I",
-        "description": "ضمير المتكلم المفرد."
-      },
-      {
-        "term": "am",
-        "description": "صيغة تأتي مع ضمير المتكلم المفرد لبيان الحالة أو المعلومة الحالية."
-      },
-      {
-        "term": "28",
-        "description": "العمر المذكور للمتكلم."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "I live above the bookstore on Main Street.",
-        "explanation": {
+        "ar": "أعيش فوق متجر الكتب في الشارع الرئيسي.",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "استُعمل المضارع البسيط لأن المتكلم يذكر مكان سكنه الحالي بوصفه معلومة ثابتة نسبيًا."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير المتكلم المفرد."
+          },
+          {
+            "term": "live",
+            "description": "تعني أسكن أو أقيم."
+          },
+          {
+            "term": "above",
+            "description": "تعني فوق أو في مستوى أعلى من شيء."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف لمكان معروف في السياق."
+          },
+          {
+            "term": "bookstore",
+            "description": "متجر يبيع الكتب."
+          },
+          {
+            "term": "on",
+            "description": "تستخدم مع أسماء الشوارع للدلالة على الموقع."
+          },
+          {
+            "term": "Main",
+            "description": "جزء من اسم الشارع، ويعني الرئيسي عندما لا يكون اسمًا خاصًا."
+          },
+          {
+            "term": "Street",
+            "description": "شارع، وهي هنا جزء من اسم المكان."
+          }
+        ]
       },
       {
         "sentence": "I am 28.",
-        "explanation": {
+        "ar": "وعمري ٢٨.",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "استُعمل المضارع البسيط لأن المتكلم يذكر عمره الحالي."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير المتكلم المفرد."
+          },
+          {
+            "term": "am",
+            "description": "صيغة تأتي مع ضمير المتكلم المفرد لبيان الحالة أو المعلومة الحالية."
+          },
+          {
+            "term": "28",
+            "description": "العمر المذكور للمتكلم."
+          }
+        ]
       }
     ],
     "examples": [

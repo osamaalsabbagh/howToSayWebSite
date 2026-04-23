@@ -7,36 +7,37 @@
     "context": "اسأل عن جنسية شخص."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Is",
-        "description": "تأتي في بداية السؤال للسؤال عن صفة أو هوية شخص مفرد."
-      },
-      {
-        "term": "Mr",
-        "description": "لقب احترام يوضع قبل اسم رجل."
-      },
-      {
-        "term": "Smith",
-        "description": "اسم عائلة للشخص المقصود في السؤال."
-      },
-      {
-        "term": "an",
-        "description": "أداة تأتي قبل اسم مفرد يبدأ بصوت متحرك."
-      },
-      {
-        "term": "American",
-        "description": "شخص أمريكي أو صاحب جنسية أمريكية."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "Is Mr. Smith an American?",
-        "explanation": {
+        "ar": "هل السيد سميث أمريكي؟",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "يبدأ السؤال بـ Is للسؤال عن هوية أو جنسية شخص مفرد في الوقت الحالي."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Is",
+            "description": "تأتي في بداية السؤال للسؤال عن صفة أو هوية شخص مفرد."
+          },
+          {
+            "term": "Mr",
+            "description": "لقب احترام يوضع قبل اسم رجل."
+          },
+          {
+            "term": "Smith",
+            "description": "اسم عائلة للشخص المقصود في السؤال."
+          },
+          {
+            "term": "an",
+            "description": "أداة تأتي قبل اسم مفرد يبدأ بصوت متحرك."
+          },
+          {
+            "term": "American",
+            "description": "شخص أمريكي أو صاحب جنسية أمريكية."
+          }
+        ]
       }
     ],
     "examples": [

@@ -7,40 +7,41 @@
     "context": "الزبون يقترح رؤية صور الشقة بدلًا من المعاينة."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Can",
-        "description": "تبدأ سؤالًا عن القدرة أو الإمكانية، وتستعمل هنا كطلب مهذب."
-      },
-      {
-        "term": "you",
-        "description": "ضمير يشير إلى الشخص الذي يوجه إليه الطلب."
-      },
-      {
-        "term": "show",
-        "description": "تُري أو تعرض شيئًا لشخص آخر."
-      },
-      {
-        "term": "me",
-        "description": "ضمير يشير إلى المتكلم بوصفه من سيشاهد الصور."
-      },
-      {
-        "term": "its",
-        "description": "تدل على أن الصور تخص الشيء المذكور، مثل الشقة."
-      },
-      {
-        "term": "photos",
-        "description": "صور أو لقطات مرئية."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "Can you show me its photos?",
-        "explanation": {
+        "ar": "هل يمكنك أن تريني صورها؟",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "الجملة سؤال طلب باستخدام Can للسؤال عن إمكانية عرض الصور، وليست زمنًا مستقلًا."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Can",
+            "description": "تبدأ سؤالًا عن القدرة أو الإمكانية، وتستعمل هنا كطلب مهذب."
+          },
+          {
+            "term": "you",
+            "description": "ضمير يشير إلى الشخص الذي يوجه إليه الطلب."
+          },
+          {
+            "term": "show",
+            "description": "تُري أو تعرض شيئًا لشخص آخر."
+          },
+          {
+            "term": "me",
+            "description": "ضمير يشير إلى المتكلم بوصفه من سيشاهد الصور."
+          },
+          {
+            "term": "its",
+            "description": "تدل على أن الصور تخص الشيء المذكور، مثل الشقة."
+          },
+          {
+            "term": "photos",
+            "description": "صور أو لقطات مرئية."
+          }
+        ]
       }
     ],
     "examples": [

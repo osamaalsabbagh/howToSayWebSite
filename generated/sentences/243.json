@@ -7,40 +7,41 @@
     "context": "قل إنك تحتاج إلى ممارسة الإنجليزية."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "I",
-        "description": "أنا، وتشير إلى المتكلم."
-      },
-      {
-        "term": "need",
-        "description": "أحتاج."
-      },
-      {
-        "term": "to",
-        "description": "تربط الحاجة بالفعل بعدها."
-      },
-      {
-        "term": "practice",
-        "description": "أمارس أو أتدرب لتحسين مهارة."
-      },
-      {
-        "term": "my",
-        "description": "خاصتي، وتشير إلى أن الإنجليزية تخص المتكلم."
-      },
-      {
-        "term": "English",
-        "description": "اللغة الإنجليزية."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "I need to practice my English.",
-        "explanation": {
+        "ar": "أحتاج إلى ممارسة لغتي الإنجليزية.",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "يستخدم المضارع البسيط للتعبير عن حاجة حالية أو عامة، ويأتي الفعل بعد الحاجة بصيغة المصدر لشرح ما يحتاج المتكلم إلى فعله."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "أنا، وتشير إلى المتكلم."
+          },
+          {
+            "term": "need",
+            "description": "أحتاج."
+          },
+          {
+            "term": "to",
+            "description": "تربط الحاجة بالفعل بعدها."
+          },
+          {
+            "term": "practice",
+            "description": "أمارس أو أتدرب لتحسين مهارة."
+          },
+          {
+            "term": "my",
+            "description": "خاصتي، وتشير إلى أن الإنجليزية تخص المتكلم."
+          },
+          {
+            "term": "English",
+            "description": "اللغة الإنجليزية."
+          }
+        ]
       }
     ],
     "examples": [

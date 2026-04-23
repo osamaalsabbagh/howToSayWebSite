@@ -7,24 +7,25 @@
     "context": "قل إنه لم يحدث مؤخرًا."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Not",
-        "description": "تستخدم هنا للنفي، أي أن الأمر لم يحدث."
-      },
-      {
-        "term": "recently",
-        "description": "مؤخرًا أو في الفترة القريبة الماضية."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "Not recently.",
-        "explanation": {
+        "ar": "ليس مؤخرًا.",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذا رد مختصر ينفي حدوث شيء في الفترة القريبة الماضية، ولا يحتوي على فعل ظاهر أو زمن مستقل."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Not",
+            "description": "تستخدم هنا للنفي، أي أن الأمر لم يحدث."
+          },
+          {
+            "term": "recently",
+            "description": "مؤخرًا أو في الفترة القريبة الماضية."
+          }
+        ]
       }
     ],
     "examples": [

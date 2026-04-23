@@ -7,52 +7,53 @@
     "context": "يجيب بأن السبب الذي سمعه له علاقة بحالة الطقس"
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "They",
-        "description": "ضمير يشير إلى أكثر من شخص أو شيء."
-      },
-      {
-        "term": "said",
-        "description": "فعل في الماضي يعني قال أو ذكر."
-      },
-      {
-        "term": "something",
-        "description": "ضمير يعني شيء ما."
-      },
-      {
-        "term": "about",
-        "description": "تعني عن أو بخصوص، وتربط الكلام بموضوع الطقس."
-      },
-      {
-        "term": "bad",
-        "description": "صفة تعني سيئ، وتصف هنا حالة الطقس."
-      },
-      {
-        "term": "weather",
-        "description": "اسم يعني الطقس."
-      },
-      {
-        "term": "over",
-        "description": "حرف جر أو ظرف يعني فوق أو على امتداد."
-      },
-      {
-        "term": "the",
-        "description": "أداة تعريف تشير إلى شيء معروف أو محدد."
-      },
-      {
-        "term": "city",
-        "description": "اسم يعني مدينة."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "They said something about bad weather over the city.",
-        "explanation": {
+        "ar": "قالوا شيئًا يتعلق بسوء الأحوال الجوية فوق المدينة.",
+        "grammar": {
           "tense": "الماضي البسيط",
           "tenseEn": "Past Simple",
           "reason": "استُعمل الماضي البسيط لأن الجملة تتحدث عن حدث وقع في الماضي واكتمل هناك."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "They",
+            "description": "ضمير يشير إلى أكثر من شخص أو شيء."
+          },
+          {
+            "term": "said",
+            "description": "فعل في الماضي يعني قال أو ذكر."
+          },
+          {
+            "term": "something",
+            "description": "ضمير يعني شيء ما."
+          },
+          {
+            "term": "about",
+            "description": "تعني عن أو بخصوص، وتربط الكلام بموضوع الطقس."
+          },
+          {
+            "term": "bad",
+            "description": "صفة تعني سيئ، وتصف هنا حالة الطقس."
+          },
+          {
+            "term": "weather",
+            "description": "اسم يعني الطقس."
+          },
+          {
+            "term": "over",
+            "description": "حرف جر أو ظرف يعني فوق أو على امتداد."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف تشير إلى شيء معروف أو محدد."
+          },
+          {
+            "term": "city",
+            "description": "اسم يعني مدينة."
+          }
+        ]
       }
     ],
     "examples": [

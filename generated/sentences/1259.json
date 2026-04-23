@@ -7,24 +7,25 @@
     "context": "نبه شخصًا للخطر."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Be",
-        "description": "تأتي هنا في بداية طلب أو تنبيه لتكون في حالة معينة."
-      },
-      {
-        "term": "careful",
-        "description": "حذر أو منتبه للخطر."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "Be careful.",
-        "explanation": {
+        "ar": "كن حذرًا.",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "الجملة تنبيه بصيغة الأمر للتحذير أو طلب الانتباه، وليست زمنًا مستقلًا."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Be",
+            "description": "تأتي هنا في بداية طلب أو تنبيه لتكون في حالة معينة."
+          },
+          {
+            "term": "careful",
+            "description": "حذر أو منتبه للخطر."
+          }
+        ]
       }
     ],
     "examples": [

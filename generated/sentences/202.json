@@ -7,24 +7,25 @@
     "context": "أعطِ أمرًا بالانعطاف يسارًا."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Turn",
-        "description": "انعطف أو غيّر اتجاهك."
-      },
-      {
-        "term": "left",
-        "description": "يسارًا، أي إلى جهة اليسار."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "Turn left.",
-        "explanation": {
+        "ar": "انعطف يسارًا.",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذه جملة أمر قصيرة لإعطاء اتجاه، وتبدأ بالفعل الأساسي لذلك لا تحمل زمنًا مستقلًا."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Turn",
+            "description": "انعطف أو غيّر اتجاهك."
+          },
+          {
+            "term": "left",
+            "description": "يسارًا، أي إلى جهة اليسار."
+          }
+        ]
       }
     ],
     "examples": [

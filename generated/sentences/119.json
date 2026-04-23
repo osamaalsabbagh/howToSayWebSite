@@ -7,28 +7,29 @@
     "context": "قل إنك مكتفٍ."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "That",
-        "description": "ذلك المقدار أو الشيء الذي تشير إليه."
-      },
-      {
-        "term": "is",
-        "description": "صيغة تأتي مع المفرد وتربط الشيء بوصفه."
-      },
-      {
-        "term": "enough",
-        "description": "كافٍ أو بالقدر المطلوب."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "That is enough.",
-        "explanation": {
+        "ar": "ذلك يكفي.",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "تستخدم is لوصف أن المقدار أو الفعل الحالي كافٍ، وأن المتكلم لا يحتاج إلى المزيد."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "That",
+            "description": "ذلك المقدار أو الشيء الذي تشير إليه."
+          },
+          {
+            "term": "is",
+            "description": "صيغة تأتي مع المفرد وتربط الشيء بوصفه."
+          },
+          {
+            "term": "enough",
+            "description": "كافٍ أو بالقدر المطلوب."
+          }
+        ]
       }
     ],
     "examples": [

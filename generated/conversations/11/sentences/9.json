@@ -7,76 +7,99 @@
     "context": "المعلم يوضح المعنى في السياق العلمي"
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "For",
-        "description": "جزء من تعبير يستخدم لتقديم مثال."
-      },
-      {
-        "term": "example",
-        "description": "مثال يوضح الفكرة."
-      },
-      {
-        "term": "in",
-        "description": "داخل مجال أو سياق معين."
-      },
-      {
-        "term": "science",
-        "description": "العلم أو المجال العلمي."
-      },
-      {
-        "term": "fresh",
-        "description": "عذب أو غير مالح عندما يصف الماء علميًا."
-      },
-      {
-        "term": "water",
-        "description": "ماء."
-      },
-      {
-        "term": "means",
-        "description": "يعني أو يدل على معنى معين."
-      },
-      {
-        "term": "it",
-        "description": "ضمير يعود على الماء العذب."
-      },
-      {
-        "term": "is",
-        "description": "تربط الضمير بوصفه أو حالته."
-      },
-      {
-        "term": "not",
-        "description": "أداة نفي."
-      },
-      {
-        "term": "salty",
-        "description": "مالح أو يحتوي على ملح."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "For example",
-        "explanation": {
+        "ar": "على سبيل المثال، في العلوم الماء العذب يعني أنه غير مالح.",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذا تعبير تمهيدي لتقديم مثال وليس جملة بزمن مستقل."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "For",
+            "description": "جزء من تعبير يستخدم لتقديم مثال."
+          },
+          {
+            "term": "example",
+            "description": "مثال يوضح الفكرة."
+          }
+        ]
       },
       {
         "sentence": "in science fresh water means it is not salty",
-        "explanation": {
+        "ar": "على سبيل المثال، في العلوم الماء العذب يعني أنه غير مالح.",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "استُخدم المضارع البسيط لتعريف معنى عام في السياق العلمي."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "in",
+            "description": "داخل مجال أو سياق معين."
+          },
+          {
+            "term": "science",
+            "description": "العلم أو المجال العلمي."
+          },
+          {
+            "term": "fresh",
+            "description": "عذب أو غير مالح عندما يصف الماء علميًا."
+          },
+          {
+            "term": "water",
+            "description": "ماء."
+          },
+          {
+            "term": "means",
+            "description": "يعني أو يدل على معنى معين."
+          },
+          {
+            "term": "it",
+            "description": "ضمير يعود على الماء العذب."
+          },
+          {
+            "term": "is",
+            "description": "تربط الضمير بوصفه أو حالته."
+          },
+          {
+            "term": "not",
+            "description": "أداة نفي."
+          },
+          {
+            "term": "salty",
+            "description": "مالح أو يحتوي على ملح."
+          }
+        ]
       },
       {
         "sentence": "it is not salty",
-        "explanation": {
+        "ar": "على سبيل المثال، في العلوم الماء العذب يعني أنه غير مالح.",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "هذا الجزء يشرح الصفة العامة للماء المقصود بأنه غير مالح."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "it",
+            "description": "ضمير يعود على الماء العذب."
+          },
+          {
+            "term": "is",
+            "description": "تربط الضمير بوصفه أو حالته."
+          },
+          {
+            "term": "not",
+            "description": "أداة نفي."
+          },
+          {
+            "term": "salty",
+            "description": "مالح أو يحتوي على ملح."
+          }
+        ]
       }
     ],
     "examples": [

@@ -7,32 +7,33 @@
     "context": "اسأل عن الموعد المعتاد لمغادرة المجموعة."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "When",
-        "description": "متى، وتستخدم للسؤال عن موعد."
-      },
-      {
-        "term": "do",
-        "description": "تأتي في السؤال مع نحن لتكوين سؤال في الحاضر."
-      },
-      {
-        "term": "we",
-        "description": "نحن، وتشمل المتكلم مع شخص أو أكثر."
-      },
-      {
-        "term": "leave",
-        "description": "نغادر أو ننطلق من مكان."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "When do we leave?",
-        "explanation": {
+        "ar": "متى نغادر؟",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "يستخدم المضارع البسيط للسؤال عن موعد مغادرة مقرر أو متفق عليه للمجموعة."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "When",
+            "description": "متى، وتستخدم للسؤال عن موعد."
+          },
+          {
+            "term": "do",
+            "description": "تأتي في السؤال مع نحن لتكوين سؤال في الحاضر."
+          },
+          {
+            "term": "we",
+            "description": "نحن، وتشمل المتكلم مع شخص أو أكثر."
+          },
+          {
+            "term": "leave",
+            "description": "نغادر أو ننطلق من مكان."
+          }
+        ]
       }
     ],
     "examples": [

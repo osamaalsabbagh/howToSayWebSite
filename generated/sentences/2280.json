@@ -7,24 +7,25 @@
     "context": "تزيل القلق عن شخص."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "No",
-        "description": "تدل هنا على نفي وجود مشكلة."
-      },
-      {
-        "term": "problem",
-        "description": "مشكلة أو صعوبة."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "No problem.",
-        "explanation": {
+        "ar": "لا مشكلة.",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "تعبير ثابت يطمئن الشخص أو يقبل الطلب، وليس جملة بزمن مستقل."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "No",
+            "description": "تدل هنا على نفي وجود مشكلة."
+          },
+          {
+            "term": "problem",
+            "description": "مشكلة أو صعوبة."
+          }
+        ]
       }
     ],
     "examples": [

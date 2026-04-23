@@ -5,5 +5,94 @@
     "en": "Male or female?",
     "ar": "ذكر أم أنثى؟",
     "context": "السؤال عن جنس الشخص."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Male or female?",
+        "ar": "ذكر أم أنثى؟",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه عبارة سؤال مختصرة للاختيار بين جنسين، ولا تحتوي على فعل واضح لذلك لا تحمل زمنًا مستقلًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "Male",
+            "description": "يعني ذكرًا."
+          },
+          {
+            "term": "or",
+            "description": "حرف اختيار بين بديلين."
+          },
+          {
+            "term": "female",
+            "description": "يعني أنثى."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Male or female?",
+        "ar": "ذكر أم أنثى؟",
+        "context": "تستخدم في نموذج أو سؤال مختصر عن الجنس."
+      },
+      {
+        "id": 2,
+        "en": "Is the baby male or female?",
+        "ar": "هل الطفل ذكر أم أنثى؟",
+        "context": "تستخدم للسؤال عن جنس طفل."
+      },
+      {
+        "id": 3,
+        "en": "Do you need a male doctor or a female doctor?",
+        "ar": "هل تحتاج إلى طبيب أم طبيبة؟",
+        "context": "تستخدم عند اختيار مقدم رعاية."
+      },
+      {
+        "id": 4,
+        "en": "Please choose male or female.",
+        "ar": "من فضلك اختر ذكرًا أو أنثى.",
+        "context": "تستخدم عند تعبئة بيانات."
+      },
+      {
+        "id": 5,
+        "en": "The form asks for male or female.",
+        "ar": "النموذج يطلب ذكرًا أو أنثى.",
+        "context": "تستخدم عند شرح خانة في نموذج."
+      },
+      {
+        "id": 6,
+        "en": "Is your cat male or female?",
+        "ar": "هل قطتك ذكر أم أنثى؟",
+        "context": "تستخدم للسؤال عن جنس حيوان أليف."
+      },
+      {
+        "id": 7,
+        "en": "The patient is female.",
+        "ar": "المريضة أنثى.",
+        "context": "تستخدم في سياق طبي أو إداري."
+      },
+      {
+        "id": 8,
+        "en": "The teacher is male.",
+        "ar": "المعلم ذكر.",
+        "context": "تستخدم لوصف جنس شخص."
+      },
+      {
+        "id": 9,
+        "en": "I prefer a female nurse.",
+        "ar": "أفضل ممرضة.",
+        "context": "تستخدم للتعبير عن تفضيل في الرعاية."
+      },
+      {
+        "id": 10,
+        "en": "The room is for female students.",
+        "ar": "الغرفة للطالبات.",
+        "context": "تستخدم لتحديد فئة مخصصة."
+      }
+    ]
   }
 }

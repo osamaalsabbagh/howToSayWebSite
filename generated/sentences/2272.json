@@ -7,36 +7,37 @@
     "context": "اسأل عن خيار أرخص وأنت تميل إلى الاعتقاد بأنه موجود."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Do",
-        "description": "تأتي في بداية السؤال مع المخاطب لتكوين سؤال في الحاضر."
-      },
-      {
-        "term": "you",
-        "description": "أنت أو أنتم، وتشير إلى البائع أو المكان."
-      },
-      {
-        "term": "have",
-        "description": "لديك أو يتوفر عندك."
-      },
-      {
-        "term": "something",
-        "description": "شيء ما، وتوحي بأن المتكلم يتوقع أو يرجو وجود خيار."
-      },
-      {
-        "term": "cheaper",
-        "description": "أرخص، أي بسعر أقل."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "Do you have something cheaper?",
-        "explanation": {
+        "ar": "هل لديك شيء أرخص؟",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "يستخدم المضارع البسيط للسؤال عن توفر خيار أرخص، وكلمة شيء ما تجعل السؤال يميل إلى توقع وجود خيار بديل."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Do",
+            "description": "تأتي في بداية السؤال مع المخاطب لتكوين سؤال في الحاضر."
+          },
+          {
+            "term": "you",
+            "description": "أنت أو أنتم، وتشير إلى البائع أو المكان."
+          },
+          {
+            "term": "have",
+            "description": "لديك أو يتوفر عندك."
+          },
+          {
+            "term": "something",
+            "description": "شيء ما، وتوحي بأن المتكلم يتوقع أو يرجو وجود خيار."
+          },
+          {
+            "term": "cheaper",
+            "description": "أرخص، أي بسعر أقل."
+          }
+        ]
       }
     ],
     "examples": [

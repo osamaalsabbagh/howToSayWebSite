@@ -7,76 +7,80 @@
     "context": "يطلب منه نصيحة لِمَن يرغب في دخول هذا المجال"
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Really",
-        "description": "ظرف يُستخدم للتأكيد ويعني حقًا أو فعلًا."
-      },
-      {
-        "term": "Do",
-        "description": "تبدأ سؤالًا في المضارع البسيط عن امتلاك الشخص لنصيحة."
-      },
-      {
-        "term": "you",
-        "description": "ضمير المخاطب."
-      },
-      {
-        "term": "have",
-        "description": "يعني لديك أو تملك، والمقصود هنا امتلاك نصيحة يمكن تقديمها."
-      },
-      {
-        "term": "any",
-        "description": "كلمة تعني أي أو بعض حسب السياق."
-      },
-      {
-        "term": "advice",
-        "description": "اسم يعني نصيحة."
-      },
-      {
-        "term": "for",
-        "description": "حرف جر يعني لـ أو من أجل أو لمدة حسب السياق."
-      },
-      {
-        "term": "someone",
-        "description": "اسم يعني لشخص."
-      },
-      {
-        "term": "who",
-        "description": "تربط كلمة شخص بالوصف الذي بعدها."
-      },
-      {
-        "term": "wants",
-        "description": "فعل يعني يريد."
-      },
-      {
-        "term": "to",
-        "description": "تأتي كثيرًا قبل المصدر، وقد تعني إلى حسب التركيب."
-      },
-      {
-        "term": "start",
-        "description": "فعل يعني يبدأ."
-      },
-      {
-        "term": "acting",
-        "description": "يعني التمثيل بوصفه نشاطًا أو مجالًا يريد الشخص البدء فيه."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "Really?",
-        "explanation": {
+        "ar": "حقًا؟",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذا الجزء تعبير قصير أو غير مكتمل فعليًا، لذلك لا نضع له زمنًا مستقلًا."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Really",
+            "description": "ظرف يُستخدم للتأكيد ويعني حقًا أو فعلًا."
+          }
+        ]
       },
       {
         "sentence": "Do you have any advice for someone who wants to start acting?",
-        "explanation": {
+        "ar": "هل لديك أي نصيحة لشخص يريد أن يبدأ التمثيل؟",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "استُعمل المضارع البسيط لأن هذا الجزء يصف حالة أو حقيقة أو معنى حاضرًا في سياق الكلام."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Do",
+            "description": "تبدأ سؤالًا في المضارع البسيط عن امتلاك الشخص لنصيحة."
+          },
+          {
+            "term": "you",
+            "description": "ضمير المخاطب."
+          },
+          {
+            "term": "have",
+            "description": "يعني لديك أو تملك، والمقصود هنا امتلاك نصيحة يمكن تقديمها."
+          },
+          {
+            "term": "any",
+            "description": "كلمة تعني أي أو بعض حسب السياق."
+          },
+          {
+            "term": "advice",
+            "description": "اسم يعني نصيحة."
+          },
+          {
+            "term": "for",
+            "description": "حرف جر يعني لـ أو من أجل أو لمدة حسب السياق."
+          },
+          {
+            "term": "someone",
+            "description": "اسم يعني لشخص."
+          },
+          {
+            "term": "who",
+            "description": "تربط كلمة شخص بالوصف الذي بعدها."
+          },
+          {
+            "term": "wants",
+            "description": "فعل يعني يريد."
+          },
+          {
+            "term": "to",
+            "description": "تأتي كثيرًا قبل المصدر، وقد تعني إلى حسب التركيب."
+          },
+          {
+            "term": "start",
+            "description": "فعل يعني يبدأ."
+          },
+          {
+            "term": "acting",
+            "description": "يعني التمثيل بوصفه نشاطًا أو مجالًا يريد الشخص البدء فيه."
+          }
+        ]
       }
     ],
     "examples": [

@@ -7,32 +7,33 @@
     "context": "قل أنك متفرغ."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "I",
-        "description": "ضمير المتكلم ويشير إلى الشخص الذي يتحدث."
-      },
-      {
-        "term": "am",
-        "description": "صيغة تأتي مع ضمير المتكلم المفرد وتربط الشخص بحالته."
-      },
-      {
-        "term": "not",
-        "description": "كلمة نفي تجعل المعنى لست."
-      },
-      {
-        "term": "busy",
-        "description": "مشغول أو غير متفرغ."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "I am not busy.",
-        "explanation": {
+        "ar": "أنا لست مشغولاً.",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "تستخدم الجملة am not مع صفة لنفي حالة حالية، وهي الانشغال، فتفيد أن المتكلم متفرغ."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير المتكلم ويشير إلى الشخص الذي يتحدث."
+          },
+          {
+            "term": "am",
+            "description": "صيغة تأتي مع ضمير المتكلم المفرد وتربط الشخص بحالته."
+          },
+          {
+            "term": "not",
+            "description": "كلمة نفي تجعل المعنى لست."
+          },
+          {
+            "term": "busy",
+            "description": "مشغول أو غير متفرغ."
+          }
+        ]
       }
     ],
     "examples": [

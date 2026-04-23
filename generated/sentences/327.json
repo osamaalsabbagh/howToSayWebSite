@@ -5,5 +5,118 @@
     "en": "I have three children, two girls and one boy.",
     "ar": "لدي ثلاثة أطفال، بنتان وصبي واحد.",
     "context": "الإشارة إلى عدد وأعمار الأطفال."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "I have three children, two girls and one boy.",
+        "ar": "لدي ثلاثة أطفال، بنتان وصبي واحد.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "الفعل have في المضارع البسيط يصف حقيقة حالية عن العائلة، والجزء بعد الفاصلة يوضح تفاصيل العدد بنات وولدًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير يشير إلى المتكلم."
+          },
+          {
+            "term": "have",
+            "description": "يعني أملك أو لدي."
+          },
+          {
+            "term": "three",
+            "description": "عدد يعني ثلاثة."
+          },
+          {
+            "term": "children",
+            "description": "يعني أطفال أو أبناء."
+          },
+          {
+            "term": "two",
+            "description": "عدد يعني اثنين أو اثنتين."
+          },
+          {
+            "term": "girls",
+            "description": "يعني بنات."
+          },
+          {
+            "term": "and",
+            "description": "حرف ربط يجمع بين الأشياء."
+          },
+          {
+            "term": "one",
+            "description": "عدد يعني واحدًا أو واحدة."
+          },
+          {
+            "term": "boy",
+            "description": "يعني ولدًا أو صبيًا."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I have two children.",
+        "ar": "لدي طفلان.",
+        "context": "تستخدم لذكر عدد الأطفال."
+      },
+      {
+        "id": 2,
+        "en": "I have one daughter and one son.",
+        "ar": "لدي ابنة واحدة وابن واحد.",
+        "context": "تستخدم لتوضيح الأبناء والبنات."
+      },
+      {
+        "id": 3,
+        "en": "She has three brothers.",
+        "ar": "لديها ثلاثة إخوة.",
+        "context": "تستخدم لوصف عدد الإخوة."
+      },
+      {
+        "id": 4,
+        "en": "We have four children in our family.",
+        "ar": "لدينا أربعة أطفال في عائلتنا.",
+        "context": "تستخدم للحديث عن حجم العائلة."
+      },
+      {
+        "id": 5,
+        "en": "They have two boys and two girls.",
+        "ar": "لديهم ولدان وبنتان.",
+        "context": "تستخدم لذكر جنس الأطفال وعددهم."
+      },
+      {
+        "id": 6,
+        "en": "My sister has one child.",
+        "ar": "لدى أختي طفل واحد.",
+        "context": "تستخدم للحديث عن قريب في العائلة."
+      },
+      {
+        "id": 7,
+        "en": "I have a small family.",
+        "ar": "لدي عائلة صغيرة.",
+        "context": "تستخدم لوصف العائلة بشكل عام."
+      },
+      {
+        "id": 8,
+        "en": "He has two daughters.",
+        "ar": "لديه ابنتان.",
+        "context": "تستخدم عند ذكر عدد البنات."
+      },
+      {
+        "id": 9,
+        "en": "Do you have any children?",
+        "ar": "هل لديك أي أطفال؟",
+        "context": "تستخدم للسؤال عن وجود أطفال."
+      },
+      {
+        "id": 10,
+        "en": "I have three cousins in this city.",
+        "ar": "لدي ثلاثة أبناء عم في هذه المدينة.",
+        "context": "تستخدم لذكر عدد الأقارب في مكان معين."
+      }
+    ]
   }
 }

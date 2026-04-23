@@ -7,28 +7,29 @@
     "context": "تحقق مما إذا كان الشيء كافيًا."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Is",
-        "description": "تأتي في بداية السؤال للتحقق من حالة شيء مفرد."
-      },
-      {
-        "term": "that",
-        "description": "ذلك الشيء أو المقدار المحدد في الموقف."
-      },
-      {
-        "term": "enough",
-        "description": "كافٍ أو بقدر مناسب للحاجة."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "Is that enough?",
-        "explanation": {
+        "ar": "هل ذلك كافٍ؟",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "يبدأ السؤال بـ Is للتحقق من حالة شيء في الوقت الحالي، وهو هل الكمية أو الفعل كافٍ."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Is",
+            "description": "تأتي في بداية السؤال للتحقق من حالة شيء مفرد."
+          },
+          {
+            "term": "that",
+            "description": "ذلك الشيء أو المقدار المحدد في الموقف."
+          },
+          {
+            "term": "enough",
+            "description": "كافٍ أو بقدر مناسب للحاجة."
+          }
+        ]
       }
     ],
     "examples": [

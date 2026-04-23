@@ -7,40 +7,41 @@
     "context": "اسأل عن وصول بريد شخصي."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Is",
-        "description": "تأتي في بداية السؤال للسؤال عن وجود شيء."
-      },
-      {
-        "term": "there",
-        "description": "تستخدم هنا في تركيب يدل على وجود شيء."
-      },
-      {
-        "term": "any",
-        "description": "أي، وتستخدم في السؤال عن وجود كمية غير محددة."
-      },
-      {
-        "term": "mail",
-        "description": "بريد أو رسائل."
-      },
-      {
-        "term": "for",
-        "description": "لـ، وتربط البريد بالشخص المقصود."
-      },
-      {
-        "term": "me",
-        "description": "لي أو من أجلي، وتشير إلى المتكلم."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "Is there any mail for me?",
-        "explanation": {
+        "ar": "هل هناك أي بريد لي؟",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "يستخدم تركيب الوجود في الحاضر للسؤال عما إذا كان هناك بريد موجود الآن للمتكلم."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Is",
+            "description": "تأتي في بداية السؤال للسؤال عن وجود شيء."
+          },
+          {
+            "term": "there",
+            "description": "تستخدم هنا في تركيب يدل على وجود شيء."
+          },
+          {
+            "term": "any",
+            "description": "أي، وتستخدم في السؤال عن وجود كمية غير محددة."
+          },
+          {
+            "term": "mail",
+            "description": "بريد أو رسائل."
+          },
+          {
+            "term": "for",
+            "description": "لـ، وتربط البريد بالشخص المقصود."
+          },
+          {
+            "term": "me",
+            "description": "لي أو من أجلي، وتشير إلى المتكلم."
+          }
+        ]
       }
     ],
     "examples": [

@@ -7,40 +7,41 @@
     "context": "اطلب حجز غرفة لشخص واحد."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "I",
-        "description": "ضمير المتكلم المفرد."
-      },
-      {
-        "term": "would",
-        "description": "تجعل الطلب ألطف وأكثر تهذيبًا."
-      },
-      {
-        "term": "like",
-        "description": "أرغب أو أود."
-      },
-      {
-        "term": "a",
-        "description": "أداة تدل على شيء واحد غير محدد."
-      },
-      {
-        "term": "single",
-        "description": "لشخص واحد."
-      },
-      {
-        "term": "room",
-        "description": "غرفة، وغالبًا المقصود غرفة فندق هنا."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "I would like a single room.",
-        "explanation": {
+        "ar": "أود غرفة مفردة.",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذه صيغة طلب مهذب باستخدام would like، وهي تعبر عن رغبة أو طلب ولا تعامل كزمن مستقل."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير المتكلم المفرد."
+          },
+          {
+            "term": "would",
+            "description": "تجعل الطلب ألطف وأكثر تهذيبًا."
+          },
+          {
+            "term": "like",
+            "description": "أرغب أو أود."
+          },
+          {
+            "term": "a",
+            "description": "أداة تدل على شيء واحد غير محدد."
+          },
+          {
+            "term": "single",
+            "description": "لشخص واحد."
+          },
+          {
+            "term": "room",
+            "description": "غرفة، وغالبًا المقصود غرفة فندق هنا."
+          }
+        ]
       }
     ],
     "examples": [

@@ -7,36 +7,37 @@
     "context": "إشارة إلى أن شيئًا ما يقع في مستوى أقل من شيء آخر، لكن ليس بالضرورة تحته مباشرة أو ملامسًا له."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "The",
-        "description": "أداة تشير إلى درجة حرارة محددة في السياق."
-      },
-      {
-        "term": "temperature",
-        "description": "درجة الحرارة."
-      },
-      {
-        "term": "is",
-        "description": "صيغة تربط الشيء بوصفه أو مستواه الحالي."
-      },
-      {
-        "term": "below",
-        "description": "أقل من مستوى أو رقم معين، وليس بالضرورة تحته مباشرة."
-      },
-      {
-        "term": "zero",
-        "description": "الصفر."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "The temperature is below zero.",
-        "explanation": {
+        "ar": "درجة الحرارة أقل من الصفر.",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "تستخدم is لوصف مستوى درجة الحرارة الحالي، وتستخدم below عندما يكون الشيء أقل من مستوى أو رقم معين."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "The",
+            "description": "أداة تشير إلى درجة حرارة محددة في السياق."
+          },
+          {
+            "term": "temperature",
+            "description": "درجة الحرارة."
+          },
+          {
+            "term": "is",
+            "description": "صيغة تربط الشيء بوصفه أو مستواه الحالي."
+          },
+          {
+            "term": "below",
+            "description": "أقل من مستوى أو رقم معين، وليس بالضرورة تحته مباشرة."
+          },
+          {
+            "term": "zero",
+            "description": "الصفر."
+          }
+        ]
       }
     ],
     "examples": [

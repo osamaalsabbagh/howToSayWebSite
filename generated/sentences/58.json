@@ -7,36 +7,37 @@
     "context": "قل أنك بحاجة لمزيد من الوقت."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "I",
-        "description": "ضمير المتكلم ويشير إلى الشخص الذي يتحدث."
-      },
-      {
-        "term": "am",
-        "description": "صيغة تأتي مع ضمير المتكلم المفرد وتربط الشخص بحالته."
-      },
-      {
-        "term": "not",
-        "description": "كلمة نفي تجعل المعنى لست."
-      },
-      {
-        "term": "ready",
-        "description": "مستعد أو جاهز لفعل شيء."
-      },
-      {
-        "term": "yet",
-        "description": "بعد، وتدل على أن الحالة لم تحدث حتى الآن."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "I am not ready yet.",
-        "explanation": {
+        "ar": "لست مستعدًا بعد.",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "تستخدم الجملة am not مع صفة لنفي حالة حالية، وكلمة yet توضح أن الاستعداد لم يكتمل حتى الآن."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير المتكلم ويشير إلى الشخص الذي يتحدث."
+          },
+          {
+            "term": "am",
+            "description": "صيغة تأتي مع ضمير المتكلم المفرد وتربط الشخص بحالته."
+          },
+          {
+            "term": "not",
+            "description": "كلمة نفي تجعل المعنى لست."
+          },
+          {
+            "term": "ready",
+            "description": "مستعد أو جاهز لفعل شيء."
+          },
+          {
+            "term": "yet",
+            "description": "بعد، وتدل على أن الحالة لم تحدث حتى الآن."
+          }
+        ]
       }
     ],
     "examples": [

@@ -7,28 +7,29 @@
     "context": "تطلب التحدث ببطء."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Speak",
-        "description": "تحدث أو تكلم."
-      },
-      {
-        "term": "slowly",
-        "description": "ببطء."
-      },
-      {
-        "term": "please",
-        "description": "كلمة تجعل الطلب ألطف."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "Speak slowly, please.",
-        "explanation": {
+        "ar": "تحدث ببطء من فضلك.",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "الجملة طلب مهذب بصيغة الأمر للتحدث بسرعة أبطأ، ولا تحمل زمنًا مستقلًا."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Speak",
+            "description": "تحدث أو تكلم."
+          },
+          {
+            "term": "slowly",
+            "description": "ببطء."
+          },
+          {
+            "term": "please",
+            "description": "كلمة تجعل الطلب ألطف."
+          }
+        ]
       }
     ],
     "examples": [

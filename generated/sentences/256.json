@@ -7,44 +7,45 @@
     "context": "اسأل عن سعر صرف الدولار."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "What",
-        "description": "ما، وتستخدم للسؤال عن معلومة محددة."
-      },
-      {
-        "term": "is",
-        "description": "صيغة تربط السؤال بالمعلومة المطلوبة في الحاضر."
-      },
-      {
-        "term": "the",
-        "description": "أداة تشير إلى سعر صرف محدد معروف في السياق."
-      },
-      {
-        "term": "exchange",
-        "description": "صرف أو تبديل عملة بعملة أخرى."
-      },
-      {
-        "term": "rate",
-        "description": "سعر أو نسبة، وهنا قيمة عملة مقابل أخرى."
-      },
-      {
-        "term": "for",
-        "description": "لـ أو بخصوص، وتربط السعر بالدولارات."
-      },
-      {
-        "term": "dollars",
-        "description": "دولارات، وهي عملة أمريكية."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "What is the exchange rate for dollars?",
-        "explanation": {
+        "ar": "ما هو سعر صرف الدولار؟",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "يستخدم فعل الربط في الحاضر للسؤال عن معلومة حالية، وهي سعر صرف الدولار الآن أو في ذلك اليوم."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "What",
+            "description": "ما، وتستخدم للسؤال عن معلومة محددة."
+          },
+          {
+            "term": "is",
+            "description": "صيغة تربط السؤال بالمعلومة المطلوبة في الحاضر."
+          },
+          {
+            "term": "the",
+            "description": "أداة تشير إلى سعر صرف محدد معروف في السياق."
+          },
+          {
+            "term": "exchange",
+            "description": "صرف أو تبديل عملة بعملة أخرى."
+          },
+          {
+            "term": "rate",
+            "description": "سعر أو نسبة، وهنا قيمة عملة مقابل أخرى."
+          },
+          {
+            "term": "for",
+            "description": "لـ أو بخصوص، وتربط السعر بالدولارات."
+          },
+          {
+            "term": "dollars",
+            "description": "دولارات، وهي عملة أمريكية."
+          }
+        ]
       }
     ],
     "examples": [

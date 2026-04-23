@@ -7,36 +7,37 @@
     "context": "عبّر عن عدم الإعجاب بشيء."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "I",
-        "description": "ضمير المتكلم ويشير إلى الشخص الذي يتحدث."
-      },
-      {
-        "term": "do",
-        "description": "تساعد هنا على تكوين النفي في المضارع مع I."
-      },
-      {
-        "term": "not",
-        "description": "كلمة نفي تجعل المعنى لا يعجبني أو لا أحبه."
-      },
-      {
-        "term": "like",
-        "description": "يعجبني أو أحبه، وهنا تأتي منفية."
-      },
-      {
-        "term": "it",
-        "description": "ضمير يشير إلى شيء معروف من السياق."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "I do not like it.",
-        "explanation": {
+        "ar": "لا يعجبني.",
+        "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
           "reason": "تستخدم الجملة المضارع البسيط للتعبير عن رأي أو شعور عام تجاه شيء، ويأتي do not قبل الفعل الأساسي لتكوين النفي."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير المتكلم ويشير إلى الشخص الذي يتحدث."
+          },
+          {
+            "term": "do",
+            "description": "تساعد هنا على تكوين النفي في المضارع مع I."
+          },
+          {
+            "term": "not",
+            "description": "كلمة نفي تجعل المعنى لا يعجبني أو لا أحبه."
+          },
+          {
+            "term": "like",
+            "description": "يعجبني أو أحبه، وهنا تأتي منفية."
+          },
+          {
+            "term": "it",
+            "description": "ضمير يشير إلى شيء معروف من السياق."
+          }
+        ]
       }
     ],
     "examples": [

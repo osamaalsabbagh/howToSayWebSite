@@ -5,5 +5,117 @@
     "en": "Hi, is Mrs. Smith there, please?",
     "ar": "مرحبًا، هل السيدة سميث موجودة من فضلك؟",
     "context": "طلب مهذب للتحدث مع شخص عبر الهاتف."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Hi",
+        "ar": "مرحبًا، هل السيدة سميث موجودة من فضلك؟",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه تحية قصيرة تبدأ المكالمة ولا تحمل زمنا نحويا مستقلا."
+        },
+        "wordMeanings": [
+          {
+            "term": "Hi",
+            "description": "تحية قصيرة وغير رسمية."
+          }
+        ]
+      },
+      {
+        "sentence": "is Mrs. Smith there, please?",
+        "ar": "مرحبًا، هل السيدة سميث موجودة من فضلك؟",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "السؤال يستخدم is قبل الاسم للسؤال بأدب إن كانت السيدة سميث موجودة أو متاحة للتحدث الآن."
+        },
+        "wordMeanings": [
+          {
+            "term": "is",
+            "description": "تستخدم في السؤال عن وجود شخص."
+          },
+          {
+            "term": "Mrs",
+            "description": "لقب مهذب يستخدم قبل اسم امرأة متزوجة أو للتحدث باحترام."
+          },
+          {
+            "term": "Smith",
+            "description": "اسم عائلة للشخص المطلوب."
+          },
+          {
+            "term": "there",
+            "description": "تعني موجودة أو متاحة على الهاتف في هذا السياق."
+          },
+          {
+            "term": "please",
+            "description": "تجعل الطلب مؤدبا."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Hi, is John there, please?",
+        "ar": "مرحبًا، هل جون موجود من فضلك؟",
+        "context": "تطلب التحدث إلى جون عبر الهاتف."
+      },
+      {
+        "id": 2,
+        "en": "Hello, is the manager there, please?",
+        "ar": "مرحبًا، هل المدير موجود من فضلك؟",
+        "context": "تطلب التحدث إلى المدير بأدب."
+      },
+      {
+        "id": 3,
+        "en": "Hi, is your mother there?",
+        "ar": "مرحبًا، هل والدتك موجودة؟",
+        "context": "تسأل عن وجود والدة المخاطب."
+      },
+      {
+        "id": 4,
+        "en": "Hello, is Mr. Brown there?",
+        "ar": "مرحبًا، هل السيد براون موجود؟",
+        "context": "تطلب شخصا باسمه ولقبه."
+      },
+      {
+        "id": 5,
+        "en": "Hi, is Sarah available, please?",
+        "ar": "مرحبًا، هل سارة متاحة من فضلك؟",
+        "context": "تسأل إن كانت سارة تستطيع التحدث."
+      },
+      {
+        "id": 6,
+        "en": "Hello, is anyone there?",
+        "ar": "مرحبًا، هل يوجد أحد؟",
+        "context": "تسأل إن كان هناك شخص يسمعك."
+      },
+      {
+        "id": 7,
+        "en": "Hi, is the doctor there, please?",
+        "ar": "مرحبًا، هل الطبيب موجود من فضلك؟",
+        "context": "تطلب التحدث إلى الطبيب."
+      },
+      {
+        "id": 8,
+        "en": "Hello, is your brother there?",
+        "ar": "مرحبًا، هل أخوك موجود؟",
+        "context": "تسأل عن وجود أخي المخاطب."
+      },
+      {
+        "id": 9,
+        "en": "Hi, is the teacher there, please?",
+        "ar": "مرحبًا، هل المعلم موجود من فضلك؟",
+        "context": "تطلب التحدث إلى المعلم."
+      },
+      {
+        "id": 10,
+        "en": "Hello, is Mrs. Jones available?",
+        "ar": "مرحبًا، هل السيدة جونز متاحة؟",
+        "context": "تسأل عن إمكانية التحدث إلى امرأة بلقبها."
+      }
+    ]
   }
 }

@@ -7,24 +7,25 @@
     "context": "رد مختصر للسؤال عن السبب"
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Yes",
-        "description": "كلمة تأكيد أو موافقة."
-      },
-      {
-        "term": "why",
-        "description": "أداة سؤال عن السبب."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "Yes, why?",
-        "explanation": {
+        "ar": "نعم، لماذا؟",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذه إجابة مختصرة يتبعها سؤال عن السبب، وليست جملة فعلية كاملة لها زمن مستقل."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Yes",
+            "description": "كلمة تأكيد أو موافقة."
+          },
+          {
+            "term": "why",
+            "description": "أداة سؤال عن السبب."
+          }
+        ]
       }
     ],
     "examples": [

@@ -7,28 +7,29 @@
     "context": "قل إن الشيء غير كافٍ."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "More",
-        "description": "أكثر أو كمية أكبر."
-      },
-      {
-        "term": "than",
-        "description": "من، وتستخدم للمقارنة."
-      },
-      {
-        "term": "that",
-        "description": "ذلك الشيء أو المقدار المذكور في السياق."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "More than that.",
-        "explanation": {
+        "ar": "أكثر من ذلك.",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذا تعبير قصير للمقارنة وطلب كمية أو مقدار أكبر، ولا يحتوي على فعل ظاهر أو زمن مستقل."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "More",
+            "description": "أكثر أو كمية أكبر."
+          },
+          {
+            "term": "than",
+            "description": "من، وتستخدم للمقارنة."
+          },
+          {
+            "term": "that",
+            "description": "ذلك الشيء أو المقدار المذكور في السياق."
+          }
+        ]
       }
     ],
     "examples": [

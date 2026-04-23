@@ -7,28 +7,29 @@
     "context": "اطلب الانتظار قليلاً."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Just",
-        "description": "فقط، وتدل على أن الانتظار سيكون قصيرًا."
-      },
-      {
-        "term": "a",
-        "description": "أداة تدل على شيء واحد غير محدد."
-      },
-      {
-        "term": "moment",
-        "description": "لحظة أو وقت قصير جدًا."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "Just a moment.",
-        "explanation": {
+        "ar": "لحظة فقط.",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذا تعبير مختصر لطلب الانتظار قليلًا، ولا يحتوي على فعل ظاهر أو زمن مستقل."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Just",
+            "description": "فقط، وتدل على أن الانتظار سيكون قصيرًا."
+          },
+          {
+            "term": "a",
+            "description": "أداة تدل على شيء واحد غير محدد."
+          },
+          {
+            "term": "moment",
+            "description": "لحظة أو وقت قصير جدًا."
+          }
+        ]
       }
     ],
     "examples": [

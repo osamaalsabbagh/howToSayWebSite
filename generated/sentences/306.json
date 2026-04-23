@@ -5,5 +5,98 @@
     "en": "Where are you going?",
     "ar": "إلى أين أنت ذاهب؟",
     "context": "السؤال عن وجهة الشخص."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Where are you going?",
+        "ar": "إلى أين أنت ذاهب؟",
+        "grammar": {
+          "tense": "المضارع المستمر",
+          "tenseEn": "Present Continuous",
+          "reason": "السؤال يستخدم are قبل الضمير ثم الفعل المنتهي بـ ing للسؤال عن وجهة الشخص الآن أو في خطة قريبة."
+        },
+        "wordMeanings": [
+          {
+            "term": "Where",
+            "description": "تستخدم للسؤال عن المكان أو الوجهة."
+          },
+          {
+            "term": "are",
+            "description": "صيغة تأتي مع ضمير المخاطب وتساعد على تكوين سؤال عن حالة أو فعل مستمر."
+          },
+          {
+            "term": "you",
+            "description": "تعني أنت أو أنتم حسب الموقف."
+          },
+          {
+            "term": "going",
+            "description": "تعني ذاهب أو متجه إلى مكان."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Where are you walking?",
+        "ar": "إلى أين أنت تمشي؟",
+        "context": "تسأل شخصا عن اتجاهه أثناء المشي."
+      },
+      {
+        "id": 2,
+        "en": "Where are you driving?",
+        "ar": "إلى أين أنت تقود؟",
+        "context": "تسأل عن وجهة شخص يقود سيارة."
+      },
+      {
+        "id": 3,
+        "en": "Where are they going?",
+        "ar": "إلى أين هم ذاهبون؟",
+        "context": "تسأل عن وجهة مجموعة من الناس."
+      },
+      {
+        "id": 4,
+        "en": "Where is she going?",
+        "ar": "إلى أين هي ذاهبة؟",
+        "context": "تسأل عن وجهة امرأة أو فتاة."
+      },
+      {
+        "id": 5,
+        "en": "Where are we going after lunch?",
+        "ar": "إلى أين سنذهب بعد الغداء؟",
+        "context": "تسأل عن الخطة التالية بعد الغداء."
+      },
+      {
+        "id": 6,
+        "en": "Where are you heading now?",
+        "ar": "إلى أين تتجه الآن؟",
+        "context": "تسأل عن الوجهة الحالية بطريقة طبيعية."
+      },
+      {
+        "id": 7,
+        "en": "Where are the children going?",
+        "ar": "إلى أين يذهب الأطفال؟",
+        "context": "تسأل عن وجهة الأطفال."
+      },
+      {
+        "id": 8,
+        "en": "Where are you going tonight?",
+        "ar": "إلى أين ستذهب الليلة؟",
+        "context": "تسأل عن خطة شخص في المساء."
+      },
+      {
+        "id": 9,
+        "en": "Where is your brother going?",
+        "ar": "إلى أين يذهب أخوك؟",
+        "context": "تسأل عن وجهة أخي المخاطب."
+      },
+      {
+        "id": 10,
+        "en": "Where are you going after work?",
+        "ar": "إلى أين ستذهب بعد العمل؟",
+        "context": "تسأل عن وجهة شخص بعد انتهاء العمل."
+      }
+    ]
   }
 }

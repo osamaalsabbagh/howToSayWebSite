@@ -7,32 +7,33 @@
     "context": "تمنَّ رحلة آمنة لشخص."
   },
   "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Have",
-        "description": "تأتي هنا في بداية تمن لشخص بمعنى عِش أو اقض."
-      },
-      {
-        "term": "a",
-        "description": "أداة تدل على شيء واحد غير محدد."
-      },
-      {
-        "term": "safe",
-        "description": "آمن، أي بعيد عن الخطر أو المشكلات."
-      },
-      {
-        "term": "trip",
-        "description": "رحلة أو سفر من مكان إلى آخر."
-      }
-    ],
-    "grammarExplanations": [
+    "parts": [
       {
         "sentence": "Have a safe trip",
-        "explanation": {
+        "ar": "رحلة آمنة.",
+        "grammar": {
           "tense": null,
           "tenseEn": null,
           "reason": "هذه صيغة تمن أو دعاء بالسلامة تبدأ بالفعل الأساسي، ولا تحتوي على زمن مستقل لأنها لا تخبر عن حدث بل تتمنى نتيجة آمنة."
-        }
+        },
+        "wordMeanings": [
+          {
+            "term": "Have",
+            "description": "تأتي هنا في بداية تمن لشخص بمعنى عِش أو اقض."
+          },
+          {
+            "term": "a",
+            "description": "أداة تدل على شيء واحد غير محدد."
+          },
+          {
+            "term": "safe",
+            "description": "آمن، أي بعيد عن الخطر أو المشكلات."
+          },
+          {
+            "term": "trip",
+            "description": "رحلة أو سفر من مكان إلى آخر."
+          }
+        ]
       }
     ],
     "examples": [
