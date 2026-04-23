@@ -10,83 +10,91 @@
     "wordMeanings": [
       {
         "term": "Please",
-        "description": "تضيف اللطف والتهذيب إلى الطلب."
+        "description": "كلمة تجعل الطلب ألطف وأكثر أدبًا."
       },
       {
         "term": "say",
-        "description": "فعل يعني قل أو انطق."
+        "description": "قل أو انطق."
       },
       {
         "term": "it",
-        "description": "ضمير يعود على الشيء أو الجملة التي قيلت."
+        "description": "ضمير يعود على الكلام المطلوب إعادته."
       },
       {
         "term": "again",
         "description": "مرة أخرى."
       }
     ],
-    "tense": null,
-    "tenseReason": "استُعمل فعل الأمر لأن المتكلم يطلب إعادة الكلام مباشرة. وجود please يجعل الطلب ألطف.",
+    "grammarExplanations": [
+      {
+        "sentence": "Please say it again.",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "الجملة طلب مهذب لإعادة الكلام، وليست جملة بزمن مستقل."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "Please say it again. I missed the last word.",
-        "ar": "من فضلك قلها مرة أخرى. لقد فاتتني الكلمة الأخيرة.",
-        "context": "تطلب الإعادة بسبب عدم السماع."
+        "en": "Please say that again.",
+        "ar": "من فضلك قل ذلك مرة أخرى.",
+        "context": "تقال عند عدم سماع الكلام جيدًا."
       },
       {
         "id": 2,
-        "en": "Please say it again more slowly.",
-        "ar": "من فضلك قلها مرة أخرى ببطء أكثر.",
-        "context": "تطلب الإعادة مع توضيح إضافي."
+        "en": "Please repeat the question.",
+        "ar": "من فضلك أعد السؤال.",
+        "context": "تقال عند الحاجة إلى سماع السؤال مرة ثانية."
       },
       {
         "id": 3,
-        "en": "Please say it again. I do not understand.",
-        "ar": "من فضلك قلها مرة أخرى. أنا لا أفهم.",
-        "context": "تطلب إعادة الكلام بسبب عدم الفهم."
+        "en": "Say it again, please.",
+        "ar": "قلها مرة أخرى من فضلك.",
+        "context": "صيغة مهذبة لطلب الإعادة."
       },
       {
         "id": 4,
-        "en": "Please say it again for the class.",
-        "ar": "من فضلك قلها مرة أخرى للصف.",
-        "context": "تطلب إعادة الكلام ليستفيد آخرون أيضًا."
+        "en": "Please say the word again.",
+        "ar": "من فضلك قل الكلمة مرة أخرى.",
+        "context": "تقال عند تعلم نطق كلمة."
       },
       {
         "id": 5,
-        "en": "Please say it again in a simple way.",
-        "ar": "من فضلك قلها مرة أخرى بطريقة بسيطة.",
-        "context": "تطلب إعادة الصياغة أو التبسيط."
+        "en": "Please repeat it slowly.",
+        "ar": "من فضلك أعده ببطء.",
+        "context": "تقال عندما تحتاج الإعادة بسرعة أبطأ."
       },
       {
         "id": 6,
-        "en": "Please say it again. The room is noisy.",
-        "ar": "من فضلك قلها مرة أخرى. الغرفة مزعجة.",
-        "context": "تطلب الإعادة بسبب الضجيج."
+        "en": "Please say your name again.",
+        "ar": "من فضلك قل اسمك مرة أخرى.",
+        "context": "تقال عند عدم سماع الاسم بوضوح."
       },
       {
         "id": 7,
-        "en": "Please say it again one more time.",
-        "ar": "من فضلك قلها مرة أخرى مرة إضافية.",
-        "context": "تطلب تكرارًا إضافيًا للتأكيد."
+        "en": "Can you say it again?",
+        "ar": "هل يمكنك قولها مرة أخرى؟",
+        "context": "تقال لطلب إعادة الكلام بلطف."
       },
       {
         "id": 8,
-        "en": "Please say it again, but separate the words.",
-        "ar": "من فضلك قلها مرة أخرى، لكن افصل الكلمات.",
-        "context": "تطلب النطق بوضوح أكبر."
+        "en": "Please repeat the address.",
+        "ar": "من فضلك أعد العنوان.",
+        "context": "تقال عند التأكد من عنوان."
       },
       {
         "id": 9,
-        "en": "Please say it again after me.",
-        "ar": "من فضلك قلها مرة أخرى بعدي.",
-        "context": "تطلب متابعة في تمرين نطق."
+        "en": "Please say the sentence again.",
+        "ar": "من فضلك قل الجملة مرة أخرى.",
+        "context": "تقال في موقف تعلم أو تدريب."
       },
       {
         "id": 10,
-        "en": "Please say it again so I can write it.",
-        "ar": "من فضلك قلها مرة أخرى لكي أستطيع كتابتها.",
-        "context": "تطلب الإعادة من أجل التدوين."
+        "en": "Please repeat the number.",
+        "ar": "من فضلك أعد الرقم.",
+        "context": "تقال عند التأكد من رقم."
       }
     ]
   }

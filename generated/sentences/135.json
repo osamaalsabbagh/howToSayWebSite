@@ -10,84 +10,91 @@
     "wordMeanings": [
       {
         "term": "This",
-        "description": "اسم إشارة يعني هذا."
+        "description": "هذا الشيء أو الأمر القريب في الحديث."
       },
       {
         "term": "is",
-        "description": "فعل be في الحاضر مع المفرد."
+        "description": "صيغة تربط الشيء بوصفه الحالي."
       },
       {
         "term": "very",
-        "description": "كلمة تزيد شدة الصفة."
+        "description": "كلمة تقوي الصفة وتجعلها بدرجة كبيرة."
       },
       {
         "term": "important",
-        "description": "صفة تعني مهم."
+        "description": "مهم أو له قيمة وتأثير."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "This is very important.",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "تستخدم is مع صفة لوصف أهمية الشيء في الحاضر، وتأتي very للتأكيد على قوة الأهمية."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "People often say, \"This is very important\" in situations like this.",
-        "ar": "يقول الناس كثيرًا: \"هذا مهم جدًا\" في مواقف كهذه.",
-        "context": "تستخدم الجملة بوصفها تركيبًا شائعًا في موقف مشابه."
+        "en": "This meeting is very important.",
+        "ar": "هذا الاجتماع مهم جدًا.",
+        "context": "تقال عند التأكيد على ضرورة حضور اجتماع."
       },
       {
         "id": 2,
-        "en": "You can say, \"This is very important\" when this happens.",
-        "ar": "يمكنك أن تقول: \"هذا مهم جدًا\" عندما يحدث هذا.",
-        "context": "توضح أن الجملة مناسبة في موقف متكرر."
+        "en": "Your health is very important.",
+        "ar": "صحتك مهمة جدًا.",
+        "context": "تقال عند نصح شخص بالاهتمام بصحته."
       },
       {
         "id": 3,
-        "en": "I heard someone say, \"This is very important\".",
-        "ar": "سمعت شخصًا يقول: \"هذا مهم جدًا\".",
-        "context": "تجعل الجملة جزءًا من كلام سمعته من شخص آخر."
+        "en": "This document is important.",
+        "ar": "هذه الوثيقة مهمة.",
+        "context": "تقال عند التحذير من فقدان ورقة أو ملف."
       },
       {
         "id": 4,
-        "en": "The teacher used the sentence, \"This is very important\" in class.",
-        "ar": "استخدم المعلم الجملة: \"هذا مهم جدًا\" في الصف.",
-        "context": "تستخدم الجملة مثالًا تعليميًا في الصف."
+        "en": "The first step is very important.",
+        "ar": "الخطوة الأولى مهمة جدًا.",
+        "context": "تقال عند شرح بداية عمل أو خطة."
       },
       {
         "id": 5,
-        "en": "Many learners remember the sentence, \"This is very important\" first.",
-        "ar": "يتذكر كثير من المتعلمين الجملة: \"هذا مهم جدًا\" أولًا.",
-        "context": "تقدم الجملة بوصفها جملة تعليمية أساسية."
+        "en": "This information is very important.",
+        "ar": "هذه المعلومة مهمة جدًا.",
+        "context": "تقال عند إعطاء معلومة لا يجب تجاهلها."
       },
       {
         "id": 6,
-        "en": "She said, \"This is very important\" in a calm way.",
-        "ar": "قالت: \"هذا مهم جدًا\" بطريقة هادئة.",
-        "context": "تجعل الجملة جزءًا من كلام مباشر في موقف عادي."
+        "en": "Time is important in this job.",
+        "ar": "الوقت مهم في هذا العمل.",
+        "context": "تقال عند التركيز على الالتزام بالوقت."
       },
       {
         "id": 7,
-        "en": "He repeated, \"This is very important\" more than once.",
-        "ar": "ردد: \"هذا مهم جدًا\" أكثر من مرة.",
-        "context": "تضيف معنى التكرار لنفس الجملة."
+        "en": "This rule is very important.",
+        "ar": "هذه القاعدة مهمة جدًا.",
+        "context": "تقال عند شرح قاعدة يجب اتباعها."
       },
       {
         "id": 8,
-        "en": "At the right moment, someone might say, \"This is very important\".",
-        "ar": "في اللحظة المناسبة، قد يقول شخص ما: \"هذا مهم جدًا\".",
-        "context": "توضح أن الجملة مرتبطة بتوقيت مناسب في السياق."
+        "en": "Family is very important to her.",
+        "ar": "العائلة مهمة جدًا لها.",
+        "context": "تقال عند وصف قيمة شخصية عند شخص."
       },
       {
         "id": 9,
-        "en": "I wrote down the sentence, \"This is very important\" so I would remember it.",
-        "ar": "كتبت الجملة: \"هذا مهم جدًا\" حتى أتذكرها.",
-        "context": "تعطي مثالًا على حفظ الجملة أو مراجعتها."
+        "en": "This answer is important.",
+        "ar": "هذه الإجابة مهمة.",
+        "context": "تقال عند التركيز على جواب في اختبار أو نقاش."
       },
       {
         "id": 10,
-        "en": "It is useful to know when to say, \"This is very important\".",
-        "ar": "من المفيد أن تعرف متى تقول: \"هذا مهم جدًا\".",
-        "context": "تركز على معرفة الوقت المناسب لاستخدام الجملة."
+        "en": "Safety is very important here.",
+        "ar": "السلامة مهمة جدًا هنا.",
+        "context": "تقال عند التحذير في مكان عمل أو طريق."
       }
     ]
   }

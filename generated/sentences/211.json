@@ -10,84 +10,91 @@
     "wordMeanings": [
       {
         "term": "When",
-        "description": "أداة أو ظرف يعني عندما."
+        "description": "متى، وتستخدم للسؤال عن موعد."
       },
       {
         "term": "do",
-        "description": "فعل مساعد يُستعمل لتكوين النفي والسؤال في المضارع البسيط."
+        "description": "تأتي في السؤال مع نحن لتكوين سؤال في الحاضر."
       },
       {
         "term": "we",
-        "description": "ضمير المتكلمين."
+        "description": "نحن، وتشمل المتكلم مع شخص أو أكثر."
       },
       {
         "term": "arrive",
-        "description": "فعل يعني يصل."
+        "description": "نصل إلى المكان المقصود."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "When do we arrive?",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "يستخدم المضارع البسيط للسؤال عن موعد مقرر أو متوقع لوصول المجموعة."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "You can ask, \"When do we arrive?\" when you need information.",
-        "ar": "يمكنك أن تسأل: \"متى نصل؟\" عندما تحتاج إلى معلومة.",
-        "context": "تستعمل الجملة كسؤال مباشر للحصول على معلومة."
+        "en": "When do we arrive?",
+        "ar": "متى نصل؟",
+        "context": "تقال عند السؤال عن موعد وصول المجموعة."
       },
       {
         "id": 2,
-        "en": "Many people ask, \"When do we arrive?\" in this situation.",
-        "ar": "يسأل كثير من الناس: \"متى نصل؟\" في هذا الموقف.",
-        "context": "توضح أن هذا سؤال شائع في موقف مشابه."
+        "en": "When do we arrive in Boston?",
+        "ar": "متى نصل إلى بوسطن؟",
+        "context": "تقال عند السؤال عن وقت الوصول إلى مدينة."
       },
       {
         "id": 3,
-        "en": "I asked, \"When do we arrive?\" because I was not sure.",
-        "ar": "سألت: \"متى نصل؟\" لأنني لم أكن متأكدًا.",
-        "context": "تضيف سببًا لطرح السؤال."
+        "en": "When do we arrive at the hotel?",
+        "ar": "متى نصل إلى الفندق؟",
+        "context": "تقال أثناء السفر إلى فندق."
       },
       {
         "id": 4,
-        "en": "She asked politely, \"When do we arrive?\"",
-        "ar": "سألت بأدب: \"متى نصل؟\".",
-        "context": "تبين أن السؤال قيل بطريقة مهذبة."
+        "en": "When do we arrive at the airport?",
+        "ar": "متى نصل إلى المطار؟",
+        "context": "تقال عند التخطيط للوصول إلى المطار."
       },
       {
         "id": 5,
-        "en": "At work, someone may ask, \"When do we arrive?\"",
-        "ar": "في العمل، قد يسأل شخص ما: \"متى نصل؟\".",
-        "context": "تضع السؤال في سياق مهني أو عملي."
+        "en": "When do we arrive there?",
+        "ar": "متى نصل إلى هناك؟",
+        "context": "تقال عندما تكون الوجهة معروفة من السياق."
       },
       {
         "id": 6,
-        "en": "Before deciding, ask: \"When do we arrive?\"",
-        "ar": "قبل أن تقرر، اسأل: \"متى نصل؟\".",
-        "context": "تستخدم السؤال قبل اتخاذ قرار."
+        "en": "When do we arrive home?",
+        "ar": "متى نصل إلى البيت؟",
+        "context": "تقال أثناء رحلة عودة."
       },
       {
         "id": 7,
-        "en": "The student asked, \"When do we arrive?\" in class.",
-        "ar": "سأل الطالب: \"متى نصل؟\" في الصف.",
-        "context": "تجعل الجملة جزءًا من موقف تعليمي."
+        "en": "When do we arrive at the station?",
+        "ar": "متى نصل إلى المحطة؟",
+        "context": "تقال عند انتظار الوصول إلى محطة."
       },
       {
         "id": 8,
-        "en": "While traveling, you can ask, \"When do we arrive?\"",
-        "ar": "أثناء السفر، يمكنك أن تسأل: \"متى نصل؟\".",
-        "context": "تربط السؤال بموقف السفر أو التنقل."
+        "en": "When do we arrive if we leave now?",
+        "ar": "متى نصل إذا غادرنا الآن؟",
+        "context": "تقال عند حساب وقت الوصول بناء على وقت المغادرة."
       },
       {
         "id": 9,
-        "en": "He asked me, \"When do we arrive?\" again.",
-        "ar": "سألني: \"متى نصل؟\" مرة أخرى.",
-        "context": "تضيف معنى التكرار لنفس السؤال."
+        "en": "When do we arrive by train?",
+        "ar": "متى نصل بالقطار؟",
+        "context": "تقال عند السؤال عن وصول بوسيلة نقل معينة."
       },
       {
         "id": 10,
-        "en": "If you are not sure, ask: \"When do we arrive?\"",
-        "ar": "إذا لم تكن متأكدًا، فاسأل: \"متى نصل؟\".",
-        "context": "توضح أن السؤال مناسب عند عدم التأكد."
+        "en": "When do we arrive tomorrow?",
+        "ar": "متى نصل غدًا؟",
+        "context": "تقال عند السؤال عن موعد وصول في اليوم التالي."
       }
     ]
   }

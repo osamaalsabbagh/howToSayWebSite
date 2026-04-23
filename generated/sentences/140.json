@@ -10,75 +10,83 @@
     "wordMeanings": [
       {
         "term": "Yes",
-        "description": "جواب مباشر يفيد الموافقة أو التأكيد أو الإقرار بصحة شيء."
+        "description": "نعم، وتستخدم للتأكيد أو الموافقة."
       },
       {
         "term": "really",
-        "description": "ظرف يُستخدم للتأكيد ويعني حقًا أو فعلًا."
+        "description": "حقًا، وتؤكد أن الكلام جدي أو صحيح."
       }
     ],
-    "tense": null,
-    "tenseReason": "استُعمل هذا التعبير لأنه عبارة ثابتة أو رد قصير يُستخدم في موقف محدد، وليس جملة فعلية كاملة بزمن واضح.",
+    "grammarExplanations": [
+      {
+        "sentence": "Yes, really.",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذا رد قصير لتأكيد أمر بجدية أو إزالة الشك، ولا يحتوي على فعل ظاهر أو زمن مستقل."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "In this situation, people often say, \"Yes, really\".",
-        "ar": "في هذا الموقف، يقول الناس كثيرًا: \"نعم، حقًا\".",
-        "context": "توضح أن العبارة مناسبة في هذا النوع من المواقف."
+        "en": "Yes, I am serious.",
+        "ar": "نعم، أنا جاد.",
+        "context": "تقال عند تأكيد أنك لا تمزح."
       },
       {
         "id": 2,
-        "en": "The teacher said, \"Yes, really\" to the students.",
-        "ar": "قال المعلم للطلاب: \"نعم، حقًا\".",
-        "context": "تستخدم الجملة كتعليمات أو توجيه مباشر."
+        "en": "Yes, that is true.",
+        "ar": "نعم، ذلك صحيح.",
+        "context": "تقال عند تأكيد صحة خبر."
       },
       {
         "id": 3,
-        "en": "He told me, \"Yes, really\" before we left.",
-        "ar": "قال لي: \"نعم، حقًا\" قبل أن نغادر.",
-        "context": "تضع العبارة قبل حدث آخر."
+        "en": "Really, I mean it.",
+        "ar": "حقًا، أنا أعني ذلك.",
+        "context": "تقال عند تأكيد الكلام بجدية."
       },
       {
         "id": 4,
-        "en": "She said, \"Yes, really\" in a polite way.",
-        "ar": "قالت: \"نعم، حقًا\" بطريقة مهذبة.",
-        "context": "تظهر أن العبارة يمكن أن تقال بلطف أو أدب."
+        "en": "Yes, really, I saw it.",
+        "ar": "نعم، حقًا، رأيته.",
+        "context": "تقال عند تأكيد مشاهدة شيء."
       },
       {
         "id": 5,
-        "en": "Someone shouted, \"Yes, really\" when there was a problem.",
-        "ar": "صاح شخص ما: \"نعم، حقًا\" عندما ظهرت مشكلة.",
-        "context": "تربط العبارة بموقف سريع أو طارئ."
+        "en": "Yes, I really want to go.",
+        "ar": "نعم، أريد الذهاب حقًا.",
+        "context": "تقال عند تأكيد رغبة قوية."
       },
       {
         "id": 6,
-        "en": "You can say, \"Yes, really\" when you need a quick response.",
-        "ar": "يمكنك أن تقول: \"نعم، حقًا\" عندما تحتاج إلى رد سريع.",
-        "context": "توضح أن العبارة مفيدة عند الحاجة إلى استجابة مباشرة."
+        "en": "Yes, this is really important.",
+        "ar": "نعم، هذا مهم حقًا.",
+        "context": "تقال عند تأكيد أهمية شيء."
       },
       {
         "id": 7,
-        "en": "They repeated, \"Yes, really\" more than once.",
-        "ar": "رددوا: \"نعم، حقًا\" أكثر من مرة.",
-        "context": "تعطي مثالًا على تكرار العبارة."
+        "en": "Yes, she really called.",
+        "ar": "نعم، هي اتصلت حقًا.",
+        "context": "تقال عند تأكيد حدوث اتصال."
       },
       {
         "id": 8,
-        "en": "I heard him say, \"Yes, really\" yesterday.",
-        "ar": "سمعته يقول: \"نعم، حقًا\" أمس.",
-        "context": "تجعل العبارة جزءًا من موقف سمعته من شخص آخر."
+        "en": "Yes, it really works.",
+        "ar": "نعم، إنه يعمل حقًا.",
+        "context": "تقال عند تأكيد أن شيئًا يعمل."
       },
       {
         "id": 9,
-        "en": "Many learners remember the phrase, \"Yes, really\".",
-        "ar": "يتذكر كثير من المتعلمين العبارة: \"نعم، حقًا\".",
-        "context": "تقدم العبارة بوصفها عبارة سهلة التذكر."
+        "en": "Yes, really, you can try it.",
+        "ar": "نعم، حقًا، يمكنك تجربته.",
+        "context": "تقال عند تشجيع شخص مع تأكيد."
       },
       {
         "id": 10,
-        "en": "At that moment, she said, \"Yes, really\".",
-        "ar": "في تلك اللحظة، قالت: \"نعم، حقًا\".",
-        "context": "تربط العبارة بلحظة معينة في السرد."
+        "en": "Yes, he really helped me.",
+        "ar": "نعم، هو ساعدني حقًا.",
+        "context": "تقال عند تأكيد أن شخصًا قدم مساعدة."
       }
     ]
   }

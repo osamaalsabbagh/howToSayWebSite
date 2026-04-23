@@ -10,88 +10,95 @@
     "wordMeanings": [
       {
         "term": "There",
-        "description": "ظرف مكان يعني هناك."
+        "description": "تستخدم مع صيغة الوجود بمعنى يوجد أو هناك."
       },
       {
         "term": "are",
-        "description": "فعل be مع you."
+        "description": "صيغة تدل على وجود أشياء أو أشخاص متعددين."
       },
       {
         "term": "many",
-        "description": "كلمة تدل على عدد كبير."
+        "description": "كثير من أشياء أو أشخاص معدودين."
       },
       {
         "term": "people",
-        "description": "اسم جمع يعني الناس."
+        "description": "ناس أو أشخاص."
       },
       {
         "term": "here",
-        "description": "ظرف مكان يعني هنا."
+        "description": "هنا، أي في المكان الحالي."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "There are many people here.",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "يستخدم تركيب الوجود في الحاضر لوصف عدد كبير من الأشخاص الموجودين الآن في المكان الحالي."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "People often say, \"There are many people here\" in situations like this.",
-        "ar": "يقول الناس كثيرًا: \"يوجد الكثير من الناس هنا\" في مواقف كهذه.",
-        "context": "تستخدم الجملة بوصفها تركيبًا شائعًا في موقف مشابه."
+        "en": "There are many people here.",
+        "ar": "يوجد الكثير من الناس هنا.",
+        "context": "تقال عند الإشارة إلى وجود ازدحام."
       },
       {
         "id": 2,
-        "en": "You can say, \"There are many people here\" when this happens.",
-        "ar": "يمكنك أن تقول: \"يوجد الكثير من الناس هنا\" عندما يحدث هذا.",
-        "context": "توضح أن الجملة مناسبة في موقف متكرر."
+        "en": "There are many people outside.",
+        "ar": "يوجد الكثير من الناس في الخارج.",
+        "context": "تقال عند وصف ازدحام خارج المكان."
       },
       {
         "id": 3,
-        "en": "I heard someone say, \"There are many people here\".",
-        "ar": "سمعت شخصًا يقول: \"يوجد الكثير من الناس هنا\".",
-        "context": "تجعل الجملة جزءًا من كلام سمعته من شخص آخر."
+        "en": "There are many people in the room.",
+        "ar": "يوجد الكثير من الناس في الغرفة.",
+        "context": "تقال عند وصف غرفة مزدحمة."
       },
       {
         "id": 4,
-        "en": "The teacher used the sentence, \"There are many people here\" in class.",
-        "ar": "استخدم المعلم الجملة: \"يوجد الكثير من الناس هنا\" في الصف.",
-        "context": "تستخدم الجملة مثالًا تعليميًا في الصف."
+        "en": "There are many people at the station.",
+        "ar": "يوجد الكثير من الناس في المحطة.",
+        "context": "تقال عند وصف ازدحام محطة."
       },
       {
         "id": 5,
-        "en": "Many learners remember the sentence, \"There are many people here\" first.",
-        "ar": "يتذكر كثير من المتعلمين الجملة: \"يوجد الكثير من الناس هنا\" أولًا.",
-        "context": "تقدم الجملة بوصفها جملة تعليمية أساسية."
+        "en": "There are many people on the bus.",
+        "ar": "يوجد الكثير من الناس في الحافلة.",
+        "context": "تقال عند وصف حافلة مزدحمة."
       },
       {
         "id": 6,
-        "en": "She said, \"There are many people here\" in a calm way.",
-        "ar": "قالت: \"يوجد الكثير من الناس هنا\" بطريقة هادئة.",
-        "context": "تجعل الجملة جزءًا من كلام مباشر في موقف عادي."
+        "en": "There are too many people here.",
+        "ar": "يوجد عدد كبير جدًا من الناس هنا.",
+        "context": "تقال عند الشعور بأن المكان مزدحم أكثر من اللازم."
       },
       {
         "id": 7,
-        "en": "He repeated, \"There are many people here\" more than once.",
-        "ar": "ردد: \"يوجد الكثير من الناس هنا\" أكثر من مرة.",
-        "context": "تضيف معنى التكرار لنفس الجملة."
+        "en": "There are not many people here.",
+        "ar": "لا يوجد الكثير من الناس هنا.",
+        "context": "تقال عند وصف مكان غير مزدحم."
       },
       {
         "id": 8,
-        "en": "At the right moment, someone might say, \"There are many people here\".",
-        "ar": "في اللحظة المناسبة، قد يقول شخص ما: \"يوجد الكثير من الناس هنا\".",
-        "context": "توضح أن الجملة مرتبطة بتوقيت مناسب في السياق."
+        "en": "Are there many people here?",
+        "ar": "هل يوجد الكثير من الناس هنا؟",
+        "context": "تقال عند السؤال عن الازدحام."
       },
       {
         "id": 9,
-        "en": "I wrote down the sentence, \"There are many people here\" so I would remember it.",
-        "ar": "كتبت الجملة: \"يوجد الكثير من الناس هنا\" حتى أتذكرها.",
-        "context": "تعطي مثالًا على حفظ الجملة أو مراجعتها."
+        "en": "There are many people waiting.",
+        "ar": "يوجد الكثير من الناس ينتظرون.",
+        "context": "تقال عند وصف طابور أو انتظار."
       },
       {
         "id": 10,
-        "en": "It is useful to know when to say, \"There are many people here\".",
-        "ar": "من المفيد أن تعرف متى تقول: \"يوجد الكثير من الناس هنا\".",
-        "context": "تركز على معرفة الوقت المناسب لاستخدام الجملة."
+        "en": "There are many people in New York.",
+        "ar": "يوجد الكثير من الناس في نيويورك.",
+        "context": "تقال عند وصف مدينة كبيرة ومزدحمة."
       }
     ]
   }

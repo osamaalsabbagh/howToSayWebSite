@@ -10,75 +10,83 @@
     "wordMeanings": [
       {
         "term": "Turn",
-        "description": "فعل يعني انعطف."
+        "description": "انعطف أو غيّر اتجاهك."
       },
       {
         "term": "right",
-        "description": "هنا جزء من All right التي تدل على القبول أو الموافقة، وليس المقصود فقط معنى \"صحيح\" أو \"يمين\"."
+        "description": "يمينًا، أي إلى جهة اليمين."
       }
     ],
-    "tense": null,
-    "tenseReason": "استُعمل هذا الأسلوب لأن الجملة تقدم طلبًا أو تعليمات مباشرة موجهة إلى شخص آخر، لذلك لا نضع لها هنا زمنًا فعليًا مستقلًا.",
+    "grammarExplanations": [
+      {
+        "sentence": "Turn right.",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه جملة أمر قصيرة لإعطاء اتجاه، والفعل فيها بصيغته الأساسية ولا يحمل زمنًا مستقلًا."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "In this situation, people often say, \"Turn right\".",
-        "ar": "في هذا الموقف، يقول الناس كثيرًا: \"انعطف يمينًا\".",
-        "context": "توضح أن العبارة مناسبة في هذا النوع من المواقف."
+        "en": "Turn right.",
+        "ar": "انعطف يمينًا.",
+        "context": "تقال عند إعطاء أمر بالانعطاف يمينًا."
       },
       {
         "id": 2,
-        "en": "The teacher said, \"Turn right\" to the students.",
-        "ar": "قال المعلم للطلاب: \"انعطف يمينًا\".",
-        "context": "تستخدم الجملة كتعليمات أو توجيه مباشر."
+        "en": "Please turn right.",
+        "ar": "من فضلك انعطف يمينًا.",
+        "context": "تقال لسائق أو شخص بطريقة مهذبة."
       },
       {
         "id": 3,
-        "en": "He told me, \"Turn right\" before we left.",
-        "ar": "قال لي: \"انعطف يمينًا\" قبل أن نغادر.",
-        "context": "تضع العبارة قبل حدث آخر."
+        "en": "Turn right at the light.",
+        "ar": "انعطف يمينًا عند الإشارة.",
+        "context": "تقال عند استخدام إشارة المرور كعلامة."
       },
       {
         "id": 4,
-        "en": "She said, \"Turn right\" in a polite way.",
-        "ar": "قالت: \"انعطف يمينًا\" بطريقة مهذبة.",
-        "context": "تظهر أن العبارة يمكن أن تقال بلطف أو أدب."
+        "en": "Turn right at the corner.",
+        "ar": "انعطف يمينًا عند الزاوية.",
+        "context": "تقال عند توجيه شخص في شارع."
       },
       {
         "id": 5,
-        "en": "Someone shouted, \"Turn right\" when there was a problem.",
-        "ar": "صاح شخص ما: \"انعطف يمينًا\" عندما ظهرت مشكلة.",
-        "context": "تربط العبارة بموقف سريع أو طارئ."
+        "en": "Turn right after the hotel.",
+        "ar": "انعطف يمينًا بعد الفندق.",
+        "context": "تقال عند استخدام الفندق كعلامة طريق."
       },
       {
         "id": 6,
-        "en": "You can say, \"Turn right\" when you need a quick response.",
-        "ar": "يمكنك أن تقول: \"انعطف يمينًا\" عندما تحتاج إلى رد سريع.",
-        "context": "توضح أن العبارة مفيدة عند الحاجة إلى استجابة مباشرة."
+        "en": "Turn right before the station.",
+        "ar": "انعطف يمينًا قبل المحطة.",
+        "context": "تقال عند إعطاء اتجاه قبل الوصول إلى المحطة."
       },
       {
         "id": 7,
-        "en": "They repeated, \"Turn right\" more than once.",
-        "ar": "رددوا: \"انعطف يمينًا\" أكثر من مرة.",
-        "context": "تعطي مثالًا على تكرار العبارة."
+        "en": "Turn right here.",
+        "ar": "انعطف يمينًا هنا.",
+        "context": "تقال عند وصول الشخص إلى مكان الانعطاف."
       },
       {
         "id": 8,
-        "en": "I heard him say, \"Turn right\" yesterday.",
-        "ar": "سمعته يقول: \"انعطف يمينًا\" أمس.",
-        "context": "تجعل العبارة جزءًا من موقف سمعته من شخص آخر."
+        "en": "Do not turn right.",
+        "ar": "لا تنعطف يمينًا.",
+        "context": "تقال عند التحذير من اتجاه غير صحيح."
       },
       {
         "id": 9,
-        "en": "Many learners remember the phrase, \"Turn right\".",
-        "ar": "يتذكر كثير من المتعلمين العبارة: \"انعطف يمينًا\".",
-        "context": "تقدم العبارة بوصفها عبارة سهلة التذكر."
+        "en": "Turn right and go straight.",
+        "ar": "انعطف يمينًا واذهب مباشرة.",
+        "context": "تقال عند إعطاء خطوتين في الطريق."
       },
       {
         "id": 10,
-        "en": "At that moment, she said, \"Turn right\".",
-        "ar": "في تلك اللحظة، قالت: \"انعطف يمينًا\".",
-        "context": "تربط العبارة بلحظة معينة في السرد."
+        "en": "Turn right into the garage.",
+        "ar": "انعطف يمينًا إلى المرآب.",
+        "context": "تقال عند توجيه سيارة إلى مرآب."
       }
     ]
   }

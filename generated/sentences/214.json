@@ -10,84 +10,91 @@
     "wordMeanings": [
       {
         "term": "Where",
-        "description": "أداة سؤال عن المكان."
+        "description": "أين أو من أين، وتستخدم للسؤال عن المكان أو الأصل."
       },
       {
         "term": "is",
-        "description": "فعل be في الحاضر مع المفرد."
+        "description": "صيغة تربط الضمير بالمعلومة المطلوبة في الحاضر."
       },
       {
         "term": "she",
-        "description": "ضمير يشير إلى امرأة أو بنت."
+        "description": "هي، وتشير إلى امرأة أو فتاة."
       },
       {
         "term": "from",
-        "description": "جزء من العبارة الزمنية from time to time."
+        "description": "من، وتستخدم للسؤال عن الموطن أو الأصل."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "Where is she from?",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "يستخدم فعل الربط في الحاضر للسؤال عن أصلها أو موطنها، وهي معلومة حالية أو عامة."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "You can ask, \"Where is she from?\" when you need information.",
-        "ar": "يمكنك أن تسأل: \"من أين هي؟\" عندما تحتاج إلى معلومة.",
-        "context": "تستعمل الجملة كسؤال مباشر للحصول على معلومة."
+        "en": "Where is she from?",
+        "ar": "من أين هي؟",
+        "context": "تقال عند السؤال عن موطن امرأة."
       },
       {
         "id": 2,
-        "en": "Many people ask, \"Where is she from?\" in this situation.",
-        "ar": "يسأل كثير من الناس: \"من أين هي؟\" في هذا الموقف.",
-        "context": "توضح أن هذا سؤال شائع في موقف مشابه."
+        "en": "Where is he from?",
+        "ar": "من أين هو؟",
+        "context": "تقال عند السؤال عن موطن رجل."
       },
       {
         "id": 3,
-        "en": "I asked, \"Where is she from?\" because I was not sure.",
-        "ar": "سألت: \"من أين هي؟\" لأنني لم أكن متأكدًا.",
-        "context": "تضيف سببًا لطرح السؤال."
+        "en": "Where are you from?",
+        "ar": "من أين أنت؟",
+        "context": "تقال عند التعارف والسؤال عن الأصل."
       },
       {
         "id": 4,
-        "en": "She asked politely, \"Where is she from?\"",
-        "ar": "سألت بأدب: \"من أين هي؟\".",
-        "context": "تبين أن السؤال قيل بطريقة مهذبة."
+        "en": "Where are they from?",
+        "ar": "من أين هم؟",
+        "context": "تقال عند السؤال عن أصل مجموعة."
       },
       {
         "id": 5,
-        "en": "At work, someone may ask, \"Where is she from?\"",
-        "ar": "في العمل، قد يسأل شخص ما: \"من أين هي؟\".",
-        "context": "تضع السؤال في سياق مهني أو عملي."
+        "en": "She is from Boston.",
+        "ar": "هي من بوسطن.",
+        "context": "تقال عند ذكر مدينة امرأة."
       },
       {
         "id": 6,
-        "en": "Before deciding, ask: \"Where is she from?\"",
-        "ar": "قبل أن تقرر، اسأل: \"من أين هي؟\".",
-        "context": "تستخدم السؤال قبل اتخاذ قرار."
+        "en": "She is from Turkey.",
+        "ar": "هي من تركيا.",
+        "context": "تقال عند ذكر بلد امرأة."
       },
       {
         "id": 7,
-        "en": "The student asked, \"Where is she from?\" in class.",
-        "ar": "سأل الطالب: \"من أين هي؟\" في الصف.",
-        "context": "تجعل الجملة جزءًا من موقف تعليمي."
+        "en": "Where is your teacher from?",
+        "ar": "من أين معلمتك؟",
+        "context": "تقال عند السؤال عن أصل معلمة أو معلم."
       },
       {
         "id": 8,
-        "en": "While traveling, you can ask, \"Where is she from?\"",
-        "ar": "أثناء السفر، يمكنك أن تسأل: \"من أين هي؟\".",
-        "context": "تربط السؤال بموقف السفر أو التنقل."
+        "en": "Where is your friend from?",
+        "ar": "من أين صديقك؟",
+        "context": "تقال عند السؤال عن موطن صديق."
       },
       {
         "id": 9,
-        "en": "He asked me, \"Where is she from?\" again.",
-        "ar": "سألني: \"من أين هي؟\" مرة أخرى.",
-        "context": "تضيف معنى التكرار لنفس السؤال."
+        "en": "Where is that accent from?",
+        "ar": "من أين تلك اللكنة؟",
+        "context": "تقال عند السؤال عن أصل لهجة."
       },
       {
         "id": 10,
-        "en": "If you are not sure, ask: \"Where is she from?\"",
-        "ar": "إذا لم تكن متأكدًا، فاسأل: \"من أين هي؟\".",
-        "context": "توضح أن السؤال مناسب عند عدم التأكد."
+        "en": "Where is this food from?",
+        "ar": "من أين هذا الطعام؟",
+        "context": "تقال عند السؤال عن بلد أو مصدر طعام."
       }
     ]
   }

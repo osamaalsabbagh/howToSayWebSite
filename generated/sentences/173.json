@@ -10,83 +10,91 @@
     "wordMeanings": [
       {
         "term": "From",
-        "description": "جزء من العبارة الزمنية from time to time."
+        "description": "من، وتدل على نقطة البداية."
       },
       {
         "term": "here",
-        "description": "ظرف مكان يعني هنا."
+        "description": "هنا، أي المكان القريب من المتكلم."
       },
       {
         "term": "to",
-        "description": "أداة تأتي قبل المصدر بعد أفعال مثل want."
+        "description": "إلى، وتدل على الاتجاه أو نقطة الوصول."
       },
       {
         "term": "there",
-        "description": "ظرف مكان يعني هناك."
+        "description": "هناك، أي مكان أبعد عن المتكلم."
       }
     ],
-    "tense": null,
-    "tenseReason": "استُعمل هذا التعبير لأنه عبارة ثابتة أو رد قصير يُستخدم في موقف محدد، وليس جملة فعلية كاملة بزمن واضح.",
+    "grammarExplanations": [
+      {
+        "sentence": "From here to there.",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه عبارة مكانية تصف الانتقال بين نقطتين، ولا تحتوي على فعل ظاهر أو زمن مستقل."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "In this situation, people often say, \"From here to there\".",
-        "ar": "في هذا الموقف، يقول الناس كثيرًا: \"من هنا إلى هناك\".",
-        "context": "توضح أن العبارة مناسبة في هذا النوع من المواقف."
+        "en": "From here to there.",
+        "ar": "من هنا إلى هناك.",
+        "context": "تقال عند وصف الانتقال بين مكانين."
       },
       {
         "id": 2,
-        "en": "The teacher said, \"From here to there\" to the students.",
-        "ar": "قال المعلم للطلاب: \"من هنا إلى هناك\".",
-        "context": "تستخدم الجملة كتعليمات أو توجيه مباشر."
+        "en": "Walk from here to there.",
+        "ar": "امش من هنا إلى هناك.",
+        "context": "تقال عند إعطاء اتجاه بسيط للمشي."
       },
       {
         "id": 3,
-        "en": "He told me, \"From here to there\" before we left.",
-        "ar": "قال لي: \"من هنا إلى هناك\" قبل أن نغادر.",
-        "context": "تضع العبارة قبل حدث آخر."
+        "en": "Drive from here to the station.",
+        "ar": "قد السيارة من هنا إلى المحطة.",
+        "context": "تقال عند وصف طريق بالسيارة."
       },
       {
         "id": 4,
-        "en": "She said, \"From here to there\" in a polite way.",
-        "ar": "قالت: \"من هنا إلى هناك\" بطريقة مهذبة.",
-        "context": "تظهر أن العبارة يمكن أن تقال بلطف أو أدب."
+        "en": "It is far from here to there.",
+        "ar": "المسافة بعيدة من هنا إلى هناك.",
+        "context": "تقال عند وصف مسافة طويلة بين مكانين."
       },
       {
         "id": 5,
-        "en": "Someone shouted, \"From here to there\" when there was a problem.",
-        "ar": "صاح شخص ما: \"من هنا إلى هناك\" عندما ظهرت مشكلة.",
-        "context": "تربط العبارة بموقف سريع أو طارئ."
+        "en": "It is close from here to there.",
+        "ar": "المسافة قريبة من هنا إلى هناك.",
+        "context": "تقال عند وصف مسافة قصيرة."
       },
       {
         "id": 6,
-        "en": "You can say, \"From here to there\" when you need a quick response.",
-        "ar": "يمكنك أن تقول: \"من هنا إلى هناك\" عندما تحتاج إلى رد سريع.",
-        "context": "توضح أن العبارة مفيدة عند الحاجة إلى استجابة مباشرة."
+        "en": "Go from here to the door.",
+        "ar": "اذهب من هنا إلى الباب.",
+        "context": "تقال عند إرشاد شخص داخل مكان."
       },
       {
         "id": 7,
-        "en": "They repeated, \"From here to there\" more than once.",
-        "ar": "رددوا: \"من هنا إلى هناك\" أكثر من مرة.",
-        "context": "تعطي مثالًا على تكرار العبارة."
+        "en": "Move from here to that table.",
+        "ar": "انتقل من هنا إلى تلك الطاولة.",
+        "context": "تقال عند تغيير مكان الجلوس أو الوقوف."
       },
       {
         "id": 8,
-        "en": "I heard him say, \"From here to there\" yesterday.",
-        "ar": "سمعته يقول: \"من هنا إلى هناك\" أمس.",
-        "context": "تجعل العبارة جزءًا من موقف سمعته من شخص آخر."
+        "en": "The bus goes from here to downtown.",
+        "ar": "تذهب الحافلة من هنا إلى وسط المدينة.",
+        "context": "تقال عند وصف مسار حافلة."
       },
       {
         "id": 9,
-        "en": "Many learners remember the phrase, \"From here to there\".",
-        "ar": "يتذكر كثير من المتعلمين العبارة: \"من هنا إلى هناك\".",
-        "context": "تقدم العبارة بوصفها عبارة سهلة التذكر."
+        "en": "The path runs from here to the river.",
+        "ar": "يمتد الممر من هنا إلى النهر.",
+        "context": "تقال عند وصف امتداد ممر."
       },
       {
         "id": 10,
-        "en": "At that moment, she said, \"From here to there\".",
-        "ar": "في تلك اللحظة، قالت: \"من هنا إلى هناك\".",
-        "context": "تربط العبارة بلحظة معينة في السرد."
+        "en": "I can see from here to there.",
+        "ar": "أستطيع أن أرى من هنا إلى هناك.",
+        "context": "تقال عند وصف مدى الرؤية بين نقطتين."
       }
     ]
   }

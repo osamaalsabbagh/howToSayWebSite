@@ -10,84 +10,91 @@
     "wordMeanings": [
       {
         "term": "I",
-        "description": "ضمير المتكلم."
+        "description": "ضمير المتكلم ويشير إلى الشخص الذي يتحدث."
       },
       {
         "term": "have",
-        "description": "فعل يعني يملك، ويأتي أيضًا كفعل مساعد."
+        "description": "تساعد هنا على تكوين معنى أن الفعل اكتمل وله علاقة بالحاضر."
       },
       {
         "term": "already",
-        "description": "ظرف يعني بالفعل أو سابقًا."
+        "description": "تعني أن الفعل تم قبل الآن أو قبل المتوقع."
       },
       {
         "term": "eaten",
-        "description": "فعل يعني أكلت."
+        "description": "أكلت، وهي الصيغة التي تأتي بعد have للتعبير عن اكتمال الفعل."
       }
     ],
-    "tense": "المضارع التام",
-    "tenseEn": "Present Perfect",
-    "tenseReason": "استُعمل المضارع التام لأن الجملة تربط بين حدث وقع في الماضي ونتيجته أو أثره في الحاضر.",
+    "grammarExplanations": [
+      {
+        "sentence": "I have already eaten.",
+        "explanation": {
+          "tense": "المضارع التام",
+          "tenseEn": "Present Perfect",
+          "reason": "تستخدم have مع eaten للتركيز على أن فعل الأكل اكتمل قبل الآن وأن نتيجته مهمة في الحاضر، مثل عدم الحاجة إلى الأكل مرة أخرى."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "People often say, \"I have already eaten\" in situations like this.",
-        "ar": "يقول الناس كثيرًا: \"لقد أكلت من قبل\" في مواقف كهذه.",
-        "context": "تستخدم الجملة بوصفها تركيبًا شائعًا في موقف مشابه."
+        "en": "I have already called him.",
+        "ar": "لقد اتصلت به بالفعل.",
+        "context": "تقال عند تأكيد أن الاتصال تم قبل الآن."
       },
       {
         "id": 2,
-        "en": "You can say, \"I have already eaten\" when this happens.",
-        "ar": "يمكنك أن تقول: \"لقد أكلت من قبل\" عندما يحدث هذا.",
-        "context": "توضح أن الجملة مناسبة في موقف متكرر."
+        "en": "She has already left.",
+        "ar": "لقد غادرت بالفعل.",
+        "context": "تقال عندما تكون المغادرة مكتملة الآن."
       },
       {
         "id": 3,
-        "en": "I heard someone say, \"I have already eaten\".",
-        "ar": "سمعت شخصًا يقول: \"لقد أكلت من قبل\".",
-        "context": "تجعل الجملة جزءًا من كلام سمعته من شخص آخر."
+        "en": "We have already paid.",
+        "ar": "لقد دفعنا بالفعل.",
+        "context": "تقال لتوضيح أن الدفع منته ولا حاجة لتكراره."
       },
       {
         "id": 4,
-        "en": "The teacher used the sentence, \"I have already eaten\" in class.",
-        "ar": "استخدم المعلم الجملة: \"لقد أكلت من قبل\" في الصف.",
-        "context": "تستخدم الجملة مثالًا تعليميًا في الصف."
+        "en": "He has already finished.",
+        "ar": "لقد أنهى بالفعل.",
+        "context": "تقال عند التركيز على اكتمال العمل."
       },
       {
         "id": 5,
-        "en": "Many learners remember the sentence, \"I have already eaten\" first.",
-        "ar": "يتذكر كثير من المتعلمين الجملة: \"لقد أكلت من قبل\" أولًا.",
-        "context": "تقدم الجملة بوصفها جملة تعليمية أساسية."
+        "en": "I have already answered.",
+        "ar": "لقد أجبت بالفعل.",
+        "context": "تقال عندما تكون الإجابة قد تمت سابقًا."
       },
       {
         "id": 6,
-        "en": "She said, \"I have already eaten\" in a calm way.",
-        "ar": "قالت: \"لقد أكلت من قبل\" بطريقة هادئة.",
-        "context": "تجعل الجملة جزءًا من كلام مباشر في موقف عادي."
+        "en": "They have already arrived.",
+        "ar": "لقد وصلوا بالفعل.",
+        "context": "تقال عندما يكون الوصول قد حدث وتظهر نتيجته الآن."
       },
       {
         "id": 7,
-        "en": "He repeated, \"I have already eaten\" more than once.",
-        "ar": "ردد: \"لقد أكلت من قبل\" أكثر من مرة.",
-        "context": "تضيف معنى التكرار لنفس الجملة."
+        "en": "I have already bought the ticket.",
+        "ar": "لقد اشتريت التذكرة بالفعل.",
+        "context": "تقال عند تأكيد اكتمال شراء التذكرة."
       },
       {
         "id": 8,
-        "en": "At the right moment, someone might say, \"I have already eaten\".",
-        "ar": "في اللحظة المناسبة، قد يقول شخص ما: \"لقد أكلت من قبل\".",
-        "context": "توضح أن الجملة مرتبطة بتوقيت مناسب في السياق."
+        "en": "My brother has already eaten.",
+        "ar": "لقد أكل أخي بالفعل.",
+        "context": "تقال عند توضيح أن شخصًا لا يحتاج إلى الطعام الآن."
       },
       {
         "id": 9,
-        "en": "I wrote down the sentence, \"I have already eaten\" so I would remember it.",
-        "ar": "كتبت الجملة: \"لقد أكلت من قبل\" حتى أتذكرها.",
-        "context": "تعطي مثالًا على حفظ الجملة أو مراجعتها."
+        "en": "The meeting has already started.",
+        "ar": "لقد بدأ الاجتماع بالفعل.",
+        "context": "تقال عندما يكون الاجتماع جاريًا الآن بعد بدايته."
       },
       {
         "id": 10,
-        "en": "It is useful to know when to say, \"I have already eaten\".",
-        "ar": "من المفيد أن تعرف متى تقول: \"لقد أكلت من قبل\".",
-        "context": "تركز على معرفة الوقت المناسب لاستخدام الجملة."
+        "en": "I have already sent the message.",
+        "ar": "لقد أرسلت الرسالة بالفعل.",
+        "context": "تقال عند التركيز على اكتمال إرسال الرسالة."
       }
     ]
   }

@@ -10,112 +10,119 @@
     "wordMeanings": [
       {
         "term": "Yes",
-        "description": "جواب مباشر يفيد الموافقة أو التأكيد أو الإقرار بصحة شيء."
+        "description": "كلمة تأكيد أو موافقة."
       },
       {
         "term": "these",
-        "description": "اسم أو صفة إشارة للجمع القريب."
+        "description": "اسم إشارة للجمع القريب، ويشير هنا إلى التفاح الموجود أمام الزبون."
       },
       {
         "term": "apples",
-        "description": "اسم يعني التفاح."
+        "description": "تفاح بصيغة الجمع."
       },
       {
         "term": "are",
-        "description": "فعل be مع you."
+        "description": "صيغة تربط التفاح بمصدره أو وصفه."
       },
       {
         "term": "from",
-        "description": "جزء من العبارة الزمنية from time to time."
+        "description": "حرف يوضح مصدر الشيء أو المكان الذي جاء منه."
       },
       {
         "term": "a",
-        "description": "أداة نكرة تأتي قبل الاسم المفرد المعدود."
+        "description": "أداة نكرة قبل اسم مفرد غير محدد."
       },
       {
         "term": "farm",
-        "description": "اسم يعني مزرعة."
+        "description": "مزرعة يزرع فيها التفاح أو منتجات أخرى."
       },
       {
         "term": "in",
-        "description": "حرف جر يعني في."
+        "description": "حرف يحدد مكان المزرعة."
       },
       {
         "term": "the",
-        "description": "أداة تعريف تشير إلى شيء معروف أو محدد."
+        "description": "أداة تعريف لمنطقة معروفة في السياق."
       },
       {
         "term": "mountain",
-        "description": "اسم يعني منطقة."
+        "description": "جبل أو منطقة جبلية."
       },
       {
         "term": "area",
-        "description": "اسم يعني الجبل."
+        "description": "منطقة أو جزء من مكان."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "Yes, these apples are from a farm in the mountain area.",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُعمل المضارع البسيط لأن البائع يصف مصدر التفاح الحالي بوصفه معلومة ثابتة عن المنتج."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "In general, Yes, these apples are from a farm in the mountain area.",
-        "ar": "بشكل عام، نعم، هذا التفاح من مزرعة في منطقة الجبل.",
-        "context": "تضيف عبارة عامة تحافظ على نفس المعنى الأساسي."
+        "en": "Yes, these oranges are from a farm near the river.",
+        "ar": "نعم، هذا البرتقال من مزرعة قرب النهر.",
+        "context": "بائع يوضح مصدر الفاكهة الموجودة أمام الزبون."
       },
       {
         "id": 2,
-        "en": "Usually, Yes, these apples are from a farm in the mountain area.",
-        "ar": "عادةً، نعم، هذا التفاح من مزرعة في منطقة الجبل.",
-        "context": "تضيف ظرفًا يدل على التكرار أو العادة."
+        "en": "These apples are from a local farm.",
+        "ar": "هذا التفاح من مزرعة محلية.",
+        "context": "تذكر مصدر التفاح بطريقة مختصرة."
       },
       {
         "id": 3,
-        "en": "Sometimes, Yes, these apples are from a farm in the mountain area.",
-        "ar": "أحيانًا، نعم، هذا التفاح من مزرعة في منطقة الجبل.",
-        "context": "تضع الجملة في سياق أقل تكرارًا."
+        "en": "The vegetables are from a farm in the valley.",
+        "ar": "الخضروات من مزرعة في الوادي.",
+        "context": "تصف مصدر خضروات في السوق."
       },
       {
         "id": 4,
-        "en": "For now, Yes, these apples are from a farm in the mountain area.",
-        "ar": "في الوقت الحالي، نعم، هذا التفاح من مزرعة في منطقة الجبل.",
-        "context": "تربط الجملة بالوضع الحالي."
+        "en": "Yes, these grapes are from the mountain area.",
+        "ar": "نعم، هذا العنب من منطقة الجبل.",
+        "context": "تؤكد مصدر فاكهة أخرى من منطقة محددة."
       },
       {
         "id": 5,
-        "en": "Yes, these apples are from a farm in the mountain area, so that helps a lot.",
-        "ar": "نعم، هذا التفاح من مزرعة في منطقة الجبل، وهذا يساعد كثيرًا.",
-        "context": "تضيف نتيجة بسيطة على نفس المعنى."
+        "en": "These eggs are from a small farm.",
+        "ar": "هذا البيض من مزرعة صغيرة.",
+        "context": "توضح مصدر منتج غذائي في السوق."
       },
       {
         "id": 6,
-        "en": "Yes, these apples are from a farm in the mountain area in daily life.",
-        "ar": "نعم، هذا التفاح من مزرعة في منطقة الجبل في الحياة اليومية.",
-        "context": "تربط الجملة بمواقف الحياة اليومية."
+        "en": "The honey is from a farm outside the city.",
+        "ar": "العسل من مزرعة خارج المدينة.",
+        "context": "تصف مصدر العسل للزبون."
       },
       {
         "id": 7,
-        "en": "Yes, these apples are from a farm in the mountain area when it is necessary.",
-        "ar": "نعم، هذا التفاح من مزرعة في منطقة الجبل عندما يكون ذلك ضروريًا.",
-        "context": "تربط الجملة بشرط أو حاجة معينة."
+        "en": "Yes, these apples are fresh from the farm.",
+        "ar": "نعم، هذا التفاح طازج من المزرعة.",
+        "context": "تؤكد طزاجة التفاح ومصدره."
       },
       {
         "id": 8,
-        "en": "In this situation, Yes, these apples are from a farm in the mountain area.",
-        "ar": "في هذا الموقف، نعم، هذا التفاح من مزرعة في منطقة الجبل.",
-        "context": "تجعل الجملة جزءًا من موقف واضح."
+        "en": "These tomatoes are from a farm in the north.",
+        "ar": "هذه الطماطم من مزرعة في الشمال.",
+        "context": "توضح مصدر منتج زراعي."
       },
       {
         "id": 9,
-        "en": "Yes, these apples are from a farm in the mountain area, and everyone notices that.",
-        "ar": "نعم، هذا التفاح من مزرعة في منطقة الجبل، والجميع يلاحظ ذلك.",
-        "context": "تضيف ملاحظة أو نتيجة بعد الجملة."
+        "en": "The apples are from a farm in this area.",
+        "ar": "التفاح من مزرعة في هذه المنطقة.",
+        "context": "تذكر أن المنتج محلي أو قريب."
       },
       {
         "id": 10,
-        "en": "Yes, these apples are from a farm in the mountain area most of the time.",
-        "ar": "نعم، هذا التفاح من مزرعة في منطقة الجبل معظم الوقت.",
-        "context": "تضيف عبارة تكرار شائعة."
+        "en": "Yes, these pears are from a mountain farm.",
+        "ar": "نعم، هذا الكمثرى من مزرعة جبلية.",
+        "context": "تصف فاكهة جاءت من مزرعة في منطقة مرتفعة."
       }
     ]
   }

@@ -10,107 +10,127 @@
     "wordMeanings": [
       {
         "term": "Great",
-        "description": "صفة تعني رائع."
+        "description": "كلمة تعبر عن الرضا أو الحماس."
       },
       {
         "term": "I",
-        "description": "ضمير المتكلم."
+        "description": "ضمير المتكلم المفرد."
       },
       {
         "term": "would",
-        "description": "فعل modal يُستعمل للطلب المؤدب أو الرغبة أو الفرضية."
+        "description": "تجعل الطلب أو الرغبة ألطف وأكثر تهذيبًا."
       },
       {
         "term": "like",
-        "description": "فعل يدل على الإعجاب أو الميل."
+        "description": "تعني أرغب في هذا السياق."
       },
       {
         "term": "to",
-        "description": "أداة تأتي قبل المصدر بعد أفعال مثل want."
+        "description": "تأتي قبل الفعل لتكوين معنى الرغبة في فعل شيء."
       },
       {
         "term": "add",
-        "description": "فعل يعني أضيف."
+        "description": "تعني أضيف أو أضع شيئًا ضمن قائمة."
       },
       {
         "term": "my",
-        "description": "صفة ملكية تعني خاصتي."
+        "description": "صفة ملكية تعني الخاص بي."
       },
       {
         "term": "name",
-        "description": "اسم يعني اسم."
+        "description": "الاسم الشخصي."
+      },
+      {
+        "term": "to",
+        "description": "حرف يوضح الاتجاه نحو القائمة أو الإضافة إليها."
       },
       {
         "term": "the",
-        "description": "أداة تعريف تشير إلى شيء معروف أو محدد."
+        "description": "أداة تعريف لقائمة معروفة من السياق."
       },
       {
         "term": "list",
-        "description": "اسم يعني القائمة."
+        "description": "قائمة أسماء أو مشاركين."
       }
     ],
-    "tense": null,
-    "tenseReason": "تتضمن الجملة فعلًا modal يعبّر عن القدرة أو الإمكانية أو الرغبة، لذلك لا نضع لها هنا زمنًا فعليًا مستقلًا على الرغم من وجود معنى زمني عام في السياق.",
+    "grammarExplanations": [
+      {
+        "sentence": "Great!",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه كلمة تعبير عن الرضا والحماس وليست جملة فعلية لها زمن مستقل."
+        }
+      },
+      {
+        "sentence": "I would like to add my name to the list.",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذا تركيب مهذب للتعبير عن الرغبة في التسجيل، ويعتمد على would لتلطيف الطلب لا على زمن مستقل واضح."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "People often say, \"Great! I would like to add my name to the list\" in situations like this.",
-        "ar": "يقول الناس كثيرًا: \"رائع! أود أن أُضيف اسمي إلى القائمة\" في مواقف كهذه.",
-        "context": "تستخدم الجملة بوصفها تركيبًا شائعًا في موقف مشابه."
+        "en": "Great! I would like to join the class.",
+        "ar": "رائع! أود الانضمام إلى الحصة.",
+        "context": "تقولها عندما تقرر المشاركة."
       },
       {
         "id": 2,
-        "en": "You can say, \"Great! I would like to add my name to the list\" when this happens.",
-        "ar": "يمكنك أن تقول: \"رائع! أود أن أُضيف اسمي إلى القائمة\" عندما يحدث هذا.",
-        "context": "توضح أن الجملة مناسبة في موقف متكرر."
+        "en": "I would like to add my email to the list.",
+        "ar": "أود إضافة بريدي الإلكتروني إلى القائمة.",
+        "context": "تطلب إدخال بريدك للتواصل."
       },
       {
         "id": 3,
-        "en": "I heard someone say, \"Great! I would like to add my name to the list\".",
-        "ar": "سمعت شخصًا يقول: \"رائع! أود أن أُضيف اسمي إلى القائمة\".",
-        "context": "تجعل الجملة جزءًا من كلام سمعته من شخص آخر."
+        "en": "I would like to register for tomorrow.",
+        "ar": "أود التسجيل ليوم غد.",
+        "context": "تطلب حجز موعد قادم."
       },
       {
         "id": 4,
-        "en": "The teacher used the sentence, \"Great! I would like to add my name to the list\" in class.",
-        "ar": "استخدم المعلم الجملة: \"رائع! أود أن أُضيف اسمي إلى القائمة\" في الصف.",
-        "context": "تستخدم الجملة مثالًا تعليميًا في الصف."
+        "en": "Great! I would like to start today.",
+        "ar": "رائع! أود أن أبدأ اليوم.",
+        "context": "تعبر عن حماسك للبداية فورًا."
       },
       {
         "id": 5,
-        "en": "Many learners remember the sentence, \"Great! I would like to add my name to the list\" first.",
-        "ar": "يتذكر كثير من المتعلمين الجملة: \"رائع! أود أن أُضيف اسمي إلى القائمة\" أولًا.",
-        "context": "تقدم الجملة بوصفها جملة تعليمية أساسية."
+        "en": "I would like to add my brother to the list.",
+        "ar": "أود إضافة أخي إلى القائمة.",
+        "context": "تطلب تسجيل شخص آخر."
       },
       {
         "id": 6,
-        "en": "She said, \"Great! I would like to add my name to the list\" in a calm way.",
-        "ar": "قالت: \"رائع! أود أن أُضيف اسمي إلى القائمة\" بطريقة هادئة.",
-        "context": "تجعل الجملة جزءًا من كلام مباشر في موقف عادي."
+        "en": "I would like to try the beginner class.",
+        "ar": "أود تجربة حصة المبتدئين.",
+        "context": "تختار مستوى مناسبًا لك."
       },
       {
         "id": 7,
-        "en": "He repeated, \"Great! I would like to add my name to the list\" more than once.",
-        "ar": "ردد: \"رائع! أود أن أُضيف اسمي إلى القائمة\" أكثر من مرة.",
-        "context": "تضيف معنى التكرار لنفس الجملة."
+        "en": "Great! Please add my name.",
+        "ar": "رائع! من فضلك أضف اسمي.",
+        "context": "تطلب التسجيل بطريقة مباشرة."
       },
       {
         "id": 8,
-        "en": "At the right moment, someone might say, \"Great! I would like to add my name to the list\".",
-        "ar": "في اللحظة المناسبة، قد يقول شخص ما: \"رائع! أود أن أُضيف اسمي إلى القائمة\".",
-        "context": "توضح أن الجملة مرتبطة بتوقيت مناسب في السياق."
+        "en": "I would like to be on the waiting list.",
+        "ar": "أود أن أكون على قائمة الانتظار.",
+        "context": "تقبل الانتظار إذا كانت الأماكن ممتلئة."
       },
       {
         "id": 9,
-        "en": "I wrote down the sentence, \"Great! I would like to add my name to the list\" so I would remember it.",
-        "ar": "كتبت الجملة: \"رائع! أود أن أُضيف اسمي إلى القائمة\" حتى أتذكرها.",
-        "context": "تعطي مثالًا على حفظ الجملة أو مراجعتها."
+        "en": "I would like to add my phone number.",
+        "ar": "أود إضافة رقم هاتفي.",
+        "context": "تقدم معلومة للتسجيل."
       },
       {
         "id": 10,
-        "en": "It is useful to know when to say, \"Great! I would like to add my name to the list\".",
-        "ar": "من المفيد أن تعرف متى تقول: \"رائع! أود أن أُضيف اسمي إلى القائمة\".",
-        "context": "تركز على معرفة الوقت المناسب لاستخدام الجملة."
+        "en": "Great! I would like to come this week.",
+        "ar": "رائع! أود الحضور هذا الأسبوع.",
+        "context": "تحدد وقت المشاركة المتوقع."
       }
     ]
   }

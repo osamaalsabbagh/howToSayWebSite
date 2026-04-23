@@ -10,88 +10,95 @@
     "wordMeanings": [
       {
         "term": "It",
-        "description": "ضمير يعود على الشيء أو الجملة التي قيلت."
+        "description": "يشير إلى المكان أو الشيء المقصود."
       },
       {
         "term": "is",
-        "description": "فعل be في الحاضر مع المفرد."
+        "description": "تربط المكان بوصف موقعه."
       },
       {
         "term": "near",
-        "description": "حرف جر أو ظرف يعني قريب من."
+        "description": "قريب من."
       },
       {
         "term": "the",
-        "description": "أداة تعريف تشير إلى شيء معروف أو محدد."
+        "description": "أداة تشير إلى مكان محدد يعرفه المتكلم والسامع."
       },
       {
         "term": "supermarket",
-        "description": "اسم يعني السوبرماركت."
+        "description": "السوبرماركت أو متجر كبير لشراء الطعام والحاجات."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "It is near the supermarket.",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "تستخدم الجملة فعل الربط في الحاضر لوصف موقع مكان بالنسبة إلى السوبرماركت."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "People often say, \"It is near the supermarket\" in situations like this.",
-        "ar": "يقول الناس كثيرًا: \"إنه قريب من السوبرماركت\" في مواقف كهذه.",
-        "context": "تستخدم الجملة بوصفها تركيبًا شائعًا في موقف مشابه."
+        "en": "It is near the supermarket.",
+        "ar": "إنه قريب من السوبرماركت.",
+        "context": "تقال عند تحديد موقع قريب من السوبرماركت."
       },
       {
         "id": 2,
-        "en": "You can say, \"It is near the supermarket\" when this happens.",
-        "ar": "يمكنك أن تقول: \"إنه قريب من السوبرماركت\" عندما يحدث هذا.",
-        "context": "توضح أن الجملة مناسبة في موقف متكرر."
+        "en": "The hotel is near the supermarket.",
+        "ar": "الفندق قريب من السوبرماركت.",
+        "context": "تقال عند وصف موقع فندق."
       },
       {
         "id": 3,
-        "en": "I heard someone say, \"It is near the supermarket\".",
-        "ar": "سمعت شخصًا يقول: \"إنه قريب من السوبرماركت\".",
-        "context": "تجعل الجملة جزءًا من كلام سمعته من شخص آخر."
+        "en": "My house is near the supermarket.",
+        "ar": "بيتي قريب من السوبرماركت.",
+        "context": "تقال عند وصف مكان السكن."
       },
       {
         "id": 4,
-        "en": "The teacher used the sentence, \"It is near the supermarket\" in class.",
-        "ar": "استخدم المعلم الجملة: \"إنه قريب من السوبرماركت\" في الصف.",
-        "context": "تستخدم الجملة مثالًا تعليميًا في الصف."
+        "en": "Is the bank near the supermarket?",
+        "ar": "هل البنك قريب من السوبرماركت؟",
+        "context": "تستخدم للسؤال عن موقع البنك."
       },
       {
         "id": 5,
-        "en": "Many learners remember the sentence, \"It is near the supermarket\" first.",
-        "ar": "يتذكر كثير من المتعلمين الجملة: \"إنه قريب من السوبرماركت\" أولًا.",
-        "context": "تقدم الجملة بوصفها جملة تعليمية أساسية."
+        "en": "The bus stop is near the supermarket.",
+        "ar": "محطة الحافلات قريبة من السوبرماركت.",
+        "context": "تقال عند إرشاد شخص إلى محطة."
       },
       {
         "id": 6,
-        "en": "She said, \"It is near the supermarket\" in a calm way.",
-        "ar": "قالت: \"إنه قريب من السوبرماركت\" بطريقة هادئة.",
-        "context": "تجعل الجملة جزءًا من كلام مباشر في موقف عادي."
+        "en": "It is very near the supermarket.",
+        "ar": "إنه قريب جدًا من السوبرماركت.",
+        "context": "تقال للتأكيد على قرب المكان."
       },
       {
         "id": 7,
-        "en": "He repeated, \"It is near the supermarket\" more than once.",
-        "ar": "ردد: \"إنه قريب من السوبرماركت\" أكثر من مرة.",
-        "context": "تضيف معنى التكرار لنفس الجملة."
+        "en": "The cafe is across from the supermarket.",
+        "ar": "المقهى مقابل السوبرماركت.",
+        "context": "تقال عند وصف موقع قريب بطريقة مختلفة."
       },
       {
         "id": 8,
-        "en": "At the right moment, someone might say, \"It is near the supermarket\".",
-        "ar": "في اللحظة المناسبة، قد يقول شخص ما: \"إنه قريب من السوبرماركت\".",
-        "context": "توضح أن الجملة مرتبطة بتوقيت مناسب في السياق."
+        "en": "It is not far from the supermarket.",
+        "ar": "إنه ليس بعيدًا عن السوبرماركت.",
+        "context": "تقال للتعبير عن القرب بصيغة نفي البعد."
       },
       {
         "id": 9,
-        "en": "I wrote down the sentence, \"It is near the supermarket\" so I would remember it.",
-        "ar": "كتبت الجملة: \"إنه قريب من السوبرماركت\" حتى أتذكرها.",
-        "context": "تعطي مثالًا على حفظ الجملة أو مراجعتها."
+        "en": "The pharmacy is near the supermarket.",
+        "ar": "الصيدلية قريبة من السوبرماركت.",
+        "context": "تقال عند تحديد موقع الصيدلية."
       },
       {
         "id": 10,
-        "en": "It is useful to know when to say, \"It is near the supermarket\".",
-        "ar": "من المفيد أن تعرف متى تقول: \"إنه قريب من السوبرماركت\".",
-        "context": "تركز على معرفة الوقت المناسب لاستخدام الجملة."
+        "en": "There is a parking lot near the supermarket.",
+        "ar": "يوجد موقف سيارات قرب السوبرماركت.",
+        "context": "تقال عند ذكر مكان مفيد بجانب السوبرماركت."
       }
     ]
   }

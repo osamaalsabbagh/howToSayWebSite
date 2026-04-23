@@ -10,31 +10,31 @@
     "wordMeanings": [
       {
         "term": "Alright",
-        "description": "كلمة ترتبط بمعنى تمام."
+        "description": "كلمة انتقال أو موافقة تعني حسنًا."
       },
       {
         "term": "let",
-        "description": "فعل يُستعمل للسماح أو في تركيب let me / let us لاقتراح أو طلب شيء."
+        "description": "تأتي هنا لاقتراح فعل مشترك."
       },
       {
         "term": "us",
-        "description": "ضمير مفعول به يعود على المتكلمين."
+        "description": "ضمير يشمل المتكلم والمخاطب، ومع let us تعني دعنا."
       },
       {
         "term": "go",
-        "description": "فعل يعني يذهب أو ينتقل من مكان إلى آخر."
+        "description": "تعني نذهب أو نتحرك إلى مكان."
       },
       {
         "term": "see",
-        "description": "فعل يعني يرى."
+        "description": "تعني نرى أو نعاين."
       },
       {
         "term": "it",
-        "description": "ضمير يعود على الشيء أو الجملة التي قيلت."
+        "description": "ضمير يعود على الشقة."
       },
       {
         "term": "now",
-        "description": "ظرف زمان يعني الآن."
+        "description": "الآن، في هذه اللحظة."
       },
       {
         "term": "If",
@@ -42,107 +42,135 @@
       },
       {
         "term": "you",
-        "description": "الضمير الذي يعود على الشخص المخاطَب."
+        "description": "ضمير المخاطب."
       },
       {
         "term": "like",
-        "description": "فعل يدل على الإعجاب أو الميل."
+        "description": "تعني يعجبك أو تفضله."
+      },
+      {
+        "term": "it",
+        "description": "ضمير يعود على الشقة."
       },
       {
         "term": "I",
-        "description": "ضمير المتكلم."
+        "description": "ضمير المتكلم المفرد."
       },
       {
         "term": "can",
-        "description": "فعل مساعد يدل هنا على القدرة أو الاستعداد لتلبية الطلب."
+        "description": "يدل على القدرة أو الإمكانية."
       },
       {
         "term": "reserve",
-        "description": "فعل يعني حجزها."
+        "description": "تعني أحجز أو أخصص."
+      },
+      {
+        "term": "it",
+        "description": "ضمير يعود على الشقة."
       },
       {
         "term": "for",
-        "description": "حرف جر يعني لـ أو من أجل."
+        "description": "تعني لصالح أو من أجل."
+      },
+      {
+        "term": "you",
+        "description": "ضمير المخاطب."
       },
       {
         "term": "before",
-        "description": "ظرف أو حرف جر يعني قبل."
+        "description": "تعني قبل حدوث شيء آخر."
       },
       {
         "term": "anyone",
-        "description": "اسم يعني عنها."
+        "description": "أي شخص."
       },
       {
         "term": "else",
-        "description": "كلمة تعني غير ذلك أو آخر."
+        "description": "تعني آخر أو غيرك."
       },
       {
         "term": "asks",
-        "description": "اسم يعني شخص."
+        "description": "تعني يسأل أو يطلب معلومات."
       }
     ],
-    "tense": null,
-    "tenseReason": "تتضمن الجملة فعلًا modal يعبّر عن القدرة أو الإمكانية أو الرغبة، لذلك لا نضع لها هنا زمنًا فعليًا مستقلًا على الرغم من وجود معنى زمني عام في السياق.",
+    "grammarExplanations": [
+      {
+        "sentence": "Alright, let us go see it now.",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه صيغة اقتراح مباشر لفعل مشترك الآن، وليست جملة زمنية مستقلة."
+        }
+      },
+      {
+        "sentence": "If you like it, I can reserve it for you before anyone else asks.",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذا تركيب شرط مع can للتعبير عن إمكانية الحجز إذا تحقق الشرط، لذلك يشرح كتركيب وظيفي لا كزمن مستقل واحد."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "People often say, \"Alright, let us go see it now. If you like it, I can reserve it for you before anyone else asks\" in situations like this.",
-        "ar": "يقول الناس كثيرًا: \"تمام، دعنا نذهب لرؤيتها الآن. إذا أعجبتك، يمكنني حجزها لك قبل أن يسأل عنها أي شخص آخر\" في مواقف كهذه.",
-        "context": "تستخدم الجملة بوصفها تركيبًا شائعًا في موقف مشابه."
+        "en": "Alright, let us see the apartment now.",
+        "ar": "حسنًا، دعنا نرى الشقة الآن.",
+        "context": "تبدأ المعاينة فورًا."
       },
       {
         "id": 2,
-        "en": "You can say, \"Alright, let us go see it now. If you like it, I can reserve it for you before anyone else asks\" when this happens.",
-        "ar": "يمكنك أن تقول: \"تمام، دعنا نذهب لرؤيتها الآن. إذا أعجبتك، يمكنني حجزها لك قبل أن يسأل عنها أي شخص آخر\" عندما يحدث هذا.",
-        "context": "توضح أن الجملة مناسبة في موقف متكرر."
+        "en": "If you like it, I can reserve it today.",
+        "ar": "إذا أعجبتك، يمكنني حجزها اليوم.",
+        "context": "تعرض حجزًا مشروطًا بالقبول."
       },
       {
         "id": 3,
-        "en": "I heard someone say, \"Alright, let us go see it now. If you like it, I can reserve it for you before anyone else asks\".",
-        "ar": "سمعت شخصًا يقول: \"تمام، دعنا نذهب لرؤيتها الآن. إذا أعجبتك، يمكنني حجزها لك قبل أن يسأل عنها أي شخص آخر\".",
-        "context": "تجعل الجملة جزءًا من كلام سمعته من شخص آخر."
+        "en": "Let us go see the kitchen first.",
+        "ar": "دعنا نذهب لرؤية المطبخ أولًا.",
+        "context": "تقترح بداية المعاينة بجزء معين."
       },
       {
         "id": 4,
-        "en": "The teacher used the sentence, \"Alright, let us go see it now. If you like it, I can reserve it for you before anyone else asks\" in class.",
-        "ar": "استخدم المعلم الجملة: \"تمام، دعنا نذهب لرؤيتها الآن. إذا أعجبتك، يمكنني حجزها لك قبل أن يسأل عنها أي شخص آخر\" في الصف.",
-        "context": "تستخدم الجملة مثالًا تعليميًا في الصف."
+        "en": "I can reserve the room for you.",
+        "ar": "يمكنني حجز الغرفة لك.",
+        "context": "تعرض مساعدة في الحجز."
       },
       {
         "id": 5,
-        "en": "Many learners remember the sentence, \"Alright, let us go see it now. If you like it, I can reserve it for you before anyone else asks\" first.",
-        "ar": "يتذكر كثير من المتعلمين الجملة: \"تمام، دعنا نذهب لرؤيتها الآن. إذا أعجبتك، يمكنني حجزها لك قبل أن يسأل عنها أي شخص آخر\" أولًا.",
-        "context": "تقدم الجملة بوصفها جملة تعليمية أساسية."
+        "en": "If you like the balcony, we can continue.",
+        "ar": "إذا أعجبتك الشرفة، يمكننا المتابعة.",
+        "context": "تربط الخطوة التالية برضا الزبون."
       },
       {
         "id": 6,
-        "en": "She said, \"Alright, let us go see it now. If you like it, I can reserve it for you before anyone else asks\" in a calm way.",
-        "ar": "قالت: \"تمام، دعنا نذهب لرؤيتها الآن. إذا أعجبتك، يمكنني حجزها لك قبل أن يسأل عنها أي شخص آخر\" بطريقة هادئة.",
-        "context": "تجعل الجملة جزءًا من كلام مباشر في موقف عادي."
+        "en": "Let us go upstairs now.",
+        "ar": "دعنا نصعد إلى الأعلى الآن.",
+        "context": "توجه شخصًا أثناء المعاينة."
       },
       {
         "id": 7,
-        "en": "He repeated, \"Alright, let us go see it now. If you like it, I can reserve it for you before anyone else asks\" more than once.",
-        "ar": "ردد: \"تمام، دعنا نذهب لرؤيتها الآن. إذا أعجبتك، يمكنني حجزها لك قبل أن يسأل عنها أي شخص آخر\" أكثر من مرة.",
-        "context": "تضيف معنى التكرار لنفس الجملة."
+        "en": "I can reserve it before another customer calls.",
+        "ar": "يمكنني حجزها قبل أن يتصل زبون آخر.",
+        "context": "توضح أهمية السرعة في الحجز."
       },
       {
         "id": 8,
-        "en": "At the right moment, someone might say, \"Alright, let us go see it now. If you like it, I can reserve it for you before anyone else asks\".",
-        "ar": "في اللحظة المناسبة، قد يقول شخص ما: \"تمام، دعنا نذهب لرؤيتها الآن. إذا أعجبتك، يمكنني حجزها لك قبل أن يسأل عنها أي شخص آخر\".",
-        "context": "توضح أن الجملة مرتبطة بتوقيت مناسب في السياق."
+        "en": "If you like it, we can sign the papers.",
+        "ar": "إذا أعجبتك، يمكننا توقيع الأوراق.",
+        "context": "تشرح خطوة بعد المعاينة."
       },
       {
         "id": 9,
-        "en": "I wrote down the sentence, \"Alright, let us go see it now. If you like it, I can reserve it for you before anyone else asks\" so I would remember it.",
-        "ar": "كتبت الجملة: \"تمام، دعنا نذهب لرؤيتها الآن. إذا أعجبتك، يمكنني حجزها لك قبل أن يسأل عنها أي شخص آخر\" حتى أتذكرها.",
-        "context": "تعطي مثالًا على حفظ الجملة أو مراجعتها."
+        "en": "Alright, let us check the bedroom.",
+        "ar": "حسنًا، دعنا نفحص غرفة النوم.",
+        "context": "تنتقل إلى جزء آخر من الشقة."
       },
       {
         "id": 10,
-        "en": "It is useful to know when to say, \"Alright, let us go see it now. If you like it, I can reserve it for you before anyone else asks\".",
-        "ar": "من المفيد أن تعرف متى تقول: \"تمام، دعنا نذهب لرؤيتها الآن. إذا أعجبتك، يمكنني حجزها لك قبل أن يسأل عنها أي شخص آخر\".",
-        "context": "تركز على معرفة الوقت المناسب لاستخدام الجملة."
+        "en": "I can show it before anyone else arrives.",
+        "ar": "يمكنني أن أريك إياها قبل أن يصل أي شخص آخر.",
+        "context": "تعطي الزبون أولوية في المعاينة."
       }
     ]
   }

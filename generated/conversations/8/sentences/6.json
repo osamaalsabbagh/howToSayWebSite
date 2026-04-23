@@ -10,112 +10,119 @@
     "wordMeanings": [
       {
         "term": "Yes",
-        "description": "جواب مباشر يفيد الموافقة أو التأكيد أو الإقرار بصحة شيء."
+        "description": "كلمة تأكيد أو موافقة."
       },
       {
         "term": "and",
-        "description": "حرف عطف يربط بين كلمتين أو جملتين."
+        "description": "حرف عطف يضيف معلومة جديدة."
       },
       {
         "term": "he",
-        "description": "الضمير الذي يعود على شخص مفرد مذكر."
+        "description": "ضمير يعود على الطفل."
       },
       {
         "term": "even",
-        "description": "حال أو ظرف يعني يحب."
+        "description": "تستخدم للتأكيد وإظهار أن المعلومة لطيفة أو مفاجئة."
       },
       {
         "term": "likes",
-        "description": "فعل like في المضارع البسيط مع he، لذلك نضيف s."
+        "description": "تعني يحب أو يستمتع."
       },
       {
         "term": "riding",
-        "description": "فعل يعني الركوب."
+        "description": "الركوب أو الجلوس على شيء يتحرك أو يُحمل."
       },
       {
         "term": "on",
-        "description": "حرف جر يعني على أو في يوم محدد حسب السياق."
+        "description": "تعني على سطح أو فوق شيء."
       },
       {
         "term": "his",
-        "description": "صفة ملكية تعني خاص به."
+        "description": "صفة ملكية تعني الخاص به."
       },
       {
         "term": "father's",
-        "description": "اسم يعني والده."
+        "description": "تعني الخاص بوالده."
       },
       {
         "term": "back",
-        "description": "اسم أو ظرف أو صفة يعني ظهر/خلف/عودة حسب السياق."
+        "description": "ظهر الإنسان."
       },
       {
         "term": "now",
-        "description": "ظرف زمان يعني الآن."
+        "description": "الآن، في هذه الفترة الحالية."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "Yes, and he even likes riding on his father's back now.",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُعمل المضارع البسيط لوصف شيء يحبه الطفل في الفترة الحالية."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "In general, Yes, and he even likes riding on his father's back now.",
-        "ar": "بشكل عام، نعم، وهو حتى يحب الركوب على ظهر والده الآن.",
-        "context": "تضيف عبارة عامة تحافظ على نفس المعنى الأساسي."
+        "en": "He likes riding on his father’s back.",
+        "ar": "هو يحب الركوب على ظهر والده.",
+        "context": "تصف لعبة يحبها طفل."
       },
       {
         "id": 2,
-        "en": "Usually, Yes, and he even likes riding on his father's back now.",
-        "ar": "عادةً، نعم، وهو حتى يحب الركوب على ظهر والده الآن.",
-        "context": "تضيف ظرفًا يدل على التكرار أو العادة."
+        "en": "He even likes walking by himself now.",
+        "ar": "هو حتى يحب المشي وحده الآن.",
+        "context": "تذكر تطورًا جديدًا عند الطفل."
       },
       {
         "id": 3,
-        "en": "Sometimes, Yes, and he even likes riding on his father's back now.",
-        "ar": "أحيانًا، نعم، وهو حتى يحب الركوب على ظهر والده الآن.",
-        "context": "تضع الجملة في سياق أقل تكرارًا."
+        "en": "She likes sitting on her mother’s lap.",
+        "ar": "هي تحب الجلوس على حضن أمها.",
+        "context": "تصف عادة طفل مع أحد والديه."
       },
       {
         "id": 4,
-        "en": "For now, Yes, and he even likes riding on his father's back now.",
-        "ar": "في الوقت الحالي، نعم، وهو حتى يحب الركوب على ظهر والده الآن.",
-        "context": "تربط الجملة بالوضع الحالي."
+        "en": "He likes playing with his toy car now.",
+        "ar": "هو يحب اللعب بسيارته الصغيرة الآن.",
+        "context": "تذكر نشاطًا مفضلًا حاليًا."
       },
       {
         "id": 5,
-        "en": "Yes, and he even likes riding on his father's back now, so that helps a lot.",
-        "ar": "نعم، وهو حتى يحب الركوب على ظهر والده الآن، وهذا يساعد كثيرًا.",
-        "context": "تضيف نتيجة بسيطة على نفس المعنى."
+        "en": "Yes, and he even smiles at strangers now.",
+        "ar": "نعم، وهو حتى يبتسم للغرباء الآن.",
+        "context": "تصف تغيرًا اجتماعيًا عند الطفل."
       },
       {
         "id": 6,
-        "en": "Yes, and he even likes riding on his father's back now in daily life.",
-        "ar": "نعم، وهو حتى يحب الركوب على ظهر والده الآن في الحياة اليومية.",
-        "context": "تربط الجملة بمواقف الحياة اليومية."
+        "en": "He likes riding in the stroller.",
+        "ar": "هو يحب الركوب في عربة الأطفال.",
+        "context": "تصف وسيلة تنقل يحبها الطفل."
       },
       {
         "id": 7,
-        "en": "Yes, and he even likes riding on his father's back now when it is necessary.",
-        "ar": "نعم، وهو حتى يحب الركوب على ظهر والده الآن عندما يكون ذلك ضروريًا.",
-        "context": "تربط الجملة بشرط أو حاجة معينة."
+        "en": "He likes being on his father’s shoulders.",
+        "ar": "هو يحب أن يكون على كتفي والده.",
+        "context": "تصف لعبة عائلية."
       },
       {
         "id": 8,
-        "en": "In this situation, Yes, and he even likes riding on his father's back now.",
-        "ar": "في هذا الموقف، نعم، وهو حتى يحب الركوب على ظهر والده الآن.",
-        "context": "تجعل الجملة جزءًا من موقف واضح."
+        "en": "He even likes dinner with everyone now.",
+        "ar": "هو حتى يحب العشاء مع الجميع الآن.",
+        "context": "تذكر عادة عائلية جديدة."
       },
       {
         "id": 9,
-        "en": "Yes, and he even likes riding on his father's back now, and everyone notices that.",
-        "ar": "نعم، وهو حتى يحب الركوب على ظهر والده الآن، والجميع يلاحظ ذلك.",
-        "context": "تضيف ملاحظة أو نتيجة بعد الجملة."
+        "en": "He likes riding on the small train.",
+        "ar": "هو يحب الركوب في القطار الصغير.",
+        "context": "تصف نشاطًا في حديقة أو مركز."
       },
       {
         "id": 10,
-        "en": "Yes, and he even likes riding on his father's back now most of the time.",
-        "ar": "نعم، وهو حتى يحب الركوب على ظهر والده الآن معظم الوقت.",
-        "context": "تضيف عبارة تكرار شائعة."
+        "en": "Yes, and he likes saying hello now.",
+        "ar": "نعم، وهو يحب قول مرحبًا الآن.",
+        "context": "تصف سلوكًا جديدًا عند الطفل."
       }
     ]
   }

@@ -10,100 +10,115 @@
     "wordMeanings": [
       {
         "term": "Good",
-        "description": "صفة تعني جيد أو مريح أو مناسب هنا."
+        "description": "جزء من تحية مهذبة في بداية اليوم."
       },
       {
         "term": "morning",
-        "description": "اسم يعني الصباح."
+        "description": "الصباح، وتكمل عبارة التحية."
       },
       {
         "term": "Do",
-        "description": "فعل مساعد يُستعمل لتكوين النفي والسؤال في المضارع البسيط."
+        "description": "فعل مساعد يبدأ سؤالًا في المضارع البسيط."
       },
       {
         "term": "you",
-        "description": "الضمير الذي يعود على الشخص المخاطَب."
+        "description": "ضمير المخاطب، ويشير إلى البائع."
       },
       {
         "term": "have",
-        "description": "فعل يعني يملك، ويأتي أيضًا كفعل مساعد."
+        "description": "تعني لديك أو تبيع في هذا السياق."
       },
       {
         "term": "fresh",
-        "description": "صفة تعني لديك."
+        "description": "طازج أو جديد وغير قديم."
       },
       {
         "term": "apples",
-        "description": "اسم يعني تفاح."
+        "description": "تفاح، بصيغة الجمع."
       },
       {
         "term": "today",
-        "description": "ظرف زمان يعني اليوم."
+        "description": "هذا اليوم."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "Good morning!",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه تحية صباحية وليست جملة فعلية لها زمن مستقل."
+        }
+      },
+      {
+        "sentence": "Do you have fresh apples today?",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُعمل المضارع البسيط للسؤال عن توفر التفاح الطازج عند البائع اليوم."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "You can ask, \"Good morning! Do you have fresh apples today?\" when you need information.",
-        "ar": "يمكنك أن تسأل: \"صباح الخير! هل لديك تفاح طازج اليوم؟\" عندما تحتاج إلى معلومة.",
-        "context": "تستعمل الجملة كسؤال مباشر للحصول على معلومة."
+        "en": "Do you have fresh oranges today?",
+        "ar": "هل لديك برتقال طازج اليوم؟",
+        "context": "تسأل بائعًا عن فاكهة متوفرة."
       },
       {
         "id": 2,
-        "en": "Many people ask, \"Good morning! Do you have fresh apples today?\" in this situation.",
-        "ar": "يسأل كثير من الناس: \"صباح الخير! هل لديك تفاح طازج اليوم؟\" في هذا الموقف.",
-        "context": "توضح أن هذا سؤال شائع في موقف مشابه."
+        "en": "Good morning! Do you have fresh bread?",
+        "ar": "صباح الخير! هل لديك خبز طازج؟",
+        "context": "تسأل في مخبز أو سوق."
       },
       {
         "id": 3,
-        "en": "I asked, \"Good morning! Do you have fresh apples today?\" because I was not sure.",
-        "ar": "سألت: \"صباح الخير! هل لديك تفاح طازج اليوم؟\" لأنني لم أكن متأكدًا.",
-        "context": "تضيف سببًا لطرح السؤال."
+        "en": "Do you have red apples today?",
+        "ar": "هل لديك تفاح أحمر اليوم؟",
+        "context": "تسأل عن نوع محدد من التفاح."
       },
       {
         "id": 4,
-        "en": "She asked politely, \"Good morning! Do you have fresh apples today?\"",
-        "ar": "سألت بأدب: \"صباح الخير! هل لديك تفاح طازج اليوم؟\".",
-        "context": "تبين أن السؤال قيل بطريقة مهذبة."
+        "en": "Do you have fresh fruit this morning?",
+        "ar": "هل لديك فاكهة طازجة هذا الصباح؟",
+        "context": "تسأل عن الفاكهة بشكل عام."
       },
       {
         "id": 5,
-        "en": "At work, someone may ask, \"Good morning! Do you have fresh apples today?\"",
-        "ar": "في العمل، قد يسأل شخص ما: \"صباح الخير! هل لديك تفاح طازج اليوم؟\".",
-        "context": "تضع السؤال في سياق مهني أو عملي."
+        "en": "Good morning! Are these apples fresh?",
+        "ar": "صباح الخير! هل هذا التفاح طازج؟",
+        "context": "تسأل عن جودة التفاح الموجود."
       },
       {
         "id": 6,
-        "en": "Before deciding, ask: \"Good morning! Do you have fresh apples today?\"",
-        "ar": "قبل أن تقرر، اسأل: \"صباح الخير! هل لديك تفاح طازج اليوم؟\".",
-        "context": "تستخدم السؤال قبل اتخاذ قرار."
+        "en": "Do you have fresh apples for sale?",
+        "ar": "هل لديك تفاح طازج للبيع؟",
+        "context": "تسأل عن توفر الشراء."
       },
       {
         "id": 7,
-        "en": "The student asked, \"Good morning! Do you have fresh apples today?\" in class.",
-        "ar": "سأل الطالب: \"صباح الخير! هل لديك تفاح طازج اليوم؟\" في الصف.",
-        "context": "تجعل الجملة جزءًا من موقف تعليمي."
+        "en": "Do you have any green apples today?",
+        "ar": "هل لديك أي تفاح أخضر اليوم؟",
+        "context": "تسأل عن لون محدد."
       },
       {
         "id": 8,
-        "en": "While traveling, you can ask, \"Good morning! Do you have fresh apples today?\"",
-        "ar": "أثناء السفر، يمكنك أن تسأل: \"صباح الخير! هل لديك تفاح طازج اليوم؟\".",
-        "context": "تربط السؤال بموقف السفر أو التنقل."
+        "en": "Good morning! I need fresh apples.",
+        "ar": "صباح الخير! أحتاج إلى تفاح طازج.",
+        "context": "تبدأ طلبك مباشرة في السوق."
       },
       {
         "id": 9,
-        "en": "He asked me, \"Good morning! Do you have fresh apples today?\" again.",
-        "ar": "سألني: \"صباح الخير! هل لديك تفاح طازج اليوم؟\" مرة أخرى.",
-        "context": "تضيف معنى التكرار لنفس السؤال."
+        "en": "Do you have fresh vegetables today?",
+        "ar": "هل لديك خضروات طازجة اليوم؟",
+        "context": "تستخدم نفس السؤال مع الخضروات."
       },
       {
         "id": 10,
-        "en": "If you are not sure, ask: \"Good morning! Do you have fresh apples today?\"",
-        "ar": "إذا لم تكن متأكدًا، فاسأل: \"صباح الخير! هل لديك تفاح طازج اليوم؟\".",
-        "context": "توضح أن السؤال مناسب عند عدم التأكد."
+        "en": "Do you have apples from the local farm?",
+        "ar": "هل لديك تفاح من المزرعة المحلية؟",
+        "context": "تسأل عن مصدر التفاح."
       }
     ]
   }

@@ -10,84 +10,91 @@
     "wordMeanings": [
       {
         "term": "How",
-        "description": "أداة سؤال."
+        "description": "كلمة سؤال عن الحالة أو سير الأمر."
       },
       {
         "term": "is",
-        "description": "فعل be في الحاضر مع المفرد."
+        "description": "صيغة تأتي مع المفرد وتساعد هنا في السؤال عن شيء يحدث أو يتقدم الآن."
       },
       {
         "term": "work",
-        "description": "العمل."
+        "description": "العمل أو الوضع المهني."
       },
       {
         "term": "going",
-        "description": "هنا لا تعني يذهب حرفيًا، بل تُستعمل للسؤال عن سير الأمور وتطورها."
+        "description": "يسير أو يتقدم في هذا السياق."
       }
     ],
-    "tense": "المضارع المستمر",
-    "tenseEn": "Present Continuous",
-    "tenseReason": "استُعمل هذا التركيب للسؤال عن سير العمل وتطوره في الفترة الحالية، لا عن تعريف العمل نفسه أو حقيقته العامة.",
+    "grammarExplanations": [
+      {
+        "sentence": "How is work going?",
+        "explanation": {
+          "tense": "المضارع المستمر",
+          "tenseEn": "Present Continuous",
+          "reason": "تستخدم is مع الفعل المنتهي ب ing للسؤال عن سير العمل في الفترة الحالية، وليس عن حقيقة عامة فقط."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
         "en": "How is your project going?",
         "ar": "كيف يسير مشروعك؟",
-        "context": "تسأل عن تقدم مهمة أو عمل."
+        "context": "تقال للسؤال عن تقدم مشروع حالي."
       },
       {
         "id": 2,
-        "en": "How is work going this week?",
-        "ar": "كيف يسير العمل هذا الأسبوع؟",
-        "context": "تسأل عن الوضع الحالي في العمل."
+        "en": "How is school going?",
+        "ar": "كيف تسير المدرسة؟",
+        "context": "تقال للسؤال عن وضع شخص في الدراسة."
       },
       {
         "id": 3,
-        "en": "How is school going?",
-        "ar": "كيف تسير الدراسة؟",
-        "context": "تستخدم التركيب نفسه مع الدراسة أو غيرها."
+        "en": "How is the meeting going?",
+        "ar": "كيف يسير الاجتماع؟",
+        "context": "تقال أثناء أو بعد متابعة اجتماع جار."
       },
       {
         "id": 4,
-        "en": "How is everything going at work?",
-        "ar": "كيف تسير الأمور كلها في العمل؟",
-        "context": "توسع السؤال قليلًا."
+        "en": "How is the plan going?",
+        "ar": "كيف تسير الخطة؟",
+        "context": "تقال للسؤال عن تقدم تنفيذ خطة."
       },
       {
         "id": 5,
-        "en": "How is the new job going?",
-        "ar": "كيف تسير الوظيفة الجديدة؟",
-        "context": "تسأل عن تجربة حديثة في العمل."
+        "en": "How is your training going?",
+        "ar": "كيف يسير تدريبك؟",
+        "context": "تقال للسؤال عن تجربة تدريب حالية."
       },
       {
         "id": 6,
-        "en": "How is work going with the new manager?",
-        "ar": "كيف يسير العمل مع المدير الجديد؟",
-        "context": "تحدد جانبًا معينًا من العمل."
+        "en": "How is the new job going?",
+        "ar": "كيف يسير العمل الجديد؟",
+        "context": "تقال لمن بدأ وظيفة جديدة."
       },
       {
         "id": 7,
-        "en": "How is your training going?",
-        "ar": "كيف يسير تدريبك؟",
-        "context": "تستخدم النمط نفسه مع التدريب أو التعلم."
+        "en": "How is your week going?",
+        "ar": "كيف يسير أسبوعك؟",
+        "context": "تقال للسؤال عن أحوال الأسبوع الحالي."
       },
       {
         "id": 8,
-        "en": "How is work going for you lately?",
-        "ar": "كيف يسير العمل بالنسبة لك مؤخرًا؟",
-        "context": "تسأل عن الفترة الأخيرة."
+        "en": "How is the repair going?",
+        "ar": "كيف يسير الإصلاح؟",
+        "context": "تقال للسؤال عن تقدم عملية إصلاح."
       },
       {
         "id": 9,
-        "en": "How is the plan going so far?",
-        "ar": "كيف تسير الخطة حتى الآن؟",
-        "context": "تسأل عن التقدم المرحلي."
+        "en": "How are things going at work?",
+        "ar": "كيف تسير الأمور في العمل؟",
+        "context": "تقال للسؤال العام عن الوضع المهني."
       },
       {
         "id": 10,
-        "en": "How is work going now that the team is bigger?",
-        "ar": "كيف يسير العمل الآن بعدما أصبح الفريق أكبر؟",
-        "context": "تسأل عن الوضع بعد تغيير معين."
+        "en": "How is your business going?",
+        "ar": "كيف يسير عملك التجاري؟",
+        "context": "تقال للسؤال عن حالة مشروع أو تجارة."
       }
     ]
   }

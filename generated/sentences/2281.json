@@ -10,79 +10,87 @@
     "wordMeanings": [
       {
         "term": "Help",
-        "description": "فعل أمر يعني ساعد."
+        "description": "ساعد أو قدم دعمًا."
       },
       {
         "term": "me",
-        "description": "ضمير مفعول به يعني أنا/إياي."
+        "description": "ضمير يعود على المتكلم الذي يطلب المساعدة."
       },
       {
         "term": "please",
-        "description": "تضيف اللطف والتهذيب إلى الطلب."
+        "description": "كلمة تجعل الطلب ألطف وأكثر أدبًا."
       }
     ],
-    "tense": null,
-    "tenseReason": "استُعمل فعل الأمر لأن المتكلم يطلب المساعدة مباشرة. أضيفت please لتلطيف الطلب.",
+    "grammarExplanations": [
+      {
+        "sentence": "Help me, please.",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "الجملة طلب مباشر بصيغة الأمر مع please للتلطيف، ولا تُعامل كزمن مستقل."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "Help me, please. I cannot open the door.",
-        "ar": "ساعدني من فضلك. لا أستطيع فتح الباب.",
-        "context": "تطلب مساعدة فورية."
+        "en": "Help me, please.",
+        "ar": "ساعدني من فضلك.",
+        "context": "تقال عند طلب مساعدة مباشرة."
       },
       {
         "id": 2,
-        "en": "Help me, please. I am lost.",
-        "ar": "ساعدني من فضلك. أنا تائه.",
-        "context": "تطلب الإرشاد أو النجدة."
+        "en": "Please help me now.",
+        "ar": "من فضلك ساعدني الآن.",
+        "context": "تقال عند الحاجة إلى مساعدة عاجلة."
       },
       {
         "id": 3,
-        "en": "Help me, please. This box is too heavy.",
-        "ar": "ساعدني من فضلك. هذا الصندوق ثقيل جدًا.",
-        "context": "تطلب مساعدة جسدية."
+        "en": "Help me with this bag, please.",
+        "ar": "ساعدني في هذه الحقيبة من فضلك.",
+        "context": "تقال عند طلب حمل شيء."
       },
       {
         "id": 4,
-        "en": "Help me, please. I do not understand this.",
-        "ar": "ساعدني من فضلك. أنا لا أفهم هذا.",
-        "context": "تطلب توضيحًا أو شرحًا."
+        "en": "Please help me find my keys.",
+        "ar": "من فضلك ساعدني في العثور على مفاتيحي.",
+        "context": "تقال عند البحث عن شيء مفقود."
       },
       {
         "id": 5,
-        "en": "Help me, please. I need more time.",
-        "ar": "ساعدني من فضلك. أحتاج إلى مزيد من الوقت.",
-        "context": "تطلب دعمًا أو تعاونًا."
+        "en": "Help me understand this, please.",
+        "ar": "ساعدني في فهم هذا من فضلك.",
+        "context": "تقال عند طلب شرح."
       },
       {
         "id": 6,
-        "en": "Help me, please. I cannot find my phone.",
-        "ar": "ساعدني من فضلك. لا أستطيع أن أجد هاتفي.",
-        "context": "تطلب مساعدة في البحث."
+        "en": "Please help me open the door.",
+        "ar": "من فضلك ساعدني في فتح الباب.",
+        "context": "تقال عند الحاجة إلى مساعدة عملية."
       },
       {
         "id": 7,
-        "en": "Help me, please. I am carrying too much.",
-        "ar": "ساعدني من فضلك. أنا أحمل أشياء كثيرة جدًا.",
-        "context": "تطلب مساعدة بسبب الحمل أو التعب."
+        "en": "Help me write this message, please.",
+        "ar": "ساعدني في كتابة هذه الرسالة من فضلك.",
+        "context": "تقال عند طلب مساعدة في الكتابة."
       },
       {
         "id": 8,
-        "en": "Help me, please. I do not know what to do.",
-        "ar": "ساعدني من فضلك. أنا لا أعرف ماذا أفعل.",
-        "context": "تطلب توجيهًا أو قرارًا."
+        "en": "Please help me choose a seat.",
+        "ar": "من فضلك ساعدني في اختيار مقعد.",
+        "context": "تقال عند طلب رأي أو اختيار."
       },
       {
         "id": 9,
-        "en": "Help me, please. I am late already.",
-        "ar": "ساعدني من فضلك. لقد تأخرت بالفعل.",
-        "context": "تطلب دعمًا عاجلًا بسبب الوقت."
+        "en": "Help me call the doctor, please.",
+        "ar": "ساعدني في الاتصال بالطبيب من فضلك.",
+        "context": "تقال عند طلب مساعدة في اتصال مهم."
       },
       {
         "id": 10,
-        "en": "Help me, please. I want to finish this today.",
-        "ar": "ساعدني من فضلك. أريد أن أنهي هذا اليوم.",
-        "context": "تطلب مساهمة في إنجاز عمل."
+        "en": "Please help me read this word.",
+        "ar": "من فضلك ساعدني في قراءة هذه الكلمة.",
+        "context": "تقال في موقف تعلم أو قراءة."
       }
     ]
   }

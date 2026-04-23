@@ -10,75 +10,83 @@
     "wordMeanings": [
       {
         "term": "Happy",
-        "description": "صفة تعني سعيد."
+        "description": "سعيد أو مبهج، وتستخدم هنا للتمني بالفرح."
       },
       {
         "term": "Birthday",
-        "description": "اسم يعني عيد ميلاد."
+        "description": "يوم ميلاد الشخص أو ذكرى مولده."
       }
     ],
-    "tense": null,
-    "tenseReason": "استُعمل هذا التعبير لأنه عبارة ثابتة أو رد قصير يُستخدم في موقف محدد، وليس جملة فعلية كاملة بزمن واضح.",
+    "grammarExplanations": [
+      {
+        "sentence": "Happy Birthday.",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذا تعبير تهنئة ثابت بلا فعل ظاهر، لذلك لا يحمل زمنًا مستقلًا، ويستخدم لتمني الفرح في يوم الميلاد."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "In this situation, people often say, \"Happy Birthday\".",
-        "ar": "في هذا الموقف، يقول الناس كثيرًا: \"عيد ميلاد سعيد\".",
-        "context": "توضح أن العبارة مناسبة في هذا النوع من المواقف."
+        "en": "Happy Birthday.",
+        "ar": "عيد ميلاد سعيد.",
+        "context": "تقال عند تهنئة شخص بعيد ميلاده."
       },
       {
         "id": 2,
-        "en": "The teacher said, \"Happy Birthday\" to the students.",
-        "ar": "قال المعلم للطلاب: \"عيد ميلاد سعيد\".",
-        "context": "تستخدم الجملة كتعليمات أو توجيه مباشر."
+        "en": "Happy Birthday, Sara.",
+        "ar": "عيد ميلاد سعيد يا سارة.",
+        "context": "تقال عند تهنئة شخص باسمه."
       },
       {
         "id": 3,
-        "en": "He told me, \"Happy Birthday\" before we left.",
-        "ar": "قال لي: \"عيد ميلاد سعيد\" قبل أن نغادر.",
-        "context": "تضع العبارة قبل حدث آخر."
+        "en": "Happy Birthday to you.",
+        "ar": "عيد ميلاد سعيد لك.",
+        "context": "تقال في تهنئة مباشرة وودية."
       },
       {
         "id": 4,
-        "en": "She said, \"Happy Birthday\" in a polite way.",
-        "ar": "قالت: \"عيد ميلاد سعيد\" بطريقة مهذبة.",
-        "context": "تظهر أن العبارة يمكن أن تقال بلطف أو أدب."
+        "en": "I wish you a happy birthday.",
+        "ar": "أتمنى لك عيد ميلاد سعيدًا.",
+        "context": "تقال في رسالة تهنئة أكثر اكتمالًا."
       },
       {
         "id": 5,
-        "en": "Someone shouted, \"Happy Birthday\" when there was a problem.",
-        "ar": "صاح شخص ما: \"عيد ميلاد سعيد\" عندما ظهرت مشكلة.",
-        "context": "تربط العبارة بموقف سريع أو طارئ."
+        "en": "Have a happy birthday.",
+        "ar": "لتحظ بعيد ميلاد سعيد.",
+        "context": "تقال كتمن لطيف في يوم الميلاد."
       },
       {
         "id": 6,
-        "en": "You can say, \"Happy Birthday\" when you need a quick response.",
-        "ar": "يمكنك أن تقول: \"عيد ميلاد سعيد\" عندما تحتاج إلى رد سريع.",
-        "context": "توضح أن العبارة مفيدة عند الحاجة إلى استجابة مباشرة."
+        "en": "Happy Birthday, my friend.",
+        "ar": "عيد ميلاد سعيد يا صديقي.",
+        "context": "تقال لصديق في عيد ميلاده."
       },
       {
         "id": 7,
-        "en": "They repeated, \"Happy Birthday\" more than once.",
-        "ar": "رددوا: \"عيد ميلاد سعيد\" أكثر من مرة.",
-        "context": "تعطي مثالًا على تكرار العبارة."
+        "en": "Happy Birthday, Dad.",
+        "ar": "عيد ميلاد سعيد يا أبي.",
+        "context": "تقال لتهنئة الأب بعيد ميلاده."
       },
       {
         "id": 8,
-        "en": "I heard him say, \"Happy Birthday\" yesterday.",
-        "ar": "سمعته يقول: \"عيد ميلاد سعيد\" أمس.",
-        "context": "تجعل العبارة جزءًا من موقف سمعته من شخص آخر."
+        "en": "Happy Birthday, Mom.",
+        "ar": "عيد ميلاد سعيد يا أمي.",
+        "context": "تقال لتهنئة الأم بعيد ميلادها."
       },
       {
         "id": 9,
-        "en": "Many learners remember the phrase, \"Happy Birthday\".",
-        "ar": "يتذكر كثير من المتعلمين العبارة: \"عيد ميلاد سعيد\".",
-        "context": "تقدم العبارة بوصفها عبارة سهلة التذكر."
+        "en": "Happy Birthday, everyone loves you.",
+        "ar": "عيد ميلاد سعيد، الجميع يحبك.",
+        "context": "تقال في تهنئة ودية مليئة بالمحبة."
       },
       {
         "id": 10,
-        "en": "At that moment, she said, \"Happy Birthday\".",
-        "ar": "في تلك اللحظة، قالت: \"عيد ميلاد سعيد\".",
-        "context": "تربط العبارة بلحظة معينة في السرد."
+        "en": "Happy Birthday, enjoy your day.",
+        "ar": "عيد ميلاد سعيد، استمتع بيومك.",
+        "context": "تقال مع تمنيات بالاستمتاع بيوم الميلاد."
       }
     ]
   }

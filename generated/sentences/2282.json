@@ -10,80 +10,87 @@
     "wordMeanings": [
       {
         "term": "I",
-        "description": "ضمير المتكلم."
+        "description": "ضمير المتكلم المفرد."
       },
       {
         "term": "need",
-        "description": "فعل يدل على الحاجة."
+        "description": "أحتاج أو أطلب شيئًا ضروريًا."
       },
       {
         "term": "help",
-        "description": "اسم هنا بمعنى المساعدة."
+        "description": "مساعدة أو دعم."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن المتكلم يعبّر عن حاجته الحالية أو العامة إلى المساعدة.",
+    "grammarExplanations": [
+      {
+        "sentence": "I need help.",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "الجملة تصف حاجة المتكلم الحالية إلى المساعدة."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "I need help with my homework.",
-        "ar": "أحتاج مساعدة في واجبي.",
-        "context": "تذكر مجال المساعدة المطلوب."
+        "en": "I need help now.",
+        "ar": "أحتاج مساعدة الآن.",
+        "context": "تقال عند الحاجة إلى مساعدة فورية."
       },
       {
         "id": 2,
-        "en": "I need help right now.",
-        "ar": "أحتاج مساعدة الآن.",
-        "context": "توضح أن الحاجة فورية."
+        "en": "I need help with this form.",
+        "ar": "أحتاج مساعدة في هذا النموذج.",
+        "context": "تقال عند تعبئة نموذج صعب."
       },
       {
         "id": 3,
-        "en": "I need help with this sentence.",
-        "ar": "أحتاج مساعدة في هذه الجملة.",
-        "context": "تطلب مساعدة تعليمية بشكل عام."
+        "en": "She needs help with her homework.",
+        "ar": "هي تحتاج مساعدة في واجبها.",
+        "context": "تصف حاجة شخص آخر إلى دعم."
       },
       {
         "id": 4,
-        "en": "I need help carrying this box.",
-        "ar": "أحتاج مساعدة في حمل هذا الصندوق.",
-        "context": "تتحدث عن نوع المساعدة المطلوبة."
+        "en": "We need help at the office.",
+        "ar": "نحتاج مساعدة في المكتب.",
+        "context": "تقال عند حاجة مجموعة إلى دعم."
       },
       {
         "id": 5,
-        "en": "I need help because I am confused.",
-        "ar": "أحتاج مساعدة لأنني مرتبك.",
-        "context": "تذكر سبب الحاجة للمساعدة."
+        "en": "I need help finding my phone.",
+        "ar": "أحتاج مساعدة في العثور على هاتفي.",
+        "context": "تقال عند فقدان شيء."
       },
       {
         "id": 6,
-        "en": "I need help finding the right answer.",
-        "ar": "أحتاج مساعدة في إيجاد الجواب الصحيح.",
-        "context": "توضح الهدف من المساعدة."
+        "en": "He needs help opening the file.",
+        "ar": "هو يحتاج مساعدة في فتح الملف.",
+        "context": "تصف مشكلة تقنية بسيطة."
       },
       {
         "id": 7,
-        "en": "I need help with pronunciation.",
-        "ar": "أحتاج مساعدة في النطق.",
-        "context": "تحدد جانبًا معينًا من التعلم."
+        "en": "I need help with English.",
+        "ar": "أحتاج مساعدة في الإنجليزية.",
+        "context": "تقال عند طلب دعم في التعلم."
       },
       {
         "id": 8,
-        "en": "I need help before the meeting.",
-        "ar": "أحتاج مساعدة قبل الاجتماع.",
-        "context": "تحدد الوقت المرتبط بالحاجة."
+        "en": "They need help today.",
+        "ar": "هم يحتاجون مساعدة اليوم.",
+        "context": "تصف حاجة مجموعة في وقت محدد."
       },
       {
         "id": 9,
-        "en": "I need help, but I do not know who to ask.",
-        "ar": "أحتاج مساعدة، لكنني لا أعرف من أسأل.",
-        "context": "تعبر عن الحاجة مع الحيرة."
+        "en": "I do not need help.",
+        "ar": "لا أحتاج مساعدة.",
+        "context": "تقال عند رفض المساعدة بأدب."
       },
       {
         "id": 10,
-        "en": "I need help to finish this today.",
-        "ar": "أحتاج مساعدة لكي أنهي هذا اليوم.",
-        "context": "تربط الحاجة بالنتيجة المطلوبة."
+        "en": "Do you need help?",
+        "ar": "هل تحتاج مساعدة؟",
+        "context": "تُستخدم لعرض المساعدة على شخص."
       }
     ]
   }

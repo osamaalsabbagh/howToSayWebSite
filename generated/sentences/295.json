@@ -10,75 +10,83 @@
     "wordMeanings": [
       {
         "term": "Over",
-        "description": "حرف جر أو ظرف يعني فوق أو على امتداد."
+        "description": "تأتي هنا مع here للإشارة إلى مكان قريب من المتكلم."
       },
       {
         "term": "here",
-        "description": "ظرف مكان يعني هنا."
+        "description": "هنا، أي في المكان القريب من المتكلم."
       }
     ],
-    "tense": null,
-    "tenseReason": "استُعمل هذا التعبير لأنه عبارة ثابتة أو رد قصير يُستخدم في موقف محدد، وليس جملة فعلية كاملة بزمن واضح.",
+    "grammarExplanations": [
+      {
+        "sentence": "Over here.",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه عبارة إشارة قصيرة تلفت الانتباه إلى مكان قريب من المتكلم، ولا تحتوي على فعل ظاهر أو زمن مستقل."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "In this situation, people often say, \"Over here\".",
-        "ar": "في هذا الموقف، يقول الناس كثيرًا: \"هنا\".",
-        "context": "توضح أن العبارة مناسبة في هذا النوع من المواقف."
+        "en": "Over here.",
+        "ar": "هنا.",
+        "context": "تقال لجذب انتباه شخص إلى مكانك."
       },
       {
         "id": 2,
-        "en": "The teacher said, \"Over here\" to the students.",
-        "ar": "قال المعلم للطلاب: \"هنا\".",
-        "context": "تستخدم الجملة كتعليمات أو توجيه مباشر."
+        "en": "Come over here.",
+        "ar": "تعال إلى هنا.",
+        "context": "تقال عند طلب اقتراب شخص."
       },
       {
         "id": 3,
-        "en": "He told me, \"Over here\" before we left.",
-        "ar": "قال لي: \"هنا\" قبل أن نغادر.",
-        "context": "تضع العبارة قبل حدث آخر."
+        "en": "Please sit over here.",
+        "ar": "من فضلك اجلس هنا.",
+        "context": "تقال عند توجيه شخص إلى مقعد قريب."
       },
       {
         "id": 4,
-        "en": "She said, \"Over here\" in a polite way.",
-        "ar": "قالت: \"هنا\" بطريقة مهذبة.",
-        "context": "تظهر أن العبارة يمكن أن تقال بلطف أو أدب."
+        "en": "The line starts over here.",
+        "ar": "يبدأ الطابور من هنا.",
+        "context": "تقال عند إرشاد شخص إلى بداية الطابور."
       },
       {
         "id": 5,
-        "en": "Someone shouted, \"Over here\" when there was a problem.",
-        "ar": "صاح شخص ما: \"هنا\" عندما ظهرت مشكلة.",
-        "context": "تربط العبارة بموقف سريع أو طارئ."
+        "en": "Wait over here.",
+        "ar": "انتظر هنا.",
+        "context": "تقال عند تحديد مكان انتظار قريب."
       },
       {
         "id": 6,
-        "en": "You can say, \"Over here\" when you need a quick response.",
-        "ar": "يمكنك أن تقول: \"هنا\" عندما تحتاج إلى رد سريع.",
-        "context": "توضح أن العبارة مفيدة عند الحاجة إلى استجابة مباشرة."
+        "en": "Put your bag over here.",
+        "ar": "ضع حقيبتك هنا.",
+        "context": "تقال عند تحديد مكان لوضع شيء."
       },
       {
         "id": 7,
-        "en": "They repeated, \"Over here\" more than once.",
-        "ar": "رددوا: \"هنا\" أكثر من مرة.",
-        "context": "تعطي مثالًا على تكرار العبارة."
+        "en": "The entrance is over here.",
+        "ar": "المدخل هنا.",
+        "context": "تقال عند إرشاد شخص إلى مدخل قريب."
       },
       {
         "id": 8,
-        "en": "I heard him say, \"Over here\" yesterday.",
-        "ar": "سمعته يقول: \"هنا\" أمس.",
-        "context": "تجعل العبارة جزءًا من موقف سمعته من شخص آخر."
+        "en": "I am over here.",
+        "ar": "أنا هنا.",
+        "context": "تقال عندما يريد المتكلم أن يعرف الآخر مكانه."
       },
       {
         "id": 9,
-        "en": "Many learners remember the phrase, \"Over here\".",
-        "ar": "يتذكر كثير من المتعلمين العبارة: \"هنا\".",
-        "context": "تقدم العبارة بوصفها عبارة سهلة التذكر."
+        "en": "Stand over here, please.",
+        "ar": "قف هنا من فضلك.",
+        "context": "تقال عند ترتيب مكان وقوف شخص."
       },
       {
         "id": 10,
-        "en": "At that moment, she said, \"Over here\".",
-        "ar": "في تلك اللحظة، قالت: \"هنا\".",
-        "context": "تربط العبارة بلحظة معينة في السرد."
+        "en": "The map is over here.",
+        "ar": "الخريطة هنا.",
+        "context": "تقال عند الإشارة إلى شيء قريب."
       }
     ]
   }

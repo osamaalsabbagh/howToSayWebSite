@@ -10,79 +10,87 @@
     "wordMeanings": [
       {
         "term": "Please",
-        "description": "تضيف اللطف إلى الطلب."
+        "description": "كلمة تجعل الطلب أكثر أدبًا ولطفًا."
       },
       {
         "term": "call",
-        "description": "فعل يعني يتصل أو ينادي."
+        "description": "اتصل، أي تواصل بالهاتف."
       },
       {
         "term": "me",
-        "description": "ضمير مفعول به يعني أنا/إياي."
+        "description": "إياي أو بي، وتشير إلى المتكلم."
       }
     ],
-    "tense": null,
-    "tenseReason": "استُعمل هذا الأسلوب لأن الجملة تقدم طلبًا أو تعليمات مباشرة موجهة إلى شخص آخر، لذلك لا نضع لها هنا زمنًا فعليًا مستقلًا.",
+    "grammarExplanations": [
+      {
+        "sentence": "Please call me.",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه جملة طلب مهذب؛ وجود كلمة من فضلك يجعل الأمر ألطف، والفعل يأتي بصيغته الأساسية لأن المقصود طلب فعل لا وصف زمن."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "In this situation, people often say, \"Please call me\".",
-        "ar": "في هذا الموقف، يقول الناس كثيرًا: \"من فضلك اتصل بي\".",
-        "context": "توضح أن العبارة مناسبة في هذا النوع من المواقف."
+        "en": "Please call me.",
+        "ar": "من فضلك اتصل بي.",
+        "context": "تقال عندما تريد من شخص أن يتصل بك."
       },
       {
         "id": 2,
-        "en": "The teacher said, \"Please call me\" to the students.",
-        "ar": "قال المعلم للطلاب: \"من فضلك اتصل بي\".",
-        "context": "تستخدم الجملة كتعليمات أو توجيه مباشر."
+        "en": "Please call me later.",
+        "ar": "من فضلك اتصل بي لاحقًا.",
+        "context": "تقال عندما لا يكون الوقت مناسبًا الآن."
       },
       {
         "id": 3,
-        "en": "He told me, \"Please call me\" before we left.",
-        "ar": "قال لي: \"من فضلك اتصل بي\" قبل أن نغادر.",
-        "context": "تضع العبارة قبل حدث آخر."
+        "en": "Please call me tonight.",
+        "ar": "من فضلك اتصل بي الليلة.",
+        "context": "تقال عند تحديد وقت للمكالمة."
       },
       {
         "id": 4,
-        "en": "She said, \"Please call me\" in a polite way.",
-        "ar": "قالت: \"من فضلك اتصل بي\" بطريقة مهذبة.",
-        "context": "تظهر أن العبارة يمكن أن تقال بلطف أو أدب."
+        "en": "Please call me tomorrow.",
+        "ar": "من فضلك اتصل بي غدًا.",
+        "context": "تقال عند طلب مكالمة في اليوم التالي."
       },
       {
         "id": 5,
-        "en": "Someone shouted, \"Please call me\" when there was a problem.",
-        "ar": "صاح شخص ما: \"من فضلك اتصل بي\" عندما ظهرت مشكلة.",
-        "context": "تربط العبارة بموقف سريع أو طارئ."
+        "en": "Please call me when you arrive.",
+        "ar": "من فضلك اتصل بي عندما تصل.",
+        "context": "تقال للاطمئنان بعد وصول شخص."
       },
       {
         "id": 6,
-        "en": "You can say, \"Please call me\" when you need a quick response.",
-        "ar": "يمكنك أن تقول: \"من فضلك اتصل بي\" عندما تحتاج إلى رد سريع.",
-        "context": "توضح أن العبارة مفيدة عند الحاجة إلى استجابة مباشرة."
+        "en": "Please call me before you leave.",
+        "ar": "من فضلك اتصل بي قبل أن تغادر.",
+        "context": "تقال لطلب مكالمة قبل المغادرة."
       },
       {
         "id": 7,
-        "en": "They repeated, \"Please call me\" more than once.",
-        "ar": "رددوا: \"من فضلك اتصل بي\" أكثر من مرة.",
-        "context": "تعطي مثالًا على تكرار العبارة."
+        "en": "Please call me at work.",
+        "ar": "من فضلك اتصل بي في العمل.",
+        "context": "تقال عند طلب الاتصال على مكان العمل."
       },
       {
         "id": 8,
-        "en": "I heard him say, \"Please call me\" yesterday.",
-        "ar": "سمعته يقول: \"من فضلك اتصل بي\" أمس.",
-        "context": "تجعل العبارة جزءًا من موقف سمعته من شخص آخر."
+        "en": "Please call me on my phone.",
+        "ar": "من فضلك اتصل بي على هاتفي.",
+        "context": "تقال عند تحديد وسيلة الاتصال."
       },
       {
         "id": 9,
-        "en": "Many learners remember the phrase, \"Please call me\".",
-        "ar": "يتذكر كثير من المتعلمين العبارة: \"من فضلك اتصل بي\".",
-        "context": "تقدم العبارة بوصفها عبارة سهلة التذكر."
+        "en": "Please call me if you need help.",
+        "ar": "من فضلك اتصل بي إذا احتجت إلى مساعدة.",
+        "context": "تقال عند عرض المساعدة."
       },
       {
         "id": 10,
-        "en": "At that moment, she said, \"Please call me\".",
-        "ar": "في تلك اللحظة، قالت: \"من فضلك اتصل بي\".",
-        "context": "تربط العبارة بلحظة معينة في السرد."
+        "en": "Please call me after the meeting.",
+        "ar": "من فضلك اتصل بي بعد الاجتماع.",
+        "context": "تقال عند طلب مكالمة بعد حدث محدد."
       }
     ]
   }

@@ -10,112 +10,127 @@
     "wordMeanings": [
       {
         "term": "I",
-        "description": "ضمير المتكلم."
+        "description": "ضمير المتكلم المفرد."
       },
       {
         "term": "know",
-        "description": "فعل يعني يعرف أو يعلم."
+        "description": "تعني أعرف أو أتفق مع ما قيل."
       },
       {
         "term": "My",
-        "description": "صفة ملكية تعني خاصتي."
+        "description": "صفة ملكية تعني الخاصة بي."
       },
       {
         "term": "aunt",
-        "description": "اسم يعني عمتي."
+        "description": "العمة أو الخالة حسب السياق العائلي."
       },
       {
         "term": "is",
-        "description": "فعل be في الحاضر مع المفرد."
+        "description": "صيغة تساعد على تكوين المضارع المستمر."
       },
       {
         "term": "coming",
-        "description": "فعل مع ing يدل على المجيء الجاري أو المتوقع قريبًا."
+        "description": "تعني قادمة أو ستأتي قريبًا."
       },
       {
         "term": "to",
-        "description": "أداة تأتي قبل المصدر بعد أفعال مثل want."
+        "description": "تأتي قبل الفعل لتوضيح الغرض من القدوم."
       },
       {
         "term": "visit",
-        "description": "فعل يعني لزيارتنا."
+        "description": "تعني تزور."
       },
       {
         "term": "us",
-        "description": "ضمير مفعول به يعود على المتكلمين."
+        "description": "ضمير يعود على المتكلم ومن معه."
       },
       {
         "term": "next",
-        "description": "صفة أو ظرف يعني التالي أو القادم."
+        "description": "تعني القادم أو التالي."
       },
       {
         "term": "week",
-        "description": "اسم يعني أسبوع."
+        "description": "أسبوع."
       }
     ],
-    "tense": "المضارع المستمر",
-    "tenseEn": "Present Continuous",
-    "tenseReason": "استُعمل المضارع المستمر لأن الجملة تصف شيئًا يحدث الآن أو في فترة قريبة من الآن، أو خطة قريبة واضحة من السياق.",
+    "grammarExplanations": [
+      {
+        "sentence": "I know!",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُعمل المضارع البسيط للتعبير عن معرفة أو موافقة حاضرة على ما قيل."
+        }
+      },
+      {
+        "sentence": "My aunt is coming to visit us next week.",
+        "explanation": {
+          "tense": "المضارع المستمر",
+          "tenseEn": "Present Continuous",
+          "reason": "استُعمل المضارع المستمر للحديث عن ترتيب مستقبلي قريب ومخطط له، وهو زيارة العمة الأسبوع القادم."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "Right now, I know! My aunt is coming to visit us next week.",
-        "ar": "الآن، أعلم! عمتي ستأتي لزيارتنا الأسبوع القادم.",
-        "context": "تؤكد أن الفعل يحدث في هذه اللحظة."
+        "en": "My aunt is coming to visit us tomorrow.",
+        "ar": "عمتي ستأتي لزيارتنا غدًا.",
+        "context": "تخبر عن زيارة قريبة ومخطط لها."
       },
       {
         "id": 2,
-        "en": "At the moment, I know! My aunt is coming to visit us next week.",
-        "ar": "في هذه اللحظة، أعلم! عمتي ستأتي لزيارتنا الأسبوع القادم.",
-        "context": "تؤكد استمرار الحدث الآن."
+        "en": "My cousin is coming next week.",
+        "ar": "ابن عمي قادم الأسبوع القادم.",
+        "context": "تذكر زيارة عائلية قريبة."
       },
       {
         "id": 3,
-        "en": "Today, I know! My aunt is coming to visit us next week.",
-        "ar": "اليوم، أعلم! عمتي ستأتي لزيارتنا الأسبوع القادم.",
-        "context": "تربط الحدث بزمن قريب ومحدد."
+        "en": "I know! Time is moving fast.",
+        "ar": "أعلم! الوقت يمضي بسرعة.",
+        "context": "توافق على ملاحظة عن سرعة الوقت."
       },
       {
         "id": 4,
-        "en": "This week, I know! My aunt is coming to visit us next week.",
-        "ar": "هذا الأسبوع، أعلم! عمتي ستأتي لزيارتنا الأسبوع القادم.",
-        "context": "توسع الجملة إلى فترة زمنية قريبة."
+        "en": "She is coming to stay with us.",
+        "ar": "هي قادمة لتقيم معنا.",
+        "context": "توضح غرض القدوم."
       },
       {
         "id": 5,
-        "en": "I know! My aunt is coming to visit us next week because it is important.",
-        "ar": "أعلم! عمتي ستأتي لزيارتنا الأسبوع القادم لأنه مهم.",
-        "context": "تضيف سببًا للاستمرار في الفعل."
+        "en": "My aunt is visiting us in August.",
+        "ar": "عمتي ستزورنا في أغسطس.",
+        "context": "تذكر وقت الزيارة."
       },
       {
         "id": 6,
-        "en": "I know! My aunt is coming to visit us next week, so please wait.",
-        "ar": "أعلم! عمتي ستأتي لزيارتنا الأسبوع القادم، لذلك انتظر من فضلك.",
-        "context": "تضيف نتيجة مباشرة على استمرار الحدث."
+        "en": "I know! My brother is arriving tonight.",
+        "ar": "أعلم! أخي سيصل الليلة.",
+        "context": "تضيف خبرًا عن وصول قريب."
       },
       {
         "id": 7,
-        "en": "Currently, I know! My aunt is coming to visit us next week.",
-        "ar": "حاليًا، أعلم! عمتي ستأتي لزيارتنا الأسبوع القادم.",
-        "context": "تستخدم ظرفًا مناسبًا للحاضر المستمر."
+        "en": "They are coming to visit us next month.",
+        "ar": "هم قادمون لزيارتنا الشهر القادم.",
+        "context": "تتحدث عن زيارة جماعية قادمة."
       },
       {
         "id": 8,
-        "en": "I know! My aunt is coming to visit us next week during this period.",
-        "ar": "أعلم! عمتي ستأتي لزيارتنا الأسبوع القادم خلال هذه الفترة.",
-        "context": "تربط الفعل بفترة مستمرة لا بلحظة واحدة فقط."
+        "en": "My aunt is coming from Chicago.",
+        "ar": "عمتي قادمة من شيكاغو.",
+        "context": "تذكر مصدر قدوم القريبة."
       },
       {
         "id": 9,
-        "en": "I know! My aunt is coming to visit us next week, and cannot stop now.",
-        "ar": "أعلم! عمتي ستأتي لزيارتنا الأسبوع القادم، ولا يمكن التوقف الآن.",
-        "context": "تضيف فكرة الاستمرار وعدم التوقف."
+        "en": "She is coming to see the baby.",
+        "ar": "هي قادمة لرؤية الطفل.",
+        "context": "توضح سبب الزيارة."
       },
       {
         "id": 10,
-        "en": "I know! My aunt is coming to visit us next week while everyone is watching.",
-        "ar": "أعلم! عمتي ستأتي لزيارتنا الأسبوع القادم بينما الجميع يشاهد.",
-        "context": "تضيف ظرفًا زمنيًا متزامنًا مع الحدث."
+        "en": "I know! Next week is almost here.",
+        "ar": "أعلم! الأسبوع القادم أوشك أن يأتي.",
+        "context": "تتحدث بحماس عن موعد قريب."
       }
     ]
   }

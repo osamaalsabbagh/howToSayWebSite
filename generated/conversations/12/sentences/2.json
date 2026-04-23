@@ -10,99 +10,123 @@
     "wordMeanings": [
       {
         "term": "Hello",
-        "description": "تحية عامة وحيادية، وتصلح في المواقف الرسمية وغير الرسمية."
+        "description": "تحية لبدء الرد على المكالمة."
       },
       {
         "term": "Sure",
-        "description": "صفة تعني بالتأكيد."
+        "description": "كلمة موافقة تعني بالتأكيد."
       },
       {
         "term": "I",
-        "description": "ضمير المتكلم."
+        "description": "ضمير المتكلم المفرد."
       },
       {
         "term": "can",
-        "description": "فعل مساعد يدل هنا على القدرة أو الاستعداد لتلبية الطلب."
+        "description": "تدل هنا على القدرة أو الاستعداد للمساعدة."
       },
       {
         "term": "answer",
-        "description": "اسم يعني جواب أو إجابة."
+        "description": "يجيب عن سؤال."
       },
       {
         "term": "your",
-        "description": "صفة ملكية تعني خاصتك أو خاصتكم."
+        "description": "يدل على أن السؤال يخص المخاطب."
       },
       {
         "term": "question",
-        "description": "اسم يعني سؤال."
+        "description": "سؤال أو استفسار."
       },
       {
         "term": "now",
-        "description": "ظرف زمان يعني الآن."
+        "description": "في هذه اللحظة."
       }
     ],
-    "tense": null,
-    "tenseReason": "تتضمن الجملة فعلًا modal يعبّر عن القدرة أو الإمكانية أو الرغبة، لذلك لا نضع لها هنا زمنًا فعليًا مستقلًا على الرغم من وجود معنى زمني عام في السياق.",
+    "grammarExplanations": [
+      {
+        "sentence": "Hello",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "تحية قصيرة وليست جملة بزمن مستقل."
+        }
+      },
+      {
+        "sentence": "Sure",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "كلمة موافقة ثابتة لا تحمل زمنًا مستقلًا."
+        }
+      },
+      {
+        "sentence": "I can answer your question now",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "الجملة تستخدم can للتعبير عن القدرة والاستعداد للإجابة الآن، لذلك تُفهم كتركيب قدرة لا كزمن مستقل."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "People often say, \"Hello! Sure, I can answer your question now\" in situations like this.",
-        "ar": "يقول الناس كثيرًا: \"مرحبًا! بالتأكيد، أستطيع أن أجيب على سؤالك الآن\" في مواقف كهذه.",
-        "context": "تستخدم الجملة بوصفها تركيبًا شائعًا في موقف مشابه."
+        "en": "Sure, I can help you now.",
+        "ar": "بالتأكيد، أستطيع مساعدتك الآن.",
+        "context": "يُستخدم عندما يكون الموظف جاهزًا للمساعدة."
       },
       {
         "id": 2,
-        "en": "You can say, \"Hello! Sure, I can answer your question now\" when this happens.",
-        "ar": "يمكنك أن تقول: \"مرحبًا! بالتأكيد، أستطيع أن أجيب على سؤالك الآن\" عندما يحدث هذا.",
-        "context": "توضح أن الجملة مناسبة في موقف متكرر."
+        "en": "Sure, I can answer that now.",
+        "ar": "بالتأكيد، أستطيع الإجابة عن ذلك الآن.",
+        "context": "يُستخدم عند الموافقة على الإجابة فورًا."
       },
       {
         "id": 3,
-        "en": "I heard someone say, \"Hello! Sure, I can answer your question now\".",
-        "ar": "سمعت شخصًا يقول: \"مرحبًا! بالتأكيد، أستطيع أن أجيب على سؤالك الآن\".",
-        "context": "تجعل الجملة جزءًا من كلام سمعته من شخص آخر."
+        "en": "Hello, I can check your account now.",
+        "ar": "مرحبًا، أستطيع التحقق من حسابك الآن.",
+        "context": "يُستخدم في خدمة العملاء عند فتح ملف العميل."
       },
       {
         "id": 4,
-        "en": "The teacher used the sentence, \"Hello! Sure, I can answer your question now\" in class.",
-        "ar": "استخدم المعلم الجملة: \"مرحبًا! بالتأكيد، أستطيع أن أجيب على سؤالك الآن\" في الصف.",
-        "context": "تستخدم الجملة مثالًا تعليميًا في الصف."
+        "en": "Sure, I can explain the details now.",
+        "ar": "بالتأكيد، أستطيع شرح التفاصيل الآن.",
+        "context": "يُستخدم عند تقديم شرح مباشر."
       },
       {
         "id": 5,
-        "en": "Many learners remember the sentence, \"Hello! Sure, I can answer your question now\" first.",
-        "ar": "يتذكر كثير من المتعلمين الجملة: \"مرحبًا! بالتأكيد، أستطيع أن أجيب على سؤالك الآن\" أولًا.",
-        "context": "تقدم الجملة بوصفها جملة تعليمية أساسية."
+        "en": "Sure, I can call you now.",
+        "ar": "بالتأكيد، أستطيع الاتصال بك الآن.",
+        "context": "يُستخدم عند عرض مكالمة فورية."
       },
       {
         "id": 6,
-        "en": "She said, \"Hello! Sure, I can answer your question now\" in a calm way.",
-        "ar": "قالت: \"مرحبًا! بالتأكيد، أستطيع أن أجيب على سؤالك الآن\" بطريقة هادئة.",
-        "context": "تجعل الجملة جزءًا من كلام مباشر في موقف عادي."
+        "en": "Hello, I can answer your message now.",
+        "ar": "مرحبًا، أستطيع الرد على رسالتك الآن.",
+        "context": "يُستخدم في تواصل كتابي أو دعم فني."
       },
       {
         "id": 7,
-        "en": "He repeated, \"Hello! Sure, I can answer your question now\" more than once.",
-        "ar": "ردد: \"مرحبًا! بالتأكيد، أستطيع أن أجيب على سؤالك الآن\" أكثر من مرة.",
-        "context": "تضيف معنى التكرار لنفس الجملة."
+        "en": "Sure, I can give you the number now.",
+        "ar": "بالتأكيد، أستطيع إعطاءك الرقم الآن.",
+        "context": "يُستخدم عند تزويد شخص بمعلومة محددة."
       },
       {
         "id": 8,
-        "en": "At the right moment, someone might say, \"Hello! Sure, I can answer your question now\".",
-        "ar": "في اللحظة المناسبة، قد يقول شخص ما: \"مرحبًا! بالتأكيد، أستطيع أن أجيب على سؤالك الآن\".",
-        "context": "توضح أن الجملة مرتبطة بتوقيت مناسب في السياق."
+        "en": "Sure, I can show you the order now.",
+        "ar": "بالتأكيد، أستطيع أن أريك الطلب الآن.",
+        "context": "يُستخدم عند عرض تفاصيل طلب."
       },
       {
         "id": 9,
-        "en": "I wrote down the sentence, \"Hello! Sure, I can answer your question now\" so I would remember it.",
-        "ar": "كتبت الجملة: \"مرحبًا! بالتأكيد، أستطيع أن أجيب على سؤالك الآن\" حتى أتذكرها.",
-        "context": "تعطي مثالًا على حفظ الجملة أو مراجعتها."
+        "en": "Hello, I can update your address now.",
+        "ar": "مرحبًا، أستطيع تحديث عنوانك الآن.",
+        "context": "يُستخدم عند تعديل بيانات عميل."
       },
       {
         "id": 10,
-        "en": "It is useful to know when to say, \"Hello! Sure, I can answer your question now\".",
-        "ar": "من المفيد أن تعرف متى تقول: \"مرحبًا! بالتأكيد، أستطيع أن أجيب على سؤالك الآن\".",
-        "context": "تركز على معرفة الوقت المناسب لاستخدام الجملة."
+        "en": "Sure, I can send the answer now.",
+        "ar": "بالتأكيد، أستطيع إرسال الإجابة الآن.",
+        "context": "يُستخدم عند إرسال رد سريع."
       }
     ]
   }

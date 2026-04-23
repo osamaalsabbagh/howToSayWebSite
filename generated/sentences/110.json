@@ -10,75 +10,83 @@
     "wordMeanings": [
       {
         "term": "Tell",
-        "description": "فعل يعني يخبر أو يقول لشخص."
+        "description": "أخبر أو قل معلومة لشخص."
       },
       {
         "term": "me",
-        "description": "ضمير مفعول به يعني أنا/إياي."
+        "description": "ضمير يشير إلى المتكلم عندما يكون متلقيًا للمعلومة."
       }
     ],
-    "tense": null,
-    "tenseReason": "استُعمل هذا الأسلوب لأن الجملة تقدم طلبًا أو تعليمات مباشرة موجهة إلى شخص آخر، لذلك لا نضع لها هنا زمنًا فعليًا مستقلًا.",
+    "grammarExplanations": [
+      {
+        "sentence": "Tell me.",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه صيغة أمر أو طلب مباشر لسماع معلومة، والفاعل مفهوم من السياق، لذلك لا تحمل زمنًا مستقلًا."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "In this situation, people often say, \"Tell me\".",
-        "ar": "في هذا الموقف، يقول الناس كثيرًا: \"أخبرني\".",
-        "context": "توضح أن العبارة مناسبة في هذا النوع من المواقف."
+        "en": "Tell me the truth.",
+        "ar": "أخبرني الحقيقة.",
+        "context": "تقال عند طلب الصراحة."
       },
       {
         "id": 2,
-        "en": "The teacher said, \"Tell me\" to the students.",
-        "ar": "قال المعلم للطلاب: \"أخبرني\".",
-        "context": "تستخدم الجملة كتعليمات أو توجيه مباشر."
+        "en": "Please tell me your name.",
+        "ar": "من فضلك أخبرني باسمك.",
+        "context": "تقال عند طلب معرفة اسم شخص."
       },
       {
         "id": 3,
-        "en": "He told me, \"Tell me\" before we left.",
-        "ar": "قال لي: \"أخبرني\" قبل أن نغادر.",
-        "context": "تضع العبارة قبل حدث آخر."
+        "en": "Tell me what happened.",
+        "ar": "أخبرني بما حدث.",
+        "context": "تقال عند طلب تفاصيل موقف."
       },
       {
         "id": 4,
-        "en": "She said, \"Tell me\" in a polite way.",
-        "ar": "قالت: \"أخبرني\" بطريقة مهذبة.",
-        "context": "تظهر أن العبارة يمكن أن تقال بلطف أو أدب."
+        "en": "Tell me the address.",
+        "ar": "أخبرني بالعنوان.",
+        "context": "تقال عند طلب مكان محدد."
       },
       {
         "id": 5,
-        "en": "Someone shouted, \"Tell me\" when there was a problem.",
-        "ar": "صاح شخص ما: \"أخبرني\" عندما ظهرت مشكلة.",
-        "context": "تربط العبارة بموقف سريع أو طارئ."
+        "en": "Tell me when you arrive.",
+        "ar": "أخبرني عندما تصل.",
+        "context": "تقال عند طلب إشعار بعد الوصول."
       },
       {
         "id": 6,
-        "en": "You can say, \"Tell me\" when you need a quick response.",
-        "ar": "يمكنك أن تقول: \"أخبرني\" عندما تحتاج إلى رد سريع.",
-        "context": "توضح أن العبارة مفيدة عند الحاجة إلى استجابة مباشرة."
+        "en": "Tell me if you need help.",
+        "ar": "أخبرني إذا كنت تحتاج إلى مساعدة.",
+        "context": "تقال عند عرض المساعدة."
       },
       {
         "id": 7,
-        "en": "They repeated, \"Tell me\" more than once.",
-        "ar": "رددوا: \"أخبرني\" أكثر من مرة.",
-        "context": "تعطي مثالًا على تكرار العبارة."
+        "en": "Can you tell me the price?",
+        "ar": "هل يمكنك إخباري بالسعر؟",
+        "context": "تقال عند طلب السعر بأدب."
       },
       {
         "id": 8,
-        "en": "I heard him say, \"Tell me\" yesterday.",
-        "ar": "سمعته يقول: \"أخبرني\" أمس.",
-        "context": "تجعل العبارة جزءًا من موقف سمعته من شخص آخر."
+        "en": "Tell me more about it.",
+        "ar": "أخبرني المزيد عنه.",
+        "context": "تقال عند طلب تفاصيل إضافية."
       },
       {
         "id": 9,
-        "en": "Many learners remember the phrase, \"Tell me\".",
-        "ar": "يتذكر كثير من المتعلمين العبارة: \"أخبرني\".",
-        "context": "تقدم العبارة بوصفها عبارة سهلة التذكر."
+        "en": "Tell me your plan.",
+        "ar": "أخبرني بخطتك.",
+        "context": "تقال عند طلب شرح ما ينوي شخص فعله."
       },
       {
         "id": 10,
-        "en": "At that moment, she said, \"Tell me\".",
-        "ar": "في تلك اللحظة، قالت: \"أخبرني\".",
-        "context": "تربط العبارة بلحظة معينة في السرد."
+        "en": "Please tell me before you leave.",
+        "ar": "من فضلك أخبرني قبل أن تغادر.",
+        "context": "تقال عند طلب تنبيه قبل مغادرة شخص."
       }
     ]
   }

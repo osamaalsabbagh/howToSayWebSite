@@ -10,92 +10,99 @@
     "wordMeanings": [
       {
         "term": "I",
-        "description": "ضمير المتكلم."
+        "description": "ضمير المتكلم ويشير إلى الشخص الذي يتحدث."
       },
       {
         "term": "have",
-        "description": "فعل يعني يملك، ويأتي أيضًا كفعل مساعد."
+        "description": "تساعد هنا على تكوين معنى تجربة حدثت أو لم تحدث قبل الآن."
       },
       {
         "term": "never",
-        "description": "ظرف يعني أبدًا مع النفي المعنوي."
+        "description": "أبدًا، وتدل على أن التجربة لم تحدث في أي وقت سابق."
       },
       {
         "term": "seen",
-        "description": "فعل يعني أر."
+        "description": "رأيت أو شاهدت، وتأتي هنا بعد have."
       },
       {
         "term": "that",
-        "description": "تشير إلى أمر أو خبر سبق ذكره."
+        "description": "ذلك الشيء المحدد أو المشهد المقصود."
       },
       {
         "term": "before",
-        "description": "ظرف أو حرف جر يعني قبل."
+        "description": "من قبل أو في وقت سابق."
       }
     ],
-    "tense": "الماضي البسيط",
-    "tenseEn": "Past Simple",
-    "tenseReason": "استُعمل الماضي البسيط لأن الجملة تتحدث عن حدث وقع في الماضي واكتمل هناك.",
+    "grammarExplanations": [
+      {
+        "sentence": "I have never seen that before.",
+        "explanation": {
+          "tense": "المضارع التام",
+          "tenseEn": "Present Perfect",
+          "reason": "تستخدم have never seen للتحدث عن تجربة غير موجودة في حياة المتكلم حتى الآن، وكلمة before تؤكد المقارنة مع أي وقت سابق."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "People often say, \"I have never seen that before\" in situations like this.",
-        "ar": "يقول الناس كثيرًا: \"لم أرَ ذلك أبداً من قبل\" في مواقف كهذه.",
-        "context": "تستخدم الجملة بوصفها تركيبًا شائعًا في موقف مشابه."
+        "en": "I have never heard that before.",
+        "ar": "لم أسمع ذلك من قبل.",
+        "context": "تقال عند سماع معلومة جديدة تمامًا."
       },
       {
         "id": 2,
-        "en": "You can say, \"I have never seen that before\" when this happens.",
-        "ar": "يمكنك أن تقول: \"لم أرَ ذلك أبداً من قبل\" عندما يحدث هذا.",
-        "context": "توضح أن الجملة مناسبة في موقف متكرر."
+        "en": "She has never visited this city before.",
+        "ar": "هي لم تزر هذه المدينة من قبل.",
+        "context": "تقال عند الحديث عن تجربة زيارة أولى."
       },
       {
         "id": 3,
-        "en": "I heard someone say, \"I have never seen that before\".",
-        "ar": "سمعت شخصًا يقول: \"لم أرَ ذلك أبداً من قبل\".",
-        "context": "تجعل الجملة جزءًا من كلام سمعته من شخص آخر."
+        "en": "I have never tried this food before.",
+        "ar": "لم أجرب هذا الطعام من قبل.",
+        "context": "تقال عند تذوق طعام جديد."
       },
       {
         "id": 4,
-        "en": "The teacher used the sentence, \"I have never seen that before\" in class.",
-        "ar": "استخدم المعلم الجملة: \"لم أرَ ذلك أبداً من قبل\" في الصف.",
-        "context": "تستخدم الجملة مثالًا تعليميًا في الصف."
+        "en": "He has never met my family before.",
+        "ar": "هو لم يقابل عائلتي من قبل.",
+        "context": "تقال عند لقاء أول مع العائلة."
       },
       {
         "id": 5,
-        "en": "Many learners remember the sentence, \"I have never seen that before\" first.",
-        "ar": "يتذكر كثير من المتعلمين الجملة: \"لم أرَ ذلك أبداً من قبل\" أولًا.",
-        "context": "تقدم الجملة بوصفها جملة تعليمية أساسية."
+        "en": "We have never been here before.",
+        "ar": "لم نكن هنا من قبل.",
+        "context": "تقال عند زيارة مكان لأول مرة."
       },
       {
         "id": 6,
-        "en": "She said, \"I have never seen that before\" in a calm way.",
-        "ar": "قالت: \"لم أرَ ذلك أبداً من قبل\" بطريقة هادئة.",
-        "context": "تجعل الجملة جزءًا من كلام مباشر في موقف عادي."
+        "en": "I have never used this app before.",
+        "ar": "لم أستخدم هذا التطبيق من قبل.",
+        "context": "تقال عند تجربة تطبيق لأول مرة."
       },
       {
         "id": 7,
-        "en": "He repeated, \"I have never seen that before\" more than once.",
-        "ar": "ردد: \"لم أرَ ذلك أبداً من قبل\" أكثر من مرة.",
-        "context": "تضيف معنى التكرار لنفس الجملة."
+        "en": "They have never seen snow before.",
+        "ar": "هم لم يروا الثلج من قبل.",
+        "context": "تقال عند تجربة رؤية جديدة."
       },
       {
         "id": 8,
-        "en": "At the right moment, someone might say, \"I have never seen that before\".",
-        "ar": "في اللحظة المناسبة، قد يقول شخص ما: \"لم أرَ ذلك أبداً من قبل\".",
-        "context": "توضح أن الجملة مرتبطة بتوقيت مناسب في السياق."
+        "en": "My brother has never flown before.",
+        "ar": "أخي لم يسافر بالطائرة من قبل.",
+        "context": "تقال عند أول رحلة جوية لشخص."
       },
       {
         "id": 9,
-        "en": "I wrote down the sentence, \"I have never seen that before\" so I would remember it.",
-        "ar": "كتبت الجملة: \"لم أرَ ذلك أبداً من قبل\" حتى أتذكرها.",
-        "context": "تعطي مثالًا على حفظ الجملة أو مراجعتها."
+        "en": "I have never read this book before.",
+        "ar": "لم أقرأ هذا الكتاب من قبل.",
+        "context": "تقال عند بدء كتاب جديد."
       },
       {
         "id": 10,
-        "en": "It is useful to know when to say, \"I have never seen that before\".",
-        "ar": "من المفيد أن تعرف متى تقول: \"لم أرَ ذلك أبداً من قبل\".",
-        "context": "تركز على معرفة الوقت المناسب لاستخدام الجملة."
+        "en": "The child has never seen the sea before.",
+        "ar": "الطفل لم ير البحر من قبل.",
+        "context": "تقال عند تجربة طفل لرؤية البحر لأول مرة."
       }
     ]
   }

@@ -10,88 +10,103 @@
     "wordMeanings": [
       {
         "term": "I",
-        "description": "ضمير المتكلم."
+        "description": "ضمير المتكلم ويشير إلى الشخص الذي يتحدث."
       },
       {
         "term": "need",
-        "description": "فعل يدل على الحاجة."
+        "description": "أحتاج أو يلزمني فعل شيء."
       },
       {
         "term": "to",
-        "description": "أداة تأتي قبل المصدر بعد أفعال مثل want."
+        "description": "تأتي قبل الفعل لتربط الحاجة بالفعل المطلوب."
       },
       {
         "term": "go",
-        "description": "فعل يعني يذهب أو ينتقل من مكان إلى آخر."
+        "description": "أذهب أو أتحرك إلى مكان."
       },
       {
         "term": "home",
-        "description": "اسم أو ظرف يعني المنزل أو البيت."
+        "description": "البيت أو المكان الذي يسكن فيه الشخص."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "I need",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "تستخدم need في المضارع البسيط للتعبير عن حاجة حالية عند المتكلم."
+        }
+      },
+      {
+        "sentence": "to go home",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذا جزء يوضح الفعل المطلوب بسبب الحاجة، وهو الذهاب إلى البيت، ولا يحمل زمنًا مستقلًا لأنه يبدأ بـ to قبل الفعل."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "People often say, \"I need to go home\" in situations like this.",
-        "ar": "يقول الناس كثيرًا: \"أحتاج إلى العودة إلى المنزل\" في مواقف كهذه.",
-        "context": "تستخدم الجملة بوصفها تركيبًا شائعًا في موقف مشابه."
+        "en": "I need to leave now.",
+        "ar": "أحتاج إلى المغادرة الآن.",
+        "context": "تقال عند ضرورة الخروج فورًا."
       },
       {
         "id": 2,
-        "en": "You can say, \"I need to go home\" when this happens.",
-        "ar": "يمكنك أن تقول: \"أحتاج إلى العودة إلى المنزل\" عندما يحدث هذا.",
-        "context": "توضح أن الجملة مناسبة في موقف متكرر."
+        "en": "She needs to go home early.",
+        "ar": "هي تحتاج إلى العودة إلى البيت مبكرًا.",
+        "context": "تقال عند وجود سبب للعودة مبكرًا."
       },
       {
         "id": 3,
-        "en": "I heard someone say, \"I need to go home\".",
-        "ar": "سمعت شخصًا يقول: \"أحتاج إلى العودة إلى المنزل\".",
-        "context": "تجعل الجملة جزءًا من كلام سمعته من شخص آخر."
+        "en": "I need to rest at home.",
+        "ar": "أحتاج إلى الراحة في البيت.",
+        "context": "تقال عند التعب أو المرض."
       },
       {
         "id": 4,
-        "en": "The teacher used the sentence, \"I need to go home\" in class.",
-        "ar": "استخدم المعلم الجملة: \"أحتاج إلى العودة إلى المنزل\" في الصف.",
-        "context": "تستخدم الجملة مثالًا تعليميًا في الصف."
+        "en": "He needs to go to work.",
+        "ar": "هو يحتاج إلى الذهاب إلى العمل.",
+        "context": "تقال عند وجود التزام بالعمل."
       },
       {
         "id": 5,
-        "en": "Many learners remember the sentence, \"I need to go home\" first.",
-        "ar": "يتذكر كثير من المتعلمين الجملة: \"أحتاج إلى العودة إلى المنزل\" أولًا.",
-        "context": "تقدم الجملة بوصفها جملة تعليمية أساسية."
+        "en": "We need to return home.",
+        "ar": "نحتاج إلى العودة إلى البيت.",
+        "context": "تقال عند انتهاء وقت البقاء في مكان."
       },
       {
         "id": 6,
-        "en": "She said, \"I need to go home\" in a calm way.",
-        "ar": "قالت: \"أحتاج إلى العودة إلى المنزل\" بطريقة هادئة.",
-        "context": "تجعل الجملة جزءًا من كلام مباشر في موقف عادي."
+        "en": "I need to get home before dinner.",
+        "ar": "أحتاج إلى الوصول إلى البيت قبل العشاء.",
+        "context": "تقال عند وجود موعد في البيت."
       },
       {
         "id": 7,
-        "en": "He repeated, \"I need to go home\" more than once.",
-        "ar": "ردد: \"أحتاج إلى العودة إلى المنزل\" أكثر من مرة.",
-        "context": "تضيف معنى التكرار لنفس الجملة."
+        "en": "They need to go home after school.",
+        "ar": "هم يحتاجون إلى العودة إلى البيت بعد المدرسة.",
+        "context": "تقال عن أطفال أو طلاب بعد انتهاء الدراسة."
       },
       {
         "id": 8,
-        "en": "At the right moment, someone might say, \"I need to go home\".",
-        "ar": "في اللحظة المناسبة، قد يقول شخص ما: \"أحتاج إلى العودة إلى المنزل\".",
-        "context": "توضح أن الجملة مرتبطة بتوقيت مناسب في السياق."
+        "en": "My father needs to go home now.",
+        "ar": "أبي يحتاج إلى العودة إلى البيت الآن.",
+        "context": "تقال عند ضرورة مغادرة شخص."
       },
       {
         "id": 9,
-        "en": "I wrote down the sentence, \"I need to go home\" so I would remember it.",
-        "ar": "كتبت الجملة: \"أحتاج إلى العودة إلى المنزل\" حتى أتذكرها.",
-        "context": "تعطي مثالًا على حفظ الجملة أو مراجعتها."
+        "en": "I need to go back home.",
+        "ar": "أحتاج إلى الرجوع إلى البيت.",
+        "context": "تقال عند نسيان شيء أو الحاجة للعودة."
       },
       {
         "id": 10,
-        "en": "It is useful to know when to say, \"I need to go home\".",
-        "ar": "من المفيد أن تعرف متى تقول: \"أحتاج إلى العودة إلى المنزل\".",
-        "context": "تركز على معرفة الوقت المناسب لاستخدام الجملة."
+        "en": "The child needs to go home.",
+        "ar": "الطفل يحتاج إلى العودة إلى البيت.",
+        "context": "تقال عند تعب طفل أو انتهاء نشاطه."
       }
     ]
   }

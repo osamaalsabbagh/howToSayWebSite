@@ -10,96 +10,111 @@
     "wordMeanings": [
       {
         "term": "I",
-        "description": "ضمير المتكلم."
+        "description": "ضمير المتكلم ويشير إلى الشخص الذي يعتذر."
       },
       {
         "term": "am",
-        "description": "فعل be مع I ويُستعمل هنا مع learning لتكوين المضارع المستمر."
+        "description": "صيغة تأتي مع ضمير المتكلم المفرد داخل تعبير الاعتذار."
       },
       {
         "term": "sorry",
-        "description": "صفة أو تعبير يعني آسف."
+        "description": "آسف أو أعتذر بطريقة مهذبة."
       },
       {
         "term": "we",
-        "description": "ضمير المتكلمين."
+        "description": "ضمير يشير إلى المتكلم مع الجهة أو المتجر الذي يمثله."
       },
       {
         "term": "are",
-        "description": "فعل be مع you."
+        "description": "صيغة تربط المجموعة أو الجهة بحالة حالية."
       },
       {
         "term": "sold",
-        "description": "صفة تعني الكمية."
+        "description": "جزء من تعبير يعني أن الكمية بيعت بالكامل."
       },
       {
         "term": "out",
-        "description": "ظرف أو حرف يعني إلى الخارج أو خارج."
+        "description": "جزء من التعبير الذي يدل على عدم توفر المنتج الآن."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "I am sorry",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذا تعبير اعتذار مهذب يستخدم قبل إعطاء خبر غير مريح، والأفضل فهمه كتعبير ثابت لا كزمن مستقل."
+        }
+      },
+      {
+        "sentence": "we are sold out",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "تستخدم الجملة are مع sold out لوصف حالة حالية للمتجر أو المنتج، وهي أن الكمية غير متوفرة الآن لأنها بيعت بالكامل."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "People often say, \"I am sorry, we are sold out\" in situations like this.",
-        "ar": "يقول الناس كثيرًا: \"انا آسف، لقد نفدت الكمية\" في مواقف كهذه.",
-        "context": "تستخدم الجملة بوصفها تركيبًا شائعًا في موقف مشابه."
+        "en": "I am sorry, the tickets are sold out.",
+        "ar": "أنا آسف، التذاكر نفدت.",
+        "context": "تقال للزبون عند عدم توفر التذاكر."
       },
       {
         "id": 2,
-        "en": "You can say, \"I am sorry, we are sold out\" when this happens.",
-        "ar": "يمكنك أن تقول: \"انا آسف، لقد نفدت الكمية\" عندما يحدث هذا.",
-        "context": "توضح أن الجملة مناسبة في موقف متكرر."
+        "en": "I am sorry, this size is sold out.",
+        "ar": "أنا آسف، هذا المقاس نفد.",
+        "context": "تقال عند عدم توفر مقاس معين."
       },
       {
         "id": 3,
-        "en": "I heard someone say, \"I am sorry, we are sold out\".",
-        "ar": "سمعت شخصًا يقول: \"انا آسف، لقد نفدت الكمية\".",
-        "context": "تجعل الجملة جزءًا من كلام سمعته من شخص آخر."
+        "en": "We are sold out of coffee.",
+        "ar": "نفدت لدينا القهوة.",
+        "context": "تقال عند انتهاء كمية منتج معين."
       },
       {
         "id": 4,
-        "en": "The teacher used the sentence, \"I am sorry, we are sold out\" in class.",
-        "ar": "استخدم المعلم الجملة: \"انا آسف، لقد نفدت الكمية\" في الصف.",
-        "context": "تستخدم الجملة مثالًا تعليميًا في الصف."
+        "en": "The blue bag is sold out.",
+        "ar": "الحقيبة الزرقاء نفدت.",
+        "context": "تقال عند عدم توفر لون محدد من المنتج."
       },
       {
         "id": 5,
-        "en": "Many learners remember the sentence, \"I am sorry, we are sold out\" first.",
-        "ar": "يتذكر كثير من المتعلمين الجملة: \"انا آسف، لقد نفدت الكمية\" أولًا.",
-        "context": "تقدم الجملة بوصفها جملة تعليمية أساسية."
+        "en": "I am sorry, the room is not available.",
+        "ar": "أنا آسف، الغرفة غير متاحة.",
+        "context": "تقال عند عدم توفر غرفة للحجز."
       },
       {
         "id": 6,
-        "en": "She said, \"I am sorry, we are sold out\" in a calm way.",
-        "ar": "قالت: \"انا آسف، لقد نفدت الكمية\" بطريقة هادئة.",
-        "context": "تجعل الجملة جزءًا من كلام مباشر في موقف عادي."
+        "en": "We are out of bread.",
+        "ar": "نفد لدينا الخبز.",
+        "context": "تقال عند انتهاء الخبز في متجر أو بيت."
       },
       {
         "id": 7,
-        "en": "He repeated, \"I am sorry, we are sold out\" more than once.",
-        "ar": "ردد: \"انا آسف، لقد نفدت الكمية\" أكثر من مرة.",
-        "context": "تضيف معنى التكرار لنفس الجملة."
+        "en": "I am sorry, the last one is gone.",
+        "ar": "أنا آسف، آخر قطعة ذهبت.",
+        "context": "تقال عندما يأخذ شخص آخر آخر قطعة."
       },
       {
         "id": 8,
-        "en": "At the right moment, someone might say, \"I am sorry, we are sold out\".",
-        "ar": "في اللحظة المناسبة، قد يقول شخص ما: \"انا آسف، لقد نفدت الكمية\".",
-        "context": "توضح أن الجملة مرتبطة بتوقيت مناسب في السياق."
+        "en": "The show is sold out tonight.",
+        "ar": "نفدت تذاكر العرض الليلة.",
+        "context": "تقال عند امتلاء العرض وعدم توفر مقاعد."
       },
       {
         "id": 9,
-        "en": "I wrote down the sentence, \"I am sorry, we are sold out\" so I would remember it.",
-        "ar": "كتبت الجملة: \"انا آسف، لقد نفدت الكمية\" حتى أتذكرها.",
-        "context": "تعطي مثالًا على حفظ الجملة أو مراجعتها."
+        "en": "I am sorry, we do not have any more.",
+        "ar": "أنا آسف، لم يعد لدينا المزيد.",
+        "context": "تقال عند عدم وجود كمية إضافية."
       },
       {
         "id": 10,
-        "en": "It is useful to know when to say, \"I am sorry, we are sold out\".",
-        "ar": "من المفيد أن تعرف متى تقول: \"انا آسف، لقد نفدت الكمية\".",
-        "context": "تركز على معرفة الوقت المناسب لاستخدام الجملة."
+        "en": "The hotel is full tonight.",
+        "ar": "الفندق ممتلئ الليلة.",
+        "context": "تقال عند عدم توفر غرف في فندق."
       }
     ]
   }

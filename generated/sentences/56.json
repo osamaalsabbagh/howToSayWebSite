@@ -10,84 +10,91 @@
     "wordMeanings": [
       {
         "term": "I",
-        "description": "ضمير المتكلم."
+        "description": "ضمير المتكلم ويشير إلى الشخص الذي يتحدث."
       },
       {
         "term": "am",
-        "description": "فعل be مع I ويُستعمل هنا مع learning لتكوين المضارع المستمر."
+        "description": "صيغة تأتي مع ضمير المتكلم المفرد وتربط الشخص بحالته."
       },
       {
         "term": "not",
-        "description": "أداة نفي."
+        "description": "كلمة نفي تجعل المعنى لست."
       },
       {
         "term": "busy",
-        "description": "صفة تعني مشغولا."
+        "description": "مشغول أو غير متفرغ."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "I am not busy.",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "تستخدم الجملة am not مع صفة لنفي حالة حالية، وهي الانشغال، فتفيد أن المتكلم متفرغ."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "People often say, \"I am not busy\" in situations like this.",
-        "ar": "يقول الناس كثيرًا: \"أنا لست مشغولاً\" في مواقف كهذه.",
-        "context": "تستخدم الجملة بوصفها تركيبًا شائعًا في موقف مشابه."
+        "en": "I am not tired.",
+        "ar": "أنا لست متعبًا.",
+        "context": "تقال عند نفي الشعور بالتعب."
       },
       {
         "id": 2,
-        "en": "You can say, \"I am not busy\" when this happens.",
-        "ar": "يمكنك أن تقول: \"أنا لست مشغولاً\" عندما يحدث هذا.",
-        "context": "توضح أن الجملة مناسبة في موقف متكرر."
+        "en": "She is not busy today.",
+        "ar": "هي ليست مشغولة اليوم.",
+        "context": "تقال عند توفر شخص في ذلك اليوم."
       },
       {
         "id": 3,
-        "en": "I heard someone say, \"I am not busy\".",
-        "ar": "سمعت شخصًا يقول: \"أنا لست مشغولاً\".",
-        "context": "تجعل الجملة جزءًا من كلام سمعته من شخص آخر."
+        "en": "He is not at work.",
+        "ar": "هو ليس في العمل.",
+        "context": "تقال عند نفي وجود شخص في مكان العمل."
       },
       {
         "id": 4,
-        "en": "The teacher used the sentence, \"I am not busy\" in class.",
-        "ar": "استخدم المعلم الجملة: \"أنا لست مشغولاً\" في الصف.",
-        "context": "تستخدم الجملة مثالًا تعليميًا في الصف."
+        "en": "We are not ready.",
+        "ar": "نحن لسنا مستعدين.",
+        "context": "تقال عند الحاجة إلى وقت إضافي."
       },
       {
         "id": 5,
-        "en": "Many learners remember the sentence, \"I am not busy\" first.",
-        "ar": "يتذكر كثير من المتعلمين الجملة: \"أنا لست مشغولاً\" أولًا.",
-        "context": "تقدم الجملة بوصفها جملة تعليمية أساسية."
+        "en": "I am free now.",
+        "ar": "أنا متفرغ الآن.",
+        "context": "تقال عند إتاحة الوقت لشخص."
       },
       {
         "id": 6,
-        "en": "She said, \"I am not busy\" in a calm way.",
-        "ar": "قالت: \"أنا لست مشغولاً\" بطريقة هادئة.",
-        "context": "تجعل الجملة جزءًا من كلام مباشر في موقف عادي."
+        "en": "They are not busy in the morning.",
+        "ar": "هم ليسوا مشغولين في الصباح.",
+        "context": "تقال عند تحديد وقت مناسب للقاء."
       },
       {
         "id": 7,
-        "en": "He repeated, \"I am not busy\" more than once.",
-        "ar": "ردد: \"أنا لست مشغولاً\" أكثر من مرة.",
-        "context": "تضيف معنى التكرار لنفس الجملة."
+        "en": "My brother is not busy after lunch.",
+        "ar": "أخي ليس مشغولًا بعد الغداء.",
+        "context": "تقال عند اقتراح وقت مناسب."
       },
       {
         "id": 8,
-        "en": "At the right moment, someone might say, \"I am not busy\".",
-        "ar": "في اللحظة المناسبة، قد يقول شخص ما: \"أنا لست مشغولاً\".",
-        "context": "توضح أن الجملة مرتبطة بتوقيت مناسب في السياق."
+        "en": "I am not busy right now.",
+        "ar": "أنا لست مشغولًا الآن.",
+        "context": "تقال عند الاستعداد للحديث أو المساعدة."
       },
       {
         "id": 9,
-        "en": "I wrote down the sentence, \"I am not busy\" so I would remember it.",
-        "ar": "كتبت الجملة: \"أنا لست مشغولاً\" حتى أتذكرها.",
-        "context": "تعطي مثالًا على حفظ الجملة أو مراجعتها."
+        "en": "The manager is not busy.",
+        "ar": "المدير ليس مشغولًا.",
+        "context": "تقال عند إمكانية مقابلة المدير."
       },
       {
         "id": 10,
-        "en": "It is useful to know when to say, \"I am not busy\".",
-        "ar": "من المفيد أن تعرف متى تقول: \"أنا لست مشغولاً\".",
-        "context": "تركز على معرفة الوقت المناسب لاستخدام الجملة."
+        "en": "I am not busy this evening.",
+        "ar": "أنا لست مشغولًا هذا المساء.",
+        "context": "تقال عند قبول موعد أو دعوة في المساء."
       }
     ]
   }

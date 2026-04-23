@@ -10,104 +10,123 @@
     "wordMeanings": [
       {
         "term": "I",
-        "description": "ضمير المتكلم."
+        "description": "ضمير المتكلم ويشير إلى الشخص الذي يتحدث."
       },
       {
         "term": "am",
-        "description": "فعل be مع I ويُستعمل هنا مع learning لتكوين المضارع المستمر."
+        "description": "صيغة تأتي مع ضمير المتكلم المفرد وتربط الشخص بحالته."
       },
       {
         "term": "very",
-        "description": "كلمة تزيد شدة الصفة."
+        "description": "كلمة تقوي الصفة وتجعل الانشغال بدرجة كبيرة."
       },
       {
         "term": "busy",
-        "description": "صفة تعني لدي."
+        "description": "مشغول أو غير متفرغ."
+      },
+      {
+        "term": "I",
+        "description": "ضمير المتكلم ويشير إلى الشخص نفسه في الجملة الثانية."
       },
       {
         "term": "do",
-        "description": "فعل مساعد يُستعمل لتكوين النفي والسؤال في المضارع البسيط."
+        "description": "تساعد هنا على تكوين النفي في المضارع مع I."
       },
       {
         "term": "not",
-        "description": "أداة نفي."
+        "description": "كلمة نفي تجعل المعنى ليس لدي."
       },
       {
         "term": "have",
-        "description": "فعل يعني يملك، ويأتي أيضًا كفعل مساعد."
+        "description": "أملك أو يتوفر لدي في هذا السياق."
       },
       {
         "term": "time",
-        "description": "تكرار الكلمة هنا جزء من التعبير الثابت الذي يعني أحيانًا أو من وقت لآخر."
+        "description": "وقت متاح لفعل شيء."
       },
       {
         "term": "now",
-        "description": "ظرف زمان يعني الآن."
+        "description": "الآن أو في هذه اللحظة."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "I am very busy.",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "تستخدم الجملة am مع صفة لوصف حالة المتكلم الحالية، وتأتي very لتقوية معنى الانشغال."
+        }
+      },
+      {
+        "sentence": "I do not have time now.",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "تستخدم do not مع الفعل الأساسي have لنفي توفر الوقت عند المتكلم في الوقت الحالي."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "People often say, \"I am very busy. I do not have time now\" in situations like this.",
-        "ar": "يقول الناس كثيرًا: \"أنا مشغول جدًا. ليس لدي وقت الآن\" في مواقف كهذه.",
-        "context": "تستخدم الجملة بوصفها تركيبًا شائعًا في موقف مشابه."
+        "en": "I am busy now.",
+        "ar": "أنا مشغول الآن.",
+        "context": "تقال عند عدم القدرة على التفرغ فورًا."
       },
       {
         "id": 2,
-        "en": "You can say, \"I am very busy. I do not have time now\" when this happens.",
-        "ar": "يمكنك أن تقول: \"أنا مشغول جدًا. ليس لدي وقت الآن\" عندما يحدث هذا.",
-        "context": "توضح أن الجملة مناسبة في موقف متكرر."
+        "en": "She is very busy today.",
+        "ar": "هي مشغولة جدًا اليوم.",
+        "context": "تقال عند وصف يوم مزدحم لشخص."
       },
       {
         "id": 3,
-        "en": "I heard someone say, \"I am very busy. I do not have time now\".",
-        "ar": "سمعت شخصًا يقول: \"أنا مشغول جدًا. ليس لدي وقت الآن\".",
-        "context": "تجعل الجملة جزءًا من كلام سمعته من شخص آخر."
+        "en": "I do not have time today.",
+        "ar": "ليس لدي وقت اليوم.",
+        "context": "تقال عند رفض موعد بسبب ضيق الوقت."
       },
       {
         "id": 4,
-        "en": "The teacher used the sentence, \"I am very busy. I do not have time now\" in class.",
-        "ar": "استخدم المعلم الجملة: \"أنا مشغول جدًا. ليس لدي وقت الآن\" في الصف.",
-        "context": "تستخدم الجملة مثالًا تعليميًا في الصف."
+        "en": "He does not have time now.",
+        "ar": "ليس لديه وقت الآن.",
+        "context": "تقال عند عدم توفر شخص في هذه اللحظة."
       },
       {
         "id": 5,
-        "en": "Many learners remember the sentence, \"I am very busy. I do not have time now\" first.",
-        "ar": "يتذكر كثير من المتعلمين الجملة: \"أنا مشغول جدًا. ليس لدي وقت الآن\" أولًا.",
-        "context": "تقدم الجملة بوصفها جملة تعليمية أساسية."
+        "en": "We are busy this morning.",
+        "ar": "نحن مشغولون هذا الصباح.",
+        "context": "تقال عند عدم التفرغ في فترة معينة."
       },
       {
         "id": 6,
-        "en": "She said, \"I am very busy. I do not have time now\" in a calm way.",
-        "ar": "قالت: \"أنا مشغول جدًا. ليس لدي وقت الآن\" بطريقة هادئة.",
-        "context": "تجعل الجملة جزءًا من كلام مباشر في موقف عادي."
+        "en": "They do not have time for a meeting.",
+        "ar": "ليس لديهم وقت لاجتماع.",
+        "context": "تقال عند تعذر عقد اجتماع."
       },
       {
         "id": 7,
-        "en": "He repeated, \"I am very busy. I do not have time now\" more than once.",
-        "ar": "ردد: \"أنا مشغول جدًا. ليس لدي وقت الآن\" أكثر من مرة.",
-        "context": "تضيف معنى التكرار لنفس الجملة."
+        "en": "I am too busy to talk.",
+        "ar": "أنا مشغول جدًا ولا أستطيع التحدث.",
+        "context": "تقال عند عدم القدرة على الكلام بسبب الانشغال."
       },
       {
         "id": 8,
-        "en": "At the right moment, someone might say, \"I am very busy. I do not have time now\".",
-        "ar": "في اللحظة المناسبة، قد يقول شخص ما: \"أنا مشغول جدًا. ليس لدي وقت الآن\".",
-        "context": "توضح أن الجملة مرتبطة بتوقيت مناسب في السياق."
+        "en": "My manager is very busy.",
+        "ar": "مديري مشغول جدًا.",
+        "context": "تقال عند صعوبة مقابلة المدير."
       },
       {
         "id": 9,
-        "en": "I wrote down the sentence, \"I am very busy. I do not have time now\" so I would remember it.",
-        "ar": "كتبت الجملة: \"أنا مشغول جدًا. ليس لدي وقت الآن\" حتى أتذكرها.",
-        "context": "تعطي مثالًا على حفظ الجملة أو مراجعتها."
+        "en": "I do not have time to wait.",
+        "ar": "ليس لدي وقت للانتظار.",
+        "context": "تقال عند الحاجة إلى المغادرة بسرعة."
       },
       {
         "id": 10,
-        "en": "It is useful to know when to say, \"I am very busy. I do not have time now\".",
-        "ar": "من المفيد أن تعرف متى تقول: \"أنا مشغول جدًا. ليس لدي وقت الآن\".",
-        "context": "تركز على معرفة الوقت المناسب لاستخدام الجملة."
+        "en": "The doctor is busy now.",
+        "ar": "الطبيب مشغول الآن.",
+        "context": "تقال عند انتظار طبيب غير متفرغ."
       }
     ]
   }

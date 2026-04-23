@@ -10,91 +10,99 @@
     "wordMeanings": [
       {
         "term": "Where",
-        "description": "أداة سؤال عن المكان."
+        "description": "أين، وتستخدم للسؤال عن مكان."
       },
       {
         "term": "would",
-        "description": "فعل modal يُستعمل للطلب المؤدب أو الرغبة أو الفرضية."
+        "description": "تجعل السؤال أكثر تهذيبًا وافتراضية."
       },
       {
         "term": "you",
-        "description": "الضمير الذي يعود على الشخص المخاطَب."
+        "description": "أنت، وتشير إلى الشخص المخاطب."
       },
       {
         "term": "like",
-        "description": "فعل يدل على الإعجاب أو الميل."
+        "description": "تود أو ترغب."
       },
       {
         "term": "to",
-        "description": "أداة تأتي قبل المصدر بعد أفعال مثل want."
+        "description": "تربط الرغبة بالفعل بعدها."
       },
       {
         "term": "meet",
-        "description": "فعل يعني يقابل أو يلتقي."
+        "description": "نلتقي أو نتقابل."
       }
     ],
-    "tense": null,
-    "tenseReason": "استُعمل هذا التركيب لأنه سؤال يعتمد على فعل modal مثل can أو could أو would، لذلك لا نعامله هنا كزمن مستقل بل كصيغة سؤال وظيفية.",
+    "grammarExplanations": [
+      {
+        "sentence": "Where would you like to meet?",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه صيغة سؤال مهذبة عن الرغبة في اختيار مكان اللقاء، وتستخدم تركيبًا افتراضيًا لا يشرح كزمن مستقل."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "You can ask, \"Where would you like to meet?\" when you need information.",
-        "ar": "يمكنك أن تسأل: \"أين تود أن نلتقي؟\" عندما تحتاج إلى معلومة.",
-        "context": "تستعمل الجملة كسؤال مباشر للحصول على معلومة."
+        "en": "Where would you like to meet?",
+        "ar": "أين تود أن نلتقي؟",
+        "context": "تقال عند طلب تحديد مكان اللقاء."
       },
       {
         "id": 2,
-        "en": "Many people ask, \"Where would you like to meet?\" in this situation.",
-        "ar": "يسأل كثير من الناس: \"أين تود أن نلتقي؟\" في هذا الموقف.",
-        "context": "توضح أن هذا سؤال شائع في موقف مشابه."
+        "en": "Where would you like to eat?",
+        "ar": "أين تود أن تأكل؟",
+        "context": "تقال عند اختيار مطعم أو مكان طعام."
       },
       {
         "id": 3,
-        "en": "I asked, \"Where would you like to meet?\" because I was not sure.",
-        "ar": "سألت: \"أين تود أن نلتقي؟\" لأنني لم أكن متأكدًا.",
-        "context": "تضيف سببًا لطرح السؤال."
+        "en": "Where would you like to go?",
+        "ar": "أين تود أن تذهب؟",
+        "context": "تقال عند سؤال شخص عن وجهته المفضلة."
       },
       {
         "id": 4,
-        "en": "She asked politely, \"Where would you like to meet?\"",
-        "ar": "سألت بأدب: \"أين تود أن نلتقي؟\".",
-        "context": "تبين أن السؤال قيل بطريقة مهذبة."
+        "en": "Where would you like to sit?",
+        "ar": "أين تود أن تجلس؟",
+        "context": "تقال عند اختيار مقعد."
       },
       {
         "id": 5,
-        "en": "At work, someone may ask, \"Where would you like to meet?\"",
-        "ar": "في العمل، قد يسأل شخص ما: \"أين تود أن نلتقي؟\".",
-        "context": "تضع السؤال في سياق مهني أو عملي."
+        "en": "Would you like to meet at the station?",
+        "ar": "هل تود أن نلتقي في المحطة؟",
+        "context": "تقال عند اقتراح مكان لقاء."
       },
       {
         "id": 6,
-        "en": "Before deciding, ask: \"Where would you like to meet?\"",
-        "ar": "قبل أن تقرر، اسأل: \"أين تود أن نلتقي؟\".",
-        "context": "تستخدم السؤال قبل اتخاذ قرار."
+        "en": "Would you like to meet at the hotel?",
+        "ar": "هل تود أن نلتقي في الفندق؟",
+        "context": "تقال عند اقتراح الفندق مكانًا للقاء."
       },
       {
         "id": 7,
-        "en": "The student asked, \"Where would you like to meet?\" in class.",
-        "ar": "سأل الطالب: \"أين تود أن نلتقي؟\" في الصف.",
-        "context": "تجعل الجملة جزءًا من موقف تعليمي."
+        "en": "Where do you want to meet?",
+        "ar": "أين تريد أن نلتقي؟",
+        "context": "تقال بصيغة مباشرة أقل رسمية."
       },
       {
         "id": 8,
-        "en": "While traveling, you can ask, \"Where would you like to meet?\"",
-        "ar": "أثناء السفر، يمكنك أن تسأل: \"أين تود أن نلتقي؟\".",
-        "context": "تربط السؤال بموقف السفر أو التنقل."
+        "en": "Where should we meet?",
+        "ar": "أين ينبغي أن نلتقي؟",
+        "context": "تقال عند ترتيب مكان لقاء."
       },
       {
         "id": 9,
-        "en": "He asked me, \"Where would you like to meet?\" again.",
-        "ar": "سألني: \"أين تود أن نلتقي؟\" مرة أخرى.",
-        "context": "تضيف معنى التكرار لنفس السؤال."
+        "en": "Where would you like to meet tomorrow?",
+        "ar": "أين تود أن نلتقي غدًا؟",
+        "context": "تقال عند ترتيب لقاء في اليوم التالي."
       },
       {
         "id": 10,
-        "en": "If you are not sure, ask: \"Where would you like to meet?\"",
-        "ar": "إذا لم تكن متأكدًا، فاسأل: \"أين تود أن نلتقي؟\".",
-        "context": "توضح أن السؤال مناسب عند عدم التأكد."
+        "en": "Where would you like to meet after work?",
+        "ar": "أين تود أن نلتقي بعد العمل؟",
+        "context": "تقال عند ترتيب لقاء بعد الدوام."
       }
     ]
   }

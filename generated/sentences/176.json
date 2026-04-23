@@ -10,88 +10,95 @@
     "wordMeanings": [
       {
         "term": "Have",
-        "description": "فعل يعني يملك، ويأتي أيضًا كفعل مساعد."
+        "description": "تأتي في بداية السؤال لتكوين سؤال عن تجربة حدثت قبل الآن."
       },
       {
         "term": "you",
-        "description": "الضمير الذي يعود على الشخص المخاطَب."
+        "description": "أنت، وتشير إلى الشخص المخاطب."
       },
       {
         "term": "been",
-        "description": "اسم مفعول من فعل be ويأتي كثيرًا مع الأزمنة التامة."
+        "description": "زرت أو كنت في مكان في وقت سابق."
       },
       {
         "term": "to",
-        "description": "أداة تأتي قبل المصدر بعد أفعال مثل want."
+        "description": "إلى، وتربط التجربة بالمكان."
       },
       {
         "term": "Boston",
-        "description": "اسم مدينة."
+        "description": "مدينة بوسطن."
       }
     ],
-    "tense": "المضارع التام",
-    "tenseEn": "Present Perfect",
-    "tenseReason": "استُعمل المضارع التام لأن الجملة تربط بين حدث وقع في الماضي ونتيجته أو أثره في الحاضر.",
+    "grammarExplanations": [
+      {
+        "sentence": "Have you been to Boston?",
+        "explanation": {
+          "tense": "المضارع التام",
+          "tenseEn": "Present Perfect",
+          "reason": "يستخدم المضارع التام للسؤال عن تجربة في حياة الشخص حتى الآن، وليس عن وقت زيارة محدد في الماضي."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "You can ask, \"Have you been to Boston?\" when you need information.",
-        "ar": "يمكنك أن تسأل: \"هل زرت بوسطن من قبل؟\" عندما تحتاج إلى معلومة.",
-        "context": "تستعمل الجملة كسؤال مباشر للحصول على معلومة."
+        "en": "Have you been to Boston?",
+        "ar": "هل زرت بوسطن من قبل؟",
+        "context": "تقال للسؤال عن تجربة زيارة مدينة."
       },
       {
         "id": 2,
-        "en": "Many people ask, \"Have you been to Boston?\" in this situation.",
-        "ar": "يسأل كثير من الناس: \"هل زرت بوسطن من قبل؟\" في هذا الموقف.",
-        "context": "توضح أن هذا سؤال شائع في موقف مشابه."
+        "en": "Have you been to New York?",
+        "ar": "هل زرت نيويورك من قبل؟",
+        "context": "تقال للسؤال عن تجربة زيارة نيويورك."
       },
       {
         "id": 3,
-        "en": "I asked, \"Have you been to Boston?\" because I was not sure.",
-        "ar": "سألت: \"هل زرت بوسطن من قبل؟\" لأنني لم أكن متأكدًا.",
-        "context": "تضيف سببًا لطرح السؤال."
+        "en": "Have you been to this restaurant?",
+        "ar": "هل زرت هذا المطعم من قبل؟",
+        "context": "تقال قبل اختيار مطعم."
       },
       {
         "id": 4,
-        "en": "She asked politely, \"Have you been to Boston?\"",
-        "ar": "سألت بأدب: \"هل زرت بوسطن من قبل؟\".",
-        "context": "تبين أن السؤال قيل بطريقة مهذبة."
+        "en": "Have you been to the museum?",
+        "ar": "هل زرت المتحف من قبل؟",
+        "context": "تقال عند السؤال عن تجربة زيارة متحف."
       },
       {
         "id": 5,
-        "en": "At work, someone may ask, \"Have you been to Boston?\"",
-        "ar": "في العمل، قد يسأل شخص ما: \"هل زرت بوسطن من قبل؟\".",
-        "context": "تضع السؤال في سياق مهني أو عملي."
+        "en": "Have you been here before?",
+        "ar": "هل كنت هنا من قبل؟",
+        "context": "تقال عند الوصول إلى مكان جديد أو مألوف."
       },
       {
         "id": 6,
-        "en": "Before deciding, ask: \"Have you been to Boston?\"",
-        "ar": "قبل أن تقرر، اسأل: \"هل زرت بوسطن من قبل؟\".",
-        "context": "تستخدم السؤال قبل اتخاذ قرار."
+        "en": "Have you been to Turkey?",
+        "ar": "هل زرت تركيا من قبل؟",
+        "context": "تقال للسؤال عن تجربة السفر إلى بلد."
       },
       {
         "id": 7,
-        "en": "The student asked, \"Have you been to Boston?\" in class.",
-        "ar": "سأل الطالب: \"هل زرت بوسطن من قبل؟\" في الصف.",
-        "context": "تجعل الجملة جزءًا من موقف تعليمي."
+        "en": "Have you been to that hotel?",
+        "ar": "هل زرت ذلك الفندق من قبل؟",
+        "context": "تقال عند السؤال عن تجربة إقامة أو زيارة."
       },
       {
         "id": 8,
-        "en": "While traveling, you can ask, \"Have you been to Boston?\"",
-        "ar": "أثناء السفر، يمكنك أن تسأل: \"هل زرت بوسطن من قبل؟\".",
-        "context": "تربط السؤال بموقف السفر أو التنقل."
+        "en": "Have you ever been to Canada?",
+        "ar": "هل زرت كندا من قبل؟",
+        "context": "تقال للتأكيد على أي وقت في الحياة."
       },
       {
         "id": 9,
-        "en": "He asked me, \"Have you been to Boston?\" again.",
-        "ar": "سألني: \"هل زرت بوسطن من قبل؟\" مرة أخرى.",
-        "context": "تضيف معنى التكرار لنفس السؤال."
+        "en": "Has she been to Boston?",
+        "ar": "هل زارت بوسطن من قبل؟",
+        "context": "تقال عند السؤال عن تجربة امرأة."
       },
       {
         "id": 10,
-        "en": "If you are not sure, ask: \"Have you been to Boston?\"",
-        "ar": "إذا لم تكن متأكدًا، فاسأل: \"هل زرت بوسطن من قبل؟\".",
-        "context": "توضح أن السؤال مناسب عند عدم التأكد."
+        "en": "Have they been to this city?",
+        "ar": "هل زاروا هذه المدينة من قبل؟",
+        "context": "تقال عند السؤال عن تجربة مجموعة في مدينة."
       }
     ]
   }

@@ -10,79 +10,87 @@
     "wordMeanings": [
       {
         "term": "About",
-        "description": "حرف جر أو ظرف يعني عن أو تقريبًا حسب السياق."
+        "description": "حوالي أو تقريبًا، وتستخدم عندما لا يكون الرقم دقيقًا تمامًا."
       },
       {
         "term": "300",
-        "description": "رقم يدل على ٣٠٠."
+        "description": "العدد ثلاثمئة."
       },
       {
         "term": "kilometers",
-        "description": "اسم يعني كيلومتر."
+        "description": "كيلومترات، وهي وحدة لقياس المسافات الطويلة."
       }
     ],
-    "tense": null,
-    "tenseReason": "استُعمل هذا التعبير لأنه عبارة ثابتة أو رد قصير يُستخدم في موقف محدد، وليس جملة فعلية كاملة بزمن واضح.",
+    "grammarExplanations": [
+      {
+        "sentence": "About 300 kilometers.",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه عبارة قصيرة لتقدير مسافة وليست جملة كاملة بفعل، لذلك لا تحمل زمنًا مستقلًا."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "In this situation, people often say, \"About 300 kilometers\".",
-        "ar": "في هذا الموقف، يقول الناس كثيرًا: \"حوالي ٣٠٠ كيلومتر\".",
-        "context": "توضح أن العبارة مناسبة في هذا النوع من المواقف."
+        "en": "About 300 kilometers.",
+        "ar": "حوالي ٣٠٠ كيلومتر.",
+        "context": "تقال عند تقدير مسافة."
       },
       {
         "id": 2,
-        "en": "The teacher said, \"About 300 kilometers\" to the students.",
-        "ar": "قال المعلم للطلاب: \"حوالي ٣٠٠ كيلومتر\".",
-        "context": "تستخدم الجملة كتعليمات أو توجيه مباشر."
+        "en": "It is about 300 kilometers.",
+        "ar": "إنها حوالي ٣٠٠ كيلومتر.",
+        "context": "تقال عند إعطاء مسافة تقريبية كاملة."
       },
       {
         "id": 3,
-        "en": "He told me, \"About 300 kilometers\" before we left.",
-        "ar": "قال لي: \"حوالي ٣٠٠ كيلومتر\" قبل أن نغادر.",
-        "context": "تضع العبارة قبل حدث آخر."
+        "en": "The city is about 300 kilometers away.",
+        "ar": "المدينة تبعد حوالي ٣٠٠ كيلومتر.",
+        "context": "تقال عند وصف بعد مدينة."
       },
       {
         "id": 4,
-        "en": "She said, \"About 300 kilometers\" in a polite way.",
-        "ar": "قالت: \"حوالي ٣٠٠ كيلومتر\" بطريقة مهذبة.",
-        "context": "تظهر أن العبارة يمكن أن تقال بلطف أو أدب."
+        "en": "The drive is about 300 kilometers.",
+        "ar": "مسافة القيادة حوالي ٣٠٠ كيلومتر.",
+        "context": "تقال عند تقدير طول طريق بالسيارة."
       },
       {
         "id": 5,
-        "en": "Someone shouted, \"About 300 kilometers\" when there was a problem.",
-        "ar": "صاح شخص ما: \"حوالي ٣٠٠ كيلومتر\" عندما ظهرت مشكلة.",
-        "context": "تربط العبارة بموقف سريع أو طارئ."
+        "en": "The airport is about 50 kilometers away.",
+        "ar": "المطار يبعد حوالي ٥٠ كيلومترًا.",
+        "context": "تقال عند تقدير المسافة إلى المطار."
       },
       {
         "id": 6,
-        "en": "You can say, \"About 300 kilometers\" when you need a quick response.",
-        "ar": "يمكنك أن تقول: \"حوالي ٣٠٠ كيلومتر\" عندما تحتاج إلى رد سريع.",
-        "context": "توضح أن العبارة مفيدة عند الحاجة إلى استجابة مباشرة."
+        "en": "The hotel is about two kilometers from here.",
+        "ar": "الفندق يبعد حوالي كيلومترين من هنا.",
+        "context": "تقال عند وصف موقع قريب."
       },
       {
         "id": 7,
-        "en": "They repeated, \"About 300 kilometers\" more than once.",
-        "ar": "رددوا: \"حوالي ٣٠٠ كيلومتر\" أكثر من مرة.",
-        "context": "تعطي مثالًا على تكرار العبارة."
+        "en": "The station is about ten minutes away.",
+        "ar": "المحطة تبعد حوالي عشر دقائق.",
+        "context": "تقال عند تقدير الوقت للوصول."
       },
       {
         "id": 8,
-        "en": "I heard him say, \"About 300 kilometers\" yesterday.",
-        "ar": "سمعته يقول: \"حوالي ٣٠٠ كيلومتر\" أمس.",
-        "context": "تجعل العبارة جزءًا من موقف سمعته من شخص آخر."
+        "en": "It is about five kilometers to the beach.",
+        "ar": "المسافة إلى الشاطئ حوالي خمسة كيلومترات.",
+        "context": "تقال عند شرح المسافة إلى مكان."
       },
       {
         "id": 9,
-        "en": "Many learners remember the phrase, \"About 300 kilometers\".",
-        "ar": "يتذكر كثير من المتعلمين العبارة: \"حوالي ٣٠٠ كيلومتر\".",
-        "context": "تقدم العبارة بوصفها عبارة سهلة التذكر."
+        "en": "The border is about 300 kilometers north.",
+        "ar": "الحدود تبعد حوالي ٣٠٠ كيلومتر شمالًا.",
+        "context": "تقال عند إعطاء اتجاه ومسافة تقريبية."
       },
       {
         "id": 10,
-        "en": "At that moment, she said, \"About 300 kilometers\".",
-        "ar": "في تلك اللحظة، قالت: \"حوالي ٣٠٠ كيلومتر\".",
-        "context": "تربط العبارة بلحظة معينة في السرد."
+        "en": "The trip is about 300 kilometers by road.",
+        "ar": "الرحلة حوالي ٣٠٠ كيلومتر عبر الطريق.",
+        "context": "تقال عند تقدير مسافة طريق."
       }
     ]
   }

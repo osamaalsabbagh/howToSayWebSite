@@ -10,75 +10,83 @@
     "wordMeanings": [
       {
         "term": "I",
-        "description": "ضمير المتكلم."
+        "description": "ضمير المتكلم ويشير إلى الشخص الذي يتحدث."
       },
       {
         "term": "know",
-        "description": "فعل يعني يعرف أو يعلم."
+        "description": "أعرف أو لدي معرفة بالمعلومة."
       }
     ],
-    "tense": null,
-    "tenseReason": "استُعمل هذا التعبير لأنه عبارة ثابتة أو رد قصير يُستخدم في موقف محدد، وليس جملة فعلية كاملة بزمن واضح.",
+    "grammarExplanations": [
+      {
+        "sentence": "I know.",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "تستخدم الجملة المضارع البسيط للتعبير عن معرفة موجودة عند المتكلم الآن أو بشكل عام."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "In this situation, people often say, \"I know\".",
-        "ar": "في هذا الموقف، يقول الناس كثيرًا: \"أعرف\".",
-        "context": "توضح أن العبارة مناسبة في هذا النوع من المواقف."
+        "en": "I know the answer.",
+        "ar": "أعرف الإجابة.",
+        "context": "تقال عند التأكد من امتلاك المعلومة المطلوبة."
       },
       {
         "id": 2,
-        "en": "The teacher said, \"I know\" to the students.",
-        "ar": "قال المعلم للطلاب: \"أعرف\".",
-        "context": "تستخدم الجملة كتعليمات أو توجيه مباشر."
+        "en": "She knows the address.",
+        "ar": "هي تعرف العنوان.",
+        "context": "تقال عند معرفة شخص لمكان معين."
       },
       {
         "id": 3,
-        "en": "He told me, \"I know\" before we left.",
-        "ar": "قال لي: \"أعرف\" قبل أن نغادر.",
-        "context": "تضع العبارة قبل حدث آخر."
+        "en": "We know the problem.",
+        "ar": "نحن نعرف المشكلة.",
+        "context": "تقال عند فهم سبب الصعوبة."
       },
       {
         "id": 4,
-        "en": "She said, \"I know\" in a polite way.",
-        "ar": "قالت: \"أعرف\" بطريقة مهذبة.",
-        "context": "تظهر أن العبارة يمكن أن تقال بلطف أو أدب."
+        "en": "He knows my name.",
+        "ar": "هو يعرف اسمي.",
+        "context": "تقال عندما يكون شخص على معرفة باسمك."
       },
       {
         "id": 5,
-        "en": "Someone shouted, \"I know\" when there was a problem.",
-        "ar": "صاح شخص ما: \"أعرف\" عندما ظهرت مشكلة.",
-        "context": "تربط العبارة بموقف سريع أو طارئ."
+        "en": "I know what happened.",
+        "ar": "أعرف ما حدث.",
+        "context": "تقال عند معرفة تفاصيل موقف سابق."
       },
       {
         "id": 6,
-        "en": "You can say, \"I know\" when you need a quick response.",
-        "ar": "يمكنك أن تقول: \"أعرف\" عندما تحتاج إلى رد سريع.",
-        "context": "توضح أن العبارة مفيدة عند الحاجة إلى استجابة مباشرة."
+        "en": "They know the rules.",
+        "ar": "هم يعرفون القواعد.",
+        "context": "تقال عند معرفة مجموعة للتعليمات."
       },
       {
         "id": 7,
-        "en": "They repeated, \"I know\" more than once.",
-        "ar": "رددوا: \"أعرف\" أكثر من مرة.",
-        "context": "تعطي مثالًا على تكرار العبارة."
+        "en": "I know this place.",
+        "ar": "أعرف هذا المكان.",
+        "context": "تقال عند التعرف على مكان أو زيارته من قبل."
       },
       {
         "id": 8,
-        "en": "I heard him say, \"I know\" yesterday.",
-        "ar": "سمعته يقول: \"أعرف\" أمس.",
-        "context": "تجعل العبارة جزءًا من موقف سمعته من شخص آخر."
+        "en": "My brother knows the way.",
+        "ar": "أخي يعرف الطريق.",
+        "context": "تقال عند الاعتماد على شخص يعرف الاتجاه."
       },
       {
         "id": 9,
-        "en": "Many learners remember the phrase, \"I know\".",
-        "ar": "يتذكر كثير من المتعلمين العبارة: \"أعرف\".",
-        "context": "تقدم العبارة بوصفها عبارة سهلة التذكر."
+        "en": "I know the teacher.",
+        "ar": "أعرف المعلم.",
+        "context": "تقال عند وجود معرفة سابقة بشخص."
       },
       {
         "id": 10,
-        "en": "At that moment, she said, \"I know\".",
-        "ar": "في تلك اللحظة، قالت: \"أعرف\".",
-        "context": "تربط العبارة بلحظة معينة في السرد."
+        "en": "You know the truth.",
+        "ar": "أنت تعرف الحقيقة.",
+        "context": "تقال عند تأكيد أن المخاطب يعرف ما هو صحيح."
       }
     ]
   }

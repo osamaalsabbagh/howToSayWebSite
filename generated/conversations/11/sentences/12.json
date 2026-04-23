@@ -10,96 +10,111 @@
     "wordMeanings": [
       {
         "term": "Clean",
-        "description": "صفة تعني النظيف."
+        "description": "نظيف أو يبدو غير متسخ."
       },
       {
         "term": "water",
-        "description": "اسم يعني ماء."
+        "description": "ماء."
       },
       {
         "term": "just",
-        "description": "ظرف يعني للتو أو فقط أو تمامًا حسب السياق."
+        "description": "فقط أو ليس أكثر من ذلك."
       },
       {
         "term": "means",
-        "description": "فعل يعني يعني."
+        "description": "يعني أو يدل على."
       },
       {
         "term": "it",
-        "description": "ضمير يعود على الشيء أو الجملة التي قيلت."
+        "description": "ضمير يعود على الماء النظيف."
       },
       {
         "term": "looks",
-        "description": "صيغة المضارع من look وتعني يبدو أو ينظر حسب السياق."
+        "description": "يبدو أو يظهر للعين."
       },
       {
         "term": "clear",
-        "description": "صفة تعني واضح."
+        "description": "صافٍ أو شفاف."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "Clean water just means it looks clear.",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "الجملة تقدم تعريفًا عامًا في الاستعمال اليومي لمعنى الماء النظيف."
+        }
+      },
+      {
+        "sentence": "it looks clear",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "هذا الجزء يصف مظهر الماء في الحاضر أو كصفة عامة."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "In general, Clean water just means it looks clear.",
-        "ar": "بشكل عام، الماء النظيف فقط يعني أنه يبدو صافياً.",
-        "context": "تضيف عبارة عامة تحافظ على نفس المعنى الأساسي."
+        "en": "Clean glass just means it looks clear.",
+        "ar": "الزجاج النظيف فقط يعني أنه يبدو صافيًا.",
+        "context": "يُستخدم عندما يكون الحكم مبنيًا على المظهر."
       },
       {
         "id": 2,
-        "en": "Usually, Clean water just means it looks clear.",
-        "ar": "عادةً، الماء النظيف فقط يعني أنه يبدو صافياً.",
-        "context": "تضيف ظرفًا يدل على التكرار أو العادة."
+        "en": "Clean water can mean it looks clear.",
+        "ar": "الماء النظيف قد يعني أنه يبدو صافيًا.",
+        "context": "يُستخدم عند توضيح معنى يومي غير علمي."
       },
       {
         "id": 3,
-        "en": "Sometimes, Clean water just means it looks clear.",
-        "ar": "أحيانًا، الماء النظيف فقط يعني أنه يبدو صافياً.",
-        "context": "تضع الجملة في سياق أقل تكرارًا."
+        "en": "A clean table just means it has no visible dirt.",
+        "ar": "الطاولة النظيفة فقط تعني أنها لا تحتوي على أوساخ ظاهرة.",
+        "context": "يُستخدم عند وصف نظافة ظاهرة للعين."
       },
       {
         "id": 4,
-        "en": "For now, Clean water just means it looks clear.",
-        "ar": "في الوقت الحالي، الماء النظيف فقط يعني أنه يبدو صافياً.",
-        "context": "تربط الجملة بالوضع الحالي."
+        "en": "Clear water looks clean, but it may not be safe.",
+        "ar": "الماء الصافي يبدو نظيفًا، لكنه قد لا يكون آمنًا.",
+        "context": "يُستخدم للتمييز بين المظهر والسلامة."
       },
       {
         "id": 5,
-        "en": "Clean water just means it looks clear, so that helps a lot.",
-        "ar": "الماء النظيف فقط يعني أنه يبدو صافياً، وهذا يساعد كثيرًا.",
-        "context": "تضيف نتيجة بسيطة على نفس المعنى."
+        "en": "Clean clothes just mean they look fresh.",
+        "ar": "الملابس النظيفة فقط تعني أنها تبدو منتعشة.",
+        "context": "يُستخدم عند الحديث عن مظهر الملابس."
       },
       {
         "id": 6,
-        "en": "Clean water just means it looks clear in daily life.",
-        "ar": "الماء النظيف فقط يعني أنه يبدو صافياً في الحياة اليومية.",
-        "context": "تربط الجملة بمواقف الحياة اليومية."
+        "en": "Clean air means it feels easy to breathe.",
+        "ar": "الهواء النظيف يعني أنه يبدو سهل التنفس.",
+        "context": "يُستخدم لوصف الإحساس بالهواء."
       },
       {
         "id": 7,
-        "en": "Clean water just means it looks clear when it is necessary.",
-        "ar": "الماء النظيف فقط يعني أنه يبدو صافياً عندما يكون ذلك ضروريًا.",
-        "context": "تربط الجملة بشرط أو حاجة معينة."
+        "en": "A clean room just means it looks tidy.",
+        "ar": "الغرفة النظيفة فقط تعني أنها تبدو مرتبة.",
+        "context": "يُستخدم عندما تعتمد النظافة على الترتيب الظاهر."
       },
       {
         "id": 8,
-        "en": "In this situation, Clean water just means it looks clear.",
-        "ar": "في هذا الموقف، الماء النظيف فقط يعني أنه يبدو صافياً.",
-        "context": "تجعل الجملة جزءًا من موقف واضح."
+        "en": "Clean water looks clear in the glass.",
+        "ar": "الماء النظيف يبدو صافيًا في الكوب.",
+        "context": "يُستخدم لوصف مظهر الماء داخل كوب."
       },
       {
         "id": 9,
-        "en": "Clean water just means it looks clear, and everyone notices that.",
-        "ar": "الماء النظيف فقط يعني أنه يبدو صافياً، والجميع يلاحظ ذلك.",
-        "context": "تضيف ملاحظة أو نتيجة بعد الجملة."
+        "en": "A clean plate just means it has no food on it.",
+        "ar": "الصحن النظيف فقط يعني أنه لا يوجد طعام عليه.",
+        "context": "يُستخدم لوصف نظافة ظاهرية بسيطة."
       },
       {
         "id": 10,
-        "en": "Clean water just means it looks clear most of the time.",
-        "ar": "الماء النظيف فقط يعني أنه يبدو صافياً معظم الوقت.",
-        "context": "تضيف عبارة تكرار شائعة."
+        "en": "Clear soup looks clean because you can see through it.",
+        "ar": "الحساء الصافي يبدو نظيفًا لأنك تستطيع الرؤية من خلاله.",
+        "context": "يُستخدم لربط الصفاء بالمظهر."
       }
     ]
   }

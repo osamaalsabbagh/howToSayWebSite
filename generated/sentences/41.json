@@ -10,88 +10,95 @@
     "wordMeanings": [
       {
         "term": "I",
-        "description": "ضمير المتكلم."
+        "description": "ضمير المتكلم ويشير إلى الشخص الذي يتحدث."
       },
       {
         "term": "will",
-        "description": "أداة مستقبل تدل على ما سيحدث لاحقًا."
+        "description": "كلمة تدل على أن الفعل سيحدث في المستقبل."
       },
       {
         "term": "come",
-        "description": "فعل يعني يأتي."
+        "description": "آتي أو أتحرك نحو المكان المقصود."
       },
       {
         "term": "back",
-        "description": "اسم أو ظرف أو صفة يعني ظهر/خلف/عودة حسب السياق."
+        "description": "تدل على الرجوع إلى مكان كنت فيه من قبل."
       },
       {
         "term": "later",
-        "description": "ظرف زمان يعني لاحقًا."
+        "description": "لاحقًا أو في وقت بعد الآن."
       }
     ],
-    "tense": "المستقبل البسيط",
-    "tenseEn": "Future Simple",
-    "tenseReason": "استُعمل المستقبل البسيط لأن الجملة تتحدث عن شيء سيحدث لاحقًا أو عن قرار أو توقع يخص المستقبل.",
+    "grammarExplanations": [
+      {
+        "sentence": "I will come back later.",
+        "explanation": {
+          "tense": "المستقبل البسيط",
+          "tenseEn": "Future Simple",
+          "reason": "تستخدم will مع الفعل الأساسي للتعبير عن نية أو وعد بالعودة في وقت لاحق."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "People often say, \"I will come back later\" in situations like this.",
-        "ar": "يقول الناس كثيرًا: \"سأعود لاحقًا\" في مواقف كهذه.",
-        "context": "تستخدم الجملة بوصفها تركيبًا شائعًا في موقف مشابه."
+        "en": "I will return later.",
+        "ar": "سأعود لاحقًا.",
+        "context": "تقال عند مغادرة مكان مع نية الرجوع."
       },
       {
         "id": 2,
-        "en": "You can say, \"I will come back later\" when this happens.",
-        "ar": "يمكنك أن تقول: \"سأعود لاحقًا\" عندما يحدث هذا.",
-        "context": "توضح أن الجملة مناسبة في موقف متكرر."
+        "en": "She will come back tomorrow.",
+        "ar": "ستعود غدًا.",
+        "context": "تقال عند توقع عودة امرأة أو فتاة في اليوم التالي."
       },
       {
         "id": 3,
-        "en": "I heard someone say, \"I will come back later\".",
-        "ar": "سمعت شخصًا يقول: \"سأعود لاحقًا\".",
-        "context": "تجعل الجملة جزءًا من كلام سمعته من شخص آخر."
+        "en": "We will come back after lunch.",
+        "ar": "سنعود بعد الغداء.",
+        "context": "تقال عند تحديد وقت العودة بعد وجبة."
       },
       {
         "id": 4,
-        "en": "The teacher used the sentence, \"I will come back later\" in class.",
-        "ar": "استخدم المعلم الجملة: \"سأعود لاحقًا\" في الصف.",
-        "context": "تستخدم الجملة مثالًا تعليميًا في الصف."
+        "en": "He will come back soon.",
+        "ar": "سيعود قريبًا.",
+        "context": "تقال عند توقع عودة شخص بعد وقت قصير."
       },
       {
         "id": 5,
-        "en": "Many learners remember the sentence, \"I will come back later\" first.",
-        "ar": "يتذكر كثير من المتعلمين الجملة: \"سأعود لاحقًا\" أولًا.",
-        "context": "تقدم الجملة بوصفها جملة تعليمية أساسية."
+        "en": "I will call back later.",
+        "ar": "سأتصل مرة أخرى لاحقًا.",
+        "context": "تقال عند تأجيل مكالمة إلى وقت لاحق."
       },
       {
         "id": 6,
-        "en": "She said, \"I will come back later\" in a calm way.",
-        "ar": "قالت: \"سأعود لاحقًا\" بطريقة هادئة.",
-        "context": "تجعل الجملة جزءًا من كلام مباشر في موقف عادي."
+        "en": "They will come back next week.",
+        "ar": "سيعودون الأسبوع القادم.",
+        "context": "تقال عند تحديد عودة مجموعة في المستقبل."
       },
       {
         "id": 7,
-        "en": "He repeated, \"I will come back later\" more than once.",
-        "ar": "ردد: \"سأعود لاحقًا\" أكثر من مرة.",
-        "context": "تضيف معنى التكرار لنفس الجملة."
+        "en": "I will visit again later.",
+        "ar": "سأزور مرة أخرى لاحقًا.",
+        "context": "تقال عند وعد بزيارة أخرى."
       },
       {
         "id": 8,
-        "en": "At the right moment, someone might say, \"I will come back later\".",
-        "ar": "في اللحظة المناسبة، قد يقول شخص ما: \"سأعود لاحقًا\".",
-        "context": "توضح أن الجملة مرتبطة بتوقيت مناسب في السياق."
+        "en": "My brother will come back tonight.",
+        "ar": "سيعود أخي الليلة.",
+        "context": "تقال عند توقع عودة شخص في الليل."
       },
       {
         "id": 9,
-        "en": "I wrote down the sentence, \"I will come back later\" so I would remember it.",
-        "ar": "كتبت الجملة: \"سأعود لاحقًا\" حتى أتذكرها.",
-        "context": "تعطي مثالًا على حفظ الجملة أو مراجعتها."
+        "en": "The teacher will come back in five minutes.",
+        "ar": "سيعود المعلم بعد خمس دقائق.",
+        "context": "تقال عند انتظار عودة قصيرة."
       },
       {
         "id": 10,
-        "en": "It is useful to know when to say, \"I will come back later\".",
-        "ar": "من المفيد أن تعرف متى تقول: \"سأعود لاحقًا\".",
-        "context": "تركز على معرفة الوقت المناسب لاستخدام الجملة."
+        "en": "I will be back later.",
+        "ar": "سأكون عائدًا لاحقًا.",
+        "context": "تقال عند إبلاغ شخص أنك ستعود لاحقًا."
       }
     ]
   }

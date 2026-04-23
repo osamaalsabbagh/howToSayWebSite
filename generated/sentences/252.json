@@ -10,88 +10,95 @@
     "wordMeanings": [
       {
         "term": "That",
-        "description": "تشير إلى أمر أو خبر سبق ذكره."
+        "description": "ذلك، وتشير إلى مطعم محدد."
       },
       {
         "term": "restaurant",
-        "description": "اسم يعني مطعم."
+        "description": "مطعم."
       },
       {
         "term": "is",
-        "description": "فعل be في الحاضر مع المفرد."
+        "description": "صيغة تربط المطعم بوصفه في الحاضر."
       },
       {
         "term": "not",
-        "description": "أداة نفي."
+        "description": "ليس أو غير، وتدل على النفي."
       },
       {
         "term": "expensive",
-        "description": "صفة تعني غاليا."
+        "description": "غالي أو مرتفع السعر."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "That restaurant is not expensive.",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "يستخدم فعل الربط في الحاضر لوصف المطعم الآن أو بشكل عام، والنفي يوضح أن سعره ليس مرتفعًا."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "People often say, \"That restaurant is not expensive\" in situations like this.",
-        "ar": "يقول الناس كثيرًا: \"ذلك المطعم ليس غاليًا\" في مواقف كهذه.",
-        "context": "تستخدم الجملة بوصفها تركيبًا شائعًا في موقف مشابه."
+        "en": "That restaurant is not expensive.",
+        "ar": "ذلك المطعم ليس غاليًا.",
+        "context": "تقال عند توضيح أن المطعم سعره مناسب."
       },
       {
         "id": 2,
-        "en": "You can say, \"That restaurant is not expensive\" when this happens.",
-        "ar": "يمكنك أن تقول: \"ذلك المطعم ليس غاليًا\" عندما يحدث هذا.",
-        "context": "توضح أن الجملة مناسبة في موقف متكرر."
+        "en": "This restaurant is not expensive.",
+        "ar": "هذا المطعم ليس غاليًا.",
+        "context": "تقال عند الحديث عن مطعم قريب."
       },
       {
         "id": 3,
-        "en": "I heard someone say, \"That restaurant is not expensive\".",
-        "ar": "سمعت شخصًا يقول: \"ذلك المطعم ليس غاليًا\".",
-        "context": "تجعل الجملة جزءًا من كلام سمعته من شخص آخر."
+        "en": "The hotel is not expensive.",
+        "ar": "الفندق ليس غاليًا.",
+        "context": "تقال عند وصف سعر فندق."
       },
       {
         "id": 4,
-        "en": "The teacher used the sentence, \"That restaurant is not expensive\" in class.",
-        "ar": "استخدم المعلم الجملة: \"ذلك المطعم ليس غاليًا\" في الصف.",
-        "context": "تستخدم الجملة مثالًا تعليميًا في الصف."
+        "en": "The food is not expensive.",
+        "ar": "الطعام ليس غاليًا.",
+        "context": "تقال عند وصف سعر الطعام."
       },
       {
         "id": 5,
-        "en": "Many learners remember the sentence, \"That restaurant is not expensive\" first.",
-        "ar": "يتذكر كثير من المتعلمين الجملة: \"ذلك المطعم ليس غاليًا\" أولًا.",
-        "context": "تقدم الجملة بوصفها جملة تعليمية أساسية."
+        "en": "The tickets are not expensive.",
+        "ar": "التذاكر ليست غالية.",
+        "context": "تقال عند وصف سعر تذاكر."
       },
       {
         "id": 6,
-        "en": "She said, \"That restaurant is not expensive\" in a calm way.",
-        "ar": "قالت: \"ذلك المطعم ليس غاليًا\" بطريقة هادئة.",
-        "context": "تجعل الجملة جزءًا من كلام مباشر في موقف عادي."
+        "en": "That store is not expensive.",
+        "ar": "ذلك المتجر ليس غاليًا.",
+        "context": "تقال عند وصف أسعار متجر."
       },
       {
         "id": 7,
-        "en": "He repeated, \"That restaurant is not expensive\" more than once.",
-        "ar": "ردد: \"ذلك المطعم ليس غاليًا\" أكثر من مرة.",
-        "context": "تضيف معنى التكرار لنفس الجملة."
+        "en": "It is not expensive.",
+        "ar": "إنه ليس غاليًا.",
+        "context": "تقال عندما يكون الشيء معروفًا من السياق."
       },
       {
         "id": 8,
-        "en": "At the right moment, someone might say, \"That restaurant is not expensive\".",
-        "ar": "في اللحظة المناسبة، قد يقول شخص ما: \"ذلك المطعم ليس غاليًا\".",
-        "context": "توضح أن الجملة مرتبطة بتوقيت مناسب في السياق."
+        "en": "That restaurant is cheap.",
+        "ar": "ذلك المطعم رخيص.",
+        "context": "تقال لوصف المطعم بسعر منخفض."
       },
       {
         "id": 9,
-        "en": "I wrote down the sentence, \"That restaurant is not expensive\" so I would remember it.",
-        "ar": "كتبت الجملة: \"ذلك المطعم ليس غاليًا\" حتى أتذكرها.",
-        "context": "تعطي مثالًا على حفظ الجملة أو مراجعتها."
+        "en": "That restaurant is not too expensive.",
+        "ar": "ذلك المطعم ليس غاليًا جدًا.",
+        "context": "تقال عند تخفيف وصف السعر."
       },
       {
         "id": 10,
-        "en": "It is useful to know when to say, \"That restaurant is not expensive\".",
-        "ar": "من المفيد أن تعرف متى تقول: \"ذلك المطعم ليس غاليًا\".",
-        "context": "تركز على معرفة الوقت المناسب لاستخدام الجملة."
+        "en": "That restaurant is good and not expensive.",
+        "ar": "ذلك المطعم جيد وليس غاليًا.",
+        "context": "تقال عند مدح المطعم وسعره."
       }
     ]
   }

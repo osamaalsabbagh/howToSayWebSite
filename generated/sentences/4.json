@@ -10,92 +10,99 @@
     "wordMeanings": [
       {
         "term": "Chicago",
-        "description": "اسم مدينة."
+        "description": "اسم مدينة شيكاغو."
       },
       {
         "term": "is",
-        "description": "فعل be في الحاضر مع المفرد."
+        "description": "تربط المدينة بوصفها."
       },
       {
         "term": "very",
-        "description": "كلمة تزيد شدة الصفة."
+        "description": "كلمة تقوّي الصفة وتعني كثيرًا أو جدًا."
       },
       {
         "term": "different",
-        "description": "صفة تعني مختلف."
+        "description": "مختلف أو غير مشابه."
       },
       {
         "term": "from",
-        "description": "حرف جر يربط الشيء بما يُقارَن به."
+        "description": "تأتي مع different للمقارنة بين شيئين."
       },
       {
         "term": "Boston",
-        "description": "اسم مدينة."
+        "description": "اسم مدينة بوسطن."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن المتكلم يذكر حقيقة عامة أو مقارنة مستقرة بين شيئين.",
+    "grammarExplanations": [
+      {
+        "sentence": "Chicago is very different from Boston.",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "الجملة تقدم مقارنة عامة بين مدينتين وتصف اختلافًا قائمًا بينهما."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "This job is very different from my last job.",
-        "ar": "هذه الوظيفة مختلفة جدًا عن وظيفتي السابقة.",
-        "context": "تقارن بين وظيفتين."
+        "en": "New York is very different from Miami.",
+        "ar": "نيويورك مختلفة جدًا عن ميامي.",
+        "context": "تستخدم للمقارنة بين مدينتين."
       },
       {
         "id": 2,
-        "en": "Life here is very different from life there.",
-        "ar": "الحياة هنا مختلفة جدًا عن الحياة هناك.",
-        "context": "تقارن بين مكانين أو بيئتين."
+        "en": "This school is different from my old school.",
+        "ar": "هذه المدرسة مختلفة عن مدرستي القديمة.",
+        "context": "تقال عند مقارنة مكانين للتعلم."
       },
       {
         "id": 3,
-        "en": "My new school is very different from my old school.",
-        "ar": "مدرستي الجديدة مختلفة جدًا عن مدرستي القديمة.",
-        "context": "تقارن بين مدرستين."
+        "en": "English is different from Arabic.",
+        "ar": "الإنجليزية مختلفة عن العربية.",
+        "context": "تستخدم للمقارنة بين لغتين."
       },
       {
         "id": 4,
-        "en": "Their way of speaking is very different from ours.",
-        "ar": "طريقتهم في الكلام مختلفة جدًا عن طريقتنا.",
-        "context": "تقارن بين أسلوبين أو مجموعتين."
+        "en": "This city is very different from my town.",
+        "ar": "هذه المدينة مختلفة جدًا عن بلدتي.",
+        "context": "تقال عند وصف اختلاف مكان جديد."
       },
       {
         "id": 5,
-        "en": "This city is very different from my hometown.",
-        "ar": "هذه المدينة مختلفة جدًا عن مدينتي الأصلية.",
-        "context": "تقارن بين مدينتين أو نمطي حياة."
+        "en": "His answer is different from mine.",
+        "ar": "إجابته مختلفة عن إجابتي.",
+        "context": "تستخدم عند مقارنة إجابتين."
       },
       {
         "id": 6,
-        "en": "Studying online is very different from studying in class.",
-        "ar": "الدراسة عبر الإنترنت مختلفة جدًا عن الدراسة في الصف.",
-        "context": "تقارن بين طريقتين للتعلم."
+        "en": "The weather here is different from home.",
+        "ar": "الطقس هنا مختلف عن الوطن.",
+        "context": "تقال عند مقارنة الطقس."
       },
       {
         "id": 7,
-        "en": "Summer here is very different from summer there.",
-        "ar": "الصيف هنا مختلف جدًا عن الصيف هناك.",
-        "context": "تقارن بين الطقس في مكانين."
+        "en": "This job is very different from my last job.",
+        "ar": "هذه الوظيفة مختلفة جدًا عن وظيفتي السابقة.",
+        "context": "تقال عند مقارنة عملين."
       },
       {
         "id": 8,
-        "en": "His attitude is very different from hers.",
-        "ar": "أسلوبه مختلف جدًا عن أسلوبها.",
-        "context": "تقارن بين شخصين."
+        "en": "Your idea is different from his idea.",
+        "ar": "فكرتك مختلفة عن فكرته.",
+        "context": "تستخدم عند مقارنة آراء."
       },
       {
         "id": 9,
-        "en": "This answer is very different from yours.",
-        "ar": "هذه الإجابة مختلفة جدًا عن إجابتك.",
-        "context": "تقارن بين جوابين."
+        "en": "This apartment is different from the photos.",
+        "ar": "هذه الشقة مختلفة عن الصور.",
+        "context": "تقال عند معاينة شيء لا يطابق الصور."
       },
       {
         "id": 10,
-        "en": "Chicago is different from Boston in many ways.",
-        "ar": "شيكاغو مختلفة عن بوسطن من نواحٍ كثيرة.",
-        "context": "تذكر الفكرة نفسها بصياغة أوسع قليلًا."
+        "en": "Life in the city is different from life in the village.",
+        "ar": "الحياة في المدينة مختلفة عن الحياة في القرية.",
+        "context": "تستخدم للمقارنة بين أسلوبين للحياة."
       }
     ]
   }

@@ -10,108 +10,127 @@
     "wordMeanings": [
       {
         "term": "I",
-        "description": "ضمير المتكلم."
+        "description": "ضمير المتكلم المفرد."
       },
       {
         "term": "used",
-        "description": "فعل يعني كنت."
+        "description": "تأتي ضمن تركيب يدل على حالة أو عادة كانت في الماضي ولم تعد الآن."
       },
       {
         "term": "to",
-        "description": "أداة تأتي قبل المصدر بعد أفعال مثل want."
+        "description": "جزء من تركيب used to ولا تعني إلى هنا."
       },
       {
         "term": "be",
-        "description": "فعل أمر من be."
+        "description": "تعني أكون، وهي تكمل معنى الحالة السابقة."
+      },
+      {
+        "term": "I",
+        "description": "ضمير المتكلم المفرد."
       },
       {
         "term": "stopped",
-        "description": "فعل يعني كذلك."
+        "description": "صيغة ماضية تعني توقفت أو أنهيت فعلًا."
       },
       {
         "term": "acting",
-        "description": "فعل يعني توقفت."
+        "description": "التمثيل أو أداء الأدوار."
       },
       {
         "term": "a",
-        "description": "أداة نكرة تأتي قبل الاسم المفرد المعدود."
+        "description": "جزء من عبارة كمية تعني بضع."
       },
       {
         "term": "few",
-        "description": "كلمة ترتبط بمعنى التمثيل."
+        "description": "تعني عددًا قليلًا."
       },
       {
         "term": "years",
-        "description": "اسم يعني بضع."
+        "description": "سنوات."
       },
       {
         "term": "ago",
-        "description": "كلمة ترتبط بمعنى سنوات."
+        "description": "تعني مضت من الآن، وتستخدم مع زمن ماضٍ."
       }
     ],
-    "tense": "الماضي البسيط",
-    "tenseEn": "Past Simple",
-    "tenseReason": "استُعمل الماضي البسيط لأن الجملة تتحدث عن حدث وقع في الماضي واكتمل هناك.",
+    "grammarExplanations": [
+      {
+        "sentence": "I used to be.",
+        "explanation": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "استُعمل تركيب used to للدلالة على حالة كانت صحيحة في الماضي، وهي كونه ممثلًا، ولم تعد صحيحة الآن."
+        }
+      },
+      {
+        "sentence": "I stopped acting a few years ago.",
+        "explanation": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "استُعمل الماضي البسيط لأن التوقف عن التمثيل حدث مكتمل في الماضي."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "Yesterday, I used to be. I stopped acting a few years ago.",
-        "ar": "أمس، كنت كذلك. توقفت عن التمثيل قبل بضع سنوات.",
-        "context": "تضيف زمنًا ماضيًا واضحًا."
+        "en": "I used to be a singer.",
+        "ar": "كنت مغنيًا في السابق.",
+        "context": "تتحدث عن مهنة سابقة لم تعد تمارسها."
       },
       {
         "id": 2,
-        "en": "I used to be. I stopped acting a few years ago this morning.",
-        "ar": "كنت كذلك. توقفت عن التمثيل قبل بضع سنوات هذا الصباح.",
-        "context": "تحدد وقتًا ماضيًا قريبًا."
+        "en": "I stopped teaching two years ago.",
+        "ar": "توقفت عن التدريس قبل سنتين.",
+        "context": "تذكر وقت انتهاء عمل سابق."
       },
       {
         "id": 3,
-        "en": "I used to be. I stopped acting a few years ago after lunch.",
-        "ar": "كنت كذلك. توقفت عن التمثيل قبل بضع سنوات بعد الغداء.",
-        "context": "تربط الحدث بوقت تالٍ لحدث آخر."
+        "en": "I used to live in Chicago.",
+        "ar": "كنت أعيش في شيكاغو في السابق.",
+        "context": "تتحدث عن سكن قديم."
       },
       {
         "id": 4,
-        "en": "I used to be. I stopped acting a few years ago because it was necessary.",
-        "ar": "كنت كذلك. توقفت عن التمثيل قبل بضع سنوات لأنه كان ضروريًا.",
-        "context": "تضيف سببًا لحدوث الفعل في الماضي."
+        "en": "She stopped acting last year.",
+        "ar": "توقفت عن التمثيل العام الماضي.",
+        "context": "تصف قرارًا مهنيًا سابقًا."
       },
       {
         "id": 5,
-        "en": "Earlier, I used to be. I stopped acting a few years ago.",
-        "ar": "في وقت سابق، كنت كذلك. توقفت عن التمثيل قبل بضع سنوات.",
-        "context": "تربط الحدث بفترة ماضية غير بعيدة."
+        "en": "I used to be very shy.",
+        "ar": "كنت خجولًا جدًا في السابق.",
+        "context": "تصف صفة قديمة تغيّرت الآن."
       },
       {
         "id": 6,
-        "en": "I used to be. I stopped acting a few years ago, and everyone noticed.",
-        "ar": "كنت كذلك. توقفت عن التمثيل قبل بضع سنوات، والجميع لاحظ ذلك.",
-        "context": "تضيف نتيجة لما حدث في الماضي."
+        "en": "He stopped playing football a few years ago.",
+        "ar": "توقف عن لعب كرة القدم قبل بضع سنوات.",
+        "context": "تتحدث عن نشاط انتهى في الماضي."
       },
       {
         "id": 7,
-        "en": "I used to be. I stopped acting a few years ago before we left.",
-        "ar": "كنت كذلك. توقفت عن التمثيل قبل بضع سنوات قبل أن نغادر.",
-        "context": "تربط الفعل الماضي بحدث ماضٍ آخر."
+        "en": "I used to work at the airport.",
+        "ar": "كنت أعمل في المطار في السابق.",
+        "context": "تذكر وظيفة قديمة."
       },
       {
         "id": 8,
-        "en": "I used to be. I stopped acting a few years ago during the trip.",
-        "ar": "كنت كذلك. توقفت عن التمثيل قبل بضع سنوات أثناء الرحلة.",
-        "context": "تضع الحدث في إطار زمني أو مكاني محدد."
+        "en": "I stopped traveling so much after that job.",
+        "ar": "توقفت عن السفر كثيرًا بعد تلك الوظيفة.",
+        "context": "تصف تغير عادة بعد مرحلة معينة."
       },
       {
         "id": 9,
-        "en": "At that time, I used to be. I stopped acting a few years ago.",
-        "ar": "في ذلك الوقت، كنت كذلك. توقفت عن التمثيل قبل بضع سنوات.",
-        "context": "تجعل الجملة جزءًا من سرد ماضٍ."
+        "en": "I used to be on television.",
+        "ar": "كنت أظهر على التلفاز في السابق.",
+        "context": "تتحدث عن ظهور إعلامي قديم."
       },
       {
         "id": 10,
-        "en": "Soon after that, I used to be. I stopped acting a few years ago.",
-        "ar": "بعد ذلك بقليل، كنت كذلك. توقفت عن التمثيل قبل بضع سنوات.",
-        "context": "توضح ترتيب الحدث بعد شيء آخر في الماضي."
+        "en": "They stopped making that show years ago.",
+        "ar": "توقفوا عن إنتاج ذلك العرض قبل سنوات.",
+        "context": "تتحدث عن عمل انتهى منذ مدة."
       }
     ]
   }

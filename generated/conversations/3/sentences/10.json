@@ -10,96 +10,103 @@
     "wordMeanings": [
       {
         "term": "We",
-        "description": "ضمير المتكلمين."
+        "description": "ضمير المتكلم الجمع، ويشير هنا إلى موظفي النشاط أو المركز."
       },
       {
         "term": "will",
-        "description": "أداة مستقبل تدل على ما سيحدث لاحقًا."
+        "description": "تدل على حدوث الفعل في المستقبل."
       },
       {
         "term": "see",
-        "description": "فعل يعني يرى."
+        "description": "تعني نراك أو نلتقي بك."
       },
       {
         "term": "you",
-        "description": "الضمير الذي يعود على الشخص المخاطَب."
+        "description": "ضمير المخاطب."
       },
       {
         "term": "tomorrow",
-        "description": "ظرف زمان يعني غدًا."
+        "description": "اليوم التالي ليوم الكلام."
       },
       {
         "term": "afternoon",
-        "description": "اسم يعني سنراك."
+        "description": "فترة بعد الظهر."
       },
       {
         "term": "then",
-        "description": "حال أو ظرف يعني الظهر."
+        "description": "تعني إذًا، وتستخدم لتأكيد النتيجة أو الموعد."
       }
     ],
-    "tense": "المستقبل البسيط",
-    "tenseEn": "Future Simple",
-    "tenseReason": "استُعمل المستقبل البسيط لأن الجملة تتحدث عن شيء سيحدث لاحقًا أو عن قرار أو توقع يخص المستقبل.",
+    "grammarExplanations": [
+      {
+        "sentence": "We will see you tomorrow afternoon, then!",
+        "explanation": {
+          "tense": "المستقبل البسيط",
+          "tenseEn": "Future Simple",
+          "reason": "استُعمل المستقبل البسيط لتأكيد لقاء سيحدث في اليوم التالي بعد الظهر."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "Soon, We will see you tomorrow afternoon, then!.",
-        "ar": "قريبًا، سنراك غدًا بعد الظهر إذًا!.",
-        "context": "تؤكد قرب الحدث في المستقبل."
+        "en": "We will see you tomorrow morning, then!",
+        "ar": "سنراك غدًا صباحًا إذًا!",
+        "context": "تؤكد موعدًا في صباح اليوم التالي."
       },
       {
         "id": 2,
-        "en": "Tomorrow, We will see you tomorrow afternoon, then!.",
-        "ar": "غدًا، سنراك غدًا بعد الظهر إذًا!.",
-        "context": "تربط الجملة بوقت مستقبلي محدد."
+        "en": "We will call you tomorrow afternoon.",
+        "ar": "سنتصل بك غدًا بعد الظهر.",
+        "context": "تخبر شخصًا بموعد تواصل قادم."
       },
       {
         "id": 3,
-        "en": "We will see you tomorrow afternoon, then! after lunch.",
-        "ar": "سنراك غدًا بعد الظهر إذًا! بعد الغداء.",
-        "context": "تضيف توقيتًا مستقبليًا واضحًا."
+        "en": "We will meet you at six, then.",
+        "ar": "سنقابلك في السادسة إذًا.",
+        "context": "تؤكد وقت اللقاء."
       },
       {
         "id": 4,
-        "en": "We will see you tomorrow afternoon, then! if everything goes well.",
-        "ar": "سنراك غدًا بعد الظهر إذًا! إذا سارت الأمور جيدًا.",
-        "context": "تجعل الحدث معتمدًا على شرط مستقبلي."
+        "en": "We will see you next week.",
+        "ar": "سنراك الأسبوع القادم.",
+        "context": "تحدد لقاءً مستقبليًا أبعد."
       },
       {
         "id": 5,
-        "en": "We will see you tomorrow afternoon, then! later today.",
-        "ar": "سنراك غدًا بعد الظهر إذًا! لاحقًا اليوم.",
-        "context": "تربط الجملة بمستقبل قريب جدًا."
+        "en": "We will send the details tomorrow.",
+        "ar": "سنرسل التفاصيل غدًا.",
+        "context": "تعلن خطوة مستقبلية."
       },
       {
         "id": 6,
-        "en": "I think We will see you tomorrow afternoon, then!.",
-        "ar": "أعتقد أن سنراك غدًا بعد الظهر إذًا!.",
-        "context": "تضيف معنى التوقع أو الاعتقاد."
+        "en": "We will see you after work, then!",
+        "ar": "سنراك بعد العمل إذًا!",
+        "context": "تؤكد موعدًا مناسبًا بعد الدوام."
       },
       {
         "id": 7,
-        "en": "We will see you tomorrow afternoon, then!, so get ready.",
-        "ar": "سنراك غدًا بعد الظهر إذًا!، لذا استعد.",
-        "context": "تضيف نتيجة أو استعدادًا لحدث مستقبلي."
+        "en": "I will see you tomorrow afternoon.",
+        "ar": "سأراك غدًا بعد الظهر.",
+        "context": "يؤكد شخص واحد موعد اللقاء."
       },
       {
         "id": 8,
-        "en": "Next week, We will see you tomorrow afternoon, then!.",
-        "ar": "الأسبوع القادم، سنراك غدًا بعد الظهر إذًا!.",
-        "context": "تنقل الجملة إلى وقت مستقبلي أبعد قليلًا."
+        "en": "We will start tomorrow afternoon.",
+        "ar": "سنبدأ غدًا بعد الظهر.",
+        "context": "تحدد بداية نشاط."
       },
       {
         "id": 9,
-        "en": "We will see you tomorrow afternoon, then! when the time is right.",
-        "ar": "سنراك غدًا بعد الظهر إذًا! عندما يحين الوقت المناسب.",
-        "context": "تربط الحدث المستقبلي بوقت مناسب غير محدد."
+        "en": "We will see you there, then.",
+        "ar": "سنراك هناك إذًا.",
+        "context": "تؤكد مكان اللقاء."
       },
       {
         "id": 10,
-        "en": "Before long, We will see you tomorrow afternoon, then!.",
-        "ar": "بعد وقت قصير، سنراك غدًا بعد الظهر إذًا!.",
-        "context": "تضيف ظرفًا مستقبليًا عامًا."
+        "en": "We will be ready tomorrow afternoon.",
+        "ar": "سنكون جاهزين غدًا بعد الظهر.",
+        "context": "تؤكد الاستعداد في وقت محدد."
       }
     ]
   }

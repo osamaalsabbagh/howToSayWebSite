@@ -10,84 +10,91 @@
     "wordMeanings": [
       {
         "term": "Perfect",
-        "description": "صفة تعني مثالي."
+        "description": "كلمة تعبر عن الموافقة والرضا بأن الخطة مناسبة تمامًا."
       },
       {
         "term": "see",
-        "description": "فعل يعني يرى."
+        "description": "تعني أراك أو نلتقي، وتأتي هنا ضمن عبارة ودية لتأكيد اللقاء."
       },
       {
         "term": "you",
-        "description": "الضمير الذي يعود على الشخص المخاطَب."
+        "description": "ضمير المخاطب، ويشير إلى الشخص الآخر."
       },
       {
         "term": "there",
-        "description": "ظرف مكان يعني هناك."
+        "description": "هناك، أي في المكان المتفق عليه."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "Perfect, see you there.",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه عبارة موافقة وتأكيد لقاء مختصرة. لا نعاملها كزمن مستقل لأنها تؤدي وظيفة محادثة سريعة بمعنى أن المتكلم سيقابل الشخص في المكان المتفق عليه."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "In general, Perfect, see you there.",
-        "ar": "بشكل عام، مثالي، أراك هناك.",
-        "context": "تضيف عبارة عامة تحافظ على نفس المعنى الأساسي."
+        "en": "Perfect, see you at the library.",
+        "ar": "مثالي، أراك في المكتبة.",
+        "context": "تؤكد مكان اللقاء بعد الاتفاق عليه."
       },
       {
         "id": 2,
-        "en": "Usually, Perfect, see you there.",
-        "ar": "عادةً، مثالي، أراك هناك.",
-        "context": "تضيف ظرفًا يدل على التكرار أو العادة."
+        "en": "Great, see you there.",
+        "ar": "رائع، أراك هناك.",
+        "context": "تختم اتفاقًا على لقاء."
       },
       {
         "id": 3,
-        "en": "Sometimes, Perfect, see you there.",
-        "ar": "أحيانًا، مثالي، أراك هناك.",
-        "context": "تضع الجملة في سياق أقل تكرارًا."
+        "en": "Perfect, see you tomorrow.",
+        "ar": "مثالي، أراك غدًا.",
+        "context": "تؤكد موعدًا في اليوم التالي."
       },
       {
         "id": 4,
-        "en": "For now, Perfect, see you there.",
-        "ar": "في الوقت الحالي، مثالي، أراك هناك.",
-        "context": "تربط الجملة بالوضع الحالي."
+        "en": "Okay, see you at the reading section.",
+        "ar": "حسنًا، أراك في قسم القراءة.",
+        "context": "تحدد مكانًا داخل المكتبة."
       },
       {
         "id": 5,
-        "en": "Perfect, see you there, so that helps a lot.",
-        "ar": "مثالي، أراك هناك، وهذا يساعد كثيرًا.",
-        "context": "تضيف نتيجة بسيطة على نفس المعنى."
+        "en": "Perfect, I will see you there.",
+        "ar": "مثالي، سأراك هناك.",
+        "context": "صيغة كاملة لمعنى اللقاء القادم."
       },
       {
         "id": 6,
-        "en": "Perfect, see you there in daily life.",
-        "ar": "مثالي، أراك هناك في الحياة اليومية.",
-        "context": "تربط الجملة بمواقف الحياة اليومية."
+        "en": "See you there after class.",
+        "ar": "أراك هناك بعد الحصة.",
+        "context": "تحدد وقت اللقاء بعد نشاط."
       },
       {
         "id": 7,
-        "en": "Perfect, see you there when it is necessary.",
-        "ar": "مثالي، أراك هناك عندما يكون ذلك ضروريًا.",
-        "context": "تربط الجملة بشرط أو حاجة معينة."
+        "en": "Perfect, see you near the entrance.",
+        "ar": "مثالي، أراك قرب المدخل.",
+        "context": "تحدد نقطة لقاء واضحة."
       },
       {
         "id": 8,
-        "en": "In this situation, Perfect, see you there.",
-        "ar": "في هذا الموقف، مثالي، أراك هناك.",
-        "context": "تجعل الجملة جزءًا من موقف واضح."
+        "en": "Sounds good, see you there.",
+        "ar": "يبدو جيدًا، أراك هناك.",
+        "context": "تقبل الخطة وتختم الحديث."
       },
       {
         "id": 9,
-        "en": "Perfect, see you there, and everyone notices that.",
-        "ar": "مثالي، أراك هناك، والجميع يلاحظ ذلك.",
-        "context": "تضيف ملاحظة أو نتيجة بعد الجملة."
+        "en": "Perfect, see you at five.",
+        "ar": "مثالي، أراك في الخامسة.",
+        "context": "تؤكد وقت اللقاء."
       },
       {
         "id": 10,
-        "en": "Perfect, see you there most of the time.",
-        "ar": "مثالي، أراك هناك معظم الوقت.",
-        "context": "تضيف عبارة تكرار شائعة."
+        "en": "See you there, and bring your book.",
+        "ar": "أراك هناك، وأحضر كتابك.",
+        "context": "تؤكد اللقاء وتضيف تذكيرًا بسيطًا."
       }
     ]
   }

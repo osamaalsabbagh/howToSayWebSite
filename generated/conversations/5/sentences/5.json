@@ -10,23 +10,23 @@
     "wordMeanings": [
       {
         "term": "That",
-        "description": "تشير إلى أمر أو خبر سبق ذكره."
+        "description": "يشير إلى وصف الشقة السابق."
       },
       {
         "term": "sounds",
-        "description": "فعل يعني يبدو."
+        "description": "تعني يبدو من الكلام أو الوصف."
       },
       {
         "term": "perfect",
-        "description": "صفة تعني مثاليا."
+        "description": "صفة تعني مناسبًا جدًا أو مثاليًا."
       },
       {
         "term": "I",
-        "description": "ضمير المتكلم."
+        "description": "ضمير المتكلم المفرد."
       },
       {
         "term": "do",
-        "description": "فعل مساعد يُستعمل لتكوين النفي والسؤال في المضارع البسيط."
+        "description": "فعل مساعد يستخدم هنا لتكوين النفي."
       },
       {
         "term": "not",
@@ -34,84 +34,103 @@
       },
       {
         "term": "need",
-        "description": "فعل يدل على الحاجة."
+        "description": "تعني أحتاج."
       },
       {
         "term": "anything",
-        "description": "ضمير يعني أي شيء."
+        "description": "أي شيء."
       },
       {
         "term": "larger",
-        "description": "صفة تعني أكبر."
+        "description": "صفة مقارنة تعني أكبر حجمًا."
       },
       {
         "term": "than",
-        "description": "أداة تستعمل في المقارنة بعد الصفات المقارنة."
+        "description": "تستخدم في المقارنة."
+      },
+      {
+        "term": "that",
+        "description": "يشير إلى حجم الشقة أو مواصفاتها المذكورة."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "That sounds perfect.",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُعمل المضارع البسيط لوصف الانطباع الحالي عن الشقة بعد سماع مواصفاتها."
+        }
+      },
+      {
+        "sentence": "I do not need anything larger than that.",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُعمل المضارع البسيط المنفي للتعبير عن حاجة المتكلم الحالية وما لا يحتاجه."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "In general, That sounds perfect. I do not need anything larger than that.",
-        "ar": "بشكل عام، هذا يبدو مثاليًا. لا أحتاج أي شيء أكبر من ذلك.",
-        "context": "تضيف عبارة عامة تحافظ على نفس المعنى الأساسي."
+        "en": "That sounds perfect for me.",
+        "ar": "هذا يبدو مثاليًا بالنسبة لي.",
+        "context": "تعبّر عن رضاك عن خيار معروض."
       },
       {
         "id": 2,
-        "en": "Usually, That sounds perfect. I do not need anything larger than that.",
-        "ar": "عادةً، هذا يبدو مثاليًا. لا أحتاج أي شيء أكبر من ذلك.",
-        "context": "تضيف ظرفًا يدل على التكرار أو العادة."
+        "en": "I do not need anything bigger.",
+        "ar": "لا أحتاج أي شيء أكبر.",
+        "context": "تؤكد أن الحجم كافٍ."
       },
       {
         "id": 3,
-        "en": "Sometimes, That sounds perfect. I do not need anything larger than that.",
-        "ar": "أحيانًا، هذا يبدو مثاليًا. لا أحتاج أي شيء أكبر من ذلك.",
-        "context": "تضع الجملة في سياق أقل تكرارًا."
+        "en": "That sounds perfect for one person.",
+        "ar": "هذا يبدو مثاليًا لشخص واحد.",
+        "context": "تعلّق على شقة صغيرة مناسبة."
       },
       {
         "id": 4,
-        "en": "For now, That sounds perfect. I do not need anything larger than that.",
-        "ar": "في الوقت الحالي، هذا يبدو مثاليًا. لا أحتاج أي شيء أكبر من ذلك.",
-        "context": "تربط الجملة بالوضع الحالي."
+        "en": "I do not need a larger kitchen.",
+        "ar": "لا أحتاج مطبخًا أكبر.",
+        "context": "تحدد أن المطبخ الحالي كافٍ."
       },
       {
         "id": 5,
-        "en": "That sounds perfect. I do not need anything larger than that, so that helps a lot.",
-        "ar": "هذا يبدو مثاليًا. لا أحتاج أي شيء أكبر من ذلك، وهذا يساعد كثيرًا.",
-        "context": "تضيف نتيجة بسيطة على نفس المعنى."
+        "en": "That sounds nice and simple.",
+        "ar": "هذا يبدو جميلًا وبسيطًا.",
+        "context": "تعبّر عن قبولك لتصميم بسيط."
       },
       {
         "id": 6,
-        "en": "That sounds perfect. I do not need anything larger than that in daily life.",
-        "ar": "هذا يبدو مثاليًا. لا أحتاج أي شيء أكبر من ذلك في الحياة اليومية.",
-        "context": "تربط الجملة بمواقف الحياة اليومية."
+        "en": "I do not need anything more expensive.",
+        "ar": "لا أحتاج أي شيء أغلى.",
+        "context": "ترفض خيارًا أعلى تكلفة."
       },
       {
         "id": 7,
-        "en": "That sounds perfect. I do not need anything larger than that when it is necessary.",
-        "ar": "هذا يبدو مثاليًا. لا أحتاج أي شيء أكبر من ذلك عندما يكون ذلك ضروريًا.",
-        "context": "تربط الجملة بشرط أو حاجة معينة."
+        "en": "That sounds perfect for my schedule.",
+        "ar": "هذا يبدو مثاليًا لجدولي.",
+        "context": "تتحدث عن موعد مناسب."
       },
       {
         "id": 8,
-        "en": "In this situation, That sounds perfect. I do not need anything larger than that.",
-        "ar": "في هذا الموقف، هذا يبدو مثاليًا. لا أحتاج أي شيء أكبر من ذلك.",
-        "context": "تجعل الجملة جزءًا من موقف واضح."
+        "en": "I do not need anything else.",
+        "ar": "لا أحتاج أي شيء آخر.",
+        "context": "تؤكد اكتمال المطلوب."
       },
       {
         "id": 9,
-        "en": "That sounds perfect. I do not need anything larger than that, and everyone notices that.",
-        "ar": "هذا يبدو مثاليًا. لا أحتاج أي شيء أكبر من ذلك، والجميع يلاحظ ذلك.",
-        "context": "تضيف ملاحظة أو نتيجة بعد الجملة."
+        "en": "That sounds perfect for a short stay.",
+        "ar": "هذا يبدو مثاليًا لإقامة قصيرة.",
+        "context": "تصف ملاءمة مكان مؤقت."
       },
       {
         "id": 10,
-        "en": "That sounds perfect. I do not need anything larger than that most of the time.",
-        "ar": "هذا يبدو مثاليًا. لا أحتاج أي شيء أكبر من ذلك معظم الوقت.",
-        "context": "تضيف عبارة تكرار شائعة."
+        "en": "I do not need more space than that.",
+        "ar": "لا أحتاج مساحة أكبر من ذلك.",
+        "context": "تقول إن مساحة الشقة كافية."
       }
     ]
   }

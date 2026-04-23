@@ -10,92 +10,99 @@
     "wordMeanings": [
       {
         "term": "How",
-        "description": "أداة سؤال."
+        "description": "تبدأ سؤالًا عن المقدار."
       },
       {
         "term": "much",
-        "description": "هنا تأتي مع very لتكوين very much، أي كثيرًا / بدرجة كبيرة."
+        "description": "كم، وتستخدم مع المال."
       },
       {
         "term": "do",
-        "description": "فعل مساعد يُستعمل لتكوين النفي والسؤال في المضارع البسيط."
+        "description": "تأتي في السؤال مع أنا لتكوين سؤال في الحاضر."
       },
       {
         "term": "I",
-        "description": "ضمير المتكلم."
+        "description": "أنا، وتشير إلى المتكلم."
       },
       {
         "term": "owe",
-        "description": "فعل يعني لك."
+        "description": "أدين أو يجب علي دفع مبلغ."
       },
       {
         "term": "you",
-        "description": "الضمير الذي يعود على الشخص المخاطَب."
+        "description": "لك أو أنت، وتشير إلى الشخص الذي سيستلم المال."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "How much do I owe you?",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "يستخدم المضارع البسيط للسؤال عن المبلغ المستحق الآن الذي يجب على المتكلم دفعه."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "You can ask, \"How much do I owe you?\" when you need information.",
-        "ar": "يمكنك أن تسأل: \"كم أدين لك؟\" عندما تحتاج إلى معلومة.",
-        "context": "تستعمل الجملة كسؤال مباشر للحصول على معلومة."
+        "en": "How much do I owe you?",
+        "ar": "كم أدين لك؟",
+        "context": "تقال عند السؤال عن المبلغ الذي يجب دفعه."
       },
       {
         "id": 2,
-        "en": "Many people ask, \"How much do I owe you?\" in this situation.",
-        "ar": "يسأل كثير من الناس: \"كم أدين لك؟\" في هذا الموقف.",
-        "context": "توضح أن هذا سؤال شائع في موقف مشابه."
+        "en": "How much do I owe for the coffee?",
+        "ar": "كم أدين ثمن القهوة؟",
+        "context": "تقال عند دفع ثمن قهوة."
       },
       {
         "id": 3,
-        "en": "I asked, \"How much do I owe you?\" because I was not sure.",
-        "ar": "سألت: \"كم أدين لك؟\" لأنني لم أكن متأكدًا.",
-        "context": "تضيف سببًا لطرح السؤال."
+        "en": "How much do I owe for the ticket?",
+        "ar": "كم أدين ثمن التذكرة؟",
+        "context": "تقال عند شراء تذكرة."
       },
       {
         "id": 4,
-        "en": "She asked politely, \"How much do I owe you?\"",
-        "ar": "سألت بأدب: \"كم أدين لك؟\".",
-        "context": "تبين أن السؤال قيل بطريقة مهذبة."
+        "en": "How much do I owe for the room?",
+        "ar": "كم أدين ثمن الغرفة؟",
+        "context": "تقال عند دفع تكلفة غرفة."
       },
       {
         "id": 5,
-        "en": "At work, someone may ask, \"How much do I owe you?\"",
-        "ar": "في العمل، قد يسأل شخص ما: \"كم أدين لك؟\".",
-        "context": "تضع السؤال في سياق مهني أو عملي."
+        "en": "You owe me ten dollars.",
+        "ar": "أنت تدين لي بعشرة دولارات.",
+        "context": "تقال عند تذكير شخص بمبلغ مستحق."
       },
       {
         "id": 6,
-        "en": "Before deciding, ask: \"How much do I owe you?\"",
-        "ar": "قبل أن تقرر، اسأل: \"كم أدين لك؟\".",
-        "context": "تستخدم السؤال قبل اتخاذ قرار."
+        "en": "I owe you 20 dollars.",
+        "ar": "أنا أدين لك ب٢٠ دولارًا.",
+        "context": "تقال عند تحديد مبلغ مستحق."
       },
       {
         "id": 7,
-        "en": "The student asked, \"How much do I owe you?\" in class.",
-        "ar": "سأل الطالب: \"كم أدين لك؟\" في الصف.",
-        "context": "تجعل الجملة جزءًا من موقف تعليمي."
+        "en": "Do I owe you anything?",
+        "ar": "هل أدين لك بأي شيء؟",
+        "context": "تقال عند التأكد من عدم وجود مبلغ مستحق."
       },
       {
         "id": 8,
-        "en": "While traveling, you can ask, \"How much do I owe you?\"",
-        "ar": "أثناء السفر، يمكنك أن تسأل: \"كم أدين لك؟\".",
-        "context": "تربط السؤال بموقف السفر أو التنقل."
+        "en": "How much do we owe you?",
+        "ar": "كم ندين لك؟",
+        "context": "تقال عندما يدفع أكثر من شخص."
       },
       {
         "id": 9,
-        "en": "He asked me, \"How much do I owe you?\" again.",
-        "ar": "سألني: \"كم أدين لك؟\" مرة أخرى.",
-        "context": "تضيف معنى التكرار لنفس السؤال."
+        "en": "How much do I owe after the discount?",
+        "ar": "كم أدين بعد الخصم؟",
+        "context": "تقال عند السؤال عن المبلغ النهائي بعد تخفيض."
       },
       {
         "id": 10,
-        "en": "If you are not sure, ask: \"How much do I owe you?\"",
-        "ar": "إذا لم تكن متأكدًا، فاسأل: \"كم أدين لك؟\".",
-        "context": "توضح أن السؤال مناسب عند عدم التأكد."
+        "en": "How much do I owe for today?",
+        "ar": "كم أدين عن اليوم؟",
+        "context": "تقال عند دفع تكلفة يوم واحد."
       }
     ]
   }

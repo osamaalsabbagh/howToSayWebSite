@@ -10,83 +10,91 @@
     "wordMeanings": [
       {
         "term": "Have",
-        "description": "فعل يعني يملك، ويأتي أيضًا كفعل مساعد."
+        "description": "تستخدم هنا لبداية أمنية بمعنى اقض أو عِش تجربة."
       },
       {
         "term": "a",
-        "description": "أداة نكرة تأتي قبل الاسم المفرد المعدود."
+        "description": "أداة تدل على شيء واحد غير محدد."
       },
       {
         "term": "nice",
-        "description": "تعبير قصير عن الإعجاب أو الرضا. قد يعني: لطيف، جميل، رائع، جيد."
+        "description": "لطيف أو ممتع، وفيها إحساس بالود."
       },
       {
         "term": "trip",
-        "description": "اسم يعني رحلة."
+        "description": "رحلة أو سفر من مكان إلى آخر."
       }
     ],
-    "tense": null,
-    "tenseReason": "استُعمل هذا الأسلوب لأن الجملة تقدم طلبًا أو تعليمات مباشرة موجهة إلى شخص آخر، لذلك لا نضع لها هنا زمنًا فعليًا مستقلًا.",
+    "grammarExplanations": [
+      {
+        "sentence": "Have a nice trip.",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه عبارة تمن ودية تبدأ بالفعل الأساسي، ومعناها أن المتكلم يتمنى للمخاطب رحلة ممتعة، وليست جملة زمنية تصف حدثًا."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "In this situation, people often say, \"Have a nice trip\".",
-        "ar": "في هذا الموقف، يقول الناس كثيرًا: \"رحلة لطيفة\".",
-        "context": "توضح أن العبارة مناسبة في هذا النوع من المواقف."
+        "en": "Have a nice trip.",
+        "ar": "أتمنى لك رحلة لطيفة.",
+        "context": "تقال لشخص قبل سفر ممتع أو زيارة."
       },
       {
         "id": 2,
-        "en": "The teacher said, \"Have a nice trip\" to the students.",
-        "ar": "قال المعلم للطلاب: \"رحلة لطيفة\".",
-        "context": "تستخدم الجملة كتعليمات أو توجيه مباشر."
+        "en": "Have a nice flight.",
+        "ar": "أتمنى لك رحلة طيران لطيفة.",
+        "context": "تقال قبل سفر بالطائرة بطريقة ودية."
       },
       {
         "id": 3,
-        "en": "He told me, \"Have a nice trip\" before we left.",
-        "ar": "قال لي: \"رحلة لطيفة\" قبل أن نغادر.",
-        "context": "تضع العبارة قبل حدث آخر."
+        "en": "Have a nice day.",
+        "ar": "أتمنى لك يومًا لطيفًا.",
+        "context": "تقال عند الوداع بلطف."
       },
       {
         "id": 4,
-        "en": "She said, \"Have a nice trip\" in a polite way.",
-        "ar": "قالت: \"رحلة لطيفة\" بطريقة مهذبة.",
-        "context": "تظهر أن العبارة يمكن أن تقال بلطف أو أدب."
+        "en": "Have a nice weekend.",
+        "ar": "أتمنى لك عطلة نهاية أسبوع لطيفة.",
+        "context": "تقال قبل عطلة قصيرة."
       },
       {
         "id": 5,
-        "en": "Someone shouted, \"Have a nice trip\" when there was a problem.",
-        "ar": "صاح شخص ما: \"رحلة لطيفة\" عندما ظهرت مشكلة.",
-        "context": "تربط العبارة بموقف سريع أو طارئ."
+        "en": "Have a nice evening.",
+        "ar": "أتمنى لك مساءً لطيفًا.",
+        "context": "تقال عند الوداع في المساء."
       },
       {
         "id": 6,
-        "en": "You can say, \"Have a nice trip\" when you need a quick response.",
-        "ar": "يمكنك أن تقول: \"رحلة لطيفة\" عندما تحتاج إلى رد سريع.",
-        "context": "توضح أن العبارة مفيدة عند الحاجة إلى استجابة مباشرة."
+        "en": "Have a nice vacation.",
+        "ar": "أتمنى لك إجازة لطيفة.",
+        "context": "تقال لمن يبدأ إجازة."
       },
       {
         "id": 7,
-        "en": "They repeated, \"Have a nice trip\" more than once.",
-        "ar": "رددوا: \"رحلة لطيفة\" أكثر من مرة.",
-        "context": "تعطي مثالًا على تكرار العبارة."
+        "en": "Have a nice visit.",
+        "ar": "أتمنى لك زيارة لطيفة.",
+        "context": "تقال لشخص ذاهب لزيارة عائلية أو ودية."
       },
       {
         "id": 8,
-        "en": "I heard him say, \"Have a nice trip\" yesterday.",
-        "ar": "سمعته يقول: \"رحلة لطيفة\" أمس.",
-        "context": "تجعل العبارة جزءًا من موقف سمعته من شخص آخر."
+        "en": "Have a nice meal.",
+        "ar": "أتمنى لك وجبة لطيفة.",
+        "context": "تقال قبل أن يأكل شخص."
       },
       {
         "id": 9,
-        "en": "Many learners remember the phrase, \"Have a nice trip\".",
-        "ar": "يتذكر كثير من المتعلمين العبارة: \"رحلة لطيفة\".",
-        "context": "تقدم العبارة بوصفها عبارة سهلة التذكر."
+        "en": "Have a nice walk.",
+        "ar": "أتمنى لك نزهة لطيفة.",
+        "context": "تقال لشخص خارج للمشي."
       },
       {
         "id": 10,
-        "en": "At that moment, she said, \"Have a nice trip\".",
-        "ar": "في تلك اللحظة، قالت: \"رحلة لطيفة\".",
-        "context": "تربط العبارة بلحظة معينة في السرد."
+        "en": "Have a nice stay.",
+        "ar": "أتمنى لك إقامة لطيفة.",
+        "context": "تقال لضيف في فندق أو بيت."
       }
     ]
   }

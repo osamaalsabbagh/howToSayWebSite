@@ -10,88 +10,103 @@
     "wordMeanings": [
       {
         "term": "I",
-        "description": "ضمير المتكلم."
+        "description": "ضمير المتكلم ويشير إلى الشخص الذي يتحدث."
       },
       {
         "term": "need",
-        "description": "فعل يدل على الحاجة."
+        "description": "أحتاج أو يلزمني شيء."
       },
       {
         "term": "to",
-        "description": "أداة تأتي قبل المصدر بعد أفعال مثل want."
+        "description": "تأتي قبل الفعل لتربط الحاجة بالفعل المطلوب."
       },
       {
         "term": "change",
-        "description": "فعل يعني تغيير."
+        "description": "أبدل أو أغير شيئًا."
       },
       {
         "term": "clothes",
-        "description": "اسم جمع يعني ملابس."
+        "description": "ملابس أو ما يلبسه الشخص."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "I need",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "تستخدم need في المضارع البسيط للتعبير عن حاجة حالية عند المتكلم."
+        }
+      },
+      {
+        "sentence": "to change clothes",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذا جزء يوضح الفعل المطلوب بسبب الحاجة، وهو تبديل الملابس، ولا يحمل زمنًا مستقلًا لأنه يبدأ بـ to قبل الفعل."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "People often say, \"I need to change clothes\" in situations like this.",
-        "ar": "يقول الناس كثيرًا: \"أحتاج إلى تغيير الملابس\" في مواقف كهذه.",
-        "context": "تستخدم الجملة بوصفها تركيبًا شائعًا في موقف مشابه."
+        "en": "I need to wash my hands.",
+        "ar": "أحتاج إلى غسل يدي.",
+        "context": "تقال عند الحاجة إلى النظافة قبل الأكل أو بعد عمل."
       },
       {
         "id": 2,
-        "en": "You can say, \"I need to change clothes\" when this happens.",
-        "ar": "يمكنك أن تقول: \"أحتاج إلى تغيير الملابس\" عندما يحدث هذا.",
-        "context": "توضح أن الجملة مناسبة في موقف متكرر."
+        "en": "She needs to change her shoes.",
+        "ar": "هي تحتاج إلى تبديل حذائها.",
+        "context": "تقال عند الحاجة إلى حذاء مناسب."
       },
       {
         "id": 3,
-        "en": "I heard someone say, \"I need to change clothes\".",
-        "ar": "سمعت شخصًا يقول: \"أحتاج إلى تغيير الملابس\".",
-        "context": "تجعل الجملة جزءًا من كلام سمعته من شخص آخر."
+        "en": "I need to wear clean clothes.",
+        "ar": "أحتاج إلى ارتداء ملابس نظيفة.",
+        "context": "تقال عند الاستعداد للخروج أو لمناسبة."
       },
       {
         "id": 4,
-        "en": "The teacher used the sentence, \"I need to change clothes\" in class.",
-        "ar": "استخدم المعلم الجملة: \"أحتاج إلى تغيير الملابس\" في الصف.",
-        "context": "تستخدم الجملة مثالًا تعليميًا في الصف."
+        "en": "He needs to change his shirt.",
+        "ar": "هو يحتاج إلى تبديل قميصه.",
+        "context": "تقال عندما يصبح القميص غير مناسب أو غير نظيف."
       },
       {
         "id": 5,
-        "en": "Many learners remember the sentence, \"I need to change clothes\" first.",
-        "ar": "يتذكر كثير من المتعلمين الجملة: \"أحتاج إلى تغيير الملابس\" أولًا.",
-        "context": "تقدم الجملة بوصفها جملة تعليمية أساسية."
+        "en": "We need to get ready.",
+        "ar": "نحتاج إلى الاستعداد.",
+        "context": "تقال قبل الخروج أو بدء نشاط."
       },
       {
         "id": 6,
-        "en": "She said, \"I need to change clothes\" in a calm way.",
-        "ar": "قالت: \"أحتاج إلى تغيير الملابس\" بطريقة هادئة.",
-        "context": "تجعل الجملة جزءًا من كلام مباشر في موقف عادي."
+        "en": "I need to change before dinner.",
+        "ar": "أحتاج إلى تبديل ملابسي قبل العشاء.",
+        "context": "تقال عند الاستعداد لوجبة أو لقاء."
       },
       {
         "id": 7,
-        "en": "He repeated, \"I need to change clothes\" more than once.",
-        "ar": "ردد: \"أحتاج إلى تغيير الملابس\" أكثر من مرة.",
-        "context": "تضيف معنى التكرار لنفس الجملة."
+        "en": "They need to change clothes after work.",
+        "ar": "هم يحتاجون إلى تبديل الملابس بعد العمل.",
+        "context": "تقال بعد انتهاء عمل يتطلب ملابس مختلفة."
       },
       {
         "id": 8,
-        "en": "At the right moment, someone might say, \"I need to change clothes\".",
-        "ar": "في اللحظة المناسبة، قد يقول شخص ما: \"أحتاج إلى تغيير الملابس\".",
-        "context": "توضح أن الجملة مرتبطة بتوقيت مناسب في السياق."
+        "en": "My brother needs to change his uniform.",
+        "ar": "أخي يحتاج إلى تبديل زيه.",
+        "context": "تقال عند تغيير ملابس العمل أو المدرسة."
       },
       {
         "id": 9,
-        "en": "I wrote down the sentence, \"I need to change clothes\" so I would remember it.",
-        "ar": "كتبت الجملة: \"أحتاج إلى تغيير الملابس\" حتى أتذكرها.",
-        "context": "تعطي مثالًا على حفظ الجملة أو مراجعتها."
+        "en": "I need to put on a jacket.",
+        "ar": "أحتاج إلى ارتداء سترة.",
+        "context": "تقال عند الشعور بالبرد أو الاستعداد للخروج."
       },
       {
         "id": 10,
-        "en": "It is useful to know when to say, \"I need to change clothes\".",
-        "ar": "من المفيد أن تعرف متى تقول: \"أحتاج إلى تغيير الملابس\".",
-        "context": "تركز على معرفة الوقت المناسب لاستخدام الجملة."
+        "en": "The child needs to change clothes.",
+        "ar": "الطفل يحتاج إلى تبديل الملابس.",
+        "context": "تقال عندما تتسخ ملابس الطفل أو لا تناسب الموقف."
       }
     ]
   }

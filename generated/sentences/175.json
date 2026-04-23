@@ -10,80 +10,87 @@
     "wordMeanings": [
       {
         "term": "Have",
-        "description": "فعل يعني يملك، ويأتي أيضًا كفعل مساعد."
+        "description": "تأتي في بداية السؤال لتكوين معنى الوصول حتى الآن."
       },
       {
         "term": "you",
-        "description": "الضمير الذي يعود على الشخص المخاطَب."
+        "description": "أنت، وتشير إلى الشخص المخاطب."
       },
       {
         "term": "arrived",
-        "description": "صيغة الماضي من arrive وتعني وصل."
+        "description": "وصلت إلى المكان المقصود."
       }
     ],
-    "tense": "المضارع التام",
-    "tenseEn": "Present Perfect",
-    "tenseReason": "استُعمل المضارع التام لأن الجملة تربط بين حدث وقع في الماضي ونتيجته أو أثره في الحاضر.",
+    "grammarExplanations": [
+      {
+        "sentence": "Have you arrived?",
+        "explanation": {
+          "tense": "المضارع التام",
+          "tenseEn": "Present Perfect",
+          "reason": "يستخدم المضارع التام للسؤال عن نتيجة حدث متوقع حتى الآن، أي هل حدث الوصول في أي وقت قبل لحظة السؤال."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "You can ask, \"Have you arrived?\" when you need information.",
-        "ar": "يمكنك أن تسأل: \"هل وصلت؟\" عندما تحتاج إلى معلومة.",
-        "context": "تستعمل الجملة كسؤال مباشر للحصول على معلومة."
+        "en": "Have you arrived?",
+        "ar": "هل وصلت؟",
+        "context": "تقال للاطمئنان على وصول شخص."
       },
       {
         "id": 2,
-        "en": "Many people ask, \"Have you arrived?\" in this situation.",
-        "ar": "يسأل كثير من الناس: \"هل وصلت؟\" في هذا الموقف.",
-        "context": "توضح أن هذا سؤال شائع في موقف مشابه."
+        "en": "Have you arrived home?",
+        "ar": "هل وصلت إلى البيت؟",
+        "context": "تقال بعد عودة شخص إلى منزله."
       },
       {
         "id": 3,
-        "en": "I asked, \"Have you arrived?\" because I was not sure.",
-        "ar": "سألت: \"هل وصلت؟\" لأنني لم أكن متأكدًا.",
-        "context": "تضيف سببًا لطرح السؤال."
+        "en": "Have you arrived at the airport?",
+        "ar": "هل وصلت إلى المطار؟",
+        "context": "تقال قبل السفر أو عند استقبال مسافر."
       },
       {
         "id": 4,
-        "en": "She asked politely, \"Have you arrived?\"",
-        "ar": "سألت بأدب: \"هل وصلت؟\".",
-        "context": "تبين أن السؤال قيل بطريقة مهذبة."
+        "en": "Have you arrived at the hotel?",
+        "ar": "هل وصلت إلى الفندق؟",
+        "context": "تقال للاطمئنان على ضيف أو مسافر."
       },
       {
         "id": 5,
-        "en": "At work, someone may ask, \"Have you arrived?\"",
-        "ar": "في العمل، قد يسأل شخص ما: \"هل وصلت؟\".",
-        "context": "تضع السؤال في سياق مهني أو عملي."
+        "en": "Have you arrived safely?",
+        "ar": "هل وصلت بأمان؟",
+        "context": "تقال للاطمئنان على سلامة الوصول."
       },
       {
         "id": 6,
-        "en": "Before deciding, ask: \"Have you arrived?\"",
-        "ar": "قبل أن تقرر، اسأل: \"هل وصلت؟\".",
-        "context": "تستخدم السؤال قبل اتخاذ قرار."
+        "en": "Have they arrived yet?",
+        "ar": "هل وصلوا بعد؟",
+        "context": "تقال عند انتظار مجموعة."
       },
       {
         "id": 7,
-        "en": "The student asked, \"Have you arrived?\" in class.",
-        "ar": "سأل الطالب: \"هل وصلت؟\" في الصف.",
-        "context": "تجعل الجملة جزءًا من موقف تعليمي."
+        "en": "Has she arrived?",
+        "ar": "هل وصلت؟",
+        "context": "تقال عند السؤال عن وصول امرأة."
       },
       {
         "id": 8,
-        "en": "While traveling, you can ask, \"Have you arrived?\"",
-        "ar": "أثناء السفر، يمكنك أن تسأل: \"هل وصلت؟\".",
-        "context": "تربط السؤال بموقف السفر أو التنقل."
+        "en": "Has the train arrived?",
+        "ar": "هل وصل القطار؟",
+        "context": "تقال في محطة قطار."
       },
       {
         "id": 9,
-        "en": "He asked me, \"Have you arrived?\" again.",
-        "ar": "سألني: \"هل وصلت؟\" مرة أخرى.",
-        "context": "تضيف معنى التكرار لنفس السؤال."
+        "en": "Have you arrived in Boston?",
+        "ar": "هل وصلت إلى بوسطن؟",
+        "context": "تقال بعد سفر إلى مدينة معينة."
       },
       {
         "id": 10,
-        "en": "If you are not sure, ask: \"Have you arrived?\"",
-        "ar": "إذا لم تكن متأكدًا، فاسأل: \"هل وصلت؟\".",
-        "context": "توضح أن السؤال مناسب عند عدم التأكد."
+        "en": "Have you arrived at work?",
+        "ar": "هل وصلت إلى العمل؟",
+        "context": "تقال للاطمئنان بعد ذهاب شخص إلى عمله."
       }
     ]
   }

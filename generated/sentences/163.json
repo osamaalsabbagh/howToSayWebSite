@@ -10,83 +10,91 @@
     "wordMeanings": [
       {
         "term": "A",
-        "description": "أداة نكرة تأتي قبل الاسم المفرد المعدود."
+        "description": "أداة تدل على شيء واحد غير محدد."
       },
       {
         "term": "round",
-        "description": "صفة تعني ذهاب."
+        "description": "جزء من وصف التذكرة ويعني هنا أن الرحلة تشمل الذهاب والعودة."
       },
       {
         "term": "trip",
-        "description": "اسم يعني رحلة."
+        "description": "رحلة أو سفر من مكان إلى آخر."
       },
       {
         "term": "ticket",
-        "description": "اسم يعني وعودة."
+        "description": "تذكرة تسمح بالسفر أو الركوب."
       }
     ],
-    "tense": null,
-    "tenseReason": "استُعمل هذا التعبير لأنه عبارة ثابتة أو رد قصير يُستخدم في موقف محدد، وليس جملة فعلية كاملة بزمن واضح.",
+    "grammarExplanations": [
+      {
+        "sentence": "A round trip ticket.",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه عبارة اسمية تصف نوع التذكرة، ولا تحتوي على فعل ظاهر أو زمن مستقل."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "In this situation, people often say, \"A round trip ticket\".",
-        "ar": "في هذا الموقف، يقول الناس كثيرًا: \"تذكرة ذهاب وعودة\".",
-        "context": "توضح أن العبارة مناسبة في هذا النوع من المواقف."
+        "en": "A round trip ticket.",
+        "ar": "تذكرة ذهاب وعودة.",
+        "context": "تقال عند طلب تذكرة تشمل الرجوع."
       },
       {
         "id": 2,
-        "en": "The teacher said, \"A round trip ticket\" to the students.",
-        "ar": "قال المعلم للطلاب: \"تذكرة ذهاب وعودة\".",
-        "context": "تستخدم الجملة كتعليمات أو توجيه مباشر."
+        "en": "I need a round trip ticket.",
+        "ar": "أحتاج إلى تذكرة ذهاب وعودة.",
+        "context": "تقال عند شراء تذكرة للذهاب والرجوع."
       },
       {
         "id": 3,
-        "en": "He told me, \"A round trip ticket\" before we left.",
-        "ar": "قال لي: \"تذكرة ذهاب وعودة\" قبل أن نغادر.",
-        "context": "تضع العبارة قبل حدث آخر."
+        "en": "Can I have a round trip ticket?",
+        "ar": "هل يمكنني الحصول على تذكرة ذهاب وعودة؟",
+        "context": "تقال لموظف التذاكر عند الطلب بأدب."
       },
       {
         "id": 4,
-        "en": "She said, \"A round trip ticket\" in a polite way.",
-        "ar": "قالت: \"تذكرة ذهاب وعودة\" بطريقة مهذبة.",
-        "context": "تظهر أن العبارة يمكن أن تقال بلطف أو أدب."
+        "en": "A round trip ticket to Boston, please.",
+        "ar": "تذكرة ذهاب وعودة إلى بوسطن، من فضلك.",
+        "context": "تقال عند تحديد الوجهة ونوع التذكرة."
       },
       {
         "id": 5,
-        "en": "Someone shouted, \"A round trip ticket\" when there was a problem.",
-        "ar": "صاح شخص ما: \"تذكرة ذهاب وعودة\" عندما ظهرت مشكلة.",
-        "context": "تربط العبارة بموقف سريع أو طارئ."
+        "en": "The round trip ticket is cheaper.",
+        "ar": "تذكرة الذهاب والعودة أرخص.",
+        "context": "تقال عند مقارنة أسعار التذاكر."
       },
       {
         "id": 6,
-        "en": "You can say, \"A round trip ticket\" when you need a quick response.",
-        "ar": "يمكنك أن تقول: \"تذكرة ذهاب وعودة\" عندما تحتاج إلى رد سريع.",
-        "context": "توضح أن العبارة مفيدة عند الحاجة إلى استجابة مباشرة."
+        "en": "Do you want a round trip ticket?",
+        "ar": "هل تريد تذكرة ذهاب وعودة؟",
+        "context": "يسألها الموظف لمعرفة نوع التذكرة المطلوبة."
       },
       {
         "id": 7,
-        "en": "They repeated, \"A round trip ticket\" more than once.",
-        "ar": "رددوا: \"تذكرة ذهاب وعودة\" أكثر من مرة.",
-        "context": "تعطي مثالًا على تكرار العبارة."
+        "en": "This is a round trip ticket.",
+        "ar": "هذه تذكرة ذهاب وعودة.",
+        "context": "تقال لتوضيح أن التذكرة تشمل الرجوع."
       },
       {
         "id": 8,
-        "en": "I heard him say, \"A round trip ticket\" yesterday.",
-        "ar": "سمعته يقول: \"تذكرة ذهاب وعودة\" أمس.",
-        "context": "تجعل العبارة جزءًا من موقف سمعته من شخص آخر."
+        "en": "Please book a round trip ticket.",
+        "ar": "من فضلك احجز تذكرة ذهاب وعودة.",
+        "context": "تقال عند طلب حجز سفر كامل."
       },
       {
         "id": 9,
-        "en": "Many learners remember the phrase, \"A round trip ticket\".",
-        "ar": "يتذكر كثير من المتعلمين العبارة: \"تذكرة ذهاب وعودة\".",
-        "context": "تقدم العبارة بوصفها عبارة سهلة التذكر."
+        "en": "A round trip ticket is better for me.",
+        "ar": "تذكرة الذهاب والعودة أفضل لي.",
+        "context": "تقال عندما يناسبك الرجوع بالتذكرة نفسها."
       },
       {
         "id": 10,
-        "en": "At that moment, she said, \"A round trip ticket\".",
-        "ar": "في تلك اللحظة، قالت: \"تذكرة ذهاب وعودة\".",
-        "context": "تربط العبارة بلحظة معينة في السرد."
+        "en": "She bought a round trip ticket.",
+        "ar": "اشترت تذكرة ذهاب وعودة.",
+        "context": "تقال لوصف شراء تذكرة تشمل الذهاب والعودة."
       }
     ]
   }

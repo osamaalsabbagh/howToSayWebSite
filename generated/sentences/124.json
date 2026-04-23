@@ -10,84 +10,91 @@
     "wordMeanings": [
       {
         "term": "That",
-        "description": "تشير إلى أمر أو خبر سبق ذكره."
+        "description": "ذلك الشيء أو الكلام الذي تشير إليه."
       },
       {
         "term": "is",
-        "description": "فعل be في الحاضر مع المفرد."
+        "description": "صيغة تأتي مع المفرد وتربط الشيء بحكمك عليه."
       },
       {
         "term": "not",
-        "description": "أداة نفي."
+        "description": "كلمة نفي تجعل المعنى ليس."
       },
       {
         "term": "right",
-        "description": "هنا جزء من All right التي تدل على القبول أو الموافقة، وليس المقصود فقط معنى \"صحيح\" أو \"يمين\"."
+        "description": "صحيح أو مناسب في هذا السياق."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "That is not right.",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "تستخدم is not مع صفة للتعبير عن أن الشيء أو الكلام غير صحيح أو غير مقبول في الوقت الحالي."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "People often say, \"That is not right\" in situations like this.",
-        "ar": "يقول الناس كثيرًا: \"ذلك غير صحيح\" في مواقف كهذه.",
-        "context": "تستخدم الجملة بوصفها تركيبًا شائعًا في موقف مشابه."
+        "en": "This is not right.",
+        "ar": "هذا ليس صحيحًا.",
+        "context": "تقال عند الإشارة إلى خطأ قريب."
       },
       {
         "id": 2,
-        "en": "You can say, \"That is not right\" when this happens.",
-        "ar": "يمكنك أن تقول: \"ذلك غير صحيح\" عندما يحدث هذا.",
-        "context": "توضح أن الجملة مناسبة في موقف متكرر."
+        "en": "That answer is not right.",
+        "ar": "تلك الإجابة ليست صحيحة.",
+        "context": "تقال عند تصحيح إجابة."
       },
       {
         "id": 3,
-        "en": "I heard someone say, \"That is not right\".",
-        "ar": "سمعت شخصًا يقول: \"ذلك غير صحيح\".",
-        "context": "تجعل الجملة جزءًا من كلام سمعته من شخص آخر."
+        "en": "The number is not right.",
+        "ar": "الرقم ليس صحيحًا.",
+        "context": "تقال عند اكتشاف خطأ في رقم."
       },
       {
         "id": 4,
-        "en": "The teacher used the sentence, \"That is not right\" in class.",
-        "ar": "استخدم المعلم الجملة: \"ذلك غير صحيح\" في الصف.",
-        "context": "تستخدم الجملة مثالًا تعليميًا في الصف."
+        "en": "Your address is not right.",
+        "ar": "عنوانك ليس صحيحًا.",
+        "context": "تقال عند وجود خطأ في عنوان."
       },
       {
         "id": 5,
-        "en": "Many learners remember the sentence, \"That is not right\" first.",
-        "ar": "يتذكر كثير من المتعلمين الجملة: \"ذلك غير صحيح\" أولًا.",
-        "context": "تقدم الجملة بوصفها جملة تعليمية أساسية."
+        "en": "That behavior is not right.",
+        "ar": "ذلك التصرف ليس صحيحًا.",
+        "context": "تقال عند الاعتراض على سلوك."
       },
       {
         "id": 6,
-        "en": "She said, \"That is not right\" in a calm way.",
-        "ar": "قالت: \"ذلك غير صحيح\" بطريقة هادئة.",
-        "context": "تجعل الجملة جزءًا من كلام مباشر في موقف عادي."
+        "en": "The time is not right.",
+        "ar": "الوقت ليس صحيحًا.",
+        "context": "تقال عند خطأ في موعد."
       },
       {
         "id": 7,
-        "en": "He repeated, \"That is not right\" more than once.",
-        "ar": "ردد: \"ذلك غير صحيح\" أكثر من مرة.",
-        "context": "تضيف معنى التكرار لنفس الجملة."
+        "en": "This information is not right.",
+        "ar": "هذه المعلومة ليست صحيحة.",
+        "context": "تقال عند تصحيح معلومة."
       },
       {
         "id": 8,
-        "en": "At the right moment, someone might say, \"That is not right\".",
-        "ar": "في اللحظة المناسبة، قد يقول شخص ما: \"ذلك غير صحيح\".",
-        "context": "توضح أن الجملة مرتبطة بتوقيت مناسب في السياق."
+        "en": "His name is not right.",
+        "ar": "اسمه ليس صحيحًا.",
+        "context": "تقال عند وجود خطأ في اسم."
       },
       {
         "id": 9,
-        "en": "I wrote down the sentence, \"That is not right\" so I would remember it.",
-        "ar": "كتبت الجملة: \"ذلك غير صحيح\" حتى أتذكرها.",
-        "context": "تعطي مثالًا على حفظ الجملة أو مراجعتها."
+        "en": "That is not the right way.",
+        "ar": "تلك ليست الطريقة الصحيحة.",
+        "context": "تقال عند تصحيح طريقة فعل شيء."
       },
       {
         "id": 10,
-        "en": "It is useful to know when to say, \"That is not right\".",
-        "ar": "من المفيد أن تعرف متى تقول: \"ذلك غير صحيح\".",
-        "context": "تركز على معرفة الوقت المناسب لاستخدام الجملة."
+        "en": "The answer was not right.",
+        "ar": "الإجابة لم تكن صحيحة.",
+        "context": "تقال بعد مراجعة إجابة سابقة."
       }
     ]
   }

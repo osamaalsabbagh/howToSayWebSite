@@ -10,96 +10,111 @@
     "wordMeanings": [
       {
         "term": "Sorry",
-        "description": "صفة أو تعبير يعني آسف."
+        "description": "عذرًا، وتستخدم للتلطف قبل خبر غير مناسب للمخاطب."
       },
       {
         "term": "we",
-        "description": "ضمير المتكلمين."
+        "description": "نحن، وتشير إلى المتجر أو الجهة المتحدثة."
       },
       {
         "term": "do",
-        "description": "فعل مساعد يُستعمل لتكوين النفي والسؤال في المضارع البسيط."
+        "description": "تستخدم مع النفي لتكوين جملة منفية في الحاضر."
       },
       {
         "term": "not",
-        "description": "أداة نفي."
+        "description": "لا، وتدل على النفي."
       },
       {
         "term": "accept",
-        "description": "فعل يعني عذرا."
+        "description": "نقبل."
       },
       {
         "term": "credit",
-        "description": "اسم يعني بطاقات."
+        "description": "جزء من وصف بطاقة دفع تعتمد على الائتمان."
       },
       {
         "term": "cards",
-        "description": "اسم يعني الائتمان."
+        "description": "بطاقات، والمقصود بطاقات الدفع."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "Sorry",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه كلمة اعتذار أو تلطف قبل توضيح سياسة الدفع، ولا تحمل زمنًا مستقلًا."
+        }
+      },
+      {
+        "sentence": "we do not accept credit cards",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "يستخدم المضارع البسيط المنفي للتعبير عن سياسة عامة أو قاعدة ثابتة، وهي عدم قبول بطاقات الائتمان."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "People often say, \"Sorry, we do not accept credit cards\" in situations like this.",
-        "ar": "يقول الناس كثيرًا: \"عذرًا، لا نقبل بطاقات الائتمان\" في مواقف كهذه.",
-        "context": "تستخدم الجملة بوصفها تركيبًا شائعًا في موقف مشابه."
+        "en": "Sorry, we do not accept credit cards.",
+        "ar": "عذرًا، لا نقبل بطاقات الائتمان.",
+        "context": "تقال عند شرح أن الدفع بالبطاقات غير متاح."
       },
       {
         "id": 2,
-        "en": "You can say, \"Sorry, we do not accept credit cards\" when this happens.",
-        "ar": "يمكنك أن تقول: \"عذرًا، لا نقبل بطاقات الائتمان\" عندما يحدث هذا.",
-        "context": "توضح أن الجملة مناسبة في موقف متكرر."
+        "en": "Sorry, we do not accept debit cards.",
+        "ar": "عذرًا، لا نقبل بطاقات الخصم.",
+        "context": "تقال عند رفض نوع آخر من البطاقات."
       },
       {
         "id": 3,
-        "en": "I heard someone say, \"Sorry, we do not accept credit cards\".",
-        "ar": "سمعت شخصًا يقول: \"عذرًا، لا نقبل بطاقات الائتمان\".",
-        "context": "تجعل الجملة جزءًا من كلام سمعته من شخص آخر."
+        "en": "Sorry, we do not accept checks.",
+        "ar": "عذرًا، لا نقبل الشيكات.",
+        "context": "تقال عند توضيح سياسة دفع."
       },
       {
         "id": 4,
-        "en": "The teacher used the sentence, \"Sorry, we do not accept credit cards\" in class.",
-        "ar": "استخدم المعلم الجملة: \"عذرًا، لا نقبل بطاقات الائتمان\" في الصف.",
-        "context": "تستخدم الجملة مثالًا تعليميًا في الصف."
+        "en": "Sorry, we only accept cash.",
+        "ar": "عذرًا، نقبل النقد فقط.",
+        "context": "تقال عند توضيح أن النقد هو الخيار الوحيد."
       },
       {
         "id": 5,
-        "en": "Many learners remember the sentence, \"Sorry, we do not accept credit cards\" first.",
-        "ar": "يتذكر كثير من المتعلمين الجملة: \"عذرًا، لا نقبل بطاقات الائتمان\" أولًا.",
-        "context": "تقدم الجملة بوصفها جملة تعليمية أساسية."
+        "en": "We do not accept credit cards here.",
+        "ar": "لا نقبل بطاقات الائتمان هنا.",
+        "context": "تقال عند توضيح سياسة المكان."
       },
       {
         "id": 6,
-        "en": "She said, \"Sorry, we do not accept credit cards\" in a calm way.",
-        "ar": "قالت: \"عذرًا، لا نقبل بطاقات الائتمان\" بطريقة هادئة.",
-        "context": "تجعل الجملة جزءًا من كلام مباشر في موقف عادي."
+        "en": "Sorry, the card machine is not working.",
+        "ar": "عذرًا، جهاز البطاقات لا يعمل.",
+        "context": "تقال عند تعطل وسيلة الدفع."
       },
       {
         "id": 7,
-        "en": "He repeated, \"Sorry, we do not accept credit cards\" more than once.",
-        "ar": "ردد: \"عذرًا، لا نقبل بطاقات الائتمان\" أكثر من مرة.",
-        "context": "تضيف معنى التكرار لنفس الجملة."
+        "en": "Sorry, cash only.",
+        "ar": "عذرًا، الدفع نقدًا فقط.",
+        "context": "تقال باختصار في متجر أو مطعم."
       },
       {
         "id": 8,
-        "en": "At the right moment, someone might say, \"Sorry, we do not accept credit cards\".",
-        "ar": "في اللحظة المناسبة، قد يقول شخص ما: \"عذرًا، لا نقبل بطاقات الائتمان\".",
-        "context": "توضح أن الجملة مرتبطة بتوقيت مناسب في السياق."
+        "en": "We accept cash, but not credit cards.",
+        "ar": "نقبل النقد، لكن لا نقبل بطاقات الائتمان.",
+        "context": "تقال عند توضيح الخيارات المتاحة وغير المتاحة."
       },
       {
         "id": 9,
-        "en": "I wrote down the sentence, \"Sorry, we do not accept credit cards\" so I would remember it.",
-        "ar": "كتبت الجملة: \"عذرًا، لا نقبل بطاقات الائتمان\" حتى أتذكرها.",
-        "context": "تعطي مثالًا على حفظ الجملة أو مراجعتها."
+        "en": "Sorry, we cannot take credit cards today.",
+        "ar": "عذرًا، لا يمكننا قبول بطاقات الائتمان اليوم.",
+        "context": "تقال عند وجود مشكلة مؤقتة."
       },
       {
         "id": 10,
-        "en": "It is useful to know when to say, \"Sorry, we do not accept credit cards\".",
-        "ar": "من المفيد أن تعرف متى تقول: \"عذرًا، لا نقبل بطاقات الائتمان\".",
-        "context": "تركز على معرفة الوقت المناسب لاستخدام الجملة."
+        "en": "Sorry, we do not accept cards for small payments.",
+        "ar": "عذرًا، لا نقبل البطاقات للمدفوعات الصغيرة.",
+        "context": "تقال عند وجود حد أدنى للدفع بالبطاقة."
       }
     ]
   }

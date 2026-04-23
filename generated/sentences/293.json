@@ -10,83 +10,91 @@
     "wordMeanings": [
       {
         "term": "On",
-        "description": "حرف جر يعني على أو في يوم محدد حسب السياق."
+        "description": "تستخدم هنا لتحديد الطابق داخل مبنى."
       },
       {
         "term": "the",
-        "description": "أداة تعريف تشير إلى شيء معروف أو محدد."
+        "description": "أداة تشير إلى طابق محدد."
       },
       {
         "term": "second",
-        "description": "كلمة ترتبط بمعنى الطابق."
+        "description": "الثاني في الترتيب."
       },
       {
         "term": "floor",
-        "description": "اسم يعني الثاني."
+        "description": "طابق داخل مبنى."
       }
     ],
-    "tense": null,
-    "tenseReason": "استُعمل هذا التعبير لأنه عبارة ثابتة أو رد قصير يُستخدم في موقف محدد، وليس جملة فعلية كاملة بزمن واضح.",
+    "grammarExplanations": [
+      {
+        "sentence": "On the second floor.",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذا تعبير مكاني قصير يحدد الطابق داخل مبنى، ولا يحتوي على فعل ظاهر أو زمن مستقل."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "In this situation, people often say, \"On the second floor\".",
-        "ar": "في هذا الموقف، يقول الناس كثيرًا: \"في الطابق الثاني\".",
-        "context": "توضح أن العبارة مناسبة في هذا النوع من المواقف."
+        "en": "On the second floor.",
+        "ar": "في الطابق الثاني.",
+        "context": "تقال كجواب قصير عند تحديد الطابق."
       },
       {
         "id": 2,
-        "en": "The teacher said, \"On the second floor\" to the students.",
-        "ar": "قال المعلم للطلاب: \"في الطابق الثاني\".",
-        "context": "تستخدم الجملة كتعليمات أو توجيه مباشر."
+        "en": "It is on the second floor.",
+        "ar": "إنه في الطابق الثاني.",
+        "context": "تقال عند تحديد مكان شيء داخل مبنى."
       },
       {
         "id": 3,
-        "en": "He told me, \"On the second floor\" before we left.",
-        "ar": "قال لي: \"في الطابق الثاني\" قبل أن نغادر.",
-        "context": "تضع العبارة قبل حدث آخر."
+        "en": "My room is on the second floor.",
+        "ar": "غرفتي في الطابق الثاني.",
+        "context": "تقال عند وصف مكان غرفة."
       },
       {
         "id": 4,
-        "en": "She said, \"On the second floor\" in a polite way.",
-        "ar": "قالت: \"في الطابق الثاني\" بطريقة مهذبة.",
-        "context": "تظهر أن العبارة يمكن أن تقال بلطف أو أدب."
+        "en": "The office is on the second floor.",
+        "ar": "المكتب في الطابق الثاني.",
+        "context": "تقال عند إعطاء موقع مكتب."
       },
       {
         "id": 5,
-        "en": "Someone shouted, \"On the second floor\" when there was a problem.",
-        "ar": "صاح شخص ما: \"في الطابق الثاني\" عندما ظهرت مشكلة.",
-        "context": "تربط العبارة بموقف سريع أو طارئ."
+        "en": "The restaurant is on the second floor.",
+        "ar": "المطعم في الطابق الثاني.",
+        "context": "تقال عند إرشاد شخص داخل مبنى."
       },
       {
         "id": 6,
-        "en": "You can say, \"On the second floor\" when you need a quick response.",
-        "ar": "يمكنك أن تقول: \"في الطابق الثاني\" عندما تحتاج إلى رد سريع.",
-        "context": "توضح أن العبارة مفيدة عند الحاجة إلى استجابة مباشرة."
+        "en": "Is it on the second floor?",
+        "ar": "هل هو في الطابق الثاني؟",
+        "context": "تستخدم للسؤال عن الطابق."
       },
       {
         "id": 7,
-        "en": "They repeated, \"On the second floor\" more than once.",
-        "ar": "رددوا: \"في الطابق الثاني\" أكثر من مرة.",
-        "context": "تعطي مثالًا على تكرار العبارة."
+        "en": "We live on the second floor.",
+        "ar": "نحن نسكن في الطابق الثاني.",
+        "context": "تقال عند ذكر طابق السكن."
       },
       {
         "id": 8,
-        "en": "I heard him say, \"On the second floor\" yesterday.",
-        "ar": "سمعته يقول: \"في الطابق الثاني\" أمس.",
-        "context": "تجعل العبارة جزءًا من موقف سمعته من شخص آخر."
+        "en": "The bathroom is on the second floor.",
+        "ar": "الحمام في الطابق الثاني.",
+        "context": "تقال عند تحديد مكان الحمام."
       },
       {
         "id": 9,
-        "en": "Many learners remember the phrase, \"On the second floor\".",
-        "ar": "يتذكر كثير من المتعلمين العبارة: \"في الطابق الثاني\".",
-        "context": "تقدم العبارة بوصفها عبارة سهلة التذكر."
+        "en": "Please go to the second floor.",
+        "ar": "من فضلك اذهب إلى الطابق الثاني.",
+        "context": "تقال عند إعطاء توجيه داخل مبنى."
       },
       {
         "id": 10,
-        "en": "At that moment, she said, \"On the second floor\".",
-        "ar": "في تلك اللحظة، قالت: \"في الطابق الثاني\".",
-        "context": "تربط العبارة بلحظة معينة في السرد."
+        "en": "The meeting room is on the second floor.",
+        "ar": "غرفة الاجتماع في الطابق الثاني.",
+        "context": "تقال عند تحديد مكان اجتماع."
       }
     ]
   }

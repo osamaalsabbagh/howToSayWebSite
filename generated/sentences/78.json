@@ -10,79 +10,87 @@
     "wordMeanings": [
       {
         "term": "Let",
-        "description": "فعل يُستعمل للسماح أو في تركيب let me / let us لاقتراح أو طلب شيء."
+        "description": "تأتي هنا بمعنى اسمح أو دع، لطلب فرصة لفعل شيء."
       },
       {
         "term": "me",
-        "description": "ضمير مفعول به يعني أنا/إياي."
+        "description": "ضمير يشير إلى المتكلم عندما يكون متلقيًا للفعل."
       },
       {
         "term": "check",
-        "description": "فعل يعني أتحقق."
+        "description": "أتحقق أو أراجع المعلومة."
       }
     ],
-    "tense": null,
-    "tenseReason": "استُعمل هذا الأسلوب لأن الجملة تقدم طلبًا أو تعليمات مباشرة موجهة إلى شخص آخر، لذلك لا نضع لها هنا زمنًا فعليًا مستقلًا.",
+    "grammarExplanations": [
+      {
+        "sentence": "Let me check.",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه صيغة طلب أو عرض للتحقق من شيء، وتعمل كتعبير عملي مهذب لا يحمل زمنًا مستقلًا."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "In this situation, people often say, \"Let me check\".",
-        "ar": "في هذا الموقف، يقول الناس كثيرًا: \"دعني أتحقق\".",
-        "context": "توضح أن العبارة مناسبة في هذا النوع من المواقف."
+        "en": "Let me see.",
+        "ar": "دعني أرى.",
+        "context": "تقال عند الرغبة في النظر أو التفكير قبل الرد."
       },
       {
         "id": 2,
-        "en": "The teacher said, \"Let me check\" to the students.",
-        "ar": "قال المعلم للطلاب: \"دعني أتحقق\".",
-        "context": "تستخدم الجملة كتعليمات أو توجيه مباشر."
+        "en": "Let me ask.",
+        "ar": "دعني أسأل.",
+        "context": "تقال عند الحاجة إلى سؤال شخص آخر."
       },
       {
         "id": 3,
-        "en": "He told me, \"Let me check\" before we left.",
-        "ar": "قال لي: \"دعني أتحقق\" قبل أن نغادر.",
-        "context": "تضع العبارة قبل حدث آخر."
+        "en": "Let me check the price.",
+        "ar": "دعني أتحقق من السعر.",
+        "context": "تقال قبل مراجعة سعر منتج."
       },
       {
         "id": 4,
-        "en": "She said, \"Let me check\" in a polite way.",
-        "ar": "قالت: \"دعني أتحقق\" بطريقة مهذبة.",
-        "context": "تظهر أن العبارة يمكن أن تقال بلطف أو أدب."
+        "en": "Let me check the time.",
+        "ar": "دعني أتحقق من الوقت.",
+        "context": "تقال قبل مراجعة موعد."
       },
       {
         "id": 5,
-        "en": "Someone shouted, \"Let me check\" when there was a problem.",
-        "ar": "صاح شخص ما: \"دعني أتحقق\" عندما ظهرت مشكلة.",
-        "context": "تربط العبارة بموقف سريع أو طارئ."
+        "en": "Please let me check first.",
+        "ar": "من فضلك دعني أتحقق أولًا.",
+        "context": "تقال عند طلب التحقق قبل إعطاء جواب."
       },
       {
         "id": 6,
-        "en": "You can say, \"Let me check\" when you need a quick response.",
-        "ar": "يمكنك أن تقول: \"دعني أتحقق\" عندما تحتاج إلى رد سريع.",
-        "context": "توضح أن العبارة مفيدة عند الحاجة إلى استجابة مباشرة."
+        "en": "Let me check my calendar.",
+        "ar": "دعني أتحقق من تقويمي.",
+        "context": "تقال قبل تأكيد موعد."
       },
       {
         "id": 7,
-        "en": "They repeated, \"Let me check\" more than once.",
-        "ar": "رددوا: \"دعني أتحقق\" أكثر من مرة.",
-        "context": "تعطي مثالًا على تكرار العبارة."
+        "en": "Let me check the address.",
+        "ar": "دعني أتحقق من العنوان.",
+        "context": "تقال قبل التأكد من مكان."
       },
       {
         "id": 8,
-        "en": "I heard him say, \"Let me check\" yesterday.",
-        "ar": "سمعته يقول: \"دعني أتحقق\" أمس.",
-        "context": "تجعل العبارة جزءًا من موقف سمعته من شخص آخر."
+        "en": "Let me check with my manager.",
+        "ar": "دعني أتحقق مع مديري.",
+        "context": "تقال عند الحاجة إلى موافقة أو معلومة من المدير."
       },
       {
         "id": 9,
-        "en": "Many learners remember the phrase, \"Let me check\".",
-        "ar": "يتذكر كثير من المتعلمين العبارة: \"دعني أتحقق\".",
-        "context": "تقدم العبارة بوصفها عبارة سهلة التذكر."
+        "en": "Let me check the list.",
+        "ar": "دعني أتحقق من القائمة.",
+        "context": "تقال قبل مراجعة أسماء أو عناصر."
       },
       {
         "id": 10,
-        "en": "At that moment, she said, \"Let me check\".",
-        "ar": "في تلك اللحظة، قالت: \"دعني أتحقق\".",
-        "context": "تربط العبارة بلحظة معينة في السرد."
+        "en": "Let me check and call you back.",
+        "ar": "دعني أتحقق وأتصل بك لاحقًا.",
+        "context": "تقال عند تأجيل الرد حتى بعد التحقق."
       }
     ]
   }

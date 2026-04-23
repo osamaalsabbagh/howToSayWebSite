@@ -10,100 +10,107 @@
     "wordMeanings": [
       {
         "term": "Does",
-        "description": "صيغة المضارع البسيط مع he/she/it من do."
+        "description": "أداة تبدأ سؤالًا في الحاضر مع فاعل مفرد أو غير محدد."
       },
       {
         "term": "anyone",
-        "description": "اسم يعني هل."
+        "description": "أي شخص، وتُستخدم عندما لا نحدد شخصًا بعينه."
       },
       {
         "term": "know",
-        "description": "فعل يعني يعرف أو يعلم."
+        "description": "يعرف أو لديه معلومة."
       },
       {
         "term": "the",
-        "description": "أداة تعريف تشير إلى شيء معروف أو محدد."
+        "description": "أداة تعريف تشير إلى إجابة معروفة في السياق."
       },
       {
         "term": "answer",
-        "description": "اسم يعني جواب أو إجابة."
+        "description": "الإجابة أو الحل المطلوب."
       },
       {
         "term": "to",
-        "description": "أداة تأتي قبل المصدر بعد أفعال مثل want."
+        "description": "تربط الإجابة بالسؤال الذي تخصه."
       },
       {
         "term": "question",
-        "description": "اسم يعني سؤال."
+        "description": "سؤال أو مسألة مطلوب حلها."
       },
       {
         "term": "three",
-        "description": "كلمة تدل على العدد ثلاثة."
+        "description": "العدد ثلاثة."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "Does anyone know the answer to question three?",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُخدم المضارع البسيط لأن السؤال يستفسر عن معرفة موجودة الآن لدى أي شخص في الصف."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "You can ask, \"Does anyone know the answer to question three?\" when you need information.",
-        "ar": "يمكنك أن تسأل: \"هل يعرف أي شخص الإجابة على السؤال ثلاثة؟\" عندما تحتاج إلى معلومة.",
-        "context": "تستعمل الجملة كسؤال مباشر للحصول على معلومة."
+        "en": "Does anyone know the answer?",
+        "ar": "هل يعرف أي شخص الإجابة؟",
+        "context": "يُستخدم عندما يسأل المعلم أو المتحدث مجموعة عن الحل."
       },
       {
         "id": 2,
-        "en": "Many people ask, \"Does anyone know the answer to question three?\" in this situation.",
-        "ar": "يسأل كثير من الناس: \"هل يعرف أي شخص الإجابة على السؤال ثلاثة؟\" في هذا الموقف.",
-        "context": "توضح أن هذا سؤال شائع في موقف مشابه."
+        "en": "Does anyone know the way to the station?",
+        "ar": "هل يعرف أي شخص الطريق إلى المحطة؟",
+        "context": "يُستخدم عند طلب مساعدة من مجموعة لمعرفة الاتجاه."
       },
       {
         "id": 3,
-        "en": "I asked, \"Does anyone know the answer to question three?\" because I was not sure.",
-        "ar": "سألت: \"هل يعرف أي شخص الإجابة على السؤال ثلاثة؟\" لأنني لم أكن متأكدًا.",
-        "context": "تضيف سببًا لطرح السؤال."
+        "en": "Does anyone know her phone number?",
+        "ar": "هل يعرف أي شخص رقم هاتفها؟",
+        "context": "يُستخدم عند البحث عن معلومة لدى مجموعة."
       },
       {
         "id": 4,
-        "en": "She asked politely, \"Does anyone know the answer to question three?\"",
-        "ar": "سألت بأدب: \"هل يعرف أي شخص الإجابة على السؤال ثلاثة؟\".",
-        "context": "تبين أن السؤال قيل بطريقة مهذبة."
+        "en": "Does anyone know the time?",
+        "ar": "هل يعرف أي شخص الوقت؟",
+        "context": "يُستخدم عندما لا يعرف المتكلم الوقت ويسأل الموجودين."
       },
       {
         "id": 5,
-        "en": "At work, someone may ask, \"Does anyone know the answer to question three?\"",
-        "ar": "في العمل، قد يسأل شخص ما: \"هل يعرف أي شخص الإجابة على السؤال ثلاثة؟\".",
-        "context": "تضع السؤال في سياق مهني أو عملي."
+        "en": "Does anyone know the answer to question five?",
+        "ar": "هل يعرف أي شخص الإجابة على السؤال الخامس؟",
+        "context": "يُستخدم في الصف عند السؤال عن حل مسألة محددة."
       },
       {
         "id": 6,
-        "en": "Before deciding, ask: \"Does anyone know the answer to question three?\"",
-        "ar": "قبل أن تقرر، اسأل: \"هل يعرف أي شخص الإجابة على السؤال ثلاثة؟\".",
-        "context": "تستخدم السؤال قبل اتخاذ قرار."
+        "en": "Does anyone know where the book is?",
+        "ar": "هل يعرف أي شخص أين الكتاب؟",
+        "context": "يُستخدم عند البحث عن شيء مفقود."
       },
       {
         "id": 7,
-        "en": "The student asked, \"Does anyone know the answer to question three?\" in class.",
-        "ar": "سأل الطالب: \"هل يعرف أي شخص الإجابة على السؤال ثلاثة؟\" في الصف.",
-        "context": "تجعل الجملة جزءًا من موقف تعليمي."
+        "en": "Does anyone know why the door is closed?",
+        "ar": "هل يعرف أي شخص لماذا الباب مغلق؟",
+        "context": "يُستخدم لمعرفة سبب موقف غير واضح."
       },
       {
         "id": 8,
-        "en": "While traveling, you can ask, \"Does anyone know the answer to question three?\"",
-        "ar": "أثناء السفر، يمكنك أن تسأل: \"هل يعرف أي شخص الإجابة على السؤال ثلاثة؟\".",
-        "context": "تربط السؤال بموقف السفر أو التنقل."
+        "en": "Does anyone know the name of this street?",
+        "ar": "هل يعرف أي شخص اسم هذا الشارع؟",
+        "context": "يُستخدم عند محاولة التعرف على مكان."
       },
       {
         "id": 9,
-        "en": "He asked me, \"Does anyone know the answer to question three?\" again.",
-        "ar": "سألني: \"هل يعرف أي شخص الإجابة على السؤال ثلاثة؟\" مرة أخرى.",
-        "context": "تضيف معنى التكرار لنفس السؤال."
+        "en": "Does anyone know how to fix this?",
+        "ar": "هل يعرف أي شخص كيف يصلح هذا؟",
+        "context": "يُستخدم عند طلب حل عملي من مجموعة."
       },
       {
         "id": 10,
-        "en": "If you are not sure, ask: \"Does anyone know the answer to question three?\"",
-        "ar": "إذا لم تكن متأكدًا، فاسأل: \"هل يعرف أي شخص الإجابة على السؤال ثلاثة؟\".",
-        "context": "توضح أن السؤال مناسب عند عدم التأكد."
+        "en": "Does anyone know the correct answer?",
+        "ar": "هل يعرف أي شخص الإجابة الصحيحة؟",
+        "context": "يُستخدم لتشجيع المشاركين على تقديم الحل."
       }
     ]
   }

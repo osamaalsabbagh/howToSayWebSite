@@ -10,75 +10,83 @@
     "wordMeanings": [
       {
         "term": "11",
-        "description": "رقم يدل على ١١."
+        "description": "العدد أحد عشر."
       },
       {
         "term": "dollars",
-        "description": "اسم يعني دولارات."
+        "description": "دولارات، وهي وحدة نقدية."
       }
     ],
-    "tense": null,
-    "tenseReason": "استُعمل هذا التعبير لأنه عبارة ثابتة أو رد قصير يُستخدم في موقف محدد، وليس جملة فعلية كاملة بزمن واضح.",
+    "grammarExplanations": [
+      {
+        "sentence": "11 dollars.",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه عبارة سعرية مختصرة بلا فعل ظاهر، وتستخدم لذكر مبلغ مالي فقط."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "In this situation, people often say, \"11 dollars\".",
-        "ar": "في هذا الموقف، يقول الناس كثيرًا: \"١١ دولارًا\".",
-        "context": "توضح أن العبارة مناسبة في هذا النوع من المواقف."
+        "en": "11 dollars.",
+        "ar": "١١ دولارًا.",
+        "context": "تقال عند ذكر سعر."
       },
       {
         "id": 2,
-        "en": "The teacher said, \"11 dollars\" to the students.",
-        "ar": "قال المعلم للطلاب: \"١١ دولارًا\".",
-        "context": "تستخدم الجملة كتعليمات أو توجيه مباشر."
+        "en": "It costs 11 dollars.",
+        "ar": "يكلف ١١ دولارًا.",
+        "context": "تقال عند توضيح سعر شيء."
       },
       {
         "id": 3,
-        "en": "He told me, \"11 dollars\" before we left.",
-        "ar": "قال لي: \"١١ دولارًا\" قبل أن نغادر.",
-        "context": "تضع العبارة قبل حدث آخر."
+        "en": "The ticket is 11 dollars.",
+        "ar": "التذكرة ب١١ دولارًا.",
+        "context": "تقال عند ذكر سعر تذكرة."
       },
       {
         "id": 4,
-        "en": "She said, \"11 dollars\" in a polite way.",
-        "ar": "قالت: \"١١ دولارًا\" بطريقة مهذبة.",
-        "context": "تظهر أن العبارة يمكن أن تقال بلطف أو أدب."
+        "en": "The total is 11 dollars.",
+        "ar": "المجموع ١١ دولارًا.",
+        "context": "تقال عند حساب إجمالي المبلغ."
       },
       {
         "id": 5,
-        "en": "Someone shouted, \"11 dollars\" when there was a problem.",
-        "ar": "صاح شخص ما: \"١١ دولارًا\" عندما ظهرت مشكلة.",
-        "context": "تربط العبارة بموقف سريع أو طارئ."
+        "en": "I paid 11 dollars.",
+        "ar": "دفعت ١١ دولارًا.",
+        "context": "تقال عند الإخبار عن مبلغ دفعته."
       },
       {
         "id": 6,
-        "en": "You can say, \"11 dollars\" when you need a quick response.",
-        "ar": "يمكنك أن تقول: \"١١ دولارًا\" عندما تحتاج إلى رد سريع.",
-        "context": "توضح أن العبارة مفيدة عند الحاجة إلى استجابة مباشرة."
+        "en": "Do you have 11 dollars?",
+        "ar": "هل لديك ١١ دولارًا؟",
+        "context": "تقال عند السؤال عن توفر مبلغ محدد."
       },
       {
         "id": 7,
-        "en": "They repeated, \"11 dollars\" more than once.",
-        "ar": "رددوا: \"١١ دولارًا\" أكثر من مرة.",
-        "context": "تعطي مثالًا على تكرار العبارة."
+        "en": "Please give me 11 dollars.",
+        "ar": "من فضلك أعطني ١١ دولارًا.",
+        "context": "تقال عند طلب مبلغ من شخص."
       },
       {
         "id": 8,
-        "en": "I heard him say, \"11 dollars\" yesterday.",
-        "ar": "سمعته يقول: \"١١ دولارًا\" أمس.",
-        "context": "تجعل العبارة جزءًا من موقف سمعته من شخص آخر."
+        "en": "This meal is 11 dollars.",
+        "ar": "هذه الوجبة ب١١ دولارًا.",
+        "context": "تقال عند ذكر سعر وجبة."
       },
       {
         "id": 9,
-        "en": "Many learners remember the phrase, \"11 dollars\".",
-        "ar": "يتذكر كثير من المتعلمين العبارة: \"١١ دولارًا\".",
-        "context": "تقدم العبارة بوصفها عبارة سهلة التذكر."
+        "en": "The fare is 11 dollars.",
+        "ar": "الأجرة ١١ دولارًا.",
+        "context": "تقال عند ذكر أجرة مواصلات."
       },
       {
         "id": 10,
-        "en": "At that moment, she said, \"11 dollars\".",
-        "ar": "في تلك اللحظة، قالت: \"١١ دولارًا\".",
-        "context": "تربط العبارة بلحظة معينة في السرد."
+        "en": "I need 11 dollars more.",
+        "ar": "أحتاج إلى ١١ دولارًا إضافية.",
+        "context": "تقال عند نقص مبلغ محدد."
       }
     ]
   }

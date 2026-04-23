@@ -10,104 +10,119 @@
     "wordMeanings": [
       {
         "term": "Really",
-        "description": "ظرف يُستخدم للتأكيد ويعني حقًا أو فعلًا."
+        "description": "كلمة تعبر عن الدهشة أو طلب التأكيد."
       },
       {
         "term": "I",
-        "description": "ضمير المتكلم."
+        "description": "ضمير المتكلم المفرد."
       },
       {
         "term": "want",
-        "description": "فعل يدل على الرغبة."
+        "description": "تعني أريد أو أرغب."
       },
       {
         "term": "to",
-        "description": "أداة تأتي قبل المصدر بعد أفعال مثل want."
+        "description": "تأتي قبل الفعل بعد want."
       },
       {
         "term": "ask",
-        "description": "فعل يعني يسأل أو يطلب."
+        "description": "تعني أسأل أو أطلب معلومة."
       },
       {
         "term": "him",
-        "description": "ضمير مفعول به يعود على رجل أو ولد."
+        "description": "ضمير مفعول به يعود على الفنان."
       },
       {
         "term": "about",
-        "description": "حرف جر أو ظرف يعني عن أو تقريبًا حسب السياق."
+        "description": "حرف يوضح موضوع السؤال."
       },
       {
         "term": "his",
-        "description": "صفة ملكية تعني خاص به."
+        "description": "صفة ملكية تعني الخاص به."
       },
       {
         "term": "inspiration",
-        "description": "اسم يعني إلهامه."
+        "description": "الإلهام أو ما يعطي الشخص فكرة وإبداعًا."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "Really?",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه كلمة تعجب أو طلب تأكيد قصيرة وليست جملة فعلية لها زمن مستقل."
+        }
+      },
+      {
+        "sentence": "I want to ask him about his inspiration.",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُعمل المضارع البسيط للتعبير عن رغبة المتكلم الحالية في طرح سؤال."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "In general, Really? I want to ask him about his inspiration.",
-        "ar": "بشكل عام، حقًا؟ أريد أن أسأله عن إلهامه.",
-        "context": "تضيف عبارة عامة تحافظ على نفس المعنى الأساسي."
+        "en": "Really? I want to ask her about her art.",
+        "ar": "حقًا؟ أريد أن أسألها عن فنها.",
+        "context": "تظهر اهتمامًا بفنانة."
       },
       {
         "id": 2,
-        "en": "Usually, Really? I want to ask him about his inspiration.",
-        "ar": "عادةً، حقًا؟ أريد أن أسأله عن إلهامه.",
-        "context": "تضيف ظرفًا يدل على التكرار أو العادة."
+        "en": "I want to ask him about his work.",
+        "ar": "أريد أن أسأله عن عمله.",
+        "context": "تريد معرفة تفاصيل عن عمل شخص."
       },
       {
         "id": 3,
-        "en": "Sometimes, Really? I want to ask him about his inspiration.",
-        "ar": "أحيانًا، حقًا؟ أريد أن أسأله عن إلهامه.",
-        "context": "تضع الجملة في سياق أقل تكرارًا."
+        "en": "I want to ask the artist a question.",
+        "ar": "أريد أن أسأل الفنان سؤالًا.",
+        "context": "تستعد للحديث مع فنان."
       },
       {
         "id": 4,
-        "en": "For now, Really? I want to ask him about his inspiration.",
-        "ar": "في الوقت الحالي، حقًا؟ أريد أن أسأله عن إلهامه.",
-        "context": "تربط الجملة بالوضع الحالي."
+        "en": "Really? That is interesting.",
+        "ar": "حقًا؟ هذا مثير للاهتمام.",
+        "context": "ترد بدهشة على معلومة جديدة."
       },
       {
         "id": 5,
-        "en": "Really? I want to ask him about his inspiration, so that helps a lot.",
-        "ar": "حقًا؟ أريد أن أسأله عن إلهامه، وهذا يساعد كثيرًا.",
-        "context": "تضيف نتيجة بسيطة على نفس المعنى."
+        "en": "I want to ask him about his first painting.",
+        "ar": "أريد أن أسأله عن أول لوحة له.",
+        "context": "تسأل عن بداية فنية."
       },
       {
         "id": 6,
-        "en": "Really? I want to ask him about his inspiration in daily life.",
-        "ar": "حقًا؟ أريد أن أسأله عن إلهامه في الحياة اليومية.",
-        "context": "تربط الجملة بمواقف الحياة اليومية."
+        "en": "I want to ask her about the colors.",
+        "ar": "أريد أن أسألها عن الألوان.",
+        "context": "تركز على جانب محدد في العمل الفني."
       },
       {
         "id": 7,
-        "en": "Really? I want to ask him about his inspiration when it is necessary.",
-        "ar": "حقًا؟ أريد أن أسأله عن إلهامه عندما يكون ذلك ضروريًا.",
-        "context": "تربط الجملة بشرط أو حاجة معينة."
+        "en": "Really? I did not know that.",
+        "ar": "حقًا؟ لم أكن أعرف ذلك.",
+        "context": "تعبّر عن مفاجأة."
       },
       {
         "id": 8,
-        "en": "In this situation, Really? I want to ask him about his inspiration.",
-        "ar": "في هذا الموقف، حقًا؟ أريد أن أسأله عن إلهامه.",
-        "context": "تجعل الجملة جزءًا من موقف واضح."
+        "en": "I want to ask him after the show.",
+        "ar": "أريد أن أسأله بعد العرض.",
+        "context": "تحدد وقت السؤال."
       },
       {
         "id": 9,
-        "en": "Really? I want to ask him about his inspiration, and everyone notices that.",
-        "ar": "حقًا؟ أريد أن أسأله عن إلهامه، والجميع يلاحظ ذلك.",
-        "context": "تضيف ملاحظة أو نتيجة بعد الجملة."
+        "en": "I want to ask about his inspiration.",
+        "ar": "أريد أن أسأل عن إلهامه.",
+        "context": "تسأل عن مصدر الأفكار."
       },
       {
         "id": 10,
-        "en": "Really? I want to ask him about his inspiration most of the time.",
-        "ar": "حقًا؟ أريد أن أسأله عن إلهامه معظم الوقت.",
-        "context": "تضيف عبارة تكرار شائعة."
+        "en": "Really? I want to meet him.",
+        "ar": "حقًا؟ أريد أن أقابله.",
+        "context": "تظهر رغبة في لقاء الشخص."
       }
     ]
   }

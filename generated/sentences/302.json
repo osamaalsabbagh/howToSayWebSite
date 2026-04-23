@@ -10,96 +10,103 @@
     "wordMeanings": [
       {
         "term": "There",
-        "description": "ظرف مكان يعني هناك."
+        "description": "تستخدم لبدء جملة تدل على وجود شيء."
       },
       {
         "term": "are",
-        "description": "فعل be مع you."
+        "description": "تستخدم مع الجمع للدلالة على وجود أشياء."
       },
       {
         "term": "some",
-        "description": "كلمة تعني بعض."
+        "description": "بعض أو عدد غير محدد."
       },
       {
         "term": "books",
-        "description": "اسم يعني الكتب."
+        "description": "كتب، أشياء للقراءة."
       },
       {
         "term": "on",
-        "description": "حرف جر يعني على أو في يوم محدد حسب السياق."
+        "description": "على سطح شيء."
       },
       {
         "term": "the",
-        "description": "أداة تعريف تشير إلى شيء معروف أو محدد."
+        "description": "أداة تشير إلى طاولة محددة."
       },
       {
         "term": "table",
-        "description": "اسم يعني طاولة."
+        "description": "طاولة أو منضدة."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "There are some books on the table.",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "تستخدم There are للدلالة على وجود أشياء جمع في الحاضر، وon the table يحدد مكانها على سطح الطاولة."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "People often say, \"There are some books on the table\" in situations like this.",
-        "ar": "يقول الناس كثيرًا: \"هناك بعض الكتب على الطاولة\" في مواقف كهذه.",
-        "context": "تستخدم الجملة بوصفها تركيبًا شائعًا في موقف مشابه."
+        "en": "There are some books on the table.",
+        "ar": "هناك بعض الكتب على الطاولة.",
+        "context": "تقال عند ذكر وجود كتب على طاولة."
       },
       {
         "id": 2,
-        "en": "You can say, \"There are some books on the table\" when this happens.",
-        "ar": "يمكنك أن تقول: \"هناك بعض الكتب على الطاولة\" عندما يحدث هذا.",
-        "context": "توضح أن الجملة مناسبة في موقف متكرر."
+        "en": "There are some papers on the table.",
+        "ar": "هناك بعض الأوراق على الطاولة.",
+        "context": "تقال عند ذكر وجود أوراق."
       },
       {
         "id": 3,
-        "en": "I heard someone say, \"There are some books on the table\".",
-        "ar": "سمعت شخصًا يقول: \"هناك بعض الكتب على الطاولة\".",
-        "context": "تجعل الجملة جزءًا من كلام سمعته من شخص آخر."
+        "en": "There are some keys on the table.",
+        "ar": "هناك بعض المفاتيح على الطاولة.",
+        "context": "تقال عند تحديد مكان مفاتيح."
       },
       {
         "id": 4,
-        "en": "The teacher used the sentence, \"There are some books on the table\" in class.",
-        "ar": "استخدم المعلم الجملة: \"هناك بعض الكتب على الطاولة\" في الصف.",
-        "context": "تستخدم الجملة مثالًا تعليميًا في الصف."
+        "en": "There are some books on the shelf.",
+        "ar": "هناك بعض الكتب على الرف.",
+        "context": "تقال عند ذكر كتب على رف."
       },
       {
         "id": 5,
-        "en": "Many learners remember the sentence, \"There are some books on the table\" first.",
-        "ar": "يتذكر كثير من المتعلمين الجملة: \"هناك بعض الكتب على الطاولة\" أولًا.",
-        "context": "تقدم الجملة بوصفها جملة تعليمية أساسية."
+        "en": "There are two books on the table.",
+        "ar": "هناك كتابان على الطاولة.",
+        "context": "تقال عند تحديد عدد الكتب."
       },
       {
         "id": 6,
-        "en": "She said, \"There are some books on the table\" in a calm way.",
-        "ar": "قالت: \"هناك بعض الكتب على الطاولة\" بطريقة هادئة.",
-        "context": "تجعل الجملة جزءًا من كلام مباشر في موقف عادي."
+        "en": "Are there any books on the table?",
+        "ar": "هل توجد أي كتب على الطاولة؟",
+        "context": "تستخدم للسؤال عن وجود كتب."
       },
       {
         "id": 7,
-        "en": "He repeated, \"There are some books on the table\" more than once.",
-        "ar": "ردد: \"هناك بعض الكتب على الطاولة\" أكثر من مرة.",
-        "context": "تضيف معنى التكرار لنفس الجملة."
+        "en": "There are no books on the table.",
+        "ar": "لا توجد كتب على الطاولة.",
+        "context": "تقال عند نفي وجود كتب."
       },
       {
         "id": 8,
-        "en": "At the right moment, someone might say, \"There are some books on the table\".",
-        "ar": "في اللحظة المناسبة، قد يقول شخص ما: \"هناك بعض الكتب على الطاولة\".",
-        "context": "توضح أن الجملة مرتبطة بتوقيت مناسب في السياق."
+        "en": "There are some notebooks on the table.",
+        "ar": "هناك بعض الدفاتر على الطاولة.",
+        "context": "تقال عند ذكر وجود دفاتر."
       },
       {
         "id": 9,
-        "en": "I wrote down the sentence, \"There are some books on the table\" so I would remember it.",
-        "ar": "كتبت الجملة: \"هناك بعض الكتب على الطاولة\" حتى أتذكرها.",
-        "context": "تعطي مثالًا على حفظ الجملة أو مراجعتها."
+        "en": "There are some books under the table.",
+        "ar": "هناك بعض الكتب تحت الطاولة.",
+        "context": "تقال عند تغيير مكان الكتب."
       },
       {
         "id": 10,
-        "en": "It is useful to know when to say, \"There are some books on the table\".",
-        "ar": "من المفيد أن تعرف متى تقول: \"هناك بعض الكتب على الطاولة\".",
-        "context": "تركز على معرفة الوقت المناسب لاستخدام الجملة."
+        "en": "There are some books on the table for you.",
+        "ar": "هناك بعض الكتب على الطاولة لك.",
+        "context": "تقال عند إخبار شخص بوجود كتب مخصصة له."
       }
     ]
   }

@@ -10,107 +10,139 @@
     "wordMeanings": [
       {
         "term": "Thank",
-        "description": "فعل أو تعبير شكر يعني أشكر أو أقدّر."
+        "description": "تبدأ عبارة شكر موجهة إلى شخص."
       },
       {
         "term": "you",
-        "description": "الضمير الذي يعود على الشخص المخاطَب."
+        "description": "ضمير المخاطب، ويشير إلى الشخص الذي يتم شكره."
+      },
+      {
+        "term": "You",
+        "description": "ضمير المخاطب."
       },
       {
         "term": "look",
-        "description": "فعل يعني مألوفا."
+        "description": "تعني تبدو أو يظهر عليك."
       },
       {
         "term": "familiar",
-        "description": "صفة تعني هل."
+        "description": "صفة تعني مألوفًا أو كأنني رأيتك من قبل."
       },
       {
         "term": "Are",
-        "description": "فعل be مع you."
+        "description": "صيغة تبدأ سؤالًا عن هوية أو صفة حالية."
+      },
+      {
+        "term": "you",
+        "description": "ضمير المخاطب."
       },
       {
         "term": "an",
-        "description": "أداة نكرة تأتي قبل الاسم المفرد الذي يبدأ بصوت علّة."
+        "description": "أداة نكرة قبل اسم يبدأ بصوت علّة."
       },
       {
         "term": "actor",
-        "description": "اسم يعني ممثل."
+        "description": "ممثل."
       },
       {
         "term": "by",
-        "description": "حرف جر يعني بواسطة أو بجانب أو قبل وقت معين حسب السياق."
+        "description": "تأتي ضمن عبارة by any chance لتلطيف السؤال."
       },
       {
         "term": "any",
-        "description": "كلمة تعني أي أو بعض حسب السياق."
+        "description": "تأتي ضمن العبارة لتجعل السؤال أقل مباشرة."
       },
       {
         "term": "chance",
-        "description": "اسم يعني مصادفة."
+        "description": "تعني مصادفة أو احتمال في هذا التعبير."
       }
     ],
-    "tense": null,
-    "tenseReason": "استُعمل هذا التركيب بحسب وظيفته في السياق، وليس بوصفه زمنًا فعليًا مستقلًا يمكن فصله بسهولة عن المعنى الوظيفي للجملة.",
+    "grammarExplanations": [
+      {
+        "sentence": "Thank you.",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه عبارة شكر ثابتة وليست جملة فعلية لها زمن مستقل."
+        }
+      },
+      {
+        "sentence": "You look familiar.",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُعمل المضارع البسيط لوصف الانطباع الحالي عن شكل الشخص."
+        }
+      },
+      {
+        "sentence": "Are you an actor by any chance?",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُعمل المضارع البسيط للسؤال عن هوية أو مهنة الشخص في الوقت الحالي، مع عبارة تلطف السؤال."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "You can ask, \"Thank you. You look familiar. Are you an actor by any chance?\" when you need information.",
-        "ar": "يمكنك أن تسأل: \"شكرًا. تبدو مألوفًا. هل أنت ممثل بأي مصادفة؟\" عندما تحتاج إلى معلومة.",
-        "context": "تستعمل الجملة كسؤال مباشر للحصول على معلومة."
+        "en": "You look familiar. Did we meet before?",
+        "ar": "تبدو مألوفًا. هل التقينا من قبل؟",
+        "context": "تسأل شخصًا تشعر أنك رأيته سابقًا."
       },
       {
         "id": 2,
-        "en": "Many people ask, \"Thank you. You look familiar. Are you an actor by any chance?\" in this situation.",
-        "ar": "يسأل كثير من الناس: \"شكرًا. تبدو مألوفًا. هل أنت ممثل بأي مصادفة؟\" في هذا الموقف.",
-        "context": "توضح أن هذا سؤال شائع في موقف مشابه."
+        "en": "Are you a teacher by any chance?",
+        "ar": "هل أنت معلم بأي مصادفة؟",
+        "context": "تسأل عن مهنة بلطف."
       },
       {
         "id": 3,
-        "en": "I asked, \"Thank you. You look familiar. Are you an actor by any chance?\" because I was not sure.",
-        "ar": "سألت: \"شكرًا. تبدو مألوفًا. هل أنت ممثل بأي مصادفة؟\" لأنني لم أكن متأكدًا.",
-        "context": "تضيف سببًا لطرح السؤال."
+        "en": "Thank you. You look very familiar.",
+        "ar": "شكرًا. تبدو مألوفًا جدًا.",
+        "context": "تنتقل من الشكر إلى ملاحظة شخصية."
       },
       {
         "id": 4,
-        "en": "She asked politely, \"Thank you. You look familiar. Are you an actor by any chance?\"",
-        "ar": "سألت بأدب: \"شكرًا. تبدو مألوفًا. هل أنت ممثل بأي مصادفة؟\".",
-        "context": "تبين أن السؤال قيل بطريقة مهذبة."
+        "en": "Are you from Boston by any chance?",
+        "ar": "هل أنت من بوسطن بأي مصادفة؟",
+        "context": "تسأل عن أصل شخص بطريقة غير مباشرة."
       },
       {
         "id": 5,
-        "en": "At work, someone may ask, \"Thank you. You look familiar. Are you an actor by any chance?\"",
-        "ar": "في العمل، قد يسأل شخص ما: \"شكرًا. تبدو مألوفًا. هل أنت ممثل بأي مصادفة؟\".",
-        "context": "تضع السؤال في سياق مهني أو عملي."
+        "en": "You look familiar from the airport.",
+        "ar": "تبدو مألوفًا من المطار.",
+        "context": "تربط الانطباع بمكان معين."
       },
       {
         "id": 6,
-        "en": "Before deciding, ask: \"Thank you. You look familiar. Are you an actor by any chance?\"",
-        "ar": "قبل أن تقرر، اسأل: \"شكرًا. تبدو مألوفًا. هل أنت ممثل بأي مصادفة؟\".",
-        "context": "تستخدم السؤال قبل اتخاذ قرار."
+        "en": "Are you an artist by any chance?",
+        "ar": "هل أنت فنان بأي مصادفة؟",
+        "context": "تسأل عن مجال عمل شخص بلطف."
       },
       {
         "id": 7,
-        "en": "The student asked, \"Thank you. You look familiar. Are you an actor by any chance?\" in class.",
-        "ar": "سأل الطالب: \"شكرًا. تبدو مألوفًا. هل أنت ممثل بأي مصادفة؟\" في الصف.",
-        "context": "تجعل الجملة جزءًا من موقف تعليمي."
+        "en": "Thank you for letting me sit here.",
+        "ar": "شكرًا لأنك سمحت لي بالجلوس هنا.",
+        "context": "تشكر شخصًا على إتاحة مكان."
       },
       {
         "id": 8,
-        "en": "While traveling, you can ask, \"Thank you. You look familiar. Are you an actor by any chance?\"",
-        "ar": "أثناء السفر، يمكنك أن تسأل: \"شكرًا. تبدو مألوفًا. هل أنت ممثل بأي مصادفة؟\".",
-        "context": "تربط السؤال بموقف السفر أو التنقل."
+        "en": "You look familiar, but I cannot remember where we met.",
+        "ar": "تبدو مألوفًا، لكنني لا أستطيع تذكر أين التقينا.",
+        "context": "توضح أنك غير متأكد من مصدر المعرفة."
       },
       {
         "id": 9,
-        "en": "He asked me, \"Thank you. You look familiar. Are you an actor by any chance?\" again.",
-        "ar": "سألني: \"شكرًا. تبدو مألوفًا. هل أنت ممثل بأي مصادفة؟\" مرة أخرى.",
-        "context": "تضيف معنى التكرار لنفس السؤال."
+        "en": "Are you the speaker by any chance?",
+        "ar": "هل أنت المتحدث بأي مصادفة؟",
+        "context": "تسأل شخصًا عن دوره في فعالية."
       },
       {
         "id": 10,
-        "en": "If you are not sure, ask: \"Thank you. You look familiar. Are you an actor by any chance?\"",
-        "ar": "إذا لم تكن متأكدًا، فاسأل: \"شكرًا. تبدو مألوفًا. هل أنت ممثل بأي مصادفة؟\".",
-        "context": "توضح أن السؤال مناسب عند عدم التأكد."
+        "en": "You look familiar from that movie.",
+        "ar": "تبدو مألوفًا من ذلك الفيلم.",
+        "context": "تظن أنك رأيت الشخص في فيلم."
       }
     ]
   }

@@ -10,88 +10,95 @@
     "wordMeanings": [
       {
         "term": "When",
-        "description": "أداة أو ظرف يعني عندما."
+        "description": "متى، وتستخدم للسؤال عن موعد."
       },
       {
         "term": "does",
-        "description": "صيغة المضارع البسيط مع he/she/it من do."
+        "description": "تأتي في السؤال مع المفرد لتكوين سؤال في الحاضر."
       },
       {
         "term": "the",
-        "description": "أداة تعريف تشير إلى شيء معروف أو محدد."
+        "description": "أداة تشير إلى بنك محدد أو معروف."
       },
       {
         "term": "bank",
-        "description": "اسم يعني بنك أو مصرف."
+        "description": "البنك، مكان للخدمات المالية."
       },
       {
         "term": "open",
-        "description": "فعل أو صفة يعني يفتح أو مفتوح حسب السياق."
+        "description": "يفتح أو يبدأ العمل."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "When does the bank open?",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "يستخدم المضارع البسيط للسؤال عن موعد ثابت أو معتاد لفتح البنك."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "You can ask, \"When does the bank open?\" when you need information.",
-        "ar": "يمكنك أن تسأل: \"متى يفتح البنك؟\" عندما تحتاج إلى معلومة.",
-        "context": "تستعمل الجملة كسؤال مباشر للحصول على معلومة."
+        "en": "When does the bank open?",
+        "ar": "متى يفتح البنك؟",
+        "context": "تقال عند السؤال عن الموعد المعتاد لفتح البنك."
       },
       {
         "id": 2,
-        "en": "Many people ask, \"When does the bank open?\" in this situation.",
-        "ar": "يسأل كثير من الناس: \"متى يفتح البنك؟\" في هذا الموقف.",
-        "context": "توضح أن هذا سؤال شائع في موقف مشابه."
+        "en": "When does the store open?",
+        "ar": "متى يفتح المتجر؟",
+        "context": "تقال عند السؤال عن ساعات عمل متجر."
       },
       {
         "id": 3,
-        "en": "I asked, \"When does the bank open?\" because I was not sure.",
-        "ar": "سألت: \"متى يفتح البنك؟\" لأنني لم أكن متأكدًا.",
-        "context": "تضيف سببًا لطرح السؤال."
+        "en": "When does the office open?",
+        "ar": "متى يفتح المكتب؟",
+        "context": "تقال عند السؤال عن موعد بدء العمل في مكتب."
       },
       {
         "id": 4,
-        "en": "She asked politely, \"When does the bank open?\"",
-        "ar": "سألت بأدب: \"متى يفتح البنك؟\".",
-        "context": "تبين أن السؤال قيل بطريقة مهذبة."
+        "en": "When does the post office open?",
+        "ar": "متى يفتح مكتب البريد؟",
+        "context": "تقال عند الحاجة إلى خدمة بريدية."
       },
       {
         "id": 5,
-        "en": "At work, someone may ask, \"When does the bank open?\"",
-        "ar": "في العمل، قد يسأل شخص ما: \"متى يفتح البنك؟\".",
-        "context": "تضع السؤال في سياق مهني أو عملي."
+        "en": "When does the museum open?",
+        "ar": "متى يفتح المتحف؟",
+        "context": "تقال عند التخطيط لزيارة متحف."
       },
       {
         "id": 6,
-        "en": "Before deciding, ask: \"When does the bank open?\"",
-        "ar": "قبل أن تقرر، اسأل: \"متى يفتح البنك؟\".",
-        "context": "تستخدم السؤال قبل اتخاذ قرار."
+        "en": "When does the restaurant open?",
+        "ar": "متى يفتح المطعم؟",
+        "context": "تقال عند التخطيط لتناول الطعام."
       },
       {
         "id": 7,
-        "en": "The student asked, \"When does the bank open?\" in class.",
-        "ar": "سأل الطالب: \"متى يفتح البنك؟\" في الصف.",
-        "context": "تجعل الجملة جزءًا من موقف تعليمي."
+        "en": "When does the station open?",
+        "ar": "متى تفتح المحطة؟",
+        "context": "تقال عند السؤال عن دخول محطة أو خدماتها."
       },
       {
         "id": 8,
-        "en": "While traveling, you can ask, \"When does the bank open?\"",
-        "ar": "أثناء السفر، يمكنك أن تسأل: \"متى يفتح البنك؟\".",
-        "context": "تربط السؤال بموقف السفر أو التنقل."
+        "en": "When does the bank close?",
+        "ar": "متى يغلق البنك؟",
+        "context": "تقال عند السؤال عن نهاية ساعات العمل."
       },
       {
         "id": 9,
-        "en": "He asked me, \"When does the bank open?\" again.",
-        "ar": "سألني: \"متى يفتح البنك؟\" مرة أخرى.",
-        "context": "تضيف معنى التكرار لنفس السؤال."
+        "en": "When does the bank open tomorrow?",
+        "ar": "متى يفتح البنك غدًا؟",
+        "context": "تقال عند السؤال عن موعد يوم محدد."
       },
       {
         "id": 10,
-        "en": "If you are not sure, ask: \"When does the bank open?\"",
-        "ar": "إذا لم تكن متأكدًا، فاسأل: \"متى يفتح البنك؟\".",
-        "context": "توضح أن السؤال مناسب عند عدم التأكد."
+        "en": "When does the bank open on Monday?",
+        "ar": "متى يفتح البنك يوم الاثنين؟",
+        "context": "تقال عند السؤال عن ساعات العمل في يوم معين."
       }
     ]
   }

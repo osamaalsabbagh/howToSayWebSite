@@ -10,96 +10,103 @@
     "wordMeanings": [
       {
         "term": "I",
-        "description": "ضمير المتكلم."
+        "description": "ضمير المتكلم ويشير إلى الشخص الذي يتحدث."
       },
       {
         "term": "have",
-        "description": "فعل يعني يملك، ويأتي أيضًا كفعل مساعد."
+        "description": "تساعد هنا على تكوين معنى بدأ في الماضي وما زال مستمرًا."
       },
       {
         "term": "been",
-        "description": "اسم مفعول من فعل be ويأتي كثيرًا مع الأزمنة التامة."
+        "description": "تدل هنا على الوجود أو البقاء في مكان."
       },
       {
         "term": "here",
-        "description": "ظرف مكان يعني هنا."
+        "description": "هنا، أي في المكان الحالي."
       },
       {
         "term": "for",
-        "description": "حرف جر يعني لـ أو من أجل."
+        "description": "تستخدم مع مدة زمنية كاملة."
       },
       {
         "term": "two",
-        "description": "كلمة تدل على العدد اثنان."
+        "description": "العدد اثنان."
       },
       {
         "term": "days",
-        "description": "اسم يعني يومين."
+        "description": "أيام، وهي مدة زمنية."
       }
     ],
-    "tense": "المضارع التام",
-    "tenseEn": "Present Perfect",
-    "tenseReason": "استُعمل المضارع التام لأن الجملة تربط بين حدث وقع في الماضي ونتيجته أو أثره في الحاضر.",
+    "grammarExplanations": [
+      {
+        "sentence": "I have been here for two days.",
+        "explanation": {
+          "tense": "المضارع التام",
+          "tenseEn": "Present Perfect",
+          "reason": "تستخدم have been للتعبير عن حالة بدأت في الماضي وما زالت صحيحة الآن، وكلمة for تأتي مع مدة البقاء وهي يومان."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "People often say, \"I have been here for two days\" in situations like this.",
-        "ar": "يقول الناس كثيرًا: \"أنا هنا منذ يومين\" في مواقف كهذه.",
-        "context": "تستخدم الجملة بوصفها تركيبًا شائعًا في موقف مشابه."
+        "en": "I have been here for one hour.",
+        "ar": "أنا هنا منذ ساعة واحدة.",
+        "context": "تقال عند ذكر مدة الانتظار أو الوجود في مكان."
       },
       {
         "id": 2,
-        "en": "You can say, \"I have been here for two days\" when this happens.",
-        "ar": "يمكنك أن تقول: \"أنا هنا منذ يومين\" عندما يحدث هذا.",
-        "context": "توضح أن الجملة مناسبة في موقف متكرر."
+        "en": "She has been in London for a week.",
+        "ar": "هي في لندن منذ أسبوع.",
+        "context": "تقال عند ذكر مدة بقاء شخص في مدينة."
       },
       {
         "id": 3,
-        "en": "I heard someone say, \"I have been here for two days\".",
-        "ar": "سمعت شخصًا يقول: \"أنا هنا منذ يومين\".",
-        "context": "تجعل الجملة جزءًا من كلام سمعته من شخص آخر."
+        "en": "We have been at work for six hours.",
+        "ar": "نحن في العمل منذ ست ساعات.",
+        "context": "تقال عند وصف مدة العمل حتى الآن."
       },
       {
         "id": 4,
-        "en": "The teacher used the sentence, \"I have been here for two days\" in class.",
-        "ar": "استخدم المعلم الجملة: \"أنا هنا منذ يومين\" في الصف.",
-        "context": "تستخدم الجملة مثالًا تعليميًا في الصف."
+        "en": "He has been home for two days.",
+        "ar": "هو في البيت منذ يومين.",
+        "context": "تقال عند وصف مدة بقاء شخص في البيت."
       },
       {
         "id": 5,
-        "en": "Many learners remember the sentence, \"I have been here for two days\" first.",
-        "ar": "يتذكر كثير من المتعلمين الجملة: \"أنا هنا منذ يومين\" أولًا.",
-        "context": "تقدم الجملة بوصفها جملة تعليمية أساسية."
+        "en": "I have been sick for three days.",
+        "ar": "أنا مريض منذ ثلاثة أيام.",
+        "context": "تقال عند وصف مدة المرض المستمرة."
       },
       {
         "id": 6,
-        "en": "She said, \"I have been here for two days\" in a calm way.",
-        "ar": "قالت: \"أنا هنا منذ يومين\" بطريقة هادئة.",
-        "context": "تجعل الجملة جزءًا من كلام مباشر في موقف عادي."
+        "en": "They have been friends for years.",
+        "ar": "هم أصدقاء منذ سنوات.",
+        "context": "تقال عند وصف علاقة مستمرة منذ وقت طويل."
       },
       {
         "id": 7,
-        "en": "He repeated, \"I have been here for two days\" more than once.",
-        "ar": "ردد: \"أنا هنا منذ يومين\" أكثر من مرة.",
-        "context": "تضيف معنى التكرار لنفس الجملة."
+        "en": "My brother has been there for a month.",
+        "ar": "أخي هناك منذ شهر.",
+        "context": "تقال عند ذكر مدة وجود شخص في مكان آخر."
       },
       {
         "id": 8,
-        "en": "At the right moment, someone might say, \"I have been here for two days\".",
-        "ar": "في اللحظة المناسبة، قد يقول شخص ما: \"أنا هنا منذ يومين\".",
-        "context": "توضح أن الجملة مرتبطة بتوقيت مناسب في السياق."
+        "en": "I have been awake for a long time.",
+        "ar": "أنا مستيقظ منذ وقت طويل.",
+        "context": "تقال عند وصف مدة اليقظة المستمرة."
       },
       {
         "id": 9,
-        "en": "I wrote down the sentence, \"I have been here for two days\" so I would remember it.",
-        "ar": "كتبت الجملة: \"أنا هنا منذ يومين\" حتى أتذكرها.",
-        "context": "تعطي مثالًا على حفظ الجملة أو مراجعتها."
+        "en": "The shop has been open for two hours.",
+        "ar": "المتجر مفتوح منذ ساعتين.",
+        "context": "تقال عند ذكر مدة فتح مكان."
       },
       {
         "id": 10,
-        "en": "It is useful to know when to say, \"I have been here for two days\".",
-        "ar": "من المفيد أن تعرف متى تقول: \"أنا هنا منذ يومين\".",
-        "context": "تركز على معرفة الوقت المناسب لاستخدام الجملة."
+        "en": "We have been ready for ten minutes.",
+        "ar": "نحن جاهزون منذ عشر دقائق.",
+        "context": "تقال عند انتظار الآخرين بعد اكتمال الاستعداد."
       }
     ]
   }

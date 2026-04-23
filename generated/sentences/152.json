@@ -10,83 +10,91 @@
     "wordMeanings": [
       {
         "term": "Have",
-        "description": "فعل يعني يملك، ويأتي أيضًا كفعل مساعد."
+        "description": "تأتي هنا في بداية أمنية بمعنى اقض أو عِش تجربة معينة."
       },
       {
         "term": "a",
-        "description": "أداة نكرة تأتي قبل الاسم المفرد المعدود."
+        "description": "أداة تدل على شيء واحد غير محدد."
       },
       {
         "term": "good",
-        "description": "صفة تعني جيد أو مريح أو مناسب هنا."
+        "description": "جيد من حيث السلامة والراحة وعدم وجود مشكلات."
       },
       {
         "term": "trip",
-        "description": "اسم يعني رحلة."
+        "description": "رحلة أو سفر من مكان إلى آخر."
       }
     ],
-    "tense": null,
-    "tenseReason": "استُعمل هذا الأسلوب لأن الجملة تقدم طلبًا أو تعليمات مباشرة موجهة إلى شخص آخر، لذلك لا نضع لها هنا زمنًا فعليًا مستقلًا.",
+    "grammarExplanations": [
+      {
+        "sentence": "Have a good trip.",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه صيغة تمن تبدأ بالفعل الأساسي للتعبير عن أمنية لشخص، ولا تصف حدثًا بزمن محدد."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "In this situation, people often say, \"Have a good trip\".",
-        "ar": "في هذا الموقف، يقول الناس كثيرًا: \"رحلة جيدة\".",
-        "context": "توضح أن العبارة مناسبة في هذا النوع من المواقف."
+        "en": "Have a good trip.",
+        "ar": "أتمنى لك رحلة جيدة.",
+        "context": "تقال لشخص قبل السفر لتمني رحلة بلا متاعب."
       },
       {
         "id": 2,
-        "en": "The teacher said, \"Have a good trip\" to the students.",
-        "ar": "قال المعلم للطلاب: \"رحلة جيدة\".",
-        "context": "تستخدم الجملة كتعليمات أو توجيه مباشر."
+        "en": "Have a good flight.",
+        "ar": "أتمنى لك رحلة طيران جيدة.",
+        "context": "تقال قبل ركوب الطائرة."
       },
       {
         "id": 3,
-        "en": "He told me, \"Have a good trip\" before we left.",
-        "ar": "قال لي: \"رحلة جيدة\" قبل أن نغادر.",
-        "context": "تضع العبارة قبل حدث آخر."
+        "en": "Have a good journey.",
+        "ar": "أتمنى لك سفرًا جيدًا.",
+        "context": "تقال في وداع مسافر."
       },
       {
         "id": 4,
-        "en": "She said, \"Have a good trip\" in a polite way.",
-        "ar": "قالت: \"رحلة جيدة\" بطريقة مهذبة.",
-        "context": "تظهر أن العبارة يمكن أن تقال بلطف أو أدب."
+        "en": "Have a good day.",
+        "ar": "أتمنى لك يومًا جيدًا.",
+        "context": "تقال عند وداع شخص في بداية اليوم."
       },
       {
         "id": 5,
-        "en": "Someone shouted, \"Have a good trip\" when there was a problem.",
-        "ar": "صاح شخص ما: \"رحلة جيدة\" عندما ظهرت مشكلة.",
-        "context": "تربط العبارة بموقف سريع أو طارئ."
+        "en": "Have a good weekend.",
+        "ar": "أتمنى لك عطلة نهاية أسبوع جيدة.",
+        "context": "تقال قبل عطلة نهاية الأسبوع."
       },
       {
         "id": 6,
-        "en": "You can say, \"Have a good trip\" when you need a quick response.",
-        "ar": "يمكنك أن تقول: \"رحلة جيدة\" عندما تحتاج إلى رد سريع.",
-        "context": "توضح أن العبارة مفيدة عند الحاجة إلى استجابة مباشرة."
+        "en": "Have a good time.",
+        "ar": "أتمنى لك وقتًا جيدًا.",
+        "context": "تقال قبل نشاط أو زيارة."
       },
       {
         "id": 7,
-        "en": "They repeated, \"Have a good trip\" more than once.",
-        "ar": "رددوا: \"رحلة جيدة\" أكثر من مرة.",
-        "context": "تعطي مثالًا على تكرار العبارة."
+        "en": "Have a good visit.",
+        "ar": "أتمنى لك زيارة جيدة.",
+        "context": "تقال لشخص ذاهب لزيارة أحد."
       },
       {
         "id": 8,
-        "en": "I heard him say, \"Have a good trip\" yesterday.",
-        "ar": "سمعته يقول: \"رحلة جيدة\" أمس.",
-        "context": "تجعل العبارة جزءًا من موقف سمعته من شخص آخر."
+        "en": "Have a good drive.",
+        "ar": "أتمنى لك قيادة جيدة.",
+        "context": "تقال لشخص سيقود السيارة في طريقه."
       },
       {
         "id": 9,
-        "en": "Many learners remember the phrase, \"Have a good trip\".",
-        "ar": "يتذكر كثير من المتعلمين العبارة: \"رحلة جيدة\".",
-        "context": "تقدم العبارة بوصفها عبارة سهلة التذكر."
+        "en": "Have a good holiday.",
+        "ar": "أتمنى لك عطلة جيدة.",
+        "context": "تقال لمن يبدأ عطلة."
       },
       {
         "id": 10,
-        "en": "At that moment, she said, \"Have a good trip\".",
-        "ar": "في تلك اللحظة، قالت: \"رحلة جيدة\".",
-        "context": "تربط العبارة بلحظة معينة في السرد."
+        "en": "Have a good stay.",
+        "ar": "أتمنى لك إقامة جيدة.",
+        "context": "تقال لضيف عند وصوله إلى مكان إقامة."
       }
     ]
   }

@@ -10,80 +10,87 @@
     "wordMeanings": [
       {
         "term": "They",
-        "description": "ضمير يشير إلى أكثر من شخص أو شيء."
+        "description": "ضمير يشير إلى أكثر من شيء أو شخص."
       },
       {
         "term": "are",
-        "description": "فعل be مع you."
+        "description": "صيغة تربط الجمع بوصف أو حالة."
       },
       {
         "term": "similar",
-        "description": "صفة تعني متشابهون."
+        "description": "متشابهون أو بينهم شبه كبير، لكن ليسوا بالضرورة متطابقين."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "They are similar.",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "تستخدم are مع الجمع لوصف حالة أو صفة حالية، وهي التشابه بين الأشخاص أو الأشياء."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "People often say, \"They are similar\" in situations like this.",
-        "ar": "يقول الناس كثيرًا: \"إنهم متشابهون\" في مواقف كهذه.",
-        "context": "تستخدم الجملة بوصفها تركيبًا شائعًا في موقف مشابه."
+        "en": "These two bags are similar.",
+        "ar": "هاتان الحقيبتان متشابهتان.",
+        "context": "تقال عند مقارنة حقيبتين بينهما شبه كبير."
       },
       {
         "id": 2,
-        "en": "You can say, \"They are similar\" when this happens.",
-        "ar": "يمكنك أن تقول: \"إنهم متشابهون\" عندما يحدث هذا.",
-        "context": "توضح أن الجملة مناسبة في موقف متكرر."
+        "en": "The pictures are similar.",
+        "ar": "الصور متشابهة.",
+        "context": "تقال عند وجود شبه بين صور."
       },
       {
         "id": 3,
-        "en": "I heard someone say, \"They are similar\".",
-        "ar": "سمعت شخصًا يقول: \"إنهم متشابهون\".",
-        "context": "تجعل الجملة جزءًا من كلام سمعته من شخص آخر."
+        "en": "They look similar.",
+        "ar": "يبدون متشابهين.",
+        "context": "تقال عند ملاحظة شبه في المظهر."
       },
       {
         "id": 4,
-        "en": "The teacher used the sentence, \"They are similar\" in class.",
-        "ar": "استخدم المعلم الجملة: \"إنهم متشابهون\" في الصف.",
-        "context": "تستخدم الجملة مثالًا تعليميًا في الصف."
+        "en": "The answers are similar, but not the same.",
+        "ar": "الإجابات متشابهة، لكنها ليست متطابقة.",
+        "context": "تقال عند وجود فرق صغير بين إجابات."
       },
       {
         "id": 5,
-        "en": "Many learners remember the sentence, \"They are similar\" first.",
-        "ar": "يتذكر كثير من المتعلمين الجملة: \"إنهم متشابهون\" أولًا.",
-        "context": "تقدم الجملة بوصفها جملة تعليمية أساسية."
+        "en": "Their voices are similar.",
+        "ar": "أصواتهم متشابهة.",
+        "context": "تقال عند صعوبة التفريق بين أصوات."
       },
       {
         "id": 6,
-        "en": "She said, \"They are similar\" in a calm way.",
-        "ar": "قالت: \"إنهم متشابهون\" بطريقة هادئة.",
-        "context": "تجعل الجملة جزءًا من كلام مباشر في موقف عادي."
+        "en": "These phones are similar in size.",
+        "ar": "هذه الهواتف متشابهة في الحجم.",
+        "context": "تقال عند مقارنة أحجام أجهزة."
       },
       {
         "id": 7,
-        "en": "He repeated, \"They are similar\" more than once.",
-        "ar": "ردد: \"إنهم متشابهون\" أكثر من مرة.",
-        "context": "تضيف معنى التكرار لنفس الجملة."
+        "en": "The two plans are similar.",
+        "ar": "الخطتان متشابهتان.",
+        "context": "تقال عند مقارنة خطتين بينهما أفكار مشتركة."
       },
       {
         "id": 8,
-        "en": "At the right moment, someone might say, \"They are similar\".",
-        "ar": "في اللحظة المناسبة، قد يقول شخص ما: \"إنهم متشابهون\".",
-        "context": "توضح أن الجملة مرتبطة بتوقيت مناسب في السياق."
+        "en": "My brother and I are similar.",
+        "ar": "أنا وأخي متشابهان.",
+        "context": "تقال عند وجود شبه في الشكل أو الشخصية."
       },
       {
         "id": 9,
-        "en": "I wrote down the sentence, \"They are similar\" so I would remember it.",
-        "ar": "كتبت الجملة: \"إنهم متشابهون\" حتى أتذكرها.",
-        "context": "تعطي مثالًا على حفظ الجملة أو مراجعتها."
+        "en": "The prices are similar.",
+        "ar": "الأسعار متشابهة.",
+        "context": "تقال عند تقارب أسعار عدة أشياء."
       },
       {
         "id": 10,
-        "en": "It is useful to know when to say, \"They are similar\".",
-        "ar": "من المفيد أن تعرف متى تقول: \"إنهم متشابهون\".",
-        "context": "تركز على معرفة الوقت المناسب لاستخدام الجملة."
+        "en": "The rooms are similar, but this one is larger.",
+        "ar": "الغرف متشابهة، لكن هذه أكبر.",
+        "context": "تقال عند مقارنة غرف فيها شبه مع فرق واحد."
       }
     ]
   }

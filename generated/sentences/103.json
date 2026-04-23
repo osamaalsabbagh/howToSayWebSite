@@ -10,80 +10,87 @@
     "wordMeanings": [
       {
         "term": "She",
-        "description": "ضمير يشير إلى امرأة أو بنت."
+        "description": "ضمير يشير إلى امرأة أو فتاة."
       },
       {
         "term": "is",
-        "description": "فعل be في الحاضر مع المفرد."
+        "description": "صيغة تأتي مع المفرد الغائب وتربط الشخص بوصفه."
       },
       {
         "term": "pretty",
-        "description": "صفة تعني جميلة."
+        "description": "جميلة أو لطيفة المظهر."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "She is pretty.",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "تستخدم الجملة is مع صفة لوصف مظهر شخص في الحاضر."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "People often say, \"She is pretty\" in situations like this.",
-        "ar": "يقول الناس كثيرًا: \"هي جميلة\" في مواقف كهذه.",
-        "context": "تستخدم الجملة بوصفها تركيبًا شائعًا في موقف مشابه."
+        "en": "She is beautiful.",
+        "ar": "هي جميلة.",
+        "context": "تقال عند مدح مظهر امرأة أو فتاة."
       },
       {
         "id": 2,
-        "en": "You can say, \"She is pretty\" when this happens.",
-        "ar": "يمكنك أن تقول: \"هي جميلة\" عندما يحدث هذا.",
-        "context": "توضح أن الجملة مناسبة في موقف متكرر."
+        "en": "Her dress is pretty.",
+        "ar": "فستانها جميل.",
+        "context": "تقال عند مدح ملابس شخص."
       },
       {
         "id": 3,
-        "en": "I heard someone say, \"She is pretty\".",
-        "ar": "سمعت شخصًا يقول: \"هي جميلة\".",
-        "context": "تجعل الجملة جزءًا من كلام سمعته من شخص آخر."
+        "en": "She looks pretty today.",
+        "ar": "تبدو جميلة اليوم.",
+        "context": "تقال عند ملاحظة مظهر جميل في يوم معين."
       },
       {
         "id": 4,
-        "en": "The teacher used the sentence, \"She is pretty\" in class.",
-        "ar": "استخدم المعلم الجملة: \"هي جميلة\" في الصف.",
-        "context": "تستخدم الجملة مثالًا تعليميًا في الصف."
+        "en": "The baby is pretty.",
+        "ar": "الطفلة جميلة.",
+        "context": "تقال عند مدح مظهر طفلة."
       },
       {
         "id": 5,
-        "en": "Many learners remember the sentence, \"She is pretty\" first.",
-        "ar": "يتذكر كثير من المتعلمين الجملة: \"هي جميلة\" أولًا.",
-        "context": "تقدم الجملة بوصفها جملة تعليمية أساسية."
+        "en": "My sister is pretty.",
+        "ar": "أختي جميلة.",
+        "context": "تقال عند وصف مظهر الأخت."
       },
       {
         "id": 6,
-        "en": "She said, \"She is pretty\" in a calm way.",
-        "ar": "قالت: \"هي جميلة\" بطريقة هادئة.",
-        "context": "تجعل الجملة جزءًا من كلام مباشر في موقف عادي."
+        "en": "This flower is pretty.",
+        "ar": "هذه الزهرة جميلة.",
+        "context": "تقال عند مدح شكل شيء جميل."
       },
       {
         "id": 7,
-        "en": "He repeated, \"She is pretty\" more than once.",
-        "ar": "ردد: \"هي جميلة\" أكثر من مرة.",
-        "context": "تضيف معنى التكرار لنفس الجملة."
+        "en": "She is very pretty.",
+        "ar": "هي جميلة جدًا.",
+        "context": "تقال عند تقوية المدح."
       },
       {
         "id": 8,
-        "en": "At the right moment, someone might say, \"She is pretty\".",
-        "ar": "في اللحظة المناسبة، قد يقول شخص ما: \"هي جميلة\".",
-        "context": "توضح أن الجملة مرتبطة بتوقيت مناسب في السياق."
+        "en": "Her smile is pretty.",
+        "ar": "ابتسامتها جميلة.",
+        "context": "تقال عند مدح ابتسامة شخص."
       },
       {
         "id": 9,
-        "en": "I wrote down the sentence, \"She is pretty\" so I would remember it.",
-        "ar": "كتبت الجملة: \"هي جميلة\" حتى أتذكرها.",
-        "context": "تعطي مثالًا على حفظ الجملة أو مراجعتها."
+        "en": "The picture is pretty.",
+        "ar": "الصورة جميلة.",
+        "context": "تقال عند مدح صورة أو منظر."
       },
       {
         "id": 10,
-        "en": "It is useful to know when to say, \"She is pretty\".",
-        "ar": "من المفيد أن تعرف متى تقول: \"هي جميلة\".",
-        "context": "تركز على معرفة الوقت المناسب لاستخدام الجملة."
+        "en": "She has a pretty face.",
+        "ar": "لديها وجه جميل.",
+        "context": "تقال عند وصف مظهر وجه شخص."
       }
     ]
   }

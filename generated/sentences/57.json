@@ -10,84 +10,91 @@
     "wordMeanings": [
       {
         "term": "I",
-        "description": "ضمير المتكلم."
+        "description": "ضمير المتكلم ويشير إلى الشخص الذي يتحدث."
       },
       {
         "term": "am",
-        "description": "فعل be مع I ويُستعمل هنا مع learning لتكوين المضارع المستمر."
+        "description": "صيغة تأتي مع ضمير المتكلم المفرد وتربط الشخص بحالته."
       },
       {
         "term": "not",
-        "description": "أداة نفي."
+        "description": "كلمة نفي تجعل المعنى لست."
       },
       {
         "term": "married",
-        "description": "فعل يعني متزوجا."
+        "description": "متزوج أو في علاقة زواج."
       }
     ],
-    "tense": "الماضي البسيط",
-    "tenseEn": "Past Simple",
-    "tenseReason": "استُعمل الماضي البسيط لأن الجملة تتحدث عن حدث وقع في الماضي واكتمل هناك.",
+    "grammarExplanations": [
+      {
+        "sentence": "I am not married.",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "تستخدم الجملة am not مع صفة لنفي الحالة الاجتماعية الحالية، وهي الزواج."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "People often say, \"I am not married\" in situations like this.",
-        "ar": "يقول الناس كثيرًا: \"أنا لست متزوجًا\" في مواقف كهذه.",
-        "context": "تستخدم الجملة بوصفها تركيبًا شائعًا في موقف مشابه."
+        "en": "She is not married.",
+        "ar": "هي ليست متزوجة.",
+        "context": "تقال عند نفي الحالة الاجتماعية لامرأة."
       },
       {
         "id": 2,
-        "en": "You can say, \"I am not married\" when this happens.",
-        "ar": "يمكنك أن تقول: \"أنا لست متزوجًا\" عندما يحدث هذا.",
-        "context": "توضح أن الجملة مناسبة في موقف متكرر."
+        "en": "He is not married.",
+        "ar": "هو غير متزوج.",
+        "context": "تقال عند نفي الزواج عن رجل."
       },
       {
         "id": 3,
-        "en": "I heard someone say, \"I am not married\".",
-        "ar": "سمعت شخصًا يقول: \"أنا لست متزوجًا\".",
-        "context": "تجعل الجملة جزءًا من كلام سمعته من شخص آخر."
+        "en": "I am single.",
+        "ar": "أنا أعزب.",
+        "context": "تقال لتوضيح الحالة الاجتماعية."
       },
       {
         "id": 4,
-        "en": "The teacher used the sentence, \"I am not married\" in class.",
-        "ar": "استخدم المعلم الجملة: \"أنا لست متزوجًا\" في الصف.",
-        "context": "تستخدم الجملة مثالًا تعليميًا في الصف."
+        "en": "My sister is not married.",
+        "ar": "أختي ليست متزوجة.",
+        "context": "تقال عند الحديث عن أحد أفراد العائلة."
       },
       {
         "id": 5,
-        "en": "Many learners remember the sentence, \"I am not married\" first.",
-        "ar": "يتذكر كثير من المتعلمين الجملة: \"أنا لست متزوجًا\" أولًا.",
-        "context": "تقدم الجملة بوصفها جملة تعليمية أساسية."
+        "en": "They are not married.",
+        "ar": "هما غير متزوجين.",
+        "context": "تقال عند نفي وجود زواج بين شخصين."
       },
       {
         "id": 6,
-        "en": "She said, \"I am not married\" in a calm way.",
-        "ar": "قالت: \"أنا لست متزوجًا\" بطريقة هادئة.",
-        "context": "تجعل الجملة جزءًا من كلام مباشر في موقف عادي."
+        "en": "We are not married yet.",
+        "ar": "نحن لسنا متزوجين بعد.",
+        "context": "تقال عند نفي الزواج مع احتمال حدوثه لاحقًا."
       },
       {
         "id": 7,
-        "en": "He repeated, \"I am not married\" more than once.",
-        "ar": "ردد: \"أنا لست متزوجًا\" أكثر من مرة.",
-        "context": "تضيف معنى التكرار لنفس الجملة."
+        "en": "My brother is single.",
+        "ar": "أخي أعزب.",
+        "context": "تقال عند تحديد حالة الأخ الاجتماعية."
       },
       {
         "id": 8,
-        "en": "At the right moment, someone might say, \"I am not married\".",
-        "ar": "في اللحظة المناسبة، قد يقول شخص ما: \"أنا لست متزوجًا\".",
-        "context": "توضح أن الجملة مرتبطة بتوقيت مناسب في السياق."
+        "en": "The teacher is not married.",
+        "ar": "المعلم غير متزوج.",
+        "context": "تقال عند ذكر معلومة شخصية عن شخص."
       },
       {
         "id": 9,
-        "en": "I wrote down the sentence, \"I am not married\" so I would remember it.",
-        "ar": "كتبت الجملة: \"أنا لست متزوجًا\" حتى أتذكرها.",
-        "context": "تعطي مثالًا على حفظ الجملة أو مراجعتها."
+        "en": "I am not engaged.",
+        "ar": "أنا لست مخطوبًا.",
+        "context": "تقال عند نفي الارتباط الرسمي."
       },
       {
         "id": 10,
-        "en": "It is useful to know when to say, \"I am not married\".",
-        "ar": "من المفيد أن تعرف متى تقول: \"أنا لست متزوجًا\".",
-        "context": "تركز على معرفة الوقت المناسب لاستخدام الجملة."
+        "en": "Her son is not married.",
+        "ar": "ابنها غير متزوج.",
+        "context": "تقال عند ذكر حالة الابن الاجتماعية."
       }
     ]
   }

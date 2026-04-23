@@ -10,99 +10,107 @@
     "wordMeanings": [
       {
         "term": "How",
-        "description": "أداة سؤال."
+        "description": "تبدأ سؤالًا عن الكمية أو العدد عندما تأتي مع many."
       },
       {
         "term": "many",
-        "description": "كلمة تدل على عدد كبير."
+        "description": "تعني كم عدد أو كم كمية للأشياء المعدودة."
       },
       {
         "term": "kilos",
-        "description": "اسم يعني كيلو."
+        "description": "كيلوغرامات، وهي وحدة وزن."
       },
       {
         "term": "of",
-        "description": "حرف جر يربط بين اسمين وغالبًا يعني من أو الخاص بـ حسب السياق."
+        "description": "يربط الكمية بالشيء المطلوب."
       },
       {
         "term": "apples",
-        "description": "اسم يعني التفاح."
+        "description": "تفاح بصيغة الجمع."
       },
       {
         "term": "would",
-        "description": "فعل modal يُستعمل للطلب المؤدب أو الرغبة أو الفرضية."
+        "description": "تجعل السؤال ألطف عند طلب رغبة الزبون."
       },
       {
         "term": "you",
-        "description": "الضمير الذي يعود على الشخص المخاطَب."
+        "description": "ضمير المخاطب، ويشير إلى الزبون."
       },
       {
         "term": "like",
-        "description": "فعل يدل على الإعجاب أو الميل."
+        "description": "تعني ترغب أو تود في هذا السياق."
       }
     ],
-    "tense": null,
-    "tenseReason": "استُعمل هذا التركيب بحسب وظيفته في السياق، وليس بوصفه زمنًا فعليًا مستقلًا يمكن فصله بسهولة عن المعنى الوظيفي للجملة.",
+    "grammarExplanations": [
+      {
+        "sentence": "How many kilos of apples would you like?",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذا سؤال مهذب عن الكمية المطلوبة باستخدام would you like، لذلك يشرح كتركيب طلب ورغبة لا كزمن مستقل."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "You can ask, \"How many kilos of apples would you like?\" when you need information.",
-        "ar": "يمكنك أن تسأل: \"كم كيلو من التفاح تود؟\" عندما تحتاج إلى معلومة.",
-        "context": "تستعمل الجملة كسؤال مباشر للحصول على معلومة."
+        "en": "How many kilos of oranges would you like?",
+        "ar": "كم كيلو من البرتقال تود؟",
+        "context": "بائع يسأل عن كمية فاكهة أخرى."
       },
       {
         "id": 2,
-        "en": "Many people ask, \"How many kilos of apples would you like?\" in this situation.",
-        "ar": "يسأل كثير من الناس: \"كم كيلو من التفاح تود؟\" في هذا الموقف.",
-        "context": "توضح أن هذا سؤال شائع في موقف مشابه."
+        "en": "How many kilos do you need?",
+        "ar": "كم كيلو تحتاج؟",
+        "context": "سؤال مباشر عن الكمية."
       },
       {
         "id": 3,
-        "en": "I asked, \"How many kilos of apples would you like?\" because I was not sure.",
-        "ar": "سألت: \"كم كيلو من التفاح تود؟\" لأنني لم أكن متأكدًا.",
-        "context": "تضيف سببًا لطرح السؤال."
+        "en": "How many apples would you like?",
+        "ar": "كم تفاحة تود؟",
+        "context": "تسأل عن عدد القطع بدل الوزن."
       },
       {
         "id": 4,
-        "en": "She asked politely, \"How many kilos of apples would you like?\"",
-        "ar": "سألت بأدب: \"كم كيلو من التفاح تود؟\".",
-        "context": "تبين أن السؤال قيل بطريقة مهذبة."
+        "en": "How many bags of apples would you like?",
+        "ar": "كم كيسًا من التفاح تود؟",
+        "context": "تسأل عن كمية حسب الأكياس."
       },
       {
         "id": 5,
-        "en": "At work, someone may ask, \"How many kilos of apples would you like?\"",
-        "ar": "في العمل، قد يسأل شخص ما: \"كم كيلو من التفاح تود؟\".",
-        "context": "تضع السؤال في سياق مهني أو عملي."
+        "en": "Would you like one kilo or two?",
+        "ar": "هل تود كيلوًا واحدًا أم اثنين؟",
+        "context": "تعرض اختيارين على الزبون."
       },
       {
         "id": 6,
-        "en": "Before deciding, ask: \"How many kilos of apples would you like?\"",
-        "ar": "قبل أن تقرر، اسأل: \"كم كيلو من التفاح تود؟\".",
-        "context": "تستخدم السؤال قبل اتخاذ قرار."
+        "en": "How many kilos of tomatoes would you like?",
+        "ar": "كم كيلو من الطماطم تود؟",
+        "context": "تستخدم نفس السؤال مع خضار."
       },
       {
         "id": 7,
-        "en": "The student asked, \"How many kilos of apples would you like?\" in class.",
-        "ar": "سأل الطالب: \"كم كيلو من التفاح تود؟\" في الصف.",
-        "context": "تجعل الجملة جزءًا من موقف تعليمي."
+        "en": "How many kilos should I weigh?",
+        "ar": "كم كيلو يجب أن أزن؟",
+        "context": "بائع يسأل قبل وزن الكمية."
       },
       {
         "id": 8,
-        "en": "While traveling, you can ask, \"How many kilos of apples would you like?\"",
-        "ar": "أثناء السفر، يمكنك أن تسأل: \"كم كيلو من التفاح تود؟\".",
-        "context": "تربط السؤال بموقف السفر أو التنقل."
+        "en": "How many kilos of red apples do you want?",
+        "ar": "كم كيلو من التفاح الأحمر تريد؟",
+        "context": "صيغة مباشرة أقل تهذيبًا قليلًا."
       },
       {
         "id": 9,
-        "en": "He asked me, \"How many kilos of apples would you like?\" again.",
-        "ar": "سألني: \"كم كيلو من التفاح تود؟\" مرة أخرى.",
-        "context": "تضيف معنى التكرار لنفس السؤال."
+        "en": "How many kilos are enough for your family?",
+        "ar": "كم كيلو يكفي لعائلتك؟",
+        "context": "تساعد الزبون على تقدير الكمية."
       },
       {
         "id": 10,
-        "en": "If you are not sure, ask: \"How many kilos of apples would you like?\"",
-        "ar": "إذا لم تكن متأكدًا، فاسأل: \"كم كيلو من التفاح تود؟\".",
-        "context": "توضح أن السؤال مناسب عند عدم التأكد."
+        "en": "How many kilos of fruit would you like today?",
+        "ar": "كم كيلو من الفاكهة تود اليوم؟",
+        "context": "تسأل عن كمية عامة من الفاكهة."
       }
     ]
   }

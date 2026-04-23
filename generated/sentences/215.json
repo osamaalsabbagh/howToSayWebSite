@@ -10,84 +10,91 @@
     "wordMeanings": [
       {
         "term": "Where",
-        "description": "أداة سؤال عن المكان."
+        "description": "أين، وتستخدم للسؤال عن مكان."
       },
       {
         "term": "is",
-        "description": "فعل be في الحاضر مع المفرد."
+        "description": "صيغة تربط السؤال بمكان الشيء في الحاضر."
       },
       {
         "term": "the",
-        "description": "أداة تعريف تشير إلى شيء معروف أو محدد."
+        "description": "أداة تشير إلى حمام محدد أو معروف في المكان."
       },
       {
         "term": "bathroom",
-        "description": "اسم يعني الحمام."
+        "description": "الحمام أو دورة المياه."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "Where is the bathroom?",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "يستخدم فعل الربط في الحاضر للسؤال عن مكان ثابت أو معروف داخل المكان الحالي."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "You can ask, \"Where is the bathroom?\" when you need information.",
-        "ar": "يمكنك أن تسأل: \"أين الحمام؟\" عندما تحتاج إلى معلومة.",
-        "context": "تستعمل الجملة كسؤال مباشر للحصول على معلومة."
+        "en": "Where is the bathroom?",
+        "ar": "أين الحمام؟",
+        "context": "تقال للسؤال عن مكان دورة المياه."
       },
       {
         "id": 2,
-        "en": "Many people ask, \"Where is the bathroom?\" in this situation.",
-        "ar": "يسأل كثير من الناس: \"أين الحمام؟\" في هذا الموقف.",
-        "context": "توضح أن هذا سؤال شائع في موقف مشابه."
+        "en": "Where is the restroom?",
+        "ar": "أين دورة المياه؟",
+        "context": "تقال بصيغة مهذبة في مكان عام."
       },
       {
         "id": 3,
-        "en": "I asked, \"Where is the bathroom?\" because I was not sure.",
-        "ar": "سألت: \"أين الحمام؟\" لأنني لم أكن متأكدًا.",
-        "context": "تضيف سببًا لطرح السؤال."
+        "en": "Where is the nearest bathroom?",
+        "ar": "أين أقرب حمام؟",
+        "context": "تقال عند البحث عن أقرب مكان."
       },
       {
         "id": 4,
-        "en": "She asked politely, \"Where is the bathroom?\"",
-        "ar": "سألت بأدب: \"أين الحمام؟\".",
-        "context": "تبين أن السؤال قيل بطريقة مهذبة."
+        "en": "Where is the bathroom in this restaurant?",
+        "ar": "أين الحمام في هذا المطعم؟",
+        "context": "تقال داخل مطعم."
       },
       {
         "id": 5,
-        "en": "At work, someone may ask, \"Where is the bathroom?\"",
-        "ar": "في العمل، قد يسأل شخص ما: \"أين الحمام؟\".",
-        "context": "تضع السؤال في سياق مهني أو عملي."
+        "en": "Where is the bathroom in the hotel?",
+        "ar": "أين الحمام في الفندق؟",
+        "context": "تقال عند السؤال داخل فندق."
       },
       {
         "id": 6,
-        "en": "Before deciding, ask: \"Where is the bathroom?\"",
-        "ar": "قبل أن تقرر، اسأل: \"أين الحمام؟\".",
-        "context": "تستخدم السؤال قبل اتخاذ قرار."
+        "en": "Where is the bathroom on this floor?",
+        "ar": "أين الحمام في هذا الطابق؟",
+        "context": "تقال داخل مبنى متعدد الطوابق."
       },
       {
         "id": 7,
-        "en": "The student asked, \"Where is the bathroom?\" in class.",
-        "ar": "سأل الطالب: \"أين الحمام؟\" في الصف.",
-        "context": "تجعل الجملة جزءًا من موقف تعليمي."
+        "en": "Can you tell me where the bathroom is?",
+        "ar": "هل يمكنك إخباري أين الحمام؟",
+        "context": "تقال بطريقة مهذبة أكثر."
       },
       {
         "id": 8,
-        "en": "While traveling, you can ask, \"Where is the bathroom?\"",
-        "ar": "أثناء السفر، يمكنك أن تسأل: \"أين الحمام؟\".",
-        "context": "تربط السؤال بموقف السفر أو التنقل."
+        "en": "Is the bathroom near here?",
+        "ar": "هل الحمام قريب من هنا؟",
+        "context": "تقال عند السؤال عن قرب الحمام."
       },
       {
         "id": 9,
-        "en": "He asked me, \"Where is the bathroom?\" again.",
-        "ar": "سألني: \"أين الحمام؟\" مرة أخرى.",
-        "context": "تضيف معنى التكرار لنفس السؤال."
+        "en": "The bathroom is down the hall.",
+        "ar": "الحمام في نهاية الممر.",
+        "context": "تقال عند إعطاء اتجاه داخل مبنى."
       },
       {
         "id": 10,
-        "en": "If you are not sure, ask: \"Where is the bathroom?\"",
-        "ar": "إذا لم تكن متأكدًا، فاسأل: \"أين الحمام؟\".",
-        "context": "توضح أن السؤال مناسب عند عدم التأكد."
+        "en": "The bathroom is on the left.",
+        "ar": "الحمام على اليسار.",
+        "context": "تقال عند توضيح مكان الحمام."
       }
     ]
   }

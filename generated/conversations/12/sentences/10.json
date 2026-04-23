@@ -10,95 +10,103 @@
     "wordMeanings": [
       {
         "term": "Shall",
-        "description": "فعل يعني هل."
+        "description": "تبدأ سؤالًا لاقتراح فعل أو طلب توجيه."
       },
       {
         "term": "I",
-        "description": "ضمير المتكلم."
+        "description": "ضمير المتكلم المفرد."
       },
       {
         "term": "give",
-        "description": "فعل يعني يعطي."
+        "description": "يعطي أو يقدم معلومة."
       },
       {
         "term": "you",
-        "description": "الضمير الذي يعود على الشخص المخاطَب."
+        "description": "الشخص الذي سيستلم المعلومة."
       },
       {
         "term": "the",
-        "description": "أداة تعريف تشير إلى شيء معروف أو محدد."
+        "description": "أداة تعريف لعنوان محدد."
       },
       {
         "term": "address",
-        "description": "اسم يعني عنوان."
+        "description": "العنوان."
       },
       {
         "term": "now",
-        "description": "ظرف زمان يعني الآن."
+        "description": "في هذه اللحظة."
       }
     ],
-    "tense": null,
-    "tenseReason": "استُعمل هذا التركيب بحسب وظيفته في السياق، وليس بوصفه زمنًا فعليًا مستقلًا يمكن فصله بسهولة عن المعنى الوظيفي للجملة.",
+    "grammarExplanations": [
+      {
+        "sentence": "Shall I give you the address now?",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "السؤال يستخدم Shall I لعرض القيام بفعل الآن أو طلب تأكيد من المخاطب، لذلك لا يُعامل كزمن مستقل."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "You can ask, \"Shall I give you the address now?\" when you need information.",
-        "ar": "يمكنك أن تسأل: \"هل أعطيك العنوان الآن؟\" عندما تحتاج إلى معلومة.",
-        "context": "تستعمل الجملة كسؤال مباشر للحصول على معلومة."
+        "en": "Shall I send you the address now?",
+        "ar": "هل أرسل لك العنوان الآن؟",
+        "context": "يُستخدم عند عرض إرسال عنوان فورًا."
       },
       {
         "id": 2,
-        "en": "Many people ask, \"Shall I give you the address now?\" in this situation.",
-        "ar": "يسأل كثير من الناس: \"هل أعطيك العنوان الآن؟\" في هذا الموقف.",
-        "context": "توضح أن هذا سؤال شائع في موقف مشابه."
+        "en": "Shall I give you my phone number?",
+        "ar": "هل أعطيك رقم هاتفي؟",
+        "context": "يُستخدم عند عرض تقديم رقم للتواصل."
       },
       {
         "id": 3,
-        "en": "I asked, \"Shall I give you the address now?\" because I was not sure.",
-        "ar": "سألت: \"هل أعطيك العنوان الآن؟\" لأنني لم أكن متأكدًا.",
-        "context": "تضيف سببًا لطرح السؤال."
+        "en": "Shall I call you later?",
+        "ar": "هل أتصل بك لاحقًا؟",
+        "context": "يُستخدم لاقتراح مكالمة في وقت لاحق."
       },
       {
         "id": 4,
-        "en": "She asked politely, \"Shall I give you the address now?\"",
-        "ar": "سألت بأدب: \"هل أعطيك العنوان الآن؟\".",
-        "context": "تبين أن السؤال قيل بطريقة مهذبة."
+        "en": "Shall I write the address here?",
+        "ar": "هل أكتب العنوان هنا؟",
+        "context": "يُستخدم عند طلب توجيه بشأن مكان كتابة معلومة."
       },
       {
         "id": 5,
-        "en": "At work, someone may ask, \"Shall I give you the address now?\"",
-        "ar": "في العمل، قد يسأل شخص ما: \"هل أعطيك العنوان الآن؟\".",
-        "context": "تضع السؤال في سياق مهني أو عملي."
+        "en": "Shall I give you the order number now?",
+        "ar": "هل أعطيك رقم الطلب الآن؟",
+        "context": "يُستخدم عند عرض رقم طلب لخدمة العملاء."
       },
       {
         "id": 6,
-        "en": "Before deciding, ask: \"Shall I give you the address now?\"",
-        "ar": "قبل أن تقرر، اسأل: \"هل أعطيك العنوان الآن؟\".",
-        "context": "تستخدم السؤال قبل اتخاذ قرار."
+        "en": "Shall I wait on the line?",
+        "ar": "هل أنتظر على الخط؟",
+        "context": "يُستخدم في مكالمة عند طلب تعليمات."
       },
       {
         "id": 7,
-        "en": "The student asked, \"Shall I give you the address now?\" in class.",
-        "ar": "سأل الطالب: \"هل أعطيك العنوان الآن؟\" في الصف.",
-        "context": "تجعل الجملة جزءًا من موقف تعليمي."
+        "en": "Shall I spell the street name?",
+        "ar": "هل أتهجى اسم الشارع؟",
+        "context": "يُستخدم لتوضيح عنوان بدقة."
       },
       {
         "id": 8,
-        "en": "While traveling, you can ask, \"Shall I give you the address now?\"",
-        "ar": "أثناء السفر، يمكنك أن تسأل: \"هل أعطيك العنوان الآن؟\".",
-        "context": "تربط السؤال بموقف السفر أو التنقل."
+        "en": "Shall I repeat the address?",
+        "ar": "هل أكرر العنوان؟",
+        "context": "يُستخدم عندما قد لا يكون العنوان واضحًا."
       },
       {
         "id": 9,
-        "en": "He asked me, \"Shall I give you the address now?\" again.",
-        "ar": "سألني: \"هل أعطيك العنوان الآن؟\" مرة أخرى.",
-        "context": "تضيف معنى التكرار لنفس السؤال."
+        "en": "Shall I give you the details by email?",
+        "ar": "هل أعطيك التفاصيل عبر البريد الإلكتروني؟",
+        "context": "يُستخدم لاقتراح طريقة إرسال المعلومات."
       },
       {
         "id": 10,
-        "en": "If you are not sure, ask: \"Shall I give you the address now?\"",
-        "ar": "إذا لم تكن متأكدًا، فاسأل: \"هل أعطيك العنوان الآن؟\".",
-        "context": "توضح أن السؤال مناسب عند عدم التأكد."
+        "en": "Shall I confirm the address now?",
+        "ar": "هل أؤكد العنوان الآن؟",
+        "context": "يُستخدم عند مراجعة عنوان قبل الحفظ."
       }
     ]
   }

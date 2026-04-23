@@ -10,11 +10,11 @@
     "wordMeanings": [
       {
         "term": "I",
-        "description": "ضمير المتكلم."
+        "description": "ضمير المتكلم المفرد."
       },
       {
         "term": "do",
-        "description": "فعل مساعد يُستعمل لتكوين النفي والسؤال في المضارع البسيط."
+        "description": "تساعد هنا في تكوين النفي مع الفعل."
       },
       {
         "term": "not",
@@ -22,72 +22,79 @@
       },
       {
         "term": "understand",
-        "description": "فعل يعني يفهم أو يستوعب."
+        "description": "أفهم أو أدرك المعنى."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط المنفي لأن المتكلم يعلن غياب الفهم الآن أو في الوضع الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "I do not understand.",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "الجملة تنفي فهم المتكلم في الوقت الحالي باستخدام do not قبل الفعل."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
         "en": "I do not understand this word.",
-        "ar": "أنا لا أفهم هذه الكلمة.",
-        "context": "تطلب توضيح معنى مفردة."
+        "ar": "لا أفهم هذه الكلمة.",
+        "context": "تقال عند صعوبة فهم كلمة."
       },
       {
         "id": 2,
-        "en": "I do not understand what you mean.",
-        "ar": "أنا لا أفهم ماذا تقصد.",
-        "context": "تطلب شرحًا للفكرة."
+        "en": "I do not understand the question.",
+        "ar": "لا أفهم السؤال.",
+        "context": "تقال عند عدم فهم المطلوب."
       },
       {
         "id": 3,
-        "en": "I do not understand the sentence.",
-        "ar": "أنا لا أفهم الجملة.",
-        "context": "تعلن عدم فهمك للجملة."
+        "en": "I do not understand you.",
+        "ar": "لا أفهمك.",
+        "context": "تقال عندما لا يكون كلام الشخص واضحًا."
       },
       {
         "id": 4,
-        "en": "I do not understand this part yet.",
-        "ar": "أنا لا أفهم هذا الجزء بعد.",
-        "context": "توضح أن الفهم لم يكتمل."
+        "en": "She does not understand the lesson.",
+        "ar": "هي لا تفهم الدرس.",
+        "context": "تصف عدم فهم شخص آخر."
       },
       {
         "id": 5,
-        "en": "I do not understand why this is wrong.",
-        "ar": "أنا لا أفهم لماذا هذا خطأ.",
-        "context": "تطلب توضيح سبب الخطأ."
+        "en": "We do not understand the rule.",
+        "ar": "لا نفهم القاعدة.",
+        "context": "تقال عند عدم فهم قاعدة."
       },
       {
         "id": 6,
-        "en": "I do not understand your question.",
-        "ar": "أنا لا أفهم سؤالك.",
-        "context": "تطلب إعادة صياغة أو توضيحًا."
+        "en": "I do not understand why.",
+        "ar": "لا أفهم لماذا.",
+        "context": "تقال عند عدم فهم السبب."
       },
       {
         "id": 7,
-        "en": "I do not understand when he speaks fast.",
-        "ar": "أنا لا أفهم عندما يتحدث بسرعة.",
-        "context": "توضح أن السرعة تمنع الفهم."
+        "en": "He does not understand English yet.",
+        "ar": "هو لا يفهم الإنجليزية بعد.",
+        "context": "تصف مرحلة تعلم مبكرة."
       },
       {
         "id": 8,
-        "en": "I do not understand the difference between them.",
-        "ar": "أنا لا أفهم الفرق بينهما.",
-        "context": "تطلب تمييزًا بين شيئين."
+        "en": "I do not understand the answer.",
+        "ar": "لا أفهم الإجابة.",
+        "context": "تقال عند الحاجة إلى شرح للإجابة."
       },
       {
         "id": 9,
-        "en": "I do not understand everything, but I understand a little.",
-        "ar": "أنا لا أفهم كل شيء، لكنني أفهم قليلًا.",
-        "context": "تصف درجة الفهم بدقة."
+        "en": "They do not understand the problem.",
+        "ar": "هم لا يفهمون المشكلة.",
+        "context": "تصف عدم إدراك مجموعة للمشكلة."
       },
       {
         "id": 10,
-        "en": "I do not understand this example at all.",
-        "ar": "أنا لا أفهم هذا المثال إطلاقًا.",
-        "context": "توضح أن مثالًا معينًا غير واضح جدًا."
+        "en": "I do not understand what you mean.",
+        "ar": "لا أفهم ما تقصد.",
+        "context": "تقال عند عدم فهم قصد المتحدث."
       }
     ]
   }

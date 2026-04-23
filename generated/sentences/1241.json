@@ -10,103 +10,123 @@
     "wordMeanings": [
       {
         "term": "I",
-        "description": "ضمير المتكلم."
+        "description": "أنا، وتشير إلى المتكلم."
       },
       {
         "term": "have",
-        "description": "فعل يعني يملك، ويأتي أيضًا كفعل مساعد."
+        "description": "لدي أو أملك."
       },
       {
         "term": "a",
-        "description": "أداة نكرة تأتي قبل الاسم المفرد المعدود."
+        "description": "أداة تدل على شيء واحد غير محدد."
       },
       {
         "term": "question",
-        "description": "اسم يعني سؤال."
+        "description": "سؤال."
+      },
+      {
+        "term": "I",
+        "description": "أنا، وتشير مرة أخرى إلى المتكلم."
       },
       {
         "term": "would",
-        "description": "فعل modal يُستعمل للطلب المؤدب أو الرغبة أو الفرضية."
+        "description": "تجعل الطلب أكثر تهذيبًا ورسمية."
       },
       {
         "term": "like",
-        "description": "فعل يدل على الإعجاب أو الميل."
+        "description": "أود أو أرغب."
       },
       {
         "term": "to",
-        "description": "أداة تأتي قبل المصدر بعد أفعال مثل want."
+        "description": "تربط الرغبة بالفعل بعدها."
       },
       {
         "term": "ask",
-        "description": "فعل يعني يسأل أو يطلب."
+        "description": "أطرح سؤالًا أو أسأل."
       },
       {
         "term": "you",
-        "description": "الضمير الذي يعود على الشخص المخاطَب."
+        "description": "أنت أو عليك، وتشير إلى الشخص المخاطب."
       }
     ],
-    "tense": null,
-    "tenseReason": "تتضمن الجملة فعلًا modal يعبّر عن القدرة أو الإمكانية أو الرغبة، لذلك لا نضع لها هنا زمنًا فعليًا مستقلًا على الرغم من وجود معنى زمني عام في السياق.",
+    "grammarExplanations": [
+      {
+        "sentence": "I have a question",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "يستخدم المضارع البسيط للتعبير عن حالة حالية لدى المتكلم، وهي وجود سؤال لديه."
+        }
+      },
+      {
+        "sentence": "I would like to ask you",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذا تركيب مهذب ورسمي للتعبير عن الرغبة في طرح سؤال، ولا يشرح كزمن مستقل لأن كلمة التهذيب تغيّر وظيفة العبارة إلى طلب لطيف."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "People often say, \"I have a question I would like to ask you\" in situations like this.",
-        "ar": "يقول الناس كثيرًا: \"لدي سؤال أود أن أطرحه عليك\" في مواقف كهذه.",
-        "context": "تستخدم الجملة بوصفها تركيبًا شائعًا في موقف مشابه."
+        "en": "I have a question I would like to ask you.",
+        "ar": "لدي سؤال أود أن أطرحه عليك.",
+        "context": "تقال عند طلب رسمي للسؤال."
       },
       {
         "id": 2,
-        "en": "You can say, \"I have a question I would like to ask you\" when this happens.",
-        "ar": "يمكنك أن تقول: \"لدي سؤال أود أن أطرحه عليك\" عندما يحدث هذا.",
-        "context": "توضح أن الجملة مناسبة في موقف متكرر."
+        "en": "I have something I would like to ask you.",
+        "ar": "لدي شيء أود أن أسألك عنه.",
+        "context": "تقال قبل سؤال مهذب أو حساس."
       },
       {
         "id": 3,
-        "en": "I heard someone say, \"I have a question I would like to ask you\".",
-        "ar": "سمعت شخصًا يقول: \"لدي سؤال أود أن أطرحه عليك\".",
-        "context": "تجعل الجملة جزءًا من كلام سمعته من شخص آخر."
+        "en": "I would like to ask you a question.",
+        "ar": "أود أن أطرح عليك سؤالًا.",
+        "context": "تقال بصيغة رسمية قبل السؤال."
       },
       {
         "id": 4,
-        "en": "The teacher used the sentence, \"I have a question I would like to ask you\" in class.",
-        "ar": "استخدم المعلم الجملة: \"لدي سؤال أود أن أطرحه عليك\" في الصف.",
-        "context": "تستخدم الجملة مثالًا تعليميًا في الصف."
+        "en": "I have a question I would like to discuss.",
+        "ar": "لدي سؤال أود مناقشته.",
+        "context": "تقال عند فتح موضوع يحتاج إلى توضيح."
       },
       {
         "id": 5,
-        "en": "Many learners remember the sentence, \"I have a question I would like to ask you\" first.",
-        "ar": "يتذكر كثير من المتعلمين الجملة: \"لدي سؤال أود أن أطرحه عليك\" أولًا.",
-        "context": "تقدم الجملة بوصفها جملة تعليمية أساسية."
+        "en": "I have a question about your service.",
+        "ar": "لدي سؤال عن خدمتكم.",
+        "context": "تقال عند التواصل مع خدمة عملاء."
       },
       {
         "id": 6,
-        "en": "She said, \"I have a question I would like to ask you\" in a calm way.",
-        "ar": "قالت: \"لدي سؤال أود أن أطرحه عليك\" بطريقة هادئة.",
-        "context": "تجعل الجملة جزءًا من كلام مباشر في موقف عادي."
+        "en": "I would like to ask about the price.",
+        "ar": "أود أن أسأل عن السعر.",
+        "context": "تقال عند الاستفسار بطريقة مهذبة."
       },
       {
         "id": 7,
-        "en": "He repeated, \"I have a question I would like to ask you\" more than once.",
-        "ar": "ردد: \"لدي سؤال أود أن أطرحه عليك\" أكثر من مرة.",
-        "context": "تضيف معنى التكرار لنفس الجملة."
+        "en": "I would like to ask about the schedule.",
+        "ar": "أود أن أسأل عن الجدول.",
+        "context": "تقال عند الاستفسار عن مواعيد."
       },
       {
         "id": 8,
-        "en": "At the right moment, someone might say, \"I have a question I would like to ask you\".",
-        "ar": "في اللحظة المناسبة، قد يقول شخص ما: \"لدي سؤال أود أن أطرحه عليك\".",
-        "context": "توضح أن الجملة مرتبطة بتوقيت مناسب في السياق."
+        "en": "I have a question about this appointment.",
+        "ar": "لدي سؤال عن هذا الموعد.",
+        "context": "تقال عند توضيح تفاصيل موعد."
       },
       {
         "id": 9,
-        "en": "I wrote down the sentence, \"I have a question I would like to ask you\" so I would remember it.",
-        "ar": "كتبت الجملة: \"لدي سؤال أود أن أطرحه عليك\" حتى أتذكرها.",
-        "context": "تعطي مثالًا على حفظ الجملة أو مراجعتها."
+        "en": "I have a question I would like to send by email.",
+        "ar": "لدي سؤال أود إرساله بالبريد الإلكتروني.",
+        "context": "تقال عند طلب إرسال استفسار كتابة."
       },
       {
         "id": 10,
-        "en": "It is useful to know when to say, \"I have a question I would like to ask you\".",
-        "ar": "من المفيد أن تعرف متى تقول: \"لدي سؤال أود أن أطرحه عليك\".",
-        "context": "تركز على معرفة الوقت المناسب لاستخدام الجملة."
+        "en": "I would like to ask you about the reservation.",
+        "ar": "أود أن أسألك عن الحجز.",
+        "context": "تقال عند الاستفسار عن حجز بطريقة رسمية."
       }
     ]
   }

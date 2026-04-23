@@ -10,84 +10,91 @@
     "wordMeanings": [
       {
         "term": "When",
-        "description": "أداة أو ظرف يعني عندما."
+        "description": "متى، وتستخدم للسؤال عن موعد."
       },
       {
         "term": "does",
-        "description": "صيغة المضارع البسيط مع he/she/it من do."
+        "description": "تأتي في السؤال مع المفرد لتكوين سؤال في الحاضر."
       },
       {
         "term": "he",
-        "description": "الضمير الذي يعود على شخص مفرد مذكر."
+        "description": "هو، وتشير إلى رجل أو ذكر."
       },
       {
         "term": "arrive",
-        "description": "فعل يعني يصل."
+        "description": "يصل إلى المكان."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "When does he arrive?",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "يستخدم المضارع البسيط للسؤال عن موعد مقرر أو معتاد لوصوله، وليس عن وصول يحدث الآن."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "You can ask, \"When does he arrive?\" when you need information.",
-        "ar": "يمكنك أن تسأل: \"متى يصل؟\" عندما تحتاج إلى معلومة.",
-        "context": "تستعمل الجملة كسؤال مباشر للحصول على معلومة."
+        "en": "When does he arrive?",
+        "ar": "متى يصل؟",
+        "context": "تقال عند السؤال عن موعد وصول رجل."
       },
       {
         "id": 2,
-        "en": "Many people ask, \"When does he arrive?\" in this situation.",
-        "ar": "يسأل كثير من الناس: \"متى يصل؟\" في هذا الموقف.",
-        "context": "توضح أن هذا سؤال شائع في موقف مشابه."
+        "en": "When does she arrive?",
+        "ar": "متى تصل؟",
+        "context": "تقال عند السؤال عن موعد وصول امرأة."
       },
       {
         "id": 3,
-        "en": "I asked, \"When does he arrive?\" because I was not sure.",
-        "ar": "سألت: \"متى يصل؟\" لأنني لم أكن متأكدًا.",
-        "context": "تضيف سببًا لطرح السؤال."
+        "en": "When do they arrive?",
+        "ar": "متى يصلون؟",
+        "context": "تقال عند السؤال عن موعد وصول مجموعة."
       },
       {
         "id": 4,
-        "en": "She asked politely, \"When does he arrive?\"",
-        "ar": "سألت بأدب: \"متى يصل؟\".",
-        "context": "تبين أن السؤال قيل بطريقة مهذبة."
+        "en": "When does he arrive at the hotel?",
+        "ar": "متى يصل إلى الفندق؟",
+        "context": "تقال عند السؤال عن وصوله إلى فندق."
       },
       {
         "id": 5,
-        "en": "At work, someone may ask, \"When does he arrive?\"",
-        "ar": "في العمل، قد يسأل شخص ما: \"متى يصل؟\".",
-        "context": "تضع السؤال في سياق مهني أو عملي."
+        "en": "When does he arrive in Boston?",
+        "ar": "متى يصل إلى بوسطن؟",
+        "context": "تقال عند السؤال عن وصوله إلى مدينة."
       },
       {
         "id": 6,
-        "en": "Before deciding, ask: \"When does he arrive?\"",
-        "ar": "قبل أن تقرر، اسأل: \"متى يصل؟\".",
-        "context": "تستخدم السؤال قبل اتخاذ قرار."
+        "en": "When does he arrive at work?",
+        "ar": "متى يصل إلى العمل؟",
+        "context": "تقال عند السؤال عن موعد وصوله إلى العمل."
       },
       {
         "id": 7,
-        "en": "The student asked, \"When does he arrive?\" in class.",
-        "ar": "سأل الطالب: \"متى يصل؟\" في الصف.",
-        "context": "تجعل الجملة جزءًا من موقف تعليمي."
+        "en": "When does he usually arrive?",
+        "ar": "متى يصل عادة؟",
+        "context": "تقال عند السؤال عن عادة وصوله."
       },
       {
         "id": 8,
-        "en": "While traveling, you can ask, \"When does he arrive?\"",
-        "ar": "أثناء السفر، يمكنك أن تسأل: \"متى يصل؟\".",
-        "context": "تربط السؤال بموقف السفر أو التنقل."
+        "en": "When does he arrive tomorrow?",
+        "ar": "متى يصل غدًا؟",
+        "context": "تقال عند السؤال عن موعد مقرر في اليوم التالي."
       },
       {
         "id": 9,
-        "en": "He asked me, \"When does he arrive?\" again.",
-        "ar": "سألني: \"متى يصل؟\" مرة أخرى.",
-        "context": "تضيف معنى التكرار لنفس السؤال."
+        "en": "When does your brother arrive?",
+        "ar": "متى يصل أخوك؟",
+        "context": "تقال عند السؤال عن وصول أخ شخص."
       },
       {
         "id": 10,
-        "en": "If you are not sure, ask: \"When does he arrive?\"",
-        "ar": "إذا لم تكن متأكدًا، فاسأل: \"متى يصل؟\".",
-        "context": "توضح أن السؤال مناسب عند عدم التأكد."
+        "en": "When does the driver arrive?",
+        "ar": "متى يصل السائق؟",
+        "context": "تقال عند انتظار سائق."
       }
     ]
   }

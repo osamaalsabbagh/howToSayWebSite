@@ -10,92 +10,107 @@
     "wordMeanings": [
       {
         "term": "I",
-        "description": "ضمير المتكلم."
+        "description": "ضمير المتكلم ويشير إلى الشخص الذي يتحدث."
       },
       {
         "term": "think",
-        "description": "فعل يعني يعتقد أو يفكر."
+        "description": "أعتقد أو أرى برأيي."
       },
       {
         "term": "it",
-        "description": "ضمير يعود على الشيء أو الجملة التي قيلت."
+        "description": "ضمير يشير إلى شيء أو فكرة معروفة من السياق."
       },
       {
         "term": "is",
-        "description": "فعل be في الحاضر مع المفرد."
+        "description": "صيغة تأتي مع المفرد وتربط الشيء بوصفه."
       },
       {
         "term": "very",
-        "description": "كلمة تزيد شدة الصفة."
+        "description": "كلمة تقوي الصفة وتجعلها بدرجة كبيرة."
       },
       {
         "term": "good",
-        "description": "صفة تعني جيد أو مريح أو مناسب هنا."
+        "description": "جيد أو مناسب أو مرضٍ."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "I think",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "تستخدم think في المضارع البسيط للتعبير عن رأي المتكلم الحالي."
+        }
+      },
+      {
+        "sentence": "it is very good",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "تستخدم is مع صفة لوصف الشيء محل الرأي، وتأتي very لتقوية معنى الجودة."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "People often say, \"I think it is very good\" in situations like this.",
-        "ar": "يقول الناس كثيرًا: \"أعتقد أنه جيد جدًا\" في مواقف كهذه.",
-        "context": "تستخدم الجملة بوصفها تركيبًا شائعًا في موقف مشابه."
+        "en": "I think it is a good idea.",
+        "ar": "أعتقد أنها فكرة جيدة.",
+        "context": "تقال عند إبداء رأي إيجابي في اقتراح."
       },
       {
         "id": 2,
-        "en": "You can say, \"I think it is very good\" when this happens.",
-        "ar": "يمكنك أن تقول: \"أعتقد أنه جيد جدًا\" عندما يحدث هذا.",
-        "context": "توضح أن الجملة مناسبة في موقف متكرر."
+        "en": "She thinks the plan is very useful.",
+        "ar": "هي تعتقد أن الخطة مفيدة جدًا.",
+        "context": "تقال عند نقل رأي شخص في خطة."
       },
       {
         "id": 3,
-        "en": "I heard someone say, \"I think it is very good\".",
-        "ar": "سمعت شخصًا يقول: \"أعتقد أنه جيد جدًا\".",
-        "context": "تجعل الجملة جزءًا من كلام سمعته من شخص آخر."
+        "en": "I think this food is good.",
+        "ar": "أعتقد أن هذا الطعام جيد.",
+        "context": "تقال عند تقييم طعام."
       },
       {
         "id": 4,
-        "en": "The teacher used the sentence, \"I think it is very good\" in class.",
-        "ar": "استخدم المعلم الجملة: \"أعتقد أنه جيد جدًا\" في الصف.",
-        "context": "تستخدم الجملة مثالًا تعليميًا في الصف."
+        "en": "He thinks the movie is very funny.",
+        "ar": "هو يعتقد أن الفيلم مضحك جدًا.",
+        "context": "تقال عند ذكر رأي شخص في فيلم."
       },
       {
         "id": 5,
-        "en": "Many learners remember the sentence, \"I think it is very good\" first.",
-        "ar": "يتذكر كثير من المتعلمين الجملة: \"أعتقد أنه جيد جدًا\" أولًا.",
-        "context": "تقدم الجملة بوصفها جملة تعليمية أساسية."
+        "en": "I think your answer is correct.",
+        "ar": "أعتقد أن إجابتك صحيحة.",
+        "context": "تقال عند إبداء رأي في إجابة."
       },
       {
         "id": 6,
-        "en": "She said, \"I think it is very good\" in a calm way.",
-        "ar": "قالت: \"أعتقد أنه جيد جدًا\" بطريقة هادئة.",
-        "context": "تجعل الجملة جزءًا من كلام مباشر في موقف عادي."
+        "en": "We think the room is too small.",
+        "ar": "نعتقد أن الغرفة صغيرة جدًا.",
+        "context": "تقال عند مشاركة رأي جماعي في مكان."
       },
       {
         "id": 7,
-        "en": "He repeated, \"I think it is very good\" more than once.",
-        "ar": "ردد: \"أعتقد أنه جيد جدًا\" أكثر من مرة.",
-        "context": "تضيف معنى التكرار لنفس الجملة."
+        "en": "I think the price is fair.",
+        "ar": "أعتقد أن السعر عادل.",
+        "context": "تقال عند تقييم سعر."
       },
       {
         "id": 8,
-        "en": "At the right moment, someone might say, \"I think it is very good\".",
-        "ar": "في اللحظة المناسبة، قد يقول شخص ما: \"أعتقد أنه جيد جدًا\".",
-        "context": "توضح أن الجملة مرتبطة بتوقيت مناسب في السياق."
+        "en": "They think the teacher is kind.",
+        "ar": "هم يعتقدون أن المعلم لطيف.",
+        "context": "تقال عند نقل رأي مجموعة في شخص."
       },
       {
         "id": 9,
-        "en": "I wrote down the sentence, \"I think it is very good\" so I would remember it.",
-        "ar": "كتبت الجملة: \"أعتقد أنه جيد جدًا\" حتى أتذكرها.",
-        "context": "تعطي مثالًا على حفظ الجملة أو مراجعتها."
+        "en": "I think the weather is nice today.",
+        "ar": "أعتقد أن الطقس جميل اليوم.",
+        "context": "تقال عند إبداء رأي في الطقس."
       },
       {
         "id": 10,
-        "en": "It is useful to know when to say, \"I think it is very good\".",
-        "ar": "من المفيد أن تعرف متى تقول: \"أعتقد أنه جيد جدًا\".",
-        "context": "تركز على معرفة الوقت المناسب لاستخدام الجملة."
+        "en": "My father thinks it is very important.",
+        "ar": "أبي يعتقد أنه مهم جدًا.",
+        "context": "تقال عند نقل رأي قوي عن أهمية شيء."
       }
     ]
   }

@@ -10,92 +10,99 @@
     "wordMeanings": [
       {
         "term": "I",
-        "description": "ضمير المتكلم."
+        "description": "أنا، وتشير إلى المتكلم."
       },
       {
         "term": "need",
-        "description": "فعل يدل على الحاجة."
+        "description": "أحتاج."
       },
       {
         "term": "to",
-        "description": "أداة تأتي قبل المصدر بعد أفعال مثل want."
+        "description": "تربط الحاجة بالفعل بعدها."
       },
       {
         "term": "practice",
-        "description": "فعل يعني لغتي."
+        "description": "أمارس أو أتدرب لتحسين مهارة."
       },
       {
         "term": "my",
-        "description": "صفة ملكية تعني خاصتي."
+        "description": "خاصتي، وتشير إلى أن الإنجليزية تخص المتكلم."
       },
       {
         "term": "English",
-        "description": "الشيء الذي تتعلمه، أي اللغة الإنجليزية."
+        "description": "اللغة الإنجليزية."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "I need to practice my English.",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "يستخدم المضارع البسيط للتعبير عن حاجة حالية أو عامة، ويأتي الفعل بعد الحاجة بصيغة المصدر لشرح ما يحتاج المتكلم إلى فعله."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "People often say, \"I need to practice my English\" in situations like this.",
-        "ar": "يقول الناس كثيرًا: \"أحتاج إلى ممارسة لغتي الإنجليزية\" في مواقف كهذه.",
-        "context": "تستخدم الجملة بوصفها تركيبًا شائعًا في موقف مشابه."
+        "en": "I need to practice my English.",
+        "ar": "أحتاج إلى ممارسة لغتي الإنجليزية.",
+        "context": "تقال عند الشعور بالحاجة إلى تحسين الإنجليزية."
       },
       {
         "id": 2,
-        "en": "You can say, \"I need to practice my English\" when this happens.",
-        "ar": "يمكنك أن تقول: \"أحتاج إلى ممارسة لغتي الإنجليزية\" عندما يحدث هذا.",
-        "context": "توضح أن الجملة مناسبة في موقف متكرر."
+        "en": "I need to practice speaking English.",
+        "ar": "أحتاج إلى ممارسة التحدث بالإنجليزية.",
+        "context": "تقال عند التركيز على المحادثة."
       },
       {
         "id": 3,
-        "en": "I heard someone say, \"I need to practice my English\".",
-        "ar": "سمعت شخصًا يقول: \"أحتاج إلى ممارسة لغتي الإنجليزية\".",
-        "context": "تجعل الجملة جزءًا من كلام سمعته من شخص آخر."
+        "en": "I need to practice every day.",
+        "ar": "أحتاج إلى الممارسة كل يوم.",
+        "context": "تقال عند وضع عادة للتعلم."
       },
       {
         "id": 4,
-        "en": "The teacher used the sentence, \"I need to practice my English\" in class.",
-        "ar": "استخدم المعلم الجملة: \"أحتاج إلى ممارسة لغتي الإنجليزية\" في الصف.",
-        "context": "تستخدم الجملة مثالًا تعليميًا في الصف."
+        "en": "I need to practice before the test.",
+        "ar": "أحتاج إلى الممارسة قبل الاختبار.",
+        "context": "تقال عند الاستعداد لاختبار."
       },
       {
         "id": 5,
-        "en": "Many learners remember the sentence, \"I need to practice my English\" first.",
-        "ar": "يتذكر كثير من المتعلمين الجملة: \"أحتاج إلى ممارسة لغتي الإنجليزية\" أولًا.",
-        "context": "تقدم الجملة بوصفها جملة تعليمية أساسية."
+        "en": "I need to improve my English.",
+        "ar": "أحتاج إلى تحسين لغتي الإنجليزية.",
+        "context": "تقال عند وصف هدف تعلم اللغة."
       },
       {
         "id": 6,
-        "en": "She said, \"I need to practice my English\" in a calm way.",
-        "ar": "قالت: \"أحتاج إلى ممارسة لغتي الإنجليزية\" بطريقة هادئة.",
-        "context": "تجعل الجملة جزءًا من كلام مباشر في موقف عادي."
+        "en": "I need to study English tonight.",
+        "ar": "أحتاج إلى دراسة الإنجليزية الليلة.",
+        "context": "تقال عند التخطيط للدراسة."
       },
       {
         "id": 7,
-        "en": "He repeated, \"I need to practice my English\" more than once.",
-        "ar": "ردد: \"أحتاج إلى ممارسة لغتي الإنجليزية\" أكثر من مرة.",
-        "context": "تضيف معنى التكرار لنفس الجملة."
+        "en": "She needs to practice her English.",
+        "ar": "هي تحتاج إلى ممارسة لغتها الإنجليزية.",
+        "context": "تقال عند وصف حاجة امرأة للتدريب."
       },
       {
         "id": 8,
-        "en": "At the right moment, someone might say, \"I need to practice my English\".",
-        "ar": "في اللحظة المناسبة، قد يقول شخص ما: \"أحتاج إلى ممارسة لغتي الإنجليزية\".",
-        "context": "توضح أن الجملة مرتبطة بتوقيت مناسب في السياق."
+        "en": "We need to practice our English.",
+        "ar": "نحتاج إلى ممارسة لغتنا الإنجليزية.",
+        "context": "تقال عند الحديث عن مجموعة تتعلم."
       },
       {
         "id": 9,
-        "en": "I wrote down the sentence, \"I need to practice my English\" so I would remember it.",
-        "ar": "كتبت الجملة: \"أحتاج إلى ممارسة لغتي الإنجليزية\" حتى أتذكرها.",
-        "context": "تعطي مثالًا على حفظ الجملة أو مراجعتها."
+        "en": "I need someone to practice with.",
+        "ar": "أحتاج إلى شخص أمارس معه.",
+        "context": "تقال عند البحث عن شريك تدريب."
       },
       {
         "id": 10,
-        "en": "It is useful to know when to say, \"I need to practice my English\".",
-        "ar": "من المفيد أن تعرف متى تقول: \"أحتاج إلى ممارسة لغتي الإنجليزية\".",
-        "context": "تركز على معرفة الوقت المناسب لاستخدام الجملة."
+        "en": "I need to practice listening.",
+        "ar": "أحتاج إلى ممارسة الاستماع.",
+        "context": "تقال عند التركيز على مهارة الاستماع."
       }
     ]
   }

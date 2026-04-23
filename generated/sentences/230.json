@@ -10,96 +10,103 @@
     "wordMeanings": [
       {
         "term": "How",
-        "description": "أداة سؤال."
+        "description": "تبدأ سؤالًا عن السعر أو المقدار."
       },
       {
         "term": "much",
-        "description": "هنا تأتي مع very لتكوين very much، أي كثيرًا / بدرجة كبيرة."
+        "description": "كم، وتستخدم مع التكلفة والمال."
       },
       {
         "term": "does",
-        "description": "صيغة المضارع البسيط مع he/she/it من do."
+        "description": "تأتي في السؤال مع المفرد لتكوين سؤال في الحاضر."
       },
       {
         "term": "it",
-        "description": "ضمير يعود على الشيء أو الجملة التي قيلت."
+        "description": "هو أو هي، وتشير إلى الخدمة أو الشيء المقصود."
       },
       {
         "term": "cost",
-        "description": "فعل يعني كم."
+        "description": "يكلف أو يبلغ سعره."
       },
       {
         "term": "per",
-        "description": "حرف أو أداة تربط المعنى بفكرة يكلف."
+        "description": "لكل، وتستخدم لتحديد السعر لكل وحدة."
       },
       {
         "term": "day",
-        "description": "اسم يعني يوم."
+        "description": "يوم."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "How much does it cost per day?",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "يستخدم المضارع البسيط للسؤال عن تكلفة عامة أو ثابتة، وعبارة لكل يوم تحدد أن السعر يومي."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "You can ask, \"How much does it cost per day?\" when you need information.",
-        "ar": "يمكنك أن تسأل: \"كم يكلف في اليوم؟\" عندما تحتاج إلى معلومة.",
-        "context": "تستعمل الجملة كسؤال مباشر للحصول على معلومة."
+        "en": "How much does it cost per day?",
+        "ar": "كم يكلف في اليوم؟",
+        "context": "تقال عند السؤال عن تكلفة يومية."
       },
       {
         "id": 2,
-        "en": "Many people ask, \"How much does it cost per day?\" in this situation.",
-        "ar": "يسأل كثير من الناس: \"كم يكلف في اليوم؟\" في هذا الموقف.",
-        "context": "توضح أن هذا سؤال شائع في موقف مشابه."
+        "en": "How much does it cost per night?",
+        "ar": "كم يكلف في الليلة؟",
+        "context": "تقال عند السؤال عن سعر فندق أو إقامة."
       },
       {
         "id": 3,
-        "en": "I asked, \"How much does it cost per day?\" because I was not sure.",
-        "ar": "سألت: \"كم يكلف في اليوم؟\" لأنني لم أكن متأكدًا.",
-        "context": "تضيف سببًا لطرح السؤال."
+        "en": "How much does it cost per hour?",
+        "ar": "كم يكلف في الساعة؟",
+        "context": "تقال عند السؤال عن أجرة بالساعة."
       },
       {
         "id": 4,
-        "en": "She asked politely, \"How much does it cost per day?\"",
-        "ar": "سألت بأدب: \"كم يكلف في اليوم؟\".",
-        "context": "تبين أن السؤال قيل بطريقة مهذبة."
+        "en": "How much does it cost per week?",
+        "ar": "كم يكلف في الأسبوع؟",
+        "context": "تقال عند السؤال عن سعر أسبوعي."
       },
       {
         "id": 5,
-        "en": "At work, someone may ask, \"How much does it cost per day?\"",
-        "ar": "في العمل، قد يسأل شخص ما: \"كم يكلف في اليوم؟\".",
-        "context": "تضع السؤال في سياق مهني أو عملي."
+        "en": "How much does the room cost per day?",
+        "ar": "كم تكلف الغرفة في اليوم؟",
+        "context": "تقال عند السؤال عن سعر غرفة."
       },
       {
         "id": 6,
-        "en": "Before deciding, ask: \"How much does it cost per day?\"",
-        "ar": "قبل أن تقرر، اسأل: \"كم يكلف في اليوم؟\".",
-        "context": "تستخدم السؤال قبل اتخاذ قرار."
+        "en": "How much does the car cost per day?",
+        "ar": "كم تكلف السيارة في اليوم؟",
+        "context": "تقال عند استئجار سيارة."
       },
       {
         "id": 7,
-        "en": "The student asked, \"How much does it cost per day?\" in class.",
-        "ar": "سأل الطالب: \"كم يكلف في اليوم؟\" في الصف.",
-        "context": "تجعل الجملة جزءًا من موقف تعليمي."
+        "en": "It costs 30 dollars per day.",
+        "ar": "يكلف ٣٠ دولارًا في اليوم.",
+        "context": "تقال عند إعطاء سعر يومي."
       },
       {
         "id": 8,
-        "en": "While traveling, you can ask, \"How much does it cost per day?\"",
-        "ar": "أثناء السفر، يمكنك أن تسأل: \"كم يكلف في اليوم؟\".",
-        "context": "تربط السؤال بموقف السفر أو التنقل."
+        "en": "Does it cost more per day?",
+        "ar": "هل يكلف أكثر في اليوم؟",
+        "context": "تقال عند مقارنة تكلفة يومية."
       },
       {
         "id": 9,
-        "en": "He asked me, \"How much does it cost per day?\" again.",
-        "ar": "سألني: \"كم يكلف في اليوم؟\" مرة أخرى.",
-        "context": "تضيف معنى التكرار لنفس السؤال."
+        "en": "How much does parking cost per day?",
+        "ar": "كم يكلف موقف السيارات في اليوم؟",
+        "context": "تقال عند السؤال عن رسوم موقف."
       },
       {
         "id": 10,
-        "en": "If you are not sure, ask: \"How much does it cost per day?\"",
-        "ar": "إذا لم تكن متأكدًا، فاسأل: \"كم يكلف في اليوم؟\".",
-        "context": "توضح أن السؤال مناسب عند عدم التأكد."
+        "en": "How much does internet cost per day?",
+        "ar": "كم يكلف الإنترنت في اليوم؟",
+        "context": "تقال عند السؤال عن خدمة يومية."
       }
     ]
   }

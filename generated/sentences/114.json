@@ -10,80 +10,87 @@
     "wordMeanings": [
       {
         "term": "Thank",
-        "description": "فعل أو تعبير شكر يعني أشكر أو أقدّر."
+        "description": "أشكر، وتأتي هنا ضمن تعبير شكر."
       },
       {
         "term": "you",
-        "description": "الضمير الذي يعود على الشخص المخاطَب."
+        "description": "ضمير يشير إلى الشخص الذي أشكره."
       },
       {
         "term": "miss",
-        "description": "فعل يعني آنسة."
+        "description": "آنسة، لقب مهذب لمخاطبة امرأة أو فتاة."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "Thank you miss.",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذا تعبير شكر مهذب مع لقب للمخاطبة، ولا يستخدم كجملة بزمن مستقل."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "People often say, \"Thank you miss\" in situations like this.",
-        "ar": "يقول الناس كثيرًا: \"شكرًا آنسة\" في مواقف كهذه.",
-        "context": "تستخدم الجملة بوصفها تركيبًا شائعًا في موقف مشابه."
+        "en": "Thank you, ma'am.",
+        "ar": "شكرًا سيدتي.",
+        "context": "تقال لشكر امرأة بأدب."
       },
       {
         "id": 2,
-        "en": "You can say, \"Thank you miss\" when this happens.",
-        "ar": "يمكنك أن تقول: \"شكرًا آنسة\" عندما يحدث هذا.",
-        "context": "توضح أن الجملة مناسبة في موقف متكرر."
+        "en": "Thank you, sir.",
+        "ar": "شكرًا سيدي.",
+        "context": "تقال لشكر رجل بأدب."
       },
       {
         "id": 3,
-        "en": "I heard someone say, \"Thank you miss\".",
-        "ar": "سمعت شخصًا يقول: \"شكرًا آنسة\".",
-        "context": "تجعل الجملة جزءًا من كلام سمعته من شخص آخر."
+        "en": "Thank you, teacher.",
+        "ar": "شكرًا معلمتي.",
+        "context": "تقال لشكر معلمة أو معلم."
       },
       {
         "id": 4,
-        "en": "The teacher used the sentence, \"Thank you miss\" in class.",
-        "ar": "استخدم المعلم الجملة: \"شكرًا آنسة\" في الصف.",
-        "context": "تستخدم الجملة مثالًا تعليميًا في الصف."
+        "en": "Thank you for your help, miss.",
+        "ar": "شكرًا على مساعدتك يا آنسة.",
+        "context": "تقال لامرأة ساعدتك."
       },
       {
         "id": 5,
-        "en": "Many learners remember the sentence, \"Thank you miss\" first.",
-        "ar": "يتذكر كثير من المتعلمين الجملة: \"شكرًا آنسة\" أولًا.",
-        "context": "تقدم الجملة بوصفها جملة تعليمية أساسية."
+        "en": "Thank you very much, miss.",
+        "ar": "شكرًا جزيلًا يا آنسة.",
+        "context": "تقال للتعبير عن امتنان أكبر."
       },
       {
         "id": 6,
-        "en": "She said, \"Thank you miss\" in a calm way.",
-        "ar": "قالت: \"شكرًا آنسة\" بطريقة هادئة.",
-        "context": "تجعل الجملة جزءًا من كلام مباشر في موقف عادي."
+        "en": "Thank you for waiting, miss.",
+        "ar": "شكرًا لانتظارك يا آنسة.",
+        "context": "تقال عند تقدير انتظار شخص."
       },
       {
         "id": 7,
-        "en": "He repeated, \"Thank you miss\" more than once.",
-        "ar": "ردد: \"شكرًا آنسة\" أكثر من مرة.",
-        "context": "تضيف معنى التكرار لنفس الجملة."
+        "en": "Thank you for the answer, miss.",
+        "ar": "شكرًا على الإجابة يا آنسة.",
+        "context": "تقال عند تلقي إجابة مفيدة."
       },
       {
         "id": 8,
-        "en": "At the right moment, someone might say, \"Thank you miss\".",
-        "ar": "في اللحظة المناسبة، قد يقول شخص ما: \"شكرًا آنسة\".",
-        "context": "توضح أن الجملة مرتبطة بتوقيت مناسب في السياق."
+        "en": "Thank you, young lady.",
+        "ar": "شكرًا أيتها الشابة.",
+        "context": "تقال بأسلوب مهذب لشابة."
       },
       {
         "id": 9,
-        "en": "I wrote down the sentence, \"Thank you miss\" so I would remember it.",
-        "ar": "كتبت الجملة: \"شكرًا آنسة\" حتى أتذكرها.",
-        "context": "تعطي مثالًا على حفظ الجملة أو مراجعتها."
+        "en": "Thank you for coming, miss.",
+        "ar": "شكرًا لقدومك يا آنسة.",
+        "context": "تقال عند تقدير حضور شخص."
       },
       {
         "id": 10,
-        "en": "It is useful to know when to say, \"Thank you miss\".",
-        "ar": "من المفيد أن تعرف متى تقول: \"شكرًا آنسة\".",
-        "context": "تركز على معرفة الوقت المناسب لاستخدام الجملة."
+        "en": "Thank you for your time, miss.",
+        "ar": "شكرًا على وقتك يا آنسة.",
+        "context": "تقال بعد حديث أو مساعدة من امرأة."
       }
     ]
   }

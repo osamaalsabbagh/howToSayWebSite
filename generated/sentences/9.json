@@ -10,83 +10,91 @@
     "wordMeanings": [
       {
         "term": "From",
-        "description": "جزء من العبارة الزمنية from time to time."
+        "description": "تأتي هنا كبداية لتعبير يدل على تكرار غير منتظم."
       },
       {
         "term": "time",
-        "description": "هنا تشير إلى الزمن أو الفترات."
+        "description": "وقت، وهي جزء من تعبير يعني أحيانًا."
       },
       {
         "term": "to",
-        "description": "جزء رابط داخل العبارة."
+        "description": "تربط الكلمتين في التعبير للدلالة على تكرار بين حين وآخر."
       },
       {
         "term": "time",
-        "description": "تكرار الكلمة هنا جزء من التعبير الثابت الذي يعني أحيانًا أو من وقت لآخر."
+        "description": "تكرار لكلمة وقت داخل التعبير الكامل الذي يعني من حين لآخر."
       }
     ],
-    "tense": null,
-    "tenseReason": "استُعملت لتحديد أن الفعل لا يحدث دائمًا ولا نادرًا جدًا، بل يحدث أحيانًا على فترات غير منتظمة.",
+    "grammarExplanations": [
+      {
+        "sentence": "From time to time.",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذا تعبير ظرفي يصف مدى تكرار الفعل، ولا يحتوي على فعل مستقل أو زمن مستقل."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "I visit them from time to time.",
-        "ar": "أزورهم من وقت لآخر.",
-        "context": "تصف فعلًا يحدث أحيانًا."
+        "en": "I visit my uncle from time to time.",
+        "ar": "أزور عمي من وقت لآخر.",
+        "context": "تقال عن زيارة تحدث أحيانًا وليست بانتظام."
       },
       {
         "id": 2,
-        "en": "From time to time, we talk by phone.",
-        "ar": "من وقت لآخر، نتحدث عبر الهاتف.",
-        "context": "تصف تواصلًا غير منتظم."
+        "en": "She calls her old friends from time to time.",
+        "ar": "تتصل بأصدقائها القدامى من وقت لآخر.",
+        "context": "تقال عن تواصل يحدث أحيانًا."
       },
       {
         "id": 3,
-        "en": "He checks the report from time to time.",
-        "ar": "هو يراجع التقرير من وقت لآخر.",
-        "context": "تصف فعلًا يتكرر أحيانًا."
+        "en": "We eat at that restaurant from time to time.",
+        "ar": "نأكل في ذلك المطعم من وقت لآخر.",
+        "context": "تقال عن عادة غير منتظمة."
       },
       {
         "id": 4,
-        "en": "From time to time, I need a break.",
-        "ar": "من وقت لآخر، أحتاج إلى استراحة.",
-        "context": "تصف حاجة تظهر أحيانًا."
+        "en": "He checks the website from time to time.",
+        "ar": "يتفقد الموقع من وقت لآخر.",
+        "context": "تقال عن تفقد يحدث أحيانًا."
       },
       {
         "id": 5,
-        "en": "She travels there from time to time.",
-        "ar": "هي تسافر إلى هناك من وقت لآخر.",
-        "context": "تتكلم عن عادة غير منتظمة."
+        "en": "I watch old movies from time to time.",
+        "ar": "أشاهد أفلامًا قديمة من وقت لآخر.",
+        "context": "تقال عن نشاط يحدث أحيانًا للتسلية."
       },
       {
         "id": 6,
-        "en": "From time to time, we make mistakes.",
-        "ar": "من وقت لآخر، نرتكب أخطاء.",
-        "context": "تتكلم عن شيء يحدث أحيانًا بشكل طبيعي."
+        "en": "They travel together from time to time.",
+        "ar": "يسافرون معًا من وقت لآخر.",
+        "context": "تقال عن سفر غير متكرر."
       },
       {
         "id": 7,
-        "en": "I read that book from time to time.",
-        "ar": "أقرأ ذلك الكتاب من وقت لآخر.",
-        "context": "تصف عودة متكررة إلى شيء معين."
+        "en": "My father gives me advice from time to time.",
+        "ar": "يعطيني أبي نصيحة من وقت لآخر.",
+        "context": "تقال عن نصائح تظهر بين حين وآخر."
       },
       {
         "id": 8,
-        "en": "From time to time, he feels tired.",
-        "ar": "من وقت لآخر، يشعر بالتعب.",
-        "context": "تصف حالة تظهر أحيانًا."
+        "en": "The machine needs cleaning from time to time.",
+        "ar": "تحتاج الآلة إلى تنظيف من وقت لآخر.",
+        "context": "تقال عن حاجة دورية غير يومية."
       },
       {
         "id": 9,
-        "en": "We meet from time to time for coffee.",
-        "ar": "نلتقي من وقت لآخر لشرب القهوة.",
-        "context": "تتكلم عن لقاء غير منتظم."
+        "en": "I need a quiet evening from time to time.",
+        "ar": "أحتاج إلى مساء هادئ من وقت لآخر.",
+        "context": "تقال عن احتياج يظهر أحيانًا."
       },
       {
         "id": 10,
-        "en": "From time to time, this app needs an update.",
-        "ar": "من وقت لآخر، يحتاج هذا التطبيق إلى تحديث.",
-        "context": "تتكلم عن شيء يحدث أحيانًا."
+        "en": "Our teacher changes the plan from time to time.",
+        "ar": "يغير معلمنا الخطة من وقت لآخر.",
+        "context": "تقال عن تغيير يحدث أحيانًا حسب الحاجة."
       }
     ]
   }

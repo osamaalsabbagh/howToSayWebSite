@@ -10,96 +10,103 @@
     "wordMeanings": [
       {
         "term": "There",
-        "description": "ظرف مكان يعني هناك."
+        "description": "تستخدم لبدء جملة تدل على وجود شيء."
       },
       {
         "term": "is",
-        "description": "فعل be في الحاضر مع المفرد."
+        "description": "تستخدم مع المفرد للدلالة على وجود شيء واحد."
       },
       {
         "term": "a",
-        "description": "أداة نكرة تأتي قبل الاسم المفرد المعدود."
+        "description": "أداة تدل على شيء واحد غير محدد."
       },
       {
         "term": "book",
-        "description": "اسم يعني كتاب."
+        "description": "كتاب أو شيء للقراءة."
       },
       {
         "term": "under",
-        "description": "حرف جر يعني تحت."
+        "description": "تحت أو أسفل شيء."
       },
       {
         "term": "the",
-        "description": "أداة تعريف تشير إلى شيء معروف أو محدد."
+        "description": "أداة تشير إلى طاولة محددة."
       },
       {
         "term": "table",
-        "description": "اسم يعني طاولة."
+        "description": "طاولة أو منضدة."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "There is a book under the table.",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "تستخدم There is للدلالة على وجود شيء مفرد في الحاضر، وunder the table يحدد أنه أسفل الطاولة."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "People often say, \"There is a book under the table\" in situations like this.",
-        "ar": "يقول الناس كثيرًا: \"هناك كتاب تحت الطاولة\" في مواقف كهذه.",
-        "context": "تستخدم الجملة بوصفها تركيبًا شائعًا في موقف مشابه."
+        "en": "There is a book under the table.",
+        "ar": "هناك كتاب تحت الطاولة.",
+        "context": "تقال عند تحديد وجود كتاب أسفل طاولة."
       },
       {
         "id": 2,
-        "en": "You can say, \"There is a book under the table\" when this happens.",
-        "ar": "يمكنك أن تقول: \"هناك كتاب تحت الطاولة\" عندما يحدث هذا.",
-        "context": "توضح أن الجملة مناسبة في موقف متكرر."
+        "en": "There is a bag under the chair.",
+        "ar": "هناك حقيبة تحت الكرسي.",
+        "context": "تقال عند ذكر شيء أسفل كرسي."
       },
       {
         "id": 3,
-        "en": "I heard someone say, \"There is a book under the table\".",
-        "ar": "سمعت شخصًا يقول: \"هناك كتاب تحت الطاولة\".",
-        "context": "تجعل الجملة جزءًا من كلام سمعته من شخص آخر."
+        "en": "There is a cat under the bed.",
+        "ar": "هناك قطة تحت السرير.",
+        "context": "تقال عند وصف مكان قطة."
       },
       {
         "id": 4,
-        "en": "The teacher used the sentence, \"There is a book under the table\" in class.",
-        "ar": "استخدم المعلم الجملة: \"هناك كتاب تحت الطاولة\" في الصف.",
-        "context": "تستخدم الجملة مثالًا تعليميًا في الصف."
+        "en": "There is a key under the book.",
+        "ar": "هناك مفتاح تحت الكتاب.",
+        "context": "تقال عند تحديد شيء مخفي تحت كتاب."
       },
       {
         "id": 5,
-        "en": "Many learners remember the sentence, \"There is a book under the table\" first.",
-        "ar": "يتذكر كثير من المتعلمين الجملة: \"هناك كتاب تحت الطاولة\" أولًا.",
-        "context": "تقدم الجملة بوصفها جملة تعليمية أساسية."
+        "en": "Is there a book under the table?",
+        "ar": "هل يوجد كتاب تحت الطاولة؟",
+        "context": "تستخدم للسؤال عن وجود كتاب."
       },
       {
         "id": 6,
-        "en": "She said, \"There is a book under the table\" in a calm way.",
-        "ar": "قالت: \"هناك كتاب تحت الطاولة\" بطريقة هادئة.",
-        "context": "تجعل الجملة جزءًا من كلام مباشر في موقف عادي."
+        "en": "There is no book under the table.",
+        "ar": "لا يوجد كتاب تحت الطاولة.",
+        "context": "تقال عند نفي وجود كتاب."
       },
       {
         "id": 7,
-        "en": "He repeated, \"There is a book under the table\" more than once.",
-        "ar": "ردد: \"هناك كتاب تحت الطاولة\" أكثر من مرة.",
-        "context": "تضيف معنى التكرار لنفس الجملة."
+        "en": "There is a box under the table.",
+        "ar": "هناك صندوق تحت الطاولة.",
+        "context": "تقال عند تحديد مكان صندوق."
       },
       {
         "id": 8,
-        "en": "At the right moment, someone might say, \"There is a book under the table\".",
-        "ar": "في اللحظة المناسبة، قد يقول شخص ما: \"هناك كتاب تحت الطاولة\".",
-        "context": "توضح أن الجملة مرتبطة بتوقيت مناسب في السياق."
+        "en": "There is a toy under the sofa.",
+        "ar": "هناك لعبة تحت الأريكة.",
+        "context": "تقال عند العثور على لعبة."
       },
       {
         "id": 9,
-        "en": "I wrote down the sentence, \"There is a book under the table\" so I would remember it.",
-        "ar": "كتبت الجملة: \"هناك كتاب تحت الطاولة\" حتى أتذكرها.",
-        "context": "تعطي مثالًا على حفظ الجملة أو مراجعتها."
+        "en": "There is a book on the table.",
+        "ar": "هناك كتاب على الطاولة.",
+        "context": "تقال عند تغيير موقع الكتاب إلى السطح."
       },
       {
         "id": 10,
-        "en": "It is useful to know when to say, \"There is a book under the table\".",
-        "ar": "من المفيد أن تعرف متى تقول: \"هناك كتاب تحت الطاولة\".",
-        "context": "تركز على معرفة الوقت المناسب لاستخدام الجملة."
+        "en": "There is a book under the table near the chair.",
+        "ar": "هناك كتاب تحت الطاولة قرب الكرسي.",
+        "context": "تقال عند تحديد مكان أدق للكتاب."
       }
     ]
   }

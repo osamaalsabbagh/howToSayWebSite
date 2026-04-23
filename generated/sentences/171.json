@@ -10,104 +10,123 @@
     "wordMeanings": [
       {
         "term": "Do",
-        "description": "فعل مساعد يُستعمل لتكوين النفي والسؤال في المضارع البسيط."
+        "description": "تأتي في بداية السؤال مع المخاطب لتكوين سؤال في الحاضر."
       },
       {
         "term": "you",
-        "description": "الضمير الذي يعود على الشخص المخاطَب."
+        "description": "أنت، وتشير إلى الشخص المخاطب."
       },
       {
         "term": "want",
-        "description": "فعل يدل على الرغبة."
+        "description": "تريد أو ترغب."
       },
       {
         "term": "me",
-        "description": "ضمير مفعول به يعني أنا/إياي."
+        "description": "إياي أو مني، وتشير إلى المتكلم."
       },
       {
         "term": "to",
-        "description": "أداة تأتي قبل المصدر بعد أفعال مثل want."
+        "description": "تربط الرغبة بالفعل المطلوب بعدها."
       },
       {
         "term": "come",
-        "description": "فعل يعني يأتي."
+        "description": "آتي أو أحضر إلى مكان."
       },
       {
         "term": "and",
-        "description": "حرف عطف يربط بين كلمتين أو جملتين."
+        "description": "تربط فعلين معًا في المعنى."
       },
       {
         "term": "pick",
-        "description": "فعل يعني تريدني."
+        "description": "جزء من تعبير يعني هنا الذهاب لإحضار شخص بالسيارة أو وسيلة نقل."
+      },
+      {
+        "term": "you",
+        "description": "إياك، وتشير إلى الشخص الذي سيجري توصيله."
       },
       {
         "term": "up",
-        "description": "ظرف أو حرف يعني إلى أعلى."
+        "description": "جزء من تعبير يدل هنا على اصطحاب شخص من مكانه."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "Do you want me",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "هذا جزء السؤال الرئيسي، ويستخدم المضارع البسيط للسؤال عن رغبة الشخص الآن."
+        }
+      },
+      {
+        "sentence": "to come and pick you up",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذا جزء تابع يشرح الفعل المطلوب بعد الرغبة، ويستخدم صيغة المصدر مع فعلين مرتبطين، والتعبير الأخير يعني اصطحابك من مكانك."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "You can ask, \"Do you want me to come and pick you up?\" when you need information.",
-        "ar": "يمكنك أن تسأل: \"هل تريدني أن آتي وأوصلك؟\" عندما تحتاج إلى معلومة.",
-        "context": "تستعمل الجملة كسؤال مباشر للحصول على معلومة."
+        "en": "Do you want me to come and pick you up?",
+        "ar": "هل تريدني أن آتي وأوصلك؟",
+        "context": "تقال عند عرض توصيل شخص من مكانه."
       },
       {
         "id": 2,
-        "en": "Many people ask, \"Do you want me to come and pick you up?\" in this situation.",
-        "ar": "يسأل كثير من الناس: \"هل تريدني أن آتي وأوصلك؟\" في هذا الموقف.",
-        "context": "توضح أن هذا سؤال شائع في موقف مشابه."
+        "en": "Do you want me to pick you up?",
+        "ar": "هل تريدني أن أوصلك؟",
+        "context": "تقال عند عرض اصطحاب شخص بالسيارة."
       },
       {
         "id": 3,
-        "en": "I asked, \"Do you want me to come and pick you up?\" because I was not sure.",
-        "ar": "سألت: \"هل تريدني أن آتي وأوصلك؟\" لأنني لم أكن متأكدًا.",
-        "context": "تضيف سببًا لطرح السؤال."
+        "en": "Do you want me to come now?",
+        "ar": "هل تريدني أن آتي الآن؟",
+        "context": "تقال عند السؤال عن رغبة الشخص في حضورك."
       },
       {
         "id": 4,
-        "en": "She asked politely, \"Do you want me to come and pick you up?\"",
-        "ar": "سألت بأدب: \"هل تريدني أن آتي وأوصلك؟\".",
-        "context": "تبين أن السؤال قيل بطريقة مهذبة."
+        "en": "Do you want me to drive you home?",
+        "ar": "هل تريدني أن أوصلك بالسيارة إلى البيت؟",
+        "context": "تقال عند عرض التوصيل إلى المنزل."
       },
       {
         "id": 5,
-        "en": "At work, someone may ask, \"Do you want me to come and pick you up?\"",
-        "ar": "في العمل، قد يسأل شخص ما: \"هل تريدني أن آتي وأوصلك؟\".",
-        "context": "تضع السؤال في سياق مهني أو عملي."
+        "en": "Do you want me to wait for you?",
+        "ar": "هل تريدني أن أنتظرك؟",
+        "context": "تقال عند عرض الانتظار."
       },
       {
         "id": 6,
-        "en": "Before deciding, ask: \"Do you want me to come and pick you up?\"",
-        "ar": "قبل أن تقرر، اسأل: \"هل تريدني أن آتي وأوصلك؟\".",
-        "context": "تستخدم السؤال قبل اتخاذ قرار."
+        "en": "Do you want me to call a taxi?",
+        "ar": "هل تريدني أن أطلب سيارة أجرة؟",
+        "context": "تقال عند عرض المساعدة في المواصلات."
       },
       {
         "id": 7,
-        "en": "The student asked, \"Do you want me to come and pick you up?\" in class.",
-        "ar": "سأل الطالب: \"هل تريدني أن آتي وأوصلك؟\" في الصف.",
-        "context": "تجعل الجملة جزءًا من موقف تعليمي."
+        "en": "Do you want me to meet you there?",
+        "ar": "هل تريدني أن ألقاك هناك؟",
+        "context": "تقال عند ترتيب مكان لقاء."
       },
       {
         "id": 8,
-        "en": "While traveling, you can ask, \"Do you want me to come and pick you up?\"",
-        "ar": "أثناء السفر، يمكنك أن تسأل: \"هل تريدني أن آتي وأوصلك؟\".",
-        "context": "تربط السؤال بموقف السفر أو التنقل."
+        "en": "Do you want me to come with you?",
+        "ar": "هل تريدني أن آتي معك؟",
+        "context": "تقال عند عرض المرافقة."
       },
       {
         "id": 9,
-        "en": "He asked me, \"Do you want me to come and pick you up?\" again.",
-        "ar": "سألني: \"هل تريدني أن آتي وأوصلك؟\" مرة أخرى.",
-        "context": "تضيف معنى التكرار لنفس السؤال."
+        "en": "Do you want me to pick up your bag?",
+        "ar": "هل تريدني أن آخذ حقيبتك؟",
+        "context": "تقال عند عرض أخذ شيء من مكان."
       },
       {
         "id": 10,
-        "en": "If you are not sure, ask: \"Do you want me to come and pick you up?\"",
-        "ar": "إذا لم تكن متأكدًا، فاسأل: \"هل تريدني أن آتي وأوصلك؟\".",
-        "context": "توضح أن السؤال مناسب عند عدم التأكد."
+        "en": "Do you want me to pick you up at six?",
+        "ar": "هل تريدني أن أوصلك في السادسة؟",
+        "context": "تقال عند عرض توصيل في وقت محدد."
       }
     ]
   }

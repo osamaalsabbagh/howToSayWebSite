@@ -10,115 +10,135 @@
     "wordMeanings": [
       {
         "term": "But",
-        "description": "حرف ربط يفيد الاستدراك أو التباين."
+        "description": "تربط بين فكرتين متقابلتين أو مختلفتين."
       },
       {
         "term": "in",
-        "description": "حرف جر يعني في."
+        "description": "داخل مجال أو سياق معين."
       },
       {
         "term": "daily",
-        "description": "صفة تعني لكن."
+        "description": "يومي أو مرتبط بالحياة العادية."
       },
       {
         "term": "life",
-        "description": "اسم يعني الحياة."
+        "description": "الحياة أو الاستعمال اليومي."
       },
       {
         "term": "fresh",
-        "description": "صفة تعني اليومية."
+        "description": "قد تعني باردًا أو حديثًا في الاستعمال اليومي."
       },
       {
         "term": "water",
-        "description": "اسم يعني ماء."
+        "description": "ماء."
       },
       {
         "term": "can",
-        "description": "فعل مساعد يدل هنا على القدرة أو الاستعداد لتلبية الطلب."
+        "description": "تدل هنا على احتمال معنى مختلف بحسب السياق."
       },
       {
         "term": "mean",
-        "description": "فعل يعني يعني."
+        "description": "يعني أو يدل على."
       },
       {
         "term": "cold",
-        "description": "صفة تعني البارد."
+        "description": "بارد."
       },
       {
         "term": "or",
-        "description": "حرف عطف يفيد الاختيار بين شيئين."
+        "description": "تربط بين احتمالين أو خيارين."
       },
       {
         "term": "newly",
-        "description": "حال أو ظرف يعني المصبوب."
+        "description": "حديثًا أو منذ وقت قصير."
       },
       {
         "term": "poured",
-        "description": "فعل يعني حديثا."
+        "description": "مصبوب أو تم سكبه."
+      },
+      {
+        "term": "water",
+        "description": "ماء، والمقصود هنا ماء صُب حديثًا."
       }
     ],
-    "tense": null,
-    "tenseReason": "تتضمن الجملة فعلًا modal يعبّر عن القدرة أو الإمكانية أو الرغبة، لذلك لا نضع لها هنا زمنًا فعليًا مستقلًا على الرغم من وجود معنى زمني عام في السياق.",
+    "grammarExplanations": [
+      {
+        "sentence": "But in daily life",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذا تمهيد يغيّر السياق من المعنى العلمي إلى الاستعمال اليومي، وليس جملة بزمن مستقل."
+        }
+      },
+      {
+        "sentence": "fresh water can mean cold or newly poured water",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "الجملة تستخدم can للتعبير عن احتمال معنى في سياق معين، لذلك تُفهم كتركيب احتمال لا كزمن مستقل."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "People often say, \"But in daily life, fresh water can mean cold or newly poured water\" in situations like this.",
-        "ar": "يقول الناس كثيرًا: \"لكن في الحياة اليومية، الماء العذب قد يعني الماء البارد أو المصبوب حديثًا\" في مواقف كهذه.",
-        "context": "تستخدم الجملة بوصفها تركيبًا شائعًا في موقف مشابه."
+        "en": "In daily life, fresh bread can mean newly baked bread.",
+        "ar": "في الحياة اليومية، الخبز الطازج قد يعني خبزًا مخبوزًا حديثًا.",
+        "context": "يُستخدم لتوضيح معنى كلمة بحسب الاستعمال اليومي."
       },
       {
         "id": 2,
-        "en": "You can say, \"But in daily life, fresh water can mean cold or newly poured water\" when this happens.",
-        "ar": "يمكنك أن تقول: \"لكن في الحياة اليومية، الماء العذب قد يعني الماء البارد أو المصبوب حديثًا\" عندما يحدث هذا.",
-        "context": "توضح أن الجملة مناسبة في موقف متكرر."
+        "en": "In daily life, fresh coffee can mean newly made coffee.",
+        "ar": "في الحياة اليومية، القهوة الطازجة قد تعني قهوة أُعدت حديثًا.",
+        "context": "يُستخدم عند شرح معنى الطازج مع المشروبات."
       },
       {
         "id": 3,
-        "en": "I heard someone say, \"But in daily life, fresh water can mean cold or newly poured water\".",
-        "ar": "سمعت شخصًا يقول: \"لكن في الحياة اليومية، الماء العذب قد يعني الماء البارد أو المصبوب حديثًا\".",
-        "context": "تجعل الجملة جزءًا من كلام سمعته من شخص آخر."
+        "en": "Fresh water can mean cold water in a restaurant.",
+        "ar": "الماء الطازج قد يعني ماءً باردًا في مطعم.",
+        "context": "يُستخدم عند اختلاف المعنى بحسب المكان."
       },
       {
         "id": 4,
-        "en": "The teacher used the sentence, \"But in daily life, fresh water can mean cold or newly poured water\" in class.",
-        "ar": "استخدم المعلم الجملة: \"لكن في الحياة اليومية، الماء العذب قد يعني الماء البارد أو المصبوب حديثًا\" في الصف.",
-        "context": "تستخدم الجملة مثالًا تعليميًا في الصف."
+        "en": "Fresh tea can mean tea that was just made.",
+        "ar": "الشاي الطازج قد يعني شايًا أُعد للتو.",
+        "context": "يُستخدم لتوضيح معنى حديث التحضير."
       },
       {
         "id": 5,
-        "en": "Many learners remember the sentence, \"But in daily life, fresh water can mean cold or newly poured water\" first.",
-        "ar": "يتذكر كثير من المتعلمين الجملة: \"لكن في الحياة اليومية، الماء العذب قد يعني الماء البارد أو المصبوب حديثًا\" أولًا.",
-        "context": "تقدم الجملة بوصفها جملة تعليمية أساسية."
+        "en": "In daily life, light food can mean easy food.",
+        "ar": "في الحياة اليومية، الطعام الخفيف قد يعني طعامًا سهلًا.",
+        "context": "يُستخدم عندما تختلف الكلمة عن معناها الحرفي."
       },
       {
         "id": 6,
-        "en": "She said, \"But in daily life, fresh water can mean cold or newly poured water\" in a calm way.",
-        "ar": "قالت: \"لكن في الحياة اليومية، الماء العذب قد يعني الماء البارد أو المصبوب حديثًا\" بطريقة هادئة.",
-        "context": "تجعل الجملة جزءًا من كلام مباشر في موقف عادي."
+        "en": "Fresh juice can mean juice made this morning.",
+        "ar": "العصير الطازج قد يعني عصيرًا صُنع هذا الصباح.",
+        "context": "يُستخدم عند وصف مشروب حديث التحضير."
       },
       {
         "id": 7,
-        "en": "He repeated, \"But in daily life, fresh water can mean cold or newly poured water\" more than once.",
-        "ar": "ردد: \"لكن في الحياة اليومية، الماء العذب قد يعني الماء البارد أو المصبوب حديثًا\" أكثر من مرة.",
-        "context": "تضيف معنى التكرار لنفس الجملة."
+        "en": "In daily life, cold water can mean water from the fridge.",
+        "ar": "في الحياة اليومية، الماء البارد قد يعني ماءً من الثلاجة.",
+        "context": "يُستخدم لتوضيح معنى عملي في البيت."
       },
       {
         "id": 8,
-        "en": "At the right moment, someone might say, \"But in daily life, fresh water can mean cold or newly poured water\".",
-        "ar": "في اللحظة المناسبة، قد يقول شخص ما: \"لكن في الحياة اليومية، الماء العذب قد يعني الماء البارد أو المصبوب حديثًا\".",
-        "context": "توضح أن الجملة مرتبطة بتوقيت مناسب في السياق."
+        "en": "Fresh fruit can mean fruit bought today.",
+        "ar": "الفاكهة الطازجة قد تعني فاكهة اشتُريت اليوم.",
+        "context": "يُستخدم عند وصف طعام حديث الشراء."
       },
       {
         "id": 9,
-        "en": "I wrote down the sentence, \"But in daily life, fresh water can mean cold or newly poured water\" so I would remember it.",
-        "ar": "كتبت الجملة: \"لكن في الحياة اليومية، الماء العذب قد يعني الماء البارد أو المصبوب حديثًا\" حتى أتذكرها.",
-        "context": "تعطي مثالًا على حفظ الجملة أو مراجعتها."
+        "en": "In daily life, clean water can mean water that looks clear.",
+        "ar": "في الحياة اليومية، الماء النظيف قد يعني ماءً يبدو صافيًا.",
+        "context": "يُستخدم عند توضيح معنى يعتمد على المظهر."
       },
       {
         "id": 10,
-        "en": "It is useful to know when to say, \"But in daily life, fresh water can mean cold or newly poured water\".",
-        "ar": "من المفيد أن تعرف متى تقول: \"لكن في الحياة اليومية، الماء العذب قد يعني الماء البارد أو المصبوب حديثًا\".",
-        "context": "تركز على معرفة الوقت المناسب لاستخدام الجملة."
+        "en": "Fresh milk can mean milk opened today.",
+        "ar": "الحليب الطازج قد يعني حليبًا فُتح اليوم.",
+        "context": "يُستخدم لوصف شيء ما زال حديث الاستعمال."
       }
     ]
   }

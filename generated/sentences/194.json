@@ -10,91 +10,99 @@
     "wordMeanings": [
       {
         "term": "One",
-        "description": "كلمة تدل على العدد واحد أو على شيء واحد."
+        "description": "واحدة، وتحدد عدد التذاكر المطلوبة."
       },
       {
         "term": "ticket",
-        "description": "اسم يعني واحدة."
+        "description": "تذكرة للسفر أو الدخول."
       },
       {
         "term": "to",
-        "description": "أداة تأتي قبل المصدر بعد أفعال مثل want."
+        "description": "إلى، وتربط التذكرة بالوجهة."
       },
       {
         "term": "New",
-        "description": "صفة تعني جديد."
+        "description": "جزء من اسم مدينة نيويورك."
       },
       {
         "term": "York",
-        "description": "اسم علم يشير إلى نيويورك."
+        "description": "جزء من اسم مدينة نيويورك."
       },
       {
         "term": "please",
-        "description": "تضيف اللطف إلى الطلب."
+        "description": "من فضلك، وتجعل الطلب مهذبًا."
       }
     ],
-    "tense": null,
-    "tenseReason": "استُعمل هذا التعبير لأنه عبارة ثابتة أو رد قصير يُستخدم في موقف محدد، وليس جملة فعلية كاملة بزمن واضح.",
+    "grammarExplanations": [
+      {
+        "sentence": "One ticket to New York please.",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه عبارة طلب مختصرة في موقف شراء تذكرة، وفيها حذف لكلمات مفهومة مثل أريد، لذلك لا تحمل زمنًا مستقلًا."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "In this situation, people often say, \"One ticket to New York please\".",
-        "ar": "في هذا الموقف، يقول الناس كثيرًا: \"تذكرة واحدة إلى نيويورك من فضلك\".",
-        "context": "توضح أن العبارة مناسبة في هذا النوع من المواقف."
+        "en": "One ticket to New York please.",
+        "ar": "تذكرة واحدة إلى نيويورك من فضلك.",
+        "context": "تقال عند طلب تذكرة إلى نيويورك."
       },
       {
         "id": 2,
-        "en": "The teacher said, \"One ticket to New York please\" to the students.",
-        "ar": "قال المعلم للطلاب: \"تذكرة واحدة إلى نيويورك من فضلك\".",
-        "context": "تستخدم الجملة كتعليمات أو توجيه مباشر."
+        "en": "One ticket to Boston, please.",
+        "ar": "تذكرة واحدة إلى بوسطن، من فضلك.",
+        "context": "تقال عند شراء تذكرة إلى بوسطن."
       },
       {
         "id": 3,
-        "en": "He told me, \"One ticket to New York please\" before we left.",
-        "ar": "قال لي: \"تذكرة واحدة إلى نيويورك من فضلك\" قبل أن نغادر.",
-        "context": "تضع العبارة قبل حدث آخر."
+        "en": "One ticket to Chicago, please.",
+        "ar": "تذكرة واحدة إلى شيكاغو، من فضلك.",
+        "context": "تقال عند تحديد وجهة التذكرة."
       },
       {
         "id": 4,
-        "en": "She said, \"One ticket to New York please\" in a polite way.",
-        "ar": "قالت: \"تذكرة واحدة إلى نيويورك من فضلك\" بطريقة مهذبة.",
-        "context": "تظهر أن العبارة يمكن أن تقال بلطف أو أدب."
+        "en": "One ticket to the airport, please.",
+        "ar": "تذكرة واحدة إلى المطار، من فضلك.",
+        "context": "تقال عند شراء تذكرة مواصلات إلى المطار."
       },
       {
         "id": 5,
-        "en": "Someone shouted, \"One ticket to New York please\" when there was a problem.",
-        "ar": "صاح شخص ما: \"تذكرة واحدة إلى نيويورك من فضلك\" عندما ظهرت مشكلة.",
-        "context": "تربط العبارة بموقف سريع أو طارئ."
+        "en": "One bus ticket, please.",
+        "ar": "تذكرة حافلة واحدة، من فضلك.",
+        "context": "تقال عند طلب تذكرة حافلة."
       },
       {
         "id": 6,
-        "en": "You can say, \"One ticket to New York please\" when you need a quick response.",
-        "ar": "يمكنك أن تقول: \"تذكرة واحدة إلى نيويورك من فضلك\" عندما تحتاج إلى رد سريع.",
-        "context": "توضح أن العبارة مفيدة عند الحاجة إلى استجابة مباشرة."
+        "en": "One train ticket, please.",
+        "ar": "تذكرة قطار واحدة، من فضلك.",
+        "context": "تقال عند طلب تذكرة قطار."
       },
       {
         "id": 7,
-        "en": "They repeated, \"One ticket to New York please\" more than once.",
-        "ar": "رددوا: \"تذكرة واحدة إلى نيويورك من فضلك\" أكثر من مرة.",
-        "context": "تعطي مثالًا على تكرار العبارة."
+        "en": "One round trip ticket, please.",
+        "ar": "تذكرة ذهاب وعودة واحدة، من فضلك.",
+        "context": "تقال عند طلب تذكرة تشمل الرجوع."
       },
       {
         "id": 8,
-        "en": "I heard him say, \"One ticket to New York please\" yesterday.",
-        "ar": "سمعته يقول: \"تذكرة واحدة إلى نيويورك من فضلك\" أمس.",
-        "context": "تجعل العبارة جزءًا من موقف سمعته من شخص آخر."
+        "en": "One one way ticket, please.",
+        "ar": "تذكرة ذهاب فقط واحدة، من فضلك.",
+        "context": "تقال عند طلب تذكرة باتجاه واحد."
       },
       {
         "id": 9,
-        "en": "Many learners remember the phrase, \"One ticket to New York please\".",
-        "ar": "يتذكر كثير من المتعلمين العبارة: \"تذكرة واحدة إلى نيويورك من فضلك\".",
-        "context": "تقدم العبارة بوصفها عبارة سهلة التذكر."
+        "en": "One ticket for today, please.",
+        "ar": "تذكرة واحدة لليوم، من فضلك.",
+        "context": "تقال عند تحديد يوم السفر أو الدخول."
       },
       {
         "id": 10,
-        "en": "At that moment, she said, \"One ticket to New York please\".",
-        "ar": "في تلك اللحظة، قالت: \"تذكرة واحدة إلى نيويورك من فضلك\".",
-        "context": "تربط العبارة بلحظة معينة في السرد."
+        "en": "One ticket for tomorrow, please.",
+        "ar": "تذكرة واحدة للغد، من فضلك.",
+        "context": "تقال عند شراء تذكرة ليوم لاحق."
       }
     ]
   }

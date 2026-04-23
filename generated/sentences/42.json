@@ -10,80 +10,87 @@
     "wordMeanings": [
       {
         "term": "I",
-        "description": "ضمير المتكلم."
+        "description": "ضمير المتكلم ويشير إلى الشخص الذي يتحدث."
       },
       {
         "term": "will",
-        "description": "أداة مستقبل تدل على ما سيحدث لاحقًا."
+        "description": "كلمة تدل هنا على قرار أو عرض للقيام بالفعل."
       },
       {
         "term": "pay",
-        "description": "فعل يعني سأدفع."
+        "description": "أدفع المال مقابل شيء."
       }
     ],
-    "tense": "المستقبل البسيط",
-    "tenseEn": "Future Simple",
-    "tenseReason": "استُعمل المستقبل البسيط لأن الجملة تتحدث عن شيء سيحدث لاحقًا أو عن قرار أو توقع يخص المستقبل.",
+    "grammarExplanations": [
+      {
+        "sentence": "I will pay.",
+        "explanation": {
+          "tense": "المستقبل البسيط",
+          "tenseEn": "Future Simple",
+          "reason": "تستخدم will هنا لعرض القيام بالدفع أو إعلان قرار فوري بأن المتكلم سيدفع."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "People often say, \"I will pay\" in situations like this.",
-        "ar": "يقول الناس كثيرًا: \"سأدفع\" في مواقف كهذه.",
-        "context": "تستخدم الجملة بوصفها تركيبًا شائعًا في موقف مشابه."
+        "en": "I will pay for dinner.",
+        "ar": "سأدفع ثمن العشاء.",
+        "context": "تقال عند عرض دفع الحساب في مطعم."
       },
       {
         "id": 2,
-        "en": "You can say, \"I will pay\" when this happens.",
-        "ar": "يمكنك أن تقول: \"سأدفع\" عندما يحدث هذا.",
-        "context": "توضح أن الجملة مناسبة في موقف متكرر."
+        "en": "She will pay tomorrow.",
+        "ar": "ستدفع غدًا.",
+        "context": "تقال عند تحديد وقت دفع لاحق."
       },
       {
         "id": 3,
-        "en": "I heard someone say, \"I will pay\".",
-        "ar": "سمعت شخصًا يقول: \"سأدفع\".",
-        "context": "تجعل الجملة جزءًا من كلام سمعته من شخص آخر."
+        "en": "We will pay in cash.",
+        "ar": "سندفع نقدًا.",
+        "context": "تقال عند اختيار طريقة الدفع."
       },
       {
         "id": 4,
-        "en": "The teacher used the sentence, \"I will pay\" in class.",
-        "ar": "استخدم المعلم الجملة: \"سأدفع\" في الصف.",
-        "context": "تستخدم الجملة مثالًا تعليميًا في الصف."
+        "en": "He will pay the bill.",
+        "ar": "سيدفع الفاتورة.",
+        "context": "تقال عند تحمل شخص للحساب."
       },
       {
         "id": 5,
-        "en": "Many learners remember the sentence, \"I will pay\" first.",
-        "ar": "يتذكر كثير من المتعلمين الجملة: \"سأدفع\" أولًا.",
-        "context": "تقدم الجملة بوصفها جملة تعليمية أساسية."
+        "en": "I will pay for the tickets.",
+        "ar": "سأدفع ثمن التذاكر.",
+        "context": "تقال عند عرض شراء التذاكر."
       },
       {
         "id": 6,
-        "en": "She said, \"I will pay\" in a calm way.",
-        "ar": "قالت: \"سأدفع\" بطريقة هادئة.",
-        "context": "تجعل الجملة جزءًا من كلام مباشر في موقف عادي."
+        "en": "They will pay later.",
+        "ar": "سيدفعون لاحقًا.",
+        "context": "تقال عند تأجيل الدفع."
       },
       {
         "id": 7,
-        "en": "He repeated, \"I will pay\" more than once.",
-        "ar": "ردد: \"سأدفع\" أكثر من مرة.",
-        "context": "تضيف معنى التكرار لنفس الجملة."
+        "en": "I will pay with my card.",
+        "ar": "سأدفع ببطاقتي.",
+        "context": "تقال عند اختيار الدفع بالبطاقة."
       },
       {
         "id": 8,
-        "en": "At the right moment, someone might say, \"I will pay\".",
-        "ar": "في اللحظة المناسبة، قد يقول شخص ما: \"سأدفع\".",
-        "context": "توضح أن الجملة مرتبطة بتوقيت مناسب في السياق."
+        "en": "My father will pay for the room.",
+        "ar": "سيدفع أبي ثمن الغرفة.",
+        "context": "تقال عند حجز أو إقامة."
       },
       {
         "id": 9,
-        "en": "I wrote down the sentence, \"I will pay\" so I would remember it.",
-        "ar": "كتبت الجملة: \"سأدفع\" حتى أتذكرها.",
-        "context": "تعطي مثالًا على حفظ الجملة أو مراجعتها."
+        "en": "I will pay now.",
+        "ar": "سأدفع الآن.",
+        "context": "تقال عند الاستعداد للدفع مباشرة."
       },
       {
         "id": 10,
-        "en": "It is useful to know when to say, \"I will pay\".",
-        "ar": "من المفيد أن تعرف متى تقول: \"سأدفع\".",
-        "context": "تركز على معرفة الوقت المناسب لاستخدام الجملة."
+        "en": "The company will pay the cost.",
+        "ar": "ستدفع الشركة التكلفة.",
+        "context": "تقال عند تحمل جهة رسمية للمصاريف."
       }
     ]
   }

@@ -1,90 +1,93 @@
 {
-  "schemaVersion": 1,
-  "id": 2278,
-  "sentence": {
-    "en": "That's good.",
-    "ar": "هذا جيد.",
-    "context": "توافق على أمر ما."
-  },
-  "lesson": {
-    "wordMeanings": [
-      {
-        "term": "That",
-        "description": "تشير إلى أمر أو خبر سبق ذكره."
-      },
-      {
-        "term": "is",
-        "description": "فعل be في الحاضر مع المفرد."
-      },
-      {
-        "term": "good",
-        "description": "صفة تعني جيد أو مريح أو مناسب هنا."
-      }
-    ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن المتكلم يعلّق على أمر أو خبر يراه جيدًا في هذه اللحظة أو عمومًا.",
-    "examples": [
-      {
-        "id": 1,
-        "en": "You finished already? That is good.",
-        "ar": "أنهيت بالفعل؟ هذا جيد.",
-        "context": "تعلّق بإيجابية على خبر."
-      },
-      {
-        "id": 2,
-        "en": "That is good to hear.",
-        "ar": "هذا جيد أن أسمعه.",
-        "context": "تظهر ارتياحك لخبر مريح."
-      },
-      {
-        "id": 3,
-        "en": "You are feeling better? That is good.",
-        "ar": "أنت تشعر بتحسن؟ هذا جيد.",
-        "context": "تعلق على خبر عن الصحة أو الحالة."
-      },
-      {
-        "id": 4,
-        "en": "We have enough time. That is good.",
-        "ar": "لدينا وقت كافٍ. هذا جيد.",
-        "context": "تعلّق على وضع مريح."
-      },
-      {
-        "id": 5,
-        "en": "The problem is smaller now. That is good.",
-        "ar": "المشكلة أصغر الآن. هذا جيد.",
-        "context": "تعلّق على تحسن الوضع."
-      },
-      {
-        "id": 6,
-        "en": "He understands the plan. That is good.",
-        "ar": "هو يفهم الخطة. هذا جيد.",
-        "context": "تعلق على أمر يساعد التقدم."
-      },
-      {
-        "id": 7,
-        "en": "The room is quiet. That is good for study.",
-        "ar": "الغرفة هادئة. هذا جيد للدراسة.",
-        "context": "تعلّق على ميزة في مكان."
-      },
-      {
-        "id": 8,
-        "en": "She called you back? That is good.",
-        "ar": "لقد أعادت الاتصال بك؟ هذا جيد.",
-        "context": "تستقبل خبرًا بإيجابية."
-      },
-      {
-        "id": 9,
-        "en": "You found your keys? That is good.",
-        "ar": "وجدت مفاتيحك؟ هذا جيد.",
-        "context": "تعلّق على حل مشكلة."
-      },
-      {
-        "id": 10,
-        "en": "Everyone is ready. That is good.",
-        "ar": "الجميع جاهز. هذا جيد.",
-        "context": "تعلّق على اكتمال الاستعداد."
-      }
-    ]
-  }
+	"schemaVersion": 1,
+	"id": 2278,
+	"sentence": {
+		"en": "That's good.",
+		"ar": "هذا جيد.",
+		"context": "توافق على أمر ما."
+	},
+	"lesson": {
+		"wordMeanings": [
+			{
+				"term": "That's",
+				"description": "اختصار يعني ذلك يكون أو هذا يكون، ويُستخدم هنا للإشارة إلى الأمر وتقييمه"
+			},
+			{
+				"term": "good",
+				"description": "صفة تُستخدم لوصف الشيء بأنه جيد أو مُرضٍ"
+			}
+		],
+		"grammarExplanations": [
+			{
+				"sentence": "That's good.",
+				"explanation": {
+					"tense": "المضارع البسيط",
+					"tenseEn": "Present Simple",
+					"reason": "هذه جملة بسيطة تُستخدم للتعليق أو إبداء الرأي في الوقت الحالي، حيث That is تُختصر إلى That's في الكلام، ويُستخدم المضارع البسيط للتعبير عن تقييم أو رأي عام"
+				}
+			}
+		],
+		"examples": [
+			{
+				"id": 1,
+				"en": "That is good news.",
+				"ar": "هذه أخبار جيدة.",
+				"context": "التعبير عن الرضا عن خبر"
+			},
+			{
+				"id": 2,
+				"en": "That is a good idea.",
+				"ar": "هذه فكرة جيدة.",
+				"context": "الموافقة على اقتراح"
+			},
+			{
+				"id": 3,
+				"en": "That is good for you.",
+				"ar": "هذا جيد لك.",
+				"context": "التعبير عن فائدة شيء لشخص"
+			},
+			{
+				"id": 4,
+				"en": "That is good to hear.",
+				"ar": "هذا جيد لسماعه.",
+				"context": "التعبير عن الارتياح عند سماع خبر"
+			},
+			{
+				"id": 5,
+				"en": "That is good work.",
+				"ar": "هذا عمل جيد.",
+				"context": "مدح نتيجة عمل"
+			},
+			{
+				"id": 6,
+				"en": "That is a good result.",
+				"ar": "هذه نتيجة جيدة.",
+				"context": "التعليق على نتيجة إيجابية"
+			},
+			{
+				"id": 7,
+				"en": "That is good progress.",
+				"ar": "هذا تقدم جيد.",
+				"context": "الإشادة بالتطور"
+			},
+			{
+				"id": 8,
+				"en": "That is good enough.",
+				"ar": "هذا جيد بما فيه الكفاية.",
+				"context": "القبول بمستوى معين"
+			},
+			{
+				"id": 9,
+				"en": "That is good for now.",
+				"ar": "هذا جيد في الوقت الحالي.",
+				"context": "القبول المؤقت بشيء"
+			},
+			{
+				"id": 10,
+				"en": "That is good to know.",
+				"ar": "هذا جيد أن أعرفه.",
+				"context": "التعبير عن فائدة معلومة"
+			}
+		]
+	}
 }

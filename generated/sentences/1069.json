@@ -1,81 +1,89 @@
 {
-  "schemaVersion": 1,
-  "id": 1069,
-  "sentence": {
-    "en": "Thanks!",
-    "ar": "شكرًا!",
-    "context": "تُستخدم للتعبير عن الشكر في المواقف غير الرسمية، وأحيانًا في مواقف عمل غير رسمية."
-  },
-  "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Thanks",
-        "description": "صيغة شكر قصيرة وغير رسمية نسبيًا."
-      }
-    ],
-    "tense": null,
-    "tenseReason": "استُعملت لأن الغرض هو إظهار الامتنان مباشرة وبسرعة، لا وصف فعل في زمن معيّن.",
-    "examples": [
-      {
-        "id": 1,
-        "en": "Thanks for your time!",
-        "ar": "شكرًا على وقتك!",
-        "context": "تشكر شخصًا بعد أن خصص لك وقتًا."
-      },
-      {
-        "id": 2,
-        "en": "Thanks, that helped a lot!",
-        "ar": "شكرًا، لقد ساعد ذلك كثيرًا!",
-        "context": "تشكر شخصًا بعد فائدة واضحة."
-      },
-      {
-        "id": 3,
-        "en": "Thanks for coming today!",
-        "ar": "شكرًا لقدومك اليوم!",
-        "context": "تشكر شخصًا على حضوره."
-      },
-      {
-        "id": 4,
-        "en": "Thanks, I really appreciate it!",
-        "ar": "شكرًا، أنا أقدّر ذلك فعلًا!",
-        "context": "تظهر امتنانًا واضحًا."
-      },
-      {
-        "id": 5,
-        "en": "Thanks for your message!",
-        "ar": "شكرًا على رسالتك!",
-        "context": "تشكر شخصًا على تواصله."
-      },
-      {
-        "id": 6,
-        "en": "Thanks for waiting!",
-        "ar": "شكرًا على الانتظار!",
-        "context": "تشكر شخصًا على صبره."
-      },
-      {
-        "id": 7,
-        "en": "Thanks, you made this easier.",
-        "ar": "شكرًا، لقد جعلت هذا أسهل.",
-        "context": "تشكر شخصًا على تسهيل أمر."
-      },
-      {
-        "id": 8,
-        "en": "Thanks for the reminder!",
-        "ar": "شكرًا على التذكير!",
-        "context": "تشكر شخصًا لأنه نبّهك لشيء."
-      },
-      {
-        "id": 9,
-        "en": "Thanks, I needed that advice.",
-        "ar": "شكرًا، كنت أحتاج تلك النصيحة.",
-        "context": "تشكر شخصًا على نصيحة مهمة."
-      },
-      {
-        "id": 10,
-        "en": "Thanks for your help with the bag!",
-        "ar": "شكرًا على مساعدتك في الحقيبة!",
-        "context": "تشكر شخصًا على مساعدة عملية بسيطة."
-      }
-    ]
-  }
+	"schemaVersion": 1,
+	"id": 1069,
+	"sentence": {
+		"en": "Thanks!",
+		"ar": "شكرًا!",
+		"context": "تُستخدم للتعبير عن الشكر في المواقف غير الرسمية، وأحيانًا في مواقف عمل غير رسمية."
+	},
+	"lesson": {
+		"wordMeanings": [
+			{
+				"term": "Thanks",
+				"description": "كلمة تُستخدم للتعبير عن الشكر والامتنان بطريقة غير رسمية"
+			}
+		],
+		"grammarExplanations": [
+			{
+				"sentence": "Thanks!",
+				"explanation": {
+					"tense": null,
+					"tenseEn": null,
+					"reason": "هذه كلمة تُستخدم كتعليق مستقل للتعبير عن الشكر، وهي صيغة مختصرة وغير رسمية ولا ترتبط بزمن معين"
+				}
+			}
+		],
+		"examples": [
+			{
+				"id": 1,
+				"en": "Thanks for your help!",
+				"ar": "شكرًا على مساعدتك!",
+				"context": "التعبير عن الامتنان بعد تلقي مساعدة"
+			},
+			{
+				"id": 2,
+				"en": "Thanks for coming!",
+				"ar": "شكرًا على حضورك!",
+				"context": "شكر شخص على حضوره"
+			},
+			{
+				"id": 3,
+				"en": "Thanks, I appreciate it.",
+				"ar": "شكرًا، أنا أقدّر ذلك.",
+				"context": "إظهار الامتنان بشكل أعمق"
+			},
+			{
+				"id": 4,
+				"en": "Thanks for the information.",
+				"ar": "شكرًا على المعلومات.",
+				"context": "شكر شخص على تقديم معلومات"
+			},
+			{
+				"id": 5,
+				"en": "Thanks for your time.",
+				"ar": "شكرًا على وقتك.",
+				"context": "شكر شخص على تخصيص وقت"
+			},
+			{
+				"id": 6,
+				"en": "Thanks for the invitation.",
+				"ar": "شكرًا على الدعوة.",
+				"context": "التعبير عن الامتنان لدعوة"
+			},
+			{
+				"id": 7,
+				"en": "Thanks for the update.",
+				"ar": "شكرًا على التحديث.",
+				"context": "شكر شخص على مشاركة معلومات جديدة"
+			},
+			{
+				"id": 8,
+				"en": "Thanks for your support.",
+				"ar": "شكرًا على دعمك.",
+				"context": "التعبير عن الامتنان للمساندة"
+			},
+			{
+				"id": 9,
+				"en": "Thanks, that helps a lot.",
+				"ar": "شكرًا، هذا يساعد كثيرًا.",
+				"context": "إظهار أن المساعدة كانت مفيدة"
+			},
+			{
+				"id": 10,
+				"en": "Thanks, I needed that.",
+				"ar": "شكرًا، كنت أحتاج إلى ذلك.",
+				"context": "التعبير عن الامتنان لشيء مفيد أو ضروري"
+			}
+		]
+	}
 }

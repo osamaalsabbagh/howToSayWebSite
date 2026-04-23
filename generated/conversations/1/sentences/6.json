@@ -10,100 +10,115 @@
     "wordMeanings": [
       {
         "term": "That",
-        "description": "تشير إلى أمر أو خبر سبق ذكره."
+        "description": "اسم إشارة يشير هنا إلى ما قاله المتقدم عن خبرته."
       },
       {
         "term": "is",
-        "description": "فعل be في الحاضر مع المفرد."
+        "description": "صيغة تربط اسم الإشارة بالوصف الذي بعده."
       },
       {
         "term": "impressive",
-        "description": "صفة تعني للإعجاب."
+        "description": "صفة تعني يترك أثرًا جيدًا أو يدل على مستوى قوي."
       },
       {
         "term": "We",
-        "description": "ضمير المتكلمين."
+        "description": "ضمير المتكلم الجمع، ويشير هنا إلى الشركة أو فريق المقابلة."
       },
       {
         "term": "will",
-        "description": "أداة مستقبل تدل على ما سيحدث لاحقًا."
+        "description": "تدل على أن الفعل سيحدث في المستقبل."
       },
       {
         "term": "contact",
-        "description": "فعل يعني معك."
+        "description": "يتواصل مع أو يتصل بـ، وقد يكون عبر الهاتف أو البريد."
       },
       {
         "term": "you",
-        "description": "الضمير الذي يعود على الشخص المخاطَب."
+        "description": "ضمير المخاطب، ويشير هنا إلى المتقدم الذي سيتم التواصل معه."
       },
       {
         "term": "soon",
-        "description": "قريبًا."
+        "description": "قريبًا، أي بعد وقت قصير دون تحديد موعد دقيق."
       }
     ],
-    "tense": "المستقبل البسيط",
-    "tenseEn": "Future Simple",
-    "tenseReason": "استُعمل المستقبل البسيط لأن الجملة تتحدث عن شيء سيحدث لاحقًا أو عن قرار أو توقع يخص المستقبل.",
+    "grammarExplanations": [
+      {
+        "sentence": "That is impressive.",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُعمل المضارع البسيط لأن هذا الجزء يصف حالة أو حقيقة أو معنى حاضرًا في سياق الكلام."
+        }
+      },
+      {
+        "sentence": "We will contact you soon.",
+        "explanation": {
+          "tense": "المستقبل البسيط",
+          "tenseEn": "Future Simple",
+          "reason": "استُعمل المستقبل البسيط لأن هذا الجزء يتحدث عن خطوة أو حدث سيحدث لاحقًا."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "Soon, That is impressive. We will contact you soon.",
-        "ar": "قريبًا، هذا مثير للإعجاب. سنتواصل معك قريبًا.",
-        "context": "تؤكد قرب الحدث في المستقبل."
+        "en": "That is impressive. We will contact you by email soon.",
+        "ar": "هذا مثير للإعجاب. سنتواصل معك عبر البريد الإلكتروني قريبًا.",
+        "context": "توضح طريقة التواصل المتوقعة."
       },
       {
         "id": 2,
-        "en": "Tomorrow, That is impressive. We will contact you soon.",
-        "ar": "غدًا، هذا مثير للإعجاب. سنتواصل معك قريبًا.",
-        "context": "تربط الجملة بوقت مستقبلي محدد."
+        "en": "That is very impressive. We will contact you soon.",
+        "ar": "هذا مثير للإعجاب جدًا. سنتواصل معك قريبًا.",
+        "context": "تزيد قوة التقييم بإضافة معنى التأكيد."
       },
       {
         "id": 3,
-        "en": "That is impressive. We will contact you soon after lunch.",
-        "ar": "هذا مثير للإعجاب. سنتواصل معك قريبًا بعد الغداء.",
-        "context": "تضيف توقيتًا مستقبليًا واضحًا."
+        "en": "Your experience is impressive. We will contact you soon.",
+        "ar": "خبرتك مثيرة للإعجاب. سنتواصل معك قريبًا.",
+        "context": "تجعل سبب الإعجاب واضحًا وهو الخبرة."
       },
       {
         "id": 4,
-        "en": "That is impressive. We will contact you soon if everything goes well.",
-        "ar": "هذا مثير للإعجاب. سنتواصل معك قريبًا إذا سارت الأمور جيدًا.",
-        "context": "تجعل الحدث معتمدًا على شرط مستقبلي."
+        "en": "That is impressive. We will contact you after the interview process.",
+        "ar": "هذا مثير للإعجاب. سنتواصل معك بعد عملية المقابلات.",
+        "context": "توضح أن التواصل سيكون بعد انتهاء المرحلة."
       },
       {
         "id": 5,
-        "en": "That is impressive. We will contact you soon later today.",
-        "ar": "هذا مثير للإعجاب. سنتواصل معك قريبًا لاحقًا اليوم.",
-        "context": "تربط الجملة بمستقبل قريب جدًا."
+        "en": "That is impressive, and we will contact you soon.",
+        "ar": "هذا مثير للإعجاب، وسنتواصل معك قريبًا.",
+        "context": "تجمع الجملتين في جملة واحدة بحرف العطف."
       },
       {
         "id": 6,
-        "en": "I think That is impressive. We will contact you soon.",
-        "ar": "أعتقد أن هذا مثير للإعجاب. سنتواصل معك قريبًا.",
-        "context": "تضيف معنى التوقع أو الاعتقاد."
+        "en": "That is impressive. Our team will contact you soon.",
+        "ar": "هذا مثير للإعجاب. سيتواصل معك فريقنا قريبًا.",
+        "context": "تجعل الجهة التي ستتواصل أكثر تحديدًا."
       },
       {
         "id": 7,
-        "en": "That is impressive. We will contact you soon, so get ready.",
-        "ar": "هذا مثير للإعجاب. سنتواصل معك قريبًا، لذا استعد.",
-        "context": "تضيف نتيجة أو استعدادًا لحدث مستقبلي."
+        "en": "That is impressive. We will contact you within a few days.",
+        "ar": "هذا مثير للإعجاب. سنتواصل معك خلال بضعة أيام.",
+        "context": "تحدد إطارًا زمنيًا أوضح بدل الاكتفاء بكلمة عامة."
       },
       {
         "id": 8,
-        "en": "Next week, That is impressive. We will contact you soon.",
-        "ar": "الأسبوع القادم، هذا مثير للإعجاب. سنتواصل معك قريبًا.",
-        "context": "تنقل الجملة إلى وقت مستقبلي أبعد قليلًا."
+        "en": "That sounds impressive. We will contact you soon.",
+        "ar": "يبدو هذا مثيرًا للإعجاب. سنتواصل معك قريبًا.",
+        "context": "تستخدم عندما تقيّم كلام الشخص أو شرحه بناءً على ما سمعته."
       },
       {
         "id": 9,
-        "en": "That is impressive. We will contact you soon when the time is right.",
-        "ar": "هذا مثير للإعجاب. سنتواصل معك قريبًا عندما يحين الوقت المناسب.",
-        "context": "تربط الحدث المستقبلي بوقت مناسب غير محدد."
+        "en": "That is impressive. We will contact you if we need more information.",
+        "ar": "هذا مثير للإعجاب. سنتواصل معك إذا احتجنا إلى مزيد من المعلومات.",
+        "context": "تربط التواصل بشرط محدد."
       },
       {
         "id": 10,
-        "en": "Before long, That is impressive. We will contact you soon.",
-        "ar": "بعد وقت قصير، هذا مثير للإعجاب. سنتواصل معك قريبًا.",
-        "context": "تضيف ظرفًا مستقبليًا عامًا."
+        "en": "That is impressive. We will contact you soon with the next steps.",
+        "ar": "هذا مثير للإعجاب. سنتواصل معك قريبًا بالخطوات التالية.",
+        "context": "توضح أن الرسالة القادمة ستشرح ما يجب فعله لاحقًا."
       }
     ]
   }

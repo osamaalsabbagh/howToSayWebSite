@@ -10,88 +10,95 @@
     "wordMeanings": [
       {
         "term": "I",
-        "description": "ضمير المتكلم."
+        "description": "ضمير المتكلم ويشير إلى الشخص الذي يتحدث."
       },
       {
         "term": "do",
-        "description": "فعل مساعد يُستعمل لتكوين النفي والسؤال في المضارع البسيط."
+        "description": "تساعد هنا على تكوين النفي في المضارع مع I."
       },
       {
         "term": "not",
-        "description": "أداة نفي."
+        "description": "كلمة نفي تجعل المعنى لا يعجبني أو لا أحبه."
       },
       {
         "term": "like",
-        "description": "فعل يدل على الإعجاب أو الميل."
+        "description": "يعجبني أو أحبه، وهنا تأتي منفية."
       },
       {
         "term": "it",
-        "description": "ضمير يعود على الشيء أو الجملة التي قيلت."
+        "description": "ضمير يشير إلى شيء معروف من السياق."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "I do not like it.",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "تستخدم الجملة المضارع البسيط للتعبير عن رأي أو شعور عام تجاه شيء، ويأتي do not قبل الفعل الأساسي لتكوين النفي."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "People often say, \"I do not like it\" in situations like this.",
-        "ar": "يقول الناس كثيرًا: \"لا يعجبني\" في مواقف كهذه.",
-        "context": "تستخدم الجملة بوصفها تركيبًا شائعًا في موقف مشابه."
+        "en": "I do not like this movie.",
+        "ar": "لا يعجبني هذا الفيلم.",
+        "context": "تقال عند التعبير عن عدم الإعجاب بفيلم."
       },
       {
         "id": 2,
-        "en": "You can say, \"I do not like it\" when this happens.",
-        "ar": "يمكنك أن تقول: \"لا يعجبني\" عندما يحدث هذا.",
-        "context": "توضح أن الجملة مناسبة في موقف متكرر."
+        "en": "She does not like tea.",
+        "ar": "هي لا تحب الشاي.",
+        "context": "تقال عند وصف تفضيل شخصي."
       },
       {
         "id": 3,
-        "en": "I heard someone say, \"I do not like it\".",
-        "ar": "سمعت شخصًا يقول: \"لا يعجبني\".",
-        "context": "تجعل الجملة جزءًا من كلام سمعته من شخص آخر."
+        "en": "I do not like this place.",
+        "ar": "لا يعجبني هذا المكان.",
+        "context": "تقال عند عدم الارتياح لمكان."
       },
       {
         "id": 4,
-        "en": "The teacher used the sentence, \"I do not like it\" in class.",
-        "ar": "استخدم المعلم الجملة: \"لا يعجبني\" في الصف.",
-        "context": "تستخدم الجملة مثالًا تعليميًا في الصف."
+        "en": "He does not like the plan.",
+        "ar": "هو لا يحب الخطة.",
+        "context": "تقال عند عدم موافقة شخص على خطة."
       },
       {
         "id": 5,
-        "en": "Many learners remember the sentence, \"I do not like it\" first.",
-        "ar": "يتذكر كثير من المتعلمين الجملة: \"لا يعجبني\" أولًا.",
-        "context": "تقدم الجملة بوصفها جملة تعليمية أساسية."
+        "en": "We do not like cold weather.",
+        "ar": "لا نحب الطقس البارد.",
+        "context": "تقال عن تفضيل عام في الطقس."
       },
       {
         "id": 6,
-        "en": "She said, \"I do not like it\" in a calm way.",
-        "ar": "قالت: \"لا يعجبني\" بطريقة هادئة.",
-        "context": "تجعل الجملة جزءًا من كلام مباشر في موقف عادي."
+        "en": "I do not like that sound.",
+        "ar": "لا يعجبني ذلك الصوت.",
+        "context": "تقال عند الانزعاج من صوت معين."
       },
       {
         "id": 7,
-        "en": "He repeated, \"I do not like it\" more than once.",
-        "ar": "ردد: \"لا يعجبني\" أكثر من مرة.",
-        "context": "تضيف معنى التكرار لنفس الجملة."
+        "en": "They do not like the new rule.",
+        "ar": "هم لا يحبون القاعدة الجديدة.",
+        "context": "تقال عند رفض مجموعة لتغيير جديد."
       },
       {
         "id": 8,
-        "en": "At the right moment, someone might say, \"I do not like it\".",
-        "ar": "في اللحظة المناسبة، قد يقول شخص ما: \"لا يعجبني\".",
-        "context": "توضح أن الجملة مرتبطة بتوقيت مناسب في السياق."
+        "en": "I do not like his answer.",
+        "ar": "لا تعجبني إجابته.",
+        "context": "تقال عند عدم الرضا عن رد شخص."
       },
       {
         "id": 9,
-        "en": "I wrote down the sentence, \"I do not like it\" so I would remember it.",
-        "ar": "كتبت الجملة: \"لا يعجبني\" حتى أتذكرها.",
-        "context": "تعطي مثالًا على حفظ الجملة أو مراجعتها."
+        "en": "My sister does not like fish.",
+        "ar": "أختي لا تحب السمك.",
+        "context": "تقال عن طعام لا يفضله شخص."
       },
       {
         "id": 10,
-        "en": "It is useful to know when to say, \"I do not like it\".",
-        "ar": "من المفيد أن تعرف متى تقول: \"لا يعجبني\".",
-        "context": "تركز على معرفة الوقت المناسب لاستخدام الجملة."
+        "en": "I do not like this color.",
+        "ar": "لا يعجبني هذا اللون.",
+        "context": "تقال عند التعبير عن عدم تفضيل لون."
       }
     ]
   }

@@ -10,71 +10,79 @@
     "wordMeanings": [
       {
         "term": "Excellent",
-        "description": "كلمة تقييم قوية جدًا تعني ممتاز."
+        "description": "ممتاز، وتقال للتعبير عن إعجاب قوي أو جودة عالية."
       }
     ],
-    "tense": null,
-    "tenseReason": "استُعملت كتعليق سريع وقوي لإظهار الإعجاب الكبير أو الامتياز.",
+    "grammarExplanations": [
+      {
+        "sentence": "Excellent.",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه كلمة وصفية قصيرة تستخدم وحدها للمدح أو الموافقة القوية، وليست جملة فعلية لها زمن مستقل."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "Excellent work today.",
-        "ar": "عمل ممتاز اليوم.",
-        "context": "تمدح أداء شخص بقوة."
+        "en": "Excellent work.",
+        "ar": "عمل ممتاز.",
+        "context": "تقال عند مدح نتيجة عمل شخص."
       },
       {
         "id": 2,
-        "en": "Your pronunciation is excellent.",
-        "ar": "نطقك ممتاز.",
-        "context": "تمدح مهارة معينة."
+        "en": "Excellent answer.",
+        "ar": "إجابة ممتازة.",
+        "context": "تقال عند الإعجاب بإجابة واضحة وصحيحة."
       },
       {
         "id": 3,
-        "en": "That is an excellent idea.",
-        "ar": "هذه فكرة ممتازة.",
-        "context": "تمدح اقتراحًا أو فكرة."
+        "en": "Excellent idea.",
+        "ar": "فكرة ممتازة.",
+        "context": "تقال عند الموافقة بقوة على اقتراح جيد."
       },
       {
         "id": 4,
-        "en": "Excellent, we are finished.",
-        "ar": "ممتاز، لقد انتهينا.",
-        "context": "تستقبل خبرًا بإيجابية قوية."
+        "en": "Excellent choice.",
+        "ar": "اختيار ممتاز.",
+        "context": "تقال عند مدح قرار أو اختيار."
       },
       {
         "id": 5,
-        "en": "She gave an excellent answer.",
-        "ar": "لقد قدمت إجابة ممتازة.",
-        "context": "تمدح جودة الإجابة."
+        "en": "Excellent service.",
+        "ar": "خدمة ممتازة.",
+        "context": "تقال عند الرضا الكبير عن خدمة مقدمة."
       },
       {
         "id": 6,
-        "en": "This is an excellent example.",
-        "ar": "هذا مثال ممتاز.",
-        "context": "تقيّم قيمة مثال أو مادة تعليمية."
+        "en": "Excellent progress.",
+        "ar": "تقدم ممتاز.",
+        "context": "تقال عند ملاحظة تحسن واضح."
       },
       {
         "id": 7,
-        "en": "Excellent job on the report.",
-        "ar": "عمل ممتاز في التقرير.",
-        "context": "تمدح إنجازًا مكتوبًا."
+        "en": "Excellent timing.",
+        "ar": "توقيت ممتاز.",
+        "context": "تقال عندما يحدث شيء في وقت مناسب جدًا."
       },
       {
         "id": 8,
-        "en": "The timing is excellent.",
-        "ar": "التوقيت ممتاز.",
-        "context": "تقيّم مناسبة الوقت أو القرار."
+        "en": "Excellent result.",
+        "ar": "نتيجة ممتازة.",
+        "context": "تقال بعد الحصول على نتيجة قوية."
       },
       {
         "id": 9,
-        "en": "You made excellent progress.",
-        "ar": "لقد أحرزت تقدمًا ممتازًا.",
-        "context": "تمدح التطور أو التحسن."
+        "en": "Excellent job today.",
+        "ar": "عمل ممتاز اليوم.",
+        "context": "تقال لشخص أدى عمله جيدًا خلال اليوم."
       },
       {
         "id": 10,
-        "en": "Excellent, now repeat the sentence.",
-        "ar": "ممتاز، كرر الآن الجملة.",
-        "context": "تمدح ثم تعطي خطوة تالية."
+        "en": "Excellent news.",
+        "ar": "أخبار ممتازة.",
+        "context": "تقال عند سماع خبر مفرح أو مفيد."
       }
     ]
   }

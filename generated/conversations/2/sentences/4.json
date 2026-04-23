@@ -14,7 +14,7 @@
       },
       {
         "term": "said",
-        "description": "صيغة الماضي من say وتعني قال."
+        "description": "فعل في الماضي يعني قال أو ذكر."
       },
       {
         "term": "something",
@@ -22,11 +22,11 @@
       },
       {
         "term": "about",
-        "description": "حرف جر أو ظرف يعني عن أو تقريبًا حسب السياق."
+        "description": "تعني عن أو بخصوص، وتربط الكلام بموضوع الطقس."
       },
       {
         "term": "bad",
-        "description": "صفة تعني الأحوال."
+        "description": "صفة تعني سيئ، وتصف هنا حالة الطقس."
       },
       {
         "term": "weather",
@@ -45,69 +45,76 @@
         "description": "اسم يعني مدينة."
       }
     ],
-    "tense": "الماضي البسيط",
-    "tenseEn": "Past Simple",
-    "tenseReason": "استُعمل الماضي البسيط لأن الجملة تتحدث عن حدث وقع في الماضي واكتمل هناك.",
+    "grammarExplanations": [
+      {
+        "sentence": "They said something about bad weather over the city.",
+        "explanation": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "استُعمل الماضي البسيط لأن الجملة تتحدث عن حدث وقع في الماضي واكتمل هناك."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "Yesterday, They said something about bad weather over the city.",
-        "ar": "أمس، قالوا شيئًا يتعلق بسوء الأحوال الجوية فوق المدينة.",
-        "context": "تضيف زمنًا ماضيًا واضحًا."
+        "en": "They said something about bad weather over the airport.",
+        "ar": "قالوا شيئًا يتعلق بسوء الأحوال الجوية فوق المطار.",
+        "context": "تستخدم عندما يكون سبب التأخير متعلقًا بمنطقة المطار."
       },
       {
         "id": 2,
-        "en": "They said something about bad weather over the city this morning.",
-        "ar": "قالوا شيئًا يتعلق بسوء الأحوال الجوية فوق المدينة هذا الصباح.",
-        "context": "تحدد وقتًا ماضيًا قريبًا."
+        "en": "They said something about strong wind over the city.",
+        "ar": "قالوا شيئًا يتعلق برياح قوية فوق المدينة.",
+        "context": "تحدد نوع المشكلة الجوية بشكل أوضح."
       },
       {
         "id": 3,
-        "en": "They said something about bad weather over the city after lunch.",
-        "ar": "قالوا شيئًا يتعلق بسوء الأحوال الجوية فوق المدينة بعد الغداء.",
-        "context": "تربط الحدث بوقت تالٍ لحدث آخر."
+        "en": "They said something about heavy rain over the city.",
+        "ar": "قالوا شيئًا يتعلق بأمطار غزيرة فوق المدينة.",
+        "context": "تذكر سببًا محتملًا لتأخر الطائرة."
       },
       {
         "id": 4,
-        "en": "They said something about bad weather over the city because it was necessary.",
-        "ar": "قالوا شيئًا يتعلق بسوء الأحوال الجوية فوق المدينة لأنه كان ضروريًا.",
-        "context": "تضيف سببًا لحدوث الفعل في الماضي."
+        "en": "They said something about bad weather near New York.",
+        "ar": "قالوا شيئًا يتعلق بسوء الأحوال الجوية قرب نيويورك.",
+        "context": "تستخدم عندما يكون الطقس السيئ قريبًا من الوجهة."
       },
       {
         "id": 5,
-        "en": "Earlier, They said something about bad weather over the city.",
-        "ar": "في وقت سابق، قالوا شيئًا يتعلق بسوء الأحوال الجوية فوق المدينة.",
-        "context": "تربط الحدث بفترة ماضية غير بعيدة."
+        "en": "They said something about bad weather on the route.",
+        "ar": "قالوا شيئًا يتعلق بسوء الأحوال الجوية على المسار.",
+        "context": "توضح أن المشكلة في طريق الرحلة وليس في المطار فقط."
       },
       {
         "id": 6,
-        "en": "They said something about bad weather over the city, and everyone noticed.",
-        "ar": "قالوا شيئًا يتعلق بسوء الأحوال الجوية فوق المدينة، والجميع لاحظ ذلك.",
-        "context": "تضيف نتيجة لما حدث في الماضي."
+        "en": "The announcement said something about bad weather over the city.",
+        "ar": "ذكر الإعلان شيئًا يتعلق بسوء الأحوال الجوية فوق المدينة.",
+        "context": "تحدد أن مصدر المعلومة كان إعلان المطار."
       },
       {
         "id": 7,
-        "en": "They said something about bad weather over the city before we left.",
-        "ar": "قالوا شيئًا يتعلق بسوء الأحوال الجوية فوق المدينة قبل أن نغادر.",
-        "context": "تربط الفعل الماضي بحدث ماضٍ آخر."
+        "en": "They said something about bad weather before boarding.",
+        "ar": "قالوا شيئًا يتعلق بسوء الأحوال الجوية قبل الصعود إلى الطائرة.",
+        "context": "تستخدم قبل الانتقال إلى الطائرة."
       },
       {
         "id": 8,
-        "en": "They said something about bad weather over the city during the trip.",
-        "ar": "قالوا شيئًا يتعلق بسوء الأحوال الجوية فوق المدينة أثناء الرحلة.",
-        "context": "تضع الحدث في إطار زمني أو مكاني محدد."
+        "en": "They said something about bad weather, but I did not hear the details.",
+        "ar": "قالوا شيئًا يتعلق بسوء الأحوال الجوية، لكنني لم أسمع التفاصيل.",
+        "context": "تستخدم عندما عرف المتكلم السبب العام فقط."
       },
       {
         "id": 9,
-        "en": "At that time, They said something about bad weather over the city.",
-        "ar": "في ذلك الوقت، قالوا شيئًا يتعلق بسوء الأحوال الجوية فوق المدينة.",
-        "context": "تجعل الجملة جزءًا من سرد ماضٍ."
+        "en": "They said something about bad weather over the city an hour ago.",
+        "ar": "قالوا شيئًا يتعلق بسوء الأحوال الجوية فوق المدينة قبل ساعة.",
+        "context": "تضيف وقت سماع المعلومة."
       },
       {
         "id": 10,
-        "en": "Soon after that, They said something about bad weather over the city.",
-        "ar": "بعد ذلك بقليل، قالوا شيئًا يتعلق بسوء الأحوال الجوية فوق المدينة.",
-        "context": "توضح ترتيب الحدث بعد شيء آخر في الماضي."
+        "en": "They said something about bad weather over the city, so the flight was delayed.",
+        "ar": "قالوا شيئًا يتعلق بسوء الأحوال الجوية فوق المدينة، لذلك تأخرت الرحلة.",
+        "context": "تربط سبب الطقس بنتيجة التأخير."
       }
     ]
   }

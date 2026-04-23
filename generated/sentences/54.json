@@ -10,80 +10,87 @@
     "wordMeanings": [
       {
         "term": "I",
-        "description": "ضمير المتكلم."
+        "description": "ضمير المتكلم ويشير إلى الشخص الذي يتحدث."
       },
       {
         "term": "am",
-        "description": "فعل be مع I ويُستعمل هنا مع learning لتكوين المضارع المستمر."
+        "description": "صيغة تأتي مع ضمير المتكلم المفرد وتربط الشخص بحالته."
       },
       {
         "term": "hungry",
-        "description": "صفة تعني جائع."
+        "description": "جائع أو يحتاج إلى الطعام."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "I am hungry.",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "تستخدم الجملة am مع صفة لوصف حالة المتكلم الحالية، وهي الشعور بالجوع."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "People often say, \"I am hungry\" in situations like this.",
-        "ar": "يقول الناس كثيرًا: \"أنا جائع\" في مواقف كهذه.",
-        "context": "تستخدم الجملة بوصفها تركيبًا شائعًا في موقف مشابه."
+        "en": "I am thirsty.",
+        "ar": "أنا عطشان.",
+        "context": "تقال عند الحاجة إلى شرب الماء."
       },
       {
         "id": 2,
-        "en": "You can say, \"I am hungry\" when this happens.",
-        "ar": "يمكنك أن تقول: \"أنا جائع\" عندما يحدث هذا.",
-        "context": "توضح أن الجملة مناسبة في موقف متكرر."
+        "en": "She is hungry after school.",
+        "ar": "هي جائعة بعد المدرسة.",
+        "context": "تقال عند وصف الجوع بعد يوم دراسي."
       },
       {
         "id": 3,
-        "en": "I heard someone say, \"I am hungry\".",
-        "ar": "سمعت شخصًا يقول: \"أنا جائع\".",
-        "context": "تجعل الجملة جزءًا من كلام سمعته من شخص آخر."
+        "en": "He is very hungry.",
+        "ar": "هو جائع جدًا.",
+        "context": "تقال عند التأكيد على شدة الجوع."
       },
       {
         "id": 4,
-        "en": "The teacher used the sentence, \"I am hungry\" in class.",
-        "ar": "استخدم المعلم الجملة: \"أنا جائع\" في الصف.",
-        "context": "تستخدم الجملة مثالًا تعليميًا في الصف."
+        "en": "We are hungry now.",
+        "ar": "نحن جائعون الآن.",
+        "context": "تقال عند رغبة مجموعة في الأكل."
       },
       {
         "id": 5,
-        "en": "Many learners remember the sentence, \"I am hungry\" first.",
-        "ar": "يتذكر كثير من المتعلمين الجملة: \"أنا جائع\" أولًا.",
-        "context": "تقدم الجملة بوصفها جملة تعليمية أساسية."
+        "en": "The child is hungry.",
+        "ar": "الطفل جائع.",
+        "context": "تقال عند ملاحظة حاجة طفل للطعام."
       },
       {
         "id": 6,
-        "en": "She said, \"I am hungry\" in a calm way.",
-        "ar": "قالت: \"أنا جائع\" بطريقة هادئة.",
-        "context": "تجعل الجملة جزءًا من كلام مباشر في موقف عادي."
+        "en": "I am not hungry.",
+        "ar": "أنا لست جائعًا.",
+        "context": "تقال عند عدم الرغبة في الطعام."
       },
       {
         "id": 7,
-        "en": "He repeated, \"I am hungry\" more than once.",
-        "ar": "ردد: \"أنا جائع\" أكثر من مرة.",
-        "context": "تضيف معنى التكرار لنفس الجملة."
+        "en": "They are hungry after work.",
+        "ar": "هم جائعون بعد العمل.",
+        "context": "تقال عند وصف الجوع بعد الدوام."
       },
       {
         "id": 8,
-        "en": "At the right moment, someone might say, \"I am hungry\".",
-        "ar": "في اللحظة المناسبة، قد يقول شخص ما: \"أنا جائع\".",
-        "context": "توضح أن الجملة مرتبطة بتوقيت مناسب في السياق."
+        "en": "My brother is hungry again.",
+        "ar": "أخي جائع مرة أخرى.",
+        "context": "تقال عند عودة الشعور بالجوع."
       },
       {
         "id": 9,
-        "en": "I wrote down the sentence, \"I am hungry\" so I would remember it.",
-        "ar": "كتبت الجملة: \"أنا جائع\" حتى أتذكرها.",
-        "context": "تعطي مثالًا على حفظ الجملة أو مراجعتها."
+        "en": "I am hungry for breakfast.",
+        "ar": "أنا جائع وأريد الفطور.",
+        "context": "تقال عند الرغبة في تناول وجبة الصباح."
       },
       {
         "id": 10,
-        "en": "It is useful to know when to say, \"I am hungry\".",
-        "ar": "من المفيد أن تعرف متى تقول: \"أنا جائع\".",
-        "context": "تركز على معرفة الوقت المناسب لاستخدام الجملة."
+        "en": "The baby is hungry.",
+        "ar": "الرضيع جائع.",
+        "context": "تقال عند حاجة رضيع للطعام."
       }
     ]
   }

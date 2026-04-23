@@ -10,88 +10,99 @@
     "wordMeanings": [
       {
         "term": "The",
-        "description": "أداة تعريف تشير إلى شيء معروف أو محدد."
+        "description": "أداة تشير إلى كتاب محدد معروف من السياق."
       },
       {
         "term": "book",
-        "description": "اسم يعني كتاب."
+        "description": "كتاب أو شيء للقراءة."
       },
       {
         "term": "is",
-        "description": "فعل be في الحاضر مع المفرد."
+        "description": "تربط الكتاب بمكانه الحالي."
       },
       {
         "term": "behind",
-        "description": "صفة تعني خلف."
+        "description": "خلف أو في الجهة الخلفية من شيء."
+      },
+      {
+        "term": "the",
+        "description": "أداة تشير إلى طاولة محددة."
       },
       {
         "term": "table",
-        "description": "اسم يعني طاولة."
+        "description": "طاولة أو منضدة."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "The book is behind the table.",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "تستخدم الجملة is لوصف مكان الكتاب الحالي، وbehind يوضح أنه في الجهة الخلفية من الطاولة."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "People often say, \"The book is behind the table\" in situations like this.",
-        "ar": "يقول الناس كثيرًا: \"الكتاب خلف الطاولة\" في مواقف كهذه.",
-        "context": "تستخدم الجملة بوصفها تركيبًا شائعًا في موقف مشابه."
+        "en": "The book is behind the table.",
+        "ar": "الكتاب خلف الطاولة.",
+        "context": "تقال عند تحديد مكان كتاب خلف طاولة."
       },
       {
         "id": 2,
-        "en": "You can say, \"The book is behind the table\" when this happens.",
-        "ar": "يمكنك أن تقول: \"الكتاب خلف الطاولة\" عندما يحدث هذا.",
-        "context": "توضح أن الجملة مناسبة في موقف متكرر."
+        "en": "The bag is behind the chair.",
+        "ar": "الحقيبة خلف الكرسي.",
+        "context": "تقال عند تحديد مكان حقيبة."
       },
       {
         "id": 3,
-        "en": "I heard someone say, \"The book is behind the table\".",
-        "ar": "سمعت شخصًا يقول: \"الكتاب خلف الطاولة\".",
-        "context": "تجعل الجملة جزءًا من كلام سمعته من شخص آخر."
+        "en": "The cat is behind the sofa.",
+        "ar": "القطة خلف الأريكة.",
+        "context": "تقال عند وصف مكان قطة مختبئة."
       },
       {
         "id": 4,
-        "en": "The teacher used the sentence, \"The book is behind the table\" in class.",
-        "ar": "استخدم المعلم الجملة: \"الكتاب خلف الطاولة\" في الصف.",
-        "context": "تستخدم الجملة مثالًا تعليميًا في الصف."
+        "en": "The keys are behind the door.",
+        "ar": "المفاتيح خلف الباب.",
+        "context": "تقال عند إرشاد شخص إلى مكان المفاتيح."
       },
       {
         "id": 5,
-        "en": "Many learners remember the sentence, \"The book is behind the table\" first.",
-        "ar": "يتذكر كثير من المتعلمين الجملة: \"الكتاب خلف الطاولة\" أولًا.",
-        "context": "تقدم الجملة بوصفها جملة تعليمية أساسية."
+        "en": "The hotel is behind the bank.",
+        "ar": "الفندق خلف البنك.",
+        "context": "تقال عند إعطاء اتجاهات."
       },
       {
         "id": 6,
-        "en": "She said, \"The book is behind the table\" in a calm way.",
-        "ar": "قالت: \"الكتاب خلف الطاولة\" بطريقة هادئة.",
-        "context": "تجعل الجملة جزءًا من كلام مباشر في موقف عادي."
+        "en": "Is the book behind the table?",
+        "ar": "هل الكتاب خلف الطاولة؟",
+        "context": "تستخدم للسؤال عن مكان كتاب."
       },
       {
         "id": 7,
-        "en": "He repeated, \"The book is behind the table\" more than once.",
-        "ar": "ردد: \"الكتاب خلف الطاولة\" أكثر من مرة.",
-        "context": "تضيف معنى التكرار لنفس الجملة."
+        "en": "The phone is behind the computer.",
+        "ar": "الهاتف خلف الحاسوب.",
+        "context": "تقال عند تحديد مكان هاتف."
       },
       {
         "id": 8,
-        "en": "At the right moment, someone might say, \"The book is behind the table\".",
-        "ar": "في اللحظة المناسبة، قد يقول شخص ما: \"الكتاب خلف الطاولة\".",
-        "context": "توضح أن الجملة مرتبطة بتوقيت مناسب في السياق."
+        "en": "The child is behind the tree.",
+        "ar": "الطفل خلف الشجرة.",
+        "context": "تقال عند وصف مكان طفل."
       },
       {
         "id": 9,
-        "en": "I wrote down the sentence, \"The book is behind the table\" so I would remember it.",
-        "ar": "كتبت الجملة: \"الكتاب خلف الطاولة\" حتى أتذكرها.",
-        "context": "تعطي مثالًا على حفظ الجملة أو مراجعتها."
+        "en": "The sign is behind the counter.",
+        "ar": "اللافتة خلف المنضدة.",
+        "context": "تقال عند تحديد مكان لافتة."
       },
       {
         "id": 10,
-        "en": "It is useful to know when to say, \"The book is behind the table\".",
-        "ar": "من المفيد أن تعرف متى تقول: \"الكتاب خلف الطاولة\".",
-        "context": "تركز على معرفة الوقت المناسب لاستخدام الجملة."
+        "en": "The box is behind the table.",
+        "ar": "الصندوق خلف الطاولة.",
+        "context": "تقال عند وصف مكان صندوق."
       }
     ]
   }

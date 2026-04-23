@@ -10,95 +10,107 @@
     "wordMeanings": [
       {
         "term": "Please",
-        "description": "تضيف اللطف إلى الطلب."
+        "description": "يرجى أو من فضلك، وتدل على طلب مهذب."
       },
       {
         "term": "enter",
-        "description": "فعل يعني يرجى."
+        "description": "ادخل، وهي صيغة رسمية أكثر من تعال إلى الداخل."
       },
       {
         "term": "the",
-        "description": "أداة تعريف تشير إلى شيء معروف أو محدد."
+        "description": "أداة تشير إلى مبنى محدد."
       },
       {
         "term": "building",
-        "description": "اسم يعني المبنى."
+        "description": "مبنى."
       },
       {
         "term": "through",
-        "description": "حرف جر يعني عبر أو من خلال."
+        "description": "من خلال أو عبر، وتحدد طريق الدخول."
+      },
+      {
+        "term": "the",
+        "description": "أداة تشير إلى باب محدد."
       },
       {
         "term": "main",
-        "description": "صفة تعني الرئيسي."
+        "description": "الرئيسي."
       },
       {
         "term": "door",
-        "description": "اسم يعني باب."
+        "description": "باب."
       }
     ],
-    "tense": null,
-    "tenseReason": "استُعمل هذا الأسلوب لأن الجملة تقدم طلبًا أو تعليمات مباشرة موجهة إلى شخص آخر، لذلك لا نضع لها هنا زمنًا فعليًا مستقلًا.",
+    "grammarExplanations": [
+      {
+        "sentence": "Please enter the building through the main door.",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه جملة أمر مهذبة ورسمية تعطي تعليمات دخول، والفعل يأتي بصيغته الأساسية ولا يحمل زمنًا مستقلًا."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "In this situation, people often say, \"Please enter the building through the main door\".",
-        "ar": "في هذا الموقف، يقول الناس كثيرًا: \"يرجى الدخول إلى المبنى من الباب الرئيسي\".",
-        "context": "توضح أن العبارة مناسبة في هذا النوع من المواقف."
+        "en": "Please enter the building through the main door.",
+        "ar": "يرجى الدخول إلى المبنى من الباب الرئيسي.",
+        "context": "تقال في تعليمات رسمية أو لافتة."
       },
       {
         "id": 2,
-        "en": "The teacher said, \"Please enter the building through the main door\" to the students.",
-        "ar": "قال المعلم للطلاب: \"يرجى الدخول إلى المبنى من الباب الرئيسي\".",
-        "context": "تستخدم الجملة كتعليمات أو توجيه مباشر."
+        "en": "Please enter through the front door.",
+        "ar": "يرجى الدخول من الباب الأمامي.",
+        "context": "تقال عند تحديد باب الدخول."
       },
       {
         "id": 3,
-        "en": "He told me, \"Please enter the building through the main door\" before we left.",
-        "ar": "قال لي: \"يرجى الدخول إلى المبنى من الباب الرئيسي\" قبل أن نغادر.",
-        "context": "تضع العبارة قبل حدث آخر."
+        "en": "Please enter through the side door.",
+        "ar": "يرجى الدخول من الباب الجانبي.",
+        "context": "تقال عند توجيه الزوار إلى مدخل جانبي."
       },
       {
         "id": 4,
-        "en": "She said, \"Please enter the building through the main door\" in a polite way.",
-        "ar": "قالت: \"يرجى الدخول إلى المبنى من الباب الرئيسي\" بطريقة مهذبة.",
-        "context": "تظهر أن العبارة يمكن أن تقال بلطف أو أدب."
+        "en": "Please enter the office quietly.",
+        "ar": "يرجى الدخول إلى المكتب بهدوء.",
+        "context": "تقال عند طلب دخول هادئ."
       },
       {
         "id": 5,
-        "en": "Someone shouted, \"Please enter the building through the main door\" when there was a problem.",
-        "ar": "صاح شخص ما: \"يرجى الدخول إلى المبنى من الباب الرئيسي\" عندما ظهرت مشكلة.",
-        "context": "تربط العبارة بموقف سريع أو طارئ."
+        "en": "Please enter your name on the form.",
+        "ar": "يرجى إدخال اسمك في النموذج.",
+        "context": "تقال في تعليمات مكتوبة للبيانات."
       },
       {
         "id": 6,
-        "en": "You can say, \"Please enter the building through the main door\" when you need a quick response.",
-        "ar": "يمكنك أن تقول: \"يرجى الدخول إلى المبنى من الباب الرئيسي\" عندما تحتاج إلى رد سريع.",
-        "context": "توضح أن العبارة مفيدة عند الحاجة إلى استجابة مباشرة."
+        "en": "Please enter the room one at a time.",
+        "ar": "يرجى دخول الغرفة واحدًا تلو الآخر.",
+        "context": "تقال عند تنظيم دخول أشخاص."
       },
       {
         "id": 7,
-        "en": "They repeated, \"Please enter the building through the main door\" more than once.",
-        "ar": "رددوا: \"يرجى الدخول إلى المبنى من الباب الرئيسي\" أكثر من مرة.",
-        "context": "تعطي مثالًا على تكرار العبارة."
+        "en": "Please use the main door.",
+        "ar": "يرجى استخدام الباب الرئيسي.",
+        "context": "تقال كتعليمات دخول مختصرة."
       },
       {
         "id": 8,
-        "en": "I heard him say, \"Please enter the building through the main door\" yesterday.",
-        "ar": "سمعته يقول: \"يرجى الدخول إلى المبنى من الباب الرئيسي\" أمس.",
-        "context": "تجعل العبارة جزءًا من موقف سمعته من شخص آخر."
+        "en": "Please enter after the bell.",
+        "ar": "يرجى الدخول بعد الجرس.",
+        "context": "تقال في مدرسة أو مكان رسمي."
       },
       {
         "id": 9,
-        "en": "Many learners remember the phrase, \"Please enter the building through the main door\".",
-        "ar": "يتذكر كثير من المتعلمين العبارة: \"يرجى الدخول إلى المبنى من الباب الرئيسي\".",
-        "context": "تقدم العبارة بوصفها عبارة سهلة التذكر."
+        "en": "Please enter the building from the left side.",
+        "ar": "يرجى الدخول إلى المبنى من الجهة اليسرى.",
+        "context": "تقال عند تحديد جهة الدخول."
       },
       {
         "id": 10,
-        "en": "At that moment, she said, \"Please enter the building through the main door\".",
-        "ar": "في تلك اللحظة، قالت: \"يرجى الدخول إلى المبنى من الباب الرئيسي\".",
-        "context": "تربط العبارة بلحظة معينة في السرد."
+        "en": "Please enter the building with your card.",
+        "ar": "يرجى دخول المبنى باستخدام بطاقتك.",
+        "context": "تقال عند الحاجة إلى بطاقة دخول."
       }
     ]
   }

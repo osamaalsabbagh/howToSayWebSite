@@ -10,11 +10,11 @@
     "wordMeanings": [
       {
         "term": "I",
-        "description": "ضمير المتكلم."
+        "description": "ضمير المتكلم المفرد."
       },
       {
         "term": "do",
-        "description": "فعل مساعد يُستعمل لتكوين النفي والسؤال في المضارع البسيط."
+        "description": "تساعد هنا في تكوين النفي مع الفعل."
       },
       {
         "term": "not",
@@ -22,72 +22,79 @@
       },
       {
         "term": "know",
-        "description": "فعل يعني يعرف أو يعلم."
+        "description": "أعرف أو أملك المعلومة."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط المنفي لأن المتكلم يصرّح بعدم امتلاك معرفة أو معلومة الآن أو بشكل عام.",
+    "grammarExplanations": [
+      {
+        "sentence": "I do not know.",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "الجملة تنفي معرفة المتكلم في الوقت الحالي باستخدام do not قبل الفعل."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
         "en": "I do not know the answer.",
-        "ar": "أنا لا أعرف الجواب.",
-        "context": "تعترف بعدم معرفة شيء."
+        "ar": "لا أعرف الإجابة.",
+        "context": "تقال عند عدم معرفة جواب."
       },
       {
         "id": 2,
-        "en": "I do not know where he lives.",
-        "ar": "أنا لا أعرف أين يعيش.",
-        "context": "تصرح بعدم معرفتك بمعلومة."
+        "en": "I do not know his name.",
+        "ar": "لا أعرف اسمه.",
+        "context": "تقال عند عدم معرفة اسم شخص."
       },
       {
         "id": 3,
-        "en": "I do not know what this word means.",
-        "ar": "أنا لا أعرف ماذا تعني هذه الكلمة.",
-        "context": "تعلن عدم فهم معنى كلمة."
+        "en": "I do not know where it is.",
+        "ar": "لا أعرف أين هو.",
+        "context": "تقال عند عدم معرفة مكان شيء."
       },
       {
         "id": 4,
-        "en": "I do not know her name.",
-        "ar": "أنا لا أعرف اسمها.",
-        "context": "تصرح بعدم معرفة اسم شخص."
+        "en": "She does not know the time.",
+        "ar": "هي لا تعرف الوقت.",
+        "context": "تصف عدم معرفة شخص آخر لمعلومة."
       },
       {
         "id": 5,
-        "en": "I do not know why he is late.",
-        "ar": "أنا لا أعرف لماذا هو متأخر.",
-        "context": "تعبر عن عدم معرفة السبب."
+        "en": "We do not know what happened.",
+        "ar": "لا نعرف ماذا حدث.",
+        "context": "تقال عند عدم فهم موقف."
       },
       {
         "id": 6,
-        "en": "I do not know how to start.",
-        "ar": "أنا لا أعرف كيف أبدأ.",
-        "context": "تعبر عن حيرة في الخطوة الأولى."
+        "en": "I do not know yet.",
+        "ar": "لا أعرف بعد.",
+        "context": "تقال عندما لم تتضح المعلومة حتى الآن."
       },
       {
         "id": 7,
-        "en": "I do not know if that is correct.",
-        "ar": "أنا لا أعرف إن كان ذلك صحيحًا.",
-        "context": "تعبر عن عدم اليقين."
+        "en": "He does not know the address.",
+        "ar": "هو لا يعرف العنوان.",
+        "context": "تصف عدم معرفة شخص بعنوان."
       },
       {
         "id": 8,
-        "en": "I do not know what to say.",
-        "ar": "أنا لا أعرف ماذا أقول.",
-        "context": "تعبر عن حيرة في الكلام."
+        "en": "I do not know why.",
+        "ar": "لا أعرف لماذا.",
+        "context": "تقال عند عدم معرفة السبب."
       },
       {
         "id": 9,
-        "en": "I do not know this place well.",
-        "ar": "أنا لا أعرف هذا المكان جيدًا.",
-        "context": "توضح ضعف معرفتك بمكان ما."
+        "en": "They do not know the result.",
+        "ar": "هم لا يعرفون النتيجة.",
+        "context": "تصف عدم معرفة مجموعة لنتيجة."
       },
       {
         "id": 10,
-        "en": "I do not know the difference yet.",
-        "ar": "أنا لا أعرف الفرق بعد.",
-        "context": "تعبر عن أنك لم تصل للفهم المطلوب بعد."
+        "en": "Do you know the answer?",
+        "ar": "هل تعرف الإجابة؟",
+        "context": "تُستخدم للسؤال عن معرفة شخص."
       }
     ]
   }

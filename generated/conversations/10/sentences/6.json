@@ -10,115 +10,131 @@
     "wordMeanings": [
       {
         "term": "We",
-        "description": "ضمير المتكلمين."
+        "description": "ضمير يشير إلى الموظف والزبون معًا."
       },
       {
         "term": "can",
-        "description": "فعل مساعد يدل هنا على القدرة أو الاستعداد لتلبية الطلب."
+        "description": "يدل على الإمكانية أو القدرة."
       },
       {
         "term": "see",
-        "description": "فعل يعني يرى."
+        "description": "تعني نرى أو نعاين."
       },
       {
         "term": "it",
-        "description": "ضمير يعود على الشيء أو الجملة التي قيلت."
+        "description": "ضمير يعود على الشقة."
       },
       {
         "term": "after",
-        "description": "ظرف أو حرف جر يعني بعد."
+        "description": "تعني بعد."
       },
       {
         "term": "two",
-        "description": "كلمة تدل على العدد اثنان."
+        "description": "العدد اثنان."
       },
       {
         "term": "hours",
-        "description": "اسم يعني ساعتين."
+        "description": "ساعات."
       },
       {
         "term": "Is",
-        "description": "فعل be في الحاضر مع المفرد."
+        "description": "صيغة تبدأ سؤالًا عن الحالة أو الملاءمة."
       },
       {
         "term": "that",
-        "description": "تشير إلى أمر أو خبر سبق ذكره."
+        "description": "يشير إلى الموعد المقترح بعد ساعتين."
       },
       {
         "term": "okay",
-        "description": "هنا تعني مقبول أو لا بأس به."
+        "description": "تعني مناسبًا أو مقبولًا."
       },
       {
         "term": "for",
-        "description": "حرف جر يعني لـ أو من أجل."
+        "description": "تعني بالنسبة إلى أو مناسبًا لـ."
       },
       {
         "term": "you",
-        "description": "الضمير الذي يعود على الشخص المخاطَب."
+        "description": "ضمير المخاطب، ويشير إلى الزبون."
       }
     ],
-    "tense": null,
-    "tenseReason": "استُعمل هذا التركيب لأنه سؤال يعتمد على فعل modal مثل can أو could أو would، لذلك لا نعامله هنا كزمن مستقل بل كصيغة سؤال وظيفية.",
+    "grammarExplanations": [
+      {
+        "sentence": "We can see it after two hours.",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "الجملة تستخدم can لاقتراح إمكانية معاينة الشقة بعد مدة محددة، لذلك تشرح كتركيب إمكانية لا كزمن مستقل."
+        }
+      },
+      {
+        "sentence": "Is that okay for you?",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُعمل المضارع البسيط للسؤال عن ملاءمة الموعد المقترح للزبون الآن."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "You can ask, \"We can see it after two hours. Is that okay for you?\" when you need information.",
-        "ar": "يمكنك أن تسأل: \"يمكننا رؤيتها بعد ساعتين. هل هذا مناسب لك؟\" عندما تحتاج إلى معلومة.",
-        "context": "تستعمل الجملة كسؤال مباشر للحصول على معلومة."
+        "en": "We can see it after one hour.",
+        "ar": "يمكننا رؤيتها بعد ساعة واحدة.",
+        "context": "تقترح موعد معاينة قريب."
       },
       {
         "id": 2,
-        "en": "Many people ask, \"We can see it after two hours. Is that okay for you?\" in this situation.",
-        "ar": "يسأل كثير من الناس: \"يمكننا رؤيتها بعد ساعتين. هل هذا مناسب لك؟\" في هذا الموقف.",
-        "context": "توضح أن هذا سؤال شائع في موقف مشابه."
+        "en": "Is that okay for you?",
+        "ar": "هل هذا مناسب لك؟",
+        "context": "تتأكد من قبول الشخص للاقتراح."
       },
       {
         "id": 3,
-        "en": "I asked, \"We can see it after two hours. Is that okay for you?\" because I was not sure.",
-        "ar": "سألت: \"يمكننا رؤيتها بعد ساعتين. هل هذا مناسب لك؟\" لأنني لم أكن متأكدًا.",
-        "context": "تضيف سببًا لطرح السؤال."
+        "en": "We can visit the apartment after lunch.",
+        "ar": "يمكننا زيارة الشقة بعد الغداء.",
+        "context": "تقترح وقتًا بعد وجبة."
       },
       {
         "id": 4,
-        "en": "She asked politely, \"We can see it after two hours. Is that okay for you?\"",
-        "ar": "سألت بأدب: \"يمكننا رؤيتها بعد ساعتين. هل هذا مناسب لك؟\".",
-        "context": "تبين أن السؤال قيل بطريقة مهذبة."
+        "en": "We can see it tomorrow morning.",
+        "ar": "يمكننا رؤيتها صباح الغد.",
+        "context": "تعرض موعدًا بديلًا."
       },
       {
         "id": 5,
-        "en": "At work, someone may ask, \"We can see it after two hours. Is that okay for you?\"",
-        "ar": "في العمل، قد يسأل شخص ما: \"يمكننا رؤيتها بعد ساعتين. هل هذا مناسب لك؟\".",
-        "context": "تضع السؤال في سياق مهني أو عملي."
+        "en": "Is two hours okay for you?",
+        "ar": "هل ساعتان مناسبتان لك؟",
+        "context": "تسأل عن مدة الانتظار."
       },
       {
         "id": 6,
-        "en": "Before deciding, ask: \"We can see it after two hours. Is that okay for you?\"",
-        "ar": "قبل أن تقرر، اسأل: \"يمكننا رؤيتها بعد ساعتين. هل هذا مناسب لك؟\".",
-        "context": "تستخدم السؤال قبل اتخاذ قرار."
+        "en": "We can meet after two hours.",
+        "ar": "يمكننا أن نلتقي بعد ساعتين.",
+        "context": "تحدد موعد لقاء لاحق."
       },
       {
         "id": 7,
-        "en": "The student asked, \"We can see it after two hours. Is that okay for you?\" in class.",
-        "ar": "سأل الطالب: \"يمكننا رؤيتها بعد ساعتين. هل هذا مناسب لك؟\" في الصف.",
-        "context": "تجعل الجملة جزءًا من موقف تعليمي."
+        "en": "Is that time okay for you?",
+        "ar": "هل ذلك الوقت مناسب لك؟",
+        "context": "تسأل عن ملاءمة الموعد."
       },
       {
         "id": 8,
-        "en": "While traveling, you can ask, \"We can see it after two hours. Is that okay for you?\"",
-        "ar": "أثناء السفر، يمكنك أن تسأل: \"يمكننا رؤيتها بعد ساعتين. هل هذا مناسب لك؟\".",
-        "context": "تربط السؤال بموقف السفر أو التنقل."
+        "en": "We can check the key after two hours.",
+        "ar": "يمكننا التحقق من المفتاح بعد ساعتين.",
+        "context": "تحدد وقتًا لإجراء متعلق بالمفتاح."
       },
       {
         "id": 9,
-        "en": "He asked me, \"We can see it after two hours. Is that okay for you?\" again.",
-        "ar": "سألني: \"يمكننا رؤيتها بعد ساعتين. هل هذا مناسب لك؟\" مرة أخرى.",
-        "context": "تضيف معنى التكرار لنفس السؤال."
+        "en": "We can see it when the owner arrives.",
+        "ar": "يمكننا رؤيتها عندما يصل المالك.",
+        "context": "تربط المعاينة بوصول المالك."
       },
       {
         "id": 10,
-        "en": "If you are not sure, ask: \"We can see it after two hours. Is that okay for you?\"",
-        "ar": "إذا لم تكن متأكدًا، فاسأل: \"يمكننا رؤيتها بعد ساعتين. هل هذا مناسب لك؟\".",
-        "context": "توضح أن السؤال مناسب عند عدم التأكد."
+        "en": "Is this plan okay for you?",
+        "ar": "هل هذه الخطة مناسبة لك؟",
+        "context": "تسأل عن قبول الخطة كاملة."
       }
     ]
   }

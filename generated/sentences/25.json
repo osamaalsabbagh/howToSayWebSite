@@ -10,100 +10,115 @@
     "wordMeanings": [
       {
         "term": "I",
-        "description": "ضمير المتكلم."
+        "description": "ضمير المتكلم ويشير إلى الشخص الذي يتحدث."
       },
       {
         "term": "do",
-        "description": "فعل مساعد يُستعمل لتكوين النفي والسؤال في المضارع البسيط."
+        "description": "تساعد هنا على تكوين النفي في المضارع مع I."
       },
       {
         "term": "not",
-        "description": "أداة نفي."
+        "description": "كلمة نفي تجعل المعنى لا أعرف."
       },
       {
         "term": "know",
-        "description": "فعل يعني يعرف أو يعلم."
+        "description": "أعرف أو أملك معرفة بشيء."
       },
       {
         "term": "how",
-        "description": "أداة سؤال."
+        "description": "تعني الطريقة أو الكيفية."
       },
       {
         "term": "to",
-        "description": "أداة تأتي قبل المصدر بعد أفعال مثل want."
+        "description": "تأتي قبل الفعل لربطه بكلمة how وبيان الطريقة."
       },
       {
         "term": "use",
-        "description": "فعل يعني يستخدم."
+        "description": "أستخدم أو أستعمل شيئًا."
       },
       {
         "term": "it",
-        "description": "ضمير يعود على الشيء أو الجملة التي قيلت."
+        "description": "ضمير يشير إلى شيء معروف من السياق."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "I do not know",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "تستخدم do not مع الفعل الأساسي للتعبير عن نفي معرفة حالية أو عامة عند المتكلم."
+        }
+      },
+      {
+        "sentence": "how to use it",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذا جزء يشرح الشيء غير المعروف، وهو طريقة استخدام شيء معين، ولا يحتوي على فعل مصرف بزمن مستقل."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "People often say, \"I do not know how to use it\" in situations like this.",
-        "ar": "يقول الناس كثيرًا: \"لا أعرف كيف أستخدمه\" في مواقف كهذه.",
-        "context": "تستخدم الجملة بوصفها تركيبًا شائعًا في موقف مشابه."
+        "en": "I do not know how to open it.",
+        "ar": "لا أعرف كيف أفتحه.",
+        "context": "تقال عند عدم معرفة طريقة فتح شيء."
       },
       {
         "id": 2,
-        "en": "You can say, \"I do not know how to use it\" when this happens.",
-        "ar": "يمكنك أن تقول: \"لا أعرف كيف أستخدمه\" عندما يحدث هذا.",
-        "context": "توضح أن الجملة مناسبة في موقف متكرر."
+        "en": "I do not know how to fix it.",
+        "ar": "لا أعرف كيف أصلحه.",
+        "context": "تقال عند عدم معرفة طريقة إصلاح شيء."
       },
       {
         "id": 3,
-        "en": "I heard someone say, \"I do not know how to use it\".",
-        "ar": "سمعت شخصًا يقول: \"لا أعرف كيف أستخدمه\".",
-        "context": "تجعل الجملة جزءًا من كلام سمعته من شخص آخر."
+        "en": "She does not know how to drive.",
+        "ar": "هي لا تعرف كيف تقود.",
+        "context": "تقال عند الحديث عن مهارة غير موجودة عند شخص."
       },
       {
         "id": 4,
-        "en": "The teacher used the sentence, \"I do not know how to use it\" in class.",
-        "ar": "استخدم المعلم الجملة: \"لا أعرف كيف أستخدمه\" في الصف.",
-        "context": "تستخدم الجملة مثالًا تعليميًا في الصف."
+        "en": "We do not know how to start.",
+        "ar": "لا نعرف كيف نبدأ.",
+        "context": "تقال عند الحيرة في بداية مهمة."
       },
       {
         "id": 5,
-        "en": "Many learners remember the sentence, \"I do not know how to use it\" first.",
-        "ar": "يتذكر كثير من المتعلمين الجملة: \"لا أعرف كيف أستخدمه\" أولًا.",
-        "context": "تقدم الجملة بوصفها جملة تعليمية أساسية."
+        "en": "He does not know how to cook rice.",
+        "ar": "هو لا يعرف كيف يطبخ الأرز.",
+        "context": "تقال عند عدم معرفة طريقة طبخ شيء."
       },
       {
         "id": 6,
-        "en": "She said, \"I do not know how to use it\" in a calm way.",
-        "ar": "قالت: \"لا أعرف كيف أستخدمه\" بطريقة هادئة.",
-        "context": "تجعل الجملة جزءًا من كلام مباشر في موقف عادي."
+        "en": "I do not know how to answer.",
+        "ar": "لا أعرف كيف أجيب.",
+        "context": "تقال عند عدم معرفة الرد المناسب."
       },
       {
         "id": 7,
-        "en": "He repeated, \"I do not know how to use it\" more than once.",
-        "ar": "ردد: \"لا أعرف كيف أستخدمه\" أكثر من مرة.",
-        "context": "تضيف معنى التكرار لنفس الجملة."
+        "en": "They do not know how to get there.",
+        "ar": "هم لا يعرفون كيف يصلون إلى هناك.",
+        "context": "تقال عند عدم معرفة الطريق."
       },
       {
         "id": 8,
-        "en": "At the right moment, someone might say, \"I do not know how to use it\".",
-        "ar": "في اللحظة المناسبة، قد يقول شخص ما: \"لا أعرف كيف أستخدمه\".",
-        "context": "توضح أن الجملة مرتبطة بتوقيت مناسب في السياق."
+        "en": "I do not know how to change the password.",
+        "ar": "لا أعرف كيف أغير كلمة المرور.",
+        "context": "تقال عند عدم معرفة خطوة تقنية."
       },
       {
         "id": 9,
-        "en": "I wrote down the sentence, \"I do not know how to use it\" so I would remember it.",
-        "ar": "كتبت الجملة: \"لا أعرف كيف أستخدمه\" حتى أتذكرها.",
-        "context": "تعطي مثالًا على حفظ الجملة أو مراجعتها."
+        "en": "My father does not know how to use this phone.",
+        "ar": "أبي لا يعرف كيف يستخدم هذا الهاتف.",
+        "context": "تقال عند صعوبة استخدام جهاز."
       },
       {
         "id": 10,
-        "en": "It is useful to know when to say, \"I do not know how to use it\".",
-        "ar": "من المفيد أن تعرف متى تقول: \"لا أعرف كيف أستخدمه\".",
-        "context": "تركز على معرفة الوقت المناسب لاستخدام الجملة."
+        "en": "I do not know how to explain it.",
+        "ar": "لا أعرف كيف أشرحه.",
+        "context": "تقال عند العجز عن توضيح شيء."
       }
     ]
   }

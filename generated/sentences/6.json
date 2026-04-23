@@ -10,80 +10,87 @@
     "wordMeanings": [
       {
         "term": "Everyone",
-        "description": "كل شخص / الجميع، وتعامل نحويًا كمفرد."
+        "description": "كل الناس أو جميع الموجودين."
       },
       {
         "term": "knows",
-        "description": "يعرف، مع s لأن الفاعل Everyone مفرد نحويًا."
+        "description": "يعرف أو لديه المعلومة."
       },
       {
         "term": "it",
-        "description": "الشيء أو الأمر المذكور."
+        "description": "ضمير يعود على الأمر أو الحقيقة المذكورة."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تتحدث عن حقيقة عامة أو شيء معروف على نطاق واسع.",
+    "grammarExplanations": [
+      {
+        "sentence": "Everyone knows it.",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "الجملة تعرض حقيقة عامة أو معلومة معروفة عند الجميع، لذلك استُخدم المضارع البسيط."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "Everyone knows his name.",
-        "ar": "الجميع يعرف اسمه.",
-        "context": "تذكر أن الشخص مشهور أو معروف."
+        "en": "Everyone knows the answer.",
+        "ar": "الجميع يعرف الإجابة.",
+        "context": "تقال عند الحديث عن معلومة واضحة."
       },
       {
         "id": 2,
-        "en": "Everyone knows that rule.",
-        "ar": "الجميع يعرف تلك القاعدة.",
-        "context": "تؤكد أن المعلومة مشهورة."
+        "en": "Everyone knows her name.",
+        "ar": "الجميع يعرف اسمها.",
+        "context": "تقال عن شخص معروف."
       },
       {
         "id": 3,
-        "en": "Everyone knows it is important.",
-        "ar": "الجميع يعرف أنه مهم.",
-        "context": "تتكلم عن أمر متفق عليه."
+        "en": "Everyone knows this rule.",
+        "ar": "الجميع يعرف هذه القاعدة.",
+        "context": "تقال عن قاعدة مشهورة."
       },
       {
         "id": 4,
-        "en": "Everyone knows this song.",
-        "ar": "الجميع يعرف هذه الأغنية.",
-        "context": "تذكر شيوع شيء ثقافي."
+        "en": "Everyone knows where it is.",
+        "ar": "الجميع يعرف أين هو.",
+        "context": "تقال عن مكان معروف."
       },
       {
         "id": 5,
-        "en": "Everyone knows she works hard.",
-        "ar": "الجميع يعرف أنها تعمل بجد.",
-        "context": "تذكر سمعة شخص معروفة."
+        "en": "Everyone knows that story.",
+        "ar": "الجميع يعرف تلك القصة.",
+        "context": "تقال عن قصة مشهورة."
       },
       {
         "id": 6,
-        "en": "Everyone knows that place.",
-        "ar": "الجميع يعرف ذلك المكان.",
-        "context": "تتكلم عن مكان مشهور."
+        "en": "Everyone knows the problem.",
+        "ar": "الجميع يعرف المشكلة.",
+        "context": "تقال عندما تكون المشكلة واضحة للجميع."
       },
       {
         "id": 7,
-        "en": "Everyone knows the answer now.",
-        "ar": "الجميع يعرف الجواب الآن.",
-        "context": "تتحدث عن معلومة أصبحت مشتركة."
+        "en": "Everyone knows him at school.",
+        "ar": "الجميع يعرفه في المدرسة.",
+        "context": "تقال عن شخص معروف في مكان معين."
       },
       {
         "id": 8,
-        "en": "Everyone knows he is right.",
-        "ar": "الجميع يعرف أنه على حق.",
-        "context": "تؤكد أن الرأي واضح أو متفق عليه."
+        "en": "Everyone knows it is important.",
+        "ar": "الجميع يعرف أنه مهم.",
+        "context": "تقال عن أهمية أمر واضح."
       },
       {
         "id": 9,
-        "en": "Everyone knows this is difficult at first.",
-        "ar": "الجميع يعرف أن هذا صعب في البداية.",
-        "context": "تذكر حقيقة عامة متفقًا عليها."
+        "en": "Everyone knows the way home.",
+        "ar": "الجميع يعرف الطريق إلى البيت.",
+        "context": "تقال عن طريق معروف."
       },
       {
         "id": 10,
-        "en": "Everyone knows her for her kindness.",
-        "ar": "الجميع يعرفها بلطفها.",
-        "context": "تتحدث عن صفة مشهورة في شخص."
+        "en": "Everyone knows what happened.",
+        "ar": "الجميع يعرف ما حدث.",
+        "context": "تقال عن حدث معروف للجميع."
       }
     ]
   }

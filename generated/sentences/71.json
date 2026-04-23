@@ -10,92 +10,99 @@
     "wordMeanings": [
       {
         "term": "It",
-        "description": "ضمير يعود على الشيء أو الجملة التي قيلت."
+        "description": "ضمير يشير إلى الشيء أو الطريق أو المسافة المقصودة."
       },
       {
         "term": "is",
-        "description": "فعل be في الحاضر مع المفرد."
+        "description": "صيغة تأتي مع المفرد وتربط الشيء بوصفه."
       },
       {
         "term": "longer",
-        "description": "صفة تعني إنه."
+        "description": "أطول، وتستخدم للمقارنة في الطول أو المسافة."
       },
       {
         "term": "than",
-        "description": "أداة تستعمل في المقارنة بعد الصفات المقارنة."
+        "description": "من، وتأتي بعد صيغة المقارنة لبيان الشيء المقارَن به."
       },
       {
         "term": "2",
-        "description": "رقم يدل على أطول."
+        "description": "العدد اثنان."
       },
       {
         "term": "miles",
-        "description": "اسم يعني ميلين."
+        "description": "أميال، وهي وحدة قياس للمسافة."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "It is longer than 2 miles.",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "تستخدم is لوصف طول الشيء الحالي، وتأتي longer than للمقارنة وإظهار أن المسافة تتجاوز ميلين."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "People often say, \"It is longer than 2 miles\" in situations like this.",
-        "ar": "يقول الناس كثيرًا: \"إنه أطول من ميلين\" في مواقف كهذه.",
-        "context": "تستخدم الجملة بوصفها تركيبًا شائعًا في موقف مشابه."
+        "en": "It is shorter than one mile.",
+        "ar": "إنه أقصر من ميل واحد.",
+        "context": "تقال عند وصف مسافة قصيرة."
       },
       {
         "id": 2,
-        "en": "You can say, \"It is longer than 2 miles\" when this happens.",
-        "ar": "يمكنك أن تقول: \"إنه أطول من ميلين\" عندما يحدث هذا.",
-        "context": "توضح أن الجملة مناسبة في موقف متكرر."
+        "en": "The road is longer than five miles.",
+        "ar": "الطريق أطول من خمسة أميال.",
+        "context": "تقال عند تقدير طول طريق."
       },
       {
         "id": 3,
-        "en": "I heard someone say, \"It is longer than 2 miles\".",
-        "ar": "سمعت شخصًا يقول: \"إنه أطول من ميلين\".",
-        "context": "تجعل الجملة جزءًا من كلام سمعته من شخص آخر."
+        "en": "This trip is longer than usual.",
+        "ar": "هذه الرحلة أطول من المعتاد.",
+        "context": "تقال عند مقارنة مدة أو مسافة رحلة."
       },
       {
         "id": 4,
-        "en": "The teacher used the sentence, \"It is longer than 2 miles\" in class.",
-        "ar": "استخدم المعلم الجملة: \"إنه أطول من ميلين\" في الصف.",
-        "context": "تستخدم الجملة مثالًا تعليميًا في الصف."
+        "en": "The bridge is longer than the old one.",
+        "ar": "الجسر أطول من الجسر القديم.",
+        "context": "تقال عند مقارنة جسرين."
       },
       {
         "id": 5,
-        "en": "Many learners remember the sentence, \"It is longer than 2 miles\" first.",
-        "ar": "يتذكر كثير من المتعلمين الجملة: \"إنه أطول من ميلين\" أولًا.",
-        "context": "تقدم الجملة بوصفها جملة تعليمية أساسية."
+        "en": "It is more than ten minutes away.",
+        "ar": "إنه يبعد أكثر من عشر دقائق.",
+        "context": "تقال عند وصف بعد مكان."
       },
       {
         "id": 6,
-        "en": "She said, \"It is longer than 2 miles\" in a calm way.",
-        "ar": "قالت: \"إنه أطول من ميلين\" بطريقة هادئة.",
-        "context": "تجعل الجملة جزءًا من كلام مباشر في موقف عادي."
+        "en": "The line is longer than I expected.",
+        "ar": "الطابور أطول مما توقعت.",
+        "context": "تقال عند رؤية طابور طويل."
       },
       {
         "id": 7,
-        "en": "He repeated, \"It is longer than 2 miles\" more than once.",
-        "ar": "ردد: \"إنه أطول من ميلين\" أكثر من مرة.",
-        "context": "تضيف معنى التكرار لنفس الجملة."
+        "en": "The walk is longer than two hours.",
+        "ar": "المشي أطول من ساعتين.",
+        "context": "تقال عند وصف مدة المشي."
       },
       {
         "id": 8,
-        "en": "At the right moment, someone might say, \"It is longer than 2 miles\".",
-        "ar": "في اللحظة المناسبة، قد يقول شخص ما: \"إنه أطول من ميلين\".",
-        "context": "توضح أن الجملة مرتبطة بتوقيت مناسب في السياق."
+        "en": "This street is longer than that street.",
+        "ar": "هذا الشارع أطول من ذلك الشارع.",
+        "context": "تقال عند مقارنة شارع بآخر."
       },
       {
         "id": 9,
-        "en": "I wrote down the sentence, \"It is longer than 2 miles\" so I would remember it.",
-        "ar": "كتبت الجملة: \"إنه أطول من ميلين\" حتى أتذكرها.",
-        "context": "تعطي مثالًا على حفظ الجملة أو مراجعتها."
+        "en": "The movie is longer than three hours.",
+        "ar": "الفيلم أطول من ثلاث ساعات.",
+        "context": "تقال عند وصف مدة فيلم."
       },
       {
         "id": 10,
-        "en": "It is useful to know when to say, \"It is longer than 2 miles\".",
-        "ar": "من المفيد أن تعرف متى تقول: \"إنه أطول من ميلين\".",
-        "context": "تركز على معرفة الوقت المناسب لاستخدام الجملة."
+        "en": "It is longer than the map shows.",
+        "ar": "إنه أطول مما تظهر الخريطة.",
+        "context": "تقال عند اختلاف المسافة الحقيقية عن الخريطة."
       }
     ]
   }

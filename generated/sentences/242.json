@@ -10,88 +10,95 @@
     "wordMeanings": [
       {
         "term": "I",
-        "description": "ضمير المتكلم."
+        "description": "أنا، وتشير إلى المتكلم."
       },
       {
         "term": "am",
-        "description": "فعل be مع I ويُستعمل هنا مع learning لتكوين المضارع المستمر."
+        "description": "صيغة تأتي مع أنا وتربط المتكلم بوصف أو حالة."
       },
       {
         "term": "26",
-        "description": "رقم يدل على عمري."
+        "description": "العدد ستة وعشرون."
       },
       {
         "term": "years",
-        "description": "اسم يعني ٢٦."
+        "description": "سنوات."
       },
       {
         "term": "old",
-        "description": "صفة تعني قديم أو كبير في السن حسب السياق."
+        "description": "بعمر، وتكمل التعبير عن العمر."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "I am 26 years old.",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "يستخدم فعل الربط في الحاضر للتعبير عن حالة حالية، وهي عمر المتكلم الآن."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "People often say, \"I am 26 years old\" in situations like this.",
-        "ar": "يقول الناس كثيرًا: \"عمري ٢٦ سنة\" في مواقف كهذه.",
-        "context": "تستخدم الجملة بوصفها تركيبًا شائعًا في موقف مشابه."
+        "en": "I am 26 years old.",
+        "ar": "عمري ٢٦ سنة.",
+        "context": "تقال عند الإخبار بالعمر."
       },
       {
         "id": 2,
-        "en": "You can say, \"I am 26 years old\" when this happens.",
-        "ar": "يمكنك أن تقول: \"عمري ٢٦ سنة\" عندما يحدث هذا.",
-        "context": "توضح أن الجملة مناسبة في موقف متكرر."
+        "en": "I am 30 years old.",
+        "ar": "عمري ٣٠ سنة.",
+        "context": "تقال عند ذكر عمر مختلف."
       },
       {
         "id": 3,
-        "en": "I heard someone say, \"I am 26 years old\".",
-        "ar": "سمعت شخصًا يقول: \"عمري ٢٦ سنة\".",
-        "context": "تجعل الجملة جزءًا من كلام سمعته من شخص آخر."
+        "en": "She is 26 years old.",
+        "ar": "عمرها ٢٦ سنة.",
+        "context": "تقال عند وصف عمر امرأة."
       },
       {
         "id": 4,
-        "en": "The teacher used the sentence, \"I am 26 years old\" in class.",
-        "ar": "استخدم المعلم الجملة: \"عمري ٢٦ سنة\" في الصف.",
-        "context": "تستخدم الجملة مثالًا تعليميًا في الصف."
+        "en": "He is 26 years old.",
+        "ar": "عمره ٢٦ سنة.",
+        "context": "تقال عند وصف عمر رجل."
       },
       {
         "id": 5,
-        "en": "Many learners remember the sentence, \"I am 26 years old\" first.",
-        "ar": "يتذكر كثير من المتعلمين الجملة: \"عمري ٢٦ سنة\" أولًا.",
-        "context": "تقدم الجملة بوصفها جملة تعليمية أساسية."
+        "en": "My brother is 20 years old.",
+        "ar": "عمر أخي ٢٠ سنة.",
+        "context": "تقال عند ذكر عمر الأخ."
       },
       {
         "id": 6,
-        "en": "She said, \"I am 26 years old\" in a calm way.",
-        "ar": "قالت: \"عمري ٢٦ سنة\" بطريقة هادئة.",
-        "context": "تجعل الجملة جزءًا من كلام مباشر في موقف عادي."
+        "en": "My daughter is five years old.",
+        "ar": "عمر ابنتي خمس سنوات.",
+        "context": "تقال عند وصف عمر طفلة."
       },
       {
         "id": 7,
-        "en": "He repeated, \"I am 26 years old\" more than once.",
-        "ar": "ردد: \"عمري ٢٦ سنة\" أكثر من مرة.",
-        "context": "تضيف معنى التكرار لنفس الجملة."
+        "en": "How old are you?",
+        "ar": "كم عمرك؟",
+        "context": "تقال عند السؤال عن عمر شخص."
       },
       {
         "id": 8,
-        "en": "At the right moment, someone might say, \"I am 26 years old\".",
-        "ar": "في اللحظة المناسبة، قد يقول شخص ما: \"عمري ٢٦ سنة\".",
-        "context": "توضح أن الجملة مرتبطة بتوقيت مناسب في السياق."
+        "en": "I am almost 26 years old.",
+        "ar": "أنا تقريبًا في السادسة والعشرين.",
+        "context": "تقال عندما يكون العمر قريبًا من رقم محدد."
       },
       {
         "id": 9,
-        "en": "I wrote down the sentence, \"I am 26 years old\" so I would remember it.",
-        "ar": "كتبت الجملة: \"عمري ٢٦ سنة\" حتى أتذكرها.",
-        "context": "تعطي مثالًا على حفظ الجملة أو مراجعتها."
+        "en": "I am 26 years old today.",
+        "ar": "أصبح عمري ٢٦ سنة اليوم.",
+        "context": "تقال في يوم عيد الميلاد."
       },
       {
         "id": 10,
-        "en": "It is useful to know when to say, \"I am 26 years old\".",
-        "ar": "من المفيد أن تعرف متى تقول: \"عمري ٢٦ سنة\".",
-        "context": "تركز على معرفة الوقت المناسب لاستخدام الجملة."
+        "en": "They are 26 years old.",
+        "ar": "أعمارهم ٢٦ سنة.",
+        "context": "تقال عند وصف عمر مجموعة أو شخصين."
       }
     ]
   }

@@ -10,88 +10,95 @@
     "wordMeanings": [
       {
         "term": "I",
-        "description": "ضمير المتكلم."
+        "description": "ضمير المتكلم ويشير إلى الشخص الذي يتحدث."
       },
       {
         "term": "am",
-        "description": "فعل be مع I ويُستعمل هنا مع learning لتكوين المضارع المستمر."
+        "description": "صيغة تأتي مع ضمير المتكلم المفرد وتربط الشخص بحالته."
       },
       {
         "term": "not",
-        "description": "أداة نفي."
+        "description": "كلمة نفي تجعل المعنى لست."
       },
       {
         "term": "ready",
-        "description": "صفة تعني مستعد أو جاهز."
+        "description": "مستعد أو جاهز لفعل شيء."
       },
       {
         "term": "yet",
-        "description": "كلمة ترتبط بمعنى لست."
+        "description": "بعد، وتدل على أن الحالة لم تحدث حتى الآن."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "I am not ready yet.",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "تستخدم الجملة am not مع صفة لنفي حالة حالية، وكلمة yet توضح أن الاستعداد لم يكتمل حتى الآن."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "People often say, \"I am not ready yet\" in situations like this.",
-        "ar": "يقول الناس كثيرًا: \"لست مستعدًا بعد\" في مواقف كهذه.",
-        "context": "تستخدم الجملة بوصفها تركيبًا شائعًا في موقف مشابه."
+        "en": "I am not finished yet.",
+        "ar": "لم أنته بعد.",
+        "context": "تقال عند الحاجة إلى وقت لإكمال عمل."
       },
       {
         "id": 2,
-        "en": "You can say, \"I am not ready yet\" when this happens.",
-        "ar": "يمكنك أن تقول: \"لست مستعدًا بعد\" عندما يحدث هذا.",
-        "context": "توضح أن الجملة مناسبة في موقف متكرر."
+        "en": "She is not ready yet.",
+        "ar": "هي ليست مستعدة بعد.",
+        "context": "تقال عند انتظار شخص لم يجهز بعد."
       },
       {
         "id": 3,
-        "en": "I heard someone say, \"I am not ready yet\".",
-        "ar": "سمعت شخصًا يقول: \"لست مستعدًا بعد\".",
-        "context": "تجعل الجملة جزءًا من كلام سمعته من شخص آخر."
+        "en": "We are not ready for the meeting yet.",
+        "ar": "نحن لسنا مستعدين للاجتماع بعد.",
+        "context": "تقال عند الحاجة إلى تحضير إضافي."
       },
       {
         "id": 4,
-        "en": "The teacher used the sentence, \"I am not ready yet\" in class.",
-        "ar": "استخدم المعلم الجملة: \"لست مستعدًا بعد\" في الصف.",
-        "context": "تستخدم الجملة مثالًا تعليميًا في الصف."
+        "en": "He is not here yet.",
+        "ar": "هو ليس هنا بعد.",
+        "context": "تقال عند انتظار وصول شخص."
       },
       {
         "id": 5,
-        "en": "Many learners remember the sentence, \"I am not ready yet\" first.",
-        "ar": "يتذكر كثير من المتعلمين الجملة: \"لست مستعدًا بعد\" أولًا.",
-        "context": "تقدم الجملة بوصفها جملة تعليمية أساسية."
+        "en": "The food is not ready yet.",
+        "ar": "الطعام ليس جاهزًا بعد.",
+        "context": "تقال عند انتظار اكتمال إعداد الطعام."
       },
       {
         "id": 6,
-        "en": "She said, \"I am not ready yet\" in a calm way.",
-        "ar": "قالت: \"لست مستعدًا بعد\" بطريقة هادئة.",
-        "context": "تجعل الجملة جزءًا من كلام مباشر في موقف عادي."
+        "en": "I am not sure yet.",
+        "ar": "أنا لست متأكدًا بعد.",
+        "context": "تقال عند عدم اتخاذ قرار أو عدم وضوح الأمر."
       },
       {
         "id": 7,
-        "en": "He repeated, \"I am not ready yet\" more than once.",
-        "ar": "ردد: \"لست مستعدًا بعد\" أكثر من مرة.",
-        "context": "تضيف معنى التكرار لنفس الجملة."
+        "en": "They are not prepared yet.",
+        "ar": "هم ليسوا مستعدين بعد.",
+        "context": "تقال عند عدم اكتمال الاستعداد لدى مجموعة."
       },
       {
         "id": 8,
-        "en": "At the right moment, someone might say, \"I am not ready yet\".",
-        "ar": "في اللحظة المناسبة، قد يقول شخص ما: \"لست مستعدًا بعد\".",
-        "context": "توضح أن الجملة مرتبطة بتوقيت مناسب في السياق."
+        "en": "My room is not clean yet.",
+        "ar": "غرفتي ليست نظيفة بعد.",
+        "context": "تقال عند عدم انتهاء التنظيف."
       },
       {
         "id": 9,
-        "en": "I wrote down the sentence, \"I am not ready yet\" so I would remember it.",
-        "ar": "كتبت الجملة: \"لست مستعدًا بعد\" حتى أتذكرها.",
-        "context": "تعطي مثالًا على حفظ الجملة أو مراجعتها."
+        "en": "I am not ready to leave yet.",
+        "ar": "لست مستعدًا للمغادرة بعد.",
+        "context": "تقال عند تأجيل الخروج قليلًا."
       },
       {
         "id": 10,
-        "en": "It is useful to know when to say, \"I am not ready yet\".",
-        "ar": "من المفيد أن تعرف متى تقول: \"لست مستعدًا بعد\".",
-        "context": "تركز على معرفة الوقت المناسب لاستخدام الجملة."
+        "en": "The report is not ready yet.",
+        "ar": "التقرير ليس جاهزًا بعد.",
+        "context": "تقال عند انتظار اكتمال تقرير."
       }
     ]
   }

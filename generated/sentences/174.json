@@ -10,79 +10,87 @@
     "wordMeanings": [
       {
         "term": "Go",
-        "description": "فعل يعني يذهب أو ينتقل من مكان إلى آخر."
+        "description": "اذهب أو تحرك في اتجاه معين."
       },
       {
         "term": "straight",
-        "description": "صفة تعني مباشرة."
+        "description": "مباشرة أو بدون انعطاف."
       },
       {
         "term": "ahead",
-        "description": "صفة تعني الأمام."
+        "description": "إلى الأمام في الاتجاه الذي تواجهه."
       }
     ],
-    "tense": null,
-    "tenseReason": "استُعمل هذا الأسلوب لأن الجملة تقدم طلبًا أو تعليمات مباشرة موجهة إلى شخص آخر، لذلك لا نضع لها هنا زمنًا فعليًا مستقلًا.",
+    "grammarExplanations": [
+      {
+        "sentence": "Go straight ahead.",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه جملة أمر تستخدم الفعل الأساسي في البداية لإعطاء اتجاه، ولا تصف حدثًا بزمن مستقل."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "In this situation, people often say, \"Go straight ahead\".",
-        "ar": "في هذا الموقف، يقول الناس كثيرًا: \"اذهب مباشرة إلى الأمام\".",
-        "context": "توضح أن العبارة مناسبة في هذا النوع من المواقف."
+        "en": "Go straight ahead.",
+        "ar": "اذهب مباشرة إلى الأمام.",
+        "context": "تقال عند إعطاء اتجاه بسيط."
       },
       {
         "id": 2,
-        "en": "The teacher said, \"Go straight ahead\" to the students.",
-        "ar": "قال المعلم للطلاب: \"اذهب مباشرة إلى الأمام\".",
-        "context": "تستخدم الجملة كتعليمات أو توجيه مباشر."
+        "en": "Go straight ahead to the corner.",
+        "ar": "اذهب مباشرة إلى الأمام حتى الزاوية.",
+        "context": "تقال عند توجيه شخص إلى زاوية الشارع."
       },
       {
         "id": 3,
-        "en": "He told me, \"Go straight ahead\" before we left.",
-        "ar": "قال لي: \"اذهب مباشرة إلى الأمام\" قبل أن نغادر.",
-        "context": "تضع العبارة قبل حدث آخر."
+        "en": "Go straight ahead and turn left.",
+        "ar": "اذهب مباشرة إلى الأمام ثم انعطف يسارًا.",
+        "context": "تقال عند إعطاء اتجاهين متتاليين."
       },
       {
         "id": 4,
-        "en": "She said, \"Go straight ahead\" in a polite way.",
-        "ar": "قالت: \"اذهب مباشرة إلى الأمام\" بطريقة مهذبة.",
-        "context": "تظهر أن العبارة يمكن أن تقال بلطف أو أدب."
+        "en": "Go straight ahead for two blocks.",
+        "ar": "اذهب مباشرة إلى الأمام لمسافة حيين.",
+        "context": "تقال عند تحديد مسافة قصيرة في المدينة."
       },
       {
         "id": 5,
-        "en": "Someone shouted, \"Go straight ahead\" when there was a problem.",
-        "ar": "صاح شخص ما: \"اذهب مباشرة إلى الأمام\" عندما ظهرت مشكلة.",
-        "context": "تربط العبارة بموقف سريع أو طارئ."
+        "en": "Go straight ahead until the light.",
+        "ar": "اذهب مباشرة إلى الأمام حتى الإشارة.",
+        "context": "تقال عند استخدام إشارة المرور كعلامة."
       },
       {
         "id": 6,
-        "en": "You can say, \"Go straight ahead\" when you need a quick response.",
-        "ar": "يمكنك أن تقول: \"اذهب مباشرة إلى الأمام\" عندما تحتاج إلى رد سريع.",
-        "context": "توضح أن العبارة مفيدة عند الحاجة إلى استجابة مباشرة."
+        "en": "Please go straight ahead.",
+        "ar": "من فضلك اذهب مباشرة إلى الأمام.",
+        "context": "تقال بطريقة مهذبة لإرشاد شخص."
       },
       {
         "id": 7,
-        "en": "They repeated, \"Go straight ahead\" more than once.",
-        "ar": "رددوا: \"اذهب مباشرة إلى الأمام\" أكثر من مرة.",
-        "context": "تعطي مثالًا على تكرار العبارة."
+        "en": "Go straight ahead through the gate.",
+        "ar": "اذهب مباشرة إلى الأمام عبر البوابة.",
+        "context": "تقال عند توجيه شخص داخل مبنى أو موقع."
       },
       {
         "id": 8,
-        "en": "I heard him say, \"Go straight ahead\" yesterday.",
-        "ar": "سمعته يقول: \"اذهب مباشرة إلى الأمام\" أمس.",
-        "context": "تجعل العبارة جزءًا من موقف سمعته من شخص آخر."
+        "en": "Go straight ahead to the desk.",
+        "ar": "اذهب مباشرة إلى الأمام إلى المكتب.",
+        "context": "تقال في استقبال أو مكتب خدمة."
       },
       {
         "id": 9,
-        "en": "Many learners remember the phrase, \"Go straight ahead\".",
-        "ar": "يتذكر كثير من المتعلمين العبارة: \"اذهب مباشرة إلى الأمام\".",
-        "context": "تقدم العبارة بوصفها عبارة سهلة التذكر."
+        "en": "Go straight ahead, then stop.",
+        "ar": "اذهب مباشرة إلى الأمام، ثم توقف.",
+        "context": "تقال عند إعطاء تعليمات قيادة أو حركة."
       },
       {
         "id": 10,
-        "en": "At that moment, she said, \"Go straight ahead\".",
-        "ar": "في تلك اللحظة، قالت: \"اذهب مباشرة إلى الأمام\".",
-        "context": "تربط العبارة بلحظة معينة في السرد."
+        "en": "Go straight ahead past the school.",
+        "ar": "اذهب مباشرة إلى الأمام بعد المدرسة.",
+        "context": "تقال عند استخدام المدرسة كعلامة طريق."
       }
     ]
   }

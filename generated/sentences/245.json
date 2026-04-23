@@ -10,80 +10,87 @@
     "wordMeanings": [
       {
         "term": "Is",
-        "description": "فعل be في الحاضر مع المفرد."
+        "description": "تأتي في بداية السؤال للسؤال عن حالة شيء في الحاضر."
       },
       {
         "term": "that",
-        "description": "تشير إلى أمر أو خبر سبق ذكره."
+        "description": "ذلك، وتشير إلى اقتراح أو ترتيب أو شيء قيل قبل قليل."
       },
       {
         "term": "okay",
-        "description": "هنا تعني مقبول أو لا بأس به."
+        "description": "مناسب أو مقبول أو لا مشكلة فيه."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "Is that okay?",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "يستخدم فعل الربط في الحاضر للسؤال عن قبول شيء أو مناسبته الآن."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "You can ask, \"Is that okay?\" when you need information.",
-        "ar": "يمكنك أن تسأل: \"هل ذلك مناسب؟\" عندما تحتاج إلى معلومة.",
-        "context": "تستعمل الجملة كسؤال مباشر للحصول على معلومة."
+        "en": "Is that okay?",
+        "ar": "هل ذلك مناسب؟",
+        "context": "تقال عند السؤال عن مدى قبول شيء."
       },
       {
         "id": 2,
-        "en": "Many people ask, \"Is that okay?\" in this situation.",
-        "ar": "يسأل كثير من الناس: \"هل ذلك مناسب؟\" في هذا الموقف.",
-        "context": "توضح أن هذا سؤال شائع في موقف مشابه."
+        "en": "Is this okay?",
+        "ar": "هل هذا مناسب؟",
+        "context": "تقال عند الإشارة إلى شيء قريب."
       },
       {
         "id": 3,
-        "en": "I asked, \"Is that okay?\" because I was not sure.",
-        "ar": "سألت: \"هل ذلك مناسب؟\" لأنني لم أكن متأكدًا.",
-        "context": "تضيف سببًا لطرح السؤال."
+        "en": "Is that okay with you?",
+        "ar": "هل ذلك مناسب لك؟",
+        "context": "تقال عند طلب موافقة شخص."
       },
       {
         "id": 4,
-        "en": "She asked politely, \"Is that okay?\"",
-        "ar": "سألت بأدب: \"هل ذلك مناسب؟\".",
-        "context": "تبين أن السؤال قيل بطريقة مهذبة."
+        "en": "Is tomorrow okay?",
+        "ar": "هل غدًا مناسب؟",
+        "context": "تقال عند اقتراح موعد."
       },
       {
         "id": 5,
-        "en": "At work, someone may ask, \"Is that okay?\"",
-        "ar": "في العمل، قد يسأل شخص ما: \"هل ذلك مناسب؟\".",
-        "context": "تضع السؤال في سياق مهني أو عملي."
+        "en": "Is five o'clock okay?",
+        "ar": "هل الساعة الخامسة مناسبة؟",
+        "context": "تقال عند اقتراح وقت."
       },
       {
         "id": 6,
-        "en": "Before deciding, ask: \"Is that okay?\"",
-        "ar": "قبل أن تقرر، اسأل: \"هل ذلك مناسب؟\".",
-        "context": "تستخدم السؤال قبل اتخاذ قرار."
+        "en": "Is cash okay?",
+        "ar": "هل الدفع نقدًا مناسب؟",
+        "context": "تقال عند السؤال عن طريقة دفع."
       },
       {
         "id": 7,
-        "en": "The student asked, \"Is that okay?\" in class.",
-        "ar": "سأل الطالب: \"هل ذلك مناسب؟\" في الصف.",
-        "context": "تجعل الجملة جزءًا من موقف تعليمي."
+        "en": "Is it okay if I call later?",
+        "ar": "هل من المناسب أن أتصل لاحقًا؟",
+        "context": "تقال عند طلب إذن للتواصل لاحقًا."
       },
       {
         "id": 8,
-        "en": "While traveling, you can ask, \"Is that okay?\"",
-        "ar": "أثناء السفر، يمكنك أن تسأل: \"هل ذلك مناسب؟\".",
-        "context": "تربط السؤال بموقف السفر أو التنقل."
+        "en": "Is it okay to wait here?",
+        "ar": "هل من المناسب الانتظار هنا؟",
+        "context": "تقال عند طلب إذن للانتظار."
       },
       {
         "id": 9,
-        "en": "He asked me, \"Is that okay?\" again.",
-        "ar": "سألني: \"هل ذلك مناسب؟\" مرة أخرى.",
-        "context": "تضيف معنى التكرار لنفس السؤال."
+        "en": "That is okay.",
+        "ar": "ذلك مناسب.",
+        "context": "تقال عند قبول اقتراح أو ترتيب."
       },
       {
         "id": 10,
-        "en": "If you are not sure, ask: \"Is that okay?\"",
-        "ar": "إذا لم تكن متأكدًا، فاسأل: \"هل ذلك مناسب؟\".",
-        "context": "توضح أن السؤال مناسب عند عدم التأكد."
+        "en": "That is not okay.",
+        "ar": "ذلك غير مناسب.",
+        "context": "تقال عند رفض شيء أو الاعتراض عليه."
       }
     ]
   }

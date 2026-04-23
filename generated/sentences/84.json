@@ -10,75 +10,83 @@
     "wordMeanings": [
       {
         "term": "Never",
-        "description": "ظرف يعني أبدًا مع النفي المعنوي."
+        "description": "تأتي هنا داخل تعبير يعني تجاهل الأمر أو لا تهتم به."
       },
       {
         "term": "mind",
-        "description": "فعل يعني عليك."
+        "description": "تهتم أو تنشغل بالأمر داخل هذا التعبير."
       }
     ],
-    "tense": null,
-    "tenseReason": "استُعمل هذا التعبير لأنه عبارة ثابتة أو رد قصير يُستخدم في موقف محدد، وليس جملة فعلية كاملة بزمن واضح.",
+    "grammarExplanations": [
+      {
+        "sentence": "Never mind.",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذا تعبير ثابت يطلب من شخص تجاهل الأمر أو عدم القلق بشأنه، ولا يحمل زمنًا مستقلًا."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "In this situation, people often say, \"Never mind\".",
-        "ar": "في هذا الموقف، يقول الناس كثيرًا: \"لا عليك\".",
-        "context": "توضح أن العبارة مناسبة في هذا النوع من المواقف."
+        "en": "Never mind, I found it.",
+        "ar": "لا عليك، وجدته.",
+        "context": "تقال عندما لا تعود المساعدة مطلوبة."
       },
       {
         "id": 2,
-        "en": "The teacher said, \"Never mind\" to the students.",
-        "ar": "قال المعلم للطلاب: \"لا عليك\".",
-        "context": "تستخدم الجملة كتعليمات أو توجيه مباشر."
+        "en": "Never mind, it is not important.",
+        "ar": "لا عليك، الأمر ليس مهمًا.",
+        "context": "تقال عند تقليل أهمية موضوع."
       },
       {
         "id": 3,
-        "en": "He told me, \"Never mind\" before we left.",
-        "ar": "قال لي: \"لا عليك\" قبل أن نغادر.",
-        "context": "تضع العبارة قبل حدث آخر."
+        "en": "Please ignore that message.",
+        "ar": "من فضلك تجاهل تلك الرسالة.",
+        "context": "تقال عند إرسال شيء بالخطأ أو تغيير الرأي."
       },
       {
         "id": 4,
-        "en": "She said, \"Never mind\" in a polite way.",
-        "ar": "قالت: \"لا عليك\" بطريقة مهذبة.",
-        "context": "تظهر أن العبارة يمكن أن تقال بلطف أو أدب."
+        "en": "Do not worry about it.",
+        "ar": "لا تقلق بشأنه.",
+        "context": "تقال لطمأنة شخص بشأن أمر بسيط."
       },
       {
         "id": 5,
-        "en": "Someone shouted, \"Never mind\" when there was a problem.",
-        "ar": "صاح شخص ما: \"لا عليك\" عندما ظهرت مشكلة.",
-        "context": "تربط العبارة بموقف سريع أو طارئ."
+        "en": "Forget what I said.",
+        "ar": "انس ما قلته.",
+        "context": "تقال عند التراجع عن كلام سابق."
       },
       {
         "id": 6,
-        "en": "You can say, \"Never mind\" when you need a quick response.",
-        "ar": "يمكنك أن تقول: \"لا عليك\" عندما تحتاج إلى رد سريع.",
-        "context": "توضح أن العبارة مفيدة عند الحاجة إلى استجابة مباشرة."
+        "en": "Never mind, I can do it.",
+        "ar": "لا عليك، أستطيع فعل ذلك.",
+        "context": "تقال عند عدم الحاجة إلى مساعدة."
       },
       {
         "id": 7,
-        "en": "They repeated, \"Never mind\" more than once.",
-        "ar": "رددوا: \"لا عليك\" أكثر من مرة.",
-        "context": "تعطي مثالًا على تكرار العبارة."
+        "en": "Never mind, we can wait.",
+        "ar": "لا عليك، يمكننا الانتظار.",
+        "context": "تقال عند إلغاء الاستعجال أو الضغط."
       },
       {
         "id": 8,
-        "en": "I heard him say, \"Never mind\" yesterday.",
-        "ar": "سمعته يقول: \"لا عليك\" أمس.",
-        "context": "تجعل العبارة جزءًا من موقف سمعته من شخص آخر."
+        "en": "It is okay, never mind.",
+        "ar": "لا بأس، لا عليك.",
+        "context": "تقال لتخفيف أثر خطأ بسيط."
       },
       {
         "id": 9,
-        "en": "Many learners remember the phrase, \"Never mind\".",
-        "ar": "يتذكر كثير من المتعلمين العبارة: \"لا عليك\".",
-        "context": "تقدم العبارة بوصفها عبارة سهلة التذكر."
+        "en": "Never mind the price for now.",
+        "ar": "لا تهتم بالسعر الآن.",
+        "context": "تقال عند تأجيل الحديث عن التكلفة."
       },
       {
         "id": 10,
-        "en": "At that moment, she said, \"Never mind\".",
-        "ar": "في تلك اللحظة، قالت: \"لا عليك\".",
-        "context": "تربط العبارة بلحظة معينة في السرد."
+        "en": "Never mind, let us continue.",
+        "ar": "لا عليك، دعنا نكمل.",
+        "context": "تقال عند تجاوز موضوع جانبي."
       }
     ]
   }

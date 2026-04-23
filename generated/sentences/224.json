@@ -10,88 +10,95 @@
     "wordMeanings": [
       {
         "term": "Do",
-        "description": "فعل مساعد يُستعمل لتكوين النفي والسؤال في المضارع البسيط."
+        "description": "تأتي في بداية السؤال مع المخاطب لتكوين سؤال في الحاضر."
       },
       {
         "term": "you",
-        "description": "الضمير الذي يعود على الشخص المخاطَب."
+        "description": "أنت أو أنتم، وتشير إلى الشخص أو المكان المسؤول عن الشيء."
       },
       {
         "term": "have",
-        "description": "فعل يعني يملك، ويأتي أيضًا كفعل مساعد."
+        "description": "لديك أو يتوفر عندك."
       },
       {
         "term": "any",
-        "description": "كلمة تعني أي أو بعض حسب السياق."
+        "description": "أي كمية، وتستخدم غالبًا في السؤال عن وجود شيء."
       },
       {
         "term": "coffee",
-        "description": "اسم يعني قهوة."
+        "description": "قهوة."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "Do you have any coffee?",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "يستخدم المضارع البسيط للسؤال عن توفر القهوة الآن أو بشكل عام، وكلمة أي تناسب السؤال عن وجود كمية غير محددة."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "You can ask, \"Do you have any coffee?\" when you need information.",
-        "ar": "يمكنك أن تسأل: \"هل لديك أي قهوة؟\" عندما تحتاج إلى معلومة.",
-        "context": "تستعمل الجملة كسؤال مباشر للحصول على معلومة."
+        "en": "Do you have any coffee?",
+        "ar": "هل لديك أي قهوة؟",
+        "context": "تقال عند السؤال عن توفر القهوة."
       },
       {
         "id": 2,
-        "en": "Many people ask, \"Do you have any coffee?\" in this situation.",
-        "ar": "يسأل كثير من الناس: \"هل لديك أي قهوة؟\" في هذا الموقف.",
-        "context": "توضح أن هذا سؤال شائع في موقف مشابه."
+        "en": "Do you have any tea?",
+        "ar": "هل لديك أي شاي؟",
+        "context": "تقال عند السؤال عن توفر الشاي."
       },
       {
         "id": 3,
-        "en": "I asked, \"Do you have any coffee?\" because I was not sure.",
-        "ar": "سألت: \"هل لديك أي قهوة؟\" لأنني لم أكن متأكدًا.",
-        "context": "تضيف سببًا لطرح السؤال."
+        "en": "Do you have any water?",
+        "ar": "هل لديك أي ماء؟",
+        "context": "تقال عند طلب معرفة توفر الماء."
       },
       {
         "id": 4,
-        "en": "She asked politely, \"Do you have any coffee?\"",
-        "ar": "سألت بأدب: \"هل لديك أي قهوة؟\".",
-        "context": "تبين أن السؤال قيل بطريقة مهذبة."
+        "en": "Do you have any sugar?",
+        "ar": "هل لديك أي سكر؟",
+        "context": "تقال عند الحاجة إلى سكر."
       },
       {
         "id": 5,
-        "en": "At work, someone may ask, \"Do you have any coffee?\"",
-        "ar": "في العمل، قد يسأل شخص ما: \"هل لديك أي قهوة؟\".",
-        "context": "تضع السؤال في سياق مهني أو عملي."
+        "en": "Do you have any milk?",
+        "ar": "هل لديك أي حليب؟",
+        "context": "تقال عند السؤال عن توفر الحليب."
       },
       {
         "id": 6,
-        "en": "Before deciding, ask: \"Do you have any coffee?\"",
-        "ar": "قبل أن تقرر، اسأل: \"هل لديك أي قهوة؟\".",
-        "context": "تستخدم السؤال قبل اتخاذ قرار."
+        "en": "Do you have any decaf coffee?",
+        "ar": "هل لديك أي قهوة منزوعة الكافيين؟",
+        "context": "تقال عند طلب نوع محدد من القهوة."
       },
       {
         "id": 7,
-        "en": "The student asked, \"Do you have any coffee?\" in class.",
-        "ar": "سأل الطالب: \"هل لديك أي قهوة؟\" في الصف.",
-        "context": "تجعل الجملة جزءًا من موقف تعليمي."
+        "en": "Do you have any hot coffee?",
+        "ar": "هل لديك أي قهوة ساخنة؟",
+        "context": "تقال عند السؤال عن قهوة جاهزة."
       },
       {
         "id": 8,
-        "en": "While traveling, you can ask, \"Do you have any coffee?\"",
-        "ar": "أثناء السفر، يمكنك أن تسأل: \"هل لديك أي قهوة؟\".",
-        "context": "تربط السؤال بموقف السفر أو التنقل."
+        "en": "Do you have any coffee left?",
+        "ar": "هل بقي لديك أي قهوة؟",
+        "context": "تقال عند احتمال نفاد القهوة."
       },
       {
         "id": 9,
-        "en": "He asked me, \"Do you have any coffee?\" again.",
-        "ar": "سألني: \"هل لديك أي قهوة؟\" مرة أخرى.",
-        "context": "تضيف معنى التكرار لنفس السؤال."
+        "en": "Do you have any coffee in the room?",
+        "ar": "هل لديك أي قهوة في الغرفة؟",
+        "context": "تقال عند السؤال عن توفر القهوة في مكان محدد."
       },
       {
         "id": 10,
-        "en": "If you are not sure, ask: \"Do you have any coffee?\"",
-        "ar": "إذا لم تكن متأكدًا، فاسأل: \"هل لديك أي قهوة؟\".",
-        "context": "توضح أن السؤال مناسب عند عدم التأكد."
+        "en": "Do you have any coffee for guests?",
+        "ar": "هل لديك أي قهوة للضيوف؟",
+        "context": "تقال عند تجهيز ضيافة."
       }
     ]
   }

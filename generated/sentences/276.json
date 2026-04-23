@@ -10,92 +10,99 @@
     "wordMeanings": [
       {
         "term": "It",
-        "description": "ضمير يعود على الشيء أو الجملة التي قيلت."
+        "description": "يشير إلى الشيء أو السعر المقصود."
       },
       {
         "term": "is",
-        "description": "فعل be في الحاضر مع المفرد."
+        "description": "تربط الشيء بوصف سعره."
       },
       {
         "term": "less",
-        "description": "كلمة تدل على كمية أو درجة أقل."
+        "description": "أقل."
       },
       {
         "term": "than",
-        "description": "أداة تستعمل في المقارنة بعد الصفات المقارنة."
+        "description": "من، وتستخدم للمقارنة."
       },
       {
         "term": "5",
-        "description": "رقم يدل على خمسة."
+        "description": "العدد خمسة."
       },
       {
         "term": "dollars",
-        "description": "اسم يعني دولارات."
+        "description": "دولارات، وهي عملة."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "It is less than 5 dollars.",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "تستخدم الجملة فعل الربط في الحاضر لوصف السعر، وتركيب less than يقارن السعر بحد معين."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "People often say, \"It is less than 5 dollars\" in situations like this.",
-        "ar": "يقول الناس كثيرًا: \"إنه أقل من خمسة دولارات\" في مواقف كهذه.",
-        "context": "تستخدم الجملة بوصفها تركيبًا شائعًا في موقف مشابه."
+        "en": "It is less than 5 dollars.",
+        "ar": "إنه أقل من خمسة دولارات.",
+        "context": "تقال عند توضيح أن السعر تحت خمسة دولارات."
       },
       {
         "id": 2,
-        "en": "You can say, \"It is less than 5 dollars\" when this happens.",
-        "ar": "يمكنك أن تقول: \"إنه أقل من خمسة دولارات\" عندما يحدث هذا.",
-        "context": "توضح أن الجملة مناسبة في موقف متكرر."
+        "en": "It is less than 10 dollars.",
+        "ar": "إنه أقل من عشرة دولارات.",
+        "context": "تقال عند مقارنة السعر بعشرة دولارات."
       },
       {
         "id": 3,
-        "en": "I heard someone say, \"It is less than 5 dollars\".",
-        "ar": "سمعت شخصًا يقول: \"إنه أقل من خمسة دولارات\".",
-        "context": "تجعل الجملة جزءًا من كلام سمعته من شخص آخر."
+        "en": "The ticket is less than 5 dollars.",
+        "ar": "التذكرة أقل من خمسة دولارات.",
+        "context": "تقال عند ذكر سعر تذكرة رخيصة."
       },
       {
         "id": 4,
-        "en": "The teacher used the sentence, \"It is less than 5 dollars\" in class.",
-        "ar": "استخدم المعلم الجملة: \"إنه أقل من خمسة دولارات\" في الصف.",
-        "context": "تستخدم الجملة مثالًا تعليميًا في الصف."
+        "en": "This snack is less than 5 dollars.",
+        "ar": "هذه الوجبة الخفيفة أقل من خمسة دولارات.",
+        "context": "تقال عند وصف سعر طعام خفيف."
       },
       {
         "id": 5,
-        "en": "Many learners remember the sentence, \"It is less than 5 dollars\" first.",
-        "ar": "يتذكر كثير من المتعلمين الجملة: \"إنه أقل من خمسة دولارات\" أولًا.",
-        "context": "تقدم الجملة بوصفها جملة تعليمية أساسية."
+        "en": "It costs less than 5 dollars.",
+        "ar": "يكلف أقل من خمسة دولارات.",
+        "context": "تقال بصيغة أخرى لذكر السعر."
       },
       {
         "id": 6,
-        "en": "She said, \"It is less than 5 dollars\" in a calm way.",
-        "ar": "قالت: \"إنه أقل من خمسة دولارات\" بطريقة هادئة.",
-        "context": "تجعل الجملة جزءًا من كلام مباشر في موقف عادي."
+        "en": "It is a little less than 5 dollars.",
+        "ar": "إنه أقل قليلًا من خمسة دولارات.",
+        "context": "تقال عند توضيح أن الفرق بسيط."
       },
       {
         "id": 7,
-        "en": "He repeated, \"It is less than 5 dollars\" more than once.",
-        "ar": "ردد: \"إنه أقل من خمسة دولارات\" أكثر من مرة.",
-        "context": "تضيف معنى التكرار لنفس الجملة."
+        "en": "Everything here is less than 5 dollars.",
+        "ar": "كل شيء هنا أقل من خمسة دولارات.",
+        "context": "تقال عند وصف أسعار مكان كامل."
       },
       {
         "id": 8,
-        "en": "At the right moment, someone might say, \"It is less than 5 dollars\".",
-        "ar": "في اللحظة المناسبة، قد يقول شخص ما: \"إنه أقل من خمسة دولارات\".",
-        "context": "توضح أن الجملة مرتبطة بتوقيت مناسب في السياق."
+        "en": "That book is less than 5 dollars.",
+        "ar": "ذلك الكتاب أقل من خمسة دولارات.",
+        "context": "تقال عند ذكر سعر كتاب."
       },
       {
         "id": 9,
-        "en": "I wrote down the sentence, \"It is less than 5 dollars\" so I would remember it.",
-        "ar": "كتبت الجملة: \"إنه أقل من خمسة دولارات\" حتى أتذكرها.",
-        "context": "تعطي مثالًا على حفظ الجملة أو مراجعتها."
+        "en": "It is less than 5 dollars per person.",
+        "ar": "إنه أقل من خمسة دولارات للشخص الواحد.",
+        "context": "تقال عند حساب تكلفة لكل شخص."
       },
       {
         "id": 10,
-        "en": "It is useful to know when to say, \"It is less than 5 dollars\".",
-        "ar": "من المفيد أن تعرف متى تقول: \"إنه أقل من خمسة دولارات\".",
-        "context": "تركز على معرفة الوقت المناسب لاستخدام الجملة."
+        "en": "Is it less than 5 dollars?",
+        "ar": "هل هو أقل من خمسة دولارات؟",
+        "context": "تستخدم للسؤال عن سعر شيء."
       }
     ]
   }

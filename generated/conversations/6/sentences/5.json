@@ -10,104 +10,111 @@
     "wordMeanings": [
       {
         "term": "Yes",
-        "description": "جواب مباشر يفيد الموافقة أو التأكيد أو الإقرار بصحة شيء."
+        "description": "كلمة تأكيد أو موافقة."
       },
       {
         "term": "and",
-        "description": "حرف عطف يربط بين كلمتين أو جملتين."
+        "description": "حرف عطف يضيف معلومة جديدة."
       },
       {
         "term": "they",
-        "description": "ضمير يشير إلى أكثر من شخص أو شيء."
+        "description": "ضمير يشير إلى منظمي المهرجان أو البائعين هناك."
       },
       {
         "term": "will",
-        "description": "أداة مستقبل تدل على ما سيحدث لاحقًا."
+        "description": "يدل على المستقبل."
       },
       {
         "term": "sell",
-        "description": "فعل يعني وسيبيعون."
+        "description": "تعني يبيعون."
       },
       {
         "term": "apple",
-        "description": "اسم يعني فطائر."
+        "description": "تفاح، ويصف نوع الفطائر."
       },
       {
         "term": "pies",
-        "description": "اسم يعني التفاح."
+        "description": "فطائر."
       },
       {
         "term": "there",
-        "description": "ظرف مكان يعني هناك."
+        "description": "في ذلك المكان."
       },
       {
         "term": "too",
-        "description": "ظرف يعني أيضًا أو أكثر من اللازم حسب السياق."
+        "description": "تعني أيضًا."
       }
     ],
-    "tense": "المستقبل البسيط",
-    "tenseEn": "Future Simple",
-    "tenseReason": "استُعمل المستقبل البسيط لأن الجملة تتحدث عن شيء سيحدث لاحقًا أو عن قرار أو توقع يخص المستقبل.",
+    "grammarExplanations": [
+      {
+        "sentence": "Yes, and they will sell apple pies there too.",
+        "explanation": {
+          "tense": "المستقبل البسيط",
+          "tenseEn": "Future Simple",
+          "reason": "استُعمل المستقبل البسيط لإضافة معلومة عن شيء سيحدث في المهرجان لاحقًا."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "Soon, Yes, and they will sell apple pies there too.",
-        "ar": "قريبًا، نعم، وسيبيعون فطائر التفاح هناك أيضًا.",
-        "context": "تؤكد قرب الحدث في المستقبل."
+        "en": "Yes, and they will sell coffee there too.",
+        "ar": "نعم، وسيبيعون القهوة هناك أيضًا.",
+        "context": "تضيف معلومة عن شيء متوفر في فعالية."
       },
       {
         "id": 2,
-        "en": "Tomorrow, Yes, and they will sell apple pies there too.",
-        "ar": "غدًا، نعم، وسيبيعون فطائر التفاح هناك أيضًا.",
-        "context": "تربط الجملة بوقت مستقبلي محدد."
+        "en": "They will sell tickets at the door.",
+        "ar": "سيبيعون التذاكر عند الباب.",
+        "context": "تخبر عن طريقة شراء التذاكر."
       },
       {
         "id": 3,
-        "en": "Yes, and they will sell apple pies there too after lunch.",
-        "ar": "نعم، وسيبيعون فطائر التفاح هناك أيضًا بعد الغداء.",
-        "context": "تضيف توقيتًا مستقبليًا واضحًا."
+        "en": "They will sell food in the park.",
+        "ar": "سيبيعون الطعام في الحديقة.",
+        "context": "تصف خدمة في مكان عام."
       },
       {
         "id": 4,
-        "en": "Yes, and they will sell apple pies there too if everything goes well.",
-        "ar": "نعم، وسيبيعون فطائر التفاح هناك أيضًا إذا سارت الأمور جيدًا.",
-        "context": "تجعل الحدث معتمدًا على شرط مستقبلي."
+        "en": "Yes, and they will play music there too.",
+        "ar": "نعم، وسيعزفون الموسيقى هناك أيضًا.",
+        "context": "تضيف نشاطًا آخر في الفعالية."
       },
       {
         "id": 5,
-        "en": "Yes, and they will sell apple pies there too later today.",
-        "ar": "نعم، وسيبيعون فطائر التفاح هناك أيضًا لاحقًا اليوم.",
-        "context": "تربط الجملة بمستقبل قريب جدًا."
+        "en": "They will sell apple juice there.",
+        "ar": "سيبيعون عصير التفاح هناك.",
+        "context": "تذكر منتجًا مرتبطًا بالتفاح."
       },
       {
         "id": 6,
-        "en": "I think Yes, and they will sell apple pies there too.",
-        "ar": "أعتقد أن نعم، وسيبيعون فطائر التفاح هناك أيضًا.",
-        "context": "تضيف معنى التوقع أو الاعتقاد."
+        "en": "They will sell art prints too.",
+        "ar": "سيبيعون مطبوعات فنية أيضًا.",
+        "context": "تذكر سلعة في مهرجان فني."
       },
       {
         "id": 7,
-        "en": "Yes, and they will sell apple pies there too, so get ready.",
-        "ar": "نعم، وسيبيعون فطائر التفاح هناك أيضًا، لذا استعد.",
-        "context": "تضيف نتيجة أو استعدادًا لحدث مستقبلي."
+        "en": "Yes, and they will have games there too.",
+        "ar": "نعم، وستكون لديهم ألعاب هناك أيضًا.",
+        "context": "تضيف نشاطًا مناسبًا للعائلات."
       },
       {
         "id": 8,
-        "en": "Next week, Yes, and they will sell apple pies there too.",
-        "ar": "الأسبوع القادم، نعم، وسيبيعون فطائر التفاح هناك أيضًا.",
-        "context": "تنقل الجملة إلى وقت مستقبلي أبعد قليلًا."
+        "en": "They will sell pies after lunch.",
+        "ar": "سيبيعون الفطائر بعد الغداء.",
+        "context": "تحدد وقت البيع."
       },
       {
         "id": 9,
-        "en": "Yes, and they will sell apple pies there too when the time is right.",
-        "ar": "نعم، وسيبيعون فطائر التفاح هناك أيضًا عندما يحين الوقت المناسب.",
-        "context": "تربط الحدث المستقبلي بوقت مناسب غير محدد."
+        "en": "They will sell snacks near the entrance.",
+        "ar": "سيبيعون الوجبات الخفيفة قرب المدخل.",
+        "context": "تحدد مكان البيع."
       },
       {
         "id": 10,
-        "en": "Before long, Yes, and they will sell apple pies there too.",
-        "ar": "بعد وقت قصير، نعم، وسيبيعون فطائر التفاح هناك أيضًا.",
-        "context": "تضيف ظرفًا مستقبليًا عامًا."
+        "en": "Yes, and they will sell hot drinks too.",
+        "ar": "نعم، وسيبيعون المشروبات الساخنة أيضًا.",
+        "context": "تضيف تفاصيل عن الطعام والشراب."
       }
     ]
   }

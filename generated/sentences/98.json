@@ -10,75 +10,83 @@
     "wordMeanings": [
       {
         "term": "Right",
-        "description": "هنا جزء من All right التي تدل على القبول أو الموافقة، وليس المقصود فقط معنى \"صحيح\" أو \"يمين\"."
+        "description": "تمامًا أو بالضبط في هذا السياق."
       },
       {
         "term": "here",
-        "description": "ظرف مكان يعني هنا."
+        "description": "هنا، أي في هذا المكان القريب من المتكلم."
       }
     ],
-    "tense": null,
-    "tenseReason": "استُعمل هذا التعبير لأنه عبارة ثابتة أو رد قصير يُستخدم في موقف محدد، وليس جملة فعلية كاملة بزمن واضح.",
+    "grammarExplanations": [
+      {
+        "sentence": "Right here.",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذا تعبير مكاني قصير يحدد المكان القريب بدقة، ولا يحتوي على فعل ظاهر أو زمن مستقل."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "In this situation, people often say, \"Right here\".",
-        "ar": "في هذا الموقف، يقول الناس كثيرًا: \"هنا تمامًا\".",
-        "context": "توضح أن العبارة مناسبة في هذا النوع من المواقف."
+        "en": "Put it right here.",
+        "ar": "ضعه هنا تمامًا.",
+        "context": "تقال عند تحديد مكان قريب لوضع شيء."
       },
       {
         "id": 2,
-        "en": "The teacher said, \"Right here\" to the students.",
-        "ar": "قال المعلم للطلاب: \"هنا تمامًا\".",
-        "context": "تستخدم الجملة كتعليمات أو توجيه مباشر."
+        "en": "Stand right here.",
+        "ar": "قف هنا تمامًا.",
+        "context": "تقال عند تحديد مكان وقوف دقيق."
       },
       {
         "id": 3,
-        "en": "He told me, \"Right here\" before we left.",
-        "ar": "قال لي: \"هنا تمامًا\" قبل أن نغادر.",
-        "context": "تضع العبارة قبل حدث آخر."
+        "en": "The address is right here.",
+        "ar": "العنوان هنا تمامًا.",
+        "context": "تقال عند الإشارة إلى موقع على ورقة أو خريطة."
       },
       {
         "id": 4,
-        "en": "She said, \"Right here\" in a polite way.",
-        "ar": "قالت: \"هنا تمامًا\" بطريقة مهذبة.",
-        "context": "تظهر أن العبارة يمكن أن تقال بلطف أو أدب."
+        "en": "Please sign right here.",
+        "ar": "يرجى التوقيع هنا تمامًا.",
+        "context": "تقال عند تحديد مكان التوقيع."
       },
       {
         "id": 5,
-        "en": "Someone shouted, \"Right here\" when there was a problem.",
-        "ar": "صاح شخص ما: \"هنا تمامًا\" عندما ظهرت مشكلة.",
-        "context": "تربط العبارة بموقف سريع أو طارئ."
+        "en": "I will wait right here.",
+        "ar": "سأنتظر هنا تمامًا.",
+        "context": "تقال عند تحديد مكان انتظار واضح."
       },
       {
         "id": 6,
-        "en": "You can say, \"Right here\" when you need a quick response.",
-        "ar": "يمكنك أن تقول: \"هنا تمامًا\" عندما تحتاج إلى رد سريع.",
-        "context": "توضح أن العبارة مفيدة عند الحاجة إلى استجابة مباشرة."
+        "en": "The problem is right here.",
+        "ar": "المشكلة هنا تمامًا.",
+        "context": "تقال عند تحديد موضع مشكلة في شيء."
       },
       {
         "id": 7,
-        "en": "They repeated, \"Right here\" more than once.",
-        "ar": "رددوا: \"هنا تمامًا\" أكثر من مرة.",
-        "context": "تعطي مثالًا على تكرار العبارة."
+        "en": "Sit right here, please.",
+        "ar": "اجلس هنا تمامًا من فضلك.",
+        "context": "تقال عند توجيه شخص إلى مقعد محدد."
       },
       {
         "id": 8,
-        "en": "I heard him say, \"Right here\" yesterday.",
-        "ar": "سمعته يقول: \"هنا تمامًا\" أمس.",
-        "context": "تجعل العبارة جزءًا من موقف سمعته من شخص آخر."
+        "en": "The bus stops right here.",
+        "ar": "تتوقف الحافلة هنا تمامًا.",
+        "context": "تقال عند تحديد مكان توقف الحافلة."
       },
       {
         "id": 9,
-        "en": "Many learners remember the phrase, \"Right here\".",
-        "ar": "يتذكر كثير من المتعلمين العبارة: \"هنا تمامًا\".",
-        "context": "تقدم العبارة بوصفها عبارة سهلة التذكر."
+        "en": "Write your name right here.",
+        "ar": "اكتب اسمك هنا تمامًا.",
+        "context": "تقال عند توضيح موضع كتابة الاسم."
       },
       {
         "id": 10,
-        "en": "At that moment, she said, \"Right here\".",
-        "ar": "في تلك اللحظة، قالت: \"هنا تمامًا\".",
-        "context": "تربط العبارة بلحظة معينة في السرد."
+        "en": "My car is right here.",
+        "ar": "سيارتي هنا تمامًا.",
+        "context": "تقال عند الإشارة إلى سيارة قريبة."
       }
     ]
   }

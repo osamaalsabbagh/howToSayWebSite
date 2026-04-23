@@ -10,108 +10,123 @@
     "wordMeanings": [
       {
         "term": "That",
-        "description": "تشير إلى أمر أو خبر سبق ذكره."
+        "description": "يشير إلى السؤال الذي طرحه الطالب."
       },
       {
         "term": "is",
-        "description": "فعل be في الحاضر مع المفرد."
+        "description": "تربط الشيء المشار إليه بوصفه رائعًا."
       },
       {
         "term": "a",
-        "description": "أداة نكرة تأتي قبل الاسم المفرد المعدود."
+        "description": "أداة نكرة تأتي قبل اسم مفرد."
       },
       {
         "term": "great",
-        "description": "صفة تعني عظيم."
+        "description": "رائع أو ممتاز."
       },
       {
         "term": "question",
-        "description": "اسم يعني سؤال."
+        "description": "سؤال أو استفسار."
       },
       {
         "term": "The",
-        "description": "أداة تعريف تشير إلى شيء معروف أو محدد."
+        "description": "أداة تعريف تشير إلى إجابة محددة للسؤال."
       },
       {
         "term": "answer",
-        "description": "اسم يعني جواب أو إجابة."
+        "description": "الإجابة أو الحل."
       },
       {
         "term": "depends",
-        "description": "فعل يعني تعتمد."
+        "description": "يعتمد أو يتغير بحسب شيء آخر."
       },
       {
         "term": "on",
-        "description": "حرف جر يعني على أو في يوم محدد حسب السياق."
+        "description": "تأتي مع depends لتوضيح الشيء الذي يعتمد عليه المعنى."
       },
       {
         "term": "context",
-        "description": "اسم يعني السياق."
+        "description": "السياق أو الظروف التي تحدد المعنى."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "That is a great question.",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "تصف الجملة السؤال في لحظة الحديث بأنه رائع أو مناسب."
+        }
+      },
+      {
+        "sentence": "The answer depends on context.",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "تقدم الجملة حقيقة عامة: الإجابة تتغير حسب السياق."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "In general, That is a great question. The answer depends on context.",
-        "ar": "بشكل عام، ذلك سؤال عظيم. الإجابة تعتمد على السياق.",
-        "context": "تضيف عبارة عامة تحافظ على نفس المعنى الأساسي."
+        "en": "That is a good question. The answer depends on the situation.",
+        "ar": "هذا سؤال جيد. الإجابة تعتمد على الموقف.",
+        "context": "يُستخدم عندما لا توجد إجابة واحدة ثابتة."
       },
       {
         "id": 2,
-        "en": "Usually, That is a great question. The answer depends on context.",
-        "ar": "عادةً، ذلك سؤال عظيم. الإجابة تعتمد على السياق.",
-        "context": "تضيف ظرفًا يدل على التكرار أو العادة."
+        "en": "That is an important question. The answer depends on the rules.",
+        "ar": "هذا سؤال مهم. الإجابة تعتمد على القواعد.",
+        "context": "يُستخدم عندما تحدد القواعد الإجابة."
       },
       {
         "id": 3,
-        "en": "Sometimes, That is a great question. The answer depends on context.",
-        "ar": "أحيانًا، ذلك سؤال عظيم. الإجابة تعتمد على السياق.",
-        "context": "تضع الجملة في سياق أقل تكرارًا."
+        "en": "That is a useful question. The answer depends on your goal.",
+        "ar": "هذا سؤال مفيد. الإجابة تعتمد على هدفك.",
+        "context": "يُستخدم عند ربط الإجابة بما يريده الشخص."
       },
       {
         "id": 4,
-        "en": "For now, That is a great question. The answer depends on context.",
-        "ar": "في الوقت الحالي، ذلك سؤال عظيم. الإجابة تعتمد على السياق.",
-        "context": "تربط الجملة بالوضع الحالي."
+        "en": "That is a great question. The price depends on the size.",
+        "ar": "هذا سؤال رائع. السعر يعتمد على الحجم.",
+        "context": "يُستخدم عند شرح سبب اختلاف السعر."
       },
       {
         "id": 5,
-        "en": "That is a great question. The answer depends on context, so that helps a lot.",
-        "ar": "ذلك سؤال عظيم. الإجابة تعتمد على السياق، وهذا يساعد كثيرًا.",
-        "context": "تضيف نتيجة بسيطة على نفس المعنى."
+        "en": "That is a fair question. The time depends on traffic.",
+        "ar": "هذا سؤال عادل. الوقت يعتمد على حركة المرور.",
+        "context": "يُستخدم عند تقدير مدة تتغير حسب الطريق."
       },
       {
         "id": 6,
-        "en": "That is a great question. The answer depends on context in daily life.",
-        "ar": "ذلك سؤال عظيم. الإجابة تعتمد على السياق في الحياة اليومية.",
-        "context": "تربط الجملة بمواقف الحياة اليومية."
+        "en": "That is a smart question. The meaning depends on context.",
+        "ar": "هذا سؤال ذكي. المعنى يعتمد على السياق.",
+        "context": "يُستخدم عند شرح أن الكلمة قد تختلف حسب الاستعمال."
       },
       {
         "id": 7,
-        "en": "That is a great question. The answer depends on context when it is necessary.",
-        "ar": "ذلك سؤال عظيم. الإجابة تعتمد على السياق عندما يكون ذلك ضروريًا.",
-        "context": "تربط الجملة بشرط أو حاجة معينة."
+        "en": "That is a hard question. The answer depends on the details.",
+        "ar": "هذا سؤال صعب. الإجابة تعتمد على التفاصيل.",
+        "context": "يُستخدم عندما تحتاج الإجابة إلى معلومات إضافية."
       },
       {
         "id": 8,
-        "en": "In this situation, That is a great question. The answer depends on context.",
-        "ar": "في هذا الموقف، ذلك سؤال عظيم. الإجابة تعتمد على السياق.",
-        "context": "تجعل الجملة جزءًا من موقف واضح."
+        "en": "That is a clear question. The answer depends on the example.",
+        "ar": "هذا سؤال واضح. الإجابة تعتمد على المثال.",
+        "context": "يُستخدم في شرح تعليمي يحتاج إلى مثال محدد."
       },
       {
         "id": 9,
-        "en": "That is a great question. The answer depends on context, and everyone notices that.",
-        "ar": "ذلك سؤال عظيم. الإجابة تعتمد على السياق، والجميع يلاحظ ذلك.",
-        "context": "تضيف ملاحظة أو نتيجة بعد الجملة."
+        "en": "That is a great question. The choice depends on your needs.",
+        "ar": "هذا سؤال رائع. الاختيار يعتمد على احتياجاتك.",
+        "context": "يُستخدم عند مساعدة شخص على اختيار مناسب."
       },
       {
         "id": 10,
-        "en": "That is a great question. The answer depends on context most of the time.",
-        "ar": "ذلك سؤال عظيم. الإجابة تعتمد على السياق معظم الوقت.",
-        "context": "تضيف عبارة تكرار شائعة."
+        "en": "That is a good question. The result depends on practice.",
+        "ar": "هذا سؤال جيد. النتيجة تعتمد على التدريب.",
+        "context": "يُستخدم عند الحديث عن التحسن بالتدريب."
       }
     ]
   }

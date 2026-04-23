@@ -10,84 +10,91 @@
     "wordMeanings": [
       {
         "term": "I",
-        "description": "ضمير المتكلم."
+        "description": "ضمير المتكلم ويشير إلى الشخص الذي يتحدث."
       },
       {
         "term": "have",
-        "description": "فعل يعني يملك، ويأتي أيضًا كفعل مساعد."
+        "description": "تعني أعاني من أو عندي في سياق الألم أو المرض."
       },
       {
         "term": "a",
-        "description": "أداة نكرة تأتي قبل الاسم المفرد المعدود."
+        "description": "أداة تدل على شيء واحد غير محدد."
       },
       {
         "term": "headache",
-        "description": "اسم يعني صداع."
+        "description": "صداع أو ألم في الرأس."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "I have a headache.",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "تستخدم الجملة المضارع البسيط لوصف حالة صحية حالية، ويأتي have هنا بمعنى أعاني من أو عندي."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "People often say, \"I have a headache\" in situations like this.",
-        "ar": "يقول الناس كثيرًا: \"أعاني من صداع\" في مواقف كهذه.",
-        "context": "تستخدم الجملة بوصفها تركيبًا شائعًا في موقف مشابه."
+        "en": "I have a cold.",
+        "ar": "أعاني من زكام.",
+        "context": "تقال عند وصف حالة صحية."
       },
       {
         "id": 2,
-        "en": "You can say, \"I have a headache\" when this happens.",
-        "ar": "يمكنك أن تقول: \"أعاني من صداع\" عندما يحدث هذا.",
-        "context": "توضح أن الجملة مناسبة في موقف متكرر."
+        "en": "She has a fever.",
+        "ar": "هي تعاني من حمى.",
+        "context": "تقال عند ارتفاع حرارة شخص."
       },
       {
         "id": 3,
-        "en": "I heard someone say, \"I have a headache\".",
-        "ar": "سمعت شخصًا يقول: \"أعاني من صداع\".",
-        "context": "تجعل الجملة جزءًا من كلام سمعته من شخص آخر."
+        "en": "He has a stomachache.",
+        "ar": "هو يعاني من ألم في المعدة.",
+        "context": "تقال عند الشكوى من ألم في البطن."
       },
       {
         "id": 4,
-        "en": "The teacher used the sentence, \"I have a headache\" in class.",
-        "ar": "استخدم المعلم الجملة: \"أعاني من صداع\" في الصف.",
-        "context": "تستخدم الجملة مثالًا تعليميًا في الصف."
+        "en": "I have a toothache.",
+        "ar": "أعاني من ألم في الأسنان.",
+        "context": "تقال عند وجود ألم في الأسنان."
       },
       {
         "id": 5,
-        "en": "Many learners remember the sentence, \"I have a headache\" first.",
-        "ar": "يتذكر كثير من المتعلمين الجملة: \"أعاني من صداع\" أولًا.",
-        "context": "تقدم الجملة بوصفها جملة تعليمية أساسية."
+        "en": "My brother has a cough.",
+        "ar": "أخي يعاني من سعال.",
+        "context": "تقال عند وصف عرض صحي لشخص."
       },
       {
         "id": 6,
-        "en": "She said, \"I have a headache\" in a calm way.",
-        "ar": "قالت: \"أعاني من صداع\" بطريقة هادئة.",
-        "context": "تجعل الجملة جزءًا من كلام مباشر في موقف عادي."
+        "en": "I have a sore throat.",
+        "ar": "أعاني من ألم في الحلق.",
+        "context": "تقال عند الشكوى من ألم في الحلق."
       },
       {
         "id": 7,
-        "en": "He repeated, \"I have a headache\" more than once.",
-        "ar": "ردد: \"أعاني من صداع\" أكثر من مرة.",
-        "context": "تضيف معنى التكرار لنفس الجملة."
+        "en": "The child has a headache.",
+        "ar": "الطفل يعاني من صداع.",
+        "context": "تقال عند ملاحظة ألم رأس عند طفل."
       },
       {
         "id": 8,
-        "en": "At the right moment, someone might say, \"I have a headache\".",
-        "ar": "في اللحظة المناسبة، قد يقول شخص ما: \"أعاني من صداع\".",
-        "context": "توضح أن الجملة مرتبطة بتوقيت مناسب في السياق."
+        "en": "We have a problem.",
+        "ar": "لدينا مشكلة.",
+        "context": "تقال عند وجود أمر يحتاج إلى حل."
       },
       {
         "id": 9,
-        "en": "I wrote down the sentence, \"I have a headache\" so I would remember it.",
-        "ar": "كتبت الجملة: \"أعاني من صداع\" حتى أتذكرها.",
-        "context": "تعطي مثالًا على حفظ الجملة أو مراجعتها."
+        "en": "I have back pain.",
+        "ar": "أعاني من ألم في الظهر.",
+        "context": "تقال عند الشكوى من ألم جسدي."
       },
       {
         "id": 10,
-        "en": "It is useful to know when to say, \"I have a headache\".",
-        "ar": "من المفيد أن تعرف متى تقول: \"أعاني من صداع\".",
-        "context": "تركز على معرفة الوقت المناسب لاستخدام الجملة."
+        "en": "She has a small injury.",
+        "ar": "لديها إصابة صغيرة.",
+        "context": "تقال عند وصف إصابة خفيفة."
       }
     ]
   }

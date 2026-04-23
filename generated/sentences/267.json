@@ -10,88 +10,95 @@
     "wordMeanings": [
       {
         "term": "He",
-        "description": "الضمير الذي يعود على شخص مفرد مذكر."
+        "description": "ضمير يشير إلى رجل أو ولد."
       },
       {
         "term": "is",
-        "description": "فعل be في الحاضر مع المفرد."
+        "description": "تربط الشخص بمكانه الحالي."
       },
       {
         "term": "in",
-        "description": "حرف جر يعني في."
+        "description": "داخل مكان أو في نطاقه."
       },
       {
         "term": "the",
-        "description": "أداة تعريف تشير إلى شيء معروف أو محدد."
+        "description": "أداة تشير إلى مكان محدد يعرفه المتكلم والسامع."
       },
       {
         "term": "kitchen",
-        "description": "اسم يعني المطبخ."
+        "description": "المطبخ، وهو مكان إعداد الطعام."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "He is in the kitchen.",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "تستخدم الجملة فعل الربط في الحاضر لوصف مكان الشخص الآن أو في هذا السياق."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "People often say, \"He is in the kitchen\" in situations like this.",
-        "ar": "يقول الناس كثيرًا: \"هو في المطبخ\" في مواقف كهذه.",
-        "context": "تستخدم الجملة بوصفها تركيبًا شائعًا في موقف مشابه."
+        "en": "He is in the kitchen.",
+        "ar": "هو في المطبخ.",
+        "context": "تقال عند تحديد مكان شخص."
       },
       {
         "id": 2,
-        "en": "You can say, \"He is in the kitchen\" when this happens.",
-        "ar": "يمكنك أن تقول: \"هو في المطبخ\" عندما يحدث هذا.",
-        "context": "توضح أن الجملة مناسبة في موقف متكرر."
+        "en": "She is in the kitchen.",
+        "ar": "هي في المطبخ.",
+        "context": "تقال عند تحديد مكان امرأة أو فتاة."
       },
       {
         "id": 3,
-        "en": "I heard someone say, \"He is in the kitchen\".",
-        "ar": "سمعت شخصًا يقول: \"هو في المطبخ\".",
-        "context": "تجعل الجملة جزءًا من كلام سمعته من شخص آخر."
+        "en": "He is in the bedroom.",
+        "ar": "هو في غرفة النوم.",
+        "context": "تقال عند ذكر مكان آخر داخل البيت."
       },
       {
         "id": 4,
-        "en": "The teacher used the sentence, \"He is in the kitchen\" in class.",
-        "ar": "استخدم المعلم الجملة: \"هو في المطبخ\" في الصف.",
-        "context": "تستخدم الجملة مثالًا تعليميًا في الصف."
+        "en": "He is in the kitchen now.",
+        "ar": "هو في المطبخ الآن.",
+        "context": "تقال عند تأكيد المكان الحالي."
       },
       {
         "id": 5,
-        "en": "Many learners remember the sentence, \"He is in the kitchen\" first.",
-        "ar": "يتذكر كثير من المتعلمين الجملة: \"هو في المطبخ\" أولًا.",
-        "context": "تقدم الجملة بوصفها جملة تعليمية أساسية."
+        "en": "My father is in the kitchen.",
+        "ar": "والدي في المطبخ.",
+        "context": "تقال عند الإخبار عن مكان أحد أفراد العائلة."
       },
       {
         "id": 6,
-        "en": "She said, \"He is in the kitchen\" in a calm way.",
-        "ar": "قالت: \"هو في المطبخ\" بطريقة هادئة.",
-        "context": "تجعل الجملة جزءًا من كلام مباشر في موقف عادي."
+        "en": "The chef is in the kitchen.",
+        "ar": "الطاهي في المطبخ.",
+        "context": "تقال في مطعم أو بيت عند ذكر مكان الطاهي."
       },
       {
         "id": 7,
-        "en": "He repeated, \"He is in the kitchen\" more than once.",
-        "ar": "ردد: \"هو في المطبخ\" أكثر من مرة.",
-        "context": "تضيف معنى التكرار لنفس الجملة."
+        "en": "Is he in the kitchen?",
+        "ar": "هل هو في المطبخ؟",
+        "context": "تستخدم للسؤال عن مكان شخص."
       },
       {
         "id": 8,
-        "en": "At the right moment, someone might say, \"He is in the kitchen\".",
-        "ar": "في اللحظة المناسبة، قد يقول شخص ما: \"هو في المطبخ\".",
-        "context": "توضح أن الجملة مرتبطة بتوقيت مناسب في السياق."
+        "en": "He is not in the kitchen.",
+        "ar": "هو ليس في المطبخ.",
+        "context": "تقال لنفي وجود شخص في المطبخ."
       },
       {
         "id": 9,
-        "en": "I wrote down the sentence, \"He is in the kitchen\" so I would remember it.",
-        "ar": "كتبت الجملة: \"هو في المطبخ\" حتى أتذكرها.",
-        "context": "تعطي مثالًا على حفظ الجملة أو مراجعتها."
+        "en": "The children are in the kitchen.",
+        "ar": "الأطفال في المطبخ.",
+        "context": "تقال عند تحديد مكان مجموعة."
       },
       {
         "id": 10,
-        "en": "It is useful to know when to say, \"He is in the kitchen\".",
-        "ar": "من المفيد أن تعرف متى تقول: \"هو في المطبخ\".",
-        "context": "تركز على معرفة الوقت المناسب لاستخدام الجملة."
+        "en": "He is in the kitchen with his sister.",
+        "ar": "هو في المطبخ مع أخته.",
+        "context": "تقال عند ذكر المكان ومن معه."
       }
     ]
   }

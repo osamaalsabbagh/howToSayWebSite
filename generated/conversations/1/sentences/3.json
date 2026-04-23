@@ -10,100 +10,115 @@
     "wordMeanings": [
       {
         "term": "Thank",
-        "description": "فعل أو تعبير شكر يعني أشكر أو أقدّر."
+        "description": "فعل يدل على الشكر، ويأتي هنا ضمن عبارة شكر مهذبة."
       },
       {
         "term": "you",
-        "description": "الضمير الذي يعود على الشخص المخاطَب."
+        "description": "ضمير المخاطب، ويشير هنا إلى المقابِلة أو الشخص الذي يتحدث معه المتقدم."
       },
       {
         "term": "I",
-        "description": "ضمير المتكلم."
+        "description": "ضمير المتكلم المفرد، ويشير هنا إلى المتقدم نفسه."
       },
       {
         "term": "am",
-        "description": "فعل be مع I ويُستعمل هنا مع learning لتكوين المضارع المستمر."
+        "description": "صيغة تأتي مع ضمير المتكلم المفرد وتصف هنا شعور المتقدم في الوقت الحالي."
       },
       {
         "term": "excited",
-        "description": "صفة تعني متحمس."
+        "description": "صفة تعني متحمس أو سعيد بشيء منتظر."
       },
       {
         "term": "about",
-        "description": "حرف جر أو ظرف يعني عن أو تقريبًا حسب السياق."
+        "description": "حرف جر يربط الحماس بالشيء الذي يسبب هذا الشعور."
       },
       {
         "term": "this",
-        "description": "اسم إشارة يعني هذا."
+        "description": "اسم إشارة يدل على شيء قريب أو محدد، وهنا يشير إلى الفرصة الحالية."
       },
       {
         "term": "opportunity",
-        "description": "اسم يعني الفرصة."
+        "description": "فرصة يمكن أن تؤدي إلى عمل أو تطور أو تجربة جديدة."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "Thank you.",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذا الجزء تعبير قصير أو غير مكتمل فعليًا، لذلك لا نضع له زمنًا مستقلًا."
+        }
+      },
+      {
+        "sentence": "I am excited about this opportunity.",
+        "explanation": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "استُعمل الماضي البسيط لأن هذا الجزء يتحدث عن حدث أو حالة في الماضي."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "In general, Thank you. I am excited about this opportunity.",
-        "ar": "بشكل عام، شكرًا لك. أنا متحمس لهذه الفرصة.",
-        "context": "تضيف عبارة عامة تحافظ على نفس المعنى الأساسي."
+        "en": "Thank you. I am very excited about this opportunity.",
+        "ar": "شكرًا لك. أنا متحمس جدًا لهذه الفرصة.",
+        "context": "تزيد قوة الشعور بكلمة very."
       },
       {
         "id": 2,
-        "en": "Usually, Thank you. I am excited about this opportunity.",
-        "ar": "عادةً، شكرًا لك. أنا متحمس لهذه الفرصة.",
-        "context": "تضيف ظرفًا يدل على التكرار أو العادة."
+        "en": "Thank you for inviting me. I am excited about this opportunity.",
+        "ar": "شكرًا لدعوتي. أنا متحمس لهذه الفرصة.",
+        "context": "تشكرهم على الدعوة قبل التعبير عن الحماس."
       },
       {
         "id": 3,
-        "en": "Sometimes, Thank you. I am excited about this opportunity.",
-        "ar": "أحيانًا، شكرًا لك. أنا متحمس لهذه الفرصة.",
-        "context": "تضع الجملة في سياق أقل تكرارًا."
+        "en": "Thank you. I am excited about the chance to join your team.",
+        "ar": "شكرًا لك. أنا متحمس لفرصة الانضمام إلى فريقكم.",
+        "context": "تجعل الحماس مرتبطًا بالعمل مع الفريق."
       },
       {
         "id": 4,
-        "en": "For now, Thank you. I am excited about this opportunity.",
-        "ar": "في الوقت الحالي، شكرًا لك. أنا متحمس لهذه الفرصة.",
-        "context": "تربط الجملة بالوضع الحالي."
+        "en": "I appreciate your time, and I am excited about this opportunity.",
+        "ar": "أقدّر وقتك، وأنا متحمس لهذه الفرصة.",
+        "context": "صيغة أكثر مهنية في مقابلات العمل."
       },
       {
         "id": 5,
-        "en": "Thank you. I am excited about this opportunity, so that helps a lot.",
-        "ar": "شكرًا لك. أنا متحمس لهذه الفرصة، وهذا يساعد كثيرًا.",
-        "context": "تضيف نتيجة بسيطة على نفس المعنى."
+        "en": "Thank you. I am excited to learn more about the role.",
+        "ar": "شكرًا لك. أنا متحمس لمعرفة المزيد عن الدور.",
+        "context": "تظهر اهتمامك بالتفاصيل وليس فقط بالحصول على الوظيفة."
       },
       {
         "id": 6,
-        "en": "Thank you. I am excited about this opportunity in daily life.",
-        "ar": "شكرًا لك. أنا متحمس لهذه الفرصة في الحياة اليومية.",
-        "context": "تربط الجملة بمواقف الحياة اليومية."
+        "en": "Thank you. This opportunity is very exciting for me.",
+        "ar": "شكرًا لك. هذه الفرصة مثيرة جدًا بالنسبة لي.",
+        "context": "نفس المعنى لكن التركيز على الفرصة بدل المتكلم."
       },
       {
         "id": 7,
-        "en": "Thank you. I am excited about this opportunity when it is necessary.",
-        "ar": "شكرًا لك. أنا متحمس لهذه الفرصة عندما يكون ذلك ضروريًا.",
-        "context": "تربط الجملة بشرط أو حاجة معينة."
+        "en": "Thank you. I am excited about speaking with you today.",
+        "ar": "شكرًا لك. أنا متحمس للتحدث معك اليوم.",
+        "context": "تربط الحماس بالمقابلة نفسها."
       },
       {
         "id": 8,
-        "en": "In this situation, Thank you. I am excited about this opportunity.",
-        "ar": "في هذا الموقف، شكرًا لك. أنا متحمس لهذه الفرصة.",
-        "context": "تجعل الجملة جزءًا من موقف واضح."
+        "en": "Thank you for meeting with me. I am excited about this opportunity.",
+        "ar": "شكرًا للقائك بي. أنا متحمس لهذه الفرصة.",
+        "context": "تصلح في بداية أو نهاية المقابلة."
       },
       {
         "id": 9,
-        "en": "Thank you. I am excited about this opportunity, and everyone notices that.",
-        "ar": "شكرًا لك. أنا متحمس لهذه الفرصة، والجميع يلاحظ ذلك.",
-        "context": "تضيف ملاحظة أو نتيجة بعد الجملة."
+        "en": "Thank you. I am excited because this role matches my skills.",
+        "ar": "شكرًا لك. أنا متحمس لأن هذا الدور يناسب مهاراتي.",
+        "context": "توضح سبب الحماس بطريقة مقنعة."
       },
       {
         "id": 10,
-        "en": "Thank you. I am excited about this opportunity most of the time.",
-        "ar": "شكرًا لك. أنا متحمس لهذه الفرصة معظم الوقت.",
-        "context": "تضيف عبارة تكرار شائعة."
+        "en": "Thank you. I am genuinely excited about this opportunity.",
+        "ar": "شكرًا لك. أنا متحمس بصدق لهذه الفرصة.",
+        "context": "تضيف genuinely لتأكيد أن الحماس حقيقي."
       }
     ]
   }

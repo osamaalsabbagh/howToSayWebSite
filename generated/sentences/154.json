@@ -10,83 +10,91 @@
     "wordMeanings": [
       {
         "term": "Have",
-        "description": "فعل يعني يملك، ويأتي أيضًا كفعل مساعد."
+        "description": "تأتي هنا في بداية تمن لشخص بمعنى عِش أو اقض."
       },
       {
         "term": "a",
-        "description": "أداة نكرة تأتي قبل الاسم المفرد المعدود."
+        "description": "أداة تدل على شيء واحد غير محدد."
       },
       {
         "term": "safe",
-        "description": "صفة تعني آمنة."
+        "description": "آمن، أي بعيد عن الخطر أو المشكلات."
       },
       {
         "term": "trip",
-        "description": "اسم يعني رحلة."
+        "description": "رحلة أو سفر من مكان إلى آخر."
       }
     ],
-    "tense": null,
-    "tenseReason": "استُعمل هذا الأسلوب لأن الجملة تقدم طلبًا أو تعليمات مباشرة موجهة إلى شخص آخر، لذلك لا نضع لها هنا زمنًا فعليًا مستقلًا.",
+    "grammarExplanations": [
+      {
+        "sentence": "Have a safe trip",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه صيغة تمن أو دعاء بالسلامة تبدأ بالفعل الأساسي، ولا تحتوي على زمن مستقل لأنها لا تخبر عن حدث بل تتمنى نتيجة آمنة."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "In this situation, people often say, \"Have a safe trip\".",
-        "ar": "في هذا الموقف، يقول الناس كثيرًا: \"رحلة آمنة\".",
-        "context": "توضح أن العبارة مناسبة في هذا النوع من المواقف."
+        "en": "Have a safe trip.",
+        "ar": "أتمنى لك رحلة آمنة.",
+        "context": "تقال لمن يغادر في رحلة."
       },
       {
         "id": 2,
-        "en": "The teacher said, \"Have a safe trip\" to the students.",
-        "ar": "قال المعلم للطلاب: \"رحلة آمنة\".",
-        "context": "تستخدم الجملة كتعليمات أو توجيه مباشر."
+        "en": "Have a safe flight.",
+        "ar": "أتمنى لك رحلة طيران آمنة.",
+        "context": "تقال قبل السفر بالطائرة."
       },
       {
         "id": 3,
-        "en": "He told me, \"Have a safe trip\" before we left.",
-        "ar": "قال لي: \"رحلة آمنة\" قبل أن نغادر.",
-        "context": "تضع العبارة قبل حدث آخر."
+        "en": "Have a safe drive.",
+        "ar": "أتمنى لك قيادة آمنة.",
+        "context": "تقال لشخص سيقود السيارة."
       },
       {
         "id": 4,
-        "en": "She said, \"Have a safe trip\" in a polite way.",
-        "ar": "قالت: \"رحلة آمنة\" بطريقة مهذبة.",
-        "context": "تظهر أن العبارة يمكن أن تقال بلطف أو أدب."
+        "en": "Have a safe journey.",
+        "ar": "أتمنى لك سفرًا آمنًا.",
+        "context": "تقال في وداع مسافر لمسافة طويلة."
       },
       {
         "id": 5,
-        "en": "Someone shouted, \"Have a safe trip\" when there was a problem.",
-        "ar": "صاح شخص ما: \"رحلة آمنة\" عندما ظهرت مشكلة.",
-        "context": "تربط العبارة بموقف سريع أو طارئ."
+        "en": "Have a safe ride.",
+        "ar": "أتمنى لك ركوبًا آمنًا.",
+        "context": "تقال لشخص سيستخدم مركبة أو دراجة."
       },
       {
         "id": 6,
-        "en": "You can say, \"Have a safe trip\" when you need a quick response.",
-        "ar": "يمكنك أن تقول: \"رحلة آمنة\" عندما تحتاج إلى رد سريع.",
-        "context": "توضح أن العبارة مفيدة عند الحاجة إلى استجابة مباشرة."
+        "en": "Have a safe return.",
+        "ar": "أتمنى لك عودة آمنة.",
+        "context": "تقال عند تمني الرجوع بسلام."
       },
       {
         "id": 7,
-        "en": "They repeated, \"Have a safe trip\" more than once.",
-        "ar": "رددوا: \"رحلة آمنة\" أكثر من مرة.",
-        "context": "تعطي مثالًا على تكرار العبارة."
+        "en": "Have a safe night.",
+        "ar": "أتمنى لك ليلة آمنة.",
+        "context": "تقال في سياق الحرص على السلامة ليلًا."
       },
       {
         "id": 8,
-        "en": "I heard him say, \"Have a safe trip\" yesterday.",
-        "ar": "سمعته يقول: \"رحلة آمنة\" أمس.",
-        "context": "تجعل العبارة جزءًا من موقف سمعته من شخص آخر."
+        "en": "Have a safe walk home.",
+        "ar": "أتمنى لك مشيًا آمنًا إلى البيت.",
+        "context": "تقال لشخص سيعود إلى البيت سيرًا."
       },
       {
         "id": 9,
-        "en": "Many learners remember the phrase, \"Have a safe trip\".",
-        "ar": "يتذكر كثير من المتعلمين العبارة: \"رحلة آمنة\".",
-        "context": "تقدم العبارة بوصفها عبارة سهلة التذكر."
+        "en": "Have a safe bus trip.",
+        "ar": "أتمنى لك رحلة حافلة آمنة.",
+        "context": "تقال لمن يسافر بالحافلة."
       },
       {
         "id": 10,
-        "en": "At that moment, she said, \"Have a safe trip\".",
-        "ar": "في تلك اللحظة، قالت: \"رحلة آمنة\".",
-        "context": "تربط العبارة بلحظة معينة في السرد."
+        "en": "Have a safe train trip.",
+        "ar": "أتمنى لك رحلة قطار آمنة.",
+        "context": "تقال لمن يسافر بالقطار."
       }
     ]
   }

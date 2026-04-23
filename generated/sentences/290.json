@@ -10,80 +10,87 @@
     "wordMeanings": [
       {
         "term": "Near",
-        "description": "حرف جر أو ظرف يعني قريب من."
+        "description": "قريب من أو بجوار مكان."
       },
       {
         "term": "the",
-        "description": "أداة تعريف تشير إلى شيء معروف أو محدد."
+        "description": "أداة تشير إلى مكان محدد معروف."
       },
       {
         "term": "bank",
-        "description": "اسم يعني بنك أو مصرف."
+        "description": "البنك أو المصرف."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "Near the bank.",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذا تعبير مكاني قصير يحدد الموقع بالنسبة إلى البنك، ولا يحتوي على فعل ظاهر أو زمن مستقل."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "People often say, \"Near the bank\" in situations like this.",
-        "ar": "يقول الناس كثيرًا: \"بالقرب من البنك\" في مواقف كهذه.",
-        "context": "تستخدم الجملة بوصفها تركيبًا شائعًا في موقف مشابه."
+        "en": "Near the bank.",
+        "ar": "بالقرب من البنك.",
+        "context": "تقال كجواب قصير عند السؤال عن موقع."
       },
       {
         "id": 2,
-        "en": "You can say, \"Near the bank\" when this happens.",
-        "ar": "يمكنك أن تقول: \"بالقرب من البنك\" عندما يحدث هذا.",
-        "context": "توضح أن الجملة مناسبة في موقف متكرر."
+        "en": "It is near the bank.",
+        "ar": "إنه قريب من البنك.",
+        "context": "تقال عند تحديد موقع شيء بجملة كاملة."
       },
       {
         "id": 3,
-        "en": "I heard someone say, \"Near the bank\".",
-        "ar": "سمعت شخصًا يقول: \"بالقرب من البنك\".",
-        "context": "تجعل الجملة جزءًا من كلام سمعته من شخص آخر."
+        "en": "The hotel is near the bank.",
+        "ar": "الفندق قريب من البنك.",
+        "context": "تقال عند وصف موقع فندق."
       },
       {
         "id": 4,
-        "en": "The teacher used the sentence, \"Near the bank\" in class.",
-        "ar": "استخدم المعلم الجملة: \"بالقرب من البنك\" في الصف.",
-        "context": "تستخدم الجملة مثالًا تعليميًا في الصف."
+        "en": "Meet me near the bank.",
+        "ar": "قابلني بالقرب من البنك.",
+        "context": "تقال عند تحديد مكان لقاء."
       },
       {
         "id": 5,
-        "en": "Many learners remember the sentence, \"Near the bank\" first.",
-        "ar": "يتذكر كثير من المتعلمين الجملة: \"بالقرب من البنك\" أولًا.",
-        "context": "تقدم الجملة بوصفها جملة تعليمية أساسية."
+        "en": "The bus stop is near the bank.",
+        "ar": "محطة الحافلات قريبة من البنك.",
+        "context": "تقال عند إعطاء اتجاهات."
       },
       {
         "id": 6,
-        "en": "She said, \"Near the bank\" in a calm way.",
-        "ar": "قالت: \"بالقرب من البنك\" بطريقة هادئة.",
-        "context": "تجعل الجملة جزءًا من كلام مباشر في موقف عادي."
+        "en": "Is it near the bank?",
+        "ar": "هل هو قريب من البنك؟",
+        "context": "تستخدم للسؤال عن قرب موقع."
       },
       {
         "id": 7,
-        "en": "He repeated, \"Near the bank\" more than once.",
-        "ar": "ردد: \"بالقرب من البنك\" أكثر من مرة.",
-        "context": "تضيف معنى التكرار لنفس الجملة."
+        "en": "The cafe is near the bank.",
+        "ar": "المقهى قريب من البنك.",
+        "context": "تقال عند وصف موقع مقهى."
       },
       {
         "id": 8,
-        "en": "At the right moment, someone might say, \"Near the bank\".",
-        "ar": "في اللحظة المناسبة، قد يقول شخص ما: \"بالقرب من البنك\".",
-        "context": "توضح أن الجملة مرتبطة بتوقيت مناسب في السياق."
+        "en": "I parked near the bank.",
+        "ar": "أوقفت السيارة بالقرب من البنك.",
+        "context": "تقال عند ذكر مكان الوقوف."
       },
       {
         "id": 9,
-        "en": "I wrote down the sentence, \"Near the bank\" so I would remember it.",
-        "ar": "كتبت الجملة: \"بالقرب من البنك\" حتى أتذكرها.",
-        "context": "تعطي مثالًا على حفظ الجملة أو مراجعتها."
+        "en": "There is a pharmacy near the bank.",
+        "ar": "توجد صيدلية بالقرب من البنك.",
+        "context": "تقال عند ذكر مكان قريب من البنك."
       },
       {
         "id": 10,
-        "en": "It is useful to know when to say, \"Near the bank\".",
-        "ar": "من المفيد أن تعرف متى تقول: \"بالقرب من البنك\".",
-        "context": "تركز على معرفة الوقت المناسب لاستخدام الجملة."
+        "en": "The entrance is near the bank.",
+        "ar": "المدخل قريب من البنك.",
+        "context": "تقال عند إرشاد شخص إلى مدخل."
       }
     ]
   }

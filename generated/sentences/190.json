@@ -10,84 +10,91 @@
     "wordMeanings": [
       {
         "term": "I",
-        "description": "ضمير المتكلم."
+        "description": "أنا، وتشير إلى المتكلم."
       },
       {
         "term": "am",
-        "description": "فعل be مع I ويُستعمل هنا مع learning لتكوين المضارع المستمر."
+        "description": "صيغة تأتي مع أنا وتساعد في تكوين فعل مستمر أو خطة قريبة."
       },
       {
         "term": "leaving",
-        "description": "فعل يعني سأغادر."
+        "description": "مغادر أو سأغادر."
       },
       {
         "term": "tomorrow",
-        "description": "ظرف زمان يعني غدًا."
+        "description": "غدًا، أي اليوم التالي."
       }
     ],
-    "tense": "المضارع المستمر",
-    "tenseEn": "Present Continuous",
-    "tenseReason": "استُعمل المضارع المستمر لأن الجملة تصف شيئًا يحدث الآن أو في فترة قريبة من الآن، أو خطة قريبة واضحة من السياق.",
+    "grammarExplanations": [
+      {
+        "sentence": "I am leaving tomorrow.",
+        "explanation": {
+          "tense": "المضارع المستمر",
+          "tenseEn": "Present Continuous",
+          "reason": "يستخدم المضارع المستمر هنا للتعبير عن خطة مستقبلية مرتبة، وكلمة غدًا تحدد وقت المغادرة."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "People often say, \"I am leaving tomorrow\" in situations like this.",
-        "ar": "يقول الناس كثيرًا: \"سأغادر غدًا\" في مواقف كهذه.",
-        "context": "تستخدم الجملة بوصفها تركيبًا شائعًا في موقف مشابه."
+        "en": "I am leaving tomorrow.",
+        "ar": "سأغادر غدًا.",
+        "context": "تقال عند إبلاغ شخص بموعد المغادرة."
       },
       {
         "id": 2,
-        "en": "You can say, \"I am leaving tomorrow\" when this happens.",
-        "ar": "يمكنك أن تقول: \"سأغادر غدًا\" عندما يحدث هذا.",
-        "context": "توضح أن الجملة مناسبة في موقف متكرر."
+        "en": "I am leaving tonight.",
+        "ar": "سأغادر الليلة.",
+        "context": "تقال عند تحديد مغادرة في الليل."
       },
       {
         "id": 3,
-        "en": "I heard someone say, \"I am leaving tomorrow\".",
-        "ar": "سمعت شخصًا يقول: \"سأغادر غدًا\".",
-        "context": "تجعل الجملة جزءًا من كلام سمعته من شخص آخر."
+        "en": "I am leaving next week.",
+        "ar": "سأغادر الأسبوع القادم.",
+        "context": "تقال عند الحديث عن خطة سفر لاحقة."
       },
       {
         "id": 4,
-        "en": "The teacher used the sentence, \"I am leaving tomorrow\" in class.",
-        "ar": "استخدم المعلم الجملة: \"سأغادر غدًا\" في الصف.",
-        "context": "تستخدم الجملة مثالًا تعليميًا في الصف."
+        "en": "I am leaving at six.",
+        "ar": "سأغادر في السادسة.",
+        "context": "تقال عند تحديد ساعة المغادرة."
       },
       {
         "id": 5,
-        "en": "Many learners remember the sentence, \"I am leaving tomorrow\" first.",
-        "ar": "يتذكر كثير من المتعلمين الجملة: \"سأغادر غدًا\" أولًا.",
-        "context": "تقدم الجملة بوصفها جملة تعليمية أساسية."
+        "en": "I am leaving after lunch.",
+        "ar": "سأغادر بعد الغداء.",
+        "context": "تقال عند تحديد وقت تقريبي للمغادرة."
       },
       {
         "id": 6,
-        "en": "She said, \"I am leaving tomorrow\" in a calm way.",
-        "ar": "قالت: \"سأغادر غدًا\" بطريقة هادئة.",
-        "context": "تجعل الجملة جزءًا من كلام مباشر في موقف عادي."
+        "en": "I am leaving in the morning.",
+        "ar": "سأغادر في الصباح.",
+        "context": "تقال عند تحديد فترة الصباح للمغادرة."
       },
       {
         "id": 7,
-        "en": "He repeated, \"I am leaving tomorrow\" more than once.",
-        "ar": "ردد: \"سأغادر غدًا\" أكثر من مرة.",
-        "context": "تضيف معنى التكرار لنفس الجملة."
+        "en": "She is leaving tomorrow.",
+        "ar": "ستغادر غدًا.",
+        "context": "تقال عند الإخبار عن خطة مغادرة امرأة."
       },
       {
         "id": 8,
-        "en": "At the right moment, someone might say, \"I am leaving tomorrow\".",
-        "ar": "في اللحظة المناسبة، قد يقول شخص ما: \"سأغادر غدًا\".",
-        "context": "توضح أن الجملة مرتبطة بتوقيت مناسب في السياق."
+        "en": "We are leaving tomorrow.",
+        "ar": "سنغادر غدًا.",
+        "context": "تقال عند الحديث عن خطة مغادرة جماعية."
       },
       {
         "id": 9,
-        "en": "I wrote down the sentence, \"I am leaving tomorrow\" so I would remember it.",
-        "ar": "كتبت الجملة: \"سأغادر غدًا\" حتى أتذكرها.",
-        "context": "تعطي مثالًا على حفظ الجملة أو مراجعتها."
+        "en": "I am leaving for Boston tomorrow.",
+        "ar": "سأغادر إلى بوسطن غدًا.",
+        "context": "تقال عند ذكر وجهة المغادرة."
       },
       {
         "id": 10,
-        "en": "It is useful to know when to say, \"I am leaving tomorrow\".",
-        "ar": "من المفيد أن تعرف متى تقول: \"سأغادر غدًا\".",
-        "context": "تركز على معرفة الوقت المناسب لاستخدام الجملة."
+        "en": "I am leaving work early tomorrow.",
+        "ar": "سأغادر العمل مبكرًا غدًا.",
+        "context": "تقال عند إبلاغ شخص بخطة مغادرة العمل."
       }
     ]
   }

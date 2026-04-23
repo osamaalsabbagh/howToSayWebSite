@@ -10,88 +10,95 @@
     "wordMeanings": [
       {
         "term": "We",
-        "description": "ضمير المتكلمين."
+        "description": "ضمير يشير إلى المتكلم مع شخص أو أشخاص آخرين."
       },
       {
         "term": "like",
-        "description": "فعل يدل على الإعجاب أو الميل."
+        "description": "نحب أو يعجبنا."
       },
       {
         "term": "it",
-        "description": "ضمير يعود على الشيء أو الجملة التي قيلت."
+        "description": "ضمير يشير إلى الشيء أو الموضوع المعروف من السياق."
       },
       {
         "term": "very",
-        "description": "كلمة تزيد شدة الصفة."
+        "description": "كلمة تقوي المعنى وتزيد درجة الإعجاب."
       },
       {
         "term": "much",
-        "description": "هنا تأتي مع very لتكوين very much، أي كثيرًا / بدرجة كبيرة."
+        "description": "تتمم معنى الشدة هنا لتدل على إعجاب كبير."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "We like it very much.",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "تستخدم الجملة المضارع البسيط للتعبير عن رأي أو شعور عام، ويأتي very much لتقوية درجة الإعجاب."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "People often say, \"We like it very much\" in situations like this.",
-        "ar": "يقول الناس كثيرًا: \"نحن نحبه كثيرًا\" في مواقف كهذه.",
-        "context": "تستخدم الجملة بوصفها تركيبًا شائعًا في موقف مشابه."
+        "en": "We like this place very much.",
+        "ar": "نحن نحب هذا المكان كثيرًا.",
+        "context": "تقال عند إعجاب مجموعة بمكان."
       },
       {
         "id": 2,
-        "en": "You can say, \"We like it very much\" when this happens.",
-        "ar": "يمكنك أن تقول: \"نحن نحبه كثيرًا\" عندما يحدث هذا.",
-        "context": "توضح أن الجملة مناسبة في موقف متكرر."
+        "en": "They like the city very much.",
+        "ar": "هم يحبون المدينة كثيرًا.",
+        "context": "تقال عند وصف إعجاب مجموعة بمدينة."
       },
       {
         "id": 3,
-        "en": "I heard someone say, \"We like it very much\".",
-        "ar": "سمعت شخصًا يقول: \"نحن نحبه كثيرًا\".",
-        "context": "تجعل الجملة جزءًا من كلام سمعته من شخص آخر."
+        "en": "We like your idea very much.",
+        "ar": "نحن نحب فكرتك كثيرًا.",
+        "context": "تقال عند الموافقة القوية على فكرة."
       },
       {
         "id": 4,
-        "en": "The teacher used the sentence, \"We like it very much\" in class.",
-        "ar": "استخدم المعلم الجملة: \"نحن نحبه كثيرًا\" في الصف.",
-        "context": "تستخدم الجملة مثالًا تعليميًا في الصف."
+        "en": "I like it very much.",
+        "ar": "أنا أحبه كثيرًا.",
+        "context": "تقال عند التعبير عن إعجاب شخصي قوي."
       },
       {
         "id": 5,
-        "en": "Many learners remember the sentence, \"We like it very much\" first.",
-        "ar": "يتذكر كثير من المتعلمين الجملة: \"نحن نحبه كثيرًا\" أولًا.",
-        "context": "تقدم الجملة بوصفها جملة تعليمية أساسية."
+        "en": "We like the food very much.",
+        "ar": "نحن نحب الطعام كثيرًا.",
+        "context": "تقال عند مدح طعام."
       },
       {
         "id": 6,
-        "en": "She said, \"We like it very much\" in a calm way.",
-        "ar": "قالت: \"نحن نحبه كثيرًا\" بطريقة هادئة.",
-        "context": "تجعل الجملة جزءًا من كلام مباشر في موقف عادي."
+        "en": "She likes the song very much.",
+        "ar": "هي تحب الأغنية كثيرًا.",
+        "context": "تقال عن إعجاب قوي بأغنية."
       },
       {
         "id": 7,
-        "en": "He repeated, \"We like it very much\" more than once.",
-        "ar": "ردد: \"نحن نحبه كثيرًا\" أكثر من مرة.",
-        "context": "تضيف معنى التكرار لنفس الجملة."
+        "en": "We like the new teacher very much.",
+        "ar": "نحن نحب المعلم الجديد كثيرًا.",
+        "context": "تقال عند الرضا عن معلم."
       },
       {
         "id": 8,
-        "en": "At the right moment, someone might say, \"We like it very much\".",
-        "ar": "في اللحظة المناسبة، قد يقول شخص ما: \"نحن نحبه كثيرًا\".",
-        "context": "توضح أن الجملة مرتبطة بتوقيت مناسب في السياق."
+        "en": "They like this plan very much.",
+        "ar": "هم يحبون هذه الخطة كثيرًا.",
+        "context": "تقال عند قبول قوي لخطة."
       },
       {
         "id": 9,
-        "en": "I wrote down the sentence, \"We like it very much\" so I would remember it.",
-        "ar": "كتبت الجملة: \"نحن نحبه كثيرًا\" حتى أتذكرها.",
-        "context": "تعطي مثالًا على حفظ الجملة أو مراجعتها."
+        "en": "We like the hotel very much.",
+        "ar": "نحن نحب الفندق كثيرًا.",
+        "context": "تقال عند الرضا عن مكان إقامة."
       },
       {
         "id": 10,
-        "en": "It is useful to know when to say, \"We like it very much\".",
-        "ar": "من المفيد أن تعرف متى تقول: \"نحن نحبه كثيرًا\".",
-        "context": "تركز على معرفة الوقت المناسب لاستخدام الجملة."
+        "en": "My parents like it very much.",
+        "ar": "والداي يحبانه كثيرًا.",
+        "context": "تقال عند نقل إعجاب الوالدين بشيء."
       }
     ]
   }

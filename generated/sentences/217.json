@@ -10,84 +10,91 @@
     "wordMeanings": [
       {
         "term": "Will",
-        "description": "أداة مستقبل تدل على ما سيحدث لاحقًا."
+        "description": "تستخدم هنا في بداية سؤال مهذب لطلب فعل في المستقبل."
       },
       {
         "term": "you",
-        "description": "الضمير الذي يعود على الشخص المخاطَب."
+        "description": "أنت، وتشير إلى الشخص المخاطب."
       },
       {
         "term": "remind",
-        "description": "فعل يعني ستذكرني."
+        "description": "تذكّر شخصًا بشيء حتى لا ينساه."
       },
       {
         "term": "me",
-        "description": "ضمير مفعول به يعني أنا/إياي."
+        "description": "إياي أو ني، وتشير إلى المتكلم."
       }
     ],
-    "tense": "المستقبل البسيط",
-    "tenseEn": "Future Simple",
-    "tenseReason": "استُعمل المستقبل البسيط لأن الجملة تتحدث عن شيء سيحدث لاحقًا أو عن قرار أو توقع يخص المستقبل.",
+    "grammarExplanations": [
+      {
+        "sentence": "Will you remind me?",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه صيغة طلب مهذب باستخدام كلمة تدل على المستقبل أو الاستعداد، والمقصود طلب التذكير لا مجرد الإخبار عن زمن."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "You can ask, \"Will you remind me?\" when you need information.",
-        "ar": "يمكنك أن تسأل: \"هَلْ سَتُذَكِّرُنِي؟\" عندما تحتاج إلى معلومة.",
-        "context": "تستعمل الجملة كسؤال مباشر للحصول على معلومة."
+        "en": "Will you remind me?",
+        "ar": "هل ستذكرني؟",
+        "context": "تقال عند طلب تذكير من شخص."
       },
       {
         "id": 2,
-        "en": "Many people ask, \"Will you remind me?\" in this situation.",
-        "ar": "يسأل كثير من الناس: \"هَلْ سَتُذَكِّرُنِي؟\" في هذا الموقف.",
-        "context": "توضح أن هذا سؤال شائع في موقف مشابه."
+        "en": "Will you remind me tomorrow?",
+        "ar": "هل ستذكرني غدًا؟",
+        "context": "تقال عند طلب تذكير في اليوم التالي."
       },
       {
         "id": 3,
-        "en": "I asked, \"Will you remind me?\" because I was not sure.",
-        "ar": "سألت: \"هَلْ سَتُذَكِّرُنِي؟\" لأنني لم أكن متأكدًا.",
-        "context": "تضيف سببًا لطرح السؤال."
+        "en": "Will you remind me at six?",
+        "ar": "هل ستذكرني في السادسة؟",
+        "context": "تقال عند تحديد وقت للتذكير."
       },
       {
         "id": 4,
-        "en": "She asked politely, \"Will you remind me?\"",
-        "ar": "سألت بأدب: \"هَلْ سَتُذَكِّرُنِي؟\".",
-        "context": "تبين أن السؤال قيل بطريقة مهذبة."
+        "en": "Will you remind me about the meeting?",
+        "ar": "هل ستذكرني بالاجتماع؟",
+        "context": "تقال عند طلب تذكير بموعد اجتماع."
       },
       {
         "id": 5,
-        "en": "At work, someone may ask, \"Will you remind me?\"",
-        "ar": "في العمل، قد يسأل شخص ما: \"هَلْ سَتُذَكِّرُنِي؟\".",
-        "context": "تضع السؤال في سياق مهني أو عملي."
+        "en": "Will you remind me to call her?",
+        "ar": "هل ستذكرني أن أتصل بها؟",
+        "context": "تقال عند طلب تذكير بإجراء مكالمة."
       },
       {
         "id": 6,
-        "en": "Before deciding, ask: \"Will you remind me?\"",
-        "ar": "قبل أن تقرر، اسأل: \"هَلْ سَتُذَكِّرُنِي؟\".",
-        "context": "تستخدم السؤال قبل اتخاذ قرار."
+        "en": "Will you remind me to buy tickets?",
+        "ar": "هل ستذكرني بشراء التذاكر؟",
+        "context": "تقال عند طلب تذكير بشراء شيء."
       },
       {
         "id": 7,
-        "en": "The student asked, \"Will you remind me?\" in class.",
-        "ar": "سأل الطالب: \"هَلْ سَتُذَكِّرُنِي؟\" في الصف.",
-        "context": "تجعل الجملة جزءًا من موقف تعليمي."
+        "en": "Will you remind me before we leave?",
+        "ar": "هل ستذكرني قبل أن نغادر؟",
+        "context": "تقال عند طلب تذكير قبل المغادرة."
       },
       {
         "id": 8,
-        "en": "While traveling, you can ask, \"Will you remind me?\"",
-        "ar": "أثناء السفر، يمكنك أن تسأل: \"هَلْ سَتُذَكِّرُنِي؟\".",
-        "context": "تربط السؤال بموقف السفر أو التنقل."
+        "en": "Will you remind him?",
+        "ar": "هل ستذكره؟",
+        "context": "تقال عند طلب تذكير رجل."
       },
       {
         "id": 9,
-        "en": "He asked me, \"Will you remind me?\" again.",
-        "ar": "سألني: \"هَلْ سَتُذَكِّرُنِي؟\" مرة أخرى.",
-        "context": "تضيف معنى التكرار لنفس السؤال."
+        "en": "Will you remind us later?",
+        "ar": "هل ستذكرنا لاحقًا؟",
+        "context": "تقال عند طلب تذكير مجموعة في وقت لاحق."
       },
       {
         "id": 10,
-        "en": "If you are not sure, ask: \"Will you remind me?\"",
-        "ar": "إذا لم تكن متأكدًا، فاسأل: \"هَلْ سَتُذَكِّرُنِي؟\".",
-        "context": "توضح أن السؤال مناسب عند عدم التأكد."
+        "en": "Will you remind me when it is time?",
+        "ar": "هل ستذكرني عندما يحين الوقت؟",
+        "context": "تقال عند الاعتماد على شخص للتنبيه في الوقت المناسب."
       }
     ]
   }

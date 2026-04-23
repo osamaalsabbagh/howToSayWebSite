@@ -10,80 +10,87 @@
     "wordMeanings": [
       {
         "term": "I",
-        "description": "ضمير المتكلم."
+        "description": "ضمير المتكلم ويشير إلى الشخص الذي يتحدث."
       },
       {
         "term": "ate",
-        "description": "صيغة الماضي من eat وتعني أكل."
+        "description": "أكلت، وهي صيغة ماضية للفعل."
       },
       {
         "term": "already",
-        "description": "ظرف يعني بالفعل أو سابقًا."
+        "description": "تعني أن الفعل حدث قبل الوقت المتوقع أو قبل الآن."
       }
     ],
-    "tense": "الماضي البسيط",
-    "tenseEn": "Past Simple",
-    "tenseReason": "استُعمل الماضي البسيط لأن الجملة تتحدث عن حدث وقع في الماضي واكتمل هناك.",
+    "grammarExplanations": [
+      {
+        "sentence": "I ate already.",
+        "explanation": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "تستخدم الجملة الماضي البسيط للإخبار عن فعل اكتمل في وقت سابق، وكلمة already تؤكد أن الأكل حدث قبل الآن."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "People often say, \"I ate already\" in situations like this.",
-        "ar": "يقول الناس كثيرًا: \"لقد أكلت سابقًا\" في مواقف كهذه.",
-        "context": "تستخدم الجملة بوصفها تركيبًا شائعًا في موقف مشابه."
+        "en": "I called already.",
+        "ar": "اتصلت بالفعل.",
+        "context": "تقال عند إخبار شخص أن الاتصال تم قبل الآن."
       },
       {
         "id": 2,
-        "en": "You can say, \"I ate already\" when this happens.",
-        "ar": "يمكنك أن تقول: \"لقد أكلت سابقًا\" عندما يحدث هذا.",
-        "context": "توضح أن الجملة مناسبة في موقف متكرر."
+        "en": "She left already.",
+        "ar": "غادرت بالفعل.",
+        "context": "تقال عندما تكون المغادرة قد حدثت سابقًا."
       },
       {
         "id": 3,
-        "en": "I heard someone say, \"I ate already\".",
-        "ar": "سمعت شخصًا يقول: \"لقد أكلت سابقًا\".",
-        "context": "تجعل الجملة جزءًا من كلام سمعته من شخص آخر."
+        "en": "We paid already.",
+        "ar": "دفعنا بالفعل.",
+        "context": "تقال لتوضيح أن الدفع تم."
       },
       {
         "id": 4,
-        "en": "The teacher used the sentence, \"I ate already\" in class.",
-        "ar": "استخدم المعلم الجملة: \"لقد أكلت سابقًا\" في الصف.",
-        "context": "تستخدم الجملة مثالًا تعليميًا في الصف."
+        "en": "He finished already.",
+        "ar": "أنهى بالفعل.",
+        "context": "تقال عند إخبار أن العمل انتهى قبل الآن."
       },
       {
         "id": 5,
-        "en": "Many learners remember the sentence, \"I ate already\" first.",
-        "ar": "يتذكر كثير من المتعلمين الجملة: \"لقد أكلت سابقًا\" أولًا.",
-        "context": "تقدم الجملة بوصفها جملة تعليمية أساسية."
+        "en": "I answered already.",
+        "ar": "أجبت بالفعل.",
+        "context": "تقال عندما لا تحتاج إلى الإجابة مرة أخرى."
       },
       {
         "id": 6,
-        "en": "She said, \"I ate already\" in a calm way.",
-        "ar": "قالت: \"لقد أكلت سابقًا\" بطريقة هادئة.",
-        "context": "تجعل الجملة جزءًا من كلام مباشر في موقف عادي."
+        "en": "They arrived already.",
+        "ar": "وصلوا بالفعل.",
+        "context": "تقال عند وصول مجموعة قبل الوقت المتوقع."
       },
       {
         "id": 7,
-        "en": "He repeated, \"I ate already\" more than once.",
-        "ar": "ردد: \"لقد أكلت سابقًا\" أكثر من مرة.",
-        "context": "تضيف معنى التكرار لنفس الجملة."
+        "en": "I bought the ticket already.",
+        "ar": "اشتريت التذكرة بالفعل.",
+        "context": "تقال عند تأكيد إتمام شراء التذكرة."
       },
       {
         "id": 8,
-        "en": "At the right moment, someone might say, \"I ate already\".",
-        "ar": "في اللحظة المناسبة، قد يقول شخص ما: \"لقد أكلت سابقًا\".",
-        "context": "توضح أن الجملة مرتبطة بتوقيت مناسب في السياق."
+        "en": "My brother ate already.",
+        "ar": "أخي أكل بالفعل.",
+        "context": "تقال عند إخبار أن شخصًا تناول الطعام سابقًا."
       },
       {
         "id": 9,
-        "en": "I wrote down the sentence, \"I ate already\" so I would remember it.",
-        "ar": "كتبت الجملة: \"لقد أكلت سابقًا\" حتى أتذكرها.",
-        "context": "تعطي مثالًا على حفظ الجملة أو مراجعتها."
+        "en": "The meeting started already.",
+        "ar": "بدأ الاجتماع بالفعل.",
+        "context": "تقال عندما يبدأ الاجتماع قبل وصول شخص."
       },
       {
         "id": 10,
-        "en": "It is useful to know when to say, \"I ate already\".",
-        "ar": "من المفيد أن تعرف متى تقول: \"لقد أكلت سابقًا\".",
-        "context": "تركز على معرفة الوقت المناسب لاستخدام الجملة."
+        "en": "I sent the message already.",
+        "ar": "أرسلت الرسالة بالفعل.",
+        "context": "تقال عند تأكيد إرسال الرسالة."
       }
     ]
   }

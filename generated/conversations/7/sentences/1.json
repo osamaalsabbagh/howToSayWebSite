@@ -10,88 +10,95 @@
     "wordMeanings": [
       {
         "term": "This",
-        "description": "اسم إشارة يعني هذا."
+        "description": "اسم إشارة يشير إلى المعرض الحالي."
       },
       {
         "term": "art",
-        "description": "اسم يعني المعرض."
+        "description": "فن أو متعلق بالفن."
       },
       {
         "term": "exhibition",
-        "description": "اسم يعني الفني."
+        "description": "معرض تعرض فيه الأعمال الفنية."
       },
       {
         "term": "is",
-        "description": "فعل be في الحاضر مع المفرد."
+        "description": "صيغة تربط المعرض بالوصف."
       },
       {
         "term": "amazing",
-        "description": "صفة تعني مذهل."
+        "description": "صفة تعني مذهلًا أو رائعًا جدًا."
       }
     ],
-    "tense": "المضارع المستمر",
-    "tenseEn": "Present Continuous",
-    "tenseReason": "استُعمل المضارع المستمر لأن الجملة تصف شيئًا يحدث الآن أو في فترة قريبة من الآن، أو خطة قريبة واضحة من السياق.",
+    "grammarExplanations": [
+      {
+        "sentence": "This art exhibition is amazing!",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُعمل المضارع البسيط للتعبير عن انطباع حاضر تجاه المعرض."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "Right now, This art exhibition is amazing!.",
-        "ar": "الآن، هذا المعرض الفني مذهل!.",
-        "context": "تؤكد أن الفعل يحدث في هذه اللحظة."
+        "en": "This art exhibition is beautiful.",
+        "ar": "هذا المعرض الفني جميل.",
+        "context": "تعبّر عن رأيك في معرض."
       },
       {
         "id": 2,
-        "en": "At the moment, This art exhibition is amazing!.",
-        "ar": "في هذه اللحظة، هذا المعرض الفني مذهل!.",
-        "context": "تؤكد استمرار الحدث الآن."
+        "en": "This painting is amazing!",
+        "ar": "هذه اللوحة مذهلة!",
+        "context": "تعلّق على عمل فني محدد."
       },
       {
         "id": 3,
-        "en": "Today, This art exhibition is amazing!.",
-        "ar": "اليوم، هذا المعرض الفني مذهل!.",
-        "context": "تربط الحدث بزمن قريب ومحدد."
+        "en": "This museum is very interesting.",
+        "ar": "هذا المتحف ممتع جدًا.",
+        "context": "تصف مكانًا ثقافيًا."
       },
       {
         "id": 4,
-        "en": "This week, This art exhibition is amazing!.",
-        "ar": "هذا الأسبوع، هذا المعرض الفني مذهل!.",
-        "context": "توسع الجملة إلى فترة زمنية قريبة."
+        "en": "The exhibition is amazing this year.",
+        "ar": "المعرض مذهل هذا العام.",
+        "context": "تقيّم نسخة حالية من معرض."
       },
       {
         "id": 5,
-        "en": "This art exhibition is amazing! because it is important.",
-        "ar": "هذا المعرض الفني مذهل! لأنه مهم.",
-        "context": "تضيف سببًا للاستمرار في الفعل."
+        "en": "This art class is amazing.",
+        "ar": "هذه حصة الفن مذهلة.",
+        "context": "تعبّر عن إعجابك بنشاط فني."
       },
       {
         "id": 6,
-        "en": "This art exhibition is amazing!, so please wait.",
-        "ar": "هذا المعرض الفني مذهل!، لذلك انتظر من فضلك.",
-        "context": "تضيف نتيجة مباشرة على استمرار الحدث."
+        "en": "This room is full of amazing work.",
+        "ar": "هذه الغرفة مليئة بأعمال مذهلة.",
+        "context": "تصف قاعة في معرض."
       },
       {
         "id": 7,
-        "en": "Currently, This art exhibition is amazing!.",
-        "ar": "حاليًا، هذا المعرض الفني مذهل!.",
-        "context": "تستخدم ظرفًا مناسبًا للحاضر المستمر."
+        "en": "This gallery is amazing!",
+        "ar": "هذا المعرض مذهل!",
+        "context": "تعلّق على مكان عرض فني."
       },
       {
         "id": 8,
-        "en": "This art exhibition is amazing! during this period.",
-        "ar": "هذا المعرض الفني مذهل! خلال هذه الفترة.",
-        "context": "تربط الفعل بفترة مستمرة لا بلحظة واحدة فقط."
+        "en": "The colors in this painting are amazing.",
+        "ar": "الألوان في هذه اللوحة مذهلة.",
+        "context": "تحدد سبب إعجابك."
       },
       {
         "id": 9,
-        "en": "This art exhibition is amazing!, and cannot stop now.",
-        "ar": "هذا المعرض الفني مذهل!، ولا يمكن التوقف الآن.",
-        "context": "تضيف فكرة الاستمرار وعدم التوقف."
+        "en": "This exhibition is worth visiting.",
+        "ar": "هذا المعرض يستحق الزيارة.",
+        "context": "تنصح شخصًا بزيارة المعرض."
       },
       {
         "id": 10,
-        "en": "This art exhibition is amazing! while everyone is watching.",
-        "ar": "هذا المعرض الفني مذهل! بينما الجميع يشاهد.",
-        "context": "تضيف ظرفًا زمنيًا متزامنًا مع الحدث."
+        "en": "This art festival is amazing too.",
+        "ar": "هذا المهرجان الفني مذهل أيضًا.",
+        "context": "تقارن فعالية فنية بأخرى."
       }
     ]
   }

@@ -10,80 +10,87 @@
     "wordMeanings": [
       {
         "term": "That",
-        "description": "تشير إلى أمر أو خبر سبق ذكره."
+        "description": "ذلك الشيء أو الوضع الذي يتحدث عنه الشخص."
       },
       {
         "term": "is",
-        "description": "فعل be في الحاضر مع المفرد."
+        "description": "صيغة تأتي مع المفرد وتربط الشيء بحالته أو تقييمه."
       },
       {
         "term": "alright",
-        "description": "صفة تعني تمام."
+        "description": "مقبول أو لا بأس به، بنبرة هادئة."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "That is alright.",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "تستخدم is لوصف قبول الشيء أو الوضع الحالي كما هو، وكلمة alright تعطي قبولًا هادئًا لا حماسًا قويًا."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "People often say, \"That is alright\" in situations like this.",
-        "ar": "يقول الناس كثيرًا: \"ذلك تمام\" في مواقف كهذه.",
-        "context": "تستخدم الجملة بوصفها تركيبًا شائعًا في موقف مشابه."
+        "en": "That is okay.",
+        "ar": "ذلك مقبول.",
+        "context": "تقال عند قبول شيء دون مشكلة."
       },
       {
         "id": 2,
-        "en": "You can say, \"That is alright\" when this happens.",
-        "ar": "يمكنك أن تقول: \"ذلك تمام\" عندما يحدث هذا.",
-        "context": "توضح أن الجملة مناسبة في موقف متكرر."
+        "en": "That is fine with me.",
+        "ar": "ذلك مناسب لي.",
+        "context": "تقال عند قبول اقتراح."
       },
       {
         "id": 3,
-        "en": "I heard someone say, \"That is alright\".",
-        "ar": "سمعت شخصًا يقول: \"ذلك تمام\".",
-        "context": "تجعل الجملة جزءًا من كلام سمعته من شخص آخر."
+        "en": "This is alright for now.",
+        "ar": "هذا مقبول الآن.",
+        "context": "تقال عند قبول حل مؤقت."
       },
       {
         "id": 4,
-        "en": "The teacher used the sentence, \"That is alright\" in class.",
-        "ar": "استخدم المعلم الجملة: \"ذلك تمام\" في الصف.",
-        "context": "تستخدم الجملة مثالًا تعليميًا في الصف."
+        "en": "The room is alright.",
+        "ar": "الغرفة لا بأس بها.",
+        "context": "تقال عند قبول غرفة رغم أنها ليست ممتازة."
       },
       {
         "id": 5,
-        "en": "Many learners remember the sentence, \"That is alright\" first.",
-        "ar": "يتذكر كثير من المتعلمين الجملة: \"ذلك تمام\" أولًا.",
-        "context": "تقدم الجملة بوصفها جملة تعليمية أساسية."
+        "en": "The price is alright.",
+        "ar": "السعر مقبول.",
+        "context": "تقال عند قبول سعر بشكل هادئ."
       },
       {
         "id": 6,
-        "en": "She said, \"That is alright\" in a calm way.",
-        "ar": "قالت: \"ذلك تمام\" بطريقة هادئة.",
-        "context": "تجعل الجملة جزءًا من كلام مباشر في موقف عادي."
+        "en": "That answer is alright.",
+        "ar": "تلك الإجابة مقبولة.",
+        "context": "تقال عند تقييم إجابة بشكل معتدل."
       },
       {
         "id": 7,
-        "en": "He repeated, \"That is alright\" more than once.",
-        "ar": "ردد: \"ذلك تمام\" أكثر من مرة.",
-        "context": "تضيف معنى التكرار لنفس الجملة."
+        "en": "Everything is alright now.",
+        "ar": "كل شيء بخير الآن.",
+        "context": "تقال عند طمأنة شخص بعد مشكلة."
       },
       {
         "id": 8,
-        "en": "At the right moment, someone might say, \"That is alright\".",
-        "ar": "في اللحظة المناسبة، قد يقول شخص ما: \"ذلك تمام\".",
-        "context": "توضح أن الجملة مرتبطة بتوقيت مناسب في السياق."
+        "en": "It is alright to wait.",
+        "ar": "لا بأس بالانتظار.",
+        "context": "تقال عند قبول التأخير."
       },
       {
         "id": 9,
-        "en": "I wrote down the sentence, \"That is alright\" so I would remember it.",
-        "ar": "كتبت الجملة: \"ذلك تمام\" حتى أتذكرها.",
-        "context": "تعطي مثالًا على حفظ الجملة أو مراجعتها."
+        "en": "That plan is alright.",
+        "ar": "تلك الخطة مقبولة.",
+        "context": "تقال عند قبول خطة بنبرة هادئة."
       },
       {
         "id": 10,
-        "en": "It is useful to know when to say, \"That is alright\".",
-        "ar": "من المفيد أن تعرف متى تقول: \"ذلك تمام\".",
-        "context": "تركز على معرفة الوقت المناسب لاستخدام الجملة."
+        "en": "The food is alright.",
+        "ar": "الطعام لا بأس به.",
+        "context": "تقال عند تقييم طعام بشكل متوسط أو مقبول."
       }
     ]
   }

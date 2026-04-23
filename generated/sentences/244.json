@@ -10,80 +10,87 @@
     "wordMeanings": [
       {
         "term": "Is",
-        "description": "فعل be في الحاضر مع المفرد."
+        "description": "تأتي في بداية السؤال لطلب تأكيد أو موافقة."
       },
       {
         "term": "not",
-        "description": "أداة نفي."
+        "description": "لا أو أليس، وتدخل في السؤال لتوقع الموافقة."
       },
       {
         "term": "it",
-        "description": "ضمير يعود على الشيء أو الجملة التي قيلت."
+        "description": "هو أو ذلك، وتشير إلى الفكرة أو الكلام السابق."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "Is not it?",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه عبارة تأكيد مختصرة تطلب موافقة المخاطب على شيء قيل سابقًا، وتعمل كتعبير ثابت أكثر من كونها جملة بزمن مستقل."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "You can ask, \"Is not it?\" when you need information.",
-        "ar": "يمكنك أن تسأل: \"أليس كذلك؟\" عندما تحتاج إلى معلومة.",
-        "context": "تستعمل الجملة كسؤال مباشر للحصول على معلومة."
+        "en": "Is not it?",
+        "ar": "أليس كذلك؟",
+        "context": "تقال عند طلب تأكيد أو موافقة."
       },
       {
         "id": 2,
-        "en": "Many people ask, \"Is not it?\" in this situation.",
-        "ar": "يسأل كثير من الناس: \"أليس كذلك؟\" في هذا الموقف.",
-        "context": "توضح أن هذا سؤال شائع في موقف مشابه."
+        "en": "It is nice, is it not?",
+        "ar": "إنه جميل، أليس كذلك؟",
+        "context": "تقال عند توقع موافقة على رأي."
       },
       {
         "id": 3,
-        "en": "I asked, \"Is not it?\" because I was not sure.",
-        "ar": "سألت: \"أليس كذلك؟\" لأنني لم أكن متأكدًا.",
-        "context": "تضيف سببًا لطرح السؤال."
+        "en": "It is cold, is it not?",
+        "ar": "إنه بارد، أليس كذلك؟",
+        "context": "تقال عند التعليق على الطقس وطلب تأكيد."
       },
       {
         "id": 4,
-        "en": "She asked politely, \"Is not it?\"",
-        "ar": "سألت بأدب: \"أليس كذلك؟\".",
-        "context": "تبين أن السؤال قيل بطريقة مهذبة."
+        "en": "This is your bag, is it not?",
+        "ar": "هذه حقيبتك، أليس كذلك؟",
+        "context": "تقال عند التحقق من ملكية شيء."
       },
       {
         "id": 5,
-        "en": "At work, someone may ask, \"Is not it?\"",
-        "ar": "في العمل، قد يسأل شخص ما: \"أليس كذلك؟\".",
-        "context": "تضع السؤال في سياق مهني أو عملي."
+        "en": "The meeting is today, is it not?",
+        "ar": "الاجتماع اليوم، أليس كذلك؟",
+        "context": "تقال عند تأكيد موعد."
       },
       {
         "id": 6,
-        "en": "Before deciding, ask: \"Is not it?\"",
-        "ar": "قبل أن تقرر، اسأل: \"أليس كذلك؟\".",
-        "context": "تستخدم السؤال قبل اتخاذ قرار."
+        "en": "That is the station, is it not?",
+        "ar": "تلك هي المحطة، أليس كذلك؟",
+        "context": "تقال عند التأكد من مكان."
       },
       {
         "id": 7,
-        "en": "The student asked, \"Is not it?\" in class.",
-        "ar": "سأل الطالب: \"أليس كذلك؟\" في الصف.",
-        "context": "تجعل الجملة جزءًا من موقف تعليمي."
+        "en": "It is expensive, is it not?",
+        "ar": "إنه غالي، أليس كذلك؟",
+        "context": "تقال عند توقع موافقة على السعر."
       },
       {
         "id": 8,
-        "en": "While traveling, you can ask, \"Is not it?\"",
-        "ar": "أثناء السفر، يمكنك أن تسأل: \"أليس كذلك؟\".",
-        "context": "تربط السؤال بموقف السفر أو التنقل."
+        "en": "She is from Boston, is she not?",
+        "ar": "هي من بوسطن، أليست كذلك؟",
+        "context": "تقال عند تأكيد معلومة عن امرأة."
       },
       {
         "id": 9,
-        "en": "He asked me, \"Is not it?\" again.",
-        "ar": "سألني: \"أليس كذلك؟\" مرة أخرى.",
-        "context": "تضيف معنى التكرار لنفس السؤال."
+        "en": "You are ready, are you not?",
+        "ar": "أنت جاهز، أليس كذلك؟",
+        "context": "تقال عند التأكد من استعداد شخص."
       },
       {
         "id": 10,
-        "en": "If you are not sure, ask: \"Is not it?\"",
-        "ar": "إذا لم تكن متأكدًا، فاسأل: \"أليس كذلك؟\".",
-        "context": "توضح أن السؤال مناسب عند عدم التأكد."
+        "en": "That is okay, is it not?",
+        "ar": "ذلك مناسب، أليس كذلك؟",
+        "context": "تقال عند طلب موافقة على ترتيب."
       }
     ]
   }

@@ -10,80 +10,87 @@
     "wordMeanings": [
       {
         "term": "Is",
-        "description": "فعل be في الحاضر مع المفرد."
+        "description": "تأتي في بداية السؤال للتحقق من حالة شيء مفرد."
       },
       {
         "term": "that",
-        "description": "تشير إلى أمر أو خبر سبق ذكره."
+        "description": "ذلك الشيء أو المقدار المحدد في الموقف."
       },
       {
         "term": "enough",
-        "description": "صفة تعني كاف."
+        "description": "كافٍ أو بقدر مناسب للحاجة."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "Is that enough?",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "يبدأ السؤال بـ Is للتحقق من حالة شيء في الوقت الحالي، وهو هل الكمية أو الفعل كافٍ."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "You can ask, \"Is that enough?\" when you need information.",
-        "ar": "يمكنك أن تسأل: \"هل ذلك كافٍ؟\" عندما تحتاج إلى معلومة.",
-        "context": "تستعمل الجملة كسؤال مباشر للحصول على معلومة."
+        "en": "Is this enough?",
+        "ar": "هل هذا كافٍ؟",
+        "context": "تقال عند التحقق من كفاية شيء قريب."
       },
       {
         "id": 2,
-        "en": "Many people ask, \"Is that enough?\" in this situation.",
-        "ar": "يسأل كثير من الناس: \"هل ذلك كافٍ؟\" في هذا الموقف.",
-        "context": "توضح أن هذا سؤال شائع في موقف مشابه."
+        "en": "Is one bottle enough?",
+        "ar": "هل زجاجة واحدة كافية؟",
+        "context": "تقال عند تقدير كمية مشروب أو ماء."
       },
       {
         "id": 3,
-        "en": "I asked, \"Is that enough?\" because I was not sure.",
-        "ar": "سألت: \"هل ذلك كافٍ؟\" لأنني لم أكن متأكدًا.",
-        "context": "تضيف سببًا لطرح السؤال."
+        "en": "Is the money enough?",
+        "ar": "هل المال كافٍ؟",
+        "context": "تقال عند التأكد من كفاية مبلغ."
       },
       {
         "id": 4,
-        "en": "She asked politely, \"Is that enough?\"",
-        "ar": "سألت بأدب: \"هل ذلك كافٍ؟\".",
-        "context": "تبين أن السؤال قيل بطريقة مهذبة."
+        "en": "Is five minutes enough?",
+        "ar": "هل خمس دقائق كافية؟",
+        "context": "تقال عند السؤال عن كفاية الوقت."
       },
       {
         "id": 5,
-        "en": "At work, someone may ask, \"Is that enough?\"",
-        "ar": "في العمل، قد يسأل شخص ما: \"هل ذلك كافٍ؟\".",
-        "context": "تضع السؤال في سياق مهني أو عملي."
+        "en": "Is the room big enough?",
+        "ar": "هل الغرفة كبيرة بما يكفي؟",
+        "context": "تقال عند التحقق من ملاءمة مساحة."
       },
       {
         "id": 6,
-        "en": "Before deciding, ask: \"Is that enough?\"",
-        "ar": "قبل أن تقرر، اسأل: \"هل ذلك كافٍ؟\".",
-        "context": "تستخدم السؤال قبل اتخاذ قرار."
+        "en": "Is the food enough for everyone?",
+        "ar": "هل الطعام كافٍ للجميع؟",
+        "context": "تقال عند تقديم طعام لمجموعة."
       },
       {
         "id": 7,
-        "en": "The student asked, \"Is that enough?\" in class.",
-        "ar": "سأل الطالب: \"هل ذلك كافٍ؟\" في الصف.",
-        "context": "تجعل الجملة جزءًا من موقف تعليمي."
+        "en": "Is this answer enough?",
+        "ar": "هل هذه الإجابة كافية؟",
+        "context": "تقال عند التأكد من اكتمال الرد."
       },
       {
         "id": 8,
-        "en": "While traveling, you can ask, \"Is that enough?\"",
-        "ar": "أثناء السفر، يمكنك أن تسأل: \"هل ذلك كافٍ؟\".",
-        "context": "تربط السؤال بموقف السفر أو التنقل."
+        "en": "Is the light enough?",
+        "ar": "هل الضوء كافٍ؟",
+        "context": "تقال عند التحقق من وضوح الرؤية."
       },
       {
         "id": 9,
-        "en": "He asked me, \"Is that enough?\" again.",
-        "ar": "سألني: \"هل ذلك كافٍ؟\" مرة أخرى.",
-        "context": "تضيف معنى التكرار لنفس السؤال."
+        "en": "Is the explanation clear enough?",
+        "ar": "هل الشرح واضح بما يكفي؟",
+        "context": "تقال عند التأكد من فهم شخص للشرح."
       },
       {
         "id": 10,
-        "en": "If you are not sure, ask: \"Is that enough?\"",
-        "ar": "إذا لم تكن متأكدًا، فاسأل: \"هل ذلك كافٍ؟\".",
-        "context": "توضح أن السؤال مناسب عند عدم التأكد."
+        "en": "Is two days enough time?",
+        "ar": "هل يومان وقت كافٍ؟",
+        "context": "تقال عند تقدير مدة لإنجاز عمل."
       }
     ]
   }

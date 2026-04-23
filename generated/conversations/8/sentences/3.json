@@ -10,104 +10,119 @@
     "wordMeanings": [
       {
         "term": "That",
-        "description": "تشير إلى أمر أو خبر سبق ذكره."
+        "description": "يشير إلى خبر زيارة العمة."
       },
       {
         "term": "is",
-        "description": "فعل be في الحاضر مع المفرد."
+        "description": "صيغة تربط اسم الإشارة بالوصف."
       },
       {
         "term": "awesome",
-        "description": "صفة تعني رائع."
+        "description": "صفة تعني رائعًا جدًا أو مفرحًا."
       },
       {
         "term": "How",
-        "description": "أداة سؤال."
+        "description": "تبدأ سؤالًا عن مقدار أو مدة."
       },
       {
         "term": "long",
-        "description": "صفة تعني طويل."
+        "description": "تعني مدة زمنية طويلة أو قصيرة حسب السؤال."
       },
       {
         "term": "has",
-        "description": "صيغة المضارع مع he/she/it من have."
+        "description": "فعل مساعد في المضارع التام مع she."
       },
       {
         "term": "she",
-        "description": "ضمير يشير إلى امرأة أو بنت."
+        "description": "ضمير يعود على العمة."
       },
       {
         "term": "been",
-        "description": "اسم مفعول من فعل be ويأتي كثيرًا مع الأزمنة التامة."
+        "description": "صيغة تأتي مع المضارع التام للدلالة على استمرار حالة."
       },
       {
         "term": "away",
-        "description": "حال أو ظرف يعني بعيدة."
+        "description": "تعني بعيدة أو غير موجودة في المكان."
       }
     ],
-    "tense": "المضارع التام",
-    "tenseEn": "Present Perfect",
-    "tenseReason": "استُعمل المضارع التام لأن الجملة تربط بين حدث وقع في الماضي ونتيجته أو أثره في الحاضر.",
+    "grammarExplanations": [
+      {
+        "sentence": "That is awesome!",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُعمل المضارع البسيط للتعبير عن انطباع حاضر تجاه خبر الزيارة."
+        }
+      },
+      {
+        "sentence": "How long has she been away?",
+        "explanation": {
+          "tense": "المضارع التام",
+          "tenseEn": "Present Perfect",
+          "reason": "استُعمل المضارع التام للسؤال عن مدة حالة بدأت في الماضي وما زالت مرتبطة بالحاضر، وهي غياب العمة."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "You can ask, \"That is awesome! How long has she been away?\" when you need information.",
-        "ar": "يمكنك أن تسأل: \"ذلك رائع! منذ متى وهي بعيدة؟\" عندما تحتاج إلى معلومة.",
-        "context": "تستعمل الجملة كسؤال مباشر للحصول على معلومة."
+        "en": "How long has he been away?",
+        "ar": "منذ متى وهو بعيد؟",
+        "context": "تسأل عن مدة غياب شخص."
       },
       {
         "id": 2,
-        "en": "Many people ask, \"That is awesome! How long has she been away?\" in this situation.",
-        "ar": "يسأل كثير من الناس: \"ذلك رائع! منذ متى وهي بعيدة؟\" في هذا الموقف.",
-        "context": "توضح أن هذا سؤال شائع في موقف مشابه."
+        "en": "That is awesome! When will she arrive?",
+        "ar": "هذا رائع! متى ستصل؟",
+        "context": "تفرح بخبر زيارة وتسأل عن موعدها."
       },
       {
         "id": 3,
-        "en": "I asked, \"That is awesome! How long has she been away?\" because I was not sure.",
-        "ar": "سألت: \"ذلك رائع! منذ متى وهي بعيدة؟\" لأنني لم أكن متأكدًا.",
-        "context": "تضيف سببًا لطرح السؤال."
+        "en": "How long has your aunt been away?",
+        "ar": "منذ متى وعمتك بعيدة؟",
+        "context": "تسأل عن غياب قريبة."
       },
       {
         "id": 4,
-        "en": "She asked politely, \"That is awesome! How long has she been away?\"",
-        "ar": "سألت بأدب: \"ذلك رائع! منذ متى وهي بعيدة؟\".",
-        "context": "تبين أن السؤال قيل بطريقة مهذبة."
+        "en": "She has been away for two years.",
+        "ar": "هي بعيدة منذ سنتين.",
+        "context": "تجيب عن مدة الغياب."
       },
       {
         "id": 5,
-        "en": "At work, someone may ask, \"That is awesome! How long has she been away?\"",
-        "ar": "في العمل، قد يسأل شخص ما: \"ذلك رائع! منذ متى وهي بعيدة؟\".",
-        "context": "تضع السؤال في سياق مهني أو عملي."
+        "en": "How long has the baby been asleep?",
+        "ar": "منذ متى والطفل نائم؟",
+        "context": "تسأل عن مدة حالة مستمرة."
       },
       {
         "id": 6,
-        "en": "Before deciding, ask: \"That is awesome! How long has she been away?\"",
-        "ar": "قبل أن تقرر، اسأل: \"ذلك رائع! منذ متى وهي بعيدة؟\".",
-        "context": "تستخدم السؤال قبل اتخاذ قرار."
+        "en": "That is awesome news!",
+        "ar": "هذا خبر رائع!",
+        "context": "تعبّر عن فرحك بخبر."
       },
       {
         "id": 7,
-        "en": "The student asked, \"That is awesome! How long has she been away?\" in class.",
-        "ar": "سأل الطالب: \"ذلك رائع! منذ متى وهي بعيدة؟\" في الصف.",
-        "context": "تجعل الجملة جزءًا من موقف تعليمي."
+        "en": "How long have they been away?",
+        "ar": "منذ متى وهم بعيدون؟",
+        "context": "تسأل عن غياب جماعة."
       },
       {
         "id": 8,
-        "en": "While traveling, you can ask, \"That is awesome! How long has she been away?\"",
-        "ar": "أثناء السفر، يمكنك أن تسأل: \"ذلك رائع! منذ متى وهي بعيدة؟\".",
-        "context": "تربط السؤال بموقف السفر أو التنقل."
+        "en": "How long has she lived there?",
+        "ar": "منذ متى وهي تعيش هناك؟",
+        "context": "تسأل عن مدة سكن مستمرة."
       },
       {
         "id": 9,
-        "en": "He asked me, \"That is awesome! How long has she been away?\" again.",
-        "ar": "سألني: \"ذلك رائع! منذ متى وهي بعيدة؟\" مرة أخرى.",
-        "context": "تضيف معنى التكرار لنفس السؤال."
+        "en": "That is awesome for your family.",
+        "ar": "هذا رائع لعائلتك.",
+        "context": "تعلّق على خبر عائلي مفرح."
       },
       {
         "id": 10,
-        "en": "If you are not sure, ask: \"That is awesome! How long has she been away?\"",
-        "ar": "إذا لم تكن متأكدًا، فاسأل: \"ذلك رائع! منذ متى وهي بعيدة؟\".",
-        "context": "توضح أن السؤال مناسب عند عدم التأكد."
+        "en": "How long has your cousin been here?",
+        "ar": "منذ متى وابن عمك هنا؟",
+        "context": "تسأل عن مدة وجود شخص."
       }
     ]
   }

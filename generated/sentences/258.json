@@ -10,87 +10,95 @@
     "wordMeanings": [
       {
         "term": "Where",
-        "description": "أداة سؤال عن المكان."
+        "description": "أين، وتستخدم للسؤال عن مكان."
       },
       {
         "term": "can",
-        "description": "فعل مساعد يدل هنا على القدرة أو الاستعداد لتلبية الطلب."
+        "description": "تستخدم للسؤال عن الإمكانية أو المكان المناسب لفعل شيء."
       },
       {
         "term": "I",
-        "description": "ضمير المتكلم."
+        "description": "أنا، وتشير إلى المتكلم."
       },
       {
         "term": "buy",
-        "description": "فعل يعني يشتري."
+        "description": "أشتري."
       },
       {
         "term": "tickets",
-        "description": "اسم يعني التذاكر."
+        "description": "تذاكر."
       }
     ],
-    "tense": null,
-    "tenseReason": "استُعمل هذا التركيب لأنه سؤال يعتمد على فعل modal مثل can أو could أو would، لذلك لا نعامله هنا كزمن مستقل بل كصيغة سؤال وظيفية.",
+    "grammarExplanations": [
+      {
+        "sentence": "Where can I buy tickets?",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه صيغة سؤال عن المكان باستخدام تركيب يدل على الإمكانية، والفعل بعدها بصيغته الأساسية، لذلك تشرح كتركيب سؤال لا كزمن مستقل."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "You can ask, \"Where can I buy tickets?\" when you need information.",
-        "ar": "يمكنك أن تسأل: \"أين يمكنني شراء التذاكر؟\" عندما تحتاج إلى معلومة.",
-        "context": "تستعمل الجملة كسؤال مباشر للحصول على معلومة."
+        "en": "Where can I buy tickets?",
+        "ar": "أين يمكنني شراء التذاكر؟",
+        "context": "تقال عند السؤال عن مكان شراء التذاكر."
       },
       {
         "id": 2,
-        "en": "Many people ask, \"Where can I buy tickets?\" in this situation.",
-        "ar": "يسأل كثير من الناس: \"أين يمكنني شراء التذاكر؟\" في هذا الموقف.",
-        "context": "توضح أن هذا سؤال شائع في موقف مشابه."
+        "en": "Where can I buy bus tickets?",
+        "ar": "أين يمكنني شراء تذاكر الحافلة؟",
+        "context": "تقال عند البحث عن تذاكر حافلة."
       },
       {
         "id": 3,
-        "en": "I asked, \"Where can I buy tickets?\" because I was not sure.",
-        "ar": "سألت: \"أين يمكنني شراء التذاكر؟\" لأنني لم أكن متأكدًا.",
-        "context": "تضيف سببًا لطرح السؤال."
+        "en": "Where can I buy train tickets?",
+        "ar": "أين يمكنني شراء تذاكر القطار؟",
+        "context": "تقال عند البحث عن تذاكر قطار."
       },
       {
         "id": 4,
-        "en": "She asked politely, \"Where can I buy tickets?\"",
-        "ar": "سألت بأدب: \"أين يمكنني شراء التذاكر؟\".",
-        "context": "تبين أن السؤال قيل بطريقة مهذبة."
+        "en": "Where can I buy movie tickets?",
+        "ar": "أين يمكنني شراء تذاكر الفيلم؟",
+        "context": "تقال عند التخطيط للذهاب إلى السينما."
       },
       {
         "id": 5,
-        "en": "At work, someone may ask, \"Where can I buy tickets?\"",
-        "ar": "في العمل، قد يسأل شخص ما: \"أين يمكنني شراء التذاكر؟\".",
-        "context": "تضع السؤال في سياق مهني أو عملي."
+        "en": "Where can I buy tickets online?",
+        "ar": "أين يمكنني شراء التذاكر عبر الإنترنت؟",
+        "context": "تقال عند البحث عن شراء إلكتروني."
       },
       {
         "id": 6,
-        "en": "Before deciding, ask: \"Where can I buy tickets?\"",
-        "ar": "قبل أن تقرر، اسأل: \"أين يمكنني شراء التذاكر؟\".",
-        "context": "تستخدم السؤال قبل اتخاذ قرار."
+        "en": "Where can I buy tickets for tomorrow?",
+        "ar": "أين يمكنني شراء تذاكر للغد؟",
+        "context": "تقال عند شراء تذاكر ليوم لاحق."
       },
       {
         "id": 7,
-        "en": "The student asked, \"Where can I buy tickets?\" in class.",
-        "ar": "سأل الطالب: \"أين يمكنني شراء التذاكر؟\" في الصف.",
-        "context": "تجعل الجملة جزءًا من موقف تعليمي."
+        "en": "Can I buy tickets here?",
+        "ar": "هل يمكنني شراء التذاكر هنا؟",
+        "context": "تقال عند التأكد من إمكانية الشراء في المكان الحالي."
       },
       {
         "id": 8,
-        "en": "While traveling, you can ask, \"Where can I buy tickets?\"",
-        "ar": "أثناء السفر، يمكنك أن تسأل: \"أين يمكنني شراء التذاكر؟\".",
-        "context": "تربط السؤال بموقف السفر أو التنقل."
+        "en": "I need to buy tickets.",
+        "ar": "أحتاج إلى شراء تذاكر.",
+        "context": "تقال عند توضيح حاجتك."
       },
       {
         "id": 9,
-        "en": "He asked me, \"Where can I buy tickets?\" again.",
-        "ar": "سألني: \"أين يمكنني شراء التذاكر؟\" مرة أخرى.",
-        "context": "تضيف معنى التكرار لنفس السؤال."
+        "en": "Where can we buy tickets?",
+        "ar": "أين يمكننا شراء التذاكر؟",
+        "context": "تقال عندما يسأل أكثر من شخص."
       },
       {
         "id": 10,
-        "en": "If you are not sure, ask: \"Where can I buy tickets?\"",
-        "ar": "إذا لم تكن متأكدًا، فاسأل: \"أين يمكنني شراء التذاكر؟\".",
-        "context": "توضح أن السؤال مناسب عند عدم التأكد."
+        "en": "Where can I buy cheap tickets?",
+        "ar": "أين يمكنني شراء تذاكر رخيصة؟",
+        "context": "تقال عند البحث عن سعر أقل."
       }
     ]
   }

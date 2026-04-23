@@ -10,71 +10,79 @@
     "wordMeanings": [
       {
         "term": "Certainly",
-        "description": "حال أو ظرف يعني بالتأكيد."
+        "description": "بالتأكيد، وتستخدم للموافقة القوية أو التأكيد."
       }
     ],
-    "tense": null,
-    "tenseReason": "استُعمل هذا التعبير لأنه عبارة ثابتة أو رد قصير يُستخدم في موقف محدد، وليس جملة فعلية كاملة بزمن واضح.",
+    "grammarExplanations": [
+      {
+        "sentence": "Certainly!",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه كلمة جواب للتأكيد أو الموافقة القوية، ولا تحتوي على فعل أو زمن مستقل."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "In this situation, people often say, \"Certainly!\"",
-        "ar": "في هذا الموقف، يقول الناس كثيرًا: \"بالتأكيد!\"",
-        "context": "توضح أن العبارة مناسبة في هذا النوع من المواقف."
+        "en": "Certainly.",
+        "ar": "بالتأكيد.",
+        "context": "تقال عند الموافقة بثقة."
       },
       {
         "id": 2,
-        "en": "The teacher said, \"Certainly!\" to the students.",
-        "ar": "قال المعلم للطلاب: \"بالتأكيد!\"",
-        "context": "تستخدم الجملة كتعليمات أو توجيه مباشر."
+        "en": "Certainly, I can help.",
+        "ar": "بالتأكيد، أستطيع المساعدة.",
+        "context": "تقال عند قبول طلب مساعدة."
       },
       {
         "id": 3,
-        "en": "He told me, \"Certainly!\" before we left.",
-        "ar": "قال لي: \"بالتأكيد!\" قبل أن نغادر.",
-        "context": "تضع العبارة قبل حدث آخر."
+        "en": "Certainly, you may come in.",
+        "ar": "بالتأكيد، يمكنك الدخول.",
+        "context": "تقال عند السماح لشخص بالدخول."
       },
       {
         "id": 4,
-        "en": "She said, \"Certainly!\" in a polite way.",
-        "ar": "قالت: \"بالتأكيد!\" بطريقة مهذبة.",
-        "context": "تظهر أن العبارة يمكن أن تقال بلطف أو أدب."
+        "en": "Certainly, that is possible.",
+        "ar": "بالتأكيد، ذلك ممكن.",
+        "context": "تقال عند تأكيد إمكانية أمر."
       },
       {
         "id": 5,
-        "en": "Someone shouted, \"Certainly!\" when there was a problem.",
-        "ar": "صاح شخص ما: \"بالتأكيد!\" عندما ظهرت مشكلة.",
-        "context": "تربط العبارة بموقف سريع أو طارئ."
+        "en": "Certainly, I understand.",
+        "ar": "بالتأكيد، أنا أفهم.",
+        "context": "تقال عند تأكيد فهم كلام شخص."
       },
       {
         "id": 6,
-        "en": "You can say, \"Certainly!\" when you need a quick response.",
-        "ar": "يمكنك أن تقول: \"بالتأكيد!\" عندما تحتاج إلى رد سريع.",
-        "context": "توضح أن العبارة مفيدة عند الحاجة إلى استجابة مباشرة."
+        "en": "Yes, certainly.",
+        "ar": "نعم، بالتأكيد.",
+        "context": "تقال عند تأكيد الموافقة بوضوح."
       },
       {
         "id": 7,
-        "en": "They repeated, \"Certainly!\" more than once.",
-        "ar": "رددوا: \"بالتأكيد!\" أكثر من مرة.",
-        "context": "تعطي مثالًا على تكرار العبارة."
+        "en": "Certainly, we can wait.",
+        "ar": "بالتأكيد، يمكننا الانتظار.",
+        "context": "تقال عند قبول الانتظار."
       },
       {
         "id": 8,
-        "en": "I heard him say, \"Certainly!\" yesterday.",
-        "ar": "سمعته يقول: \"بالتأكيد!\" أمس.",
-        "context": "تجعل العبارة جزءًا من موقف سمعته من شخص آخر."
+        "en": "Certainly, I will call you.",
+        "ar": "بالتأكيد، سأتصل بك.",
+        "context": "تقال عند الوعد بالاتصال."
       },
       {
         "id": 9,
-        "en": "Many learners remember the phrase, \"Certainly!\"",
-        "ar": "يتذكر كثير من المتعلمين العبارة: \"بالتأكيد!\"",
-        "context": "تقدم العبارة بوصفها عبارة سهلة التذكر."
+        "en": "Certainly, this is important.",
+        "ar": "بالتأكيد، هذا مهم.",
+        "context": "تقال عند تأكيد أهمية شيء."
       },
       {
         "id": 10,
-        "en": "At that moment, she said, \"Certainly!\"",
-        "ar": "في تلك اللحظة، قالت: \"بالتأكيد!\"",
-        "context": "تربط العبارة بلحظة معينة في السرد."
+        "en": "Certainly, you are right.",
+        "ar": "بالتأكيد، أنت محق.",
+        "context": "تقال عند الاتفاق مع رأي شخص."
       }
     ]
   }

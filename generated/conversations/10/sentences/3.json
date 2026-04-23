@@ -10,92 +10,103 @@
     "wordMeanings": [
       {
         "term": "Is",
-        "description": "فعل be في الحاضر مع المفرد."
+        "description": "صيغة تبدأ سؤالًا عن حالة أو إمكانية."
       },
       {
         "term": "it",
-        "description": "ضمير يعود على الشيء أو الجملة التي قيلت."
+        "description": "ضمير يعود على رؤية الشقة الآن."
       },
       {
         "term": "possible",
-        "description": "صفة تعني ممكن."
+        "description": "تعني ممكنًا أو قابلًا للحدوث."
       },
       {
         "term": "to",
-        "description": "أداة تأتي قبل المصدر بعد أفعال مثل want."
+        "description": "تأتي قبل الفعل بعد possible."
       },
       {
         "term": "see",
-        "description": "فعل يعني يرى."
+        "description": "تعني رؤية أو معاينة."
+      },
+      {
+        "term": "it",
+        "description": "ضمير يعود على الشقة."
       },
       {
         "term": "now",
-        "description": "ظرف زمان يعني الآن."
+        "description": "الآن، في هذه اللحظة."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "Is it possible to see it now?",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُعمل المضارع البسيط للسؤال عن إمكانية حالية: هل المعاينة ممكنة الآن؟"
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "You can ask, \"Is it possible to see it now?\" when you need information.",
-        "ar": "يمكنك أن تسأل: \"هل من الممكن رؤيتها الآن؟\" عندما تحتاج إلى معلومة.",
-        "context": "تستعمل الجملة كسؤال مباشر للحصول على معلومة."
+        "en": "Is it possible to see the room today?",
+        "ar": "هل من الممكن رؤية الغرفة اليوم؟",
+        "context": "تسأل عن إمكانية معاينة مكان في نفس اليوم."
       },
       {
         "id": 2,
-        "en": "Many people ask, \"Is it possible to see it now?\" in this situation.",
-        "ar": "يسأل كثير من الناس: \"هل من الممكن رؤيتها الآن؟\" في هذا الموقف.",
-        "context": "توضح أن هذا سؤال شائع في موقف مشابه."
+        "en": "Is it possible to meet the owner now?",
+        "ar": "هل من الممكن مقابلة المالك الآن؟",
+        "context": "تسأل عن إمكانية لقاء شخص فورًا."
       },
       {
         "id": 3,
-        "en": "I asked, \"Is it possible to see it now?\" because I was not sure.",
-        "ar": "سألت: \"هل من الممكن رؤيتها الآن؟\" لأنني لم أكن متأكدًا.",
-        "context": "تضيف سببًا لطرح السؤال."
+        "en": "Is it possible to visit tomorrow?",
+        "ar": "هل من الممكن الزيارة غدًا؟",
+        "context": "تطلب موعد زيارة بطريقة مهذبة."
       },
       {
         "id": 4,
-        "en": "She asked politely, \"Is it possible to see it now?\"",
-        "ar": "سألت بأدب: \"هل من الممكن رؤيتها الآن؟\".",
-        "context": "تبين أن السؤال قيل بطريقة مهذبة."
+        "en": "Is it possible to see it before lunch?",
+        "ar": "هل من الممكن رؤيتها قبل الغداء؟",
+        "context": "تسأل عن وقت محدد للمعاينة."
       },
       {
         "id": 5,
-        "en": "At work, someone may ask, \"Is it possible to see it now?\"",
-        "ar": "في العمل، قد يسأل شخص ما: \"هل من الممكن رؤيتها الآن؟\".",
-        "context": "تضع السؤال في سياق مهني أو عملي."
+        "en": "Is it possible to call the owner?",
+        "ar": "هل من الممكن الاتصال بالمالك؟",
+        "context": "تقترح طريقة لحل مشكلة المفتاح."
       },
       {
         "id": 6,
-        "en": "Before deciding, ask: \"Is it possible to see it now?\"",
-        "ar": "قبل أن تقرر، اسأل: \"هل من الممكن رؤيتها الآن؟\".",
-        "context": "تستخدم السؤال قبل اتخاذ قرار."
+        "en": "Is it possible to reserve it now?",
+        "ar": "هل من الممكن حجزها الآن؟",
+        "context": "تسأل عن إمكانية الحجز الفوري."
       },
       {
         "id": 7,
-        "en": "The student asked, \"Is it possible to see it now?\" in class.",
-        "ar": "سأل الطالب: \"هل من الممكن رؤيتها الآن؟\" في الصف.",
-        "context": "تجعل الجملة جزءًا من موقف تعليمي."
+        "en": "Is it possible to see another apartment?",
+        "ar": "هل من الممكن رؤية شقة أخرى؟",
+        "context": "تسأل عن بديل إذا لم تتوفر الشقة."
       },
       {
         "id": 8,
-        "en": "While traveling, you can ask, \"Is it possible to see it now?\"",
-        "ar": "أثناء السفر، يمكنك أن تسأل: \"هل من الممكن رؤيتها الآن؟\".",
-        "context": "تربط السؤال بموقف السفر أو التنقل."
+        "en": "Is it possible to come back later?",
+        "ar": "هل من الممكن العودة لاحقًا؟",
+        "context": "تطلب موعدًا لاحقًا."
       },
       {
         "id": 9,
-        "en": "He asked me, \"Is it possible to see it now?\" again.",
-        "ar": "سألني: \"هل من الممكن رؤيتها الآن؟\" مرة أخرى.",
-        "context": "تضيف معنى التكرار لنفس السؤال."
+        "en": "Is it possible to check the key now?",
+        "ar": "هل من الممكن التحقق من المفتاح الآن؟",
+        "context": "تسأل عن خطوة عملية قبل المعاينة."
       },
       {
         "id": 10,
-        "en": "If you are not sure, ask: \"Is it possible to see it now?\"",
-        "ar": "إذا لم تكن متأكدًا، فاسأل: \"هل من الممكن رؤيتها الآن؟\".",
-        "context": "توضح أن السؤال مناسب عند عدم التأكد."
+        "en": "Is it possible to see it after work?",
+        "ar": "هل من الممكن رؤيتها بعد العمل؟",
+        "context": "تسأل عن موعد يناسب جدولك."
       }
     ]
   }

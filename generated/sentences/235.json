@@ -10,103 +10,119 @@
     "wordMeanings": [
       {
         "term": "I",
-        "description": "ضمير المتكلم."
+        "description": "أنا، وتشير إلى المتكلم."
       },
       {
         "term": "would",
-        "description": "فعل modal يُستعمل للطلب المؤدب أو الرغبة أو الفرضية."
+        "description": "تجعل التعبير عن الرغبة أكثر تهذيبًا."
       },
       {
         "term": "like",
-        "description": "فعل يدل على الإعجاب أو الميل."
+        "description": "أود أو أرغب."
       },
       {
         "term": "to",
-        "description": "أداة تأتي قبل المصدر بعد أفعال مثل want."
+        "description": "تربط الرغبة بالفعل بعدها."
       },
       {
         "term": "eat",
-        "description": "فعل يعني يأكل."
+        "description": "آكل أو أتناول الطعام."
       },
       {
         "term": "at",
-        "description": "حرف جر يعني عند أو في وقت/مكان محدد."
+        "description": "في أو عند، وتستخدم هنا مع مكان تناول الطعام."
       },
       {
         "term": "5th",
-        "description": "رقم يدل على الخامسة."
+        "description": "الخامسة، وهي جزء من اسم الشارع."
       },
       {
         "term": "street",
-        "description": "اسم يعني شارع."
+        "description": "شارع، وهي جزء من اسم المكان."
       },
       {
         "term": "restaurant",
-        "description": "اسم يعني مطعم."
+        "description": "مطعم."
       }
     ],
-    "tense": null,
-    "tenseReason": "تتضمن الجملة فعلًا modal يعبّر عن القدرة أو الإمكانية أو الرغبة، لذلك لا نضع لها هنا زمنًا فعليًا مستقلًا على الرغم من وجود معنى زمني عام في السياق.",
+    "grammarExplanations": [
+      {
+        "sentence": "I would like to eat",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذا تركيب مهذب للتعبير عن رغبة، ويأتي بعده فعل بصيغة المصدر لشرح ما يريد المتكلم فعله، لذلك لا يشرح كزمن مستقل."
+        }
+      },
+      {
+        "sentence": "at 5th street restaurant",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه عبارة مكانية تحدد المطعم الذي يريد المتكلم تناول الطعام فيه، ولا تحتوي على فعل أو زمن مستقل."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "People often say, \"I would like to eat at 5th street restaurant\" in situations like this.",
-        "ar": "يقول الناس كثيرًا: \"أود أن أتناول الطعام في مطعم شارع الخامسة\" في مواقف كهذه.",
-        "context": "تستخدم الجملة بوصفها تركيبًا شائعًا في موقف مشابه."
+        "en": "I would like to eat at 5th street restaurant.",
+        "ar": "أود أن أتناول الطعام في مطعم شارع الخامسة.",
+        "context": "تقال عند إبداء رغبة بتناول الطعام في مطعم محدد."
       },
       {
         "id": 2,
-        "en": "You can say, \"I would like to eat at 5th street restaurant\" when this happens.",
-        "ar": "يمكنك أن تقول: \"أود أن أتناول الطعام في مطعم شارع الخامسة\" عندما يحدث هذا.",
-        "context": "توضح أن الجملة مناسبة في موقف متكرر."
+        "en": "I would like to eat at this restaurant.",
+        "ar": "أود أن أتناول الطعام في هذا المطعم.",
+        "context": "تقال عند اختيار مطعم قريب."
       },
       {
         "id": 3,
-        "en": "I heard someone say, \"I would like to eat at 5th street restaurant\".",
-        "ar": "سمعت شخصًا يقول: \"أود أن أتناول الطعام في مطعم شارع الخامسة\".",
-        "context": "تجعل الجملة جزءًا من كلام سمعته من شخص آخر."
+        "en": "I would like to eat at a quiet restaurant.",
+        "ar": "أود أن أتناول الطعام في مطعم هادئ.",
+        "context": "تقال عند طلب نوع مناسب من المطاعم."
       },
       {
         "id": 4,
-        "en": "The teacher used the sentence, \"I would like to eat at 5th street restaurant\" in class.",
-        "ar": "استخدم المعلم الجملة: \"أود أن أتناول الطعام في مطعم شارع الخامسة\" في الصف.",
-        "context": "تستخدم الجملة مثالًا تعليميًا في الصف."
+        "en": "I would like to eat at the hotel restaurant.",
+        "ar": "أود أن أتناول الطعام في مطعم الفندق.",
+        "context": "تقال عند اختيار مطعم داخل فندق."
       },
       {
         "id": 5,
-        "en": "Many learners remember the sentence, \"I would like to eat at 5th street restaurant\" first.",
-        "ar": "يتذكر كثير من المتعلمين الجملة: \"أود أن أتناول الطعام في مطعم شارع الخامسة\" أولًا.",
-        "context": "تقدم الجملة بوصفها جملة تعليمية أساسية."
+        "en": "I would like to eat at an Italian restaurant.",
+        "ar": "أود أن أتناول الطعام في مطعم إيطالي.",
+        "context": "تقال عند تفضيل نوع طعام."
       },
       {
         "id": 6,
-        "en": "She said, \"I would like to eat at 5th street restaurant\" in a calm way.",
-        "ar": "قالت: \"أود أن أتناول الطعام في مطعم شارع الخامسة\" بطريقة هادئة.",
-        "context": "تجعل الجملة جزءًا من كلام مباشر في موقف عادي."
+        "en": "I would like to eat dinner there.",
+        "ar": "أود أن أتناول العشاء هناك.",
+        "context": "تقال عند اختيار مكان للعشاء."
       },
       {
         "id": 7,
-        "en": "He repeated, \"I would like to eat at 5th street restaurant\" more than once.",
-        "ar": "ردد: \"أود أن أتناول الطعام في مطعم شارع الخامسة\" أكثر من مرة.",
-        "context": "تضيف معنى التكرار لنفس الجملة."
+        "en": "I would like to eat before the movie.",
+        "ar": "أود أن أتناول الطعام قبل الفيلم.",
+        "context": "تقال عند ترتيب وقت الطعام."
       },
       {
         "id": 8,
-        "en": "At the right moment, someone might say, \"I would like to eat at 5th street restaurant\".",
-        "ar": "في اللحظة المناسبة، قد يقول شخص ما: \"أود أن أتناول الطعام في مطعم شارع الخامسة\".",
-        "context": "توضح أن الجملة مرتبطة بتوقيت مناسب في السياق."
+        "en": "I would like to eat near the station.",
+        "ar": "أود أن أتناول الطعام قرب المحطة.",
+        "context": "تقال عند البحث عن مطعم في موقع محدد."
       },
       {
         "id": 9,
-        "en": "I wrote down the sentence, \"I would like to eat at 5th street restaurant\" so I would remember it.",
-        "ar": "كتبت الجملة: \"أود أن أتناول الطعام في مطعم شارع الخامسة\" حتى أتذكرها.",
-        "context": "تعطي مثالًا على حفظ الجملة أو مراجعتها."
+        "en": "I would like to eat something light.",
+        "ar": "أود أن أتناول شيئًا خفيفًا.",
+        "context": "تقال عند تفضيل وجبة خفيفة."
       },
       {
         "id": 10,
-        "en": "It is useful to know when to say, \"I would like to eat at 5th street restaurant\".",
-        "ar": "من المفيد أن تعرف متى تقول: \"أود أن أتناول الطعام في مطعم شارع الخامسة\".",
-        "context": "تركز على معرفة الوقت المناسب لاستخدام الجملة."
+        "en": "I would like to eat with my family.",
+        "ar": "أود أن أتناول الطعام مع عائلتي.",
+        "context": "تقال عند ذكر من ستأكل معه."
       }
     ]
   }

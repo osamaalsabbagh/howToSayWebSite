@@ -10,75 +10,83 @@
     "wordMeanings": [
       {
         "term": "52",
-        "description": "رقم يدل على ٥٢."
+        "description": "العدد اثنان وخمسون."
       },
       {
         "term": "cents",
-        "description": "اسم يعني سنتا."
+        "description": "سنتات، وهي أجزاء صغيرة من الدولار."
       }
     ],
-    "tense": null,
-    "tenseReason": "استُعمل هذا التعبير لأنه عبارة ثابتة أو رد قصير يُستخدم في موقف محدد، وليس جملة فعلية كاملة بزمن واضح.",
+    "grammarExplanations": [
+      {
+        "sentence": "52 cents.",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه عبارة مبلغ مالي مختصرة بلا فعل ظاهر، وتستخدم لذكر قيمة صغيرة فقط."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "In this situation, people often say, \"52 cents\".",
-        "ar": "في هذا الموقف، يقول الناس كثيرًا: \"٥٢ سنتًا\".",
-        "context": "توضح أن العبارة مناسبة في هذا النوع من المواقف."
+        "en": "52 cents.",
+        "ar": "٥٢ سنتًا.",
+        "context": "تقال عند ذكر مبلغ مالي صغير."
       },
       {
         "id": 2,
-        "en": "The teacher said, \"52 cents\" to the students.",
-        "ar": "قال المعلم للطلاب: \"٥٢ سنتًا\".",
-        "context": "تستخدم الجملة كتعليمات أو توجيه مباشر."
+        "en": "It costs 52 cents.",
+        "ar": "يكلف ٥٢ سنتًا.",
+        "context": "تقال عند ذكر سعر شيء رخيص."
       },
       {
         "id": 3,
-        "en": "He told me, \"52 cents\" before we left.",
-        "ar": "قال لي: \"٥٢ سنتًا\" قبل أن نغادر.",
-        "context": "تضع العبارة قبل حدث آخر."
+        "en": "The stamp is 52 cents.",
+        "ar": "الطابع ب٥٢ سنتًا.",
+        "context": "تقال عند ذكر سعر طابع بريدي."
       },
       {
         "id": 4,
-        "en": "She said, \"52 cents\" in a polite way.",
-        "ar": "قالت: \"٥٢ سنتًا\" بطريقة مهذبة.",
-        "context": "تظهر أن العبارة يمكن أن تقال بلطف أو أدب."
+        "en": "The total is 52 cents.",
+        "ar": "المجموع ٥٢ سنتًا.",
+        "context": "تقال عند حساب مبلغ صغير."
       },
       {
         "id": 5,
-        "en": "Someone shouted, \"52 cents\" when there was a problem.",
-        "ar": "صاح شخص ما: \"٥٢ سنتًا\" عندما ظهرت مشكلة.",
-        "context": "تربط العبارة بموقف سريع أو طارئ."
+        "en": "I have 52 cents.",
+        "ar": "لدي ٥٢ سنتًا.",
+        "context": "تقال عند ذكر ما لديك من فكة."
       },
       {
         "id": 6,
-        "en": "You can say, \"52 cents\" when you need a quick response.",
-        "ar": "يمكنك أن تقول: \"٥٢ سنتًا\" عندما تحتاج إلى رد سريع.",
-        "context": "توضح أن العبارة مفيدة عند الحاجة إلى استجابة مباشرة."
+        "en": "Do you have 52 cents?",
+        "ar": "هل لديك ٥٢ سنتًا؟",
+        "context": "تقال عند السؤال عن فكة محددة."
       },
       {
         "id": 7,
-        "en": "They repeated, \"52 cents\" more than once.",
-        "ar": "رددوا: \"٥٢ سنتًا\" أكثر من مرة.",
-        "context": "تعطي مثالًا على تكرار العبارة."
+        "en": "Please add 52 cents.",
+        "ar": "من فضلك أضف ٥٢ سنتًا.",
+        "context": "تقال عند طلب إضافة مبلغ صغير."
       },
       {
         "id": 8,
-        "en": "I heard him say, \"52 cents\" yesterday.",
-        "ar": "سمعته يقول: \"٥٢ سنتًا\" أمس.",
-        "context": "تجعل العبارة جزءًا من موقف سمعته من شخص آخر."
+        "en": "The change is 52 cents.",
+        "ar": "الفكة ٥٢ سنتًا.",
+        "context": "تقال عند إعطاء الباقي بعد الدفع."
       },
       {
         "id": 9,
-        "en": "Many learners remember the phrase, \"52 cents\".",
-        "ar": "يتذكر كثير من المتعلمين العبارة: \"٥٢ سنتًا\".",
-        "context": "تقدم العبارة بوصفها عبارة سهلة التذكر."
+        "en": "I paid 52 cents.",
+        "ar": "دفعت ٥٢ سنتًا.",
+        "context": "تقال عند الإخبار عن مبلغ صغير دفعته."
       },
       {
         "id": 10,
-        "en": "At that moment, she said, \"52 cents\".",
-        "ar": "في تلك اللحظة، قالت: \"٥٢ سنتًا\".",
-        "context": "تربط العبارة بلحظة معينة في السرد."
+        "en": "This coin is worth 52 cents.",
+        "ar": "هذه العملة تساوي ٥٢ سنتًا.",
+        "context": "تقال عند شرح قيمة عملة أو مبلغ."
       }
     ]
   }

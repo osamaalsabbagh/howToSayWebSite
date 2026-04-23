@@ -10,84 +10,91 @@
     "wordMeanings": [
       {
         "term": "How",
-        "description": "أداة سؤال."
+        "description": "كيف، وتستخدم هنا للسؤال عن رأي أو وصف."
       },
       {
         "term": "was",
-        "description": "فعل be في الماضي مع المفرد."
+        "description": "كان، وتربط السؤال بشيء حدث أو انتهى في الماضي."
       },
       {
         "term": "the",
-        "description": "أداة تعريف تشير إلى شيء معروف أو محدد."
+        "description": "أداة تشير إلى فيلم محدد معروف للمتكلم والمخاطب."
       },
       {
         "term": "movie",
-        "description": "اسم يعني فيلم."
+        "description": "فيلم."
       }
     ],
-    "tense": "الماضي البسيط",
-    "tenseEn": "Past Simple",
-    "tenseReason": "استُعمل الماضي البسيط لأن الجملة تتحدث عن حدث وقع في الماضي واكتمل هناك.",
+    "grammarExplanations": [
+      {
+        "sentence": "How was the movie?",
+        "explanation": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "يستخدم الماضي البسيط لأن السؤال يطلب رأيًا عن فيلم شاهده الشخص وانتهى في الماضي."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "You can ask, \"How was the movie?\" when you need information.",
-        "ar": "يمكنك أن تسأل: \"كيف كان الفيلم؟\" عندما تحتاج إلى معلومة.",
-        "context": "تستعمل الجملة كسؤال مباشر للحصول على معلومة."
+        "en": "How was the movie?",
+        "ar": "كيف كان الفيلم؟",
+        "context": "تقال عند طلب رأي شخص في فيلم شاهده."
       },
       {
         "id": 2,
-        "en": "Many people ask, \"How was the movie?\" in this situation.",
-        "ar": "يسأل كثير من الناس: \"كيف كان الفيلم؟\" في هذا الموقف.",
-        "context": "توضح أن هذا سؤال شائع في موقف مشابه."
+        "en": "How was the trip?",
+        "ar": "كيف كانت الرحلة؟",
+        "context": "تقال بعد رجوع شخص من رحلة."
       },
       {
         "id": 3,
-        "en": "I asked, \"How was the movie?\" because I was not sure.",
-        "ar": "سألت: \"كيف كان الفيلم؟\" لأنني لم أكن متأكدًا.",
-        "context": "تضيف سببًا لطرح السؤال."
+        "en": "How was the meeting?",
+        "ar": "كيف كان الاجتماع؟",
+        "context": "تقال بعد انتهاء اجتماع."
       },
       {
         "id": 4,
-        "en": "She asked politely, \"How was the movie?\"",
-        "ar": "سألت بأدب: \"كيف كان الفيلم؟\".",
-        "context": "تبين أن السؤال قيل بطريقة مهذبة."
+        "en": "How was the food?",
+        "ar": "كيف كان الطعام؟",
+        "context": "تقال بعد تناول وجبة."
       },
       {
         "id": 5,
-        "en": "At work, someone may ask, \"How was the movie?\"",
-        "ar": "في العمل، قد يسأل شخص ما: \"كيف كان الفيلم؟\".",
-        "context": "تضع السؤال في سياق مهني أو عملي."
+        "en": "How was the class?",
+        "ar": "كيف كان الدرس؟",
+        "context": "تقال بعد انتهاء درس أو حصة."
       },
       {
         "id": 6,
-        "en": "Before deciding, ask: \"How was the movie?\"",
-        "ar": "قبل أن تقرر، اسأل: \"كيف كان الفيلم؟\".",
-        "context": "تستخدم السؤال قبل اتخاذ قرار."
+        "en": "How was the hotel?",
+        "ar": "كيف كان الفندق؟",
+        "context": "تقال بعد إقامة شخص في فندق."
       },
       {
         "id": 7,
-        "en": "The student asked, \"How was the movie?\" in class.",
-        "ar": "سأل الطالب: \"كيف كان الفيلم؟\" في الصف.",
-        "context": "تجعل الجملة جزءًا من موقف تعليمي."
+        "en": "How was the concert?",
+        "ar": "كيف كان الحفل؟",
+        "context": "تقال بعد حضور حفل."
       },
       {
         "id": 8,
-        "en": "While traveling, you can ask, \"How was the movie?\"",
-        "ar": "أثناء السفر، يمكنك أن تسأل: \"كيف كان الفيلم؟\".",
-        "context": "تربط السؤال بموقف السفر أو التنقل."
+        "en": "How was the game?",
+        "ar": "كيف كانت المباراة؟",
+        "context": "تقال بعد مشاهدة مباراة أو لعبها."
       },
       {
         "id": 9,
-        "en": "He asked me, \"How was the movie?\" again.",
-        "ar": "سألني: \"كيف كان الفيلم؟\" مرة أخرى.",
-        "context": "تضيف معنى التكرار لنفس السؤال."
+        "en": "How was the interview?",
+        "ar": "كيف كانت المقابلة؟",
+        "context": "تقال بعد مقابلة عمل أو مقابلة رسمية."
       },
       {
         "id": 10,
-        "en": "If you are not sure, ask: \"How was the movie?\"",
-        "ar": "إذا لم تكن متأكدًا، فاسأل: \"كيف كان الفيلم؟\".",
-        "context": "توضح أن السؤال مناسب عند عدم التأكد."
+        "en": "How was the weather?",
+        "ar": "كيف كان الطقس؟",
+        "context": "تقال بعد عودة شخص من مكان أو رحلة."
       }
     ]
   }

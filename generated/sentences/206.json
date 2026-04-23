@@ -10,92 +10,99 @@
     "wordMeanings": [
       {
         "term": "When",
-        "description": "أداة أو ظرف يعني عندما."
+        "description": "متى، وتستخدم للسؤال عن وقت."
       },
       {
         "term": "did",
-        "description": "صيغة الماضي من do أو فعل مساعد للماضي."
+        "description": "تأتي في السؤال عن الماضي مع الفعل الأساسي بعدها."
       },
       {
         "term": "you",
-        "description": "الضمير الذي يعود على الشخص المخاطَب."
+        "description": "أنت، وتشير إلى الشخص المخاطب."
       },
       {
         "term": "arrive",
-        "description": "فعل يعني يصل."
+        "description": "تصل إلى مكان."
       },
       {
         "term": "in",
-        "description": "حرف جر يعني في."
+        "description": "في أو إلى، وتستخدم هنا مع مدينة الوصول."
       },
       {
         "term": "Boston",
-        "description": "اسم مدينة."
+        "description": "مدينة بوسطن."
       }
     ],
-    "tense": "الماضي البسيط",
-    "tenseEn": "Past Simple",
-    "tenseReason": "استُعمل الماضي البسيط لأن الجملة تتحدث عن حدث وقع في الماضي واكتمل هناك.",
+    "grammarExplanations": [
+      {
+        "sentence": "When did you arrive in Boston?",
+        "explanation": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "يستخدم السؤال الماضي البسيط لأن المتكلم يسأل عن وقت وصول حدث وانتهى في الماضي."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "You can ask, \"When did you arrive in Boston?\" when you need information.",
-        "ar": "يمكنك أن تسأل: \"متى وصلت إلى بوسطن؟\" عندما تحتاج إلى معلومة.",
-        "context": "تستعمل الجملة كسؤال مباشر للحصول على معلومة."
+        "en": "When did you arrive in Boston?",
+        "ar": "متى وصلت إلى بوسطن؟",
+        "context": "تقال عند السؤال عن موعد وصول شخص إلى بوسطن."
       },
       {
         "id": 2,
-        "en": "Many people ask, \"When did you arrive in Boston?\" in this situation.",
-        "ar": "يسأل كثير من الناس: \"متى وصلت إلى بوسطن؟\" في هذا الموقف.",
-        "context": "توضح أن هذا سؤال شائع في موقف مشابه."
+        "en": "When did you arrive in New York?",
+        "ar": "متى وصلت إلى نيويورك؟",
+        "context": "تقال عند السؤال عن وقت الوصول إلى مدينة."
       },
       {
         "id": 3,
-        "en": "I asked, \"When did you arrive in Boston?\" because I was not sure.",
-        "ar": "سألت: \"متى وصلت إلى بوسطن؟\" لأنني لم أكن متأكدًا.",
-        "context": "تضيف سببًا لطرح السؤال."
+        "en": "When did you arrive at the hotel?",
+        "ar": "متى وصلت إلى الفندق؟",
+        "context": "تقال عند السؤال عن وقت الوصول إلى فندق."
       },
       {
         "id": 4,
-        "en": "She asked politely, \"When did you arrive in Boston?\"",
-        "ar": "سألت بأدب: \"متى وصلت إلى بوسطن؟\".",
-        "context": "تبين أن السؤال قيل بطريقة مهذبة."
+        "en": "When did you arrive at the airport?",
+        "ar": "متى وصلت إلى المطار؟",
+        "context": "تقال عند السؤال عن وقت الوصول إلى المطار."
       },
       {
         "id": 5,
-        "en": "At work, someone may ask, \"When did you arrive in Boston?\"",
-        "ar": "في العمل، قد يسأل شخص ما: \"متى وصلت إلى بوسطن؟\".",
-        "context": "تضع السؤال في سياق مهني أو عملي."
+        "en": "When did they arrive in Boston?",
+        "ar": "متى وصلوا إلى بوسطن؟",
+        "context": "تقال عند السؤال عن وصول مجموعة."
       },
       {
         "id": 6,
-        "en": "Before deciding, ask: \"When did you arrive in Boston?\"",
-        "ar": "قبل أن تقرر، اسأل: \"متى وصلت إلى بوسطن؟\".",
-        "context": "تستخدم السؤال قبل اتخاذ قرار."
+        "en": "When did she arrive in Boston?",
+        "ar": "متى وصلت إلى بوسطن؟",
+        "context": "تقال عند السؤال عن وصول امرأة إلى المدينة."
       },
       {
         "id": 7,
-        "en": "The student asked, \"When did you arrive in Boston?\" in class.",
-        "ar": "سأل الطالب: \"متى وصلت إلى بوسطن؟\" في الصف.",
-        "context": "تجعل الجملة جزءًا من موقف تعليمي."
+        "en": "When did you arrive here?",
+        "ar": "متى وصلت إلى هنا؟",
+        "context": "تقال عند السؤال عن وقت وصول الشخص إلى المكان الحالي."
       },
       {
         "id": 8,
-        "en": "While traveling, you can ask, \"When did you arrive in Boston?\"",
-        "ar": "أثناء السفر، يمكنك أن تسأل: \"متى وصلت إلى بوسطن؟\".",
-        "context": "تربط السؤال بموقف السفر أو التنقل."
+        "en": "When did you arrive home?",
+        "ar": "متى وصلت إلى المنزل؟",
+        "context": "تقال عند السؤال عن وقت العودة إلى البيت."
       },
       {
         "id": 9,
-        "en": "He asked me, \"When did you arrive in Boston?\" again.",
-        "ar": "سألني: \"متى وصلت إلى بوسطن؟\" مرة أخرى.",
-        "context": "تضيف معنى التكرار لنفس السؤال."
+        "en": "When did the train arrive in Boston?",
+        "ar": "متى وصل القطار إلى بوسطن؟",
+        "context": "تقال عند السؤال عن موعد وصول قطار."
       },
       {
         "id": 10,
-        "en": "If you are not sure, ask: \"When did you arrive in Boston?\"",
-        "ar": "إذا لم تكن متأكدًا، فاسأل: \"متى وصلت إلى بوسطن؟\".",
-        "context": "توضح أن السؤال مناسب عند عدم التأكد."
+        "en": "When did your flight arrive in Boston?",
+        "ar": "متى وصلت رحلتك إلى بوسطن؟",
+        "context": "تقال عند السؤال عن موعد وصول رحلة جوية."
       }
     ]
   }

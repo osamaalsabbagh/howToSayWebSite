@@ -10,92 +10,99 @@
     "wordMeanings": [
       {
         "term": "How",
-        "description": "أداة سؤال."
+        "description": "تستخدم للسؤال عن مقدار المسافة."
       },
       {
         "term": "far",
-        "description": "صفة تعني كم."
+        "description": "بعيد أو ذو مسافة."
       },
       {
         "term": "is",
-        "description": "فعل be في الحاضر مع المفرد."
+        "description": "تربط السؤال بالمسافة."
       },
       {
         "term": "it",
-        "description": "ضمير يعود على الشيء أو الجملة التي قيلت."
+        "description": "يشير إلى الطريق أو المكان المقصود."
       },
       {
         "term": "to",
-        "description": "أداة تأتي قبل المصدر بعد أفعال مثل want."
+        "description": "إلى، وتحدد وجهة المسافة."
       },
       {
         "term": "Chicago",
-        "description": "اسم مدينة."
+        "description": "اسم مدينة شيكاغو."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "How far is it to Chicago?",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "السؤال يستخدم تركيبًا شائعًا للمسافة، حيث تأتي to قبل اسم الوجهة التي تريد معرفة بعدها."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "You can ask, \"How far is it to Chicago?\" when you need information.",
-        "ar": "يمكنك أن تسأل: \"كم المسافة إلى شيكاغو؟\" عندما تحتاج إلى معلومة.",
-        "context": "تستعمل الجملة كسؤال مباشر للحصول على معلومة."
+        "en": "How far is it to Chicago?",
+        "ar": "كم المسافة إلى شيكاغو؟",
+        "context": "تقال عند السؤال عن المسافة إلى شيكاغو."
       },
       {
         "id": 2,
-        "en": "Many people ask, \"How far is it to Chicago?\" in this situation.",
-        "ar": "يسأل كثير من الناس: \"كم المسافة إلى شيكاغو؟\" في هذا الموقف.",
-        "context": "توضح أن هذا سؤال شائع في موقف مشابه."
+        "en": "How far is it to New York?",
+        "ar": "كم المسافة إلى نيويورك؟",
+        "context": "تقال عند السؤال عن المسافة إلى نيويورك."
       },
       {
         "id": 3,
-        "en": "I asked, \"How far is it to Chicago?\" because I was not sure.",
-        "ar": "سألت: \"كم المسافة إلى شيكاغو؟\" لأنني لم أكن متأكدًا.",
-        "context": "تضيف سببًا لطرح السؤال."
+        "en": "How far is it to the airport?",
+        "ar": "كم المسافة إلى المطار؟",
+        "context": "تقال عند السؤال عن المسافة إلى المطار."
       },
       {
         "id": 4,
-        "en": "She asked politely, \"How far is it to Chicago?\"",
-        "ar": "سألت بأدب: \"كم المسافة إلى شيكاغو؟\".",
-        "context": "تبين أن السؤال قيل بطريقة مهذبة."
+        "en": "How far is it to the train station?",
+        "ar": "كم المسافة إلى محطة القطار؟",
+        "context": "تقال عند السؤال عن المسافة إلى محطة القطار."
       },
       {
         "id": 5,
-        "en": "At work, someone may ask, \"How far is it to Chicago?\"",
-        "ar": "في العمل، قد يسأل شخص ما: \"كم المسافة إلى شيكاغو؟\".",
-        "context": "تضع السؤال في سياق مهني أو عملي."
+        "en": "How far is it to your hotel?",
+        "ar": "كم المسافة إلى فندقك؟",
+        "context": "تقال عند السؤال عن مسافة فندق شخص."
       },
       {
         "id": 6,
-        "en": "Before deciding, ask: \"How far is it to Chicago?\"",
-        "ar": "قبل أن تقرر، اسأل: \"كم المسافة إلى شيكاغو؟\".",
-        "context": "تستخدم السؤال قبل اتخاذ قرار."
+        "en": "It is about twenty miles to Chicago.",
+        "ar": "إنها حوالي عشرين ميلًا إلى شيكاغو.",
+        "context": "تقال عند إعطاء مسافة تقريبية."
       },
       {
         "id": 7,
-        "en": "The student asked, \"How far is it to Chicago?\" in class.",
-        "ar": "سأل الطالب: \"كم المسافة إلى شيكاغو؟\" في الصف.",
-        "context": "تجعل الجملة جزءًا من موقف تعليمي."
+        "en": "It is not far to the station.",
+        "ar": "المسافة إلى المحطة ليست بعيدة.",
+        "context": "تقال للإجابة بأن الوجهة قريبة."
       },
       {
         "id": 8,
-        "en": "While traveling, you can ask, \"How far is it to Chicago?\"",
-        "ar": "أثناء السفر، يمكنك أن تسأل: \"كم المسافة إلى شيكاغو؟\".",
-        "context": "تربط السؤال بموقف السفر أو التنقل."
+        "en": "How far is it to downtown?",
+        "ar": "كم المسافة إلى وسط المدينة؟",
+        "context": "تقال عند السؤال عن مسافة وسط المدينة."
       },
       {
         "id": 9,
-        "en": "He asked me, \"How far is it to Chicago?\" again.",
-        "ar": "سألني: \"كم المسافة إلى شيكاغو؟\" مرة أخرى.",
-        "context": "تضيف معنى التكرار لنفس السؤال."
+        "en": "Is it far to Chicago from here?",
+        "ar": "هل شيكاغو بعيدة من هنا؟",
+        "context": "تستخدم كسؤال آخر عن المسافة إلى شيكاغو."
       },
       {
         "id": 10,
-        "en": "If you are not sure, ask: \"How far is it to Chicago?\"",
-        "ar": "إذا لم تكن متأكدًا، فاسأل: \"كم المسافة إلى شيكاغو؟\".",
-        "context": "توضح أن السؤال مناسب عند عدم التأكد."
+        "en": "How far is it to the nearest gas station?",
+        "ar": "كم المسافة إلى أقرب محطة وقود؟",
+        "context": "تقال عند البحث عن محطة وقود قريبة."
       }
     ]
   }

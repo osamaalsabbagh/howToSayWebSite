@@ -10,104 +10,119 @@
     "wordMeanings": [
       {
         "term": "Hello",
-        "description": "تحية عامة وحيادية، وتصلح في المواقف الرسمية وغير الرسمية."
+        "description": "تحية تُستخدم في بداية المكالمة أو الحديث."
       },
       {
         "term": "I",
-        "description": "ضمير المتكلم."
+        "description": "ضمير المتكلم المفرد."
       },
       {
         "term": "am",
-        "description": "فعل be مع I ويُستعمل هنا مع learning لتكوين المضارع المستمر."
+        "description": "تأتي مع المتكلم المفرد لتكوين الفعل المستمر هنا."
       },
       {
         "term": "calling",
-        "description": "فعل يعني مرحبا."
+        "description": "أتصل هاتفيًا في هذه اللحظة."
       },
       {
         "term": "to",
-        "description": "أداة تأتي قبل المصدر بعد أفعال مثل want."
+        "description": "توضح الغرض من الاتصال."
       },
       {
         "term": "ask",
-        "description": "فعل يعني يسأل أو يطلب."
+        "description": "يسأل أو يطلب معلومة."
       },
       {
         "term": "about",
-        "description": "حرف جر أو ظرف يعني عن أو تقريبًا حسب السياق."
+        "description": "بخصوص أو حول."
       },
       {
         "term": "my",
-        "description": "صفة ملكية تعني خاصتي."
+        "description": "يدل على أن الطلب يخص المتكلم."
       },
       {
         "term": "order",
-        "description": "اسم يعني طلبي."
+        "description": "طلب شراء أو حجز."
       }
     ],
-    "tense": "المضارع المستمر",
-    "tenseEn": "Present Continuous",
-    "tenseReason": "استُعمل المضارع المستمر لأن الجملة تصف شيئًا يحدث الآن أو في فترة قريبة من الآن، أو خطة قريبة واضحة من السياق.",
+    "grammarExplanations": [
+      {
+        "sentence": "Hello",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "تحية قصيرة لبدء المكالمة وليست جملة بزمن مستقل."
+        }
+      },
+      {
+        "sentence": "I am calling to ask about my order",
+        "explanation": {
+          "tense": "المضارع المستمر",
+          "tenseEn": "Present Continuous",
+          "reason": "يصف فعلًا يحدث أثناء المكالمة الآن، مع توضيح الغرض منه باستخدام to ask."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "Right now, Hello, I am calling to ask about my order.",
-        "ar": "الآن، مرحبًا، أنا أتصل للسؤال عن طلبي.",
-        "context": "تؤكد أن الفعل يحدث في هذه اللحظة."
+        "en": "Hello, I am calling to ask about my ticket.",
+        "ar": "مرحبًا، أنا أتصل للسؤال عن تذكرتي.",
+        "context": "يُستخدم عند الاتصال بخدمة حجز أو سفر."
       },
       {
         "id": 2,
-        "en": "At the moment, Hello, I am calling to ask about my order.",
-        "ar": "في هذه اللحظة، مرحبًا، أنا أتصل للسؤال عن طلبي.",
-        "context": "تؤكد استمرار الحدث الآن."
+        "en": "Hello, I am calling to ask about my bill.",
+        "ar": "مرحبًا، أنا أتصل للسؤال عن فاتورتي.",
+        "context": "يُستخدم عند الاستفسار عن مبلغ أو حساب."
       },
       {
         "id": 3,
-        "en": "Today, Hello, I am calling to ask about my order.",
-        "ar": "اليوم، مرحبًا، أنا أتصل للسؤال عن طلبي.",
-        "context": "تربط الحدث بزمن قريب ومحدد."
+        "en": "Hello, I am calling to ask about my appointment.",
+        "ar": "مرحبًا، أنا أتصل للسؤال عن موعدي.",
+        "context": "يُستخدم عند التأكد من موعد سابق."
       },
       {
         "id": 4,
-        "en": "This week, Hello, I am calling to ask about my order.",
-        "ar": "هذا الأسبوع، مرحبًا، أنا أتصل للسؤال عن طلبي.",
-        "context": "توسع الجملة إلى فترة زمنية قريبة."
+        "en": "Hello, I am calling to check my order.",
+        "ar": "مرحبًا، أنا أتصل للتحقق من طلبي.",
+        "context": "يُستخدم لمتابعة حالة طلب."
       },
       {
         "id": 5,
-        "en": "Hello, I am calling to ask about my order because it is important.",
-        "ar": "مرحبًا، أنا أتصل للسؤال عن طلبي لأنه مهم.",
-        "context": "تضيف سببًا للاستمرار في الفعل."
+        "en": "Hello, I am calling to ask about delivery.",
+        "ar": "مرحبًا، أنا أتصل للسؤال عن التوصيل.",
+        "context": "يُستخدم عند الاستفسار عن خدمة التوصيل."
       },
       {
         "id": 6,
-        "en": "Hello, I am calling to ask about my order, so please wait.",
-        "ar": "مرحبًا، أنا أتصل للسؤال عن طلبي، لذلك انتظر من فضلك.",
-        "context": "تضيف نتيجة مباشرة على استمرار الحدث."
+        "en": "Hello, I am calling to ask about the price.",
+        "ar": "مرحبًا، أنا أتصل للسؤال عن السعر.",
+        "context": "يُستخدم عند طلب معرفة سعر."
       },
       {
         "id": 7,
-        "en": "Currently, Hello, I am calling to ask about my order.",
-        "ar": "حاليًا، مرحبًا، أنا أتصل للسؤال عن طلبي.",
-        "context": "تستخدم ظرفًا مناسبًا للحاضر المستمر."
+        "en": "Hello, I am calling to ask about the course.",
+        "ar": "مرحبًا، أنا أتصل للسؤال عن الدورة.",
+        "context": "يُستخدم عند الاتصال بمركز تعليمي."
       },
       {
         "id": 8,
-        "en": "Hello, I am calling to ask about my order during this period.",
-        "ar": "مرحبًا، أنا أتصل للسؤال عن طلبي خلال هذه الفترة.",
-        "context": "تربط الفعل بفترة مستمرة لا بلحظة واحدة فقط."
+        "en": "Hello, I am calling to ask about my package.",
+        "ar": "مرحبًا، أنا أتصل للسؤال عن طردي.",
+        "context": "يُستخدم لمتابعة شحنة."
       },
       {
         "id": 9,
-        "en": "Hello, I am calling to ask about my order, and cannot stop now.",
-        "ar": "مرحبًا، أنا أتصل للسؤال عن طلبي، ولا يمكن التوقف الآن.",
-        "context": "تضيف فكرة الاستمرار وعدم التوقف."
+        "en": "Hello, I am calling to ask about the address.",
+        "ar": "مرحبًا، أنا أتصل للسؤال عن العنوان.",
+        "context": "يُستخدم عند طلب تأكيد عنوان."
       },
       {
         "id": 10,
-        "en": "Hello, I am calling to ask about my order while everyone is watching.",
-        "ar": "مرحبًا، أنا أتصل للسؤال عن طلبي بينما الجميع يشاهد.",
-        "context": "تضيف ظرفًا زمنيًا متزامنًا مع الحدث."
+        "en": "Hello, I am calling to ask about my account.",
+        "ar": "مرحبًا، أنا أتصل للسؤال عن حسابي.",
+        "context": "يُستخدم عند التواصل مع دعم الحسابات."
       }
     ]
   }

@@ -1,101 +1,109 @@
 {
-  "schemaVersion": 1,
-  "id": 2,
-  "sentence": {
-    "en": "Can you translate this for me?",
-    "ar": "هل يمكنك ترجمة هذا لي؟",
-    "context": "اطلب مساعدة بشكل غير رسمي."
-  },
-  "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Can",
-        "description": "فعل مساعد لطلب القدرة أو الاستعداد."
-      },
-      {
-        "term": "you",
-        "description": "الضمير المخاطَب."
-      },
-      {
-        "term": "translate",
-        "description": "فعل يعني يترجم."
-      },
-      {
-        "term": "this",
-        "description": "اسم إشارة يعني هذا."
-      },
-      {
-        "term": "for",
-        "description": "حرف جر يعني لـ أو من أجل."
-      },
-      {
-        "term": "me",
-        "description": "ضمير مفعول به يعني أنا / لي."
-      }
-    ],
-    "tense": null,
-    "tenseReason": "استُعملت هذه الصيغة لطلب ترجمة شيء بشكل مباشر ومقبول في الكلام اليومي.",
-    "examples": [
-      {
-        "id": 1,
-        "en": "Can you translate this for me now?",
-        "ar": "هل يمكنك ترجمة هذا لي الآن؟",
-        "context": "تطلب المساعدة في الحال."
-      },
-      {
-        "id": 2,
-        "en": "Can you translate this message for me?",
-        "ar": "هل يمكنك ترجمة هذه الرسالة لي؟",
-        "context": "تطلب ترجمة نص معين."
-      },
-      {
-        "id": 3,
-        "en": "Can you translate this sentence for me?",
-        "ar": "هل يمكنك ترجمة هذه الجملة لي؟",
-        "context": "تطلب ترجمة جملة واحدة."
-      },
-      {
-        "id": 4,
-        "en": "Can you translate this word for me?",
-        "ar": "هل يمكنك ترجمة هذه الكلمة لي؟",
-        "context": "تطلب ترجمة مفردة."
-      },
-      {
-        "id": 5,
-        "en": "Can you translate this part for me?",
-        "ar": "هل يمكنك ترجمة هذا الجزء لي؟",
-        "context": "تحدد جزءًا من نص أكبر."
-      },
-      {
-        "id": 6,
-        "en": "Can you translate this from English for me?",
-        "ar": "هل يمكنك ترجمة هذا من الإنجليزية لي؟",
-        "context": "تذكر لغة المصدر."
-      },
-      {
-        "id": 7,
-        "en": "Can you translate this for me quickly?",
-        "ar": "هل يمكنك ترجمة هذا لي بسرعة؟",
-        "context": "تطلب الترجمة مع الإشارة للسرعة."
-      },
-      {
-        "id": 8,
-        "en": "Can you translate this for me? I do not understand it.",
-        "ar": "هل يمكنك ترجمة هذا لي؟ أنا لا أفهمه.",
-        "context": "توضح سبب الطلب."
-      },
-      {
-        "id": 9,
-        "en": "Can you translate this line for me?",
-        "ar": "هل يمكنك ترجمة هذا السطر لي؟",
-        "context": "تطلب ترجمة جزء محدد من نص."
-      },
-      {
-        "id": 10,
-        "en": "Can you translate this for me later?",
-        "ar": "هل يمكنك ترجمة هذا لي لاحقًا؟",
-        "context": "تطلب المساعدة في وقت قريب لكن ليس الآن."
-      }
-    ]
-  }
+	"schemaVersion": 1,
+	"id": 2,
+	"sentence": {
+		"en": "Can you translate this for me?",
+		"ar": "هل يمكنك ترجمة هذا لي؟",
+		"context": "اطلب مساعدة بشكل غير رسمي."
+	},
+	"lesson": {
+		"wordMeanings": [
+			{
+				"term": "Can",
+				"description": "فعل يُستخدم لطلب القدرة أو لطلب المساعدة بطريقة مهذبة"
+			},
+			{
+				"term": "you",
+				"description": "ضمير يشير إلى الشخص المخاطَب"
+			},
+			{
+				"term": "translate",
+				"description": "يحوّل الكلام من لغة إلى لغة أخرى"
+			},
+			{
+				"term": "this",
+				"description": "هذا الشيء القريب الذي تشير إليه"
+			},
+			{
+				"term": "for",
+				"description": "حرف يوضح أن الفعل يتم لصالح شخص معين"
+			},
+			{
+				"term": "me",
+				"description": "ضمير يشير إلى المتكلم كمتلقي للفعل"
+			}
+		],
+		"grammarExplanations": [
+			{
+				"sentence": "Can you translate this for me?",
+				"explanation": {
+					"tense": null,
+					"tenseEn": null,
+					"reason": "هذه جملة سؤال تُستخدم لطلب المساعدة بطريقة مهذبة، حيث يأتي الفعل Can في البداية للسؤال عن القدرة أو كصيغة طلب، ويتبعه الفاعل ثم الفعل الأساسي بدون تغيير"
+				}
+			}
+		],
+		"examples": [
+			{
+				"id": 1,
+				"en": "Can you help me with this?",
+				"ar": "هل يمكنك مساعدتي في هذا؟",
+				"context": "طلب مساعدة في أمر معين"
+			},
+			{
+				"id": 2,
+				"en": "Can you explain this to me?",
+				"ar": "هل يمكنك شرح هذا لي؟",
+				"context": "طلب توضيح شيء غير مفهوم"
+			},
+			{
+				"id": 3,
+				"en": "Can you write this for me?",
+				"ar": "هل يمكنك كتابة هذا لي؟",
+				"context": "طلب كتابة شيء بدلًا عنك"
+			},
+			{
+				"id": 4,
+				"en": "Can you check this for me?",
+				"ar": "هل يمكنك التحقق من هذا لي؟",
+				"context": "طلب مراجعة أو فحص شيء"
+			},
+			{
+				"id": 5,
+				"en": "Can you send this to me?",
+				"ar": "هل يمكنك إرسال هذا لي؟",
+				"context": "طلب إرسال شيء"
+			},
+			{
+				"id": 6,
+				"en": "Can you read this for me?",
+				"ar": "هل يمكنك قراءة هذا لي؟",
+				"context": "طلب قراءة نص أو محتوى"
+			},
+			{
+				"id": 7,
+				"en": "Can you open this for me?",
+				"ar": "هل يمكنك فتح هذا لي؟",
+				"context": "طلب فتح شيء مغلق"
+			},
+			{
+				"id": 8,
+				"en": "Can you fix this for me?",
+				"ar": "هل يمكنك إصلاح هذا لي؟",
+				"context": "طلب إصلاح شيء معطّل"
+			},
+			{
+				"id": 9,
+				"en": "Can you bring this to me?",
+				"ar": "هل يمكنك إحضار هذا لي؟",
+				"context": "طلب إحضار شيء"
+			},
+			{
+				"id": 10,
+				"en": "Can you show this to me?",
+				"ar": "هل يمكنك عرض هذا لي؟",
+				"context": "طلب رؤية شيء أو عرضه"
+			}
+		]
+	}
 }

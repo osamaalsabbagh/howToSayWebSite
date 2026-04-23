@@ -10,88 +10,95 @@
     "wordMeanings": [
       {
         "term": "Did",
-        "description": "صيغة الماضي من do أو فعل مساعد للماضي."
+        "description": "تأتي في بداية السؤال عن الماضي مع الفعل الأساسي بعدها."
       },
       {
         "term": "your",
-        "description": "صفة ملكية تعني خاصتك أو خاصتكم."
+        "description": "خاصتك، وتشير إلى علاقة الزوجة بالمخاطب."
       },
       {
         "term": "wife",
-        "description": "اسم يعني زوجتك."
+        "description": "زوجة."
       },
       {
         "term": "like",
-        "description": "فعل يدل على الإعجاب أو الميل."
+        "description": "أعجبها أو أحبّت."
       },
       {
         "term": "California",
-        "description": "اسم علم يشير إلى بكاليفورنيا."
+        "description": "كاليفورنيا، اسم ولاية أو مكان."
       }
     ],
-    "tense": "الماضي البسيط",
-    "tenseEn": "Past Simple",
-    "tenseReason": "استُعمل الماضي البسيط لأن الجملة تتحدث عن حدث وقع في الماضي واكتمل هناك.",
+    "grammarExplanations": [
+      {
+        "sentence": "Did your wife like California?",
+        "explanation": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "يستخدم السؤال الماضي البسيط للسؤال عن رأي أو تجربة حدثت في الماضي، وبعد كلمة السؤال المساعدة يأتي الفعل بصيغته الأساسية."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "You can ask, \"Did your wife like California?\" when you need information.",
-        "ar": "يمكنك أن تسأل: \"هل أعجبت زوجتك بكاليفورنيا؟\" عندما تحتاج إلى معلومة.",
-        "context": "تستعمل الجملة كسؤال مباشر للحصول على معلومة."
+        "en": "Did your wife like California?",
+        "ar": "هل أعجبت زوجتك بكاليفورنيا؟",
+        "context": "تقال عند السؤال عن رأي الزوجة في كاليفورنيا."
       },
       {
         "id": 2,
-        "en": "Many people ask, \"Did your wife like California?\" in this situation.",
-        "ar": "يسأل كثير من الناس: \"هل أعجبت زوجتك بكاليفورنيا؟\" في هذا الموقف.",
-        "context": "توضح أن هذا سؤال شائع في موقف مشابه."
+        "en": "Did your wife like the hotel?",
+        "ar": "هل أعجب الفندق زوجتك؟",
+        "context": "تقال بعد إقامة في فندق."
       },
       {
         "id": 3,
-        "en": "I asked, \"Did your wife like California?\" because I was not sure.",
-        "ar": "سألت: \"هل أعجبت زوجتك بكاليفورنيا؟\" لأنني لم أكن متأكدًا.",
-        "context": "تضيف سببًا لطرح السؤال."
+        "en": "Did your wife like the food?",
+        "ar": "هل أعجب الطعام زوجتك؟",
+        "context": "تقال بعد تناول الطعام."
       },
       {
         "id": 4,
-        "en": "She asked politely, \"Did your wife like California?\"",
-        "ar": "سألت بأدب: \"هل أعجبت زوجتك بكاليفورنيا؟\".",
-        "context": "تبين أن السؤال قيل بطريقة مهذبة."
+        "en": "Did your wife like the movie?",
+        "ar": "هل أعجب الفيلم زوجتك؟",
+        "context": "تقال بعد مشاهدة فيلم."
       },
       {
         "id": 5,
-        "en": "At work, someone may ask, \"Did your wife like California?\"",
-        "ar": "في العمل، قد يسأل شخص ما: \"هل أعجبت زوجتك بكاليفورنيا؟\".",
-        "context": "تضع السؤال في سياق مهني أو عملي."
+        "en": "Did your wife like New York?",
+        "ar": "هل أعجبت زوجتك بنيويورك؟",
+        "context": "تقال بعد زيارة مدينة."
       },
       {
         "id": 6,
-        "en": "Before deciding, ask: \"Did your wife like California?\"",
-        "ar": "قبل أن تقرر، اسأل: \"هل أعجبت زوجتك بكاليفورنيا؟\".",
-        "context": "تستخدم السؤال قبل اتخاذ قرار."
+        "en": "Did your husband like California?",
+        "ar": "هل أعجب زوجك بكاليفورنيا؟",
+        "context": "تقال عند السؤال عن رأي الزوج."
       },
       {
         "id": 7,
-        "en": "The student asked, \"Did your wife like California?\" in class.",
-        "ar": "سأل الطالب: \"هل أعجبت زوجتك بكاليفورنيا؟\" في الصف.",
-        "context": "تجعل الجملة جزءًا من موقف تعليمي."
+        "en": "Did your family like California?",
+        "ar": "هل أعجبت عائلتك بكاليفورنيا؟",
+        "context": "تقال عند السؤال عن رأي العائلة في مكان."
       },
       {
         "id": 8,
-        "en": "While traveling, you can ask, \"Did your wife like California?\"",
-        "ar": "أثناء السفر، يمكنك أن تسأل: \"هل أعجبت زوجتك بكاليفورنيا؟\".",
-        "context": "تربط السؤال بموقف السفر أو التنقل."
+        "en": "Did she like the trip?",
+        "ar": "هل أعجبتها الرحلة؟",
+        "context": "تقال عند السؤال عن رأي امرأة في رحلة."
       },
       {
         "id": 9,
-        "en": "He asked me, \"Did your wife like California?\" again.",
-        "ar": "سألني: \"هل أعجبت زوجتك بكاليفورنيا؟\" مرة أخرى.",
-        "context": "تضيف معنى التكرار لنفس السؤال."
+        "en": "Did they like the city?",
+        "ar": "هل أعجبتهم المدينة؟",
+        "context": "تقال عند السؤال عن رأي مجموعة في مدينة."
       },
       {
         "id": 10,
-        "en": "If you are not sure, ask: \"Did your wife like California?\"",
-        "ar": "إذا لم تكن متأكدًا، فاسأل: \"هل أعجبت زوجتك بكاليفورنيا؟\".",
-        "context": "توضح أن السؤال مناسب عند عدم التأكد."
+        "en": "Did you like California?",
+        "ar": "هل أعجبتك كاليفورنيا؟",
+        "context": "تقال عند السؤال عن رأي المخاطب في كاليفورنيا."
       }
     ]
   }

@@ -10,75 +10,83 @@
     "wordMeanings": [
       {
         "term": "Not",
-        "description": "أداة نفي."
+        "description": "تستخدم هنا للنفي، أي أن الأمر لم يحدث."
       },
       {
         "term": "recently",
-        "description": "حال أو ظرف يعني مؤخرا."
+        "description": "مؤخرًا أو في الفترة القريبة الماضية."
       }
     ],
-    "tense": null,
-    "tenseReason": "استُعمل هذا التعبير لأنه عبارة ثابتة أو رد قصير يُستخدم في موقف محدد، وليس جملة فعلية كاملة بزمن واضح.",
+    "grammarExplanations": [
+      {
+        "sentence": "Not recently.",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذا رد مختصر ينفي حدوث شيء في الفترة القريبة الماضية، ولا يحتوي على فعل ظاهر أو زمن مستقل."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "In this situation, people often say, \"Not recently\".",
-        "ar": "في هذا الموقف، يقول الناس كثيرًا: \"ليس مؤخرًا\".",
-        "context": "توضح أن العبارة مناسبة في هذا النوع من المواقف."
+        "en": "Not today.",
+        "ar": "ليس اليوم.",
+        "context": "تقال لنفي حدوث شيء في هذا اليوم."
       },
       {
         "id": 2,
-        "en": "The teacher said, \"Not recently\" to the students.",
-        "ar": "قال المعلم للطلاب: \"ليس مؤخرًا\".",
-        "context": "تستخدم الجملة كتعليمات أو توجيه مباشر."
+        "en": "Not this week.",
+        "ar": "ليس هذا الأسبوع.",
+        "context": "تقال عند نفي حدوث شيء خلال الأسبوع الحالي."
       },
       {
         "id": 3,
-        "en": "He told me, \"Not recently\" before we left.",
-        "ar": "قال لي: \"ليس مؤخرًا\" قبل أن نغادر.",
-        "context": "تضع العبارة قبل حدث آخر."
+        "en": "I have not seen him recently.",
+        "ar": "لم أره مؤخرًا.",
+        "context": "تقال عند عدم لقاء شخص في الفترة القريبة."
       },
       {
         "id": 4,
-        "en": "She said, \"Not recently\" in a polite way.",
-        "ar": "قالت: \"ليس مؤخرًا\" بطريقة مهذبة.",
-        "context": "تظهر أن العبارة يمكن أن تقال بلطف أو أدب."
+        "en": "She has not called recently.",
+        "ar": "لم تتصل مؤخرًا.",
+        "context": "تقال عند عدم تلقي اتصال من شخص في الفترة الأخيرة."
       },
       {
         "id": 5,
-        "en": "Someone shouted, \"Not recently\" when there was a problem.",
-        "ar": "صاح شخص ما: \"ليس مؤخرًا\" عندما ظهرت مشكلة.",
-        "context": "تربط العبارة بموقف سريع أو طارئ."
+        "en": "We have not traveled recently.",
+        "ar": "لم نسافر مؤخرًا.",
+        "context": "تقال عند عدم القيام برحلة في الآونة الأخيرة."
       },
       {
         "id": 6,
-        "en": "You can say, \"Not recently\" when you need a quick response.",
-        "ar": "يمكنك أن تقول: \"ليس مؤخرًا\" عندما تحتاج إلى رد سريع.",
-        "context": "توضح أن العبارة مفيدة عند الحاجة إلى استجابة مباشرة."
+        "en": "Not for a long time.",
+        "ar": "ليس منذ وقت طويل.",
+        "context": "تقال عند نفي حدوث شيء منذ مدة طويلة."
       },
       {
         "id": 7,
-        "en": "They repeated, \"Not recently\" more than once.",
-        "ar": "رددوا: \"ليس مؤخرًا\" أكثر من مرة.",
-        "context": "تعطي مثالًا على تكرار العبارة."
+        "en": "He has not worked here recently.",
+        "ar": "لم يعمل هنا مؤخرًا.",
+        "context": "تقال عند نفي عمل شخص في مكان خلال الفترة الأخيرة."
       },
       {
         "id": 8,
-        "en": "I heard him say, \"Not recently\" yesterday.",
-        "ar": "سمعته يقول: \"ليس مؤخرًا\" أمس.",
-        "context": "تجعل العبارة جزءًا من موقف سمعته من شخص آخر."
+        "en": "I have not eaten there recently.",
+        "ar": "لم آكل هناك مؤخرًا.",
+        "context": "تقال عند عدم زيارة مطعم أو مكان طعام في الفترة الأخيرة."
       },
       {
         "id": 9,
-        "en": "Many learners remember the phrase, \"Not recently\".",
-        "ar": "يتذكر كثير من المتعلمين العبارة: \"ليس مؤخرًا\".",
-        "context": "تقدم العبارة بوصفها عبارة سهلة التذكر."
+        "en": "They have not met recently.",
+        "ar": "لم يلتقوا مؤخرًا.",
+        "context": "تقال عند عدم اجتماع أشخاص في الآونة الأخيرة."
       },
       {
         "id": 10,
-        "en": "At that moment, she said, \"Not recently\".",
-        "ar": "في تلك اللحظة، قالت: \"ليس مؤخرًا\".",
-        "context": "تربط العبارة بلحظة معينة في السرد."
+        "en": "Not in the last few days.",
+        "ar": "ليس في الأيام القليلة الماضية.",
+        "context": "تقال عند نفي حدوث شيء خلال أيام قريبة."
       }
     ]
   }

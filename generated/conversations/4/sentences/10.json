@@ -10,96 +10,119 @@
     "wordMeanings": [
       {
         "term": "Who",
-        "description": "أداة سؤال عن الشخص."
+        "description": "أداة سؤال عن الشخص، وتأتي هنا في عبارة تعني لا أحد يعرف."
       },
       {
         "term": "knows",
-        "description": "يعرف، مع s لأن الفاعل Everyone مفرد نحويًا."
+        "description": "تعني يعرف، والعبارة كلها تفيد أن الأمر غير مؤكد."
       },
       {
         "term": "Maybe",
-        "description": "حال أو ظرف يعني ربما."
+        "description": "تعني ربما أو من الممكن."
       },
       {
         "term": "one",
-        "description": "كلمة تدل على العدد واحد أو على شيء واحد."
+        "description": "تأتي ضمن عبارة one day التي تعني يومًا ما."
       },
       {
         "term": "day",
-        "description": "اسم يعني يوم."
+        "description": "تكمل عبارة one day وتعني يومًا في المستقبل."
       },
       {
         "term": "Safe",
-        "description": "صفة تعني رحلة."
+        "description": "صفة تعني آمنًا أو سالمًا."
       },
       {
         "term": "travels",
-        "description": "اسم يعني موفقة."
+        "description": "رحلات أو تنقلات، وتستعمل هنا كتمنٍّ بالسلامة أثناء السفر."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "Who knows?",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُعمل المضارع البسيط في سؤال بلاغي قصير معناه أن المستقبل غير معروف."
+        }
+      },
+      {
+        "sentence": "Maybe one day.",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه عبارة احتمال قصيرة وليست جملة فعلية كاملة لها زمن مستقل."
+        }
+      },
+      {
+        "sentence": "Safe travels!",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه عبارة تمني ثابتة تقال قبل سفر شخص، وليست جملة فعلية بزمن مستقل."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "In general, Who knows? Maybe one day. Safe travels!.",
-        "ar": "بشكل عام، من يدري؟ ربما يومًا ما. رحلة موفقة!.",
-        "context": "تضيف عبارة عامة تحافظ على نفس المعنى الأساسي."
+        "en": "Who knows? Maybe next year.",
+        "ar": "من يدري؟ ربما في العام القادم.",
+        "context": "تترك احتمالًا مفتوحًا للمستقبل."
       },
       {
         "id": 2,
-        "en": "Usually, Who knows? Maybe one day. Safe travels!.",
-        "ar": "عادةً، من يدري؟ ربما يومًا ما. رحلة موفقة!.",
-        "context": "تضيف ظرفًا يدل على التكرار أو العادة."
+        "en": "Maybe one day, I will visit again.",
+        "ar": "ربما يومًا ما سأزور مرة أخرى.",
+        "context": "تتحدث عن احتمال زيارة مستقبلية."
       },
       {
         "id": 3,
-        "en": "Sometimes, Who knows? Maybe one day. Safe travels!.",
-        "ar": "أحيانًا، من يدري؟ ربما يومًا ما. رحلة موفقة!.",
-        "context": "تضع الجملة في سياق أقل تكرارًا."
+        "en": "Safe travels, and enjoy your trip.",
+        "ar": "رحلات آمنة، واستمتع برحلتك.",
+        "context": "تودع شخصًا مسافرًا."
       },
       {
         "id": 4,
-        "en": "For now, Who knows? Maybe one day. Safe travels!.",
-        "ar": "في الوقت الحالي، من يدري؟ ربما يومًا ما. رحلة موفقة!.",
-        "context": "تربط الجملة بالوضع الحالي."
+        "en": "Who knows? Things may change.",
+        "ar": "من يدري؟ قد تتغير الأمور.",
+        "context": "تتحدث عن مستقبل غير مؤكد."
       },
       {
         "id": 5,
-        "en": "Who knows? Maybe one day. Safe travels!, so that helps a lot.",
-        "ar": "من يدري؟ ربما يومًا ما. رحلة موفقة!، وهذا يساعد كثيرًا.",
-        "context": "تضيف نتيجة بسيطة على نفس المعنى."
+        "en": "Maybe one day we will work together.",
+        "ar": "ربما يومًا ما سنعمل معًا.",
+        "context": "تترك احتمال تعاون مستقبلًا."
       },
       {
         "id": 6,
-        "en": "Who knows? Maybe one day. Safe travels! in daily life.",
-        "ar": "من يدري؟ ربما يومًا ما. رحلة موفقة! في الحياة اليومية.",
-        "context": "تربط الجملة بمواقف الحياة اليومية."
+        "en": "Safe travels to Los Angeles!",
+        "ar": "رحلة آمنة إلى لوس أنجلوس!",
+        "context": "تتمنى السلامة لشخص مسافر إلى مدينة محددة."
       },
       {
         "id": 7,
-        "en": "Who knows? Maybe one day. Safe travels! when it is necessary.",
-        "ar": "من يدري؟ ربما يومًا ما. رحلة موفقة! عندما يكون ذلك ضروريًا.",
-        "context": "تربط الجملة بشرط أو حاجة معينة."
+        "en": "Who knows? Maybe I will try acting again.",
+        "ar": "من يدري؟ ربما سأجرب التمثيل مرة أخرى.",
+        "context": "تتحدث عن احتمال العودة لنشاط سابق."
       },
       {
         "id": 8,
-        "en": "In this situation, Who knows? Maybe one day. Safe travels!.",
-        "ar": "في هذا الموقف، من يدري؟ ربما يومًا ما. رحلة موفقة!.",
-        "context": "تجعل الجملة جزءًا من موقف واضح."
+        "en": "Maybe one day this will happen.",
+        "ar": "ربما يحدث هذا يومًا ما.",
+        "context": "تعبر عن احتمال بعيد."
       },
       {
         "id": 9,
-        "en": "Who knows? Maybe one day. Safe travels!, and everyone notices that.",
-        "ar": "من يدري؟ ربما يومًا ما. رحلة موفقة!، والجميع يلاحظ ذلك.",
-        "context": "تضيف ملاحظة أو نتيجة بعد الجملة."
+        "en": "Safe travels, my friend!",
+        "ar": "رحلات آمنة يا صديقي!",
+        "context": "تودع صديقًا بلطف."
       },
       {
         "id": 10,
-        "en": "Who knows? Maybe one day. Safe travels! most of the time.",
-        "ar": "من يدري؟ ربما يومًا ما. رحلة موفقة! معظم الوقت.",
-        "context": "تضيف عبارة تكرار شائعة."
+        "en": "Who knows? Maybe we will meet again.",
+        "ar": "من يدري؟ ربما سنلتقي مرة أخرى.",
+        "context": "تغلق حديثًا مع إبقاء احتمال اللقاء."
       }
     ]
   }

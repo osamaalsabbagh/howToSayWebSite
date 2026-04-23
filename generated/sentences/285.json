@@ -10,88 +10,95 @@
     "wordMeanings": [
       {
         "term": "I",
-        "description": "ضمير المتكلم."
+        "description": "ضمير المتكلم المفرد."
       },
       {
         "term": "was",
-        "description": "فعل be في الماضي مع المفرد."
+        "description": "كنت، وتصف حالة أو وجودًا في الماضي."
       },
       {
         "term": "in",
-        "description": "حرف جر يعني في."
+        "description": "داخل مكان أو في نطاقه."
       },
       {
         "term": "the",
-        "description": "أداة تعريف تشير إلى شيء معروف أو محدد."
+        "description": "أداة تشير إلى مكان محدد."
       },
       {
         "term": "library",
-        "description": "اسم يعني مكتبة."
+        "description": "المكتبة، مكان قراءة أو استعارة الكتب."
       }
     ],
-    "tense": "الماضي البسيط",
-    "tenseEn": "Past Simple",
-    "tenseReason": "استُعمل الماضي البسيط لأن الجملة تتحدث عن حدث وقع في الماضي واكتمل هناك.",
+    "grammarExplanations": [
+      {
+        "sentence": "I was in the library.",
+        "explanation": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "تستخدم الجملة was لوصف وجود المتكلم في مكان معين في وقت سابق."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "People often say, \"I was in the library\" in situations like this.",
-        "ar": "يقول الناس كثيرًا: \"كنت في المكتبة\" في مواقف كهذه.",
-        "context": "تستخدم الجملة بوصفها تركيبًا شائعًا في موقف مشابه."
+        "en": "I was in the library.",
+        "ar": "كنت في المكتبة.",
+        "context": "تقال عند ذكر مكان كنت فيه سابقًا."
       },
       {
         "id": 2,
-        "en": "You can say, \"I was in the library\" when this happens.",
-        "ar": "يمكنك أن تقول: \"كنت في المكتبة\" عندما يحدث هذا.",
-        "context": "توضح أن الجملة مناسبة في موقف متكرر."
+        "en": "I was in the library all morning.",
+        "ar": "كنت في المكتبة طوال الصباح.",
+        "context": "تقال عند تحديد مدة الوجود في المكان."
       },
       {
         "id": 3,
-        "en": "I heard someone say, \"I was in the library\".",
-        "ar": "سمعت شخصًا يقول: \"كنت في المكتبة\".",
-        "context": "تجعل الجملة جزءًا من كلام سمعته من شخص آخر."
+        "en": "She was in the library yesterday.",
+        "ar": "هي كانت في المكتبة أمس.",
+        "context": "تصف مكان شخص في الماضي."
       },
       {
         "id": 4,
-        "en": "The teacher used the sentence, \"I was in the library\" in class.",
-        "ar": "استخدم المعلم الجملة: \"كنت في المكتبة\" في الصف.",
-        "context": "تستخدم الجملة مثالًا تعليميًا في الصف."
+        "en": "We were in the library after school.",
+        "ar": "كنا في المكتبة بعد المدرسة.",
+        "context": "تقال عند ذكر مكان مجموعة بعد الدراسة."
       },
       {
         "id": 5,
-        "en": "Many learners remember the sentence, \"I was in the library\" first.",
-        "ar": "يتذكر كثير من المتعلمين الجملة: \"كنت في المكتبة\" أولًا.",
-        "context": "تقدم الجملة بوصفها جملة تعليمية أساسية."
+        "en": "Were you in the library last night?",
+        "ar": "هل كنت في المكتبة الليلة الماضية؟",
+        "context": "تستخدم للسؤال عن مكان شخص في الماضي."
       },
       {
         "id": 6,
-        "en": "She said, \"I was in the library\" in a calm way.",
-        "ar": "قالت: \"كنت في المكتبة\" بطريقة هادئة.",
-        "context": "تجعل الجملة جزءًا من كلام مباشر في موقف عادي."
+        "en": "I was not in the library at that time.",
+        "ar": "لم أكن في المكتبة في ذلك الوقت.",
+        "context": "تقال لنفي الوجود في مكان في وقت معين."
       },
       {
         "id": 7,
-        "en": "He repeated, \"I was in the library\" more than once.",
-        "ar": "ردد: \"كنت في المكتبة\" أكثر من مرة.",
-        "context": "تضيف معنى التكرار لنفس الجملة."
+        "en": "He was in the library with his classmates.",
+        "ar": "هو كان في المكتبة مع زملائه.",
+        "context": "تقال عند ذكر من كان مع الشخص."
       },
       {
         "id": 8,
-        "en": "At the right moment, someone might say, \"I was in the library\".",
-        "ar": "في اللحظة المناسبة، قد يقول شخص ما: \"كنت في المكتبة\".",
-        "context": "توضح أن الجملة مرتبطة بتوقيت مناسب في السياق."
+        "en": "They were in the library for two hours.",
+        "ar": "كانوا في المكتبة لمدة ساعتين.",
+        "context": "تقال عند تحديد مدة الوجود."
       },
       {
         "id": 9,
-        "en": "I wrote down the sentence, \"I was in the library\" so I would remember it.",
-        "ar": "كتبت الجملة: \"كنت في المكتبة\" حتى أتذكرها.",
-        "context": "تعطي مثالًا على حفظ الجملة أو مراجعتها."
+        "en": "I was in the library near the window.",
+        "ar": "كنت في المكتبة قرب النافذة.",
+        "context": "تقال عند تحديد مكان أدق داخل المكتبة."
       },
       {
         "id": 10,
-        "en": "It is useful to know when to say, \"I was in the library\".",
-        "ar": "من المفيد أن تعرف متى تقول: \"كنت في المكتبة\".",
-        "context": "تركز على معرفة الوقت المناسب لاستخدام الجملة."
+        "en": "My sister was in the library before lunch.",
+        "ar": "كانت أختي في المكتبة قبل الغداء.",
+        "context": "تقال عند ذكر وقت وجود شخص في المكتبة."
       }
     ]
   }

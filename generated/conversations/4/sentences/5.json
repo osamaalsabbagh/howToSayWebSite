@@ -10,116 +10,135 @@
     "wordMeanings": [
       {
         "term": "Well",
-        "description": "ظرف يعني بشكل جيد، وقد يأتي صفة في بعض السياقات."
+        "description": "كلمة تمهيدية تستخدم للانتقال إلى فكرة أو رد."
       },
       {
         "term": "I",
-        "description": "ضمير المتكلم."
+        "description": "ضمير المتكلم المفرد."
       },
       {
         "term": "saw",
-        "description": "صيغة الماضي من see وتعني رأى."
+        "description": "صيغة ماضية تعني شاهدت أو رأيت."
       },
       {
         "term": "your",
-        "description": "صفة ملكية تعني خاصتك أو خاصتكم."
+        "description": "صفة ملكية تعني الخاص بك."
       },
       {
         "term": "movie",
-        "description": "اسم يعني فيلم."
+        "description": "فيلم."
       },
       {
         "term": "Final",
-        "description": "صفة تعني رأيت."
+        "description": "جزء من اسم الفيلم، ومعناها الأخير إذا لم تكن اسمًا خاصًا."
       },
       {
         "term": "Light",
-        "description": "اسم علم يشير إلى الضوء."
+        "description": "جزء من اسم الفيلم، ومعناها الضوء إذا لم تكن اسمًا خاصًا."
+      },
+      {
+        "term": "I",
+        "description": "ضمير المتكلم المفرد."
       },
       {
         "term": "watched",
-        "description": "فعل يعني شاهدته."
+        "description": "صيغة ماضية تعني شاهدت."
       },
       {
         "term": "it",
-        "description": "ضمير يعود على الشيء أو الجملة التي قيلت."
+        "description": "ضمير يعود على الفيلم."
       },
       {
         "term": "again",
-        "description": "مرة أخرى."
+        "description": "تعني مرة أخرى."
       },
       {
         "term": "last",
-        "description": "صفة أو ظرف يعني الأخير أو الماضي حسب السياق."
+        "description": "تعني الماضي أو السابق عند الحديث عن وقت."
       },
       {
         "term": "month",
-        "description": "اسم يعني شهر."
+        "description": "شهر."
       }
     ],
-    "tense": "الماضي البسيط",
-    "tenseEn": "Past Simple",
-    "tenseReason": "استُعمل الماضي البسيط لأن الجملة تتحدث عن حدث وقع في الماضي واكتمل هناك.",
+    "grammarExplanations": [
+      {
+        "sentence": "Well, I saw your movie \"Final Light\".",
+        "explanation": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "استُعمل الماضي البسيط لأن مشاهدة الفيلم حدثت في الماضي."
+        }
+      },
+      {
+        "sentence": "I watched it again last month.",
+        "explanation": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "استُعمل الماضي البسيط مع last month لأن المتكلم يذكر وقتًا ماضيًا محددًا."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "Yesterday, Well, I saw your movie \"Final Light\". I watched it again last month.",
-        "ar": "أمس، حسنًا، رأيت فيلمك 'الضوء الأخير'. شاهدته مرة أخرى الشهر الماضي.",
-        "context": "تضيف زمنًا ماضيًا واضحًا."
+        "en": "I saw your play last year.",
+        "ar": "شاهدت مسرحيتك العام الماضي.",
+        "context": "تخبر فنانًا أنك رأيت عملًا سابقًا له."
       },
       {
         "id": 2,
-        "en": "Well, I saw your movie \"Final Light\". I watched it again last month this morning.",
-        "ar": "حسنًا، رأيت فيلمك 'الضوء الأخير'. شاهدته مرة أخرى الشهر الماضي هذا الصباح.",
-        "context": "تحدد وقتًا ماضيًا قريبًا."
+        "en": "I watched it again yesterday.",
+        "ar": "شاهدته مرة أخرى أمس.",
+        "context": "تذكر أنك كررت مشاهدة شيء."
       },
       {
         "id": 3,
-        "en": "Well, I saw your movie \"Final Light\". I watched it again last month after lunch.",
-        "ar": "حسنًا، رأيت فيلمك 'الضوء الأخير'. شاهدته مرة أخرى الشهر الماضي بعد الغداء.",
-        "context": "تربط الحدث بوقت تالٍ لحدث آخر."
+        "en": "Well, I saw your interview on TV.",
+        "ar": "حسنًا، شاهدت مقابلتك على التلفاز.",
+        "context": "تمهد للحديث عن شيء شاهدته."
       },
       {
         "id": 4,
-        "en": "Well, I saw your movie \"Final Light\". I watched it again last month because it was necessary.",
-        "ar": "حسنًا، رأيت فيلمك 'الضوء الأخير'. شاهدته مرة أخرى الشهر الماضي لأنه كان ضروريًا.",
-        "context": "تضيف سببًا لحدوث الفعل في الماضي."
+        "en": "I watched that movie last month.",
+        "ar": "شاهدت ذلك الفيلم الشهر الماضي.",
+        "context": "تحدد وقت المشاهدة."
       },
       {
         "id": 5,
-        "en": "Earlier, Well, I saw your movie \"Final Light\". I watched it again last month.",
-        "ar": "في وقت سابق، حسنًا، رأيت فيلمك 'الضوء الأخير'. شاهدته مرة أخرى الشهر الماضي.",
-        "context": "تربط الحدث بفترة ماضية غير بعيدة."
+        "en": "I saw your movie with my family.",
+        "ar": "شاهدت فيلمك مع عائلتي.",
+        "context": "تضيف مع من شاهدت الفيلم."
       },
       {
         "id": 6,
-        "en": "Well, I saw your movie \"Final Light\". I watched it again last month, and everyone noticed.",
-        "ar": "حسنًا، رأيت فيلمك 'الضوء الأخير'. شاهدته مرة أخرى الشهر الماضي، والجميع لاحظ ذلك.",
-        "context": "تضيف نتيجة لما حدث في الماضي."
+        "en": "I watched it again because I liked it.",
+        "ar": "شاهدته مرة أخرى لأنني أعجبني.",
+        "context": "تشرح سبب تكرار المشاهدة."
       },
       {
         "id": 7,
-        "en": "Well, I saw your movie \"Final Light\". I watched it again last month before we left.",
-        "ar": "حسنًا، رأيت فيلمك 'الضوء الأخير'. شاهدته مرة أخرى الشهر الماضي قبل أن نغادر.",
-        "context": "تربط الفعل الماضي بحدث ماضٍ آخر."
+        "en": "I saw your old show online.",
+        "ar": "شاهدت عرضك القديم على الإنترنت.",
+        "context": "تذكر أين وجدت العمل."
       },
       {
         "id": 8,
-        "en": "Well, I saw your movie \"Final Light\". I watched it again last month during the trip.",
-        "ar": "حسنًا، رأيت فيلمك 'الضوء الأخير'. شاهدته مرة أخرى الشهر الماضي أثناء الرحلة.",
-        "context": "تضع الحدث في إطار زمني أو مكاني محدد."
+        "en": "Well, I heard your song last week.",
+        "ar": "حسنًا، سمعت أغنيتك الأسبوع الماضي.",
+        "context": "تتحدث عن عمل فني آخر."
       },
       {
         "id": 9,
-        "en": "At that time, Well, I saw your movie \"Final Light\". I watched it again last month.",
-        "ar": "في ذلك الوقت، حسنًا، رأيت فيلمك 'الضوء الأخير'. شاهدته مرة أخرى الشهر الماضي.",
-        "context": "تجعل الجملة جزءًا من سرد ماضٍ."
+        "en": "I watched the final scene again.",
+        "ar": "شاهدت المشهد الأخير مرة أخرى.",
+        "context": "تحدد جزءًا من الفيلم."
       },
       {
         "id": 10,
-        "en": "Soon after that, Well, I saw your movie \"Final Light\". I watched it again last month.",
-        "ar": "بعد ذلك بقليل، حسنًا، رأيت فيلمك 'الضوء الأخير'. شاهدته مرة أخرى الشهر الماضي.",
-        "context": "توضح ترتيب الحدث بعد شيء آخر في الماضي."
+        "en": "I saw that film in the theater.",
+        "ar": "شاهدت ذلك الفيلم في السينما.",
+        "context": "تذكر مكان المشاهدة."
       }
     ]
   }

@@ -10,107 +10,123 @@
     "wordMeanings": [
       {
         "term": "I",
-        "description": "ضمير المتكلم."
+        "description": "أنا، وتشير إلى المتكلم."
       },
       {
         "term": "found",
-        "description": "فعل يعني وجدت."
+        "description": "وجدت أو عثرت على شيء."
       },
       {
         "term": "this",
-        "description": "اسم إشارة يعني هذا."
+        "description": "هذا، وتشير إلى شيء قريب أو ممسوك."
       },
       {
         "term": "pen",
-        "description": "اسم يعني القلم."
+        "description": "قلم."
       },
       {
         "term": "on",
-        "description": "حرف جر يعني على أو في يوم محدد حسب السياق."
+        "description": "على، وتدل على مكان الشيء فوق سطح."
       },
       {
         "term": "the",
-        "description": "أداة تعريف تشير إلى شيء معروف أو محدد."
+        "description": "أداة تشير إلى طاولة محددة معروفة من السياق."
       },
       {
         "term": "table",
-        "description": "اسم يعني طاولة."
+        "description": "طاولة."
       },
       {
         "term": "Is",
-        "description": "فعل be في الحاضر مع المفرد."
+        "description": "تأتي في بداية السؤال للسؤال عن حالة أو ملكية شيء."
       },
       {
         "term": "it",
-        "description": "ضمير يعود على الشيء أو الجملة التي قيلت."
+        "description": "هو أو هي، وتشير هنا إلى القلم."
       },
       {
         "term": "yours",
-        "description": "فعل يعني لك."
+        "description": "ملكك أو خاصتك."
       }
     ],
-    "tense": null,
-    "tenseReason": "استُعمل هذا التركيب بحسب وظيفته في السياق، وليس بوصفه زمنًا فعليًا مستقلًا يمكن فصله بسهولة عن المعنى الوظيفي للجملة.",
+    "grammarExplanations": [
+      {
+        "sentence": "I found this pen on the table.",
+        "explanation": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "يستخدم الماضي البسيط لأن العثور على القلم حدث وانتهى قبل لحظة السؤال."
+        }
+      },
+      {
+        "sentence": "Is it yours?",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "يستخدم السؤال بفعل الربط في الحاضر للسؤال عن ملكية القلم الآن."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "You can ask, \"I found this pen on the table. Is it yours?\" when you need information.",
-        "ar": "يمكنك أن تسأل: \"وجدت هذا القلم على الطاولة. هل هو لك؟\" عندما تحتاج إلى معلومة.",
-        "context": "تستعمل الجملة كسؤال مباشر للحصول على معلومة."
+        "en": "I found this pen on the table. Is it yours?",
+        "ar": "وجدت هذا القلم على الطاولة. هل هو لك؟",
+        "context": "تقال عند السؤال عن ملكية قلم وجدته."
       },
       {
         "id": 2,
-        "en": "Many people ask, \"I found this pen on the table. Is it yours?\" in this situation.",
-        "ar": "يسأل كثير من الناس: \"وجدت هذا القلم على الطاولة. هل هو لك؟\" في هذا الموقف.",
-        "context": "توضح أن هذا سؤال شائع في موقف مشابه."
+        "en": "I found this key on the floor. Is it yours?",
+        "ar": "وجدت هذا المفتاح على الأرض. هل هو لك؟",
+        "context": "تقال عند العثور على مفتاح والسؤال عن صاحبه."
       },
       {
         "id": 3,
-        "en": "I asked, \"I found this pen on the table. Is it yours?\" because I was not sure.",
-        "ar": "سألت: \"وجدت هذا القلم على الطاولة. هل هو لك؟\" لأنني لم أكن متأكدًا.",
-        "context": "تضيف سببًا لطرح السؤال."
+        "en": "I found this bag near the door. Is it yours?",
+        "ar": "وجدت هذه الحقيبة قرب الباب. هل هي لك؟",
+        "context": "تقال عند العثور على حقيبة في مكان عام."
       },
       {
         "id": 4,
-        "en": "She asked politely, \"I found this pen on the table. Is it yours?\"",
-        "ar": "سألت بأدب: \"وجدت هذا القلم على الطاولة. هل هو لك؟\".",
-        "context": "تبين أن السؤال قيل بطريقة مهذبة."
+        "en": "I found this phone on the chair. Is it yours?",
+        "ar": "وجدت هذا الهاتف على الكرسي. هل هو لك؟",
+        "context": "تقال عند محاولة إعادة هاتف لصاحبه."
       },
       {
         "id": 5,
-        "en": "At work, someone may ask, \"I found this pen on the table. Is it yours?\"",
-        "ar": "في العمل، قد يسأل شخص ما: \"وجدت هذا القلم على الطاولة. هل هو لك؟\".",
-        "context": "تضع السؤال في سياق مهني أو عملي."
+        "en": "I found this ticket on the counter. Is it yours?",
+        "ar": "وجدت هذه التذكرة على المنضدة. هل هي لك؟",
+        "context": "تقال عند العثور على تذكرة مفقودة."
       },
       {
         "id": 6,
-        "en": "Before deciding, ask: \"I found this pen on the table. Is it yours?\"",
-        "ar": "قبل أن تقرر، اسأل: \"وجدت هذا القلم على الطاولة. هل هو لك؟\".",
-        "context": "تستخدم السؤال قبل اتخاذ قرار."
+        "en": "I found this notebook in the room. Is it yours?",
+        "ar": "وجدت هذا الدفتر في الغرفة. هل هو لك؟",
+        "context": "تقال عند السؤال عن دفتر متروك."
       },
       {
         "id": 7,
-        "en": "The student asked, \"I found this pen on the table. Is it yours?\" in class.",
-        "ar": "سأل الطالب: \"وجدت هذا القلم على الطاولة. هل هو لك؟\" في الصف.",
-        "context": "تجعل الجملة جزءًا من موقف تعليمي."
+        "en": "I found this wallet under the table. Is it yours?",
+        "ar": "وجدت هذه المحفظة تحت الطاولة. هل هي لك؟",
+        "context": "تقال عند العثور على محفظة."
       },
       {
         "id": 8,
-        "en": "While traveling, you can ask, \"I found this pen on the table. Is it yours?\"",
-        "ar": "أثناء السفر، يمكنك أن تسأل: \"وجدت هذا القلم على الطاولة. هل هو لك؟\".",
-        "context": "تربط السؤال بموقف السفر أو التنقل."
+        "en": "I found these glasses on the desk. Are they yours?",
+        "ar": "وجدت هذه النظارات على المكتب. هل هي لك؟",
+        "context": "تقال عند العثور على نظارات والسؤال عن مالكها."
       },
       {
         "id": 9,
-        "en": "He asked me, \"I found this pen on the table. Is it yours?\" again.",
-        "ar": "سألني: \"وجدت هذا القلم على الطاولة. هل هو لك؟\" مرة أخرى.",
-        "context": "تضيف معنى التكرار لنفس السؤال."
+        "en": "I found this umbrella outside. Is it yours?",
+        "ar": "وجدت هذه المظلة في الخارج. هل هي لك؟",
+        "context": "تقال عند العثور على مظلة متروكة."
       },
       {
         "id": 10,
-        "en": "If you are not sure, ask: \"I found this pen on the table. Is it yours?\"",
-        "ar": "إذا لم تكن متأكدًا، فاسأل: \"وجدت هذا القلم على الطاولة. هل هو لك؟\".",
-        "context": "توضح أن السؤال مناسب عند عدم التأكد."
+        "en": "I found this card on the table. Is it yours?",
+        "ar": "وجدت هذه البطاقة على الطاولة. هل هي لك؟",
+        "context": "تقال عند السؤال عن بطاقة وجدتها."
       }
     ]
   }

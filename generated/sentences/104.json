@@ -10,84 +10,91 @@
     "wordMeanings": [
       {
         "term": "Sorry",
-        "description": "صفة أو تعبير يعني آسف."
+        "description": "عذرًا أو آسف، وتستخدم للاعتذار."
       },
       {
         "term": "to",
-        "description": "أداة تأتي قبل المصدر بعد أفعال مثل want."
+        "description": "تأتي قبل الفعل لتوضح سبب الاعتذار أو الفعل المتوقع."
       },
       {
         "term": "bother",
-        "description": "فعل يعني عذرا."
+        "description": "أزعج أو أقاطع شخصًا."
       },
       {
         "term": "you",
-        "description": "الضمير الذي يعود على الشخص المخاطَب."
+        "description": "ضمير يشير إلى الشخص الذي أتحدث معه."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "Sorry to bother you.",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذا تعبير اعتذار مهذب يستخدم قبل أو أثناء مقاطعة شخص، ولا يحتوي على فعل مصرف بزمن مستقل."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "People often say, \"Sorry to bother you\" in situations like this.",
-        "ar": "يقول الناس كثيرًا: \"عذرًا لإزعاجك\" في مواقف كهذه.",
-        "context": "تستخدم الجملة بوصفها تركيبًا شائعًا في موقف مشابه."
+        "en": "Sorry to interrupt you.",
+        "ar": "عذرًا لمقاطعتك.",
+        "context": "تقال قبل الدخول في حديث شخص."
       },
       {
         "id": 2,
-        "en": "You can say, \"Sorry to bother you\" when this happens.",
-        "ar": "يمكنك أن تقول: \"عذرًا لإزعاجك\" عندما يحدث هذا.",
-        "context": "توضح أن الجملة مناسبة في موقف متكرر."
+        "en": "Sorry to call so late.",
+        "ar": "عذرًا لاتصالي في وقت متأخر جدًا.",
+        "context": "تقال عند الاتصال في وقت غير مناسب."
       },
       {
         "id": 3,
-        "en": "I heard someone say, \"Sorry to bother you\".",
-        "ar": "سمعت شخصًا يقول: \"عذرًا لإزعاجك\".",
-        "context": "تجعل الجملة جزءًا من كلام سمعته من شخص آخر."
+        "en": "Sorry to ask again.",
+        "ar": "عذرًا لسؤالي مرة أخرى.",
+        "context": "تقال عند تكرار سؤال."
       },
       {
         "id": 4,
-        "en": "The teacher used the sentence, \"Sorry to bother you\" in class.",
-        "ar": "استخدم المعلم الجملة: \"عذرًا لإزعاجك\" في الصف.",
-        "context": "تستخدم الجملة مثالًا تعليميًا في الصف."
+        "en": "Sorry to trouble you.",
+        "ar": "عذرًا لإزعاجك.",
+        "context": "تقال عند طلب مساعدة قد تسبب إزعاجًا."
       },
       {
         "id": 5,
-        "en": "Many learners remember the sentence, \"Sorry to bother you\" first.",
-        "ar": "يتذكر كثير من المتعلمين الجملة: \"عذرًا لإزعاجك\" أولًا.",
-        "context": "تقدم الجملة بوصفها جملة تعليمية أساسية."
+        "en": "Sorry to keep you waiting.",
+        "ar": "عذرًا لجعلك تنتظر.",
+        "context": "تقال عند التأخر على شخص ينتظر."
       },
       {
         "id": 6,
-        "en": "She said, \"Sorry to bother you\" in a calm way.",
-        "ar": "قالت: \"عذرًا لإزعاجك\" بطريقة هادئة.",
-        "context": "تجعل الجملة جزءًا من كلام مباشر في موقف عادي."
+        "en": "Sorry to disturb the meeting.",
+        "ar": "عذرًا لإزعاج الاجتماع.",
+        "context": "تقال عند مقاطعة اجتماع."
       },
       {
         "id": 7,
-        "en": "He repeated, \"Sorry to bother you\" more than once.",
-        "ar": "ردد: \"عذرًا لإزعاجك\" أكثر من مرة.",
-        "context": "تضيف معنى التكرار لنفس الجملة."
+        "en": "Sorry to bother you at work.",
+        "ar": "عذرًا لإزعاجك في العمل.",
+        "context": "تقال عند طلب شيء من شخص أثناء عمله."
       },
       {
         "id": 8,
-        "en": "At the right moment, someone might say, \"Sorry to bother you\".",
-        "ar": "في اللحظة المناسبة، قد يقول شخص ما: \"عذرًا لإزعاجك\".",
-        "context": "توضح أن الجملة مرتبطة بتوقيت مناسب في السياق."
+        "en": "Sorry to come without calling.",
+        "ar": "عذرًا لقدومي دون اتصال.",
+        "context": "تقال عند زيارة شخص دون ترتيب سابق."
       },
       {
         "id": 9,
-        "en": "I wrote down the sentence, \"Sorry to bother you\" so I would remember it.",
-        "ar": "كتبت الجملة: \"عذرًا لإزعاجك\" حتى أتذكرها.",
-        "context": "تعطي مثالًا على حفظ الجملة أو مراجعتها."
+        "en": "Sorry to make you wait.",
+        "ar": "عذرًا لجعلك تنتظر.",
+        "context": "تقال عند التأخر في إنجاز شيء لشخص."
       },
       {
         "id": 10,
-        "en": "It is useful to know when to say, \"Sorry to bother you\".",
-        "ar": "من المفيد أن تعرف متى تقول: \"عذرًا لإزعاجك\".",
-        "context": "تركز على معرفة الوقت المناسب لاستخدام الجملة."
+        "en": "Sorry to take your time.",
+        "ar": "عذرًا لأخذ وقتك.",
+        "context": "تقال عند طلب اهتمام شخص لفترة قصيرة."
       }
     ]
   }

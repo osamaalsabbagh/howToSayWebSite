@@ -10,75 +10,83 @@
     "wordMeanings": [
       {
         "term": "Good",
-        "description": "صفة تعني جيد."
+        "description": "جيد أو مناسب في هذا السياق."
       },
       {
         "term": "idea",
-        "description": "فكرة أو اقتراح."
+        "description": "فكرة أو اقتراح يمكن التفكير فيه أو تنفيذه."
       }
     ],
-    "tense": null,
-    "tenseReason": "استُعملت للتعليق سريعًا على اقتراح أو فكرة وإظهار أنها مناسبة أو نافعة.",
+    "grammarExplanations": [
+      {
+        "sentence": "Good idea.",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذا تركيب اسمي قصير يستخدم للموافقة على اقتراح، ولا يحتوي على فعل أو زمن مستقل."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "Good idea, let us leave early.",
-        "ar": "فكرة جيدة، لنغادر مبكرًا.",
-        "context": "توافق على اقتراح."
+        "en": "Great idea.",
+        "ar": "فكرة رائعة.",
+        "context": "تقال عند الإعجاب باقتراح واضح."
       },
       {
         "id": 2,
-        "en": "That is a good idea for the meeting.",
-        "ar": "هذه فكرة جيدة للاجتماع.",
-        "context": "تقيّم اقتراحًا محددًا."
+        "en": "That is a good idea.",
+        "ar": "هذه فكرة جيدة.",
+        "context": "تقال للموافقة على اقتراح شخص."
       },
       {
         "id": 3,
-        "en": "Good idea, I did not think of that.",
-        "ar": "فكرة جيدة، لم أفكر في ذلك.",
-        "context": "تمدح فكرة جديدة عليك."
+        "en": "This is a smart idea.",
+        "ar": "هذه فكرة ذكية.",
+        "context": "تقال عندما يبدو الاقتراح مفيدًا أو عمليًا."
       },
       {
         "id": 4,
-        "en": "It is a good idea to call him first.",
-        "ar": "من الجيد أن تتصل به أولًا.",
-        "context": "تتحدث عن فكرة مناسبة قبل فعل آخر."
+        "en": "A short break is a good idea.",
+        "ar": "استراحة قصيرة فكرة جيدة.",
+        "context": "تقال عند اقتراح الراحة بعد عمل طويل."
       },
       {
         "id": 5,
-        "en": "Good idea, we can save time that way.",
-        "ar": "فكرة جيدة، يمكننا أن نوفر الوقت بهذه الطريقة.",
-        "context": "تذكر فائدة الفكرة."
+        "en": "Calling first is a good idea.",
+        "ar": "الاتصال أولًا فكرة جيدة.",
+        "context": "تقال عندما يكون الاتصال قبل الزيارة أنسب."
       },
       {
         "id": 6,
-        "en": "That sounds like a good idea.",
-        "ar": "هذا يبدو كفكرة جيدة.",
-        "context": "تستقبل اقتراحًا بإيجابية."
+        "en": "Saving money is a good idea.",
+        "ar": "ادخار المال فكرة جيدة.",
+        "context": "تقال عند الحديث عن قرار مالي مفيد."
       },
       {
         "id": 7,
-        "en": "Good idea, let us write it down.",
-        "ar": "فكرة جيدة، لنكتبها.",
-        "context": "توافق على خطوة عملية."
+        "en": "Taking a map is a good idea.",
+        "ar": "أخذ خريطة فكرة جيدة.",
+        "context": "تقال قبل الذهاب إلى مكان غير معروف."
       },
       {
         "id": 8,
-        "en": "It was a good idea to wait.",
-        "ar": "كان من الجيد أن ننتظر.",
-        "context": "تعلّق على فكرة كانت صحيحة بعد حدوثها."
+        "en": "Your idea sounds good.",
+        "ar": "تبدو فكرتك جيدة.",
+        "context": "تقال عند قبول اقتراح بعد سماعه."
       },
       {
         "id": 9,
-        "en": "Good idea, ask her directly.",
-        "ar": "فكرة جيدة، اسألها مباشرة.",
-        "context": "تمدح أسلوبًا أو خطة."
+        "en": "It is a good idea to wait.",
+        "ar": "من الجيد الانتظار.",
+        "context": "تقال عندما يكون التأجيل أكثر أمانًا."
       },
       {
         "id": 10,
-        "en": "That is a really good idea for beginners.",
-        "ar": "هذه فكرة جيدة فعلًا للمبتدئين.",
-        "context": "تقيّم الاقتراح بحسب الفئة المستهدفة."
+        "en": "A backup plan is a good idea.",
+        "ar": "وجود خطة بديلة فكرة جيدة.",
+        "context": "تقال عند الاستعداد لاحتمال حدوث مشكلة."
       }
     ]
   }

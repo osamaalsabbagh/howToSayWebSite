@@ -10,99 +10,107 @@
     "wordMeanings": [
       {
         "term": "After",
-        "description": "ظرف أو حرف جر يعني بعد."
+        "description": "تعني بعد."
       },
       {
         "term": "this",
-        "description": "اسم إشارة يعني هذا."
+        "description": "يشير إلى المعرض أو الحدث الحالي."
       },
       {
         "term": "shall",
-        "description": "فعل يعني هل."
+        "description": "تستخدم في الاقتراحات بصيغة مهذبة."
       },
       {
         "term": "we",
-        "description": "ضمير المتكلمين."
+        "description": "ضمير يشمل المتكلم والشخص الآخر."
       },
       {
         "term": "meet",
-        "description": "فعل يعني يقابل أو يلتقي."
+        "description": "تعني نلتقي."
       },
       {
         "term": "at",
-        "description": "حرف جر يعني عند أو في وقت/مكان محدد."
+        "description": "حرف يحدد مكان اللقاء."
       },
       {
         "term": "the",
-        "description": "أداة تعريف تشير إلى شيء معروف أو محدد."
+        "description": "أداة تعريف لمكان محدد."
       },
       {
         "term": "library",
-        "description": "اسم يعني مكتبة."
+        "description": "مكتبة."
       }
     ],
-    "tense": null,
-    "tenseReason": "استُعمل هذا التركيب بحسب وظيفته في السياق، وليس بوصفه زمنًا فعليًا مستقلًا يمكن فصله بسهولة عن المعنى الوظيفي للجملة.",
+    "grammarExplanations": [
+      {
+        "sentence": "After this, shall we meet at the library?",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه صيغة اقتراح مهذب باستخدام shall عن ترتيب لاحق، ولا تعامل كزمن مستقل واضح."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "You can ask, \"After this, shall we meet at the library?\" when you need information.",
-        "ar": "يمكنك أن تسأل: \"بعد هذا، هل نلتقي في المكتبة؟\" عندما تحتاج إلى معلومة.",
-        "context": "تستعمل الجملة كسؤال مباشر للحصول على معلومة."
+        "en": "After this, shall we meet at the cafe?",
+        "ar": "بعد هذا، هل نلتقي في المقهى؟",
+        "context": "تقترح مكانًا للقاء بعد حدث."
       },
       {
         "id": 2,
-        "en": "Many people ask, \"After this, shall we meet at the library?\" in this situation.",
-        "ar": "يسأل كثير من الناس: \"بعد هذا، هل نلتقي في المكتبة؟\" في هذا الموقف.",
-        "context": "توضح أن هذا سؤال شائع في موقف مشابه."
+        "en": "Shall we meet at the library tomorrow?",
+        "ar": "هل نلتقي في المكتبة غدًا؟",
+        "context": "تقترح موعدًا ومكانًا."
       },
       {
         "id": 3,
-        "en": "I asked, \"After this, shall we meet at the library?\" because I was not sure.",
-        "ar": "سألت: \"بعد هذا، هل نلتقي في المكتبة؟\" لأنني لم أكن متأكدًا.",
-        "context": "تضيف سببًا لطرح السؤال."
+        "en": "After class, shall we study together?",
+        "ar": "بعد الحصة، هل ندرس معًا؟",
+        "context": "تقترح نشاطًا بعد الدراسة."
       },
       {
         "id": 4,
-        "en": "She asked politely, \"After this, shall we meet at the library?\"",
-        "ar": "سألت بأدب: \"بعد هذا، هل نلتقي في المكتبة؟\".",
-        "context": "تبين أن السؤال قيل بطريقة مهذبة."
+        "en": "Shall we meet near the entrance?",
+        "ar": "هل نلتقي قرب المدخل؟",
+        "context": "تحدد نقطة لقاء سهلة."
       },
       {
         "id": 5,
-        "en": "At work, someone may ask, \"After this, shall we meet at the library?\"",
-        "ar": "في العمل، قد يسأل شخص ما: \"بعد هذا، هل نلتقي في المكتبة؟\".",
-        "context": "تضع السؤال في سياق مهني أو عملي."
+        "en": "After this, shall we get coffee?",
+        "ar": "بعد هذا، هل نحصل على قهوة؟",
+        "context": "تقترح نشاطًا بسيطًا بعد فعالية."
       },
       {
         "id": 6,
-        "en": "Before deciding, ask: \"After this, shall we meet at the library?\"",
-        "ar": "قبل أن تقرر، اسأل: \"بعد هذا، هل نلتقي في المكتبة؟\".",
-        "context": "تستخدم السؤال قبل اتخاذ قرار."
+        "en": "Shall we meet at five?",
+        "ar": "هل نلتقي في الخامسة؟",
+        "context": "تحدد وقت اللقاء."
       },
       {
         "id": 7,
-        "en": "The student asked, \"After this, shall we meet at the library?\" in class.",
-        "ar": "سأل الطالب: \"بعد هذا، هل نلتقي في المكتبة؟\" في الصف.",
-        "context": "تجعل الجملة جزءًا من موقف تعليمي."
+        "en": "After the exhibition, shall we walk home?",
+        "ar": "بعد المعرض، هل نمشي إلى البيت؟",
+        "context": "تقترح ما تفعلانه بعد المعرض."
       },
       {
         "id": 8,
-        "en": "While traveling, you can ask, \"After this, shall we meet at the library?\"",
-        "ar": "أثناء السفر، يمكنك أن تسأل: \"بعد هذا، هل نلتقي في المكتبة؟\".",
-        "context": "تربط السؤال بموقف السفر أو التنقل."
+        "en": "Shall we meet in the reading section?",
+        "ar": "هل نلتقي في قسم القراءة؟",
+        "context": "تحدد مكانًا داخل المكتبة."
       },
       {
         "id": 9,
-        "en": "He asked me, \"After this, shall we meet at the library?\" again.",
-        "ar": "سألني: \"بعد هذا، هل نلتقي في المكتبة؟\" مرة أخرى.",
-        "context": "تضيف معنى التكرار لنفس السؤال."
+        "en": "After this, shall we call Omar?",
+        "ar": "بعد هذا، هل نتصل بعمر؟",
+        "context": "تقترح خطوة تالية."
       },
       {
         "id": 10,
-        "en": "If you are not sure, ask: \"After this, shall we meet at the library?\"",
-        "ar": "إذا لم تكن متأكدًا، فاسأل: \"بعد هذا، هل نلتقي في المكتبة؟\".",
-        "context": "توضح أن السؤال مناسب عند عدم التأكد."
+        "en": "Shall we meet there after lunch?",
+        "ar": "هل نلتقي هناك بعد الغداء؟",
+        "context": "تحدد مكانًا ووقتًا غير مباشر."
       }
     ]
   }

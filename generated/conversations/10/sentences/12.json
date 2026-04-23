@@ -10,112 +10,119 @@
     "wordMeanings": [
       {
         "term": "I",
-        "description": "ضمير المتكلم."
+        "description": "ضمير المتكلم المفرد."
       },
       {
         "term": "have",
-        "description": "فعل يعني يملك، ويأتي أيضًا كفعل مساعد."
+        "description": "تساعد هنا في تكوين معنى خبرة أو رؤية حدثت قبل الآن وما زال أثرها حاضرًا."
       },
       {
         "term": "not",
-        "description": "أداة نفي."
+        "description": "أداة نفي تجعل المعنى أن الرؤية لم تحدث."
       },
       {
         "term": "seen",
-        "description": "فعل يعني شيئا."
+        "description": "رأيت أو شاهدت."
       },
       {
         "term": "anything",
-        "description": "ضمير يعني أي شيء."
+        "description": "أي شيء، وتأتي هنا بعد النفي لتقوية معنى عدم وجود مثال مشابه."
       },
       {
         "term": "like",
-        "description": "فعل يدل على الإعجاب أو الميل."
+        "description": "تعني مثل أو شبيه، وليست بمعنى الإعجاب هنا."
       },
       {
         "term": "this",
-        "description": "اسم إشارة يعني هذا."
+        "description": "تشير إلى شيء قريب أو حاضر في الحديث."
       },
       {
         "term": "apartment",
-        "description": "اسم يعني شقة."
+        "description": "شقة أو مسكن داخل مبنى."
       },
       {
         "term": "in",
-        "description": "حرف جر يعني في."
+        "description": "داخل مكان أو نطاق معين."
       },
       {
         "term": "the",
-        "description": "أداة تعريف تشير إلى شيء معروف أو محدد."
+        "description": "أداة تعريف تدل على منطقة معروفة في الحديث."
       },
       {
         "term": "area",
-        "description": "اسم يعني المنطقة."
+        "description": "منطقة أو مكان محدد."
       }
     ],
-    "tense": "المضارع التام",
-    "tenseEn": "Present Perfect",
-    "tenseReason": "استُعمل المضارع التام لأن الجملة تربط بين حدث وقع في الماضي ونتيجته أو أثره في الحاضر.",
+    "grammarExplanations": [
+      {
+        "sentence": "I have not seen anything like this apartment in the area.",
+        "explanation": {
+          "tense": "المضارع التام",
+          "tenseEn": "Present Perfect",
+          "reason": "استُخدم هذا الزمن للحديث عن خبرة المتكلم حتى الآن؛ فهو لم يرَ قبل لحظة الكلام شيئًا مشابهًا في تلك المنطقة."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "Recently, I have not seen anything like this apartment in the area.",
-        "ar": "مؤخرًا، لم أرَ شيئًا مثل هذه الشقة في المنطقة.",
-        "context": "تربط الجملة بزمن قريب من الحاضر."
+        "en": "I have not seen anything like this house before.",
+        "ar": "لم أرَ شيئًا مثل هذا المنزل من قبل.",
+        "context": "يُستخدم للتعبير عن أن الشيء مميز ضمن خبرة المتكلم."
       },
       {
         "id": 2,
-        "en": "I have not seen anything like this apartment in the area already.",
-        "ar": "لم أرَ شيئًا مثل هذه الشقة في المنطقة بالفعل.",
-        "context": "تضيف معنى الإنجاز أو الاكتمال."
+        "en": "I have not tasted anything like this soup.",
+        "ar": "لم أتذوق شيئًا مثل هذا الحساء.",
+        "context": "يُستخدم عند وصف تجربة طعام غير مألوفة."
       },
       {
         "id": 3,
-        "en": "I have not seen anything like this apartment in the area, so we can continue.",
-        "ar": "لم أرَ شيئًا مثل هذه الشقة في المنطقة، لذلك يمكننا المتابعة.",
-        "context": "تضيف أثرًا حاضرًا لحدث سابق."
+        "en": "I have not met anyone like this teacher.",
+        "ar": "لم أقابل أحدًا مثل هذا المعلم.",
+        "context": "يُستخدم لمدح شخص بناءً على تجربة سابقة."
       },
       {
         "id": 4,
-        "en": "I have not seen anything like this apartment in the area before, so I remember it.",
-        "ar": "لم أرَ شيئًا مثل هذه الشقة في المنطقة من قبل، لذلك أتذكره.",
-        "context": "تربط الخبرة السابقة بنتيجة حاضرة."
+        "en": "I have not found anything like this price.",
+        "ar": "لم أجد شيئًا مثل هذا السعر.",
+        "context": "يُستخدم عند مقارنة عرض بسوق أو خيارات أخرى."
       },
       {
         "id": 5,
-        "en": "I have not seen anything like this apartment in the area more than once.",
-        "ar": "لم أرَ شيئًا مثل هذه الشقة في المنطقة أكثر من مرة.",
-        "context": "تضيف معنى التكرار في زمن غير محدد."
+        "en": "I have not heard anything like this story.",
+        "ar": "لم أسمع شيئًا مثل هذه القصة.",
+        "context": "يُستخدم عند التعجب من قصة غير عادية."
       },
       {
         "id": 6,
-        "en": "So far, I have not seen anything like this apartment in the area.",
-        "ar": "حتى الآن، لم أرَ شيئًا مثل هذه الشقة في المنطقة.",
-        "context": "تربط الحدث بالفترة الممتدة حتى الحاضر."
+        "en": "I have not seen anything like this view in the city.",
+        "ar": "لم أرَ شيئًا مثل هذا المنظر في المدينة.",
+        "context": "يُستخدم لوصف منظر مميز مقارنة بمكان محدد."
       },
       {
         "id": 7,
-        "en": "I have not seen anything like this apartment in the area since this morning.",
-        "ar": "لم أرَ شيئًا مثل هذه الشقة في المنطقة منذ هذا الصباح.",
-        "context": "تحدد بداية زمن مرتبطة بالحاضر."
+        "en": "I have not used anything like this app.",
+        "ar": "لم أستخدم شيئًا مثل هذا التطبيق.",
+        "context": "يُستخدم عند الحديث عن تجربة تقنية جديدة."
       },
       {
         "id": 8,
-        "en": "By now, I have not seen anything like this apartment in the area.",
-        "ar": "حتى الآن، لم أرَ شيئًا مثل هذه الشقة في المنطقة.",
-        "context": "تؤكد النتيجة الحالية للفعل."
+        "en": "I have not read anything like this book.",
+        "ar": "لم أقرأ شيئًا مثل هذا الكتاب.",
+        "context": "يُستخدم عند وصف كتاب مختلف عن تجارب القراءة السابقة."
       },
       {
         "id": 9,
-        "en": "I have not seen anything like this apartment in the area, and that changed things.",
-        "ar": "لم أرَ شيئًا مثل هذه الشقة في المنطقة، وهذا غيّر الأمور.",
-        "context": "تضيف أثرًا واضحًا للحدث على الحاضر."
+        "en": "I have not seen anything like this design.",
+        "ar": "لم أرَ شيئًا مثل هذا التصميم.",
+        "context": "يُستخدم عند الإعجاب بشكل أو تصميم مميز."
       },
       {
         "id": 10,
-        "en": "At this point, I have not seen anything like this apartment in the area.",
-        "ar": "عند هذه المرحلة، لم أرَ شيئًا مثل هذه الشقة في المنطقة.",
-        "context": "تربط الجملة بالوضع الحالي بعد سلسلة أحداث."
+        "en": "I have not found anything like this place nearby.",
+        "ar": "لم أجد شيئًا مثل هذا المكان قريبًا.",
+        "context": "يُستخدم عند مقارنة مكان بغيره في المنطقة القريبة."
       }
     ]
   }

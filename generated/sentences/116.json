@@ -10,84 +10,91 @@
     "wordMeanings": [
       {
         "term": "Thank",
-        "description": "فعل أو تعبير شكر يعني أشكر أو أقدّر."
+        "description": "أشكر، وتأتي هنا ضمن تعبير شكر."
       },
       {
         "term": "you",
-        "description": "الضمير الذي يعود على الشخص المخاطَب."
+        "description": "ضمير يشير إلى الشخص الذي أشكره."
       },
       {
         "term": "very",
-        "description": "كلمة تزيد شدة الصفة."
+        "description": "كلمة تقوي الشكر وتزيد درجته."
       },
       {
         "term": "much",
-        "description": "هنا تأتي مع very لتكوين very much، أي كثيرًا / بدرجة كبيرة."
+        "description": "تتمم معنى الشدة هنا لتدل على امتنان كبير."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "Thank you very much.",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذا تعبير شكر ثابت بدرجة قوية، ولا يستخدم كجملة بزمن مستقل."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "People often say, \"Thank you very much\" in situations like this.",
-        "ar": "يقول الناس كثيرًا: \"شكرًا جزيلًا\" في مواقف كهذه.",
-        "context": "تستخدم الجملة بوصفها تركيبًا شائعًا في موقف مشابه."
+        "en": "Thank you so much.",
+        "ar": "شكرًا جزيلًا.",
+        "context": "تقال للتعبير عن امتنان كبير."
       },
       {
         "id": 2,
-        "en": "You can say, \"Thank you very much\" when this happens.",
-        "ar": "يمكنك أن تقول: \"شكرًا جزيلًا\" عندما يحدث هذا.",
-        "context": "توضح أن الجملة مناسبة في موقف متكرر."
+        "en": "Thanks a lot.",
+        "ar": "شكرًا كثيرًا.",
+        "context": "تقال عند شكر شخص بطريقة ودية."
       },
       {
         "id": 3,
-        "en": "I heard someone say, \"Thank you very much\".",
-        "ar": "سمعت شخصًا يقول: \"شكرًا جزيلًا\".",
-        "context": "تجعل الجملة جزءًا من كلام سمعته من شخص آخر."
+        "en": "Thank you very much for your help.",
+        "ar": "شكرًا جزيلًا على مساعدتك.",
+        "context": "تقال عند تقدير مساعدة كبيرة."
       },
       {
         "id": 4,
-        "en": "The teacher used the sentence, \"Thank you very much\" in class.",
-        "ar": "استخدم المعلم الجملة: \"شكرًا جزيلًا\" في الصف.",
-        "context": "تستخدم الجملة مثالًا تعليميًا في الصف."
+        "en": "Thank you very much for coming.",
+        "ar": "شكرًا جزيلًا لقدومك.",
+        "context": "تقال عند تقدير حضور شخص."
       },
       {
         "id": 5,
-        "en": "Many learners remember the sentence, \"Thank you very much\" first.",
-        "ar": "يتذكر كثير من المتعلمين الجملة: \"شكرًا جزيلًا\" أولًا.",
-        "context": "تقدم الجملة بوصفها جملة تعليمية أساسية."
+        "en": "Thank you very much for your time.",
+        "ar": "شكرًا جزيلًا على وقتك.",
+        "context": "تقال بعد اجتماع أو محادثة مفيدة."
       },
       {
         "id": 6,
-        "en": "She said, \"Thank you very much\" in a calm way.",
-        "ar": "قالت: \"شكرًا جزيلًا\" بطريقة هادئة.",
-        "context": "تجعل الجملة جزءًا من كلام مباشر في موقف عادي."
+        "en": "Thank you very much for the gift.",
+        "ar": "شكرًا جزيلًا على الهدية.",
+        "context": "تقال عند تلقي هدية."
       },
       {
         "id": 7,
-        "en": "He repeated, \"Thank you very much\" more than once.",
-        "ar": "ردد: \"شكرًا جزيلًا\" أكثر من مرة.",
-        "context": "تضيف معنى التكرار لنفس الجملة."
+        "en": "Thank you very much for listening.",
+        "ar": "شكرًا جزيلًا لاستماعك.",
+        "context": "تقال عند تقدير انتباه شخص."
       },
       {
         "id": 8,
-        "en": "At the right moment, someone might say, \"Thank you very much\".",
-        "ar": "في اللحظة المناسبة، قد يقول شخص ما: \"شكرًا جزيلًا\".",
-        "context": "توضح أن الجملة مرتبطة بتوقيت مناسب في السياق."
+        "en": "Thank you very much for the answer.",
+        "ar": "شكرًا جزيلًا على الإجابة.",
+        "context": "تقال عند تلقي جواب واضح."
       },
       {
         "id": 9,
-        "en": "I wrote down the sentence, \"Thank you very much\" so I would remember it.",
-        "ar": "كتبت الجملة: \"شكرًا جزيلًا\" حتى أتذكرها.",
-        "context": "تعطي مثالًا على حفظ الجملة أو مراجعتها."
+        "en": "Thank you very much for waiting.",
+        "ar": "شكرًا جزيلًا لانتظارك.",
+        "context": "تقال عند تقدير صبر شخص."
       },
       {
         "id": 10,
-        "en": "It is useful to know when to say, \"Thank you very much\".",
-        "ar": "من المفيد أن تعرف متى تقول: \"شكرًا جزيلًا\".",
-        "context": "تركز على معرفة الوقت المناسب لاستخدام الجملة."
+        "en": "Thank you very much for everything.",
+        "ar": "شكرًا جزيلًا على كل شيء.",
+        "context": "تقال عند امتنان شامل لشخص."
       }
     ]
   }

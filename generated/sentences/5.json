@@ -10,7 +10,7 @@
     "wordMeanings": [
       {
         "term": "Do",
-        "description": "فعل مساعد يُستعمل هنا لتكوين صيغة النهي مع not."
+        "description": "تبدأ هنا صيغة نهي مع not."
       },
       {
         "term": "not",
@@ -18,71 +18,79 @@
       },
       {
         "term": "worry",
-        "description": "فعل يعني تقلق."
+        "description": "تقلق أو تشعر بالخوف من شيء."
       }
     ],
-    "tense": null,
-    "tenseReason": "استُعمل النهي لأن المتكلم يريد أن يهدئ شخصًا ويطلب منه ألا يقلق الآن.",
+    "grammarExplanations": [
+      {
+        "sentence": "Do not worry.",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "الجملة نهي أو طمأنة بصيغة الأمر المنفي، وليست زمنًا مستقلًا."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "Do not worry, I can fix it.",
-        "ar": "لا تقلق، يمكنني إصلاحه.",
-        "context": "تطمئن شخصًا بعد مشكلة."
+        "en": "Do not worry about it.",
+        "ar": "لا تقلق بشأن ذلك.",
+        "context": "تقال لطمأنة شخص."
       },
       {
         "id": 2,
-        "en": "Do not worry about the time.",
-        "ar": "لا تقلق بشأن الوقت.",
-        "context": "تزيل سبب القلق عند شخص."
+        "en": "Do not worry, I can help.",
+        "ar": "لا تقلق، أستطيع المساعدة.",
+        "context": "تقال عند عرض المساعدة."
       },
       {
         "id": 3,
-        "en": "Do not worry, everything is okay.",
-        "ar": "لا تقلق، كل شيء بخير.",
-        "context": "تهدئة عامة."
+        "en": "Do not worry about the time.",
+        "ar": "لا تقلق بشأن الوقت.",
+        "context": "تقال عندما لا يكون التأخير مشكلة."
       },
       {
         "id": 4,
-        "en": "Do not worry, I understand.",
-        "ar": "لا تقلق، أنا أفهم.",
-        "context": "تطمئن شخصًا خائفًا من سوء الفهم."
+        "en": "Please do not worry.",
+        "ar": "من فضلك لا تقلق.",
+        "context": "صيغة ألطف لطمأنة شخص."
       },
       {
         "id": 5,
-        "en": "Do not worry, we still have time.",
-        "ar": "لا تقلق، ما زال لدينا وقت.",
-        "context": "تهدئة بخصوص التأخير أو الضغط."
+        "en": "Do not worry about the test.",
+        "ar": "لا تقلق بشأن الاختبار.",
+        "context": "تقال لتهدئة شخص قبل امتحان."
       },
       {
         "id": 6,
-        "en": "Do not worry, I will help you.",
-        "ar": "لا تقلق، سأساعدك.",
-        "context": "تهدئة مع وعد بالمساعدة."
+        "en": "Do not worry, everything is okay.",
+        "ar": "لا تقلق، كل شيء على ما يرام.",
+        "context": "تقال عندما يكون الوضع مطمئنًا."
       },
       {
         "id": 7,
-        "en": "Do not worry, mistakes happen.",
-        "ar": "لا تقلق، الأخطاء تحدث.",
-        "context": "تخفف لوم النفس بعد خطأ."
+        "en": "Do not worry about me.",
+        "ar": "لا تقلق علي.",
+        "context": "تقال لطمأنة شخص يهتم بك."
       },
       {
         "id": 8,
-        "en": "Do not worry, he will arrive soon.",
-        "ar": "لا تقلق، سيصل قريبًا.",
-        "context": "تطمئن شخصًا ينتظر أحدًا."
+        "en": "Do not worry if you make a mistake.",
+        "ar": "لا تقلق إذا ارتكبت خطأ.",
+        "context": "تقال لتشجيع المتعلم."
       },
       {
         "id": 9,
-        "en": "Do not worry, this is normal.",
-        "ar": "لا تقلق، هذا طبيعي.",
-        "context": "تجعل الموقف أقل إخافة."
+        "en": "Do not worry about the money.",
+        "ar": "لا تقلق بشأن المال.",
+        "context": "تقال عندما لا تكون التكلفة مشكلة."
       },
       {
         "id": 10,
-        "en": "Do not worry, we can try again.",
-        "ar": "لا تقلق، يمكننا أن نحاول مرة أخرى.",
-        "context": "تربط التهدئة بإمكانية المحاولة مجددًا."
+        "en": "Do not worry, we have time.",
+        "ar": "لا تقلق، لدينا وقت.",
+        "context": "تقال لتخفيف الاستعجال."
       }
     ]
   }

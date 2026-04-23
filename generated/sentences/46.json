@@ -10,80 +10,87 @@
     "wordMeanings": [
       {
         "term": "I",
-        "description": "ضمير المتكلم."
+        "description": "ضمير المتكلم ويشير إلى الشخص الذي يتحدث."
       },
       {
         "term": "love",
-        "description": "فعل يعني أحبك."
+        "description": "أحب حبًا قويًا أو عميقًا."
       },
       {
         "term": "you",
-        "description": "الضمير الذي يعود على الشخص المخاطَب."
+        "description": "ضمير يشير إلى الشخص الذي أتحدث معه."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "I love you.",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "تستخدم الجملة المضارع البسيط للتعبير عن شعور قوي ومستمر تجاه المخاطب."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "People often say, \"I love you\" in situations like this.",
-        "ar": "يقول الناس كثيرًا: \"أنا أحبك\" في مواقف كهذه.",
-        "context": "تستخدم الجملة بوصفها تركيبًا شائعًا في موقف مشابه."
+        "en": "I love my family.",
+        "ar": "أنا أحب عائلتي.",
+        "context": "تقال عند التعبير عن حب عميق للعائلة."
       },
       {
         "id": 2,
-        "en": "You can say, \"I love you\" when this happens.",
-        "ar": "يمكنك أن تقول: \"أنا أحبك\" عندما يحدث هذا.",
-        "context": "توضح أن الجملة مناسبة في موقف متكرر."
+        "en": "She loves her son.",
+        "ar": "هي تحب ابنها.",
+        "context": "تقال عن حب الأم لابنها."
       },
       {
         "id": 3,
-        "en": "I heard someone say, \"I love you\".",
-        "ar": "سمعت شخصًا يقول: \"أنا أحبك\".",
-        "context": "تجعل الجملة جزءًا من كلام سمعته من شخص آخر."
+        "en": "He loves his wife.",
+        "ar": "هو يحب زوجته.",
+        "context": "تقال عن حب قوي بين زوجين."
       },
       {
         "id": 4,
-        "en": "The teacher used the sentence, \"I love you\" in class.",
-        "ar": "استخدم المعلم الجملة: \"أنا أحبك\" في الصف.",
-        "context": "تستخدم الجملة مثالًا تعليميًا في الصف."
+        "en": "We love our parents.",
+        "ar": "نحن نحب والدينا.",
+        "context": "تقال عند التعبير عن حب واحترام للوالدين."
       },
       {
         "id": 5,
-        "en": "Many learners remember the sentence, \"I love you\" first.",
-        "ar": "يتذكر كثير من المتعلمين الجملة: \"أنا أحبك\" أولًا.",
-        "context": "تقدم الجملة بوصفها جملة تعليمية أساسية."
+        "en": "They love their children.",
+        "ar": "هم يحبون أطفالهم.",
+        "context": "تقال عن علاقة حب داخل الأسرة."
       },
       {
         "id": 6,
-        "en": "She said, \"I love you\" in a calm way.",
-        "ar": "قالت: \"أنا أحبك\" بطريقة هادئة.",
-        "context": "تجعل الجملة جزءًا من كلام مباشر في موقف عادي."
+        "en": "I love you very much.",
+        "ar": "أنا أحبك كثيرًا.",
+        "context": "تقال للتأكيد على قوة الشعور تجاه المخاطب."
       },
       {
         "id": 7,
-        "en": "He repeated, \"I love you\" more than once.",
-        "ar": "ردد: \"أنا أحبك\" أكثر من مرة.",
-        "context": "تضيف معنى التكرار لنفس الجملة."
+        "en": "My sister loves her baby.",
+        "ar": "أختي تحب طفلها.",
+        "context": "تقال عن حب قوي لطفل صغير."
       },
       {
         "id": 8,
-        "en": "At the right moment, someone might say, \"I love you\".",
-        "ar": "في اللحظة المناسبة، قد يقول شخص ما: \"أنا أحبك\".",
-        "context": "توضح أن الجملة مرتبطة بتوقيت مناسب في السياق."
+        "en": "I love my hometown.",
+        "ar": "أنا أحب مدينتي.",
+        "context": "تقال عند التعبير عن تعلق قوي بمكان."
       },
       {
         "id": 9,
-        "en": "I wrote down the sentence, \"I love you\" so I would remember it.",
-        "ar": "كتبت الجملة: \"أنا أحبك\" حتى أتذكرها.",
-        "context": "تعطي مثالًا على حفظ الجملة أو مراجعتها."
+        "en": "The children love their grandmother.",
+        "ar": "الأطفال يحبون جدتهم.",
+        "context": "تقال عن علاقة عاطفية قوية مع الجدة."
       },
       {
         "id": 10,
-        "en": "It is useful to know when to say, \"I love you\".",
-        "ar": "من المفيد أن تعرف متى تقول: \"أنا أحبك\".",
-        "context": "تركز على معرفة الوقت المناسب لاستخدام الجملة."
+        "en": "She loves her best friend.",
+        "ar": "هي تحب صديقتها المقربة.",
+        "context": "تقال عن محبة قوية في صداقة قريبة."
       }
     ]
   }

@@ -10,76 +10,83 @@
     "wordMeanings": [
       {
         "term": "I",
-        "description": "ضمير المتكلم."
+        "description": "ضمير المتكلم المفرد."
       },
       {
         "term": "understand",
-        "description": "فعل يعني أفهم أو أستوعب."
+        "description": "أفهم أو أدرك المعنى."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن المتكلم يعلن حالة الفهم الحالية أو العامة بعد الشرح أو التوضيح.",
+    "grammarExplanations": [
+      {
+        "sentence": "I understand.",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "الجملة تصف حالة فهم المتكلم في الوقت الحالي."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "I understand your point.",
-        "ar": "أنا أفهم وجهة نظرك.",
-        "context": "تبين أنك استوعبت الفكرة."
+        "en": "I understand now.",
+        "ar": "أنا أفهم الآن.",
+        "context": "تقال بعد توضيح شيء غير واضح."
       },
       {
         "id": 2,
-        "en": "I understand now.",
-        "ar": "أنا أفهم الآن.",
-        "context": "تعلن أن الشرح أصبح واضحًا."
+        "en": "I understand the question.",
+        "ar": "أنا أفهم السؤال.",
+        "context": "تقال عند فهم المطلوب في سؤال."
       },
       {
         "id": 3,
-        "en": "I understand the sentence.",
-        "ar": "أنا أفهم الجملة.",
-        "context": "تخبر أنك فهمت معنى الجملة."
+        "en": "I understand your point.",
+        "ar": "أنا أفهم وجهة نظرك.",
+        "context": "تقال بعد فهم رأي شخص."
       },
       {
         "id": 4,
-        "en": "I understand why you said that.",
-        "ar": "أنا أفهم لماذا قلت ذلك.",
-        "context": "توضح أنك فهمت السبب أو الدافع."
+        "en": "She understands the lesson.",
+        "ar": "هي تفهم الدرس.",
+        "context": "تصف فهم شخص آخر لدرس."
       },
       {
         "id": 5,
-        "en": "I understand what you need.",
-        "ar": "أنا أفهم ما تحتاجه.",
-        "context": "تبين أنك فهمت الطلب أو الحاجة."
+        "en": "We understand the rules.",
+        "ar": "نحن نفهم القواعد.",
+        "context": "تقال عند فهم مجموعة للتعليمات."
       },
       {
         "id": 6,
-        "en": "I understand this part, but not the next one.",
-        "ar": "أنا أفهم هذا الجزء، لكن ليس الجزء التالي.",
-        "context": "تحدد حدود الفهم بدقة."
+        "en": "Do you understand?",
+        "ar": "هل تفهم؟",
+        "context": "تُستخدم للتأكد من فهم شخص."
       },
       {
         "id": 7,
-        "en": "I understand better when you speak slowly.",
-        "ar": "أنا أفهم بشكل أفضل عندما تتحدث ببطء.",
-        "context": "توضح ما يساعدك على الفهم."
+        "en": "I understand the problem.",
+        "ar": "أنا أفهم المشكلة.",
+        "context": "تقال عند إدراك سبب المشكلة."
       },
       {
         "id": 8,
-        "en": "I understand the idea, but not every word.",
-        "ar": "أنا أفهم الفكرة، لكن ليس كل كلمة.",
-        "context": "تفرق بين الفهم العام والتفاصيل."
+        "en": "He understands English well.",
+        "ar": "هو يفهم الإنجليزية جيدًا.",
+        "context": "تصف قدرة شخص على الفهم."
       },
       {
         "id": 9,
-        "en": "I understand you clearly.",
-        "ar": "أنا أفهمك بوضوح.",
-        "context": "تؤكد أن الرسالة وصلت كما ينبغي."
+        "en": "I understand what you mean.",
+        "ar": "أنا أفهم ما تقصد.",
+        "context": "تقال بعد فهم قصد المتحدث."
       },
       {
         "id": 10,
-        "en": "I understand the difference now.",
-        "ar": "أنا أفهم الفرق الآن.",
-        "context": "تعلن الوصول إلى التمييز المطلوب."
+        "en": "They understand the instructions.",
+        "ar": "هم يفهمون التعليمات.",
+        "context": "تصف فهم مجموعة للتوجيهات."
       }
     ]
   }

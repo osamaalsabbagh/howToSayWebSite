@@ -10,80 +10,87 @@
     "wordMeanings": [
       {
         "term": "Very",
-        "description": "كلمة تزيد شدة الصفة."
+        "description": "كلمة تقوي الوصف وتجعله بدرجة كبيرة."
       },
       {
         "term": "good",
-        "description": "صفة تعني جيد أو مريح أو مناسب هنا."
+        "description": "جيد أو مرضٍ."
       },
       {
         "term": "thanks",
-        "description": "صيغة شكر قصيرة وغير رسمية نسبيًا."
+        "description": "شكرًا، وتستخدم لإظهار الأدب أو الامتنان."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "Very good, thanks.",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذا رد قصير يعبّر عن الرضا مع الشكر، ولا يحتوي على فعل ظاهر أو زمن مستقل."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "People often say, \"Very good, thanks\" in situations like this.",
-        "ar": "يقول الناس كثيرًا: \"جيد جدًا، شكرًا\" في مواقف كهذه.",
-        "context": "تستخدم الجملة بوصفها تركيبًا شائعًا في موقف مشابه."
+        "en": "Good, thanks.",
+        "ar": "جيد، شكرًا.",
+        "context": "تقال عند الرد المختصر بأدب."
       },
       {
         "id": 2,
-        "en": "You can say, \"Very good, thanks\" when this happens.",
-        "ar": "يمكنك أن تقول: \"جيد جدًا، شكرًا\" عندما يحدث هذا.",
-        "context": "توضح أن الجملة مناسبة في موقف متكرر."
+        "en": "I am very good, thanks.",
+        "ar": "أنا بخير جدًا، شكرًا.",
+        "context": "تقال عند الرد على سؤال عن الحال."
       },
       {
         "id": 3,
-        "en": "I heard someone say, \"Very good, thanks\".",
-        "ar": "سمعت شخصًا يقول: \"جيد جدًا، شكرًا\".",
-        "context": "تجعل الجملة جزءًا من كلام سمعته من شخص آخر."
+        "en": "Everything is good, thanks.",
+        "ar": "كل شيء جيد، شكرًا.",
+        "context": "تقال عند طمأنة شخص عن الوضع."
       },
       {
         "id": 4,
-        "en": "The teacher used the sentence, \"Very good, thanks\" in class.",
-        "ar": "استخدم المعلم الجملة: \"جيد جدًا، شكرًا\" في الصف.",
-        "context": "تستخدم الجملة مثالًا تعليميًا في الصف."
+        "en": "Very nice, thank you.",
+        "ar": "لطيف جدًا، شكرًا لك.",
+        "context": "تقال عند إبداء رضا عن شيء."
       },
       {
         "id": 5,
-        "en": "Many learners remember the sentence, \"Very good, thanks\" first.",
-        "ar": "يتذكر كثير من المتعلمين الجملة: \"جيد جدًا، شكرًا\" أولًا.",
-        "context": "تقدم الجملة بوصفها جملة تعليمية أساسية."
+        "en": "That is very good, thanks.",
+        "ar": "ذلك جيد جدًا، شكرًا.",
+        "context": "تقال عند قبول نتيجة أو اقتراح."
       },
       {
         "id": 6,
-        "en": "She said, \"Very good, thanks\" in a calm way.",
-        "ar": "قالت: \"جيد جدًا، شكرًا\" بطريقة هادئة.",
-        "context": "تجعل الجملة جزءًا من كلام مباشر في موقف عادي."
+        "en": "The food is very good, thanks.",
+        "ar": "الطعام جيد جدًا، شكرًا.",
+        "context": "تقال عند مدح الطعام بأدب."
       },
       {
         "id": 7,
-        "en": "He repeated, \"Very good, thanks\" more than once.",
-        "ar": "ردد: \"جيد جدًا، شكرًا\" أكثر من مرة.",
-        "context": "تضيف معنى التكرار لنفس الجملة."
+        "en": "I feel good, thanks.",
+        "ar": "أشعر أنني بخير، شكرًا.",
+        "context": "تقال عند الرد على سؤال عن الصحة أو الحال."
       },
       {
         "id": 8,
-        "en": "At the right moment, someone might say, \"Very good, thanks\".",
-        "ar": "في اللحظة المناسبة، قد يقول شخص ما: \"جيد جدًا، شكرًا\".",
-        "context": "توضح أن الجملة مرتبطة بتوقيت مناسب في السياق."
+        "en": "The room is very good, thanks.",
+        "ar": "الغرفة جيدة جدًا، شكرًا.",
+        "context": "تقال عند الرضا عن غرفة أو مكان."
       },
       {
         "id": 9,
-        "en": "I wrote down the sentence, \"Very good, thanks\" so I would remember it.",
-        "ar": "كتبت الجملة: \"جيد جدًا، شكرًا\" حتى أتذكرها.",
-        "context": "تعطي مثالًا على حفظ الجملة أو مراجعتها."
+        "en": "The answer is good, thanks.",
+        "ar": "الإجابة جيدة، شكرًا.",
+        "context": "تقال عند الرضا عن جواب."
       },
       {
         "id": 10,
-        "en": "It is useful to know when to say, \"Very good, thanks\".",
-        "ar": "من المفيد أن تعرف متى تقول: \"جيد جدًا، شكرًا\".",
-        "context": "تركز على معرفة الوقت المناسب لاستخدام الجملة."
+        "en": "Very good, I understand now.",
+        "ar": "جيد جدًا، أفهم الآن.",
+        "context": "تقال عند فهم شرح أو تعليمات."
       }
     ]
   }

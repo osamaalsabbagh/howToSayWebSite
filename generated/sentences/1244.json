@@ -10,84 +10,91 @@
     "wordMeanings": [
       {
         "term": "How",
-        "description": "أداة سؤال."
+        "description": "كيف، وتستخدم للسؤال عن الطريقة."
       },
       {
         "term": "will",
-        "description": "أداة مستقبل تدل على ما سيحدث لاحقًا."
+        "description": "تدل على طريقة دفع مستقبلية أو قرار لاحق."
       },
       {
         "term": "you",
-        "description": "الضمير الذي يعود على الشخص المخاطَب."
+        "description": "أنت، وتشير إلى الشخص المخاطب."
       },
       {
         "term": "pay",
-        "description": "فعل يعني تدفع."
+        "description": "تدفع المال مقابل شيء."
       }
     ],
-    "tense": "المستقبل البسيط",
-    "tenseEn": "Future Simple",
-    "tenseReason": "استُعمل المستقبل البسيط لأن الجملة تتحدث عن شيء سيحدث لاحقًا أو عن قرار أو توقع يخص المستقبل.",
+    "grammarExplanations": [
+      {
+        "sentence": "How will you pay?",
+        "explanation": {
+          "tense": "المستقبل البسيط",
+          "tenseEn": "Future Simple",
+          "reason": "يستخدم المستقبل البسيط للسؤال عن طريقة دفع سيختارها الشخص لاحقًا أو ضمن ترتيب قبل لحظة الدفع."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "You can ask, \"How will you pay?\" when you need information.",
-        "ar": "يمكنك أن تسأل: \"كيف سوف تدفع؟\" عندما تحتاج إلى معلومة.",
-        "context": "تستعمل الجملة كسؤال مباشر للحصول على معلومة."
+        "en": "How will you pay?",
+        "ar": "كيف سوف تدفع؟",
+        "context": "تقال قبل لحظة الدفع عند الترتيب أو التخطيط."
       },
       {
         "id": 2,
-        "en": "Many people ask, \"How will you pay?\" in this situation.",
-        "ar": "يسأل كثير من الناس: \"كيف سوف تدفع؟\" في هذا الموقف.",
-        "context": "توضح أن هذا سؤال شائع في موقف مشابه."
+        "en": "Will you pay with cash?",
+        "ar": "هل ستدفع نقدًا؟",
+        "context": "تقال قبل الدفع للسؤال عن النقد."
       },
       {
         "id": 3,
-        "en": "I asked, \"How will you pay?\" because I was not sure.",
-        "ar": "سألت: \"كيف سوف تدفع؟\" لأنني لم أكن متأكدًا.",
-        "context": "تضيف سببًا لطرح السؤال."
+        "en": "Will you pay by card?",
+        "ar": "هل ستدفع بالبطاقة؟",
+        "context": "تقال عند التخطيط لطريقة الدفع."
       },
       {
         "id": 4,
-        "en": "She asked politely, \"How will you pay?\"",
-        "ar": "سألت بأدب: \"كيف سوف تدفع؟\".",
-        "context": "تبين أن السؤال قيل بطريقة مهذبة."
+        "en": "How will you pay for the hotel?",
+        "ar": "كيف ستدفع ثمن الفندق؟",
+        "context": "تقال عند ترتيب دفع إقامة."
       },
       {
         "id": 5,
-        "en": "At work, someone may ask, \"How will you pay?\"",
-        "ar": "في العمل، قد يسأل شخص ما: \"كيف سوف تدفع؟\".",
-        "context": "تضع السؤال في سياق مهني أو عملي."
+        "en": "How will you pay for the ticket?",
+        "ar": "كيف ستدفع ثمن التذكرة؟",
+        "context": "تقال قبل شراء تذكرة."
       },
       {
         "id": 6,
-        "en": "Before deciding, ask: \"How will you pay?\"",
-        "ar": "قبل أن تقرر، اسأل: \"كيف سوف تدفع؟\".",
-        "context": "تستخدم السؤال قبل اتخاذ قرار."
+        "en": "How will they pay?",
+        "ar": "كيف سيدفعون؟",
+        "context": "تقال عند السؤال عن طريقة دفع مجموعة مستقبلًا."
       },
       {
         "id": 7,
-        "en": "The student asked, \"How will you pay?\" in class.",
-        "ar": "سأل الطالب: \"كيف سوف تدفع؟\" في الصف.",
-        "context": "تجعل الجملة جزءًا من موقف تعليمي."
+        "en": "I will pay with cash.",
+        "ar": "سأدفع نقدًا.",
+        "context": "تقال عند إعلان قرار الدفع نقدًا."
       },
       {
         "id": 8,
-        "en": "While traveling, you can ask, \"How will you pay?\"",
-        "ar": "أثناء السفر، يمكنك أن تسأل: \"كيف سوف تدفع؟\".",
-        "context": "تربط السؤال بموقف السفر أو التنقل."
+        "en": "I will pay by credit card.",
+        "ar": "سأدفع ببطاقة ائتمان.",
+        "context": "تقال عند اختيار البطاقة للدفع."
       },
       {
         "id": 9,
-        "en": "He asked me, \"How will you pay?\" again.",
-        "ar": "سألني: \"كيف سوف تدفع؟\" مرة أخرى.",
-        "context": "تضيف معنى التكرار لنفس السؤال."
+        "en": "Will you pay today?",
+        "ar": "هل ستدفع اليوم؟",
+        "context": "تقال عند السؤال عن موعد الدفع."
       },
       {
         "id": 10,
-        "en": "If you are not sure, ask: \"How will you pay?\"",
-        "ar": "إذا لم تكن متأكدًا، فاسأل: \"كيف سوف تدفع؟\".",
-        "context": "توضح أن السؤال مناسب عند عدم التأكد."
+        "en": "How will you pay if the card fails?",
+        "ar": "كيف ستدفع إذا فشلت البطاقة؟",
+        "context": "تقال عند التخطيط لخيار بديل للدفع."
       }
     ]
   }

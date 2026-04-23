@@ -10,84 +10,91 @@
     "wordMeanings": [
       {
         "term": "How",
-        "description": "أداة سؤال."
+        "description": "كيف، وتستخدم للسؤال عن الطريقة."
       },
       {
         "term": "are",
-        "description": "فعل be مع you."
+        "description": "تأتي مع المخاطب لتكوين فعل يحدث الآن أو في اللحظة الحالية."
       },
       {
         "term": "you",
-        "description": "الضمير الذي يعود على الشخص المخاطَب."
+        "description": "أنت، وتشير إلى الشخص المخاطب."
       },
       {
         "term": "paying",
-        "description": "صفة تعني ستدفع."
+        "description": "تدفع أو ستدفع في موقف الدفع الحالي."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "How are you paying?",
+        "explanation": {
+          "tense": "المضارع المستمر",
+          "tenseEn": "Present Continuous",
+          "reason": "يستخدم المضارع المستمر لأن السؤال يحدث أثناء عملية الدفع أو عندما يكون الدفع وشيكًا، ويسأل عن طريقة الدفع الحالية."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "You can ask, \"How are you paying?\" when you need information.",
-        "ar": "يمكنك أن تسأل: \"كيف ستدفع؟\" عندما تحتاج إلى معلومة.",
-        "context": "تستعمل الجملة كسؤال مباشر للحصول على معلومة."
+        "en": "How are you paying?",
+        "ar": "كيف ستدفع؟",
+        "context": "تقال أثناء الدفع أو عند اقتراب لحظة الدفع."
       },
       {
         "id": 2,
-        "en": "Many people ask, \"How are you paying?\" in this situation.",
-        "ar": "يسأل كثير من الناس: \"كيف ستدفع؟\" في هذا الموقف.",
-        "context": "توضح أن هذا سؤال شائع في موقف مشابه."
+        "en": "Are you paying with cash?",
+        "ar": "هل ستدفع نقدًا؟",
+        "context": "تقال عند تحديد طريقة الدفع في اللحظة الحالية."
       },
       {
         "id": 3,
-        "en": "I asked, \"How are you paying?\" because I was not sure.",
-        "ar": "سألت: \"كيف ستدفع؟\" لأنني لم أكن متأكدًا.",
-        "context": "تضيف سببًا لطرح السؤال."
+        "en": "Are you paying by card?",
+        "ar": "هل ستدفع بالبطاقة؟",
+        "context": "تقال عند السؤال عن الدفع ببطاقة."
       },
       {
         "id": 4,
-        "en": "She asked politely, \"How are you paying?\"",
-        "ar": "سألت بأدب: \"كيف ستدفع؟\".",
-        "context": "تبين أن السؤال قيل بطريقة مهذبة."
+        "en": "I am paying with cash.",
+        "ar": "سأدفع نقدًا.",
+        "context": "تقال عند إبلاغ البائع بطريقة الدفع."
       },
       {
         "id": 5,
-        "en": "At work, someone may ask, \"How are you paying?\"",
-        "ar": "في العمل، قد يسأل شخص ما: \"كيف ستدفع؟\".",
-        "context": "تضع السؤال في سياق مهني أو عملي."
+        "en": "I am paying by credit card.",
+        "ar": "سأدفع ببطاقة ائتمان.",
+        "context": "تقال عند اختيار الدفع بالبطاقة."
       },
       {
         "id": 6,
-        "en": "Before deciding, ask: \"How are you paying?\"",
-        "ar": "قبل أن تقرر، اسأل: \"كيف ستدفع؟\".",
-        "context": "تستخدم السؤال قبل اتخاذ قرار."
+        "en": "How are they paying?",
+        "ar": "كيف سيدفعون؟",
+        "context": "تقال عند السؤال عن طريقة دفع مجموعة."
       },
       {
         "id": 7,
-        "en": "The student asked, \"How are you paying?\" in class.",
-        "ar": "سأل الطالب: \"كيف ستدفع؟\" في الصف.",
-        "context": "تجعل الجملة جزءًا من موقف تعليمي."
+        "en": "How are you paying for the room?",
+        "ar": "كيف ستدفع ثمن الغرفة؟",
+        "context": "تقال في فندق عند إنهاء الحجز أو الدفع."
       },
       {
         "id": 8,
-        "en": "While traveling, you can ask, \"How are you paying?\"",
-        "ar": "أثناء السفر، يمكنك أن تسأل: \"كيف ستدفع؟\".",
-        "context": "تربط السؤال بموقف السفر أو التنقل."
+        "en": "How are you paying for the tickets?",
+        "ar": "كيف ستدفع ثمن التذاكر؟",
+        "context": "تقال عند شراء تذاكر."
       },
       {
         "id": 9,
-        "en": "He asked me, \"How are you paying?\" again.",
-        "ar": "سألني: \"كيف ستدفع؟\" مرة أخرى.",
-        "context": "تضيف معنى التكرار لنفس السؤال."
+        "en": "Are you paying now?",
+        "ar": "هل ستدفع الآن؟",
+        "context": "تقال عند السؤال عن وقت الدفع الحالي."
       },
       {
         "id": 10,
-        "en": "If you are not sure, ask: \"How are you paying?\"",
-        "ar": "إذا لم تكن متأكدًا، فاسأل: \"كيف ستدفع؟\".",
-        "context": "توضح أن السؤال مناسب عند عدم التأكد."
+        "en": "She is paying by phone.",
+        "ar": "ستدفع عبر الهاتف.",
+        "context": "تقال عند وصف طريقة دفع امرأة في اللحظة الحالية."
       }
     ]
   }

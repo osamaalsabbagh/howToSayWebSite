@@ -10,96 +10,107 @@
     "wordMeanings": [
       {
         "term": "The",
-        "description": "أداة تعريف تشير إلى شيء معروف أو محدد."
+        "description": "أداة تشير إلى كتاب محدد معروف من السياق."
       },
       {
         "term": "book",
-        "description": "اسم يعني كتاب."
+        "description": "كتاب أو شيء للقراءة."
       },
       {
         "term": "is",
-        "description": "فعل be في الحاضر مع المفرد."
+        "description": "تربط الكتاب بمكانه الحالي."
       },
       {
         "term": "on",
-        "description": "حرف جر يعني على أو في يوم محدد حسب السياق."
+        "description": "جزء من عبارة on top of التي تعني فوق."
       },
       {
         "term": "top",
-        "description": "اسم يعني أعلى."
+        "description": "الأعلى أو السطح العلوي ضمن عبارة فوق."
       },
       {
         "term": "of",
-        "description": "حرف جر يربط بين اسمين وغالبًا يعني من أو الخاص بـ حسب السياق."
+        "description": "تربط عبارة on top بالشيء الذي يقع الكتاب فوقه."
+      },
+      {
+        "term": "the",
+        "description": "أداة تشير إلى طاولة محددة."
       },
       {
         "term": "table",
-        "description": "اسم يعني طاولة."
+        "description": "طاولة أو منضدة."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "The book is on top of the table.",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "تستخدم الجملة is لوصف مكان الكتاب الحالي، وon top of تؤكد أنه فوق سطح الطاولة وظاهر عليها."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "People often say, \"The book is on top of the table\" in situations like this.",
-        "ar": "يقول الناس كثيرًا: \"الكتاب في أعلى الطاولة\" في مواقف كهذه.",
-        "context": "تستخدم الجملة بوصفها تركيبًا شائعًا في موقف مشابه."
+        "en": "The book is on top of the table.",
+        "ar": "الكتاب فوق الطاولة.",
+        "context": "تقال عند وجود كتاب على سطح الطاولة."
       },
       {
         "id": 2,
-        "en": "You can say, \"The book is on top of the table\" when this happens.",
-        "ar": "يمكنك أن تقول: \"الكتاب في أعلى الطاولة\" عندما يحدث هذا.",
-        "context": "توضح أن الجملة مناسبة في موقف متكرر."
+        "en": "The keys are on top of the desk.",
+        "ar": "المفاتيح فوق المكتب.",
+        "context": "تقال عند تحديد مكان المفاتيح."
       },
       {
         "id": 3,
-        "en": "I heard someone say, \"The book is on top of the table\".",
-        "ar": "سمعت شخصًا يقول: \"الكتاب في أعلى الطاولة\".",
-        "context": "تجعل الجملة جزءًا من كلام سمعته من شخص آخر."
+        "en": "The bag is on top of the chair.",
+        "ar": "الحقيبة فوق الكرسي.",
+        "context": "تقال عند وصف مكان حقيبة."
       },
       {
         "id": 4,
-        "en": "The teacher used the sentence, \"The book is on top of the table\" in class.",
-        "ar": "استخدم المعلم الجملة: \"الكتاب في أعلى الطاولة\" في الصف.",
-        "context": "تستخدم الجملة مثالًا تعليميًا في الصف."
+        "en": "The phone is on top of the book.",
+        "ar": "الهاتف فوق الكتاب.",
+        "context": "تقال عند وصف ترتيب الأشياء."
       },
       {
         "id": 5,
-        "en": "Many learners remember the sentence, \"The book is on top of the table\" first.",
-        "ar": "يتذكر كثير من المتعلمين الجملة: \"الكتاب في أعلى الطاولة\" أولًا.",
-        "context": "تقدم الجملة بوصفها جملة تعليمية أساسية."
+        "en": "Is the book on top of the table?",
+        "ar": "هل الكتاب فوق الطاولة؟",
+        "context": "تستخدم للسؤال عن مكان كتاب."
       },
       {
         "id": 6,
-        "en": "She said, \"The book is on top of the table\" in a calm way.",
-        "ar": "قالت: \"الكتاب في أعلى الطاولة\" بطريقة هادئة.",
-        "context": "تجعل الجملة جزءًا من كلام مباشر في موقف عادي."
+        "en": "The plate is on top of the counter.",
+        "ar": "الطبق فوق المنضدة.",
+        "context": "تقال عند تحديد مكان طبق."
       },
       {
         "id": 7,
-        "en": "He repeated, \"The book is on top of the table\" more than once.",
-        "ar": "ردد: \"الكتاب في أعلى الطاولة\" أكثر من مرة.",
-        "context": "تضيف معنى التكرار لنفس الجملة."
+        "en": "Put the map on top of the table.",
+        "ar": "ضع الخريطة فوق الطاولة.",
+        "context": "تقال عند طلب وضع شيء على سطح."
       },
       {
         "id": 8,
-        "en": "At the right moment, someone might say, \"The book is on top of the table\".",
-        "ar": "في اللحظة المناسبة، قد يقول شخص ما: \"الكتاب في أعلى الطاولة\".",
-        "context": "توضح أن الجملة مرتبطة بتوقيت مناسب في السياق."
+        "en": "The box is on top of the shelf.",
+        "ar": "الصندوق فوق الرف.",
+        "context": "تقال عند وصف مكان صندوق."
       },
       {
         "id": 9,
-        "en": "I wrote down the sentence, \"The book is on top of the table\" so I would remember it.",
-        "ar": "كتبت الجملة: \"الكتاب في أعلى الطاولة\" حتى أتذكرها.",
-        "context": "تعطي مثالًا على حفظ الجملة أو مراجعتها."
+        "en": "The menu is on top of the table.",
+        "ar": "القائمة فوق الطاولة.",
+        "context": "تقال في مطعم عند تحديد مكان القائمة."
       },
       {
         "id": 10,
-        "en": "It is useful to know when to say, \"The book is on top of the table\".",
-        "ar": "من المفيد أن تعرف متى تقول: \"الكتاب في أعلى الطاولة\".",
-        "context": "تركز على معرفة الوقت المناسب لاستخدام الجملة."
+        "en": "The book is still on top of the table.",
+        "ar": "الكتاب ما زال فوق الطاولة.",
+        "context": "تقال عند تأكيد أن مكان الكتاب لم يتغير."
       }
     ]
   }

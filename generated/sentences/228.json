@@ -10,100 +10,107 @@
     "wordMeanings": [
       {
         "term": "How",
-        "description": "أداة سؤال."
+        "description": "تبدأ سؤالًا عن الكمية أو العدد."
       },
       {
         "term": "many",
-        "description": "كلمة تدل على عدد كبير."
+        "description": "كثير أو كم عدد، وتستخدم مع الأشياء المعدودة."
       },
       {
         "term": "people",
-        "description": "اسم جمع يعني الناس."
+        "description": "أشخاص أو سكان."
       },
       {
         "term": "are",
-        "description": "فعل be مع you."
+        "description": "صيغة تربط السؤال بوجود عدد في الحاضر."
       },
       {
         "term": "there",
-        "description": "ظرف مكان يعني هناك."
+        "description": "تستخدم هنا مع صيغة الوجود بمعنى يوجد أو هناك."
       },
       {
         "term": "in",
-        "description": "حرف جر يعني في."
+        "description": "في، وتربط العدد بالمكان."
       },
       {
         "term": "New",
-        "description": "صفة تعني جديد."
+        "description": "جزء من اسم مدينة نيويورك."
       },
       {
         "term": "York",
-        "description": "اسم علم يشير إلى نيويورك."
+        "description": "جزء من اسم مدينة نيويورك."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "How many people are there in New York?",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "يستخدم المضارع البسيط مع تركيب الوجود للسؤال عن عدد موجود أو عام في مكان، وكلمة كم عدد تناسب الأشياء المعدودة."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "You can ask, \"How many people are there in New York?\" when you need information.",
-        "ar": "يمكنك أن تسأل: \"كم عدد الأشخاص في نيويورك؟\" عندما تحتاج إلى معلومة.",
-        "context": "تستعمل الجملة كسؤال مباشر للحصول على معلومة."
+        "en": "How many people are there in New York?",
+        "ar": "كم عدد الأشخاص في نيويورك؟",
+        "context": "تقال عند السؤال عن عدد السكان في نيويورك."
       },
       {
         "id": 2,
-        "en": "Many people ask, \"How many people are there in New York?\" in this situation.",
-        "ar": "يسأل كثير من الناس: \"كم عدد الأشخاص في نيويورك؟\" في هذا الموقف.",
-        "context": "توضح أن هذا سؤال شائع في موقف مشابه."
+        "en": "How many people are there in this city?",
+        "ar": "كم عدد الأشخاص في هذه المدينة؟",
+        "context": "تقال عند السؤال عن عدد سكان مدينة."
       },
       {
         "id": 3,
-        "en": "I asked, \"How many people are there in New York?\" because I was not sure.",
-        "ar": "سألت: \"كم عدد الأشخاص في نيويورك؟\" لأنني لم أكن متأكدًا.",
-        "context": "تضيف سببًا لطرح السؤال."
+        "en": "How many people are there in your family?",
+        "ar": "كم عدد الأشخاص في عائلتك؟",
+        "context": "تقال عند السؤال عن عدد أفراد العائلة."
       },
       {
         "id": 4,
-        "en": "She asked politely, \"How many people are there in New York?\"",
-        "ar": "سألت بأدب: \"كم عدد الأشخاص في نيويورك؟\".",
-        "context": "تبين أن السؤال قيل بطريقة مهذبة."
+        "en": "How many people are there in the room?",
+        "ar": "كم عدد الأشخاص في الغرفة؟",
+        "context": "تقال عند عد الأشخاص داخل غرفة."
       },
       {
         "id": 5,
-        "en": "At work, someone may ask, \"How many people are there in New York?\"",
-        "ar": "في العمل، قد يسأل شخص ما: \"كم عدد الأشخاص في نيويورك؟\".",
-        "context": "تضع السؤال في سياق مهني أو عملي."
+        "en": "How many people are there on the bus?",
+        "ar": "كم عدد الأشخاص في الحافلة؟",
+        "context": "تقال عند السؤال عن عدد الركاب."
       },
       {
         "id": 6,
-        "en": "Before deciding, ask: \"How many people are there in New York?\"",
-        "ar": "قبل أن تقرر، اسأل: \"كم عدد الأشخاص في نيويورك؟\".",
-        "context": "تستخدم السؤال قبل اتخاذ قرار."
+        "en": "How many people are there at the meeting?",
+        "ar": "كم عدد الأشخاص في الاجتماع؟",
+        "context": "تقال عند السؤال عن حضور اجتماع."
       },
       {
         "id": 7,
-        "en": "The student asked, \"How many people are there in New York?\" in class.",
-        "ar": "سأل الطالب: \"كم عدد الأشخاص في نيويورك؟\" في الصف.",
-        "context": "تجعل الجملة جزءًا من موقف تعليمي."
+        "en": "How many people live in New York?",
+        "ar": "كم شخصًا يعيش في نيويورك؟",
+        "context": "تقال بصيغة مباشرة عن عدد السكان."
       },
       {
         "id": 8,
-        "en": "While traveling, you can ask, \"How many people are there in New York?\"",
-        "ar": "أثناء السفر، يمكنك أن تسأل: \"كم عدد الأشخاص في نيويورك؟\".",
-        "context": "تربط السؤال بموقف السفر أو التنقل."
+        "en": "How many people work here?",
+        "ar": "كم شخصًا يعمل هنا؟",
+        "context": "تقال عند السؤال عن عدد العاملين."
       },
       {
         "id": 9,
-        "en": "He asked me, \"How many people are there in New York?\" again.",
-        "ar": "سألني: \"كم عدد الأشخاص في نيويورك؟\" مرة أخرى.",
-        "context": "تضيف معنى التكرار لنفس السؤال."
+        "en": "How many people are waiting outside?",
+        "ar": "كم شخصًا ينتظر في الخارج؟",
+        "context": "تقال عند السؤال عن عدد المنتظرين."
       },
       {
         "id": 10,
-        "en": "If you are not sure, ask: \"How many people are there in New York?\"",
-        "ar": "إذا لم تكن متأكدًا، فاسأل: \"كم عدد الأشخاص في نيويورك؟\".",
-        "context": "توضح أن السؤال مناسب عند عدم التأكد."
+        "en": "How many people can sit here?",
+        "ar": "كم شخصًا يمكنه الجلوس هنا؟",
+        "context": "تقال عند السؤال عن سعة مكان."
       }
     ]
   }

@@ -10,104 +10,111 @@
     "wordMeanings": [
       {
         "term": "What",
-        "description": "أداة سؤال عن الشيء أو المعنى أو الاختيار."
+        "description": "أي، وتستخدم هنا مع الوقت للسؤال عن ساعة محددة."
       },
       {
         "term": "time",
-        "description": "تكرار الكلمة هنا جزء من التعبير الثابت الذي يعني أحيانًا أو من وقت لآخر."
+        "description": "وقت أو ساعة."
       },
       {
         "term": "are",
-        "description": "فعل be مع you."
+        "description": "تأتي مع المخاطب في السؤال لتكوين فعل مستمر أو خطة قريبة."
       },
       {
         "term": "you",
-        "description": "الضمير الذي يعود على الشخص المخاطَب."
+        "description": "أنت، وتشير إلى الشخص المخاطب."
       },
       {
         "term": "going",
-        "description": "هنا لا تعني يذهب حرفيًا، بل تُستعمل للسؤال عن سير الأمور وتطورها."
+        "description": "ذاهب، وتدل هنا على الذهاب المخطط له."
       },
       {
         "term": "to",
-        "description": "أداة تأتي قبل المصدر بعد أفعال مثل want."
+        "description": "إلى، وتربط الذهاب بالوجهة."
       },
       {
         "term": "the",
-        "description": "أداة تعريف تشير إلى شيء معروف أو محدد."
+        "description": "أداة تشير إلى محطة محددة معروفة في الحديث."
       },
       {
         "term": "bus",
-        "description": "اسم يعني حافلة."
+        "description": "حافلة، وتصف نوع المحطة."
       },
       {
         "term": "station",
-        "description": "اسم يعني محطة."
+        "description": "محطة."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "What time are you going to the bus station?",
+        "explanation": {
+          "tense": "المضارع المستمر",
+          "tenseEn": "Present Continuous",
+          "reason": "يستخدم المضارع المستمر هنا للسؤال عن خطة أو ترتيب قريب للذهاب إلى محطة الحافلات، وعبارة أي وقت تطلب تحديد الساعة."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "You can ask, \"What time are you going to the bus station?\" when you need information.",
-        "ar": "يمكنك أن تسأل: \"في أي وقت ستذهب إلى محطة الحافلات؟\" عندما تحتاج إلى معلومة.",
-        "context": "تستعمل الجملة كسؤال مباشر للحصول على معلومة."
+        "en": "What time are you going to the bus station?",
+        "ar": "في أي وقت ستذهب إلى محطة الحافلات؟",
+        "context": "تقال عند السؤال عن وقت الذهاب إلى المحطة."
       },
       {
         "id": 2,
-        "en": "Many people ask, \"What time are you going to the bus station?\" in this situation.",
-        "ar": "يسأل كثير من الناس: \"في أي وقت ستذهب إلى محطة الحافلات؟\" في هذا الموقف.",
-        "context": "توضح أن هذا سؤال شائع في موقف مشابه."
+        "en": "What time are you going to the airport?",
+        "ar": "في أي وقت ستذهب إلى المطار؟",
+        "context": "تقال عند السؤال عن خطة الذهاب إلى المطار."
       },
       {
         "id": 3,
-        "en": "I asked, \"What time are you going to the bus station?\" because I was not sure.",
-        "ar": "سألت: \"في أي وقت ستذهب إلى محطة الحافلات؟\" لأنني لم أكن متأكدًا.",
-        "context": "تضيف سببًا لطرح السؤال."
+        "en": "What time are you going to the hotel?",
+        "ar": "في أي وقت ستذهب إلى الفندق؟",
+        "context": "تقال عند السؤال عن وقت الذهاب إلى الفندق."
       },
       {
         "id": 4,
-        "en": "She asked politely, \"What time are you going to the bus station?\"",
-        "ar": "سألت بأدب: \"في أي وقت ستذهب إلى محطة الحافلات؟\".",
-        "context": "تبين أن السؤال قيل بطريقة مهذبة."
+        "en": "What time are you going to work?",
+        "ar": "في أي وقت ستذهب إلى العمل؟",
+        "context": "تقال عند السؤال عن موعد الذهاب إلى العمل."
       },
       {
         "id": 5,
-        "en": "At work, someone may ask, \"What time are you going to the bus station?\"",
-        "ar": "في العمل، قد يسأل شخص ما: \"في أي وقت ستذهب إلى محطة الحافلات؟\".",
-        "context": "تضع السؤال في سياق مهني أو عملي."
+        "en": "What time are you going home?",
+        "ar": "في أي وقت ستذهب إلى المنزل؟",
+        "context": "تقال عند السؤال عن موعد العودة إلى المنزل."
       },
       {
         "id": 6,
-        "en": "Before deciding, ask: \"What time are you going to the bus station?\"",
-        "ar": "قبل أن تقرر، اسأل: \"في أي وقت ستذهب إلى محطة الحافلات؟\".",
-        "context": "تستخدم السؤال قبل اتخاذ قرار."
+        "en": "What time are they going to the station?",
+        "ar": "في أي وقت سيذهبون إلى المحطة؟",
+        "context": "تقال عند السؤال عن خطة مجموعة."
       },
       {
         "id": 7,
-        "en": "The student asked, \"What time are you going to the bus station?\" in class.",
-        "ar": "سأل الطالب: \"في أي وقت ستذهب إلى محطة الحافلات؟\" في الصف.",
-        "context": "تجعل الجملة جزءًا من موقف تعليمي."
+        "en": "What time is she going to the bus station?",
+        "ar": "في أي وقت ستذهب إلى محطة الحافلات؟",
+        "context": "تقال عند السؤال عن خطة امرأة للذهاب إلى المحطة."
       },
       {
         "id": 8,
-        "en": "While traveling, you can ask, \"What time are you going to the bus station?\"",
-        "ar": "أثناء السفر، يمكنك أن تسأل: \"في أي وقت ستذهب إلى محطة الحافلات؟\".",
-        "context": "تربط السؤال بموقف السفر أو التنقل."
+        "en": "What time are you leaving for the bus station?",
+        "ar": "في أي وقت ستغادر إلى محطة الحافلات؟",
+        "context": "تقال عند السؤال عن وقت المغادرة."
       },
       {
         "id": 9,
-        "en": "He asked me, \"What time are you going to the bus station?\" again.",
-        "ar": "سألني: \"في أي وقت ستذهب إلى محطة الحافلات؟\" مرة أخرى.",
-        "context": "تضيف معنى التكرار لنفس السؤال."
+        "en": "What time are you meeting him at the station?",
+        "ar": "في أي وقت ستقابله في المحطة؟",
+        "context": "تقال عند ترتيب لقاء في محطة."
       },
       {
         "id": 10,
-        "en": "If you are not sure, ask: \"What time are you going to the bus station?\"",
-        "ar": "إذا لم تكن متأكدًا، فاسأل: \"في أي وقت ستذهب إلى محطة الحافلات؟\".",
-        "context": "توضح أن السؤال مناسب عند عدم التأكد."
+        "en": "What time are you taking the bus?",
+        "ar": "في أي وقت ستأخذ الحافلة؟",
+        "context": "تقال عند السؤال عن وقت ركوب الحافلة."
       }
     ]
   }

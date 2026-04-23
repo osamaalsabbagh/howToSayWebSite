@@ -10,80 +10,87 @@
     "wordMeanings": [
       {
         "term": "It",
-        "description": "ضمير يعود على الشيء أو الجملة التي قيلت."
+        "description": "يشير إلى الطعام أو الشيء الذي تتذوقه."
       },
       {
         "term": "is",
-        "description": "فعل be في الحاضر مع المفرد."
+        "description": "تربط الشيء بوصفه الحالي."
       },
       {
         "term": "delicious",
-        "description": "صفة تعني لذيذ."
+        "description": "لذيذ أو طعمه جميل."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "It is delicious!",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "تستخدم الجملة فعل الربط في الحاضر لوصف طعم شيء الآن أو كحكم عام عليه."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "People often say, \"It is delicious!\" in situations like this.",
-        "ar": "يقول الناس كثيرًا: \"إنه لذيذ!\" في مواقف كهذه.",
-        "context": "تستخدم الجملة بوصفها تركيبًا شائعًا في موقف مشابه."
+        "en": "It is delicious!",
+        "ar": "إنه لذيذ!",
+        "context": "تقال عند مدح طعم الطعام."
       },
       {
         "id": 2,
-        "en": "You can say, \"It is delicious!\" when this happens.",
-        "ar": "يمكنك أن تقول: \"إنه لذيذ!\" عندما يحدث هذا.",
-        "context": "توضح أن الجملة مناسبة في موقف متكرر."
+        "en": "This cake is delicious.",
+        "ar": "هذه الكعكة لذيذة.",
+        "context": "تقال عند مدح كعكة."
       },
       {
         "id": 3,
-        "en": "I heard someone say, \"It is delicious!\"",
-        "ar": "سمعت شخصًا يقول: \"إنه لذيذ!\"",
-        "context": "تجعل الجملة جزءًا من كلام سمعته من شخص آخر."
+        "en": "The soup is delicious.",
+        "ar": "الحساء لذيذ.",
+        "context": "تقال عند مدح طبق حساء."
       },
       {
         "id": 4,
-        "en": "The teacher used the sentence, \"It is delicious!\" in class.",
-        "ar": "استخدم المعلم الجملة: \"إنه لذيذ!\" في الصف.",
-        "context": "تستخدم الجملة مثالًا تعليميًا في الصف."
+        "en": "The food is delicious today.",
+        "ar": "الطعام لذيذ اليوم.",
+        "context": "تقال عند مدح وجبة في يوم معين."
       },
       {
         "id": 5,
-        "en": "Many learners remember the sentence, \"It is delicious!\" first.",
-        "ar": "يتذكر كثير من المتعلمين الجملة: \"إنه لذيذ!\" أولًا.",
-        "context": "تقدم الجملة بوصفها جملة تعليمية أساسية."
+        "en": "The bread is warm and delicious.",
+        "ar": "الخبز دافئ ولذيذ.",
+        "context": "تقال عند وصف خبز طازج."
       },
       {
         "id": 6,
-        "en": "She said, \"It is delicious!\" in a calm way.",
-        "ar": "قالت: \"إنه لذيذ!\" بطريقة هادئة.",
-        "context": "تجعل الجملة جزءًا من كلام مباشر في موقف عادي."
+        "en": "Your cooking is delicious.",
+        "ar": "طبخك لذيذ.",
+        "context": "تقال عند مجاملة شخص على طبخه."
       },
       {
         "id": 7,
-        "en": "He repeated, \"It is delicious!\" more than once.",
-        "ar": "ردد: \"إنه لذيذ!\" أكثر من مرة.",
-        "context": "تضيف معنى التكرار لنفس الجملة."
+        "en": "Is it delicious?",
+        "ar": "هل هو لذيذ؟",
+        "context": "تستخدم للسؤال عن طعم شيء."
       },
       {
         "id": 8,
-        "en": "At the right moment, someone might say, \"It is delicious!\"",
-        "ar": "في اللحظة المناسبة، قد يقول شخص ما: \"إنه لذيذ!\"",
-        "context": "توضح أن الجملة مرتبطة بتوقيت مناسب في السياق."
+        "en": "It is really delicious.",
+        "ar": "إنه لذيذ حقًا.",
+        "context": "تقال للتأكيد على جمال الطعم."
       },
       {
         "id": 9,
-        "en": "I wrote down the sentence, \"It is delicious!\" so I would remember it.",
-        "ar": "كتبت الجملة: \"إنه لذيذ!\" حتى أتذكرها.",
-        "context": "تعطي مثالًا على حفظ الجملة أو مراجعتها."
+        "en": "The dessert is delicious.",
+        "ar": "الحلوى لذيذة.",
+        "context": "تقال عند مدح الحلوى."
       },
       {
         "id": 10,
-        "en": "It is useful to know when to say, \"It is delicious!\"",
-        "ar": "من المفيد أن تعرف متى تقول: \"إنه لذيذ!\"",
-        "context": "تركز على معرفة الوقت المناسب لاستخدام الجملة."
+        "en": "Everything here is delicious.",
+        "ar": "كل شيء هنا لذيذ.",
+        "context": "تقال عند الإعجاب بطعام المكان."
       }
     ]
   }

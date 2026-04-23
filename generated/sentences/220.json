@@ -10,75 +10,83 @@
     "wordMeanings": [
       {
         "term": "A",
-        "description": "أداة نكرة تأتي قبل الاسم المفرد المعدود."
+        "description": "جزء من التعبير ويأتي قبل الكمية الصغيرة."
       },
       {
         "term": "few",
-        "description": "كلمة ترتبط بمعنى القليل."
+        "description": "قليل من أشياء يمكن عدها."
       }
     ],
-    "tense": null,
-    "tenseReason": "استُعمل هذا التعبير لأنه عبارة ثابتة أو رد قصير يُستخدم في موقف محدد، وليس جملة فعلية كاملة بزمن واضح.",
+    "grammarExplanations": [
+      {
+        "sentence": "A few.",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه عبارة كمية قصيرة وليست جملة كاملة بفعل، وتستخدم مع الأشياء المعدودة مثل كتب أو أيام أو أشخاص."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "In this situation, people often say, \"A few\".",
-        "ar": "في هذا الموقف، يقول الناس كثيرًا: \"القليل\".",
-        "context": "توضح أن العبارة مناسبة في هذا النوع من المواقف."
+        "en": "A few.",
+        "ar": "القليل.",
+        "context": "تقال عند وصف كمية صغيرة من أشياء معدودة."
       },
       {
         "id": 2,
-        "en": "The teacher said, \"A few\" to the students.",
-        "ar": "قال المعلم للطلاب: \"القليل\".",
-        "context": "تستخدم الجملة كتعليمات أو توجيه مباشر."
+        "en": "I have a few questions.",
+        "ar": "لدي بضعة أسئلة.",
+        "context": "تقال عند وجود عدد صغير من الأسئلة."
       },
       {
         "id": 3,
-        "en": "He told me, \"A few\" before we left.",
-        "ar": "قال لي: \"القليل\" قبل أن نغادر.",
-        "context": "تضع العبارة قبل حدث آخر."
+        "en": "I need a few minutes.",
+        "ar": "أحتاج إلى بضع دقائق.",
+        "context": "تقال عند طلب وقت قصير."
       },
       {
         "id": 4,
-        "en": "She said, \"A few\" in a polite way.",
-        "ar": "قالت: \"القليل\" بطريقة مهذبة.",
-        "context": "تظهر أن العبارة يمكن أن تقال بلطف أو أدب."
+        "en": "There are a few people outside.",
+        "ar": "هناك بضعة أشخاص في الخارج.",
+        "context": "تقال عند وصف عدد صغير من الأشخاص."
       },
       {
         "id": 5,
-        "en": "Someone shouted, \"A few\" when there was a problem.",
-        "ar": "صاح شخص ما: \"القليل\" عندما ظهرت مشكلة.",
-        "context": "تربط العبارة بموقف سريع أو طارئ."
+        "en": "She bought a few apples.",
+        "ar": "اشترت بضع تفاحات.",
+        "context": "تقال عند شراء عدد قليل من التفاح."
       },
       {
         "id": 6,
-        "en": "You can say, \"A few\" when you need a quick response.",
-        "ar": "يمكنك أن تقول: \"القليل\" عندما تحتاج إلى رد سريع.",
-        "context": "توضح أن العبارة مفيدة عند الحاجة إلى استجابة مباشرة."
+        "en": "We stayed for a few days.",
+        "ar": "بقينا لبضعة أيام.",
+        "context": "تقال عند وصف مدة قصيرة معدودة بالأيام."
       },
       {
         "id": 7,
-        "en": "They repeated, \"A few\" more than once.",
-        "ar": "رددوا: \"القليل\" أكثر من مرة.",
-        "context": "تعطي مثالًا على تكرار العبارة."
+        "en": "I know a few words.",
+        "ar": "أعرف بضع كلمات.",
+        "context": "تقال عند معرفة عدد قليل من الكلمات."
       },
       {
         "id": 8,
-        "en": "I heard him say, \"A few\" yesterday.",
-        "ar": "سمعته يقول: \"القليل\" أمس.",
-        "context": "تجعل العبارة جزءًا من موقف سمعته من شخص آخر."
+        "en": "Take a few tickets.",
+        "ar": "خذ بضع تذاكر.",
+        "context": "تقال عند طلب أخذ عدد صغير من التذاكر."
       },
       {
         "id": 9,
-        "en": "Many learners remember the phrase, \"A few\".",
-        "ar": "يتذكر كثير من المتعلمين العبارة: \"القليل\".",
-        "context": "تقدم العبارة بوصفها عبارة سهلة التذكر."
+        "en": "A few rooms are available.",
+        "ar": "تتوفر بضع غرف.",
+        "context": "تقال عند وجود عدد قليل من الغرف."
       },
       {
         "id": 10,
-        "en": "At that moment, she said, \"A few\".",
-        "ar": "في تلك اللحظة، قالت: \"القليل\".",
-        "context": "تربط العبارة بلحظة معينة في السرد."
+        "en": "I made a few calls.",
+        "ar": "أجريت بضع مكالمات.",
+        "context": "تقال عند إجراء عدد قليل من المكالمات."
       }
     ]
   }

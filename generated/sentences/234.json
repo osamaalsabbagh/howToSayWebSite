@@ -10,92 +10,99 @@
     "wordMeanings": [
       {
         "term": "How",
-        "description": "أداة سؤال."
+        "description": "تبدأ سؤالًا عن المقدار."
       },
       {
         "term": "much",
-        "description": "هنا تأتي مع very لتكوين very much، أي كثيرًا / بدرجة كبيرة."
+        "description": "كم، وتستخدم مع المال."
       },
       {
         "term": "money",
-        "description": "اسم يعني مال أو نقود."
+        "description": "مال أو نقود."
       },
       {
         "term": "do",
-        "description": "فعل مساعد يُستعمل لتكوين النفي والسؤال في المضارع البسيط."
+        "description": "تأتي في السؤال مع المخاطب لتكوين سؤال في الحاضر."
       },
       {
         "term": "you",
-        "description": "الضمير الذي يعود على الشخص المخاطَب."
+        "description": "أنت، وتشير إلى الشخص المخاطب."
       },
       {
         "term": "make",
-        "description": "فعل يعني يصنع أو يجعل."
+        "description": "تكسب أو تجني من المال."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "How much money do you make?",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "يستخدم المضارع البسيط للسؤال عن دخل أو عادة عامة في كسب المال، وليس عن مبلغ يحدث الآن فقط."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "You can ask, \"How much money do you make?\" when you need information.",
-        "ar": "يمكنك أن تسأل: \"كم تكسب من المال؟\" عندما تحتاج إلى معلومة.",
-        "context": "تستعمل الجملة كسؤال مباشر للحصول على معلومة."
+        "en": "How much money do you make?",
+        "ar": "كم تكسب من المال؟",
+        "context": "تقال عند السؤال عن دخل شخص."
       },
       {
         "id": 2,
-        "en": "Many people ask, \"How much money do you make?\" in this situation.",
-        "ar": "يسأل كثير من الناس: \"كم تكسب من المال؟\" في هذا الموقف.",
-        "context": "توضح أن هذا سؤال شائع في موقف مشابه."
+        "en": "How much money do you make per month?",
+        "ar": "كم تكسب من المال في الشهر؟",
+        "context": "تقال عند السؤال عن دخل شهري."
       },
       {
         "id": 3,
-        "en": "I asked, \"How much money do you make?\" because I was not sure.",
-        "ar": "سألت: \"كم تكسب من المال؟\" لأنني لم أكن متأكدًا.",
-        "context": "تضيف سببًا لطرح السؤال."
+        "en": "How much money do you make per year?",
+        "ar": "كم تكسب من المال في السنة؟",
+        "context": "تقال عند السؤال عن دخل سنوي."
       },
       {
         "id": 4,
-        "en": "She asked politely, \"How much money do you make?\"",
-        "ar": "سألت بأدب: \"كم تكسب من المال؟\".",
-        "context": "تبين أن السؤال قيل بطريقة مهذبة."
+        "en": "How much money does she make?",
+        "ar": "كم تكسب من المال؟",
+        "context": "تقال عند السؤال عن دخل امرأة."
       },
       {
         "id": 5,
-        "en": "At work, someone may ask, \"How much money do you make?\"",
-        "ar": "في العمل، قد يسأل شخص ما: \"كم تكسب من المال؟\".",
-        "context": "تضع السؤال في سياق مهني أو عملي."
+        "en": "How much money do they make?",
+        "ar": "كم يكسبون من المال؟",
+        "context": "تقال عند السؤال عن دخل مجموعة أو شركة."
       },
       {
         "id": 6,
-        "en": "Before deciding, ask: \"How much money do you make?\"",
-        "ar": "قبل أن تقرر، اسأل: \"كم تكسب من المال؟\".",
-        "context": "تستخدم السؤال قبل اتخاذ قرار."
+        "en": "I make enough money.",
+        "ar": "أنا أكسب مالًا كافيًا.",
+        "context": "تقال عند وصف الدخل بأنه كاف."
       },
       {
         "id": 7,
-        "en": "The student asked, \"How much money do you make?\" in class.",
-        "ar": "سأل الطالب: \"كم تكسب من المال؟\" في الصف.",
-        "context": "تجعل الجملة جزءًا من موقف تعليمي."
+        "en": "I do not make much money.",
+        "ar": "أنا لا أكسب مالًا كثيرًا.",
+        "context": "تقال عند وصف دخل قليل."
       },
       {
         "id": 8,
-        "en": "While traveling, you can ask, \"How much money do you make?\"",
-        "ar": "أثناء السفر، يمكنك أن تسأل: \"كم تكسب من المال؟\".",
-        "context": "تربط السؤال بموقف السفر أو التنقل."
+        "en": "How much do you earn?",
+        "ar": "كم تكسب؟",
+        "context": "تقال بصيغة أخرى للسؤال عن الدخل."
       },
       {
         "id": 9,
-        "en": "He asked me, \"How much money do you make?\" again.",
-        "ar": "سألني: \"كم تكسب من المال؟\" مرة أخرى.",
-        "context": "تضيف معنى التكرار لنفس السؤال."
+        "en": "How much money do you need?",
+        "ar": "كم من المال تحتاج؟",
+        "context": "تقال عند السؤال عن مبلغ مطلوب."
       },
       {
         "id": 10,
-        "en": "If you are not sure, ask: \"How much money do you make?\"",
-        "ar": "إذا لم تكن متأكدًا، فاسأل: \"كم تكسب من المال؟\".",
-        "context": "توضح أن السؤال مناسب عند عدم التأكد."
+        "en": "How much money do you save?",
+        "ar": "كم من المال تدخر؟",
+        "context": "تقال عند السؤال عن عادة ادخار المال."
       }
     ]
   }

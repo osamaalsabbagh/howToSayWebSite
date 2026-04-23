@@ -10,108 +10,123 @@
     "wordMeanings": [
       {
         "term": "I",
-        "description": "ضمير المتكلم."
+        "description": "ضمير المتكلم المفرد."
       },
       {
         "term": "love",
-        "description": "فعل يعني أعشق."
+        "description": "تعني أحب بشدة أو أفضّل."
       },
       {
         "term": "apples",
-        "description": "اسم يعني التفاح."
+        "description": "تفاح بصيغة الجمع."
       },
       {
         "term": "from",
-        "description": "جزء من العبارة الزمنية from time to time."
+        "description": "حرف يوضح مصدر التفاح."
       },
       {
         "term": "that",
-        "description": "تشير إلى أمر أو خبر سبق ذكره."
+        "description": "اسم إشارة لمنطقة معروفة سبق ذكرها."
       },
       {
         "term": "area",
-        "description": "اسم يعني المنطقة؛."
+        "description": "منطقة أو مكان محدد."
       },
       {
         "term": "they",
-        "description": "ضمير يشير إلى أكثر من شخص أو شيء."
+        "description": "ضمير يعود على التفاح."
       },
       {
         "term": "are",
-        "description": "فعل be مع you."
+        "description": "صيغة تربط التفاح بصفته."
       },
       {
         "term": "always",
-        "description": "ظرف تكرار يعني دائمًا."
+        "description": "تعني دائمًا أو في كل مرة تقريبًا."
       },
       {
         "term": "sweet",
-        "description": "صفة تعني حلو."
+        "description": "حلو المذاق."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "I love apples from that area",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُعمل المضارع البسيط لأن الزبون يعبّر عن تفضيل عام ومستقر لهذا النوع من التفاح."
+        }
+      },
+      {
+        "sentence": "they are always sweet.",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُعمل المضارع البسيط لأن المتكلم يصف صفة عامة يلاحظها عادة في التفاح القادم من تلك المنطقة."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "In general, I love apples from that area; they are always sweet.",
-        "ar": "بشكل عام، أعشق التفاح من تلك المنطقة؛ يكون دائمًا حلو المذاق.",
-        "context": "تضيف عبارة عامة تحافظ على نفس المعنى الأساسي."
+        "en": "I love oranges from that farm; they are always fresh.",
+        "ar": "أحب البرتقال من تلك المزرعة؛ يكون دائمًا طازجًا.",
+        "context": "تمدح منتجًا من مصدر معين."
       },
       {
         "id": 2,
-        "en": "Usually, I love apples from that area; they are always sweet.",
-        "ar": "عادةً، أعشق التفاح من تلك المنطقة؛ يكون دائمًا حلو المذاق.",
-        "context": "تضيف ظرفًا يدل على التكرار أو العادة."
+        "en": "I love apples from this market.",
+        "ar": "أحب التفاح من هذا السوق.",
+        "context": "تعبّر عن تفضيلك لمكان شراء معين."
       },
       {
         "id": 3,
-        "en": "Sometimes, I love apples from that area; they are always sweet.",
-        "ar": "أحيانًا، أعشق التفاح من تلك المنطقة؛ يكون دائمًا حلو المذاق.",
-        "context": "تضع الجملة في سياق أقل تكرارًا."
+        "en": "They are always sweet in August.",
+        "ar": "تكون دائمًا حلوة في أغسطس.",
+        "context": "تصف صفة تتكرر في موسم معين."
       },
       {
         "id": 4,
-        "en": "For now, I love apples from that area; they are always sweet.",
-        "ar": "في الوقت الحالي، أعشق التفاح من تلك المنطقة؛ يكون دائمًا حلو المذاق.",
-        "context": "تربط الجملة بالوضع الحالي."
+        "en": "I love fruit from the mountain area.",
+        "ar": "أحب الفاكهة من منطقة الجبل.",
+        "context": "تمدح منتجات منطقة محددة."
       },
       {
         "id": 5,
-        "en": "I love apples from that area; they are always sweet, so that helps a lot.",
-        "ar": "أعشق التفاح من تلك المنطقة؛ يكون دائمًا حلو المذاق، وهذا يساعد كثيرًا.",
-        "context": "تضيف نتيجة بسيطة على نفس المعنى."
+        "en": "These apples are always sweet.",
+        "ar": "هذا التفاح يكون دائمًا حلوًا.",
+        "context": "تصف جودة ثابتة في نوع معين."
       },
       {
         "id": 6,
-        "en": "I love apples from that area; they are always sweet in daily life.",
-        "ar": "أعشق التفاح من تلك المنطقة؛ يكون دائمًا حلو المذاق في الحياة اليومية.",
-        "context": "تربط الجملة بمواقف الحياة اليومية."
+        "en": "I love bread from that bakery; it is always warm.",
+        "ar": "أحب الخبز من ذلك المخبز؛ يكون دائمًا دافئًا.",
+        "context": "تستخدم نفس النمط مع منتج آخر."
       },
       {
         "id": 7,
-        "en": "I love apples from that area; they are always sweet when it is necessary.",
-        "ar": "أعشق التفاح من تلك المنطقة؛ يكون دائمًا حلو المذاق عندما يكون ذلك ضروريًا.",
-        "context": "تربط الجملة بشرط أو حاجة معينة."
+        "en": "I love apples because they are sweet.",
+        "ar": "أحب التفاح لأنه حلو.",
+        "context": "تشرح سبب تفضيلك للتفاح."
       },
       {
         "id": 8,
-        "en": "In this situation, I love apples from that area; they are always sweet.",
-        "ar": "في هذا الموقف، أعشق التفاح من تلك المنطقة؛ يكون دائمًا حلو المذاق.",
-        "context": "تجعل الجملة جزءًا من موقف واضح."
+        "en": "The apples from that area taste great.",
+        "ar": "التفاح من تلك المنطقة مذاقه رائع.",
+        "context": "تمدح المذاق بدل استخدام sweet."
       },
       {
         "id": 9,
-        "en": "I love apples from that area; they are always sweet, and everyone notices that.",
-        "ar": "أعشق التفاح من تلك المنطقة؛ يكون دائمًا حلو المذاق، والجميع يلاحظ ذلك.",
-        "context": "تضيف ملاحظة أو نتيجة بعد الجملة."
+        "en": "I love grapes from that area.",
+        "ar": "أحب العنب من تلك المنطقة.",
+        "context": "تعبّر عن تفضيل فاكهة من مصدر معين."
       },
       {
         "id": 10,
-        "en": "I love apples from that area; they are always sweet most of the time.",
-        "ar": "أعشق التفاح من تلك المنطقة؛ يكون دائمًا حلو المذاق معظم الوقت.",
-        "context": "تضيف عبارة تكرار شائعة."
+        "en": "They are always good for pies.",
+        "ar": "هي دائمًا جيدة للفطائر.",
+        "context": "تصف فائدة ثابتة لنوع من التفاح."
       }
     ]
   }

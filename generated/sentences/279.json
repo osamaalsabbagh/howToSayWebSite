@@ -10,96 +10,103 @@
     "wordMeanings": [
       {
         "term": "It",
-        "description": "ضمير يعود على الشيء أو الجملة التي قيلت."
+        "description": "تستخدم هنا للإشارة إلى حالة الطقس."
       },
       {
         "term": "is",
-        "description": "فعل be في الحاضر مع المفرد."
+        "description": "تساعد في تكوين عبارة التوقع."
       },
       {
         "term": "not",
-        "description": "أداة نفي."
+        "description": "تجعل المعنى منفيًا."
       },
       {
         "term": "supposed",
-        "description": "فعل يعني ألا."
+        "description": "جزء من تعبير يعني من المتوقع أو المفترض."
       },
       {
         "term": "to",
-        "description": "أداة تأتي قبل المصدر بعد أفعال مثل want."
+        "description": "تأتي قبل الفعل بعد supposed."
       },
       {
         "term": "rain",
-        "description": "فعل يعني تمطر."
+        "description": "تمطر أو ينزل المطر."
       },
       {
         "term": "today",
-        "description": "ظرف زمان يعني اليوم."
+        "description": "اليوم الحالي."
       }
     ],
-    "tense": "الماضي البسيط",
-    "tenseEn": "Past Simple",
-    "tenseReason": "استُعمل الماضي البسيط لأن الجملة تتحدث عن حدث وقع في الماضي واكتمل هناك.",
+    "grammarExplanations": [
+      {
+        "sentence": "It is not supposed to rain today.",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "تستخدم الجملة تركيب is not supposed to للتعبير عن توقع منفي، أي أن المطر غير متوقع اليوم."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "People often say, \"It is not supposed to rain today\" in situations like this.",
-        "ar": "يقول الناس كثيرًا: \"من المفترض ألا تمطر اليوم\" في مواقف كهذه.",
-        "context": "تستخدم الجملة بوصفها تركيبًا شائعًا في موقف مشابه."
+        "en": "It is not supposed to rain today.",
+        "ar": "من المفترض ألا تمطر اليوم.",
+        "context": "تقال عند الحديث عن توقعات الطقس اليوم."
       },
       {
         "id": 2,
-        "en": "You can say, \"It is not supposed to rain today\" when this happens.",
-        "ar": "يمكنك أن تقول: \"من المفترض ألا تمطر اليوم\" عندما يحدث هذا.",
-        "context": "توضح أن الجملة مناسبة في موقف متكرر."
+        "en": "It is supposed to be sunny today.",
+        "ar": "من المفترض أن يكون الجو مشمسًا اليوم.",
+        "context": "تقال عند ذكر توقع طقس إيجابي."
       },
       {
         "id": 3,
-        "en": "I heard someone say, \"It is not supposed to rain today\".",
-        "ar": "سمعت شخصًا يقول: \"من المفترض ألا تمطر اليوم\".",
-        "context": "تجعل الجملة جزءًا من كلام سمعته من شخص آخر."
+        "en": "It is not supposed to snow today.",
+        "ar": "من المفترض ألا تثلج اليوم.",
+        "context": "تقال عند نفي توقع الثلج."
       },
       {
         "id": 4,
-        "en": "The teacher used the sentence, \"It is not supposed to rain today\" in class.",
-        "ar": "استخدم المعلم الجملة: \"من المفترض ألا تمطر اليوم\" في الصف.",
-        "context": "تستخدم الجملة مثالًا تعليميًا في الصف."
+        "en": "It is not supposed to rain this morning.",
+        "ar": "من المفترض ألا تمطر هذا الصباح.",
+        "context": "تقال عند تحديد جزء من اليوم."
       },
       {
         "id": 5,
-        "en": "Many learners remember the sentence, \"It is not supposed to rain today\" first.",
-        "ar": "يتذكر كثير من المتعلمين الجملة: \"من المفترض ألا تمطر اليوم\" أولًا.",
-        "context": "تقدم الجملة بوصفها جملة تعليمية أساسية."
+        "en": "The weather report says it is not supposed to rain today.",
+        "ar": "تقول نشرة الطقس إنه من المفترض ألا تمطر اليوم.",
+        "context": "تقال عند نقل توقعات الطقس."
       },
       {
         "id": 6,
-        "en": "She said, \"It is not supposed to rain today\" in a calm way.",
-        "ar": "قالت: \"من المفترض ألا تمطر اليوم\" بطريقة هادئة.",
-        "context": "تجعل الجملة جزءًا من كلام مباشر في موقف عادي."
+        "en": "It is not supposed to rain until tomorrow.",
+        "ar": "من المفترض ألا تمطر حتى غد.",
+        "context": "تقال عند تحديد موعد المطر المتوقع."
       },
       {
         "id": 7,
-        "en": "He repeated, \"It is not supposed to rain today\" more than once.",
-        "ar": "ردد: \"من المفترض ألا تمطر اليوم\" أكثر من مرة.",
-        "context": "تضيف معنى التكرار لنفس الجملة."
+        "en": "Are we sure it is not supposed to rain today?",
+        "ar": "هل نحن متأكدون أنه من المفترض ألا تمطر اليوم؟",
+        "context": "تستخدم للتأكد من توقع الطقس."
       },
       {
         "id": 8,
-        "en": "At the right moment, someone might say, \"It is not supposed to rain today\".",
-        "ar": "في اللحظة المناسبة، قد يقول شخص ما: \"من المفترض ألا تمطر اليوم\".",
-        "context": "توضح أن الجملة مرتبطة بتوقيت مناسب في السياق."
+        "en": "It is not supposed to be cold today.",
+        "ar": "من المفترض ألا يكون الجو باردًا اليوم.",
+        "context": "تقال عند نفي توقع البرودة."
       },
       {
         "id": 9,
-        "en": "I wrote down the sentence, \"It is not supposed to rain today\" so I would remember it.",
-        "ar": "كتبت الجملة: \"من المفترض ألا تمطر اليوم\" حتى أتذكرها.",
-        "context": "تعطي مثالًا على حفظ الجملة أو مراجعتها."
+        "en": "The picnic is fine because it is not supposed to rain today.",
+        "ar": "النزهة مناسبة لأن من المفترض ألا تمطر اليوم.",
+        "context": "تقال عند ربط الخطة بتوقع الطقس."
       },
       {
         "id": 10,
-        "en": "It is useful to know when to say, \"It is not supposed to rain today\".",
-        "ar": "من المفيد أن تعرف متى تقول: \"من المفترض ألا تمطر اليوم\".",
-        "context": "تركز على معرفة الوقت المناسب لاستخدام الجملة."
+        "en": "It is not supposed to rain during the game.",
+        "ar": "من المفترض ألا تمطر أثناء المباراة.",
+        "context": "تقال عند الحديث عن طقس وقت نشاط."
       }
     ]
   }

@@ -10,84 +10,91 @@
     "wordMeanings": [
       {
         "term": "When",
-        "description": "أداة أو ظرف يعني عندما."
+        "description": "متى، وتستخدم للسؤال عن وقت حدوث شيء."
       },
       {
         "term": "did",
-        "description": "صيغة الماضي من do أو فعل مساعد للماضي."
+        "description": "تأتي في السؤال عن الماضي مع الفعل الأساسي بعدها."
       },
       {
         "term": "this",
-        "description": "اسم إشارة يعني هذا."
+        "description": "هذا، وتشير إلى الحدث المقصود."
       },
       {
         "term": "happen",
-        "description": "فعل يعني حدث."
+        "description": "يحدث أو يقع."
       }
     ],
-    "tense": "الماضي البسيط",
-    "tenseEn": "Past Simple",
-    "tenseReason": "استُعمل الماضي البسيط لأن الجملة تتحدث عن حدث وقع في الماضي واكتمل هناك.",
+    "grammarExplanations": [
+      {
+        "sentence": "When did this happen?",
+        "explanation": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "يستخدم السؤال الماضي البسيط لأن المتكلم يسأل عن وقت وقوع حدث حدث وانتهى في الماضي."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "You can ask, \"When did this happen?\" when you need information.",
-        "ar": "يمكنك أن تسأل: \"متى حدث هذا؟\" عندما تحتاج إلى معلومة.",
-        "context": "تستعمل الجملة كسؤال مباشر للحصول على معلومة."
+        "en": "When did this happen?",
+        "ar": "متى حدث هذا؟",
+        "context": "تقال عند السؤال عن وقت وقوع حدث."
       },
       {
         "id": 2,
-        "en": "Many people ask, \"When did this happen?\" in this situation.",
-        "ar": "يسأل كثير من الناس: \"متى حدث هذا؟\" في هذا الموقف.",
-        "context": "توضح أن هذا سؤال شائع في موقف مشابه."
+        "en": "When did the accident happen?",
+        "ar": "متى حدث الحادث؟",
+        "context": "تقال عند السؤال عن وقت حادث."
       },
       {
         "id": 3,
-        "en": "I asked, \"When did this happen?\" because I was not sure.",
-        "ar": "سألت: \"متى حدث هذا؟\" لأنني لم أكن متأكدًا.",
-        "context": "تضيف سببًا لطرح السؤال."
+        "en": "When did the problem happen?",
+        "ar": "متى حدثت المشكلة؟",
+        "context": "تقال عند معرفة وقت ظهور مشكلة."
       },
       {
         "id": 4,
-        "en": "She asked politely, \"When did this happen?\"",
-        "ar": "سألت بأدب: \"متى حدث هذا؟\".",
-        "context": "تبين أن السؤال قيل بطريقة مهذبة."
+        "en": "When did it happen?",
+        "ar": "متى حدث ذلك؟",
+        "context": "تقال عندما يكون الحدث معروفًا من السياق."
       },
       {
         "id": 5,
-        "en": "At work, someone may ask, \"When did this happen?\"",
-        "ar": "في العمل، قد يسأل شخص ما: \"متى حدث هذا؟\".",
-        "context": "تضع السؤال في سياق مهني أو عملي."
+        "en": "When did this start?",
+        "ar": "متى بدأ هذا؟",
+        "context": "تقال عند السؤال عن بداية موقف أو مشكلة."
       },
       {
         "id": 6,
-        "en": "Before deciding, ask: \"When did this happen?\"",
-        "ar": "قبل أن تقرر، اسأل: \"متى حدث هذا؟\".",
-        "context": "تستخدم السؤال قبل اتخاذ قرار."
+        "en": "When did this change?",
+        "ar": "متى تغيّر هذا؟",
+        "context": "تقال عند ملاحظة اختلاف والسؤال عن وقته."
       },
       {
         "id": 7,
-        "en": "The student asked, \"When did this happen?\" in class.",
-        "ar": "سأل الطالب: \"متى حدث هذا؟\" في الصف.",
-        "context": "تجعل الجملة جزءًا من موقف تعليمي."
+        "en": "When did you hear about this?",
+        "ar": "متى سمعت عن هذا؟",
+        "context": "تقال عند السؤال عن وقت معرفة شخص بالخبر."
       },
       {
         "id": 8,
-        "en": "While traveling, you can ask, \"When did this happen?\"",
-        "ar": "أثناء السفر، يمكنك أن تسأل: \"متى حدث هذا؟\".",
-        "context": "تربط السؤال بموقف السفر أو التنقل."
+        "en": "When did they tell you?",
+        "ar": "متى أخبروك؟",
+        "context": "تقال عند السؤال عن وقت إبلاغ شخص."
       },
       {
         "id": 9,
-        "en": "He asked me, \"When did this happen?\" again.",
-        "ar": "سألني: \"متى حدث هذا؟\" مرة أخرى.",
-        "context": "تضيف معنى التكرار لنفس السؤال."
+        "en": "When did the delay happen?",
+        "ar": "متى حدث التأخير؟",
+        "context": "تقال عند السؤال عن وقت تأخير في رحلة أو عمل."
       },
       {
         "id": 10,
-        "en": "If you are not sure, ask: \"When did this happen?\"",
-        "ar": "إذا لم تكن متأكدًا، فاسأل: \"متى حدث هذا؟\".",
-        "context": "توضح أن السؤال مناسب عند عدم التأكد."
+        "en": "When did this become urgent?",
+        "ar": "متى أصبح هذا عاجلًا؟",
+        "context": "تقال عند السؤال عن تحول أمر إلى حالة عاجلة."
       }
     ]
   }

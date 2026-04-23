@@ -10,75 +10,83 @@
     "wordMeanings": [
       {
         "term": "Of",
-        "description": "حرف جر يربط بين اسمين وغالبًا يعني من أو الخاص بـ حسب السياق."
+        "description": "جزء من تعبير ثابت يدل على الموافقة أو التأكيد."
       },
       {
         "term": "course",
-        "description": "حال أو ظرف يعني بالطبع."
+        "description": "جزء من التعبير الذي يعني بالطبع أو أكيد."
       }
     ],
-    "tense": null,
-    "tenseReason": "استُعمل هذا التعبير لأنه عبارة ثابتة أو رد قصير يُستخدم في موقف محدد، وليس جملة فعلية كاملة بزمن واضح.",
+    "grammarExplanations": [
+      {
+        "sentence": "Of course.",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذا تعبير ثابت للموافقة القوية أو التأكيد، ولا يحتوي على فعل ظاهر أو زمن مستقل."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "In this situation, people often say, \"Of course\".",
-        "ar": "في هذا الموقف، يقول الناس كثيرًا: \"بالطبع\".",
-        "context": "توضح أن العبارة مناسبة في هذا النوع من المواقف."
+        "en": "Of course, I can help.",
+        "ar": "بالطبع، أستطيع المساعدة.",
+        "context": "تقال عند الموافقة على تقديم المساعدة."
       },
       {
         "id": 2,
-        "en": "The teacher said, \"Of course\" to the students.",
-        "ar": "قال المعلم للطلاب: \"بالطبع\".",
-        "context": "تستخدم الجملة كتعليمات أو توجيه مباشر."
+        "en": "Yes, of course.",
+        "ar": "نعم، بالطبع.",
+        "context": "تقال عند الموافقة الواضحة على طلب."
       },
       {
         "id": 3,
-        "en": "He told me, \"Of course\" before we left.",
-        "ar": "قال لي: \"بالطبع\" قبل أن نغادر.",
-        "context": "تضع العبارة قبل حدث آخر."
+        "en": "Of course, you can come.",
+        "ar": "بالطبع، يمكنك أن تأتي.",
+        "context": "تقال عند السماح لشخص بالحضور."
       },
       {
         "id": 4,
-        "en": "She said, \"Of course\" in a polite way.",
-        "ar": "قالت: \"بالطبع\" بطريقة مهذبة.",
-        "context": "تظهر أن العبارة يمكن أن تقال بلطف أو أدب."
+        "en": "Of course, we remember you.",
+        "ar": "بالطبع، نحن نتذكرك.",
+        "context": "تقال لتأكيد تذكر شخص."
       },
       {
         "id": 5,
-        "en": "Someone shouted, \"Of course\" when there was a problem.",
-        "ar": "صاح شخص ما: \"بالطبع\" عندما ظهرت مشكلة.",
-        "context": "تربط العبارة بموقف سريع أو طارئ."
+        "en": "Of course, she is welcome.",
+        "ar": "بالطبع، هي مرحب بها.",
+        "context": "تقال عند الترحيب بشخص."
       },
       {
         "id": 6,
-        "en": "You can say, \"Of course\" when you need a quick response.",
-        "ar": "يمكنك أن تقول: \"بالطبع\" عندما تحتاج إلى رد سريع.",
-        "context": "توضح أن العبارة مفيدة عند الحاجة إلى استجابة مباشرة."
+        "en": "Of course, I understand.",
+        "ar": "بالطبع، أنا أفهم.",
+        "context": "تقال عند إظهار التفهم."
       },
       {
         "id": 7,
-        "en": "They repeated, \"Of course\" more than once.",
-        "ar": "رددوا: \"بالطبع\" أكثر من مرة.",
-        "context": "تعطي مثالًا على تكرار العبارة."
+        "en": "Of course, that is possible.",
+        "ar": "بالطبع، ذلك ممكن.",
+        "context": "تقال عند تأكيد إمكانية شيء."
       },
       {
         "id": 8,
-        "en": "I heard him say, \"Of course\" yesterday.",
-        "ar": "سمعته يقول: \"بالطبع\" أمس.",
-        "context": "تجعل العبارة جزءًا من موقف سمعته من شخص آخر."
+        "en": "Of course, we can wait.",
+        "ar": "بالطبع، يمكننا الانتظار.",
+        "context": "تقال عند قبول الانتظار."
       },
       {
         "id": 9,
-        "en": "Many learners remember the phrase, \"Of course\".",
-        "ar": "يتذكر كثير من المتعلمين العبارة: \"بالطبع\".",
-        "context": "تقدم العبارة بوصفها عبارة سهلة التذكر."
+        "en": "Of course, I will call you.",
+        "ar": "بالطبع، سأتصل بك.",
+        "context": "تقال عند وعد شخص بالاتصال."
       },
       {
         "id": 10,
-        "en": "At that moment, she said, \"Of course\".",
-        "ar": "في تلك اللحظة، قالت: \"بالطبع\".",
-        "context": "تربط العبارة بلحظة معينة في السرد."
+        "en": "Of course, this is important.",
+        "ar": "بالطبع، هذا مهم.",
+        "context": "تقال عند تأكيد أهمية أمر."
       }
     ]
   }

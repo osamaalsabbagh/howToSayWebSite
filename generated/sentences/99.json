@@ -10,75 +10,83 @@
     "wordMeanings": [
       {
         "term": "Right",
-        "description": "هنا جزء من All right التي تدل على القبول أو الموافقة، وليس المقصود فقط معنى \"صحيح\" أو \"يمين\"."
+        "description": "تمامًا أو بالضبط في هذا السياق."
       },
       {
         "term": "there",
-        "description": "ظرف مكان يعني هناك."
+        "description": "هناك، أي في مكان أبعد قليلًا عن المتكلم."
       }
     ],
-    "tense": null,
-    "tenseReason": "استُعمل هذا التعبير لأنه عبارة ثابتة أو رد قصير يُستخدم في موقف محدد، وليس جملة فعلية كاملة بزمن واضح.",
+    "grammarExplanations": [
+      {
+        "sentence": "Right there.",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذا تعبير مكاني قصير يحدد مكانًا أبعد بدقة، ولا يحتوي على فعل ظاهر أو زمن مستقل."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "In this situation, people often say, \"Right there\".",
-        "ar": "في هذا الموقف، يقول الناس كثيرًا: \"هناك تمامًا\".",
-        "context": "توضح أن العبارة مناسبة في هذا النوع من المواقف."
+        "en": "Put the bag right there.",
+        "ar": "ضع الحقيبة هناك تمامًا.",
+        "context": "تقال عند تحديد مكان أبعد لوضع شيء."
       },
       {
         "id": 2,
-        "en": "The teacher said, \"Right there\" to the students.",
-        "ar": "قال المعلم للطلاب: \"هناك تمامًا\".",
-        "context": "تستخدم الجملة كتعليمات أو توجيه مباشر."
+        "en": "Stand right there.",
+        "ar": "قف هناك تمامًا.",
+        "context": "تقال عند توجيه شخص إلى مكان محدد."
       },
       {
         "id": 3,
-        "en": "He told me, \"Right there\" before we left.",
-        "ar": "قال لي: \"هناك تمامًا\" قبل أن نغادر.",
-        "context": "تضع العبارة قبل حدث آخر."
+        "en": "The shop is right there.",
+        "ar": "المتجر هناك تمامًا.",
+        "context": "تقال عند الإشارة إلى متجر قريب من المخاطب أو أبعد من المتكلم."
       },
       {
         "id": 4,
-        "en": "She said, \"Right there\" in a polite way.",
-        "ar": "قالت: \"هناك تمامًا\" بطريقة مهذبة.",
-        "context": "تظهر أن العبارة يمكن أن تقال بلطف أو أدب."
+        "en": "Wait right there, please.",
+        "ar": "انتظر هناك تمامًا من فضلك.",
+        "context": "تقال عند طلب الانتظار في مكان محدد."
       },
       {
         "id": 5,
-        "en": "Someone shouted, \"Right there\" when there was a problem.",
-        "ar": "صاح شخص ما: \"هناك تمامًا\" عندما ظهرت مشكلة.",
-        "context": "تربط العبارة بموقف سريع أو طارئ."
+        "en": "The taxi is right there.",
+        "ar": "سيارة الأجرة هناك تمامًا.",
+        "context": "تقال عند الإشارة إلى مكان سيارة."
       },
       {
         "id": 6,
-        "en": "You can say, \"Right there\" when you need a quick response.",
-        "ar": "يمكنك أن تقول: \"هناك تمامًا\" عندما تحتاج إلى رد سريع.",
-        "context": "توضح أن العبارة مفيدة عند الحاجة إلى استجابة مباشرة."
+        "en": "Leave the box right there.",
+        "ar": "اترك الصندوق هناك تمامًا.",
+        "context": "تقال عند تحديد موضع صندوق."
       },
       {
         "id": 7,
-        "en": "They repeated, \"Right there\" more than once.",
-        "ar": "رددوا: \"هناك تمامًا\" أكثر من مرة.",
-        "context": "تعطي مثالًا على تكرار العبارة."
+        "en": "The answer is right there.",
+        "ar": "الإجابة هناك تمامًا.",
+        "context": "تقال عند الإشارة إلى إجابة في نص أو ورقة."
       },
       {
         "id": 8,
-        "en": "I heard him say, \"Right there\" yesterday.",
-        "ar": "سمعته يقول: \"هناك تمامًا\" أمس.",
-        "context": "تجعل العبارة جزءًا من موقف سمعته من شخص آخر."
+        "en": "Sit right there.",
+        "ar": "اجلس هناك تمامًا.",
+        "context": "تقال عند تحديد مقعد أو مكان جلوس."
       },
       {
         "id": 9,
-        "en": "Many learners remember the phrase, \"Right there\".",
-        "ar": "يتذكر كثير من المتعلمين العبارة: \"هناك تمامًا\".",
-        "context": "تقدم العبارة بوصفها عبارة سهلة التذكر."
+        "en": "The hotel is right there.",
+        "ar": "الفندق هناك تمامًا.",
+        "context": "تقال عند الإشارة إلى موقع فندق."
       },
       {
         "id": 10,
-        "en": "At that moment, she said, \"Right there\".",
-        "ar": "في تلك اللحظة، قالت: \"هناك تمامًا\".",
-        "context": "تربط العبارة بلحظة معينة في السرد."
+        "en": "Park the car right there.",
+        "ar": "أوقف السيارة هناك تمامًا.",
+        "context": "تقال عند تحديد مكان إيقاف السيارة."
       }
     ]
   }

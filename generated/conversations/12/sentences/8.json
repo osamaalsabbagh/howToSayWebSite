@@ -10,108 +10,123 @@
     "wordMeanings": [
       {
         "term": "That",
-        "description": "تشير إلى أمر أو خبر سبق ذكره."
+        "description": "يشير إلى الخبر الذي سمعه المتكلم."
       },
       {
         "term": "is",
-        "description": "فعل be في الحاضر مع المفرد."
+        "description": "تربط الخبر بوصفه جيدًا."
       },
       {
         "term": "good",
-        "description": "صفة تعني جيد أو مريح أو مناسب هنا."
+        "description": "جيد أو مفرح."
       },
       {
         "term": "news",
-        "description": "اسم يعني أخبار."
+        "description": "خبر أو معلومة جديدة."
       },
       {
         "term": "Can",
-        "description": "فعل مساعد يدل هنا على القدرة أو الاستعداد لتلبية الطلب."
+        "description": "تبدأ سؤالًا عن الإمكانية أو السماح."
       },
       {
         "term": "I",
-        "description": "ضمير المتكلم."
+        "description": "ضمير المتكلم المفرد."
       },
       {
         "term": "change",
-        "description": "فعل يعني تغيير."
+        "description": "يغيّر أو يعدّل."
       },
       {
         "term": "the",
-        "description": "أداة تعريف تشير إلى شيء معروف أو محدد."
+        "description": "أداة تعريف لعنوان تسليم محدد."
       },
       {
         "term": "delivery",
-        "description": "اسم يعني التسليم."
+        "description": "التسليم أو إيصال الطلب."
       },
       {
         "term": "address",
-        "description": "اسم يعني عنوان."
+        "description": "العنوان الذي سيصل إليه الطلب."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "That is good news.",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "الجملة تصف الخبر الحالي بأنه جيد."
+        }
+      },
+      {
+        "sentence": "Can I change the delivery address?",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "السؤال يستخدم Can للسؤال عن إمكانية أو إذن تغيير العنوان، لذلك لا يُعامل كزمن مستقل."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "You can ask, \"That is good news. Can I change the delivery address?\" when you need information.",
-        "ar": "يمكنك أن تسأل: \"تلك أخبار جيدة. هل يمكنني تغيير عنوان التسليم؟\" عندما تحتاج إلى معلومة.",
-        "context": "تستعمل الجملة كسؤال مباشر للحصول على معلومة."
+        "en": "That is good news. Can I change the time?",
+        "ar": "هذه أخبار جيدة. هل يمكنني تغيير الوقت؟",
+        "context": "يُستخدم بعد سماع خبر جيد ثم طلب تعديل."
       },
       {
         "id": 2,
-        "en": "Many people ask, \"That is good news. Can I change the delivery address?\" in this situation.",
-        "ar": "يسأل كثير من الناس: \"تلك أخبار جيدة. هل يمكنني تغيير عنوان التسليم؟\" في هذا الموقف.",
-        "context": "توضح أن هذا سؤال شائع في موقف مشابه."
+        "en": "That is good news. Can I update my address?",
+        "ar": "هذه أخبار جيدة. هل يمكنني تحديث عنواني؟",
+        "context": "يُستخدم عند طلب تعديل عنوان."
       },
       {
         "id": 3,
-        "en": "I asked, \"That is good news. Can I change the delivery address?\" because I was not sure.",
-        "ar": "سألت: \"تلك أخبار جيدة. هل يمكنني تغيير عنوان التسليم؟\" لأنني لم أكن متأكدًا.",
-        "context": "تضيف سببًا لطرح السؤال."
+        "en": "Can I change the delivery date?",
+        "ar": "هل يمكنني تغيير تاريخ التسليم؟",
+        "context": "يُستخدم عند طلب موعد تسليم مختلف."
       },
       {
         "id": 4,
-        "en": "She asked politely, \"That is good news. Can I change the delivery address?\"",
-        "ar": "سألت بأدب: \"تلك أخبار جيدة. هل يمكنني تغيير عنوان التسليم؟\".",
-        "context": "تبين أن السؤال قيل بطريقة مهذبة."
+        "en": "Can I change the phone number?",
+        "ar": "هل يمكنني تغيير رقم الهاتف؟",
+        "context": "يُستخدم عند تعديل بيانات اتصال."
       },
       {
         "id": 5,
-        "en": "At work, someone may ask, \"That is good news. Can I change the delivery address?\"",
-        "ar": "في العمل، قد يسأل شخص ما: \"تلك أخبار جيدة. هل يمكنني تغيير عنوان التسليم؟\".",
-        "context": "تضع السؤال في سياق مهني أو عملي."
+        "en": "That is good news. Can I tell my family?",
+        "ar": "هذه أخبار جيدة. هل يمكنني إخبار عائلتي؟",
+        "context": "يُستخدم بعد تلقي خبر مفرح."
       },
       {
         "id": 6,
-        "en": "Before deciding, ask: \"That is good news. Can I change the delivery address?\"",
-        "ar": "قبل أن تقرر، اسأل: \"تلك أخبار جيدة. هل يمكنني تغيير عنوان التسليم؟\".",
-        "context": "تستخدم السؤال قبل اتخاذ قرار."
+        "en": "Can I change the order now?",
+        "ar": "هل يمكنني تغيير الطلب الآن؟",
+        "context": "يُستخدم عند طلب تعديل طلب قبل إرساله."
       },
       {
         "id": 7,
-        "en": "The student asked, \"That is good news. Can I change the delivery address?\" in class.",
-        "ar": "سأل الطالب: \"تلك أخبار جيدة. هل يمكنني تغيير عنوان التسليم؟\" في الصف.",
-        "context": "تجعل الجملة جزءًا من موقف تعليمي."
+        "en": "That is good news. Can I pay today?",
+        "ar": "هذه أخبار جيدة. هل يمكنني الدفع اليوم؟",
+        "context": "يُستخدم عند الانتقال من خبر جيد إلى إجراء."
       },
       {
         "id": 8,
-        "en": "While traveling, you can ask, \"That is good news. Can I change the delivery address?\"",
-        "ar": "أثناء السفر، يمكنك أن تسأل: \"تلك أخبار جيدة. هل يمكنني تغيير عنوان التسليم؟\".",
-        "context": "تربط السؤال بموقف السفر أو التنقل."
+        "en": "Can I change the address before Monday?",
+        "ar": "هل يمكنني تغيير العنوان قبل يوم الإثنين؟",
+        "context": "يُستخدم عند وجود موعد نهائي للتعديل."
       },
       {
         "id": 9,
-        "en": "He asked me, \"That is good news. Can I change the delivery address?\" again.",
-        "ar": "سألني: \"تلك أخبار جيدة. هل يمكنني تغيير عنوان التسليم؟\" مرة أخرى.",
-        "context": "تضيف معنى التكرار لنفس السؤال."
+        "en": "That is good news. Can I receive it at work?",
+        "ar": "هذه أخبار جيدة. هل يمكنني استلامه في العمل؟",
+        "context": "يُستخدم عند طلب مكان استلام مختلف."
       },
       {
         "id": 10,
-        "en": "If you are not sure, ask: \"That is good news. Can I change the delivery address?\"",
-        "ar": "إذا لم تكن متأكدًا، فاسأل: \"تلك أخبار جيدة. هل يمكنني تغيير عنوان التسليم؟\".",
-        "context": "توضح أن السؤال مناسب عند عدم التأكد."
+        "en": "Can I change the delivery address today?",
+        "ar": "هل يمكنني تغيير عنوان التسليم اليوم؟",
+        "context": "يُستخدم عند طلب تعديل عاجل للعنوان."
       }
     ]
   }

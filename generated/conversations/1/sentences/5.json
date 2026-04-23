@@ -10,104 +10,111 @@
     "wordMeanings": [
       {
         "term": "I",
-        "description": "ضمير المتكلم."
+        "description": "ضمير المتكلم المفرد، ويشير هنا إلى المتقدم نفسه."
       },
       {
         "term": "have",
-        "description": "فعل يعني يملك، ويأتي أيضًا كفعل مساعد."
+        "description": "يعني لدي أو أملك، ويستعمل هنا للحديث عن خبرة يملكها المتقدم."
       },
       {
         "term": "three",
-        "description": "كلمة تدل على العدد ثلاثة."
+        "description": "عدد يعني ثلاثة، ويحدد مقدار سنوات الخبرة."
       },
       {
         "term": "years",
-        "description": "اسم يعني سنوات."
+        "description": "جمع سنة، ويشير هنا إلى مدة الخبرة المهنية."
       },
       {
         "term": "of",
-        "description": "حرف جر يربط بين اسمين وغالبًا يعني من أو الخاص بـ حسب السياق."
+        "description": "حرف يربط عدد السنوات بكلمة الخبرة."
       },
       {
         "term": "experience",
-        "description": "اسم يعني الخبرة."
+        "description": "خبرة عملية أو معرفة اكتسبها الشخص من العمل أو الممارسة."
       },
       {
         "term": "in",
-        "description": "حرف جر يعني في."
+        "description": "في مجال أو داخل نطاق معين."
       },
       {
         "term": "software",
-        "description": "اسم يعني تطوير."
+        "description": "برمجيات أو برامج، وهي المجال الذي يصف نوع الخبرة هنا."
       },
       {
         "term": "development",
-        "description": "اسم يعني البرمجيات."
+        "description": "تطوير أو بناء تدريجي لمنتج أو مهارة أو نظام."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "I have three years of experience in software development.",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُعمل المضارع البسيط لأن المتكلم يذكر حقيقة حالية عن خبرته المهنية المتراكمة حتى الآن."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "In general, I have three years of experience in software development.",
-        "ar": "بشكل عام، لدي ثلاث سنوات من الخبرة في تطوير البرمجيات.",
-        "context": "تضيف عبارة عامة تحافظ على نفس المعنى الأساسي."
+        "en": "I have three years of experience in mobile app development.",
+        "ar": "لدي ثلاث سنوات من الخبرة في تطوير تطبيقات الهاتف.",
+        "context": "تخصص الخبرة في تطبيقات الهاتف."
       },
       {
         "id": 2,
-        "en": "Usually, I have three years of experience in software development.",
-        "ar": "عادةً، لدي ثلاث سنوات من الخبرة في تطوير البرمجيات.",
-        "context": "تضيف ظرفًا يدل على التكرار أو العادة."
+        "en": "I have three years of experience in backend development.",
+        "ar": "لدي ثلاث سنوات من الخبرة في تطوير الواجهات الخلفية.",
+        "context": "تذكر مجالًا تقنيًا محددًا داخل البرمجة."
       },
       {
         "id": 3,
-        "en": "Sometimes, I have three years of experience in software development.",
-        "ar": "أحيانًا، لدي ثلاث سنوات من الخبرة في تطوير البرمجيات.",
-        "context": "تضع الجملة في سياق أقل تكرارًا."
+        "en": "I have three years of experience working with React Native.",
+        "ar": "لدي ثلاث سنوات من الخبرة في العمل مع React Native.",
+        "context": "تربط الخبرة بتقنية معينة."
       },
       {
         "id": 4,
-        "en": "For now, I have three years of experience in software development.",
-        "ar": "في الوقت الحالي، لدي ثلاث سنوات من الخبرة في تطوير البرمجيات.",
-        "context": "تربط الجملة بالوضع الحالي."
+        "en": "I have almost three years of experience in software development.",
+        "ar": "لدي ما يقارب ثلاث سنوات من الخبرة في تطوير البرمجيات.",
+        "context": "تستخدم عندما لا تكون المدة كاملة تمامًا."
       },
       {
         "id": 5,
-        "en": "I have three years of experience in software development, so that helps a lot.",
-        "ar": "لدي ثلاث سنوات من الخبرة في تطوير البرمجيات، وهذا يساعد كثيرًا.",
-        "context": "تضيف نتيجة بسيطة على نفس المعنى."
+        "en": "I have over three years of experience in software development.",
+        "ar": "لدي أكثر من ثلاث سنوات من الخبرة في تطوير البرمجيات.",
+        "context": "تؤكد أن الخبرة تتجاوز الرقم المذكور."
       },
       {
         "id": 6,
-        "en": "I have three years of experience in software development in daily life.",
-        "ar": "لدي ثلاث سنوات من الخبرة في تطوير البرمجيات في الحياة اليومية.",
-        "context": "تربط الجملة بمواقف الحياة اليومية."
+        "en": "I have three years of professional experience in software development.",
+        "ar": "لدي ثلاث سنوات من الخبرة المهنية في تطوير البرمجيات.",
+        "context": "توضح أن الخبرة عملية ومدفوعة أو رسمية."
       },
       {
         "id": 7,
-        "en": "I have three years of experience in software development when it is necessary.",
-        "ar": "لدي ثلاث سنوات من الخبرة في تطوير البرمجيات عندما يكون ذلك ضروريًا.",
-        "context": "تربط الجملة بشرط أو حاجة معينة."
+        "en": "I have three years of experience building business software.",
+        "ar": "لدي ثلاث سنوات من الخبرة في بناء برمجيات للأعمال.",
+        "context": "تشرح نوع المنتجات التي عملت عليها."
       },
       {
         "id": 8,
-        "en": "In this situation, I have three years of experience in software development.",
-        "ar": "في هذا الموقف، لدي ثلاث سنوات من الخبرة في تطوير البرمجيات.",
-        "context": "تجعل الجملة جزءًا من موقف واضح."
+        "en": "I have three years of experience in software development and testing.",
+        "ar": "لدي ثلاث سنوات من الخبرة في تطوير البرمجيات واختبارها.",
+        "context": "تضيف الاختبار إلى التطوير."
       },
       {
         "id": 9,
-        "en": "I have three years of experience in software development, and everyone notices that.",
-        "ar": "لدي ثلاث سنوات من الخبرة في تطوير البرمجيات، والجميع يلاحظ ذلك.",
-        "context": "تضيف ملاحظة أو نتيجة بعد الجملة."
+        "en": "I have three years of experience, mostly in software development.",
+        "ar": "لدي ثلاث سنوات من الخبرة، معظمها في تطوير البرمجيات.",
+        "context": "توضح أن جزءًا كبيرًا من الخبرة في هذا المجال."
       },
       {
         "id": 10,
-        "en": "I have three years of experience in software development most of the time.",
-        "ar": "لدي ثلاث سنوات من الخبرة في تطوير البرمجيات معظم الوقت.",
-        "context": "تضيف عبارة تكرار شائعة."
+        "en": "I have three years of experience in software development, including team projects.",
+        "ar": "لدي ثلاث سنوات من الخبرة في تطوير البرمجيات، بما في ذلك مشاريع جماعية.",
+        "context": "تضيف خبرة العمل ضمن فريق."
       }
     ]
   }

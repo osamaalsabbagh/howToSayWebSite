@@ -10,79 +10,87 @@
     "wordMeanings": [
       {
         "term": "Take",
-        "description": "فعل يعني يأخذ أو يستغرق أو يصطحب حسب السياق."
+        "description": "خذ أو اقبل في هذا السياق."
       },
       {
         "term": "an",
-        "description": "أداة نكرة تأتي قبل الاسم المفرد الذي يبدأ بصوت علّة."
+        "description": "أداة تأتي قبل اسم مفرد يبدأ بصوت متحرك."
       },
       {
         "term": "opportunity",
-        "description": "اسم يعني فرصة."
+        "description": "فرصة مفيدة أو مناسبة لفعل شيء جيد."
       }
     ],
-    "tense": null,
-    "tenseReason": "استُعمل هذا الأسلوب لأن الجملة تقدم طلبًا أو تعليمات مباشرة موجهة إلى شخص آخر، لذلك لا نضع لها هنا زمنًا فعليًا مستقلًا.",
+    "grammarExplanations": [
+      {
+        "sentence": "Take an opportunity.",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه صيغة أمر أو تشجيع على قبول فرصة مفيدة، ولا تحمل زمنًا مستقلًا."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "In this situation, people often say, \"Take an opportunity\".",
-        "ar": "في هذا الموقف، يقول الناس كثيرًا: \"خذ فرصة\".",
-        "context": "توضح أن العبارة مناسبة في هذا النوع من المواقف."
+        "en": "Take the opportunity.",
+        "ar": "خذ الفرصة.",
+        "context": "تقال عند تشجيع شخص على قبول فرصة واضحة."
       },
       {
         "id": 2,
-        "en": "The teacher said, \"Take an opportunity\" to the students.",
-        "ar": "قال المعلم للطلاب: \"خذ فرصة\".",
-        "context": "تستخدم الجملة كتعليمات أو توجيه مباشر."
+        "en": "Take this opportunity to learn.",
+        "ar": "خذ هذه الفرصة للتعلم.",
+        "context": "تقال عند وجود موقف مفيد للتعلم."
       },
       {
         "id": 3,
-        "en": "He told me, \"Take an opportunity\" before we left.",
-        "ar": "قال لي: \"خذ فرصة\" قبل أن نغادر.",
-        "context": "تضع العبارة قبل حدث آخر."
+        "en": "She should take the opportunity.",
+        "ar": "ينبغي أن تأخذ الفرصة.",
+        "context": "تقال عند نصح شخص بقبول فرصة."
       },
       {
         "id": 4,
-        "en": "She said, \"Take an opportunity\" in a polite way.",
-        "ar": "قالت: \"خذ فرصة\" بطريقة مهذبة.",
-        "context": "تظهر أن العبارة يمكن أن تقال بلطف أو أدب."
+        "en": "We have an opportunity to improve.",
+        "ar": "لدينا فرصة للتحسن.",
+        "context": "تقال عند وجود مجال للتطور."
       },
       {
         "id": 5,
-        "en": "Someone shouted, \"Take an opportunity\" when there was a problem.",
-        "ar": "صاح شخص ما: \"خذ فرصة\" عندما ظهرت مشكلة.",
-        "context": "تربط العبارة بموقف سريع أو طارئ."
+        "en": "Do not miss this opportunity.",
+        "ar": "لا تفوت هذه الفرصة.",
+        "context": "تقال عند التحذير من ضياع فرصة."
       },
       {
         "id": 6,
-        "en": "You can say, \"Take an opportunity\" when you need a quick response.",
-        "ar": "يمكنك أن تقول: \"خذ فرصة\" عندما تحتاج إلى رد سريع.",
-        "context": "توضح أن العبارة مفيدة عند الحاجة إلى استجابة مباشرة."
+        "en": "He took the opportunity to travel.",
+        "ar": "هو أخذ الفرصة للسفر.",
+        "context": "تقال عند استغلال فرصة للسفر."
       },
       {
         "id": 7,
-        "en": "They repeated, \"Take an opportunity\" more than once.",
-        "ar": "رددوا: \"خذ فرصة\" أكثر من مرة.",
-        "context": "تعطي مثالًا على تكرار العبارة."
+        "en": "Take every opportunity to practice.",
+        "ar": "خذ كل فرصة للتدرب.",
+        "context": "تقال عند تشجيع شخص على تحسين مهارة."
       },
       {
         "id": 8,
-        "en": "I heard him say, \"Take an opportunity\" yesterday.",
-        "ar": "سمعته يقول: \"خذ فرصة\" أمس.",
-        "context": "تجعل العبارة جزءًا من موقف سمعته من شخص آخر."
+        "en": "This is a good opportunity.",
+        "ar": "هذه فرصة جيدة.",
+        "context": "تقال عند تقييم فرصة بشكل إيجابي."
       },
       {
         "id": 9,
-        "en": "Many learners remember the phrase, \"Take an opportunity\".",
-        "ar": "يتذكر كثير من المتعلمين العبارة: \"خذ فرصة\".",
-        "context": "تقدم العبارة بوصفها عبارة سهلة التذكر."
+        "en": "They want to take the opportunity.",
+        "ar": "هم يريدون أخذ الفرصة.",
+        "context": "تقال عند رغبة مجموعة في قبول فرصة."
       },
       {
         "id": 10,
-        "en": "At that moment, she said, \"Take an opportunity\".",
-        "ar": "في تلك اللحظة، قالت: \"خذ فرصة\".",
-        "context": "تربط العبارة بلحظة معينة في السرد."
+        "en": "Take the opportunity before it ends.",
+        "ar": "خذ الفرصة قبل أن تنتهي.",
+        "context": "تقال عند وجود فرصة محدودة الوقت."
       }
     ]
   }

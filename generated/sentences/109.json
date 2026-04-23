@@ -10,79 +10,87 @@
     "wordMeanings": [
       {
         "term": "Take",
-        "description": "فعل يعني يأخذ أو يستغرق أو يصطحب حسب السياق."
+        "description": "خذ أو انقل شيئًا من مكان إلى آخر."
       },
       {
         "term": "it",
-        "description": "ضمير يعود على الشيء أو الجملة التي قيلت."
+        "description": "ضمير يشير إلى الشيء المطلوب إخراجه."
       },
       {
         "term": "outside",
-        "description": "ظرف أو حرف جر يعني في الخارج."
+        "description": "إلى الخارج أو خارج المكان الحالي."
       }
     ],
-    "tense": null,
-    "tenseReason": "استُعمل هذا الأسلوب لأن الجملة تقدم طلبًا أو تعليمات مباشرة موجهة إلى شخص آخر، لذلك لا نضع لها هنا زمنًا فعليًا مستقلًا.",
+    "grammarExplanations": [
+      {
+        "sentence": "Take it outside.",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه صيغة أمر تطلب نقل شيء إلى الخارج، والفاعل مفهوم من السياق، لذلك لا تحمل زمنًا مستقلًا."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "In this situation, people often say, \"Take it outside\".",
-        "ar": "في هذا الموقف، يقول الناس كثيرًا: \"خذه إلى الخارج\".",
-        "context": "توضح أن العبارة مناسبة في هذا النوع من المواقف."
+        "en": "Take the box outside.",
+        "ar": "خذ الصندوق إلى الخارج.",
+        "context": "تقال عند طلب إخراج صندوق من المكان."
       },
       {
         "id": 2,
-        "en": "The teacher said, \"Take it outside\" to the students.",
-        "ar": "قال المعلم للطلاب: \"خذه إلى الخارج\".",
-        "context": "تستخدم الجملة كتعليمات أو توجيه مباشر."
+        "en": "Please take it outside.",
+        "ar": "من فضلك خذه إلى الخارج.",
+        "context": "تقال عند طلب إخراج شيء بأدب."
       },
       {
         "id": 3,
-        "en": "He told me, \"Take it outside\" before we left.",
-        "ar": "قال لي: \"خذه إلى الخارج\" قبل أن نغادر.",
-        "context": "تضع العبارة قبل حدث آخر."
+        "en": "Take the dog outside.",
+        "ar": "خذ الكلب إلى الخارج.",
+        "context": "تقال عند إخراج حيوان من البيت."
       },
       {
         "id": 4,
-        "en": "She said, \"Take it outside\" in a polite way.",
-        "ar": "قالت: \"خذه إلى الخارج\" بطريقة مهذبة.",
-        "context": "تظهر أن العبارة يمكن أن تقال بلطف أو أدب."
+        "en": "Take this outside before it spills.",
+        "ar": "خذ هذا إلى الخارج قبل أن ينسكب.",
+        "context": "تقال عند نقل شيء قد يسبب فوضى."
       },
       {
         "id": 5,
-        "en": "Someone shouted, \"Take it outside\" when there was a problem.",
-        "ar": "صاح شخص ما: \"خذه إلى الخارج\" عندما ظهرت مشكلة.",
-        "context": "تربط العبارة بموقف سريع أو طارئ."
+        "en": "Take the trash outside.",
+        "ar": "خذ القمامة إلى الخارج.",
+        "context": "تقال عند طلب إخراج القمامة."
       },
       {
         "id": 6,
-        "en": "You can say, \"Take it outside\" when you need a quick response.",
-        "ar": "يمكنك أن تقول: \"خذه إلى الخارج\" عندما تحتاج إلى رد سريع.",
-        "context": "توضح أن العبارة مفيدة عند الحاجة إلى استجابة مباشرة."
+        "en": "He took the chair outside.",
+        "ar": "هو أخذ الكرسي إلى الخارج.",
+        "context": "تقال عند نقل كرسي إلى خارج المكان."
       },
       {
         "id": 7,
-        "en": "They repeated, \"Take it outside\" more than once.",
-        "ar": "رددوا: \"خذه إلى الخارج\" أكثر من مرة.",
-        "context": "تعطي مثالًا على تكرار العبارة."
+        "en": "Take your shoes outside.",
+        "ar": "خذ حذاءك إلى الخارج.",
+        "context": "تقال عند طلب إخراج حذاء من الداخل."
       },
       {
         "id": 8,
-        "en": "I heard him say, \"Take it outside\" yesterday.",
-        "ar": "سمعته يقول: \"خذه إلى الخارج\" أمس.",
-        "context": "تجعل العبارة جزءًا من موقف سمعته من شخص آخر."
+        "en": "Take the table outside for dinner.",
+        "ar": "خذ الطاولة إلى الخارج للعشاء.",
+        "context": "تقال عند تجهيز مكان خارجي للأكل."
       },
       {
         "id": 9,
-        "en": "Many learners remember the phrase, \"Take it outside\".",
-        "ar": "يتذكر كثير من المتعلمين العبارة: \"خذه إلى الخارج\".",
-        "context": "تقدم العبارة بوصفها عبارة سهلة التذكر."
+        "en": "Take the wet clothes outside.",
+        "ar": "خذ الملابس المبللة إلى الخارج.",
+        "context": "تقال عند طلب نشر أو إخراج ملابس مبللة."
       },
       {
         "id": 10,
-        "en": "At that moment, she said, \"Take it outside\".",
-        "ar": "في تلك اللحظة، قالت: \"خذه إلى الخارج\".",
-        "context": "تربط العبارة بلحظة معينة في السرد."
+        "en": "They took the plants outside.",
+        "ar": "هم أخذوا النباتات إلى الخارج.",
+        "context": "تقال عند نقل نباتات إلى مكان خارجي."
       }
     ]
   }

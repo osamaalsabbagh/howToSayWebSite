@@ -10,92 +10,107 @@
     "wordMeanings": [
       {
         "term": "The",
-        "description": "أداة تعريف تشير إلى شيء معروف أو محدد."
+        "description": "أداة تشير إلى طائرة أو رحلة محددة معروفة."
       },
       {
         "term": "plane",
-        "description": "اسم يعني الطائرة."
+        "description": "طائرة."
       },
       {
         "term": "departs",
-        "description": "فعل يعني الساعة."
+        "description": "تغادر أو تقلع في وقت محدد."
       },
       {
         "term": "at",
-        "description": "حرف جر يعني عند أو في وقت/مكان محدد."
+        "description": "تستخدم مع الوقت لتحديد ساعة معينة."
       },
       {
-        "term": "5:30",
-        "description": "رقم يدل على ٥٣٠."
+        "term": "5",
+        "description": "العدد خمسة، ويمثل الساعة هنا."
       },
       {
-        "term": "p.m.",
-        "description": "اسم يعني مساء."
+        "term": "30",
+        "description": "العدد ثلاثون، ويمثل الدقائق هنا."
+      },
+      {
+        "term": "p",
+        "description": "جزء من اختصار يدل على وقت بعد الظهر أو المساء."
+      },
+      {
+        "term": "m",
+        "description": "جزء من اختصار يدل مع الحرف السابق على المساء."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "The plane departs at 5:30 p.m.",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "يستخدم المضارع البسيط للتعبير عن موعد رسمي أو جدول ثابت لإقلاع الطائرة."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "People often say, \"The plane departs at 5:30 p.m\" in situations like this.",
-        "ar": "يقول الناس كثيرًا: \"تقلع الطائرة في الساعة ٥:٣٠ مساءً\" في مواقف كهذه.",
-        "context": "تستخدم الجملة بوصفها تركيبًا شائعًا في موقف مشابه."
+        "en": "The plane departs at 5:30 p.m.",
+        "ar": "تقلع الطائرة في الساعة ٥:٣٠ مساءً.",
+        "context": "تقال عند ذكر موعد إقلاع الطائرة."
       },
       {
         "id": 2,
-        "en": "You can say, \"The plane departs at 5:30 p.m\" when this happens.",
-        "ar": "يمكنك أن تقول: \"تقلع الطائرة في الساعة ٥:٣٠ مساءً\" عندما يحدث هذا.",
-        "context": "توضح أن الجملة مناسبة في موقف متكرر."
+        "en": "The train departs at 8:00 a.m.",
+        "ar": "يغادر القطار في الساعة ٨:٠٠ صباحًا.",
+        "context": "تقال عند ذكر موعد مغادرة القطار."
       },
       {
         "id": 3,
-        "en": "I heard someone say, \"The plane departs at 5:30 p.m\".",
-        "ar": "سمعت شخصًا يقول: \"تقلع الطائرة في الساعة ٥:٣٠ مساءً\".",
-        "context": "تجعل الجملة جزءًا من كلام سمعته من شخص آخر."
+        "en": "The bus departs at 6:15 p.m.",
+        "ar": "تغادر الحافلة في الساعة ٦:١٥ مساءً.",
+        "context": "تقال عند ذكر موعد الحافلة."
       },
       {
         "id": 4,
-        "en": "The teacher used the sentence, \"The plane departs at 5:30 p.m\" in class.",
-        "ar": "استخدم المعلم الجملة: \"تقلع الطائرة في الساعة ٥:٣٠ مساءً\" في الصف.",
-        "context": "تستخدم الجملة مثالًا تعليميًا في الصف."
+        "en": "The flight departs at noon.",
+        "ar": "تغادر الرحلة في الظهر.",
+        "context": "تقال عند ذكر موعد رحلة جوية."
       },
       {
         "id": 5,
-        "en": "Many learners remember the sentence, \"The plane departs at 5:30 p.m\" first.",
-        "ar": "يتذكر كثير من المتعلمين الجملة: \"تقلع الطائرة في الساعة ٥:٣٠ مساءً\" أولًا.",
-        "context": "تقدم الجملة بوصفها جملة تعليمية أساسية."
+        "en": "The plane leaves at 5:30 p.m.",
+        "ar": "تغادر الطائرة في الساعة ٥:٣٠ مساءً.",
+        "context": "تقال بصيغة أبسط عن موعد الطائرة."
       },
       {
         "id": 6,
-        "en": "She said, \"The plane departs at 5:30 p.m\" in a calm way.",
-        "ar": "قالت: \"تقلع الطائرة في الساعة ٥:٣٠ مساءً\" بطريقة هادئة.",
-        "context": "تجعل الجملة جزءًا من كلام مباشر في موقف عادي."
+        "en": "The ferry departs at 7:45 a.m.",
+        "ar": "تغادر العبارة في الساعة ٧:٤٥ صباحًا.",
+        "context": "تقال عند ذكر موعد وسيلة نقل بحرية."
       },
       {
         "id": 7,
-        "en": "He repeated, \"The plane departs at 5:30 p.m\" more than once.",
-        "ar": "ردد: \"تقلع الطائرة في الساعة ٥:٣٠ مساءً\" أكثر من مرة.",
-        "context": "تضيف معنى التكرار لنفس الجملة."
+        "en": "The next plane departs at nine.",
+        "ar": "تقلع الطائرة التالية في التاسعة.",
+        "context": "تقال عند السؤال عن الرحلة التالية."
       },
       {
         "id": 8,
-        "en": "At the right moment, someone might say, \"The plane departs at 5:30 p.m\".",
-        "ar": "في اللحظة المناسبة، قد يقول شخص ما: \"تقلع الطائرة في الساعة ٥:٣٠ مساءً\".",
-        "context": "توضح أن الجملة مرتبطة بتوقيت مناسب في السياق."
+        "en": "The plane departs from gate five.",
+        "ar": "تقلع الطائرة من البوابة الخامسة.",
+        "context": "تقال عند تحديد بوابة المغادرة."
       },
       {
         "id": 9,
-        "en": "I wrote down the sentence, \"The plane departs at 5:30 p.m\" so I would remember it.",
-        "ar": "كتبت الجملة: \"تقلع الطائرة في الساعة ٥:٣٠ مساءً\" حتى أتذكرها.",
-        "context": "تعطي مثالًا على حفظ الجملة أو مراجعتها."
+        "en": "The plane departs in one hour.",
+        "ar": "تقلع الطائرة بعد ساعة واحدة.",
+        "context": "تقال عند ذكر الوقت المتبقي قبل الإقلاع."
       },
       {
         "id": 10,
-        "en": "It is useful to know when to say, \"The plane departs at 5:30 p.m\".",
-        "ar": "من المفيد أن تعرف متى تقول: \"تقلع الطائرة في الساعة ٥:٣٠ مساءً\".",
-        "context": "تركز على معرفة الوقت المناسب لاستخدام الجملة."
+        "en": "The plane departs on time.",
+        "ar": "تقلع الطائرة في الوقت المحدد.",
+        "context": "تقال عند تأكيد عدم وجود تأخير."
       }
     ]
   }

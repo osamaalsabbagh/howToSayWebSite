@@ -1,81 +1,89 @@
 {
-  "schemaVersion": 1,
-  "id": 156,
-  "sentence": {
-    "en": "Hello.",
-    "ar": "مرحبًا.",
-    "context": "تحية قد تستعمل بشكل رسمي أو غير رسمي."
-  },
-  "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Hello",
-        "description": "تحية عامة وحيادية، وتصلح في المواقف الرسمية وغير الرسمية."
-      }
-    ],
-    "tense": null,
-    "tenseReason": "استُعملت هذه الصيغة لأن الغرض هو افتتاح الكلام بأدب، لا وصف فعل أو حدث في زمن معيّن.",
-    "examples": [
-      {
-        "id": 1,
-        "en": "Hello, Ms. Sara.",
-        "ar": "مرحبًا أستاذة سارة.",
-        "context": "تبدأ الحديث بأدب مع معلمة أو موظفة."
-      },
-      {
-        "id": 2,
-        "en": "Hello, how can I help you?",
-        "ar": "مرحبًا، كيف يمكنني مساعدتك؟",
-        "context": "استقبال عميل أو زائر بشكل مهذب."
-      },
-      {
-        "id": 3,
-        "en": "Hello, this is Ahmed.",
-        "ar": "مرحبًا، هذا أحمد.",
-        "context": "تبدأ مكالمة أو تعريفًا بنفسك."
-      },
-      {
-        "id": 4,
-        "en": "Hello, are you free now?",
-        "ar": "مرحبًا، هل أنت متفرغ الآن؟",
-        "context": "تبدأ سؤالًا بعد التحية."
-      },
-      {
-        "id": 5,
-        "en": "Hello, welcome to our office.",
-        "ar": "مرحبًا، أهلاً بك في مكتبنا.",
-        "context": "استقبال شخص في مكان عمل."
-      },
-      {
-        "id": 6,
-        "en": "Hello, I got your message.",
-        "ar": "مرحبًا، لقد وصلتني رسالتك.",
-        "context": "تبدأ الحديث بعد تواصل سابق."
-      },
-      {
-        "id": 7,
-        "en": "Hello, it is good to see you.",
-        "ar": "مرحبًا، من الجيد رؤيتك.",
-        "context": "تحية مع إظهار الارتياح."
-      },
-      {
-        "id": 8,
-        "en": "Hello, can we talk for a minute?",
-        "ar": "مرحبًا، هل يمكننا التحدث لدقيقة؟",
-        "context": "تبدأ طلب نقاش قصير بأدب."
-      },
-      {
-        "id": 9,
-        "en": "Hello, I am calling about the meeting.",
-        "ar": "مرحبًا، أنا أتصل بخصوص الاجتماع.",
-        "context": "بداية مكالمة أكثر رسمية."
-      },
-      {
-        "id": 10,
-        "en": "Hello, everyone. Please sit down.",
-        "ar": "مرحبًا جميعًا. من فضلكم اجلسوا.",
-        "context": "تبدأ حديثًا مع مجموعة."
-      }
-    ]
-  }
+	"schemaVersion": 1,
+	"id": 156,
+	"sentence": {
+		"en": "Hello.",
+		"ar": "مرحبًا.",
+		"context": "تحية قد تستعمل بشكل رسمي أو غير رسمي."
+	},
+	"lesson": {
+		"wordMeanings": [
+			{
+				"term": "Hello",
+				"description": "تحية تُستخدم لبدء الحديث ويمكن استعمالها في المواقف الرسمية وغير الرسمية"
+			}
+		],
+		"grammarExplanations": [
+			{
+				"sentence": "Hello.",
+				"explanation": {
+					"tense": null,
+					"tenseEn": null,
+					"reason": "هذه كلمة تحية وليست جملة فعلية، تُستخدم لبدء الحديث أو للفت الانتباه ولا ترتبط بزمن معين"
+				}
+			}
+		],
+		"examples": [
+			{
+				"id": 1,
+				"en": "Hello, how are you?",
+				"ar": "مرحبًا، كيف حالك؟",
+				"context": "بدء محادثة بطريقة عامة"
+			},
+			{
+				"id": 2,
+				"en": "Hello, nice to meet you.",
+				"ar": "مرحبًا، سعيد بلقائك.",
+				"context": "التعرف على شخص لأول مرة"
+			},
+			{
+				"id": 3,
+				"en": "Hello, can you help me?",
+				"ar": "مرحبًا، هل يمكنك مساعدتي؟",
+				"context": "طلب مساعدة بطريقة مهذبة"
+			},
+			{
+				"id": 4,
+				"en": "Hello, is anyone there?",
+				"ar": "مرحبًا، هل يوجد أحد هناك؟",
+				"context": "التحقق من وجود شخص"
+			},
+			{
+				"id": 5,
+				"en": "Hello, I have a question.",
+				"ar": "مرحبًا، لدي سؤال.",
+				"context": "بدء الحديث لطرح سؤال"
+			},
+			{
+				"id": 6,
+				"en": "Hello, welcome to our office.",
+				"ar": "مرحبًا، أهلاً بك في مكتبنا.",
+				"context": "استقبال شخص في مكان عمل"
+			},
+			{
+				"id": 7,
+				"en": "Hello, can I speak to you?",
+				"ar": "مرحبًا، هل يمكنني التحدث معك؟",
+				"context": "طلب التحدث مع شخص"
+			},
+			{
+				"id": 8,
+				"en": "Hello, I am calling about the job.",
+				"ar": "مرحبًا، أنا أتصل بخصوص الوظيفة.",
+				"context": "بدء مكالمة هاتفية لغرض معين"
+			},
+			{
+				"id": 9,
+				"en": "Hello, are you available now?",
+				"ar": "مرحبًا، هل أنت متاح الآن؟",
+				"context": "السؤال عن التوفر لبدء حديث"
+			},
+			{
+				"id": 10,
+				"en": "Hello, it is good to see you.",
+				"ar": "مرحبًا، من الجيد رؤيتك.",
+				"context": "التعبير عن السعادة بلقاء شخص"
+			}
+		]
+	}
 }

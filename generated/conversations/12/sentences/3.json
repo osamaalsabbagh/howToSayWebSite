@@ -10,100 +10,107 @@
     "wordMeanings": [
       {
         "term": "Is",
-        "description": "فعل be في الحاضر مع المفرد."
+        "description": "تبدأ سؤالًا عن وجود شيء."
       },
       {
         "term": "there",
-        "description": "ظرف مكان يعني هناك."
+        "description": "تُستخدم مع Is للسؤال عن وجود تحديث."
       },
       {
         "term": "any",
-        "description": "كلمة تعني أي أو بعض حسب السياق."
+        "description": "أي تحديث، حتى لو كان بسيطًا."
       },
       {
         "term": "update",
-        "description": "اسم يعني تحديث."
+        "description": "معلومة جديدة أو آخر خبر."
       },
       {
         "term": "about",
-        "description": "حرف جر أو ظرف يعني عن أو تقريبًا حسب السياق."
+        "description": "بخصوص أو حول."
       },
       {
         "term": "the",
-        "description": "أداة تعريف تشير إلى شيء معروف أو محدد."
+        "description": "أداة تعريف لتاريخ شحن محدد."
       },
       {
         "term": "shipping",
-        "description": "اسم يعني تاريخ."
+        "description": "الشحن أو إرسال الطلب."
       },
       {
         "term": "date",
-        "description": "اسم يعني الشحن."
+        "description": "تاريخ أو موعد."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "Is there any update about the shipping date?",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "السؤال يستفسر عن وجود معلومة حالية جديدة بخصوص تاريخ الشحن."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "You can ask, \"Is there any update about the shipping date?\" when you need information.",
-        "ar": "يمكنك أن تسأل: \"هل هناك أي تحديث عن تاريخ الشحن؟\" عندما تحتاج إلى معلومة.",
-        "context": "تستعمل الجملة كسؤال مباشر للحصول على معلومة."
+        "en": "Is there any update about my order?",
+        "ar": "هل هناك أي تحديث عن طلبي؟",
+        "context": "يُستخدم لمتابعة حالة طلب."
       },
       {
         "id": 2,
-        "en": "Many people ask, \"Is there any update about the shipping date?\" in this situation.",
-        "ar": "يسأل كثير من الناس: \"هل هناك أي تحديث عن تاريخ الشحن؟\" في هذا الموقف.",
-        "context": "توضح أن هذا سؤال شائع في موقف مشابه."
+        "en": "Is there any update about the delivery time?",
+        "ar": "هل هناك أي تحديث عن وقت التسليم؟",
+        "context": "يُستخدم عند انتظار موعد تسليم."
       },
       {
         "id": 3,
-        "en": "I asked, \"Is there any update about the shipping date?\" because I was not sure.",
-        "ar": "سألت: \"هل هناك أي تحديث عن تاريخ الشحن؟\" لأنني لم أكن متأكدًا.",
-        "context": "تضيف سببًا لطرح السؤال."
+        "en": "Is there any update about the meeting?",
+        "ar": "هل هناك أي تحديث عن الاجتماع؟",
+        "context": "يُستخدم للاستفسار عن موعد أو تفاصيل اجتماع."
       },
       {
         "id": 4,
-        "en": "She asked politely, \"Is there any update about the shipping date?\"",
-        "ar": "سألت بأدب: \"هل هناك أي تحديث عن تاريخ الشحن؟\".",
-        "context": "تبين أن السؤال قيل بطريقة مهذبة."
+        "en": "Is there any update about the package?",
+        "ar": "هل هناك أي تحديث عن الطرد؟",
+        "context": "يُستخدم عند متابعة شحنة."
       },
       {
         "id": 5,
-        "en": "At work, someone may ask, \"Is there any update about the shipping date?\"",
-        "ar": "في العمل، قد يسأل شخص ما: \"هل هناك أي تحديث عن تاريخ الشحن؟\".",
-        "context": "تضع السؤال في سياق مهني أو عملي."
+        "en": "Is there any update about the payment?",
+        "ar": "هل هناك أي تحديث عن الدفع؟",
+        "context": "يُستخدم عند انتظار تأكيد دفع."
       },
       {
         "id": 6,
-        "en": "Before deciding, ask: \"Is there any update about the shipping date?\"",
-        "ar": "قبل أن تقرر، اسأل: \"هل هناك أي تحديث عن تاريخ الشحن؟\".",
-        "context": "تستخدم السؤال قبل اتخاذ قرار."
+        "en": "Is there any update about the repair date?",
+        "ar": "هل هناك أي تحديث عن تاريخ الإصلاح؟",
+        "context": "يُستخدم عند متابعة خدمة صيانة."
       },
       {
         "id": 7,
-        "en": "The student asked, \"Is there any update about the shipping date?\" in class.",
-        "ar": "سأل الطالب: \"هل هناك أي تحديث عن تاريخ الشحن؟\" في الصف.",
-        "context": "تجعل الجملة جزءًا من موقف تعليمي."
+        "en": "Is there any update about the class schedule?",
+        "ar": "هل هناك أي تحديث عن جدول الصف؟",
+        "context": "يُستخدم لمعرفة تغييرات في الجدول."
       },
       {
         "id": 8,
-        "en": "While traveling, you can ask, \"Is there any update about the shipping date?\"",
-        "ar": "أثناء السفر، يمكنك أن تسأل: \"هل هناك أي تحديث عن تاريخ الشحن؟\".",
-        "context": "تربط السؤال بموقف السفر أو التنقل."
+        "en": "Is there any update about the address?",
+        "ar": "هل هناك أي تحديث عن العنوان؟",
+        "context": "يُستخدم عند انتظار تأكيد عنوان."
       },
       {
         "id": 9,
-        "en": "He asked me, \"Is there any update about the shipping date?\" again.",
-        "ar": "سألني: \"هل هناك أي تحديث عن تاريخ الشحن؟\" مرة أخرى.",
-        "context": "تضيف معنى التكرار لنفس السؤال."
+        "en": "Is there any update about the result?",
+        "ar": "هل هناك أي تحديث عن النتيجة؟",
+        "context": "يُستخدم عند انتظار نتيجة."
       },
       {
         "id": 10,
-        "en": "If you are not sure, ask: \"Is there any update about the shipping date?\"",
-        "ar": "إذا لم تكن متأكدًا، فاسأل: \"هل هناك أي تحديث عن تاريخ الشحن؟\".",
-        "context": "توضح أن السؤال مناسب عند عدم التأكد."
+        "en": "Is there any update about the shipping cost?",
+        "ar": "هل هناك أي تحديث عن تكلفة الشحن؟",
+        "context": "يُستخدم للاستفسار عن تكلفة تغيرت أو لم تتأكد بعد."
       }
     ]
   }

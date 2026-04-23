@@ -10,75 +10,83 @@
     "wordMeanings": [
       {
         "term": "Thank",
-        "description": "فعل أو تعبير شكر يعني أشكر أو أقدّر."
+        "description": "تعبير شكر أو تقدير لشخص."
       },
       {
         "term": "you",
-        "description": "الضمير الذي يعود على الشخص المخاطَب."
+        "description": "الشخص الذي يوجه إليه الشكر."
       }
     ],
-    "tense": null,
-    "tenseReason": "استُعمل هذا التعبير لأنه عبارة ثابتة أو رد قصير يُستخدم في موقف محدد، وليس جملة فعلية كاملة بزمن واضح.",
+    "grammarExplanations": [
+      {
+        "sentence": "Thank you.",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذا تعبير ثابت للشكر، ويُستخدم كرد قصير لا يحتاج إلى زمن مستقل."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "In this situation, people often say, \"Thank you\".",
-        "ar": "في هذا الموقف، يقول الناس كثيرًا: \"شكرًا لك\".",
-        "context": "توضح أن العبارة مناسبة في هذا النوع من المواقف."
+        "en": "Thank you for your help.",
+        "ar": "شكرًا لك على مساعدتك.",
+        "context": "يُستخدم بعد أن يساعدك شخص."
       },
       {
         "id": 2,
-        "en": "The teacher said, \"Thank you\" to the students.",
-        "ar": "قال المعلم للطلاب: \"شكرًا لك\".",
-        "context": "تستخدم الجملة كتعليمات أو توجيه مباشر."
+        "en": "Thank you for your time.",
+        "ar": "شكرًا لك على وقتك.",
+        "context": "يُستخدم بعد مقابلة أو حديث رسمي."
       },
       {
         "id": 3,
-        "en": "He told me, \"Thank you\" before we left.",
-        "ar": "قال لي: \"شكرًا لك\" قبل أن نغادر.",
-        "context": "تضع العبارة قبل حدث آخر."
+        "en": "Thank you for the information.",
+        "ar": "شكرًا لك على المعلومات.",
+        "context": "يُستخدم عندما يعطيك شخص تفاصيل مفيدة."
       },
       {
         "id": 4,
-        "en": "She said, \"Thank you\" in a polite way.",
-        "ar": "قالت: \"شكرًا لك\" بطريقة مهذبة.",
-        "context": "تظهر أن العبارة يمكن أن تقال بلطف أو أدب."
+        "en": "Thank you for coming.",
+        "ar": "شكرًا لك على القدوم.",
+        "context": "يُستخدم عند الترحيب بشخص حضر."
       },
       {
         "id": 5,
-        "en": "Someone shouted, \"Thank you\" when there was a problem.",
-        "ar": "صاح شخص ما: \"شكرًا لك\" عندما ظهرت مشكلة.",
-        "context": "تربط العبارة بموقف سريع أو طارئ."
+        "en": "Thank you for calling.",
+        "ar": "شكرًا لك على الاتصال.",
+        "context": "يُستخدم في نهاية مكالمة أو أثناءها."
       },
       {
         "id": 6,
-        "en": "You can say, \"Thank you\" when you need a quick response.",
-        "ar": "يمكنك أن تقول: \"شكرًا لك\" عندما تحتاج إلى رد سريع.",
-        "context": "توضح أن العبارة مفيدة عند الحاجة إلى استجابة مباشرة."
+        "en": "Thank you for waiting.",
+        "ar": "شكرًا لك على الانتظار.",
+        "context": "يُستخدم بعد أن ينتظر شخص فترة من الوقت."
       },
       {
         "id": 7,
-        "en": "They repeated, \"Thank you\" more than once.",
-        "ar": "رددوا: \"شكرًا لك\" أكثر من مرة.",
-        "context": "تعطي مثالًا على تكرار العبارة."
+        "en": "Thank you for your answer.",
+        "ar": "شكرًا لك على إجابتك.",
+        "context": "يُستخدم بعد أن يجيب شخص عن سؤال."
       },
       {
         "id": 8,
-        "en": "I heard him say, \"Thank you\" yesterday.",
-        "ar": "سمعته يقول: \"شكرًا لك\" أمس.",
-        "context": "تجعل العبارة جزءًا من موقف سمعته من شخص آخر."
+        "en": "Thank you for the offer.",
+        "ar": "شكرًا لك على العرض.",
+        "context": "يُستخدم عند تقدير عرض أو اقتراح."
       },
       {
         "id": 9,
-        "en": "Many learners remember the phrase, \"Thank you\".",
-        "ar": "يتذكر كثير من المتعلمين العبارة: \"شكرًا لك\".",
-        "context": "تقدم العبارة بوصفها عبارة سهلة التذكر."
+        "en": "Thank you for being honest.",
+        "ar": "شكرًا لك على صراحتك.",
+        "context": "يُستخدم عندما يقدّر المتكلم صدق شخص."
       },
       {
         "id": 10,
-        "en": "At that moment, she said, \"Thank you\".",
-        "ar": "في تلك اللحظة، قالت: \"شكرًا لك\".",
-        "context": "تربط العبارة بلحظة معينة في السرد."
+        "en": "Thank you for the quick reply.",
+        "ar": "شكرًا لك على الرد السريع.",
+        "context": "يُستخدم عند تلقي رد بسرعة."
       }
     ]
   }

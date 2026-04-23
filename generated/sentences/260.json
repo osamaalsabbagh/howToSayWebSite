@@ -10,84 +10,91 @@
     "wordMeanings": [
       {
         "term": "Which",
-        "description": "أداة سؤال أو تحديد للاختيار بين عدة أشياء."
+        "description": "أي، وتستخدم للاختيار بين خيارات."
       },
       {
         "term": "one",
-        "description": "كلمة تدل على العدد واحد أو على شيء واحد."
+        "description": "واحد أو خيار محدد."
       },
       {
         "term": "is",
-        "description": "فعل be في الحاضر مع المفرد."
+        "description": "صيغة تربط الخيار بالوصف في الحاضر."
       },
       {
         "term": "better",
-        "description": "صفة تعني أفضل."
+        "description": "أفضل، أي أكثر جودة أو مناسبة."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "Which one is better?",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "يستخدم فعل الربط في الحاضر للسؤال عن المقارنة الحالية بين خيارين أو أكثر."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "You can ask, \"Which one is better?\" when you need information.",
-        "ar": "يمكنك أن تسأل: \"أيّهما أفضل؟\" عندما تحتاج إلى معلومة.",
-        "context": "تستعمل الجملة كسؤال مباشر للحصول على معلومة."
+        "en": "Which one is better?",
+        "ar": "أيّهما أفضل؟",
+        "context": "تقال عند طلب مقارنة بين خيارين."
       },
       {
         "id": 2,
-        "en": "Many people ask, \"Which one is better?\" in this situation.",
-        "ar": "يسأل كثير من الناس: \"أيّهما أفضل؟\" في هذا الموقف.",
-        "context": "توضح أن هذا سؤال شائع في موقف مشابه."
+        "en": "Which one is cheaper?",
+        "ar": "أيّهما أرخص؟",
+        "context": "تقال عند مقارنة السعر."
       },
       {
         "id": 3,
-        "en": "I asked, \"Which one is better?\" because I was not sure.",
-        "ar": "سألت: \"أيّهما أفضل؟\" لأنني لم أكن متأكدًا.",
-        "context": "تضيف سببًا لطرح السؤال."
+        "en": "Which one is faster?",
+        "ar": "أيّهما أسرع؟",
+        "context": "تقال عند مقارنة السرعة."
       },
       {
         "id": 4,
-        "en": "She asked politely, \"Which one is better?\"",
-        "ar": "سألت بأدب: \"أيّهما أفضل؟\".",
-        "context": "تبين أن السؤال قيل بطريقة مهذبة."
+        "en": "Which one is closer?",
+        "ar": "أيّهما أقرب؟",
+        "context": "تقال عند مقارنة المسافة."
       },
       {
         "id": 5,
-        "en": "At work, someone may ask, \"Which one is better?\"",
-        "ar": "في العمل، قد يسأل شخص ما: \"أيّهما أفضل؟\".",
-        "context": "تضع السؤال في سياق مهني أو عملي."
+        "en": "Which one is bigger?",
+        "ar": "أيّهما أكبر؟",
+        "context": "تقال عند مقارنة الحجم."
       },
       {
         "id": 6,
-        "en": "Before deciding, ask: \"Which one is better?\"",
-        "ar": "قبل أن تقرر، اسأل: \"أيّهما أفضل؟\".",
-        "context": "تستخدم السؤال قبل اتخاذ قرار."
+        "en": "Which one is smaller?",
+        "ar": "أيّهما أصغر؟",
+        "context": "تقال عند مقارنة الحجم الأصغر."
       },
       {
         "id": 7,
-        "en": "The student asked, \"Which one is better?\" in class.",
-        "ar": "سأل الطالب: \"أيّهما أفضل؟\" في الصف.",
-        "context": "تجعل الجملة جزءًا من موقف تعليمي."
+        "en": "Which one do you like better?",
+        "ar": "أيّهما يعجبك أكثر؟",
+        "context": "تقال عند سؤال شخص عن تفضيله."
       },
       {
         "id": 8,
-        "en": "While traveling, you can ask, \"Which one is better?\"",
-        "ar": "أثناء السفر، يمكنك أن تسأل: \"أيّهما أفضل؟\".",
-        "context": "تربط السؤال بموقف السفر أو التنقل."
+        "en": "This one is better.",
+        "ar": "هذا أفضل.",
+        "context": "تقال عند اختيار خيار أفضل."
       },
       {
         "id": 9,
-        "en": "He asked me, \"Which one is better?\" again.",
-        "ar": "سألني: \"أيّهما أفضل؟\" مرة أخرى.",
-        "context": "تضيف معنى التكرار لنفس السؤال."
+        "en": "That one is better for me.",
+        "ar": "ذلك أفضل لي.",
+        "context": "تقال عند اختيار الخيار الأنسب لك."
       },
       {
         "id": 10,
-        "en": "If you are not sure, ask: \"Which one is better?\"",
-        "ar": "إذا لم تكن متأكدًا، فاسأل: \"أيّهما أفضل؟\".",
-        "context": "توضح أن السؤال مناسب عند عدم التأكد."
+        "en": "Which one is better for dinner?",
+        "ar": "أيّهما أفضل للعشاء؟",
+        "context": "تقال عند مقارنة خيارات طعام أو مطاعم."
       }
     ]
   }

@@ -10,116 +10,131 @@
     "wordMeanings": [
       {
         "term": "I",
-        "description": "ضمير المتكلم."
+        "description": "ضمير المتكلم المفرد."
       },
       {
         "term": "will",
-        "description": "أداة مستقبل تدل على ما سيحدث لاحقًا."
+        "description": "يدل على المستقبل."
       },
       {
         "term": "be",
-        "description": "فعل أمر من be."
+        "description": "تأتي مع back لتكوين معنى سأعود."
       },
       {
         "term": "back",
-        "description": "اسم أو ظرف أو صفة يعني ظهر/خلف/عودة حسب السياق."
+        "description": "تعني عائدًا أو موجودًا مرة أخرى."
       },
       {
         "term": "from",
-        "description": "جزء من العبارة الزمنية from time to time."
+        "description": "حرف يوضح مصدر العودة."
       },
       {
         "term": "my",
-        "description": "صفة ملكية تعني خاصتي."
+        "description": "صفة ملكية تعني الخاصة بي."
       },
       {
         "term": "trip",
-        "description": "اسم يعني رحلة."
+        "description": "رحلة."
       },
       {
         "term": "the",
-        "description": "أداة تعريف تشير إلى شيء معروف أو محدد."
+        "description": "أداة تعريف في عبارة زمنية محددة."
       },
       {
         "term": "day",
-        "description": "اسم يعني يوم."
+        "description": "يوم."
       },
       {
         "term": "before",
-        "description": "ظرف أو حرف جر يعني قبل."
+        "description": "تعني السابق مباشرة."
       },
       {
         "term": "she",
-        "description": "ضمير يشير إلى امرأة أو بنت."
+        "description": "ضمير يعود على العمة."
       },
       {
         "term": "arrives",
-        "description": "فعل يعني وصولها."
+        "description": "تعني تصل."
       }
     ],
-    "tense": "المستقبل البسيط",
-    "tenseEn": "Future Simple",
-    "tenseReason": "استُعمل المستقبل البسيط لأن الجملة تتحدث عن شيء سيحدث لاحقًا أو عن قرار أو توقع يخص المستقبل.",
+    "grammarExplanations": [
+      {
+        "sentence": "I will be back from my trip the day before she arrives.",
+        "explanation": {
+          "tense": "المستقبل البسيط",
+          "tenseEn": "Future Simple",
+          "reason": "استُعمل المستقبل البسيط لإخبار الشخص بموعد العودة المتوقع قبل وصول العمة."
+        }
+      },
+      {
+        "sentence": "before she arrives",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُعمل المضارع البسيط بعد before للإشارة إلى حدث مستقبلي داخل عبارة زمنية."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "Soon, I will be back from my trip the day before she arrives.",
-        "ar": "قريبًا، سأعود من رحلتي في اليوم الذي يسبق وصولها.",
-        "context": "تؤكد قرب الحدث في المستقبل."
+        "en": "I will be back from my trip on Friday.",
+        "ar": "سأعود من رحلتي يوم الجمعة.",
+        "context": "تحدد يوم العودة من سفر."
       },
       {
         "id": 2,
-        "en": "Tomorrow, I will be back from my trip the day before she arrives.",
-        "ar": "غدًا، سأعود من رحلتي في اليوم الذي يسبق وصولها.",
-        "context": "تربط الجملة بوقت مستقبلي محدد."
+        "en": "I will be back before she arrives.",
+        "ar": "سأعود قبل أن تصل.",
+        "context": "تطمئن شخصًا أنك ستعود في الوقت المناسب."
       },
       {
         "id": 3,
-        "en": "I will be back from my trip the day before she arrives after lunch.",
-        "ar": "سأعود من رحلتي في اليوم الذي يسبق وصولها بعد الغداء.",
-        "context": "تضيف توقيتًا مستقبليًا واضحًا."
+        "en": "The day before she arrives, I will clean the house.",
+        "ar": "في اليوم الذي يسبق وصولها، سأُنظف المنزل.",
+        "context": "تخطط لشيء قبل زيارة."
       },
       {
         "id": 4,
-        "en": "I will be back from my trip the day before she arrives if everything goes well.",
-        "ar": "سأعود من رحلتي في اليوم الذي يسبق وصولها إذا سارت الأمور جيدًا.",
-        "context": "تجعل الحدث معتمدًا على شرط مستقبلي."
+        "en": "I will be back from work before dinner.",
+        "ar": "سأعود من العمل قبل العشاء.",
+        "context": "تذكر موعد عودة يومية."
       },
       {
         "id": 5,
-        "en": "I will be back from my trip the day before she arrives later today.",
-        "ar": "سأعود من رحلتي في اليوم الذي يسبق وصولها لاحقًا اليوم.",
-        "context": "تربط الجملة بمستقبل قريب جدًا."
+        "en": "She arrives the day after my trip.",
+        "ar": "هي تصل في اليوم الذي يلي رحلتي.",
+        "context": "توضح ترتيب حدثين."
       },
       {
         "id": 6,
-        "en": "I think I will be back from my trip the day before she arrives.",
-        "ar": "أعتقد أن سأعود من رحلتي في اليوم الذي يسبق وصولها.",
-        "context": "تضيف معنى التوقع أو الاعتقاد."
+        "en": "I will be back in time to see her.",
+        "ar": "سأعود في الوقت المناسب لرؤيتها.",
+        "context": "تؤكد أنك لن تفوت الزيارة."
       },
       {
         "id": 7,
-        "en": "I will be back from my trip the day before she arrives, so get ready.",
-        "ar": "سأعود من رحلتي في اليوم الذي يسبق وصولها، لذا استعد.",
-        "context": "تضيف نتيجة أو استعدادًا لحدث مستقبلي."
+        "en": "I will be back from Chicago next week.",
+        "ar": "سأعود من شيكاغو الأسبوع القادم.",
+        "context": "تحدد مصدر العودة ووقتها."
       },
       {
         "id": 8,
-        "en": "Next week, I will be back from my trip the day before she arrives.",
-        "ar": "الأسبوع القادم، سأعود من رحلتي في اليوم الذي يسبق وصولها.",
-        "context": "تنقل الجملة إلى وقت مستقبلي أبعد قليلًا."
+        "en": "Before she arrives, we need to prepare dinner.",
+        "ar": "قبل أن تصل، نحتاج إلى تجهيز العشاء.",
+        "context": "تتحدث عن استعداد قبل وصول ضيفة."
       },
       {
         "id": 9,
-        "en": "I will be back from my trip the day before she arrives when the time is right.",
-        "ar": "سأعود من رحلتي في اليوم الذي يسبق وصولها عندما يحين الوقت المناسب.",
-        "context": "تربط الحدث المستقبلي بوقت مناسب غير محدد."
+        "en": "I will be back the day before the meeting.",
+        "ar": "سأعود في اليوم الذي يسبق الاجتماع.",
+        "context": "تربط العودة بحدث مهم."
       },
       {
         "id": 10,
-        "en": "Before long, I will be back from my trip the day before she arrives.",
-        "ar": "بعد وقت قصير، سأعود من رحلتي في اليوم الذي يسبق وصولها.",
-        "context": "تضيف ظرفًا مستقبليًا عامًا."
+        "en": "She arrives after I return from my trip.",
+        "ar": "هي تصل بعد أن أعود من رحلتي.",
+        "context": "تعيد ترتيب الحدثين بصيغة أخرى."
       }
     ]
   }

@@ -10,99 +10,115 @@
     "wordMeanings": [
       {
         "term": "Great",
-        "description": "صفة تعني رائع."
+        "description": "كلمة تشجيع أو موافقة تعني رائع أو ممتاز."
       },
       {
         "term": "Can",
-        "description": "فعل مساعد يدل هنا على القدرة أو الاستعداد لتلبية الطلب."
+        "description": "تبدأ سؤالًا عن القدرة أو الإمكانية، وتُستعمل هنا لطلب الكلام بلطف."
       },
       {
         "term": "you",
-        "description": "الضمير الذي يعود على الشخص المخاطَب."
+        "description": "ضمير المخاطب، ويشير هنا إلى المتقدم في المقابلة."
       },
       {
         "term": "tell",
-        "description": "فعل يعني يخبر أو يقول لشخص."
+        "description": "يعني يخبر أو يشرح، والمطلوب هنا أن يتحدث المتقدم عن خبرته."
       },
       {
         "term": "me",
-        "description": "ضمير مفعول به يعني أنا/إياي."
+        "description": "ضمير يعود على المتكلم، أي المقابِلة التي تسأل السؤال."
       },
       {
         "term": "about",
-        "description": "حرف جر أو ظرف يعني عن أو تقريبًا حسب السياق."
+        "description": "تعني عن أو بخصوص، وتربط طلب الكلام بموضوع الخبرة."
       },
       {
         "term": "your",
-        "description": "صفة ملكية تعني خاصتك أو خاصتكم."
+        "description": "ضمير ملكية يعني الخاص بك، ويشير هنا إلى خبرة المتقدم."
       },
       {
         "term": "experience",
-        "description": "اسم يعني خبرتك."
+        "description": "خبرة عملية أو تجربة سابقة حسب السياق."
       }
     ],
-    "tense": null,
-    "tenseReason": "استُعمل هذا التركيب لأنه سؤال يعتمد على فعل modal مثل can أو could أو would، لذلك لا نعامله هنا كزمن مستقل بل كصيغة سؤال وظيفية.",
+    "grammarExplanations": [
+      {
+        "sentence": "Great!",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذا الجزء تعبير قصير أو غير مكتمل فعليًا، لذلك لا نضع له زمنًا مستقلًا."
+        }
+      },
+      {
+        "sentence": "Can you tell me about your experience?",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذا الجزء يعتمد على فعل مساعد للتعبير عن طلب أو قدرة أو احتمال، لذلك يشرح كتركيب وظيفي لا كزمن مستقل."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "You can ask, \"Great! Can you tell me about your experience?\" when you need information.",
-        "ar": "يمكنك أن تسأل: \"رائع! هل يمكنك أن تخبرني عن خبرتك؟\" عندما تحتاج إلى معلومة.",
-        "context": "تستعمل الجملة كسؤال مباشر للحصول على معلومة."
+        "en": "Great! Can you tell me about your previous experience?",
+        "ar": "رائع! هل يمكنك أن تخبرني عن خبرتك السابقة؟",
+        "context": "تطلب خبرة الشخص قبل هذه الوظيفة."
       },
       {
         "id": 2,
-        "en": "Many people ask, \"Great! Can you tell me about your experience?\" in this situation.",
-        "ar": "يسأل كثير من الناس: \"رائع! هل يمكنك أن تخبرني عن خبرتك؟\" في هذا الموقف.",
-        "context": "توضح أن هذا سؤال شائع في موقف مشابه."
+        "en": "Great! Can you tell me more about your experience?",
+        "ar": "رائع! هل يمكنك أن تخبرني بالمزيد عن خبرتك؟",
+        "context": "تطلب تفصيلًا إضافيًا بعد إجابة قصيرة."
       },
       {
         "id": 3,
-        "en": "I asked, \"Great! Can you tell me about your experience?\" because I was not sure.",
-        "ar": "سألت: \"رائع! هل يمكنك أن تخبرني عن خبرتك؟\" لأنني لم أكن متأكدًا.",
-        "context": "تضيف سببًا لطرح السؤال."
+        "en": "Can you tell me about your experience in software development?",
+        "ar": "هل يمكنك أن تخبرني عن خبرتك في تطوير البرمجيات؟",
+        "context": "تحدد مجال الخبرة المطلوب."
       },
       {
         "id": 4,
-        "en": "She asked politely, \"Great! Can you tell me about your experience?\"",
-        "ar": "سألت بأدب: \"رائع! هل يمكنك أن تخبرني عن خبرتك؟\".",
-        "context": "تبين أن السؤال قيل بطريقة مهذبة."
+        "en": "Great. Can you tell us about your experience with mobile apps?",
+        "ar": "رائع. هل يمكنك أن تخبرنا عن خبرتك مع تطبيقات الهاتف؟",
+        "context": "تستخدم us عندما يمثل السائل فريقًا أو لجنة."
       },
       {
         "id": 5,
-        "en": "At work, someone may ask, \"Great! Can you tell me about your experience?\"",
-        "ar": "في العمل، قد يسأل شخص ما: \"رائع! هل يمكنك أن تخبرني عن خبرتك؟\".",
-        "context": "تضع السؤال في سياق مهني أو عملي."
+        "en": "Can you tell me about your experience on your last project?",
+        "ar": "هل يمكنك أن تخبرني عن خبرتك في مشروعك الأخير؟",
+        "context": "تركز على مشروع محدد بدل السيرة العامة."
       },
       {
         "id": 6,
-        "en": "Before deciding, ask: \"Great! Can you tell me about your experience?\"",
-        "ar": "قبل أن تقرر، اسأل: \"رائع! هل يمكنك أن تخبرني عن خبرتك؟\".",
-        "context": "تستخدم السؤال قبل اتخاذ قرار."
+        "en": "Great! Could you tell me about your experience?",
+        "ar": "رائع! هل يمكنك أن تخبرني عن خبرتك؟",
+        "context": "صيغة أكثر لطفًا ورسمية لطلب شرح الخبرة."
       },
       {
         "id": 7,
-        "en": "The student asked, \"Great! Can you tell me about your experience?\" in class.",
-        "ar": "سأل الطالب: \"رائع! هل يمكنك أن تخبرني عن خبرتك؟\" في الصف.",
-        "context": "تجعل الجملة جزءًا من موقف تعليمي."
+        "en": "Can you tell me about the experience you listed on your CV?",
+        "ar": "هل يمكنك أن تخبرني عن الخبرة التي ذكرتها في سيرتك الذاتية؟",
+        "context": "تسأل عن نقطة موجودة في السيرة الذاتية."
       },
       {
         "id": 8,
-        "en": "While traveling, you can ask, \"Great! Can you tell me about your experience?\"",
-        "ar": "أثناء السفر، يمكنك أن تسأل: \"رائع! هل يمكنك أن تخبرني عن خبرتك؟\".",
-        "context": "تربط السؤال بموقف السفر أو التنقل."
+        "en": "Great! Can you tell me about your experience with customers?",
+        "ar": "رائع! هل يمكنك أن تخبرني عن خبرتك مع العملاء؟",
+        "context": "تخصص السؤال في التعامل مع العملاء."
       },
       {
         "id": 9,
-        "en": "He asked me, \"Great! Can you tell me about your experience?\" again.",
-        "ar": "سألني: \"رائع! هل يمكنك أن تخبرني عن خبرتك؟\" مرة أخرى.",
-        "context": "تضيف معنى التكرار لنفس السؤال."
+        "en": "Before we continue, can you tell me about your experience?",
+        "ar": "قبل أن نكمل، هل يمكنك أن تخبرني عن خبرتك؟",
+        "context": "تنقل الحوار إلى جزء الخبرة في المقابلة."
       },
       {
         "id": 10,
-        "en": "If you are not sure, ask: \"Great! Can you tell me about your experience?\"",
-        "ar": "إذا لم تكن متأكدًا، فاسأل: \"رائع! هل يمكنك أن تخبرني عن خبرتك؟\".",
-        "context": "توضح أن السؤال مناسب عند عدم التأكد."
+        "en": "Can you briefly tell me about your experience?",
+        "ar": "هل يمكنك أن تخبرني باختصار عن خبرتك؟",
+        "context": "تطلب إجابة قصيرة ومركزة."
       }
     ]
   }

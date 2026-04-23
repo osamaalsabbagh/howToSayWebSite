@@ -10,84 +10,91 @@
     "wordMeanings": [
       {
         "term": "That",
-        "description": "تشير إلى أمر أو خبر سبق ذكره."
+        "description": "ذلك، وتشير إلى شيء أو سعر محدد."
       },
       {
         "term": "is",
-        "description": "فعل be في الحاضر مع المفرد."
+        "description": "صيغة تربط الشيء بوصفه في الحاضر."
       },
       {
         "term": "too",
-        "description": "ظرف يعني أيضًا أو أكثر من اللازم حسب السياق."
+        "description": "جدًا أو أكثر من المقبول."
       },
       {
         "term": "expensive",
-        "description": "صفة تعني غال."
+        "description": "غالي أو مرتفع السعر."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "That is too expensive.",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "يستخدم فعل الربط في الحاضر للتعبير عن حكم على السعر الآن، وكلمة جدًا تعني أن السعر أعلى من المقبول."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "People often say, \"That is too expensive\" in situations like this.",
-        "ar": "يقول الناس كثيرًا: \"ذلك غالٍ جدًا\" في مواقف كهذه.",
-        "context": "تستخدم الجملة بوصفها تركيبًا شائعًا في موقف مشابه."
+        "en": "That is too expensive.",
+        "ar": "ذلك غالٍ جدًا.",
+        "context": "تقال عند الشكوى من ارتفاع السعر."
       },
       {
         "id": 2,
-        "en": "You can say, \"That is too expensive\" when this happens.",
-        "ar": "يمكنك أن تقول: \"ذلك غالٍ جدًا\" عندما يحدث هذا.",
-        "context": "توضح أن الجملة مناسبة في موقف متكرر."
+        "en": "This is too expensive.",
+        "ar": "هذا غالٍ جدًا.",
+        "context": "تقال عند الإشارة إلى شيء قريب."
       },
       {
         "id": 3,
-        "en": "I heard someone say, \"That is too expensive\".",
-        "ar": "سمعت شخصًا يقول: \"ذلك غالٍ جدًا\".",
-        "context": "تجعل الجملة جزءًا من كلام سمعته من شخص آخر."
+        "en": "The ticket is too expensive.",
+        "ar": "التذكرة غالية جدًا.",
+        "context": "تقال عند الاعتراض على سعر تذكرة."
       },
       {
         "id": 4,
-        "en": "The teacher used the sentence, \"That is too expensive\" in class.",
-        "ar": "استخدم المعلم الجملة: \"ذلك غالٍ جدًا\" في الصف.",
-        "context": "تستخدم الجملة مثالًا تعليميًا في الصف."
+        "en": "The hotel is too expensive.",
+        "ar": "الفندق غالٍ جدًا.",
+        "context": "تقال عند رفض سعر فندق."
       },
       {
         "id": 5,
-        "en": "Many learners remember the sentence, \"That is too expensive\" first.",
-        "ar": "يتذكر كثير من المتعلمين الجملة: \"ذلك غالٍ جدًا\" أولًا.",
-        "context": "تقدم الجملة بوصفها جملة تعليمية أساسية."
+        "en": "The meal is too expensive.",
+        "ar": "الوجبة غالية جدًا.",
+        "context": "تقال عند الشكوى من سعر وجبة."
       },
       {
         "id": 6,
-        "en": "She said, \"That is too expensive\" in a calm way.",
-        "ar": "قالت: \"ذلك غالٍ جدًا\" بطريقة هادئة.",
-        "context": "تجعل الجملة جزءًا من كلام مباشر في موقف عادي."
+        "en": "That restaurant is too expensive.",
+        "ar": "ذلك المطعم غالٍ جدًا.",
+        "context": "تقال عند رفض مطعم بسبب السعر."
       },
       {
         "id": 7,
-        "en": "He repeated, \"That is too expensive\" more than once.",
-        "ar": "ردد: \"ذلك غالٍ جدًا\" أكثر من مرة.",
-        "context": "تضيف معنى التكرار لنفس الجملة."
+        "en": "It is too expensive for me.",
+        "ar": "إنه غالٍ جدًا بالنسبة لي.",
+        "context": "تقال عند توضيح أن السعر لا يناسب ميزانيتك."
       },
       {
         "id": 8,
-        "en": "At the right moment, someone might say, \"That is too expensive\".",
-        "ar": "في اللحظة المناسبة، قد يقول شخص ما: \"ذلك غالٍ جدًا\".",
-        "context": "توضح أن الجملة مرتبطة بتوقيت مناسب في السياق."
+        "en": "That is a little expensive.",
+        "ar": "ذلك غالٍ قليلًا.",
+        "context": "تقال عند الاعتراض بلطف على السعر."
       },
       {
         "id": 9,
-        "en": "I wrote down the sentence, \"That is too expensive\" so I would remember it.",
-        "ar": "كتبت الجملة: \"ذلك غالٍ جدًا\" حتى أتذكرها.",
-        "context": "تعطي مثالًا على حفظ الجملة أو مراجعتها."
+        "en": "Do you have something cheaper?",
+        "ar": "هل لديك شيء أرخص؟",
+        "context": "تقال بعد اعتبار السعر مرتفعًا."
       },
       {
         "id": 10,
-        "en": "It is useful to know when to say, \"That is too expensive\".",
-        "ar": "من المفيد أن تعرف متى تقول: \"ذلك غالٍ جدًا\".",
-        "context": "تركز على معرفة الوقت المناسب لاستخدام الجملة."
+        "en": "That price is too high.",
+        "ar": "ذلك السعر مرتفع جدًا.",
+        "context": "تقال بصيغة أخرى للتعبير عن ارتفاع السعر."
       }
     ]
   }

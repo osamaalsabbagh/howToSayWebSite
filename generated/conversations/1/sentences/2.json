@@ -10,104 +10,119 @@
     "wordMeanings": [
       {
         "term": "Hi",
-        "description": "تحية قصيرة وغير رسمية جدًا تستعمل غالبًا مع الأصدقاء أو من تعرفهم جيدًا."
+        "description": "تحية قصيرة ودودة، وقد تستعمل في مقابلة العمل إذا كان الجو غير متكلف."
       },
       {
         "term": "nice",
-        "description": "تعبير قصير عن الإعجاب أو الرضا. قد يعني: لطيف، جميل، رائع، جيد."
+        "description": "تعني لطيف أو جميل، وتدل هنا على أن المقابلة أو التعارف شيء سار."
       },
       {
         "term": "to",
-        "description": "أداة تأتي قبل المصدر بعد أفعال مثل want."
+        "description": "تأتي هنا لربط معنى السرور بفعل اللقاء."
       },
       {
         "term": "meet",
-        "description": "فعل يعني يقابل أو يلتقي."
+        "description": "يعني يلتقي أو يقابل شخصًا، والمقصود هنا التعارف لأول مرة."
       },
       {
         "term": "you",
-        "description": "الضمير الذي يعود على الشخص المخاطَب."
+        "description": "ضمير المخاطب، ويشير هنا إلى المتقدم الذي تتحدث معه المقابِلة."
       },
       {
         "term": "Please",
-        "description": "تضيف اللطف إلى الطلب."
+        "description": "كلمة تجعل الطلب مهذبًا وغير حاد."
       },
       {
         "term": "have",
-        "description": "فعل يعني يملك، ويأتي أيضًا كفعل مساعد."
+        "description": "تأتي هنا ضمن دعوة مهذبة للجلوس، ولا تعني الامتلاك في هذا السياق."
       },
       {
         "term": "a",
-        "description": "أداة نكرة تأتي قبل الاسم المفرد المعدود."
+        "description": "أداة نكرة تأتي قبل اسم مفرد، وهنا قبل كلمة مقعد."
       },
       {
         "term": "seat",
-        "description": "اسم يعني بالجلوس."
+        "description": "مقعد أو مكان للجلوس."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "Hi, nice to meet you.",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذا الجزء تعبير قصير أو غير مكتمل فعليًا، لذلك لا نضع له زمنًا مستقلًا."
+        }
+      },
+      {
+        "sentence": "Please have a seat.",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذا الجزء طلب أو توجيه مباشر، لذلك لا نعامله كزمن فعلي مستقل."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "In general, Hi, nice to meet you. Please have a seat.",
-        "ar": "بشكل عام، مرحبًا، سعيد بلقائك. تفضل بالجلوس.",
-        "context": "تضيف عبارة عامة تحافظ على نفس المعنى الأساسي."
+        "en": "Hi, nice to meet you. Please have a seat here.",
+        "ar": "مرحبًا، سعيد بلقائك. تفضل بالجلوس هنا.",
+        "context": "تحدد مكان الجلوس داخل غرفة المقابلة."
       },
       {
         "id": 2,
-        "en": "Usually, Hi, nice to meet you. Please have a seat.",
-        "ar": "عادةً، مرحبًا، سعيد بلقائك. تفضل بالجلوس.",
-        "context": "تضيف ظرفًا يدل على التكرار أو العادة."
+        "en": "Hello, nice to meet you. Please take a seat.",
+        "ar": "مرحبًا، سعيد بلقائك. تفضل بالجلوس.",
+        "context": "صيغة رسمية أكثر قليلًا باستعمال hello وtake a seat."
       },
       {
         "id": 3,
-        "en": "Sometimes, Hi, nice to meet you. Please have a seat.",
-        "ar": "أحيانًا، مرحبًا، سعيد بلقائك. تفضل بالجلوس.",
-        "context": "تضع الجملة في سياق أقل تكرارًا."
+        "en": "Hi, it is nice to meet you. Please have a seat.",
+        "ar": "مرحبًا، من الجميل أن ألتقي بك. تفضل بالجلوس.",
+        "context": "نسخة كاملة من العبارة بدل الاختصار nice to meet you."
       },
       {
         "id": 4,
-        "en": "For now, Hi, nice to meet you. Please have a seat.",
-        "ar": "في الوقت الحالي، مرحبًا، سعيد بلقائك. تفضل بالجلوس.",
-        "context": "تربط الجملة بالوضع الحالي."
+        "en": "Nice to meet you, Ahmed. Please have a seat.",
+        "ar": "سعيد بلقائك يا أحمد. تفضل بالجلوس.",
+        "context": "تضيف اسم الشخص لجعل الترحيب شخصيًا."
       },
       {
         "id": 5,
-        "en": "Hi, nice to meet you. Please have a seat, so that helps a lot.",
-        "ar": "مرحبًا، سعيد بلقائك. تفضل بالجلوس، وهذا يساعد كثيرًا.",
-        "context": "تضيف نتيجة بسيطة على نفس المعنى."
+        "en": "Hi, welcome. Please have a seat.",
+        "ar": "مرحبًا، أهلًا بك. تفضل بالجلوس.",
+        "context": "ترحيب قصير عند استقبال المتقدم."
       },
       {
         "id": 6,
-        "en": "Hi, nice to meet you. Please have a seat in daily life.",
-        "ar": "مرحبًا، سعيد بلقائك. تفضل بالجلوس في الحياة اليومية.",
-        "context": "تربط الجملة بمواقف الحياة اليومية."
+        "en": "Nice to meet you. Please have a seat, and we can begin.",
+        "ar": "سعيد بلقائك. تفضل بالجلوس، ويمكننا أن نبدأ.",
+        "context": "تربط دعوة الجلوس ببداية المقابلة."
       },
       {
         "id": 7,
-        "en": "Hi, nice to meet you. Please have a seat when it is necessary.",
-        "ar": "مرحبًا، سعيد بلقائك. تفضل بالجلوس عندما يكون ذلك ضروريًا.",
-        "context": "تربط الجملة بشرط أو حاجة معينة."
+        "en": "Hi, nice to meet you. Please sit down and make yourself comfortable.",
+        "ar": "مرحبًا، سعيد بلقائك. اجلس من فضلك واجعل نفسك مرتاحًا.",
+        "context": "صيغة أكثر دفئًا وودًا قبل بدء الأسئلة."
       },
       {
         "id": 8,
-        "en": "In this situation, Hi, nice to meet you. Please have a seat.",
-        "ar": "في هذا الموقف، مرحبًا، سعيد بلقائك. تفضل بالجلوس.",
-        "context": "تجعل الجملة جزءًا من موقف واضح."
+        "en": "Good afternoon, nice to meet you. Please have a seat.",
+        "ar": "مساء الخير، سعيد بلقائك. تفضل بالجلوس.",
+        "context": "تناسب مقابلة بعد الظهر أو في وقت رسمي."
       },
       {
         "id": 9,
-        "en": "Hi, nice to meet you. Please have a seat, and everyone notices that.",
-        "ar": "مرحبًا، سعيد بلقائك. تفضل بالجلوس، والجميع يلاحظ ذلك.",
-        "context": "تضيف ملاحظة أو نتيجة بعد الجملة."
+        "en": "Hi, nice to finally meet you. Please have a seat.",
+        "ar": "مرحبًا، سعيد بأن ألتقي بك أخيرًا. تفضل بالجلوس.",
+        "context": "تقال إذا كان هناك تواصل سابق عبر البريد أو الهاتف."
       },
       {
         "id": 10,
-        "en": "Hi, nice to meet you. Please have a seat most of the time.",
-        "ar": "مرحبًا، سعيد بلقائك. تفضل بالجلوس معظم الوقت.",
-        "context": "تضيف عبارة تكرار شائعة."
+        "en": "Hello, thank you for coming. Please have a seat.",
+        "ar": "مرحبًا، شكرًا لحضورك. تفضل بالجلوس.",
+        "context": "ترحيب مهني قبل بدء المقابلة مباشرة."
       }
     ]
   }

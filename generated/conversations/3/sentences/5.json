@@ -10,108 +10,127 @@
     "wordMeanings": [
       {
         "term": "I",
-        "description": "ضمير المتكلم."
+        "description": "ضمير المتكلم المفرد."
       },
       {
         "term": "live",
-        "description": "فعل يعني أعيش."
+        "description": "تعني أسكن أو أقيم."
       },
       {
         "term": "above",
-        "description": "صفة تعني فوق."
+        "description": "تعني فوق أو في مستوى أعلى من شيء."
       },
       {
         "term": "the",
-        "description": "أداة تعريف تشير إلى شيء معروف أو محدد."
+        "description": "أداة تعريف لمكان معروف في السياق."
       },
       {
         "term": "bookstore",
-        "description": "اسم يعني الكتب."
+        "description": "متجر يبيع الكتب."
       },
       {
         "term": "on",
-        "description": "حرف جر يعني على أو في يوم محدد حسب السياق."
+        "description": "تستخدم مع أسماء الشوارع للدلالة على الموقع."
       },
       {
         "term": "Main",
-        "description": "اسم علم يشير إلى الرئيسي."
+        "description": "جزء من اسم الشارع، ويعني الرئيسي عندما لا يكون اسمًا خاصًا."
       },
       {
         "term": "Street",
-        "description": "اسم يعني شارع."
+        "description": "شارع، وهي هنا جزء من اسم المكان."
+      },
+      {
+        "term": "I",
+        "description": "ضمير المتكلم المفرد."
       },
       {
         "term": "am",
-        "description": "فعل be مع I ويُستعمل هنا مع learning لتكوين المضارع المستمر."
+        "description": "صيغة تأتي مع ضمير المتكلم المفرد لبيان الحالة أو المعلومة الحالية."
       },
       {
         "term": "28",
-        "description": "رقم يدل على ٢٨."
+        "description": "العمر المذكور للمتكلم."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "I live above the bookstore on Main Street.",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُعمل المضارع البسيط لأن المتكلم يذكر مكان سكنه الحالي بوصفه معلومة ثابتة نسبيًا."
+        }
+      },
+      {
+        "sentence": "I am 28.",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُعمل المضارع البسيط لأن المتكلم يذكر عمره الحالي."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "In general, I live above the bookstore on Main Street. I am 28.",
-        "ar": "بشكل عام، أعيش فوق متجر الكتب في الشارع الرئيسي. وعمري ٢٨.",
-        "context": "تضيف عبارة عامة تحافظ على نفس المعنى الأساسي."
+        "en": "I live above the cafe on River Street.",
+        "ar": "أسكن فوق المقهى في شارع ريفر.",
+        "context": "تصف مكان سكنك باستخدام معلم واضح."
       },
       {
         "id": 2,
-        "en": "Usually, I live above the bookstore on Main Street. I am 28.",
-        "ar": "عادةً، أعيش فوق متجر الكتب في الشارع الرئيسي. وعمري ٢٨.",
-        "context": "تضيف ظرفًا يدل على التكرار أو العادة."
+        "en": "I live near the gym.",
+        "ar": "أسكن بالقرب من النادي الرياضي.",
+        "context": "تذكر قرب بيتك من مكان معروف."
       },
       {
         "id": 3,
-        "en": "Sometimes, I live above the bookstore on Main Street. I am 28.",
-        "ar": "أحيانًا، أعيش فوق متجر الكتب في الشارع الرئيسي. وعمري ٢٨.",
-        "context": "تضع الجملة في سياق أقل تكرارًا."
+        "en": "I am 30.",
+        "ar": "عمري ثلاثون عامًا.",
+        "context": "تذكر عمرك باختصار في نموذج أو حديث."
       },
       {
         "id": 4,
-        "en": "For now, I live above the bookstore on Main Street. I am 28.",
-        "ar": "في الوقت الحالي، أعيش فوق متجر الكتب في الشارع الرئيسي. وعمري ٢٨.",
-        "context": "تربط الجملة بالوضع الحالي."
+        "en": "I live on Park Street.",
+        "ar": "أسكن في شارع بارك.",
+        "context": "تعطي اسم الشارع فقط."
       },
       {
         "id": 5,
-        "en": "I live above the bookstore on Main Street. I am 28, so that helps a lot.",
-        "ar": "أعيش فوق متجر الكتب في الشارع الرئيسي. وعمري ٢٨، وهذا يساعد كثيرًا.",
-        "context": "تضيف نتيجة بسيطة على نفس المعنى."
+        "en": "I live above a small store.",
+        "ar": "أسكن فوق متجر صغير.",
+        "context": "تحدد موقع البيت بالنسبة لمحل."
       },
       {
         "id": 6,
-        "en": "I live above the bookstore on Main Street. I am 28 in daily life.",
-        "ar": "أعيش فوق متجر الكتب في الشارع الرئيسي. وعمري ٢٨ في الحياة اليومية.",
-        "context": "تربط الجملة بمواقف الحياة اليومية."
+        "en": "I am 22, and I live nearby.",
+        "ar": "عمري اثنان وعشرون عامًا، وأسكن بالقرب من هنا.",
+        "context": "تجمع العمر ومكان السكن في رد واحد."
       },
       {
         "id": 7,
-        "en": "I live above the bookstore on Main Street. I am 28 when it is necessary.",
-        "ar": "أعيش فوق متجر الكتب في الشارع الرئيسي. وعمري ٢٨ عندما يكون ذلك ضروريًا.",
-        "context": "تربط الجملة بشرط أو حاجة معينة."
+        "en": "I live across from the library.",
+        "ar": "أسكن مقابل المكتبة.",
+        "context": "تصف الموقع باستخدام مكان مقابل."
       },
       {
         "id": 8,
-        "en": "In this situation, I live above the bookstore on Main Street. I am 28.",
-        "ar": "في هذا الموقف، أعيش فوق متجر الكتب في الشارع الرئيسي. وعمري ٢٨.",
-        "context": "تجعل الجملة جزءًا من موقف واضح."
+        "en": "I am 28 years old.",
+        "ar": "عمري ثمانية وعشرون عامًا.",
+        "context": "صيغة كاملة لذكر العمر."
       },
       {
         "id": 9,
-        "en": "I live above the bookstore on Main Street. I am 28, and everyone notices that.",
-        "ar": "أعيش فوق متجر الكتب في الشارع الرئيسي. وعمري ٢٨، والجميع يلاحظ ذلك.",
-        "context": "تضيف ملاحظة أو نتيجة بعد الجملة."
+        "en": "I live in an apartment above the bakery.",
+        "ar": "أسكن في شقة فوق المخبز.",
+        "context": "توضح نوع السكن وموقعه."
       },
       {
         "id": 10,
-        "en": "I live above the bookstore on Main Street. I am 28 most of the time.",
-        "ar": "أعيش فوق متجر الكتب في الشارع الرئيسي. وعمري ٢٨ معظم الوقت.",
-        "context": "تضيف عبارة تكرار شائعة."
+        "en": "I live on the second floor.",
+        "ar": "أسكن في الطابق الثاني.",
+        "context": "تحدد الطابق بدل اسم الشارع."
       }
     ]
   }

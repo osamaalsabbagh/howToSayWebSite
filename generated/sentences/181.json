@@ -10,100 +10,119 @@
     "wordMeanings": [
       {
         "term": "How",
-        "description": "أداة سؤال."
+        "description": "تبدأ السؤال عن المقدار."
       },
       {
         "term": "long",
-        "description": "صفة تعني طويل."
+        "description": "طويل من حيث المدة، ومع الكلمة السابقة تعني كم من الوقت."
       },
       {
         "term": "does",
-        "description": "صيغة المضارع البسيط مع he/she/it من do."
+        "description": "تأتي في السؤال مع المفرد لتكوين سؤال في الحاضر."
       },
       {
         "term": "it",
-        "description": "ضمير يعود على الشيء أو الجملة التي قيلت."
+        "description": "تشير إلى عملية الوصول أو الرحلة المقصودة."
       },
       {
         "term": "take",
-        "description": "فعل يعني يأخذ أو يستغرق أو يصطحب حسب السياق."
+        "description": "يستغرق من الوقت."
       },
       {
         "term": "to",
-        "description": "أداة تأتي قبل المصدر بعد أفعال مثل want."
+        "description": "تربط المدة بالفعل الذي يوضح الهدف."
       },
       {
         "term": "get",
-        "description": "فعل شائع يعني يحصل على أو يصل أو يصبح حسب السياق."
+        "description": "أصل أو أذهب إلى مكان."
+      },
+      {
+        "term": "to",
+        "description": "إلى، وتربط الوصول بالوجهة."
       },
       {
         "term": "Georgia",
-        "description": "اسم علم يشير إلى جورجيا."
+        "description": "جورجيا، اسم مكان أو ولاية حسب السياق."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "How long does it take",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "هذا جزء السؤال الرئيسي، ويستخدم المضارع البسيط للسؤال عن مدة معتادة أو متوقعة."
+        }
+      },
+      {
+        "sentence": "to get to Georgia",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذا جزء تابع بصيغة المصدر يوضح الهدف من المدة، وهو الوصول إلى جورجيا، ولا يحمل زمنًا مستقلًا."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "You can ask, \"How long does it take to get to Georgia?\" when you need information.",
-        "ar": "يمكنك أن تسأل: \"كم من الوقت يستغرق للوصول إلى جورجيا؟\" عندما تحتاج إلى معلومة.",
-        "context": "تستعمل الجملة كسؤال مباشر للحصول على معلومة."
+        "en": "How long does it take to get to Georgia?",
+        "ar": "كم من الوقت يستغرق للوصول إلى جورجيا؟",
+        "context": "تقال عند السؤال عن مدة الوصول إلى جورجيا."
       },
       {
         "id": 2,
-        "en": "Many people ask, \"How long does it take to get to Georgia?\" in this situation.",
-        "ar": "يسأل كثير من الناس: \"كم من الوقت يستغرق للوصول إلى جورجيا؟\" في هذا الموقف.",
-        "context": "توضح أن هذا سؤال شائع في موقف مشابه."
+        "en": "How long does it take to get to Boston?",
+        "ar": "كم من الوقت يستغرق للوصول إلى بوسطن؟",
+        "context": "تقال عند السؤال عن مدة الوصول إلى مدينة."
       },
       {
         "id": 3,
-        "en": "I asked, \"How long does it take to get to Georgia?\" because I was not sure.",
-        "ar": "سألت: \"كم من الوقت يستغرق للوصول إلى جورجيا؟\" لأنني لم أكن متأكدًا.",
-        "context": "تضيف سببًا لطرح السؤال."
+        "en": "How long does it take to get to the airport?",
+        "ar": "كم من الوقت يستغرق للوصول إلى المطار؟",
+        "context": "تقال عند التخطيط للوصول إلى المطار."
       },
       {
         "id": 4,
-        "en": "She asked politely, \"How long does it take to get to Georgia?\"",
-        "ar": "سألت بأدب: \"كم من الوقت يستغرق للوصول إلى جورجيا؟\".",
-        "context": "تبين أن السؤال قيل بطريقة مهذبة."
+        "en": "How long does it take to get to the hotel?",
+        "ar": "كم من الوقت يستغرق للوصول إلى الفندق؟",
+        "context": "تقال عند السؤال عن مدة الطريق إلى الفندق."
       },
       {
         "id": 5,
-        "en": "At work, someone may ask, \"How long does it take to get to Georgia?\"",
-        "ar": "في العمل، قد يسأل شخص ما: \"كم من الوقت يستغرق للوصول إلى جورجيا؟\".",
-        "context": "تضع السؤال في سياق مهني أو عملي."
+        "en": "How long does it take to get downtown?",
+        "ar": "كم من الوقت يستغرق للوصول إلى وسط المدينة؟",
+        "context": "تقال عند السؤال عن مدة الوصول إلى وسط المدينة."
       },
       {
         "id": 6,
-        "en": "Before deciding, ask: \"How long does it take to get to Georgia?\"",
-        "ar": "قبل أن تقرر، اسأل: \"كم من الوقت يستغرق للوصول إلى جورجيا؟\".",
-        "context": "تستخدم السؤال قبل اتخاذ قرار."
+        "en": "How long does it take to get there by car?",
+        "ar": "كم من الوقت يستغرق للوصول إلى هناك بالسيارة؟",
+        "context": "تقال عند السؤال عن مدة طريق بالسيارة."
       },
       {
         "id": 7,
-        "en": "The student asked, \"How long does it take to get to Georgia?\" in class.",
-        "ar": "سأل الطالب: \"كم من الوقت يستغرق للوصول إلى جورجيا؟\" في الصف.",
-        "context": "تجعل الجملة جزءًا من موقف تعليمي."
+        "en": "How long does it take to get there by bus?",
+        "ar": "كم من الوقت يستغرق للوصول إلى هناك بالحافلة؟",
+        "context": "تقال عند السؤال عن مدة طريق بالحافلة."
       },
       {
         "id": 8,
-        "en": "While traveling, you can ask, \"How long does it take to get to Georgia?\"",
-        "ar": "أثناء السفر، يمكنك أن تسأل: \"كم من الوقت يستغرق للوصول إلى جورجيا؟\".",
-        "context": "تربط السؤال بموقف السفر أو التنقل."
+        "en": "How long does it take to get to work?",
+        "ar": "كم من الوقت يستغرق للوصول إلى العمل؟",
+        "context": "تقال عند السؤال عن مدة التنقل إلى العمل."
       },
       {
         "id": 9,
-        "en": "He asked me, \"How long does it take to get to Georgia?\" again.",
-        "ar": "سألني: \"كم من الوقت يستغرق للوصول إلى جورجيا؟\" مرة أخرى.",
-        "context": "تضيف معنى التكرار لنفس السؤال."
+        "en": "How long does it take to get home?",
+        "ar": "كم من الوقت يستغرق للوصول إلى البيت؟",
+        "context": "تقال عند السؤال عن مدة العودة إلى المنزل."
       },
       {
         "id": 10,
-        "en": "If you are not sure, ask: \"How long does it take to get to Georgia?\"",
-        "ar": "إذا لم تكن متأكدًا، فاسأل: \"كم من الوقت يستغرق للوصول إلى جورجيا؟\".",
-        "context": "توضح أن السؤال مناسب عند عدم التأكد."
+        "en": "How long does it take to get to the embassy?",
+        "ar": "كم من الوقت يستغرق للوصول إلى السفارة؟",
+        "context": "تقال عند السؤال عن مدة الوصول إلى جهة رسمية."
       }
     ]
   }

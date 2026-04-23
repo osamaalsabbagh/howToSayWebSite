@@ -10,84 +10,103 @@
     "wordMeanings": [
       {
         "term": "I",
-        "description": "ضمير المتكلم."
+        "description": "أنا، وتشير إلى المتكلم."
       },
       {
         "term": "wish",
-        "description": "فعل يعني ليتني."
+        "description": "أتمنى أو ليتني."
+      },
+      {
+        "term": "I",
+        "description": "أنا، وتشير مرة أخرى إلى المتكلم."
       },
       {
         "term": "had",
-        "description": "صيغة الماضي من have."
+        "description": "أملك، وتأتي هنا بصيغة ماضية للتعبير عن أمنية غير حقيقية في الحاضر."
       },
       {
         "term": "one",
-        "description": "كلمة تدل على العدد واحد أو على شيء واحد."
+        "description": "واحدًا أو شيئًا من النوع المذكور في السياق."
       }
     ],
-    "tense": "الماضي البسيط",
-    "tenseEn": "Past Simple",
-    "tenseReason": "استُعمل الماضي البسيط لأن الجملة تتحدث عن حدث وقع في الماضي واكتمل هناك.",
+    "grammarExplanations": [
+      {
+        "sentence": "I wish",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "يستخدم الفعل في الحاضر للتعبير عن أمنية يشعر بها المتكلم الآن."
+        }
+      },
+      {
+        "sentence": "I had one",
+        "explanation": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "تأتي صيغة الماضي بعد التمني للتعبير عن شيء غير موجود في الحاضر، أي أن المتكلم لا يملك هذا الشيء لكنه يتمناه."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "People often say, \"I wish I had one\" in situations like this.",
-        "ar": "يقول الناس كثيرًا: \"ليتني أملك واحدًا\" في مواقف كهذه.",
-        "context": "تستخدم الجملة بوصفها تركيبًا شائعًا في موقف مشابه."
+        "en": "I wish I had one.",
+        "ar": "ليتني أملك واحدًا.",
+        "context": "تقال عند تمني امتلاك شيء."
       },
       {
         "id": 2,
-        "en": "You can say, \"I wish I had one\" when this happens.",
-        "ar": "يمكنك أن تقول: \"ليتني أملك واحدًا\" عندما يحدث هذا.",
-        "context": "توضح أن الجملة مناسبة في موقف متكرر."
+        "en": "I wish I had a car.",
+        "ar": "ليتني أملك سيارة.",
+        "context": "تقال عند تمني امتلاك سيارة."
       },
       {
         "id": 3,
-        "en": "I heard someone say, \"I wish I had one\".",
-        "ar": "سمعت شخصًا يقول: \"ليتني أملك واحدًا\".",
-        "context": "تجعل الجملة جزءًا من كلام سمعته من شخص آخر."
+        "en": "I wish I had more time.",
+        "ar": "ليتني أملك وقتًا أكثر.",
+        "context": "تقال عند الشعور بضيق الوقت."
       },
       {
         "id": 4,
-        "en": "The teacher used the sentence, \"I wish I had one\" in class.",
-        "ar": "استخدم المعلم الجملة: \"ليتني أملك واحدًا\" في الصف.",
-        "context": "تستخدم الجملة مثالًا تعليميًا في الصف."
+        "en": "I wish I had enough money.",
+        "ar": "ليتني أملك مالًا كافيًا.",
+        "context": "تقال عند عدم القدرة على شراء شيء."
       },
       {
         "id": 5,
-        "en": "Many learners remember the sentence, \"I wish I had one\" first.",
-        "ar": "يتذكر كثير من المتعلمين الجملة: \"ليتني أملك واحدًا\" أولًا.",
-        "context": "تقدم الجملة بوصفها جملة تعليمية أساسية."
+        "en": "I wish I had a ticket.",
+        "ar": "ليتني أملك تذكرة.",
+        "context": "تقال عند الرغبة في حضور حدث أو السفر."
       },
       {
         "id": 6,
-        "en": "She said, \"I wish I had one\" in a calm way.",
-        "ar": "قالت: \"ليتني أملك واحدًا\" بطريقة هادئة.",
-        "context": "تجعل الجملة جزءًا من كلام مباشر في موقف عادي."
+        "en": "I wish I had your address.",
+        "ar": "ليتني أملك عنوانك.",
+        "context": "تقال عند الحاجة إلى عنوان شخص."
       },
       {
         "id": 7,
-        "en": "He repeated, \"I wish I had one\" more than once.",
-        "ar": "ردد: \"ليتني أملك واحدًا\" أكثر من مرة.",
-        "context": "تضيف معنى التكرار لنفس الجملة."
+        "en": "I wish I had a map.",
+        "ar": "ليتني أملك خريطة.",
+        "context": "تقال عند الضياع أو الحاجة إلى إرشاد."
       },
       {
         "id": 8,
-        "en": "At the right moment, someone might say, \"I wish I had one\".",
-        "ar": "في اللحظة المناسبة، قد يقول شخص ما: \"ليتني أملك واحدًا\".",
-        "context": "توضح أن الجملة مرتبطة بتوقيت مناسب في السياق."
+        "en": "I wish I had a phone.",
+        "ar": "ليتني أملك هاتفًا.",
+        "context": "تقال عند الحاجة إلى الاتصال."
       },
       {
         "id": 9,
-        "en": "I wrote down the sentence, \"I wish I had one\" so I would remember it.",
-        "ar": "كتبت الجملة: \"ليتني أملك واحدًا\" حتى أتذكرها.",
-        "context": "تعطي مثالًا على حفظ الجملة أو مراجعتها."
+        "en": "I wish I had a room.",
+        "ar": "ليتني أملك غرفة.",
+        "context": "تقال عند الحاجة إلى مكان للإقامة."
       },
       {
         "id": 10,
-        "en": "It is useful to know when to say, \"I wish I had one\".",
-        "ar": "من المفيد أن تعرف متى تقول: \"ليتني أملك واحدًا\".",
-        "context": "تركز على معرفة الوقت المناسب لاستخدام الجملة."
+        "en": "I wish I had a friend here.",
+        "ar": "ليتني أملك صديقًا هنا.",
+        "context": "تقال عند الشعور بالحاجة إلى مرافقة أو دعم."
       }
     ]
   }

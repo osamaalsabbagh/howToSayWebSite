@@ -10,91 +10,99 @@
     "wordMeanings": [
       {
         "term": "I",
-        "description": "ضمير المتكلم."
+        "description": "ضمير المتكلم المفرد."
       },
       {
         "term": "would",
-        "description": "فعل modal يُستعمل للطلب المؤدب أو الرغبة أو الفرضية."
+        "description": "تجعل الطلب ألطف وأكثر تهذيبًا."
       },
       {
         "term": "like",
-        "description": "فعل يدل على الإعجاب أو الميل."
+        "description": "أرغب أو أود."
       },
       {
         "term": "a",
-        "description": "أداة نكرة تأتي قبل الاسم المفرد المعدود."
+        "description": "أداة تدل على شيء واحد غير محدد."
       },
       {
         "term": "single",
-        "description": "صفة تعني مفردة."
+        "description": "لشخص واحد."
       },
       {
         "term": "room",
-        "description": "اسم يعني غرفة."
+        "description": "غرفة، وغالبًا المقصود غرفة فندق هنا."
       }
     ],
-    "tense": null,
-    "tenseReason": "تتضمن الجملة فعلًا modal يعبّر عن القدرة أو الإمكانية أو الرغبة، لذلك لا نضع لها هنا زمنًا فعليًا مستقلًا على الرغم من وجود معنى زمني عام في السياق.",
+    "grammarExplanations": [
+      {
+        "sentence": "I would like a single room.",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه صيغة طلب مهذب باستخدام would like، وهي تعبر عن رغبة أو طلب ولا تعامل كزمن مستقل."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "People often say, \"I would like a single room\" in situations like this.",
-        "ar": "يقول الناس كثيرًا: \"أود غرفة مفردة\" في مواقف كهذه.",
-        "context": "تستخدم الجملة بوصفها تركيبًا شائعًا في موقف مشابه."
+        "en": "I would like a single room.",
+        "ar": "أود غرفة مفردة.",
+        "context": "تقال عند حجز غرفة لشخص واحد."
       },
       {
         "id": 2,
-        "en": "You can say, \"I would like a single room\" when this happens.",
-        "ar": "يمكنك أن تقول: \"أود غرفة مفردة\" عندما يحدث هذا.",
-        "context": "توضح أن الجملة مناسبة في موقف متكرر."
+        "en": "I would like a double room.",
+        "ar": "أود غرفة مزدوجة.",
+        "context": "تقال عند طلب غرفة لشخصين."
       },
       {
         "id": 3,
-        "en": "I heard someone say, \"I would like a single room\".",
-        "ar": "سمعت شخصًا يقول: \"أود غرفة مفردة\".",
-        "context": "تجعل الجملة جزءًا من كلام سمعته من شخص آخر."
+        "en": "I would like a room for one night.",
+        "ar": "أود غرفة لليلة واحدة.",
+        "context": "تقال عند تحديد مدة الإقامة."
       },
       {
         "id": 4,
-        "en": "The teacher used the sentence, \"I would like a single room\" in class.",
-        "ar": "استخدم المعلم الجملة: \"أود غرفة مفردة\" في الصف.",
-        "context": "تستخدم الجملة مثالًا تعليميًا في الصف."
+        "en": "I would like a room with a shower.",
+        "ar": "أود غرفة فيها دش.",
+        "context": "تقال عند طلب ميزة في الغرفة."
       },
       {
         "id": 5,
-        "en": "Many learners remember the sentence, \"I would like a single room\" first.",
-        "ar": "يتذكر كثير من المتعلمين الجملة: \"أود غرفة مفردة\" أولًا.",
-        "context": "تقدم الجملة بوصفها جملة تعليمية أساسية."
+        "en": "I would like a quiet room.",
+        "ar": "أود غرفة هادئة.",
+        "context": "تقال عند طلب غرفة بعيدة عن الضوضاء."
       },
       {
         "id": 6,
-        "en": "She said, \"I would like a single room\" in a calm way.",
-        "ar": "قالت: \"أود غرفة مفردة\" بطريقة هادئة.",
-        "context": "تجعل الجملة جزءًا من كلام مباشر في موقف عادي."
+        "en": "I would like a room near the elevator.",
+        "ar": "أود غرفة قريبة من المصعد.",
+        "context": "تقال عند طلب موقع معين للغرفة."
       },
       {
         "id": 7,
-        "en": "He repeated, \"I would like a single room\" more than once.",
-        "ar": "ردد: \"أود غرفة مفردة\" أكثر من مرة.",
-        "context": "تضيف معنى التكرار لنفس الجملة."
+        "en": "Would you like a single room?",
+        "ar": "هل تود غرفة مفردة؟",
+        "context": "تستخدم عند سؤال النزيل عن نوع الغرفة."
       },
       {
         "id": 8,
-        "en": "At the right moment, someone might say, \"I would like a single room\".",
-        "ar": "في اللحظة المناسبة، قد يقول شخص ما: \"أود غرفة مفردة\".",
-        "context": "توضح أن الجملة مرتبطة بتوقيت مناسب في السياق."
+        "en": "I would like a room on the second floor.",
+        "ar": "أود غرفة في الطابق الثاني.",
+        "context": "تقال عند تفضيل طابق معين."
       },
       {
         "id": 9,
-        "en": "I wrote down the sentence, \"I would like a single room\" so I would remember it.",
-        "ar": "كتبت الجملة: \"أود غرفة مفردة\" حتى أتذكرها.",
-        "context": "تعطي مثالًا على حفظ الجملة أو مراجعتها."
+        "en": "We would like two single rooms.",
+        "ar": "نود غرفتين مفردتين.",
+        "context": "تقال عند حجز غرف لشخصين منفصلين."
       },
       {
         "id": 10,
-        "en": "It is useful to know when to say, \"I would like a single room\".",
-        "ar": "من المفيد أن تعرف متى تقول: \"أود غرفة مفردة\".",
-        "context": "تركز على معرفة الوقت المناسب لاستخدام الجملة."
+        "en": "I would like to book a single room.",
+        "ar": "أود حجز غرفة مفردة.",
+        "context": "تقال عند طلب الحجز بشكل مباشر."
       }
     ]
   }

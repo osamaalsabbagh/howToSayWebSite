@@ -10,84 +10,91 @@
     "wordMeanings": [
       {
         "term": "This",
-        "description": "اسم إشارة يعني هذا."
+        "description": "هذا الشيء القريب أو الذي تشير إليه."
       },
       {
         "term": "does",
-        "description": "صيغة المضارع البسيط مع he/she/it من do."
+        "description": "تساعد هنا على تكوين النفي مع المفرد."
       },
       {
         "term": "not",
-        "description": "أداة نفي."
+        "description": "كلمة نفي تجعل المعنى لا يعمل."
       },
       {
         "term": "work",
-        "description": "العمل."
+        "description": "يعمل أو يؤدي وظيفته كما ينبغي."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "This does not work.",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "تستخدم does not مع الفعل الأساسي work لنفي أن الشيء يعمل أو يعطي النتيجة المطلوبة في الوقت الحالي."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "People often say, \"This does not work\" in situations like this.",
-        "ar": "يقول الناس كثيرًا: \"هذا لا يعمل\" في مواقف كهذه.",
-        "context": "تستخدم الجملة بوصفها تركيبًا شائعًا في موقف مشابه."
+        "en": "This phone does not work.",
+        "ar": "هذا الهاتف لا يعمل.",
+        "context": "تقال عند تعطل هاتف."
       },
       {
         "id": 2,
-        "en": "You can say, \"This does not work\" when this happens.",
-        "ar": "يمكنك أن تقول: \"هذا لا يعمل\" عندما يحدث هذا.",
-        "context": "توضح أن الجملة مناسبة في موقف متكرر."
+        "en": "The key does not work.",
+        "ar": "المفتاح لا يعمل.",
+        "context": "تقال عند عدم فتح الباب بالمفتاح."
       },
       {
         "id": 3,
-        "en": "I heard someone say, \"This does not work\".",
-        "ar": "سمعت شخصًا يقول: \"هذا لا يعمل\".",
-        "context": "تجعل الجملة جزءًا من كلام سمعته من شخص آخر."
+        "en": "This plan does not work.",
+        "ar": "هذه الخطة لا تنجح.",
+        "context": "تقال عند فشل خطة أو طريقة."
       },
       {
         "id": 4,
-        "en": "The teacher used the sentence, \"This does not work\" in class.",
-        "ar": "استخدم المعلم الجملة: \"هذا لا يعمل\" في الصف.",
-        "context": "تستخدم الجملة مثالًا تعليميًا في الصف."
+        "en": "The machine does not work.",
+        "ar": "الآلة لا تعمل.",
+        "context": "تقال عند تعطل جهاز."
       },
       {
         "id": 5,
-        "en": "Many learners remember the sentence, \"This does not work\" first.",
-        "ar": "يتذكر كثير من المتعلمين الجملة: \"هذا لا يعمل\" أولًا.",
-        "context": "تقدم الجملة بوصفها جملة تعليمية أساسية."
+        "en": "This button does not work.",
+        "ar": "هذا الزر لا يعمل.",
+        "context": "تقال عند الضغط على زر بلا نتيجة."
       },
       {
         "id": 6,
-        "en": "She said, \"This does not work\" in a calm way.",
-        "ar": "قالت: \"هذا لا يعمل\" بطريقة هادئة.",
-        "context": "تجعل الجملة جزءًا من كلام مباشر في موقف عادي."
+        "en": "My computer does not work today.",
+        "ar": "حاسوبي لا يعمل اليوم.",
+        "context": "تقال عند حدوث مشكلة في الحاسوب."
       },
       {
         "id": 7,
-        "en": "He repeated, \"This does not work\" more than once.",
-        "ar": "ردد: \"هذا لا يعمل\" أكثر من مرة.",
-        "context": "تضيف معنى التكرار لنفس الجملة."
+        "en": "That method does not work for me.",
+        "ar": "تلك الطريقة لا تنجح معي.",
+        "context": "تقال عند عدم مناسبة طريقة معينة."
       },
       {
         "id": 8,
-        "en": "At the right moment, someone might say, \"This does not work\".",
-        "ar": "في اللحظة المناسبة، قد يقول شخص ما: \"هذا لا يعمل\".",
-        "context": "توضح أن الجملة مرتبطة بتوقيت مناسب في السياق."
+        "en": "The light does not work.",
+        "ar": "المصباح لا يعمل.",
+        "context": "تقال عند عدم إضاءة مصباح."
       },
       {
         "id": 9,
-        "en": "I wrote down the sentence, \"This does not work\" so I would remember it.",
-        "ar": "كتبت الجملة: \"هذا لا يعمل\" حتى أتذكرها.",
-        "context": "تعطي مثالًا على حفظ الجملة أو مراجعتها."
+        "en": "This card does not work here.",
+        "ar": "هذه البطاقة لا تعمل هنا.",
+        "context": "تقال عند رفض جهاز أو نظام للبطاقة."
       },
       {
         "id": 10,
-        "en": "It is useful to know when to say, \"This does not work\".",
-        "ar": "من المفيد أن تعرف متى تقول: \"هذا لا يعمل\".",
-        "context": "تركز على معرفة الوقت المناسب لاستخدام الجملة."
+        "en": "The old charger does not work.",
+        "ar": "الشاحن القديم لا يعمل.",
+        "context": "تقال عند تعطل شاحن."
       }
     ]
   }

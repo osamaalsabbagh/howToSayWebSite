@@ -10,80 +10,87 @@
     "wordMeanings": [
       {
         "term": "You",
-        "description": "الضمير الذي يعود على الشخص المخاطَب."
+        "description": "ضمير يشير إلى الشخص الذي أتحدث معه."
       },
       {
         "term": "are",
-        "description": "فعل be مع you."
+        "description": "صيغة تربط المخاطب بوصفه أو حالته."
       },
       {
         "term": "beautiful",
-        "description": "صفة تعني جميل."
+        "description": "جميل في المظهر أو الشكل."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "You are beautiful.",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "تستخدم are مع المخاطب لوصف صفة حالية، وهي الجمال في المظهر."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "People often say, \"You are beautiful\" in situations like this.",
-        "ar": "يقول الناس كثيرًا: \"أنت جميل\" في مواقف كهذه.",
-        "context": "تستخدم الجملة بوصفها تركيبًا شائعًا في موقف مشابه."
+        "en": "You are beautiful today.",
+        "ar": "أنت جميل اليوم.",
+        "context": "تقال عند مدح مظهر شخص في يوم معين."
       },
       {
         "id": 2,
-        "en": "You can say, \"You are beautiful\" when this happens.",
-        "ar": "يمكنك أن تقول: \"أنت جميل\" عندما يحدث هذا.",
-        "context": "توضح أن الجملة مناسبة في موقف متكرر."
+        "en": "She is very beautiful.",
+        "ar": "هي جميلة جدًا.",
+        "context": "تقال عند وصف جمال امرأة أو فتاة."
       },
       {
         "id": 3,
-        "en": "I heard someone say, \"You are beautiful\".",
-        "ar": "سمعت شخصًا يقول: \"أنت جميل\".",
-        "context": "تجعل الجملة جزءًا من كلام سمعته من شخص آخر."
+        "en": "Your dress is beautiful.",
+        "ar": "فستانك جميل.",
+        "context": "تقال عند مدح فستان شخص."
       },
       {
         "id": 4,
-        "en": "The teacher used the sentence, \"You are beautiful\" in class.",
-        "ar": "استخدم المعلم الجملة: \"أنت جميل\" في الصف.",
-        "context": "تستخدم الجملة مثالًا تعليميًا في الصف."
+        "en": "This place is beautiful.",
+        "ar": "هذا المكان جميل.",
+        "context": "تقال عند الإعجاب بمنظر أو مكان."
       },
       {
         "id": 5,
-        "en": "Many learners remember the sentence, \"You are beautiful\" first.",
-        "ar": "يتذكر كثير من المتعلمين الجملة: \"أنت جميل\" أولًا.",
-        "context": "تقدم الجملة بوصفها جملة تعليمية أساسية."
+        "en": "You look beautiful.",
+        "ar": "تبدو جميلًا.",
+        "context": "تقال عند مدح مظهر شخص مباشرة."
       },
       {
         "id": 6,
-        "en": "She said, \"You are beautiful\" in a calm way.",
-        "ar": "قالت: \"أنت جميل\" بطريقة هادئة.",
-        "context": "تجعل الجملة جزءًا من كلام مباشر في موقف عادي."
+        "en": "The garden is beautiful.",
+        "ar": "الحديقة جميلة.",
+        "context": "تقال عند وصف حديقة جميلة."
       },
       {
         "id": 7,
-        "en": "He repeated, \"You are beautiful\" more than once.",
-        "ar": "ردد: \"أنت جميل\" أكثر من مرة.",
-        "context": "تضيف معنى التكرار لنفس الجملة."
+        "en": "Her smile is beautiful.",
+        "ar": "ابتسامتها جميلة.",
+        "context": "تقال عند مدح ابتسامة شخص."
       },
       {
         "id": 8,
-        "en": "At the right moment, someone might say, \"You are beautiful\".",
-        "ar": "في اللحظة المناسبة، قد يقول شخص ما: \"أنت جميل\".",
-        "context": "توضح أن الجملة مرتبطة بتوقيت مناسب في السياق."
+        "en": "The picture is beautiful.",
+        "ar": "الصورة جميلة.",
+        "context": "تقال عند الإعجاب بصورة."
       },
       {
         "id": 9,
-        "en": "I wrote down the sentence, \"You are beautiful\" so I would remember it.",
-        "ar": "كتبت الجملة: \"أنت جميل\" حتى أتذكرها.",
-        "context": "تعطي مثالًا على حفظ الجملة أو مراجعتها."
+        "en": "You are beautiful in this photo.",
+        "ar": "أنت جميل في هذه الصورة.",
+        "context": "تقال عند مدح مظهر شخص في صورة."
       },
       {
         "id": 10,
-        "en": "It is useful to know when to say, \"You are beautiful\".",
-        "ar": "من المفيد أن تعرف متى تقول: \"أنت جميل\".",
-        "context": "تركز على معرفة الوقت المناسب لاستخدام الجملة."
+        "en": "The view is beautiful.",
+        "ar": "المنظر جميل.",
+        "context": "تقال عند الإعجاب بمنظر طبيعي أو مدينة."
       }
     ]
   }

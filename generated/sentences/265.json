@@ -10,80 +10,87 @@
     "wordMeanings": [
       {
         "term": "Here",
-        "description": "ظرف مكان يعني هنا."
+        "description": "هنا أو ها، وتستخدم عند تقديم شيء قريب."
       },
       {
         "term": "it",
-        "description": "ضمير يعود على الشيء أو الجملة التي قيلت."
+        "description": "هو أو الشيء المقصود."
       },
       {
         "term": "is",
-        "description": "فعل be في الحاضر مع المفرد."
+        "description": "تربط الإشارة بالشيء الموجود الآن."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "Here it is.",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه عبارة تقديم أو إشارة ثابتة تستخدم عند إعطاء شيء أو إظهاره، ولا يكون التركيز فيها على زمن مستقل."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "People often say, \"Here it is\" in situations like this.",
-        "ar": "يقول الناس كثيرًا: \"ها هو\" في مواقف كهذه.",
-        "context": "تستخدم الجملة بوصفها تركيبًا شائعًا في موقف مشابه."
+        "en": "Here it is.",
+        "ar": "ها هو.",
+        "context": "تقال عند تقديم شيء أو الإشارة إليه."
       },
       {
         "id": 2,
-        "en": "You can say, \"Here it is\" when this happens.",
-        "ar": "يمكنك أن تقول: \"ها هو\" عندما يحدث هذا.",
-        "context": "توضح أن الجملة مناسبة في موقف متكرر."
+        "en": "Here is your ticket.",
+        "ar": "ها هي تذكرتك.",
+        "context": "تقال عند إعطاء تذكرة لشخص."
       },
       {
         "id": 3,
-        "en": "I heard someone say, \"Here it is\".",
-        "ar": "سمعت شخصًا يقول: \"ها هو\".",
-        "context": "تجعل الجملة جزءًا من كلام سمعته من شخص آخر."
+        "en": "Here is the phone number.",
+        "ar": "ها هو رقم الهاتف.",
+        "context": "تقال عند تقديم رقم هاتف."
       },
       {
         "id": 4,
-        "en": "The teacher used the sentence, \"Here it is\" in class.",
-        "ar": "استخدم المعلم الجملة: \"ها هو\" في الصف.",
-        "context": "تستخدم الجملة مثالًا تعليميًا في الصف."
+        "en": "Here is your change.",
+        "ar": "ها هي فكتك.",
+        "context": "تقال عند إعطاء الباقي بعد الدفع."
       },
       {
         "id": 5,
-        "en": "Many learners remember the sentence, \"Here it is\" first.",
-        "ar": "يتذكر كثير من المتعلمين الجملة: \"ها هو\" أولًا.",
-        "context": "تقدم الجملة بوصفها جملة تعليمية أساسية."
+        "en": "Here is the address.",
+        "ar": "ها هو العنوان.",
+        "context": "تقال عند تقديم عنوان."
       },
       {
         "id": 6,
-        "en": "She said, \"Here it is\" in a calm way.",
-        "ar": "قالت: \"ها هو\" بطريقة هادئة.",
-        "context": "تجعل الجملة جزءًا من كلام مباشر في موقف عادي."
+        "en": "Here is my passport.",
+        "ar": "ها هو جواز سفري.",
+        "context": "تقال عند تسليم جواز السفر."
       },
       {
         "id": 7,
-        "en": "He repeated, \"Here it is\" more than once.",
-        "ar": "ردد: \"ها هو\" أكثر من مرة.",
-        "context": "تضيف معنى التكرار لنفس الجملة."
+        "en": "Here are the keys.",
+        "ar": "ها هي المفاتيح.",
+        "context": "تقال عند إعطاء مفاتيح."
       },
       {
         "id": 8,
-        "en": "At the right moment, someone might say, \"Here it is\".",
-        "ar": "في اللحظة المناسبة، قد يقول شخص ما: \"ها هو\".",
-        "context": "توضح أن الجملة مرتبطة بتوقيت مناسب في السياق."
+        "en": "Here it is on the map.",
+        "ar": "ها هو على الخريطة.",
+        "context": "تقال عند الإشارة إلى مكان على خريطة."
       },
       {
         "id": 9,
-        "en": "I wrote down the sentence, \"Here it is\" so I would remember it.",
-        "ar": "كتبت الجملة: \"ها هو\" حتى أتذكرها.",
-        "context": "تعطي مثالًا على حفظ الجملة أو مراجعتها."
+        "en": "Here it is, I found it.",
+        "ar": "ها هو، وجدته.",
+        "context": "تقال عند العثور على شيء كان مفقودًا."
       },
       {
         "id": 10,
-        "en": "It is useful to know when to say, \"Here it is\".",
-        "ar": "من المفيد أن تعرف متى تقول: \"ها هو\".",
-        "context": "تركز على معرفة الوقت المناسب لاستخدام الجملة."
+        "en": "Here is what you asked for.",
+        "ar": "ها هو ما طلبته.",
+        "context": "تقال عند تقديم شيء مطلوب."
       }
     ]
   }

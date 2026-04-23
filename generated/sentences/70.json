@@ -10,92 +10,107 @@
     "wordMeanings": [
       {
         "term": "I",
-        "description": "ضمير المتكلم."
+        "description": "ضمير المتكلم ويشير إلى الشخص الذي يتحدث."
       },
       {
         "term": "thought",
-        "description": "فعل يعني اعتقدت."
+        "description": "اعتقدت أو ظننت في الماضي."
       },
       {
         "term": "the",
-        "description": "أداة تعريف تشير إلى شيء معروف أو محدد."
+        "description": "أداة تشير إلى ملابس محددة معروفة من السياق."
       },
       {
         "term": "clothes",
-        "description": "اسم جمع يعني ملابس."
+        "description": "ملابس أو قطع ملبوسة."
       },
       {
         "term": "were",
-        "description": "فعل be في الماضي مع الجمع أو مع you."
+        "description": "صيغة ماضية تربط الجمع بوصفه."
       },
       {
         "term": "cheaper",
-        "description": "صفة تعني أرخص."
+        "description": "أرخص أو أقل سعرًا من المتوقع أو من شيء آخر."
       }
     ],
-    "tense": "الماضي البسيط",
-    "tenseEn": "Past Simple",
-    "tenseReason": "استُعمل الماضي البسيط لأن الجملة تتحدث عن حدث وقع في الماضي واكتمل هناك.",
+    "grammarExplanations": [
+      {
+        "sentence": "I thought",
+        "explanation": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "تستخدم thought في الماضي البسيط للتعبير عن اعتقاد سابق تغيّر أو ظهر أنه غير مطابق للتوقع."
+        }
+      },
+      {
+        "sentence": "the clothes were cheaper",
+        "explanation": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "تستخدم were لوصف توقع سابق عن سعر الملابس، وتأتي cheaper للمقارنة مع السعر الحقيقي أو المتوقع."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "People often say, \"I thought the clothes were cheaper\" in situations like this.",
-        "ar": "يقول الناس كثيرًا: \"اعتقدت أن الملابس كانت أرخص\" في مواقف كهذه.",
-        "context": "تستخدم الجملة بوصفها تركيبًا شائعًا في موقف مشابه."
+        "en": "I thought the hotel was cheaper.",
+        "ar": "اعتقدت أن الفندق كان أرخص.",
+        "context": "تقال عند الاستغراب من سعر فندق."
       },
       {
         "id": 2,
-        "en": "You can say, \"I thought the clothes were cheaper\" when this happens.",
-        "ar": "يمكنك أن تقول: \"اعتقدت أن الملابس كانت أرخص\" عندما يحدث هذا.",
-        "context": "توضح أن الجملة مناسبة في موقف متكرر."
+        "en": "She thought the bag was smaller.",
+        "ar": "هي اعتقدت أن الحقيبة كانت أصغر.",
+        "context": "تقال عند اختلاف الحجم عن التوقع."
       },
       {
         "id": 3,
-        "en": "I heard someone say, \"I thought the clothes were cheaper\".",
-        "ar": "سمعت شخصًا يقول: \"اعتقدت أن الملابس كانت أرخص\".",
-        "context": "تجعل الجملة جزءًا من كلام سمعته من شخص آخر."
+        "en": "I thought the tickets were cheaper.",
+        "ar": "اعتقدت أن التذاكر كانت أرخص.",
+        "context": "تقال عند الاستغراب من سعر التذاكر."
       },
       {
         "id": 4,
-        "en": "The teacher used the sentence, \"I thought the clothes were cheaper\" in class.",
-        "ar": "استخدم المعلم الجملة: \"اعتقدت أن الملابس كانت أرخص\" في الصف.",
-        "context": "تستخدم الجملة مثالًا تعليميًا في الصف."
+        "en": "He thought the restaurant was open.",
+        "ar": "هو اعتقد أن المطعم كان مفتوحًا.",
+        "context": "تقال عندما يتبين أن مطعمًا مغلق."
       },
       {
         "id": 5,
-        "en": "Many learners remember the sentence, \"I thought the clothes were cheaper\" first.",
-        "ar": "يتذكر كثير من المتعلمين الجملة: \"اعتقدت أن الملابس كانت أرخص\" أولًا.",
-        "context": "تقدم الجملة بوصفها جملة تعليمية أساسية."
+        "en": "We thought the road was shorter.",
+        "ar": "اعتقدنا أن الطريق كان أقصر.",
+        "context": "تقال عند طول الطريق أكثر من المتوقع."
       },
       {
         "id": 6,
-        "en": "She said, \"I thought the clothes were cheaper\" in a calm way.",
-        "ar": "قالت: \"اعتقدت أن الملابس كانت أرخص\" بطريقة هادئة.",
-        "context": "تجعل الجملة جزءًا من كلام مباشر في موقف عادي."
+        "en": "I thought the shoes were bigger.",
+        "ar": "اعتقدت أن الحذاءين كانا أكبر.",
+        "context": "تقال عند اختلاف المقاس عن التوقع."
       },
       {
         "id": 7,
-        "en": "He repeated, \"I thought the clothes were cheaper\" more than once.",
-        "ar": "ردد: \"اعتقدت أن الملابس كانت أرخص\" أكثر من مرة.",
-        "context": "تضيف معنى التكرار لنفس الجملة."
+        "en": "They thought the class was easier.",
+        "ar": "هم اعتقدوا أن الدرس كان أسهل.",
+        "context": "تقال عند صعوبة الدرس أكثر من المتوقع."
       },
       {
         "id": 8,
-        "en": "At the right moment, someone might say, \"I thought the clothes were cheaper\".",
-        "ar": "في اللحظة المناسبة، قد يقول شخص ما: \"اعتقدت أن الملابس كانت أرخص\".",
-        "context": "توضح أن الجملة مرتبطة بتوقيت مناسب في السياق."
+        "en": "My father thought the car was newer.",
+        "ar": "أبي اعتقد أن السيارة كانت أحدث.",
+        "context": "تقال عند اكتشاف أن السيارة أقدم من المتوقع."
       },
       {
         "id": 9,
-        "en": "I wrote down the sentence, \"I thought the clothes were cheaper\" so I would remember it.",
-        "ar": "كتبت الجملة: \"اعتقدت أن الملابس كانت أرخص\" حتى أتذكرها.",
-        "context": "تعطي مثالًا على حفظ الجملة أو مراجعتها."
+        "en": "I thought the price was lower.",
+        "ar": "اعتقدت أن السعر كان أقل.",
+        "context": "تقال عند المفاجأة من ارتفاع السعر."
       },
       {
         "id": 10,
-        "en": "It is useful to know when to say, \"I thought the clothes were cheaper\".",
-        "ar": "من المفيد أن تعرف متى تقول: \"اعتقدت أن الملابس كانت أرخص\".",
-        "context": "تركز على معرفة الوقت المناسب لاستخدام الجملة."
+        "en": "She thought the store was closer.",
+        "ar": "هي اعتقدت أن المتجر كان أقرب.",
+        "context": "تقال عند بعد المكان أكثر من المتوقع."
       }
     ]
   }

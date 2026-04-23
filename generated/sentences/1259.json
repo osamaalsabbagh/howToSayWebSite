@@ -10,75 +10,83 @@
     "wordMeanings": [
       {
         "term": "Be",
-        "description": "فعل أمر من be."
+        "description": "تأتي هنا في بداية طلب أو تنبيه لتكون في حالة معينة."
       },
       {
         "term": "careful",
-        "description": "صفة تعني حذر أو منتبه."
+        "description": "حذر أو منتبه للخطر."
       }
     ],
-    "tense": null,
-    "tenseReason": "استُعمل فعل الأمر لأن المتكلم يوجّه تحذيرًا مباشرًا الآن أو قبل موقف قد يكون فيه خطر أو خطأ.",
+    "grammarExplanations": [
+      {
+        "sentence": "Be careful.",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "الجملة تنبيه بصيغة الأمر للتحذير أو طلب الانتباه، وليست زمنًا مستقلًا."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "Be careful on the stairs.",
-        "ar": "كن حذرًا على الدرج.",
-        "context": "تحذر شخصًا من مكان خطر."
+        "en": "Be careful on the road.",
+        "ar": "كن حذرًا على الطريق.",
+        "context": "تقال عند التحذير من الطريق."
       },
       {
         "id": 2,
-        "en": "Be careful with that glass.",
-        "ar": "كن حذرًا مع ذلك الزجاج.",
-        "context": "تحذر من شيء قابل للكسر أو يسبب أذى."
+        "en": "Be careful with the knife.",
+        "ar": "كن حذرًا مع السكين.",
+        "context": "تقال عند استخدام أداة حادة."
       },
       {
         "id": 3,
-        "en": "Be careful near the road.",
-        "ar": "كن حذرًا قرب الطريق.",
-        "context": "تحذير بسبب السيارات أو الحركة."
+        "en": "Be careful when you cross the street.",
+        "ar": "كن حذرًا عندما تعبر الشارع.",
+        "context": "تقال للتحذير أثناء عبور الطريق."
       },
       {
         "id": 4,
-        "en": "Be careful when you open the box.",
-        "ar": "كن حذرًا عندما تفتح الصندوق.",
-        "context": "تحذير قبل فعل معين."
+        "en": "Please be careful.",
+        "ar": "من فضلك كن حذرًا.",
+        "context": "صيغة ألطف للتنبيه."
       },
       {
         "id": 5,
-        "en": "Be careful, it is hot.",
-        "ar": "كن حذرًا، إنه ساخن.",
-        "context": "تحذير بسبب شيء مؤذٍ كالسخونة."
+        "en": "Be careful with your phone.",
+        "ar": "كن حذرًا مع هاتفك.",
+        "context": "تقال عند الخوف من ضياع أو كسر شيء."
       },
       {
         "id": 6,
-        "en": "Be careful not to fall.",
-        "ar": "كن حذرًا كي لا تقع.",
-        "context": "تحذير من خطر السقوط."
+        "en": "Be careful in the kitchen.",
+        "ar": "كن حذرًا في المطبخ.",
+        "context": "تقال عند وجود نار أو أدوات حادة."
       },
       {
         "id": 7,
-        "en": "Be careful with your words.",
-        "ar": "كن حذرًا في كلماتك.",
-        "context": "تحذير من أثر الكلام."
+        "en": "Be careful, the floor is wet.",
+        "ar": "كن حذرًا، الأرض مبللة.",
+        "context": "تقال للتحذير من الانزلاق."
       },
       {
         "id": 8,
-        "en": "Be careful around the children.",
-        "ar": "كن حذرًا حول الأطفال.",
-        "context": "تنبيه إلى ضرورة الانتباه في وجود الأطفال."
+        "en": "Be careful with that box.",
+        "ar": "كن حذرًا مع ذلك الصندوق.",
+        "context": "تقال عند حمل شيء قابل للكسر."
       },
       {
         "id": 9,
-        "en": "Be careful with the money.",
-        "ar": "كن حذرًا مع المال.",
-        "context": "تحذير بخصوص التصرف أو الحفظ."
+        "en": "Be careful at night.",
+        "ar": "كن حذرًا في الليل.",
+        "context": "تقال للتحذير في وقت قد يكون أقل أمانًا."
       },
       {
         "id": 10,
-        "en": "Be careful in the dark.",
-        "ar": "كن حذرًا في الظلام.",
-        "context": "تحذير بسبب ضعف الرؤية."
+        "en": "Be careful with your words.",
+        "ar": "كن حذرًا في كلامك.",
+        "context": "تقال للتحذير من إيذاء الآخرين بالكلام."
       }
     ]
   }

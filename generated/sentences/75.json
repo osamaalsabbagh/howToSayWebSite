@@ -10,112 +10,127 @@
     "wordMeanings": [
       {
         "term": "I",
-        "description": "ضمير المتكلم."
+        "description": "ضمير المتكلم ويشير إلى الشخص الذي يتحدث."
       },
       {
         "term": "was",
-        "description": "فعل be في الماضي مع المفرد."
+        "description": "صيغة ماضية تأتي مع ضمير المتكلم وتصف حالة في الماضي."
       },
       {
         "term": "about",
-        "description": "حرف جر أو ظرف يعني عن أو تقريبًا حسب السياق."
+        "description": "جزء من تعبير يدل على أن الفعل كان على وشك الحدوث."
       },
       {
         "term": "to",
-        "description": "أداة تأتي قبل المصدر بعد أفعال مثل want."
+        "description": "تربط التعبير بالفعل الذي كان سيحدث."
       },
       {
         "term": "leave",
-        "description": "فعل يعني يغادر أو يترك."
+        "description": "أغادر أو أترك المكان."
       },
       {
         "term": "the",
-        "description": "أداة تعريف تشير إلى شيء معروف أو محدد."
+        "description": "أداة تشير إلى مطعم محدد معروف من السياق."
       },
       {
         "term": "restaurant",
-        "description": "اسم يعني مطعم."
+        "description": "مطعم أو مكان لتناول الطعام."
       },
       {
         "term": "when",
-        "description": "أداة أو ظرف يعني عندما."
+        "description": "عندما، وتربط حدثًا بوقت حدث آخر."
       },
       {
         "term": "my",
-        "description": "صفة ملكية تعني خاصتي."
+        "description": "كلمة تدل على أن الأصدقاء يخصون المتكلم."
       },
       {
         "term": "friends",
-        "description": "اسم يعني أصدقائي."
+        "description": "أصدقاء أو أشخاص قريبون اجتماعيًا."
       },
       {
         "term": "arrived",
-        "description": "صيغة الماضي من arrive وتعني وصل."
+        "description": "وصلوا إلى المكان."
       }
     ],
-    "tense": "الماضي البسيط",
-    "tenseEn": "Past Simple",
-    "tenseReason": "استُعمل الماضي البسيط لأن الجملة تتحدث عن حدث وقع في الماضي واكتمل هناك.",
+    "grammarExplanations": [
+      {
+        "sentence": "I was about to leave the restaurant",
+        "explanation": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "تستخدم was about to مع الفعل للتعبير عن فعل كان قريبًا جدًا من الحدوث في الماضي، وهو مغادرة المطعم."
+        }
+      },
+      {
+        "sentence": "when my friends arrived",
+        "explanation": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "تستخدم arrived في الماضي البسيط لحدث مكتمل قطع الخطة أو غيّرها، وهو وصول الأصدقاء."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "People often say, \"I was about to leave the restaurant when my friends arrived\" in situations like this.",
-        "ar": "يقول الناس كثيرًا: \"كنت على وشك مغادرة المطعم عندما وصل أصدقائي\" في مواقف كهذه.",
-        "context": "تستخدم الجملة بوصفها تركيبًا شائعًا في موقف مشابه."
+        "en": "I was about to call you when you arrived.",
+        "ar": "كنت على وشك الاتصال بك عندما وصلت.",
+        "context": "تقال عندما يحدث وصول شخص قبل الاتصال به."
       },
       {
         "id": 2,
-        "en": "You can say, \"I was about to leave the restaurant when my friends arrived\" when this happens.",
-        "ar": "يمكنك أن تقول: \"كنت على وشك مغادرة المطعم عندما وصل أصدقائي\" عندما يحدث هذا.",
-        "context": "توضح أن الجملة مناسبة في موقف متكرر."
+        "en": "She was about to sleep when the phone rang.",
+        "ar": "كانت على وشك النوم عندما رن الهاتف.",
+        "context": "تقال عندما يقطع اتصال هاتفي خطة النوم."
       },
       {
         "id": 3,
-        "en": "I heard someone say, \"I was about to leave the restaurant when my friends arrived\".",
-        "ar": "سمعت شخصًا يقول: \"كنت على وشك مغادرة المطعم عندما وصل أصدقائي\".",
-        "context": "تجعل الجملة جزءًا من كلام سمعته من شخص آخر."
+        "en": "We were about to eat when our guests came.",
+        "ar": "كنا على وشك الأكل عندما جاء ضيوفنا.",
+        "context": "تقال عند تغير توقيت الطعام بسبب وصول ضيوف."
       },
       {
         "id": 4,
-        "en": "The teacher used the sentence, \"I was about to leave the restaurant when my friends arrived\" in class.",
-        "ar": "استخدم المعلم الجملة: \"كنت على وشك مغادرة المطعم عندما وصل أصدقائي\" في الصف.",
-        "context": "تستخدم الجملة مثالًا تعليميًا في الصف."
+        "en": "He was about to leave when it started raining.",
+        "ar": "كان على وشك المغادرة عندما بدأ المطر.",
+        "context": "تقال عندما يغير الطقس خطة المغادرة."
       },
       {
         "id": 5,
-        "en": "Many learners remember the sentence, \"I was about to leave the restaurant when my friends arrived\" first.",
-        "ar": "يتذكر كثير من المتعلمين الجملة: \"كنت على وشك مغادرة المطعم عندما وصل أصدقائي\" أولًا.",
-        "context": "تقدم الجملة بوصفها جملة تعليمية أساسية."
+        "en": "I was about to pay when my friend paid.",
+        "ar": "كنت على وشك الدفع عندما دفع صديقي.",
+        "context": "تقال عندما يقوم شخص آخر بالدفع قبل المتكلم."
       },
       {
         "id": 6,
-        "en": "She said, \"I was about to leave the restaurant when my friends arrived\" in a calm way.",
-        "ar": "قالت: \"كنت على وشك مغادرة المطعم عندما وصل أصدقائي\" بطريقة هادئة.",
-        "context": "تجعل الجملة جزءًا من كلام مباشر في موقف عادي."
+        "en": "They were about to start when the manager entered.",
+        "ar": "كانوا على وشك البدء عندما دخل المدير.",
+        "context": "تقال عندما يغير دخول شخص وقت البدء."
       },
       {
         "id": 7,
-        "en": "He repeated, \"I was about to leave the restaurant when my friends arrived\" more than once.",
-        "ar": "ردد: \"كنت على وشك مغادرة المطعم عندما وصل أصدقائي\" أكثر من مرة.",
-        "context": "تضيف معنى التكرار لنفس الجملة."
+        "en": "I was about to send the message when you called.",
+        "ar": "كنت على وشك إرسال الرسالة عندما اتصلت.",
+        "context": "تقال عندما تغني المكالمة عن إرسال رسالة."
       },
       {
         "id": 8,
-        "en": "At the right moment, someone might say, \"I was about to leave the restaurant when my friends arrived\".",
-        "ar": "في اللحظة المناسبة، قد يقول شخص ما: \"كنت على وشك مغادرة المطعم عندما وصل أصدقائي\".",
-        "context": "توضح أن الجملة مرتبطة بتوقيت مناسب في السياق."
+        "en": "My brother was about to go home when his teacher stopped him.",
+        "ar": "كان أخي على وشك العودة إلى البيت عندما أوقفه معلمه.",
+        "context": "تقال عندما تتغير خطة العودة بسبب طلب شخص."
       },
       {
         "id": 9,
-        "en": "I wrote down the sentence, \"I was about to leave the restaurant when my friends arrived\" so I would remember it.",
-        "ar": "كتبت الجملة: \"كنت على وشك مغادرة المطعم عندما وصل أصدقائي\" حتى أتذكرها.",
-        "context": "تعطي مثالًا على حفظ الجملة أو مراجعتها."
+        "en": "The train was about to leave when we reached the station.",
+        "ar": "كان القطار على وشك المغادرة عندما وصلنا إلى المحطة.",
+        "context": "تقال عند الوصول في آخر لحظة."
       },
       {
         "id": 10,
-        "en": "It is useful to know when to say, \"I was about to leave the restaurant when my friends arrived\".",
-        "ar": "من المفيد أن تعرف متى تقول: \"كنت على وشك مغادرة المطعم عندما وصل أصدقائي\".",
-        "context": "تركز على معرفة الوقت المناسب لاستخدام الجملة."
+        "en": "I was about to close the door when she came in.",
+        "ar": "كنت على وشك إغلاق الباب عندما دخلت.",
+        "context": "تقال عندما يحدث دخول شخص قبل إغلاق الباب."
       }
     ]
   }

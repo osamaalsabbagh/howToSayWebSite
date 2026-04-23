@@ -10,80 +10,87 @@
     "wordMeanings": [
       {
         "term": "That",
-        "description": "تشير إلى أمر أو خبر سبق ذكره."
+        "description": "ذلك الشيء أو الكلام الذي تشير إليه."
       },
       {
         "term": "is",
-        "description": "فعل be في الحاضر مع المفرد."
+        "description": "صيغة تأتي مع المفرد وتربط الشيء بحكمك عليه."
       },
       {
         "term": "right",
-        "description": "هنا جزء من All right التي تدل على القبول أو الموافقة، وليس المقصود فقط معنى \"صحيح\" أو \"يمين\"."
+        "description": "صحيح أو مناسب."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "That is right.",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "تستخدم is مع صفة للتأكيد على أن الشيء أو الكلام صحيح في الوقت الحالي."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "People often say, \"That is right\" in situations like this.",
-        "ar": "يقول الناس كثيرًا: \"ذلك صحيح\" في مواقف كهذه.",
-        "context": "تستخدم الجملة بوصفها تركيبًا شائعًا في موقف مشابه."
+        "en": "This is right.",
+        "ar": "هذا صحيح.",
+        "context": "تقال عند تأكيد صحة شيء قريب."
       },
       {
         "id": 2,
-        "en": "You can say, \"That is right\" when this happens.",
-        "ar": "يمكنك أن تقول: \"ذلك صحيح\" عندما يحدث هذا.",
-        "context": "توضح أن الجملة مناسبة في موقف متكرر."
+        "en": "Your answer is right.",
+        "ar": "إجابتك صحيحة.",
+        "context": "تقال عند تصحيح أو تأكيد إجابة."
       },
       {
         "id": 3,
-        "en": "I heard someone say, \"That is right\".",
-        "ar": "سمعت شخصًا يقول: \"ذلك صحيح\".",
-        "context": "تجعل الجملة جزءًا من كلام سمعته من شخص آخر."
+        "en": "The number is right.",
+        "ar": "الرقم صحيح.",
+        "context": "تقال عند التحقق من رقم."
       },
       {
         "id": 4,
-        "en": "The teacher used the sentence, \"That is right\" in class.",
-        "ar": "استخدم المعلم الجملة: \"ذلك صحيح\" في الصف.",
-        "context": "تستخدم الجملة مثالًا تعليميًا في الصف."
+        "en": "That address is right.",
+        "ar": "ذلك العنوان صحيح.",
+        "context": "تقال عند التأكد من عنوان."
       },
       {
         "id": 5,
-        "en": "Many learners remember the sentence, \"That is right\" first.",
-        "ar": "يتذكر كثير من المتعلمين الجملة: \"ذلك صحيح\" أولًا.",
-        "context": "تقدم الجملة بوصفها جملة تعليمية أساسية."
+        "en": "The time is right.",
+        "ar": "الوقت مناسب.",
+        "context": "تقال عند ملاءمة الوقت لفعل شيء."
       },
       {
         "id": 6,
-        "en": "She said, \"That is right\" in a calm way.",
-        "ar": "قالت: \"ذلك صحيح\" بطريقة هادئة.",
-        "context": "تجعل الجملة جزءًا من كلام مباشر في موقف عادي."
+        "en": "She is right.",
+        "ar": "هي على حق.",
+        "context": "تقال عند تأكيد صحة رأي امرأة أو فتاة."
       },
       {
         "id": 7,
-        "en": "He repeated, \"That is right\" more than once.",
-        "ar": "ردد: \"ذلك صحيح\" أكثر من مرة.",
-        "context": "تضيف معنى التكرار لنفس الجملة."
+        "en": "That is the right choice.",
+        "ar": "ذلك هو الاختيار الصحيح.",
+        "context": "تقال عند تأكيد اختيار مناسب."
       },
       {
         "id": 8,
-        "en": "At the right moment, someone might say, \"That is right\".",
-        "ar": "في اللحظة المناسبة، قد يقول شخص ما: \"ذلك صحيح\".",
-        "context": "توضح أن الجملة مرتبطة بتوقيت مناسب في السياق."
+        "en": "Your idea is right.",
+        "ar": "فكرتك صحيحة.",
+        "context": "تقال عند تأييد فكرة."
       },
       {
         "id": 9,
-        "en": "I wrote down the sentence, \"That is right\" so I would remember it.",
-        "ar": "كتبت الجملة: \"ذلك صحيح\" حتى أتذكرها.",
-        "context": "تعطي مثالًا على حفظ الجملة أو مراجعتها."
+        "en": "The teacher is right.",
+        "ar": "المعلم على حق.",
+        "context": "تقال عند تأكيد صحة كلام المعلم."
       },
       {
         "id": 10,
-        "en": "It is useful to know when to say, \"That is right\".",
-        "ar": "من المفيد أن تعرف متى تقول: \"ذلك صحيح\".",
-        "context": "تركز على معرفة الوقت المناسب لاستخدام الجملة."
+        "en": "That was the right answer.",
+        "ar": "كانت تلك الإجابة الصحيحة.",
+        "context": "تقال بعد معرفة أن إجابة سابقة صحيحة."
       }
     ]
   }

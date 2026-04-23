@@ -10,75 +10,83 @@
     "wordMeanings": [
       {
         "term": "Next",
-        "description": "صفة أو ظرف يعني التالي أو القادم."
+        "description": "القادم أو التالي."
       },
       {
         "term": "time",
-        "description": "تكرار الكلمة هنا جزء من التعبير الثابت الذي يعني أحيانًا أو من وقت لآخر."
+        "description": "مرة أو فرصة حدوث."
       }
     ],
-    "tense": null,
-    "tenseReason": "استُعمل هذا التعبير لأنه عبارة ثابتة أو رد قصير يُستخدم في موقف محدد، وليس جملة فعلية كاملة بزمن واضح.",
+    "grammarExplanations": [
+      {
+        "sentence": "Next time.",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذا تعبير قصير يشير إلى فرصة لاحقة، ولا يحتوي على فعل ظاهر أو زمن مستقل."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "In this situation, people often say, \"Next time\".",
-        "ar": "في هذا الموقف، يقول الناس كثيرًا: \"في المرة القادمة\".",
-        "context": "توضح أن العبارة مناسبة في هذا النوع من المواقف."
+        "en": "Maybe next time.",
+        "ar": "ربما في المرة القادمة.",
+        "context": "تقال عند عدم القدرة على فعل شيء الآن."
       },
       {
         "id": 2,
-        "en": "The teacher said, \"Next time\" to the students.",
-        "ar": "قال المعلم للطلاب: \"في المرة القادمة\".",
-        "context": "تستخدم الجملة كتعليمات أو توجيه مباشر."
+        "en": "We can go next time.",
+        "ar": "يمكننا الذهاب في المرة القادمة.",
+        "context": "تقال عند تأجيل خطة."
       },
       {
         "id": 3,
-        "en": "He told me, \"Next time\" before we left.",
-        "ar": "قال لي: \"في المرة القادمة\" قبل أن نغادر.",
-        "context": "تضع العبارة قبل حدث آخر."
+        "en": "Try again next time.",
+        "ar": "حاول مرة أخرى في المرة القادمة.",
+        "context": "تقال عند تشجيع شخص بعد محاولة غير ناجحة."
       },
       {
         "id": 4,
-        "en": "She said, \"Next time\" in a polite way.",
-        "ar": "قالت: \"في المرة القادمة\" بطريقة مهذبة.",
-        "context": "تظهر أن العبارة يمكن أن تقال بلطف أو أدب."
+        "en": "I will join you next time.",
+        "ar": "سأنضم إليك في المرة القادمة.",
+        "context": "تقال عند الاعتذار عن عدم المشاركة الآن."
       },
       {
         "id": 5,
-        "en": "Someone shouted, \"Next time\" when there was a problem.",
-        "ar": "صاح شخص ما: \"في المرة القادمة\" عندما ظهرت مشكلة.",
-        "context": "تربط العبارة بموقف سريع أو طارئ."
+        "en": "Ask me next time.",
+        "ar": "اسألني في المرة القادمة.",
+        "context": "تقال عند تأجيل سؤال أو طلب."
       },
       {
         "id": 6,
-        "en": "You can say, \"Next time\" when you need a quick response.",
-        "ar": "يمكنك أن تقول: \"في المرة القادمة\" عندما تحتاج إلى رد سريع.",
-        "context": "توضح أن العبارة مفيدة عند الحاجة إلى استجابة مباشرة."
+        "en": "Next time will be better.",
+        "ar": "المرة القادمة ستكون أفضل.",
+        "context": "تقال للتشجيع بعد تجربة غير مثالية."
       },
       {
         "id": 7,
-        "en": "They repeated, \"Next time\" more than once.",
-        "ar": "رددوا: \"في المرة القادمة\" أكثر من مرة.",
-        "context": "تعطي مثالًا على تكرار العبارة."
+        "en": "Let us meet next time.",
+        "ar": "دعنا نلتقي في المرة القادمة.",
+        "context": "تقال عند اقتراح لقاء لاحق."
       },
       {
         "id": 8,
-        "en": "I heard him say, \"Next time\" yesterday.",
-        "ar": "سمعته يقول: \"في المرة القادمة\" أمس.",
-        "context": "تجعل العبارة جزءًا من موقف سمعته من شخص آخر."
+        "en": "She can help next time.",
+        "ar": "يمكنها المساعدة في المرة القادمة.",
+        "context": "تقال عند عدم توفر المساعدة الآن."
       },
       {
         "id": 9,
-        "en": "Many learners remember the phrase, \"Next time\".",
-        "ar": "يتذكر كثير من المتعلمين العبارة: \"في المرة القادمة\".",
-        "context": "تقدم العبارة بوصفها عبارة سهلة التذكر."
+        "en": "Remember this next time.",
+        "ar": "تذكر هذا في المرة القادمة.",
+        "context": "تقال عند إعطاء نصيحة للمستقبل."
       },
       {
         "id": 10,
-        "en": "At that moment, she said, \"Next time\".",
-        "ar": "في تلك اللحظة، قالت: \"في المرة القادمة\".",
-        "context": "تربط العبارة بلحظة معينة في السرد."
+        "en": "We will call before coming next time.",
+        "ar": "سنتصل قبل القدوم في المرة القادمة.",
+        "context": "تقال عند الوعد بتصرف أفضل لاحقًا."
       }
     ]
   }

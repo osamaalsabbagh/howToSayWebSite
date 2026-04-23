@@ -10,84 +10,91 @@
     "wordMeanings": [
       {
         "term": "That",
-        "description": "تشير إلى أمر أو خبر سبق ذكره."
+        "description": "ذلك الخبر أو الموقف الذي تشير إليه."
       },
       {
         "term": "is",
-        "description": "فعل be في الحاضر مع المفرد."
+        "description": "صيغة تربط الخبر بوصف أو رد فعل."
       },
       {
         "term": "too",
-        "description": "ظرف يعني أيضًا أو أكثر من اللازم حسب السياق."
+        "description": "تدل هنا على درجة كبيرة أو مؤسفة."
       },
       {
         "term": "bad",
-        "description": "صفة تعني مؤسف."
+        "description": "سيئ أو مؤسف في هذا السياق."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "That is too bad.",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذا تعبير شائع للتعاطف أو التفاعل مع خبر سيئ، والأفضل فهمه كتعبير ثابت لا كزمن مستقل."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "People often say, \"That is too bad\" in situations like this.",
-        "ar": "يقول الناس كثيرًا: \"ذلك أمر مؤسف\" في مواقف كهذه.",
-        "context": "تستخدم الجملة بوصفها تركيبًا شائعًا في موقف مشابه."
+        "en": "That is sad news.",
+        "ar": "ذلك خبر حزين.",
+        "context": "تقال عند سماع خبر محزن."
       },
       {
         "id": 2,
-        "en": "You can say, \"That is too bad\" when this happens.",
-        "ar": "يمكنك أن تقول: \"ذلك أمر مؤسف\" عندما يحدث هذا.",
-        "context": "توضح أن الجملة مناسبة في موقف متكرر."
+        "en": "That is unfortunate.",
+        "ar": "ذلك مؤسف.",
+        "context": "تقال عند التعاطف مع موقف غير جيد."
       },
       {
         "id": 3,
-        "en": "I heard someone say, \"That is too bad\".",
-        "ar": "سمعت شخصًا يقول: \"ذلك أمر مؤسف\".",
-        "context": "تجعل الجملة جزءًا من كلام سمعته من شخص آخر."
+        "en": "I am sorry to hear that.",
+        "ar": "آسف لسماع ذلك.",
+        "context": "تقال عند التعاطف مع شخص سمعته يذكر خبرًا سيئًا."
       },
       {
         "id": 4,
-        "en": "The teacher used the sentence, \"That is too bad\" in class.",
-        "ar": "استخدم المعلم الجملة: \"ذلك أمر مؤسف\" في الصف.",
-        "context": "تستخدم الجملة مثالًا تعليميًا في الصف."
+        "en": "That sounds bad.",
+        "ar": "يبدو ذلك سيئًا.",
+        "context": "تقال عند سماع وصف لموقف غير جيد."
       },
       {
         "id": 5,
-        "en": "Many learners remember the sentence, \"That is too bad\" first.",
-        "ar": "يتذكر كثير من المتعلمين الجملة: \"ذلك أمر مؤسف\" أولًا.",
-        "context": "تقدم الجملة بوصفها جملة تعليمية أساسية."
+        "en": "That is really too bad.",
+        "ar": "ذلك مؤسف حقًا.",
+        "context": "تقال عند زيادة التعاطف مع خبر سيئ."
       },
       {
         "id": 6,
-        "en": "She said, \"That is too bad\" in a calm way.",
-        "ar": "قالت: \"ذلك أمر مؤسف\" بطريقة هادئة.",
-        "context": "تجعل الجملة جزءًا من كلام مباشر في موقف عادي."
+        "en": "It is too bad about the trip.",
+        "ar": "من المؤسف ما حدث بشأن الرحلة.",
+        "context": "تقال عند إلغاء رحلة أو فشلها."
       },
       {
         "id": 7,
-        "en": "He repeated, \"That is too bad\" more than once.",
-        "ar": "ردد: \"ذلك أمر مؤسف\" أكثر من مرة.",
-        "context": "تضيف معنى التكرار لنفس الجملة."
+        "en": "That is a shame.",
+        "ar": "هذا مؤسف.",
+        "context": "تقال عند فقدان فرصة أو حدوث أمر مزعج."
       },
       {
         "id": 8,
-        "en": "At the right moment, someone might say, \"That is too bad\".",
-        "ar": "في اللحظة المناسبة، قد يقول شخص ما: \"ذلك أمر مؤسف\".",
-        "context": "توضح أن الجملة مرتبطة بتوقيت مناسب في السياق."
+        "en": "That is not good news.",
+        "ar": "ذلك ليس خبرًا جيدًا.",
+        "context": "تقال عند تلقي خبر سلبي."
       },
       {
         "id": 9,
-        "en": "I wrote down the sentence, \"That is too bad\" so I would remember it.",
-        "ar": "كتبت الجملة: \"ذلك أمر مؤسف\" حتى أتذكرها.",
-        "context": "تعطي مثالًا على حفظ الجملة أو مراجعتها."
+        "en": "That must be hard.",
+        "ar": "لا بد أن ذلك صعب.",
+        "context": "تقال عند التعاطف مع صعوبة يمر بها شخص."
       },
       {
         "id": 10,
-        "en": "It is useful to know when to say, \"That is too bad\".",
-        "ar": "من المفيد أن تعرف متى تقول: \"ذلك أمر مؤسف\".",
-        "context": "تركز على معرفة الوقت المناسب لاستخدام الجملة."
+        "en": "That is too bad for the team.",
+        "ar": "ذلك مؤسف جدًا للفريق.",
+        "context": "تقال عند حدوث أمر سيئ لفريق."
       }
     ]
   }

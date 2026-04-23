@@ -10,75 +10,83 @@
     "wordMeanings": [
       {
         "term": "Follow",
-        "description": "فعل يعني اتبعني."
+        "description": "اتبع أو سر خلف شخص أو افعل مثله."
       },
       {
         "term": "me",
-        "description": "ضمير مفعول به يعني أنا/إياي."
+        "description": "إياي أو خلفي، وتشير إلى المتكلم."
       }
     ],
-    "tense": null,
-    "tenseReason": "استُعمل هذا التعبير لأنه عبارة ثابتة أو رد قصير يُستخدم في موقف محدد، وليس جملة فعلية كاملة بزمن واضح.",
+    "grammarExplanations": [
+      {
+        "sentence": "Follow me.",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه جملة أمر مباشرة تبدأ بالفعل الأساسي لطلب أن يتبع المخاطب المتكلم، ولا تصف حدثًا بزمن مستقل."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "In this situation, people often say, \"Follow me\".",
-        "ar": "في هذا الموقف، يقول الناس كثيرًا: \"اتبعني\".",
-        "context": "توضح أن العبارة مناسبة في هذا النوع من المواقف."
+        "en": "Follow me.",
+        "ar": "اتبعني.",
+        "context": "تقال عندما تريد من شخص أن يسير خلفك."
       },
       {
         "id": 2,
-        "en": "The teacher said, \"Follow me\" to the students.",
-        "ar": "قال المعلم للطلاب: \"اتبعني\".",
-        "context": "تستخدم الجملة كتعليمات أو توجيه مباشر."
+        "en": "Please follow me.",
+        "ar": "من فضلك اتبعني.",
+        "context": "تقال بطريقة أكثر أدبًا."
       },
       {
         "id": 3,
-        "en": "He told me, \"Follow me\" before we left.",
-        "ar": "قال لي: \"اتبعني\" قبل أن نغادر.",
-        "context": "تضع العبارة قبل حدث آخر."
+        "en": "Follow me to the office.",
+        "ar": "اتبعني إلى المكتب.",
+        "context": "تقال عند إرشاد شخص إلى مكتب."
       },
       {
         "id": 4,
-        "en": "She said, \"Follow me\" in a polite way.",
-        "ar": "قالت: \"اتبعني\" بطريقة مهذبة.",
-        "context": "تظهر أن العبارة يمكن أن تقال بلطف أو أدب."
+        "en": "Follow me this way.",
+        "ar": "اتبعني من هذا الطريق.",
+        "context": "تقال عند توجيه شخص في مكان."
       },
       {
         "id": 5,
-        "en": "Someone shouted, \"Follow me\" when there was a problem.",
-        "ar": "صاح شخص ما: \"اتبعني\" عندما ظهرت مشكلة.",
-        "context": "تربط العبارة بموقف سريع أو طارئ."
+        "en": "Follow me to the car.",
+        "ar": "اتبعني إلى السيارة.",
+        "context": "تقال عند قيادة شخص نحو السيارة."
       },
       {
         "id": 6,
-        "en": "You can say, \"Follow me\" when you need a quick response.",
-        "ar": "يمكنك أن تقول: \"اتبعني\" عندما تحتاج إلى رد سريع.",
-        "context": "توضح أن العبارة مفيدة عند الحاجة إلى استجابة مباشرة."
+        "en": "Follow me upstairs.",
+        "ar": "اتبعني إلى الطابق العلوي.",
+        "context": "تقال عند الصعود مع شخص."
       },
       {
         "id": 7,
-        "en": "They repeated, \"Follow me\" more than once.",
-        "ar": "رددوا: \"اتبعني\" أكثر من مرة.",
-        "context": "تعطي مثالًا على تكرار العبارة."
+        "en": "Follow me downstairs.",
+        "ar": "اتبعني إلى الطابق السفلي.",
+        "context": "تقال عند النزول مع شخص."
       },
       {
         "id": 8,
-        "en": "I heard him say, \"Follow me\" yesterday.",
-        "ar": "سمعته يقول: \"اتبعني\" أمس.",
-        "context": "تجعل العبارة جزءًا من موقف سمعته من شخص آخر."
+        "en": "Follow me to the exit.",
+        "ar": "اتبعني إلى المخرج.",
+        "context": "تقال عند إرشاد شخص إلى المخرج."
       },
       {
         "id": 9,
-        "en": "Many learners remember the phrase, \"Follow me\".",
-        "ar": "يتذكر كثير من المتعلمين العبارة: \"اتبعني\".",
-        "context": "تقدم العبارة بوصفها عبارة سهلة التذكر."
+        "en": "Follow me and stay close.",
+        "ar": "اتبعني وابق قريبًا.",
+        "context": "تقال في مكان مزدحم أو غير مألوف."
       },
       {
         "id": 10,
-        "en": "At that moment, she said, \"Follow me\".",
-        "ar": "في تلك اللحظة، قالت: \"اتبعني\".",
-        "context": "تربط العبارة بلحظة معينة في السرد."
+        "en": "Follow me, please.",
+        "ar": "اتبعني من فضلك.",
+        "context": "تقال كطلب قصير ومهذب."
       }
     ]
   }

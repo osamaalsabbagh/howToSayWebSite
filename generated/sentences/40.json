@@ -10,92 +10,111 @@
     "wordMeanings": [
       {
         "term": "I",
-        "description": "ضمير المتكلم."
+        "description": "ضمير المتكلم ويشير إلى الشخص الذي يتحدث."
       },
       {
         "term": "will",
-        "description": "أداة مستقبل تدل على ما سيحدث لاحقًا."
+        "description": "كلمة تدل على أن الفعل سيحدث في المستقبل أو كتعهد من المتكلم."
       },
       {
         "term": "call",
-        "description": "فعل يعني يتصل أو ينادي."
+        "description": "أتصل هاتفيًا أو أتواصل عبر مكالمة."
       },
       {
         "term": "you",
-        "description": "الضمير الذي يعود على الشخص المخاطَب."
+        "description": "ضمير يشير إلى الشخص الذي أتحدث معه."
       },
       {
         "term": "when",
-        "description": "أداة أو ظرف يعني عندما."
+        "description": "عندما، وتربط الفعل بوقت حدوث فعل آخر."
+      },
+      {
+        "term": "I",
+        "description": "ضمير المتكلم ويشير إلى الشخص الذي يتحدث."
       },
       {
         "term": "leave",
-        "description": "فعل يعني يغادر أو يترك."
+        "description": "أغادر أو أترك المكان."
       }
     ],
-    "tense": "المستقبل البسيط",
-    "tenseEn": "Future Simple",
-    "tenseReason": "استُعمل المستقبل البسيط لأن الجملة تتحدث عن شيء سيحدث لاحقًا أو عن قرار أو توقع يخص المستقبل.",
+    "grammarExplanations": [
+      {
+        "sentence": "I will call you",
+        "explanation": {
+          "tense": "المستقبل البسيط",
+          "tenseEn": "Future Simple",
+          "reason": "تستخدم will مع الفعل الأساسي للتعبير عن وعد أو قرار بالاتصال في وقت لاحق."
+        }
+      },
+      {
+        "sentence": "when I leave",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "بعد when يستخدم المضارع البسيط للحديث عن حدث مستقبلي يحدد وقت الفعل الآخر، وهو المغادرة هنا."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "People often say, \"I will call you when I leave\" in situations like this.",
-        "ar": "يقول الناس كثيرًا: \"سأتصل بك عندما أغادر\" في مواقف كهذه.",
-        "context": "تستخدم الجملة بوصفها تركيبًا شائعًا في موقف مشابه."
+        "en": "I will text you when I arrive.",
+        "ar": "سأرسل لك رسالة عندما أصل.",
+        "context": "تقال عند وعد شخص بإبلاغه بعد الوصول."
       },
       {
         "id": 2,
-        "en": "You can say, \"I will call you when I leave\" when this happens.",
-        "ar": "يمكنك أن تقول: \"سأتصل بك عندما أغادر\" عندما يحدث هذا.",
-        "context": "توضح أن الجملة مناسبة في موقف متكرر."
+        "en": "She will call me when she gets home.",
+        "ar": "ستتصل بي عندما تصل إلى البيت.",
+        "context": "تقال عند انتظار اتصال بعد الوصول للمنزل."
       },
       {
         "id": 3,
-        "en": "I heard someone say, \"I will call you when I leave\".",
-        "ar": "سمعت شخصًا يقول: \"سأتصل بك عندما أغادر\".",
-        "context": "تجعل الجملة جزءًا من كلام سمعته من شخص آخر."
+        "en": "We will start when the teacher comes.",
+        "ar": "سنبدأ عندما يأتي المعلم.",
+        "context": "تقال عند ربط بداية العمل بوصول شخص."
       },
       {
         "id": 4,
-        "en": "The teacher used the sentence, \"I will call you when I leave\" in class.",
-        "ar": "استخدم المعلم الجملة: \"سأتصل بك عندما أغادر\" في الصف.",
-        "context": "تستخدم الجملة مثالًا تعليميًا في الصف."
+        "en": "I will tell you when I know.",
+        "ar": "سأخبرك عندما أعرف.",
+        "context": "تقال عند انتظار الحصول على معلومة."
       },
       {
         "id": 5,
-        "en": "Many learners remember the sentence, \"I will call you when I leave\" first.",
-        "ar": "يتذكر كثير من المتعلمين الجملة: \"سأتصل بك عندما أغادر\" أولًا.",
-        "context": "تقدم الجملة بوصفها جملة تعليمية أساسية."
+        "en": "He will pay when the food arrives.",
+        "ar": "سيدفع عندما يصل الطعام.",
+        "context": "تقال عند ربط الدفع بوصول الطلب."
       },
       {
         "id": 6,
-        "en": "She said, \"I will call you when I leave\" in a calm way.",
-        "ar": "قالت: \"سأتصل بك عندما أغادر\" بطريقة هادئة.",
-        "context": "تجعل الجملة جزءًا من كلام مباشر في موقف عادي."
+        "en": "I will visit you when I have time.",
+        "ar": "سأزورك عندما يكون لدي وقت.",
+        "context": "تقال عند وعد بزيارة مشروطة بتوفر الوقت."
       },
       {
         "id": 7,
-        "en": "He repeated, \"I will call you when I leave\" more than once.",
-        "ar": "ردد: \"سأتصل بك عندما أغادر\" أكثر من مرة.",
-        "context": "تضيف معنى التكرار لنفس الجملة."
+        "en": "They will leave when the rain stops.",
+        "ar": "سيغادرون عندما يتوقف المطر.",
+        "context": "تقال عند انتظار تحسن الطقس قبل المغادرة."
       },
       {
         "id": 8,
-        "en": "At the right moment, someone might say, \"I will call you when I leave\".",
-        "ar": "في اللحظة المناسبة، قد يقول شخص ما: \"سأتصل بك عندما أغادر\".",
-        "context": "توضح أن الجملة مرتبطة بتوقيت مناسب في السياق."
+        "en": "I will send the file when I finish.",
+        "ar": "سأرسل الملف عندما أنتهي.",
+        "context": "تقال عند وعد بإرسال شيء بعد إنجازه."
       },
       {
         "id": 9,
-        "en": "I wrote down the sentence, \"I will call you when I leave\" so I would remember it.",
-        "ar": "كتبت الجملة: \"سأتصل بك عندما أغادر\" حتى أتذكرها.",
-        "context": "تعطي مثالًا على حفظ الجملة أو مراجعتها."
+        "en": "My father will come when work ends.",
+        "ar": "سيأتي أبي عندما ينتهي العمل.",
+        "context": "تقال عند ربط قدوم شخص بانتهاء العمل."
       },
       {
         "id": 10,
-        "en": "It is useful to know when to say, \"I will call you when I leave\".",
-        "ar": "من المفيد أن تعرف متى تقول: \"سأتصل بك عندما أغادر\".",
-        "context": "تركز على معرفة الوقت المناسب لاستخدام الجملة."
+        "en": "I will answer when I am ready.",
+        "ar": "سأجيب عندما أكون مستعدًا.",
+        "context": "تقال عند تأجيل الرد إلى وقت مناسب."
       }
     ]
   }

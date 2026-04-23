@@ -10,104 +10,119 @@
     "wordMeanings": [
       {
         "term": "If",
-        "description": "أداة شرط تعني إذا."
+        "description": "إذا، وتفتح شرطًا يعتمد عليه ما بعده."
       },
       {
         "term": "you",
-        "description": "الضمير الذي يعود على الشخص المخاطَب."
+        "description": "ضمير يشير إلى الشخص الذي أتحدث معه."
       },
       {
         "term": "need",
-        "description": "فعل يدل على الحاجة."
+        "description": "تحتاج أو تكون بحاجة إلى شيء."
       },
       {
         "term": "my",
-        "description": "صفة ملكية تعني خاصتي."
+        "description": "كلمة تدل على أن الشيء يخص المتكلم."
       },
       {
         "term": "help",
-        "description": "اسم هنا بمعنى المساعدة."
+        "description": "مساعدة أو دعم."
       },
       {
         "term": "please",
-        "description": "تضيف اللطف إلى الطلب."
+        "description": "كلمة تجعل الطلب أكثر أدبًا."
       },
       {
         "term": "let",
-        "description": "فعل يُستعمل للسماح أو في تركيب let me / let us لاقتراح أو طلب شيء."
+        "description": "تأتي هنا بمعنى اسمح أو اجعلني أعرف ضمن تعبير طلب الإخبار."
       },
       {
         "term": "me",
-        "description": "ضمير مفعول به يعني أنا/إياي."
+        "description": "ضمير يشير إلى المتكلم عندما يكون متلقيًا للفعل."
       },
       {
         "term": "know",
-        "description": "فعل يعني يعرف أو يعلم."
+        "description": "أعرف أو يتم إخباري بالمعلومة."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "If you need my help",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "تستخدم جملة الشرط If مع المضارع البسيط للحديث عن احتمال حقيقي في المستقبل أو الحاضر، وهو احتياج المخاطب للمساعدة."
+        }
+      },
+      {
+        "sentence": "please let me know",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذا طلب مهذب بإخبار المتكلم عند الحاجة، وصيغة let me know تعمل كأمر لطيف لا يحمل زمنًا مستقلًا."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "People often say, \"If you need my help, please let me know\" in situations like this.",
-        "ar": "يقول الناس كثيرًا: \"إذا كنت تحتاج إلى مساعدتي، من فضلك دعني أعلم\" في مواقف كهذه.",
-        "context": "تستخدم الجملة بوصفها تركيبًا شائعًا في موقف مشابه."
+        "en": "If you need more time, please tell me.",
+        "ar": "إذا كنت تحتاج إلى وقت أكثر، من فضلك أخبرني.",
+        "context": "تقال عند إعطاء شخص فرصة لطلب وقت إضافي."
       },
       {
         "id": 2,
-        "en": "You can say, \"If you need my help, please let me know\" when this happens.",
-        "ar": "يمكنك أن تقول: \"إذا كنت تحتاج إلى مساعدتي، من فضلك دعني أعلم\" عندما يحدث هذا.",
-        "context": "توضح أن الجملة مناسبة في موقف متكرر."
+        "en": "If you need a ride, please call me.",
+        "ar": "إذا كنت تحتاج إلى توصيلة، من فضلك اتصل بي.",
+        "context": "تقال عند عرض المساعدة في النقل."
       },
       {
         "id": 3,
-        "en": "I heard someone say, \"If you need my help, please let me know\".",
-        "ar": "سمعت شخصًا يقول: \"إذا كنت تحتاج إلى مساعدتي، من فضلك دعني أعلم\".",
-        "context": "تجعل الجملة جزءًا من كلام سمعته من شخص آخر."
+        "en": "If you have a question, please ask me.",
+        "ar": "إذا كان لديك سؤال، من فضلك اسألني.",
+        "context": "تقال عند تشجيع شخص على السؤال."
       },
       {
         "id": 4,
-        "en": "The teacher used the sentence, \"If you need my help, please let me know\" in class.",
-        "ar": "استخدم المعلم الجملة: \"إذا كنت تحتاج إلى مساعدتي، من فضلك دعني أعلم\" في الصف.",
-        "context": "تستخدم الجملة مثالًا تعليميًا في الصف."
+        "en": "If you feel sick, please stay home.",
+        "ar": "إذا شعرت بالمرض، من فضلك ابق في البيت.",
+        "context": "تقال عند تقديم نصيحة صحية."
       },
       {
         "id": 5,
-        "en": "Many learners remember the sentence, \"If you need my help, please let me know\" first.",
-        "ar": "يتذكر كثير من المتعلمين الجملة: \"إذا كنت تحتاج إلى مساعدتي، من فضلك دعني أعلم\" أولًا.",
-        "context": "تقدم الجملة بوصفها جملة تعليمية أساسية."
+        "en": "If you need the address, please message me.",
+        "ar": "إذا كنت تحتاج إلى العنوان، من فضلك أرسل لي رسالة.",
+        "context": "تقال عند الاستعداد لإرسال معلومة."
       },
       {
         "id": 6,
-        "en": "She said, \"If you need my help, please let me know\" in a calm way.",
-        "ar": "قالت: \"إذا كنت تحتاج إلى مساعدتي، من فضلك دعني أعلم\" بطريقة هادئة.",
-        "context": "تجعل الجملة جزءًا من كلام مباشر في موقف عادي."
+        "en": "If you want coffee, please say so.",
+        "ar": "إذا كنت تريد قهوة، من فضلك قل ذلك.",
+        "context": "تقال عند عرض مشروب على شخص."
       },
       {
         "id": 7,
-        "en": "He repeated, \"If you need my help, please let me know\" more than once.",
-        "ar": "ردد: \"إذا كنت تحتاج إلى مساعدتي، من فضلك دعني أعلم\" أكثر من مرة.",
-        "context": "تضيف معنى التكرار لنفس الجملة."
+        "en": "If you need help with the form, please ask.",
+        "ar": "إذا كنت تحتاج إلى مساعدة في النموذج، من فضلك اسأل.",
+        "context": "تقال عند عرض المساعدة في تعبئة نموذج."
       },
       {
         "id": 8,
-        "en": "At the right moment, someone might say, \"If you need my help, please let me know\".",
-        "ar": "في اللحظة المناسبة، قد يقول شخص ما: \"إذا كنت تحتاج إلى مساعدتي، من فضلك دعني أعلم\".",
-        "context": "توضح أن الجملة مرتبطة بتوقيت مناسب في السياق."
+        "en": "If you arrive early, please wait inside.",
+        "ar": "إذا وصلت مبكرًا، من فضلك انتظر في الداخل.",
+        "context": "تقال عند إعطاء تعليمات للزائر."
       },
       {
         "id": 9,
-        "en": "I wrote down the sentence, \"If you need my help, please let me know\" so I would remember it.",
-        "ar": "كتبت الجملة: \"إذا كنت تحتاج إلى مساعدتي، من فضلك دعني أعلم\" حتى أتذكرها.",
-        "context": "تعطي مثالًا على حفظ الجملة أو مراجعتها."
+        "en": "If you need anything, please let me know.",
+        "ar": "إذا كنت تحتاج إلى أي شيء، من فضلك أخبرني.",
+        "context": "تقال عند عرض دعم عام."
       },
       {
         "id": 10,
-        "en": "It is useful to know when to say, \"If you need my help, please let me know\".",
-        "ar": "من المفيد أن تعرف متى تقول: \"إذا كنت تحتاج إلى مساعدتي، من فضلك دعني أعلم\".",
-        "context": "تركز على معرفة الوقت المناسب لاستخدام الجملة."
+        "en": "If you are busy, please send a short message.",
+        "ar": "إذا كنت مشغولًا، من فضلك أرسل رسالة قصيرة.",
+        "context": "تقال عند طلب رد بسيط عند الانشغال."
       }
     ]
   }

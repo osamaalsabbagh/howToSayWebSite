@@ -10,91 +10,99 @@
     "wordMeanings": [
       {
         "term": "Please",
-        "description": "تضيف اللطف إلى الطلب."
+        "description": "من فضلك، وتجعل الطلب مهذبًا."
       },
       {
         "term": "take",
-        "description": "فعل يعني يأخذ أو يستغرق أو يصطحب حسب السياق."
+        "description": "خذ أو أوصل، وتستخدم هنا بمعنى انقلني إلى مكان."
       },
       {
         "term": "me",
-        "description": "ضمير مفعول به يعني أنا/إياي."
+        "description": "إياي أو ني، وتشير إلى المتكلم."
       },
       {
         "term": "to",
-        "description": "أداة تأتي قبل المصدر بعد أفعال مثل want."
+        "description": "إلى، وتربط فعل التوصيل بالوجهة."
       },
       {
         "term": "the",
-        "description": "أداة تعريف تشير إلى شيء معروف أو محدد."
+        "description": "أداة تشير إلى مطار محدد معروف من السياق."
       },
       {
         "term": "airport",
-        "description": "اسم يعني المطار."
+        "description": "المطار."
       }
     ],
-    "tense": null,
-    "tenseReason": "استُعمل هذا الأسلوب لأن الجملة تقدم طلبًا أو تعليمات مباشرة موجهة إلى شخص آخر، لذلك لا نضع لها هنا زمنًا فعليًا مستقلًا.",
+    "grammarExplanations": [
+      {
+        "sentence": "Please take me to the airport.",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه جملة أمر مهذبة تطلب من شخص أن يوصلك إلى مكان، والفعل في البداية بصيغته الأساسية ولا يحمل زمنًا مستقلًا."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "In this situation, people often say, \"Please take me to the airport\".",
-        "ar": "في هذا الموقف، يقول الناس كثيرًا: \"من فضلك خذني إلى المطار\".",
-        "context": "توضح أن العبارة مناسبة في هذا النوع من المواقف."
+        "en": "Please take me to the airport.",
+        "ar": "من فضلك خذني إلى المطار.",
+        "context": "تقال لسائق أو شخص يوصلك إلى المطار."
       },
       {
         "id": 2,
-        "en": "The teacher said, \"Please take me to the airport\" to the students.",
-        "ar": "قال المعلم للطلاب: \"من فضلك خذني إلى المطار\".",
-        "context": "تستخدم الجملة كتعليمات أو توجيه مباشر."
+        "en": "Please take me to the hotel.",
+        "ar": "من فضلك خذني إلى الفندق.",
+        "context": "تقال عند طلب التوصيل إلى فندق."
       },
       {
         "id": 3,
-        "en": "He told me, \"Please take me to the airport\" before we left.",
-        "ar": "قال لي: \"من فضلك خذني إلى المطار\" قبل أن نغادر.",
-        "context": "تضع العبارة قبل حدث آخر."
+        "en": "Please take me to the station.",
+        "ar": "من فضلك خذني إلى المحطة.",
+        "context": "تقال عند طلب التوصيل إلى محطة."
       },
       {
         "id": 4,
-        "en": "She said, \"Please take me to the airport\" in a polite way.",
-        "ar": "قالت: \"من فضلك خذني إلى المطار\" بطريقة مهذبة.",
-        "context": "تظهر أن العبارة يمكن أن تقال بلطف أو أدب."
+        "en": "Please take me to this address.",
+        "ar": "من فضلك خذني إلى هذا العنوان.",
+        "context": "تقال عند إعطاء السائق عنوانًا."
       },
       {
         "id": 5,
-        "en": "Someone shouted, \"Please take me to the airport\" when there was a problem.",
-        "ar": "صاح شخص ما: \"من فضلك خذني إلى المطار\" عندما ظهرت مشكلة.",
-        "context": "تربط العبارة بموقف سريع أو طارئ."
+        "en": "Please take me downtown.",
+        "ar": "من فضلك خذني إلى وسط المدينة.",
+        "context": "تقال عند طلب التوصيل إلى وسط المدينة."
       },
       {
         "id": 6,
-        "en": "You can say, \"Please take me to the airport\" when you need a quick response.",
-        "ar": "يمكنك أن تقول: \"من فضلك خذني إلى المطار\" عندما تحتاج إلى رد سريع.",
-        "context": "توضح أن العبارة مفيدة عند الحاجة إلى استجابة مباشرة."
+        "en": "Please take me home.",
+        "ar": "من فضلك خذني إلى البيت.",
+        "context": "تقال عند طلب العودة إلى المنزل."
       },
       {
         "id": 7,
-        "en": "They repeated, \"Please take me to the airport\" more than once.",
-        "ar": "رددوا: \"من فضلك خذني إلى المطار\" أكثر من مرة.",
-        "context": "تعطي مثالًا على تكرار العبارة."
+        "en": "Please take me to the bus stop.",
+        "ar": "من فضلك خذني إلى موقف الحافلات.",
+        "context": "تقال عند طلب التوصيل إلى موقف حافلة."
       },
       {
         "id": 8,
-        "en": "I heard him say, \"Please take me to the airport\" yesterday.",
-        "ar": "سمعته يقول: \"من فضلك خذني إلى المطار\" أمس.",
-        "context": "تجعل العبارة جزءًا من موقف سمعته من شخص آخر."
+        "en": "Please take me to the nearest hospital.",
+        "ar": "من فضلك خذني إلى أقرب مستشفى.",
+        "context": "تقال في حالة طبية أو طارئة."
       },
       {
         "id": 9,
-        "en": "Many learners remember the phrase, \"Please take me to the airport\".",
-        "ar": "يتذكر كثير من المتعلمين العبارة: \"من فضلك خذني إلى المطار\".",
-        "context": "تقدم العبارة بوصفها عبارة سهلة التذكر."
+        "en": "Please take me to the American Embassy.",
+        "ar": "من فضلك خذني إلى السفارة الأمريكية.",
+        "context": "تقال عند طلب التوصيل إلى جهة رسمية."
       },
       {
         "id": 10,
-        "en": "At that moment, she said, \"Please take me to the airport\".",
-        "ar": "في تلك اللحظة، قالت: \"من فضلك خذني إلى المطار\".",
-        "context": "تربط العبارة بلحظة معينة في السرد."
+        "en": "Please take me there.",
+        "ar": "من فضلك خذني إلى هناك.",
+        "context": "تقال عند الإشارة إلى مكان معروف من السياق."
       }
     ]
   }

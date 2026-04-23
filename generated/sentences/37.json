@@ -10,108 +10,123 @@
     "wordMeanings": [
       {
         "term": "I",
-        "description": "ضمير المتكلم."
+        "description": "ضمير المتكلم ويشير إلى الشخص الذي يتحدث."
       },
       {
         "term": "hope",
-        "description": "فعل يعني تحظيا."
+        "description": "آمل أو أتمنى حدوث شيء جيد."
       },
       {
         "term": "you",
-        "description": "الضمير الذي يعود على الشخص المخاطَب."
+        "description": "ضمير يشير إلى الشخص المخاطب."
       },
       {
         "term": "and",
-        "description": "حرف عطف يربط بين كلمتين أو جملتين."
+        "description": "تربط بين شخصين أو شيئين."
       },
       {
         "term": "your",
-        "description": "صفة ملكية تعني خاصتك أو خاصتكم."
+        "description": "كلمة تدل على أن الشيء أو الشخص يخص المخاطب."
       },
       {
         "term": "wife",
-        "description": "اسم يعني وزوجتك."
+        "description": "زوجة."
       },
       {
         "term": "have",
-        "description": "فعل يعني يملك، ويأتي أيضًا كفعل مساعد."
+        "description": "تأتي هنا بمعنى تقضيان أو تحصلان على تجربة رحلة."
       },
       {
         "term": "a",
-        "description": "أداة نكرة تأتي قبل الاسم المفرد المعدود."
+        "description": "أداة تدل على شيء واحد غير محدد."
       },
       {
         "term": "nice",
-        "description": "تعبير قصير عن الإعجاب أو الرضا. قد يعني: لطيف، جميل، رائع، جيد."
+        "description": "جميل أو لطيف وممتع."
       },
       {
         "term": "trip",
-        "description": "اسم يعني رحلة."
+        "description": "رحلة أو سفر."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "I hope",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "يستخدم المضارع البسيط هنا للتعبير عن أمنية أو شعور حالي عند المتكلم."
+        }
+      },
+      {
+        "sentence": "you and your wife have a nice trip",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "بعد hope يمكن استخدام المضارع البسيط للتعبير عن أمر مأمول في المستقبل، وهو أن تكون الرحلة جميلة."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "People often say, \"I hope you and your wife have a nice trip\" in situations like this.",
-        "ar": "يقول الناس كثيرًا: \"آمل أن تحظيا أنت وزوجتك برحلة جميلة\" في مواقف كهذه.",
-        "context": "تستخدم الجملة بوصفها تركيبًا شائعًا في موقف مشابه."
+        "en": "I hope you have a safe trip.",
+        "ar": "آمل أن تحظى برحلة آمنة.",
+        "context": "تقال عند تمني السلامة لشخص مسافر."
       },
       {
         "id": 2,
-        "en": "You can say, \"I hope you and your wife have a nice trip\" when this happens.",
-        "ar": "يمكنك أن تقول: \"آمل أن تحظيا أنت وزوجتك برحلة جميلة\" عندما يحدث هذا.",
-        "context": "توضح أن الجملة مناسبة في موقف متكرر."
+        "en": "I hope your family has a nice weekend.",
+        "ar": "آمل أن تحظى عائلتك بعطلة نهاية أسبوع جميلة.",
+        "context": "تقال عند تمني وقت ممتع لعائلة."
       },
       {
         "id": 3,
-        "en": "I heard someone say, \"I hope you and your wife have a nice trip\".",
-        "ar": "سمعت شخصًا يقول: \"آمل أن تحظيا أنت وزوجتك برحلة جميلة\".",
-        "context": "تجعل الجملة جزءًا من كلام سمعته من شخص آخر."
+        "en": "I hope you and your brother enjoy the visit.",
+        "ar": "آمل أن تستمتعا أنت وأخوك بالزيارة.",
+        "context": "تقال عند تمني المتعة لشخصين في زيارة."
       },
       {
         "id": 4,
-        "en": "The teacher used the sentence, \"I hope you and your wife have a nice trip\" in class.",
-        "ar": "استخدم المعلم الجملة: \"آمل أن تحظيا أنت وزوجتك برحلة جميلة\" في الصف.",
-        "context": "تستخدم الجملة مثالًا تعليميًا في الصف."
+        "en": "I hope she has a good day.",
+        "ar": "آمل أن تحظى بيوم جيد.",
+        "context": "تقال عند تمني يوم طيب لشخص."
       },
       {
         "id": 5,
-        "en": "Many learners remember the sentence, \"I hope you and your wife have a nice trip\" first.",
-        "ar": "يتذكر كثير من المتعلمين الجملة: \"آمل أن تحظيا أنت وزوجتك برحلة جميلة\" أولًا.",
-        "context": "تقدم الجملة بوصفها جملة تعليمية أساسية."
+        "en": "I hope they have a great time.",
+        "ar": "آمل أن يقضوا وقتًا رائعًا.",
+        "context": "تقال عند تمني الاستمتاع لمجموعة."
       },
       {
         "id": 6,
-        "en": "She said, \"I hope you and your wife have a nice trip\" in a calm way.",
-        "ar": "قالت: \"آمل أن تحظيا أنت وزوجتك برحلة جميلة\" بطريقة هادئة.",
-        "context": "تجعل الجملة جزءًا من كلام مباشر في موقف عادي."
+        "en": "I hope you enjoy your vacation.",
+        "ar": "آمل أن تستمتع بإجازتك.",
+        "context": "تقال قبل أو أثناء إجازة شخص."
       },
       {
         "id": 7,
-        "en": "He repeated, \"I hope you and your wife have a nice trip\" more than once.",
-        "ar": "ردد: \"آمل أن تحظيا أنت وزوجتك برحلة جميلة\" أكثر من مرة.",
-        "context": "تضيف معنى التكرار لنفس الجملة."
+        "en": "I hope your wife feels better soon.",
+        "ar": "آمل أن تتحسن زوجتك قريبًا.",
+        "context": "تقال عند تمني الشفاء لزوجة شخص."
       },
       {
         "id": 8,
-        "en": "At the right moment, someone might say, \"I hope you and your wife have a nice trip\".",
-        "ar": "في اللحظة المناسبة، قد يقول شخص ما: \"آمل أن تحظيا أنت وزوجتك برحلة جميلة\".",
-        "context": "توضح أن الجملة مرتبطة بتوقيت مناسب في السياق."
+        "en": "I hope you both arrive safely.",
+        "ar": "آمل أن تصلا كلاكما بأمان.",
+        "context": "تقال عند تمني وصول آمن لشخصين."
       },
       {
         "id": 9,
-        "en": "I wrote down the sentence, \"I hope you and your wife have a nice trip\" so I would remember it.",
-        "ar": "كتبت الجملة: \"آمل أن تحظيا أنت وزوجتك برحلة جميلة\" حتى أتذكرها.",
-        "context": "تعطي مثالًا على حفظ الجملة أو مراجعتها."
+        "en": "I hope your meeting goes well.",
+        "ar": "آمل أن يسير اجتماعك جيدًا.",
+        "context": "تقال عند تمني نجاح اجتماع."
       },
       {
         "id": 10,
-        "en": "It is useful to know when to say, \"I hope you and your wife have a nice trip\".",
-        "ar": "من المفيد أن تعرف متى تقول: \"آمل أن تحظيا أنت وزوجتك برحلة جميلة\".",
-        "context": "تركز على معرفة الوقت المناسب لاستخدام الجملة."
+        "en": "I hope you have a pleasant flight.",
+        "ar": "آمل أن تحظى برحلة طيران ممتعة.",
+        "context": "تقال عند تمني رحلة طيران مريحة."
       }
     ]
   }

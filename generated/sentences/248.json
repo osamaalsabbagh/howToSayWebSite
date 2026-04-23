@@ -10,92 +10,99 @@
     "wordMeanings": [
       {
         "term": "It",
-        "description": "ضمير يعود على الشيء أو الجملة التي قيلت."
+        "description": "تستخدم بشكل عام عند الإخبار بالوقت."
       },
       {
         "term": "is",
-        "description": "فعل be في الحاضر مع المفرد."
+        "description": "صيغة تربط الجملة بالوقت الحالي."
       },
       {
         "term": "a",
-        "description": "أداة نكرة تأتي قبل الاسم المفرد المعدود."
+        "description": "أداة تأتي هنا ضمن عبارة الوقت."
       },
       {
         "term": "quarter",
-        "description": "اسم يعني الساعة."
+        "description": "ربع ساعة، أي خمس عشرة دقيقة."
       },
       {
         "term": "past",
-        "description": "اسم يعني التاسعة."
+        "description": "بعد، وتستخدم في الوقت بمعنى بعد الساعة المذكورة."
       },
       {
         "term": "nine",
-        "description": "كلمة ترتبط بمعنى والربع."
+        "description": "الساعة التاسعة."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "It is a quarter past nine.",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "يستخدم فعل الربط في الحاضر للإخبار بالوقت الحالي، وعبارة ربع بعد التاسعة تعني ٩:١٥."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "People often say, \"It is a quarter past nine\" in situations like this.",
-        "ar": "يقول الناس كثيرًا: \"الساعة التاسعة والربع\" في مواقف كهذه.",
-        "context": "تستخدم الجملة بوصفها تركيبًا شائعًا في موقف مشابه."
+        "en": "It is a quarter past nine.",
+        "ar": "الساعة التاسعة والربع.",
+        "context": "تقال عند الإخبار بأن الوقت ٩:١٥."
       },
       {
         "id": 2,
-        "en": "You can say, \"It is a quarter past nine\" when this happens.",
-        "ar": "يمكنك أن تقول: \"الساعة التاسعة والربع\" عندما يحدث هذا.",
-        "context": "توضح أن الجملة مناسبة في موقف متكرر."
+        "en": "It is a quarter past ten.",
+        "ar": "الساعة العاشرة والربع.",
+        "context": "تقال عند الإخبار بأن الوقت ١٠:١٥."
       },
       {
         "id": 3,
-        "en": "I heard someone say, \"It is a quarter past nine\".",
-        "ar": "سمعت شخصًا يقول: \"الساعة التاسعة والربع\".",
-        "context": "تجعل الجملة جزءًا من كلام سمعته من شخص آخر."
+        "en": "It is a quarter past seven.",
+        "ar": "الساعة السابعة والربع.",
+        "context": "تقال عند الإخبار بأن الوقت ٧:١٥."
       },
       {
         "id": 4,
-        "en": "The teacher used the sentence, \"It is a quarter past nine\" in class.",
-        "ar": "استخدم المعلم الجملة: \"الساعة التاسعة والربع\" في الصف.",
-        "context": "تستخدم الجملة مثالًا تعليميًا في الصف."
+        "en": "It is half past nine.",
+        "ar": "الساعة التاسعة والنصف.",
+        "context": "تقال عند الإخبار بأن الوقت ٩:٣٠."
       },
       {
         "id": 5,
-        "en": "Many learners remember the sentence, \"It is a quarter past nine\" first.",
-        "ar": "يتذكر كثير من المتعلمين الجملة: \"الساعة التاسعة والربع\" أولًا.",
-        "context": "تقدم الجملة بوصفها جملة تعليمية أساسية."
+        "en": "It is a quarter to nine.",
+        "ar": "الساعة التاسعة إلا ربعًا.",
+        "context": "تقال عند الإخبار بأن الوقت ٨:٤٥."
       },
       {
         "id": 6,
-        "en": "She said, \"It is a quarter past nine\" in a calm way.",
-        "ar": "قالت: \"الساعة التاسعة والربع\" بطريقة هادئة.",
-        "context": "تجعل الجملة جزءًا من كلام مباشر في موقف عادي."
+        "en": "It is nine fifteen.",
+        "ar": "الساعة التاسعة وخمس عشرة دقيقة.",
+        "context": "تقال بطريقة رقمية لوقت ٩:١٥."
       },
       {
         "id": 7,
-        "en": "He repeated, \"It is a quarter past nine\" more than once.",
-        "ar": "ردد: \"الساعة التاسعة والربع\" أكثر من مرة.",
-        "context": "تضيف معنى التكرار لنفس الجملة."
+        "en": "The meeting is at a quarter past nine.",
+        "ar": "الاجتماع في التاسعة والربع.",
+        "context": "تقال عند تحديد موعد اجتماع."
       },
       {
         "id": 8,
-        "en": "At the right moment, someone might say, \"It is a quarter past nine\".",
-        "ar": "في اللحظة المناسبة، قد يقول شخص ما: \"الساعة التاسعة والربع\".",
-        "context": "توضح أن الجملة مرتبطة بتوقيت مناسب في السياق."
+        "en": "The bus leaves at a quarter past nine.",
+        "ar": "تغادر الحافلة في التاسعة والربع.",
+        "context": "تقال عند ذكر موعد مغادرة الحافلة."
       },
       {
         "id": 9,
-        "en": "I wrote down the sentence, \"It is a quarter past nine\" so I would remember it.",
-        "ar": "كتبت الجملة: \"الساعة التاسعة والربع\" حتى أتذكرها.",
-        "context": "تعطي مثالًا على حفظ الجملة أو مراجعتها."
+        "en": "Please come at a quarter past nine.",
+        "ar": "من فضلك تعال في التاسعة والربع.",
+        "context": "تقال عند طلب الحضور في وقت محدد."
       },
       {
         "id": 10,
-        "en": "It is useful to know when to say, \"It is a quarter past nine\".",
-        "ar": "من المفيد أن تعرف متى تقول: \"الساعة التاسعة والربع\".",
-        "context": "تركز على معرفة الوقت المناسب لاستخدام الجملة."
+        "en": "It is almost a quarter past nine.",
+        "ar": "الساعة تقريبًا التاسعة والربع.",
+        "context": "تقال عند تقريب الوقت."
       }
     ]
   }

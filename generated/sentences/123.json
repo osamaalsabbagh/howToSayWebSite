@@ -10,84 +10,91 @@
     "wordMeanings": [
       {
         "term": "That",
-        "description": "تشير إلى أمر أو خبر سبق ذكره."
+        "description": "ذلك الشيء أو الموقف الذي تشير إليه."
       },
       {
         "term": "is",
-        "description": "فعل be في الحاضر مع المفرد."
+        "description": "صيغة تأتي مع المفرد وتربط الشيء بوصفه أو حكمك عليه."
       },
       {
         "term": "not",
-        "description": "أداة نفي."
+        "description": "كلمة نفي تجعل المعنى ليس."
       },
       {
         "term": "fair",
-        "description": "صفة تعني عدلا."
+        "description": "عادل أو منصف."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "That is not fair.",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "تستخدم is not مع صفة للتعبير عن حكم حالي على موقف بأنه غير عادل."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "People often say, \"That is not fair\" in situations like this.",
-        "ar": "يقول الناس كثيرًا: \"ذلك ليس عدلًا\" في مواقف كهذه.",
-        "context": "تستخدم الجملة بوصفها تركيبًا شائعًا في موقف مشابه."
+        "en": "This is not fair.",
+        "ar": "هذا ليس عادلًا.",
+        "context": "تقال عند الاعتراض على موقف قريب منك."
       },
       {
         "id": 2,
-        "en": "You can say, \"That is not fair\" when this happens.",
-        "ar": "يمكنك أن تقول: \"ذلك ليس عدلًا\" عندما يحدث هذا.",
-        "context": "توضح أن الجملة مناسبة في موقف متكرر."
+        "en": "That rule is not fair.",
+        "ar": "تلك القاعدة ليست عادلة.",
+        "context": "تقال عند الاعتراض على قاعدة ظالمة."
       },
       {
         "id": 3,
-        "en": "I heard someone say, \"That is not fair\".",
-        "ar": "سمعت شخصًا يقول: \"ذلك ليس عدلًا\".",
-        "context": "تجعل الجملة جزءًا من كلام سمعته من شخص آخر."
+        "en": "The price is not fair.",
+        "ar": "السعر ليس عادلًا.",
+        "context": "تقال عند الشعور أن السعر مبالغ فيه."
       },
       {
         "id": 4,
-        "en": "The teacher used the sentence, \"That is not fair\" in class.",
-        "ar": "استخدم المعلم الجملة: \"ذلك ليس عدلًا\" في الصف.",
-        "context": "تستخدم الجملة مثالًا تعليميًا في الصف."
+        "en": "It is not fair to blame her.",
+        "ar": "ليس عادلًا أن تلومها.",
+        "context": "تقال عند الدفاع عن شخص لا يستحق اللوم."
       },
       {
         "id": 5,
-        "en": "Many learners remember the sentence, \"That is not fair\" first.",
-        "ar": "يتذكر كثير من المتعلمين الجملة: \"ذلك ليس عدلًا\" أولًا.",
-        "context": "تقدم الجملة بوصفها جملة تعليمية أساسية."
+        "en": "This decision is not fair.",
+        "ar": "هذا القرار ليس عادلًا.",
+        "context": "تقال عند الاعتراض على قرار."
       },
       {
         "id": 6,
-        "en": "She said, \"That is not fair\" in a calm way.",
-        "ar": "قالت: \"ذلك ليس عدلًا\" بطريقة هادئة.",
-        "context": "تجعل الجملة جزءًا من كلام مباشر في موقف عادي."
+        "en": "The game is not fair.",
+        "ar": "اللعبة ليست عادلة.",
+        "context": "تقال عندما تكون شروط اللعب غير متساوية."
       },
       {
         "id": 7,
-        "en": "He repeated, \"That is not fair\" more than once.",
-        "ar": "ردد: \"ذلك ليس عدلًا\" أكثر من مرة.",
-        "context": "تضيف معنى التكرار لنفس الجملة."
+        "en": "That answer is not fair.",
+        "ar": "تلك الإجابة ليست عادلة.",
+        "context": "تقال عند رفض رد غير منصف."
       },
       {
         "id": 8,
-        "en": "At the right moment, someone might say, \"That is not fair\".",
-        "ar": "في اللحظة المناسبة، قد يقول شخص ما: \"ذلك ليس عدلًا\".",
-        "context": "توضح أن الجملة مرتبطة بتوقيت مناسب في السياق."
+        "en": "It is not fair for the children.",
+        "ar": "هذا ليس عادلًا للأطفال.",
+        "context": "تقال عند تأثر الأطفال بقرار غير منصف."
       },
       {
         "id": 9,
-        "en": "I wrote down the sentence, \"That is not fair\" so I would remember it.",
-        "ar": "كتبت الجملة: \"ذلك ليس عدلًا\" حتى أتذكرها.",
-        "context": "تعطي مثالًا على حفظ الجملة أو مراجعتها."
+        "en": "The test was not fair.",
+        "ar": "الاختبار لم يكن عادلًا.",
+        "context": "تقال بعد اختبار كان غير مناسب أو غير متوازن."
       },
       {
         "id": 10,
-        "en": "It is useful to know when to say, \"That is not fair\".",
-        "ar": "من المفيد أن تعرف متى تقول: \"ذلك ليس عدلًا\".",
-        "context": "تركز على معرفة الوقت المناسب لاستخدام الجملة."
+        "en": "That is not fair to anyone.",
+        "ar": "ذلك ليس عادلًا لأي شخص.",
+        "context": "تقال عند رفض موقف يضر الجميع."
       }
     ]
   }

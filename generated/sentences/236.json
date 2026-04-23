@@ -10,92 +10,99 @@
     "wordMeanings": [
       {
         "term": "I",
-        "description": "ضمير المتكلم."
+        "description": "أنا، وتشير إلى المتكلم."
       },
       {
         "term": "do",
-        "description": "فعل مساعد يُستعمل لتكوين النفي والسؤال في المضارع البسيط."
+        "description": "تستخدم مع النفي لتكوين جملة منفية في الحاضر."
       },
       {
         "term": "not",
-        "description": "أداة نفي."
+        "description": "لا، وتدل على النفي."
       },
       {
         "term": "have",
-        "description": "فعل يعني يملك، ويأتي أيضًا كفعل مساعد."
+        "description": "لدي أو أملك."
       },
       {
         "term": "a",
-        "description": "أداة نكرة تأتي قبل الاسم المفرد المعدود."
+        "description": "أداة تدل على شخص واحد غير محدد."
       },
       {
         "term": "girlfriend",
-        "description": "اسم يعني صديقة."
+        "description": "صديقة عاطفية."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "I do not have a girlfriend.",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "يستخدم المضارع البسيط المنفي للتعبير عن حالة حالية أو عامة، وهي أن المتكلم لا يملك علاقة عاطفية من هذا النوع."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "People often say, \"I do not have a girlfriend\" in situations like this.",
-        "ar": "يقول الناس كثيرًا: \"ليس لدي صديقة\" في مواقف كهذه.",
-        "context": "تستخدم الجملة بوصفها تركيبًا شائعًا في موقف مشابه."
+        "en": "I do not have a girlfriend.",
+        "ar": "ليس لدي صديقة.",
+        "context": "تقال عند توضيح الحالة العاطفية."
       },
       {
         "id": 2,
-        "en": "You can say, \"I do not have a girlfriend\" when this happens.",
-        "ar": "يمكنك أن تقول: \"ليس لدي صديقة\" عندما يحدث هذا.",
-        "context": "توضح أن الجملة مناسبة في موقف متكرر."
+        "en": "I do not have a boyfriend.",
+        "ar": "ليس لدي صديق.",
+        "context": "تقال عند توضيح عدم وجود علاقة عاطفية."
       },
       {
         "id": 3,
-        "en": "I heard someone say, \"I do not have a girlfriend\".",
-        "ar": "سمعت شخصًا يقول: \"ليس لدي صديقة\".",
-        "context": "تجعل الجملة جزءًا من كلام سمعته من شخص آخر."
+        "en": "I do not have a wife.",
+        "ar": "ليس لدي زوجة.",
+        "context": "تقال عند توضيح الحالة الاجتماعية."
       },
       {
         "id": 4,
-        "en": "The teacher used the sentence, \"I do not have a girlfriend\" in class.",
-        "ar": "استخدم المعلم الجملة: \"ليس لدي صديقة\" في الصف.",
-        "context": "تستخدم الجملة مثالًا تعليميًا في الصف."
+        "en": "I do not have a husband.",
+        "ar": "ليس لدي زوج.",
+        "context": "تقال عند توضيح عدم الزواج."
       },
       {
         "id": 5,
-        "en": "Many learners remember the sentence, \"I do not have a girlfriend\" first.",
-        "ar": "يتذكر كثير من المتعلمين الجملة: \"ليس لدي صديقة\" أولًا.",
-        "context": "تقدم الجملة بوصفها جملة تعليمية أساسية."
+        "en": "I do not have a car.",
+        "ar": "ليس لدي سيارة.",
+        "context": "تقال عند نفي امتلاك سيارة."
       },
       {
         "id": 6,
-        "en": "She said, \"I do not have a girlfriend\" in a calm way.",
-        "ar": "قالت: \"ليس لدي صديقة\" بطريقة هادئة.",
-        "context": "تجعل الجملة جزءًا من كلام مباشر في موقف عادي."
+        "en": "I do not have a ticket.",
+        "ar": "ليس لدي تذكرة.",
+        "context": "تقال عند عدم امتلاك تذكرة."
       },
       {
         "id": 7,
-        "en": "He repeated, \"I do not have a girlfriend\" more than once.",
-        "ar": "ردد: \"ليس لدي صديقة\" أكثر من مرة.",
-        "context": "تضيف معنى التكرار لنفس الجملة."
+        "en": "I do not have a reservation.",
+        "ar": "ليس لدي حجز.",
+        "context": "تقال عند عدم وجود حجز مسبق."
       },
       {
         "id": 8,
-        "en": "At the right moment, someone might say, \"I do not have a girlfriend\".",
-        "ar": "في اللحظة المناسبة، قد يقول شخص ما: \"ليس لدي صديقة\".",
-        "context": "توضح أن الجملة مرتبطة بتوقيت مناسب في السياق."
+        "en": "Do you have a girlfriend?",
+        "ar": "هل لديك صديقة؟",
+        "context": "تقال عند السؤال عن علاقة عاطفية."
       },
       {
         "id": 9,
-        "en": "I wrote down the sentence, \"I do not have a girlfriend\" so I would remember it.",
-        "ar": "كتبت الجملة: \"ليس لدي صديقة\" حتى أتذكرها.",
-        "context": "تعطي مثالًا على حفظ الجملة أو مراجعتها."
+        "en": "He does not have a girlfriend.",
+        "ar": "ليس لديه صديقة.",
+        "context": "تقال عند وصف حالة رجل."
       },
       {
         "id": 10,
-        "en": "It is useful to know when to say, \"I do not have a girlfriend\".",
-        "ar": "من المفيد أن تعرف متى تقول: \"ليس لدي صديقة\".",
-        "context": "تركز على معرفة الوقت المناسب لاستخدام الجملة."
+        "en": "I do not have anyone right now.",
+        "ar": "ليس لدي أي شخص حاليًا.",
+        "context": "تقال بطريقة عامة عن عدم وجود علاقة."
       }
     ]
   }

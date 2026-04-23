@@ -10,96 +10,103 @@
     "wordMeanings": [
       {
         "term": "Are",
-        "description": "فعل be مع you."
+        "description": "صيغة تبدأ سؤالًا عن فعل جارٍ أو ترتيب قريب."
       },
       {
         "term": "you",
-        "description": "الضمير الذي يعود على الشخص المخاطَب."
+        "description": "ضمير المخاطب."
       },
       {
         "term": "traveling",
-        "description": "فعل يعني تسافر."
+        "description": "تعني تسافر أو في طريق السفر."
       },
       {
         "term": "today",
-        "description": "ظرف زمان يعني اليوم."
+        "description": "هذا اليوم."
       },
       {
         "term": "from",
-        "description": "جزء من العبارة الزمنية from time to time."
+        "description": "حرف يوضح نقطة بداية السفر."
       },
       {
         "term": "this",
-        "description": "اسم إشارة يعني هذا."
+        "description": "اسم إشارة للمطار الحالي."
       },
       {
         "term": "airport",
-        "description": "اسم يعني المطار."
+        "description": "مطار."
       }
     ],
-    "tense": "المضارع المستمر",
-    "tenseEn": "Present Continuous",
-    "tenseReason": "استُعمل المضارع المستمر لأن الجملة تصف شيئًا يحدث الآن أو في فترة قريبة من الآن، أو خطة قريبة واضحة من السياق.",
+    "grammarExplanations": [
+      {
+        "sentence": "Are you traveling today from this airport?",
+        "explanation": {
+          "tense": "المضارع المستمر",
+          "tenseEn": "Present Continuous",
+          "reason": "استُعمل المضارع المستمر للسؤال عن ترتيب سفر قريب يحدث اليوم."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "You can ask, \"Are you traveling today from this airport?\" when you need information.",
-        "ar": "يمكنك أن تسأل: \"هل تسافر اليوم من هذا المطار؟\" عندما تحتاج إلى معلومة.",
-        "context": "تستعمل الجملة كسؤال مباشر للحصول على معلومة."
+        "en": "Are you traveling today?",
+        "ar": "هل تسافر اليوم؟",
+        "context": "تسأل عن خطة سفر قريبة."
       },
       {
         "id": 2,
-        "en": "Many people ask, \"Are you traveling today from this airport?\" in this situation.",
-        "ar": "يسأل كثير من الناس: \"هل تسافر اليوم من هذا المطار؟\" في هذا الموقف.",
-        "context": "توضح أن هذا سؤال شائع في موقف مشابه."
+        "en": "Are you flying from this airport?",
+        "ar": "هل ستسافر بالطائرة من هذا المطار؟",
+        "context": "تتأكد من نقطة المغادرة."
       },
       {
         "id": 3,
-        "en": "I asked, \"Are you traveling today from this airport?\" because I was not sure.",
-        "ar": "سألت: \"هل تسافر اليوم من هذا المطار؟\" لأنني لم أكن متأكدًا.",
-        "context": "تضيف سببًا لطرح السؤال."
+        "en": "Are you leaving this afternoon?",
+        "ar": "هل ستغادر بعد ظهر اليوم؟",
+        "context": "تسأل عن موعد مغادرة قريب."
       },
       {
         "id": 4,
-        "en": "She asked politely, \"Are you traveling today from this airport?\"",
-        "ar": "سألت بأدب: \"هل تسافر اليوم من هذا المطار؟\".",
-        "context": "تبين أن السؤال قيل بطريقة مهذبة."
+        "en": "Are you traveling alone today?",
+        "ar": "هل تسافر وحدك اليوم؟",
+        "context": "تسأل عن طريقة السفر."
       },
       {
         "id": 5,
-        "en": "At work, someone may ask, \"Are you traveling today from this airport?\"",
-        "ar": "في العمل، قد يسأل شخص ما: \"هل تسافر اليوم من هذا المطار؟\".",
-        "context": "تضع السؤال في سياق مهني أو عملي."
+        "en": "Are you taking a flight today?",
+        "ar": "هل ستأخذ رحلة جوية اليوم؟",
+        "context": "تسأل عن وجود رحلة في نفس اليوم."
       },
       {
         "id": 6,
-        "en": "Before deciding, ask: \"Are you traveling today from this airport?\"",
-        "ar": "قبل أن تقرر، اسأل: \"هل تسافر اليوم من هذا المطار؟\".",
-        "context": "تستخدم السؤال قبل اتخاذ قرار."
+        "en": "Are you traveling from Los Angeles?",
+        "ar": "هل تسافر من لوس أنجلوس؟",
+        "context": "تسأل عن مدينة المغادرة."
       },
       {
         "id": 7,
-        "en": "The student asked, \"Are you traveling today from this airport?\" in class.",
-        "ar": "سأل الطالب: \"هل تسافر اليوم من هذا المطار؟\" في الصف.",
-        "context": "تجعل الجملة جزءًا من موقف تعليمي."
+        "en": "Are you waiting for your flight?",
+        "ar": "هل تنتظر رحلتك؟",
+        "context": "تسأل شخصًا في صالة انتظار."
       },
       {
         "id": 8,
-        "en": "While traveling, you can ask, \"Are you traveling today from this airport?\"",
-        "ar": "أثناء السفر، يمكنك أن تسأل: \"هل تسافر اليوم من هذا المطار؟\".",
-        "context": "تربط السؤال بموقف السفر أو التنقل."
+        "en": "Are you going home today?",
+        "ar": "هل ستعود إلى البيت اليوم؟",
+        "context": "تسأل عن هدف السفر."
       },
       {
         "id": 9,
-        "en": "He asked me, \"Are you traveling today from this airport?\" again.",
-        "ar": "سألني: \"هل تسافر اليوم من هذا المطار؟\" مرة أخرى.",
-        "context": "تضيف معنى التكرار لنفس السؤال."
+        "en": "Are you traveling for work?",
+        "ar": "هل تسافر من أجل العمل؟",
+        "context": "تسأل عن سبب الرحلة."
       },
       {
         "id": 10,
-        "en": "If you are not sure, ask: \"Are you traveling today from this airport?\"",
-        "ar": "إذا لم تكن متأكدًا، فاسأل: \"هل تسافر اليوم من هذا المطار؟\".",
-        "context": "توضح أن السؤال مناسب عند عدم التأكد."
+        "en": "Are you leaving from this gate?",
+        "ar": "هل ستغادر من هذه البوابة؟",
+        "context": "تتأكد من بوابة السفر."
       }
     ]
   }

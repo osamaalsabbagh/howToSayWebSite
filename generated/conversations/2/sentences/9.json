@@ -10,104 +10,119 @@
     "wordMeanings": [
       {
         "term": "Thanks",
-        "description": "صيغة شكر قصيرة وغير رسمية نسبيًا."
+        "description": "كلمة شكر قصيرة تستخدم للتعبير عن الامتنان بطريقة ودية."
       },
       {
         "term": "Talking",
-        "description": "فعل يعني شكرا."
+        "description": "الحديث أو الكلام مع شخص، وهي هنا اسم للفعل وليست فعلًا مباشرًا."
       },
       {
         "term": "with",
-        "description": "حرف جر يعني مع."
+        "description": "حرف يوضح أن الحديث كان بمشاركة الشخص الآخر."
       },
       {
         "term": "you",
-        "description": "الضمير الذي يعود على الشخص المخاطَب."
+        "description": "ضمير يشير إلى الشخص الذي يتحدث معه المتكلم."
       },
       {
         "term": "made",
-        "description": "صيغة الماضي من make وتعني صنع أو قام بـ."
+        "description": "صيغة ماضية تعني جعل الشيء على حال معينة."
       },
       {
         "term": "this",
-        "description": "اسم إشارة يعني هذا."
+        "description": "اسم إشارة يحدد الانتظار القريب أو الحالي."
       },
       {
         "term": "wait",
-        "description": "اسم يعني الانتظار."
+        "description": "فترة الانتظار قبل السفر أو قبل حدوث شيء."
       },
       {
         "term": "more",
-        "description": "كلمة للمقارنة أو لزيادة الكمية."
+        "description": "كلمة مقارنة تعني بدرجة أكبر."
       },
       {
         "term": "interesting",
-        "description": "فعل يعني للاهتمام."
+        "description": "صفة تعني ممتعًا أو يجذب الانتباه."
       }
     ],
-    "tense": "الماضي البسيط",
-    "tenseEn": "Past Simple",
-    "tenseReason": "استُعمل الماضي البسيط لأن الجملة تتحدث عن حدث وقع في الماضي واكتمل هناك.",
+    "grammarExplanations": [
+      {
+        "sentence": "Thanks!",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه كلمة شكر قصيرة وليست جملة فعلية لها زمن مستقل."
+        }
+      },
+      {
+        "sentence": "Talking with you made this wait more interesting.",
+        "explanation": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "استُعمل الماضي البسيط لأن المتكلم يصف أثر الحديث الذي حدث أثناء فترة الانتظار وجعلها أفضل."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "Yesterday, Thanks! Talking with you made this wait more interesting.",
-        "ar": "أمس، شكرًا! الحديث معك جعل هذا الانتظار أكثر إثارة للاهتمام.",
-        "context": "تضيف زمنًا ماضيًا واضحًا."
+        "en": "Thanks! Talking with you made the trip feel shorter.",
+        "ar": "شكرًا! الحديث معك جعل الرحلة تبدو أقصر.",
+        "context": "تقال بعد حديث لطيف أثناء سفر طويل."
       },
       {
         "id": 2,
-        "en": "Thanks! Talking with you made this wait more interesting this morning.",
-        "ar": "شكرًا! الحديث معك جعل هذا الانتظار أكثر إثارة للاهتمام هذا الصباح.",
-        "context": "تحدد وقتًا ماضيًا قريبًا."
+        "en": "Thanks! Your story made the wait easier.",
+        "ar": "شكرًا! قصتك جعلت الانتظار أسهل.",
+        "context": "تقال لمن خفف عليك وقت الانتظار."
       },
       {
         "id": 3,
-        "en": "Thanks! Talking with you made this wait more interesting after lunch.",
-        "ar": "شكرًا! الحديث معك جعل هذا الانتظار أكثر إثارة للاهتمام بعد الغداء.",
-        "context": "تربط الحدث بوقت تالٍ لحدث آخر."
+        "en": "Talking with Sarah made the meeting more useful.",
+        "ar": "الحديث مع سارة جعل الاجتماع أكثر فائدة.",
+        "context": "تصف أثر نقاش مفيد مع شخص محدد."
       },
       {
         "id": 4,
-        "en": "Thanks! Talking with you made this wait more interesting because it was necessary.",
-        "ar": "شكرًا! الحديث معك جعل هذا الانتظار أكثر إثارة للاهتمام لأنه كان ضروريًا.",
-        "context": "تضيف سببًا لحدوث الفعل في الماضي."
+        "en": "Talking with the team made the plan clearer.",
+        "ar": "الحديث مع الفريق جعل الخطة أوضح.",
+        "context": "تقال عندما يساعد النقاش على فهم الخطة."
       },
       {
         "id": 5,
-        "en": "Earlier, Thanks! Talking with you made this wait more interesting.",
-        "ar": "في وقت سابق، شكرًا! الحديث معك جعل هذا الانتظار أكثر إثارة للاهتمام.",
-        "context": "تربط الحدث بفترة ماضية غير بعيدة."
+        "en": "Thanks! Sitting here with you made the delay less boring.",
+        "ar": "شكرًا! الجلوس هنا معك جعل التأخير أقل مللًا.",
+        "context": "تقال أثناء تأخير في مطار أو محطة."
       },
       {
         "id": 6,
-        "en": "Thanks! Talking with you made this wait more interesting, and everyone noticed.",
-        "ar": "شكرًا! الحديث معك جعل هذا الانتظار أكثر إثارة للاهتمام، والجميع لاحظ ذلك.",
-        "context": "تضيف نتيجة لما حدث في الماضي."
+        "en": "The music made this wait more pleasant.",
+        "ar": "الموسيقى جعلت هذا الانتظار أكثر لطفًا.",
+        "context": "تصف شيئًا جعل الانتظار أفضل."
       },
       {
         "id": 7,
-        "en": "Thanks! Talking with you made this wait more interesting before we left.",
-        "ar": "شكرًا! الحديث معك جعل هذا الانتظار أكثر إثارة للاهتمام قبل أن نغادر.",
-        "context": "تربط الفعل الماضي بحدث ماضٍ آخر."
+        "en": "Your advice made this problem less stressful.",
+        "ar": "نصيحتك جعلت هذه المشكلة أقل توترًا.",
+        "context": "تقال بعد نصيحة خففت القلق."
       },
       {
         "id": 8,
-        "en": "Thanks! Talking with you made this wait more interesting during the trip.",
-        "ar": "شكرًا! الحديث معك جعل هذا الانتظار أكثر إثارة للاهتمام أثناء الرحلة.",
-        "context": "تضع الحدث في إطار زمني أو مكاني محدد."
+        "en": "Talking with you made me feel calmer.",
+        "ar": "الحديث معك جعلني أشعر بهدوء أكبر.",
+        "context": "تقال لشخص ساعدك بالكلام."
       },
       {
         "id": 9,
-        "en": "At that time, Thanks! Talking with you made this wait more interesting.",
-        "ar": "في ذلك الوقت، شكرًا! الحديث معك جعل هذا الانتظار أكثر إثارة للاهتمام.",
-        "context": "تجعل الجملة جزءًا من سرد ماضٍ."
+        "en": "Thanks! Waiting with you was actually fun.",
+        "ar": "شكرًا! الانتظار معك كان ممتعًا فعلًا.",
+        "context": "تقال بعد انتظار لم يكن مزعجًا بسبب الصحبة."
       },
       {
         "id": 10,
-        "en": "Soon after that, Thanks! Talking with you made this wait more interesting.",
-        "ar": "بعد ذلك بقليل، شكرًا! الحديث معك جعل هذا الانتظار أكثر إثارة للاهتمام.",
-        "context": "توضح ترتيب الحدث بعد شيء آخر في الماضي."
+        "en": "The conversation made this long line more interesting.",
+        "ar": "المحادثة جعلت هذا الطابور الطويل أكثر إثارة للاهتمام.",
+        "context": "تصف حديثًا خفف ملل الطابور."
       }
     ]
   }

@@ -10,75 +10,83 @@
     "wordMeanings": [
       {
         "term": "Try",
-        "description": "فعل يعني جربه."
+        "description": "جرّب أو اختبر الشيء بنفسك."
       },
       {
         "term": "it",
-        "description": "ضمير يعود على الشيء أو الجملة التي قيلت."
+        "description": "ضمير يشير إلى الشيء أو الفكرة المقصودة."
       }
     ],
-    "tense": null,
-    "tenseReason": "استُعمل هذا الأسلوب لأن الجملة تقدم طلبًا أو تعليمات مباشرة موجهة إلى شخص آخر، لذلك لا نضع لها هنا زمنًا فعليًا مستقلًا.",
+    "grammarExplanations": [
+      {
+        "sentence": "Try it.",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه صيغة أمر أو تشجيع على التجربة، والفاعل مفهوم من السياق، لذلك لا تحمل زمنًا مستقلًا."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "In this situation, people often say, \"Try it\".",
-        "ar": "في هذا الموقف، يقول الناس كثيرًا: \"جرّبه\".",
-        "context": "توضح أن العبارة مناسبة في هذا النوع من المواقف."
+        "en": "Try this.",
+        "ar": "جرّب هذا.",
+        "context": "تقال عند تقديم شيء لشخص ليجربه."
       },
       {
         "id": 2,
-        "en": "The teacher said, \"Try it\" to the students.",
-        "ar": "قال المعلم للطلاب: \"جرّبه\".",
-        "context": "تستخدم الجملة كتعليمات أو توجيه مباشر."
+        "en": "Try the soup.",
+        "ar": "جرّب الشوربة.",
+        "context": "تقال عند تشجيع شخص على تذوق طعام."
       },
       {
         "id": 3,
-        "en": "He told me, \"Try it\" before we left.",
-        "ar": "قال لي: \"جرّبه\" قبل أن نغادر.",
-        "context": "تضع العبارة قبل حدث آخر."
+        "en": "Please try again.",
+        "ar": "من فضلك جرّب مرة أخرى.",
+        "context": "تقال عند طلب إعادة المحاولة."
       },
       {
         "id": 4,
-        "en": "She said, \"Try it\" in a polite way.",
-        "ar": "قالت: \"جرّبه\" بطريقة مهذبة.",
-        "context": "تظهر أن العبارة يمكن أن تقال بلطف أو أدب."
+        "en": "Try it before you decide.",
+        "ar": "جرّبه قبل أن تقرر.",
+        "context": "تقال عند تشجيع شخص على التجربة قبل الحكم."
       },
       {
         "id": 5,
-        "en": "Someone shouted, \"Try it\" when there was a problem.",
-        "ar": "صاح شخص ما: \"جرّبه\" عندما ظهرت مشكلة.",
-        "context": "تربط العبارة بموقف سريع أو طارئ."
+        "en": "Try the new app.",
+        "ar": "جرّب التطبيق الجديد.",
+        "context": "تقال عند اقتراح استخدام تطبيق."
       },
       {
         "id": 6,
-        "en": "You can say, \"Try it\" when you need a quick response.",
-        "ar": "يمكنك أن تقول: \"جرّبه\" عندما تحتاج إلى رد سريع.",
-        "context": "توضح أن العبارة مفيدة عند الحاجة إلى استجابة مباشرة."
+        "en": "You should try it.",
+        "ar": "ينبغي أن تجربه.",
+        "context": "تقال عند نصح شخص بالتجربة."
       },
       {
         "id": 7,
-        "en": "They repeated, \"Try it\" more than once.",
-        "ar": "رددوا: \"جرّبه\" أكثر من مرة.",
-        "context": "تعطي مثالًا على تكرار العبارة."
+        "en": "Try a different way.",
+        "ar": "جرّب طريقة مختلفة.",
+        "context": "تقال عند فشل الطريقة الأولى."
       },
       {
         "id": 8,
-        "en": "I heard him say, \"Try it\" yesterday.",
-        "ar": "سمعته يقول: \"جرّبه\" أمس.",
-        "context": "تجعل العبارة جزءًا من موقف سمعته من شخص آخر."
+        "en": "Try it with water.",
+        "ar": "جرّبه مع الماء.",
+        "context": "تقال عند شرح طريقة استخدام شيء."
       },
       {
         "id": 9,
-        "en": "Many learners remember the phrase, \"Try it\".",
-        "ar": "يتذكر كثير من المتعلمين العبارة: \"جرّبه\".",
-        "context": "تقدم العبارة بوصفها عبارة سهلة التذكر."
+        "en": "Let me try it.",
+        "ar": "دعني أجربه.",
+        "context": "تقال عند طلب فرصة للتجربة."
       },
       {
         "id": 10,
-        "en": "At that moment, she said, \"Try it\".",
-        "ar": "في تلك اللحظة، قالت: \"جرّبه\".",
-        "context": "تربط العبارة بلحظة معينة في السرد."
+        "en": "Try the blue one.",
+        "ar": "جرّب الأزرق.",
+        "context": "تقال عند اقتراح خيار معين."
       }
     ]
   }

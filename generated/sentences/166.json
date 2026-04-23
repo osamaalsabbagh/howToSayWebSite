@@ -10,87 +10,95 @@
     "wordMeanings": [
       {
         "term": "Can",
-        "description": "فعل مساعد يدل هنا على القدرة أو الاستعداد لتلبية الطلب."
+        "description": "تستخدم في بداية السؤال لطلب شيء بأدب."
       },
       {
         "term": "you",
-        "description": "الضمير الذي يعود على الشخص المخاطَب."
+        "description": "أنت، وتشير إلى الشخص المخاطب."
       },
       {
         "term": "repeat",
-        "description": "فعل يعني تكرار."
+        "description": "تكرر أو تقول الشيء مرة أخرى."
       },
       {
         "term": "that",
-        "description": "تشير إلى أمر أو خبر سبق ذكره."
+        "description": "ذلك، وتشير إلى الكلام الذي قيل قبل قليل."
       },
       {
         "term": "please",
-        "description": "تضيف اللطف إلى الطلب."
+        "description": "كلمة تجعل الطلب ألطف وأكثر أدبًا."
       }
     ],
-    "tense": null,
-    "tenseReason": "استُعمل هذا التركيب لأنه سؤال يعتمد على فعل modal مثل can أو could أو would، لذلك لا نعامله هنا كزمن مستقل بل كصيغة سؤال وظيفية.",
+    "grammarExplanations": [
+      {
+        "sentence": "Can you repeat that please?",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه صيغة طلب مهذب باستخدام كلمة تدل على الإمكانية، والفعل بعدها يأتي بصيغته الأساسية، ومعنى الجملة طلب إعادة الكلام لا وصف زمن."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "You can ask, \"Can you repeat that please?\" when you need information.",
-        "ar": "يمكنك أن تسأل: \"هل يمكنك تكرار ذلك من فضلك؟\" عندما تحتاج إلى معلومة.",
-        "context": "تستعمل الجملة كسؤال مباشر للحصول على معلومة."
+        "en": "Can you repeat that please?",
+        "ar": "هل يمكنك تكرار ذلك من فضلك؟",
+        "context": "تقال عندما لم تسمع الكلام جيدًا."
       },
       {
         "id": 2,
-        "en": "Many people ask, \"Can you repeat that please?\" in this situation.",
-        "ar": "يسأل كثير من الناس: \"هل يمكنك تكرار ذلك من فضلك؟\" في هذا الموقف.",
-        "context": "توضح أن هذا سؤال شائع في موقف مشابه."
+        "en": "Can you say that again, please?",
+        "ar": "هل يمكنك قول ذلك مرة أخرى من فضلك؟",
+        "context": "تقال عند طلب إعادة الكلام بلطف."
       },
       {
         "id": 3,
-        "en": "I asked, \"Can you repeat that please?\" because I was not sure.",
-        "ar": "سألت: \"هل يمكنك تكرار ذلك من فضلك؟\" لأنني لم أكن متأكدًا.",
-        "context": "تضيف سببًا لطرح السؤال."
+        "en": "Can you repeat the address, please?",
+        "ar": "هل يمكنك تكرار العنوان من فضلك؟",
+        "context": "تقال عندما تحتاج إلى سماع العنوان مرة أخرى."
       },
       {
         "id": 4,
-        "en": "She asked politely, \"Can you repeat that please?\"",
-        "ar": "سألت بأدب: \"هل يمكنك تكرار ذلك من فضلك؟\".",
-        "context": "تبين أن السؤال قيل بطريقة مهذبة."
+        "en": "Can you repeat the number, please?",
+        "ar": "هل يمكنك تكرار الرقم من فضلك؟",
+        "context": "تقال للتأكد من رقم سمعته."
       },
       {
         "id": 5,
-        "en": "At work, someone may ask, \"Can you repeat that please?\"",
-        "ar": "في العمل، قد يسأل شخص ما: \"هل يمكنك تكرار ذلك من فضلك؟\".",
-        "context": "تضع السؤال في سياق مهني أو عملي."
+        "en": "Can you repeat the question, please?",
+        "ar": "هل يمكنك تكرار السؤال من فضلك؟",
+        "context": "تقال عند عدم فهم السؤال أول مرة."
       },
       {
         "id": 6,
-        "en": "Before deciding, ask: \"Can you repeat that please?\"",
-        "ar": "قبل أن تقرر، اسأل: \"هل يمكنك تكرار ذلك من فضلك؟\".",
-        "context": "تستخدم السؤال قبل اتخاذ قرار."
+        "en": "Can you repeat your name, please?",
+        "ar": "هل يمكنك تكرار اسمك من فضلك؟",
+        "context": "تقال عندما لم تسمع اسم شخص بوضوح."
       },
       {
         "id": 7,
-        "en": "The student asked, \"Can you repeat that please?\" in class.",
-        "ar": "سأل الطالب: \"هل يمكنك تكرار ذلك من فضلك؟\" في الصف.",
-        "context": "تجعل الجملة جزءًا من موقف تعليمي."
+        "en": "Can you repeat the last word, please?",
+        "ar": "هل يمكنك تكرار الكلمة الأخيرة من فضلك؟",
+        "context": "تقال عند فقدان جزء صغير من الكلام."
       },
       {
         "id": 8,
-        "en": "While traveling, you can ask, \"Can you repeat that please?\"",
-        "ar": "أثناء السفر، يمكنك أن تسأل: \"هل يمكنك تكرار ذلك من فضلك؟\".",
-        "context": "تربط السؤال بموقف السفر أو التنقل."
+        "en": "Can you repeat it slowly, please?",
+        "ar": "هل يمكنك تكراره ببطء من فضلك؟",
+        "context": "تقال عندما تحتاج إلى سماع الكلام بوضوح أكبر."
       },
       {
         "id": 9,
-        "en": "He asked me, \"Can you repeat that please?\" again.",
-        "ar": "سألني: \"هل يمكنك تكرار ذلك من فضلك؟\" مرة أخرى.",
-        "context": "تضيف معنى التكرار لنفس السؤال."
+        "en": "Can you repeat the time, please?",
+        "ar": "هل يمكنك تكرار الوقت من فضلك؟",
+        "context": "تقال للتأكد من موعد."
       },
       {
         "id": 10,
-        "en": "If you are not sure, ask: \"Can you repeat that please?\"",
-        "ar": "إذا لم تكن متأكدًا، فاسأل: \"هل يمكنك تكرار ذلك من فضلك؟\".",
-        "context": "توضح أن السؤال مناسب عند عدم التأكد."
+        "en": "Can you repeat the directions, please?",
+        "ar": "هل يمكنك تكرار الاتجاهات من فضلك؟",
+        "context": "تقال عند طلب إرشادات الطريق مرة أخرى."
       }
     ]
   }

@@ -10,96 +10,111 @@
     "wordMeanings": [
       {
         "term": "This",
-        "description": "اسم إشارة يعني هذا."
+        "description": "هذا الشيء أو الكلام القريب في النقاش."
       },
       {
         "term": "is",
-        "description": "فعل be في الحاضر مع المفرد."
+        "description": "صيغة تربط الشيء بوصفه الحالي."
       },
       {
         "term": "nonsense",
-        "description": "اسم يعني وأنت."
+        "description": "كلام سخيف أو غير منطقي."
       },
       {
         "term": "and",
-        "description": "حرف عطف يربط بين كلمتين أو جملتين."
+        "description": "تربط بين الحكم على الكلام وتأكيد معرفة المخاطب بذلك."
       },
       {
         "term": "you",
-        "description": "الضمير الذي يعود على الشخص المخاطَب."
+        "description": "ضمير يشير إلى الشخص الذي أتحدث معه."
       },
       {
         "term": "know",
-        "description": "فعل يعني يعرف أو يعلم."
+        "description": "تعرف أو تدرك المعلومة."
       },
       {
         "term": "it",
-        "description": "ضمير يعود على الشيء أو الجملة التي قيلت."
+        "description": "ضمير يشير إلى أن الكلام سخيف أو غير منطقي."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "This is nonsense",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "تستخدم is لوصف الكلام أو الفكرة في اللحظة الحالية بأنها غير منطقية."
+        }
+      },
+      {
+        "sentence": "you know it",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "تستخدم know في المضارع البسيط لتأكيد أن المخاطب يدرك الحقيقة أو يعرف أن الكلام غير مقبول."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "People often say, \"This is nonsense and you know it\" in situations like this.",
-        "ar": "يقول الناس كثيرًا: \"هذا هراء وأنت تعرف ذلك\" في مواقف كهذه.",
-        "context": "تستخدم الجملة بوصفها تركيبًا شائعًا في موقف مشابه."
+        "en": "This is wrong, and you know it.",
+        "ar": "هذا خطأ، وأنت تعرف ذلك.",
+        "context": "تقال عند مواجهة شخص بحقيقة واضحة."
       },
       {
         "id": 2,
-        "en": "You can say, \"This is nonsense and you know it\" when this happens.",
-        "ar": "يمكنك أن تقول: \"هذا هراء وأنت تعرف ذلك\" عندما يحدث هذا.",
-        "context": "توضح أن الجملة مناسبة في موقف متكرر."
+        "en": "That is not true, and you know it.",
+        "ar": "ذلك ليس صحيحًا، وأنت تعرف ذلك.",
+        "context": "تقال عند رفض كلام غير صحيح."
       },
       {
         "id": 3,
-        "en": "I heard someone say, \"This is nonsense and you know it\".",
-        "ar": "سمعت شخصًا يقول: \"هذا هراء وأنت تعرف ذلك\".",
-        "context": "تجعل الجملة جزءًا من كلام سمعته من شخص آخر."
+        "en": "This idea is nonsense.",
+        "ar": "هذه الفكرة هراء.",
+        "context": "تقال عند رفض فكرة غير منطقية."
       },
       {
         "id": 4,
-        "en": "The teacher used the sentence, \"This is nonsense and you know it\" in class.",
-        "ar": "استخدم المعلم الجملة: \"هذا هراء وأنت تعرف ذلك\" في الصف.",
-        "context": "تستخدم الجملة مثالًا تعليميًا في الصف."
+        "en": "You know this is unfair.",
+        "ar": "أنت تعرف أن هذا غير عادل.",
+        "context": "تقال عند الاعتراض على تصرف ظالم."
       },
       {
         "id": 5,
-        "en": "Many learners remember the sentence, \"This is nonsense and you know it\" first.",
-        "ar": "يتذكر كثير من المتعلمين الجملة: \"هذا هراء وأنت تعرف ذلك\" أولًا.",
-        "context": "تقدم الجملة بوصفها جملة تعليمية أساسية."
+        "en": "This answer makes no sense.",
+        "ar": "هذه الإجابة لا معنى لها.",
+        "context": "تقال عند رفض جواب غير منطقي."
       },
       {
         "id": 6,
-        "en": "She said, \"This is nonsense and you know it\" in a calm way.",
-        "ar": "قالت: \"هذا هراء وأنت تعرف ذلك\" بطريقة هادئة.",
-        "context": "تجعل الجملة جزءًا من كلام مباشر في موقف عادي."
+        "en": "He knows the plan is bad.",
+        "ar": "هو يعرف أن الخطة سيئة.",
+        "context": "تقال عند تأكيد إدراك شخص لمشكلة في خطة."
       },
       {
         "id": 7,
-        "en": "He repeated, \"This is nonsense and you know it\" more than once.",
-        "ar": "ردد: \"هذا هراء وأنت تعرف ذلك\" أكثر من مرة.",
-        "context": "تضيف معنى التكرار لنفس الجملة."
+        "en": "This excuse is nonsense.",
+        "ar": "هذا العذر هراء.",
+        "context": "تقال عند رفض عذر غير مقنع."
       },
       {
         "id": 8,
-        "en": "At the right moment, someone might say, \"This is nonsense and you know it\".",
-        "ar": "في اللحظة المناسبة، قد يقول شخص ما: \"هذا هراء وأنت تعرف ذلك\".",
-        "context": "توضح أن الجملة مرتبطة بتوقيت مناسب في السياق."
+        "en": "You know it is not possible.",
+        "ar": "أنت تعرف أن ذلك غير ممكن.",
+        "context": "تقال عند مواجهة شخص بطلب غير واقعي."
       },
       {
         "id": 9,
-        "en": "I wrote down the sentence, \"This is nonsense and you know it\" so I would remember it.",
-        "ar": "كتبت الجملة: \"هذا هراء وأنت تعرف ذلك\" حتى أتذكرها.",
-        "context": "تعطي مثالًا على حفظ الجملة أو مراجعتها."
+        "en": "This story is not believable.",
+        "ar": "هذه القصة غير قابلة للتصديق.",
+        "context": "تقال عند الشك في قصة أو رواية."
       },
       {
         "id": 10,
-        "en": "It is useful to know when to say, \"This is nonsense and you know it\".",
-        "ar": "من المفيد أن تعرف متى تقول: \"هذا هراء وأنت تعرف ذلك\".",
-        "context": "تركز على معرفة الوقت المناسب لاستخدام الجملة."
+        "en": "They know the price is too high.",
+        "ar": "هم يعرفون أن السعر مرتفع جدًا.",
+        "context": "تقال عند تأكيد معرفة طرف بمشكلة السعر."
       }
     ]
   }

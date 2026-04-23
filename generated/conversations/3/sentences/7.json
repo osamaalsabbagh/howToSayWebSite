@@ -10,112 +10,127 @@
     "wordMeanings": [
       {
         "term": "Just",
-        "description": "ظرف يعني للتو أو فقط أو تمامًا حسب السياق."
+        "description": "تعني فقط، وتحدد أن المتكلم وحده."
       },
       {
         "term": "me",
-        "description": "ضمير مفعول به يعني أنا/إياي."
+        "description": "ضمير يعود على المتكلم، ومعنى العبارة: أنا فقط."
       },
       {
         "term": "I",
-        "description": "ضمير المتكلم."
+        "description": "ضمير المتكلم المفرد."
       },
       {
         "term": "work",
-        "description": "العمل."
+        "description": "تعني أعمل أو لدي وظيفة."
       },
       {
         "term": "across",
-        "description": "حرف أو أداة تربط المعنى بفكرة المقابلة."
+        "description": "تعني في الجهة المقابلة عند استعمالها مع from."
       },
       {
         "term": "the",
-        "description": "أداة تعريف تشير إلى شيء معروف أو محدد."
+        "description": "أداة تعريف لشيء معروف في السياق."
       },
       {
         "term": "street",
-        "description": "اسم يعني شارع."
+        "description": "شارع أو طريق داخل المدينة."
       },
       {
         "term": "so",
-        "description": "أداة أو ظرف تعني لذلك أو جدًا حسب السياق."
+        "description": "تربط السبب بالنتيجة، بمعنى لذلك."
       },
       {
         "term": "it",
-        "description": "ضمير يعود على الشيء أو الجملة التي قيلت."
+        "description": "ضمير يعود على المكان أو الانضمام إلى النشاط."
       },
       {
         "term": "is",
-        "description": "فعل be في الحاضر مع المفرد."
+        "description": "صيغة تربط الضمير بالوصف الذي بعده."
       },
       {
         "term": "convenient",
-        "description": "صفة تعني مناسب."
+        "description": "صفة تعني مناسبًا وسهلًا من ناحية الوقت أو المكان."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "Just me.",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه عبارة قصيرة تعني أن المتكلم وحده، وليست جملة فعلية بزمن مستقل."
+        }
+      },
+      {
+        "sentence": "I work across the street, so it is convenient.",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُعمل المضارع البسيط لأن المتكلم يذكر مكان عمله وحقيقة حالية تجعل النشاط مناسبًا له."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "In general, Just me. I work across the street, so it is convenient.",
-        "ar": "بشكل عام، أنا فقط. أعمل في الجهة المقابلة من الشارع، لذا فهو مناسب.",
-        "context": "تضيف عبارة عامة تحافظ على نفس المعنى الأساسي."
+        "en": "Just me. I live nearby, so it is easy.",
+        "ar": "أنا فقط. أسكن بالقرب من هنا، لذلك الأمر سهل.",
+        "context": "توضح سبب سهولة الحضور."
       },
       {
         "id": 2,
-        "en": "Usually, Just me. I work across the street, so it is convenient.",
-        "ar": "عادةً، أنا فقط. أعمل في الجهة المقابلة من الشارع، لذا فهو مناسب.",
-        "context": "تضيف ظرفًا يدل على التكرار أو العادة."
+        "en": "I work across the street.",
+        "ar": "أعمل في الجهة المقابلة من الشارع.",
+        "context": "تذكر قرب مكان العمل."
       },
       {
         "id": 3,
-        "en": "Sometimes, Just me. I work across the street, so it is convenient.",
-        "ar": "أحيانًا، أنا فقط. أعمل في الجهة المقابلة من الشارع، لذا فهو مناسب.",
-        "context": "تضع الجملة في سياق أقل تكرارًا."
+        "en": "It is convenient because I live close by.",
+        "ar": "إنه مناسب لأنني أسكن قريبًا.",
+        "context": "تشرح سبب ملاءمة المكان."
       },
       {
         "id": 4,
-        "en": "For now, Just me. I work across the street, so it is convenient.",
-        "ar": "في الوقت الحالي، أنا فقط. أعمل في الجهة المقابلة من الشارع، لذا فهو مناسب.",
-        "context": "تربط الجملة بالوضع الحالي."
+        "en": "Just me. My friend cannot come today.",
+        "ar": "أنا فقط. صديقي لا يستطيع الحضور اليوم.",
+        "context": "توضح أنك لن تأتي مع شخص آخر."
       },
       {
         "id": 5,
-        "en": "Just me. I work across the street, so it is convenient, so that helps a lot.",
-        "ar": "أنا فقط. أعمل في الجهة المقابلة من الشارع، لذا فهو مناسب، وهذا يساعد كثيرًا.",
-        "context": "تضيف نتيجة بسيطة على نفس المعنى."
+        "en": "I study across the street, so this class is convenient.",
+        "ar": "أدرس في الجهة المقابلة من الشارع، لذلك هذه الحصة مناسبة.",
+        "context": "تربط موقع الدراسة بسهولة الحضور."
       },
       {
         "id": 6,
-        "en": "Just me. I work across the street, so it is convenient in daily life.",
-        "ar": "أنا فقط. أعمل في الجهة المقابلة من الشارع، لذا فهو مناسب في الحياة اليومية.",
-        "context": "تربط الجملة بمواقف الحياة اليومية."
+        "en": "The gym is close, so it is convenient.",
+        "ar": "النادي قريب، لذلك هو مناسب.",
+        "context": "تصف ميزة الموقع."
       },
       {
         "id": 7,
-        "en": "Just me. I work across the street, so it is convenient when it is necessary.",
-        "ar": "أنا فقط. أعمل في الجهة المقابلة من الشارع، لذا فهو مناسب عندما يكون ذلك ضروريًا.",
-        "context": "تربط الجملة بشرط أو حاجة معينة."
+        "en": "I work nearby, so I can come after work.",
+        "ar": "أعمل بالقرب من هنا، لذلك أستطيع الحضور بعد العمل.",
+        "context": "تشرح إمكانية الحضور بعد الدوام."
       },
       {
         "id": 8,
-        "en": "In this situation, Just me. I work across the street, so it is convenient.",
-        "ar": "في هذا الموقف، أنا فقط. أعمل في الجهة المقابلة من الشارع، لذا فهو مناسب.",
-        "context": "تجعل الجملة جزءًا من موقف واضح."
+        "en": "Just me today.",
+        "ar": "أنا فقط اليوم.",
+        "context": "رد قصير عند السؤال عن عدد الحاضرين."
       },
       {
         "id": 9,
-        "en": "Just me. I work across the street, so it is convenient, and everyone notices that.",
-        "ar": "أنا فقط. أعمل في الجهة المقابلة من الشارع، لذا فهو مناسب، والجميع يلاحظ ذلك.",
-        "context": "تضيف ملاحظة أو نتيجة بعد الجملة."
+        "en": "I live across the street from the school.",
+        "ar": "أسكن في الجهة المقابلة من المدرسة.",
+        "context": "تحدد موقع السكن بالنسبة لمكان معروف."
       },
       {
         "id": 10,
-        "en": "Just me. I work across the street, so it is convenient most of the time.",
-        "ar": "أنا فقط. أعمل في الجهة المقابلة من الشارع، لذا فهو مناسب معظم الوقت.",
-        "context": "تضيف عبارة تكرار شائعة."
+        "en": "It is convenient for my schedule.",
+        "ar": "إنه مناسب لجدولي.",
+        "context": "تقول إن الموعد يناسب وقتك."
       }
     ]
   }

@@ -10,92 +10,107 @@
     "wordMeanings": [
       {
         "term": "Do",
-        "description": "فعل مساعد يُستعمل لتكوين النفي والسؤال في المضارع البسيط."
+        "description": "تأتي في بداية السؤال مع المخاطب لتكوين سؤال في الحاضر."
       },
       {
         "term": "you",
-        "description": "الضمير الذي يعود على الشخص المخاطَب."
+        "description": "أنت، وتشير إلى الشخص المخاطب."
       },
       {
         "term": "know",
-        "description": "فعل يعني يعرف أو يعلم."
+        "description": "تعرف أو تفهم."
       },
       {
         "term": "what",
-        "description": "أداة سؤال عن الشيء أو المعنى أو الاختيار."
+        "description": "ماذا، وتستخدم هنا للسؤال عن محتوى الكلام أو الكتابة."
       },
       {
         "term": "this",
-        "description": "اسم إشارة يعني هذا."
+        "description": "هذا، وتشير إلى الشيء القريب أو النص المقصود."
       },
       {
         "term": "says",
-        "description": "فعل يعني يقول."
+        "description": "يقول أو مكتوب فيه، وتستخدم هنا عن معنى النص."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "Do you know",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "هذا جزء السؤال الرئيسي، ويستخدم المضارع البسيط للسؤال عن معرفة الشخص الآن أو عمومًا."
+        }
+      },
+      {
+        "sentence": "what this says",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "هذا جزء داخلي يشرح الشيء المعروف أو غير المعروف، وترتيب كلماته يشبه الجملة الخبرية داخل السؤال لأن السؤال الحقيقي في بدايته."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "You can ask, \"Do you know what this says?\" when you need information.",
-        "ar": "يمكنك أن تسأل: \"هل تعرف ماذا يقول هذا؟\" عندما تحتاج إلى معلومة.",
-        "context": "تستعمل الجملة كسؤال مباشر للحصول على معلومة."
+        "en": "Do you know what this says?",
+        "ar": "هل تعرف ماذا يقول هذا؟",
+        "context": "تقال عندما تحتاج إلى قراءة أو فهم نص."
       },
       {
         "id": 2,
-        "en": "Many people ask, \"Do you know what this says?\" in this situation.",
-        "ar": "يسأل كثير من الناس: \"هل تعرف ماذا يقول هذا؟\" في هذا الموقف.",
-        "context": "توضح أن هذا سؤال شائع في موقف مشابه."
+        "en": "Do you know what this means?",
+        "ar": "هل تعرف ماذا يعني هذا؟",
+        "context": "تقال عند السؤال عن معنى شيء."
       },
       {
         "id": 3,
-        "en": "I asked, \"Do you know what this says?\" because I was not sure.",
-        "ar": "سألت: \"هل تعرف ماذا يقول هذا؟\" لأنني لم أكن متأكدًا.",
-        "context": "تضيف سببًا لطرح السؤال."
+        "en": "Do you know what this word says?",
+        "ar": "هل تعرف ماذا تقول هذه الكلمة؟",
+        "context": "تقال عند السؤال عن كلمة مكتوبة."
       },
       {
         "id": 4,
-        "en": "She asked politely, \"Do you know what this says?\"",
-        "ar": "سألت بأدب: \"هل تعرف ماذا يقول هذا؟\".",
-        "context": "تبين أن السؤال قيل بطريقة مهذبة."
+        "en": "Do you know what the sign says?",
+        "ar": "هل تعرف ماذا تقول اللافتة؟",
+        "context": "تقال عند محاولة فهم لافتة."
       },
       {
         "id": 5,
-        "en": "At work, someone may ask, \"Do you know what this says?\"",
-        "ar": "في العمل، قد يسأل شخص ما: \"هل تعرف ماذا يقول هذا؟\".",
-        "context": "تضع السؤال في سياق مهني أو عملي."
+        "en": "Do you know what the letter says?",
+        "ar": "هل تعرف ماذا تقول الرسالة؟",
+        "context": "تقال عند السؤال عن محتوى رسالة مكتوبة."
       },
       {
         "id": 6,
-        "en": "Before deciding, ask: \"Do you know what this says?\"",
-        "ar": "قبل أن تقرر، اسأل: \"هل تعرف ماذا يقول هذا؟\".",
-        "context": "تستخدم السؤال قبل اتخاذ قرار."
+        "en": "Do you know what this message says?",
+        "ar": "هل تعرف ماذا تقول هذه الرسالة؟",
+        "context": "تقال عند طلب فهم رسالة."
       },
       {
         "id": 7,
-        "en": "The student asked, \"Do you know what this says?\" in class.",
-        "ar": "سأل الطالب: \"هل تعرف ماذا يقول هذا؟\" في الصف.",
-        "context": "تجعل الجملة جزءًا من موقف تعليمي."
+        "en": "Do you know what this note says?",
+        "ar": "هل تعرف ماذا تقول هذه الملاحظة؟",
+        "context": "تقال عند قراءة ملاحظة قصيرة."
       },
       {
         "id": 8,
-        "en": "While traveling, you can ask, \"Do you know what this says?\"",
-        "ar": "أثناء السفر، يمكنك أن تسأل: \"هل تعرف ماذا يقول هذا؟\".",
-        "context": "تربط السؤال بموقف السفر أو التنقل."
+        "en": "Do you know what this button does?",
+        "ar": "هل تعرف ماذا يفعل هذا الزر؟",
+        "context": "تقال عند السؤال عن وظيفة زر."
       },
       {
         "id": 9,
-        "en": "He asked me, \"Do you know what this says?\" again.",
-        "ar": "سألني: \"هل تعرف ماذا يقول هذا؟\" مرة أخرى.",
-        "context": "تضيف معنى التكرار لنفس السؤال."
+        "en": "Do you know what this paper says?",
+        "ar": "هل تعرف ماذا تقول هذه الورقة؟",
+        "context": "تقال عند طلب قراءة ورقة أو وثيقة."
       },
       {
         "id": 10,
-        "en": "If you are not sure, ask: \"Do you know what this says?\"",
-        "ar": "إذا لم تكن متأكدًا، فاسأل: \"هل تعرف ماذا يقول هذا؟\".",
-        "context": "توضح أن السؤال مناسب عند عدم التأكد."
+        "en": "Do you know what this sentence means?",
+        "ar": "هل تعرف ماذا تعني هذه الجملة؟",
+        "context": "تقال عند السؤال عن معنى جملة."
       }
     ]
   }

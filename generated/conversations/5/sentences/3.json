@@ -10,100 +10,119 @@
     "wordMeanings": [
       {
         "term": "Great",
-        "description": "صفة تعني رائع."
+        "description": "كلمة تعبر عن الرضا أو الحماس."
       },
       {
         "term": "What",
-        "description": "أداة سؤال عن الشيء أو المعنى أو الاختيار."
+        "description": "أداة سؤال عن الشيء أو المعلومات."
       },
       {
         "term": "are",
-        "description": "فعل be مع you."
+        "description": "صيغة سؤال تربط الجمع بالوصف أو الهوية."
       },
       {
         "term": "the",
-        "description": "أداة تعريف تشير إلى شيء معروف أو محدد."
+        "description": "أداة تعريف لمزايا محددة في الشقة."
       },
       {
         "term": "main",
-        "description": "صفة تعني المزايا."
+        "description": "تعني الأساسية أو الأهم."
       },
       {
         "term": "features",
-        "description": "اسم يعني الرئيسية."
+        "description": "مزايا أو صفات مهمة."
       },
       {
         "term": "of",
-        "description": "حرف جر يربط بين اسمين وغالبًا يعني من أو الخاص بـ حسب السياق."
+        "description": "يربط المزايا بالشقة."
+      },
+      {
+        "term": "the",
+        "description": "أداة تعريف للشقة المحددة."
       },
       {
         "term": "apartment",
-        "description": "اسم يعني شقة."
+        "description": "شقة سكنية."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "Great.",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه كلمة رد قصيرة تعبر عن الرضا وليست جملة فعلية لها زمن مستقل."
+        }
+      },
+      {
+        "sentence": "What are the main features of the apartment?",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُعمل المضارع البسيط للسؤال عن صفات الشقة الحالية أو الثابتة."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "You can ask, \"Great. What are the main features of the apartment?\" when you need information.",
-        "ar": "يمكنك أن تسأل: \"رائع. ما هي المزايا الرئيسية للشقة؟\" عندما تحتاج إلى معلومة.",
-        "context": "تستعمل الجملة كسؤال مباشر للحصول على معلومة."
+        "en": "What are the main features of the house?",
+        "ar": "ما هي المزايا الرئيسية للمنزل؟",
+        "context": "تسأل عن مواصفات منزل."
       },
       {
         "id": 2,
-        "en": "Many people ask, \"Great. What are the main features of the apartment?\" in this situation.",
-        "ar": "يسأل كثير من الناس: \"رائع. ما هي المزايا الرئيسية للشقة؟\" في هذا الموقف.",
-        "context": "توضح أن هذا سؤال شائع في موقف مشابه."
+        "en": "What are the best features of this room?",
+        "ar": "ما هي أفضل مزايا هذه الغرفة؟",
+        "context": "تسأل عن نقاط القوة في غرفة."
       },
       {
         "id": 3,
-        "en": "I asked, \"Great. What are the main features of the apartment?\" because I was not sure.",
-        "ar": "سألت: \"رائع. ما هي المزايا الرئيسية للشقة؟\" لأنني لم أكن متأكدًا.",
-        "context": "تضيف سببًا لطرح السؤال."
+        "en": "Great. What is included in the rent?",
+        "ar": "رائع. ما الذي يشمله الإيجار؟",
+        "context": "تسأل عن تفاصيل مالية."
       },
       {
         "id": 4,
-        "en": "She asked politely, \"Great. What are the main features of the apartment?\"",
-        "ar": "سألت بأدب: \"رائع. ما هي المزايا الرئيسية للشقة؟\".",
-        "context": "تبين أن السؤال قيل بطريقة مهذبة."
+        "en": "What are the main problems with the apartment?",
+        "ar": "ما هي المشكلات الرئيسية في الشقة؟",
+        "context": "تسأل عن العيوب المحتملة."
       },
       {
         "id": 5,
-        "en": "At work, someone may ask, \"Great. What are the main features of the apartment?\"",
-        "ar": "في العمل، قد يسأل شخص ما: \"رائع. ما هي المزايا الرئيسية للشقة؟\".",
-        "context": "تضع السؤال في سياق مهني أو عملي."
+        "en": "What are the main features of the kitchen?",
+        "ar": "ما هي المزايا الرئيسية للمطبخ؟",
+        "context": "تسأل عن جزء محدد من الشقة."
       },
       {
         "id": 6,
-        "en": "Before deciding, ask: \"Great. What are the main features of the apartment?\"",
-        "ar": "قبل أن تقرر، اسأل: \"رائع. ما هي المزايا الرئيسية للشقة؟\".",
-        "context": "تستخدم السؤال قبل اتخاذ قرار."
+        "en": "Great. What can I see first?",
+        "ar": "رائع. ماذا يمكنني أن أرى أولًا؟",
+        "context": "تبدأ المعاينة بسؤال عن الخطوة التالية."
       },
       {
         "id": 7,
-        "en": "The student asked, \"Great. What are the main features of the apartment?\" in class.",
-        "ar": "سأل الطالب: \"رائع. ما هي المزايا الرئيسية للشقة؟\" في الصف.",
-        "context": "تجعل الجملة جزءًا من موقف تعليمي."
+        "en": "What are the main features of this area?",
+        "ar": "ما هي المزايا الرئيسية لهذه المنطقة؟",
+        "context": "تسأل عن الحي المحيط."
       },
       {
         "id": 8,
-        "en": "While traveling, you can ask, \"Great. What are the main features of the apartment?\"",
-        "ar": "أثناء السفر، يمكنك أن تسأل: \"رائع. ما هي المزايا الرئيسية للشقة؟\".",
-        "context": "تربط السؤال بموقف السفر أو التنقل."
+        "en": "What are the main costs?",
+        "ar": "ما هي التكاليف الرئيسية؟",
+        "context": "تسأل عن المصاريف الأساسية."
       },
       {
         "id": 9,
-        "en": "He asked me, \"Great. What are the main features of the apartment?\" again.",
-        "ar": "سألني: \"رائع. ما هي المزايا الرئيسية للشقة؟\" مرة أخرى.",
-        "context": "تضيف معنى التكرار لنفس السؤال."
+        "en": "Great. What makes this apartment special?",
+        "ar": "رائع. ما الذي يجعل هذه الشقة مميزة؟",
+        "context": "تطلب شرحًا للمزايا."
       },
       {
         "id": 10,
-        "en": "If you are not sure, ask: \"Great. What are the main features of the apartment?\"",
-        "ar": "إذا لم تكن متأكدًا، فاسأل: \"رائع. ما هي المزايا الرئيسية للشقة؟\".",
-        "context": "توضح أن السؤال مناسب عند عدم التأكد."
+        "en": "What are the main rules for tenants?",
+        "ar": "ما هي القواعد الرئيسية للمستأجرين؟",
+        "context": "تسأل عن شروط السكن."
       }
     ]
   }

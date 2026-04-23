@@ -10,71 +10,79 @@
     "wordMeanings": [
       {
         "term": "Okay",
-        "description": "هنا تعني مقبول أو لا بأس به."
+        "description": "كلمة موافقة أو قبول تعني حسنًا."
       }
     ],
-    "tense": null,
-    "tenseReason": "استُعمل هذا التعبير لأنه عبارة ثابتة أو رد قصير يُستخدم في موقف محدد، وليس جملة فعلية كاملة بزمن واضح.",
+    "grammarExplanations": [
+      {
+        "sentence": "Okay.",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه كلمة موافقة قصيرة وليست جملة فعلية لها زمن مستقل."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "In this situation, people often say, \"Okay\".",
-        "ar": "في هذا الموقف، يقول الناس كثيرًا: \"حسنًا\".",
-        "context": "توضح أن العبارة مناسبة في هذا النوع من المواقف."
+        "en": "Okay, I can wait.",
+        "ar": "حسنًا، يمكنني الانتظار.",
+        "context": "توافق على الانتظار قليلًا."
       },
       {
         "id": 2,
-        "en": "The teacher said, \"Okay\" to the students.",
-        "ar": "قال المعلم للطلاب: \"حسنًا\".",
-        "context": "تستخدم الجملة كتعليمات أو توجيه مباشر."
+        "en": "Okay, thank you.",
+        "ar": "حسنًا، شكرًا لك.",
+        "context": "تقبل ردًا أو خدمة بأدب."
       },
       {
         "id": 3,
-        "en": "He told me, \"Okay\" before we left.",
-        "ar": "قال لي: \"حسنًا\" قبل أن نغادر.",
-        "context": "تضع العبارة قبل حدث آخر."
+        "en": "Okay, no problem.",
+        "ar": "حسنًا، لا مشكلة.",
+        "context": "تطمئن الشخص أن الأمر مقبول."
       },
       {
         "id": 4,
-        "en": "She said, \"Okay\" in a polite way.",
-        "ar": "قالت: \"حسنًا\" بطريقة مهذبة.",
-        "context": "تظهر أن العبارة يمكن أن تقال بلطف أو أدب."
+        "en": "Okay, I will come back later.",
+        "ar": "حسنًا، سأعود لاحقًا.",
+        "context": "تقبل تأجيل الموعد."
       },
       {
         "id": 5,
-        "en": "Someone shouted, \"Okay\" when there was a problem.",
-        "ar": "صاح شخص ما: \"حسنًا\" عندما ظهرت مشكلة.",
-        "context": "تربط العبارة بموقف سريع أو طارئ."
+        "en": "Okay, please check.",
+        "ar": "حسنًا، من فضلك تحقق.",
+        "context": "تسمح للشخص بالتحقق من معلومة."
       },
       {
         "id": 6,
-        "en": "You can say, \"Okay\" when you need a quick response.",
-        "ar": "يمكنك أن تقول: \"حسنًا\" عندما تحتاج إلى رد سريع.",
-        "context": "توضح أن العبارة مفيدة عند الحاجة إلى استجابة مباشرة."
+        "en": "Okay, that works for me.",
+        "ar": "حسنًا، هذا يناسبني.",
+        "context": "توافق على اقتراح."
       },
       {
         "id": 7,
-        "en": "They repeated, \"Okay\" more than once.",
-        "ar": "رددوا: \"حسنًا\" أكثر من مرة.",
-        "context": "تعطي مثالًا على تكرار العبارة."
+        "en": "Okay, I understand.",
+        "ar": "حسنًا، أفهم.",
+        "context": "تظهر أنك استوعبت الشرح."
       },
       {
         "id": 8,
-        "en": "I heard him say, \"Okay\" yesterday.",
-        "ar": "سمعته يقول: \"حسنًا\" أمس.",
-        "context": "تجعل العبارة جزءًا من موقف سمعته من شخص آخر."
+        "en": "Okay, let me know.",
+        "ar": "حسنًا، أخبرني.",
+        "context": "تنتظر تحديثًا من شخص."
       },
       {
         "id": 9,
-        "en": "Many learners remember the phrase, \"Okay\".",
-        "ar": "يتذكر كثير من المتعلمين العبارة: \"حسنًا\".",
-        "context": "تقدم العبارة بوصفها عبارة سهلة التذكر."
+        "en": "Okay, I will be here.",
+        "ar": "حسنًا، سأكون هنا.",
+        "context": "تؤكد أنك ستبقى في المكان."
       },
       {
         "id": 10,
-        "en": "At that moment, she said, \"Okay\".",
-        "ar": "في تلك اللحظة، قالت: \"حسنًا\".",
-        "context": "تربط العبارة بلحظة معينة في السرد."
+        "en": "Okay, take your time.",
+        "ar": "حسنًا، خذ وقتك.",
+        "context": "تمنح الشخص وقتًا دون ضغط."
       }
     ]
   }

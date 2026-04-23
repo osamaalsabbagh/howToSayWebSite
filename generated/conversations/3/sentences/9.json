@@ -10,96 +10,103 @@
     "wordMeanings": [
       {
         "term": "No",
-        "description": "نفي أو رد يزيل القلق ويعني هنا لا."
+        "description": "كلمة نفي، وتأتي هنا ضمن عبارة تعني لا توجد مشكلة."
       },
       {
         "term": "problem",
-        "description": "مشكلة أو أمر مزعج. في هذا السياق تعني الجملة كلها: لا توجد مشكلة."
+        "description": "مشكلة أو اعتراض."
       },
       {
         "term": "I",
-        "description": "ضمير المتكلم."
+        "description": "ضمير المتكلم المفرد."
       },
       {
         "term": "totally",
-        "description": "حال أو ظرف يعني أوافق."
+        "description": "تعني تمامًا أو بشكل كامل للتأكيد."
       },
       {
         "term": "agree",
-        "description": "فعل يعني تماما."
+        "description": "تعني أوافق أو أقبل الرأي."
       },
       {
         "term": "with",
-        "description": "حرف جر يعني مع."
+        "description": "حرف يربط الموافقة بالشيء المتفق عليه."
       },
       {
         "term": "that",
-        "description": "تشير إلى أمر أو خبر سبق ذكره."
+        "description": "يشير إلى الإرشادات أو الكلام السابق."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "No problem, I totally agree with that.",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُعمل المضارع البسيط لأن المتكلم يعبّر عن موافقته الحالية على التعليمات."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "In general, No problem, I totally agree with that.",
-        "ar": "بشكل عام، لا مشكلة، أوافق تمامًا على ذلك.",
-        "context": "تضيف عبارة عامة تحافظ على نفس المعنى الأساسي."
+        "en": "No problem, I agree with the rules.",
+        "ar": "لا مشكلة، أوافق على القواعد.",
+        "context": "تقبل تعليمات المكان."
       },
       {
         "id": 2,
-        "en": "Usually, No problem, I totally agree with that.",
-        "ar": "عادةً، لا مشكلة، أوافق تمامًا على ذلك.",
-        "context": "تضيف ظرفًا يدل على التكرار أو العادة."
+        "en": "I totally agree with your plan.",
+        "ar": "أوافق تمامًا على خطتك.",
+        "context": "تؤكد موافقتك على اقتراح شخص."
       },
       {
         "id": 3,
-        "en": "Sometimes, No problem, I totally agree with that.",
-        "ar": "أحيانًا، لا مشكلة، أوافق تمامًا على ذلك.",
-        "context": "تضع الجملة في سياق أقل تكرارًا."
+        "en": "No problem, I can bring water.",
+        "ar": "لا مشكلة، أستطيع إحضار ماء.",
+        "context": "تقبل طلبًا بسيطًا."
       },
       {
         "id": 4,
-        "en": "For now, No problem, I totally agree with that.",
-        "ar": "في الوقت الحالي، لا مشكلة، أوافق تمامًا على ذلك.",
-        "context": "تربط الجملة بالوضع الحالي."
+        "en": "I agree with that advice.",
+        "ar": "أوافق على تلك النصيحة.",
+        "context": "تدعم نصيحة قدمها شخص."
       },
       {
         "id": 5,
-        "en": "No problem, I totally agree with that, so that helps a lot.",
-        "ar": "لا مشكلة، أوافق تمامًا على ذلك، وهذا يساعد كثيرًا.",
-        "context": "تضيف نتيجة بسيطة على نفس المعنى."
+        "en": "No problem, I will wear light clothes.",
+        "ar": "لا مشكلة، سأرتدي ملابس خفيفة.",
+        "context": "تؤكد أنك ستتبع الإرشاد."
       },
       {
         "id": 6,
-        "en": "No problem, I totally agree with that in daily life.",
-        "ar": "لا مشكلة، أوافق تمامًا على ذلك في الحياة اليومية.",
-        "context": "تربط الجملة بمواقف الحياة اليومية."
+        "en": "I totally agree with this decision.",
+        "ar": "أوافق تمامًا على هذا القرار.",
+        "context": "تؤيد قرارًا بوضوح."
       },
       {
         "id": 7,
-        "en": "No problem, I totally agree with that when it is necessary.",
-        "ar": "لا مشكلة، أوافق تمامًا على ذلك عندما يكون ذلك ضروريًا.",
-        "context": "تربط الجملة بشرط أو حاجة معينة."
+        "en": "No problem, that sounds fair.",
+        "ar": "لا مشكلة، يبدو ذلك عادلًا.",
+        "context": "تقبل شرطًا أو قاعدة."
       },
       {
         "id": 8,
-        "en": "In this situation, No problem, I totally agree with that.",
-        "ar": "في هذا الموقف، لا مشكلة، أوافق تمامًا على ذلك.",
-        "context": "تجعل الجملة جزءًا من موقف واضح."
+        "en": "I agree with you completely.",
+        "ar": "أتفق معك تمامًا.",
+        "context": "تؤكد توافقك مع شخص."
       },
       {
         "id": 9,
-        "en": "No problem, I totally agree with that, and everyone notices that.",
-        "ar": "لا مشكلة، أوافق تمامًا على ذلك، والجميع يلاحظ ذلك.",
-        "context": "تضيف ملاحظة أو نتيجة بعد الجملة."
+        "en": "No problem, I understand.",
+        "ar": "لا مشكلة، أفهم.",
+        "context": "تطمئن شخصًا بعد شرح."
       },
       {
         "id": 10,
-        "en": "No problem, I totally agree with that most of the time.",
-        "ar": "لا مشكلة، أوافق تمامًا على ذلك معظم الوقت.",
-        "context": "تضيف عبارة تكرار شائعة."
+        "en": "I totally agree that safety matters.",
+        "ar": "أوافق تمامًا على أن السلامة مهمة.",
+        "context": "تؤكد أهمية قاعدة مرتبطة بالأمان."
       }
     ]
   }

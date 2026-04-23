@@ -10,84 +10,91 @@
     "wordMeanings": [
       {
         "term": "When",
-        "description": "أداة أو ظرف يعني عندما."
+        "description": "متى، وتستخدم للسؤال عن موعد."
       },
       {
         "term": "do",
-        "description": "فعل مساعد يُستعمل لتكوين النفي والسؤال في المضارع البسيط."
+        "description": "تأتي في السؤال مع نحن لتكوين سؤال في الحاضر."
       },
       {
         "term": "we",
-        "description": "ضمير المتكلمين."
+        "description": "نحن، وتشمل المتكلم مع شخص أو أكثر."
       },
       {
         "term": "leave",
-        "description": "فعل يعني يغادر أو يترك."
+        "description": "نغادر أو ننطلق من مكان."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "When do we leave?",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "يستخدم المضارع البسيط للسؤال عن موعد مغادرة مقرر أو متفق عليه للمجموعة."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "You can ask, \"When do we leave?\" when you need information.",
-        "ar": "يمكنك أن تسأل: \"متى نغادر؟\" عندما تحتاج إلى معلومة.",
-        "context": "تستعمل الجملة كسؤال مباشر للحصول على معلومة."
+        "en": "When do we leave?",
+        "ar": "متى نغادر؟",
+        "context": "تقال عند السؤال عن موعد مغادرة المجموعة."
       },
       {
         "id": 2,
-        "en": "Many people ask, \"When do we leave?\" in this situation.",
-        "ar": "يسأل كثير من الناس: \"متى نغادر؟\" في هذا الموقف.",
-        "context": "توضح أن هذا سؤال شائع في موقف مشابه."
+        "en": "When do we leave for Boston?",
+        "ar": "متى نغادر إلى بوسطن؟",
+        "context": "تقال عند السؤال عن وقت السفر إلى مدينة."
       },
       {
         "id": 3,
-        "en": "I asked, \"When do we leave?\" because I was not sure.",
-        "ar": "سألت: \"متى نغادر؟\" لأنني لم أكن متأكدًا.",
-        "context": "تضيف سببًا لطرح السؤال."
+        "en": "When do we leave the hotel?",
+        "ar": "متى نغادر الفندق؟",
+        "context": "تقال عند السؤال عن وقت الخروج من الفندق."
       },
       {
         "id": 4,
-        "en": "She asked politely, \"When do we leave?\"",
-        "ar": "سألت بأدب: \"متى نغادر؟\".",
-        "context": "تبين أن السؤال قيل بطريقة مهذبة."
+        "en": "When do we leave for the airport?",
+        "ar": "متى نغادر إلى المطار؟",
+        "context": "تقال عند التخطيط للوصول إلى المطار."
       },
       {
         "id": 5,
-        "en": "At work, someone may ask, \"When do we leave?\"",
-        "ar": "في العمل، قد يسأل شخص ما: \"متى نغادر؟\".",
-        "context": "تضع السؤال في سياق مهني أو عملي."
+        "en": "When do we leave tomorrow?",
+        "ar": "متى نغادر غدًا؟",
+        "context": "تقال عند السؤال عن موعد مغادرة في اليوم التالي."
       },
       {
         "id": 6,
-        "en": "Before deciding, ask: \"When do we leave?\"",
-        "ar": "قبل أن تقرر، اسأل: \"متى نغادر؟\".",
-        "context": "تستخدم السؤال قبل اتخاذ قرار."
+        "en": "When do we leave work?",
+        "ar": "متى نغادر العمل؟",
+        "context": "تقال عند السؤال عن نهاية وقت العمل."
       },
       {
         "id": 7,
-        "en": "The student asked, \"When do we leave?\" in class.",
-        "ar": "سأل الطالب: \"متى نغادر؟\" في الصف.",
-        "context": "تجعل الجملة جزءًا من موقف تعليمي."
+        "en": "When do we leave the station?",
+        "ar": "متى نغادر المحطة؟",
+        "context": "تقال عند السؤال عن مغادرة محطة."
       },
       {
         "id": 8,
-        "en": "While traveling, you can ask, \"When do we leave?\"",
-        "ar": "أثناء السفر، يمكنك أن تسأل: \"متى نغادر؟\".",
-        "context": "تربط السؤال بموقف السفر أو التنقل."
+        "en": "When do we leave if it rains?",
+        "ar": "متى نغادر إذا أمطرت؟",
+        "context": "تقال عند ربط المغادرة بحالة الطقس."
       },
       {
         "id": 9,
-        "en": "He asked me, \"When do we leave?\" again.",
-        "ar": "سألني: \"متى نغادر؟\" مرة أخرى.",
-        "context": "تضيف معنى التكرار لنفس السؤال."
+        "en": "When do we leave by bus?",
+        "ar": "متى نغادر بالحافلة؟",
+        "context": "تقال عند السؤال عن موعد مغادرة بوسيلة محددة."
       },
       {
         "id": 10,
-        "en": "If you are not sure, ask: \"When do we leave?\"",
-        "ar": "إذا لم تكن متأكدًا، فاسأل: \"متى نغادر؟\".",
-        "context": "توضح أن السؤال مناسب عند عدم التأكد."
+        "en": "When do we leave for the meeting?",
+        "ar": "متى نغادر إلى الاجتماع؟",
+        "context": "تقال عند تنظيم وقت الذهاب إلى اجتماع."
       }
     ]
   }

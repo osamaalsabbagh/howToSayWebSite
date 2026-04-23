@@ -10,88 +10,95 @@
     "wordMeanings": [
       {
         "term": "I",
-        "description": "ضمير المتكلم."
+        "description": "ضمير المتكلم ويشير إلى الشخص الذي يتحدث."
       },
       {
         "term": "am",
-        "description": "فعل be مع I ويُستعمل هنا مع learning لتكوين المضارع المستمر."
+        "description": "صيغة تأتي مع ضمير المتكلم المفرد وتدخل هنا في تعبير عن نية قريبة."
       },
       {
         "term": "going",
-        "description": "هنا لا تعني يذهب حرفيًا، بل تُستعمل للسؤال عن سير الأمور وتطورها."
+        "description": "جزء من تعبير يدل على أن الفعل سيحدث قريبًا أو أن المتكلم ينوي فعله."
       },
       {
         "term": "to",
-        "description": "أداة تأتي قبل المصدر بعد أفعال مثل want."
+        "description": "تربط التعبير بالفعل الذي سيحدث."
       },
       {
         "term": "leave",
-        "description": "فعل يعني يغادر أو يترك."
+        "description": "أغادر أو أترك المكان."
       }
     ],
-    "tense": "المضارع المستمر",
-    "tenseEn": "Present Continuous",
-    "tenseReason": "استُعمل المضارع المستمر لأن الجملة تصف شيئًا يحدث الآن أو في فترة قريبة من الآن، أو خطة قريبة واضحة من السياق.",
+    "grammarExplanations": [
+      {
+        "sentence": "I am going to leave.",
+        "explanation": {
+          "tense": "المستقبل البسيط",
+          "tenseEn": "Future Simple",
+          "reason": "تستخدم صيغة am going to مع الفعل الأساسي للتعبير عن نية قريبة أو فعل مخطط له، وهو المغادرة قريبًا."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "People often say, \"I am going to leave\" in situations like this.",
-        "ar": "يقول الناس كثيرًا: \"أنا على وشك المغادرة\" في مواقف كهذه.",
-        "context": "تستخدم الجملة بوصفها تركيبًا شائعًا في موقف مشابه."
+        "en": "I am going to call you.",
+        "ar": "سأتصل بك.",
+        "context": "تقال عند التعبير عن نية الاتصال."
       },
       {
         "id": 2,
-        "en": "You can say, \"I am going to leave\" when this happens.",
-        "ar": "يمكنك أن تقول: \"أنا على وشك المغادرة\" عندما يحدث هذا.",
-        "context": "توضح أن الجملة مناسبة في موقف متكرر."
+        "en": "She is going to leave soon.",
+        "ar": "هي ستغادر قريبًا.",
+        "context": "تقال عند قرب مغادرة شخص."
       },
       {
         "id": 3,
-        "en": "I heard someone say, \"I am going to leave\".",
-        "ar": "سمعت شخصًا يقول: \"أنا على وشك المغادرة\".",
-        "context": "تجعل الجملة جزءًا من كلام سمعته من شخص آخر."
+        "en": "We are going to eat now.",
+        "ar": "سنأكل الآن.",
+        "context": "تقال عند الاستعداد لتناول الطعام."
       },
       {
         "id": 4,
-        "en": "The teacher used the sentence, \"I am going to leave\" in class.",
-        "ar": "استخدم المعلم الجملة: \"أنا على وشك المغادرة\" في الصف.",
-        "context": "تستخدم الجملة مثالًا تعليميًا في الصف."
+        "en": "He is going to study tonight.",
+        "ar": "سيدرس الليلة.",
+        "context": "تقال عند الحديث عن خطة قريبة."
       },
       {
         "id": 5,
-        "en": "Many learners remember the sentence, \"I am going to leave\" first.",
-        "ar": "يتذكر كثير من المتعلمين الجملة: \"أنا على وشك المغادرة\" أولًا.",
-        "context": "تقدم الجملة بوصفها جملة تعليمية أساسية."
+        "en": "I am going to sleep early.",
+        "ar": "سأنام مبكرًا.",
+        "context": "تقال عند ذكر نية للنوم في وقت مبكر."
       },
       {
         "id": 6,
-        "en": "She said, \"I am going to leave\" in a calm way.",
-        "ar": "قالت: \"أنا على وشك المغادرة\" بطريقة هادئة.",
-        "context": "تجعل الجملة جزءًا من كلام مباشر في موقف عادي."
+        "en": "They are going to visit us.",
+        "ar": "سيزوروننا.",
+        "context": "تقال عند وجود خطة زيارة."
       },
       {
         "id": 7,
-        "en": "He repeated, \"I am going to leave\" more than once.",
-        "ar": "ردد: \"أنا على وشك المغادرة\" أكثر من مرة.",
-        "context": "تضيف معنى التكرار لنفس الجملة."
+        "en": "I am going to start the meeting.",
+        "ar": "سأبدأ الاجتماع.",
+        "context": "تقال عند الاستعداد لبدء اجتماع."
       },
       {
         "id": 8,
-        "en": "At the right moment, someone might say, \"I am going to leave\".",
-        "ar": "في اللحظة المناسبة، قد يقول شخص ما: \"أنا على وشك المغادرة\".",
-        "context": "توضح أن الجملة مرتبطة بتوقيت مناسب في السياق."
+        "en": "My brother is going to drive.",
+        "ar": "سيقود أخي.",
+        "context": "تقال عند تحديد من سيقود السيارة."
       },
       {
         "id": 9,
-        "en": "I wrote down the sentence, \"I am going to leave\" so I would remember it.",
-        "ar": "كتبت الجملة: \"أنا على وشك المغادرة\" حتى أتذكرها.",
-        "context": "تعطي مثالًا على حفظ الجملة أو مراجعتها."
+        "en": "The bus is going to arrive soon.",
+        "ar": "ستصل الحافلة قريبًا.",
+        "context": "تقال عند توقع وصول قريب."
       },
       {
         "id": 10,
-        "en": "It is useful to know when to say, \"I am going to leave\".",
-        "ar": "من المفيد أن تعرف متى تقول: \"أنا على وشك المغادرة\".",
-        "context": "تركز على معرفة الوقت المناسب لاستخدام الجملة."
+        "en": "I am going to wait outside.",
+        "ar": "سأنتظر في الخارج.",
+        "context": "تقال عند إخبار شخص بخطة الانتظار."
       }
     ]
   }

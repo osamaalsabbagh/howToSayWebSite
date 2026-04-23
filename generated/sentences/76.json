@@ -10,79 +10,87 @@
     "wordMeanings": [
       {
         "term": "Just",
-        "description": "ظرف يعني للتو أو فقط أو تمامًا حسب السياق."
+        "description": "فقط، وتقلل الكمية أو تحددها."
       },
       {
         "term": "a",
-        "description": "أداة نكرة تأتي قبل الاسم المفرد المعدود."
+        "description": "أداة تدل على شيء واحد غير محدد."
       },
       {
         "term": "little",
-        "description": "اسم يعني قليل."
+        "description": "قليل أو كمية صغيرة."
       }
     ],
-    "tense": null,
-    "tenseReason": "استُعمل هذا التعبير لأنه عبارة ثابتة أو رد قصير يُستخدم في موقف محدد، وليس جملة فعلية كاملة بزمن واضح.",
+    "grammarExplanations": [
+      {
+        "sentence": "Just a little.",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذا تعبير قصير عن كمية قليلة، ولا يحتوي على فعل ظاهر أو زمن مستقل."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "In this situation, people often say, \"Just a little\".",
-        "ar": "في هذا الموقف، يقول الناس كثيرًا: \"قليل فقط\".",
-        "context": "توضح أن العبارة مناسبة في هذا النوع من المواقف."
+        "en": "Just a little sugar.",
+        "ar": "قليل من السكر فقط.",
+        "context": "تقال عند طلب كمية صغيرة من السكر."
       },
       {
         "id": 2,
-        "en": "The teacher said, \"Just a little\" to the students.",
-        "ar": "قال المعلم للطلاب: \"قليل فقط\".",
-        "context": "تستخدم الجملة كتعليمات أو توجيه مباشر."
+        "en": "Just a little water.",
+        "ar": "قليل من الماء فقط.",
+        "context": "تقال عند طلب كمية صغيرة من الماء."
       },
       {
         "id": 3,
-        "en": "He told me, \"Just a little\" before we left.",
-        "ar": "قال لي: \"قليل فقط\" قبل أن نغادر.",
-        "context": "تضع العبارة قبل حدث آخر."
+        "en": "I need just a little time.",
+        "ar": "أحتاج إلى قليل من الوقت فقط.",
+        "context": "تقال عند طلب مهلة قصيرة."
       },
       {
         "id": 4,
-        "en": "She said, \"Just a little\" in a polite way.",
-        "ar": "قالت: \"قليل فقط\" بطريقة مهذبة.",
-        "context": "تظهر أن العبارة يمكن أن تقال بلطف أو أدب."
+        "en": "She wants just a little rice.",
+        "ar": "هي تريد قليلًا من الأرز فقط.",
+        "context": "تقال عند طلب كمية صغيرة من الطعام."
       },
       {
         "id": 5,
-        "en": "Someone shouted, \"Just a little\" when there was a problem.",
-        "ar": "صاح شخص ما: \"قليل فقط\" عندما ظهرت مشكلة.",
-        "context": "تربط العبارة بموقف سريع أو طارئ."
+        "en": "Just a little milk, please.",
+        "ar": "قليل من الحليب فقط، من فضلك.",
+        "context": "تقال عند تحديد كمية الحليب المطلوبة."
       },
       {
         "id": 6,
-        "en": "You can say, \"Just a little\" when you need a quick response.",
-        "ar": "يمكنك أن تقول: \"قليل فقط\" عندما تحتاج إلى رد سريع.",
-        "context": "توضح أن العبارة مفيدة عند الحاجة إلى استجابة مباشرة."
+        "en": "He speaks just a little English.",
+        "ar": "هو يتحدث قليلًا من الإنجليزية فقط.",
+        "context": "تقال عند وصف مستوى بسيط في اللغة."
       },
       {
         "id": 7,
-        "en": "They repeated, \"Just a little\" more than once.",
-        "ar": "رددوا: \"قليل فقط\" أكثر من مرة.",
-        "context": "تعطي مثالًا على تكرار العبارة."
+        "en": "We need just a little help.",
+        "ar": "نحتاج إلى قليل من المساعدة فقط.",
+        "context": "تقال عند طلب مساعدة بسيطة."
       },
       {
         "id": 8,
-        "en": "I heard him say, \"Just a little\" yesterday.",
-        "ar": "سمعته يقول: \"قليل فقط\" أمس.",
-        "context": "تجعل العبارة جزءًا من موقف سمعته من شخص آخر."
+        "en": "Just a little more.",
+        "ar": "قليلًا أكثر فقط.",
+        "context": "تقال عند طلب زيادة صغيرة."
       },
       {
         "id": 9,
-        "en": "Many learners remember the phrase, \"Just a little\".",
-        "ar": "يتذكر كثير من المتعلمين العبارة: \"قليل فقط\".",
-        "context": "تقدم العبارة بوصفها عبارة سهلة التذكر."
+        "en": "I ate just a little.",
+        "ar": "أكلت قليلًا فقط.",
+        "context": "تقال عند وصف كمية قليلة من الطعام."
       },
       {
         "id": 10,
-        "en": "At that moment, she said, \"Just a little\".",
-        "ar": "في تلك اللحظة، قالت: \"قليل فقط\".",
-        "context": "تربط العبارة بلحظة معينة في السرد."
+        "en": "The child needs just a little rest.",
+        "ar": "الطفل يحتاج إلى قليل من الراحة فقط.",
+        "context": "تقال عند وصف حاجة بسيطة للراحة."
       }
     ]
   }

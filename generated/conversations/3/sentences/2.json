@@ -10,112 +10,119 @@
     "wordMeanings": [
       {
         "term": "Yes",
-        "description": "جواب مباشر يفيد الموافقة أو التأكيد أو الإقرار بصحة شيء."
+        "description": "كلمة موافقة أو تأكيد."
       },
       {
         "term": "we",
-        "description": "ضمير المتكلمين."
+        "description": "ضمير يشير هنا إلى المركز أو الموظفين المسؤولين."
       },
       {
         "term": "have",
-        "description": "فعل يعني يملك، ويأتي أيضًا كفعل مساعد."
+        "description": "تعني نملك أو نوفر في هذا السياق."
       },
       {
         "term": "a",
-        "description": "أداة نكرة تأتي قبل الاسم المفرد المعدود."
+        "description": "أداة نكرة قبل اسم مفرد."
       },
       {
         "term": "class",
-        "description": "اسم يعني صف أو حصة أو فئة حسب السياق."
+        "description": "حصة أو درس منظم."
       },
       {
         "term": "that",
-        "description": "تشير إلى أمر أو خبر سبق ذكره."
+        "description": "أداة تربط الحصة بالوصف الذي بعدها."
       },
       {
         "term": "combines",
-        "description": "فعل يعني لدينا."
+        "description": "تعني يجمع بين شيئين أو أكثر."
       },
       {
         "term": "fitness",
-        "description": "اسم يعني اللياقة."
+        "description": "اللياقة البدنية والتمارين الصحية."
       },
       {
         "term": "and",
-        "description": "حرف عطف يربط بين كلمتين أو جملتين."
+        "description": "حرف عطف يربط بين عنصرين."
       },
       {
         "term": "action",
-        "description": "اسم يعني وحركات."
+        "description": "حركة نشيطة أو حركات تشبه مشاهد الحركة."
       },
       {
         "term": "moves",
-        "description": "اسم يعني الأكشن."
+        "description": "حركات جسدية ضمن التمرين."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "Yes, we have a class that combines fitness and action moves.",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُعمل المضارع البسيط لأن المتكلم يصف خدمة متوفرة حاليًا في المركز."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "In general, Yes, we have a class that combines fitness and action moves.",
-        "ar": "بشكل عام، نعم، لدينا حصة تجمع بين اللياقة وحركات الأكشن.",
-        "context": "تضيف عبارة عامة تحافظ على نفس المعنى الأساسي."
+        "en": "Yes, we have a class that combines dance and fitness.",
+        "ar": "نعم، لدينا حصة تجمع بين الرقص واللياقة.",
+        "context": "تشرح نوع حصة متاحة في المركز."
       },
       {
         "id": 2,
-        "en": "Usually, Yes, we have a class that combines fitness and action moves.",
-        "ar": "عادةً، نعم، لدينا حصة تجمع بين اللياقة وحركات الأكشن.",
-        "context": "تضيف ظرفًا يدل على التكرار أو العادة."
+        "en": "We have a program that combines study and practice.",
+        "ar": "لدينا برنامج يجمع بين الدراسة والتطبيق.",
+        "context": "تصف برنامجًا فيه جانب نظري وعملي."
       },
       {
         "id": 3,
-        "en": "Sometimes, Yes, we have a class that combines fitness and action moves.",
-        "ar": "أحيانًا، نعم، لدينا حصة تجمع بين اللياقة وحركات الأكشن.",
-        "context": "تضع الجملة في سياق أقل تكرارًا."
+        "en": "This class combines music and movement.",
+        "ar": "هذه الحصة تجمع بين الموسيقى والحركة.",
+        "context": "توضح طبيعة نشاط بدني ممتع."
       },
       {
         "id": 4,
-        "en": "For now, Yes, we have a class that combines fitness and action moves.",
-        "ar": "في الوقت الحالي، نعم، لدينا حصة تجمع بين اللياقة وحركات الأكشن.",
-        "context": "تربط الجملة بالوضع الحالي."
+        "en": "Yes, we have a class for beginners.",
+        "ar": "نعم، لدينا حصة للمبتدئين.",
+        "context": "تجيب عن سؤال شخص جديد."
       },
       {
         "id": 5,
-        "en": "Yes, we have a class that combines fitness and action moves, so that helps a lot.",
-        "ar": "نعم، لدينا حصة تجمع بين اللياقة وحركات الأكشن، وهذا يساعد كثيرًا.",
-        "context": "تضيف نتيجة بسيطة على نفس المعنى."
+        "en": "The course combines English and real conversations.",
+        "ar": "الدورة تجمع بين الإنجليزية والمحادثات الواقعية.",
+        "context": "تصف طريقة تعلم عملية."
       },
       {
         "id": 6,
-        "en": "Yes, we have a class that combines fitness and action moves in daily life.",
-        "ar": "نعم، لدينا حصة تجمع بين اللياقة وحركات الأكشن في الحياة اليومية.",
-        "context": "تربط الجملة بمواقف الحياة اليومية."
+        "en": "We have a class that starts at six.",
+        "ar": "لدينا حصة تبدأ في السادسة.",
+        "context": "تخبر شخصًا بموعد حصة."
       },
       {
         "id": 7,
-        "en": "Yes, we have a class that combines fitness and action moves when it is necessary.",
-        "ar": "نعم، لدينا حصة تجمع بين اللياقة وحركات الأكشن عندما يكون ذلك ضروريًا.",
-        "context": "تربط الجملة بشرط أو حاجة معينة."
+        "en": "This activity combines exercise and fun.",
+        "ar": "هذا النشاط يجمع بين التمرين والمتعة.",
+        "context": "تشرح سبب جاذبية النشاط."
       },
       {
         "id": 8,
-        "en": "In this situation, Yes, we have a class that combines fitness and action moves.",
-        "ar": "في هذا الموقف، نعم، لدينا حصة تجمع بين اللياقة وحركات الأكشن.",
-        "context": "تجعل الجملة جزءًا من موقف واضح."
+        "en": "Yes, we have a class that fits your level.",
+        "ar": "نعم، لدينا حصة تناسب مستواك.",
+        "context": "تطمئن شخصًا يبحث عن مستوى مناسب."
       },
       {
         "id": 9,
-        "en": "Yes, we have a class that combines fitness and action moves, and everyone notices that.",
-        "ar": "نعم، لدينا حصة تجمع بين اللياقة وحركات الأكشن، والجميع يلاحظ ذلك.",
-        "context": "تضيف ملاحظة أو نتيجة بعد الجملة."
+        "en": "The lesson combines simple steps and strong moves.",
+        "ar": "الدرس يجمع بين خطوات بسيطة وحركات قوية.",
+        "context": "تصف محتوى حصة رياضية."
       },
       {
         "id": 10,
-        "en": "Yes, we have a class that combines fitness and action moves most of the time.",
-        "ar": "نعم، لدينا حصة تجمع بين اللياقة وحركات الأكشن معظم الوقت.",
-        "context": "تضيف عبارة تكرار شائعة."
+        "en": "We have a class that meets twice a week.",
+        "ar": "لدينا حصة تُعقد مرتين في الأسبوع.",
+        "context": "توضح تكرار الحصة."
       }
     ]
   }

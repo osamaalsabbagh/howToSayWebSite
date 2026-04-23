@@ -10,100 +10,119 @@
     "wordMeanings": [
       {
         "term": "I",
-        "description": "ضمير المتكلم."
+        "description": "أنا، وتشير إلى المتكلم."
       },
       {
         "term": "have",
-        "description": "فعل يعني يملك، ويأتي أيضًا كفعل مساعد."
+        "description": "لدي أو أملك."
       },
       {
         "term": "a",
-        "description": "أداة نكرة تأتي قبل الاسم المفرد المعدود."
+        "description": "أداة تدل على شيء واحد غير محدد."
       },
       {
         "term": "question",
-        "description": "اسم يعني سؤال."
+        "description": "سؤال."
+      },
+      {
+        "term": "I",
+        "description": "أنا، وتشير مرة أخرى إلى المتكلم."
       },
       {
         "term": "want",
-        "description": "فعل يدل على الرغبة."
+        "description": "أريد أو أرغب."
       },
       {
         "term": "to",
-        "description": "أداة تأتي قبل المصدر بعد أفعال مثل want."
+        "description": "تربط الرغبة بالفعل بعدها."
       },
       {
         "term": "ask",
-        "description": "فعل يعني يسأل أو يطلب."
+        "description": "أطرح سؤالًا أو أسأل."
       },
       {
         "term": "you",
-        "description": "الضمير الذي يعود على الشخص المخاطَب."
+        "description": "أنت أو عليك، وتشير إلى الشخص المخاطب."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "I have a question",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "يستخدم المضارع البسيط للتعبير عن حالة حالية لدى المتكلم، وهي أن لديه سؤالًا الآن."
+        }
+      },
+      {
+        "sentence": "I want to ask you",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "يستخدم المضارع البسيط للتعبير عن رغبة حالية ومباشرة، ثم يأتي الفعل بصيغة المصدر ليشرح ما يريد المتكلم فعله."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "People often say, \"I have a question I want to ask you\" in situations like this.",
-        "ar": "يقول الناس كثيرًا: \"لدي سؤال أريد أن أطرحه عليك\" في مواقف كهذه.",
-        "context": "تستخدم الجملة بوصفها تركيبًا شائعًا في موقف مشابه."
+        "en": "I have a question I want to ask you.",
+        "ar": "لدي سؤال أريد أن أطرحه عليك.",
+        "context": "تقال عند طلب مباشر وعفوي للسؤال."
       },
       {
         "id": 2,
-        "en": "You can say, \"I have a question I want to ask you\" when this happens.",
-        "ar": "يمكنك أن تقول: \"لدي سؤال أريد أن أطرحه عليك\" عندما يحدث هذا.",
-        "context": "توضح أن الجملة مناسبة في موقف متكرر."
+        "en": "I have a question for you.",
+        "ar": "لدي سؤال لك.",
+        "context": "تقال قبل طرح سؤال على شخص."
       },
       {
         "id": 3,
-        "en": "I heard someone say, \"I have a question I want to ask you\".",
-        "ar": "سمعت شخصًا يقول: \"لدي سؤال أريد أن أطرحه عليك\".",
-        "context": "تجعل الجملة جزءًا من كلام سمعته من شخص آخر."
+        "en": "I have something I want to ask you.",
+        "ar": "لدي شيء أريد أن أسألك عنه.",
+        "context": "تقال قبل سؤال خاص أو مهم."
       },
       {
         "id": 4,
-        "en": "The teacher used the sentence, \"I have a question I want to ask you\" in class.",
-        "ar": "استخدم المعلم الجملة: \"لدي سؤال أريد أن أطرحه عليك\" في الصف.",
-        "context": "تستخدم الجملة مثالًا تعليميًا في الصف."
+        "en": "I have a problem I want to discuss.",
+        "ar": "لدي مشكلة أريد مناقشتها.",
+        "context": "تقال عند فتح موضوع يحتاج إلى حديث."
       },
       {
         "id": 5,
-        "en": "Many learners remember the sentence, \"I have a question I want to ask you\" first.",
-        "ar": "يتذكر كثير من المتعلمين الجملة: \"لدي سؤال أريد أن أطرحه عليك\" أولًا.",
-        "context": "تقدم الجملة بوصفها جملة تعليمية أساسية."
+        "en": "I have a question about the ticket.",
+        "ar": "لدي سؤال عن التذكرة.",
+        "context": "تقال عند الاستفسار عن تذكرة."
       },
       {
         "id": 6,
-        "en": "She said, \"I have a question I want to ask you\" in a calm way.",
-        "ar": "قالت: \"لدي سؤال أريد أن أطرحه عليك\" بطريقة هادئة.",
-        "context": "تجعل الجملة جزءًا من كلام مباشر في موقف عادي."
+        "en": "I want to ask you a question.",
+        "ar": "أريد أن أطرح عليك سؤالًا.",
+        "context": "تقال بصيغة مباشرة قبل السؤال."
       },
       {
         "id": 7,
-        "en": "He repeated, \"I have a question I want to ask you\" more than once.",
-        "ar": "ردد: \"لدي سؤال أريد أن أطرحه عليك\" أكثر من مرة.",
-        "context": "تضيف معنى التكرار لنفس الجملة."
+        "en": "I have a question about the hotel.",
+        "ar": "لدي سؤال عن الفندق.",
+        "context": "تقال عند الاستفسار عن إقامة أو خدمة."
       },
       {
         "id": 8,
-        "en": "At the right moment, someone might say, \"I have a question I want to ask you\".",
-        "ar": "في اللحظة المناسبة، قد يقول شخص ما: \"لدي سؤال أريد أن أطرحه عليك\".",
-        "context": "توضح أن الجملة مرتبطة بتوقيت مناسب في السياق."
+        "en": "I have a quick question.",
+        "ar": "لدي سؤال سريع.",
+        "context": "تقال عندما يكون السؤال قصيرًا."
       },
       {
         "id": 9,
-        "en": "I wrote down the sentence, \"I have a question I want to ask you\" so I would remember it.",
-        "ar": "كتبت الجملة: \"لدي سؤال أريد أن أطرحه عليك\" حتى أتذكرها.",
-        "context": "تعطي مثالًا على حفظ الجملة أو مراجعتها."
+        "en": "I have a question before we leave.",
+        "ar": "لدي سؤال قبل أن نغادر.",
+        "context": "تقال قبل المغادرة للتأكد من أمر."
       },
       {
         "id": 10,
-        "en": "It is useful to know when to say, \"I have a question I want to ask you\".",
-        "ar": "من المفيد أن تعرف متى تقول: \"لدي سؤال أريد أن أطرحه عليك\".",
-        "context": "تركز على معرفة الوقت المناسب لاستخدام الجملة."
+        "en": "I have a question about this form.",
+        "ar": "لدي سؤال عن هذا النموذج.",
+        "context": "تقال عند ملء نموذج أو وثيقة."
       }
     ]
   }

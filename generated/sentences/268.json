@@ -10,88 +10,95 @@
     "wordMeanings": [
       {
         "term": "He",
-        "description": "الضمير الذي يعود على شخص مفرد مذكر."
+        "description": "ضمير يشير إلى رجل أو ولد."
       },
       {
         "term": "studies",
-        "description": "فعل يعني يدرس."
+        "description": "يدرس أو يتعلم بانتظام."
       },
       {
         "term": "at",
-        "description": "حرف جر يعني عند أو في وقت/مكان محدد."
+        "description": "تستخدم هنا لربط الدراسة بمكان أو مؤسسة."
       },
       {
         "term": "Boston",
-        "description": "اسم مدينة."
+        "description": "اسم مدينة بوسطن."
       },
       {
         "term": "University",
-        "description": "اسم علم يشير إلى جامعة."
+        "description": "جامعة أو مؤسسة تعليم عال."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "He studies at Boston University.",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "يستخدم المضارع البسيط لوصف وضع دراسي عام أو حقيقة حالية عن مكان دراسة الشخص."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "People often say, \"He studies at Boston University\" in situations like this.",
-        "ar": "يقول الناس كثيرًا: \"هو يدرس في جامعة بوسطن\" في مواقف كهذه.",
-        "context": "تستخدم الجملة بوصفها تركيبًا شائعًا في موقف مشابه."
+        "en": "He studies at Boston University.",
+        "ar": "هو يدرس في جامعة بوسطن.",
+        "context": "تقال عند ذكر مكان دراسة شخص."
       },
       {
         "id": 2,
-        "en": "You can say, \"He studies at Boston University\" when this happens.",
-        "ar": "يمكنك أن تقول: \"هو يدرس في جامعة بوسطن\" عندما يحدث هذا.",
-        "context": "توضح أن الجملة مناسبة في موقف متكرر."
+        "en": "She studies at Cairo University.",
+        "ar": "هي تدرس في جامعة القاهرة.",
+        "context": "تقال عند ذكر جامعة شخص آخر."
       },
       {
         "id": 3,
-        "en": "I heard someone say, \"He studies at Boston University\".",
-        "ar": "سمعت شخصًا يقول: \"هو يدرس في جامعة بوسطن\".",
-        "context": "تجعل الجملة جزءًا من كلام سمعته من شخص آخر."
+        "en": "My friend studies at a private university.",
+        "ar": "صديقي يدرس في جامعة خاصة.",
+        "context": "تقال عند وصف نوع الجامعة."
       },
       {
         "id": 4,
-        "en": "The teacher used the sentence, \"He studies at Boston University\" in class.",
-        "ar": "استخدم المعلم الجملة: \"هو يدرس في جامعة بوسطن\" في الصف.",
-        "context": "تستخدم الجملة مثالًا تعليميًا في الصف."
+        "en": "He studies medicine at Boston University.",
+        "ar": "هو يدرس الطب في جامعة بوسطن.",
+        "context": "تقال عند ذكر التخصص ومكان الدراسة."
       },
       {
         "id": 5,
-        "en": "Many learners remember the sentence, \"He studies at Boston University\" first.",
-        "ar": "يتذكر كثير من المتعلمين الجملة: \"هو يدرس في جامعة بوسطن\" أولًا.",
-        "context": "تقدم الجملة بوصفها جملة تعليمية أساسية."
+        "en": "He studies at the university every day.",
+        "ar": "هو يدرس في الجامعة كل يوم.",
+        "context": "تقال لوصف عادة دراسية منتظمة."
       },
       {
         "id": 6,
-        "en": "She said, \"He studies at Boston University\" in a calm way.",
-        "ar": "قالت: \"هو يدرس في جامعة بوسطن\" بطريقة هادئة.",
-        "context": "تجعل الجملة جزءًا من كلام مباشر في موقف عادي."
+        "en": "Do you study at Boston University?",
+        "ar": "هل تدرس في جامعة بوسطن؟",
+        "context": "تستخدم للسؤال عن مكان دراسة شخص."
       },
       {
         "id": 7,
-        "en": "He repeated, \"He studies at Boston University\" more than once.",
-        "ar": "ردد: \"هو يدرس في جامعة بوسطن\" أكثر من مرة.",
-        "context": "تضيف معنى التكرار لنفس الجملة."
+        "en": "He studies with students from many countries.",
+        "ar": "هو يدرس مع طلاب من دول كثيرة.",
+        "context": "تقال عند وصف بيئة الدراسة."
       },
       {
         "id": 8,
-        "en": "At the right moment, someone might say, \"He studies at Boston University\".",
-        "ar": "في اللحظة المناسبة، قد يقول شخص ما: \"هو يدرس في جامعة بوسطن\".",
-        "context": "توضح أن الجملة مرتبطة بتوقيت مناسب في السياق."
+        "en": "His sister studies at the same university.",
+        "ar": "أخته تدرس في الجامعة نفسها.",
+        "context": "تقال عند مقارنة مكان دراسة شخصين."
       },
       {
         "id": 9,
-        "en": "I wrote down the sentence, \"He studies at Boston University\" so I would remember it.",
-        "ar": "كتبت الجملة: \"هو يدرس في جامعة بوسطن\" حتى أتذكرها.",
-        "context": "تعطي مثالًا على حفظ الجملة أو مراجعتها."
+        "en": "He studies English at school.",
+        "ar": "هو يدرس الإنجليزية في المدرسة.",
+        "context": "تقال عند ذكر مادة ومكان الدراسة."
       },
       {
         "id": 10,
-        "en": "It is useful to know when to say, \"He studies at Boston University\".",
-        "ar": "من المفيد أن تعرف متى تقول: \"هو يدرس في جامعة بوسطن\".",
-        "context": "تركز على معرفة الوقت المناسب لاستخدام الجملة."
+        "en": "He studies in Boston and lives nearby.",
+        "ar": "هو يدرس في بوسطن ويسكن بالقرب منها.",
+        "context": "تقال عند ربط الدراسة بالمدينة والسكن."
       }
     ]
   }

@@ -10,88 +10,95 @@
     "wordMeanings": [
       {
         "term": "I",
-        "description": "ضمير المتكلم."
+        "description": "أنا، وتشير إلى المتكلم."
       },
       {
         "term": "will",
-        "description": "أداة مستقبل تدل على ما سيحدث لاحقًا."
+        "description": "تدل على قرار أو نية مستقبلية."
       },
       {
         "term": "take",
-        "description": "فعل يعني يأخذ أو يستغرق أو يصطحب حسب السياق."
+        "description": "آخذ أو أختار للشراء."
       },
       {
         "term": "that",
-        "description": "تشير إلى أمر أو خبر سبق ذكره."
+        "description": "ذلك، وتشير إلى شيء مشار إليه دون تركيز على كلمة واحد."
       },
       {
         "term": "also",
-        "description": "ظرف يعني أيضًا."
+        "description": "أيضًا، وتدل على إضافة شيء إلى ما تم اختياره."
       }
     ],
-    "tense": "المستقبل البسيط",
-    "tenseEn": "Future Simple",
-    "tenseReason": "استُعمل المستقبل البسيط لأن الجملة تتحدث عن شيء سيحدث لاحقًا أو عن قرار أو توقع يخص المستقبل.",
+    "grammarExplanations": [
+      {
+        "sentence": "I will take that also.",
+        "explanation": {
+          "tense": "المستقبل البسيط",
+          "tenseEn": "Future Simple",
+          "reason": "يستخدم المستقبل البسيط للتعبير عن قرار فوري بإضافة شيء آخر إلى الاختيار أو الشراء."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "People often say, \"I will take that also\" in situations like this.",
-        "ar": "يقول الناس كثيرًا: \"سآخذ ذلك أيضًا\" في مواقف كهذه.",
-        "context": "تستخدم الجملة بوصفها تركيبًا شائعًا في موقف مشابه."
+        "en": "I will take that also.",
+        "ar": "سآخذ ذلك أيضًا.",
+        "context": "تقال عند إضافة شيء آخر إلى ما اخترته."
       },
       {
         "id": 2,
-        "en": "You can say, \"I will take that also\" when this happens.",
-        "ar": "يمكنك أن تقول: \"سآخذ ذلك أيضًا\" عندما يحدث هذا.",
-        "context": "توضح أن الجملة مناسبة في موقف متكرر."
+        "en": "I will take this also.",
+        "ar": "سآخذ هذا أيضًا.",
+        "context": "تقال عند الإشارة إلى شيء قريب وإضافته."
       },
       {
         "id": 3,
-        "en": "I heard someone say, \"I will take that also\".",
-        "ar": "سمعت شخصًا يقول: \"سآخذ ذلك أيضًا\".",
-        "context": "تجعل الجملة جزءًا من كلام سمعته من شخص آخر."
+        "en": "I will take the hat also.",
+        "ar": "سآخذ القبعة أيضًا.",
+        "context": "تقال عند إضافة قبعة إلى المشتريات."
       },
       {
         "id": 4,
-        "en": "The teacher used the sentence, \"I will take that also\" in class.",
-        "ar": "استخدم المعلم الجملة: \"سآخذ ذلك أيضًا\" في الصف.",
-        "context": "تستخدم الجملة مثالًا تعليميًا في الصف."
+        "en": "I will take the ticket also.",
+        "ar": "سآخذ التذكرة أيضًا.",
+        "context": "تقال عند إضافة تذكرة إلى الطلب."
       },
       {
         "id": 5,
-        "en": "Many learners remember the sentence, \"I will take that also\" first.",
-        "ar": "يتذكر كثير من المتعلمين الجملة: \"سآخذ ذلك أيضًا\" أولًا.",
-        "context": "تقدم الجملة بوصفها جملة تعليمية أساسية."
+        "en": "I will take the room also.",
+        "ar": "سآخذ الغرفة أيضًا.",
+        "context": "تقال عند إضافة غرفة إلى الحجز."
       },
       {
         "id": 6,
-        "en": "She said, \"I will take that also\" in a calm way.",
-        "ar": "قالت: \"سآخذ ذلك أيضًا\" بطريقة هادئة.",
-        "context": "تجعل الجملة جزءًا من كلام مباشر في موقف عادي."
+        "en": "I will take coffee also.",
+        "ar": "سآخذ قهوة أيضًا.",
+        "context": "تقال عند إضافة مشروب إلى الطلب."
       },
       {
         "id": 7,
-        "en": "He repeated, \"I will take that also\" more than once.",
-        "ar": "ردد: \"سآخذ ذلك أيضًا\" أكثر من مرة.",
-        "context": "تضيف معنى التكرار لنفس الجملة."
+        "en": "I will take a map also.",
+        "ar": "سآخذ خريطة أيضًا.",
+        "context": "تقال عند إضافة خريطة إلى ما تحتاجه."
       },
       {
         "id": 8,
-        "en": "At the right moment, someone might say, \"I will take that also\".",
-        "ar": "في اللحظة المناسبة، قد يقول شخص ما: \"سآخذ ذلك أيضًا\".",
-        "context": "توضح أن الجملة مرتبطة بتوقيت مناسب في السياق."
+        "en": "I will take an extra bag also.",
+        "ar": "سآخذ حقيبة إضافية أيضًا.",
+        "context": "تقال عند طلب حقيبة إضافية."
       },
       {
         "id": 9,
-        "en": "I wrote down the sentence, \"I will take that also\" so I would remember it.",
-        "ar": "كتبت الجملة: \"سآخذ ذلك أيضًا\" حتى أتذكرها.",
-        "context": "تعطي مثالًا على حفظ الجملة أو مراجعتها."
+        "en": "I will take that if it fits.",
+        "ar": "سآخذ ذلك إذا كان مناسبًا.",
+        "context": "تقال عند قرار مشروط أثناء التسوق."
       },
       {
         "id": 10,
-        "en": "It is useful to know when to say, \"I will take that also\".",
-        "ar": "من المفيد أن تعرف متى تقول: \"سآخذ ذلك أيضًا\".",
-        "context": "تركز على معرفة الوقت المناسب لاستخدام الجملة."
+        "en": "I will take that with me also.",
+        "ar": "سآخذ ذلك معي أيضًا.",
+        "context": "تقال عند إضافة شيء لتحمله معك."
       }
     ]
   }

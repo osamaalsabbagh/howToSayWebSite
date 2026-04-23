@@ -10,88 +10,95 @@
     "wordMeanings": [
       {
         "term": "How",
-        "description": "أداة سؤال."
+        "description": "تبدأ السؤال عن المقدار."
       },
       {
         "term": "long",
-        "description": "صفة تعني طويل."
+        "description": "طويل من حيث المدة، ومع الكلمة السابقة تعني كم مدته."
       },
       {
         "term": "is",
-        "description": "فعل be في الحاضر مع المفرد."
+        "description": "صيغة تربط السؤال بمدة الرحلة."
       },
       {
         "term": "the",
-        "description": "أداة تعريف تشير إلى شيء معروف أو محدد."
+        "description": "أداة تشير إلى رحلة محددة معروفة في الحديث."
       },
       {
         "term": "flight",
-        "description": "اسم يعني الرحلة."
+        "description": "رحلة جوية بالطائرة."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "How long is the flight?",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "يستخدم المضارع البسيط مع فعل الربط للسؤال عن صفة ثابتة أو متوقعة للرحلة، وهي مدتها."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "You can ask, \"How long is the flight?\" when you need information.",
-        "ar": "يمكنك أن تسأل: \"كم مدة الرحلة؟\" عندما تحتاج إلى معلومة.",
-        "context": "تستعمل الجملة كسؤال مباشر للحصول على معلومة."
+        "en": "How long is the flight?",
+        "ar": "كم مدة الرحلة الجوية؟",
+        "context": "تقال عند السؤال عن مدة رحلة بالطائرة."
       },
       {
         "id": 2,
-        "en": "Many people ask, \"How long is the flight?\" in this situation.",
-        "ar": "يسأل كثير من الناس: \"كم مدة الرحلة؟\" في هذا الموقف.",
-        "context": "توضح أن هذا سؤال شائع في موقف مشابه."
+        "en": "How long is the trip?",
+        "ar": "كم مدة الرحلة؟",
+        "context": "تقال عند السؤال عن مدة رحلة عامة."
       },
       {
         "id": 3,
-        "en": "I asked, \"How long is the flight?\" because I was not sure.",
-        "ar": "سألت: \"كم مدة الرحلة؟\" لأنني لم أكن متأكدًا.",
-        "context": "تضيف سببًا لطرح السؤال."
+        "en": "How long is the drive?",
+        "ar": "كم مدة القيادة؟",
+        "context": "تقال عند السؤال عن مدة طريق بالسيارة."
       },
       {
         "id": 4,
-        "en": "She asked politely, \"How long is the flight?\"",
-        "ar": "سألت بأدب: \"كم مدة الرحلة؟\".",
-        "context": "تبين أن السؤال قيل بطريقة مهذبة."
+        "en": "How long is the bus ride?",
+        "ar": "كم مدة رحلة الحافلة؟",
+        "context": "تقال عند السؤال عن مدة ركوب الحافلة."
       },
       {
         "id": 5,
-        "en": "At work, someone may ask, \"How long is the flight?\"",
-        "ar": "في العمل، قد يسأل شخص ما: \"كم مدة الرحلة؟\".",
-        "context": "تضع السؤال في سياق مهني أو عملي."
+        "en": "How long is the train ride?",
+        "ar": "كم مدة رحلة القطار؟",
+        "context": "تقال عند السؤال عن مدة ركوب القطار."
       },
       {
         "id": 6,
-        "en": "Before deciding, ask: \"How long is the flight?\"",
-        "ar": "قبل أن تقرر، اسأل: \"كم مدة الرحلة؟\".",
-        "context": "تستخدم السؤال قبل اتخاذ قرار."
+        "en": "How long is the meeting?",
+        "ar": "كم مدة الاجتماع؟",
+        "context": "تقال عند السؤال عن مدة اجتماع."
       },
       {
         "id": 7,
-        "en": "The student asked, \"How long is the flight?\" in class.",
-        "ar": "سأل الطالب: \"كم مدة الرحلة؟\" في الصف.",
-        "context": "تجعل الجملة جزءًا من موقف تعليمي."
+        "en": "How long is the class?",
+        "ar": "كم مدة الدرس؟",
+        "context": "تقال عند السؤال عن مدة درس أو حصة."
       },
       {
         "id": 8,
-        "en": "While traveling, you can ask, \"How long is the flight?\"",
-        "ar": "أثناء السفر، يمكنك أن تسأل: \"كم مدة الرحلة؟\".",
-        "context": "تربط السؤال بموقف السفر أو التنقل."
+        "en": "How long is the wait?",
+        "ar": "كم مدة الانتظار؟",
+        "context": "تقال عند السؤال عن وقت الانتظار."
       },
       {
         "id": 9,
-        "en": "He asked me, \"How long is the flight?\" again.",
-        "ar": "سألني: \"كم مدة الرحلة؟\" مرة أخرى.",
-        "context": "تضيف معنى التكرار لنفس السؤال."
+        "en": "How long is the movie?",
+        "ar": "كم مدة الفيلم؟",
+        "context": "تقال عند السؤال عن مدة فيلم."
       },
       {
         "id": 10,
-        "en": "If you are not sure, ask: \"How long is the flight?\"",
-        "ar": "إذا لم تكن متأكدًا، فاسأل: \"كم مدة الرحلة؟\".",
-        "context": "توضح أن السؤال مناسب عند عدم التأكد."
+        "en": "How long is the tour?",
+        "ar": "كم مدة الجولة؟",
+        "context": "تقال عند السؤال عن مدة جولة سياحية."
       }
     ]
   }

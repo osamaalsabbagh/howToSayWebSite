@@ -10,95 +10,103 @@
     "wordMeanings": [
       {
         "term": "May",
-        "description": "فعل modal يدل على الاحتمال أو الإذن."
+        "description": "تستخدم هنا في سؤال مهذب لطلب الإذن."
       },
       {
         "term": "I",
-        "description": "ضمير المتكلم."
+        "description": "ضمير المتكلم ويشير إلى الشخص الذي يطلب التحدث."
       },
       {
         "term": "speak",
-        "description": "فعل أمر يعني تحدث."
+        "description": "أتحدث أو أتكلم مع شخص."
       },
       {
         "term": "to",
-        "description": "أداة تأتي قبل المصدر بعد أفعال مثل want."
+        "description": "إلى أو مع، وتربط فعل الكلام بالشخص المقصود."
       },
       {
         "term": "Mrs",
-        "description": "اسم علم يشير إلى السيدة."
+        "description": "لقب احترام يوضع قبل اسم امرأة متزوجة."
       },
       {
         "term": "Smith",
-        "description": "اسم علم يشير إلى سميث."
+        "description": "اسم عائلة للشخص المقصود."
       },
       {
         "term": "please",
-        "description": "تضيف اللطف إلى الطلب."
+        "description": "كلمة تجعل الطلب أكثر أدبًا."
       }
     ],
-    "tense": null,
-    "tenseReason": "استُعمل هذا التركيب لأنه سؤال يعتمد على فعل modal مثل can أو could أو would، لذلك لا نعامله هنا كزمن مستقل بل كصيغة سؤال وظيفية.",
+    "grammarExplanations": [
+      {
+        "sentence": "May I speak to Mrs. Smith please?",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه صيغة طلب إذن مهذبة باستخدام May I، وتستخدم غالبًا في الهاتف أو المواقف الرسمية، ولا تحمل زمنًا مستقلًا."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "You can ask, \"May I speak to Mrs. Smith please?\" when you need information.",
-        "ar": "يمكنك أن تسأل: \"هل يمكنني التحدث إلى السيدة سميث من فضلك؟\" عندما تحتاج إلى معلومة.",
-        "context": "تستعمل الجملة كسؤال مباشر للحصول على معلومة."
+        "en": "May I speak to the manager please?",
+        "ar": "هل يمكنني التحدث إلى المدير من فضلك؟",
+        "context": "تقال عند طلب الحديث مع مسؤول."
       },
       {
         "id": 2,
-        "en": "Many people ask, \"May I speak to Mrs. Smith please?\" in this situation.",
-        "ar": "يسأل كثير من الناس: \"هل يمكنني التحدث إلى السيدة سميث من فضلك؟\" في هذا الموقف.",
-        "context": "توضح أن هذا سؤال شائع في موقف مشابه."
+        "en": "May I talk to your teacher please?",
+        "ar": "هل يمكنني التحدث إلى معلمك من فضلك؟",
+        "context": "تقال عند طلب التحدث مع معلم بأدب."
       },
       {
         "id": 3,
-        "en": "I asked, \"May I speak to Mrs. Smith please?\" because I was not sure.",
-        "ar": "سألت: \"هل يمكنني التحدث إلى السيدة سميث من فضلك؟\" لأنني لم أكن متأكدًا.",
-        "context": "تضيف سببًا لطرح السؤال."
+        "en": "May I speak to Dr. Brown please?",
+        "ar": "هل يمكنني التحدث إلى الدكتور براون من فضلك؟",
+        "context": "تقال عند طلب الحديث مع طبيب أو صاحب لقب رسمي."
       },
       {
         "id": 4,
-        "en": "She asked politely, \"May I speak to Mrs. Smith please?\"",
-        "ar": "سألت بأدب: \"هل يمكنني التحدث إلى السيدة سميث من فضلك؟\".",
-        "context": "تبين أن السؤال قيل بطريقة مهذبة."
+        "en": "May I ask a question please?",
+        "ar": "هل يمكنني طرح سؤال من فضلك؟",
+        "context": "تقال عند طلب الإذن بالسؤال."
       },
       {
         "id": 5,
-        "en": "At work, someone may ask, \"May I speak to Mrs. Smith please?\"",
-        "ar": "في العمل، قد يسأل شخص ما: \"هل يمكنني التحدث إلى السيدة سميث من فضلك؟\".",
-        "context": "تضع السؤال في سياق مهني أو عملي."
+        "en": "May I use your phone please?",
+        "ar": "هل يمكنني استخدام هاتفك من فضلك؟",
+        "context": "تقال عند طلب استخدام شيء يخص شخصًا آخر."
       },
       {
         "id": 6,
-        "en": "Before deciding, ask: \"May I speak to Mrs. Smith please?\"",
-        "ar": "قبل أن تقرر، اسأل: \"هل يمكنني التحدث إلى السيدة سميث من فضلك؟\".",
-        "context": "تستخدم السؤال قبل اتخاذ قرار."
+        "en": "May I come in please?",
+        "ar": "هل يمكنني الدخول من فضلك؟",
+        "context": "تقال عند طلب الإذن بالدخول."
       },
       {
         "id": 7,
-        "en": "The student asked, \"May I speak to Mrs. Smith please?\" in class.",
-        "ar": "سأل الطالب: \"هل يمكنني التحدث إلى السيدة سميث من فضلك؟\" في الصف.",
-        "context": "تجعل الجملة جزءًا من موقف تعليمي."
+        "en": "May I speak with your father please?",
+        "ar": "هل يمكنني التحدث مع والدك من فضلك؟",
+        "context": "تقال عند طلب الحديث مع أحد أفراد العائلة بأدب."
       },
       {
         "id": 8,
-        "en": "While traveling, you can ask, \"May I speak to Mrs. Smith please?\"",
-        "ar": "أثناء السفر، يمكنك أن تسأل: \"هل يمكنني التحدث إلى السيدة سميث من فضلك؟\".",
-        "context": "تربط السؤال بموقف السفر أو التنقل."
+        "en": "May I leave a message please?",
+        "ar": "هل يمكنني ترك رسالة من فضلك؟",
+        "context": "تقال عند عدم توفر الشخص المطلوب."
       },
       {
         "id": 9,
-        "en": "He asked me, \"May I speak to Mrs. Smith please?\" again.",
-        "ar": "سألني: \"هل يمكنني التحدث إلى السيدة سميث من فضلك؟\" مرة أخرى.",
-        "context": "تضيف معنى التكرار لنفس السؤال."
+        "en": "May I see the doctor please?",
+        "ar": "هل يمكنني مقابلة الطبيب من فضلك؟",
+        "context": "تقال عند طلب مقابلة طبية."
       },
       {
         "id": 10,
-        "en": "If you are not sure, ask: \"May I speak to Mrs. Smith please?\"",
-        "ar": "إذا لم تكن متأكدًا، فاسأل: \"هل يمكنني التحدث إلى السيدة سميث من فضلك؟\".",
-        "context": "توضح أن السؤال مناسب عند عدم التأكد."
+        "en": "May I speak to Ms. Green please?",
+        "ar": "هل يمكنني التحدث إلى السيدة غرين من فضلك؟",
+        "context": "تقال عند طلب الحديث مع امرأة بلقب رسمي."
       }
     ]
   }

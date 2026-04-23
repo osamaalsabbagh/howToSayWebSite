@@ -10,75 +10,83 @@
     "wordMeanings": [
       {
         "term": "Good",
-        "description": "صفة تعني جيد أو مريح أو مناسب هنا."
+        "description": "جيد أو طيب، وتأتي هنا ضمن أمنية بالنجاح."
       },
       {
         "term": "Luck",
-        "description": "اسم علم يشير إلى سعيدا."
+        "description": "حظ أو توفيق."
       }
     ],
-    "tense": null,
-    "tenseReason": "استُعمل هذا التعبير لأنه عبارة ثابتة أو رد قصير يُستخدم في موقف محدد، وليس جملة فعلية كاملة بزمن واضح.",
+    "grammarExplanations": [
+      {
+        "sentence": "Good Luck.",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه عبارة تمني بالنجاح أو التوفيق، وهي تعبير قصير لا يحتوي على فعل ظاهر أو زمن مستقل."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "In this situation, people often say, \"Good Luck\".",
-        "ar": "في هذا الموقف، يقول الناس كثيرًا: \"حظًا سعيدًا\".",
-        "context": "توضح أن العبارة مناسبة في هذا النوع من المواقف."
+        "en": "Good luck tomorrow.",
+        "ar": "حظًا موفقًا غدًا.",
+        "context": "تقال لشخص قبل حدث مهم في اليوم التالي."
       },
       {
         "id": 2,
-        "en": "The teacher said, \"Good Luck\" to the students.",
-        "ar": "قال المعلم للطلاب: \"حظًا سعيدًا\".",
-        "context": "تستخدم الجملة كتعليمات أو توجيه مباشر."
+        "en": "Good luck with your exam.",
+        "ar": "حظًا موفقًا في امتحانك.",
+        "context": "تقال لطالب قبل الامتحان."
       },
       {
         "id": 3,
-        "en": "He told me, \"Good Luck\" before we left.",
-        "ar": "قال لي: \"حظًا سعيدًا\" قبل أن نغادر.",
-        "context": "تضع العبارة قبل حدث آخر."
+        "en": "Good luck with your interview.",
+        "ar": "حظًا موفقًا في مقابلتك.",
+        "context": "تقال لشخص قبل مقابلة عمل."
       },
       {
         "id": 4,
-        "en": "She said, \"Good Luck\" in a polite way.",
-        "ar": "قالت: \"حظًا سعيدًا\" بطريقة مهذبة.",
-        "context": "تظهر أن العبارة يمكن أن تقال بلطف أو أدب."
+        "en": "I wish you good luck.",
+        "ar": "أتمنى لك حظًا موفقًا.",
+        "context": "تقال عند تمنّي النجاح لشخص."
       },
       {
         "id": 5,
-        "en": "Someone shouted, \"Good Luck\" when there was a problem.",
-        "ar": "صاح شخص ما: \"حظًا سعيدًا\" عندما ظهرت مشكلة.",
-        "context": "تربط العبارة بموقف سريع أو طارئ."
+        "en": "Good luck on your first day.",
+        "ar": "حظًا موفقًا في يومك الأول.",
+        "context": "تقال لشخص يبدأ عملًا أو دراسة."
       },
       {
         "id": 6,
-        "en": "You can say, \"Good Luck\" when you need a quick response.",
-        "ar": "يمكنك أن تقول: \"حظًا سعيدًا\" عندما تحتاج إلى رد سريع.",
-        "context": "توضح أن العبارة مفيدة عند الحاجة إلى استجابة مباشرة."
+        "en": "Good luck with the test.",
+        "ar": "حظًا موفقًا في الاختبار.",
+        "context": "تقال قبل اختبار مهم."
       },
       {
         "id": 7,
-        "en": "They repeated, \"Good Luck\" more than once.",
-        "ar": "رددوا: \"حظًا سعيدًا\" أكثر من مرة.",
-        "context": "تعطي مثالًا على تكرار العبارة."
+        "en": "Best of luck.",
+        "ar": "كل التوفيق.",
+        "context": "تقال بصيغة ودية لتمني النجاح."
       },
       {
         "id": 8,
-        "en": "I heard him say, \"Good Luck\" yesterday.",
-        "ar": "سمعته يقول: \"حظًا سعيدًا\" أمس.",
-        "context": "تجعل العبارة جزءًا من موقف سمعته من شخص آخر."
+        "en": "Good luck in the game.",
+        "ar": "حظًا موفقًا في المباراة.",
+        "context": "تقال للاعب قبل مباراة."
       },
       {
         "id": 9,
-        "en": "Many learners remember the phrase, \"Good Luck\".",
-        "ar": "يتذكر كثير من المتعلمين العبارة: \"حظًا سعيدًا\".",
-        "context": "تقدم العبارة بوصفها عبارة سهلة التذكر."
+        "en": "Good luck with your new job.",
+        "ar": "حظًا موفقًا في عملك الجديد.",
+        "context": "تقال لشخص يبدأ وظيفة جديدة."
       },
       {
         "id": 10,
-        "en": "At that moment, she said, \"Good Luck\".",
-        "ar": "في تلك اللحظة، قالت: \"حظًا سعيدًا\".",
-        "context": "تربط العبارة بلحظة معينة في السرد."
+        "en": "Good luck, and do your best.",
+        "ar": "حظًا موفقًا، وابذل أفضل ما لديك.",
+        "context": "تقال لتشجيع شخص قبل تحدٍّ."
       }
     ]
   }

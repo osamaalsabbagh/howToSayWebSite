@@ -10,80 +10,87 @@
     "wordMeanings": [
       {
         "term": "I",
-        "description": "ضمير المتكلم."
+        "description": "ضمير المتكلم ويشير إلى الشخص الذي يتحدث."
       },
       {
         "term": "am",
-        "description": "فعل be مع I ويُستعمل هنا مع learning لتكوين المضارع المستمر."
+        "description": "صيغة تأتي مع ضمير المتكلم المفرد وتربط الشخص بحالته أو هويته."
       },
       {
         "term": "married",
-        "description": "فعل يعني متزوج."
+        "description": "متزوج أو في علاقة زواج."
       }
     ],
-    "tense": "الماضي البسيط",
-    "tenseEn": "Past Simple",
-    "tenseReason": "استُعمل الماضي البسيط لأن الجملة تتحدث عن حدث وقع في الماضي واكتمل هناك.",
+    "grammarExplanations": [
+      {
+        "sentence": "I am married.",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "تستخدم الجملة am مع صفة لوصف الحالة الاجتماعية الحالية للمتكلم."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "People often say, \"I am married\" in situations like this.",
-        "ar": "يقول الناس كثيرًا: \"أنا متزوج\" في مواقف كهذه.",
-        "context": "تستخدم الجملة بوصفها تركيبًا شائعًا في موقف مشابه."
+        "en": "She is married.",
+        "ar": "هي متزوجة.",
+        "context": "تقال عند ذكر الحالة الاجتماعية لامرأة."
       },
       {
         "id": 2,
-        "en": "You can say, \"I am married\" when this happens.",
-        "ar": "يمكنك أن تقول: \"أنا متزوج\" عندما يحدث هذا.",
-        "context": "توضح أن الجملة مناسبة في موقف متكرر."
+        "en": "He is married.",
+        "ar": "هو متزوج.",
+        "context": "تقال عند ذكر الحالة الاجتماعية لرجل."
       },
       {
         "id": 3,
-        "en": "I heard someone say, \"I am married\".",
-        "ar": "سمعت شخصًا يقول: \"أنا متزوج\".",
-        "context": "تجعل الجملة جزءًا من كلام سمعته من شخص آخر."
+        "en": "I am single.",
+        "ar": "أنا أعزب.",
+        "context": "تقال عند تحديد أنك غير متزوج."
       },
       {
         "id": 4,
-        "en": "The teacher used the sentence, \"I am married\" in class.",
-        "ar": "استخدم المعلم الجملة: \"أنا متزوج\" في الصف.",
-        "context": "تستخدم الجملة مثالًا تعليميًا في الصف."
+        "en": "My sister is married.",
+        "ar": "أختي متزوجة.",
+        "context": "تقال عند الحديث عن حالة أحد أفراد العائلة."
       },
       {
         "id": 5,
-        "en": "Many learners remember the sentence, \"I am married\" first.",
-        "ar": "يتذكر كثير من المتعلمين الجملة: \"أنا متزوج\" أولًا.",
-        "context": "تقدم الجملة بوصفها جملة تعليمية أساسية."
+        "en": "We are married.",
+        "ar": "نحن متزوجان.",
+        "context": "تقال عند تعريف زوجين بحالتهما."
       },
       {
         "id": 6,
-        "en": "She said, \"I am married\" in a calm way.",
-        "ar": "قالت: \"أنا متزوج\" بطريقة هادئة.",
-        "context": "تجعل الجملة جزءًا من كلام مباشر في موقف عادي."
+        "en": "They are married.",
+        "ar": "هما متزوجان.",
+        "context": "تقال عند وصف علاقة زواج بين شخصين."
       },
       {
         "id": 7,
-        "en": "He repeated, \"I am married\" more than once.",
-        "ar": "ردد: \"أنا متزوج\" أكثر من مرة.",
-        "context": "تضيف معنى التكرار لنفس الجملة."
+        "en": "My brother is not married.",
+        "ar": "أخي غير متزوج.",
+        "context": "تقال عند نفي الزواج عن شخص."
       },
       {
         "id": 8,
-        "en": "At the right moment, someone might say, \"I am married\".",
-        "ar": "في اللحظة المناسبة، قد يقول شخص ما: \"أنا متزوج\".",
-        "context": "توضح أن الجملة مرتبطة بتوقيت مناسب في السياق."
+        "en": "Her son is married.",
+        "ar": "ابنها متزوج.",
+        "context": "تقال عند ذكر حالة الابن الاجتماعية."
       },
       {
         "id": 9,
-        "en": "I wrote down the sentence, \"I am married\" so I would remember it.",
-        "ar": "كتبت الجملة: \"أنا متزوج\" حتى أتذكرها.",
-        "context": "تعطي مثالًا على حفظ الجملة أو مراجعتها."
+        "en": "I am married with two children.",
+        "ar": "أنا متزوج ولدي طفلان.",
+        "context": "تقال عند تقديم معلومات شخصية إضافية."
       },
       {
         "id": 10,
-        "en": "It is useful to know when to say, \"I am married\".",
-        "ar": "من المفيد أن تعرف متى تقول: \"أنا متزوج\".",
-        "context": "تركز على معرفة الوقت المناسب لاستخدام الجملة."
+        "en": "The doctor is married.",
+        "ar": "الطبيب متزوج.",
+        "context": "تقال عند ذكر معلومة شخصية عن شخص."
       }
     ]
   }

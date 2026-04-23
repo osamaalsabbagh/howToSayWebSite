@@ -10,79 +10,87 @@
     "wordMeanings": [
       {
         "term": "Please",
-        "description": "تضيف اللطف إلى الطلب."
+        "description": "من فضلك، وتجعل الطلب مهذبًا."
       },
       {
         "term": "speak",
-        "description": "فعل أمر يعني تحدث."
+        "description": "تحدث أو تكلم."
       },
       {
         "term": "slower",
-        "description": "صفة تعني أكثر."
+        "description": "ببطء أكثر."
       }
     ],
-    "tense": null,
-    "tenseReason": "استُعمل هذا الأسلوب لأن الجملة تقدم طلبًا أو تعليمات مباشرة موجهة إلى شخص آخر، لذلك لا نضع لها هنا زمنًا فعليًا مستقلًا.",
+    "grammarExplanations": [
+      {
+        "sentence": "Please speak slower.",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه جملة أمر مهذبة تطلب من المخاطب تغيير طريقة الكلام، والفعل يأتي بصيغته الأساسية ولا يحمل زمنًا مستقلًا."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "In this situation, people often say, \"Please speak slower\".",
-        "ar": "في هذا الموقف، يقول الناس كثيرًا: \"من فضلك تحدث ببطء أكثر\".",
-        "context": "توضح أن العبارة مناسبة في هذا النوع من المواقف."
+        "en": "Please speak slower.",
+        "ar": "من فضلك تحدث ببطء أكثر.",
+        "context": "تقال عندما يصعب فهم الكلام السريع."
       },
       {
         "id": 2,
-        "en": "The teacher said, \"Please speak slower\" to the students.",
-        "ar": "قال المعلم للطلاب: \"من فضلك تحدث ببطء أكثر\".",
-        "context": "تستخدم الجملة كتعليمات أو توجيه مباشر."
+        "en": "Please speak more slowly.",
+        "ar": "من فضلك تحدث ببطء أكثر.",
+        "context": "تقال بصيغة أكثر شيوعًا لطلب إبطاء الكلام."
       },
       {
         "id": 3,
-        "en": "He told me, \"Please speak slower\" before we left.",
-        "ar": "قال لي: \"من فضلك تحدث ببطء أكثر\" قبل أن نغادر.",
-        "context": "تضع العبارة قبل حدث آخر."
+        "en": "Please speak clearly.",
+        "ar": "من فضلك تحدث بوضوح.",
+        "context": "تقال عند الحاجة إلى وضوح في الكلام."
       },
       {
         "id": 4,
-        "en": "She said, \"Please speak slower\" in a polite way.",
-        "ar": "قالت: \"من فضلك تحدث ببطء أكثر\" بطريقة مهذبة.",
-        "context": "تظهر أن العبارة يمكن أن تقال بلطف أو أدب."
+        "en": "Please repeat that slowly.",
+        "ar": "من فضلك كرر ذلك ببطء.",
+        "context": "تقال عند طلب إعادة الكلام بطريقة أبطأ."
       },
       {
         "id": 5,
-        "en": "Someone shouted, \"Please speak slower\" when there was a problem.",
-        "ar": "صاح شخص ما: \"من فضلك تحدث ببطء أكثر\" عندما ظهرت مشكلة.",
-        "context": "تربط العبارة بموقف سريع أو طارئ."
+        "en": "Please say it slower.",
+        "ar": "من فضلك قلها ببطء أكثر.",
+        "context": "تقال عند عدم فهم كلمة أو عبارة."
       },
       {
         "id": 6,
-        "en": "You can say, \"Please speak slower\" when you need a quick response.",
-        "ar": "يمكنك أن تقول: \"من فضلك تحدث ببطء أكثر\" عندما تحتاج إلى رد سريع.",
-        "context": "توضح أن العبارة مفيدة عند الحاجة إلى استجابة مباشرة."
+        "en": "Please talk slower.",
+        "ar": "من فضلك تكلم ببطء أكثر.",
+        "context": "تقال في حديث غير رسمي."
       },
       {
         "id": 7,
-        "en": "They repeated, \"Please speak slower\" more than once.",
-        "ar": "رددوا: \"من فضلك تحدث ببطء أكثر\" أكثر من مرة.",
-        "context": "تعطي مثالًا على تكرار العبارة."
+        "en": "Please speak slower in English.",
+        "ar": "من فضلك تحدث ببطء أكثر بالإنجليزية.",
+        "context": "تقال عند تعلم اللغة أو التحدث مع أجنبي."
       },
       {
         "id": 8,
-        "en": "I heard him say, \"Please speak slower\" yesterday.",
-        "ar": "سمعته يقول: \"من فضلك تحدث ببطء أكثر\" أمس.",
-        "context": "تجعل العبارة جزءًا من موقف سمعته من شخص آخر."
+        "en": "Can you speak slower, please?",
+        "ar": "هل يمكنك التحدث ببطء أكثر من فضلك؟",
+        "context": "تقال كطلب أكثر لطفًا."
       },
       {
         "id": 9,
-        "en": "Many learners remember the phrase, \"Please speak slower\".",
-        "ar": "يتذكر كثير من المتعلمين العبارة: \"من فضلك تحدث ببطء أكثر\".",
-        "context": "تقدم العبارة بوصفها عبارة سهلة التذكر."
+        "en": "Please speak slower on the phone.",
+        "ar": "من فضلك تحدث ببطء أكثر على الهاتف.",
+        "context": "تقال عند صعوبة السماع في مكالمة."
       },
       {
         "id": 10,
-        "en": "At that moment, she said, \"Please speak slower\".",
-        "ar": "في تلك اللحظة، قالت: \"من فضلك تحدث ببطء أكثر\".",
-        "context": "تربط العبارة بلحظة معينة في السرد."
+        "en": "Please speak slower for me.",
+        "ar": "من فضلك تحدث ببطء أكثر من أجلي.",
+        "context": "تقال عند توضيح أنك تحتاج إلى سرعة أبطأ."
       }
     ]
   }

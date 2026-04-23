@@ -10,79 +10,87 @@
     "wordMeanings": [
       {
         "term": "Let",
-        "description": "فعل يُستعمل للسماح أو في تركيب let me / let us لاقتراح أو طلب شيء."
+        "description": "تأتي هنا لاقتراح فعل شيء معًا."
       },
       {
         "term": "us",
-        "description": "ضمير مفعول به يعود على المتكلمين."
+        "description": "ضمير يشمل المتكلم والشخص أو الأشخاص معه."
       },
       {
         "term": "go",
-        "description": "فعل يعني يذهب أو ينتقل من مكان إلى آخر."
+        "description": "نذهب أو نتحرك من المكان الحالي."
       }
     ],
-    "tense": null,
-    "tenseReason": "استُعمل هذا الأسلوب لأن الجملة تقدم طلبًا أو تعليمات مباشرة موجهة إلى شخص آخر، لذلك لا نضع لها هنا زمنًا فعليًا مستقلًا.",
+    "grammarExplanations": [
+      {
+        "sentence": "Let us go.",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه صيغة اقتراح أو دعوة للتحرك معًا، ولا تحمل زمنًا مستقلًا مثل الجملة الخبرية."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "In this situation, people often say, \"Let us go\".",
-        "ar": "في هذا الموقف، يقول الناس كثيرًا: \"هيا بنا\".",
-        "context": "توضح أن العبارة مناسبة في هذا النوع من المواقف."
+        "en": "Let us go.",
+        "ar": "هيا بنا.",
+        "context": "تقال عند دعوة شخص للانطلاق."
       },
       {
         "id": 2,
-        "en": "The teacher said, \"Let us go\" to the students.",
-        "ar": "قال المعلم للطلاب: \"هيا بنا\".",
-        "context": "تستخدم الجملة كتعليمات أو توجيه مباشر."
+        "en": "Let us go now.",
+        "ar": "هيا بنا الآن.",
+        "context": "تقال عند الرغبة في المغادرة فورًا."
       },
       {
         "id": 3,
-        "en": "He told me, \"Let us go\" before we left.",
-        "ar": "قال لي: \"هيا بنا\" قبل أن نغادر.",
-        "context": "تضع العبارة قبل حدث آخر."
+        "en": "Let us go inside.",
+        "ar": "دعنا ندخل.",
+        "context": "تقال عند اقتراح الدخول إلى مكان."
       },
       {
         "id": 4,
-        "en": "She said, \"Let us go\" in a polite way.",
-        "ar": "قالت: \"هيا بنا\" بطريقة مهذبة.",
-        "context": "تظهر أن العبارة يمكن أن تقال بلطف أو أدب."
+        "en": "Let us go together.",
+        "ar": "دعنا نذهب معًا.",
+        "context": "تقال عند اقتراح الذهاب مع شخص."
       },
       {
         "id": 5,
-        "en": "Someone shouted, \"Let us go\" when there was a problem.",
-        "ar": "صاح شخص ما: \"هيا بنا\" عندما ظهرت مشكلة.",
-        "context": "تربط العبارة بموقف سريع أو طارئ."
+        "en": "Let us go to the park.",
+        "ar": "دعنا نذهب إلى الحديقة.",
+        "context": "تقال عند اقتراح وجهة."
       },
       {
         "id": 6,
-        "en": "You can say, \"Let us go\" when you need a quick response.",
-        "ar": "يمكنك أن تقول: \"هيا بنا\" عندما تحتاج إلى رد سريع.",
-        "context": "توضح أن العبارة مفيدة عند الحاجة إلى استجابة مباشرة."
+        "en": "Let us go home.",
+        "ar": "دعنا نذهب إلى البيت.",
+        "context": "تقال عند اقتراح العودة إلى المنزل."
       },
       {
         "id": 7,
-        "en": "They repeated, \"Let us go\" more than once.",
-        "ar": "رددوا: \"هيا بنا\" أكثر من مرة.",
-        "context": "تعطي مثالًا على تكرار العبارة."
+        "en": "Let us go and ask.",
+        "ar": "دعنا نذهب ونسأل.",
+        "context": "تقال عند اقتراح طلب معلومات."
       },
       {
         "id": 8,
-        "en": "I heard him say, \"Let us go\" yesterday.",
-        "ar": "سمعته يقول: \"هيا بنا\" أمس.",
-        "context": "تجعل العبارة جزءًا من موقف سمعته من شخص آخر."
+        "en": "Let us go by taxi.",
+        "ar": "دعنا نذهب بسيارة أجرة.",
+        "context": "تقال عند اقتراح وسيلة نقل."
       },
       {
         "id": 9,
-        "en": "Many learners remember the phrase, \"Let us go\".",
-        "ar": "يتذكر كثير من المتعلمين العبارة: \"هيا بنا\".",
-        "context": "تقدم العبارة بوصفها عبارة سهلة التذكر."
+        "en": "Let us go before it gets late.",
+        "ar": "دعنا نذهب قبل أن يتأخر الوقت.",
+        "context": "تقال عند الرغبة في المغادرة مبكرًا."
       },
       {
         "id": 10,
-        "en": "At that moment, she said, \"Let us go\".",
-        "ar": "في تلك اللحظة، قالت: \"هيا بنا\".",
-        "context": "تربط العبارة بلحظة معينة في السرد."
+        "en": "Let us go to the station.",
+        "ar": "دعنا نذهب إلى المحطة.",
+        "context": "تقال عند اقتراح الذهاب إلى محطة."
       }
     ]
   }

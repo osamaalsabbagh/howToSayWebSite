@@ -10,83 +10,91 @@
     "wordMeanings": [
       {
         "term": "Let",
-        "description": "فعل يُستعمل للسماح أو في تركيب let me / let us لاقتراح أو طلب شيء."
+        "description": "تأتي هنا لاقتراح فعل شيء معًا."
       },
       {
         "term": "us",
-        "description": "ضمير مفعول به يعود على المتكلمين."
+        "description": "ضمير يشمل المتكلم والشخص أو الأشخاص معه."
       },
       {
         "term": "practice",
-        "description": "اسم يعني اللغة."
+        "description": "نتدرب أو نكرر فعلًا لتحسين المهارة."
       },
       {
         "term": "English",
-        "description": "الشيء الذي تتعلمه، أي اللغة الإنجليزية."
+        "description": "اللغة الإنجليزية."
       }
     ],
-    "tense": null,
-    "tenseReason": "استُعمل هذا الأسلوب لأن الجملة تقدم طلبًا أو تعليمات مباشرة موجهة إلى شخص آخر، لذلك لا نضع لها هنا زمنًا فعليًا مستقلًا.",
+    "grammarExplanations": [
+      {
+        "sentence": "Let us practice English.",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه صيغة اقتراح لفعل شيء معًا، وهو التدرب على الإنجليزية، ولا تحمل زمنًا مستقلًا."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "In this situation, people often say, \"Let us practice English\".",
-        "ar": "في هذا الموقف، يقول الناس كثيرًا: \"دعنا نتدرب على اللغة الإنجليزية\".",
-        "context": "توضح أن العبارة مناسبة في هذا النوع من المواقف."
+        "en": "Let us practice together.",
+        "ar": "دعنا نتدرب معًا.",
+        "context": "تقال عند اقتراح تدريب مشترك."
       },
       {
         "id": 2,
-        "en": "The teacher said, \"Let us practice English\" to the students.",
-        "ar": "قال المعلم للطلاب: \"دعنا نتدرب على اللغة الإنجليزية\".",
-        "context": "تستخدم الجملة كتعليمات أو توجيه مباشر."
+        "en": "Let us practice speaking English.",
+        "ar": "دعنا نتدرب على التحدث بالإنجليزية.",
+        "context": "تقال عند التركيز على مهارة الكلام."
       },
       {
         "id": 3,
-        "en": "He told me, \"Let us practice English\" before we left.",
-        "ar": "قال لي: \"دعنا نتدرب على اللغة الإنجليزية\" قبل أن نغادر.",
-        "context": "تضع العبارة قبل حدث آخر."
+        "en": "Let us study English tonight.",
+        "ar": "دعنا ندرس الإنجليزية الليلة.",
+        "context": "تقال عند اقتراح وقت للدراسة."
       },
       {
         "id": 4,
-        "en": "She said, \"Let us practice English\" in a polite way.",
-        "ar": "قالت: \"دعنا نتدرب على اللغة الإنجليزية\" بطريقة مهذبة.",
-        "context": "تظهر أن العبارة يمكن أن تقال بلطف أو أدب."
+        "en": "Let us read this sentence.",
+        "ar": "دعنا نقرأ هذه الجملة.",
+        "context": "تقال عند بدء تمرين قراءة."
       },
       {
         "id": 5,
-        "en": "Someone shouted, \"Let us practice English\" when there was a problem.",
-        "ar": "صاح شخص ما: \"دعنا نتدرب على اللغة الإنجليزية\" عندما ظهرت مشكلة.",
-        "context": "تربط العبارة بموقف سريع أو طارئ."
+        "en": "Let us repeat the words.",
+        "ar": "دعنا نكرر الكلمات.",
+        "context": "تقال عند التدريب على النطق أو الحفظ."
       },
       {
         "id": 6,
-        "en": "You can say, \"Let us practice English\" when you need a quick response.",
-        "ar": "يمكنك أن تقول: \"دعنا نتدرب على اللغة الإنجليزية\" عندما تحتاج إلى رد سريع.",
-        "context": "توضح أن العبارة مفيدة عند الحاجة إلى استجابة مباشرة."
+        "en": "Let us practice for ten minutes.",
+        "ar": "دعنا نتدرب لعشر دقائق.",
+        "context": "تقال عند تحديد مدة قصيرة للتدريب."
       },
       {
         "id": 7,
-        "en": "They repeated, \"Let us practice English\" more than once.",
-        "ar": "رددوا: \"دعنا نتدرب على اللغة الإنجليزية\" أكثر من مرة.",
-        "context": "تعطي مثالًا على تكرار العبارة."
+        "en": "Let us speak slowly.",
+        "ar": "دعنا نتحدث ببطء.",
+        "context": "تقال عند محاولة جعل التدريب أوضح."
       },
       {
         "id": 8,
-        "en": "I heard him say, \"Let us practice English\" yesterday.",
-        "ar": "سمعته يقول: \"دعنا نتدرب على اللغة الإنجليزية\" أمس.",
-        "context": "تجعل العبارة جزءًا من موقف سمعته من شخص آخر."
+        "en": "Let us write simple sentences.",
+        "ar": "دعنا نكتب جملًا بسيطة.",
+        "context": "تقال عند اقتراح تدريب كتابي."
       },
       {
         "id": 9,
-        "en": "Many learners remember the phrase, \"Let us practice English\".",
-        "ar": "يتذكر كثير من المتعلمين العبارة: \"دعنا نتدرب على اللغة الإنجليزية\".",
-        "context": "تقدم العبارة بوصفها عبارة سهلة التذكر."
+        "en": "Let us practice before the test.",
+        "ar": "دعنا نتدرب قبل الاختبار.",
+        "context": "تقال عند الاستعداد لاختبار."
       },
       {
         "id": 10,
-        "en": "At that moment, she said, \"Let us practice English\".",
-        "ar": "في تلك اللحظة، قالت: \"دعنا نتدرب على اللغة الإنجليزية\".",
-        "context": "تربط العبارة بلحظة معينة في السرد."
+        "en": "Let us learn new words.",
+        "ar": "دعنا نتعلم كلمات جديدة.",
+        "context": "تقال عند اقتراح توسيع المفردات."
       }
     ]
   }

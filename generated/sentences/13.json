@@ -10,84 +10,91 @@
     "wordMeanings": [
       {
         "term": "He",
-        "description": "الضمير الذي يعود على شخص مفرد مذكر."
+        "description": "ضمير يشير إلى رجل أو ولد معروف من السياق."
       },
       {
         "term": "is",
-        "description": "فعل be يُستعمل هنا مع coming لتكوين المضارع المستمر."
+        "description": "صيغة تأتي مع المفرد الغائب وتساعد على وصف فعل يحدث الآن أو في المستقبل القريب."
       },
       {
         "term": "coming",
-        "description": "فعل مع ing يدل على المجيء الجاري أو المتوقع قريبًا."
+        "description": "قادم أو يتحرك نحو مكان المتكلم أو المكان المقصود."
       },
       {
         "term": "soon",
-        "description": "قريبًا."
+        "description": "قريبًا، أي بعد وقت قصير."
       }
     ],
-    "tense": "المضارع المستمر",
-    "tenseEn": "Present Continuous",
-    "tenseReason": "استُعمل المضارع المستمر لأن المتكلم يتحدث عن حركة جارية أو عن ترتيب/وصول قريب مرتبط بالحاضر.",
+    "grammarExplanations": [
+      {
+        "sentence": "He is coming soon.",
+        "explanation": {
+          "tense": "المضارع المستمر",
+          "tenseEn": "Present Continuous",
+          "reason": "تستخدم صيغة is مع الفعل المنتهي ب ing للدلالة على حركة قريبة أو ترتيب قريب الحدوث، وكلمة soon تجعل الزمن قريبًا."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "He is coming now.",
-        "ar": "هو قادم الآن.",
-        "context": "تصف حركة جارية في هذه اللحظة."
+        "en": "She is coming soon.",
+        "ar": "هي قادمة قريبًا.",
+        "context": "تقال عندما تكون امرأة أو فتاة في طريقها."
       },
       {
         "id": 2,
-        "en": "He is coming to the office soon.",
-        "ar": "هو قادم إلى المكتب قريبًا.",
-        "context": "تخبر عن وصول قريب ومخطط."
+        "en": "The bus is coming soon.",
+        "ar": "الحافلة قادمة قريبًا.",
+        "context": "تقال عند انتظار حافلة ستصل بعد وقت قصير."
       },
       {
         "id": 3,
-        "en": "He is coming with me.",
-        "ar": "هو قادم معي.",
-        "context": "توضح أنه سيتحرك معك."
+        "en": "My father is coming soon.",
+        "ar": "أبي قادم قريبًا.",
+        "context": "تقال عند انتظار وصول الأب."
       },
       {
         "id": 4,
-        "en": "He is coming after lunch.",
-        "ar": "هو قادم بعد الغداء.",
-        "context": "تحدد وقت الوصول القريب."
+        "en": "The doctor is coming soon.",
+        "ar": "الطبيب قادم قريبًا.",
+        "context": "تقال عند انتظار الطبيب في وقت قريب."
       },
       {
         "id": 5,
-        "en": "He is coming from the station.",
-        "ar": "هو قادم من المحطة.",
-        "context": "تذكر مكان انطلاقه أو مجيئه."
+        "en": "They are coming soon.",
+        "ar": "هم قادمون قريبًا.",
+        "context": "تقال عن مجموعة ستصل بعد قليل."
       },
       {
         "id": 6,
-        "en": "He is coming, so wait here.",
-        "ar": "هو قادم، لذا انتظر هنا.",
-        "context": "تربط المعلومة بتصرف مطلوب."
+        "en": "The train is coming soon.",
+        "ar": "القطار قادم قريبًا.",
+        "context": "تقال عند انتظار قطار يقترب."
       },
       {
         "id": 7,
-        "en": "He is coming later today.",
-        "ar": "هو قادم لاحقًا اليوم.",
-        "context": "تتحدث عن قدوم داخل نفس اليوم."
+        "en": "Our guests are coming soon.",
+        "ar": "ضيوفنا قادمون قريبًا.",
+        "context": "تقال قبل وصول الضيوف بوقت قصير."
       },
       {
         "id": 8,
-        "en": "He is coming to help us.",
-        "ar": "هو قادم ليساعدنا.",
-        "context": "تذكر سبب المجيء."
+        "en": "The manager is coming soon.",
+        "ar": "المدير قادم قريبًا.",
+        "context": "تقال عند انتظار المدير في مكان العمل."
       },
       {
         "id": 9,
-        "en": "He is coming with the files.",
-        "ar": "هو قادم ومعه الملفات.",
-        "context": "تضيف معلومة عن ما سيحضره معه."
+        "en": "My sister is coming soon.",
+        "ar": "أختي قادمة قريبًا.",
+        "context": "تقال عند توقع وصول الأخت قريبًا."
       },
       {
         "id": 10,
-        "en": "He is coming soon, but traffic is heavy.",
-        "ar": "هو قادم قريبًا، لكن المرور مزدحم.",
-        "context": "تجمع بين التوقع القريب وعامل قد يبطئ."
+        "en": "The delivery is coming soon.",
+        "ar": "التوصيل قادم قريبًا.",
+        "context": "تقال عند انتظار طلب سيصل قريبًا."
       }
     ]
   }

@@ -10,80 +10,87 @@
     "wordMeanings": [
       {
         "term": "That",
-        "description": "تشير إلى أمر أو خبر سبق ذكره."
+        "description": "ذلك الشيء أو المصدر الذي تشير إليه."
       },
       {
         "term": "smells",
-        "description": "فعل يعني سيء."
+        "description": "رائحته تبدو أو تصل إلى الأنف، وتأتي بصيغة تناسب المفرد."
       },
       {
         "term": "bad",
-        "description": "صفة تعني الرائحة."
+        "description": "سيئ أو غير لطيف في هذا السياق."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "That smells bad.",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "تستخدم smells في المضارع البسيط لوصف رائحة الشيء الحالية أو الانطباع العام عنها، وتضاف s لأن الفاعل مفرد."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "People often say, \"That smells bad\" in situations like this.",
-        "ar": "يقول الناس كثيرًا: \"ذلك سيء الرائحة\" في مواقف كهذه.",
-        "context": "تستخدم الجملة بوصفها تركيبًا شائعًا في موقف مشابه."
+        "en": "This smells good.",
+        "ar": "هذا رائحته جيدة.",
+        "context": "تقال عند الإعجاب برائحة شيء."
       },
       {
         "id": 2,
-        "en": "You can say, \"That smells bad\" when this happens.",
-        "ar": "يمكنك أن تقول: \"ذلك سيء الرائحة\" عندما يحدث هذا.",
-        "context": "توضح أن الجملة مناسبة في موقف متكرر."
+        "en": "The food smells bad.",
+        "ar": "الطعام رائحته سيئة.",
+        "context": "تقال عند الشك في طعام بسبب رائحته."
       },
       {
         "id": 3,
-        "en": "I heard someone say, \"That smells bad\".",
-        "ar": "سمعت شخصًا يقول: \"ذلك سيء الرائحة\".",
-        "context": "تجعل الجملة جزءًا من كلام سمعته من شخص آخر."
+        "en": "That room smells strange.",
+        "ar": "تلك الغرفة رائحتها غريبة.",
+        "context": "تقال عند ملاحظة رائحة غير معتادة في غرفة."
       },
       {
         "id": 4,
-        "en": "The teacher used the sentence, \"That smells bad\" in class.",
-        "ar": "استخدم المعلم الجملة: \"ذلك سيء الرائحة\" في الصف.",
-        "context": "تستخدم الجملة مثالًا تعليميًا في الصف."
+        "en": "The milk smells bad.",
+        "ar": "الحليب رائحته سيئة.",
+        "context": "تقال عند احتمال فساد الحليب."
       },
       {
         "id": 5,
-        "en": "Many learners remember the sentence, \"That smells bad\" first.",
-        "ar": "يتذكر كثير من المتعلمين الجملة: \"ذلك سيء الرائحة\" أولًا.",
-        "context": "تقدم الجملة بوصفها جملة تعليمية أساسية."
+        "en": "This shirt smells clean.",
+        "ar": "هذا القميص رائحته نظيفة.",
+        "context": "تقال بعد غسل ملابس."
       },
       {
         "id": 6,
-        "en": "She said, \"That smells bad\" in a calm way.",
-        "ar": "قالت: \"ذلك سيء الرائحة\" بطريقة هادئة.",
-        "context": "تجعل الجملة جزءًا من كلام مباشر في موقف عادي."
+        "en": "The trash smells terrible.",
+        "ar": "القمامة رائحتها فظيعة.",
+        "context": "تقال عند الحاجة إلى إخراج القمامة."
       },
       {
         "id": 7,
-        "en": "He repeated, \"That smells bad\" more than once.",
-        "ar": "ردد: \"ذلك سيء الرائحة\" أكثر من مرة.",
-        "context": "تضيف معنى التكرار لنفس الجملة."
+        "en": "The kitchen smells nice.",
+        "ar": "المطبخ رائحته جميلة.",
+        "context": "تقال عند وجود رائحة طعام جيدة."
       },
       {
         "id": 8,
-        "en": "At the right moment, someone might say, \"That smells bad\".",
-        "ar": "في اللحظة المناسبة، قد يقول شخص ما: \"ذلك سيء الرائحة\".",
-        "context": "توضح أن الجملة مرتبطة بتوقيت مناسب في السياق."
+        "en": "That water smells bad.",
+        "ar": "ذلك الماء رائحته سيئة.",
+        "context": "تقال عند عدم الثقة في ماء بسبب رائحته."
       },
       {
         "id": 9,
-        "en": "I wrote down the sentence, \"That smells bad\" so I would remember it.",
-        "ar": "كتبت الجملة: \"ذلك سيء الرائحة\" حتى أتذكرها.",
-        "context": "تعطي مثالًا على حفظ الجملة أو مراجعتها."
+        "en": "The flowers smell wonderful.",
+        "ar": "الزهور رائحتها رائعة.",
+        "context": "تقال عند مدح رائحة زهور."
       },
       {
         "id": 10,
-        "en": "It is useful to know when to say, \"That smells bad\".",
-        "ar": "من المفيد أن تعرف متى تقول: \"ذلك سيء الرائحة\".",
-        "context": "تركز على معرفة الوقت المناسب لاستخدام الجملة."
+        "en": "This place smells smoky.",
+        "ar": "هذا المكان رائحته دخانية.",
+        "context": "تقال عند ملاحظة رائحة دخان في مكان."
       }
     ]
   }

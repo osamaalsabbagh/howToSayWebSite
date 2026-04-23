@@ -10,104 +10,115 @@
     "wordMeanings": [
       {
         "term": "Is",
-        "description": "فعل be في الحاضر مع المفرد."
+        "description": "تبدأ سؤالًا عن وجود فرق أو حالة."
       },
       {
         "term": "there",
-        "description": "ظرف مكان يعني هناك."
+        "description": "تأتي مع السؤال للدلالة على وجود شيء."
       },
       {
         "term": "any",
-        "description": "كلمة تعني أي أو بعض حسب السياق."
+        "description": "أي مقدار من الفرق، حتى لو كان صغيرًا."
       },
       {
         "term": "difference",
-        "description": "اسم يعني هل."
+        "description": "فرق أو اختلاف بين شيئين."
       },
       {
         "term": "between",
-        "description": "حرف أو أداة تربط المعنى بفكرة فرق."
+        "description": "بين شيئين أو أكثر للمقارنة."
       },
       {
         "term": "fresh",
-        "description": "صفة تعني العذب."
+        "description": "عذب أو غير مالح عندما يصف الماء في السياق العلمي."
       },
       {
         "term": "water",
-        "description": "اسم يعني ماء."
+        "description": "ماء."
       },
       {
         "term": "and",
-        "description": "حرف عطف يربط بين كلمتين أو جملتين."
+        "description": "تربط بين العنصرين المقارنين."
       },
       {
         "term": "clean",
-        "description": "صفة تعني النظيف."
+        "description": "نظيف أو خالٍ من الأوساخ أو ما يضر."
+      },
+      {
+        "term": "water",
+        "description": "ماء، والمقصود هنا ماء نظيف أو آمن."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "Is there any difference between fresh water and clean water?",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُخدم السؤال في المضارع البسيط للاستفسار عن فرق عام أو مفهوم قائم بين مصطلحين."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "You can ask, \"Is there any difference between fresh water and clean water?\" when you need information.",
-        "ar": "يمكنك أن تسأل: \"هل هناك أي فرق بين الماء العذب والماء النظيف؟\" عندما تحتاج إلى معلومة.",
-        "context": "تستعمل الجملة كسؤال مباشر للحصول على معلومة."
+        "en": "Is there any difference between hot water and warm water?",
+        "ar": "هل هناك أي فرق بين الماء الساخن والماء الدافئ؟",
+        "context": "يُستخدم عند مقارنة وصفين قريبين للحرارة."
       },
       {
         "id": 2,
-        "en": "Many people ask, \"Is there any difference between fresh water and clean water?\" in this situation.",
-        "ar": "يسأل كثير من الناس: \"هل هناك أي فرق بين الماء العذب والماء النظيف؟\" في هذا الموقف.",
-        "context": "توضح أن هذا سؤال شائع في موقف مشابه."
+        "en": "Is there any difference between a river and a lake?",
+        "ar": "هل هناك أي فرق بين نهر وبحيرة؟",
+        "context": "يُستخدم في سؤال تعليمي عن الطبيعة."
       },
       {
         "id": 3,
-        "en": "I asked, \"Is there any difference between fresh water and clean water?\" because I was not sure.",
-        "ar": "سألت: \"هل هناك أي فرق بين الماء العذب والماء النظيف؟\" لأنني لم أكن متأكدًا.",
-        "context": "تضيف سببًا لطرح السؤال."
+        "en": "Is there any difference between clean and safe?",
+        "ar": "هل هناك أي فرق بين نظيف وآمن؟",
+        "context": "يُستخدم عند توضيح معنى كلمتين متقاربتين."
       },
       {
         "id": 4,
-        "en": "She asked politely, \"Is there any difference between fresh water and clean water?\"",
-        "ar": "سألت بأدب: \"هل هناك أي فرق بين الماء العذب والماء النظيف؟\".",
-        "context": "تبين أن السؤال قيل بطريقة مهذبة."
+        "en": "Is there any difference between these two words?",
+        "ar": "هل هناك أي فرق بين هاتين الكلمتين؟",
+        "context": "يُستخدم في درس لغة عند مقارنة مفردات."
       },
       {
         "id": 5,
-        "en": "At work, someone may ask, \"Is there any difference between fresh water and clean water?\"",
-        "ar": "في العمل، قد يسأل شخص ما: \"هل هناك أي فرق بين الماء العذب والماء النظيف؟\".",
-        "context": "تضع السؤال في سياق مهني أو عملي."
+        "en": "Is there any difference between this answer and that answer?",
+        "ar": "هل هناك أي فرق بين هذه الإجابة وتلك الإجابة؟",
+        "context": "يُستخدم عند مقارنة إجابتين."
       },
       {
         "id": 6,
-        "en": "Before deciding, ask: \"Is there any difference between fresh water and clean water?\"",
-        "ar": "قبل أن تقرر، اسأل: \"هل هناك أي فرق بين الماء العذب والماء النظيف؟\".",
-        "context": "تستخدم السؤال قبل اتخاذ قرار."
+        "en": "Is there any difference between fresh food and frozen food?",
+        "ar": "هل هناك أي فرق بين الطعام الطازج والطعام المجمد؟",
+        "context": "يُستخدم عند مقارنة نوعين من الطعام."
       },
       {
         "id": 7,
-        "en": "The student asked, \"Is there any difference between fresh water and clean water?\" in class.",
-        "ar": "سأل الطالب: \"هل هناك أي فرق بين الماء العذب والماء النظيف؟\" في الصف.",
-        "context": "تجعل الجملة جزءًا من موقف تعليمي."
+        "en": "Is there any difference between work and study?",
+        "ar": "هل هناك أي فرق بين العمل والدراسة؟",
+        "context": "يُستخدم عند طلب شرح الفرق بين نشاطين."
       },
       {
         "id": 8,
-        "en": "While traveling, you can ask, \"Is there any difference between fresh water and clean water?\"",
-        "ar": "أثناء السفر، يمكنك أن تسأل: \"هل هناك أي فرق بين الماء العذب والماء النظيف؟\".",
-        "context": "تربط السؤال بموقف السفر أو التنقل."
+        "en": "Is there any difference between formal and informal speech?",
+        "ar": "هل هناك أي فرق بين الكلام الرسمي وغير الرسمي؟",
+        "context": "يُستخدم عند تعلم أساليب الكلام."
       },
       {
         "id": 9,
-        "en": "He asked me, \"Is there any difference between fresh water and clean water?\" again.",
-        "ar": "سألني: \"هل هناك أي فرق بين الماء العذب والماء النظيف؟\" مرة أخرى.",
-        "context": "تضيف معنى التكرار لنفس السؤال."
+        "en": "Is there any difference between morning and evening classes?",
+        "ar": "هل هناك أي فرق بين صفوف الصباح وصفوف المساء؟",
+        "context": "يُستخدم عند مقارنة مواعيد الدراسة."
       },
       {
         "id": 10,
-        "en": "If you are not sure, ask: \"Is there any difference between fresh water and clean water?\"",
-        "ar": "إذا لم تكن متأكدًا، فاسأل: \"هل هناك أي فرق بين الماء العذب والماء النظيف؟\".",
-        "context": "توضح أن السؤال مناسب عند عدم التأكد."
+        "en": "Is there any difference between the two plans?",
+        "ar": "هل هناك أي فرق بين الخطتين؟",
+        "context": "يُستخدم عند اختيار خطة من خيارين."
       }
     ]
   }

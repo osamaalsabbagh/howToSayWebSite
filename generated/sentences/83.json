@@ -10,79 +10,87 @@
     "wordMeanings": [
       {
         "term": "More",
-        "description": "كلمة للمقارنة أو لزيادة الكمية."
+        "description": "أكثر أو كمية أكبر."
       },
       {
         "term": "than",
-        "description": "أداة تستعمل في المقارنة بعد الصفات المقارنة."
+        "description": "من، وتستخدم للمقارنة."
       },
       {
         "term": "that",
-        "description": "تشير إلى أمر أو خبر سبق ذكره."
+        "description": "ذلك الشيء أو المقدار المذكور في السياق."
       }
     ],
-    "tense": null,
-    "tenseReason": "استُعمل هذا التعبير لأنه عبارة ثابتة أو رد قصير يُستخدم في موقف محدد، وليس جملة فعلية كاملة بزمن واضح.",
+    "grammarExplanations": [
+      {
+        "sentence": "More than that.",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذا تعبير قصير للمقارنة وطلب كمية أو مقدار أكبر، ولا يحتوي على فعل ظاهر أو زمن مستقل."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "In this situation, people often say, \"More than that\".",
-        "ar": "في هذا الموقف، يقول الناس كثيرًا: \"أكثر من ذلك\".",
-        "context": "توضح أن العبارة مناسبة في هذا النوع من المواقف."
+        "en": "I need more than that.",
+        "ar": "أحتاج إلى أكثر من ذلك.",
+        "context": "تقال عند عدم كفاية الكمية المعروضة."
       },
       {
         "id": 2,
-        "en": "The teacher said, \"More than that\" to the students.",
-        "ar": "قال المعلم للطلاب: \"أكثر من ذلك\".",
-        "context": "تستخدم الجملة كتعليمات أو توجيه مباشر."
+        "en": "She wants more than one day.",
+        "ar": "هي تريد أكثر من يوم واحد.",
+        "context": "تقال عند طلب مدة أطول."
       },
       {
         "id": 3,
-        "en": "He told me, \"More than that\" before we left.",
-        "ar": "قال لي: \"أكثر من ذلك\" قبل أن نغادر.",
-        "context": "تضع العبارة قبل حدث آخر."
+        "en": "We need more than ten minutes.",
+        "ar": "نحتاج إلى أكثر من عشر دقائق.",
+        "context": "تقال عند عدم كفاية الوقت."
       },
       {
         "id": 4,
-        "en": "She said, \"More than that\" in a polite way.",
-        "ar": "قالت: \"أكثر من ذلك\" بطريقة مهذبة.",
-        "context": "تظهر أن العبارة يمكن أن تقال بلطف أو أدب."
+        "en": "It costs more than that.",
+        "ar": "إنه يكلف أكثر من ذلك.",
+        "context": "تقال عند تصحيح توقع عن السعر."
       },
       {
         "id": 5,
-        "en": "Someone shouted, \"More than that\" when there was a problem.",
-        "ar": "صاح شخص ما: \"أكثر من ذلك\" عندما ظهرت مشكلة.",
-        "context": "تربط العبارة بموقف سريع أو طارئ."
+        "en": "The bag holds more than that.",
+        "ar": "الحقيبة تتسع لأكثر من ذلك.",
+        "context": "تقال عند الحديث عن سعة شيء."
       },
       {
         "id": 6,
-        "en": "You can say, \"More than that\" when you need a quick response.",
-        "ar": "يمكنك أن تقول: \"أكثر من ذلك\" عندما تحتاج إلى رد سريع.",
-        "context": "توضح أن العبارة مفيدة عند الحاجة إلى استجابة مباشرة."
+        "en": "He needs more than help.",
+        "ar": "هو يحتاج إلى أكثر من مساعدة.",
+        "context": "تقال عند كون المشكلة أكبر من دعم بسيط."
       },
       {
         "id": 7,
-        "en": "They repeated, \"More than that\" more than once.",
-        "ar": "رددوا: \"أكثر من ذلك\" أكثر من مرة.",
-        "context": "تعطي مثالًا على تكرار العبارة."
+        "en": "This room needs more than one chair.",
+        "ar": "هذه الغرفة تحتاج إلى أكثر من كرسي واحد.",
+        "context": "تقال عند تجهيز مكان لأكثر من شخص."
       },
       {
         "id": 8,
-        "en": "I heard him say, \"More than that\" yesterday.",
-        "ar": "سمعته يقول: \"أكثر من ذلك\" أمس.",
-        "context": "تجعل العبارة جزءًا من موقف سمعته من شخص آخر."
+        "en": "I expected more than that.",
+        "ar": "توقعت أكثر من ذلك.",
+        "context": "تقال عند خيبة أمل من نتيجة قليلة."
       },
       {
         "id": 9,
-        "en": "Many learners remember the phrase, \"More than that\".",
-        "ar": "يتذكر كثير من المتعلمين العبارة: \"أكثر من ذلك\".",
-        "context": "تقدم العبارة بوصفها عبارة سهلة التذكر."
+        "en": "They brought more than enough food.",
+        "ar": "أحضروا أكثر من طعام كاف.",
+        "context": "تقال عند وجود كمية كبيرة جدًا."
       },
       {
         "id": 10,
-        "en": "At that moment, she said, \"More than that\".",
-        "ar": "في تلك اللحظة، قالت: \"أكثر من ذلك\".",
-        "context": "تربط العبارة بلحظة معينة في السرد."
+        "en": "The work needs more than two people.",
+        "ar": "العمل يحتاج إلى أكثر من شخصين.",
+        "context": "تقال عند الحاجة إلى فريق أكبر."
       }
     ]
   }

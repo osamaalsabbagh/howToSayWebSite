@@ -10,84 +10,91 @@
     "wordMeanings": [
       {
         "term": "What",
-        "description": "أداة سؤال عن الشيء أو المعنى أو الاختيار."
+        "description": "أداة سؤال عن الشيء أو المعلومة المطلوبة."
       },
       {
         "term": "is",
-        "description": "فعل be في الحاضر مع المفرد."
+        "description": "تستخدم في السؤال لطلب تعريف أو تحديد شيء."
       },
       {
         "term": "the",
-        "description": "أداة تعريف تشير إلى شيء معروف أو محدد."
+        "description": "أداة تشير إلى عنوان محدد في السياق."
       },
       {
         "term": "address",
-        "description": "اسم يعني عنوان."
+        "description": "العنوان، أي معلومات مكان شخص أو مبنى."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "What is the address?",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "يستخدم السؤال فعل الربط في الحاضر لطلب معلومة محددة عن العنوان."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "You can ask, \"What is the address?\" when you need information.",
-        "ar": "يمكنك أن تسأل: \"ما هو العنوان؟\" عندما تحتاج إلى معلومة.",
-        "context": "تستعمل الجملة كسؤال مباشر للحصول على معلومة."
+        "en": "What is the address?",
+        "ar": "ما هو العنوان؟",
+        "context": "تقال عند السؤال عن عنوان مكان أو شخص."
       },
       {
         "id": 2,
-        "en": "Many people ask, \"What is the address?\" in this situation.",
-        "ar": "يسأل كثير من الناس: \"ما هو العنوان؟\" في هذا الموقف.",
-        "context": "توضح أن هذا سؤال شائع في موقف مشابه."
+        "en": "What is your address?",
+        "ar": "ما عنوانك؟",
+        "context": "تستخدم للسؤال عن عنوان شخص."
       },
       {
         "id": 3,
-        "en": "I asked, \"What is the address?\" because I was not sure.",
-        "ar": "سألت: \"ما هو العنوان؟\" لأنني لم أكن متأكدًا.",
-        "context": "تضيف سببًا لطرح السؤال."
+        "en": "What is the hotel address?",
+        "ar": "ما عنوان الفندق؟",
+        "context": "تقال عند طلب عنوان فندق."
       },
       {
         "id": 4,
-        "en": "She asked politely, \"What is the address?\"",
-        "ar": "سألت بأدب: \"ما هو العنوان؟\".",
-        "context": "تبين أن السؤال قيل بطريقة مهذبة."
+        "en": "Can you give me the address?",
+        "ar": "هل يمكنك أن تعطيني العنوان؟",
+        "context": "تقال عند طلب العنوان بطريقة مهذبة."
       },
       {
         "id": 5,
-        "en": "At work, someone may ask, \"What is the address?\"",
-        "ar": "في العمل، قد يسأل شخص ما: \"ما هو العنوان؟\".",
-        "context": "تضع السؤال في سياق مهني أو عملي."
+        "en": "Do you know the address?",
+        "ar": "هل تعرف العنوان؟",
+        "context": "تستخدم للسؤال عن معرفة شخص بالعنوان."
       },
       {
         "id": 6,
-        "en": "Before deciding, ask: \"What is the address?\"",
-        "ar": "قبل أن تقرر، اسأل: \"ما هو العنوان؟\".",
-        "context": "تستخدم السؤال قبل اتخاذ قرار."
+        "en": "Please write the address.",
+        "ar": "من فضلك اكتب العنوان.",
+        "context": "تقال عند طلب كتابة العنوان."
       },
       {
         "id": 7,
-        "en": "The student asked, \"What is the address?\" in class.",
-        "ar": "سأل الطالب: \"ما هو العنوان؟\" في الصف.",
-        "context": "تجعل الجملة جزءًا من موقف تعليمي."
+        "en": "What is the address of the restaurant?",
+        "ar": "ما عنوان المطعم؟",
+        "context": "تقال عند البحث عن موقع مطعم."
       },
       {
         "id": 8,
-        "en": "While traveling, you can ask, \"What is the address?\"",
-        "ar": "أثناء السفر، يمكنك أن تسأل: \"ما هو العنوان؟\".",
-        "context": "تربط السؤال بموقف السفر أو التنقل."
+        "en": "I need the address.",
+        "ar": "أحتاج إلى العنوان.",
+        "context": "تقال عند توضيح المعلومة المطلوبة."
       },
       {
         "id": 9,
-        "en": "He asked me, \"What is the address?\" again.",
-        "ar": "سألني: \"ما هو العنوان؟\" مرة أخرى.",
-        "context": "تضيف معنى التكرار لنفس السؤال."
+        "en": "Is this the correct address?",
+        "ar": "هل هذا هو العنوان الصحيح؟",
+        "context": "تستخدم للتأكد من صحة عنوان."
       },
       {
         "id": 10,
-        "en": "If you are not sure, ask: \"What is the address?\"",
-        "ar": "إذا لم تكن متأكدًا، فاسأل: \"ما هو العنوان؟\".",
-        "context": "توضح أن السؤال مناسب عند عدم التأكد."
+        "en": "The address is on this paper.",
+        "ar": "العنوان على هذه الورقة.",
+        "context": "تقال عند إخبار شخص بمكان العنوان المكتوب."
       }
     ]
   }

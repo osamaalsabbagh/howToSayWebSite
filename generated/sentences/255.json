@@ -10,92 +10,99 @@
     "wordMeanings": [
       {
         "term": "They",
-        "description": "ضمير يشير إلى أكثر من شخص أو شيء."
+        "description": "هم، وتشير إلى الجهة أو الأشخاص الذين يطلبون المال."
       },
       {
         "term": "charge",
-        "description": "فعل يعني يتقاضون."
+        "description": "يتقاضون أو يطلبون مبلغًا مقابل خدمة."
       },
       {
         "term": "26",
-        "description": "رقم يدل على ٢٦."
+        "description": "العدد ستة وعشرون."
       },
       {
         "term": "dollars",
-        "description": "اسم يعني دولارات."
+        "description": "دولارات، وهي وحدة نقدية."
       },
       {
         "term": "per",
-        "description": "حرف أو أداة تربط المعنى بفكرة دولارا."
+        "description": "لكل، وتحدد السعر لكل وحدة."
       },
       {
         "term": "day",
-        "description": "اسم يعني يوم."
+        "description": "يوم."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "They charge 26 dollars per day.",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "يستخدم المضارع البسيط للتعبير عن سعر أو سياسة عامة يتبعها المكان، وعبارة لكل يوم تحدد أن التكلفة يومية."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "People often say, \"They charge 26 dollars per day\" in situations like this.",
-        "ar": "يقول الناس كثيرًا: \"يتقاضون ٢٦ دولارًا في اليوم\" في مواقف كهذه.",
-        "context": "تستخدم الجملة بوصفها تركيبًا شائعًا في موقف مشابه."
+        "en": "They charge 26 dollars per day.",
+        "ar": "يتقاضون ٢٦ دولارًا في اليوم.",
+        "context": "تقال عند الإخبار بتكلفة شيء يوميًا."
       },
       {
         "id": 2,
-        "en": "You can say, \"They charge 26 dollars per day\" when this happens.",
-        "ar": "يمكنك أن تقول: \"يتقاضون ٢٦ دولارًا في اليوم\" عندما يحدث هذا.",
-        "context": "توضح أن الجملة مناسبة في موقف متكرر."
+        "en": "They charge 10 dollars per hour.",
+        "ar": "يتقاضون ١٠ دولارات في الساعة.",
+        "context": "تقال عند ذكر تكلفة بالساعة."
       },
       {
         "id": 3,
-        "en": "I heard someone say, \"They charge 26 dollars per day\".",
-        "ar": "سمعت شخصًا يقول: \"يتقاضون ٢٦ دولارًا في اليوم\".",
-        "context": "تجعل الجملة جزءًا من كلام سمعته من شخص آخر."
+        "en": "They charge 50 dollars per night.",
+        "ar": "يتقاضون ٥٠ دولارًا في الليلة.",
+        "context": "تقال عند وصف سعر إقامة."
       },
       {
         "id": 4,
-        "en": "The teacher used the sentence, \"They charge 26 dollars per day\" in class.",
-        "ar": "استخدم المعلم الجملة: \"يتقاضون ٢٦ دولارًا في اليوم\" في الصف.",
-        "context": "تستخدم الجملة مثالًا تعليميًا في الصف."
+        "en": "They charge 100 dollars per week.",
+        "ar": "يتقاضون ١٠٠ دولار في الأسبوع.",
+        "context": "تقال عند ذكر سعر أسبوعي."
       },
       {
         "id": 5,
-        "en": "Many learners remember the sentence, \"They charge 26 dollars per day\" first.",
-        "ar": "يتذكر كثير من المتعلمين الجملة: \"يتقاضون ٢٦ دولارًا في اليوم\" أولًا.",
-        "context": "تقدم الجملة بوصفها جملة تعليمية أساسية."
+        "en": "The hotel charges 26 dollars per day.",
+        "ar": "يتقاضى الفندق ٢٦ دولارًا في اليوم.",
+        "context": "تقال عند ذكر رسوم فندق يومية."
       },
       {
         "id": 6,
-        "en": "She said, \"They charge 26 dollars per day\" in a calm way.",
-        "ar": "قالت: \"يتقاضون ٢٦ دولارًا في اليوم\" بطريقة هادئة.",
-        "context": "تجعل الجملة جزءًا من كلام مباشر في موقف عادي."
+        "en": "The garage charges 26 dollars per day.",
+        "ar": "يتقاضى المرآب ٢٦ دولارًا في اليوم.",
+        "context": "تقال عند ذكر رسوم موقف سيارات."
       },
       {
         "id": 7,
-        "en": "He repeated, \"They charge 26 dollars per day\" more than once.",
-        "ar": "ردد: \"يتقاضون ٢٦ دولارًا في اليوم\" أكثر من مرة.",
-        "context": "تضيف معنى التكرار لنفس الجملة."
+        "en": "Do they charge per day?",
+        "ar": "هل يتقاضون الرسوم في اليوم؟",
+        "context": "تقال عند السؤال عن طريقة حساب التكلفة."
       },
       {
         "id": 8,
-        "en": "At the right moment, someone might say, \"They charge 26 dollars per day\".",
-        "ar": "في اللحظة المناسبة، قد يقول شخص ما: \"يتقاضون ٢٦ دولارًا في اليوم\".",
-        "context": "توضح أن الجملة مرتبطة بتوقيت مناسب في السياق."
+        "en": "They do not charge per day.",
+        "ar": "لا يتقاضون الرسوم في اليوم.",
+        "context": "تقال عند توضيح أن التسعير ليس يوميًا."
       },
       {
         "id": 9,
-        "en": "I wrote down the sentence, \"They charge 26 dollars per day\" so I would remember it.",
-        "ar": "كتبت الجملة: \"يتقاضون ٢٦ دولارًا في اليوم\" حتى أتذكرها.",
-        "context": "تعطي مثالًا على حفظ الجملة أو مراجعتها."
+        "en": "They charge extra for parking.",
+        "ar": "يتقاضون رسومًا إضافية على موقف السيارات.",
+        "context": "تقال عند ذكر تكلفة إضافية."
       },
       {
         "id": 10,
-        "en": "It is useful to know when to say, \"They charge 26 dollars per day\".",
-        "ar": "من المفيد أن تعرف متى تقول: \"يتقاضون ٢٦ دولارًا في اليوم\".",
-        "context": "تركز على معرفة الوقت المناسب لاستخدام الجملة."
+        "en": "They charge less if you stay longer.",
+        "ar": "يتقاضون أقل إذا بقيت مدة أطول.",
+        "context": "تقال عند شرح خصم لمدة أطول."
       }
     ]
   }

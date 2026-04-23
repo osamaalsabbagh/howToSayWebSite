@@ -9,72 +9,80 @@
   "lesson": {
     "wordMeanings": [
       {
-        "term": "Help!",
-        "description": "صرخة استغاثة قصيرة لطلب النجدة فورًا."
+        "term": "Help",
+        "description": "مساعدة أو طلب إنقاذ سريع في موقف عاجل."
       }
     ],
-    "tense": null,
-    "tenseReason": "استُعمل هذا التعبير لأن الموقف عاجل ويحتاج إلى طلب المساعدة بسرعة وبأقل عدد من الكلمات.",
+    "grammarExplanations": [
+      {
+        "sentence": "Help!",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه صيغة أمر أو نداء عاجل بطلب المساعدة، والفاعل مفهوم من السياق، لذلك لا تحمل زمنًا مستقلًا."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "Help! I cannot swim!",
-        "ar": "النجدة! أنا لا أستطيع السباحة!",
-        "context": "تطلب النجدة في خطر فوري."
+        "en": "Help me, please.",
+        "ar": "ساعدني من فضلك.",
+        "context": "تقال عند طلب مساعدة مباشرة من شخص قريب."
       },
       {
         "id": 2,
-        "en": "Help! There is a fire!",
-        "ar": "النجدة! هناك حريق!",
-        "context": "تنادي بصوت عالٍ في حالة طوارئ."
+        "en": "Please help my friend.",
+        "ar": "من فضلك ساعد صديقي.",
+        "context": "تقال عندما يحتاج شخص آخر إلى مساعدة."
       },
       {
         "id": 3,
-        "en": "Help! I fell down!",
-        "ar": "النجدة! لقد وقعت!",
-        "context": "تطلب المساعدة بعد سقوط أو إصابة."
+        "en": "I need help now.",
+        "ar": "أحتاج إلى مساعدة الآن.",
+        "context": "تقال عند وجود حاجة عاجلة."
       },
       {
         "id": 4,
-        "en": "Help! I am stuck!",
-        "ar": "النجدة! أنا عالق!",
-        "context": "تطلب إنقاذًا من وضع لا تستطيع الخروج منه."
+        "en": "Can you help me?",
+        "ar": "هل يمكنك مساعدتي؟",
+        "context": "تقال لطلب المساعدة بأدب."
       },
       {
         "id": 5,
-        "en": "Help! Somebody took my bag!",
-        "ar": "النجدة! شخص ما أخذ حقيبتي!",
-        "context": "تطلب التدخل بعد حادثة مفاجئة."
+        "en": "We need help with this box.",
+        "ar": "نحتاج إلى مساعدة في هذا الصندوق.",
+        "context": "تقال عند حمل شيء ثقيل أو صعب."
       },
       {
         "id": 6,
-        "en": "Help! I cannot open the door!",
-        "ar": "النجدة! لا أستطيع فتح الباب!",
-        "context": "تطلب مساعدة عاجلة في موقف محصور."
+        "en": "Please help us quickly.",
+        "ar": "من فضلك ساعدنا بسرعة.",
+        "context": "تقال عندما تكون المساعدة مطلوبة فورًا."
       },
       {
         "id": 7,
-        "en": "Help! The child is too close to the road!",
-        "ar": "النجدة! الطفل قريب جدًا من الطريق!",
-        "context": "تطلب تدخلًا سريعًا لحماية شخص آخر."
+        "en": "Help the child.",
+        "ar": "ساعد الطفل.",
+        "context": "تقال عند توجيه شخص لمساعدة طفل."
       },
       {
         "id": 8,
-        "en": "Help! I do not know what to do!",
-        "ar": "النجدة! أنا لا أعرف ماذا أفعل!",
-        "context": "تعبير عن عجز شديد في موقف عاجل."
+        "en": "I cannot do this without help.",
+        "ar": "لا أستطيع فعل هذا دون مساعدة.",
+        "context": "تقال عند الاعتراف بالحاجة إلى دعم."
       },
       {
         "id": 9,
-        "en": "Help! My phone is not working, and I need to call home!",
-        "ar": "النجدة! هاتفي لا يعمل، وأحتاج إلى الاتصال بالمنزل!",
-        "context": "طلب عاجل مع ذكر السبب."
+        "en": "Call for help.",
+        "ar": "اطلب المساعدة.",
+        "context": "تقال عند الحاجة إلى إحضار شخص يساعد."
       },
       {
         "id": 10,
-        "en": "Help! Please come here quickly!",
-        "ar": "النجدة! من فضلك تعال إلى هنا بسرعة!",
-        "context": "استغاثة مع طلب حركة فورية."
+        "en": "The man needs help.",
+        "ar": "الرجل يحتاج إلى مساعدة.",
+        "context": "تقال عند ملاحظة شخص في مشكلة."
       }
     ]
   }

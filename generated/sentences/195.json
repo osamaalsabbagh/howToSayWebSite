@@ -10,87 +10,95 @@
     "wordMeanings": [
       {
         "term": "One",
-        "description": "كلمة تدل على العدد واحد أو على شيء واحد."
+        "description": "واحد، وهنا جزء من وصف تذكرة ذهاب فقط."
       },
       {
         "term": "way",
-        "description": "اسم يعني أم."
+        "description": "اتجاه أو طريق، ومع الكلمة السابقة تعني ذهاب فقط."
       },
       {
         "term": "or",
-        "description": "حرف عطف يفيد الاختيار بين شيئين."
+        "description": "أم أو أو، وتستخدم للاختيار بين بديلين."
       },
       {
         "term": "round",
-        "description": "صفة تعني ذهاب."
+        "description": "جزء من وصف تذكرة تشمل الذهاب والعودة."
       },
       {
         "term": "trip",
-        "description": "اسم يعني رحلة."
+        "description": "رحلة، ومع الكلمة السابقة تعني ذهابًا وعودة."
       }
     ],
-    "tense": null,
-    "tenseReason": "استُعمل هذا التركيب بحسب وظيفته في السياق، وليس بوصفه زمنًا فعليًا مستقلًا يمكن فصله بسهولة عن المعنى الوظيفي للجملة.",
+    "grammarExplanations": [
+      {
+        "sentence": "One way or round trip?",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه عبارة سؤال مختصرة للاختيار بين نوعين من التذاكر، ولا تحتوي على فعل ظاهر أو زمن مستقل."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "You can ask, \"One way or round trip?\" when you need information.",
-        "ar": "يمكنك أن تسأل: \"ذهاب فقط أم ذهاب وعودة؟\" عندما تحتاج إلى معلومة.",
-        "context": "تستعمل الجملة كسؤال مباشر للحصول على معلومة."
+        "en": "One way or round trip?",
+        "ar": "ذهاب فقط أم ذهاب وعودة؟",
+        "context": "تقال عند السؤال عن نوع التذكرة."
       },
       {
         "id": 2,
-        "en": "Many people ask, \"One way or round trip?\" in this situation.",
-        "ar": "يسأل كثير من الناس: \"ذهاب فقط أم ذهاب وعودة؟\" في هذا الموقف.",
-        "context": "توضح أن هذا سؤال شائع في موقف مشابه."
+        "en": "Do you want one way or round trip?",
+        "ar": "هل تريد ذهابًا فقط أم ذهابًا وعودة؟",
+        "context": "يسألها موظف التذاكر لتحديد الطلب."
       },
       {
         "id": 3,
-        "en": "I asked, \"One way or round trip?\" because I was not sure.",
-        "ar": "سألت: \"ذهاب فقط أم ذهاب وعودة؟\" لأنني لم أكن متأكدًا.",
-        "context": "تضيف سببًا لطرح السؤال."
+        "en": "Is it one way or round trip?",
+        "ar": "هل هي ذهاب فقط أم ذهاب وعودة؟",
+        "context": "تقال للتأكد من نوع التذكرة."
       },
       {
         "id": 4,
-        "en": "She asked politely, \"One way or round trip?\"",
-        "ar": "سألت بأدب: \"ذهاب فقط أم ذهاب وعودة؟\".",
-        "context": "تبين أن السؤال قيل بطريقة مهذبة."
+        "en": "One way, please.",
+        "ar": "ذهاب فقط، من فضلك.",
+        "context": "تقال عند اختيار تذكرة باتجاه واحد."
       },
       {
         "id": 5,
-        "en": "At work, someone may ask, \"One way or round trip?\"",
-        "ar": "في العمل، قد يسأل شخص ما: \"ذهاب فقط أم ذهاب وعودة؟\".",
-        "context": "تضع السؤال في سياق مهني أو عملي."
+        "en": "Round trip, please.",
+        "ar": "ذهاب وعودة، من فضلك.",
+        "context": "تقال عند اختيار تذكرة للذهاب والرجوع."
       },
       {
         "id": 6,
-        "en": "Before deciding, ask: \"One way or round trip?\"",
-        "ar": "قبل أن تقرر، اسأل: \"ذهاب فقط أم ذهاب وعودة؟\".",
-        "context": "تستخدم السؤال قبل اتخاذ قرار."
+        "en": "I need a one way ticket.",
+        "ar": "أحتاج إلى تذكرة ذهاب فقط.",
+        "context": "تقال عندما لا تحتاج إلى تذكرة عودة."
       },
       {
         "id": 7,
-        "en": "The student asked, \"One way or round trip?\" in class.",
-        "ar": "سأل الطالب: \"ذهاب فقط أم ذهاب وعودة؟\" في الصف.",
-        "context": "تجعل الجملة جزءًا من موقف تعليمي."
+        "en": "I need a round trip ticket.",
+        "ar": "أحتاج إلى تذكرة ذهاب وعودة.",
+        "context": "تقال عند الحاجة إلى الرجوع بالتذكرة نفسها."
       },
       {
         "id": 8,
-        "en": "While traveling, you can ask, \"One way or round trip?\"",
-        "ar": "أثناء السفر، يمكنك أن تسأل: \"ذهاب فقط أم ذهاب وعودة؟\".",
-        "context": "تربط السؤال بموقف السفر أو التنقل."
+        "en": "One way is cheaper.",
+        "ar": "الذهاب فقط أرخص.",
+        "context": "تقال عند مقارنة أسعار التذاكر."
       },
       {
         "id": 9,
-        "en": "He asked me, \"One way or round trip?\" again.",
-        "ar": "سألني: \"ذهاب فقط أم ذهاب وعودة؟\" مرة أخرى.",
-        "context": "تضيف معنى التكرار لنفس السؤال."
+        "en": "Round trip is better for me.",
+        "ar": "الذهاب والعودة أفضل لي.",
+        "context": "تقال عند اختيار النوع الأنسب."
       },
       {
         "id": 10,
-        "en": "If you are not sure, ask: \"One way or round trip?\"",
-        "ar": "إذا لم تكن متأكدًا، فاسأل: \"ذهاب فقط أم ذهاب وعودة؟\".",
-        "context": "توضح أن السؤال مناسب عند عدم التأكد."
+        "en": "Can I change it from one way to round trip?",
+        "ar": "هل يمكنني تغييرها من ذهاب فقط إلى ذهاب وعودة؟",
+        "context": "تقال عند تعديل نوع التذكرة."
       }
     ]
   }

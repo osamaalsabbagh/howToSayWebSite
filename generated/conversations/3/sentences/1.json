@@ -10,123 +10,151 @@
     "wordMeanings": [
       {
         "term": "Hi",
-        "description": "تحية قصيرة وغير رسمية جدًا تستعمل غالبًا مع الأصدقاء أو من تعرفهم جيدًا."
+        "description": "تحية قصيرة وغير رسمية لبدء الحديث."
       },
       {
         "term": "I",
-        "description": "ضمير المتكلم."
+        "description": "ضمير المتكلم المفرد."
       },
       {
         "term": "saw",
-        "description": "صيغة الماضي من see وتعني رأى."
+        "description": "صيغة ماضية تعني رأيت أو لاحظت بعيني."
       },
       {
         "term": "a",
-        "description": "أداة نكرة تأتي قبل الاسم المفرد المعدود."
+        "description": "أداة نكرة تأتي قبل اسم مفرد غير محدد."
       },
       {
         "term": "sign",
-        "description": "اسم يعني إعلانا."
+        "description": "إعلان أو لوحة مكتوبة تعطي معلومة."
       },
       {
         "term": "about",
-        "description": "حرف جر أو ظرف يعني عن أو تقريبًا حسب السياق."
+        "description": "حرف يوضح موضوع الإعلان أو الكلام."
+      },
+      {
+        "term": "a",
+        "description": "أداة نكرة تأتي قبل اسم مفرد غير محدد."
       },
       {
         "term": "new",
-        "description": "صفة تعني جديد."
+        "description": "صفة تعني جديدًا أو لم يكن موجودًا من قبل."
       },
       {
         "term": "fitness",
-        "description": "اسم يعني لياقة."
+        "description": "اللياقة البدنية أو التمارين المرتبطة بالصحة والحركة."
       },
       {
         "term": "activity",
-        "description": "اسم يعني هل."
+        "description": "نشاط أو فعالية يشارك فيها الناس."
       },
       {
         "term": "Is",
-        "description": "فعل be في الحاضر مع المفرد."
+        "description": "صيغة سؤال تربط الشيء بالوصف أو المكان المقصود."
       },
       {
         "term": "this",
-        "description": "اسم إشارة يعني هذا."
+        "description": "اسم إشارة يشير إلى المكان الحالي."
       },
       {
         "term": "the",
-        "description": "أداة تعريف تشير إلى شيء معروف أو محدد."
+        "description": "أداة تعريف تشير إلى مكان محدد معروف من السياق."
       },
       {
         "term": "right",
-        "description": "هنا جزء من All right التي تدل على القبول أو الموافقة، وليس المقصود فقط معنى \"صحيح\" أو \"يمين\"."
+        "description": "صفة تعني الصحيح أو المناسب."
       },
       {
         "term": "place",
-        "description": "اسم يعني المكان."
+        "description": "مكان أو موقع."
       }
     ],
-    "tense": null,
-    "tenseReason": "استُعمل هذا التركيب بحسب وظيفته في السياق، وليس بوصفه زمنًا فعليًا مستقلًا يمكن فصله بسهولة عن المعنى الوظيفي للجملة.",
+    "grammarExplanations": [
+      {
+        "sentence": "Hi!",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه تحية قصيرة لبدء الكلام ولا تحمل زمنًا فعليًا مستقلًا."
+        }
+      },
+      {
+        "sentence": "I saw a sign about a new fitness activity.",
+        "explanation": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "استُعمل الماضي البسيط لأن رؤية الإعلان حدثت قبل لحظة السؤال."
+        }
+      },
+      {
+        "sentence": "Is this the right place?",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُعمل المضارع البسيط في سؤال عن حالة المكان الحالي: هل هو المكان الصحيح الآن؟"
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "You can ask, \"Hi! I saw a sign about a new fitness activity. Is this the right place?\" when you need information.",
-        "ar": "يمكنك أن تسأل: \"مرحبًا! رأيت إعلانًا عن نشاط لياقة جديد. هل هذا هو المكان الصحيح؟\" عندما تحتاج إلى معلومة.",
-        "context": "تستعمل الجملة كسؤال مباشر للحصول على معلومة."
+        "en": "Hi! I saw a notice about a yoga class. Is this the right room?",
+        "ar": "مرحبًا! رأيت إعلانًا عن حصة يوغا. هل هذه هي الغرفة الصحيحة؟",
+        "context": "تسأل عند الوصول إلى مكان نشاط جديد."
       },
       {
         "id": 2,
-        "en": "Many people ask, \"Hi! I saw a sign about a new fitness activity. Is this the right place?\" in this situation.",
-        "ar": "يسأل كثير من الناس: \"مرحبًا! رأيت إعلانًا عن نشاط لياقة جديد. هل هذا هو المكان الصحيح؟\" في هذا الموقف.",
-        "context": "توضح أن هذا سؤال شائع في موقف مشابه."
+        "en": "I saw a sign about a music lesson.",
+        "ar": "رأيت إعلانًا عن درس موسيقى.",
+        "context": "تذكر سبب حضورك إلى المكان."
       },
       {
         "id": 3,
-        "en": "I asked, \"Hi! I saw a sign about a new fitness activity. Is this the right place?\" because I was not sure.",
-        "ar": "سألت: \"مرحبًا! رأيت إعلانًا عن نشاط لياقة جديد. هل هذا هو المكان الصحيح؟\" لأنني لم أكن متأكدًا.",
-        "context": "تضيف سببًا لطرح السؤال."
+        "en": "Is this the right place for the meeting?",
+        "ar": "هل هذا هو المكان الصحيح للاجتماع؟",
+        "context": "تتأكد من موقع اجتماع."
       },
       {
         "id": 4,
-        "en": "She asked politely, \"Hi! I saw a sign about a new fitness activity. Is this the right place?\"",
-        "ar": "سألت بأدب: \"مرحبًا! رأيت إعلانًا عن نشاط لياقة جديد. هل هذا هو المكان الصحيح؟\".",
-        "context": "تبين أن السؤال قيل بطريقة مهذبة."
+        "en": "Hi! I saw a poster about a cooking class.",
+        "ar": "مرحبًا! رأيت ملصقًا عن حصة طبخ.",
+        "context": "تبدأ حديثًا مع موظف استقبال."
       },
       {
         "id": 5,
-        "en": "At work, someone may ask, \"Hi! I saw a sign about a new fitness activity. Is this the right place?\"",
-        "ar": "في العمل، قد يسأل شخص ما: \"مرحبًا! رأيت إعلانًا عن نشاط لياقة جديد. هل هذا هو المكان الصحيح؟\".",
-        "context": "تضع السؤال في سياق مهني أو عملي."
+        "en": "I saw a sign outside the building.",
+        "ar": "رأيت لوحة خارج المبنى.",
+        "context": "توضح مصدر المعلومة التي جعلتك تدخل."
       },
       {
         "id": 6,
-        "en": "Before deciding, ask: \"Hi! I saw a sign about a new fitness activity. Is this the right place?\"",
-        "ar": "قبل أن تقرر، اسأل: \"مرحبًا! رأيت إعلانًا عن نشاط لياقة جديد. هل هذا هو المكان الصحيح؟\".",
-        "context": "تستخدم السؤال قبل اتخاذ قرار."
+        "en": "Is this the right place to register?",
+        "ar": "هل هذا هو المكان الصحيح للتسجيل؟",
+        "context": "تسأل عن مكان التسجيل."
       },
       {
         "id": 7,
-        "en": "The student asked, \"Hi! I saw a sign about a new fitness activity. Is this the right place?\" in class.",
-        "ar": "سأل الطالب: \"مرحبًا! رأيت إعلانًا عن نشاط لياقة جديد. هل هذا هو المكان الصحيح؟\" في الصف.",
-        "context": "تجعل الجملة جزءًا من موقف تعليمي."
+        "en": "I saw a new fitness activity online.",
+        "ar": "رأيت نشاط لياقة جديدًا على الإنترنت.",
+        "context": "تذكر أنك عرفت النشاط من إعلان رقمي."
       },
       {
         "id": 8,
-        "en": "While traveling, you can ask, \"Hi! I saw a sign about a new fitness activity. Is this the right place?\"",
-        "ar": "أثناء السفر، يمكنك أن تسأل: \"مرحبًا! رأيت إعلانًا عن نشاط لياقة جديد. هل هذا هو المكان الصحيح؟\".",
-        "context": "تربط السؤال بموقف السفر أو التنقل."
+        "en": "Hi! Is this the right place for beginners?",
+        "ar": "مرحبًا! هل هذا هو المكان الصحيح للمبتدئين؟",
+        "context": "تسأل إن كان المكان مناسبًا لمستواك."
       },
       {
         "id": 9,
-        "en": "He asked me, \"Hi! I saw a sign about a new fitness activity. Is this the right place?\" again.",
-        "ar": "سألني: \"مرحبًا! رأيت إعلانًا عن نشاط لياقة جديد. هل هذا هو المكان الصحيح؟\" مرة أخرى.",
-        "context": "تضيف معنى التكرار لنفس السؤال."
+        "en": "I saw an ad about a dance class.",
+        "ar": "رأيت إعلانًا عن حصة رقص.",
+        "context": "تشرح سبب اهتمامك بالنشاط."
       },
       {
         "id": 10,
-        "en": "If you are not sure, ask: \"Hi! I saw a sign about a new fitness activity. Is this the right place?\"",
-        "ar": "إذا لم تكن متأكدًا، فاسأل: \"مرحبًا! رأيت إعلانًا عن نشاط لياقة جديد. هل هذا هو المكان الصحيح؟\".",
-        "context": "توضح أن السؤال مناسب عند عدم التأكد."
+        "en": "Is this the right place to ask about the class?",
+        "ar": "هل هذا هو المكان الصحيح للسؤال عن الحصة؟",
+        "context": "تتأكد من أنك تتحدث مع الجهة المناسبة."
       }
     ]
   }

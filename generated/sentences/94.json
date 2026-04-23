@@ -10,87 +10,95 @@
     "wordMeanings": [
       {
         "term": "Please",
-        "description": "تضيف اللطف إلى الطلب."
+        "description": "كلمة تجعل الطلب مهذبًا."
       },
       {
         "term": "fill",
-        "description": "فعل يعني يرجى."
+        "description": "جزء من تعبير يعني تعبئة الخانات بالمعلومات."
       },
       {
         "term": "out",
-        "description": "ظرف أو حرف يعني إلى الخارج أو خارج."
+        "description": "جزء من التعبير الذي يعني إكمال نموذج بالمعلومات."
       },
       {
         "term": "this",
-        "description": "اسم إشارة يعني هذا."
+        "description": "هذا، وتشير إلى شيء قريب أو مقدم للمخاطب."
       },
       {
         "term": "form",
-        "description": "اسم يعني النموذج."
+        "description": "نموذج أو ورقة تحتوي على خانات للمعلومات."
       }
     ],
-    "tense": null,
-    "tenseReason": "استُعمل هذا الأسلوب لأن الجملة تقدم طلبًا أو تعليمات مباشرة موجهة إلى شخص آخر، لذلك لا نضع لها هنا زمنًا فعليًا مستقلًا.",
+    "grammarExplanations": [
+      {
+        "sentence": "Please fill out this form.",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه صيغة طلب مهذب، والتعبير fill out يعني تعبئة النموذج بالمعلومات، ولا تحمل الجملة زمنًا مستقلًا."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "In this situation, people often say, \"Please fill out this form\".",
-        "ar": "في هذا الموقف، يقول الناس كثيرًا: \"يرجى تعبئة هذا النموذج\".",
-        "context": "توضح أن العبارة مناسبة في هذا النوع من المواقف."
+        "en": "Please fill out this application.",
+        "ar": "يرجى تعبئة هذا الطلب.",
+        "context": "تقال عند طلب إكمال طلب رسمي."
       },
       {
         "id": 2,
-        "en": "The teacher said, \"Please fill out this form\" to the students.",
-        "ar": "قال المعلم للطلاب: \"يرجى تعبئة هذا النموذج\".",
-        "context": "تستخدم الجملة كتعليمات أو توجيه مباشر."
+        "en": "Please write your name here.",
+        "ar": "يرجى كتابة اسمك هنا.",
+        "context": "تقال عند توجيه شخص لكتابة اسمه."
       },
       {
         "id": 3,
-        "en": "He told me, \"Please fill out this form\" before we left.",
-        "ar": "قال لي: \"يرجى تعبئة هذا النموذج\" قبل أن نغادر.",
-        "context": "تضع العبارة قبل حدث آخر."
+        "en": "Please fill in this box.",
+        "ar": "يرجى تعبئة هذا المربع.",
+        "context": "تقال عند طلب كتابة معلومة في خانة محددة."
       },
       {
         "id": 4,
-        "en": "She said, \"Please fill out this form\" in a polite way.",
-        "ar": "قالت: \"يرجى تعبئة هذا النموذج\" بطريقة مهذبة.",
-        "context": "تظهر أن العبارة يمكن أن تقال بلطف أو أدب."
+        "en": "Please complete the form.",
+        "ar": "يرجى إكمال النموذج.",
+        "context": "تقال عند طلب إنهاء نموذج ناقص."
       },
       {
         "id": 5,
-        "en": "Someone shouted, \"Please fill out this form\" when there was a problem.",
-        "ar": "صاح شخص ما: \"يرجى تعبئة هذا النموذج\" عندما ظهرت مشكلة.",
-        "context": "تربط العبارة بموقف سريع أو طارئ."
+        "en": "Please sign this form.",
+        "ar": "يرجى توقيع هذا النموذج.",
+        "context": "تقال عند طلب توقيع ورقة رسمية."
       },
       {
         "id": 6,
-        "en": "You can say, \"Please fill out this form\" when you need a quick response.",
-        "ar": "يمكنك أن تقول: \"يرجى تعبئة هذا النموذج\" عندما تحتاج إلى رد سريع.",
-        "context": "توضح أن العبارة مفيدة عند الحاجة إلى استجابة مباشرة."
+        "en": "Please fill out the form before noon.",
+        "ar": "يرجى تعبئة النموذج قبل الظهر.",
+        "context": "تقال عند تحديد موعد لتسليم النموذج."
       },
       {
         "id": 7,
-        "en": "They repeated, \"Please fill out this form\" more than once.",
-        "ar": "رددوا: \"يرجى تعبئة هذا النموذج\" أكثر من مرة.",
-        "context": "تعطي مثالًا على تكرار العبارة."
+        "en": "Please add your address.",
+        "ar": "يرجى إضافة عنوانك.",
+        "context": "تقال عند نقص معلومة في نموذج."
       },
       {
         "id": 8,
-        "en": "I heard him say, \"Please fill out this form\" yesterday.",
-        "ar": "سمعته يقول: \"يرجى تعبئة هذا النموذج\" أمس.",
-        "context": "تجعل العبارة جزءًا من موقف سمعته من شخص آخر."
+        "en": "Please answer every question.",
+        "ar": "يرجى الإجابة عن كل سؤال.",
+        "context": "تقال عند شرح طريقة إكمال نموذج."
       },
       {
         "id": 9,
-        "en": "Many learners remember the phrase, \"Please fill out this form\".",
-        "ar": "يتذكر كثير من المتعلمين العبارة: \"يرجى تعبئة هذا النموذج\".",
-        "context": "تقدم العبارة بوصفها عبارة سهلة التذكر."
+        "en": "Please print your phone number.",
+        "ar": "يرجى كتابة رقم هاتفك بوضوح.",
+        "context": "تقال عند طلب كتابة رقم واضح."
       },
       {
         "id": 10,
-        "en": "At that moment, she said, \"Please fill out this form\".",
-        "ar": "في تلك اللحظة، قالت: \"يرجى تعبئة هذا النموذج\".",
-        "context": "تربط العبارة بلحظة معينة في السرد."
+        "en": "Please give the form to the clerk.",
+        "ar": "يرجى إعطاء النموذج للموظف.",
+        "context": "تقال بعد إكمال النموذج."
       }
     ]
   }

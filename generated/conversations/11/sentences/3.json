@@ -10,88 +10,103 @@
     "wordMeanings": [
       {
         "term": "That",
-        "description": "تشير إلى أمر أو خبر سبق ذكره."
+        "description": "يشير إلى الإجابة أو الفكرة التي قيلت قبل قليل."
       },
       {
         "term": "is",
-        "description": "فعل be في الحاضر مع المفرد."
+        "description": "تربط الشيء المشار إليه بوصفه صحيحًا."
       },
       {
         "term": "correct",
-        "description": "صفة تعني عمل."
+        "description": "صحيح أو مطابق للحقيقة."
       },
       {
         "term": "Good",
-        "description": "صفة تعني جيد أو مريح أو مناسب هنا."
+        "description": "جيد أو ممتاز في سياق التشجيع."
       },
       {
         "term": "job",
-        "description": "العمل أو الأداء الذي قام به الشخص."
+        "description": "عمل أو إنجاز قام به الشخص."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "That is correct!",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "الجملة تصف صحة الإجابة في لحظة الحديث بوصفها حقيقة حالية."
+        }
+      },
+      {
+        "sentence": "Good job.",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه عبارة تشجيع قصيرة وليست جملة فعلية لها زمن مستقل."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "In general, That is correct! Good job.",
-        "ar": "بشكل عام، هذا صحيح! عمل جيد.",
-        "context": "تضيف عبارة عامة تحافظ على نفس المعنى الأساسي."
+        "en": "That is correct. Good work.",
+        "ar": "هذا صحيح. عمل جيد.",
+        "context": "يُستخدم لتأكيد إجابة وتشجيع صاحبها."
       },
       {
         "id": 2,
-        "en": "Usually, That is correct! Good job.",
-        "ar": "عادةً، هذا صحيح! عمل جيد.",
-        "context": "تضيف ظرفًا يدل على التكرار أو العادة."
+        "en": "That is right. Good job.",
+        "ar": "هذا صحيح. عمل جيد.",
+        "context": "يُستخدم بعد إجابة صحيحة في الصف."
       },
       {
         "id": 3,
-        "en": "Sometimes, That is correct! Good job.",
-        "ar": "أحيانًا، هذا صحيح! عمل جيد.",
-        "context": "تضع الجملة في سياق أقل تكرارًا."
+        "en": "That is correct. Well done.",
+        "ar": "هذا صحيح. أحسنت.",
+        "context": "يُستخدم لتقديم مدح مباشر بعد إنجاز."
       },
       {
         "id": 4,
-        "en": "For now, That is correct! Good job.",
-        "ar": "في الوقت الحالي، هذا صحيح! عمل جيد.",
-        "context": "تربط الجملة بالوضع الحالي."
+        "en": "Your answer is correct. Good job.",
+        "ar": "إجابتك صحيحة. عمل جيد.",
+        "context": "يُستخدم عندما يريد المعلم توضيح أن الإجابة صحيحة."
       },
       {
         "id": 5,
-        "en": "That is correct! Good job, so that helps a lot.",
-        "ar": "هذا صحيح! عمل جيد، وهذا يساعد كثيرًا.",
-        "context": "تضيف نتيجة بسيطة على نفس المعنى."
+        "en": "That is correct. You solved it.",
+        "ar": "هذا صحيح. لقد حللته.",
+        "context": "يُستخدم بعد نجاح شخص في حل سؤال."
       },
       {
         "id": 6,
-        "en": "That is correct! Good job in daily life.",
-        "ar": "هذا صحيح! عمل جيد في الحياة اليومية.",
-        "context": "تربط الجملة بمواقف الحياة اليومية."
+        "en": "That is correct. Keep going.",
+        "ar": "هذا صحيح. استمر.",
+        "context": "يُستخدم لتشجيع شخص على متابعة العمل."
       },
       {
         "id": 7,
-        "en": "That is correct! Good job when it is necessary.",
-        "ar": "هذا صحيح! عمل جيد عندما يكون ذلك ضروريًا.",
-        "context": "تربط الجملة بشرط أو حاجة معينة."
+        "en": "The number is correct. Good job.",
+        "ar": "الرقم صحيح. عمل جيد.",
+        "context": "يُستخدم عند التأكد من إجابة عددية."
       },
       {
         "id": 8,
-        "en": "In this situation, That is correct! Good job.",
-        "ar": "في هذا الموقف، هذا صحيح! عمل جيد.",
-        "context": "تجعل الجملة جزءًا من موقف واضح."
+        "en": "That is correct. Nice answer.",
+        "ar": "هذا صحيح. إجابة جيدة.",
+        "context": "يُستخدم لتقدير إجابة واضحة."
       },
       {
         "id": 9,
-        "en": "That is correct! Good job, and everyone notices that.",
-        "ar": "هذا صحيح! عمل جيد، والجميع يلاحظ ذلك.",
-        "context": "تضيف ملاحظة أو نتيجة بعد الجملة."
+        "en": "That is correct. Good effort.",
+        "ar": "هذا صحيح. جهد جيد.",
+        "context": "يُستخدم لتشجيع الشخص على جهده."
       },
       {
         "id": 10,
-        "en": "That is correct! Good job most of the time.",
-        "ar": "هذا صحيح! عمل جيد معظم الوقت.",
-        "context": "تضيف عبارة تكرار شائعة."
+        "en": "Your idea is correct. Good job.",
+        "ar": "فكرتك صحيحة. عمل جيد.",
+        "context": "يُستخدم عند قبول فكرة أو حل."
       }
     ]
   }

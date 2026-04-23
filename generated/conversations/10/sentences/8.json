@@ -10,104 +10,119 @@
     "wordMeanings": [
       {
         "term": "The",
-        "description": "أداة تعريف تشير إلى شيء معروف أو محدد."
+        "description": "أداة تعريف تدل على مالك معروف في الحديث."
       },
       {
         "term": "owner",
-        "description": "اسم يعني العمل."
+        "description": "الشخص الذي يملك الشيء، مثل مالك الشقة."
       },
       {
         "term": "is",
-        "description": "فعل be في الحاضر مع المفرد."
+        "description": "تربط المالك بحالته أو مكانه الحالي."
       },
       {
         "term": "at",
-        "description": "حرف جر يعني عند أو في وقت/مكان محدد."
+        "description": "حرف يحدد مكان وجود الشخص هنا."
       },
       {
         "term": "work",
-        "description": "العمل."
+        "description": "مكان العمل أو وقت أداء العمل."
       },
       {
         "term": "and",
-        "description": "حرف عطف يربط بين كلمتين أو جملتين."
+        "description": "تربط بين كونه في العمل وعدم قدرته على المغادرة."
       },
       {
         "term": "cannot",
-        "description": "صيغة نفي لـ can وتعني لا يستطيع أو لا يمكن."
+        "description": "تعني لا يستطيع أو لا يمكنه."
       },
       {
         "term": "leave",
-        "description": "فعل يعني يغادر أو يترك."
+        "description": "يغادر المكان الذي هو فيه."
       },
       {
         "term": "now",
-        "description": "ظرف زمان يعني الآن."
+        "description": "في الوقت الحالي."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "The owner is at work",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "يصف حالة ومكان المالك الآن بوصفها معلومة حالية ثابتة في لحظة الحديث."
+        }
+      },
+      {
+        "sentence": "cannot leave now",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذا تركيب قدرة منفية؛ cannot يوضح أن المغادرة غير ممكنة في الوقت الحالي، لذلك لا يُعامل كزمن مستقل."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "In general, The owner is at work and cannot leave now.",
-        "ar": "بشكل عام، المالك في العمل ولا يستطيع المغادرة الآن.",
-        "context": "تضيف عبارة عامة تحافظ على نفس المعنى الأساسي."
+        "en": "The doctor is at work and cannot answer now.",
+        "ar": "الطبيب في العمل ولا يستطيع الرد الآن.",
+        "context": "يُستخدم لتوضيح سبب عدم تفرغ شخص في الوقت الحالي."
       },
       {
         "id": 2,
-        "en": "Usually, The owner is at work and cannot leave now.",
-        "ar": "عادةً، المالك في العمل ولا يستطيع المغادرة الآن.",
-        "context": "تضيف ظرفًا يدل على التكرار أو العادة."
+        "en": "The manager is in a meeting and cannot leave now.",
+        "ar": "المدير في اجتماع ولا يستطيع المغادرة الآن.",
+        "context": "يُستخدم لشرح أن الشخص مشغول بموقف رسمي."
       },
       {
         "id": 3,
-        "en": "Sometimes, The owner is at work and cannot leave now.",
-        "ar": "أحيانًا، المالك في العمل ولا يستطيع المغادرة الآن.",
-        "context": "تضع الجملة في سياق أقل تكرارًا."
+        "en": "My brother is at school and cannot call now.",
+        "ar": "أخي في المدرسة ولا يستطيع الاتصال الآن.",
+        "context": "يُستخدم لشرح سبب عدم قدرة شخص على التواصل."
       },
       {
         "id": 4,
-        "en": "For now, The owner is at work and cannot leave now.",
-        "ar": "في الوقت الحالي، المالك في العمل ولا يستطيع المغادرة الآن.",
-        "context": "تربط الجملة بالوضع الحالي."
+        "en": "The driver is on the road and cannot stop now.",
+        "ar": "السائق على الطريق ولا يستطيع التوقف الآن.",
+        "context": "يُستخدم عندما يمنع الوضع الحالي الشخص من فعل شيء."
       },
       {
         "id": 5,
-        "en": "The owner is at work and cannot leave now, so that helps a lot.",
-        "ar": "المالك في العمل ولا يستطيع المغادرة الآن، وهذا يساعد كثيرًا.",
-        "context": "تضيف نتيجة بسيطة على نفس المعنى."
+        "en": "The teacher is in class and cannot speak now.",
+        "ar": "المعلم في الصف ولا يستطيع التحدث الآن.",
+        "context": "يُستخدم لإعطاء سبب مباشر لعدم توفر شخص."
       },
       {
         "id": 6,
-        "en": "The owner is at work and cannot leave now in daily life.",
-        "ar": "المالك في العمل ولا يستطيع المغادرة الآن في الحياة اليومية.",
-        "context": "تربط الجملة بمواقف الحياة اليومية."
+        "en": "She is at work and cannot come now.",
+        "ar": "هي في العمل ولا تستطيع القدوم الآن.",
+        "context": "يُستخدم عند الاعتذار عن عدم حضور شخص."
       },
       {
         "id": 7,
-        "en": "The owner is at work and cannot leave now when it is necessary.",
-        "ar": "المالك في العمل ولا يستطيع المغادرة الآن عندما يكون ذلك ضروريًا.",
-        "context": "تربط الجملة بشرط أو حاجة معينة."
+        "en": "He is busy and cannot help now.",
+        "ar": "هو مشغول ولا يستطيع المساعدة الآن.",
+        "context": "يُستخدم لتوضيح أن المساعدة غير ممكنة في اللحظة الحالية."
       },
       {
         "id": 8,
-        "en": "In this situation, The owner is at work and cannot leave now.",
-        "ar": "في هذا الموقف، المالك في العمل ولا يستطيع المغادرة الآن.",
-        "context": "تجعل الجملة جزءًا من موقف واضح."
+        "en": "The nurse is with a patient and cannot leave now.",
+        "ar": "الممرضة مع مريض ولا تستطيع المغادرة الآن.",
+        "context": "يُستخدم عندما تكون المسؤولية الحالية سببًا لعدم المغادرة."
       },
       {
         "id": 9,
-        "en": "The owner is at work and cannot leave now, and everyone notices that.",
-        "ar": "المالك في العمل ولا يستطيع المغادرة الآن، والجميع يلاحظ ذلك.",
-        "context": "تضيف ملاحظة أو نتيجة بعد الجملة."
+        "en": "The owner is abroad and cannot sign today.",
+        "ar": "المالك في الخارج ولا يستطيع التوقيع اليوم.",
+        "context": "يُستخدم لشرح تأخر إجراء بسبب مكان الشخص."
       },
       {
         "id": 10,
-        "en": "The owner is at work and cannot leave now most of the time.",
-        "ar": "المالك في العمل ولا يستطيع المغادرة الآن معظم الوقت.",
-        "context": "تضيف عبارة تكرار شائعة."
+        "en": "The assistant is at lunch and cannot help now.",
+        "ar": "المساعد في استراحة الغداء ولا يستطيع المساعدة الآن.",
+        "context": "يُستخدم لتوضيح عدم توفر الموظف مؤقتًا."
       }
     ]
   }

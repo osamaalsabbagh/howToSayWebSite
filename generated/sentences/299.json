@@ -10,88 +10,99 @@
     "wordMeanings": [
       {
         "term": "The",
-        "description": "أداة تعريف تشير إلى شيء معروف أو محدد."
+        "description": "أداة تشير إلى كتاب محدد معروف من السياق."
       },
       {
         "term": "book",
-        "description": "اسم يعني كتاب."
+        "description": "كتاب أو شيء للقراءة."
       },
       {
         "term": "is",
-        "description": "فعل be في الحاضر مع المفرد."
+        "description": "تربط الكتاب بمكانه الحالي."
       },
       {
         "term": "near",
-        "description": "حرف جر أو ظرف يعني قريب من."
+        "description": "قريب من."
+      },
+      {
+        "term": "the",
+        "description": "أداة تشير إلى طاولة محددة."
       },
       {
         "term": "table",
-        "description": "اسم يعني طاولة."
+        "description": "طاولة أو منضدة."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "The book is near the table.",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "تستخدم الجملة is لوصف مكان الكتاب الحالي، وnear يوضح أنه قريب من الطاولة دون ضرورة الملامسة."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "People often say, \"The book is near the table\" in situations like this.",
-        "ar": "يقول الناس كثيرًا: \"الكتاب بالقرب من الطاولة\" في مواقف كهذه.",
-        "context": "تستخدم الجملة بوصفها تركيبًا شائعًا في موقف مشابه."
+        "en": "The book is near the table.",
+        "ar": "الكتاب بالقرب من الطاولة.",
+        "context": "تقال عند تحديد مكان كتاب قريب من طاولة."
       },
       {
         "id": 2,
-        "en": "You can say, \"The book is near the table\" when this happens.",
-        "ar": "يمكنك أن تقول: \"الكتاب بالقرب من الطاولة\" عندما يحدث هذا.",
-        "context": "توضح أن الجملة مناسبة في موقف متكرر."
+        "en": "The bag is near the chair.",
+        "ar": "الحقيبة بالقرب من الكرسي.",
+        "context": "تقال عند تحديد مكان حقيبة."
       },
       {
         "id": 3,
-        "en": "I heard someone say, \"The book is near the table\".",
-        "ar": "سمعت شخصًا يقول: \"الكتاب بالقرب من الطاولة\".",
-        "context": "تجعل الجملة جزءًا من كلام سمعته من شخص آخر."
+        "en": "The hotel is near the station.",
+        "ar": "الفندق قريب من المحطة.",
+        "context": "تقال عند وصف موقع فندق."
       },
       {
         "id": 4,
-        "en": "The teacher used the sentence, \"The book is near the table\" in class.",
-        "ar": "استخدم المعلم الجملة: \"الكتاب بالقرب من الطاولة\" في الصف.",
-        "context": "تستخدم الجملة مثالًا تعليميًا في الصف."
+        "en": "The bank is near the supermarket.",
+        "ar": "البنك قريب من السوبرماركت.",
+        "context": "تقال عند إعطاء اتجاهات."
       },
       {
         "id": 5,
-        "en": "Many learners remember the sentence, \"The book is near the table\" first.",
-        "ar": "يتذكر كثير من المتعلمين الجملة: \"الكتاب بالقرب من الطاولة\" أولًا.",
-        "context": "تقدم الجملة بوصفها جملة تعليمية أساسية."
+        "en": "Is the book near the table?",
+        "ar": "هل الكتاب بالقرب من الطاولة؟",
+        "context": "تستخدم للسؤال عن مكان كتاب."
       },
       {
         "id": 6,
-        "en": "She said, \"The book is near the table\" in a calm way.",
-        "ar": "قالت: \"الكتاب بالقرب من الطاولة\" بطريقة هادئة.",
-        "context": "تجعل الجملة جزءًا من كلام مباشر في موقف عادي."
+        "en": "The keys are near the door.",
+        "ar": "المفاتيح بالقرب من الباب.",
+        "context": "تقال عند تحديد مكان مفاتيح."
       },
       {
         "id": 7,
-        "en": "He repeated, \"The book is near the table\" more than once.",
-        "ar": "ردد: \"الكتاب بالقرب من الطاولة\" أكثر من مرة.",
-        "context": "تضيف معنى التكرار لنفس الجملة."
+        "en": "The phone is near the bed.",
+        "ar": "الهاتف بالقرب من السرير.",
+        "context": "تقال عند تحديد مكان هاتف."
       },
       {
         "id": 8,
-        "en": "At the right moment, someone might say, \"The book is near the table\".",
-        "ar": "في اللحظة المناسبة، قد يقول شخص ما: \"الكتاب بالقرب من الطاولة\".",
-        "context": "توضح أن الجملة مرتبطة بتوقيت مناسب في السياق."
+        "en": "The restaurant is near the hotel.",
+        "ar": "المطعم قريب من الفندق.",
+        "context": "تقال عند وصف موقع مطعم."
       },
       {
         "id": 9,
-        "en": "I wrote down the sentence, \"The book is near the table\" so I would remember it.",
-        "ar": "كتبت الجملة: \"الكتاب بالقرب من الطاولة\" حتى أتذكرها.",
-        "context": "تعطي مثالًا على حفظ الجملة أو مراجعتها."
+        "en": "The book is very near the table.",
+        "ar": "الكتاب قريب جدًا من الطاولة.",
+        "context": "تقال عند تأكيد القرب."
       },
       {
         "id": 10,
-        "en": "It is useful to know when to say, \"The book is near the table\".",
-        "ar": "من المفيد أن تعرف متى تقول: \"الكتاب بالقرب من الطاولة\".",
-        "context": "تركز على معرفة الوقت المناسب لاستخدام الجملة."
+        "en": "The library is near the school.",
+        "ar": "المكتبة قريبة من المدرسة.",
+        "context": "تقال عند وصف موقع المكتبة."
       }
     ]
   }

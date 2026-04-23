@@ -10,80 +10,87 @@
     "wordMeanings": [
       {
         "term": "Enjoy",
-        "description": "فعل يعني استمتع."
+        "description": "استمتع أو اقض وقتًا ممتعًا."
       },
       {
         "term": "your",
-        "description": "صفة ملكية تعني خاصتك أو خاصتكم."
+        "description": "تدل على أن الرحلة تخص الشخص المخاطب."
       },
       {
         "term": "trip",
-        "description": "اسم يعني رحلة."
+        "description": "رحلة أو سفر من مكان إلى آخر."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "Enjoy your trip",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه صيغة أمر لطيفة للتمني، والفعل في بدايتها يوجه أمنية أو طلبًا ودودًا، لذلك لا يحمل زمنًا مستقلًا."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "People often say, \"Enjoy your trip\" in situations like this.",
-        "ar": "يقول الناس كثيرًا: \"استمتع برحلتك\" في مواقف كهذه.",
-        "context": "تستخدم الجملة بوصفها تركيبًا شائعًا في موقف مشابه."
+        "en": "Enjoy your trip.",
+        "ar": "استمتع برحلتك.",
+        "context": "تقال لمن سيبدأ رحلة."
       },
       {
         "id": 2,
-        "en": "You can say, \"Enjoy your trip\" when this happens.",
-        "ar": "يمكنك أن تقول: \"استمتع برحلتك\" عندما يحدث هذا.",
-        "context": "توضح أن الجملة مناسبة في موقف متكرر."
+        "en": "Enjoy your flight.",
+        "ar": "استمتع برحلة الطيران الخاصة بك.",
+        "context": "تقال لمن سيسافر بالطائرة."
       },
       {
         "id": 3,
-        "en": "I heard someone say, \"Enjoy your trip\".",
-        "ar": "سمعت شخصًا يقول: \"استمتع برحلتك\".",
-        "context": "تجعل الجملة جزءًا من كلام سمعته من شخص آخر."
+        "en": "Enjoy your vacation.",
+        "ar": "استمتع بإجازتك.",
+        "context": "تقال لمن يبدأ إجازة."
       },
       {
         "id": 4,
-        "en": "The teacher used the sentence, \"Enjoy your trip\" in class.",
-        "ar": "استخدم المعلم الجملة: \"استمتع برحلتك\" في الصف.",
-        "context": "تستخدم الجملة مثالًا تعليميًا في الصف."
+        "en": "Enjoy your weekend.",
+        "ar": "استمتع بعطلة نهاية الأسبوع الخاصة بك.",
+        "context": "تقال قبل عطلة نهاية الأسبوع."
       },
       {
         "id": 5,
-        "en": "Many learners remember the sentence, \"Enjoy your trip\" first.",
-        "ar": "يتذكر كثير من المتعلمين الجملة: \"استمتع برحلتك\" أولًا.",
-        "context": "تقدم الجملة بوصفها جملة تعليمية أساسية."
+        "en": "Enjoy your day.",
+        "ar": "استمتع بيومك.",
+        "context": "تقال كتمن ودي أثناء الوداع."
       },
       {
         "id": 6,
-        "en": "She said, \"Enjoy your trip\" in a calm way.",
-        "ar": "قالت: \"استمتع برحلتك\" بطريقة هادئة.",
-        "context": "تجعل الجملة جزءًا من كلام مباشر في موقف عادي."
+        "en": "Enjoy your meal.",
+        "ar": "استمتع بوجبتك.",
+        "context": "تقال قبل أن يبدأ شخص بتناول الطعام."
       },
       {
         "id": 7,
-        "en": "He repeated, \"Enjoy your trip\" more than once.",
-        "ar": "ردد: \"استمتع برحلتك\" أكثر من مرة.",
-        "context": "تضيف معنى التكرار لنفس الجملة."
+        "en": "Enjoy your stay.",
+        "ar": "استمتع بإقامتك.",
+        "context": "تقال لضيف في مكان إقامة."
       },
       {
         "id": 8,
-        "en": "At the right moment, someone might say, \"Enjoy your trip\".",
-        "ar": "في اللحظة المناسبة، قد يقول شخص ما: \"استمتع برحلتك\".",
-        "context": "توضح أن الجملة مرتبطة بتوقيت مناسب في السياق."
+        "en": "Enjoy your visit.",
+        "ar": "استمتع بزيارتك.",
+        "context": "تقال لشخص يزور مكانًا أو أشخاصًا."
       },
       {
         "id": 9,
-        "en": "I wrote down the sentence, \"Enjoy your trip\" so I would remember it.",
-        "ar": "كتبت الجملة: \"استمتع برحلتك\" حتى أتذكرها.",
-        "context": "تعطي مثالًا على حفظ الجملة أو مراجعتها."
+        "en": "Enjoy your evening.",
+        "ar": "استمتع بمسائك.",
+        "context": "تقال عند الوداع في المساء."
       },
       {
         "id": 10,
-        "en": "It is useful to know when to say, \"Enjoy your trip\".",
-        "ar": "من المفيد أن تعرف متى تقول: \"استمتع برحلتك\".",
-        "context": "تركز على معرفة الوقت المناسب لاستخدام الجملة."
+        "en": "Enjoy your time there.",
+        "ar": "استمتع بوقتك هناك.",
+        "context": "تقال لمن سيقضي وقتًا في مكان آخر."
       }
     ]
   }

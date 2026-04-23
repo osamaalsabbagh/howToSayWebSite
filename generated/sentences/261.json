@@ -10,87 +10,95 @@
     "wordMeanings": [
       {
         "term": "Across",
-        "description": "حرف أو أداة تربط المعنى بفكرة مقابل."
+        "description": "على الجهة المقابلة أو عبر الطريق."
       },
       {
         "term": "from",
-        "description": "جزء من العبارة الزمنية from time to time."
+        "description": "من، وتكمل عبارة الموقع المقابل لشيء."
       },
       {
         "term": "the",
-        "description": "أداة تعريف تشير إلى شيء معروف أو محدد."
+        "description": "أداة تشير إلى مكتب بريد محدد معروف."
       },
       {
         "term": "post",
-        "description": "اسم يعني البريد."
+        "description": "بريد، وتصف نوع المكتب."
       },
       {
         "term": "office",
-        "description": "اسم يعني مكتب."
+        "description": "مكتب أو مكان خدمة."
       }
     ],
-    "tense": null,
-    "tenseReason": "استُعمل هذا التعبير لأنه عبارة ثابتة أو رد قصير يُستخدم في موقف محدد، وليس جملة فعلية كاملة بزمن واضح.",
+    "grammarExplanations": [
+      {
+        "sentence": "Across from the post office.",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه عبارة مكانية قصيرة بلا فعل ظاهر، وتحدد أن الموقع على الجهة المقابلة من مكتب البريد."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "In this situation, people often say, \"Across from the post office\".",
-        "ar": "في هذا الموقف، يقول الناس كثيرًا: \"مقابل مكتب البريد\".",
-        "context": "توضح أن العبارة مناسبة في هذا النوع من المواقف."
+        "en": "Across from the post office.",
+        "ar": "مقابل مكتب البريد.",
+        "context": "تقال لتحديد موقع على الجهة المقابلة لمكتب البريد."
       },
       {
         "id": 2,
-        "en": "The teacher said, \"Across from the post office\" to the students.",
-        "ar": "قال المعلم للطلاب: \"مقابل مكتب البريد\".",
-        "context": "تستخدم الجملة كتعليمات أو توجيه مباشر."
+        "en": "It is across from the post office.",
+        "ar": "إنه مقابل مكتب البريد.",
+        "context": "تقال عند وصف موقع شيء كاملًا."
       },
       {
         "id": 3,
-        "en": "He told me, \"Across from the post office\" before we left.",
-        "ar": "قال لي: \"مقابل مكتب البريد\" قبل أن نغادر.",
-        "context": "تضع العبارة قبل حدث آخر."
+        "en": "The bank is across from the post office.",
+        "ar": "البنك مقابل مكتب البريد.",
+        "context": "تقال عند وصف مكان البنك."
       },
       {
         "id": 4,
-        "en": "She said, \"Across from the post office\" in a polite way.",
-        "ar": "قالت: \"مقابل مكتب البريد\" بطريقة مهذبة.",
-        "context": "تظهر أن العبارة يمكن أن تقال بلطف أو أدب."
+        "en": "The hotel is across from the station.",
+        "ar": "الفندق مقابل المحطة.",
+        "context": "تقال عند وصف موقع الفندق."
       },
       {
         "id": 5,
-        "en": "Someone shouted, \"Across from the post office\" when there was a problem.",
-        "ar": "صاح شخص ما: \"مقابل مكتب البريد\" عندما ظهرت مشكلة.",
-        "context": "تربط العبارة بموقف سريع أو طارئ."
+        "en": "The restaurant is across from the park.",
+        "ar": "المطعم مقابل الحديقة.",
+        "context": "تقال عند إعطاء اتجاه إلى مطعم."
       },
       {
         "id": 6,
-        "en": "You can say, \"Across from the post office\" when you need a quick response.",
-        "ar": "يمكنك أن تقول: \"مقابل مكتب البريد\" عندما تحتاج إلى رد سريع.",
-        "context": "توضح أن العبارة مفيدة عند الحاجة إلى استجابة مباشرة."
+        "en": "The store is across from the school.",
+        "ar": "المتجر مقابل المدرسة.",
+        "context": "تقال عند وصف موقع متجر."
       },
       {
         "id": 7,
-        "en": "They repeated, \"Across from the post office\" more than once.",
-        "ar": "رددوا: \"مقابل مكتب البريد\" أكثر من مرة.",
-        "context": "تعطي مثالًا على تكرار العبارة."
+        "en": "Meet me across from the post office.",
+        "ar": "قابلني مقابل مكتب البريد.",
+        "context": "تقال عند تحديد مكان لقاء."
       },
       {
         "id": 8,
-        "en": "I heard him say, \"Across from the post office\" yesterday.",
-        "ar": "سمعته يقول: \"مقابل مكتب البريد\" أمس.",
-        "context": "تجعل العبارة جزءًا من موقف سمعته من شخص آخر."
+        "en": "Walk across from the post office.",
+        "ar": "امش إلى الجهة المقابلة لمكتب البريد.",
+        "context": "تقال عند إعطاء اتجاه للمشي."
       },
       {
         "id": 9,
-        "en": "Many learners remember the phrase, \"Across from the post office\".",
-        "ar": "يتذكر كثير من المتعلمين العبارة: \"مقابل مكتب البريد\".",
-        "context": "تقدم العبارة بوصفها عبارة سهلة التذكر."
+        "en": "It is across the street from the post office.",
+        "ar": "إنه على الجانب المقابل من الشارع لمكتب البريد.",
+        "context": "تقال لتوضيح أن الموقع عبر الشارع."
       },
       {
         "id": 10,
-        "en": "At that moment, she said, \"Across from the post office\".",
-        "ar": "في تلك اللحظة، قالت: \"مقابل مكتب البريد\".",
-        "context": "تربط العبارة بلحظة معينة في السرد."
+        "en": "The office is across from the main door.",
+        "ar": "المكتب مقابل الباب الرئيسي.",
+        "context": "تقال عند وصف موقع داخل مبنى."
       }
     ]
   }

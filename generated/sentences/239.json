@@ -10,92 +10,99 @@
     "wordMeanings": [
       {
         "term": "I",
-        "description": "ضمير المتكلم."
+        "description": "أنا، وتشير إلى المتكلم."
       },
       {
         "term": "will",
-        "description": "أداة مستقبل تدل على ما سيحدث لاحقًا."
+        "description": "تدل على قرار أو اختيار في المستقبل القريب."
       },
       {
         "term": "have",
-        "description": "فعل يعني يملك، ويأتي أيضًا كفعل مساعد."
+        "description": "آخذ أو أطلب في سياق الطعام والشراب."
       },
       {
         "term": "the",
-        "description": "أداة تعريف تشير إلى شيء معروف أو محدد."
+        "description": "أداة تشير إلى شيء محدد معروف من السياق."
       },
       {
         "term": "same",
-        "description": "صفة تعني نفسه أو نفس الشيء."
+        "description": "نفس أو مطابق لما ذُكر سابقًا."
       },
       {
         "term": "thing",
-        "description": "اسم يعني سآخذ."
+        "description": "شيء، ويشير هنا إلى الطلب نفسه من طعام أو شراب."
       }
     ],
-    "tense": "المستقبل البسيط",
-    "tenseEn": "Future Simple",
-    "tenseReason": "استُعمل المستقبل البسيط لأن الجملة تتحدث عن شيء سيحدث لاحقًا أو عن قرار أو توقع يخص المستقبل.",
+    "grammarExplanations": [
+      {
+        "sentence": "I will have the same thing.",
+        "explanation": {
+          "tense": "المستقبل البسيط",
+          "tenseEn": "Future Simple",
+          "reason": "يستخدم المستقبل البسيط للتعبير عن قرار فوري أو اختيار في مطعم، ومعنى الفعل هنا هو سأطلب أو سآخذ."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "People often say, \"I will have the same thing\" in situations like this.",
-        "ar": "يقول الناس كثيرًا: \"سآخذ نفس الشيء\" في مواقف كهذه.",
-        "context": "تستخدم الجملة بوصفها تركيبًا شائعًا في موقف مشابه."
+        "en": "I will have the same thing.",
+        "ar": "سآخذ نفس الشيء.",
+        "context": "تقال في مطعم عند طلب نفس ما طلبه شخص آخر."
       },
       {
         "id": 2,
-        "en": "You can say, \"I will have the same thing\" when this happens.",
-        "ar": "يمكنك أن تقول: \"سآخذ نفس الشيء\" عندما يحدث هذا.",
-        "context": "توضح أن الجملة مناسبة في موقف متكرر."
+        "en": "I will have the same drink.",
+        "ar": "سآخذ نفس المشروب.",
+        "context": "تقال عند طلب نفس مشروب شخص آخر."
       },
       {
         "id": 3,
-        "en": "I heard someone say, \"I will have the same thing\".",
-        "ar": "سمعت شخصًا يقول: \"سآخذ نفس الشيء\".",
-        "context": "تجعل الجملة جزءًا من كلام سمعته من شخص آخر."
+        "en": "I will have the same meal.",
+        "ar": "سآخذ نفس الوجبة.",
+        "context": "تقال عند اختيار نفس الوجبة."
       },
       {
         "id": 4,
-        "en": "The teacher used the sentence, \"I will have the same thing\" in class.",
-        "ar": "استخدم المعلم الجملة: \"سآخذ نفس الشيء\" في الصف.",
-        "context": "تستخدم الجملة مثالًا تعليميًا في الصف."
+        "en": "I will have what she has.",
+        "ar": "سآخذ ما تأخذه هي.",
+        "context": "تقال عند طلب نفس طلب امرأة."
       },
       {
         "id": 5,
-        "en": "Many learners remember the sentence, \"I will have the same thing\" first.",
-        "ar": "يتذكر كثير من المتعلمين الجملة: \"سآخذ نفس الشيء\" أولًا.",
-        "context": "تقدم الجملة بوصفها جملة تعليمية أساسية."
+        "en": "I will have what he has.",
+        "ar": "سآخذ ما يأخذه هو.",
+        "context": "تقال عند طلب نفس طلب رجل."
       },
       {
         "id": 6,
-        "en": "She said, \"I will have the same thing\" in a calm way.",
-        "ar": "قالت: \"سآخذ نفس الشيء\" بطريقة هادئة.",
-        "context": "تجعل الجملة جزءًا من كلام مباشر في موقف عادي."
+        "en": "I will have the chicken.",
+        "ar": "سآخذ الدجاج.",
+        "context": "تقال عند اختيار طبق من قائمة."
       },
       {
         "id": 7,
-        "en": "He repeated, \"I will have the same thing\" more than once.",
-        "ar": "ردد: \"سآخذ نفس الشيء\" أكثر من مرة.",
-        "context": "تضيف معنى التكرار لنفس الجملة."
+        "en": "I will have the soup.",
+        "ar": "سآخذ الحساء.",
+        "context": "تقال عند طلب حساء."
       },
       {
         "id": 8,
-        "en": "At the right moment, someone might say, \"I will have the same thing\".",
-        "ar": "في اللحظة المناسبة، قد يقول شخص ما: \"سآخذ نفس الشيء\".",
-        "context": "توضح أن الجملة مرتبطة بتوقيت مناسب في السياق."
+        "en": "We will have the same thing.",
+        "ar": "سنأخذ نفس الشيء.",
+        "context": "تقال عندما تختار مجموعة الطلب نفسه."
       },
       {
         "id": 9,
-        "en": "I wrote down the sentence, \"I will have the same thing\" so I would remember it.",
-        "ar": "كتبت الجملة: \"سآخذ نفس الشيء\" حتى أتذكرها.",
-        "context": "تعطي مثالًا على حفظ الجملة أو مراجعتها."
+        "en": "I will have the same thing as my friend.",
+        "ar": "سآخذ نفس الشيء مثل صديقي.",
+        "context": "تقال عند مطابقة طلب صديق."
       },
       {
         "id": 10,
-        "en": "It is useful to know when to say, \"I will have the same thing\".",
-        "ar": "من المفيد أن تعرف متى تقول: \"سآخذ نفس الشيء\".",
-        "context": "تركز على معرفة الوقت المناسب لاستخدام الجملة."
+        "en": "I will have the same thing again.",
+        "ar": "سآخذ نفس الشيء مرة أخرى.",
+        "context": "تقال عند تكرار طلب أعجبك سابقًا."
       }
     ]
   }

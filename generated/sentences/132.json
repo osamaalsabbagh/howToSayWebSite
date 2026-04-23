@@ -10,84 +10,91 @@
     "wordMeanings": [
       {
         "term": "They",
-        "description": "ضمير يشير إلى أكثر من شخص أو شيء."
+        "description": "ضمير يشير إلى مجموعة من الأشخاص."
       },
       {
         "term": "are",
-        "description": "فعل be مع you."
+        "description": "صيغة تربط الجمع بحالة أو صفة."
       },
       {
         "term": "very",
-        "description": "كلمة تزيد شدة الصفة."
+        "description": "كلمة تقوي الصفة وتجعلها بدرجة كبيرة."
       },
       {
         "term": "busy",
-        "description": "صفة تعني مشغولون."
+        "description": "مشغولون أو غير متفرغين."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "They are very busy.",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "تستخدم are مع الجمع لوصف حالتهم الحالية، وتأتي very لتقوية معنى الانشغال."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "People often say, \"They are very busy\" in situations like this.",
-        "ar": "يقول الناس كثيرًا: \"هم مشغولون جدًا\" في مواقف كهذه.",
-        "context": "تستخدم الجملة بوصفها تركيبًا شائعًا في موقف مشابه."
+        "en": "They are busy today.",
+        "ar": "هم مشغولون اليوم.",
+        "context": "تقال عند عدم توفر مجموعة في هذا اليوم."
       },
       {
         "id": 2,
-        "en": "You can say, \"They are very busy\" when this happens.",
-        "ar": "يمكنك أن تقول: \"هم مشغولون جدًا\" عندما يحدث هذا.",
-        "context": "توضح أن الجملة مناسبة في موقف متكرر."
+        "en": "We are very busy this morning.",
+        "ar": "نحن مشغولون جدًا هذا الصباح.",
+        "context": "تقال عند كثرة الأعمال في الصباح."
       },
       {
         "id": 3,
-        "en": "I heard someone say, \"They are very busy\".",
-        "ar": "سمعت شخصًا يقول: \"هم مشغولون جدًا\".",
-        "context": "تجعل الجملة جزءًا من كلام سمعته من شخص آخر."
+        "en": "The doctors are very busy.",
+        "ar": "الأطباء مشغولون جدًا.",
+        "context": "تقال عند كثرة المرضى أو العمل."
       },
       {
         "id": 4,
-        "en": "The teacher used the sentence, \"They are very busy\" in class.",
-        "ar": "استخدم المعلم الجملة: \"هم مشغولون جدًا\" في الصف.",
-        "context": "تستخدم الجملة مثالًا تعليميًا في الصف."
+        "en": "My parents are busy now.",
+        "ar": "والداي مشغولان الآن.",
+        "context": "تقال عند عدم قدرة الوالدين على التفرغ."
       },
       {
         "id": 5,
-        "en": "Many learners remember the sentence, \"They are very busy\" first.",
-        "ar": "يتذكر كثير من المتعلمين الجملة: \"هم مشغولون جدًا\" أولًا.",
-        "context": "تقدم الجملة بوصفها جملة تعليمية أساسية."
+        "en": "The workers are very busy.",
+        "ar": "العمال مشغولون جدًا.",
+        "context": "تقال عند وجود عمل كثير لدى العمال."
       },
       {
         "id": 6,
-        "en": "She said, \"They are very busy\" in a calm way.",
-        "ar": "قالت: \"هم مشغولون جدًا\" بطريقة هادئة.",
-        "context": "تجعل الجملة جزءًا من كلام مباشر في موقف عادي."
+        "en": "They are too busy to talk.",
+        "ar": "هم مشغولون جدًا ولا يستطيعون التحدث.",
+        "context": "تقال عند عدم توفر وقت للمحادثة."
       },
       {
         "id": 7,
-        "en": "He repeated, \"They are very busy\" more than once.",
-        "ar": "ردد: \"هم مشغولون جدًا\" أكثر من مرة.",
-        "context": "تضيف معنى التكرار لنفس الجملة."
+        "en": "The teachers are busy with exams.",
+        "ar": "المعلمون مشغولون بالاختبارات.",
+        "context": "تقال عند كثرة عمل المعلمين بسبب الاختبارات."
       },
       {
         "id": 8,
-        "en": "At the right moment, someone might say, \"They are very busy\".",
-        "ar": "في اللحظة المناسبة، قد يقول شخص ما: \"هم مشغولون جدًا\".",
-        "context": "توضح أن الجملة مرتبطة بتوقيت مناسب في السياق."
+        "en": "They are busy at work.",
+        "ar": "هم مشغولون في العمل.",
+        "context": "تقال عند انشغال مجموعة أثناء الدوام."
       },
       {
         "id": 9,
-        "en": "I wrote down the sentence, \"They are very busy\" so I would remember it.",
-        "ar": "كتبت الجملة: \"هم مشغولون جدًا\" حتى أتذكرها.",
-        "context": "تعطي مثالًا على حفظ الجملة أو مراجعتها."
+        "en": "The children are very busy with school.",
+        "ar": "الأطفال مشغولون جدًا بالمدرسة.",
+        "context": "تقال عند كثرة واجبات أو أنشطة الأطفال."
       },
       {
         "id": 10,
-        "en": "It is useful to know when to say, \"They are very busy\".",
-        "ar": "من المفيد أن تعرف متى تقول: \"هم مشغولون جدًا\".",
-        "context": "تركز على معرفة الوقت المناسب لاستخدام الجملة."
+        "en": "They are not busy now.",
+        "ar": "هم ليسوا مشغولين الآن.",
+        "context": "تقال عند توفر مجموعة بعد انشغال سابق."
       }
     ]
   }

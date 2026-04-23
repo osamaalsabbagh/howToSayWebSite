@@ -10,79 +10,87 @@
     "wordMeanings": [
       {
         "term": "On",
-        "description": "حرف جر يعني على أو في يوم محدد حسب السياق."
+        "description": "تستخدم هنا لتحديد جهة أو جانب."
       },
       {
         "term": "the",
-        "description": "أداة تعريف تشير إلى شيء معروف أو محدد."
+        "description": "أداة تشير إلى جهة محددة."
       },
       {
         "term": "left",
-        "description": "صيغة الماضي من leave وتعني غادر أو ترك."
+        "description": "الجهة اليسرى."
       }
     ],
-    "tense": null,
-    "tenseReason": "استُعمل هذا التعبير لأنه عبارة ثابتة أو رد قصير يُستخدم في موقف محدد، وليس جملة فعلية كاملة بزمن واضح.",
+    "grammarExplanations": [
+      {
+        "sentence": "On the left.",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذا تعبير اتجاهي قصير يحدد الجهة اليسرى، ولا يحتوي على فعل ظاهر أو زمن مستقل."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "In this situation, people often say, \"On the left\".",
-        "ar": "في هذا الموقف، يقول الناس كثيرًا: \"على اليسار\".",
-        "context": "توضح أن العبارة مناسبة في هذا النوع من المواقف."
+        "en": "On the left.",
+        "ar": "على اليسار.",
+        "context": "تقال كجواب قصير عند تحديد الاتجاه."
       },
       {
         "id": 2,
-        "en": "The teacher said, \"On the left\" to the students.",
-        "ar": "قال المعلم للطلاب: \"على اليسار\".",
-        "context": "تستخدم الجملة كتعليمات أو توجيه مباشر."
+        "en": "It is on the left.",
+        "ar": "إنه على اليسار.",
+        "context": "تقال عند تحديد موقع شيء."
       },
       {
         "id": 3,
-        "en": "He told me, \"On the left\" before we left.",
-        "ar": "قال لي: \"على اليسار\" قبل أن نغادر.",
-        "context": "تضع العبارة قبل حدث آخر."
+        "en": "The bank is on the left.",
+        "ar": "البنك على اليسار.",
+        "context": "تقال عند إعطاء اتجاهات في الطريق."
       },
       {
         "id": 4,
-        "en": "She said, \"On the left\" in a polite way.",
-        "ar": "قالت: \"على اليسار\" بطريقة مهذبة.",
-        "context": "تظهر أن العبارة يمكن أن تقال بلطف أو أدب."
+        "en": "Turn on the left side.",
+        "ar": "انعطف على الجهة اليسرى.",
+        "context": "تقال عند توجيه شخص داخل مكان."
       },
       {
         "id": 5,
-        "en": "Someone shouted, \"On the left\" when there was a problem.",
-        "ar": "صاح شخص ما: \"على اليسار\" عندما ظهرت مشكلة.",
-        "context": "تربط العبارة بموقف سريع أو طارئ."
+        "en": "The door is on the left.",
+        "ar": "الباب على اليسار.",
+        "context": "تقال عند تحديد مكان باب."
       },
       {
         "id": 6,
-        "en": "You can say, \"On the left\" when you need a quick response.",
-        "ar": "يمكنك أن تقول: \"على اليسار\" عندما تحتاج إلى رد سريع.",
-        "context": "توضح أن العبارة مفيدة عند الحاجة إلى استجابة مباشرة."
+        "en": "Sit on the left.",
+        "ar": "اجلس على اليسار.",
+        "context": "تقال عند تحديد مكان جلوس."
       },
       {
         "id": 7,
-        "en": "They repeated, \"On the left\" more than once.",
-        "ar": "رددوا: \"على اليسار\" أكثر من مرة.",
-        "context": "تعطي مثالًا على تكرار العبارة."
+        "en": "The elevator is on the left.",
+        "ar": "المصعد على اليسار.",
+        "context": "تقال عند إرشاد شخص إلى المصعد."
       },
       {
         "id": 8,
-        "en": "I heard him say, \"On the left\" yesterday.",
-        "ar": "سمعته يقول: \"على اليسار\" أمس.",
-        "context": "تجعل العبارة جزءًا من موقف سمعته من شخص آخر."
+        "en": "Look on the left.",
+        "ar": "انظر إلى اليسار.",
+        "context": "تقال عند لفت الانتباه إلى جهة معينة."
       },
       {
         "id": 9,
-        "en": "Many learners remember the phrase, \"On the left\".",
-        "ar": "يتذكر كثير من المتعلمين العبارة: \"على اليسار\".",
-        "context": "تقدم العبارة بوصفها عبارة سهلة التذكر."
+        "en": "The bathroom is on the left.",
+        "ar": "الحمام على اليسار.",
+        "context": "تقال عند توضيح موقع الحمام."
       },
       {
         "id": 10,
-        "en": "At that moment, she said, \"On the left\".",
-        "ar": "في تلك اللحظة، قالت: \"على اليسار\".",
-        "context": "تربط العبارة بلحظة معينة في السرد."
+        "en": "Keep the bag on the left.",
+        "ar": "أبق الحقيبة على اليسار.",
+        "context": "تقال عند تنظيم مكان شيء."
       }
     ]
   }

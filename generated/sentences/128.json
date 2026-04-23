@@ -10,84 +10,91 @@
     "wordMeanings": [
       {
         "term": "That",
-        "description": "تشير إلى أمر أو خبر سبق ذكره."
+        "description": "ذلك المقدار أو الشيء الذي تشير إليه."
       },
       {
         "term": "is",
-        "description": "فعل be في الحاضر مع المفرد."
+        "description": "صيغة تربط الشيء بحكمك عليه."
       },
       {
         "term": "too",
-        "description": "ظرف يعني أيضًا أو أكثر من اللازم حسب السياق."
+        "description": "أكثر من الحد المناسب."
       },
       {
         "term": "much",
-        "description": "هنا تأتي مع very لتكوين very much، أي كثيرًا / بدرجة كبيرة."
+        "description": "كثير جدًا، وتستخدم مع الأشياء غير المعدودة أو الكمية العامة."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "That is too much.",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "تستخدم is لتقييم مقدار حاضر بأنه أكثر من المناسب، وتستخدم too much مع الكمية غير المعدودة أو العبء العام."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "People often say, \"That is too much\" in situations like this.",
-        "ar": "يقول الناس كثيرًا: \"ذلك كثير جدًا\" في مواقف كهذه.",
-        "context": "تستخدم الجملة بوصفها تركيبًا شائعًا في موقف مشابه."
+        "en": "That is too much money.",
+        "ar": "ذلك مال كثير جدًا.",
+        "context": "تقال عند ارتفاع التكلفة."
       },
       {
         "id": 2,
-        "en": "You can say, \"That is too much\" when this happens.",
-        "ar": "يمكنك أن تقول: \"ذلك كثير جدًا\" عندما يحدث هذا.",
-        "context": "توضح أن الجملة مناسبة في موقف متكرر."
+        "en": "There is too much water.",
+        "ar": "هناك ماء كثير جدًا.",
+        "context": "تقال عند زيادة كمية الماء."
       },
       {
         "id": 3,
-        "en": "I heard someone say, \"That is too much\".",
-        "ar": "سمعت شخصًا يقول: \"ذلك كثير جدًا\".",
-        "context": "تجعل الجملة جزءًا من كلام سمعته من شخص آخر."
+        "en": "She added too much salt.",
+        "ar": "هي أضافت ملحًا كثيرًا جدًا.",
+        "context": "تقال عند زيادة كمية الملح في الطعام."
       },
       {
         "id": 4,
-        "en": "The teacher used the sentence, \"That is too much\" in class.",
-        "ar": "استخدم المعلم الجملة: \"ذلك كثير جدًا\" في الصف.",
-        "context": "تستخدم الجملة مثالًا تعليميًا في الصف."
+        "en": "We have too much work.",
+        "ar": "لدينا عمل كثير جدًا.",
+        "context": "تقال عند كثرة المهام."
       },
       {
         "id": 5,
-        "en": "Many learners remember the sentence, \"That is too much\" first.",
-        "ar": "يتذكر كثير من المتعلمين الجملة: \"ذلك كثير جدًا\" أولًا.",
-        "context": "تقدم الجملة بوصفها جملة تعليمية أساسية."
+        "en": "That is too much noise.",
+        "ar": "ذلك ضجيج كثير جدًا.",
+        "context": "تقال عند الانزعاج من الصوت."
       },
       {
         "id": 6,
-        "en": "She said, \"That is too much\" in a calm way.",
-        "ar": "قالت: \"ذلك كثير جدًا\" بطريقة هادئة.",
-        "context": "تجعل الجملة جزءًا من كلام مباشر في موقف عادي."
+        "en": "He drank too much coffee.",
+        "ar": "هو شرب قهوة كثيرة جدًا.",
+        "context": "تقال عند زيادة كمية القهوة."
       },
       {
         "id": 7,
-        "en": "He repeated, \"That is too much\" more than once.",
-        "ar": "ردد: \"ذلك كثير جدًا\" أكثر من مرة.",
-        "context": "تضيف معنى التكرار لنفس الجملة."
+        "en": "There is too much traffic.",
+        "ar": "هناك ازدحام كثير جدًا.",
+        "context": "تقال عند شدة ازدحام الطريق."
       },
       {
         "id": 8,
-        "en": "At the right moment, someone might say, \"That is too much\".",
-        "ar": "في اللحظة المناسبة، قد يقول شخص ما: \"ذلك كثير جدًا\".",
-        "context": "توضح أن الجملة مرتبطة بتوقيت مناسب في السياق."
+        "en": "I have too much time today.",
+        "ar": "لدي وقت كثير جدًا اليوم.",
+        "context": "تقال عند توفر وقت كبير."
       },
       {
         "id": 9,
-        "en": "I wrote down the sentence, \"That is too much\" so I would remember it.",
-        "ar": "كتبت الجملة: \"ذلك كثير جدًا\" حتى أتذكرها.",
-        "context": "تعطي مثالًا على حفظ الجملة أو مراجعتها."
+        "en": "This is too much food.",
+        "ar": "هذا طعام كثير جدًا.",
+        "context": "تقال عند وجود كمية طعام أكبر من الحاجة."
       },
       {
         "id": 10,
-        "en": "It is useful to know when to say, \"That is too much\".",
-        "ar": "من المفيد أن تعرف متى تقول: \"ذلك كثير جدًا\".",
-        "context": "تركز على معرفة الوقت المناسب لاستخدام الجملة."
+        "en": "That is too much pressure.",
+        "ar": "ذلك ضغط كثير جدًا.",
+        "context": "تقال عند الشعور بعبء كبير."
       }
     ]
   }

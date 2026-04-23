@@ -10,84 +10,91 @@
     "wordMeanings": [
       {
         "term": "He",
-        "description": "الضمير الذي يعود على شخص مفرد مذكر."
+        "description": "ضمير يشير إلى رجل أو ولد معروف من السياق."
       },
       {
         "term": "will",
-        "description": "أداة مستقبل تدل على ما سيحدث لاحقًا."
+        "description": "كلمة تدل على أن الفعل سيحدث في المستقبل."
       },
       {
         "term": "arrive",
-        "description": "فعل يعني يصل."
+        "description": "يصل إلى مكان."
       },
       {
         "term": "soon",
-        "description": "قريبًا."
+        "description": "قريبًا، أي بعد وقت قصير."
       }
     ],
-    "tense": "المستقبل البسيط",
-    "tenseEn": "Future Simple",
-    "tenseReason": "استُعمل المستقبل البسيط لأن المتكلم يخبر عن حدث مستقبلي متوقّع: الوصول في وقت قريب.",
+    "grammarExplanations": [
+      {
+        "sentence": "He will arrive soon.",
+        "explanation": {
+          "tense": "المستقبل البسيط",
+          "tenseEn": "Future Simple",
+          "reason": "تستخدم will مع الفعل الأساسي للتحدث عن حدث متوقع في المستقبل، وكلمة soon توضح أن الوصول قريب."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "He will arrive in ten minutes.",
-        "ar": "سيصل خلال عشر دقائق.",
-        "context": "تذكر وقت الوصول المتوقع."
+        "en": "She will arrive soon.",
+        "ar": "ستصل قريبًا.",
+        "context": "تقال عند توقع وصول امرأة أو فتاة بعد قليل."
       },
       {
         "id": 2,
-        "en": "He will arrive soon, so wait here.",
-        "ar": "سيصل قريبًا، لذا انتظر هنا.",
-        "context": "تعطي معلومة مع توجيه."
+        "en": "The bus will arrive soon.",
+        "ar": "ستصل الحافلة قريبًا.",
+        "context": "تقال أثناء انتظار الحافلة."
       },
       {
         "id": 3,
-        "en": "He will arrive after lunch.",
-        "ar": "سيصل بعد الغداء.",
-        "context": "تحدد وقتًا مستقبليًا للوصول."
+        "en": "My father will arrive soon.",
+        "ar": "سيصل أبي قريبًا.",
+        "context": "تقال عند انتظار الأب."
       },
       {
         "id": 4,
-        "en": "He will arrive before the meeting.",
-        "ar": "سيصل قبل الاجتماع.",
-        "context": "تربط الوصول بموعد آخر."
+        "en": "The package will arrive soon.",
+        "ar": "ستصل الحزمة قريبًا.",
+        "context": "تقال عند متابعة طلب أو شحنة."
       },
       {
         "id": 5,
-        "en": "He will arrive with the manager.",
-        "ar": "سيصل مع المدير.",
-        "context": "تذكر الشخص الذي سيكون معه."
+        "en": "The train will arrive soon.",
+        "ar": "سيصل القطار قريبًا.",
+        "context": "تقال عند انتظار قطار في المحطة."
       },
       {
         "id": 6,
-        "en": "He will arrive from London tonight.",
-        "ar": "سيصل من لندن الليلة.",
-        "context": "تذكر مصدر الوصول ووقته."
+        "en": "They will arrive soon.",
+        "ar": "سيصلون قريبًا.",
+        "context": "تقال عند توقع وصول مجموعة."
       },
       {
         "id": 7,
-        "en": "He will arrive late because of traffic.",
-        "ar": "سيصل متأخرًا بسبب الازدحام.",
-        "context": "تذكر سبب التأخير المتوقع."
+        "en": "The doctor will arrive soon.",
+        "ar": "سيصل الطبيب قريبًا.",
+        "context": "تقال عند انتظار الطبيب."
       },
       {
         "id": 8,
-        "en": "He will arrive soon enough for us to start.",
-        "ar": "سيصل قريبًا بما يكفي لنبدأ.",
-        "context": "تربط الوصول ببدء شيء آخر."
+        "en": "Your taxi will arrive soon.",
+        "ar": "سيصل التاكسي الخاص بك قريبًا.",
+        "context": "تقال عند إبلاغ شخص بقرب وصول سيارة الأجرة."
       },
       {
         "id": 9,
-        "en": "He will arrive at the station first.",
-        "ar": "سيصل إلى المحطة أولًا.",
-        "context": "تحدد نقطة الوصول الأولى."
+        "en": "The guests will arrive soon.",
+        "ar": "سيصل الضيوف قريبًا.",
+        "context": "تقال قبل استقبال الضيوف."
       },
       {
         "id": 10,
-        "en": "He will arrive soon, but I do not know the exact time.",
-        "ar": "سيصل قريبًا، لكنني لا أعرف الوقت الدقيق.",
-        "context": "خبر عن المستقبل مع بقاء بعض عدم اليقين."
+        "en": "The answer will arrive soon.",
+        "ar": "سيصل الرد قريبًا.",
+        "context": "تقال عند انتظار رد من جهة أو شخص."
       }
     ]
   }

@@ -10,84 +10,91 @@
     "wordMeanings": [
       {
         "term": "Thanks",
-        "description": "صيغة شكر قصيرة وغير رسمية نسبيًا."
+        "description": "شكرًا، وتستخدم للتعبير عن الامتنان."
       },
       {
         "term": "for",
-        "description": "حرف جر يعني لـ أو من أجل."
+        "description": "تأتي لذكر سبب الشكر."
       },
       {
         "term": "your",
-        "description": "صفة ملكية تعني خاصتك أو خاصتكم."
+        "description": "كلمة تدل على أن المساعدة من الشخص المخاطب."
       },
       {
         "term": "help",
-        "description": "اسم هنا بمعنى المساعدة."
+        "description": "مساعدة أو دعم قدمه شخص."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "Thanks for your help.",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذا تعبير شكر ثابت يذكر سبب الامتنان، وهو مساعدة المخاطب، ولا يحتوي على فعل ظاهر أو زمن مستقل."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "People often say, \"Thanks for your help\" in situations like this.",
-        "ar": "يقول الناس كثيرًا: \"شكرًا على مساعدتك\" في مواقف كهذه.",
-        "context": "تستخدم الجملة بوصفها تركيبًا شائعًا في موقف مشابه."
+        "en": "Thank you for your help.",
+        "ar": "شكرًا لك على مساعدتك.",
+        "context": "تقال بطريقة أكثر اكتمالًا لشكر شخص."
       },
       {
         "id": 2,
-        "en": "You can say, \"Thanks for your help\" when this happens.",
-        "ar": "يمكنك أن تقول: \"شكرًا على مساعدتك\" عندما يحدث هذا.",
-        "context": "توضح أن الجملة مناسبة في موقف متكرر."
+        "en": "Thanks for helping me.",
+        "ar": "شكرًا لمساعدتي.",
+        "context": "تقال بعد أن يساعدك شخص في أمر محدد."
       },
       {
         "id": 3,
-        "en": "I heard someone say, \"Thanks for your help\".",
-        "ar": "سمعت شخصًا يقول: \"شكرًا على مساعدتك\".",
-        "context": "تجعل الجملة جزءًا من كلام سمعته من شخص آخر."
+        "en": "Thanks for your advice.",
+        "ar": "شكرًا على نصيحتك.",
+        "context": "تقال عند تقدير نصيحة شخص."
       },
       {
         "id": 4,
-        "en": "The teacher used the sentence, \"Thanks for your help\" in class.",
-        "ar": "استخدم المعلم الجملة: \"شكرًا على مساعدتك\" في الصف.",
-        "context": "تستخدم الجملة مثالًا تعليميًا في الصف."
+        "en": "Thanks for your patience.",
+        "ar": "شكرًا على صبرك.",
+        "context": "تقال عند تأخر أو صعوبة تطلبت صبرًا."
       },
       {
         "id": 5,
-        "en": "Many learners remember the sentence, \"Thanks for your help\" first.",
-        "ar": "يتذكر كثير من المتعلمين الجملة: \"شكرًا على مساعدتك\" أولًا.",
-        "context": "تقدم الجملة بوصفها جملة تعليمية أساسية."
+        "en": "Thanks for your support.",
+        "ar": "شكرًا على دعمك.",
+        "context": "تقال عند تقدير دعم شخص."
       },
       {
         "id": 6,
-        "en": "She said, \"Thanks for your help\" in a calm way.",
-        "ar": "قالت: \"شكرًا على مساعدتك\" بطريقة هادئة.",
-        "context": "تجعل الجملة جزءًا من كلام مباشر في موقف عادي."
+        "en": "Thanks for your quick answer.",
+        "ar": "شكرًا على إجابتك السريعة.",
+        "context": "تقال عند الرد بسرعة على سؤال."
       },
       {
         "id": 7,
-        "en": "He repeated, \"Thanks for your help\" more than once.",
-        "ar": "ردد: \"شكرًا على مساعدتك\" أكثر من مرة.",
-        "context": "تضيف معنى التكرار لنفس الجملة."
+        "en": "Thanks for your message.",
+        "ar": "شكرًا على رسالتك.",
+        "context": "تقال عند تقدير رسالة وصلت من شخص."
       },
       {
         "id": 8,
-        "en": "At the right moment, someone might say, \"Thanks for your help\".",
-        "ar": "في اللحظة المناسبة، قد يقول شخص ما: \"شكرًا على مساعدتك\".",
-        "context": "توضح أن الجملة مرتبطة بتوقيت مناسب في السياق."
+        "en": "Thanks for your time today.",
+        "ar": "شكرًا على وقتك اليوم.",
+        "context": "تقال بعد اجتماع أو حديث."
       },
       {
         "id": 9,
-        "en": "I wrote down the sentence, \"Thanks for your help\" so I would remember it.",
-        "ar": "كتبت الجملة: \"شكرًا على مساعدتك\" حتى أتذكرها.",
-        "context": "تعطي مثالًا على حفظ الجملة أو مراجعتها."
+        "en": "Thanks for your clear explanation.",
+        "ar": "شكرًا على شرحك الواضح.",
+        "context": "تقال بعد فهم شيء بسبب شرح شخص."
       },
       {
         "id": 10,
-        "en": "It is useful to know when to say, \"Thanks for your help\".",
-        "ar": "من المفيد أن تعرف متى تقول: \"شكرًا على مساعدتك\".",
-        "context": "تركز على معرفة الوقت المناسب لاستخدام الجملة."
+        "en": "Thanks for your kind words.",
+        "ar": "شكرًا على كلماتك اللطيفة.",
+        "context": "تقال عند تلقي كلام مشجع أو مهذب."
       }
     ]
   }

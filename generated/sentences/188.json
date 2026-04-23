@@ -10,88 +10,95 @@
     "wordMeanings": [
       {
         "term": "I",
-        "description": "ضمير المتكلم."
+        "description": "أنا، وتشير إلى المتكلم."
       },
       {
         "term": "am",
-        "description": "فعل be مع I ويُستعمل هنا مع learning لتكوين المضارع المستمر."
+        "description": "صيغة تأتي مع أنا وتساعد في وصف فعل يحدث الآن أو قريبًا."
       },
       {
         "term": "coming",
-        "description": "فعل مع ing يدل على المجيء الجاري أو المتوقع قريبًا."
+        "description": "قادم أو في طريق الحضور."
       },
       {
         "term": "right",
-        "description": "هنا جزء من All right التي تدل على القبول أو الموافقة، وليس المقصود فقط معنى \"صحيح\" أو \"يمين\"."
+        "description": "تؤكد القرب الشديد في الوقت مع الكلمة التالية."
       },
       {
         "term": "now",
-        "description": "ظرف زمان يعني الآن."
+        "description": "الآن أو في هذه اللحظة."
       }
     ],
-    "tense": "المضارع المستمر",
-    "tenseEn": "Present Continuous",
-    "tenseReason": "استُعمل المضارع المستمر لأن الجملة تصف شيئًا يحدث الآن أو في فترة قريبة من الآن، أو خطة قريبة واضحة من السياق.",
+    "grammarExplanations": [
+      {
+        "sentence": "I am coming right now.",
+        "explanation": {
+          "tense": "المضارع المستمر",
+          "tenseEn": "Present Continuous",
+          "reason": "يستخدم المضارع المستمر للتعبير عن فعل جار أو قريب جدًا من الحدوث، والعبارة الأخيرة تؤكد أن الحضور فوري."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "People often say, \"I am coming right now\" in situations like this.",
-        "ar": "يقول الناس كثيرًا: \"أنا قادم حالًا\" في مواقف كهذه.",
-        "context": "تستخدم الجملة بوصفها تركيبًا شائعًا في موقف مشابه."
+        "en": "I am coming right now.",
+        "ar": "أنا قادم حالًا.",
+        "context": "تقال لتأكيد أنك ستأتي فورًا أو أنك في الطريق."
       },
       {
         "id": 2,
-        "en": "You can say, \"I am coming right now\" when this happens.",
-        "ar": "يمكنك أن تقول: \"أنا قادم حالًا\" عندما يحدث هذا.",
-        "context": "توضح أن الجملة مناسبة في موقف متكرر."
+        "en": "I am leaving right now.",
+        "ar": "أنا مغادر حالًا.",
+        "context": "تقال عند البدء بالمغادرة فورًا."
       },
       {
         "id": 3,
-        "en": "I heard someone say, \"I am coming right now\".",
-        "ar": "سمعت شخصًا يقول: \"أنا قادم حالًا\".",
-        "context": "تجعل الجملة جزءًا من كلام سمعته من شخص آخر."
+        "en": "I am calling right now.",
+        "ar": "أنا أتصل حالًا.",
+        "context": "تقال عند بدء الاتصال فورًا."
       },
       {
         "id": 4,
-        "en": "The teacher used the sentence, \"I am coming right now\" in class.",
-        "ar": "استخدم المعلم الجملة: \"أنا قادم حالًا\" في الصف.",
-        "context": "تستخدم الجملة مثالًا تعليميًا في الصف."
+        "en": "I am getting ready right now.",
+        "ar": "أنا أستعد حالًا.",
+        "context": "تقال عند التحضير في هذه اللحظة."
       },
       {
         "id": 5,
-        "en": "Many learners remember the sentence, \"I am coming right now\" first.",
-        "ar": "يتذكر كثير من المتعلمين الجملة: \"أنا قادم حالًا\" أولًا.",
-        "context": "تقدم الجملة بوصفها جملة تعليمية أساسية."
+        "en": "I am walking there right now.",
+        "ar": "أنا أمشي إلى هناك حالًا.",
+        "context": "تقال عندما تكون في طريقك مشيًا."
       },
       {
         "id": 6,
-        "en": "She said, \"I am coming right now\" in a calm way.",
-        "ar": "قالت: \"أنا قادم حالًا\" بطريقة هادئة.",
-        "context": "تجعل الجملة جزءًا من كلام مباشر في موقف عادي."
+        "en": "I am driving there right now.",
+        "ar": "أنا أقود إلى هناك حالًا.",
+        "context": "تقال عندما تكون في السيارة باتجاه المكان."
       },
       {
         "id": 7,
-        "en": "He repeated, \"I am coming right now\" more than once.",
-        "ar": "ردد: \"أنا قادم حالًا\" أكثر من مرة.",
-        "context": "تضيف معنى التكرار لنفس الجملة."
+        "en": "I am going there right now.",
+        "ar": "أنا ذاهب إلى هناك حالًا.",
+        "context": "تقال عند التحرك نحو مكان فورًا."
       },
       {
         "id": 8,
-        "en": "At the right moment, someone might say, \"I am coming right now\".",
-        "ar": "في اللحظة المناسبة، قد يقول شخص ما: \"أنا قادم حالًا\".",
-        "context": "توضح أن الجملة مرتبطة بتوقيت مناسب في السياق."
+        "en": "I am sending it right now.",
+        "ar": "أنا أرسله حالًا.",
+        "context": "تقال عند تنفيذ إرسال شيء في اللحظة نفسها."
       },
       {
         "id": 9,
-        "en": "I wrote down the sentence, \"I am coming right now\" so I would remember it.",
-        "ar": "كتبت الجملة: \"أنا قادم حالًا\" حتى أتذكرها.",
-        "context": "تعطي مثالًا على حفظ الجملة أو مراجعتها."
+        "en": "I am checking it right now.",
+        "ar": "أنا أتحقق منه حالًا.",
+        "context": "تقال عند فحص شيء فورًا."
       },
       {
         "id": 10,
-        "en": "It is useful to know when to say, \"I am coming right now\".",
-        "ar": "من المفيد أن تعرف متى تقول: \"أنا قادم حالًا\".",
-        "context": "تركز على معرفة الوقت المناسب لاستخدام الجملة."
+        "en": "I am waiting outside right now.",
+        "ar": "أنا أنتظر في الخارج حالًا.",
+        "context": "تقال عند توضيح مكانك الحالي."
       }
     ]
   }

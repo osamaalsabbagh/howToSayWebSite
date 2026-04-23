@@ -10,88 +10,95 @@
     "wordMeanings": [
       {
         "term": "Do",
-        "description": "فعل مساعد يُستعمل لتكوين النفي والسؤال في المضارع البسيط."
+        "description": "تأتي في بداية السؤال مع المخاطب لتكوين سؤال في الحاضر."
       },
       {
         "term": "you",
-        "description": "الضمير الذي يعود على الشخص المخاطَب."
+        "description": "أنت أو أنتم، وتشير إلى المتجر أو البائع."
       },
       {
         "term": "take",
-        "description": "فعل يعني يأخذ أو يستغرق أو يصطحب حسب السياق."
+        "description": "تقبل، وتستخدم هنا عن قبول وسيلة دفع."
       },
       {
         "term": "credit",
-        "description": "اسم يعني بطاقات."
+        "description": "جزء من وصف بطاقة دفع تعتمد على الائتمان."
       },
       {
         "term": "cards",
-        "description": "اسم يعني الائتمان."
+        "description": "بطاقات، والمقصود بطاقات الدفع."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "Do you take credit cards?",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "يستخدم المضارع البسيط للسؤال عن سياسة أو عادة عامة لدى المتجر، وهي قبول بطاقات الائتمان."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "You can ask, \"Do you take credit cards?\" when you need information.",
-        "ar": "يمكنك أن تسأل: \"هل تقبل بطاقات الائتمان؟\" عندما تحتاج إلى معلومة.",
-        "context": "تستعمل الجملة كسؤال مباشر للحصول على معلومة."
+        "en": "Do you take credit cards?",
+        "ar": "هل تقبل بطاقات الائتمان؟",
+        "context": "تقال عند السؤال عن قبول الدفع بالبطاقة الائتمانية."
       },
       {
         "id": 2,
-        "en": "Many people ask, \"Do you take credit cards?\" in this situation.",
-        "ar": "يسأل كثير من الناس: \"هل تقبل بطاقات الائتمان؟\" في هذا الموقف.",
-        "context": "توضح أن هذا سؤال شائع في موقف مشابه."
+        "en": "Do you take debit cards?",
+        "ar": "هل تقبل بطاقات الخصم؟",
+        "context": "تقال عند السؤال عن بطاقة الخصم."
       },
       {
         "id": 3,
-        "en": "I asked, \"Do you take credit cards?\" because I was not sure.",
-        "ar": "سألت: \"هل تقبل بطاقات الائتمان؟\" لأنني لم أكن متأكدًا.",
-        "context": "تضيف سببًا لطرح السؤال."
+        "en": "Do you take cash?",
+        "ar": "هل تقبلون النقد؟",
+        "context": "تقال عند السؤال عن الدفع نقدًا."
       },
       {
         "id": 4,
-        "en": "She asked politely, \"Do you take credit cards?\"",
-        "ar": "سألت بأدب: \"هل تقبل بطاقات الائتمان؟\".",
-        "context": "تبين أن السؤال قيل بطريقة مهذبة."
+        "en": "Do you take mobile payments?",
+        "ar": "هل تقبلون المدفوعات عبر الهاتف؟",
+        "context": "تقال عند السؤال عن الدفع بالهاتف."
       },
       {
         "id": 5,
-        "en": "At work, someone may ask, \"Do you take credit cards?\"",
-        "ar": "في العمل، قد يسأل شخص ما: \"هل تقبل بطاقات الائتمان؟\".",
-        "context": "تضع السؤال في سياق مهني أو عملي."
+        "en": "Do you take foreign cards?",
+        "ar": "هل تقبلون البطاقات الأجنبية؟",
+        "context": "تقال عند السفر والدفع ببطاقة من بلد آخر."
       },
       {
         "id": 6,
-        "en": "Before deciding, ask: \"Do you take credit cards?\"",
-        "ar": "قبل أن تقرر، اسأل: \"هل تقبل بطاقات الائتمان؟\".",
-        "context": "تستخدم السؤال قبل اتخاذ قرار."
+        "en": "Do you take American Express?",
+        "ar": "هل تقبلون أمريكان إكسبرس؟",
+        "context": "تقال عند السؤال عن نوع بطاقة محدد."
       },
       {
         "id": 7,
-        "en": "The student asked, \"Do you take credit cards?\" in class.",
-        "ar": "سأل الطالب: \"هل تقبل بطاقات الائتمان؟\" في الصف.",
-        "context": "تجعل الجملة جزءًا من موقف تعليمي."
+        "en": "Do you accept credit cards?",
+        "ar": "هل تقبلون بطاقات الائتمان؟",
+        "context": "تقال بصيغة رسمية أكثر."
       },
       {
         "id": 8,
-        "en": "While traveling, you can ask, \"Do you take credit cards?\"",
-        "ar": "أثناء السفر، يمكنك أن تسأل: \"هل تقبل بطاقات الائتمان؟\".",
-        "context": "تربط السؤال بموقف السفر أو التنقل."
+        "en": "We take credit cards.",
+        "ar": "نقبل بطاقات الائتمان.",
+        "context": "تقال عند إجابة البائع بالإيجاب."
       },
       {
         "id": 9,
-        "en": "He asked me, \"Do you take credit cards?\" again.",
-        "ar": "سألني: \"هل تقبل بطاقات الائتمان؟\" مرة أخرى.",
-        "context": "تضيف معنى التكرار لنفس السؤال."
+        "en": "We do not take credit cards.",
+        "ar": "لا نقبل بطاقات الائتمان.",
+        "context": "تقال عند توضيح سياسة الدفع."
       },
       {
         "id": 10,
-        "en": "If you are not sure, ask: \"Do you take credit cards?\"",
-        "ar": "إذا لم تكن متأكدًا، فاسأل: \"هل تقبل بطاقات الائتمان؟\".",
-        "context": "توضح أن السؤال مناسب عند عدم التأكد."
+        "en": "Do you take credit cards for small purchases?",
+        "ar": "هل تقبلون بطاقات الائتمان للمشتريات الصغيرة؟",
+        "context": "تقال عند السؤال عن حد أدنى للدفع."
       }
     ]
   }

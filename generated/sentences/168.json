@@ -10,88 +10,95 @@
     "wordMeanings": [
       {
         "term": "Do",
-        "description": "فعل مساعد يُستعمل لتكوين النفي والسؤال في المضارع البسيط."
+        "description": "تأتي في بداية السؤال مع المخاطب لتكوين سؤال في الحاضر."
       },
       {
         "term": "you",
-        "description": "الضمير الذي يعود على الشخص المخاطَب."
+        "description": "أنت، وتشير إلى الشخص المخاطب."
       },
       {
         "term": "have",
-        "description": "فعل يعني يملك، ويأتي أيضًا كفعل مساعد."
+        "description": "تملك أو لديك."
       },
       {
         "term": "enough",
-        "description": "صفة تعني يكفي."
+        "description": "كافٍ أو بمقدار مناسب للحاجة."
       },
       {
         "term": "money",
-        "description": "اسم يعني مال أو نقود."
+        "description": "مال أو نقود."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "Do you have enough money?",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "يستخدم السؤال المضارع البسيط لأنه يسأل عن حالة حالية أو امتلاك المال في الوقت العام، وتأتي كلمة السؤال المساعدة قبل المخاطب."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "You can ask, \"Do you have enough money?\" when you need information.",
-        "ar": "يمكنك أن تسأل: \"هل لديك ما يكفي من المال؟\" عندما تحتاج إلى معلومة.",
-        "context": "تستعمل الجملة كسؤال مباشر للحصول على معلومة."
+        "en": "Do you have enough money?",
+        "ar": "هل لديك ما يكفي من المال؟",
+        "context": "تقال للتأكد من قدرة شخص على الدفع."
       },
       {
         "id": 2,
-        "en": "Many people ask, \"Do you have enough money?\" in this situation.",
-        "ar": "يسأل كثير من الناس: \"هل لديك ما يكفي من المال؟\" في هذا الموقف.",
-        "context": "توضح أن هذا سؤال شائع في موقف مشابه."
+        "en": "Do you have enough time?",
+        "ar": "هل لديك وقت كافٍ؟",
+        "context": "تقال عند السؤال عن توفر الوقت."
       },
       {
         "id": 3,
-        "en": "I asked, \"Do you have enough money?\" because I was not sure.",
-        "ar": "سألت: \"هل لديك ما يكفي من المال؟\" لأنني لم أكن متأكدًا.",
-        "context": "تضيف سببًا لطرح السؤال."
+        "en": "Do you have enough food?",
+        "ar": "هل لديك طعام كافٍ؟",
+        "context": "تقال للتأكد من وجود كمية كافية من الطعام."
       },
       {
         "id": 4,
-        "en": "She asked politely, \"Do you have enough money?\"",
-        "ar": "سألت بأدب: \"هل لديك ما يكفي من المال؟\".",
-        "context": "تبين أن السؤال قيل بطريقة مهذبة."
+        "en": "Do you have enough water?",
+        "ar": "هل لديك ماء كافٍ؟",
+        "context": "تقال قبل رحلة أو نشاط طويل."
       },
       {
         "id": 5,
-        "en": "At work, someone may ask, \"Do you have enough money?\"",
-        "ar": "في العمل، قد يسأل شخص ما: \"هل لديك ما يكفي من المال؟\".",
-        "context": "تضع السؤال في سياق مهني أو عملي."
+        "en": "Do you have enough cash?",
+        "ar": "هل لديك نقد كافٍ؟",
+        "context": "تقال عند الحاجة إلى الدفع نقدًا."
       },
       {
         "id": 6,
-        "en": "Before deciding, ask: \"Do you have enough money?\"",
-        "ar": "قبل أن تقرر، اسأل: \"هل لديك ما يكفي من المال؟\".",
-        "context": "تستخدم السؤال قبل اتخاذ قرار."
+        "en": "Do you have enough change?",
+        "ar": "هل لديك فكة كافية؟",
+        "context": "تقال عند دفع مبلغ صغير."
       },
       {
         "id": 7,
-        "en": "The student asked, \"Do you have enough money?\" in class.",
-        "ar": "سأل الطالب: \"هل لديك ما يكفي من المال؟\" في الصف.",
-        "context": "تجعل الجملة جزءًا من موقف تعليمي."
+        "en": "Do you have enough gas?",
+        "ar": "هل لديك وقود كافٍ؟",
+        "context": "تقال قبل السفر بالسيارة."
       },
       {
         "id": 8,
-        "en": "While traveling, you can ask, \"Do you have enough money?\"",
-        "ar": "أثناء السفر، يمكنك أن تسأل: \"هل لديك ما يكفي من المال؟\".",
-        "context": "تربط السؤال بموقف السفر أو التنقل."
+        "en": "Do you have enough space?",
+        "ar": "هل لديك مساحة كافية؟",
+        "context": "تقال عند ترتيب حقائب أو مقاعد."
       },
       {
         "id": 9,
-        "en": "He asked me, \"Do you have enough money?\" again.",
-        "ar": "سألني: \"هل لديك ما يكفي من المال؟\" مرة أخرى.",
-        "context": "تضيف معنى التكرار لنفس السؤال."
+        "en": "Do you have enough information?",
+        "ar": "هل لديك معلومات كافية؟",
+        "context": "تقال قبل اتخاذ قرار."
       },
       {
         "id": 10,
-        "en": "If you are not sure, ask: \"Do you have enough money?\"",
-        "ar": "إذا لم تكن متأكدًا، فاسأل: \"هل لديك ما يكفي من المال؟\".",
-        "context": "توضح أن السؤال مناسب عند عدم التأكد."
+        "en": "Do you have enough tickets?",
+        "ar": "هل لديك تذاكر كافية؟",
+        "context": "تقال عند التأكد من عدد التذاكر."
       }
     ]
   }

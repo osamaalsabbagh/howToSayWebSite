@@ -10,96 +10,111 @@
     "wordMeanings": [
       {
         "term": "I",
-        "description": "ضمير المتكلم."
+        "description": "ضمير المتكلم ويشير إلى الشخص الذي يتحدث."
       },
       {
         "term": "do",
-        "description": "فعل مساعد يُستعمل لتكوين النفي والسؤال في المضارع البسيط."
+        "description": "تساعد هنا على تكوين النفي في المضارع مع I."
       },
       {
         "term": "not",
-        "description": "أداة نفي."
+        "description": "كلمة نفي تجعل المعنى لا أريد."
       },
       {
         "term": "want",
-        "description": "فعل يدل على الرغبة."
+        "description": "أريد أو أرغب في فعل شيء."
       },
       {
         "term": "to",
-        "description": "أداة تأتي قبل المصدر بعد أفعال مثل want."
+        "description": "تأتي قبل الفعل لتربط الرغبة بالفعل المقصود."
       },
       {
         "term": "bother",
-        "description": "فعل يعني أزعجك."
+        "description": "أزعج أو أسبب إرباكًا لشخص."
       },
       {
         "term": "you",
-        "description": "الضمير الذي يعود على الشخص المخاطَب."
+        "description": "ضمير يشير إلى الشخص الذي أتحدث معه."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "I do not want",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "تستخدم الجملة المضارع البسيط لنفي رغبة المتكلم في الموقف الحالي، ويأتي do not لتكوين النفي."
+        }
+      },
+      {
+        "sentence": "to bother you",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذا جزء يوضح الفعل الذي لا يريد المتكلم فعله، وهو إزعاج المخاطب، ولا يحمل زمنًا مستقلًا لأنه يبدأ بـ to قبل الفعل."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "People often say, \"I do not want to bother you\" in situations like this.",
-        "ar": "يقول الناس كثيرًا: \"لا أريد أن أزعجك\" في مواقف كهذه.",
-        "context": "تستخدم الجملة بوصفها تركيبًا شائعًا في موقف مشابه."
+        "en": "I do not want to disturb you.",
+        "ar": "لا أريد أن أزعجك.",
+        "context": "تقال عند تجنب مقاطعة شخص."
       },
       {
         "id": 2,
-        "en": "You can say, \"I do not want to bother you\" when this happens.",
-        "ar": "يمكنك أن تقول: \"لا أريد أن أزعجك\" عندما يحدث هذا.",
-        "context": "توضح أن الجملة مناسبة في موقف متكرر."
+        "en": "I do not want to waste your time.",
+        "ar": "لا أريد أن أضيع وقتك.",
+        "context": "تقال عند احترام وقت شخص آخر."
       },
       {
         "id": 3,
-        "en": "I heard someone say, \"I do not want to bother you\".",
-        "ar": "سمعت شخصًا يقول: \"لا أريد أن أزعجك\".",
-        "context": "تجعل الجملة جزءًا من كلام سمعته من شخص آخر."
+        "en": "She does not want to bother her teacher.",
+        "ar": "هي لا تريد أن تزعج معلمها.",
+        "context": "تقال عند تردد شخص في طلب شيء من معلمه."
       },
       {
         "id": 4,
-        "en": "The teacher used the sentence, \"I do not want to bother you\" in class.",
-        "ar": "استخدم المعلم الجملة: \"لا أريد أن أزعجك\" في الصف.",
-        "context": "تستخدم الجملة مثالًا تعليميًا في الصف."
+        "en": "We do not want to make noise.",
+        "ar": "لا نريد أن نحدث ضجيجًا.",
+        "context": "تقال عند محاولة الحفاظ على الهدوء."
       },
       {
         "id": 5,
-        "en": "Many learners remember the sentence, \"I do not want to bother you\" first.",
-        "ar": "يتذكر كثير من المتعلمين الجملة: \"لا أريد أن أزعجك\" أولًا.",
-        "context": "تقدم الجملة بوصفها جملة تعليمية أساسية."
+        "en": "He does not want to ask again.",
+        "ar": "هو لا يريد أن يسأل مرة أخرى.",
+        "context": "تقال عند تجنب تكرار سؤال."
       },
       {
         "id": 6,
-        "en": "She said, \"I do not want to bother you\" in a calm way.",
-        "ar": "قالت: \"لا أريد أن أزعجك\" بطريقة هادئة.",
-        "context": "تجعل الجملة جزءًا من كلام مباشر في موقف عادي."
+        "en": "I do not want to call too late.",
+        "ar": "لا أريد أن أتصل في وقت متأخر جدًا.",
+        "context": "تقال عند مراعاة وقت الشخص الآخر."
       },
       {
         "id": 7,
-        "en": "He repeated, \"I do not want to bother you\" more than once.",
-        "ar": "ردد: \"لا أريد أن أزعجك\" أكثر من مرة.",
-        "context": "تضيف معنى التكرار لنفس الجملة."
+        "en": "They do not want to cause a problem.",
+        "ar": "هم لا يريدون أن يسببوا مشكلة.",
+        "context": "تقال عند محاولة تجنب الخلاف."
       },
       {
         "id": 8,
-        "en": "At the right moment, someone might say, \"I do not want to bother you\".",
-        "ar": "في اللحظة المناسبة، قد يقول شخص ما: \"لا أريد أن أزعجك\".",
-        "context": "توضح أن الجملة مرتبطة بتوقيت مناسب في السياق."
+        "en": "I do not want to interrupt the meeting.",
+        "ar": "لا أريد أن أقاطع الاجتماع.",
+        "context": "تقال عند احترام سير اجتماع."
       },
       {
         "id": 9,
-        "en": "I wrote down the sentence, \"I do not want to bother you\" so I would remember it.",
-        "ar": "كتبت الجملة: \"لا أريد أن أزعجك\" حتى أتذكرها.",
-        "context": "تعطي مثالًا على حفظ الجملة أو مراجعتها."
+        "en": "My brother does not want to bother anyone.",
+        "ar": "أخي لا يريد أن يزعج أحدًا.",
+        "context": "تقال عند وصف شخص يحاول عدم إزعاج الآخرين."
       },
       {
         "id": 10,
-        "en": "It is useful to know when to say, \"I do not want to bother you\".",
-        "ar": "من المفيد أن تعرف متى تقول: \"لا أريد أن أزعجك\".",
-        "context": "تركز على معرفة الوقت المناسب لاستخدام الجملة."
+        "en": "I do not want to be rude.",
+        "ar": "لا أريد أن أكون فظًا.",
+        "context": "تقال عند محاولة الكلام بأدب."
       }
     ]
   }

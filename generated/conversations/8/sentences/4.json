@@ -10,23 +10,23 @@
     "wordMeanings": [
       {
         "term": "Almost",
-        "description": "حال أو ظرف في الجملة ويُفهم معناه من السياق."
+        "description": "تعني تقريبًا أو قرابة."
       },
       {
         "term": "two",
-        "description": "كلمة تدل على العدد اثنان."
+        "description": "العدد اثنان."
       },
       {
         "term": "years",
-        "description": "اسم في الجملة ويُفهم معناه من السياق."
+        "description": "سنوات."
       },
       {
         "term": "She",
-        "description": "ضمير يشير إلى امرأة أو بنت."
+        "description": "ضمير يعود على العمة."
       },
       {
         "term": "has",
-        "description": "صيغة المضارع مع he/she/it من have."
+        "description": "فعل مساعد في المضارع التام مع she."
       },
       {
         "term": "not",
@@ -34,84 +34,99 @@
       },
       {
         "term": "met",
-        "description": "فعل في الجملة ويُفهم معناه من السياق."
+        "description": "تعني قابلت أو التقت."
       },
       {
         "term": "my",
-        "description": "صفة ملكية تعني خاصتي."
+        "description": "صفة ملكية تعني الخاص بي."
       },
       {
         "term": "baby",
-        "description": "اسم في الجملة ويُفهم معناه من السياق."
+        "description": "طفلي أو طفل صغير."
       },
       {
         "term": "yet",
-        "description": "كلمة في الجملة ويُفهم معناها من السياق."
+        "description": "تعني بعد، وتستعمل غالبًا في النفي والأسئلة."
       }
     ],
-    "tense": "المضارع التام",
-    "tenseEn": "Present Perfect",
-    "tenseReason": "استُعمل المضارع التام لأن الجملة تربط بين حدث وقع في الماضي ونتيجته أو أثره في الحاضر.",
+    "grammarExplanations": [
+      {
+        "sentence": "Almost two years.",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه عبارة زمنية مختصرة تجيب عن مدة الغياب، وليست جملة فعلية لها زمن مستقل."
+        }
+      },
+      {
+        "sentence": "She has not met my baby yet.",
+        "explanation": {
+          "tense": "المضارع التام",
+          "tenseEn": "Present Perfect",
+          "reason": "استُعمل المضارع التام المنفي لأن المقابلة لم تحدث حتى الآن، وما زالت النتيجة مهمة في الحاضر."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "Recently, Almost two years. She has not met my baby yet.",
-        "ar": "مؤخرًا، قرابة عامين. لم تلتقِ بطفلي بعد.",
-        "context": "تربط الجملة بزمن قريب من الحاضر."
+        "en": "Almost three years.",
+        "ar": "قرابة ثلاث سنوات.",
+        "context": "تجيب باختصار عن مدة زمنية."
       },
       {
         "id": 2,
-        "en": "Almost two years. She has not met my baby yet already.",
-        "ar": "قرابة عامين. لم تلتقِ بطفلي بعد بالفعل.",
-        "context": "تضيف معنى الإنجاز أو الاكتمال."
+        "en": "She has not met my son yet.",
+        "ar": "لم تلتقِ بابني بعد.",
+        "context": "توضح أن لقاءً عائليًا لم يحدث حتى الآن."
       },
       {
         "id": 3,
-        "en": "Almost two years. She has not met my baby yet, so we can continue.",
-        "ar": "قرابة عامين. لم تلتقِ بطفلي بعد، لذلك يمكننا المتابعة.",
-        "context": "تضيف أثرًا حاضرًا لحدث سابق."
+        "en": "He has not seen the baby yet.",
+        "ar": "لم يرَ الطفل بعد.",
+        "context": "تتحدث عن زيارة لم تحدث."
       },
       {
         "id": 4,
-        "en": "Almost two years. She has not met my baby yet before, so I remember it.",
-        "ar": "قرابة عامين. لم تلتقِ بطفلي بعد من قبل، لذلك أتذكره.",
-        "context": "تربط الخبرة السابقة بنتيجة حاضرة."
+        "en": "Almost two months.",
+        "ar": "قرابة شهرين.",
+        "context": "تذكر مدة أقصر بإجابة مختصرة."
       },
       {
         "id": 5,
-        "en": "Almost two years. She has not met my baby yet more than once.",
-        "ar": "قرابة عامين. لم تلتقِ بطفلي بعد أكثر من مرة.",
-        "context": "تضيف معنى التكرار في زمن غير محدد."
+        "en": "She has not visited us yet.",
+        "ar": "لم تزرنا بعد.",
+        "context": "توضح أن الزيارة لم تحدث حتى الآن."
       },
       {
         "id": 6,
-        "en": "So far, Almost two years. She has not met my baby yet.",
-        "ar": "حتى الآن، قرابة عامين. لم تلتقِ بطفلي بعد.",
-        "context": "تربط الحدث بالفترة الممتدة حتى الحاضر."
+        "en": "They have not met my family yet.",
+        "ar": "لم يلتقوا بعائلتي بعد.",
+        "context": "تتحدث عن لقاء عائلي مؤجل."
       },
       {
         "id": 7,
-        "en": "Almost two years. She has not met my baby yet since this morning.",
-        "ar": "قرابة عامين. لم تلتقِ بطفلي بعد منذ هذا الصباح.",
-        "context": "تحدد بداية زمن مرتبطة بالحاضر."
+        "en": "Almost a year.",
+        "ar": "قرابة سنة.",
+        "context": "تجيب عن مدة غياب أو انتظار."
       },
       {
         "id": 8,
-        "en": "By now, Almost two years. She has not met my baby yet.",
-        "ar": "حتى الآن، قرابة عامين. لم تلتقِ بطفلي بعد.",
-        "context": "تؤكد النتيجة الحالية للفعل."
+        "en": "My aunt has not held the baby yet.",
+        "ar": "عمتي لم تحمل الطفل بعد.",
+        "context": "تذكر لحظة عائلية لم تحدث."
       },
       {
         "id": 9,
-        "en": "Almost two years. She has not met my baby yet, and that changed things.",
-        "ar": "قرابة عامين. لم تلتقِ بطفلي بعد، وهذا غيّر الأمور.",
-        "context": "تضيف أثرًا واضحًا للحدث على الحاضر."
+        "en": "She has not arrived yet.",
+        "ar": "لم تصل بعد.",
+        "context": "تتحدث عن وصول منتظر."
       },
       {
         "id": 10,
-        "en": "At this point, Almost two years. She has not met my baby yet.",
-        "ar": "عند هذه المرحلة، قرابة عامين. لم تلتقِ بطفلي بعد.",
-        "context": "تربط الجملة بالوضع الحالي بعد سلسلة أحداث."
+        "en": "Almost two years, and she has not visited yet.",
+        "ar": "قرابة سنتين، وهي لم تزر بعد.",
+        "context": "تجمع مدة الغياب مع حدث لم يحدث."
       }
     ]
   }

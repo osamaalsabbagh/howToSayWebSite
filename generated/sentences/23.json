@@ -10,84 +10,91 @@
     "wordMeanings": [
       {
         "term": "I",
-        "description": "ضمير المتكلم."
+        "description": "ضمير المتكلم ويشير إلى الشخص الذي يتحدث."
       },
       {
         "term": "cannot",
-        "description": "صيغة نفي لـ can وتعني لا يستطيع أو لا يمكن."
+        "description": "تعني أنني غير قادر على فعل شيء."
       },
       {
         "term": "hear",
-        "description": "فعل يعني سماعك."
+        "description": "أسمع أو ألتقط الصوت."
       },
       {
         "term": "you",
-        "description": "الضمير الذي يعود على الشخص المخاطَب."
+        "description": "ضمير يشير إلى الشخص الذي أتحدث معه."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "I cannot hear you.",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "الجملة تستخدم cannot للتعبير عن عدم القدرة على السمع في الموقف الحالي، وهذا تركيب قدرة أو عجز وليس زمنًا مستقلًا."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "People often say, \"I cannot hear you\" in situations like this.",
-        "ar": "يقول الناس كثيرًا: \"لا أستطيع سماعك\" في مواقف كهذه.",
-        "context": "تستخدم الجملة بوصفها تركيبًا شائعًا في موقف مشابه."
+        "en": "I cannot see the board.",
+        "ar": "لا أستطيع رؤية اللوح.",
+        "context": "تقال عندما تكون الرؤية غير واضحة."
       },
       {
         "id": 2,
-        "en": "You can say, \"I cannot hear you\" when this happens.",
-        "ar": "يمكنك أن تقول: \"لا أستطيع سماعك\" عندما يحدث هذا.",
-        "context": "توضح أن الجملة مناسبة في موقف متكرر."
+        "en": "I cannot open the door.",
+        "ar": "لا أستطيع فتح الباب.",
+        "context": "تقال عند العجز عن فتح باب."
       },
       {
         "id": 3,
-        "en": "I heard someone say, \"I cannot hear you\".",
-        "ar": "سمعت شخصًا يقول: \"لا أستطيع سماعك\".",
-        "context": "تجعل الجملة جزءًا من كلام سمعته من شخص آخر."
+        "en": "She cannot hear the music.",
+        "ar": "لا تستطيع سماع الموسيقى.",
+        "context": "تقال عندما لا يصل الصوت إليها."
       },
       {
         "id": 4,
-        "en": "The teacher used the sentence, \"I cannot hear you\" in class.",
-        "ar": "استخدم المعلم الجملة: \"لا أستطيع سماعك\" في الصف.",
-        "context": "تستخدم الجملة مثالًا تعليميًا في الصف."
+        "en": "We cannot find the address.",
+        "ar": "لا نستطيع العثور على العنوان.",
+        "context": "تقال عند عدم القدرة على الوصول إلى مكان."
       },
       {
         "id": 5,
-        "en": "Many learners remember the sentence, \"I cannot hear you\" first.",
-        "ar": "يتذكر كثير من المتعلمين الجملة: \"لا أستطيع سماعك\" أولًا.",
-        "context": "تقدم الجملة بوصفها جملة تعليمية أساسية."
+        "en": "He cannot understand the message.",
+        "ar": "لا يستطيع فهم الرسالة.",
+        "context": "تقال عندما تكون الرسالة غير واضحة له."
       },
       {
         "id": 6,
-        "en": "She said, \"I cannot hear you\" in a calm way.",
-        "ar": "قالت: \"لا أستطيع سماعك\" بطريقة هادئة.",
-        "context": "تجعل الجملة جزءًا من كلام مباشر في موقف عادي."
+        "en": "I cannot wait any longer.",
+        "ar": "لا أستطيع الانتظار أكثر.",
+        "context": "تقال عند نفاد الصبر أو الوقت."
       },
       {
         "id": 7,
-        "en": "He repeated, \"I cannot hear you\" more than once.",
-        "ar": "ردد: \"لا أستطيع سماعك\" أكثر من مرة.",
-        "context": "تضيف معنى التكرار لنفس الجملة."
+        "en": "They cannot come today.",
+        "ar": "لا يستطيعون الحضور اليوم.",
+        "context": "تقال عند عدم القدرة على الحضور."
       },
       {
         "id": 8,
-        "en": "At the right moment, someone might say, \"I cannot hear you\".",
-        "ar": "في اللحظة المناسبة، قد يقول شخص ما: \"لا أستطيع سماعك\".",
-        "context": "توضح أن الجملة مرتبطة بتوقيت مناسب في السياق."
+        "en": "I cannot hear the speaker.",
+        "ar": "لا أستطيع سماع المتحدث.",
+        "context": "تقال عندما يكون صوت المتحدث منخفضًا."
       },
       {
         "id": 9,
-        "en": "I wrote down the sentence, \"I cannot hear you\" so I would remember it.",
-        "ar": "كتبت الجملة: \"لا أستطيع سماعك\" حتى أتذكرها.",
-        "context": "تعطي مثالًا على حفظ الجملة أو مراجعتها."
+        "en": "My father cannot drive at night.",
+        "ar": "لا يستطيع أبي القيادة ليلًا.",
+        "context": "تقال عن عدم قدرة في وقت معين."
       },
       {
         "id": 10,
-        "en": "It is useful to know when to say, \"I cannot hear you\".",
-        "ar": "من المفيد أن تعرف متى تقول: \"لا أستطيع سماعك\".",
-        "context": "تركز على معرفة الوقت المناسب لاستخدام الجملة."
+        "en": "I cannot answer now.",
+        "ar": "لا أستطيع الإجابة الآن.",
+        "context": "تقال عندما لا يكون الوقت مناسبًا للرد."
       }
     ]
   }

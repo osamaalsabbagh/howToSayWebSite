@@ -10,100 +10,107 @@
     "wordMeanings": [
       {
         "term": "How",
-        "description": "أداة سؤال."
+        "description": "كيف، وتستخدم للسؤال عن طريقة الوصول."
       },
       {
         "term": "do",
-        "description": "فعل مساعد يُستعمل لتكوين النفي والسؤال في المضارع البسيط."
+        "description": "تأتي في السؤال مع المتكلم لتكوين سؤال في الحاضر."
       },
       {
         "term": "I",
-        "description": "ضمير المتكلم."
+        "description": "أنا، وتشير إلى المتكلم."
       },
       {
         "term": "get",
-        "description": "فعل شائع يعني يحصل على أو يصل أو يصبح حسب السياق."
+        "description": "أصل أو أذهب إلى مكان."
       },
       {
         "term": "to",
-        "description": "أداة تأتي قبل المصدر بعد أفعال مثل want."
+        "description": "إلى، وتربط فعل الوصول بالوجهة."
       },
       {
         "term": "the",
-        "description": "أداة تعريف تشير إلى شيء معروف أو محدد."
+        "description": "أداة تشير إلى مكان محدد معروف في الحديث."
       },
       {
         "term": "American",
-        "description": "اسم علم يشير إلى السفارة."
+        "description": "الأمريكية، وتصف السفارة المقصودة."
       },
       {
         "term": "Embassy",
-        "description": "اسم علم يشير إلى الأمريكية."
+        "description": "سفارة، أي مقر رسمي لدولة في بلد آخر."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "How do I get to the American Embassy?",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "يستخدم السؤال المضارع البسيط لطلب طريقة الوصول إلى مكان محدد، وكلمة التعريف قبل المكان تجعله جهة معروفة أو محددة."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "You can ask, \"How do I get to the American Embassy?\" when you need information.",
-        "ar": "يمكنك أن تسأل: \"كيف أصل إلى السفارة الأمريكية؟\" عندما تحتاج إلى معلومة.",
-        "context": "تستعمل الجملة كسؤال مباشر للحصول على معلومة."
+        "en": "How do I get to the American Embassy?",
+        "ar": "كيف أصل إلى السفارة الأمريكية؟",
+        "context": "تقال عند طلب الاتجاه إلى جهة رسمية."
       },
       {
         "id": 2,
-        "en": "Many people ask, \"How do I get to the American Embassy?\" in this situation.",
-        "ar": "يسأل كثير من الناس: \"كيف أصل إلى السفارة الأمريكية؟\" في هذا الموقف.",
-        "context": "توضح أن هذا سؤال شائع في موقف مشابه."
+        "en": "How do I get to the embassy?",
+        "ar": "كيف أصل إلى السفارة؟",
+        "context": "تقال عندما تكون السفارة معروفة من السياق."
       },
       {
         "id": 3,
-        "en": "I asked, \"How do I get to the American Embassy?\" because I was not sure.",
-        "ar": "سألت: \"كيف أصل إلى السفارة الأمريكية؟\" لأنني لم أكن متأكدًا.",
-        "context": "تضيف سببًا لطرح السؤال."
+        "en": "How do I get to the Turkish Embassy?",
+        "ar": "كيف أصل إلى السفارة التركية؟",
+        "context": "تقال عند طلب اتجاه إلى سفارة محددة."
       },
       {
         "id": 4,
-        "en": "She asked politely, \"How do I get to the American Embassy?\"",
-        "ar": "سألت بأدب: \"كيف أصل إلى السفارة الأمريكية؟\".",
-        "context": "تبين أن السؤال قيل بطريقة مهذبة."
+        "en": "How do I get to the consulate?",
+        "ar": "كيف أصل إلى القنصلية؟",
+        "context": "تقال عند البحث عن جهة رسمية."
       },
       {
         "id": 5,
-        "en": "At work, someone may ask, \"How do I get to the American Embassy?\"",
-        "ar": "في العمل، قد يسأل شخص ما: \"كيف أصل إلى السفارة الأمريكية؟\".",
-        "context": "تضع السؤال في سياق مهني أو عملي."
+        "en": "How do I get to the government office?",
+        "ar": "كيف أصل إلى المكتب الحكومي؟",
+        "context": "تقال عند طلب اتجاه إلى مكتب رسمي."
       },
       {
         "id": 6,
-        "en": "Before deciding, ask: \"How do I get to the American Embassy?\"",
-        "ar": "قبل أن تقرر، اسأل: \"كيف أصل إلى السفارة الأمريكية؟\".",
-        "context": "تستخدم السؤال قبل اتخاذ قرار."
+        "en": "How do I get to the American Embassy by taxi?",
+        "ar": "كيف أصل إلى السفارة الأمريكية بسيارة أجرة؟",
+        "context": "تقال عند طلب طريقة وصول بسيارة أجرة."
       },
       {
         "id": 7,
-        "en": "The student asked, \"How do I get to the American Embassy?\" in class.",
-        "ar": "سأل الطالب: \"كيف أصل إلى السفارة الأمريكية؟\" في الصف.",
-        "context": "تجعل الجملة جزءًا من موقف تعليمي."
+        "en": "How do I get to the American Embassy from here?",
+        "ar": "كيف أصل إلى السفارة الأمريكية من هنا؟",
+        "context": "تقال عند طلب اتجاهات من الموقع الحالي."
       },
       {
         "id": 8,
-        "en": "While traveling, you can ask, \"How do I get to the American Embassy?\"",
-        "ar": "أثناء السفر، يمكنك أن تسأل: \"كيف أصل إلى السفارة الأمريكية؟\".",
-        "context": "تربط السؤال بموقف السفر أو التنقل."
+        "en": "How do I get to the visa office?",
+        "ar": "كيف أصل إلى مكتب التأشيرات؟",
+        "context": "تقال عند البحث عن مكان متعلق بالإجراءات."
       },
       {
         "id": 9,
-        "en": "He asked me, \"How do I get to the American Embassy?\" again.",
-        "ar": "سألني: \"كيف أصل إلى السفارة الأمريكية؟\" مرة أخرى.",
-        "context": "تضيف معنى التكرار لنفس السؤال."
+        "en": "How do I get to the police station?",
+        "ar": "كيف أصل إلى مركز الشرطة؟",
+        "context": "تقال عند طلب اتجاه إلى مركز رسمي."
       },
       {
         "id": 10,
-        "en": "If you are not sure, ask: \"How do I get to the American Embassy?\"",
-        "ar": "إذا لم تكن متأكدًا، فاسأل: \"كيف أصل إلى السفارة الأمريكية؟\".",
-        "context": "توضح أن السؤال مناسب عند عدم التأكد."
+        "en": "How do I get to the city hall?",
+        "ar": "كيف أصل إلى مبنى البلدية؟",
+        "context": "تقال عند البحث عن مبنى حكومي محلي."
       }
     ]
   }

@@ -10,91 +10,99 @@
     "wordMeanings": [
       {
         "term": "Can",
-        "description": "فعل مساعد يدل هنا على القدرة أو الاستعداد لتلبية الطلب."
+        "description": "تستخدم في السؤال لطلب القدرة أو المساعدة بأدب."
       },
       {
         "term": "you",
-        "description": "الضمير الذي يعود على الشخص المخاطَب."
+        "description": "أنت، وتشير إلى الشخص المخاطب."
       },
       {
         "term": "recommend",
-        "description": "فعل يعني يمكنك."
+        "description": "توصي أو تقترح شيئًا مناسبًا."
       },
       {
         "term": "a",
-        "description": "أداة نكرة تأتي قبل الاسم المفرد المعدود."
+        "description": "أداة تدل على شيء واحد غير محدد."
       },
       {
         "term": "good",
-        "description": "صفة تعني جيد أو مريح أو مناسب هنا."
+        "description": "جيد أو مناسب."
       },
       {
         "term": "restaurant",
-        "description": "اسم يعني مطعم."
+        "description": "مطعم."
       }
     ],
-    "tense": null,
-    "tenseReason": "استُعمل هذا التركيب لأنه سؤال يعتمد على فعل modal مثل can أو could أو would، لذلك لا نعامله هنا كزمن مستقل بل كصيغة سؤال وظيفية.",
+    "grammarExplanations": [
+      {
+        "sentence": "Can you recommend a good restaurant?",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه صيغة طلب مهذب باستخدام تركيب يدل على القدرة أو المساعدة، والفعل بعدها يأتي بصيغته الأساسية، لذلك لا تعامل كزمن مستقل."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "You can ask, \"Can you recommend a good restaurant?\" when you need information.",
-        "ar": "يمكنك أن تسأل: \"هل يمكنك أن توصي بمطعم جيد؟\" عندما تحتاج إلى معلومة.",
-        "context": "تستعمل الجملة كسؤال مباشر للحصول على معلومة."
+        "en": "Can you recommend a good restaurant?",
+        "ar": "هل يمكنك أن توصي بمطعم جيد؟",
+        "context": "تقال عند طلب اقتراح لمطعم جيد."
       },
       {
         "id": 2,
-        "en": "Many people ask, \"Can you recommend a good restaurant?\" in this situation.",
-        "ar": "يسأل كثير من الناس: \"هل يمكنك أن توصي بمطعم جيد؟\" في هذا الموقف.",
-        "context": "توضح أن هذا سؤال شائع في موقف مشابه."
+        "en": "Can you recommend a cheap restaurant?",
+        "ar": "هل يمكنك أن توصي بمطعم رخيص؟",
+        "context": "تقال عند طلب مطعم بسعر مناسب."
       },
       {
         "id": 3,
-        "en": "I asked, \"Can you recommend a good restaurant?\" because I was not sure.",
-        "ar": "سألت: \"هل يمكنك أن توصي بمطعم جيد؟\" لأنني لم أكن متأكدًا.",
-        "context": "تضيف سببًا لطرح السؤال."
+        "en": "Can you recommend a restaurant near here?",
+        "ar": "هل يمكنك أن توصي بمطعم قريب من هنا؟",
+        "context": "تقال عند البحث عن مطعم قريب."
       },
       {
         "id": 4,
-        "en": "She asked politely, \"Can you recommend a good restaurant?\"",
-        "ar": "سألت بأدب: \"هل يمكنك أن توصي بمطعم جيد؟\".",
-        "context": "تبين أن السؤال قيل بطريقة مهذبة."
+        "en": "Can you recommend a hotel?",
+        "ar": "هل يمكنك أن توصي بفندق؟",
+        "context": "تقال عند طلب اقتراح لمكان إقامة."
       },
       {
         "id": 5,
-        "en": "At work, someone may ask, \"Can you recommend a good restaurant?\"",
-        "ar": "في العمل، قد يسأل شخص ما: \"هل يمكنك أن توصي بمطعم جيد؟\".",
-        "context": "تضع السؤال في سياق مهني أو عملي."
+        "en": "Can you recommend a good cafe?",
+        "ar": "هل يمكنك أن توصي بمقهى جيد؟",
+        "context": "تقال عند البحث عن مقهى."
       },
       {
         "id": 6,
-        "en": "Before deciding, ask: \"Can you recommend a good restaurant?\"",
-        "ar": "قبل أن تقرر، اسأل: \"هل يمكنك أن توصي بمطعم جيد؟\".",
-        "context": "تستخدم السؤال قبل اتخاذ قرار."
+        "en": "Can you recommend a place for dinner?",
+        "ar": "هل يمكنك أن توصي بمكان للعشاء؟",
+        "context": "تقال عند اختيار مكان لتناول العشاء."
       },
       {
         "id": 7,
-        "en": "The student asked, \"Can you recommend a good restaurant?\" in class.",
-        "ar": "سأل الطالب: \"هل يمكنك أن توصي بمطعم جيد؟\" في الصف.",
-        "context": "تجعل الجملة جزءًا من موقف تعليمي."
+        "en": "Can you recommend something local?",
+        "ar": "هل يمكنك أن توصي بشيء محلي؟",
+        "context": "تقال عند طلب اقتراح من ثقافة المكان."
       },
       {
         "id": 8,
-        "en": "While traveling, you can ask, \"Can you recommend a good restaurant?\"",
-        "ar": "أثناء السفر، يمكنك أن تسأل: \"هل يمكنك أن توصي بمطعم جيد؟\".",
-        "context": "تربط السؤال بموقف السفر أو التنقل."
+        "en": "Can you recommend a quiet restaurant?",
+        "ar": "هل يمكنك أن توصي بمطعم هادئ؟",
+        "context": "تقال عند طلب مكان غير مزدحم."
       },
       {
         "id": 9,
-        "en": "He asked me, \"Can you recommend a good restaurant?\" again.",
-        "ar": "سألني: \"هل يمكنك أن توصي بمطعم جيد؟\" مرة أخرى.",
-        "context": "تضيف معنى التكرار لنفس السؤال."
+        "en": "Do you know a good restaurant?",
+        "ar": "هل تعرف مطعمًا جيدًا؟",
+        "context": "تقال بصيغة أخرى لطلب اقتراح."
       },
       {
         "id": 10,
-        "en": "If you are not sure, ask: \"Can you recommend a good restaurant?\"",
-        "ar": "إذا لم تكن متأكدًا، فاسأل: \"هل يمكنك أن توصي بمطعم جيد؟\".",
-        "context": "توضح أن السؤال مناسب عند عدم التأكد."
+        "en": "Please recommend a good restaurant.",
+        "ar": "من فضلك أوصني بمطعم جيد.",
+        "context": "تقال كطلب مباشر للحصول على اقتراح."
       }
     ]
   }

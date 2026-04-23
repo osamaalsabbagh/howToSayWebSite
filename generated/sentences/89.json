@@ -10,75 +10,83 @@
     "wordMeanings": [
       {
         "term": "Nothing",
-        "description": "اسم يعني شيء."
+        "description": "لا شيء أو عدم وجود أي شيء."
       },
       {
         "term": "else",
-        "description": "كلمة تعني غير ذلك أو آخر."
+        "description": "آخر أو إضافي."
       }
     ],
-    "tense": null,
-    "tenseReason": "استُعمل هذا التعبير لأنه عبارة ثابتة أو رد قصير يُستخدم في موقف محدد، وليس جملة فعلية كاملة بزمن واضح.",
+    "grammarExplanations": [
+      {
+        "sentence": "Nothing else.",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذا تعبير قصير يعني عدم الحاجة إلى أي شيء إضافي، ولا يحتوي على فعل ظاهر أو زمن مستقل."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "In this situation, people often say, \"Nothing else\".",
-        "ar": "في هذا الموقف، يقول الناس كثيرًا: \"لا شيء آخر\".",
-        "context": "توضح أن العبارة مناسبة في هذا النوع من المواقف."
+        "en": "I need nothing else.",
+        "ar": "لا أحتاج إلى أي شيء آخر.",
+        "context": "تقال عند الاكتفاء بما لديك."
       },
       {
         "id": 2,
-        "en": "The teacher said, \"Nothing else\" to the students.",
-        "ar": "قال المعلم للطلاب: \"لا شيء آخر\".",
-        "context": "تستخدم الجملة كتعليمات أو توجيه مباشر."
+        "en": "Nothing else, thank you.",
+        "ar": "لا شيء آخر، شكرًا لك.",
+        "context": "تقال بعد إنهاء طلب بأدب."
       },
       {
         "id": 3,
-        "en": "He told me, \"Nothing else\" before we left.",
-        "ar": "قال لي: \"لا شيء آخر\" قبل أن نغادر.",
-        "context": "تضع العبارة قبل حدث آخر."
+        "en": "She wants nothing else.",
+        "ar": "هي لا تريد أي شيء آخر.",
+        "context": "تقال عند اكتمال طلب شخص."
       },
       {
         "id": 4,
-        "en": "She said, \"Nothing else\" in a polite way.",
-        "ar": "قالت: \"لا شيء آخر\" بطريقة مهذبة.",
-        "context": "تظهر أن العبارة يمكن أن تقال بلطف أو أدب."
+        "en": "There is nothing else to say.",
+        "ar": "لا يوجد شيء آخر يقال.",
+        "context": "تقال عند انتهاء الحديث عن موضوع."
       },
       {
         "id": 5,
-        "en": "Someone shouted, \"Nothing else\" when there was a problem.",
-        "ar": "صاح شخص ما: \"لا شيء آخر\" عندما ظهرت مشكلة.",
-        "context": "تربط العبارة بموقف سريع أو طارئ."
+        "en": "We have nothing else to do.",
+        "ar": "ليس لدينا شيء آخر نفعله.",
+        "context": "تقال عند انتهاء المهام."
       },
       {
         "id": 6,
-        "en": "You can say, \"Nothing else\" when you need a quick response.",
-        "ar": "يمكنك أن تقول: \"لا شيء آخر\" عندما تحتاج إلى رد سريع.",
-        "context": "توضح أن العبارة مفيدة عند الحاجة إلى استجابة مباشرة."
+        "en": "Nothing else is needed.",
+        "ar": "لا حاجة إلى شيء آخر.",
+        "context": "تقال عند اكتمال المطلوب."
       },
       {
         "id": 7,
-        "en": "They repeated, \"Nothing else\" more than once.",
-        "ar": "رددوا: \"لا شيء آخر\" أكثر من مرة.",
-        "context": "تعطي مثالًا على تكرار العبارة."
+        "en": "He asked for nothing else.",
+        "ar": "هو لم يطلب شيئًا آخر.",
+        "context": "تقال عند توضيح أن طلب شخص كان محدودًا."
       },
       {
         "id": 8,
-        "en": "I heard him say, \"Nothing else\" yesterday.",
-        "ar": "سمعته يقول: \"لا شيء آخر\" أمس.",
-        "context": "تجعل العبارة جزءًا من موقف سمعته من شخص آخر."
+        "en": "I bought nothing else.",
+        "ar": "لم أشتر شيئًا آخر.",
+        "context": "تقال عند توضيح أن الشراء اقتصر على شيء معين."
       },
       {
         "id": 9,
-        "en": "Many learners remember the phrase, \"Nothing else\".",
-        "ar": "يتذكر كثير من المتعلمين العبارة: \"لا شيء آخر\".",
-        "context": "تقدم العبارة بوصفها عبارة سهلة التذكر."
+        "en": "They found nothing else.",
+        "ar": "لم يجدوا شيئًا آخر.",
+        "context": "تقال عند انتهاء البحث دون نتائج إضافية."
       },
       {
         "id": 10,
-        "en": "At that moment, she said, \"Nothing else\".",
-        "ar": "في تلك اللحظة، قالت: \"لا شيء آخر\".",
-        "context": "تربط العبارة بلحظة معينة في السرد."
+        "en": "Nothing else matters now.",
+        "ar": "لا شيء آخر يهم الآن.",
+        "context": "تقال عند التركيز على أمر واحد مهم."
       }
     ]
   }

@@ -10,88 +10,95 @@
     "wordMeanings": [
       {
         "term": "What",
-        "description": "أداة سؤال عن الشيء أو المعنى أو الاختيار."
+        "description": "ما، وتستخدم للسؤال عن معلومة."
       },
       {
         "term": "is",
-        "description": "فعل be في الحاضر مع المفرد."
+        "description": "صيغة تربط السؤال بالمعلومة المطلوبة في الحاضر."
       },
       {
         "term": "the",
-        "description": "أداة تعريف تشير إلى شيء معروف أو محدد."
+        "description": "أداة تشير إلى رقم محدد مطلوب."
       },
       {
         "term": "phone",
-        "description": "اسم يعني هاتف."
+        "description": "هاتف."
       },
       {
         "term": "number",
-        "description": "اسم يعني رقم."
+        "description": "رقم."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "What is the phone number?",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "يستخدم فعل الربط في الحاضر للسؤال عن معلومة ثابتة أو متاحة الآن، وهي رقم الهاتف."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "You can ask, \"What is the phone number?\" when you need information.",
-        "ar": "يمكنك أن تسأل: \"ما هو رقم الهاتف؟\" عندما تحتاج إلى معلومة.",
-        "context": "تستعمل الجملة كسؤال مباشر للحصول على معلومة."
+        "en": "What is the phone number?",
+        "ar": "ما هو رقم الهاتف؟",
+        "context": "تقال عند طلب رقم هاتف."
       },
       {
         "id": 2,
-        "en": "Many people ask, \"What is the phone number?\" in this situation.",
-        "ar": "يسأل كثير من الناس: \"ما هو رقم الهاتف؟\" في هذا الموقف.",
-        "context": "توضح أن هذا سؤال شائع في موقف مشابه."
+        "en": "What is your phone number?",
+        "ar": "ما رقم هاتفك؟",
+        "context": "تقال عند طلب رقم شخص."
       },
       {
         "id": 3,
-        "en": "I asked, \"What is the phone number?\" because I was not sure.",
-        "ar": "سألت: \"ما هو رقم الهاتف؟\" لأنني لم أكن متأكدًا.",
-        "context": "تضيف سببًا لطرح السؤال."
+        "en": "What is the hotel phone number?",
+        "ar": "ما رقم هاتف الفندق؟",
+        "context": "تقال عند البحث عن رقم فندق."
       },
       {
         "id": 4,
-        "en": "She asked politely, \"What is the phone number?\"",
-        "ar": "سألت بأدب: \"ما هو رقم الهاتف؟\".",
-        "context": "تبين أن السؤال قيل بطريقة مهذبة."
+        "en": "What is the office phone number?",
+        "ar": "ما رقم هاتف المكتب؟",
+        "context": "تقال عند طلب رقم مكتب."
       },
       {
         "id": 5,
-        "en": "At work, someone may ask, \"What is the phone number?\"",
-        "ar": "في العمل، قد يسأل شخص ما: \"ما هو رقم الهاتف؟\".",
-        "context": "تضع السؤال في سياق مهني أو عملي."
+        "en": "Can I have the phone number?",
+        "ar": "هل يمكنني الحصول على رقم الهاتف؟",
+        "context": "تقال بصيغة مهذبة عند طلب الرقم."
       },
       {
         "id": 6,
-        "en": "Before deciding, ask: \"What is the phone number?\"",
-        "ar": "قبل أن تقرر، اسأل: \"ما هو رقم الهاتف؟\".",
-        "context": "تستخدم السؤال قبل اتخاذ قرار."
+        "en": "Please write down the phone number.",
+        "ar": "من فضلك اكتب رقم الهاتف.",
+        "context": "تقال عند طلب تسجيل الرقم."
       },
       {
         "id": 7,
-        "en": "The student asked, \"What is the phone number?\" in class.",
-        "ar": "سأل الطالب: \"ما هو رقم الهاتف؟\" في الصف.",
-        "context": "تجعل الجملة جزءًا من موقف تعليمي."
+        "en": "The phone number is on the card.",
+        "ar": "رقم الهاتف موجود على البطاقة.",
+        "context": "تقال عند توضيح مكان الرقم."
       },
       {
         "id": 8,
-        "en": "While traveling, you can ask, \"What is the phone number?\"",
-        "ar": "أثناء السفر، يمكنك أن تسأل: \"ما هو رقم الهاتف؟\".",
-        "context": "تربط السؤال بموقف السفر أو التنقل."
+        "en": "I need the phone number.",
+        "ar": "أحتاج إلى رقم الهاتف.",
+        "context": "تقال عند الحاجة إلى الاتصال."
       },
       {
         "id": 9,
-        "en": "He asked me, \"What is the phone number?\" again.",
-        "ar": "سألني: \"ما هو رقم الهاتف؟\" مرة أخرى.",
-        "context": "تضيف معنى التكرار لنفس السؤال."
+        "en": "Do you know the phone number?",
+        "ar": "هل تعرف رقم الهاتف؟",
+        "context": "تقال عند سؤال شخص عن الرقم."
       },
       {
         "id": 10,
-        "en": "If you are not sure, ask: \"What is the phone number?\"",
-        "ar": "إذا لم تكن متأكدًا، فاسأل: \"ما هو رقم الهاتف؟\".",
-        "context": "توضح أن السؤال مناسب عند عدم التأكد."
+        "en": "What is the emergency phone number?",
+        "ar": "ما رقم هاتف الطوارئ؟",
+        "context": "تقال عند السؤال عن رقم مهم في حالة طارئة."
       }
     ]
   }

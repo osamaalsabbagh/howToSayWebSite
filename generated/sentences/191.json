@@ -10,96 +10,103 @@
     "wordMeanings": [
       {
         "term": "I",
-        "description": "ضمير المتكلم."
+        "description": "أنا، وتشير إلى المتكلم."
       },
       {
         "term": "am",
-        "description": "فعل be مع I ويُستعمل هنا مع learning لتكوين المضارع المستمر."
+        "description": "صيغة تأتي مع أنا وتساعد في وصف فعل يحدث الآن."
       },
       {
         "term": "looking",
-        "description": "فعل يعني أبحث."
+        "description": "أبحث، ومع الكلمة التالية تعني أحاول العثور على شيء."
       },
       {
         "term": "for",
-        "description": "حرف جر يعني لـ أو من أجل."
+        "description": "عن، وتكمل معنى البحث عن شيء."
       },
       {
         "term": "the",
-        "description": "أداة تعريف تشير إلى شيء معروف أو محدد."
+        "description": "أداة تشير إلى مكان محدد معروف أو مطلوب."
       },
       {
         "term": "post",
-        "description": "اسم يعني البريد."
+        "description": "بريد، وتصف نوع المكتب."
       },
       {
         "term": "office",
-        "description": "اسم يعني مكتب."
+        "description": "مكتب أو مبنى خدمة."
       }
     ],
-    "tense": "المضارع المستمر",
-    "tenseEn": "Present Continuous",
-    "tenseReason": "استُعمل المضارع المستمر لأن الجملة تصف شيئًا يحدث الآن أو في فترة قريبة من الآن، أو خطة قريبة واضحة من السياق.",
+    "grammarExplanations": [
+      {
+        "sentence": "I am looking for the post office.",
+        "explanation": {
+          "tense": "المضارع المستمر",
+          "tenseEn": "Present Continuous",
+          "reason": "يستخدم المضارع المستمر لأن المتكلم يصف بحثًا يحدث الآن أو في هذه اللحظة عن مكان محدد."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "People often say, \"I am looking for the post office\" in situations like this.",
-        "ar": "يقول الناس كثيرًا: \"أنا أبحث عن مكتب البريد\" في مواقف كهذه.",
-        "context": "تستخدم الجملة بوصفها تركيبًا شائعًا في موقف مشابه."
+        "en": "I am looking for the post office.",
+        "ar": "أنا أبحث عن مكتب البريد.",
+        "context": "تقال عند طلب الاتجاه إلى مكتب البريد."
       },
       {
         "id": 2,
-        "en": "You can say, \"I am looking for the post office\" when this happens.",
-        "ar": "يمكنك أن تقول: \"أنا أبحث عن مكتب البريد\" عندما يحدث هذا.",
-        "context": "توضح أن الجملة مناسبة في موقف متكرر."
+        "en": "I am looking for the airport.",
+        "ar": "أنا أبحث عن المطار.",
+        "context": "تقال عند محاولة الوصول إلى المطار."
       },
       {
         "id": 3,
-        "en": "I heard someone say, \"I am looking for the post office\".",
-        "ar": "سمعت شخصًا يقول: \"أنا أبحث عن مكتب البريد\".",
-        "context": "تجعل الجملة جزءًا من كلام سمعته من شخص آخر."
+        "en": "I am looking for the train station.",
+        "ar": "أنا أبحث عن محطة القطار.",
+        "context": "تقال عند طلب اتجاه إلى محطة قطار."
       },
       {
         "id": 4,
-        "en": "The teacher used the sentence, \"I am looking for the post office\" in class.",
-        "ar": "استخدم المعلم الجملة: \"أنا أبحث عن مكتب البريد\" في الصف.",
-        "context": "تستخدم الجملة مثالًا تعليميًا في الصف."
+        "en": "I am looking for the hotel.",
+        "ar": "أنا أبحث عن الفندق.",
+        "context": "تقال عند عدم معرفة مكان الفندق."
       },
       {
         "id": 5,
-        "en": "Many learners remember the sentence, \"I am looking for the post office\" first.",
-        "ar": "يتذكر كثير من المتعلمين الجملة: \"أنا أبحث عن مكتب البريد\" أولًا.",
-        "context": "تقدم الجملة بوصفها جملة تعليمية أساسية."
+        "en": "I am looking for the bus stop.",
+        "ar": "أنا أبحث عن موقف الحافلات.",
+        "context": "تقال عند البحث عن مكان ركوب الحافلة."
       },
       {
         "id": 6,
-        "en": "She said, \"I am looking for the post office\" in a calm way.",
-        "ar": "قالت: \"أنا أبحث عن مكتب البريد\" بطريقة هادئة.",
-        "context": "تجعل الجملة جزءًا من كلام مباشر في موقف عادي."
+        "en": "I am looking for the bathroom.",
+        "ar": "أنا أبحث عن الحمام.",
+        "context": "تقال عند طلب إرشاد داخل مكان."
       },
       {
         "id": 7,
-        "en": "He repeated, \"I am looking for the post office\" more than once.",
-        "ar": "ردد: \"أنا أبحث عن مكتب البريد\" أكثر من مرة.",
-        "context": "تضيف معنى التكرار لنفس الجملة."
+        "en": "I am looking for this address.",
+        "ar": "أنا أبحث عن هذا العنوان.",
+        "context": "تقال عند إظهار عنوان لشخص ليساعدك."
       },
       {
         "id": 8,
-        "en": "At the right moment, someone might say, \"I am looking for the post office\".",
-        "ar": "في اللحظة المناسبة، قد يقول شخص ما: \"أنا أبحث عن مكتب البريد\".",
-        "context": "توضح أن الجملة مرتبطة بتوقيت مناسب في السياق."
+        "en": "I am looking for the ticket office.",
+        "ar": "أنا أبحث عن مكتب التذاكر.",
+        "context": "تقال في محطة أو مطار."
       },
       {
         "id": 9,
-        "en": "I wrote down the sentence, \"I am looking for the post office\" so I would remember it.",
-        "ar": "كتبت الجملة: \"أنا أبحث عن مكتب البريد\" حتى أتذكرها.",
-        "context": "تعطي مثالًا على حفظ الجملة أو مراجعتها."
+        "en": "I am looking for the American Embassy.",
+        "ar": "أنا أبحث عن السفارة الأمريكية.",
+        "context": "تقال عند طلب اتجاه إلى جهة رسمية."
       },
       {
         "id": 10,
-        "en": "It is useful to know when to say, \"I am looking for the post office\".",
-        "ar": "من المفيد أن تعرف متى تقول: \"أنا أبحث عن مكتب البريد\".",
-        "context": "تركز على معرفة الوقت المناسب لاستخدام الجملة."
+        "en": "I am looking for the main entrance.",
+        "ar": "أنا أبحث عن المدخل الرئيسي.",
+        "context": "تقال عند محاولة دخول مبنى أو موقع."
       }
     ]
   }

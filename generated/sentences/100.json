@@ -10,80 +10,87 @@
     "wordMeanings": [
       {
         "term": "See",
-        "description": "فعل يعني يرى."
+        "description": "أراك، وتأتي هنا ضمن تعبير وداع."
       },
       {
         "term": "you",
-        "description": "الضمير الذي يعود على الشخص المخاطَب."
+        "description": "ضمير يشير إلى الشخص الذي أتحدث معه."
       },
       {
         "term": "later",
-        "description": "ظرف زمان يعني لاحقًا."
+        "description": "لاحقًا أو في وقت بعد الآن."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "See you later.",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذا تعبير وداع ثابت يعني أن المتكلم يتوقع لقاء المخاطب أو التحدث معه لاحقًا، ولا يستخدم كزمن مستقل."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "People often say, \"See you later\" in situations like this.",
-        "ar": "يقول الناس كثيرًا: \"أراك لاحقًا\" في مواقف كهذه.",
-        "context": "تستخدم الجملة بوصفها تركيبًا شائعًا في موقف مشابه."
+        "en": "See you tomorrow.",
+        "ar": "أراك غدًا.",
+        "context": "تقال عند توديع شخص مع توقع اللقاء في اليوم التالي."
       },
       {
         "id": 2,
-        "en": "You can say, \"See you later\" when this happens.",
-        "ar": "يمكنك أن تقول: \"أراك لاحقًا\" عندما يحدث هذا.",
-        "context": "توضح أن الجملة مناسبة في موقف متكرر."
+        "en": "See you soon.",
+        "ar": "أراك قريبًا.",
+        "context": "تقال عند توقع لقاء قريب."
       },
       {
         "id": 3,
-        "en": "I heard someone say, \"See you later\".",
-        "ar": "سمعت شخصًا يقول: \"أراك لاحقًا\".",
-        "context": "تجعل الجملة جزءًا من كلام سمعته من شخص آخر."
+        "en": "See you at work.",
+        "ar": "أراك في العمل.",
+        "context": "تقال عند توديع زميل قبل اللقاء في مكان العمل."
       },
       {
         "id": 4,
-        "en": "The teacher used the sentence, \"See you later\" in class.",
-        "ar": "استخدم المعلم الجملة: \"أراك لاحقًا\" في الصف.",
-        "context": "تستخدم الجملة مثالًا تعليميًا في الصف."
+        "en": "I will see you later.",
+        "ar": "سأراك لاحقًا.",
+        "context": "تقال عند ذكر لقاء مستقبلي بشكل أوضح."
       },
       {
         "id": 5,
-        "en": "Many learners remember the sentence, \"See you later\" first.",
-        "ar": "يتذكر كثير من المتعلمين الجملة: \"أراك لاحقًا\" أولًا.",
-        "context": "تقدم الجملة بوصفها جملة تعليمية أساسية."
+        "en": "Talk to you later.",
+        "ar": "أتحدث معك لاحقًا.",
+        "context": "تقال عند إنهاء محادثة مع نية التواصل لاحقًا."
       },
       {
         "id": 6,
-        "en": "She said, \"See you later\" in a calm way.",
-        "ar": "قالت: \"أراك لاحقًا\" بطريقة هادئة.",
-        "context": "تجعل الجملة جزءًا من كلام مباشر في موقف عادي."
+        "en": "See you after lunch.",
+        "ar": "أراك بعد الغداء.",
+        "context": "تقال عند تحديد وقت اللقاء بعد وجبة."
       },
       {
         "id": 7,
-        "en": "He repeated, \"See you later\" more than once.",
-        "ar": "ردد: \"أراك لاحقًا\" أكثر من مرة.",
-        "context": "تضيف معنى التكرار لنفس الجملة."
+        "en": "See you next week.",
+        "ar": "أراك الأسبوع القادم.",
+        "context": "تقال عند توديع شخص حتى موعد الأسبوع القادم."
       },
       {
         "id": 8,
-        "en": "At the right moment, someone might say, \"See you later\".",
-        "ar": "في اللحظة المناسبة، قد يقول شخص ما: \"أراك لاحقًا\".",
-        "context": "توضح أن الجملة مرتبطة بتوقيت مناسب في السياق."
+        "en": "See you at home.",
+        "ar": "أراك في البيت.",
+        "context": "تقال عند الاتفاق على اللقاء في البيت."
       },
       {
         "id": 9,
-        "en": "I wrote down the sentence, \"See you later\" so I would remember it.",
-        "ar": "كتبت الجملة: \"أراك لاحقًا\" حتى أتذكرها.",
-        "context": "تعطي مثالًا على حفظ الجملة أو مراجعتها."
+        "en": "See you in the morning.",
+        "ar": "أراك في الصباح.",
+        "context": "تقال عند توقع اللقاء صباحًا."
       },
       {
         "id": 10,
-        "en": "It is useful to know when to say, \"See you later\".",
-        "ar": "من المفيد أن تعرف متى تقول: \"أراك لاحقًا\".",
-        "context": "تركز على معرفة الوقت المناسب لاستخدام الجملة."
+        "en": "See you after the meeting.",
+        "ar": "أراك بعد الاجتماع.",
+        "context": "تقال عند تأجيل اللقاء إلى ما بعد اجتماع."
       }
     ]
   }

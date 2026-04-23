@@ -10,84 +10,91 @@
     "wordMeanings": [
       {
         "term": "He",
-        "description": "الضمير الذي يعود على شخص مفرد مذكر."
+        "description": "ضمير يشير إلى رجل أو ولد معروف من السياق."
       },
       {
         "term": "is",
-        "description": "فعل be في الحاضر."
+        "description": "صيغة تأتي مع المفرد الغائب وتربط الشخص بوصفه الحالي."
       },
       {
         "term": "very",
-        "description": "كلمة تقوي المعنى وتزيد شدة الصفة."
+        "description": "كلمة تقوي الصفة وتجعلها بدرجة كبيرة."
       },
       {
         "term": "famous",
-        "description": "صفة تعني مشهور."
+        "description": "مشهور أو معروف عند كثير من الناس."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الشهرة هنا تُعرض كحقيقة عامة أو صفة معروفة عن الشخص.",
+    "grammarExplanations": [
+      {
+        "sentence": "He is very famous.",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "تصف الجملة حالة أو صفة حالية لشخص، لذلك تستخدم المضارع البسيط مع is، وتأتي very لتقوية الصفة."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "He is very famous in his country.",
-        "ar": "هو مشهور جدًا في بلده.",
-        "context": "تتحدث عن شهرة ضمن مكان معين."
+        "en": "She is very famous.",
+        "ar": "هي مشهورة جدًا.",
+        "context": "تقال عند وصف امرأة يعرفها كثير من الناس."
       },
       {
         "id": 2,
-        "en": "She is very famous online.",
-        "ar": "هي مشهورة جدًا على الإنترنت.",
-        "context": "تصف شهرة رقمية أو إعلامية."
+        "en": "The singer is very famous.",
+        "ar": "المغني مشهور جدًا.",
+        "context": "تقال عن فنان معروف على نطاق واسع."
       },
       {
         "id": 3,
-        "en": "He is very famous for his music.",
-        "ar": "هو مشهور جدًا بسبب موسيقاه.",
-        "context": "تذكر سبب الشهرة."
+        "en": "This restaurant is very famous.",
+        "ar": "هذا المطعم مشهور جدًا.",
+        "context": "تقال عن مكان يعرفه كثير من الناس."
       },
       {
         "id": 4,
-        "en": "He is very famous, so many people know his name.",
-        "ar": "هو مشهور جدًا، لذلك يعرف كثير من الناس اسمه.",
-        "context": "تربط الشهرة بنتيجتها."
+        "en": "The doctor is very famous.",
+        "ar": "الطبيب مشهور جدًا.",
+        "context": "تقال عن طبيب له سمعة واسعة."
       },
       {
         "id": 5,
-        "en": "He is very famous in the sports world.",
-        "ar": "هو مشهور جدًا في عالم الرياضة.",
-        "context": "تحدد مجال الشهرة."
+        "en": "That book is very famous.",
+        "ar": "ذلك الكتاب مشهور جدًا.",
+        "context": "تقال عن كتاب معروف بين القراء."
       },
       {
         "id": 6,
-        "en": "He is very famous, but he is still calm.",
-        "ar": "هو مشهور جدًا، لكنه ما زال هادئًا.",
-        "context": "توازن بين الشهرة والصفة الشخصية."
+        "en": "The team is very famous.",
+        "ar": "الفريق مشهور جدًا.",
+        "context": "تقال عن فريق يعرفه جمهور كبير."
       },
       {
         "id": 7,
-        "en": "That actor is very famous now.",
-        "ar": "ذلك الممثل مشهور جدًا الآن.",
-        "context": "تصف شخصًا معروفًا في هذه الفترة."
+        "en": "This street is very famous.",
+        "ar": "هذا الشارع مشهور جدًا.",
+        "context": "تقال عن شارع معروف في مدينة."
       },
       {
         "id": 8,
-        "en": "He became very famous after that movie.",
-        "ar": "أصبح مشهورًا جدًا بعد ذلك الفيلم.",
-        "context": "تذكر كيف بدأت الشهرة."
+        "en": "My uncle is very funny.",
+        "ar": "عمي مضحك جدًا.",
+        "context": "تقال لوصف شخص بصفة قوية."
       },
       {
         "id": 9,
-        "en": "He is very famous among young people.",
-        "ar": "هو مشهور جدًا بين الشباب.",
-        "context": "تحدد الفئة التي تعرفه كثيرًا."
+        "en": "The hotel is very expensive.",
+        "ar": "الفندق غالي جدًا.",
+        "context": "تقال لوصف مكان بصفة واضحة."
       },
       {
         "id": 10,
-        "en": "He is very famous, and people often take pictures with him.",
-        "ar": "هو مشهور جدًا، وغالبًا ما يلتقط الناس صورًا معه.",
-        "context": "تذكر سلوكًا ناتجًا عن الشهرة."
+        "en": "Her answer is very clear.",
+        "ar": "إجابتها واضحة جدًا.",
+        "context": "تقال عند مدح وضوح إجابة."
       }
     ]
   }

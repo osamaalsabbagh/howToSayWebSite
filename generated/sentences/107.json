@@ -10,79 +10,87 @@
     "wordMeanings": [
       {
         "term": "Take",
-        "description": "فعل يعني يأخذ أو يستغرق أو يصطحب حسب السياق."
+        "description": "خذ أو اقبل في هذا السياق."
       },
       {
         "term": "a",
-        "description": "أداة نكرة تأتي قبل الاسم المفرد المعدود."
+        "description": "أداة تدل على شيء واحد غير محدد."
       },
       {
         "term": "chance",
-        "description": "اسم يعني فرصة."
+        "description": "فرصة فيها احتمال نجاح أو مخاطرة."
       }
     ],
-    "tense": null,
-    "tenseReason": "استُعمل هذا الأسلوب لأن الجملة تقدم طلبًا أو تعليمات مباشرة موجهة إلى شخص آخر، لذلك لا نضع لها هنا زمنًا فعليًا مستقلًا.",
+    "grammarExplanations": [
+      {
+        "sentence": "Take a chance.",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه صيغة أمر أو تشجيع على قبول فرصة مع بعض المخاطرة، ولا تحمل زمنًا مستقلًا."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "In this situation, people often say, \"Take a chance\".",
-        "ar": "في هذا الموقف، يقول الناس كثيرًا: \"خذ فرصة\".",
-        "context": "توضح أن العبارة مناسبة في هذا النوع من المواقف."
+        "en": "Take the chance.",
+        "ar": "خذ الفرصة.",
+        "context": "تقال عند تشجيع شخص على عدم تفويت فرصة."
       },
       {
         "id": 2,
-        "en": "The teacher said, \"Take a chance\" to the students.",
-        "ar": "قال المعلم للطلاب: \"خذ فرصة\".",
-        "context": "تستخدم الجملة كتعليمات أو توجيه مباشر."
+        "en": "Take a chance on the new job.",
+        "ar": "خذ فرصة في العمل الجديد.",
+        "context": "تقال عند تشجيع شخص على تجربة وظيفة جديدة."
       },
       {
         "id": 3,
-        "en": "He told me, \"Take a chance\" before we left.",
-        "ar": "قال لي: \"خذ فرصة\" قبل أن نغادر.",
-        "context": "تضع العبارة قبل حدث آخر."
+        "en": "Do not be afraid to try.",
+        "ar": "لا تخف من المحاولة.",
+        "context": "تقال عند تشجيع شخص متردد."
       },
       {
         "id": 4,
-        "en": "She said, \"Take a chance\" in a polite way.",
-        "ar": "قالت: \"خذ فرصة\" بطريقة مهذبة.",
-        "context": "تظهر أن العبارة يمكن أن تقال بلطف أو أدب."
+        "en": "Give it a try.",
+        "ar": "جربه.",
+        "context": "تقال عند تشجيع شخص على تجربة شيء."
       },
       {
         "id": 5,
-        "en": "Someone shouted, \"Take a chance\" when there was a problem.",
-        "ar": "صاح شخص ما: \"خذ فرصة\" عندما ظهرت مشكلة.",
-        "context": "تربط العبارة بموقف سريع أو طارئ."
+        "en": "Take a chance and apply.",
+        "ar": "خذ فرصة وقدّم الطلب.",
+        "context": "تقال عند تشجيع شخص على التقديم لفرصة."
       },
       {
         "id": 6,
-        "en": "You can say, \"Take a chance\" when you need a quick response.",
-        "ar": "يمكنك أن تقول: \"خذ فرصة\" عندما تحتاج إلى رد سريع.",
-        "context": "توضح أن العبارة مفيدة عند الحاجة إلى استجابة مباشرة."
+        "en": "She wants to take a chance.",
+        "ar": "هي تريد أن تأخذ فرصة.",
+        "context": "تقال عند استعداد شخص لتجربة شيء غير مضمون."
       },
       {
         "id": 7,
-        "en": "They repeated, \"Take a chance\" more than once.",
-        "ar": "رددوا: \"خذ فرصة\" أكثر من مرة.",
-        "context": "تعطي مثالًا على تكرار العبارة."
+        "en": "We should take a chance.",
+        "ar": "ينبغي أن نأخذ فرصة.",
+        "context": "تقال عند التفكير في خيار فيه مخاطرة."
       },
       {
         "id": 8,
-        "en": "I heard him say, \"Take a chance\" yesterday.",
-        "ar": "سمعته يقول: \"خذ فرصة\" أمس.",
-        "context": "تجعل العبارة جزءًا من موقف سمعته من شخص آخر."
+        "en": "Take a chance before it is too late.",
+        "ar": "خذ فرصة قبل أن يفوت الأوان.",
+        "context": "تقال عند وجود وقت محدود للتصرف."
       },
       {
         "id": 9,
-        "en": "Many learners remember the phrase, \"Take a chance\".",
-        "ar": "يتذكر كثير من المتعلمين العبارة: \"خذ فرصة\".",
-        "context": "تقدم العبارة بوصفها عبارة سهلة التذكر."
+        "en": "He took a chance and won.",
+        "ar": "أخذ فرصة وفاز.",
+        "context": "تقال عند نجاح شخص بعد مخاطرة."
       },
       {
         "id": 10,
-        "en": "At that moment, she said, \"Take a chance\".",
-        "ar": "في تلك اللحظة، قالت: \"خذ فرصة\".",
-        "context": "تربط العبارة بلحظة معينة في السرد."
+        "en": "Sometimes you need to take a chance.",
+        "ar": "أحيانًا تحتاج إلى أخذ فرصة.",
+        "context": "تقال عند الحديث عن أهمية التجربة رغم المخاطرة."
       }
     ]
   }

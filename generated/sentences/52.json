@@ -10,88 +10,103 @@
     "wordMeanings": [
       {
         "term": "I",
-        "description": "ضمير المتكلم."
+        "description": "ضمير المتكلم ويشير إلى الشخص الذي يتحدث."
       },
       {
         "term": "am",
-        "description": "فعل be مع I ويُستعمل هنا مع learning لتكوين المضارع المستمر."
+        "description": "صيغة تأتي مع ضمير المتكلم المفرد وتربط الشخص بحالته."
       },
       {
         "term": "good",
-        "description": "صفة تعني جيد أو مريح أو مناسب هنا."
+        "description": "بخير أو في حالة جيدة."
       },
       {
         "term": "and",
-        "description": "حرف عطف يربط بين كلمتين أو جملتين."
+        "description": "تربط بين الرد والسؤال المقابل."
       },
       {
         "term": "you",
-        "description": "الضمير الذي يعود على الشخص المخاطَب."
+        "description": "ضمير يشير إلى الشخص الذي أتحدث معه."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "I am good",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "تستخدم am مع صفة لوصف حالة المتكلم الحالية في رد قصير على سؤال عن الحال."
+        }
+      },
+      {
+        "sentence": "and you?",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذا سؤال مقابل مختصر يعني السؤال عن حال المخاطب، ولا يحتوي على فعل ظاهر أو زمن مستقل."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "You can ask, \"I am good, and you?\" when you need information.",
-        "ar": "يمكنك أن تسأل: \"أنا جيد، وأنت؟\" عندما تحتاج إلى معلومة.",
-        "context": "تستعمل الجملة كسؤال مباشر للحصول على معلومة."
+        "en": "I am fine, and you?",
+        "ar": "أنا بخير، وأنت؟",
+        "context": "تقال عند الرد على سؤال عن الحال والسؤال بالمقابل."
       },
       {
         "id": 2,
-        "en": "Many people ask, \"I am good, and you?\" in this situation.",
-        "ar": "يسأل كثير من الناس: \"أنا جيد، وأنت؟\" في هذا الموقف.",
-        "context": "توضح أن هذا سؤال شائع في موقف مشابه."
+        "en": "I am well, and you?",
+        "ar": "أنا بخير، وأنت؟",
+        "context": "تقال في رد مهذب على تحية."
       },
       {
         "id": 3,
-        "en": "I asked, \"I am good, and you?\" because I was not sure.",
-        "ar": "سألت: \"أنا جيد، وأنت؟\" لأنني لم أكن متأكدًا.",
-        "context": "تضيف سببًا لطرح السؤال."
+        "en": "I am okay, and you?",
+        "ar": "أنا بخير، وأنت؟",
+        "context": "تقال عند إعطاء رد بسيط عن الحال."
       },
       {
         "id": 4,
-        "en": "She asked politely, \"I am good, and you?\"",
-        "ar": "سألت بأدب: \"أنا جيد، وأنت؟\".",
-        "context": "تبين أن السؤال قيل بطريقة مهذبة."
+        "en": "I am tired, and you?",
+        "ar": "أنا متعب، وأنت؟",
+        "context": "تقال عند ذكر حالتك ثم سؤال الآخر عن حاله."
       },
       {
         "id": 5,
-        "en": "At work, someone may ask, \"I am good, and you?\"",
-        "ar": "في العمل، قد يسأل شخص ما: \"أنا جيد، وأنت؟\".",
-        "context": "تضع السؤال في سياق مهني أو عملي."
+        "en": "We are good, and you?",
+        "ar": "نحن بخير، وأنت؟",
+        "context": "تقال عند الرد باسم مجموعة والسؤال بالمقابل."
       },
       {
         "id": 6,
-        "en": "Before deciding, ask: \"I am good, and you?\"",
-        "ar": "قبل أن تقرر، اسأل: \"أنا جيد، وأنت؟\".",
-        "context": "تستخدم السؤال قبل اتخاذ قرار."
+        "en": "I feel good, and you?",
+        "ar": "أشعر أنني بخير، وأنت؟",
+        "context": "تقال عند وصف شعور جيد ثم سؤال الآخر."
       },
       {
         "id": 7,
-        "en": "The student asked, \"I am good, and you?\" in class.",
-        "ar": "سأل الطالب: \"أنا جيد، وأنت؟\" في الصف.",
-        "context": "تجعل الجملة جزءًا من موقف تعليمي."
+        "en": "My family is good, and yours?",
+        "ar": "عائلتي بخير، وعائلتك؟",
+        "context": "تقال عند السؤال المتبادل عن العائلة."
       },
       {
         "id": 8,
-        "en": "While traveling, you can ask, \"I am good, and you?\"",
-        "ar": "أثناء السفر، يمكنك أن تسأل: \"أنا جيد، وأنت؟\".",
-        "context": "تربط السؤال بموقف السفر أو التنقل."
+        "en": "I am happy today, and you?",
+        "ar": "أنا سعيد اليوم، وأنت؟",
+        "context": "تقال عند مشاركة شعور إيجابي والسؤال بالمقابل."
       },
       {
         "id": 9,
-        "en": "He asked me, \"I am good, and you?\" again.",
-        "ar": "سألني: \"أنا جيد، وأنت؟\" مرة أخرى.",
-        "context": "تضيف معنى التكرار لنفس السؤال."
+        "en": "Everything is good, and you?",
+        "ar": "كل شيء بخير، وأنت؟",
+        "context": "تقال عند الرد بشكل عام عن الأحوال."
       },
       {
         "id": 10,
-        "en": "If you are not sure, ask: \"I am good, and you?\"",
-        "ar": "إذا لم تكن متأكدًا، فاسأل: \"أنا جيد، وأنت؟\".",
-        "context": "توضح أن السؤال مناسب عند عدم التأكد."
+        "en": "I am better now, and you?",
+        "ar": "أنا أفضل الآن، وأنت؟",
+        "context": "تقال بعد تحسن الحال والسؤال عن حال المخاطب."
       }
     ]
   }

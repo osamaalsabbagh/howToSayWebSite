@@ -10,108 +10,115 @@
     "wordMeanings": [
       {
         "term": "There",
-        "description": "ظرف مكان يعني هناك."
+        "description": "تبدأ تركيبًا يدل على وجود شيء أو حدوثه."
       },
       {
         "term": "will",
-        "description": "أداة مستقبل تدل على ما سيحدث لاحقًا."
+        "description": "يدل على المستقبل."
       },
       {
         "term": "be",
-        "description": "فعل أمر من be."
+        "description": "يعني يكون أو يوجد بعد will."
       },
       {
         "term": "an",
-        "description": "أداة نكرة تأتي قبل الاسم المفرد الذي يبدأ بصوت علّة."
+        "description": "أداة نكرة قبل اسم يبدأ بصوت علّة."
       },
       {
         "term": "art",
-        "description": "اسم يعني سيكون."
+        "description": "فن أو متعلق بالفنون."
       },
       {
         "term": "festival",
-        "description": "اسم يعني مهرجان."
+        "description": "مهرجان أو فعالية كبيرة."
       },
       {
         "term": "in",
-        "description": "حرف جر يعني في."
+        "description": "حرف يحدد المكان."
       },
       {
         "term": "the",
-        "description": "أداة تعريف تشير إلى شيء معروف أو محدد."
+        "description": "أداة تعريف لمنطقة معروفة في السياق."
       },
       {
         "term": "city",
-        "description": "اسم يعني مدينة."
+        "description": "مدينة."
       },
       {
         "term": "area",
-        "description": "اسم يعني منطقة."
+        "description": "منطقة أو جزء من مكان."
       }
     ],
-    "tense": "المستقبل البسيط",
-    "tenseEn": "Future Simple",
-    "tenseReason": "استُعمل المستقبل البسيط لأن الجملة تتحدث عن شيء سيحدث لاحقًا أو عن قرار أو توقع يخص المستقبل.",
+    "grammarExplanations": [
+      {
+        "sentence": "There will be an art festival in the city area.",
+        "explanation": {
+          "tense": "المستقبل البسيط",
+          "tenseEn": "Future Simple",
+          "reason": "استُعمل المستقبل البسيط للإخبار عن فعالية ستحدث لاحقًا في منطقة المدينة."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "Soon, There will be an art festival in the city area.",
-        "ar": "قريبًا، سيكون هناك مهرجان فني في منطقة المدينة.",
-        "context": "تؤكد قرب الحدث في المستقبل."
+        "en": "There will be a music festival downtown.",
+        "ar": "سيكون هناك مهرجان موسيقي في وسط المدينة.",
+        "context": "تخبر عن فعالية قادمة."
       },
       {
         "id": 2,
-        "en": "Tomorrow, There will be an art festival in the city area.",
-        "ar": "غدًا، سيكون هناك مهرجان فني في منطقة المدينة.",
-        "context": "تربط الجملة بوقت مستقبلي محدد."
+        "en": "There will be an art show in April.",
+        "ar": "سيكون هناك عرض فني في أبريل.",
+        "context": "تحدد نوع الفعالية ووقتها."
       },
       {
         "id": 3,
-        "en": "There will be an art festival in the city area after lunch.",
-        "ar": "سيكون هناك مهرجان فني في منطقة المدينة بعد الغداء.",
-        "context": "تضيف توقيتًا مستقبليًا واضحًا."
+        "en": "There will be a food market in the park.",
+        "ar": "سيكون هناك سوق طعام في الحديقة.",
+        "context": "تصف حدثًا في مكان عام."
       },
       {
         "id": 4,
-        "en": "There will be an art festival in the city area if everything goes well.",
-        "ar": "سيكون هناك مهرجان فني في منطقة المدينة إذا سارت الأمور جيدًا.",
-        "context": "تجعل الحدث معتمدًا على شرط مستقبلي."
+        "en": "There will be many artists there.",
+        "ar": "سيكون هناك كثير من الفنانين هناك.",
+        "context": "تذكر من سيحضر الفعالية."
       },
       {
         "id": 5,
-        "en": "There will be an art festival in the city area later today.",
-        "ar": "سيكون هناك مهرجان فني في منطقة المدينة لاحقًا اليوم.",
-        "context": "تربط الجملة بمستقبل قريب جدًا."
+        "en": "There will be a festival near the station.",
+        "ar": "سيكون هناك مهرجان قرب المحطة.",
+        "context": "توضح موقع فعالية."
       },
       {
         "id": 6,
-        "en": "I think There will be an art festival in the city area.",
-        "ar": "أعتقد أن سيكون هناك مهرجان فني في منطقة المدينة.",
-        "context": "تضيف معنى التوقع أو الاعتقاد."
+        "en": "There will be a class in the city area.",
+        "ar": "ستكون هناك حصة في منطقة المدينة.",
+        "context": "تخبر عن نشاط قادم."
       },
       {
         "id": 7,
-        "en": "There will be an art festival in the city area, so get ready.",
-        "ar": "سيكون هناك مهرجان فني في منطقة المدينة، لذا استعد.",
-        "context": "تضيف نتيجة أو استعدادًا لحدث مستقبلي."
+        "en": "There will be an event next week.",
+        "ar": "سيكون هناك حدث الأسبوع القادم.",
+        "context": "تذكر موعدًا مستقبليًا عامًّا."
       },
       {
         "id": 8,
-        "en": "Next week, There will be an art festival in the city area.",
-        "ar": "الأسبوع القادم، سيكون هناك مهرجان فني في منطقة المدينة.",
-        "context": "تنقل الجملة إلى وقت مستقبلي أبعد قليلًا."
+        "en": "There will be a new exhibition soon.",
+        "ar": "سيكون هناك معرض جديد قريبًا.",
+        "context": "تخبر عن معرض قادم."
       },
       {
         "id": 9,
-        "en": "There will be an art festival in the city area when the time is right.",
-        "ar": "سيكون هناك مهرجان فني في منطقة المدينة عندما يحين الوقت المناسب.",
-        "context": "تربط الحدث المستقبلي بوقت مناسب غير محدد."
+        "en": "There will be live music in the area.",
+        "ar": "ستكون هناك موسيقى مباشرة في المنطقة.",
+        "context": "تصف جزءًا من فعالية."
       },
       {
         "id": 10,
-        "en": "Before long, There will be an art festival in the city area.",
-        "ar": "بعد وقت قصير، سيكون هناك مهرجان فني في منطقة المدينة.",
-        "context": "تضيف ظرفًا مستقبليًا عامًا."
+        "en": "There will be an art festival by the river.",
+        "ar": "سيكون هناك مهرجان فني بجانب النهر.",
+        "context": "تحدد مكان المهرجان بدقة أكبر."
       }
     ]
   }

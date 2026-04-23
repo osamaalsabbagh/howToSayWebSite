@@ -10,71 +10,79 @@
     "wordMeanings": [
       {
         "term": "Hurry",
-        "description": "فعل يعني أسرع."
+        "description": "أسرع أو تحرك بسرعة لأن الوقت مهم."
       }
     ],
-    "tense": null,
-    "tenseReason": "استُعمل هذا الأسلوب لأن الجملة تقدم طلبًا أو تعليمات مباشرة موجهة إلى شخص آخر، لذلك لا نضع لها هنا زمنًا فعليًا مستقلًا.",
+    "grammarExplanations": [
+      {
+        "sentence": "Hurry!",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه صيغة أمر قصيرة لحث شخص على الإسراع، والفاعل مفهوم من السياق، لذلك لا تحمل زمنًا مستقلًا."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "In this situation, people often say, \"Hurry!\"",
-        "ar": "في هذا الموقف، يقول الناس كثيرًا: \"أسرع!\"",
-        "context": "توضح أن العبارة مناسبة في هذا النوع من المواقف."
+        "en": "Please hurry.",
+        "ar": "من فضلك أسرع.",
+        "context": "تقال لطلب الإسراع بأدب."
       },
       {
         "id": 2,
-        "en": "The teacher said, \"Hurry!\" to the students.",
-        "ar": "قال المعلم للطلاب: \"أسرع!\"",
-        "context": "تستخدم الجملة كتعليمات أو توجيه مباشر."
+        "en": "Hurry up.",
+        "ar": "أسرع.",
+        "context": "تقال عندما يكون الوقت قصيرًا."
       },
       {
         "id": 3,
-        "en": "He told me, \"Hurry!\" before we left.",
-        "ar": "قال لي: \"أسرع!\" قبل أن نغادر.",
-        "context": "تضع العبارة قبل حدث آخر."
+        "en": "Hurry to the bus.",
+        "ar": "أسرع إلى الحافلة.",
+        "context": "تقال عند الخوف من فوات الحافلة."
       },
       {
         "id": 4,
-        "en": "She said, \"Hurry!\" in a polite way.",
-        "ar": "قالت: \"أسرع!\" بطريقة مهذبة.",
-        "context": "تظهر أن العبارة يمكن أن تقال بلطف أو أدب."
+        "en": "Please move quickly.",
+        "ar": "من فضلك تحرك بسرعة.",
+        "context": "تقال لحث شخص على الحركة السريعة."
       },
       {
         "id": 5,
-        "en": "Someone shouted, \"Hurry!\" when there was a problem.",
-        "ar": "صاح شخص ما: \"أسرع!\" عندما ظهرت مشكلة.",
-        "context": "تربط العبارة بموقف سريع أو طارئ."
+        "en": "We need to hurry.",
+        "ar": "نحتاج إلى الإسراع.",
+        "context": "تقال عندما يجب على المجموعة التحرك بسرعة."
       },
       {
         "id": 6,
-        "en": "You can say, \"Hurry!\" when you need a quick response.",
-        "ar": "يمكنك أن تقول: \"أسرع!\" عندما تحتاج إلى رد سريع.",
-        "context": "توضح أن العبارة مفيدة عند الحاجة إلى استجابة مباشرة."
+        "en": "Hurry before the store closes.",
+        "ar": "أسرع قبل أن يغلق المتجر.",
+        "context": "تقال عندما يوجد موعد إغلاق قريب."
       },
       {
         "id": 7,
-        "en": "They repeated, \"Hurry!\" more than once.",
-        "ar": "رددوا: \"أسرع!\" أكثر من مرة.",
-        "context": "تعطي مثالًا على تكرار العبارة."
+        "en": "Hurry and get your coat.",
+        "ar": "أسرع وأحضر معطفك.",
+        "context": "تقال قبل الخروج بسرعة."
       },
       {
         "id": 8,
-        "en": "I heard him say, \"Hurry!\" yesterday.",
-        "ar": "سمعته يقول: \"أسرع!\" أمس.",
-        "context": "تجعل العبارة جزءًا من موقف سمعته من شخص آخر."
+        "en": "Do not hurry too much.",
+        "ar": "لا تستعجل كثيرًا.",
+        "context": "تقال عندما يكون الإسراع الزائد غير آمن."
       },
       {
         "id": 9,
-        "en": "Many learners remember the phrase, \"Hurry!\"",
-        "ar": "يتذكر كثير من المتعلمين العبارة: \"أسرع!\"",
-        "context": "تقدم العبارة بوصفها عبارة سهلة التذكر."
+        "en": "Hurry, the taxi is here.",
+        "ar": "أسرع، سيارة الأجرة هنا.",
+        "context": "تقال عند وصول وسيلة النقل."
       },
       {
         "id": 10,
-        "en": "At that moment, she said, \"Hurry!\"",
-        "ar": "في تلك اللحظة، قالت: \"أسرع!\"",
-        "context": "تربط العبارة بلحظة معينة في السرد."
+        "en": "Please hurry with the order.",
+        "ar": "من فضلك أسرع في الطلب.",
+        "context": "تقال عند الحاجة إلى إنهاء طلب بسرعة."
       }
     ]
   }

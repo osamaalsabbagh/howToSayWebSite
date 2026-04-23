@@ -10,11 +10,11 @@
     "wordMeanings": [
       {
         "term": "That",
-        "description": "تشير إلى أمر أو خبر سبق ذكره."
+        "description": "اسم أو صفة إشارة لشيء أبعد أو لمعلومة مذكورة."
       },
       {
         "term": "is",
-        "description": "فعل be في الحاضر مع المفرد."
+        "description": "صيغة تربط اسم الإشارة بالوصف الذي بعده."
       },
       {
         "term": "funny",
@@ -22,19 +22,19 @@
       },
       {
         "term": "I",
-        "description": "ضمير المتكلم."
+        "description": "ضمير المتكلم المفرد."
       },
       {
         "term": "used",
-        "description": "فعل يعني كنت."
+        "description": "جزء من تركيب يدل على شيء كان صحيحًا في الماضي ولم يعد كذلك الآن."
       },
       {
         "term": "to",
-        "description": "أداة تأتي قبل المصدر بعد أفعال مثل want."
+        "description": "تأتي هنا ضمن تركيب يدل على حالة أو عادة سابقة."
       },
       {
         "term": "be",
-        "description": "فعل أمر من be."
+        "description": "تعني يكون، وتوضح هنا المهنة السابقة للشخص."
       },
       {
         "term": "an",
@@ -50,76 +50,91 @@
       },
       {
         "term": "switching",
-        "description": "فعل يعني مساري."
+        "description": "تعني تغيير أو انتقال من شيء إلى آخر، وهنا تغيير المسار المهني."
       },
       {
         "term": "careers",
-        "description": "اسم يعني المهني."
+        "description": "جمع مسار مهني أو مجال عمل."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "That is funny!",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُعمل المضارع البسيط لأن هذا الجزء يصف حالة أو حقيقة أو معنى حاضرًا في سياق الكلام."
+        }
+      },
+      {
+        "sentence": "I used to be an actor before switching careers.",
+        "explanation": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "استُعمل الماضي البسيط داخل تركيب يدل على حالة أو عادة كانت صحيحة في الماضي ولم تعد كذلك الآن."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "In general, That is funny! I used to be an actor before switching careers.",
-        "ar": "بشكل عام، هذا طريف! كنت ممثلًا قبل أن أغير مساري المهني.",
-        "context": "تضيف عبارة عامة تحافظ على نفس المعنى الأساسي."
+        "en": "That is funny! I used to be a teacher before switching careers.",
+        "ar": "هذا طريف! كنت معلمًا قبل أن أغير مساري المهني.",
+        "context": "نفس التركيب مع مهنة سابقة مختلفة."
       },
       {
         "id": 2,
-        "en": "Usually, That is funny! I used to be an actor before switching careers.",
-        "ar": "عادةً، هذا طريف! كنت ممثلًا قبل أن أغير مساري المهني.",
-        "context": "تضيف ظرفًا يدل على التكرار أو العادة."
+        "en": "That is funny! I used to be a waiter before switching careers.",
+        "ar": "هذا طريف! كنت نادلًا قبل أن أغير مساري المهني.",
+        "context": "توضح أن الشخص كان يعمل في وظيفة أخرى سابقًا."
       },
       {
         "id": 3,
-        "en": "Sometimes, That is funny! I used to be an actor before switching careers.",
-        "ar": "أحيانًا، هذا طريف! كنت ممثلًا قبل أن أغير مساري المهني.",
-        "context": "تضع الجملة في سياق أقل تكرارًا."
+        "en": "That is funny! I used to be an actress before switching careers.",
+        "ar": "هذا طريف! كنت ممثلة قبل أن أغير مساري المهني.",
+        "context": "نفس المعنى مع متحدثة أنثى أو مهنة بصيغة مؤنثة."
       },
       {
         "id": 4,
-        "en": "For now, That is funny! I used to be an actor before switching careers.",
-        "ar": "في الوقت الحالي، هذا طريف! كنت ممثلًا قبل أن أغير مساري المهني.",
-        "context": "تربط الجملة بالوضع الحالي."
+        "en": "That is funny! I used to work in theater before switching careers.",
+        "ar": "هذا طريف! كنت أعمل في المسرح قبل أن أغير مساري المهني.",
+        "context": "تصف مجالًا سابقًا بدل مهنة محددة."
       },
       {
         "id": 5,
-        "en": "That is funny! I used to be an actor before switching careers, so that helps a lot.",
-        "ar": "هذا طريف! كنت ممثلًا قبل أن أغير مساري المهني، وهذا يساعد كثيرًا.",
-        "context": "تضيف نتيجة بسيطة على نفس المعنى."
+        "en": "That is funny! I used to be an actor before becoming a manager.",
+        "ar": "هذا طريف! كنت ممثلًا قبل أن أصبح مديرًا.",
+        "context": "تذكر الوظيفة الجديدة بدل عبارة تغيير المسار."
       },
       {
         "id": 6,
-        "en": "That is funny! I used to be an actor before switching careers in daily life.",
-        "ar": "هذا طريف! كنت ممثلًا قبل أن أغير مساري المهني في الحياة اليومية.",
-        "context": "تربط الجملة بمواقف الحياة اليومية."
+        "en": "That is funny! I used to be an actor before I entered business.",
+        "ar": "هذا طريف! كنت ممثلًا قبل أن أدخل مجال الأعمال.",
+        "context": "توضح المسار الجديد بعد ترك التمثيل."
       },
       {
         "id": 7,
-        "en": "That is funny! I used to be an actor before switching careers when it is necessary.",
-        "ar": "هذا طريف! كنت ممثلًا قبل أن أغير مساري المهني عندما يكون ذلك ضروريًا.",
-        "context": "تربط الجملة بشرط أو حاجة معينة."
+        "en": "That is funny! My brother used to be an actor before switching careers.",
+        "ar": "هذا طريف! كان أخي ممثلًا قبل أن يغير مساره المهني.",
+        "context": "تستخدم التركيب للحديث عن شخص آخر."
       },
       {
         "id": 8,
-        "en": "In this situation, That is funny! I used to be an actor before switching careers.",
-        "ar": "في هذا الموقف، هذا طريف! كنت ممثلًا قبل أن أغير مساري المهني.",
-        "context": "تجعل الجملة جزءًا من موقف واضح."
+        "en": "That is funny! I used to be an actor before changing jobs.",
+        "ar": "هذا طريف! كنت ممثلًا قبل أن أغير الوظائف.",
+        "context": "صيغة أبسط لمعنى تغيير المسار المهني."
       },
       {
         "id": 9,
-        "en": "That is funny! I used to be an actor before switching careers, and everyone notices that.",
-        "ar": "هذا طريف! كنت ممثلًا قبل أن أغير مساري المهني، والجميع يلاحظ ذلك.",
-        "context": "تضيف ملاحظة أو نتيجة بعد الجملة."
+        "en": "That is funny! I used to be an actor before studying software.",
+        "ar": "هذا طريف! كنت ممثلًا قبل دراسة البرمجيات.",
+        "context": "تربط الماضي المهني بالدراسة الحالية."
       },
       {
         "id": 10,
-        "en": "That is funny! I used to be an actor before switching careers most of the time.",
-        "ar": "هذا طريف! كنت ممثلًا قبل أن أغير مساري المهني معظم الوقت.",
-        "context": "تضيف عبارة تكرار شائعة."
+        "en": "That is funny! I used to be an actor before moving into technology.",
+        "ar": "هذا طريف! كنت ممثلًا قبل الانتقال إلى مجال التكنولوجيا.",
+        "context": "توضح الانتقال من الفن إلى مجال تقني."
       }
     ]
   }

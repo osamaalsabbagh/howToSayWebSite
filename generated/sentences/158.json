@@ -10,84 +10,91 @@
     "wordMeanings": [
       {
         "term": "Nice",
-        "description": "تعبير قصير عن الإعجاب أو الرضا. قد يعني: لطيف، جميل، رائع، جيد."
+        "description": "لطيف أو سار، وتستخدم هنا للتعبير عن المجاملة."
       },
       {
         "term": "to",
-        "description": "أداة تأتي قبل المصدر بعد أفعال مثل want."
+        "description": "تربط الصفة بالفعل بعدها لتكوين معنى: من اللطيف أن."
       },
       {
         "term": "meet",
-        "description": "فعل يعني يقابل أو يلتقي."
+        "description": "ألتقي أو أتعرف إلى شخص."
       },
       {
         "term": "you",
-        "description": "الضمير الذي يعود على الشخص المخاطَب."
+        "description": "أنت أو إياك، وتشير إلى الشخص المخاطب."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "Nice to meet you.",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه عبارة مجاملة مختصرة عند التعارف، وفيها حذف لكلمات مفهومة مثل: من اللطيف أن ألتقي بك، لذلك لا يظهر فيها فعل بزمن مستقل."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "People often say, \"Nice to meet you\" in situations like this.",
-        "ar": "يقول الناس كثيرًا: \"من اللطيف أن ألتقي بك\" في مواقف كهذه.",
-        "context": "تستخدم الجملة بوصفها تركيبًا شائعًا في موقف مشابه."
+        "en": "Nice to meet you.",
+        "ar": "من اللطيف أن ألتقي بك.",
+        "context": "تقال عند مقابلة شخص لأول مرة."
       },
       {
         "id": 2,
-        "en": "You can say, \"Nice to meet you\" when this happens.",
-        "ar": "يمكنك أن تقول: \"من اللطيف أن ألتقي بك\" عندما يحدث هذا.",
-        "context": "توضح أن الجملة مناسبة في موقف متكرر."
+        "en": "It is nice to meet you.",
+        "ar": "من اللطيف أن ألتقي بك.",
+        "context": "تقال بصيغة أكمل عند التعارف."
       },
       {
         "id": 3,
-        "en": "I heard someone say, \"Nice to meet you\".",
-        "ar": "سمعت شخصًا يقول: \"من اللطيف أن ألتقي بك\".",
-        "context": "تجعل الجملة جزءًا من كلام سمعته من شخص آخر."
+        "en": "Nice to meet you, Omar.",
+        "ar": "من اللطيف أن ألتقي بك يا عمر.",
+        "context": "تقال عند التعارف مع ذكر الاسم."
       },
       {
         "id": 4,
-        "en": "The teacher used the sentence, \"Nice to meet you\" in class.",
-        "ar": "استخدم المعلم الجملة: \"من اللطيف أن ألتقي بك\" في الصف.",
-        "context": "تستخدم الجملة مثالًا تعليميًا في الصف."
+        "en": "Nice to meet you in person.",
+        "ar": "من اللطيف أن ألتقي بك شخصيًا.",
+        "context": "تقال عند مقابلة شخص بعد تواصل سابق."
       },
       {
         "id": 5,
-        "en": "Many learners remember the sentence, \"Nice to meet you\" first.",
-        "ar": "يتذكر كثير من المتعلمين الجملة: \"من اللطيف أن ألتقي بك\" أولًا.",
-        "context": "تقدم الجملة بوصفها جملة تعليمية أساسية."
+        "en": "Nice to meet your family.",
+        "ar": "من اللطيف أن ألتقي بعائلتك.",
+        "context": "تقال عند التعارف مع عائلة شخص."
       },
       {
         "id": 6,
-        "en": "She said, \"Nice to meet you\" in a calm way.",
-        "ar": "قالت: \"من اللطيف أن ألتقي بك\" بطريقة هادئة.",
-        "context": "تجعل الجملة جزءًا من كلام مباشر في موقف عادي."
+        "en": "Nice to meet your team.",
+        "ar": "من اللطيف أن ألتقي بفريقك.",
+        "context": "تقال في لقاء عمل أو تعاون."
       },
       {
         "id": 7,
-        "en": "He repeated, \"Nice to meet you\" more than once.",
-        "ar": "ردد: \"من اللطيف أن ألتقي بك\" أكثر من مرة.",
-        "context": "تضيف معنى التكرار لنفس الجملة."
+        "en": "Nice to meet you at last.",
+        "ar": "من اللطيف أن ألتقي بك أخيرًا.",
+        "context": "تقال بعد انتظار فرصة اللقاء."
       },
       {
         "id": 8,
-        "en": "At the right moment, someone might say, \"Nice to meet you\".",
-        "ar": "في اللحظة المناسبة، قد يقول شخص ما: \"من اللطيف أن ألتقي بك\".",
-        "context": "توضح أن الجملة مرتبطة بتوقيت مناسب في السياق."
+        "en": "Nice to meet you here.",
+        "ar": "من اللطيف أن ألتقي بك هنا.",
+        "context": "تقال عند لقاء شخص في مكان معين."
       },
       {
         "id": 9,
-        "en": "I wrote down the sentence, \"Nice to meet you\" so I would remember it.",
-        "ar": "كتبت الجملة: \"من اللطيف أن ألتقي بك\" حتى أتذكرها.",
-        "context": "تعطي مثالًا على حفظ الجملة أو مراجعتها."
+        "en": "It was nice to meet you.",
+        "ar": "كان من اللطيف أن ألتقي بك.",
+        "context": "تقال بعد انتهاء لقاء تعارف."
       },
       {
         "id": 10,
-        "en": "It is useful to know when to say, \"Nice to meet you\".",
-        "ar": "من المفيد أن تعرف متى تقول: \"من اللطيف أن ألتقي بك\".",
-        "context": "تركز على معرفة الوقت المناسب لاستخدام الجملة."
+        "en": "Nice to meet you both.",
+        "ar": "من اللطيف أن ألتقي بكما.",
+        "context": "تقال عند التعارف مع شخصين."
       }
     ]
   }

@@ -10,151 +10,171 @@
     "wordMeanings": [
       {
         "term": "Good",
-        "description": "صفة تعني جيد أو مريح أو مناسب هنا."
+        "description": "جزء من تحية الصباح."
       },
       {
         "term": "morning",
-        "description": "اسم يعني الصباح."
+        "description": "الصباح، وتكمل عبارة التحية."
       },
       {
         "term": "Usually",
-        "description": "ظرف تكرار يعني عادةً."
+        "description": "تعني عادةً أو في أغلب الحالات."
       },
       {
         "term": "anyone",
-        "description": "اسم يعني شخص."
+        "description": "أي شخص."
       },
       {
         "term": "interested",
-        "description": "فعل يعني مهتم."
+        "description": "مهتم أو لديه رغبة في شيء."
       },
       {
         "term": "in",
-        "description": "حرف جر يعني في."
+        "description": "حرف يربط الاهتمام بالشيء المقصود."
       },
       {
         "term": "this",
-        "description": "اسم إشارة يعني هذا."
+        "description": "اسم إشارة لهذه الشقة المحددة."
       },
       {
         "term": "apartment",
-        "description": "اسم يعني شقة."
+        "description": "شقة سكنية."
       },
       {
         "term": "must",
-        "description": "فعل modal يدل على الوجوب أو الاستنتاج القوي."
+        "description": "يدل على الوجوب أو الشرط المطلوب."
       },
       {
         "term": "book",
-        "description": "اسم يعني كتاب."
+        "description": "تعني يحجز موعدًا."
       },
       {
         "term": "a",
-        "description": "أداة نكرة تأتي قبل الاسم المفرد المعدود."
+        "description": "أداة نكرة قبل اسم مفرد."
       },
       {
         "term": "viewing",
-        "description": "فعل يعني يحجز."
+        "description": "معاينة للعقار."
+      },
+      {
+        "term": "in",
+        "description": "جزء من عبارة in advance التي تعني مسبقًا."
       },
       {
         "term": "advance",
-        "description": "اسم يعني معاينة."
+        "description": "تكمل عبارة مسبقًا أو قبل الوقت."
       },
       {
         "term": "but",
-        "description": "حرف ربط يفيد الاستدراك أو التباين."
+        "description": "حرف يبين استثناء أو اختلافًا عن القاعدة."
       },
       {
         "term": "I",
-        "description": "ضمير المتكلم."
+        "description": "ضمير المتكلم المفرد."
       },
       {
         "term": "can",
-        "description": "فعل مساعد يدل هنا على القدرة أو الاستعداد لتلبية الطلب."
+        "description": "يدل على القدرة أو الإمكانية."
       },
       {
         "term": "show",
-        "description": "فعل يعني يري أو يعرض."
+        "description": "تعني أُري أو أعرض."
       },
       {
         "term": "it",
-        "description": "ضمير يعود على الشيء أو الجملة التي قيلت."
+        "description": "ضمير يعود على الشقة."
       },
       {
         "term": "to",
-        "description": "أداة تأتي قبل المصدر بعد أفعال مثل want."
+        "description": "يوضح الشخص الذي سيُعرض عليه الشيء."
       },
       {
         "term": "you",
-        "description": "الضمير الذي يعود على الشخص المخاطَب."
+        "description": "ضمير المخاطب."
       },
       {
         "term": "now",
-        "description": "ظرف زمان يعني الآن."
+        "description": "الآن، في هذه اللحظة."
       }
     ],
-    "tense": null,
-    "tenseReason": "تتضمن الجملة فعلًا modal يعبّر عن القدرة أو الإمكانية أو الرغبة، لذلك لا نضع لها هنا زمنًا فعليًا مستقلًا على الرغم من وجود معنى زمني عام في السياق.",
+    "grammarExplanations": [
+      {
+        "sentence": "Good morning.",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه تحية صباحية وليست جملة فعلية لها زمن مستقل."
+        }
+      },
+      {
+        "sentence": "Usually, anyone interested in this apartment must book a viewing in advance, but I can show it to you now.",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "الجملة تشرح قاعدة وإمكانية باستخدام must وcan، وهما فعلان مساعدان يعبّران عن الوجوب والقدرة، لذلك يشرحان كتركيب وظيفي لا كزمن مستقل."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "People often say, \"Good morning. Usually, anyone interested in this apartment must book a viewing in advance, but I can show it to you now\" in situations like this.",
-        "ar": "يقول الناس كثيرًا: \"صباح الخير. عادةً أي شخص مهتم بهذه الشقة يجب أن يحجز معاينة مسبقًا، لكن يمكنني أن أريك إياها الآن\" في مواقف كهذه.",
-        "context": "تستخدم الجملة بوصفها تركيبًا شائعًا في موقف مشابه."
+        "en": "Usually, visitors must book a viewing in advance.",
+        "ar": "عادةً يجب على الزوار حجز معاينة مسبقًا.",
+        "context": "تشرح قاعدة مكتب العقار."
       },
       {
         "id": 2,
-        "en": "You can say, \"Good morning. Usually, anyone interested in this apartment must book a viewing in advance, but I can show it to you now\" when this happens.",
-        "ar": "يمكنك أن تقول: \"صباح الخير. عادةً أي شخص مهتم بهذه الشقة يجب أن يحجز معاينة مسبقًا، لكن يمكنني أن أريك إياها الآن\" عندما يحدث هذا.",
-        "context": "توضح أن الجملة مناسبة في موقف متكرر."
+        "en": "I can show it to you now.",
+        "ar": "يمكنني أن أريك إياها الآن.",
+        "context": "تعرض المساعدة فورًا."
       },
       {
         "id": 3,
-        "en": "I heard someone say, \"Good morning. Usually, anyone interested in this apartment must book a viewing in advance, but I can show it to you now\".",
-        "ar": "سمعت شخصًا يقول: \"صباح الخير. عادةً أي شخص مهتم بهذه الشقة يجب أن يحجز معاينة مسبقًا، لكن يمكنني أن أريك إياها الآن\".",
-        "context": "تجعل الجملة جزءًا من كلام سمعته من شخص آخر."
+        "en": "Anyone interested must call first.",
+        "ar": "أي شخص مهتم يجب أن يتصل أولًا.",
+        "context": "توضح شرطًا قبل الزيارة."
       },
       {
         "id": 4,
-        "en": "The teacher used the sentence, \"Good morning. Usually, anyone interested in this apartment must book a viewing in advance, but I can show it to you now\" in class.",
-        "ar": "استخدم المعلم الجملة: \"صباح الخير. عادةً أي شخص مهتم بهذه الشقة يجب أن يحجز معاينة مسبقًا، لكن يمكنني أن أريك إياها الآن\" في الصف.",
-        "context": "تستخدم الجملة مثالًا تعليميًا في الصف."
+        "en": "Usually, we need an appointment.",
+        "ar": "عادةً نحتاج إلى موعد.",
+        "context": "تشرح النظام المعتاد."
       },
       {
         "id": 5,
-        "en": "Many learners remember the sentence, \"Good morning. Usually, anyone interested in this apartment must book a viewing in advance, but I can show it to you now\" first.",
-        "ar": "يتذكر كثير من المتعلمين الجملة: \"صباح الخير. عادةً أي شخص مهتم بهذه الشقة يجب أن يحجز معاينة مسبقًا، لكن يمكنني أن أريك إياها الآن\" أولًا.",
-        "context": "تقدم الجملة بوصفها جملة تعليمية أساسية."
+        "en": "I can show you the kitchen now.",
+        "ar": "يمكنني أن أريك المطبخ الآن.",
+        "context": "تعرض جزءًا من الشقة."
       },
       {
         "id": 6,
-        "en": "She said, \"Good morning. Usually, anyone interested in this apartment must book a viewing in advance, but I can show it to you now\" in a calm way.",
-        "ar": "قالت: \"صباح الخير. عادةً أي شخص مهتم بهذه الشقة يجب أن يحجز معاينة مسبقًا، لكن يمكنني أن أريك إياها الآن\" بطريقة هادئة.",
-        "context": "تجعل الجملة جزءًا من كلام مباشر في موقف عادي."
+        "en": "You must book the apartment in advance.",
+        "ar": "يجب أن تحجز الشقة مسبقًا.",
+        "context": "توضح ضرورة الحجز."
       },
       {
         "id": 7,
-        "en": "He repeated, \"Good morning. Usually, anyone interested in this apartment must book a viewing in advance, but I can show it to you now\" more than once.",
-        "ar": "ردد: \"صباح الخير. عادةً أي شخص مهتم بهذه الشقة يجب أن يحجز معاينة مسبقًا، لكن يمكنني أن أريك إياها الآن\" أكثر من مرة.",
-        "context": "تضيف معنى التكرار لنفس الجملة."
+        "en": "Usually, anyone interested in this room signs a form.",
+        "ar": "عادةً أي شخص مهتم بهذه الغرفة يوقّع نموذجًا.",
+        "context": "تشرح إجراءً معتادًا."
       },
       {
         "id": 8,
-        "en": "At the right moment, someone might say, \"Good morning. Usually, anyone interested in this apartment must book a viewing in advance, but I can show it to you now\".",
-        "ar": "في اللحظة المناسبة، قد يقول شخص ما: \"صباح الخير. عادةً أي شخص مهتم بهذه الشقة يجب أن يحجز معاينة مسبقًا، لكن يمكنني أن أريك إياها الآن\".",
-        "context": "توضح أن الجملة مرتبطة بتوقيت مناسب في السياق."
+        "en": "I can show it to you before lunch.",
+        "ar": "يمكنني أن أريك إياها قبل الغداء.",
+        "context": "تعرض موعدًا قريبًا للمعاينة."
       },
       {
         "id": 9,
-        "en": "I wrote down the sentence, \"Good morning. Usually, anyone interested in this apartment must book a viewing in advance, but I can show it to you now\" so I would remember it.",
-        "ar": "كتبت الجملة: \"صباح الخير. عادةً أي شخص مهتم بهذه الشقة يجب أن يحجز معاينة مسبقًا، لكن يمكنني أن أريك إياها الآن\" حتى أتذكرها.",
-        "context": "تعطي مثالًا على حفظ الجملة أو مراجعتها."
+        "en": "Anyone interested in this apartment should act quickly.",
+        "ar": "أي شخص مهتم بهذه الشقة ينبغي أن يتصرف بسرعة.",
+        "context": "توضح أن الطلب على الشقة كبير."
       },
       {
         "id": 10,
-        "en": "It is useful to know when to say, \"Good morning. Usually, anyone interested in this apartment must book a viewing in advance, but I can show it to you now\".",
-        "ar": "من المفيد أن تعرف متى تقول: \"صباح الخير. عادةً أي شخص مهتم بهذه الشقة يجب أن يحجز معاينة مسبقًا، لكن يمكنني أن أريك إياها الآن\".",
-        "context": "تركز على معرفة الوقت المناسب لاستخدام الجملة."
+        "en": "Good morning. I can help you now.",
+        "ar": "صباح الخير. يمكنني مساعدتك الآن.",
+        "context": "تبدأ خدمة العميل مباشرة."
       }
     ]
   }

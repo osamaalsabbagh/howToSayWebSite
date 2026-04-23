@@ -14,23 +14,23 @@
       },
       {
         "term": "afternoon",
-        "description": "اسم يعني مساؤك."
+        "description": "اسم يعني فترة بعد الظهر، ويأتي هنا ضمن تحية مناسبة لهذا الوقت."
       },
       {
         "term": "Are",
-        "description": "فعل be مع you."
+        "description": "صيغة تبدأ سؤالًا عن حالة أو فعل يحدث الآن مع المخاطب."
       },
       {
         "term": "you",
-        "description": "الضمير الذي يعود على الشخص المخاطَب."
+        "description": "ضمير المخاطب."
       },
       {
         "term": "waiting",
-        "description": "صيغة مستمرة من wait وتعني ينتظر."
+        "description": "تعني ينتظر الآن، وتدل هنا على انتظار الرحلة في المطار."
       },
       {
         "term": "for",
-        "description": "حرف جر يعني لـ أو من أجل."
+        "description": "حرف جر يربط الانتظار بالشيء المنتظر."
       },
       {
         "term": "the",
@@ -42,11 +42,11 @@
       },
       {
         "term": "to",
-        "description": "أداة تأتي قبل المصدر بعد أفعال مثل want."
+        "description": "تعني إلى، وتربط الرحلة بوجهتها."
       },
       {
         "term": "New",
-        "description": "صفة تعني جديد."
+        "description": "جزء من اسم مدينة نيويورك، ولا يُقصد به معنى جديد هنا."
       },
       {
         "term": "York",
@@ -54,72 +54,87 @@
       },
       {
         "term": "too",
-        "description": "ظرف يعني أيضًا أو أكثر من اللازم حسب السياق."
+        "description": "تعني أيضًا، وتدل على أن المتكلم ينتظر الرحلة نفسها."
       }
     ],
-    "tense": "المضارع المستمر",
-    "tenseEn": "Present Continuous",
-    "tenseReason": "استُعمل المضارع المستمر لأن الجملة تصف شيئًا يحدث الآن أو في فترة قريبة من الآن، أو خطة قريبة واضحة من السياق.",
+    "grammarExplanations": [
+      {
+        "sentence": "Good afternoon!",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذا الجزء تعبير قصير أو غير مكتمل فعليًا، لذلك لا نضع له زمنًا مستقلًا."
+        }
+      },
+      {
+        "sentence": "Are you waiting for the flight to New York too?",
+        "explanation": {
+          "tense": "المضارع المستمر",
+          "tenseEn": "Present Continuous",
+          "reason": "استُعمل المضارع المستمر لأن هذا الجزء يصف فعلًا يحدث الآن أو في فترة قريبة من الآن."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "You can ask, \"Good afternoon! Are you waiting for the flight to New York too?\" when you need information.",
-        "ar": "يمكنك أن تسأل: \"طاب مساؤك! هل تنتظر رحلة نيويورك أيضًا؟\" عندما تحتاج إلى معلومة.",
-        "context": "تستعمل الجملة كسؤال مباشر للحصول على معلومة."
+        "en": "Good afternoon! Are you waiting for the flight to London too?",
+        "ar": "طاب مساؤك! هل تنتظر رحلة لندن أيضًا؟",
+        "context": "سؤال لشخص في المطار يبدو أنه ينتظر نفس الرحلة."
       },
       {
         "id": 2,
-        "en": "Many people ask, \"Good afternoon! Are you waiting for the flight to New York too?\" in this situation.",
-        "ar": "يسأل كثير من الناس: \"طاب مساؤك! هل تنتظر رحلة نيويورك أيضًا؟\" في هذا الموقف.",
-        "context": "توضح أن هذا سؤال شائع في موقف مشابه."
+        "en": "Are you waiting for the flight to New York too?",
+        "ar": "هل تنتظر رحلة نيويورك أيضًا؟",
+        "context": "صيغة مباشرة بدون تحية عندما يكون الحديث قد بدأ بالفعل."
       },
       {
         "id": 3,
-        "en": "I asked, \"Good afternoon! Are you waiting for the flight to New York too?\" because I was not sure.",
-        "ar": "سألت: \"طاب مساؤك! هل تنتظر رحلة نيويورك أيضًا؟\" لأنني لم أكن متأكدًا.",
-        "context": "تضيف سببًا لطرح السؤال."
+        "en": "Good evening! Are you waiting for the flight to Paris too?",
+        "ar": "مساء الخير! هل تنتظر رحلة باريس أيضًا؟",
+        "context": "نفس السؤال مع تحية مناسبة لوقت لاحق ووجهة مختلفة."
       },
       {
         "id": 4,
-        "en": "She asked politely, \"Good afternoon! Are you waiting for the flight to New York too?\"",
-        "ar": "سألت بأدب: \"طاب مساؤك! هل تنتظر رحلة نيويورك أيضًا؟\".",
-        "context": "تبين أن السؤال قيل بطريقة مهذبة."
+        "en": "Good afternoon! Are you waiting for this gate too?",
+        "ar": "طاب مساؤك! هل تنتظر عند هذه البوابة أيضًا؟",
+        "context": "سؤال عن نفس بوابة الصعود بدل ذكر الرحلة."
       },
       {
         "id": 5,
-        "en": "At work, someone may ask, \"Good afternoon! Are you waiting for the flight to New York too?\"",
-        "ar": "في العمل، قد يسأل شخص ما: \"طاب مساؤك! هل تنتظر رحلة نيويورك أيضًا؟\".",
-        "context": "تضع السؤال في سياق مهني أو عملي."
+        "en": "Good afternoon! Are you waiting for the delayed flight too?",
+        "ar": "طاب مساؤك! هل تنتظر الرحلة المتأخرة أيضًا؟",
+        "context": "عندما يعرف المتكلم أن هناك رحلة متأخرة ويريد التأكد."
       },
       {
         "id": 6,
-        "en": "Before deciding, ask: \"Good afternoon! Are you waiting for the flight to New York too?\"",
-        "ar": "قبل أن تقرر، اسأل: \"طاب مساؤك! هل تنتظر رحلة نيويورك أيضًا؟\".",
-        "context": "تستخدم السؤال قبل اتخاذ قرار."
+        "en": "Excuse me, are you waiting for the flight to New York too?",
+        "ar": "عذرًا، هل تنتظر رحلة نيويورك أيضًا؟",
+        "context": "صيغة ألطف عند مقاطعة شخص لا تعرفه."
       },
       {
         "id": 7,
-        "en": "The student asked, \"Good afternoon! Are you waiting for the flight to New York too?\" in class.",
-        "ar": "سأل الطالب: \"طاب مساؤك! هل تنتظر رحلة نيويورك أيضًا؟\" في الصف.",
-        "context": "تجعل الجملة جزءًا من موقف تعليمي."
+        "en": "Good afternoon! Are you waiting for the same flight too?",
+        "ar": "طاب مساؤك! هل تنتظر الرحلة نفسها أيضًا؟",
+        "context": "تستخدم عندما تكون الوجهة مفهومة من شاشة الرحلات أو من الحديث."
       },
       {
         "id": 8,
-        "en": "While traveling, you can ask, \"Good afternoon! Are you waiting for the flight to New York too?\"",
-        "ar": "أثناء السفر، يمكنك أن تسأل: \"طاب مساؤك! هل تنتظر رحلة نيويورك أيضًا؟\".",
-        "context": "تربط السؤال بموقف السفر أو التنقل."
+        "en": "Are you waiting for the bus to New York too?",
+        "ar": "هل تنتظر الحافلة إلى نيويورك أيضًا؟",
+        "context": "نفس التركيب مع وسيلة سفر مختلفة."
       },
       {
         "id": 9,
-        "en": "He asked me, \"Good afternoon! Are you waiting for the flight to New York too?\" again.",
-        "ar": "سألني: \"طاب مساؤك! هل تنتظر رحلة نيويورك أيضًا؟\" مرة أخرى.",
-        "context": "تضيف معنى التكرار لنفس السؤال."
+        "en": "Good afternoon! Are you waiting for your flight too?",
+        "ar": "طاب مساؤك! هل تنتظر رحلتك أيضًا؟",
+        "context": "سؤال عام عندما لا يعرف المتكلم وجهة الشخص الآخر."
       },
       {
         "id": 10,
-        "en": "If you are not sure, ask: \"Good afternoon! Are you waiting for the flight to New York too?\"",
-        "ar": "إذا لم تكن متأكدًا، فاسأل: \"طاب مساؤك! هل تنتظر رحلة نيويورك أيضًا؟\".",
-        "context": "توضح أن السؤال مناسب عند عدم التأكد."
+        "en": "Good afternoon! Are you waiting for the flight to New York with me?",
+        "ar": "طاب مساؤك! هل تنتظر رحلة نيويورك معي؟",
+        "context": "تستخدم عندما يريد المتكلم معرفة إن كان الشخص الآخر على الرحلة نفسها."
       }
     ]
   }

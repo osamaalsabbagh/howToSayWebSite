@@ -10,88 +10,95 @@
     "wordMeanings": [
       {
         "term": "I",
-        "description": "ضمير المتكلم."
+        "description": "ضمير المتكلم ويشير إلى الشخص الذي يتحدث."
       },
       {
         "term": "am",
-        "description": "فعل be مع I ويُستعمل هنا مع learning لتكوين المضارع المستمر."
+        "description": "صيغة تأتي مع ضمير المتكلم المفرد وتساعد هنا على وصف فعل يحدث الآن."
       },
       {
         "term": "cleaning",
-        "description": "فعل يعني أنظف."
+        "description": "أنظف أو أزيل الأوساخ وأرتب المكان."
       },
       {
         "term": "my",
-        "description": "صفة ملكية تعني خاصتي."
+        "description": "كلمة تدل على أن الشيء يخص المتكلم."
       },
       {
         "term": "room",
-        "description": "اسم يعني غرفة."
+        "description": "غرفة أو مكان خاص داخل البيت."
       }
     ],
-    "tense": "المضارع المستمر",
-    "tenseEn": "Present Continuous",
-    "tenseReason": "استُعمل المضارع المستمر لأن الجملة تصف شيئًا يحدث الآن أو في فترة قريبة من الآن، أو خطة قريبة واضحة من السياق.",
+    "grammarExplanations": [
+      {
+        "sentence": "I am cleaning my room.",
+        "explanation": {
+          "tense": "المضارع المستمر",
+          "tenseEn": "Present Continuous",
+          "reason": "تستخدم الجملة am مع الفعل المنتهي ب ing للتعبير عن فعل يحدث الآن أو في هذه الفترة، وهو تنظيف الغرفة."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "People often say, \"I am cleaning my room\" in situations like this.",
-        "ar": "يقول الناس كثيرًا: \"أنا أنظف غرفتي\" في مواقف كهذه.",
-        "context": "تستخدم الجملة بوصفها تركيبًا شائعًا في موقف مشابه."
+        "en": "I am cleaning the kitchen.",
+        "ar": "أنا أنظف المطبخ.",
+        "context": "تقال أثناء القيام بتنظيف المطبخ."
       },
       {
         "id": 2,
-        "en": "You can say, \"I am cleaning my room\" when this happens.",
-        "ar": "يمكنك أن تقول: \"أنا أنظف غرفتي\" عندما يحدث هذا.",
-        "context": "توضح أن الجملة مناسبة في موقف متكرر."
+        "en": "She is cleaning her desk.",
+        "ar": "هي تنظف مكتبها.",
+        "context": "تقال عندما تقوم فتاة أو امرأة بترتيب مكتبها."
       },
       {
         "id": 3,
-        "en": "I heard someone say, \"I am cleaning my room\".",
-        "ar": "سمعت شخصًا يقول: \"أنا أنظف غرفتي\".",
-        "context": "تجعل الجملة جزءًا من كلام سمعته من شخص آخر."
+        "en": "We are cleaning the house.",
+        "ar": "نحن ننظف البيت.",
+        "context": "تقال عند مشاركة أكثر من شخص في التنظيف."
       },
       {
         "id": 4,
-        "en": "The teacher used the sentence, \"I am cleaning my room\" in class.",
-        "ar": "استخدم المعلم الجملة: \"أنا أنظف غرفتي\" في الصف.",
-        "context": "تستخدم الجملة مثالًا تعليميًا في الصف."
+        "en": "He is washing his car.",
+        "ar": "هو يغسل سيارته.",
+        "context": "تقال عن فعل يحدث الآن لشخص."
       },
       {
         "id": 5,
-        "en": "Many learners remember the sentence, \"I am cleaning my room\" first.",
-        "ar": "يتذكر كثير من المتعلمين الجملة: \"أنا أنظف غرفتي\" أولًا.",
-        "context": "تقدم الجملة بوصفها جملة تعليمية أساسية."
+        "en": "I am organizing my books.",
+        "ar": "أنا أرتب كتبي.",
+        "context": "تقال أثناء ترتيب الكتب."
       },
       {
         "id": 6,
-        "en": "She said, \"I am cleaning my room\" in a calm way.",
-        "ar": "قالت: \"أنا أنظف غرفتي\" بطريقة هادئة.",
-        "context": "تجعل الجملة جزءًا من كلام مباشر في موقف عادي."
+        "en": "They are painting the room.",
+        "ar": "هم يطلون الغرفة.",
+        "context": "تقال عند وصف عمل جار داخل غرفة."
       },
       {
         "id": 7,
-        "en": "He repeated, \"I am cleaning my room\" more than once.",
-        "ar": "ردد: \"أنا أنظف غرفتي\" أكثر من مرة.",
-        "context": "تضيف معنى التكرار لنفس الجملة."
+        "en": "I am making my bed.",
+        "ar": "أنا أرتب سريري.",
+        "context": "تقال أثناء ترتيب السرير."
       },
       {
         "id": 8,
-        "en": "At the right moment, someone might say, \"I am cleaning my room\".",
-        "ar": "في اللحظة المناسبة، قد يقول شخص ما: \"أنا أنظف غرفتي\".",
-        "context": "توضح أن الجملة مرتبطة بتوقيت مناسب في السياق."
+        "en": "My brother is cleaning the bathroom.",
+        "ar": "أخي ينظف الحمام.",
+        "context": "تقال عند وصف ما يفعله شخص الآن."
       },
       {
         "id": 9,
-        "en": "I wrote down the sentence, \"I am cleaning my room\" so I would remember it.",
-        "ar": "كتبت الجملة: \"أنا أنظف غرفتي\" حتى أتذكرها.",
-        "context": "تعطي مثالًا على حفظ الجملة أو مراجعتها."
+        "en": "I am fixing my room today.",
+        "ar": "أنا أرتب غرفتي اليوم.",
+        "context": "تقال عن مهمة تنظيف أو ترتيب في هذا اليوم."
       },
       {
         "id": 10,
-        "en": "It is useful to know when to say, \"I am cleaning my room\".",
-        "ar": "من المفيد أن تعرف متى تقول: \"أنا أنظف غرفتي\".",
-        "context": "تركز على معرفة الوقت المناسب لاستخدام الجملة."
+        "en": "The children are cleaning their toys.",
+        "ar": "الأطفال ينظفون ألعابهم.",
+        "context": "تقال عندما يرتب الأطفال ألعابهم أو ينظفونها."
       }
     ]
   }

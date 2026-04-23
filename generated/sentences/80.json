@@ -10,91 +10,107 @@
     "wordMeanings": [
       {
         "term": "Let",
-        "description": "فعل يُستعمل للسماح أو في تركيب let me / let us لاقتراح أو طلب شيء."
+        "description": "تأتي هنا لاقتراح فعل شيء معًا."
       },
       {
         "term": "us",
-        "description": "ضمير مفعول به يعود على المتكلمين."
+        "description": "ضمير يشمل المتكلم والشخص أو الأشخاص معه."
       },
       {
         "term": "go",
-        "description": "فعل يعني يذهب أو ينتقل من مكان إلى آخر."
+        "description": "نذهب أو نتحرك إلى مكان."
       },
       {
         "term": "have",
-        "description": "فعل يعني يملك، ويأتي أيضًا كفعل مساعد."
+        "description": "جزء من تعبير يعني نلقي أو نأخذ نظرة."
       },
       {
         "term": "a",
-        "description": "أداة نكرة تأتي قبل الاسم المفرد المعدود."
+        "description": "أداة تدل على شيء واحد غير محدد."
       },
       {
         "term": "look",
-        "description": "اسم يعني نظرة."
+        "description": "نظرة أو فحص سريع بالعين."
       }
     ],
-    "tense": null,
-    "tenseReason": "استُعمل هذا الأسلوب لأن الجملة تقدم طلبًا أو تعليمات مباشرة موجهة إلى شخص آخر، لذلك لا نضع لها هنا زمنًا فعليًا مستقلًا.",
+    "grammarExplanations": [
+      {
+        "sentence": "Let us go",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه صيغة اقتراح لفعل شيء معًا، وليست جملة خبرية بزمن مستقل."
+        }
+      },
+      {
+        "sentence": "have a look",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذا تعبير يعني إلقاء نظرة أو فحص شيء بسرعة، ويأتي تابعًا للاقتراح ولا يحمل زمنًا مستقلًا."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "In this situation, people often say, \"Let us go have a look\".",
-        "ar": "في هذا الموقف، يقول الناس كثيرًا: \"دعنا نذهب لنلقي نظرة\".",
-        "context": "توضح أن العبارة مناسبة في هذا النوع من المواقف."
+        "en": "Let us go see the room.",
+        "ar": "دعنا نذهب لنرى الغرفة.",
+        "context": "تقال عند اقتراح رؤية مكان."
       },
       {
         "id": 2,
-        "en": "The teacher said, \"Let us go have a look\" to the students.",
-        "ar": "قال المعلم للطلاب: \"دعنا نذهب لنلقي نظرة\".",
-        "context": "تستخدم الجملة كتعليمات أو توجيه مباشر."
+        "en": "Let us have a look at the menu.",
+        "ar": "دعنا نلقي نظرة على القائمة.",
+        "context": "تقال قبل اختيار طعام في مطعم."
       },
       {
         "id": 3,
-        "en": "He told me, \"Let us go have a look\" before we left.",
-        "ar": "قال لي: \"دعنا نذهب لنلقي نظرة\" قبل أن نغادر.",
-        "context": "تضع العبارة قبل حدث آخر."
+        "en": "Let us go check the price.",
+        "ar": "دعنا نذهب لنتحقق من السعر.",
+        "context": "تقال عند اقتراح مراجعة سعر شيء."
       },
       {
         "id": 4,
-        "en": "She said, \"Let us go have a look\" in a polite way.",
-        "ar": "قالت: \"دعنا نذهب لنلقي نظرة\" بطريقة مهذبة.",
-        "context": "تظهر أن العبارة يمكن أن تقال بلطف أو أدب."
+        "en": "Let us look at the map.",
+        "ar": "دعنا ننظر إلى الخريطة.",
+        "context": "تقال عند البحث عن الطريق."
       },
       {
         "id": 5,
-        "en": "Someone shouted, \"Let us go have a look\" when there was a problem.",
-        "ar": "صاح شخص ما: \"دعنا نذهب لنلقي نظرة\" عندما ظهرت مشكلة.",
-        "context": "تربط العبارة بموقف سريع أو طارئ."
+        "en": "Let us go inside.",
+        "ar": "دعنا ندخل.",
+        "context": "تقال عند اقتراح الدخول إلى مكان."
       },
       {
         "id": 6,
-        "en": "You can say, \"Let us go have a look\" when you need a quick response.",
-        "ar": "يمكنك أن تقول: \"دعنا نذهب لنلقي نظرة\" عندما تحتاج إلى رد سريع.",
-        "context": "توضح أن العبارة مفيدة عند الحاجة إلى استجابة مباشرة."
+        "en": "Let us have a look at the car.",
+        "ar": "دعنا نلقي نظرة على السيارة.",
+        "context": "تقال عند فحص سيارة قبل قرار."
       },
       {
         "id": 7,
-        "en": "They repeated, \"Let us go have a look\" more than once.",
-        "ar": "رددوا: \"دعنا نذهب لنلقي نظرة\" أكثر من مرة.",
-        "context": "تعطي مثالًا على تكرار العبارة."
+        "en": "Let us go talk to the manager.",
+        "ar": "دعنا نذهب للتحدث إلى المدير.",
+        "context": "تقال عند اقتراح طلب توضيح من مسؤول."
       },
       {
         "id": 8,
-        "en": "I heard him say, \"Let us go have a look\" yesterday.",
-        "ar": "سمعته يقول: \"دعنا نذهب لنلقي نظرة\" أمس.",
-        "context": "تجعل العبارة جزءًا من موقف سمعته من شخص آخر."
+        "en": "Let us check the room first.",
+        "ar": "دعنا نتحقق من الغرفة أولًا.",
+        "context": "تقال قبل قبول غرفة أو استخدامها."
       },
       {
         "id": 9,
-        "en": "Many learners remember the phrase, \"Let us go have a look\".",
-        "ar": "يتذكر كثير من المتعلمين العبارة: \"دعنا نذهب لنلقي نظرة\".",
-        "context": "تقدم العبارة بوصفها عبارة سهلة التذكر."
+        "en": "Let us go see what happened.",
+        "ar": "دعنا نذهب لنرى ما حدث.",
+        "context": "تقال عند سماع شيء يحتاج إلى تفقد."
       },
       {
         "id": 10,
-        "en": "At that moment, she said, \"Let us go have a look\".",
-        "ar": "في تلك اللحظة، قالت: \"دعنا نذهب لنلقي نظرة\".",
-        "context": "تربط العبارة بلحظة معينة في السرد."
+        "en": "Let us have a quick look.",
+        "ar": "دعنا نلقي نظرة سريعة.",
+        "context": "تقال عند اقتراح فحص قصير."
       }
     ]
   }

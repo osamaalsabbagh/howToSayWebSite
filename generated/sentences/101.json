@@ -10,80 +10,87 @@
     "wordMeanings": [
       {
         "term": "See",
-        "description": "فعل يعني يرى."
+        "description": "أراك، وتأتي هنا ضمن تعبير وداع."
       },
       {
         "term": "you",
-        "description": "الضمير الذي يعود على الشخص المخاطَب."
+        "description": "ضمير يشير إلى الشخص الذي أتحدث معه."
       },
       {
         "term": "tomorrow",
-        "description": "ظرف زمان يعني غدًا."
+        "description": "غدًا، أي في اليوم التالي."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "See you tomorrow.",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذا تعبير وداع ثابت يعني أن المتكلم يتوقع لقاء المخاطب غدًا، ولا يستخدم كزمن مستقل."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "People often say, \"See you tomorrow\" in situations like this.",
-        "ar": "يقول الناس كثيرًا: \"أراك غدًا\" في مواقف كهذه.",
-        "context": "تستخدم الجملة بوصفها تركيبًا شائعًا في موقف مشابه."
+        "en": "See you later.",
+        "ar": "أراك لاحقًا.",
+        "context": "تقال عند توديع شخص مع توقع اللقاء لاحقًا."
       },
       {
         "id": 2,
-        "en": "You can say, \"See you tomorrow\" when this happens.",
-        "ar": "يمكنك أن تقول: \"أراك غدًا\" عندما يحدث هذا.",
-        "context": "توضح أن الجملة مناسبة في موقف متكرر."
+        "en": "See you tonight.",
+        "ar": "أراك الليلة.",
+        "context": "تقال عند توديع شخص حتى وقت الليل."
       },
       {
         "id": 3,
-        "en": "I heard someone say, \"See you tomorrow\".",
-        "ar": "سمعت شخصًا يقول: \"أراك غدًا\".",
-        "context": "تجعل الجملة جزءًا من كلام سمعته من شخص آخر."
+        "en": "See you next week.",
+        "ar": "أراك الأسبوع القادم.",
+        "context": "تقال عند توقع اللقاء في الأسبوع التالي."
       },
       {
         "id": 4,
-        "en": "The teacher used the sentence, \"See you tomorrow\" in class.",
-        "ar": "استخدم المعلم الجملة: \"أراك غدًا\" في الصف.",
-        "context": "تستخدم الجملة مثالًا تعليميًا في الصف."
+        "en": "I will see you tomorrow.",
+        "ar": "سأراك غدًا.",
+        "context": "تقال عند تأكيد لقاء في اليوم التالي."
       },
       {
         "id": 5,
-        "en": "Many learners remember the sentence, \"See you tomorrow\" first.",
-        "ar": "يتذكر كثير من المتعلمين الجملة: \"أراك غدًا\" أولًا.",
-        "context": "تقدم الجملة بوصفها جملة تعليمية أساسية."
+        "en": "Talk to you tomorrow.",
+        "ar": "أتحدث معك غدًا.",
+        "context": "تقال عند إنهاء محادثة مع نية التواصل في اليوم التالي."
       },
       {
         "id": 6,
-        "en": "She said, \"See you tomorrow\" in a calm way.",
-        "ar": "قالت: \"أراك غدًا\" بطريقة هادئة.",
-        "context": "تجعل الجملة جزءًا من كلام مباشر في موقف عادي."
+        "en": "See you at school tomorrow.",
+        "ar": "أراك في المدرسة غدًا.",
+        "context": "تقال عند الاتفاق على اللقاء في المدرسة."
       },
       {
         "id": 7,
-        "en": "He repeated, \"See you tomorrow\" more than once.",
-        "ar": "ردد: \"أراك غدًا\" أكثر من مرة.",
-        "context": "تضيف معنى التكرار لنفس الجملة."
+        "en": "See you after work tomorrow.",
+        "ar": "أراك بعد العمل غدًا.",
+        "context": "تقال عند تحديد وقت اللقاء بعد الدوام."
       },
       {
         "id": 8,
-        "en": "At the right moment, someone might say, \"See you tomorrow\".",
-        "ar": "في اللحظة المناسبة، قد يقول شخص ما: \"أراك غدًا\".",
-        "context": "توضح أن الجملة مرتبطة بتوقيت مناسب في السياق."
+        "en": "See you in the morning.",
+        "ar": "أراك في الصباح.",
+        "context": "تقال عند توقع اللقاء صباحًا."
       },
       {
         "id": 9,
-        "en": "I wrote down the sentence, \"See you tomorrow\" so I would remember it.",
-        "ar": "كتبت الجملة: \"أراك غدًا\" حتى أتذكرها.",
-        "context": "تعطي مثالًا على حفظ الجملة أو مراجعتها."
+        "en": "See you at the meeting tomorrow.",
+        "ar": "أراك في الاجتماع غدًا.",
+        "context": "تقال عند توقع لقاء في اجتماع."
       },
       {
         "id": 10,
-        "en": "It is useful to know when to say, \"See you tomorrow\".",
-        "ar": "من المفيد أن تعرف متى تقول: \"أراك غدًا\".",
-        "context": "تركز على معرفة الوقت المناسب لاستخدام الجملة."
+        "en": "Good night, see you tomorrow.",
+        "ar": "تصبح على خير، أراك غدًا.",
+        "context": "تقال عند الوداع في الليل قبل لقاء اليوم التالي."
       }
     ]
   }

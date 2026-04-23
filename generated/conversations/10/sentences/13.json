@@ -10,92 +10,99 @@
     "wordMeanings": [
       {
         "term": "I",
-        "description": "ضمير المتكلم."
+        "description": "ضمير المتكلم المفرد."
       },
       {
         "term": "am",
-        "description": "فعل be مع I ويُستعمل هنا مع learning لتكوين المضارع المستمر."
+        "description": "صيغة تأتي مع ضمير المتكلم المفرد للتعبير عن الحالة الحالية."
       },
       {
         "term": "glad",
-        "description": "صفة تعني لأنها."
+        "description": "سعيد أو مسرور."
       },
       {
         "term": "you",
-        "description": "الضمير الذي يعود على الشخص المخاطَب."
+        "description": "الشخص المخاطب."
       },
       {
         "term": "like",
-        "description": "فعل يدل على الإعجاب أو الميل."
+        "description": "تعجب بشيء أو تجده مناسبًا."
       },
       {
         "term": "it",
-        "description": "ضمير يعود على الشيء أو الجملة التي قيلت."
+        "description": "ضمير يعود على الشيء الذي أعجب الشخص."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "I am glad you like it.",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "الجملة تصف شعور المتكلم الحالي، وتذكر أن المخاطب يعجبه الشيء في الوقت الحالي."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "In general, I am glad you like it.",
-        "ar": "بشكل عام، سعيد لأنها أعجبتك.",
-        "context": "تضيف عبارة عامة تحافظ على نفس المعنى الأساسي."
+        "en": "I am glad you like the room.",
+        "ar": "أنا سعيد لأن الغرفة أعجبتك.",
+        "context": "يُستخدم للرد بلطف عندما يعجب شخص بمكان."
       },
       {
         "id": 2,
-        "en": "Usually, I am glad you like it.",
-        "ar": "عادةً، سعيد لأنها أعجبتك.",
-        "context": "تضيف ظرفًا يدل على التكرار أو العادة."
+        "en": "I am glad you like the idea.",
+        "ar": "أنا سعيد لأن الفكرة أعجبتك.",
+        "context": "يُستخدم بعد قبول شخص اقتراحًا."
       },
       {
         "id": 3,
-        "en": "Sometimes, I am glad you like it.",
-        "ar": "أحيانًا، سعيد لأنها أعجبتك.",
-        "context": "تضع الجملة في سياق أقل تكرارًا."
+        "en": "I am glad you like your gift.",
+        "ar": "أنا سعيد لأن هديتك أعجبتك.",
+        "context": "يُستخدم بعد تقديم هدية لشخص."
       },
       {
         "id": 4,
-        "en": "For now, I am glad you like it.",
-        "ar": "في الوقت الحالي، سعيد لأنها أعجبتك.",
-        "context": "تربط الجملة بالوضع الحالي."
+        "en": "I am glad you like the food.",
+        "ar": "أنا سعيد لأن الطعام أعجبك.",
+        "context": "يُستخدم عندما يمدح شخص طعامًا."
       },
       {
         "id": 5,
-        "en": "I am glad you like it, so that helps a lot.",
-        "ar": "سعيد لأنها أعجبتك، وهذا يساعد كثيرًا.",
-        "context": "تضيف نتيجة بسيطة على نفس المعنى."
+        "en": "I am glad you like this plan.",
+        "ar": "أنا سعيد لأن هذه الخطة أعجبتك.",
+        "context": "يُستخدم عند الاتفاق على خطة."
       },
       {
         "id": 6,
-        "en": "I am glad you like it in daily life.",
-        "ar": "سعيد لأنها أعجبتك في الحياة اليومية.",
-        "context": "تربط الجملة بمواقف الحياة اليومية."
+        "en": "I am glad you like the hotel.",
+        "ar": "أنا سعيد لأن الفندق أعجبك.",
+        "context": "يُستخدم عند معرفة أن شخصًا راضٍ عن مكان إقامته."
       },
       {
         "id": 7,
-        "en": "I am glad you like it when it is necessary.",
-        "ar": "سعيد لأنها أعجبتك عندما يكون ذلك ضروريًا.",
-        "context": "تربط الجملة بشرط أو حاجة معينة."
+        "en": "I am glad you like the color.",
+        "ar": "أنا سعيد لأن اللون أعجبك.",
+        "context": "يُستخدم عند اختيار لون وقبوله من شخص."
       },
       {
         "id": 8,
-        "en": "In this situation, I am glad you like it.",
-        "ar": "في هذا الموقف، سعيد لأنها أعجبتك.",
-        "context": "تجعل الجملة جزءًا من موقف واضح."
+        "en": "I am glad you like the service.",
+        "ar": "أنا سعيد لأن الخدمة أعجبتك.",
+        "context": "يُستخدم في موقف خدمة عملاء."
       },
       {
         "id": 9,
-        "en": "I am glad you like it, and everyone notices that.",
-        "ar": "سعيد لأنها أعجبتك، والجميع يلاحظ ذلك.",
-        "context": "تضيف ملاحظة أو نتيجة بعد الجملة."
+        "en": "I am glad you like the apartment.",
+        "ar": "أنا سعيد لأن الشقة أعجبتك.",
+        "context": "يُستخدم عندما يعبّر شخص عن إعجابه بشقة."
       },
       {
         "id": 10,
-        "en": "I am glad you like it most of the time.",
-        "ar": "سعيد لأنها أعجبتك معظم الوقت.",
-        "context": "تضيف عبارة تكرار شائعة."
+        "en": "I am glad you like the result.",
+        "ar": "أنا سعيد لأن النتيجة أعجبتك.",
+        "context": "يُستخدم بعد انتهاء عمل أو مشروع."
       }
     ]
   }

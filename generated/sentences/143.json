@@ -10,84 +10,91 @@
     "wordMeanings": [
       {
         "term": "You",
-        "description": "الضمير الذي يعود على الشخص المخاطَب."
+        "description": "ضمير يشير إلى الشخص الذي أتحدث معه."
       },
       {
         "term": "are",
-        "description": "فعل be مع you."
+        "description": "صيغة تربط المخاطب بوصفه أو حالته."
       },
       {
         "term": "very",
-        "description": "كلمة تزيد شدة الصفة."
+        "description": "كلمة تقوي الصفة وتجعلها بدرجة كبيرة."
       },
       {
         "term": "smart",
-        "description": "صفة تعني ذكي."
+        "description": "ذكي أو سريع الفهم."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "You are very smart.",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "تستخدم are مع المخاطب لوصف صفة عقلية عامة أو حالية، وتأتي very لتقوية معنى الذكاء."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "People often say, \"You are very smart\" in situations like this.",
-        "ar": "يقول الناس كثيرًا: \"أنت ذكي جدًا\" في مواقف كهذه.",
-        "context": "تستخدم الجملة بوصفها تركيبًا شائعًا في موقف مشابه."
+        "en": "You are smart.",
+        "ar": "أنت ذكي.",
+        "context": "تقال عند مدح ذكاء شخص."
       },
       {
         "id": 2,
-        "en": "You can say, \"You are very smart\" when this happens.",
-        "ar": "يمكنك أن تقول: \"أنت ذكي جدًا\" عندما يحدث هذا.",
-        "context": "توضح أن الجملة مناسبة في موقف متكرر."
+        "en": "She is very smart.",
+        "ar": "هي ذكية جدًا.",
+        "context": "تقال عند وصف شخص سريع الفهم."
       },
       {
         "id": 3,
-        "en": "I heard someone say, \"You are very smart\".",
-        "ar": "سمعت شخصًا يقول: \"أنت ذكي جدًا\".",
-        "context": "تجعل الجملة جزءًا من كلام سمعته من شخص آخر."
+        "en": "Your answer is smart.",
+        "ar": "إجابتك ذكية.",
+        "context": "تقال عند الإعجاب بطريقة جواب شخص."
       },
       {
         "id": 4,
-        "en": "The teacher used the sentence, \"You are very smart\" in class.",
-        "ar": "استخدم المعلم الجملة: \"أنت ذكي جدًا\" في الصف.",
-        "context": "تستخدم الجملة مثالًا تعليميًا في الصف."
+        "en": "That is a smart idea.",
+        "ar": "هذه فكرة ذكية.",
+        "context": "تقال عند مدح فكرة مفيدة أو مبتكرة."
       },
       {
         "id": 5,
-        "en": "Many learners remember the sentence, \"You are very smart\" first.",
-        "ar": "يتذكر كثير من المتعلمين الجملة: \"أنت ذكي جدًا\" أولًا.",
-        "context": "تقدم الجملة بوصفها جملة تعليمية أساسية."
+        "en": "He is smart at work.",
+        "ar": "هو ذكي في العمل.",
+        "context": "تقال عند وصف أداء شخص في عمله."
       },
       {
         "id": 6,
-        "en": "She said, \"You are very smart\" in a calm way.",
-        "ar": "قالت: \"أنت ذكي جدًا\" بطريقة هادئة.",
-        "context": "تجعل الجملة جزءًا من كلام مباشر في موقف عادي."
+        "en": "You are very smart with numbers.",
+        "ar": "أنت ذكي جدًا في الأرقام.",
+        "context": "تقال عند مدح قدرة شخص في الحساب."
       },
       {
         "id": 7,
-        "en": "He repeated, \"You are very smart\" more than once.",
-        "ar": "ردد: \"أنت ذكي جدًا\" أكثر من مرة.",
-        "context": "تضيف معنى التكرار لنفس الجملة."
+        "en": "The child is very smart.",
+        "ar": "الطفل ذكي جدًا.",
+        "context": "تقال عند ملاحظة فهم طفل بسرعة."
       },
       {
         "id": 8,
-        "en": "At the right moment, someone might say, \"You are very smart\".",
-        "ar": "في اللحظة المناسبة، قد يقول شخص ما: \"أنت ذكي جدًا\".",
-        "context": "توضح أن الجملة مرتبطة بتوقيت مناسب في السياق."
+        "en": "This is a smart choice.",
+        "ar": "هذا اختيار ذكي.",
+        "context": "تقال عند مدح قرار مناسب."
       },
       {
         "id": 9,
-        "en": "I wrote down the sentence, \"You are very smart\" so I would remember it.",
-        "ar": "كتبت الجملة: \"أنت ذكي جدًا\" حتى أتذكرها.",
-        "context": "تعطي مثالًا على حفظ الجملة أو مراجعتها."
+        "en": "They are smart students.",
+        "ar": "هم طلاب أذكياء.",
+        "context": "تقال عند وصف مجموعة طلاب متميزين."
       },
       {
         "id": 10,
-        "en": "It is useful to know when to say, \"You are very smart\".",
-        "ar": "من المفيد أن تعرف متى تقول: \"أنت ذكي جدًا\".",
-        "context": "تركز على معرفة الوقت المناسب لاستخدام الجملة."
+        "en": "You found a smart solution.",
+        "ar": "وجدت حلًا ذكيًا.",
+        "context": "تقال عند تقدير حل جيد لمشكلة."
       }
     ]
   }

@@ -10,104 +10,119 @@
     "wordMeanings": [
       {
         "term": "That",
-        "description": "تشير إلى أمر أو خبر سبق ذكره."
+        "description": "يشير إلى خبر المهرجان."
       },
       {
         "term": "sounds",
-        "description": "فعل يعني يبدو."
+        "description": "تعني يبدو من الكلام أو الخبر."
       },
       {
         "term": "great",
-        "description": "صفة تعني رائعا."
+        "description": "صفة تعني رائعًا أو ممتازًا."
       },
       {
         "term": "Is",
-        "description": "فعل be في الحاضر مع المفرد."
+        "description": "صيغة تبدأ سؤالًا عن حالة أو موقع."
       },
       {
         "term": "it",
-        "description": "ضمير يعود على الشيء أو الجملة التي قيلت."
+        "description": "ضمير يعود على المهرجان."
       },
       {
         "term": "near",
-        "description": "حرف جر أو ظرف يعني قريب من."
+        "description": "تعني قريبًا من."
       },
       {
         "term": "the",
-        "description": "أداة تعريف تشير إلى شيء معروف أو محدد."
+        "description": "أداة تعريف لمكان معروف."
       },
       {
         "term": "park",
-        "description": "اسم يعني حديقة أو متنزه."
+        "description": "حديقة أو متنزه."
       },
       {
         "term": "area",
-        "description": "اسم يعني منطقة."
+        "description": "منطقة."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "That sounds great!",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُعمل المضارع البسيط للتعبير عن الانطباع الحالي تجاه الخبر."
+        }
+      },
+      {
+        "sentence": "Is it near the park area?",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُعمل المضارع البسيط للسؤال عن موقع المهرجان بوصفه معلومة حالية."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "You can ask, \"That sounds great! Is it near the park area?\" when you need information.",
-        "ar": "يمكنك أن تسأل: \"هذا يبدو رائعًا! هل هو قريب من منطقة الحديقة؟\" عندما تحتاج إلى معلومة.",
-        "context": "تستعمل الجملة كسؤال مباشر للحصول على معلومة."
+        "en": "That sounds great! Is it near the station?",
+        "ar": "هذا يبدو رائعًا! هل هو قريب من المحطة؟",
+        "context": "تسأل عن موقع حدث بعد سماع خبره."
       },
       {
         "id": 2,
-        "en": "Many people ask, \"That sounds great! Is it near the park area?\" in this situation.",
-        "ar": "يسأل كثير من الناس: \"هذا يبدو رائعًا! هل هو قريب من منطقة الحديقة؟\" في هذا الموقف.",
-        "context": "توضح أن هذا سؤال شائع في موقف مشابه."
+        "en": "Is it near the city center?",
+        "ar": "هل هو قريب من مركز المدينة؟",
+        "context": "تسأل عن قرب المكان من منطقة مهمة."
       },
       {
         "id": 3,
-        "en": "I asked, \"That sounds great! Is it near the park area?\" because I was not sure.",
-        "ar": "سألت: \"هذا يبدو رائعًا! هل هو قريب من منطقة الحديقة؟\" لأنني لم أكن متأكدًا.",
-        "context": "تضيف سببًا لطرح السؤال."
+        "en": "That sounds fun!",
+        "ar": "هذا يبدو ممتعًا!",
+        "context": "تعبّر عن انطباع إيجابي."
       },
       {
         "id": 4,
-        "en": "She asked politely, \"That sounds great! Is it near the park area?\"",
-        "ar": "سألت بأدب: \"هذا يبدو رائعًا! هل هو قريب من منطقة الحديقة؟\".",
-        "context": "تبين أن السؤال قيل بطريقة مهذبة."
+        "en": "Is the festival near the park?",
+        "ar": "هل المهرجان قريب من الحديقة؟",
+        "context": "تسأل عن موقع المهرجان مباشرة."
       },
       {
         "id": 5,
-        "en": "At work, someone may ask, \"That sounds great! Is it near the park area?\"",
-        "ar": "في العمل، قد يسأل شخص ما: \"هذا يبدو رائعًا! هل هو قريب من منطقة الحديقة؟\".",
-        "context": "تضع السؤال في سياق مهني أو عملي."
+        "en": "That sounds great for families.",
+        "ar": "هذا يبدو رائعًا للعائلات.",
+        "context": "تقيّم حدثًا مناسبًا للعائلة."
       },
       {
         "id": 6,
-        "en": "Before deciding, ask: \"That sounds great! Is it near the park area?\"",
-        "ar": "قبل أن تقرر، اسأل: \"هذا يبدو رائعًا! هل هو قريب من منطقة الحديقة؟\".",
-        "context": "تستخدم السؤال قبل اتخاذ قرار."
+        "en": "Is it near your house?",
+        "ar": "هل هو قريب من بيتك؟",
+        "context": "تسأل عن قرب مكان من شخص."
       },
       {
         "id": 7,
-        "en": "The student asked, \"That sounds great! Is it near the park area?\" in class.",
-        "ar": "سأل الطالب: \"هذا يبدو رائعًا! هل هو قريب من منطقة الحديقة؟\" في الصف.",
-        "context": "تجعل الجملة جزءًا من موقف تعليمي."
+        "en": "That sounds perfect for April.",
+        "ar": "هذا يبدو مثاليًا لأبريل.",
+        "context": "تربط الفعالية بوقت مناسب."
       },
       {
         "id": 8,
-        "en": "While traveling, you can ask, \"That sounds great! Is it near the park area?\"",
-        "ar": "أثناء السفر، يمكنك أن تسأل: \"هذا يبدو رائعًا! هل هو قريب من منطقة الحديقة؟\".",
-        "context": "تربط السؤال بموقف السفر أو التنقل."
+        "en": "Is it near the art museum?",
+        "ar": "هل هو قريب من متحف الفن؟",
+        "context": "تسأل عن معلم قريب."
       },
       {
         "id": 9,
-        "en": "He asked me, \"That sounds great! Is it near the park area?\" again.",
-        "ar": "سألني: \"هذا يبدو رائعًا! هل هو قريب من منطقة الحديقة؟\" مرة أخرى.",
-        "context": "تضيف معنى التكرار لنفس السؤال."
+        "en": "That sounds great, but is it far?",
+        "ar": "هذا يبدو رائعًا، لكن هل هو بعيد؟",
+        "context": "تجمع بين الإعجاب والسؤال عن المسافة."
       },
       {
         "id": 10,
-        "en": "If you are not sure, ask: \"That sounds great! Is it near the park area?\"",
-        "ar": "إذا لم تكن متأكدًا، فاسأل: \"هذا يبدو رائعًا! هل هو قريب من منطقة الحديقة؟\".",
-        "context": "توضح أن السؤال مناسب عند عدم التأكد."
+        "en": "Is it near the main road?",
+        "ar": "هل هو قريب من الطريق الرئيسي؟",
+        "context": "تسأل لتقدير سهولة الوصول."
       }
     ]
   }

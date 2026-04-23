@@ -10,80 +10,87 @@
     "wordMeanings": [
       {
         "term": "That",
-        "description": "تشير إلى أمر أو خبر سبق ذكره."
+        "description": "ذلك المقدار أو الشيء الذي تشير إليه."
       },
       {
         "term": "is",
-        "description": "فعل be في الحاضر مع المفرد."
+        "description": "صيغة تأتي مع المفرد وتربط الشيء بوصفه."
       },
       {
         "term": "enough",
-        "description": "صفة تعني يكفي."
+        "description": "كافٍ أو بالقدر المطلوب."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "That is enough.",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "تستخدم is لوصف أن المقدار أو الفعل الحالي كافٍ، وأن المتكلم لا يحتاج إلى المزيد."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "People often say, \"That is enough\" in situations like this.",
-        "ar": "يقول الناس كثيرًا: \"ذلك يكفي\" في مواقف كهذه.",
-        "context": "تستخدم الجملة بوصفها تركيبًا شائعًا في موقف مشابه."
+        "en": "This is enough.",
+        "ar": "هذا يكفي.",
+        "context": "تقال عند الاكتفاء بكمية قريبة."
       },
       {
         "id": 2,
-        "en": "You can say, \"That is enough\" when this happens.",
-        "ar": "يمكنك أن تقول: \"ذلك يكفي\" عندما يحدث هذا.",
-        "context": "توضح أن الجملة مناسبة في موقف متكرر."
+        "en": "That is enough food.",
+        "ar": "ذلك طعام كاف.",
+        "context": "تقال عند توفر كمية مناسبة من الطعام."
       },
       {
         "id": 3,
-        "en": "I heard someone say, \"That is enough\".",
-        "ar": "سمعت شخصًا يقول: \"ذلك يكفي\".",
-        "context": "تجعل الجملة جزءًا من كلام سمعته من شخص آخر."
+        "en": "One hour is enough.",
+        "ar": "ساعة واحدة تكفي.",
+        "context": "تقال عند تقدير مدة مناسبة."
       },
       {
         "id": 4,
-        "en": "The teacher used the sentence, \"That is enough\" in class.",
-        "ar": "استخدم المعلم الجملة: \"ذلك يكفي\" في الصف.",
-        "context": "تستخدم الجملة مثالًا تعليميًا في الصف."
+        "en": "The money is enough.",
+        "ar": "المال كاف.",
+        "context": "تقال عند كفاية المبلغ."
       },
       {
         "id": 5,
-        "en": "Many learners remember the sentence, \"That is enough\" first.",
-        "ar": "يتذكر كثير من المتعلمين الجملة: \"ذلك يكفي\" أولًا.",
-        "context": "تقدم الجملة بوصفها جملة تعليمية أساسية."
+        "en": "We have enough time.",
+        "ar": "لدينا وقت كاف.",
+        "context": "تقال عند عدم الحاجة إلى الاستعجال."
       },
       {
         "id": 6,
-        "en": "She said, \"That is enough\" in a calm way.",
-        "ar": "قالت: \"ذلك يكفي\" بطريقة هادئة.",
-        "context": "تجعل الجملة جزءًا من كلام مباشر في موقف عادي."
+        "en": "That is enough for today.",
+        "ar": "ذلك يكفي لليوم.",
+        "context": "تقال عند إنهاء العمل أو التدريب لهذا اليوم."
       },
       {
         "id": 7,
-        "en": "He repeated, \"That is enough\" more than once.",
-        "ar": "ردد: \"ذلك يكفي\" أكثر من مرة.",
-        "context": "تضيف معنى التكرار لنفس الجملة."
+        "en": "This answer is enough.",
+        "ar": "هذه الإجابة كافية.",
+        "context": "تقال عند قبول جواب."
       },
       {
         "id": 8,
-        "en": "At the right moment, someone might say, \"That is enough\".",
-        "ar": "في اللحظة المناسبة، قد يقول شخص ما: \"ذلك يكفي\".",
-        "context": "توضح أن الجملة مرتبطة بتوقيت مناسب في السياق."
+        "en": "Two chairs are enough.",
+        "ar": "كرسيان يكفيان.",
+        "context": "تقال عند تحديد كمية مناسبة من المقاعد."
       },
       {
         "id": 9,
-        "en": "I wrote down the sentence, \"That is enough\" so I would remember it.",
-        "ar": "كتبت الجملة: \"ذلك يكفي\" حتى أتذكرها.",
-        "context": "تعطي مثالًا على حفظ الجملة أو مراجعتها."
+        "en": "That is more than enough.",
+        "ar": "ذلك أكثر من كاف.",
+        "context": "تقال عند وجود كمية أكبر من الحاجة."
       },
       {
         "id": 10,
-        "en": "It is useful to know when to say, \"That is enough\".",
-        "ar": "من المفيد أن تعرف متى تقول: \"ذلك يكفي\".",
-        "context": "تركز على معرفة الوقت المناسب لاستخدام الجملة."
+        "en": "The light is enough.",
+        "ar": "الضوء كاف.",
+        "context": "تقال عند كفاية الإضاءة للرؤية."
       }
     ]
   }

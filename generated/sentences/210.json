@@ -10,88 +10,95 @@
     "wordMeanings": [
       {
         "term": "When",
-        "description": "أداة أو ظرف يعني عندما."
+        "description": "متى، وتستخدم للسؤال عن موعد."
       },
       {
         "term": "does",
-        "description": "صيغة المضارع البسيط مع he/she/it من do."
+        "description": "تأتي في السؤال مع المفرد لتكوين سؤال في الحاضر."
       },
       {
         "term": "the",
-        "description": "أداة تعريف تشير إلى شيء معروف أو محدد."
+        "description": "أداة تشير إلى حافلة محددة أو معروفة من السياق."
       },
       {
         "term": "bus",
-        "description": "اسم يعني حافلة."
+        "description": "الحافلة."
       },
       {
         "term": "leave",
-        "description": "فعل يعني يغادر أو يترك."
+        "description": "تغادر أو تنطلق من مكان."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "When does the bus leave?",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "يستخدم المضارع البسيط للسؤال عن موعد مقرر أو معتاد لمغادرة الحافلة."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "You can ask, \"When does the bus leave?\" when you need information.",
-        "ar": "يمكنك أن تسأل: \"متى تغادر الحافلة؟\" عندما تحتاج إلى معلومة.",
-        "context": "تستعمل الجملة كسؤال مباشر للحصول على معلومة."
+        "en": "When does the bus leave?",
+        "ar": "متى تغادر الحافلة؟",
+        "context": "تقال عند السؤال عن الموعد المعتاد لمغادرة الحافلة."
       },
       {
         "id": 2,
-        "en": "Many people ask, \"When does the bus leave?\" in this situation.",
-        "ar": "يسأل كثير من الناس: \"متى تغادر الحافلة؟\" في هذا الموقف.",
-        "context": "توضح أن هذا سؤال شائع في موقف مشابه."
+        "en": "When does the train leave?",
+        "ar": "متى يغادر القطار؟",
+        "context": "تقال عند السؤال عن موعد مغادرة القطار."
       },
       {
         "id": 3,
-        "en": "I asked, \"When does the bus leave?\" because I was not sure.",
-        "ar": "سألت: \"متى تغادر الحافلة؟\" لأنني لم أكن متأكدًا.",
-        "context": "تضيف سببًا لطرح السؤال."
+        "en": "When does the plane leave?",
+        "ar": "متى تغادر الطائرة؟",
+        "context": "تقال عند السؤال عن موعد رحلة جوية."
       },
       {
         "id": 4,
-        "en": "She asked politely, \"When does the bus leave?\"",
-        "ar": "سألت بأدب: \"متى تغادر الحافلة؟\".",
-        "context": "تبين أن السؤال قيل بطريقة مهذبة."
+        "en": "When does the next bus leave?",
+        "ar": "متى تغادر الحافلة التالية؟",
+        "context": "تقال عند انتظار الحافلة التالية."
       },
       {
         "id": 5,
-        "en": "At work, someone may ask, \"When does the bus leave?\"",
-        "ar": "في العمل، قد يسأل شخص ما: \"متى تغادر الحافلة؟\".",
-        "context": "تضع السؤال في سياق مهني أو عملي."
+        "en": "When does the bus leave for Boston?",
+        "ar": "متى تغادر الحافلة إلى بوسطن؟",
+        "context": "تقال عند السؤال عن حافلة إلى مدينة محددة."
       },
       {
         "id": 6,
-        "en": "Before deciding, ask: \"When does the bus leave?\"",
-        "ar": "قبل أن تقرر، اسأل: \"متى تغادر الحافلة؟\".",
-        "context": "تستخدم السؤال قبل اتخاذ قرار."
+        "en": "When does the bus leave from here?",
+        "ar": "متى تغادر الحافلة من هنا؟",
+        "context": "تقال عند السؤال عن نقطة المغادرة الحالية."
       },
       {
         "id": 7,
-        "en": "The student asked, \"When does the bus leave?\" in class.",
-        "ar": "سأل الطالب: \"متى تغادر الحافلة؟\" في الصف.",
-        "context": "تجعل الجملة جزءًا من موقف تعليمي."
+        "en": "When does the last bus leave?",
+        "ar": "متى تغادر آخر حافلة؟",
+        "context": "تقال عند التأكد من آخر موعد للمواصلات."
       },
       {
         "id": 8,
-        "en": "While traveling, you can ask, \"When does the bus leave?\"",
-        "ar": "أثناء السفر، يمكنك أن تسأل: \"متى تغادر الحافلة؟\".",
-        "context": "تربط السؤال بموقف السفر أو التنقل."
+        "en": "When does the morning bus leave?",
+        "ar": "متى تغادر حافلة الصباح؟",
+        "context": "تقال عند السؤال عن رحلة صباحية."
       },
       {
         "id": 9,
-        "en": "He asked me, \"When does the bus leave?\" again.",
-        "ar": "سألني: \"متى تغادر الحافلة؟\" مرة أخرى.",
-        "context": "تضيف معنى التكرار لنفس السؤال."
+        "en": "When does the bus leave today?",
+        "ar": "متى تغادر الحافلة اليوم؟",
+        "context": "تقال عند السؤال عن موعد يوم محدد."
       },
       {
         "id": 10,
-        "en": "If you are not sure, ask: \"When does the bus leave?\"",
-        "ar": "إذا لم تكن متأكدًا، فاسأل: \"متى تغادر الحافلة؟\".",
-        "context": "توضح أن السؤال مناسب عند عدم التأكد."
+        "en": "When does the bus leave tomorrow?",
+        "ar": "متى تغادر الحافلة غدًا؟",
+        "context": "تقال عند التخطيط لرحلة في اليوم التالي."
       }
     ]
   }

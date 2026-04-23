@@ -10,99 +10,107 @@
     "wordMeanings": [
       {
         "term": "I",
-        "description": "ضمير المتكلم."
+        "description": "أنا، وتشير إلى المتكلم."
       },
       {
         "term": "would",
-        "description": "فعل modal يُستعمل للطلب المؤدب أو الرغبة أو الفرضية."
+        "description": "تجعل الطلب أكثر تهذيبًا ولطفًا."
       },
       {
         "term": "like",
-        "description": "فعل يدل على الإعجاب أو الميل."
+        "description": "أرغب أو أود."
       },
       {
         "term": "to",
-        "description": "أداة تأتي قبل المصدر بعد أفعال مثل want."
+        "description": "تربط الرغبة بالفعل المطلوب بعدها."
       },
       {
         "term": "make",
-        "description": "فعل يعني يصنع أو يجعل."
+        "description": "أجري أو أقوم بعمل شيء."
       },
       {
         "term": "a",
-        "description": "أداة نكرة تأتي قبل الاسم المفرد المعدود."
+        "description": "أداة تدل على شيء واحد غير محدد."
       },
       {
         "term": "phone",
-        "description": "اسم يعني هاتف."
+        "description": "هاتف، وتصف نوع المكالمة."
       },
       {
         "term": "call",
-        "description": "فعل يعني يتصل أو ينادي."
+        "description": "مكالمة أو اتصال."
       }
     ],
-    "tense": null,
-    "tenseReason": "تتضمن الجملة فعلًا modal يعبّر عن القدرة أو الإمكانية أو الرغبة، لذلك لا نضع لها هنا زمنًا فعليًا مستقلًا على الرغم من وجود معنى زمني عام في السياق.",
+    "grammarExplanations": [
+      {
+        "sentence": "I would like to make a phone call.",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه صيغة طلب مهذب باستخدام تركيب يدل على الرغبة، ويأتي بعدها فعل بصيغة المصدر لشرح ما يريد المتكلم فعله، لذلك لا تعامل كزمن مستقل."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "People often say, \"I would like to make a phone call\" in situations like this.",
-        "ar": "يقول الناس كثيرًا: \"أود إجراء مكالمة هاتفية\" في مواقف كهذه.",
-        "context": "تستخدم الجملة بوصفها تركيبًا شائعًا في موقف مشابه."
+        "en": "I would like to make a phone call.",
+        "ar": "أود إجراء مكالمة هاتفية.",
+        "context": "تقال عند طلب الإذن لإجراء مكالمة."
       },
       {
         "id": 2,
-        "en": "You can say, \"I would like to make a phone call\" when this happens.",
-        "ar": "يمكنك أن تقول: \"أود إجراء مكالمة هاتفية\" عندما يحدث هذا.",
-        "context": "توضح أن الجملة مناسبة في موقف متكرر."
+        "en": "I would like to use the phone.",
+        "ar": "أود استخدام الهاتف.",
+        "context": "تقال عند طلب استعمال هاتف."
       },
       {
         "id": 3,
-        "en": "I heard someone say, \"I would like to make a phone call\".",
-        "ar": "سمعت شخصًا يقول: \"أود إجراء مكالمة هاتفية\".",
-        "context": "تجعل الجملة جزءًا من كلام سمعته من شخص آخر."
+        "en": "I would like to call my family.",
+        "ar": "أود الاتصال بعائلتي.",
+        "context": "تقال عندما تحتاج إلى التواصل مع العائلة."
       },
       {
         "id": 4,
-        "en": "The teacher used the sentence, \"I would like to make a phone call\" in class.",
-        "ar": "استخدم المعلم الجملة: \"أود إجراء مكالمة هاتفية\" في الصف.",
-        "context": "تستخدم الجملة مثالًا تعليميًا في الصف."
+        "en": "I would like to call a taxi.",
+        "ar": "أود طلب سيارة أجرة.",
+        "context": "تقال عند الحاجة إلى وسيلة نقل."
       },
       {
         "id": 5,
-        "en": "Many learners remember the sentence, \"I would like to make a phone call\" first.",
-        "ar": "يتذكر كثير من المتعلمين الجملة: \"أود إجراء مكالمة هاتفية\" أولًا.",
-        "context": "تقدم الجملة بوصفها جملة تعليمية أساسية."
+        "en": "I would like to make a quick call.",
+        "ar": "أود إجراء مكالمة سريعة.",
+        "context": "تقال عندما تكون المكالمة قصيرة."
       },
       {
         "id": 6,
-        "en": "She said, \"I would like to make a phone call\" in a calm way.",
-        "ar": "قالت: \"أود إجراء مكالمة هاتفية\" بطريقة هادئة.",
-        "context": "تجعل الجملة جزءًا من كلام مباشر في موقف عادي."
+        "en": "I would like to make an important call.",
+        "ar": "أود إجراء مكالمة مهمة.",
+        "context": "تقال عندما تكون المكالمة ضرورية."
       },
       {
         "id": 7,
-        "en": "He repeated, \"I would like to make a phone call\" more than once.",
-        "ar": "ردد: \"أود إجراء مكالمة هاتفية\" أكثر من مرة.",
-        "context": "تضيف معنى التكرار لنفس الجملة."
+        "en": "I would like to call the office.",
+        "ar": "أود الاتصال بالمكتب.",
+        "context": "تقال عند الحاجة إلى التواصل مع مكتب."
       },
       {
         "id": 8,
-        "en": "At the right moment, someone might say, \"I would like to make a phone call\".",
-        "ar": "في اللحظة المناسبة، قد يقول شخص ما: \"أود إجراء مكالمة هاتفية\".",
-        "context": "توضح أن الجملة مرتبطة بتوقيت مناسب في السياق."
+        "en": "I would like to call the hotel.",
+        "ar": "أود الاتصال بالفندق.",
+        "context": "تقال عند التواصل مع فندق."
       },
       {
         "id": 9,
-        "en": "I wrote down the sentence, \"I would like to make a phone call\" so I would remember it.",
-        "ar": "كتبت الجملة: \"أود إجراء مكالمة هاتفية\" حتى أتذكرها.",
-        "context": "تعطي مثالًا على حفظ الجملة أو مراجعتها."
+        "en": "I would like to make a local call.",
+        "ar": "أود إجراء مكالمة محلية.",
+        "context": "تقال عند إجراء اتصال داخل البلد أو المدينة."
       },
       {
         "id": 10,
-        "en": "It is useful to know when to say, \"I would like to make a phone call\".",
-        "ar": "من المفيد أن تعرف متى تقول: \"أود إجراء مكالمة هاتفية\".",
-        "context": "تركز على معرفة الوقت المناسب لاستخدام الجملة."
+        "en": "I would like to make an international call.",
+        "ar": "أود إجراء مكالمة دولية.",
+        "context": "تقال عند الاتصال بدولة أخرى."
       }
     ]
   }

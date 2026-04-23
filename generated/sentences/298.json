@@ -10,96 +10,107 @@
     "wordMeanings": [
       {
         "term": "The",
-        "description": "أداة تعريف تشير إلى شيء معروف أو محدد."
+        "description": "أداة تشير إلى كتاب محدد معروف من السياق."
       },
       {
         "term": "book",
-        "description": "اسم يعني كتاب."
+        "description": "كتاب أو شيء للقراءة."
       },
       {
         "term": "is",
-        "description": "فعل be في الحاضر مع المفرد."
+        "description": "تربط الكتاب بمكانه الحالي."
       },
       {
         "term": "in",
-        "description": "حرف جر يعني في."
+        "description": "جزء من العبارة in front of التي تعني أمام."
       },
       {
         "term": "front",
-        "description": "صفة تعني أمام."
+        "description": "الجهة الأمامية ضمن عبارة أمام."
       },
       {
         "term": "of",
-        "description": "حرف جر يربط بين اسمين وغالبًا يعني من أو الخاص بـ حسب السياق."
+        "description": "تربط عبارة in front بالشيء الذي يقع أمامه الكتاب."
+      },
+      {
+        "term": "the",
+        "description": "أداة تشير إلى طاولة محددة."
       },
       {
         "term": "table",
-        "description": "اسم يعني طاولة."
+        "description": "طاولة أو منضدة."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "The book is in front of the table.",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "تستخدم الجملة is لوصف مكان الكتاب الحالي، وin front of تحدد أنه أمام الطاولة."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "People often say, \"The book is in front of the table\" in situations like this.",
-        "ar": "يقول الناس كثيرًا: \"الكتاب أمام الطاولة\" في مواقف كهذه.",
-        "context": "تستخدم الجملة بوصفها تركيبًا شائعًا في موقف مشابه."
+        "en": "The book is in front of the table.",
+        "ar": "الكتاب أمام الطاولة.",
+        "context": "تقال عند تحديد مكان كتاب أمام طاولة."
       },
       {
         "id": 2,
-        "en": "You can say, \"The book is in front of the table\" when this happens.",
-        "ar": "يمكنك أن تقول: \"الكتاب أمام الطاولة\" عندما يحدث هذا.",
-        "context": "توضح أن الجملة مناسبة في موقف متكرر."
+        "en": "The car is in front of the house.",
+        "ar": "السيارة أمام المنزل.",
+        "context": "تقال عند تحديد مكان سيارة."
       },
       {
         "id": 3,
-        "en": "I heard someone say, \"The book is in front of the table\".",
-        "ar": "سمعت شخصًا يقول: \"الكتاب أمام الطاولة\".",
-        "context": "تجعل الجملة جزءًا من كلام سمعته من شخص آخر."
+        "en": "The hotel is in front of the park.",
+        "ar": "الفندق أمام الحديقة.",
+        "context": "تقال عند وصف موقع فندق."
       },
       {
         "id": 4,
-        "en": "The teacher used the sentence, \"The book is in front of the table\" in class.",
-        "ar": "استخدم المعلم الجملة: \"الكتاب أمام الطاولة\" في الصف.",
-        "context": "تستخدم الجملة مثالًا تعليميًا في الصف."
+        "en": "She is standing in front of the door.",
+        "ar": "هي تقف أمام الباب.",
+        "context": "تصف مكان وقوف شخص."
       },
       {
         "id": 5,
-        "en": "Many learners remember the sentence, \"The book is in front of the table\" first.",
-        "ar": "يتذكر كثير من المتعلمين الجملة: \"الكتاب أمام الطاولة\" أولًا.",
-        "context": "تقدم الجملة بوصفها جملة تعليمية أساسية."
+        "en": "The taxi is in front of the hotel.",
+        "ar": "سيارة الأجرة أمام الفندق.",
+        "context": "تقال عند تحديد مكان سيارة أجرة."
       },
       {
         "id": 6,
-        "en": "She said, \"The book is in front of the table\" in a calm way.",
-        "ar": "قالت: \"الكتاب أمام الطاولة\" بطريقة هادئة.",
-        "context": "تجعل الجملة جزءًا من كلام مباشر في موقف عادي."
+        "en": "Is the book in front of the table?",
+        "ar": "هل الكتاب أمام الطاولة؟",
+        "context": "تستخدم للسؤال عن مكان كتاب."
       },
       {
         "id": 7,
-        "en": "He repeated, \"The book is in front of the table\" more than once.",
-        "ar": "ردد: \"الكتاب أمام الطاولة\" أكثر من مرة.",
-        "context": "تضيف معنى التكرار لنفس الجملة."
+        "en": "The chair is in front of the desk.",
+        "ar": "الكرسي أمام المكتب.",
+        "context": "تقال عند وصف ترتيب الأثاث."
       },
       {
         "id": 8,
-        "en": "At the right moment, someone might say, \"The book is in front of the table\".",
-        "ar": "في اللحظة المناسبة، قد يقول شخص ما: \"الكتاب أمام الطاولة\".",
-        "context": "توضح أن الجملة مرتبطة بتوقيت مناسب في السياق."
+        "en": "Meet me in front of the station.",
+        "ar": "قابلني أمام المحطة.",
+        "context": "تقال عند تحديد مكان لقاء."
       },
       {
         "id": 9,
-        "en": "I wrote down the sentence, \"The book is in front of the table\" so I would remember it.",
-        "ar": "كتبت الجملة: \"الكتاب أمام الطاولة\" حتى أتذكرها.",
-        "context": "تعطي مثالًا على حفظ الجملة أو مراجعتها."
+        "en": "The sign is in front of the store.",
+        "ar": "اللافتة أمام المتجر.",
+        "context": "تقال عند تحديد مكان لافتة."
       },
       {
         "id": 10,
-        "en": "It is useful to know when to say, \"The book is in front of the table\".",
-        "ar": "من المفيد أن تعرف متى تقول: \"الكتاب أمام الطاولة\".",
-        "context": "تركز على معرفة الوقت المناسب لاستخدام الجملة."
+        "en": "There is a tree in front of the table.",
+        "ar": "توجد شجرة أمام الطاولة.",
+        "context": "تقال عند وصف موقع شيء أمام شيء آخر."
       }
     ]
   }

@@ -10,99 +10,115 @@
     "wordMeanings": [
       {
         "term": "Hi",
-        "description": "تحية قصيرة وغير رسمية جدًا تستعمل غالبًا مع الأصدقاء أو من تعرفهم جيدًا."
+        "description": "تحية قصيرة وغير رسمية لبدء الحديث."
       },
       {
         "term": "Can",
-        "description": "فعل مساعد يدل هنا على القدرة أو الاستعداد لتلبية الطلب."
+        "description": "تبدأ سؤالًا عن القدرة أو التصديق، وتستعمل هنا للتعجب."
       },
       {
         "term": "you",
-        "description": "الضمير الذي يعود على الشخص المخاطَب."
+        "description": "ضمير المخاطب."
       },
       {
         "term": "believe",
-        "description": "فعل يعني تصدق."
+        "description": "تعني تصدق أو تستوعب أن شيئًا صحيح."
       },
       {
         "term": "it",
-        "description": "ضمير يعود على الشيء أو الجملة التي قيلت."
+        "description": "ضمير يعود على فكرة وصول شهر أغسطس."
       },
       {
         "term": "is",
-        "description": "فعل be في الحاضر مع المفرد."
+        "description": "صيغة تربط الضمير بالحالة أو الوقت الحالي."
       },
       {
         "term": "already",
-        "description": "ظرف يعني بالفعل أو سابقًا."
+        "description": "تعني بالفعل أو بهذه السرعة قبل المتوقع."
       },
       {
         "term": "August",
-        "description": "اسم شهر هو أغسطس."
+        "description": "شهر أغسطس."
       }
     ],
-    "tense": null,
-    "tenseReason": "استُعمل هذا التركيب لأنه سؤال يعتمد على فعل modal مثل can أو could أو would، لذلك لا نعامله هنا كزمن مستقل بل كصيغة سؤال وظيفية.",
+    "grammarExplanations": [
+      {
+        "sentence": "Hi!",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه تحية قصيرة وليست جملة فعلية لها زمن مستقل."
+        }
+      },
+      {
+        "sentence": "Can you believe it is already August?",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذا سؤال تعجبي يعتمد على can للتعبير عن صعوبة تصديق سرعة مرور الوقت، لذلك يشرح كتركيب وظيفي لا كزمن مستقل."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "You can ask, \"Hi! Can you believe it is already August?\" when you need information.",
-        "ar": "يمكنك أن تسأل: \"مرحبًا! هل يمكنك أن تصدق أنه أصبح بالفعل شهر أغسطس؟\" عندما تحتاج إلى معلومة.",
-        "context": "تستعمل الجملة كسؤال مباشر للحصول على معلومة."
+        "en": "Can you believe it is already Friday?",
+        "ar": "هل يمكنك أن تصدق أنه أصبح بالفعل يوم الجمعة؟",
+        "context": "تتعجب من سرعة مرور الأسبوع."
       },
       {
         "id": 2,
-        "en": "Many people ask, \"Hi! Can you believe it is already August?\" in this situation.",
-        "ar": "يسأل كثير من الناس: \"مرحبًا! هل يمكنك أن تصدق أنه أصبح بالفعل شهر أغسطس؟\" في هذا الموقف.",
-        "context": "توضح أن هذا سؤال شائع في موقف مشابه."
+        "en": "Can you believe it is already summer?",
+        "ar": "هل يمكنك أن تصدق أنه أصبح الصيف بالفعل؟",
+        "context": "تعلّق على سرعة تغير الموسم."
       },
       {
         "id": 3,
-        "en": "I asked, \"Hi! Can you believe it is already August?\" because I was not sure.",
-        "ar": "سألت: \"مرحبًا! هل يمكنك أن تصدق أنه أصبح بالفعل شهر أغسطس؟\" لأنني لم أكن متأكدًا.",
-        "context": "تضيف سببًا لطرح السؤال."
+        "en": "Hi! Can you believe the trip is tomorrow?",
+        "ar": "مرحبًا! هل يمكنك أن تصدق أن الرحلة غدًا؟",
+        "context": "تبدأ حديثًا بحماس عن موعد قريب."
       },
       {
         "id": 4,
-        "en": "She asked politely, \"Hi! Can you believe it is already August?\"",
-        "ar": "سألت بأدب: \"مرحبًا! هل يمكنك أن تصدق أنه أصبح بالفعل شهر أغسطس؟\".",
-        "context": "تبين أن السؤال قيل بطريقة مهذبة."
+        "en": "Can you believe it is already noon?",
+        "ar": "هل يمكنك أن تصدق أنها أصبحت الظهيرة بالفعل؟",
+        "context": "تتعجب من مرور الوقت خلال اليوم."
       },
       {
         "id": 5,
-        "en": "At work, someone may ask, \"Hi! Can you believe it is already August?\"",
-        "ar": "في العمل، قد يسأل شخص ما: \"مرحبًا! هل يمكنك أن تصدق أنه أصبح بالفعل شهر أغسطس؟\".",
-        "context": "تضع السؤال في سياق مهني أو عملي."
+        "en": "Can you believe August is almost over?",
+        "ar": "هل يمكنك أن تصدق أن أغسطس أوشك على الانتهاء؟",
+        "context": "تتحدث عن نهاية الشهر بسرعة."
       },
       {
         "id": 6,
-        "en": "Before deciding, ask: \"Hi! Can you believe it is already August?\"",
-        "ar": "قبل أن تقرر، اسأل: \"مرحبًا! هل يمكنك أن تصدق أنه أصبح بالفعل شهر أغسطس؟\".",
-        "context": "تستخدم السؤال قبل اتخاذ قرار."
+        "en": "Hi! It is already August.",
+        "ar": "مرحبًا! لقد أصبح أغسطس بالفعل.",
+        "context": "تفتتح مكالمة بتعليق على الوقت."
       },
       {
         "id": 7,
-        "en": "The student asked, \"Hi! Can you believe it is already August?\" in class.",
-        "ar": "سأل الطالب: \"مرحبًا! هل يمكنك أن تصدق أنه أصبح بالفعل شهر أغسطس؟\" في الصف.",
-        "context": "تجعل الجملة جزءًا من موقف تعليمي."
+        "en": "Can you believe the baby is already one?",
+        "ar": "هل يمكنك أن تصدق أن الطفل أصبح عمره سنة بالفعل؟",
+        "context": "تتعجب من سرعة نمو طفل."
       },
       {
         "id": 8,
-        "en": "While traveling, you can ask, \"Hi! Can you believe it is already August?\"",
-        "ar": "أثناء السفر، يمكنك أن تسأل: \"مرحبًا! هل يمكنك أن تصدق أنه أصبح بالفعل شهر أغسطس؟\".",
-        "context": "تربط السؤال بموقف السفر أو التنقل."
+        "en": "Can you believe it is already time to leave?",
+        "ar": "هل يمكنك أن تصدق أن وقت المغادرة حان بالفعل؟",
+        "context": "تتعجب من قرب موعد المغادرة."
       },
       {
         "id": 9,
-        "en": "He asked me, \"Hi! Can you believe it is already August?\" again.",
-        "ar": "سألني: \"مرحبًا! هل يمكنك أن تصدق أنه أصبح بالفعل شهر أغسطس؟\" مرة أخرى.",
-        "context": "تضيف معنى التكرار لنفس السؤال."
+        "en": "Can you believe next week is so close?",
+        "ar": "هل يمكنك أن تصدق أن الأسبوع القادم قريب جدًا؟",
+        "context": "تتحدث عن اقتراب موعد."
       },
       {
         "id": 10,
-        "en": "If you are not sure, ask: \"Hi! Can you believe it is already August?\"",
-        "ar": "إذا لم تكن متأكدًا، فاسأل: \"مرحبًا! هل يمكنك أن تصدق أنه أصبح بالفعل شهر أغسطس؟\".",
-        "context": "توضح أن السؤال مناسب عند عدم التأكد."
+        "en": "Hi! Can you believe we are in August now?",
+        "ar": "مرحبًا! هل يمكنك أن تصدق أننا في أغسطس الآن؟",
+        "context": "تبدأ الحديث بملاحظة عن الشهر الحالي."
       }
     ]
   }

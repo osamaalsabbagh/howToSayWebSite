@@ -10,79 +10,87 @@
     "wordMeanings": [
       {
         "term": "Shall",
-        "description": "فعل يعني هل."
+        "description": "تستخدم هنا لاقتراح فعل شيء معًا بطريقة مهذبة."
       },
       {
         "term": "we",
-        "description": "ضمير المتكلمين."
+        "description": "ضمير يشمل المتكلم والشخص أو الأشخاص معه."
       },
       {
         "term": "go",
-        "description": "فعل يعني يذهب أو ينتقل من مكان إلى آخر."
+        "description": "نذهب أو نتحرك من المكان الحالي."
       }
     ],
-    "tense": null,
-    "tenseReason": "استُعمل هذا التركيب بحسب وظيفته في السياق، وليس بوصفه زمنًا فعليًا مستقلًا يمكن فصله بسهولة عن المعنى الوظيفي للجملة.",
+    "grammarExplanations": [
+      {
+        "sentence": "Shall we go?",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه صيغة اقتراح مهذب باستخدام shall لسؤال الطرف الآخر عن الاستعداد للذهاب، ولا تعامل كزمن مستقل."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "You can ask, \"Shall we go?\" when you need information.",
-        "ar": "يمكنك أن تسأل: \"هل نذهب؟\" عندما تحتاج إلى معلومة.",
-        "context": "تستعمل الجملة كسؤال مباشر للحصول على معلومة."
+        "en": "Shall we go?",
+        "ar": "هل نذهب؟",
+        "context": "تقال عند اقتراح المغادرة أو الانطلاق."
       },
       {
         "id": 2,
-        "en": "Many people ask, \"Shall we go?\" in this situation.",
-        "ar": "يسأل كثير من الناس: \"هل نذهب؟\" في هذا الموقف.",
-        "context": "توضح أن هذا سؤال شائع في موقف مشابه."
+        "en": "Shall we go now?",
+        "ar": "هل نذهب الآن؟",
+        "context": "تقال عند اقتراح الذهاب في الحال."
       },
       {
         "id": 3,
-        "en": "I asked, \"Shall we go?\" because I was not sure.",
-        "ar": "سألت: \"هل نذهب؟\" لأنني لم أكن متأكدًا.",
-        "context": "تضيف سببًا لطرح السؤال."
+        "en": "Shall we go together?",
+        "ar": "هل نذهب معًا؟",
+        "context": "تقال عند اقتراح الذهاب مع شخص."
       },
       {
         "id": 4,
-        "en": "She asked politely, \"Shall we go?\"",
-        "ar": "سألت بأدب: \"هل نذهب؟\".",
-        "context": "تبين أن السؤال قيل بطريقة مهذبة."
+        "en": "Shall we go inside?",
+        "ar": "هل ندخل؟",
+        "context": "تقال عند اقتراح الدخول إلى مكان."
       },
       {
         "id": 5,
-        "en": "At work, someone may ask, \"Shall we go?\"",
-        "ar": "في العمل، قد يسأل شخص ما: \"هل نذهب؟\".",
-        "context": "تضع السؤال في سياق مهني أو عملي."
+        "en": "Shall we go to the hotel?",
+        "ar": "هل نذهب إلى الفندق؟",
+        "context": "تقال عند اقتراح وجهة محددة."
       },
       {
         "id": 6,
-        "en": "Before deciding, ask: \"Shall we go?\"",
-        "ar": "قبل أن تقرر، اسأل: \"هل نذهب؟\".",
-        "context": "تستخدم السؤال قبل اتخاذ قرار."
+        "en": "Shall we leave now?",
+        "ar": "هل نغادر الآن؟",
+        "context": "تقال عند اقتراح المغادرة."
       },
       {
         "id": 7,
-        "en": "The student asked, \"Shall we go?\" in class.",
-        "ar": "سأل الطالب: \"هل نذهب؟\" في الصف.",
-        "context": "تجعل الجملة جزءًا من موقف تعليمي."
+        "en": "Shall we take a taxi?",
+        "ar": "هل نأخذ سيارة أجرة؟",
+        "context": "تقال عند اقتراح وسيلة نقل."
       },
       {
         "id": 8,
-        "en": "While traveling, you can ask, \"Shall we go?\"",
-        "ar": "أثناء السفر، يمكنك أن تسأل: \"هل نذهب؟\".",
-        "context": "تربط السؤال بموقف السفر أو التنقل."
+        "en": "Shall we meet there?",
+        "ar": "هل نلتقي هناك؟",
+        "context": "تقال عند اقتراح مكان لقاء."
       },
       {
         "id": 9,
-        "en": "He asked me, \"Shall we go?\" again.",
-        "ar": "سألني: \"هل نذهب؟\" مرة أخرى.",
-        "context": "تضيف معنى التكرار لنفس السؤال."
+        "en": "Shall we ask for directions?",
+        "ar": "هل نسأل عن الاتجاهات؟",
+        "context": "تقال عند اقتراح طلب مساعدة في الطريق."
       },
       {
         "id": 10,
-        "en": "If you are not sure, ask: \"Shall we go?\"",
-        "ar": "إذا لم تكن متأكدًا، فاسأل: \"هل نذهب؟\".",
-        "context": "توضح أن السؤال مناسب عند عدم التأكد."
+        "en": "Shall we wait here?",
+        "ar": "هل ننتظر هنا؟",
+        "context": "تقال عند اقتراح الانتظار في مكان."
       }
     ]
   }

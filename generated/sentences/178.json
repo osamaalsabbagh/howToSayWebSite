@@ -10,96 +10,103 @@
     "wordMeanings": [
       {
         "term": "How",
-        "description": "أداة سؤال."
+        "description": "كيف، وتستخدم للسؤال عن طريقة الوصول."
       },
       {
         "term": "do",
-        "description": "فعل مساعد يُستعمل لتكوين النفي والسؤال في المضارع البسيط."
+        "description": "تأتي في السؤال مع المتكلم لتكوين سؤال في الحاضر."
       },
       {
         "term": "I",
-        "description": "ضمير المتكلم."
+        "description": "أنا، وتشير إلى المتكلم."
       },
       {
         "term": "get",
-        "description": "فعل شائع يعني يحصل على أو يصل أو يصبح حسب السياق."
+        "description": "أصل أو أذهب إلى مكان."
       },
       {
         "term": "to",
-        "description": "أداة تأتي قبل المصدر بعد أفعال مثل want."
+        "description": "إلى، وتربط فعل الوصول بالوجهة."
       },
       {
         "term": "Daniel",
-        "description": "اسم علم يشير إلى دانيال."
+        "description": "اسم علم جزء من اسم شارع."
       },
       {
         "term": "Street",
-        "description": "اسم يعني شارع."
+        "description": "شارع."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "How do I get to Daniel Street?",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "يستخدم السؤال المضارع البسيط للسؤال عن طريقة الوصول إلى شارع محدد، والتركيب يطلب إرشادات عامة لا حدثًا مستمرًا."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "You can ask, \"How do I get to Daniel Street?\" when you need information.",
-        "ar": "يمكنك أن تسأل: \"كيف أصل إلى شارع دانيال؟\" عندما تحتاج إلى معلومة.",
-        "context": "تستعمل الجملة كسؤال مباشر للحصول على معلومة."
+        "en": "How do I get to Daniel Street?",
+        "ar": "كيف أصل إلى شارع دانيال؟",
+        "context": "تقال عند طلب الاتجاه إلى شارع محدد."
       },
       {
         "id": 2,
-        "en": "Many people ask, \"How do I get to Daniel Street?\" in this situation.",
-        "ar": "يسأل كثير من الناس: \"كيف أصل إلى شارع دانيال؟\" في هذا الموقف.",
-        "context": "توضح أن هذا سؤال شائع في موقف مشابه."
+        "en": "How do I get to Main Street?",
+        "ar": "كيف أصل إلى الشارع الرئيسي؟",
+        "context": "تقال عند طلب طريق إلى شارع معروف."
       },
       {
         "id": 3,
-        "en": "I asked, \"How do I get to Daniel Street?\" because I was not sure.",
-        "ar": "سألت: \"كيف أصل إلى شارع دانيال؟\" لأنني لم أكن متأكدًا.",
-        "context": "تضيف سببًا لطرح السؤال."
+        "en": "How do I get to King Street?",
+        "ar": "كيف أصل إلى شارع كينغ؟",
+        "context": "تقال عند السؤال عن شارع باسم محدد."
       },
       {
         "id": 4,
-        "en": "She asked politely, \"How do I get to Daniel Street?\"",
-        "ar": "سألت بأدب: \"كيف أصل إلى شارع دانيال؟\".",
-        "context": "تبين أن السؤال قيل بطريقة مهذبة."
+        "en": "How do I get to the next street?",
+        "ar": "كيف أصل إلى الشارع التالي؟",
+        "context": "تقال عند البحث عن شارع قريب."
       },
       {
         "id": 5,
-        "en": "At work, someone may ask, \"How do I get to Daniel Street?\"",
-        "ar": "في العمل، قد يسأل شخص ما: \"كيف أصل إلى شارع دانيال؟\".",
-        "context": "تضع السؤال في سياق مهني أو عملي."
+        "en": "How do I get to this street?",
+        "ar": "كيف أصل إلى هذا الشارع؟",
+        "context": "تقال عند إظهار اسم شارع لشخص."
       },
       {
         "id": 6,
-        "en": "Before deciding, ask: \"How do I get to Daniel Street?\"",
-        "ar": "قبل أن تقرر، اسأل: \"كيف أصل إلى شارع دانيال؟\".",
-        "context": "تستخدم السؤال قبل اتخاذ قرار."
+        "en": "How do I get to Daniel Street by bus?",
+        "ar": "كيف أصل إلى شارع دانيال بالحافلة؟",
+        "context": "تقال عند طلب طريق باستخدام الحافلة."
       },
       {
         "id": 7,
-        "en": "The student asked, \"How do I get to Daniel Street?\" in class.",
-        "ar": "سأل الطالب: \"كيف أصل إلى شارع دانيال؟\" في الصف.",
-        "context": "تجعل الجملة جزءًا من موقف تعليمي."
+        "en": "How do I get to Daniel Street from here?",
+        "ar": "كيف أصل إلى شارع دانيال من هنا؟",
+        "context": "تقال عند طلب اتجاهات من الموقع الحالي."
       },
       {
         "id": 8,
-        "en": "While traveling, you can ask, \"How do I get to Daniel Street?\"",
-        "ar": "أثناء السفر، يمكنك أن تسأل: \"كيف أصل إلى شارع دانيال؟\".",
-        "context": "تربط السؤال بموقف السفر أو التنقل."
+        "en": "How do I get to the street behind the hotel?",
+        "ar": "كيف أصل إلى الشارع خلف الفندق؟",
+        "context": "تقال عند وصف الشارع بعلامة قريبة."
       },
       {
         "id": 9,
-        "en": "He asked me, \"How do I get to Daniel Street?\" again.",
-        "ar": "سألني: \"كيف أصل إلى شارع دانيال؟\" مرة أخرى.",
-        "context": "تضيف معنى التكرار لنفس السؤال."
+        "en": "How do I get to the street market?",
+        "ar": "كيف أصل إلى سوق الشارع؟",
+        "context": "تقال عند السؤال عن مكان سوق."
       },
       {
         "id": 10,
-        "en": "If you are not sure, ask: \"How do I get to Daniel Street?\"",
-        "ar": "إذا لم تكن متأكدًا، فاسأل: \"كيف أصل إلى شارع دانيال؟\".",
-        "context": "توضح أن السؤال مناسب عند عدم التأكد."
+        "en": "How do I get to your street?",
+        "ar": "كيف أصل إلى شارعك؟",
+        "context": "تقال عند زيارة شخص في منطقته."
       }
     ]
   }

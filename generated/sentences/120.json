@@ -10,80 +10,87 @@
     "wordMeanings": [
       {
         "term": "That",
-        "description": "تشير إلى الأمر أو الاقتراح أو الوضع المذكور."
+        "description": "يشير إلى أمر أو اقتراح مذكور."
       },
       {
         "term": "is",
-        "description": "فعل be في الحاضر مع المفرد."
+        "description": "تربط الإشارة بالوصف الحالي."
       },
       {
         "term": "fine",
-        "description": "هنا تعني مقبول أو مناسب أو لا بأس به."
+        "description": "مقبول أو مناسب."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن المتكلم يصف حكمه الحالي على الأمر: أنه مقبول ومناسب.",
+    "grammarExplanations": [
+      {
+        "sentence": "That is fine.",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "الجملة تصف الأمر الحالي بأنه مقبول أو مناسب."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
         "en": "That is fine with me.",
         "ar": "هذا مناسب لي.",
-        "context": "توافق على اقتراح أو ترتيب."
+        "context": "تقال عند قبول اقتراح."
       },
       {
         "id": 2,
-        "en": "That is fine, we can meet tomorrow.",
-        "ar": "لا بأس بذلك، يمكننا أن نلتقي غدًا.",
-        "context": "تقبل تغييرًا أو تأجيلًا."
+        "en": "That is fine for today.",
+        "ar": "هذا مناسب لهذا اليوم.",
+        "context": "تقال عند قبول ترتيب مؤقت."
       },
       {
         "id": 3,
-        "en": "That is fine, I understand.",
-        "ar": "لا بأس بذلك، أنا أفهم.",
-        "context": "تُظهر القبول بعد توضيح ما."
+        "en": "It is fine if you wait.",
+        "ar": "لا بأس إذا انتظرت.",
+        "context": "تقال عند السماح بالانتظار."
       },
       {
         "id": 4,
-        "en": "That is fine for now.",
-        "ar": "هذا مناسب في الوقت الحالي.",
-        "context": "تقبل وضعًا مؤقتًا."
+        "en": "That time is fine.",
+        "ar": "ذلك الوقت مناسب.",
+        "context": "تقال عند قبول موعد."
       },
       {
         "id": 5,
-        "en": "That is fine, thank you.",
-        "ar": "هذا مناسب، شكرًا لك.",
-        "context": "تقبل عرضًا أو مساعدة بأدب."
+        "en": "The plan is fine.",
+        "ar": "الخطة مناسبة.",
+        "context": "تقال عند قبول خطة."
       },
       {
         "id": 6,
-        "en": "That is fine if everyone agrees.",
-        "ar": "لا بأس بذلك إذا وافق الجميع.",
-        "context": "تقبل فكرة بشرط."
+        "en": "That answer is fine.",
+        "ar": "تلك الإجابة مناسبة.",
+        "context": "تقال عند قبول إجابة."
       },
       {
         "id": 7,
-        "en": "That is fine, I can wait.",
-        "ar": "لا بأس بذلك، أستطيع الانتظار.",
-        "context": "تُظهر صبرك وعدم اعتراضك."
+        "en": "This seat is fine.",
+        "ar": "هذا المقعد مناسب.",
+        "context": "تقال عند قبول مكان جلوس."
       },
       {
         "id": 8,
-        "en": "That is fine, you do not need to change it.",
-        "ar": "لا بأس بذلك، لا تحتاج إلى تغييره.",
-        "context": "تؤكد أن الوضع الحالي مقبول."
+        "en": "That is fine, thank you.",
+        "ar": "هذا مناسب، شكرًا لك.",
+        "context": "تقال بعد قبول عرض أو مساعدة."
       },
       {
         "id": 9,
-        "en": "That is fine with the teacher.",
-        "ar": "هذا مناسب للمعلم.",
-        "context": "تصف أن شخصًا آخر لا يمانع."
+        "en": "Everything is fine now.",
+        "ar": "كل شيء بخير الآن.",
+        "context": "تقال لطمأنة شخص."
       },
       {
         "id": 10,
-        "en": "That is fine, we still have time.",
-        "ar": "لا بأس بذلك، ما زال لدينا وقت.",
-        "context": "تقبل موقفًا من دون قلق."
+        "en": "That is not fine for me.",
+        "ar": "هذا ليس مناسبًا لي.",
+        "context": "تقال عند رفض ترتيب بأدب."
       }
     ]
   }

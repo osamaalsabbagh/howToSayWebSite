@@ -10,75 +10,83 @@
     "wordMeanings": [
       {
         "term": "Be",
-        "description": "فعل أمر من be."
+        "description": "كن، وتستخدم في الأمر لطلب حالة أو تصرف."
       },
       {
         "term": "quiet",
-        "description": "صفة تعني هادئ."
+        "description": "هادئ أو صامت."
       }
     ],
-    "tense": null,
-    "tenseReason": "استُعمل هذا الأسلوب لأن الجملة تقدم طلبًا أو تعليمات مباشرة موجهة إلى شخص آخر، لذلك لا نضع لها هنا زمنًا فعليًا مستقلًا.",
+    "grammarExplanations": [
+      {
+        "sentence": "Be quiet.",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه جملة أمر تطلب من المخاطب الهدوء أو الصمت، ولا تصف حدثًا بزمن مستقل."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "In this situation, people often say, \"Be quiet\".",
-        "ar": "في هذا الموقف، يقول الناس كثيرًا: \"كن هادئًا\".",
-        "context": "توضح أن العبارة مناسبة في هذا النوع من المواقف."
+        "en": "Be quiet.",
+        "ar": "كن هادئًا.",
+        "context": "تقال عند طلب الصمت أو الهدوء."
       },
       {
         "id": 2,
-        "en": "The teacher said, \"Be quiet\" to the students.",
-        "ar": "قال المعلم للطلاب: \"كن هادئًا\".",
-        "context": "تستخدم الجملة كتعليمات أو توجيه مباشر."
+        "en": "Please be quiet.",
+        "ar": "من فضلك كن هادئًا.",
+        "context": "تقال بطريقة مهذبة."
       },
       {
         "id": 3,
-        "en": "He told me, \"Be quiet\" before we left.",
-        "ar": "قال لي: \"كن هادئًا\" قبل أن نغادر.",
-        "context": "تضع العبارة قبل حدث آخر."
+        "en": "Be quiet in the library.",
+        "ar": "كن هادئًا في المكتبة.",
+        "context": "تقال في مكان يحتاج إلى صمت."
       },
       {
         "id": 4,
-        "en": "She said, \"Be quiet\" in a polite way.",
-        "ar": "قالت: \"كن هادئًا\" بطريقة مهذبة.",
-        "context": "تظهر أن العبارة يمكن أن تقال بلطف أو أدب."
+        "en": "Be quiet during the movie.",
+        "ar": "كن هادئًا أثناء الفيلم.",
+        "context": "تقال عند مشاهدة فيلم."
       },
       {
         "id": 5,
-        "en": "Someone shouted, \"Be quiet\" when there was a problem.",
-        "ar": "صاح شخص ما: \"كن هادئًا\" عندما ظهرت مشكلة.",
-        "context": "تربط العبارة بموقف سريع أو طارئ."
+        "en": "Be quiet and listen.",
+        "ar": "كن هادئًا واستمع.",
+        "context": "تقال عند طلب الانتباه."
       },
       {
         "id": 6,
-        "en": "You can say, \"Be quiet\" when you need a quick response.",
-        "ar": "يمكنك أن تقول: \"كن هادئًا\" عندما تحتاج إلى رد سريع.",
-        "context": "توضح أن العبارة مفيدة عند الحاجة إلى استجابة مباشرة."
+        "en": "Be quiet for a minute.",
+        "ar": "كن هادئًا لدقيقة.",
+        "context": "تقال عند طلب هدوء قصير."
       },
       {
         "id": 7,
-        "en": "They repeated, \"Be quiet\" more than once.",
-        "ar": "رددوا: \"كن هادئًا\" أكثر من مرة.",
-        "context": "تعطي مثالًا على تكرار العبارة."
+        "en": "Tell them to be quiet.",
+        "ar": "قل لهم أن يكونوا هادئين.",
+        "context": "تقال عند طلب نقل التعليمات للآخرين."
       },
       {
         "id": 8,
-        "en": "I heard him say, \"Be quiet\" yesterday.",
-        "ar": "سمعته يقول: \"كن هادئًا\" أمس.",
-        "context": "تجعل العبارة جزءًا من موقف سمعته من شخص آخر."
+        "en": "We need to be quiet.",
+        "ar": "نحتاج إلى أن نكون هادئين.",
+        "context": "تقال عند ضرورة الهدوء."
       },
       {
         "id": 9,
-        "en": "Many learners remember the phrase, \"Be quiet\".",
-        "ar": "يتذكر كثير من المتعلمين العبارة: \"كن هادئًا\".",
-        "context": "تقدم العبارة بوصفها عبارة سهلة التذكر."
+        "en": "Please be quiet in the room.",
+        "ar": "من فضلك كن هادئًا في الغرفة.",
+        "context": "تقال داخل غرفة فيها أشخاص أو عمل."
       },
       {
         "id": 10,
-        "en": "At that moment, she said, \"Be quiet\".",
-        "ar": "في تلك اللحظة، قالت: \"كن هادئًا\".",
-        "context": "تربط العبارة بلحظة معينة في السرد."
+        "en": "Be quiet, the baby is sleeping.",
+        "ar": "كن هادئًا، الطفل نائم.",
+        "context": "تقال عند وجود طفل نائم."
       }
     ]
   }

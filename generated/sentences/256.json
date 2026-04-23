@@ -10,96 +10,103 @@
     "wordMeanings": [
       {
         "term": "What",
-        "description": "أداة سؤال عن الشيء أو المعنى أو الاختيار."
+        "description": "ما، وتستخدم للسؤال عن معلومة محددة."
       },
       {
         "term": "is",
-        "description": "فعل be في الحاضر مع المفرد."
+        "description": "صيغة تربط السؤال بالمعلومة المطلوبة في الحاضر."
       },
       {
         "term": "the",
-        "description": "أداة تعريف تشير إلى شيء معروف أو محدد."
+        "description": "أداة تشير إلى سعر صرف محدد معروف في السياق."
       },
       {
         "term": "exchange",
-        "description": "اسم يعني سعر."
+        "description": "صرف أو تبديل عملة بعملة أخرى."
       },
       {
         "term": "rate",
-        "description": "اسم يعني صرف."
+        "description": "سعر أو نسبة، وهنا قيمة عملة مقابل أخرى."
       },
       {
         "term": "for",
-        "description": "حرف جر يعني لـ أو من أجل."
+        "description": "لـ أو بخصوص، وتربط السعر بالدولارات."
       },
       {
         "term": "dollars",
-        "description": "اسم يعني دولارات."
+        "description": "دولارات، وهي عملة أمريكية."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "What is the exchange rate for dollars?",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "يستخدم فعل الربط في الحاضر للسؤال عن معلومة حالية، وهي سعر صرف الدولار الآن أو في ذلك اليوم."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "You can ask, \"What is the exchange rate for dollars?\" when you need information.",
-        "ar": "يمكنك أن تسأل: \"ما هو سعر صرف الدولار؟\" عندما تحتاج إلى معلومة.",
-        "context": "تستعمل الجملة كسؤال مباشر للحصول على معلومة."
+        "en": "What is the exchange rate for dollars?",
+        "ar": "ما هو سعر صرف الدولار؟",
+        "context": "تقال عند السؤال عن سعر صرف الدولار."
       },
       {
         "id": 2,
-        "en": "Many people ask, \"What is the exchange rate for dollars?\" in this situation.",
-        "ar": "يسأل كثير من الناس: \"ما هو سعر صرف الدولار؟\" في هذا الموقف.",
-        "context": "توضح أن هذا سؤال شائع في موقف مشابه."
+        "en": "What is the exchange rate for euros?",
+        "ar": "ما هو سعر صرف اليورو؟",
+        "context": "تقال عند السؤال عن سعر صرف اليورو."
       },
       {
         "id": 3,
-        "en": "I asked, \"What is the exchange rate for dollars?\" because I was not sure.",
-        "ar": "سألت: \"ما هو سعر صرف الدولار؟\" لأنني لم أكن متأكدًا.",
-        "context": "تضيف سببًا لطرح السؤال."
+        "en": "What is the exchange rate today?",
+        "ar": "ما هو سعر الصرف اليوم؟",
+        "context": "تقال عند السؤال عن سعر الصرف الحالي."
       },
       {
         "id": 4,
-        "en": "She asked politely, \"What is the exchange rate for dollars?\"",
-        "ar": "سألت بأدب: \"ما هو سعر صرف الدولار؟\".",
-        "context": "تبين أن السؤال قيل بطريقة مهذبة."
+        "en": "What is the rate for dollars?",
+        "ar": "ما هو سعر الدولار؟",
+        "context": "تقال بصيغة أقصر عند مكتب الصرافة."
       },
       {
         "id": 5,
-        "en": "At work, someone may ask, \"What is the exchange rate for dollars?\"",
-        "ar": "في العمل، قد يسأل شخص ما: \"ما هو سعر صرف الدولار؟\".",
-        "context": "تضع السؤال في سياق مهني أو عملي."
+        "en": "Do you exchange dollars?",
+        "ar": "هل تصرفون الدولارات؟",
+        "context": "تقال عند السؤال عن خدمة صرف عملة."
       },
       {
         "id": 6,
-        "en": "Before deciding, ask: \"What is the exchange rate for dollars?\"",
-        "ar": "قبل أن تقرر، اسأل: \"ما هو سعر صرف الدولار؟\".",
-        "context": "تستخدم السؤال قبل اتخاذ قرار."
+        "en": "I need to exchange dollars.",
+        "ar": "أحتاج إلى صرف دولارات.",
+        "context": "تقال عند طلب تحويل عملة."
       },
       {
         "id": 7,
-        "en": "The student asked, \"What is the exchange rate for dollars?\" in class.",
-        "ar": "سأل الطالب: \"ما هو سعر صرف الدولار؟\" في الصف.",
-        "context": "تجعل الجملة جزءًا من موقف تعليمي."
+        "en": "The exchange rate is high today.",
+        "ar": "سعر الصرف مرتفع اليوم.",
+        "context": "تقال عند وصف تغير سعر الصرف."
       },
       {
         "id": 8,
-        "en": "While traveling, you can ask, \"What is the exchange rate for dollars?\"",
-        "ar": "أثناء السفر، يمكنك أن تسأل: \"ما هو سعر صرف الدولار؟\".",
-        "context": "تربط السؤال بموقف السفر أو التنقل."
+        "en": "The exchange rate is low today.",
+        "ar": "سعر الصرف منخفض اليوم.",
+        "context": "تقال عند وصف انخفاض سعر الصرف."
       },
       {
         "id": 9,
-        "en": "He asked me, \"What is the exchange rate for dollars?\" again.",
-        "ar": "سألني: \"ما هو سعر صرف الدولار؟\" مرة أخرى.",
-        "context": "تضيف معنى التكرار لنفس السؤال."
+        "en": "Where can I check the exchange rate?",
+        "ar": "أين يمكنني التحقق من سعر الصرف؟",
+        "context": "تقال عند البحث عن مصدر للمعلومة."
       },
       {
         "id": 10,
-        "en": "If you are not sure, ask: \"What is the exchange rate for dollars?\"",
-        "ar": "إذا لم تكن متأكدًا، فاسأل: \"ما هو سعر صرف الدولار؟\".",
-        "context": "توضح أن السؤال مناسب عند عدم التأكد."
+        "en": "Can you tell me the exchange rate?",
+        "ar": "هل يمكنك إخباري بسعر الصرف؟",
+        "context": "تقال عند طلب المعلومة من موظف."
       }
     ]
   }

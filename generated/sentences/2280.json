@@ -10,75 +10,83 @@
     "wordMeanings": [
       {
         "term": "No",
-        "description": "نفي أو رد يزيل القلق ويعني هنا لا."
+        "description": "تدل هنا على نفي وجود مشكلة."
       },
       {
         "term": "problem",
-        "description": "مشكلة أو أمر مزعج. في هذا السياق تعني الجملة كلها: لا توجد مشكلة."
+        "description": "مشكلة أو صعوبة."
       }
     ],
-    "tense": null,
-    "tenseReason": "استُعملت لأن المتكلم يريد إزالة القلق سريعًا وإظهار أن الأمر سهل أو مقبول.",
+    "grammarExplanations": [
+      {
+        "sentence": "No problem.",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "تعبير ثابت يطمئن الشخص أو يقبل الطلب، وليس جملة بزمن مستقل."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
         "en": "No problem, I can help.",
-        "ar": "لا مشكلة، يمكنني المساعدة.",
-        "context": "ترد بلطف على طلب."
+        "ar": "لا مشكلة، أستطيع المساعدة.",
+        "context": "تقال عند قبول مساعدة شخص."
       },
       {
         "id": 2,
         "en": "No problem, take your time.",
         "ar": "لا مشكلة، خذ وقتك.",
-        "context": "تريح شخصًا يشعر بالاستعجال."
+        "context": "تقال لطمأنة شخص غير مستعجل."
       },
       {
         "id": 3,
         "en": "No problem, I understand.",
         "ar": "لا مشكلة، أنا أفهم.",
-        "context": "تطمئن شخصًا بعد تفسير أو اعتذار."
+        "context": "تقال عند قبول عذر."
       },
       {
         "id": 4,
-        "en": "No problem, I will wait.",
-        "ar": "لا مشكلة، سأنتظر.",
-        "context": "تظهر الصبر وعدم الانزعاج."
+        "en": "No problem, we can wait.",
+        "ar": "لا مشكلة، يمكننا الانتظار.",
+        "context": "تقال عند عدم الاعتراض على التأخير."
       },
       {
         "id": 5,
-        "en": "No problem, mistakes happen.",
-        "ar": "لا مشكلة، الأخطاء تحدث.",
-        "context": "تهدئ شخصًا بعد خطأ."
+        "en": "No problem, I will call again.",
+        "ar": "لا مشكلة، سأتصل مرة أخرى.",
+        "context": "تقال عند قبول إعادة المحاولة."
       },
       {
         "id": 6,
-        "en": "No problem, we can do it tomorrow.",
-        "ar": "لا مشكلة، يمكننا فعل ذلك غدًا.",
-        "context": "تقبل التأجيل."
+        "en": "No problem, that is fine.",
+        "ar": "لا مشكلة، هذا مناسب.",
+        "context": "تقال عند قبول ترتيب أو اقتراح."
       },
       {
         "id": 7,
-        "en": "No problem, thanks for telling me.",
-        "ar": "لا مشكلة، شكرًا لإخباري.",
-        "context": "ترد بلطف على خبر أو اعتذار."
+        "en": "No problem, please continue.",
+        "ar": "لا مشكلة، من فضلك تابع.",
+        "context": "تقال عندما لا يزعجك ما حدث."
       },
       {
         "id": 8,
-        "en": "No problem, I already have the file.",
-        "ar": "لا مشكلة، الملف عندي بالفعل.",
-        "context": "توضح أن الأمر لا يسبب لك إزعاجًا."
+        "en": "No problem, I can do it.",
+        "ar": "لا مشكلة، أستطيع فعل ذلك.",
+        "context": "تقال عند قبول مهمة."
       },
       {
         "id": 9,
-        "en": "No problem, I can explain it again.",
-        "ar": "لا مشكلة، يمكنني أن أشرحها مرة أخرى.",
-        "context": "تقبل طلب الإعادة أو التوضيح."
+        "en": "No problem, thank you.",
+        "ar": "لا مشكلة، شكرًا لك.",
+        "context": "تقال كرد مهذب بعد موقف بسيط."
       },
       {
         "id": 10,
-        "en": "No problem, everyone gets nervous sometimes.",
-        "ar": "لا مشكلة، الجميع يتوتر أحيانًا.",
-        "context": "تخفف الضغط عن شخص."
+        "en": "No problem, I am ready.",
+        "ar": "لا مشكلة، أنا جاهز.",
+        "context": "تقال لإظهار الاستعداد وعدم الاعتراض."
       }
     ]
   }

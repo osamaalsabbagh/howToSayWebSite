@@ -10,96 +10,115 @@
     "wordMeanings": [
       {
         "term": "How",
-        "description": "أداة سؤال."
+        "description": "تبدأ سؤالًا عن السعر أو المقدار."
       },
       {
         "term": "much",
-        "description": "هنا تأتي مع very لتكوين very much، أي كثيرًا / بدرجة كبيرة."
+        "description": "كم، وتستخدم مع المال والتكلفة."
       },
       {
         "term": "is",
-        "description": "فعل be في الحاضر مع المفرد."
+        "description": "صيغة تربط السؤال بالتكلفة في الحاضر."
       },
       {
         "term": "it",
-        "description": "ضمير يعود على الشيء أو الجملة التي قيلت."
+        "description": "تشير إلى تكلفة الرحلة أو التذكرة المقصودة."
       },
       {
         "term": "to",
-        "description": "أداة تأتي قبل المصدر بعد أفعال مثل want."
+        "description": "تربط التكلفة بالفعل أو الوجهة بعدها."
       },
       {
         "term": "go",
-        "description": "فعل يعني يذهب أو ينتقل من مكان إلى آخر."
+        "description": "يذهب أو يسافر."
+      },
+      {
+        "term": "to",
+        "description": "إلى، وتربط الذهاب بالوجهة."
       },
       {
         "term": "Miami",
-        "description": "اسم علم يشير إلى ميامي."
+        "description": "ميامي، اسم مدينة."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "How much is it",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "هذا الجزء يسأل عن تكلفة حالية أو معروفة، ويستخدم فعل الربط في الحاضر."
+        }
+      },
+      {
+        "sentence": "to go to Miami",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذا جزء تابع بصيغة المصدر يوضح الغرض أو الوجهة التي ترتبط بها التكلفة، ولا يحمل زمنًا مستقلًا."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "You can ask, \"How much is it to go to Miami?\" when you need information.",
-        "ar": "يمكنك أن تسأل: \"كم يكلف الذهاب إلى ميامي؟\" عندما تحتاج إلى معلومة.",
-        "context": "تستعمل الجملة كسؤال مباشر للحصول على معلومة."
+        "en": "How much is it to go to Miami?",
+        "ar": "كم يكلف الذهاب إلى ميامي؟",
+        "context": "تقال عند السؤال عن تكلفة السفر إلى ميامي."
       },
       {
         "id": 2,
-        "en": "Many people ask, \"How much is it to go to Miami?\" in this situation.",
-        "ar": "يسأل كثير من الناس: \"كم يكلف الذهاب إلى ميامي؟\" في هذا الموقف.",
-        "context": "توضح أن هذا سؤال شائع في موقف مشابه."
+        "en": "How much is it to go to Boston?",
+        "ar": "كم يكلف الذهاب إلى بوسطن؟",
+        "context": "تقال عند السؤال عن تكلفة السفر إلى مدينة."
       },
       {
         "id": 3,
-        "en": "I asked, \"How much is it to go to Miami?\" because I was not sure.",
-        "ar": "سألت: \"كم يكلف الذهاب إلى ميامي؟\" لأنني لم أكن متأكدًا.",
-        "context": "تضيف سببًا لطرح السؤال."
+        "en": "How much is it to go to the airport?",
+        "ar": "كم يكلف الذهاب إلى المطار؟",
+        "context": "تقال عند السؤال عن أجرة الذهاب إلى المطار."
       },
       {
         "id": 4,
-        "en": "She asked politely, \"How much is it to go to Miami?\"",
-        "ar": "سألت بأدب: \"كم يكلف الذهاب إلى ميامي؟\".",
-        "context": "تبين أن السؤال قيل بطريقة مهذبة."
+        "en": "How much is it to go downtown?",
+        "ar": "كم يكلف الذهاب إلى وسط المدينة؟",
+        "context": "تقال عند السؤال عن تكلفة الوصول إلى وسط المدينة."
       },
       {
         "id": 5,
-        "en": "At work, someone may ask, \"How much is it to go to Miami?\"",
-        "ar": "في العمل، قد يسأل شخص ما: \"كم يكلف الذهاب إلى ميامي؟\".",
-        "context": "تضع السؤال في سياق مهني أو عملي."
+        "en": "How much is it by taxi?",
+        "ar": "كم يكلف بسيارة أجرة؟",
+        "context": "تقال عند السؤال عن أجرة التاكسي."
       },
       {
         "id": 6,
-        "en": "Before deciding, ask: \"How much is it to go to Miami?\"",
-        "ar": "قبل أن تقرر، اسأل: \"كم يكلف الذهاب إلى ميامي؟\".",
-        "context": "تستخدم السؤال قبل اتخاذ قرار."
+        "en": "How much is it by bus?",
+        "ar": "كم يكلف بالحافلة؟",
+        "context": "تقال عند السؤال عن تكلفة الحافلة."
       },
       {
         "id": 7,
-        "en": "The student asked, \"How much is it to go to Miami?\" in class.",
-        "ar": "سأل الطالب: \"كم يكلف الذهاب إلى ميامي؟\" في الصف.",
-        "context": "تجعل الجملة جزءًا من موقف تعليمي."
+        "en": "How much is a ticket to Miami?",
+        "ar": "كم سعر تذكرة إلى ميامي؟",
+        "context": "تقال عند شراء تذكرة إلى ميامي."
       },
       {
         "id": 8,
-        "en": "While traveling, you can ask, \"How much is it to go to Miami?\"",
-        "ar": "أثناء السفر، يمكنك أن تسأل: \"كم يكلف الذهاب إلى ميامي؟\".",
-        "context": "تربط السؤال بموقف السفر أو التنقل."
+        "en": "How much does it cost to go to Miami?",
+        "ar": "كم يكلف الذهاب إلى ميامي؟",
+        "context": "تقال بصيغة كاملة عن تكلفة السفر."
       },
       {
         "id": 9,
-        "en": "He asked me, \"How much is it to go to Miami?\" again.",
-        "ar": "سألني: \"كم يكلف الذهاب إلى ميامي؟\" مرة أخرى.",
-        "context": "تضيف معنى التكرار لنفس السؤال."
+        "en": "How much is it to go there today?",
+        "ar": "كم يكلف الذهاب إلى هناك اليوم؟",
+        "context": "تقال عند السؤال عن تكلفة رحلة في نفس اليوم."
       },
       {
         "id": 10,
-        "en": "If you are not sure, ask: \"How much is it to go to Miami?\"",
-        "ar": "إذا لم تكن متأكدًا، فاسأل: \"كم يكلف الذهاب إلى ميامي؟\".",
-        "context": "توضح أن السؤال مناسب عند عدم التأكد."
+        "en": "How much is it to go there and back?",
+        "ar": "كم يكلف الذهاب إلى هناك والعودة؟",
+        "context": "تقال عند السؤال عن تكلفة ذهاب وعودة."
       }
     ]
   }

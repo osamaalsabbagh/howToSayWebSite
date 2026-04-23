@@ -10,124 +10,131 @@
     "wordMeanings": [
       {
         "term": "I",
-        "description": "ضمير المتكلم."
+        "description": "ضمير المتكلم المفرد."
       },
       {
         "term": "met",
-        "description": "فعل يعني قابلته."
+        "description": "صيغة ماضية تعني قابلت أو التقيت."
       },
       {
         "term": "him",
-        "description": "ضمير مفعول به يعود على رجل أو ولد."
+        "description": "ضمير مفعول به يعود على الرجل أو الفنان."
       },
       {
         "term": "last",
-        "description": "صفة أو ظرف يعني الأخير أو الماضي حسب السياق."
+        "description": "تعني الماضي أو السابق عند الحديث عن وقت."
       },
       {
         "term": "year",
-        "description": "اسم يعني سنة."
+        "description": "سنة."
       },
       {
         "term": "when",
-        "description": "أداة أو ظرف يعني عندما."
+        "description": "أداة تربط الحدث بوقت أو ظرف."
       },
       {
         "term": "he",
-        "description": "الضمير الذي يعود على شخص مفرد مذكر."
+        "description": "ضمير يعود على الرجل أو الفنان."
       },
       {
         "term": "worked",
-        "description": "فعل يعني عمل."
+        "description": "صيغة ماضية تعني عمل."
       },
       {
         "term": "as",
-        "description": "تأتي بمعانٍ متعددة مثل مثل أو بينما أو لأن حسب السياق."
+        "description": "تعني بصفة أو بوظيفة."
       },
       {
         "term": "a",
-        "description": "أداة نكرة تأتي قبل الاسم المفرد المعدود."
+        "description": "أداة نكرة قبل اسم مفرد."
       },
       {
         "term": "teacher",
-        "description": "اسم يعني معلم."
+        "description": "معلم."
       },
       {
         "term": "in",
-        "description": "حرف جر يعني في."
+        "description": "حرف يحدد المكان."
       },
       {
         "term": "my",
-        "description": "صفة ملكية تعني خاصتي."
+        "description": "صفة ملكية تعني الخاص بي."
       },
       {
         "term": "school",
-        "description": "اسم يعني مدرسة."
+        "description": "مدرسة."
       }
     ],
-    "tense": "الماضي البسيط",
-    "tenseEn": "Past Simple",
-    "tenseReason": "استُعمل الماضي البسيط لأن الجملة تتحدث عن حدث وقع في الماضي واكتمل هناك.",
+    "grammarExplanations": [
+      {
+        "sentence": "I met him last year when he worked as a teacher in my school.",
+        "explanation": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "استُعمل الماضي البسيط لأن المقابلة والعمل كمعلم حدثا في فترة ماضية محددة."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "Yesterday, I met him last year when he worked as a teacher in my school.",
-        "ar": "أمس، قابلته العام الماضي عندما عمل كمعلم في مدرستي.",
-        "context": "تضيف زمنًا ماضيًا واضحًا."
+        "en": "I met her last year at school.",
+        "ar": "قابلتها العام الماضي في المدرسة.",
+        "context": "تذكر لقاءً سابقًا في مكان محدد."
       },
       {
         "id": 2,
-        "en": "I met him last year when he worked as a teacher in my school this morning.",
-        "ar": "قابلته العام الماضي عندما عمل كمعلم في مدرستي هذا الصباح.",
-        "context": "تحدد وقتًا ماضيًا قريبًا."
+        "en": "He worked as a teacher in my town.",
+        "ar": "عمل كمعلم في بلدتي.",
+        "context": "تذكر وظيفة سابقة لشخص."
       },
       {
         "id": 3,
-        "en": "I met him last year when he worked as a teacher in my school after lunch.",
-        "ar": "قابلته العام الماضي عندما عمل كمعلم في مدرستي بعد الغداء.",
-        "context": "تربط الحدث بوقت تالٍ لحدث آخر."
+        "en": "I met him when he worked at the library.",
+        "ar": "قابلته عندما كان يعمل في المكتبة.",
+        "context": "تربط اللقاء بعمل سابق."
       },
       {
         "id": 4,
-        "en": "I met him last year when he worked as a teacher in my school because it was necessary.",
-        "ar": "قابلته العام الماضي عندما عمل كمعلم في مدرستي لأنه كان ضروريًا.",
-        "context": "تضيف سببًا لحدوث الفعل في الماضي."
+        "en": "She worked as an artist last summer.",
+        "ar": "عملت كفنانة الصيف الماضي.",
+        "context": "تصف دورًا أو وظيفة في الماضي."
       },
       {
         "id": 5,
-        "en": "Earlier, I met him last year when he worked as a teacher in my school.",
-        "ar": "في وقت سابق، قابلته العام الماضي عندما عمل كمعلم في مدرستي.",
-        "context": "تربط الحدث بفترة ماضية غير بعيدة."
+        "en": "I met him last year at an exhibition.",
+        "ar": "قابلته العام الماضي في معرض.",
+        "context": "تذكر لقاءً في فعالية فنية."
       },
       {
         "id": 6,
-        "en": "I met him last year when he worked as a teacher in my school, and everyone noticed.",
-        "ar": "قابلته العام الماضي عندما عمل كمعلم في مدرستي، والجميع لاحظ ذلك.",
-        "context": "تضيف نتيجة لما حدث في الماضي."
+        "en": "He worked as a guide in the museum.",
+        "ar": "عمل كمرشد في المتحف.",
+        "context": "تذكر وظيفة في مكان ثقافي."
       },
       {
         "id": 7,
-        "en": "I met him last year when he worked as a teacher in my school before we left.",
-        "ar": "قابلته العام الماضي عندما عمل كمعلم في مدرستي قبل أن نغادر.",
-        "context": "تربط الفعل الماضي بحدث ماضٍ آخر."
+        "en": "I met my teacher last week.",
+        "ar": "قابلت معلمي الأسبوع الماضي.",
+        "context": "تذكر لقاء حديثًا نسبيًا."
       },
       {
         "id": 8,
-        "en": "I met him last year when he worked as a teacher in my school during the trip.",
-        "ar": "قابلته العام الماضي عندما عمل كمعلم في مدرستي أثناء الرحلة.",
-        "context": "تضع الحدث في إطار زمني أو مكاني محدد."
+        "en": "He worked in my school for two years.",
+        "ar": "عمل في مدرستي لمدة سنتين.",
+        "context": "تحدد مدة عمل سابقة."
       },
       {
         "id": 9,
-        "en": "At that time, I met him last year when he worked as a teacher in my school.",
-        "ar": "في ذلك الوقت، قابلته العام الماضي عندما عمل كمعلم في مدرستي.",
-        "context": "تجعل الجملة جزءًا من سرد ماضٍ."
+        "en": "I met him when I was a student.",
+        "ar": "قابلته عندما كنت طالبًا.",
+        "context": "تربط اللقاء بمرحلة من حياتك."
       },
       {
         "id": 10,
-        "en": "Soon after that, I met him last year when he worked as a teacher in my school.",
-        "ar": "بعد ذلك بقليل، قابلته العام الماضي عندما عمل كمعلم في مدرستي.",
-        "context": "توضح ترتيب الحدث بعد شيء آخر في الماضي."
+        "en": "She worked as a teacher before becoming an artist.",
+        "ar": "عملت كمعلمة قبل أن تصبح فنانة.",
+        "context": "تصف انتقالًا مهنيًا."
       }
     ]
   }

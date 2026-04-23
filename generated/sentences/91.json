@@ -10,75 +10,83 @@
     "wordMeanings": [
       {
         "term": "Not",
-        "description": "أداة نفي."
+        "description": "تستخدم هنا للنفي، أي أن الأمر لم يحدث."
       },
       {
         "term": "yet",
-        "description": "كلمة في الجملة ويُفهم معناها من السياق."
+        "description": "بعد، وتدل على أن الأمر لم يحدث حتى الآن."
       }
     ],
-    "tense": null,
-    "tenseReason": "استُعمل هذا التعبير لأنه عبارة ثابتة أو رد قصير يُستخدم في موقف محدد، وليس جملة فعلية كاملة بزمن واضح.",
+    "grammarExplanations": [
+      {
+        "sentence": "Not yet.",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذا رد مختصر يعني أن الشيء لم يحدث حتى الآن، ولا يحتوي على فعل ظاهر أو زمن مستقل."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "In this situation, people often say, \"Not yet\".",
-        "ar": "في هذا الموقف، يقول الناس كثيرًا: \"ليس بعد\".",
-        "context": "توضح أن العبارة مناسبة في هذا النوع من المواقف."
+        "en": "I am not ready yet.",
+        "ar": "لست مستعدًا بعد.",
+        "context": "تقال عند الحاجة إلى وقت إضافي للاستعداد."
       },
       {
         "id": 2,
-        "en": "The teacher said, \"Not yet\" to the students.",
-        "ar": "قال المعلم للطلاب: \"ليس بعد\".",
-        "context": "تستخدم الجملة كتعليمات أو توجيه مباشر."
+        "en": "She has not arrived yet.",
+        "ar": "لم تصل بعد.",
+        "context": "تقال عند انتظار وصول شخص."
       },
       {
         "id": 3,
-        "en": "He told me, \"Not yet\" before we left.",
-        "ar": "قال لي: \"ليس بعد\" قبل أن نغادر.",
-        "context": "تضع العبارة قبل حدث آخر."
+        "en": "The food is not ready yet.",
+        "ar": "الطعام ليس جاهزًا بعد.",
+        "context": "تقال عند انتظار اكتمال إعداد الطعام."
       },
       {
         "id": 4,
-        "en": "She said, \"Not yet\" in a polite way.",
-        "ar": "قالت: \"ليس بعد\" بطريقة مهذبة.",
-        "context": "تظهر أن العبارة يمكن أن تقال بلطف أو أدب."
+        "en": "I have not finished yet.",
+        "ar": "لم أنته بعد.",
+        "context": "تقال عند استمرار العمل على مهمة."
       },
       {
         "id": 5,
-        "en": "Someone shouted, \"Not yet\" when there was a problem.",
-        "ar": "صاح شخص ما: \"ليس بعد\" عندما ظهرت مشكلة.",
-        "context": "تربط العبارة بموقف سريع أو طارئ."
+        "en": "He is not here yet.",
+        "ar": "هو ليس هنا بعد.",
+        "context": "تقال عند انتظار شخص لم يصل."
       },
       {
         "id": 6,
-        "en": "You can say, \"Not yet\" when you need a quick response.",
-        "ar": "يمكنك أن تقول: \"ليس بعد\" عندما تحتاج إلى رد سريع.",
-        "context": "توضح أن العبارة مفيدة عند الحاجة إلى استجابة مباشرة."
+        "en": "We have not decided yet.",
+        "ar": "لم نقرر بعد.",
+        "context": "تقال عند عدم اتخاذ قرار حتى الآن."
       },
       {
         "id": 7,
-        "en": "They repeated, \"Not yet\" more than once.",
-        "ar": "رددوا: \"ليس بعد\" أكثر من مرة.",
-        "context": "تعطي مثالًا على تكرار العبارة."
+        "en": "The store is not open yet.",
+        "ar": "المتجر ليس مفتوحًا بعد.",
+        "context": "تقال عند انتظار فتح مكان."
       },
       {
         "id": 8,
-        "en": "I heard him say, \"Not yet\" yesterday.",
-        "ar": "سمعته يقول: \"ليس بعد\" أمس.",
-        "context": "تجعل العبارة جزءًا من موقف سمعته من شخص آخر."
+        "en": "I have not paid yet.",
+        "ar": "لم أدفع بعد.",
+        "context": "تقال عند عدم إتمام الدفع حتى الآن."
       },
       {
         "id": 9,
-        "en": "Many learners remember the phrase, \"Not yet\".",
-        "ar": "يتذكر كثير من المتعلمين العبارة: \"ليس بعد\".",
-        "context": "تقدم العبارة بوصفها عبارة سهلة التذكر."
+        "en": "They are not back yet.",
+        "ar": "لم يعودوا بعد.",
+        "context": "تقال عند انتظار عودة مجموعة."
       },
       {
         "id": 10,
-        "en": "At that moment, she said, \"Not yet\".",
-        "ar": "في تلك اللحظة، قالت: \"ليس بعد\".",
-        "context": "تربط العبارة بلحظة معينة في السرد."
+        "en": "The meeting has not started yet.",
+        "ar": "لم يبدأ الاجتماع بعد.",
+        "context": "تقال قبل بداية اجتماع منتظر."
       }
     ]
   }

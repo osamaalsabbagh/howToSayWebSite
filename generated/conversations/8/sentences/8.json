@@ -10,100 +10,115 @@
     "wordMeanings": [
       {
         "term": "Perfect",
-        "description": "صفة تعني مثالي."
+        "description": "كلمة تعبر عن الموافقة والرضا بالخطة."
       },
       {
         "term": "We",
-        "description": "ضمير المتكلمين."
+        "description": "ضمير المتكلمين، ويشير إلى أفراد العائلة."
       },
       {
         "term": "can",
-        "description": "فعل مساعد يدل هنا على القدرة أو الاستعداد لتلبية الطلب."
+        "description": "يدل على الإمكانية أو القدرة."
       },
       {
         "term": "all",
-        "description": "هنا جزء من العبارة الثابتة All right، ولا يُقصد به المعنى الحرفي وحده في هذا السياق."
+        "description": "تعني جميعًا."
       },
       {
         "term": "have",
-        "description": "فعل يعني يملك، ويأتي أيضًا كفعل مساعد."
+        "description": "تعني نتناول عندما تأتي مع وجبة."
       },
       {
         "term": "dinner",
-        "description": "اسم يعني وجبة العشاء."
+        "description": "وجبة العشاء."
       },
       {
         "term": "together",
-        "description": "صفة تعني معا."
+        "description": "معًا، أي في اجتماع واحد."
       },
       {
         "term": "then",
-        "description": "حال أو ظرف يعني حينها."
+        "description": "حينها أو في ذلك الوقت."
       }
     ],
-    "tense": "المضارع التام",
-    "tenseEn": "Present Perfect",
-    "tenseReason": "تتضمن الجملة فعلًا modal يعبّر عن القدرة أو الإمكانية أو الرغبة، لذلك لا نضع لها هنا زمنًا فعليًا مستقلًا على الرغم من وجود معنى زمني عام في السياق.",
+    "grammarExplanations": [
+      {
+        "sentence": "Perfect!",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه كلمة موافقة ورضا قصيرة وليست جملة فعلية لها زمن مستقل."
+        }
+      },
+      {
+        "sentence": "We can all have dinner together then.",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "الجملة تستخدم can لاقتراح إمكانية اجتماع العائلة على العشاء، لذلك تشرح كتركيب اقتراح لا كزمن مستقل."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "People often say, \"Perfect! We can all have dinner together then\" in situations like this.",
-        "ar": "يقول الناس كثيرًا: \"مثالي! يمكننا جميعًا تناول العشاء معًا حينها\" في مواقف كهذه.",
-        "context": "تستخدم الجملة بوصفها تركيبًا شائعًا في موقف مشابه."
+        "en": "We can all have lunch together then.",
+        "ar": "يمكننا جميعًا تناول الغداء معًا حينها.",
+        "context": "تقترح وجبة جماعية في وقت مناسب."
       },
       {
         "id": 2,
-        "en": "You can say, \"Perfect! We can all have dinner together then\" when this happens.",
-        "ar": "يمكنك أن تقول: \"مثالي! يمكننا جميعًا تناول العشاء معًا حينها\" عندما يحدث هذا.",
-        "context": "توضح أن الجملة مناسبة في موقف متكرر."
+        "en": "Perfect! We can meet at home.",
+        "ar": "مثالي! يمكننا أن نلتقي في البيت.",
+        "context": "تقبل خطة لقاء عائلي."
       },
       {
         "id": 3,
-        "en": "I heard someone say, \"Perfect! We can all have dinner together then\".",
-        "ar": "سمعت شخصًا يقول: \"مثالي! يمكننا جميعًا تناول العشاء معًا حينها\".",
-        "context": "تجعل الجملة جزءًا من كلام سمعته من شخص آخر."
+        "en": "We can all see her next week.",
+        "ar": "يمكننا جميعًا رؤيتها الأسبوع القادم.",
+        "context": "تقترح لقاء قريبًا مع قريبة."
       },
       {
         "id": 4,
-        "en": "The teacher used the sentence, \"Perfect! We can all have dinner together then\" in class.",
-        "ar": "استخدم المعلم الجملة: \"مثالي! يمكننا جميعًا تناول العشاء معًا حينها\" في الصف.",
-        "context": "تستخدم الجملة مثالًا تعليميًا في الصف."
+        "en": "We can have dinner after she arrives.",
+        "ar": "يمكننا تناول العشاء بعد أن تصل.",
+        "context": "تربط العشاء بموعد الوصول."
       },
       {
         "id": 5,
-        "en": "Many learners remember the sentence, \"Perfect! We can all have dinner together then\" first.",
-        "ar": "يتذكر كثير من المتعلمين الجملة: \"مثالي! يمكننا جميعًا تناول العشاء معًا حينها\" أولًا.",
-        "context": "تقدم الجملة بوصفها جملة تعليمية أساسية."
+        "en": "Perfect! Everyone can come then.",
+        "ar": "مثالي! يمكن للجميع الحضور حينها.",
+        "context": "تؤكد أن الموعد مناسب للجميع."
       },
       {
         "id": 6,
-        "en": "She said, \"Perfect! We can all have dinner together then\" in a calm way.",
-        "ar": "قالت: \"مثالي! يمكننا جميعًا تناول العشاء معًا حينها\" بطريقة هادئة.",
-        "context": "تجعل الجملة جزءًا من كلام مباشر في موقف عادي."
+        "en": "We can all sit together at dinner.",
+        "ar": "يمكننا جميعًا الجلوس معًا على العشاء.",
+        "context": "تصف اجتماعًا عائليًا."
       },
       {
         "id": 7,
-        "en": "He repeated, \"Perfect! We can all have dinner together then\" more than once.",
-        "ar": "ردد: \"مثالي! يمكننا جميعًا تناول العشاء معًا حينها\" أكثر من مرة.",
-        "context": "تضيف معنى التكرار لنفس الجملة."
+        "en": "We can have dinner at my house.",
+        "ar": "يمكننا تناول العشاء في بيتي.",
+        "context": "تقترح مكان العشاء."
       },
       {
         "id": 8,
-        "en": "At the right moment, someone might say, \"Perfect! We can all have dinner together then\".",
-        "ar": "في اللحظة المناسبة، قد يقول شخص ما: \"مثالي! يمكننا جميعًا تناول العشاء معًا حينها\".",
-        "context": "توضح أن الجملة مرتبطة بتوقيت مناسب في السياق."
+        "en": "Perfect! We can make her favorite food.",
+        "ar": "مثالي! يمكننا إعداد طعامها المفضل.",
+        "context": "تقترح فكرة للترحيب بضيفة."
       },
       {
         "id": 9,
-        "en": "I wrote down the sentence, \"Perfect! We can all have dinner together then\" so I would remember it.",
-        "ar": "كتبت الجملة: \"مثالي! يمكننا جميعًا تناول العشاء معًا حينها\" حتى أتذكرها.",
-        "context": "تعطي مثالًا على حفظ الجملة أو مراجعتها."
+        "en": "We can all be there when she arrives.",
+        "ar": "يمكننا جميعًا أن نكون هناك عندما تصل.",
+        "context": "تخطط لاستقبال شخص."
       },
       {
         "id": 10,
-        "en": "It is useful to know when to say, \"Perfect! We can all have dinner together then\".",
-        "ar": "من المفيد أن تعرف متى تقول: \"مثالي! يمكننا جميعًا تناول العشاء معًا حينها\".",
-        "context": "تركز على معرفة الوقت المناسب لاستخدام الجملة."
+        "en": "We can have dinner together this weekend.",
+        "ar": "يمكننا تناول العشاء معًا في نهاية هذا الأسبوع.",
+        "context": "تقترح موعدًا عائليًا."
       }
     ]
   }

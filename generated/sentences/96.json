@@ -10,83 +10,91 @@
     "wordMeanings": [
       {
         "term": "Please",
-        "description": "تضيف اللطف إلى الطلب."
+        "description": "كلمة تجعل الطلب مهذبًا."
       },
       {
         "term": "write",
-        "description": "فعل يعني يرجى."
+        "description": "اكتب أو سجل بالكلمات أو الأرقام."
       },
       {
         "term": "it",
-        "description": "ضمير يعود على الشيء أو الجملة التي قيلت."
+        "description": "ضمير يشير إلى المعلومة أو الشيء المطلوب كتابته."
       },
       {
         "term": "down",
-        "description": "ظرف أو حرف يعني إلى أسفل."
+        "description": "جزء من تعبير يعني تسجيل الشيء كتابة حتى لا ينسى."
       }
     ],
-    "tense": null,
-    "tenseReason": "استُعمل هذا الأسلوب لأن الجملة تقدم طلبًا أو تعليمات مباشرة موجهة إلى شخص آخر، لذلك لا نضع لها هنا زمنًا فعليًا مستقلًا.",
+    "grammarExplanations": [
+      {
+        "sentence": "Please write it down.",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه صيغة طلب مهذب، والتعبير write it down يعني سجل المعلومة كتابة، ولا تحمل الجملة زمنًا مستقلًا."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "In this situation, people often say, \"Please write it down\".",
-        "ar": "في هذا الموقف، يقول الناس كثيرًا: \"يرجى كتابته\".",
-        "context": "توضح أن العبارة مناسبة في هذا النوع من المواقف."
+        "en": "Please write your name down.",
+        "ar": "يرجى كتابة اسمك.",
+        "context": "تقال عند طلب تسجيل اسم شخص."
       },
       {
         "id": 2,
-        "en": "The teacher said, \"Please write it down\" to the students.",
-        "ar": "قال المعلم للطلاب: \"يرجى كتابته\".",
-        "context": "تستخدم الجملة كتعليمات أو توجيه مباشر."
+        "en": "Please write the address down.",
+        "ar": "يرجى كتابة العنوان.",
+        "context": "تقال عند الخوف من نسيان عنوان."
       },
       {
         "id": 3,
-        "en": "He told me, \"Please write it down\" before we left.",
-        "ar": "قال لي: \"يرجى كتابته\" قبل أن نغادر.",
-        "context": "تضع العبارة قبل حدث آخر."
+        "en": "Please write it here.",
+        "ar": "يرجى كتابته هنا.",
+        "context": "تقال عند تحديد مكان الكتابة."
       },
       {
         "id": 4,
-        "en": "She said, \"Please write it down\" in a polite way.",
-        "ar": "قالت: \"يرجى كتابته\" بطريقة مهذبة.",
-        "context": "تظهر أن العبارة يمكن أن تقال بلطف أو أدب."
+        "en": "Please write the number down.",
+        "ar": "يرجى كتابة الرقم.",
+        "context": "تقال عند طلب تسجيل رقم."
       },
       {
         "id": 5,
-        "en": "Someone shouted, \"Please write it down\" when there was a problem.",
-        "ar": "صاح شخص ما: \"يرجى كتابته\" عندما ظهرت مشكلة.",
-        "context": "تربط العبارة بموقف سريع أو طارئ."
+        "en": "I need to write this down.",
+        "ar": "أحتاج إلى كتابة هذا.",
+        "context": "تقال عند الرغبة في تسجيل معلومة مهمة."
       },
       {
         "id": 6,
-        "en": "You can say, \"Please write it down\" when you need a quick response.",
-        "ar": "يمكنك أن تقول: \"يرجى كتابته\" عندما تحتاج إلى رد سريع.",
-        "context": "توضح أن العبارة مفيدة عند الحاجة إلى استجابة مباشرة."
+        "en": "She wrote the message down.",
+        "ar": "هي كتبت الرسالة.",
+        "context": "تقال عند تسجيل رسالة حتى لا تنسى."
       },
       {
         "id": 7,
-        "en": "They repeated, \"Please write it down\" more than once.",
-        "ar": "رددوا: \"يرجى كتابته\" أكثر من مرة.",
-        "context": "تعطي مثالًا على تكرار العبارة."
+        "en": "Please write down the time.",
+        "ar": "يرجى كتابة الوقت.",
+        "context": "تقال عند تسجيل موعد."
       },
       {
         "id": 8,
-        "en": "I heard him say, \"Please write it down\" yesterday.",
-        "ar": "سمعته يقول: \"يرجى كتابته\" أمس.",
-        "context": "تجعل العبارة جزءًا من موقف سمعته من شخص آخر."
+        "en": "Please write your answer down.",
+        "ar": "يرجى كتابة إجابتك.",
+        "context": "تقال في اختبار أو تمرين."
       },
       {
         "id": 9,
-        "en": "Many learners remember the phrase, \"Please write it down\".",
-        "ar": "يتذكر كثير من المتعلمين العبارة: \"يرجى كتابته\".",
-        "context": "تقدم العبارة بوصفها عبارة سهلة التذكر."
+        "en": "Let me write that down.",
+        "ar": "دعني أكتب ذلك.",
+        "context": "تقال قبل تسجيل معلومة من شخص."
       },
       {
         "id": 10,
-        "en": "At that moment, she said, \"Please write it down\".",
-        "ar": "في تلك اللحظة، قالت: \"يرجى كتابته\".",
-        "context": "تربط العبارة بلحظة معينة في السرد."
+        "en": "Please write down every detail.",
+        "ar": "يرجى كتابة كل التفاصيل.",
+        "context": "تقال عند الحاجة إلى تسجيل كامل للمعلومات."
       }
     ]
   }

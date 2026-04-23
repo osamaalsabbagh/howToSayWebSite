@@ -10,92 +10,99 @@
     "wordMeanings": [
       {
         "term": "I",
-        "description": "ضمير المتكلم."
+        "description": "ضمير المتكلم ويشير إلى الشخص الذي يتحدث."
       },
       {
         "term": "do",
-        "description": "فعل مساعد يُستعمل لتكوين النفي والسؤال في المضارع البسيط."
+        "description": "تساعد هنا على تكوين النفي في المضارع مع I."
       },
       {
         "term": "not",
-        "description": "أداة نفي."
+        "description": "كلمة نفي تجعل المعنى لا أتحدث."
       },
       {
         "term": "speak",
-        "description": "فعل أمر يعني تحدث."
+        "description": "أتحدث أو أتكلم بلغة أو مع شخص."
       },
       {
         "term": "very",
-        "description": "كلمة تزيد شدة الصفة."
+        "description": "كلمة تقوي المعنى، وهنا تنفي الوصول إلى درجة جيدة."
       },
       {
         "term": "well",
-        "description": "ظرف يعني بشكل جيد، وقد يأتي صفة في بعض السياقات."
+        "description": "بشكل جيد أو بمهارة مناسبة."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "I do not speak very well.",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "تستخدم الجملة المضارع البسيط لوصف قدرة أو مستوى عام في الحديث، ويأتي do not لنفي الفعل speak."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "People often say, \"I do not speak very well\" in situations like this.",
-        "ar": "يقول الناس كثيرًا: \"لا أتحدث بشكل جيد\" في مواقف كهذه.",
-        "context": "تستخدم الجملة بوصفها تركيبًا شائعًا في موقف مشابه."
+        "en": "I do not speak French very well.",
+        "ar": "لا أتحدث الفرنسية بشكل جيد جدًا.",
+        "context": "تقال عند توضيح ضعف المستوى في لغة معينة."
       },
       {
         "id": 2,
-        "en": "You can say, \"I do not speak very well\" when this happens.",
-        "ar": "يمكنك أن تقول: \"لا أتحدث بشكل جيد\" عندما يحدث هذا.",
-        "context": "توضح أن الجملة مناسبة في موقف متكرر."
+        "en": "She does not speak English very well.",
+        "ar": "هي لا تتحدث الإنجليزية بشكل جيد جدًا.",
+        "context": "تقال عند وصف مستوى شخص في اللغة."
       },
       {
         "id": 3,
-        "en": "I heard someone say, \"I do not speak very well\".",
-        "ar": "سمعت شخصًا يقول: \"لا أتحدث بشكل جيد\".",
-        "context": "تجعل الجملة جزءًا من كلام سمعته من شخص آخر."
+        "en": "I do not write very well.",
+        "ar": "لا أكتب بشكل جيد جدًا.",
+        "context": "تقال عند الاعتراف بضعف مهارة الكتابة."
       },
       {
         "id": 4,
-        "en": "The teacher used the sentence, \"I do not speak very well\" in class.",
-        "ar": "استخدم المعلم الجملة: \"لا أتحدث بشكل جيد\" في الصف.",
-        "context": "تستخدم الجملة مثالًا تعليميًا في الصف."
+        "en": "He does not read very well.",
+        "ar": "هو لا يقرأ بشكل جيد جدًا.",
+        "context": "تقال عند وصف صعوبة في القراءة."
       },
       {
         "id": 5,
-        "en": "Many learners remember the sentence, \"I do not speak very well\" first.",
-        "ar": "يتذكر كثير من المتعلمين الجملة: \"لا أتحدث بشكل جيد\" أولًا.",
-        "context": "تقدم الجملة بوصفها جملة تعليمية أساسية."
+        "en": "We do not understand very well.",
+        "ar": "لا نفهم بشكل جيد جدًا.",
+        "context": "تقال عند وجود صعوبة في الفهم."
       },
       {
         "id": 6,
-        "en": "She said, \"I do not speak very well\" in a calm way.",
-        "ar": "قالت: \"لا أتحدث بشكل جيد\" بطريقة هادئة.",
-        "context": "تجعل الجملة جزءًا من كلام مباشر في موقف عادي."
+        "en": "I do not hear very well.",
+        "ar": "لا أسمع بشكل جيد جدًا.",
+        "context": "تقال عند وجود مشكلة في السمع."
       },
       {
         "id": 7,
-        "en": "He repeated, \"I do not speak very well\" more than once.",
-        "ar": "ردد: \"لا أتحدث بشكل جيد\" أكثر من مرة.",
-        "context": "تضيف معنى التكرار لنفس الجملة."
+        "en": "They do not speak Arabic very well.",
+        "ar": "هم لا يتحدثون العربية بشكل جيد جدًا.",
+        "context": "تقال عند وصف مستوى مجموعة في العربية."
       },
       {
         "id": 8,
-        "en": "At the right moment, someone might say, \"I do not speak very well\".",
-        "ar": "في اللحظة المناسبة، قد يقول شخص ما: \"لا أتحدث بشكل جيد\".",
-        "context": "توضح أن الجملة مرتبطة بتوقيت مناسب في السياق."
+        "en": "My brother does not sing very well.",
+        "ar": "أخي لا يغني بشكل جيد جدًا.",
+        "context": "تقال عند وصف مهارة غناء ضعيفة."
       },
       {
         "id": 9,
-        "en": "I wrote down the sentence, \"I do not speak very well\" so I would remember it.",
-        "ar": "كتبت الجملة: \"لا أتحدث بشكل جيد\" حتى أتذكرها.",
-        "context": "تعطي مثالًا على حفظ الجملة أو مراجعتها."
+        "en": "I do not explain things very well.",
+        "ar": "لا أشرح الأشياء بشكل جيد جدًا.",
+        "context": "تقال عند الاعتراف بصعوبة في الشرح."
       },
       {
         "id": 10,
-        "en": "It is useful to know when to say, \"I do not speak very well\".",
-        "ar": "من المفيد أن تعرف متى تقول: \"لا أتحدث بشكل جيد\".",
-        "context": "تركز على معرفة الوقت المناسب لاستخدام الجملة."
+        "en": "The child does not pronounce the word very well.",
+        "ar": "الطفل لا ينطق الكلمة بشكل جيد جدًا.",
+        "context": "تقال عند ملاحظة صعوبة في النطق."
       }
     ]
   }

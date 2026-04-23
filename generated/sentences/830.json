@@ -10,80 +10,87 @@
     "wordMeanings": [
       {
         "term": "I",
-        "description": "ضمير المتكلم."
+        "description": "ضمير المتكلم المفرد."
       },
       {
         "term": "am",
-        "description": "فعل be في الحاضر مع I."
+        "description": "صيغة تأتي مع ضمير المتكلم المفرد للتعبير عن الحالة الحالية."
       },
       {
         "term": "ready",
-        "description": "صفة تعني مستعد أو جاهز."
+        "description": "مستعد أو جاهز للبدء أو القيام بشيء."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط مع be لوصف حالة المتكلم الحالية، وهي الجاهزية أو الاستعداد.",
+    "grammarExplanations": [
+      {
+        "sentence": "I am ready.",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "الجملة تصف حالة المتكلم الحالية بأنه مستعد الآن."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "I am ready to leave.",
-        "ar": "أنا جاهز للمغادرة.",
-        "context": "تخبر أن كل شيء جاهز للانطلاق."
+        "en": "I am ready to start.",
+        "ar": "أنا جاهز للبدء.",
+        "context": "تقال عندما يكون الشخص مستعدًا لبدء عمل."
       },
       {
         "id": 2,
         "en": "I am ready for the meeting.",
         "ar": "أنا جاهز للاجتماع.",
-        "context": "تؤكد استعدادك قبل حدث."
+        "context": "تقال قبل اجتماع أو موعد رسمي."
       },
       {
         "id": 3,
         "en": "I am ready now.",
         "ar": "أنا جاهز الآن.",
-        "context": "تعلن أن وقت البدء مناسب."
+        "context": "تقال لإبلاغ شخص بأن الانتظار انتهى."
       },
       {
         "id": 4,
-        "en": "I am ready to answer.",
-        "ar": "أنا جاهز للإجابة.",
-        "context": "تخبر أنك مستعد للكلام أو الرد."
+        "en": "She is ready for class.",
+        "ar": "هي جاهزة للصف.",
+        "context": "تصف استعداد شخص آخر للدرس."
       },
       {
         "id": 5,
-        "en": "I am ready if you need me.",
-        "ar": "أنا جاهز إذا احتجتني.",
-        "context": "تُظهر استعدادك للمساعدة."
+        "en": "We are ready to leave.",
+        "ar": "نحن جاهزون للمغادرة.",
+        "context": "تقال عندما تكون المجموعة مستعدة للخروج."
       },
       {
         "id": 6,
-        "en": "I am ready for the next step.",
-        "ar": "أنا جاهز للخطوة التالية.",
-        "context": "تعلن الاستعداد لمتابعة العمل أو التعلم."
+        "en": "Are you ready?",
+        "ar": "هل أنت جاهز؟",
+        "context": "تُستخدم للسؤال عن استعداد شخص."
       },
       {
         "id": 7,
-        "en": "I am ready, but he is not.",
-        "ar": "أنا جاهز، لكنه ليس جاهزًا.",
-        "context": "تقارن بين حالتك وحالة شخص آخر."
+        "en": "He is ready for the test.",
+        "ar": "هو جاهز للاختبار.",
+        "context": "تصف استعداد شخص لامتحان."
       },
       {
         "id": 8,
-        "en": "I am ready to practice again.",
-        "ar": "أنا جاهز لأتدرب مرة أخرى.",
-        "context": "تعبر عن استعداد للتكرار أو المراجعة."
+        "en": "I am ready to answer.",
+        "ar": "أنا جاهز للإجابة.",
+        "context": "تقال قبل الإجابة عن سؤال."
       },
       {
         "id": 9,
-        "en": "I am ready to start whenever you are.",
-        "ar": "أنا جاهز للبدء متى ما كنت جاهزًا.",
-        "context": "تخبر أن القرار عند الطرف الآخر."
+        "en": "They are ready to help.",
+        "ar": "هم جاهزون للمساعدة.",
+        "context": "تصف استعداد مجموعة لتقديم المساعدة."
       },
       {
         "id": 10,
-        "en": "I am ready for your question.",
-        "ar": "أنا جاهز لسؤالك.",
-        "context": "تعلن الجاهزية لسماع سؤال أو تحدٍّ."
+        "en": "I am not ready yet.",
+        "ar": "أنا لست جاهزًا بعد.",
+        "context": "تقال عندما يحتاج الشخص وقتًا إضافيًا."
       }
     ]
   }

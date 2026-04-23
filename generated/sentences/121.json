@@ -10,80 +10,87 @@
     "wordMeanings": [
       {
         "term": "That",
-        "description": "تشير إلى أمر أو خبر سبق ذكره."
+        "description": "ذلك الشيء أو الأمر الذي تشير إليه."
       },
       {
         "term": "is",
-        "description": "فعل be في الحاضر مع المفرد."
+        "description": "صيغة تأتي مع المفرد وتربط الشيء بمعناه أو حالته."
       },
       {
         "term": "it",
-        "description": "ضمير يعود على الشيء أو الجملة التي قيلت."
+        "description": "كل شيء أو نهاية الأمر في هذا السياق."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "That is it.",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "تستخدم is هنا في تعبير يعني أن الأمر اكتمل أو أن هذا هو كل المطلوب في اللحظة الحالية."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "People often say, \"That is it\" in situations like this.",
-        "ar": "يقول الناس كثيرًا: \"ذلك كل شيء\" في مواقف كهذه.",
-        "context": "تستخدم الجملة بوصفها تركيبًا شائعًا في موقف مشابه."
+        "en": "That is all.",
+        "ar": "ذلك كل شيء.",
+        "context": "تقال عند انتهاء الكلام أو الطلب."
       },
       {
         "id": 2,
-        "en": "You can say, \"That is it\" when this happens.",
-        "ar": "يمكنك أن تقول: \"ذلك كل شيء\" عندما يحدث هذا.",
-        "context": "توضح أن الجملة مناسبة في موقف متكرر."
+        "en": "That is the end.",
+        "ar": "تلك هي النهاية.",
+        "context": "تقال عند الوصول إلى نهاية شيء."
       },
       {
         "id": 3,
-        "en": "I heard someone say, \"That is it\".",
-        "ar": "سمعت شخصًا يقول: \"ذلك كل شيء\".",
-        "context": "تجعل الجملة جزءًا من كلام سمعته من شخص آخر."
+        "en": "That is everything.",
+        "ar": "ذلك كل شيء.",
+        "context": "تقال عند عدم وجود شيء إضافي."
       },
       {
         "id": 4,
-        "en": "The teacher used the sentence, \"That is it\" in class.",
-        "ar": "استخدم المعلم الجملة: \"ذلك كل شيء\" في الصف.",
-        "context": "تستخدم الجملة مثالًا تعليميًا في الصف."
+        "en": "This is it.",
+        "ar": "هذا هو الأمر.",
+        "context": "تقال عند تحديد اللحظة أو الشيء المقصود."
       },
       {
         "id": 5,
-        "en": "Many learners remember the sentence, \"That is it\" first.",
-        "ar": "يتذكر كثير من المتعلمين الجملة: \"ذلك كل شيء\" أولًا.",
-        "context": "تقدم الجملة بوصفها جملة تعليمية أساسية."
+        "en": "That is it for today.",
+        "ar": "ذلك يكفي لليوم.",
+        "context": "تقال عند إنهاء عمل أو درس في ذلك اليوم."
       },
       {
         "id": 6,
-        "en": "She said, \"That is it\" in a calm way.",
-        "ar": "قالت: \"ذلك كل شيء\" بطريقة هادئة.",
-        "context": "تجعل الجملة جزءًا من كلام مباشر في موقف عادي."
+        "en": "That is all I need.",
+        "ar": "ذلك كل ما أحتاجه.",
+        "context": "تقال عند اكتمال المطلوب."
       },
       {
         "id": 7,
-        "en": "He repeated, \"That is it\" more than once.",
-        "ar": "ردد: \"ذلك كل شيء\" أكثر من مرة.",
-        "context": "تضيف معنى التكرار لنفس الجملة."
+        "en": "That is the final answer.",
+        "ar": "تلك هي الإجابة النهائية.",
+        "context": "تقال عند تثبيت جواب نهائي."
       },
       {
         "id": 8,
-        "en": "At the right moment, someone might say, \"That is it\".",
-        "ar": "في اللحظة المناسبة، قد يقول شخص ما: \"ذلك كل شيء\".",
-        "context": "توضح أن الجملة مرتبطة بتوقيت مناسب في السياق."
+        "en": "That is the whole story.",
+        "ar": "تلك هي القصة كاملة.",
+        "context": "تقال بعد إنهاء شرح قصة."
       },
       {
         "id": 9,
-        "en": "I wrote down the sentence, \"That is it\" so I would remember it.",
-        "ar": "كتبت الجملة: \"ذلك كل شيء\" حتى أتذكرها.",
-        "context": "تعطي مثالًا على حفظ الجملة أو مراجعتها."
+        "en": "That is it, we can leave.",
+        "ar": "ذلك كل شيء، يمكننا المغادرة.",
+        "context": "تقال بعد إنهاء ما كان مطلوبًا."
       },
       {
         "id": 10,
-        "en": "It is useful to know when to say, \"That is it\".",
-        "ar": "من المفيد أن تعرف متى تقول: \"ذلك كل شيء\".",
-        "context": "تركز على معرفة الوقت المناسب لاستخدام الجملة."
+        "en": "That is all for now.",
+        "ar": "ذلك كل شيء الآن.",
+        "context": "تقال عند إنهاء حديث مؤقتًا."
       }
     ]
   }

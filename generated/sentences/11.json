@@ -10,88 +10,95 @@
     "wordMeanings": [
       {
         "term": "He",
-        "description": "الضمير الذي يعود على شخص مفرد مذكر."
+        "description": "ضمير يشير إلى رجل أو ولد سبق ذكره أو معروف من السياق."
       },
       {
         "term": "likes",
-        "description": "فعل like في المضارع البسيط مع he، لذلك نضيف s."
+        "description": "يحب أو يعجبه، وتأتي بصيغة تناسب المفرد الغائب."
       },
       {
         "term": "it",
-        "description": "ضمير يعود على شيء سبق ذكره."
+        "description": "ضمير يشير إلى شيء أو موضوع معروف من السياق."
       },
       {
         "term": "very",
-        "description": "كلمة تقوي المعنى وتزيد درجة الشيء."
+        "description": "كلمة تقوي المعنى وتزيد درجة الإعجاب."
       },
       {
         "term": "much",
-        "description": "هنا تأتي مع very لتكوين very much، أي كثيرًا / بدرجة كبيرة."
+        "description": "تتمم معنى الشدة هنا لتدل على إعجاب كبير."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تصف شعورًا أو تفضيلًا عامًا عند الشخص، لا فعلًا مؤقتًا يحدث الآن فقط.",
+    "grammarExplanations": [
+      {
+        "sentence": "He likes it very much.",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "يستخدم المضارع البسيط للتعبير عن رأي أو شعور عام مستمر، وتضاف s إلى الفعل لأن الفاعل مفرد غائب."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "He likes this song very much.",
-        "ar": "هو يحب هذه الأغنية كثيرًا.",
-        "context": "تصف ذوقه تجاه شيء."
+        "en": "She likes the song very much.",
+        "ar": "هي تحب الأغنية كثيرًا.",
+        "context": "تقال عن إعجاب قوي بأغنية."
       },
       {
         "id": 2,
-        "en": "He likes her very much.",
-        "ar": "هو معجب بها كثيرًا.",
-        "context": "تصف مشاعر قوية تجاه شخص."
+        "en": "He likes this city very much.",
+        "ar": "هو يحب هذه المدينة كثيرًا.",
+        "context": "تقال عن إعجاب شخص بمدينة."
       },
       {
         "id": 3,
-        "en": "He likes it very much because it is simple.",
-        "ar": "هو يحبه كثيرًا لأنه بسيط.",
-        "context": "تذكر سبب الإعجاب."
+        "en": "My brother likes his new job very much.",
+        "ar": "أخي يحب عمله الجديد كثيرًا.",
+        "context": "تقال عن رضا شخص عن عمله."
       },
       {
         "id": 4,
-        "en": "He likes that movie very much.",
-        "ar": "هو يحب ذلك الفيلم كثيرًا.",
-        "context": "تتحدث عن تفضيل واضح."
+        "en": "The child likes the toy very much.",
+        "ar": "الطفل يحب اللعبة كثيرًا.",
+        "context": "تقال عن تعلق طفل بلعبة."
       },
       {
         "id": 5,
-        "en": "He likes the place very much.",
-        "ar": "هو يحب المكان كثيرًا.",
-        "context": "تصف ارتياحه لمكان ما."
+        "en": "She likes the teacher very much.",
+        "ar": "هي تحب المعلمة كثيرًا.",
+        "context": "تقال عن تقدير طالبة لمعلمتها."
       },
       {
         "id": 6,
-        "en": "He likes his teacher very much.",
-        "ar": "هو يحب معلمه كثيرًا.",
-        "context": "تصف علاقة إيجابية مع شخص."
+        "en": "He likes spicy food very much.",
+        "ar": "هو يحب الطعام الحار كثيرًا.",
+        "context": "تقال عن تفضيل قوي لنوع من الطعام."
       },
       {
         "id": 7,
-        "en": "He likes this idea very much.",
-        "ar": "هو يحب هذه الفكرة كثيرًا.",
-        "context": "تتحدث عن إعجابه باقتراح."
+        "en": "My mother likes this chair very much.",
+        "ar": "أمي تحب هذا الكرسي كثيرًا.",
+        "context": "تقال عن إعجاب بشيء في البيت."
       },
       {
         "id": 8,
-        "en": "He likes it very much now.",
-        "ar": "هو يحبه كثيرًا الآن.",
-        "context": "تصف حالته الحالية من الإعجاب."
+        "en": "He likes your plan very much.",
+        "ar": "هو يحب خطتك كثيرًا.",
+        "context": "تقال عند نقل موافقة قوية على خطة."
       },
       {
         "id": 9,
-        "en": "He likes the game very much.",
-        "ar": "هو يحب اللعبة كثيرًا.",
-        "context": "تصف اهتمامه بشيء ترفيهي."
+        "en": "She likes her school very much.",
+        "ar": "هي تحب مدرستها كثيرًا.",
+        "context": "تقال عن شعور إيجابي تجاه المدرسة."
       },
       {
         "id": 10,
-        "en": "He likes English very much.",
-        "ar": "هو يحب الإنجليزية كثيرًا.",
-        "context": "تصف اهتمامه بلغة أو مادة."
+        "en": "He likes the new design very much.",
+        "ar": "هو يحب التصميم الجديد كثيرًا.",
+        "context": "تقال عن إعجاب قوي بشكل أو تصميم."
       }
     ]
   }

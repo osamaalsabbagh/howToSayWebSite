@@ -10,96 +10,111 @@
     "wordMeanings": [
       {
         "term": "I",
-        "description": "ضمير المتكلم."
+        "description": "أنا، وتشير إلى المتكلم."
       },
       {
         "term": "am",
-        "description": "فعل be مع I ويُستعمل هنا مع learning لتكوين المضارع المستمر."
+        "description": "صيغة تأتي مع أنا وتساعد في تكوين فعل مستمر أو ترتيب قريب."
       },
       {
         "term": "going",
-        "description": "هنا لا تعني يذهب حرفيًا، بل تُستعمل للسؤال عن سير الأمور وتطورها."
+        "description": "ذاهب، وتدل هنا على خطة مستقبلية مرتبة."
       },
       {
         "term": "home",
-        "description": "اسم أو ظرف يعني المنزل أو البيت."
+        "description": "إلى المنزل."
       },
       {
         "term": "in",
-        "description": "حرف جر يعني في."
+        "description": "بعد، وتستخدم هنا مع مدة قبل حدوث الشيء."
       },
       {
         "term": "four",
-        "description": "كلمة ترتبط بمعنى أربعة."
+        "description": "العدد أربعة."
       },
       {
         "term": "days",
-        "description": "اسم يعني أيام."
+        "description": "أيام."
       }
     ],
-    "tense": "المضارع المستمر",
-    "tenseEn": "Present Continuous",
-    "tenseReason": "استُعمل المضارع المستمر لأن الجملة تصف شيئًا يحدث الآن أو في فترة قريبة من الآن، أو خطة قريبة واضحة من السياق.",
+    "grammarExplanations": [
+      {
+        "sentence": "I am going home",
+        "explanation": {
+          "tense": "المضارع المستمر",
+          "tenseEn": "Present Continuous",
+          "reason": "يستخدم المضارع المستمر هنا للتعبير عن خطة مستقبلية مرتبة، وليس بالضرورة عن ذهاب يحدث في هذه اللحظة."
+        }
+      },
+      {
+        "sentence": "in four days",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه عبارة زمنية تحدد متى سيحدث الذهاب، ومعناها بعد مرور أربعة أيام من الآن."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "People often say, \"I am going home in four days\" in situations like this.",
-        "ar": "يقول الناس كثيرًا: \"سأذهب إلى المنزل بعد أربعة أيام\" في مواقف كهذه.",
-        "context": "تستخدم الجملة بوصفها تركيبًا شائعًا في موقف مشابه."
+        "en": "I am going home in four days.",
+        "ar": "سأذهب إلى المنزل بعد أربعة أيام.",
+        "context": "تقال عند تحديد موعد الذهاب إلى المنزل."
       },
       {
         "id": 2,
-        "en": "You can say, \"I am going home in four days\" when this happens.",
-        "ar": "يمكنك أن تقول: \"سأذهب إلى المنزل بعد أربعة أيام\" عندما يحدث هذا.",
-        "context": "توضح أن الجملة مناسبة في موقف متكرر."
+        "en": "I am going home tomorrow.",
+        "ar": "سأذهب إلى المنزل غدًا.",
+        "context": "تقال عند ذكر خطة قريبة للعودة إلى المنزل."
       },
       {
         "id": 3,
-        "en": "I heard someone say, \"I am going home in four days\".",
-        "ar": "سمعت شخصًا يقول: \"سأذهب إلى المنزل بعد أربعة أيام\".",
-        "context": "تجعل الجملة جزءًا من كلام سمعته من شخص آخر."
+        "en": "I am going home next week.",
+        "ar": "سأذهب إلى المنزل الأسبوع القادم.",
+        "context": "تقال عند تحديد وقت مستقبلي للعودة."
       },
       {
         "id": 4,
-        "en": "The teacher used the sentence, \"I am going home in four days\" in class.",
-        "ar": "استخدم المعلم الجملة: \"سأذهب إلى المنزل بعد أربعة أيام\" في الصف.",
-        "context": "تستخدم الجملة مثالًا تعليميًا في الصف."
+        "en": "I am going to Boston in two days.",
+        "ar": "سأذهب إلى بوسطن بعد يومين.",
+        "context": "تقال عند ذكر خطة سفر قريبة."
       },
       {
         "id": 5,
-        "en": "Many learners remember the sentence, \"I am going home in four days\" first.",
-        "ar": "يتذكر كثير من المتعلمين الجملة: \"سأذهب إلى المنزل بعد أربعة أيام\" أولًا.",
-        "context": "تقدم الجملة بوصفها جملة تعليمية أساسية."
+        "en": "I am leaving in four days.",
+        "ar": "سأغادر بعد أربعة أيام.",
+        "context": "تقال عند تحديد موعد المغادرة."
       },
       {
         "id": 6,
-        "en": "She said, \"I am going home in four days\" in a calm way.",
-        "ar": "قالت: \"سأذهب إلى المنزل بعد أربعة أيام\" بطريقة هادئة.",
-        "context": "تجعل الجملة جزءًا من كلام مباشر في موقف عادي."
+        "en": "I am traveling in three days.",
+        "ar": "سأسافر بعد ثلاثة أيام.",
+        "context": "تقال عند الحديث عن خطة سفر."
       },
       {
         "id": 7,
-        "en": "He repeated, \"I am going home in four days\" more than once.",
-        "ar": "ردد: \"سأذهب إلى المنزل بعد أربعة أيام\" أكثر من مرة.",
-        "context": "تضيف معنى التكرار لنفس الجملة."
+        "en": "I am going back in four days.",
+        "ar": "سأعود بعد أربعة أيام.",
+        "context": "تقال عند تحديد وقت الرجوع."
       },
       {
         "id": 8,
-        "en": "At the right moment, someone might say, \"I am going home in four days\".",
-        "ar": "في اللحظة المناسبة، قد يقول شخص ما: \"سأذهب إلى المنزل بعد أربعة أيام\".",
-        "context": "توضح أن الجملة مرتبطة بتوقيت مناسب في السياق."
+        "en": "I am going home after work.",
+        "ar": "سأذهب إلى المنزل بعد العمل.",
+        "context": "تقال عند ذكر خطة لبعد الدوام."
       },
       {
         "id": 9,
-        "en": "I wrote down the sentence, \"I am going home in four days\" so I would remember it.",
-        "ar": "كتبت الجملة: \"سأذهب إلى المنزل بعد أربعة أيام\" حتى أتذكرها.",
-        "context": "تعطي مثالًا على حفظ الجملة أو مراجعتها."
+        "en": "I am going home at six.",
+        "ar": "سأذهب إلى المنزل في السادسة.",
+        "context": "تقال عند تحديد ساعة العودة."
       },
       {
         "id": 10,
-        "en": "It is useful to know when to say, \"I am going home in four days\".",
-        "ar": "من المفيد أن تعرف متى تقول: \"سأذهب إلى المنزل بعد أربعة أيام\".",
-        "context": "تركز على معرفة الوقت المناسب لاستخدام الجملة."
+        "en": "I am going home before dinner.",
+        "ar": "سأذهب إلى المنزل قبل العشاء.",
+        "context": "تقال عند تحديد وقت تقريبي للعودة."
       }
     ]
   }

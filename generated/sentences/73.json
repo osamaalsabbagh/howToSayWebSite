@@ -10,100 +10,115 @@
     "wordMeanings": [
       {
         "term": "I",
-        "description": "ضمير المتكلم."
+        "description": "ضمير المتكلم ويشير إلى الشخص الذي يتحدث."
       },
       {
         "term": "have",
-        "description": "فعل يعني يملك، ويأتي أيضًا كفعل مساعد."
+        "description": "تساعد هنا على تكوين معنى أن الخبر وصل إلى المتكلم قبل الآن."
       },
       {
         "term": "heard",
-        "description": "صيغة الماضي واسم المفعول من hear وتعني سمع."
+        "description": "سمعت أو وصلني خبر."
       },
       {
         "term": "Texas",
-        "description": "اسم علم يشير إلى تكساس."
+        "description": "تكساس، اسم مكان أو ولاية."
       },
       {
         "term": "is",
-        "description": "فعل be في الحاضر مع المفرد."
+        "description": "صيغة تأتي مع المفرد وتربط المكان بوصفه."
       },
       {
         "term": "a",
-        "description": "أداة نكرة تأتي قبل الاسم المفرد المعدود."
+        "description": "أداة تدل على شيء واحد غير محدد."
       },
       {
         "term": "beautiful",
-        "description": "صفة تعني جميل."
+        "description": "جميل أو حسن المنظر."
       },
       {
         "term": "place",
-        "description": "اسم يعني مكان."
+        "description": "مكان أو منطقة."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "I have heard",
+        "explanation": {
+          "tense": "المضارع التام",
+          "tenseEn": "Present Perfect",
+          "reason": "تستخدم have heard للتعبير عن خبر وصل إلى المتكلم قبل الآن، مع بقاء أثره في الرأي أو المعرفة الحالية."
+        }
+      },
+      {
+        "sentence": "Texas is a beautiful place",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "تستخدم is لوصف مكان بصفة عامة في الحاضر، وهي أن تكساس مكان جميل."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "People often say, \"I have heard Texas is a beautiful place\" in situations like this.",
-        "ar": "يقول الناس كثيرًا: \"سمعت أن تكساس مكان جميل\" في مواقف كهذه.",
-        "context": "تستخدم الجملة بوصفها تركيبًا شائعًا في موقف مشابه."
+        "en": "I have heard Canada is very cold.",
+        "ar": "سمعت أن كندا باردة جدًا.",
+        "context": "تقال عند نقل معلومة سمعتها عن بلد."
       },
       {
         "id": 2,
-        "en": "You can say, \"I have heard Texas is a beautiful place\" when this happens.",
-        "ar": "يمكنك أن تقول: \"سمعت أن تكساس مكان جميل\" عندما يحدث هذا.",
-        "context": "توضح أن الجملة مناسبة في موقف متكرر."
+        "en": "She has heard the restaurant is good.",
+        "ar": "هي سمعت أن المطعم جيد.",
+        "context": "تقال عند نقل رأي سمعه شخص عن مطعم."
       },
       {
         "id": 3,
-        "en": "I heard someone say, \"I have heard Texas is a beautiful place\".",
-        "ar": "سمعت شخصًا يقول: \"سمعت أن تكساس مكان جميل\".",
-        "context": "تجعل الجملة جزءًا من كلام سمعته من شخص آخر."
+        "en": "I have heard this city is safe.",
+        "ar": "سمعت أن هذه المدينة آمنة.",
+        "context": "تقال عند ذكر خبر إيجابي عن مدينة."
       },
       {
         "id": 4,
-        "en": "The teacher used the sentence, \"I have heard Texas is a beautiful place\" in class.",
-        "ar": "استخدم المعلم الجملة: \"سمعت أن تكساس مكان جميل\" في الصف.",
-        "context": "تستخدم الجملة مثالًا تعليميًا في الصف."
+        "en": "He has heard the teacher is kind.",
+        "ar": "هو سمع أن المعلم لطيف.",
+        "context": "تقال عند نقل انطباع سمعه شخص عن معلم."
       },
       {
         "id": 5,
-        "en": "Many learners remember the sentence, \"I have heard Texas is a beautiful place\" first.",
-        "ar": "يتذكر كثير من المتعلمين الجملة: \"سمعت أن تكساس مكان جميل\" أولًا.",
-        "context": "تقدم الجملة بوصفها جملة تعليمية أساسية."
+        "en": "I have heard the hotel is clean.",
+        "ar": "سمعت أن الفندق نظيف.",
+        "context": "تقال عند الحديث عن سمعة فندق."
       },
       {
         "id": 6,
-        "en": "She said, \"I have heard Texas is a beautiful place\" in a calm way.",
-        "ar": "قالت: \"سمعت أن تكساس مكان جميل\" بطريقة هادئة.",
-        "context": "تجعل الجملة جزءًا من كلام مباشر في موقف عادي."
+        "en": "We have heard the park is beautiful.",
+        "ar": "سمعنا أن الحديقة جميلة.",
+        "context": "تقال عند التخطيط لزيارة مكان سمعتم عنه."
       },
       {
         "id": 7,
-        "en": "He repeated, \"I have heard Texas is a beautiful place\" more than once.",
-        "ar": "ردد: \"سمعت أن تكساس مكان جميل\" أكثر من مرة.",
-        "context": "تضيف معنى التكرار لنفس الجملة."
+        "en": "I have heard your brother is a doctor.",
+        "ar": "سمعت أن أخاك طبيب.",
+        "context": "تقال عند ذكر معلومة وصلت إليك عن شخص."
       },
       {
         "id": 8,
-        "en": "At the right moment, someone might say, \"I have heard Texas is a beautiful place\".",
-        "ar": "في اللحظة المناسبة، قد يقول شخص ما: \"سمعت أن تكساس مكان جميل\".",
-        "context": "توضح أن الجملة مرتبطة بتوقيت مناسب في السياق."
+        "en": "They have heard the beach is quiet.",
+        "ar": "هم سمعوا أن الشاطئ هادئ.",
+        "context": "تقال عند نقل معلومة عن مكان سياحي."
       },
       {
         "id": 9,
-        "en": "I wrote down the sentence, \"I have heard Texas is a beautiful place\" so I would remember it.",
-        "ar": "كتبت الجملة: \"سمعت أن تكساس مكان جميل\" حتى أتذكرها.",
-        "context": "تعطي مثالًا على حفظ الجملة أو مراجعتها."
+        "en": "I have heard this book is useful.",
+        "ar": "سمعت أن هذا الكتاب مفيد.",
+        "context": "تقال عند ذكر رأي سمعته عن كتاب."
       },
       {
         "id": 10,
-        "en": "It is useful to know when to say, \"I have heard Texas is a beautiful place\".",
-        "ar": "من المفيد أن تعرف متى تقول: \"سمعت أن تكساس مكان جميل\".",
-        "context": "تركز على معرفة الوقت المناسب لاستخدام الجملة."
+        "en": "My father has heard the road is long.",
+        "ar": "أبي سمع أن الطريق طويل.",
+        "context": "تقال عند نقل معلومة عن مسافة أو طريق."
       }
     ]
   }

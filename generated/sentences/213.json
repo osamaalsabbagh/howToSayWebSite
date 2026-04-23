@@ -10,87 +10,95 @@
     "wordMeanings": [
       {
         "term": "Where",
-        "description": "أداة سؤال عن المكان."
+        "description": "أين، وتستخدم للسؤال عن مكان."
       },
       {
         "term": "can",
-        "description": "فعل مساعد يدل هنا على القدرة أو الاستعداد لتلبية الطلب."
+        "description": "تستخدم للسؤال عن الإمكانية أو المكان المناسب لفعل شيء."
       },
       {
         "term": "I",
-        "description": "ضمير المتكلم."
+        "description": "أنا، وتشير إلى المتكلم."
       },
       {
         "term": "mail",
-        "description": "فعل يعني إرسال."
+        "description": "أرسل بالبريد."
       },
       {
         "term": "this",
-        "description": "اسم إشارة يعني هذا."
+        "description": "هذا، وتشير إلى الشيء الذي يريد المتكلم إرساله."
       }
     ],
-    "tense": null,
-    "tenseReason": "استُعمل هذا التركيب لأنه سؤال يعتمد على فعل modal مثل can أو could أو would، لذلك لا نعامله هنا كزمن مستقل بل كصيغة سؤال وظيفية.",
+    "grammarExplanations": [
+      {
+        "sentence": "Where can I mail this?",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه صيغة سؤال عن المكان باستخدام تركيب يدل على الإمكانية، والفعل بعدها بصيغته الأساسية، لذلك تشرح كتركيب سؤال لا كزمن مستقل."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "You can ask, \"Where can I mail this?\" when you need information.",
-        "ar": "يمكنك أن تسأل: \"أين يمكنني إرسال هذا بالبريد؟\" عندما تحتاج إلى معلومة.",
-        "context": "تستعمل الجملة كسؤال مباشر للحصول على معلومة."
+        "en": "Where can I mail this?",
+        "ar": "أين يمكنني إرسال هذا بالبريد؟",
+        "context": "تقال عند السؤال عن مكان إرسال البريد."
       },
       {
         "id": 2,
-        "en": "Many people ask, \"Where can I mail this?\" in this situation.",
-        "ar": "يسأل كثير من الناس: \"أين يمكنني إرسال هذا بالبريد؟\" في هذا الموقف.",
-        "context": "توضح أن هذا سؤال شائع في موقف مشابه."
+        "en": "Where can I mail this letter?",
+        "ar": "أين يمكنني إرسال هذه الرسالة بالبريد؟",
+        "context": "تقال عند البحث عن مكان لإرسال رسالة."
       },
       {
         "id": 3,
-        "en": "I asked, \"Where can I mail this?\" because I was not sure.",
-        "ar": "سألت: \"أين يمكنني إرسال هذا بالبريد؟\" لأنني لم أكن متأكدًا.",
-        "context": "تضيف سببًا لطرح السؤال."
+        "en": "Where can I mail this package?",
+        "ar": "أين يمكنني إرسال هذا الطرد بالبريد؟",
+        "context": "تقال عند إرسال طرد."
       },
       {
         "id": 4,
-        "en": "She asked politely, \"Where can I mail this?\"",
-        "ar": "سألت بأدب: \"أين يمكنني إرسال هذا بالبريد؟\".",
-        "context": "تبين أن السؤال قيل بطريقة مهذبة."
+        "en": "Where can I buy stamps?",
+        "ar": "أين يمكنني شراء طوابع؟",
+        "context": "تقال عند الحاجة إلى طوابع بريدية."
       },
       {
         "id": 5,
-        "en": "At work, someone may ask, \"Where can I mail this?\"",
-        "ar": "في العمل، قد يسأل شخص ما: \"أين يمكنني إرسال هذا بالبريد؟\".",
-        "context": "تضع السؤال في سياق مهني أو عملي."
+        "en": "Where can I send this form?",
+        "ar": "أين يمكنني إرسال هذا النموذج؟",
+        "context": "تقال عند السؤال عن مكان إرسال وثيقة."
       },
       {
         "id": 6,
-        "en": "Before deciding, ask: \"Where can I mail this?\"",
-        "ar": "قبل أن تقرر، اسأل: \"أين يمكنني إرسال هذا بالبريد؟\".",
-        "context": "تستخدم السؤال قبل اتخاذ قرار."
+        "en": "Where can I drop off this package?",
+        "ar": "أين يمكنني تسليم هذا الطرد؟",
+        "context": "تقال عند البحث عن نقطة تسليم."
       },
       {
         "id": 7,
-        "en": "The student asked, \"Where can I mail this?\" in class.",
-        "ar": "سأل الطالب: \"أين يمكنني إرسال هذا بالبريد؟\" في الصف.",
-        "context": "تجعل الجملة جزءًا من موقف تعليمي."
+        "en": "Where can I find the post office?",
+        "ar": "أين يمكنني العثور على مكتب البريد؟",
+        "context": "تقال عند البحث عن مكتب البريد."
       },
       {
         "id": 8,
-        "en": "While traveling, you can ask, \"Where can I mail this?\"",
-        "ar": "أثناء السفر، يمكنك أن تسأل: \"أين يمكنني إرسال هذا بالبريد؟\".",
-        "context": "تربط السؤال بموقف السفر أو التنقل."
+        "en": "Where can I mail this today?",
+        "ar": "أين يمكنني إرسال هذا بالبريد اليوم؟",
+        "context": "تقال عند الحاجة إلى إرسال الشيء في اليوم نفسه."
       },
       {
         "id": 9,
-        "en": "He asked me, \"Where can I mail this?\" again.",
-        "ar": "سألني: \"أين يمكنني إرسال هذا بالبريد؟\" مرة أخرى.",
-        "context": "تضيف معنى التكرار لنفس السؤال."
+        "en": "Where can I mail this near here?",
+        "ar": "أين يمكنني إرسال هذا بالبريد قرب هنا؟",
+        "context": "تقال عند البحث عن أقرب مكان."
       },
       {
         "id": 10,
-        "en": "If you are not sure, ask: \"Where can I mail this?\"",
-        "ar": "إذا لم تكن متأكدًا، فاسأل: \"أين يمكنني إرسال هذا بالبريد؟\".",
-        "context": "توضح أن السؤال مناسب عند عدم التأكد."
+        "en": "Where can I ask about mailing this?",
+        "ar": "أين يمكنني السؤال عن إرسال هذا بالبريد؟",
+        "context": "تقال عند الحاجة إلى معلومات عن البريد."
       }
     ]
   }

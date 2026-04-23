@@ -10,92 +10,99 @@
     "wordMeanings": [
       {
         "term": "I",
-        "description": "ضمير المتكلم."
+        "description": "أنا، وتشير إلى المتكلم."
       },
       {
         "term": "will",
-        "description": "أداة مستقبل تدل على ما سيحدث لاحقًا."
+        "description": "تدل على قرار أو وعد بفعل شيء."
       },
       {
         "term": "pay",
-        "description": "فعل يعني ثمن."
+        "description": "أدفع المال."
       },
       {
         "term": "for",
-        "description": "حرف جر يعني لـ أو من أجل."
+        "description": "ثمن أو مقابل، وتربط الدفع بالشيء المدفوع عنه."
       },
       {
         "term": "the",
-        "description": "أداة تعريف تشير إلى شيء معروف أو محدد."
+        "description": "أداة تشير إلى تذاكر محددة معروفة."
       },
       {
         "term": "tickets",
-        "description": "اسم يعني التذاكر."
+        "description": "تذاكر."
       }
     ],
-    "tense": "المستقبل البسيط",
-    "tenseEn": "Future Simple",
-    "tenseReason": "استُعمل المستقبل البسيط لأن الجملة تتحدث عن شيء سيحدث لاحقًا أو عن قرار أو توقع يخص المستقبل.",
+    "grammarExplanations": [
+      {
+        "sentence": "I will pay for the tickets.",
+        "explanation": {
+          "tense": "المستقبل البسيط",
+          "tenseEn": "Future Simple",
+          "reason": "يستخدم المستقبل البسيط للتعبير عن عرض أو قرار بدفع ثمن التذاكر."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "People often say, \"I will pay for the tickets\" in situations like this.",
-        "ar": "يقول الناس كثيرًا: \"سأدفع ثمن التذاكر\" في مواقف كهذه.",
-        "context": "تستخدم الجملة بوصفها تركيبًا شائعًا في موقف مشابه."
+        "en": "I will pay for the tickets.",
+        "ar": "سأدفع ثمن التذاكر.",
+        "context": "تقال عند عرض دفع ثمن التذاكر."
       },
       {
         "id": 2,
-        "en": "You can say, \"I will pay for the tickets\" when this happens.",
-        "ar": "يمكنك أن تقول: \"سأدفع ثمن التذاكر\" عندما يحدث هذا.",
-        "context": "توضح أن الجملة مناسبة في موقف متكرر."
+        "en": "I will pay for the bus tickets.",
+        "ar": "سأدفع ثمن تذاكر الحافلة.",
+        "context": "تقال عند عرض دفع تذاكر الحافلة."
       },
       {
         "id": 3,
-        "en": "I heard someone say, \"I will pay for the tickets\".",
-        "ar": "سمعت شخصًا يقول: \"سأدفع ثمن التذاكر\".",
-        "context": "تجعل الجملة جزءًا من كلام سمعته من شخص آخر."
+        "en": "I will pay for the train tickets.",
+        "ar": "سأدفع ثمن تذاكر القطار.",
+        "context": "تقال عند دفع تكلفة تذاكر القطار."
       },
       {
         "id": 4,
-        "en": "The teacher used the sentence, \"I will pay for the tickets\" in class.",
-        "ar": "استخدم المعلم الجملة: \"سأدفع ثمن التذاكر\" في الصف.",
-        "context": "تستخدم الجملة مثالًا تعليميًا في الصف."
+        "en": "I will pay for the movie tickets.",
+        "ar": "سأدفع ثمن تذاكر الفيلم.",
+        "context": "تقال عند دعوة شخص إلى فيلم."
       },
       {
         "id": 5,
-        "en": "Many learners remember the sentence, \"I will pay for the tickets\" first.",
-        "ar": "يتذكر كثير من المتعلمين الجملة: \"سأدفع ثمن التذاكر\" أولًا.",
-        "context": "تقدم الجملة بوصفها جملة تعليمية أساسية."
+        "en": "I will pay for two tickets.",
+        "ar": "سأدفع ثمن تذكرتين.",
+        "context": "تقال عند تحديد عدد التذاكر."
       },
       {
         "id": 6,
-        "en": "She said, \"I will pay for the tickets\" in a calm way.",
-        "ar": "قالت: \"سأدفع ثمن التذاكر\" بطريقة هادئة.",
-        "context": "تجعل الجملة جزءًا من كلام مباشر في موقف عادي."
+        "en": "I will pay for your ticket.",
+        "ar": "سأدفع ثمن تذكرتك.",
+        "context": "تقال عند عرض دفع تذكرة شخص."
       },
       {
         "id": 7,
-        "en": "He repeated, \"I will pay for the tickets\" more than once.",
-        "ar": "ردد: \"سأدفع ثمن التذاكر\" أكثر من مرة.",
-        "context": "تضيف معنى التكرار لنفس الجملة."
+        "en": "We will pay for the tickets.",
+        "ar": "سندفع ثمن التذاكر.",
+        "context": "تقال عند دفع مجموعة للتذاكر."
       },
       {
         "id": 8,
-        "en": "At the right moment, someone might say, \"I will pay for the tickets\".",
-        "ar": "في اللحظة المناسبة، قد يقول شخص ما: \"سأدفع ثمن التذاكر\".",
-        "context": "توضح أن الجملة مرتبطة بتوقيت مناسب في السياق."
+        "en": "She will pay for the tickets.",
+        "ar": "ستدفع ثمن التذاكر.",
+        "context": "تقال عند الإخبار أن امرأة ستدفع."
       },
       {
         "id": 9,
-        "en": "I wrote down the sentence, \"I will pay for the tickets\" so I would remember it.",
-        "ar": "كتبت الجملة: \"سأدفع ثمن التذاكر\" حتى أتذكرها.",
-        "context": "تعطي مثالًا على حفظ الجملة أو مراجعتها."
+        "en": "I will pay for the tickets online.",
+        "ar": "سأدفع ثمن التذاكر عبر الإنترنت.",
+        "context": "تقال عند تحديد طريقة الدفع."
       },
       {
         "id": 10,
-        "en": "It is useful to know when to say, \"I will pay for the tickets\".",
-        "ar": "من المفيد أن تعرف متى تقول: \"سأدفع ثمن التذاكر\".",
-        "context": "تركز على معرفة الوقت المناسب لاستخدام الجملة."
+        "en": "I will pay for the tickets now.",
+        "ar": "سأدفع ثمن التذاكر الآن.",
+        "context": "تقال عند اتخاذ قرار بالدفع فورًا."
       }
     ]
   }

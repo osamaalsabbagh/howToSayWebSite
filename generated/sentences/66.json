@@ -10,88 +10,95 @@
     "wordMeanings": [
       {
         "term": "Is",
-        "description": "فعل be في الحاضر مع المفرد."
+        "description": "تأتي في بداية السؤال للسؤال عن صفة أو هوية شخص مفرد."
       },
       {
         "term": "Mr",
-        "description": "اسم علم يشير إلى السيد."
+        "description": "لقب احترام يوضع قبل اسم رجل."
       },
       {
         "term": "Smith",
-        "description": "اسم علم يشير إلى سميث."
+        "description": "اسم عائلة للشخص المقصود في السؤال."
       },
       {
         "term": "an",
-        "description": "أداة نكرة تأتي قبل الاسم المفرد الذي يبدأ بصوت علّة."
+        "description": "أداة تأتي قبل اسم مفرد يبدأ بصوت متحرك."
       },
       {
         "term": "American",
-        "description": "اسم علم يشير إلى أمريكي."
+        "description": "شخص أمريكي أو صاحب جنسية أمريكية."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "Is Mr. Smith an American?",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "يبدأ السؤال بـ Is للسؤال عن هوية أو جنسية شخص مفرد في الوقت الحالي."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "You can ask, \"Is Mr. Smith an American?\" when you need information.",
-        "ar": "يمكنك أن تسأل: \"هل السيد سميث أمريكي؟\" عندما تحتاج إلى معلومة.",
-        "context": "تستعمل الجملة كسؤال مباشر للحصول على معلومة."
+        "en": "Is she a teacher?",
+        "ar": "هل هي معلمة؟",
+        "context": "تقال عند السؤال عن مهنة امرأة أو فتاة."
       },
       {
         "id": 2,
-        "en": "Many people ask, \"Is Mr. Smith an American?\" in this situation.",
-        "ar": "يسأل كثير من الناس: \"هل السيد سميث أمريكي؟\" في هذا الموقف.",
-        "context": "توضح أن هذا سؤال شائع في موقف مشابه."
+        "en": "Is he an engineer?",
+        "ar": "هل هو مهندس؟",
+        "context": "تقال عند السؤال عن مهنة رجل."
       },
       {
         "id": 3,
-        "en": "I asked, \"Is Mr. Smith an American?\" because I was not sure.",
-        "ar": "سألت: \"هل السيد سميث أمريكي؟\" لأنني لم أكن متأكدًا.",
-        "context": "تضيف سببًا لطرح السؤال."
+        "en": "Is your friend American?",
+        "ar": "هل صديقك أمريكي؟",
+        "context": "تقال عند السؤال عن جنسية صديق."
       },
       {
         "id": 4,
-        "en": "She asked politely, \"Is Mr. Smith an American?\"",
-        "ar": "سألت بأدب: \"هل السيد سميث أمريكي؟\".",
-        "context": "تبين أن السؤال قيل بطريقة مهذبة."
+        "en": "Is the doctor Canadian?",
+        "ar": "هل الطبيب كندي؟",
+        "context": "تقال عند السؤال عن جنسية شخص."
       },
       {
         "id": 5,
-        "en": "At work, someone may ask, \"Is Mr. Smith an American?\"",
-        "ar": "في العمل، قد يسأل شخص ما: \"هل السيد سميث أمريكي؟\".",
-        "context": "تضع السؤال في سياق مهني أو عملي."
+        "en": "Is Mr. Brown at home?",
+        "ar": "هل السيد براون في البيت؟",
+        "context": "تقال عند السؤال عن وجود شخص في مكان."
       },
       {
         "id": 6,
-        "en": "Before deciding, ask: \"Is Mr. Smith an American?\"",
-        "ar": "قبل أن تقرر، اسأل: \"هل السيد سميث أمريكي؟\".",
-        "context": "تستخدم السؤال قبل اتخاذ قرار."
+        "en": "Is this man a visitor?",
+        "ar": "هل هذا الرجل زائر؟",
+        "context": "تقال عند السؤال عن هوية شخص."
       },
       {
         "id": 7,
-        "en": "The student asked, \"Is Mr. Smith an American?\" in class.",
-        "ar": "سأل الطالب: \"هل السيد سميث أمريكي؟\" في الصف.",
-        "context": "تجعل الجملة جزءًا من موقف تعليمي."
+        "en": "Is your father Turkish?",
+        "ar": "هل والدك تركي؟",
+        "context": "تقال عند السؤال عن جنسية الأب."
       },
       {
         "id": 8,
-        "en": "While traveling, you can ask, \"Is Mr. Smith an American?\"",
-        "ar": "أثناء السفر، يمكنك أن تسأل: \"هل السيد سميث أمريكي؟\".",
-        "context": "تربط السؤال بموقف السفر أو التنقل."
+        "en": "Is Ms. Green a manager?",
+        "ar": "هل السيدة غرين مديرة؟",
+        "context": "تقال عند السؤال عن منصب امرأة."
       },
       {
         "id": 9,
-        "en": "He asked me, \"Is Mr. Smith an American?\" again.",
-        "ar": "سألني: \"هل السيد سميث أمريكي؟\" مرة أخرى.",
-        "context": "تضيف معنى التكرار لنفس السؤال."
+        "en": "Is that student from Egypt?",
+        "ar": "هل ذلك الطالب من مصر؟",
+        "context": "تقال عند السؤال عن بلد شخص."
       },
       {
         "id": 10,
-        "en": "If you are not sure, ask: \"Is Mr. Smith an American?\"",
-        "ar": "إذا لم تكن متأكدًا، فاسأل: \"هل السيد سميث أمريكي؟\".",
-        "context": "توضح أن السؤال مناسب عند عدم التأكد."
+        "en": "Is your brother a doctor?",
+        "ar": "هل أخوك طبيب؟",
+        "context": "تقال عند السؤال عن مهنة الأخ."
       }
     ]
   }

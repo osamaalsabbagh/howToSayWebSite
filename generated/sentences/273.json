@@ -10,88 +10,95 @@
     "wordMeanings": [
       {
         "term": "I",
-        "description": "ضمير المتكلم."
+        "description": "ضمير المتكلم المفرد."
       },
       {
         "term": "like",
-        "description": "فعل يدل على الإعجاب أو الميل."
+        "description": "أحب أو أستمتع."
       },
       {
         "term": "to",
-        "description": "أداة تأتي قبل المصدر بعد أفعال مثل want."
+        "description": "تأتي قبل الفعل لتوضيح النشاط المحبوب."
       },
       {
         "term": "watch",
-        "description": "فعل يعني مشاهدة."
+        "description": "أشاهد أو أنظر إلى شيء لفترة."
       },
       {
         "term": "TV",
-        "description": "اسم يعني التلفاز."
+        "description": "التلفاز أو البرامج التلفزيونية."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "I like to watch TV.",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "يستخدم المضارع البسيط للتعبير عن تفضيل أو عادة عامة، ويأتي to قبل الفعل watch لتوضيح النشاط المحبوب."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "People often say, \"I like to watch TV\" in situations like this.",
-        "ar": "يقول الناس كثيرًا: \"أحب مشاهدة التلفاز\" في مواقف كهذه.",
-        "context": "تستخدم الجملة بوصفها تركيبًا شائعًا في موقف مشابه."
+        "en": "I like to watch TV.",
+        "ar": "أحب مشاهدة التلفاز.",
+        "context": "تقال عند الحديث عن هواية مفضلة."
       },
       {
         "id": 2,
-        "en": "You can say, \"I like to watch TV\" when this happens.",
-        "ar": "يمكنك أن تقول: \"أحب مشاهدة التلفاز\" عندما يحدث هذا.",
-        "context": "توضح أن الجملة مناسبة في موقف متكرر."
+        "en": "I like to watch TV at night.",
+        "ar": "أحب مشاهدة التلفاز ليلًا.",
+        "context": "تقال عند ذكر وقت مشاهدة التلفاز."
       },
       {
         "id": 3,
-        "en": "I heard someone say, \"I like to watch TV\".",
-        "ar": "سمعت شخصًا يقول: \"أحب مشاهدة التلفاز\".",
-        "context": "تجعل الجملة جزءًا من كلام سمعته من شخص آخر."
+        "en": "She likes to watch TV after dinner.",
+        "ar": "هي تحب مشاهدة التلفاز بعد العشاء.",
+        "context": "تصف عادة شخص آخر."
       },
       {
         "id": 4,
-        "en": "The teacher used the sentence, \"I like to watch TV\" in class.",
-        "ar": "استخدم المعلم الجملة: \"أحب مشاهدة التلفاز\" في الصف.",
-        "context": "تستخدم الجملة مثالًا تعليميًا في الصف."
+        "en": "We like to watch movies on TV.",
+        "ar": "نحب مشاهدة الأفلام على التلفاز.",
+        "context": "تقال عند الحديث عن نشاط عائلي أو جماعي."
       },
       {
         "id": 5,
-        "en": "Many learners remember the sentence, \"I like to watch TV\" first.",
-        "ar": "يتذكر كثير من المتعلمين الجملة: \"أحب مشاهدة التلفاز\" أولًا.",
-        "context": "تقدم الجملة بوصفها جملة تعليمية أساسية."
+        "en": "Do you like to watch TV?",
+        "ar": "هل تحب مشاهدة التلفاز؟",
+        "context": "تستخدم للسؤال عن تفضيل شخص."
       },
       {
         "id": 6,
-        "en": "She said, \"I like to watch TV\" in a calm way.",
-        "ar": "قالت: \"أحب مشاهدة التلفاز\" بطريقة هادئة.",
-        "context": "تجعل الجملة جزءًا من كلام مباشر في موقف عادي."
+        "en": "I do not like to watch TV in the morning.",
+        "ar": "لا أحب مشاهدة التلفاز في الصباح.",
+        "context": "تقال عند نفي تفضيل في وقت معين."
       },
       {
         "id": 7,
-        "en": "He repeated, \"I like to watch TV\" more than once.",
-        "ar": "ردد: \"أحب مشاهدة التلفاز\" أكثر من مرة.",
-        "context": "تضيف معنى التكرار لنفس الجملة."
+        "en": "My father likes to watch sports on TV.",
+        "ar": "والدي يحب مشاهدة الرياضة على التلفاز.",
+        "context": "تصف نوع البرامج التي يحبها شخص."
       },
       {
         "id": 8,
-        "en": "At the right moment, someone might say, \"I like to watch TV\".",
-        "ar": "في اللحظة المناسبة، قد يقول شخص ما: \"أحب مشاهدة التلفاز\".",
-        "context": "توضح أن الجملة مرتبطة بتوقيت مناسب في السياق."
+        "en": "The children like to watch cartoons on TV.",
+        "ar": "الأطفال يحبون مشاهدة الرسوم المتحركة على التلفاز.",
+        "context": "تصف تفضيل الأطفال."
       },
       {
         "id": 9,
-        "en": "I wrote down the sentence, \"I like to watch TV\" so I would remember it.",
-        "ar": "كتبت الجملة: \"أحب مشاهدة التلفاز\" حتى أتذكرها.",
-        "context": "تعطي مثالًا على حفظ الجملة أو مراجعتها."
+        "en": "I like to watch TV with my family.",
+        "ar": "أحب مشاهدة التلفاز مع عائلتي.",
+        "context": "تقال عند ذكر من تشاهد معه."
       },
       {
         "id": 10,
-        "en": "It is useful to know when to say, \"I like to watch TV\".",
-        "ar": "من المفيد أن تعرف متى تقول: \"أحب مشاهدة التلفاز\".",
-        "context": "تركز على معرفة الوقت المناسب لاستخدام الجملة."
+        "en": "He likes to watch the news on TV.",
+        "ar": "هو يحب مشاهدة الأخبار على التلفاز.",
+        "context": "تقال عند وصف نوع برنامج مفضل."
       }
     ]
   }

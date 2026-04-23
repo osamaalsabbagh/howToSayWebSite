@@ -10,112 +10,119 @@
     "wordMeanings": [
       {
         "term": "Sure",
-        "description": "صفة تعني بالتأكيد."
+        "description": "كلمة موافقة تعني بالتأكيد أو لا مشكلة."
       },
       {
         "term": "I",
-        "description": "ضمير المتكلم."
+        "description": "ضمير المتكلم المفرد."
       },
       {
         "term": "need",
-        "description": "فعل يدل على الحاجة."
+        "description": "تعني أحتاج."
       },
       {
         "term": "to",
-        "description": "أداة تأتي قبل المصدر بعد أفعال مثل want."
+        "description": "تأتي قبل الفعل بعد need."
       },
       {
         "term": "read",
-        "description": "فعل يعني يقرأ."
+        "description": "تعني أقرأ."
       },
       {
         "term": "an",
-        "description": "أداة نكرة تأتي قبل الاسم المفرد الذي يبدأ بصوت علّة."
+        "description": "أداة نكرة قبل اسم يبدأ بصوت علّة."
       },
       {
         "term": "article",
-        "description": "اسم يعني مقالا."
+        "description": "مقال."
       },
       {
         "term": "for",
-        "description": "حرف جر يعني لـ أو من أجل."
+        "description": "تعني من أجل أو لغرض."
       },
       {
         "term": "my",
-        "description": "صفة ملكية تعني خاصتي."
+        "description": "صفة ملكية تعني الخاص بي."
       },
       {
         "term": "history",
-        "description": "اسم يعني التاريخ."
+        "description": "التاريخ كمادة دراسية."
       },
       {
         "term": "class",
-        "description": "اسم يعني صف أو حصة أو فئة حسب السياق."
+        "description": "حصة أو درس."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "Sure, I need to read an article for my history class.",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُعمل المضارع البسيط للتعبير عن حاجة المتكلم الحالية إلى قراءة مقال لغرض دراسي."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "In general, Sure, I need to read an article for my history class.",
-        "ar": "بشكل عام، بالتأكيد، أحتاج أن أقرأ مقالًا لدرس التاريخ.",
-        "context": "تضيف عبارة عامة تحافظ على نفس المعنى الأساسي."
+        "en": "Sure, I need to read a book for class.",
+        "ar": "بالتأكيد، أحتاج إلى قراءة كتاب للحصة.",
+        "context": "توافق وتذكر سبب الذهاب للدراسة."
       },
       {
         "id": 2,
-        "en": "Usually, Sure, I need to read an article for my history class.",
-        "ar": "عادةً، بالتأكيد، أحتاج أن أقرأ مقالًا لدرس التاريخ.",
-        "context": "تضيف ظرفًا يدل على التكرار أو العادة."
+        "en": "I need to read an article tonight.",
+        "ar": "أحتاج إلى قراءة مقال الليلة.",
+        "context": "تذكر مهمة دراسية قريبة."
       },
       {
         "id": 3,
-        "en": "Sometimes, Sure, I need to read an article for my history class.",
-        "ar": "أحيانًا، بالتأكيد، أحتاج أن أقرأ مقالًا لدرس التاريخ.",
-        "context": "تضع الجملة في سياق أقل تكرارًا."
+        "en": "I need to study for my history class.",
+        "ar": "أحتاج إلى الدراسة لحصة التاريخ.",
+        "context": "توضح سبب حاجتك إلى المكتبة."
       },
       {
         "id": 4,
-        "en": "For now, Sure, I need to read an article for my history class.",
-        "ar": "في الوقت الحالي، بالتأكيد، أحتاج أن أقرأ مقالًا لدرس التاريخ.",
-        "context": "تربط الجملة بالوضع الحالي."
+        "en": "Sure, I need to finish my homework.",
+        "ar": "بالتأكيد، أحتاج إلى إنهاء واجبي.",
+        "context": "توافق وتشرح التزامًا دراسيًا."
       },
       {
         "id": 5,
-        "en": "Sure, I need to read an article for my history class, so that helps a lot.",
-        "ar": "بالتأكيد، أحتاج أن أقرأ مقالًا لدرس التاريخ، وهذا يساعد كثيرًا.",
-        "context": "تضيف نتيجة بسيطة على نفس المعنى."
+        "en": "I need to read this article before Monday.",
+        "ar": "أحتاج إلى قراءة هذا المقال قبل الاثنين.",
+        "context": "تحدد موعدًا نهائيًا."
       },
       {
         "id": 6,
-        "en": "Sure, I need to read an article for my history class in daily life.",
-        "ar": "بالتأكيد، أحتاج أن أقرأ مقالًا لدرس التاريخ في الحياة اليومية.",
-        "context": "تربط الجملة بمواقف الحياة اليومية."
+        "en": "I need to find an article for my class.",
+        "ar": "أحتاج إلى إيجاد مقال لحصتي.",
+        "context": "تحتاج إلى مصدر دراسي."
       },
       {
         "id": 7,
-        "en": "Sure, I need to read an article for my history class when it is necessary.",
-        "ar": "بالتأكيد، أحتاج أن أقرأ مقالًا لدرس التاريخ عندما يكون ذلك ضروريًا.",
-        "context": "تربط الجملة بشرط أو حاجة معينة."
+        "en": "Sure, I can study at the library.",
+        "ar": "بالتأكيد، يمكنني الدراسة في المكتبة.",
+        "context": "تقبل مكان الدراسة المقترح."
       },
       {
         "id": 8,
-        "en": "In this situation, Sure, I need to read an article for my history class.",
-        "ar": "في هذا الموقف، بالتأكيد، أحتاج أن أقرأ مقالًا لدرس التاريخ.",
-        "context": "تجعل الجملة جزءًا من موقف واضح."
+        "en": "I need to read about ancient history.",
+        "ar": "أحتاج إلى القراءة عن التاريخ القديم.",
+        "context": "تحدد موضوع المقال."
       },
       {
         "id": 9,
-        "en": "Sure, I need to read an article for my history class, and everyone notices that.",
-        "ar": "بالتأكيد، أحتاج أن أقرأ مقالًا لدرس التاريخ، والجميع يلاحظ ذلك.",
-        "context": "تضيف ملاحظة أو نتيجة بعد الجملة."
+        "en": "I need to prepare for my history test.",
+        "ar": "أحتاج إلى التحضير لاختبار التاريخ.",
+        "context": "تشرح سبب الدراسة."
       },
       {
         "id": 10,
-        "en": "Sure, I need to read an article for my history class most of the time.",
-        "ar": "بالتأكيد، أحتاج أن أقرأ مقالًا لدرس التاريخ معظم الوقت.",
-        "context": "تضيف عبارة تكرار شائعة."
+        "en": "Sure, I need a quiet place to read.",
+        "ar": "بالتأكيد، أحتاج إلى مكان هادئ للقراءة.",
+        "context": "توضح سبب اختيار المكتبة."
       }
     ]
   }

@@ -10,84 +10,91 @@
     "wordMeanings": [
       {
         "term": "I",
-        "description": "ضمير المتكلم."
+        "description": "ضمير المتكلم المفرد."
       },
       {
         "term": "want",
-        "description": "فعل يدل على الرغبة."
+        "description": "أريد أو أرغب."
       },
       {
         "term": "to",
-        "description": "أداة تأتي قبل المصدر بعد أفعال مثل want."
+        "description": "تأتي قبل الفعل لتوضيح ما يريده المتكلم."
       },
       {
         "term": "continue",
-        "description": "فعل يعني يستمر أو يواصل."
+        "description": "أستمر أو أتابع."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن المتكلم يعبّر عن رغبة أو قرار عام وحالي. بعد want يأتي غالبًا المصدر: to continue.",
+    "grammarExplanations": [
+      {
+        "sentence": "I want to continue.",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "الجملة تعبّر عن رغبة المتكلم الحالية في المتابعة، مع to قبل الفعل المطلوب."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "I want to continue after lunch.",
-        "ar": "أريد أن أستمر بعد الغداء.",
-        "context": "تحدد وقت المتابعة."
+        "en": "I want to continue the lesson.",
+        "ar": "أريد أن أتابع الدرس.",
+        "context": "تقال عند الرغبة في إكمال درس."
       },
       {
         "id": 2,
         "en": "I want to continue learning.",
         "ar": "أريد أن أستمر في التعلم.",
-        "context": "تؤكد الرغبة في المواصلة."
+        "context": "تقال عند الرغبة في متابعة الدراسة."
       },
       {
         "id": 3,
-        "en": "I want to continue, but I need a break first.",
-        "ar": "أريد أن أستمر، لكنني أحتاج إلى استراحة أولًا.",
-        "context": "تعبر عن الرغبة مع ذكر حاجة قبلها."
+        "en": "She wants to continue the meeting.",
+        "ar": "هي تريد أن تتابع الاجتماع.",
+        "context": "تصف رغبة شخص في متابعة اجتماع."
       },
       {
         "id": 4,
-        "en": "I want to continue this lesson tomorrow.",
-        "ar": "أريد أن أتابع هذا الدرس غدًا.",
-        "context": "تحدد وقت الاستمرار في شيء معين."
+        "en": "We want to continue tomorrow.",
+        "ar": "نريد أن نتابع غدًا.",
+        "context": "تقال عند تأجيل المتابعة."
       },
       {
         "id": 5,
-        "en": "I want to continue with the next sentence.",
-        "ar": "أريد أن أستمر مع الجملة التالية.",
-        "context": "توضح ما تريد متابعته بالضبط."
+        "en": "I want to continue with this book.",
+        "ar": "أريد أن أتابع مع هذا الكتاب.",
+        "context": "تقال عند اختيار الاستمرار في مادة معينة."
       },
       {
         "id": 6,
-        "en": "I want to continue because this is useful.",
-        "ar": "أريد أن أستمر لأن هذا مفيد.",
-        "context": "تذكر سبب الرغبة في الاستمرار."
+        "en": "Do you want to continue?",
+        "ar": "هل تريد أن تتابع؟",
+        "context": "تُستخدم للسؤال عن رغبة شخص."
       },
       {
         "id": 7,
-        "en": "I want to continue until I understand everything.",
-        "ar": "أريد أن أستمر حتى أفهم كل شيء.",
-        "context": "تربط الاستمرار بهدف واضح."
+        "en": "He wants to continue the work.",
+        "ar": "هو يريد أن يواصل العمل.",
+        "context": "تصف رغبة شخص في إكمال مهمة."
       },
       {
         "id": 8,
-        "en": "I want to continue, even if it is difficult.",
-        "ar": "أريد أن أستمر حتى لو كان ذلك صعبًا.",
-        "context": "تعبر عن الإصرار رغم الصعوبة."
+        "en": "I do not want to continue now.",
+        "ar": "لا أريد أن أتابع الآن.",
+        "context": "تقال عند عدم الرغبة في المتابعة حاليًا."
       },
       {
         "id": 9,
-        "en": "I want to continue with you.",
-        "ar": "أريد أن أستمر معك.",
-        "context": "توضح الشخص أو الجهة التي تريد المتابعة معها."
+        "en": "They want to continue the trip.",
+        "ar": "هم يريدون متابعة الرحلة.",
+        "context": "تصف رغبة مجموعة في إكمال رحلة."
       },
       {
         "id": 10,
-        "en": "I want to continue now, not later.",
-        "ar": "أريد أن أستمر الآن، لا لاحقًا.",
-        "context": "توضح أن الرغبة مرتبطة بالوقت الحالي."
+        "en": "I want to continue after lunch.",
+        "ar": "أريد أن أتابع بعد الغداء.",
+        "context": "تقال عند تحديد وقت للمتابعة."
       }
     ]
   }

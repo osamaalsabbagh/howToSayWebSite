@@ -10,100 +10,107 @@
     "wordMeanings": [
       {
         "term": "Great",
-        "description": "صفة تعني عظيم."
+        "description": "كلمة تعبر عن الرضا أو الموافقة."
       },
       {
         "term": "I",
-        "description": "ضمير المتكلم."
+        "description": "ضمير المتكلم المفرد."
       },
       {
         "term": "will",
-        "description": "أداة مستقبل تدل على ما سيحدث لاحقًا."
+        "description": "يدل على المستقبل أو قرار المتكلم."
       },
       {
         "term": "be",
-        "description": "فعل أمر من be."
+        "description": "يعني أكون أو أتواجد بعد will."
       },
       {
         "term": "at",
-        "description": "حرف جر يعني عند أو في وقت/مكان محدد."
+        "description": "حرف يحدد المكان."
       },
       {
         "term": "the",
-        "description": "أداة تعريف تشير إلى شيء معروف أو محدد."
+        "description": "أداة تعريف لقسم محدد."
       },
       {
         "term": "reading",
-        "description": "صيغة مستمرة أو اسم من read وتعني القراءة أو يقرأ."
+        "description": "القراءة أو مكان مخصص لها."
       },
       {
         "term": "section",
-        "description": "اسم يعني قسم."
+        "description": "قسم أو جزء من مكان."
       }
     ],
-    "tense": "المستقبل البسيط",
-    "tenseEn": "Future Simple",
-    "tenseReason": "استُعمل المستقبل البسيط لأن الجملة تتحدث عن شيء سيحدث لاحقًا أو عن قرار أو توقع يخص المستقبل.",
+    "grammarExplanations": [
+      {
+        "sentence": "Great, I will be at the reading section.",
+        "explanation": {
+          "tense": "المستقبل البسيط",
+          "tenseEn": "Future Simple",
+          "reason": "استُعمل المستقبل البسيط لأن المتكلم يحدد مكان وجوده لاحقًا في المكتبة."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "Soon, Great, I will be at the reading section.",
-        "ar": "قريبًا، عظيم، سأكون في قسم القراءة.",
-        "context": "تؤكد قرب الحدث في المستقبل."
+        "en": "Great, I will be at the front desk.",
+        "ar": "عظيم، سأكون عند مكتب الاستقبال.",
+        "context": "تحدد مكان انتظارك."
       },
       {
         "id": 2,
-        "en": "Tomorrow, Great, I will be at the reading section.",
-        "ar": "غدًا، عظيم، سأكون في قسم القراءة.",
-        "context": "تربط الجملة بوقت مستقبلي محدد."
+        "en": "I will be at the reading section after lunch.",
+        "ar": "سأكون في قسم القراءة بعد الغداء.",
+        "context": "تحدد مكانًا ووقتًا."
       },
       {
         "id": 3,
-        "en": "Great, I will be at the reading section after lunch.",
-        "ar": "عظيم، سأكون في قسم القراءة بعد الغداء.",
-        "context": "تضيف توقيتًا مستقبليًا واضحًا."
+        "en": "I will be in the library.",
+        "ar": "سأكون في المكتبة.",
+        "context": "تخبر شخصًا بمكانك لاحقًا."
       },
       {
         "id": 4,
-        "en": "Great, I will be at the reading section if everything goes well.",
-        "ar": "عظيم، سأكون في قسم القراءة إذا سارت الأمور جيدًا.",
-        "context": "تجعل الحدث معتمدًا على شرط مستقبلي."
+        "en": "Great, I will meet you there.",
+        "ar": "عظيم، سأقابلك هناك.",
+        "context": "تؤكد مكان اللقاء."
       },
       {
         "id": 5,
-        "en": "Great, I will be at the reading section later today.",
-        "ar": "عظيم، سأكون في قسم القراءة لاحقًا اليوم.",
-        "context": "تربط الجملة بمستقبل قريب جدًا."
+        "en": "I will be at the history section.",
+        "ar": "سأكون في قسم التاريخ.",
+        "context": "تحدد قسمًا داخل المكتبة."
       },
       {
         "id": 6,
-        "en": "I think Great, I will be at the reading section.",
-        "ar": "أعتقد أن عظيم، سأكون في قسم القراءة.",
-        "context": "تضيف معنى التوقع أو الاعتقاد."
+        "en": "I will be near the window.",
+        "ar": "سأكون قرب النافذة.",
+        "context": "تصف مكان جلوسك."
       },
       {
         "id": 7,
-        "en": "Great, I will be at the reading section, so get ready.",
-        "ar": "عظيم، سأكون في قسم القراءة، لذا استعد.",
-        "context": "تضيف نتيجة أو استعدادًا لحدث مستقبلي."
+        "en": "Great, I will wait for you there.",
+        "ar": "عظيم، سأنتظرك هناك.",
+        "context": "تؤكد أنك ستنتظر في مكان محدد."
       },
       {
         "id": 8,
-        "en": "Next week, Great, I will be at the reading section.",
-        "ar": "الأسبوع القادم، عظيم، سأكون في قسم القراءة.",
-        "context": "تنقل الجملة إلى وقت مستقبلي أبعد قليلًا."
+        "en": "I will be at the table by the door.",
+        "ar": "سأكون عند الطاولة بجانب الباب.",
+        "context": "تعطي وصفًا دقيقًا لمكانك."
       },
       {
         "id": 9,
-        "en": "Great, I will be at the reading section when the time is right.",
-        "ar": "عظيم، سأكون في قسم القراءة عندما يحين الوقت المناسب.",
-        "context": "تربط الحدث المستقبلي بوقت مناسب غير محدد."
+        "en": "I will be there in ten minutes.",
+        "ar": "سأكون هناك خلال عشر دقائق.",
+        "context": "تحدد وقت وصول قريب."
       },
       {
         "id": 10,
-        "en": "Before long, Great, I will be at the reading section.",
-        "ar": "بعد وقت قصير، عظيم، سأكون في قسم القراءة.",
-        "context": "تضيف ظرفًا مستقبليًا عامًا."
+        "en": "Great, I will be ready.",
+        "ar": "عظيم، سأكون جاهزًا.",
+        "context": "تؤكد استعدادك للقاء أو الخطة."
       }
     ]
   }

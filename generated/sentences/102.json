@@ -10,80 +10,87 @@
     "wordMeanings": [
       {
         "term": "See",
-        "description": "فعل يعني يرى."
+        "description": "أراك، وتأتي هنا ضمن تعبير وداع."
       },
       {
         "term": "you",
-        "description": "الضمير الذي يعود على الشخص المخاطَب."
+        "description": "ضمير يشير إلى الشخص الذي أتحدث معه."
       },
       {
         "term": "tonight",
-        "description": "ظرف زمان يعني الليلة."
+        "description": "الليلة، أي في مساء أو ليل هذا اليوم."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "See you tonight.",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذا تعبير وداع ثابت يعني أن المتكلم يتوقع لقاء المخاطب الليلة، ولا يحمل زمنًا مستقلًا."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "People often say, \"See you tonight\" in situations like this.",
-        "ar": "يقول الناس كثيرًا: \"أراك الليلة\" في مواقف كهذه.",
-        "context": "تستخدم الجملة بوصفها تركيبًا شائعًا في موقف مشابه."
+        "en": "See you tomorrow.",
+        "ar": "أراك غدًا.",
+        "context": "تقال عند توديع شخص حتى اليوم التالي."
       },
       {
         "id": 2,
-        "en": "You can say, \"See you tonight\" when this happens.",
-        "ar": "يمكنك أن تقول: \"أراك الليلة\" عندما يحدث هذا.",
-        "context": "توضح أن الجملة مناسبة في موقف متكرر."
+        "en": "See you later tonight.",
+        "ar": "أراك لاحقًا الليلة.",
+        "context": "تقال عند توقع لقاء آخر في نفس الليلة."
       },
       {
         "id": 3,
-        "en": "I heard someone say, \"See you tonight\".",
-        "ar": "سمعت شخصًا يقول: \"أراك الليلة\".",
-        "context": "تجعل الجملة جزءًا من كلام سمعته من شخص آخر."
+        "en": "I will see you tonight.",
+        "ar": "سأراك الليلة.",
+        "context": "تقال عند تأكيد لقاء في المساء أو الليل."
       },
       {
         "id": 4,
-        "en": "The teacher used the sentence, \"See you tonight\" in class.",
-        "ar": "استخدم المعلم الجملة: \"أراك الليلة\" في الصف.",
-        "context": "تستخدم الجملة مثالًا تعليميًا في الصف."
+        "en": "Talk to you tonight.",
+        "ar": "أتحدث معك الليلة.",
+        "context": "تقال عند إنهاء محادثة مع نية التواصل ليلًا."
       },
       {
         "id": 5,
-        "en": "Many learners remember the sentence, \"See you tonight\" first.",
-        "ar": "يتذكر كثير من المتعلمين الجملة: \"أراك الليلة\" أولًا.",
-        "context": "تقدم الجملة بوصفها جملة تعليمية أساسية."
+        "en": "See you at dinner tonight.",
+        "ar": "أراك على العشاء الليلة.",
+        "context": "تقال عند توقع لقاء أثناء العشاء."
       },
       {
         "id": 6,
-        "en": "She said, \"See you tonight\" in a calm way.",
-        "ar": "قالت: \"أراك الليلة\" بطريقة هادئة.",
-        "context": "تجعل الجملة جزءًا من كلام مباشر في موقف عادي."
+        "en": "See you at the party tonight.",
+        "ar": "أراك في الحفلة الليلة.",
+        "context": "تقال عند الاتفاق على لقاء في حفلة."
       },
       {
         "id": 7,
-        "en": "He repeated, \"See you tonight\" more than once.",
-        "ar": "ردد: \"أراك الليلة\" أكثر من مرة.",
-        "context": "تضيف معنى التكرار لنفس الجملة."
+        "en": "See you after class tonight.",
+        "ar": "أراك بعد الدرس الليلة.",
+        "context": "تقال عند تحديد لقاء بعد درس مسائي."
       },
       {
         "id": 8,
-        "en": "At the right moment, someone might say, \"See you tonight\".",
-        "ar": "في اللحظة المناسبة، قد يقول شخص ما: \"أراك الليلة\".",
-        "context": "توضح أن الجملة مرتبطة بتوقيت مناسب في السياق."
+        "en": "See you at home tonight.",
+        "ar": "أراك في البيت الليلة.",
+        "context": "تقال عند توقع اللقاء في المنزل ليلًا."
       },
       {
         "id": 9,
-        "en": "I wrote down the sentence, \"See you tonight\" so I would remember it.",
-        "ar": "كتبت الجملة: \"أراك الليلة\" حتى أتذكرها.",
-        "context": "تعطي مثالًا على حفظ الجملة أو مراجعتها."
+        "en": "See you before the movie tonight.",
+        "ar": "أراك قبل الفيلم الليلة.",
+        "context": "تقال عند ترتيب لقاء قبل مشاهدة فيلم."
       },
       {
         "id": 10,
-        "en": "It is useful to know when to say, \"See you tonight\".",
-        "ar": "من المفيد أن تعرف متى تقول: \"أراك الليلة\".",
-        "context": "تركز على معرفة الوقت المناسب لاستخدام الجملة."
+        "en": "Goodbye, see you tonight.",
+        "ar": "وداعًا، أراك الليلة.",
+        "context": "تقال عند الوداع مع موعد لقاء في الليلة نفسها."
       }
     ]
   }

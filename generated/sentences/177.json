@@ -10,88 +10,95 @@
     "wordMeanings": [
       {
         "term": "How",
-        "description": "أداة سؤال."
+        "description": "كيف، وتستخدم للسؤال عن الطريقة."
       },
       {
         "term": "do",
-        "description": "فعل مساعد يُستعمل لتكوين النفي والسؤال في المضارع البسيط."
+        "description": "تأتي في السؤال مع المتكلم لتكوين سؤال في الحاضر."
       },
       {
         "term": "I",
-        "description": "ضمير المتكلم."
+        "description": "أنا، وتشير إلى المتكلم."
       },
       {
         "term": "get",
-        "description": "فعل شائع يعني يحصل على أو يصل أو يصبح حسب السياق."
+        "description": "أصل أو أذهب إلى مكان."
       },
       {
         "term": "there",
-        "description": "ظرف مكان يعني هناك."
+        "description": "هناك، أي المكان المقصود."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "How do I get there?",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "يستخدم السؤال المضارع البسيط مع كيف للسؤال عن طريقة عامة للوصول إلى مكان، وليس عن حدث يحدث الآن."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "You can ask, \"How do I get there?\" when you need information.",
-        "ar": "يمكنك أن تسأل: \"كيف أصل إلى هناك؟\" عندما تحتاج إلى معلومة.",
-        "context": "تستعمل الجملة كسؤال مباشر للحصول على معلومة."
+        "en": "How do I get there?",
+        "ar": "كيف أصل إلى هناك؟",
+        "context": "تقال عند طلب إرشادات إلى مكان."
       },
       {
         "id": 2,
-        "en": "Many people ask, \"How do I get there?\" in this situation.",
-        "ar": "يسأل كثير من الناس: \"كيف أصل إلى هناك؟\" في هذا الموقف.",
-        "context": "توضح أن هذا سؤال شائع في موقف مشابه."
+        "en": "How do I get to the station?",
+        "ar": "كيف أصل إلى المحطة؟",
+        "context": "تقال عند طلب طريق إلى محطة."
       },
       {
         "id": 3,
-        "en": "I asked, \"How do I get there?\" because I was not sure.",
-        "ar": "سألت: \"كيف أصل إلى هناك؟\" لأنني لم أكن متأكدًا.",
-        "context": "تضيف سببًا لطرح السؤال."
+        "en": "How do I get to the airport?",
+        "ar": "كيف أصل إلى المطار؟",
+        "context": "تقال عند طلب اتجاهات إلى المطار."
       },
       {
         "id": 4,
-        "en": "She asked politely, \"How do I get there?\"",
-        "ar": "سألت بأدب: \"كيف أصل إلى هناك؟\".",
-        "context": "تبين أن السؤال قيل بطريقة مهذبة."
+        "en": "How do I get home?",
+        "ar": "كيف أصل إلى البيت؟",
+        "context": "تقال عند البحث عن طريق العودة إلى المنزل."
       },
       {
         "id": 5,
-        "en": "At work, someone may ask, \"How do I get there?\"",
-        "ar": "في العمل، قد يسأل شخص ما: \"كيف أصل إلى هناك؟\".",
-        "context": "تضع السؤال في سياق مهني أو عملي."
+        "en": "How do I get downtown?",
+        "ar": "كيف أصل إلى وسط المدينة؟",
+        "context": "تقال عند طلب طريق إلى وسط المدينة."
       },
       {
         "id": 6,
-        "en": "Before deciding, ask: \"How do I get there?\"",
-        "ar": "قبل أن تقرر، اسأل: \"كيف أصل إلى هناك؟\".",
-        "context": "تستخدم السؤال قبل اتخاذ قرار."
+        "en": "How do I get to your office?",
+        "ar": "كيف أصل إلى مكتبك؟",
+        "context": "تقال عند ترتيب زيارة لمكتب شخص."
       },
       {
         "id": 7,
-        "en": "The student asked, \"How do I get there?\" in class.",
-        "ar": "سأل الطالب: \"كيف أصل إلى هناك؟\" في الصف.",
-        "context": "تجعل الجملة جزءًا من موقف تعليمي."
+        "en": "How do I get to the hotel?",
+        "ar": "كيف أصل إلى الفندق؟",
+        "context": "تقال عند البحث عن الفندق."
       },
       {
         "id": 8,
-        "en": "While traveling, you can ask, \"How do I get there?\"",
-        "ar": "أثناء السفر، يمكنك أن تسأل: \"كيف أصل إلى هناك؟\".",
-        "context": "تربط السؤال بموقف السفر أو التنقل."
+        "en": "How do I get to this address?",
+        "ar": "كيف أصل إلى هذا العنوان؟",
+        "context": "تقال عند طلب إرشاد إلى عنوان مكتوب."
       },
       {
         "id": 9,
-        "en": "He asked me, \"How do I get there?\" again.",
-        "ar": "سألني: \"كيف أصل إلى هناك؟\" مرة أخرى.",
-        "context": "تضيف معنى التكرار لنفس السؤال."
+        "en": "How do I get back there?",
+        "ar": "كيف أعود إلى هناك؟",
+        "context": "تقال عند طلب طريق العودة إلى مكان."
       },
       {
         "id": 10,
-        "en": "If you are not sure, ask: \"How do I get there?\"",
-        "ar": "إذا لم تكن متأكدًا، فاسأل: \"كيف أصل إلى هناك؟\".",
-        "context": "توضح أن السؤال مناسب عند عدم التأكد."
+        "en": "How do I get there by bus?",
+        "ar": "كيف أصل إلى هناك بالحافلة؟",
+        "context": "تقال عند طلب طريقة وصول باستخدام الحافلة."
       }
     ]
   }

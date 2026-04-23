@@ -10,84 +10,91 @@
     "wordMeanings": [
       {
         "term": "He",
-        "description": "الضمير الذي يعود على شخص مفرد مذكر."
+        "description": "ضمير يشير إلى رجل أو ولد معروف من السياق."
       },
       {
         "term": "is",
-        "description": "فعل be في الحاضر."
+        "description": "صيغة تأتي مع المفرد الغائب وتربط الشخص بوصف أو حالة."
       },
       {
         "term": "very",
-        "description": "كلمة تقوي المعنى وتزيد شدة الصفة."
+        "description": "كلمة تقوي الصفة وتجعلها بدرجة كبيرة."
       },
       {
         "term": "annoying",
-        "description": "صفة تعني مزعج."
+        "description": "مزعج، أي يسبب الضيق أو الانزعاج."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تصف صفة أو انطباعًا متكررًا عن الشخص، لا حدثًا مؤقتًا واحدًا فقط.",
+    "grammarExplanations": [
+      {
+        "sentence": "He is very annoying.",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "تصف الجملة حالة أو صفة حالية لشخص، لذلك تستخدم المضارع البسيط مع is، وتأتي very لتقوية الصفة."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "He is very annoying in class.",
-        "ar": "هو مزعج جدًا في الصف.",
-        "context": "تصف سلوكًا متكررًا."
+        "en": "The noise is very annoying.",
+        "ar": "الضجيج مزعج جدًا.",
+        "context": "تقال عند الشكوى من صوت يسبب الانزعاج."
       },
       {
         "id": 2,
-        "en": "That sound is very annoying.",
-        "ar": "ذلك الصوت مزعج جدًا.",
-        "context": "تستعمل الصفة أيضًا مع الأشياء لا الأشخاص فقط."
+        "en": "This problem is very annoying.",
+        "ar": "هذه المشكلة مزعجة جدًا.",
+        "context": "تقال عند التذمر من مشكلة متكررة."
       },
       {
         "id": 3,
-        "en": "He is very annoying when he interrupts people.",
-        "ar": "هو مزعج جدًا عندما يقاطع الناس.",
-        "context": "تذكر سبب الإزعاج."
+        "en": "She is very kind.",
+        "ar": "هي لطيفة جدًا.",
+        "context": "تقال لوصف شخص بصفة قوية."
       },
       {
         "id": 4,
-        "en": "He is very annoying today.",
-        "ar": "هو مزعج جدًا اليوم.",
-        "context": "تصف حالته أو تصرفه في يوم معين."
+        "en": "He is very loud.",
+        "ar": "هو صاخب جدًا.",
+        "context": "تقال عند الشكوى من شخص يتكلم بصوت عال."
       },
       {
         "id": 5,
-        "en": "He is very annoying, but he does not notice it.",
-        "ar": "هو مزعج جدًا، لكنه لا يلاحظ ذلك.",
-        "context": "تعبر عن رأيك في سلوك شخص."
+        "en": "The delay is very annoying.",
+        "ar": "التأخير مزعج جدًا.",
+        "context": "تقال عند الانزعاج من انتظار طويل."
       },
       {
         "id": 6,
-        "en": "He is very annoying in meetings.",
-        "ar": "هو مزعج جدًا في الاجتماعات.",
-        "context": "تحدد السياق الذي يظهر فيه الإزعاج."
+        "en": "This sound is very annoying.",
+        "ar": "هذا الصوت مزعج جدًا.",
+        "context": "تقال عند سماع صوت يسبب الضيق."
       },
       {
         "id": 7,
-        "en": "He is very annoying when he speaks loudly.",
-        "ar": "هو مزعج جدًا عندما يتحدث بصوت عالٍ.",
-        "context": "تربط الإزعاج بعادة محددة."
+        "en": "My phone is very slow.",
+        "ar": "هاتفي بطيء جدًا.",
+        "context": "تقال لوصف جهاز يسبب الإزعاج بسبب بطئه."
       },
       {
         "id": 8,
-        "en": "The ad is very annoying.",
-        "ar": "الإعلان مزعج جدًا.",
-        "context": "تستخدم الصفة مع أشياء غير الأشخاص."
+        "en": "The message is very confusing.",
+        "ar": "الرسالة محيرة جدًا.",
+        "context": "تقال عند وصف رسالة غير واضحة."
       },
       {
         "id": 9,
-        "en": "He is very annoying sometimes.",
-        "ar": "هو مزعج جدًا أحيانًا.",
-        "context": "تخفف الحكم بجعله غير دائم تمامًا."
+        "en": "His behavior is very annoying.",
+        "ar": "تصرفه مزعج جدًا.",
+        "context": "تقال عند الشكوى من طريقة تصرف شخص."
       },
       {
         "id": 10,
-        "en": "He is very annoying, so people avoid him.",
-        "ar": "هو مزعج جدًا، لذلك يتجنبه الناس.",
-        "context": "تذكر نتيجة السلوك المزعج."
+        "en": "The app is very useful.",
+        "ar": "التطبيق مفيد جدًا.",
+        "context": "تقال لوصف شيء بصفة قوية وإيجابية."
       }
     ]
   }

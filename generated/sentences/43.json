@@ -10,84 +10,91 @@
     "wordMeanings": [
       {
         "term": "I",
-        "description": "ضمير المتكلم."
+        "description": "ضمير المتكلم ويشير إلى الشخص الذي يتحدث."
       },
       {
         "term": "will",
-        "description": "أداة مستقبل تدل على ما سيحدث لاحقًا."
+        "description": "كلمة تدل هنا على قرار أو قبول."
       },
       {
         "term": "take",
-        "description": "فعل يعني يأخذ أو يستغرق أو يصطحب حسب السياق."
+        "description": "آخذ أو أقبل الحصول على شيء."
       },
       {
         "term": "it",
-        "description": "ضمير يعود على الشيء أو الجملة التي قيلت."
+        "description": "ضمير يشير إلى شيء معروف من السياق."
       }
     ],
-    "tense": "المستقبل البسيط",
-    "tenseEn": "Future Simple",
-    "tenseReason": "استُعمل المستقبل البسيط لأن الجملة تتحدث عن شيء سيحدث لاحقًا أو عن قرار أو توقع يخص المستقبل.",
+    "grammarExplanations": [
+      {
+        "sentence": "I will take it.",
+        "explanation": {
+          "tense": "المستقبل البسيط",
+          "tenseEn": "Future Simple",
+          "reason": "تستخدم will مع الفعل الأساسي للتعبير عن قرار فوري أو قبول أخذ شيء معروض."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "People often say, \"I will take it\" in situations like this.",
-        "ar": "يقول الناس كثيرًا: \"سآخذه\" في مواقف كهذه.",
-        "context": "تستخدم الجملة بوصفها تركيبًا شائعًا في موقف مشابه."
+        "en": "I will take this one.",
+        "ar": "سآخذ هذا.",
+        "context": "تقال عند اختيار شيء من بين خيارات."
       },
       {
         "id": 2,
-        "en": "You can say, \"I will take it\" when this happens.",
-        "ar": "يمكنك أن تقول: \"سآخذه\" عندما يحدث هذا.",
-        "context": "توضح أن الجملة مناسبة في موقف متكرر."
+        "en": "She will take the blue bag.",
+        "ar": "ستأخذ الحقيبة الزرقاء.",
+        "context": "تقال عند تحديد خيار ستأخذه امرأة أو فتاة."
       },
       {
         "id": 3,
-        "en": "I heard someone say, \"I will take it\".",
-        "ar": "سمعت شخصًا يقول: \"سآخذه\".",
-        "context": "تجعل الجملة جزءًا من كلام سمعته من شخص آخر."
+        "en": "We will take two tickets.",
+        "ar": "سنأخذ تذكرتين.",
+        "context": "تقال عند شراء أو طلب تذاكر."
       },
       {
         "id": 4,
-        "en": "The teacher used the sentence, \"I will take it\" in class.",
-        "ar": "استخدم المعلم الجملة: \"سآخذه\" في الصف.",
-        "context": "تستخدم الجملة مثالًا تعليميًا في الصف."
+        "en": "He will take the job.",
+        "ar": "سيقبل الوظيفة.",
+        "context": "تقال عند قبول فرصة عمل."
       },
       {
         "id": 5,
-        "en": "Many learners remember the sentence, \"I will take it\" first.",
-        "ar": "يتذكر كثير من المتعلمين الجملة: \"سآخذه\" أولًا.",
-        "context": "تقدم الجملة بوصفها جملة تعليمية أساسية."
+        "en": "I will take the small room.",
+        "ar": "سآخذ الغرفة الصغيرة.",
+        "context": "تقال عند اختيار غرفة."
       },
       {
         "id": 6,
-        "en": "She said, \"I will take it\" in a calm way.",
-        "ar": "قالت: \"سآخذه\" بطريقة هادئة.",
-        "context": "تجعل الجملة جزءًا من كلام مباشر في موقف عادي."
+        "en": "They will take the bus.",
+        "ar": "سيأخذون الحافلة.",
+        "context": "تقال عند اختيار وسيلة نقل."
       },
       {
         "id": 7,
-        "en": "He repeated, \"I will take it\" more than once.",
-        "ar": "ردد: \"سآخذه\" أكثر من مرة.",
-        "context": "تضيف معنى التكرار لنفس الجملة."
+        "en": "I will take your advice.",
+        "ar": "سآخذ بنصيحتك.",
+        "context": "تقال عند قبول نصيحة شخص."
       },
       {
         "id": 8,
-        "en": "At the right moment, someone might say, \"I will take it\".",
-        "ar": "في اللحظة المناسبة، قد يقول شخص ما: \"سآخذه\".",
-        "context": "توضح أن الجملة مرتبطة بتوقيت مناسب في السياق."
+        "en": "My sister will take the last piece.",
+        "ar": "ستأخذ أختي القطعة الأخيرة.",
+        "context": "تقال عند قبول شيء متبق."
       },
       {
         "id": 9,
-        "en": "I wrote down the sentence, \"I will take it\" so I would remember it.",
-        "ar": "كتبت الجملة: \"سآخذه\" حتى أتذكرها.",
-        "context": "تعطي مثالًا على حفظ الجملة أو مراجعتها."
+        "en": "I will take a coffee.",
+        "ar": "سآخذ قهوة.",
+        "context": "تقال عند طلب مشروب."
       },
       {
         "id": 10,
-        "en": "It is useful to know when to say, \"I will take it\".",
-        "ar": "من المفيد أن تعرف متى تقول: \"سآخذه\".",
-        "context": "تركز على معرفة الوقت المناسب لاستخدام الجملة."
+        "en": "The child will take the red toy.",
+        "ar": "سيأخذ الطفل اللعبة الحمراء.",
+        "context": "تقال عند اختيار طفل للعبة."
       }
     ]
   }

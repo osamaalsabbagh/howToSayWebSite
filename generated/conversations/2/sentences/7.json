@@ -14,15 +14,15 @@
       },
       {
         "term": "Do",
-        "description": "فعل مساعد يُستعمل لتكوين النفي والسؤال في المضارع البسيط."
+        "description": "تبدأ سؤالًا في المضارع البسيط عن امتلاك الشخص لنصيحة."
       },
       {
         "term": "you",
-        "description": "الضمير الذي يعود على الشخص المخاطَب."
+        "description": "ضمير المخاطب."
       },
       {
         "term": "have",
-        "description": "فعل يعني يملك، ويأتي أيضًا كفعل مساعد."
+        "description": "يعني لديك أو تملك، والمقصود هنا امتلاك نصيحة يمكن تقديمها."
       },
       {
         "term": "any",
@@ -34,7 +34,7 @@
       },
       {
         "term": "for",
-        "description": "حرف جر يعني لـ أو من أجل."
+        "description": "حرف جر يعني لـ أو من أجل أو لمدة حسب السياق."
       },
       {
         "term": "someone",
@@ -42,7 +42,7 @@
       },
       {
         "term": "who",
-        "description": "أداة سؤال عن الشخص."
+        "description": "تربط كلمة شخص بالوصف الذي بعدها."
       },
       {
         "term": "wants",
@@ -50,7 +50,7 @@
       },
       {
         "term": "to",
-        "description": "أداة تأتي قبل المصدر بعد أفعال مثل want."
+        "description": "تأتي كثيرًا قبل المصدر، وقد تعني إلى حسب التركيب."
       },
       {
         "term": "start",
@@ -58,72 +58,87 @@
       },
       {
         "term": "acting",
-        "description": "فعل يعني التمثيل."
+        "description": "يعني التمثيل بوصفه نشاطًا أو مجالًا يريد الشخص البدء فيه."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "Really?",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذا الجزء تعبير قصير أو غير مكتمل فعليًا، لذلك لا نضع له زمنًا مستقلًا."
+        }
+      },
+      {
+        "sentence": "Do you have any advice for someone who wants to start acting?",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُعمل المضارع البسيط لأن هذا الجزء يصف حالة أو حقيقة أو معنى حاضرًا في سياق الكلام."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "You can ask, \"Really? Do you have any advice for someone who wants to start acting?\" when you need information.",
-        "ar": "يمكنك أن تسأل: \"حقًا؟ هل لديك أي نصيحة لشخص يريد أن يبدأ التمثيل؟\" عندما تحتاج إلى معلومة.",
-        "context": "تستعمل الجملة كسؤال مباشر للحصول على معلومة."
+        "en": "Do you have any advice for someone who wants to start acting?",
+        "ar": "هل لديك أي نصيحة لشخص يريد أن يبدأ التمثيل؟",
+        "context": "صيغة مباشرة بدون تعبير المفاجأة في البداية."
       },
       {
         "id": 2,
-        "en": "Many people ask, \"Really? Do you have any advice for someone who wants to start acting?\" in this situation.",
-        "ar": "يسأل كثير من الناس: \"حقًا؟ هل لديك أي نصيحة لشخص يريد أن يبدأ التمثيل؟\" في هذا الموقف.",
-        "context": "توضح أن هذا سؤال شائع في موقف مشابه."
+        "en": "Really? Do you have any advice for someone who wants to start singing?",
+        "ar": "حقًا؟ هل لديك أي نصيحة لشخص يريد أن يبدأ الغناء؟",
+        "context": "نفس السؤال مع مجال فني مختلف."
       },
       {
         "id": 3,
-        "en": "I asked, \"Really? Do you have any advice for someone who wants to start acting?\" because I was not sure.",
-        "ar": "سألت: \"حقًا؟ هل لديك أي نصيحة لشخص يريد أن يبدأ التمثيل؟\" لأنني لم أكن متأكدًا.",
-        "context": "تضيف سببًا لطرح السؤال."
+        "en": "Do you have any advice for someone who wants to become an actor?",
+        "ar": "هل لديك أي نصيحة لشخص يريد أن يصبح ممثلًا؟",
+        "context": "طريقة أخرى للتعبير عن الدخول إلى مجال التمثيل."
       },
       {
         "id": 4,
-        "en": "She asked politely, \"Really? Do you have any advice for someone who wants to start acting?\"",
-        "ar": "سألت بأدب: \"حقًا؟ هل لديك أي نصيحة لشخص يريد أن يبدأ التمثيل؟\".",
-        "context": "تبين أن السؤال قيل بطريقة مهذبة."
+        "en": "Do you have any advice for someone who wants to study acting?",
+        "ar": "هل لديك أي نصيحة لشخص يريد دراسة التمثيل؟",
+        "context": "تركز على دراسة المجال قبل العمل فيه."
       },
       {
         "id": 5,
-        "en": "At work, someone may ask, \"Really? Do you have any advice for someone who wants to start acting?\"",
-        "ar": "في العمل، قد يسأل شخص ما: \"حقًا؟ هل لديك أي نصيحة لشخص يريد أن يبدأ التمثيل؟\".",
-        "context": "تضع السؤال في سياق مهني أو عملي."
+        "en": "Really? Do you have any advice for a beginner actor?",
+        "ar": "حقًا؟ هل لديك أي نصيحة لممثل مبتدئ؟",
+        "context": "صيغة أقصر للسؤال عن نصيحة لشخص في البداية."
       },
       {
         "id": 6,
-        "en": "Before deciding, ask: \"Really? Do you have any advice for someone who wants to start acting?\"",
-        "ar": "قبل أن تقرر، اسأل: \"حقًا؟ هل لديك أي نصيحة لشخص يريد أن يبدأ التمثيل؟\".",
-        "context": "تستخدم السؤال قبل اتخاذ قرار."
+        "en": "Do you have any advice for someone who wants to start a new career?",
+        "ar": "هل لديك أي نصيحة لشخص يريد أن يبدأ مسارًا مهنيًا جديدًا؟",
+        "context": "تستخدم نفس التركيب في موضوع تغيير العمل."
       },
       {
         "id": 7,
-        "en": "The student asked, \"Really? Do you have any advice for someone who wants to start acting?\" in class.",
-        "ar": "سأل الطالب: \"حقًا؟ هل لديك أي نصيحة لشخص يريد أن يبدأ التمثيل؟\" في الصف.",
-        "context": "تجعل الجملة جزءًا من موقف تعليمي."
+        "en": "Really? Do you have any advice for someone who wants to work in movies?",
+        "ar": "حقًا؟ هل لديك أي نصيحة لشخص يريد العمل في الأفلام؟",
+        "context": "توسع السؤال إلى العمل في مجال الأفلام عمومًا."
       },
       {
         "id": 8,
-        "en": "While traveling, you can ask, \"Really? Do you have any advice for someone who wants to start acting?\"",
-        "ar": "أثناء السفر، يمكنك أن تسأل: \"حقًا؟ هل لديك أي نصيحة لشخص يريد أن يبدأ التمثيل؟\".",
-        "context": "تربط السؤال بموقف السفر أو التنقل."
+        "en": "Do you have any advice for someone who wants to start acting late in life?",
+        "ar": "هل لديك أي نصيحة لشخص يريد أن يبدأ التمثيل في وقت متأخر من حياته؟",
+        "context": "تسأل عن حالة شخص يبدأ المجال بعد سن متقدمة."
       },
       {
         "id": 9,
-        "en": "He asked me, \"Really? Do you have any advice for someone who wants to start acting?\" again.",
-        "ar": "سألني: \"حقًا؟ هل لديك أي نصيحة لشخص يريد أن يبدأ التمثيل؟\" مرة أخرى.",
-        "context": "تضيف معنى التكرار لنفس السؤال."
+        "en": "Do you have any advice for someone who wants to start acting on stage?",
+        "ar": "هل لديك أي نصيحة لشخص يريد أن يبدأ التمثيل على المسرح؟",
+        "context": "تحدد نوع التمثيل المقصود."
       },
       {
         "id": 10,
-        "en": "If you are not sure, ask: \"Really? Do you have any advice for someone who wants to start acting?\"",
-        "ar": "إذا لم تكن متأكدًا، فاسأل: \"حقًا؟ هل لديك أي نصيحة لشخص يريد أن يبدأ التمثيل؟\".",
-        "context": "توضح أن السؤال مناسب عند عدم التأكد."
+        "en": "Really? Do you have any advice for someone who wants to start acting without experience?",
+        "ar": "حقًا؟ هل لديك أي نصيحة لشخص يريد أن يبدأ التمثيل دون خبرة؟",
+        "context": "تسأل عن حالة شخص ليس لديه خبرة سابقة."
       }
     ]
   }

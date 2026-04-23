@@ -10,96 +10,111 @@
     "wordMeanings": [
       {
         "term": "Alright",
-        "description": "كلمة ترتبط بمعنى تمام."
+        "description": "كلمة موافقة أو انتقال للخطوة التالية."
       },
       {
         "term": "I",
-        "description": "ضمير المتكلم."
+        "description": "ضمير المتكلم المفرد."
       },
       {
         "term": "will",
-        "description": "أداة مستقبل تدل على ما سيحدث لاحقًا."
+        "description": "تدل على قرار فوري أو وعد بفعل شيء."
       },
       {
         "term": "start",
-        "description": "فعل يعني يبدأ."
+        "description": "يبدأ."
       },
       {
         "term": "tracking",
-        "description": "فعل يعني أبدأ."
+        "description": "يتابع حالة شيء أو مكانه."
       },
       {
         "term": "it",
-        "description": "ضمير يعود على الشيء أو الجملة التي قيلت."
+        "description": "ضمير يعود على الطلب أو الطرد."
       },
       {
         "term": "now",
-        "description": "ظرف زمان يعني الآن."
+        "description": "في هذه اللحظة."
       }
     ],
-    "tense": "المستقبل البسيط",
-    "tenseEn": "Future Simple",
-    "tenseReason": "استُعمل المستقبل البسيط لأن الجملة تتحدث عن شيء سيحدث لاحقًا أو عن قرار أو توقع يخص المستقبل.",
+    "grammarExplanations": [
+      {
+        "sentence": "Alright",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "كلمة موافقة أو انتقال ولا تحمل زمنًا مستقلًا."
+        }
+      },
+      {
+        "sentence": "I will start tracking it now",
+        "explanation": {
+          "tense": "المستقبل البسيط",
+          "tenseEn": "Future Simple",
+          "reason": "استُخدم will للتعبير عن قرار فوري سيبدأ بعد لحظة الكلام."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "Soon, Alright, I will start tracking it now.",
-        "ar": "قريبًا، تمام، سوف أبدأ تتبعه الآن.",
-        "context": "تؤكد قرب الحدث في المستقبل."
+        "en": "Alright, I will check it now.",
+        "ar": "تمام، سوف أتحقق منه الآن.",
+        "context": "يُستخدم عند بدء فحص شيء فورًا."
       },
       {
         "id": 2,
-        "en": "Tomorrow, Alright, I will start tracking it now.",
-        "ar": "غدًا، تمام، سوف أبدأ تتبعه الآن.",
-        "context": "تربط الجملة بوقت مستقبلي محدد."
+        "en": "Alright, I will start the search now.",
+        "ar": "تمام، سوف أبدأ البحث الآن.",
+        "context": "يُستخدم عند بدء البحث عن معلومة."
       },
       {
         "id": 3,
-        "en": "Alright, I will start tracking it now after lunch.",
-        "ar": "تمام، سوف أبدأ تتبعه الآن بعد الغداء.",
-        "context": "تضيف توقيتًا مستقبليًا واضحًا."
+        "en": "Alright, I will call the driver now.",
+        "ar": "تمام، سوف أتصل بالسائق الآن.",
+        "context": "يُستخدم عند اتخاذ إجراء مباشر."
       },
       {
         "id": 4,
-        "en": "Alright, I will start tracking it now if everything goes well.",
-        "ar": "تمام، سوف أبدأ تتبعه الآن إذا سارت الأمور جيدًا.",
-        "context": "تجعل الحدث معتمدًا على شرط مستقبلي."
+        "en": "Alright, I will update your order now.",
+        "ar": "تمام، سوف أحدث طلبك الآن.",
+        "context": "يُستخدم عند تعديل طلب عميل."
       },
       {
         "id": 5,
-        "en": "Alright, I will start tracking it now later today.",
-        "ar": "تمام، سوف أبدأ تتبعه الآن لاحقًا اليوم.",
-        "context": "تربط الجملة بمستقبل قريب جدًا."
+        "en": "Alright, I will send the message now.",
+        "ar": "تمام، سوف أرسل الرسالة الآن.",
+        "context": "يُستخدم عند الموافقة على إرسال رسالة."
       },
       {
         "id": 6,
-        "en": "I think Alright, I will start tracking it now.",
-        "ar": "أعتقد أن تمام، سوف أبدأ تتبعه الآن.",
-        "context": "تضيف معنى التوقع أو الاعتقاد."
+        "en": "Alright, I will start tracking the package.",
+        "ar": "تمام، سوف أبدأ تتبع الطرد.",
+        "context": "يُستخدم عند متابعة شحنة."
       },
       {
         "id": 7,
-        "en": "Alright, I will start tracking it now, so get ready.",
-        "ar": "تمام، سوف أبدأ تتبعه الآن، لذا استعد.",
-        "context": "تضيف نتيجة أو استعدادًا لحدث مستقبلي."
+        "en": "Alright, I will open the file now.",
+        "ar": "تمام، سوف أفتح الملف الآن.",
+        "context": "يُستخدم عند بدء مراجعة ملف."
       },
       {
         "id": 8,
-        "en": "Next week, Alright, I will start tracking it now.",
-        "ar": "الأسبوع القادم، تمام، سوف أبدأ تتبعه الآن.",
-        "context": "تنقل الجملة إلى وقت مستقبلي أبعد قليلًا."
+        "en": "Alright, I will write it down now.",
+        "ar": "تمام، سوف أكتبه الآن.",
+        "context": "يُستخدم عند تسجيل معلومة."
       },
       {
         "id": 9,
-        "en": "Alright, I will start tracking it now when the time is right.",
-        "ar": "تمام، سوف أبدأ تتبعه الآن عندما يحين الوقت المناسب.",
-        "context": "تربط الحدث المستقبلي بوقت مناسب غير محدد."
+        "en": "Alright, I will ask the team now.",
+        "ar": "تمام، سوف أسأل الفريق الآن.",
+        "context": "يُستخدم عند طلب معلومات من فريق."
       },
       {
         "id": 10,
-        "en": "Before long, Alright, I will start tracking it now.",
-        "ar": "بعد وقت قصير، تمام، سوف أبدأ تتبعه الآن.",
-        "context": "تضيف ظرفًا مستقبليًا عامًا."
+        "en": "Alright, I will review the address now.",
+        "ar": "تمام، سوف أراجع العنوان الآن.",
+        "context": "يُستخدم عند التأكد من عنوان."
       }
     ]
   }

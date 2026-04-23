@@ -1,81 +1,89 @@
 {
-  "schemaVersion": 1,
-  "id": 93,
-  "sentence": {
-    "en": "Okay.",
-    "ar": "حسنًا.",
-    "context": "أبدِ القبول أو الموافقة."
-  },
-  "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Okay",
-        "description": "تدل على القبول أو الفهم أو الموافقة، ويتحدد معناها الدقيق من النبرة والسياق."
-      }
-    ],
-    "tense": null,
-    "tenseReason": "استُعملت لأنها رد سريع يبيّن القبول أو الفهم، لا لأنها تصف حدثًا زمنيًا.",
-    "examples": [
-      {
-        "id": 1,
-        "en": "Okay, let us start.",
-        "ar": "حسنًا، لنبدأ.",
-        "context": "توافق على البدء."
-      },
-      {
-        "id": 2,
-        "en": "Okay, I understand now.",
-        "ar": "حسنًا، أنا أفهم الآن.",
-        "context": "تبيّن أنك فهمت."
-      },
-      {
-        "id": 3,
-        "en": "Okay, I will wait here.",
-        "ar": "حسنًا، سأنتظر هنا.",
-        "context": "توافق على تعليمات أُعطيت لك."
-      },
-      {
-        "id": 4,
-        "en": "Okay, that sounds good.",
-        "ar": "حسنًا، هذا يبدو جيدًا.",
-        "context": "تقبل اقتراحًا أو خطة."
-      },
-      {
-        "id": 5,
-        "en": "Okay, I can do that.",
-        "ar": "حسنًا، أستطيع فعل ذلك.",
-        "context": "توافق على طلب أو مهمة."
-      },
-      {
-        "id": 6,
-        "en": "Okay, see you tomorrow.",
-        "ar": "حسنًا، أراك غدًا.",
-        "context": "تنهي الحديث بعد اتفاق."
-      },
-      {
-        "id": 7,
-        "en": "Okay, give me a minute.",
-        "ar": "حسنًا، أعطني دقيقة.",
-        "context": "توافق مع طلب مهلة قصيرة."
-      },
-      {
-        "id": 8,
-        "en": "Okay, tell me more.",
-        "ar": "حسنًا، أخبرني المزيد.",
-        "context": "تُظهر الاستعداد للاستماع."
-      },
-      {
-        "id": 9,
-        "en": "Okay, we are ready now.",
-        "ar": "حسنًا، نحن جاهزون الآن.",
-        "context": "تعلن الانتقال للخطوة التالية."
-      },
-      {
-        "id": 10,
-        "en": "Okay, I got it.",
-        "ar": "حسنًا، فهمت.",
-        "context": "تظهر أنك استوعبت المقصود."
-      }
-    ]
-  }
+	"schemaVersion": 1,
+	"id": 93,
+	"sentence": {
+		"en": "Okay.",
+		"ar": "حسنًا.",
+		"context": "أبدِ القبول أو الموافقة."
+	},
+	"lesson": {
+		"wordMeanings": [
+			{
+				"term": "Okay",
+				"description": "كلمة تُستخدم لإظهار القبول أو الموافقة أو الفهم"
+			}
+		],
+		"grammarExplanations": [
+			{
+				"sentence": "Okay.",
+				"explanation": {
+					"tense": null,
+					"tenseEn": null,
+					"reason": "هذه كلمة تُستخدم كإجابة قصيرة للتعبير عن القبول أو الموافقة أو الفهم، ولا ترتبط بزمن معين"
+				}
+			}
+		],
+		"examples": [
+			{
+				"id": 1,
+				"en": "Okay, I understand.",
+				"ar": "حسنًا، أنا أفهم.",
+				"context": "إظهار الفهم بعد شرح"
+			},
+			{
+				"id": 2,
+				"en": "Okay, I will do it.",
+				"ar": "حسنًا، سأفعل ذلك.",
+				"context": "الموافقة على تنفيذ طلب"
+			},
+			{
+				"id": 3,
+				"en": "Okay, that sounds good.",
+				"ar": "حسنًا، يبدو ذلك جيدًا.",
+				"context": "الموافقة على فكرة أو خطة"
+			},
+			{
+				"id": 4,
+				"en": "Okay, I agree with you.",
+				"ar": "حسنًا، أنا أتفق معك.",
+				"context": "إظهار الموافقة على رأي"
+			},
+			{
+				"id": 5,
+				"en": "Okay, I am ready.",
+				"ar": "حسنًا، أنا مستعد.",
+				"context": "التعبير عن الاستعداد للبدء"
+			},
+			{
+				"id": 6,
+				"en": "Okay, I will come.",
+				"ar": "حسنًا، سأحضر.",
+				"context": "الموافقة على الحضور"
+			},
+			{
+				"id": 7,
+				"en": "Okay, no problem.",
+				"ar": "حسنًا، لا مشكلة.",
+				"context": "القبول دون اعتراض"
+			},
+			{
+				"id": 8,
+				"en": "Okay, let us start.",
+				"ar": "حسنًا، لنبدأ.",
+				"context": "الاستعداد لبدء شيء"
+			},
+			{
+				"id": 9,
+				"en": "Okay, I see.",
+				"ar": "حسنًا، أنا أفهم الآن.",
+				"context": "إدراك أو فهم نقطة جديدة"
+			},
+			{
+				"id": 10,
+				"en": "Okay, that is fine.",
+				"ar": "حسنًا، هذا مناسب.",
+				"context": "قبول وضع أو قرار"
+			}
+		]
+	}
 }

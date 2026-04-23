@@ -10,79 +10,87 @@
     "wordMeanings": [
       {
         "term": "Speak",
-        "description": "فعل أمر يعني تحدث."
+        "description": "تحدث أو تكلم."
       },
       {
         "term": "slowly",
-        "description": "ظرف يعني ببطء."
+        "description": "ببطء."
       },
       {
         "term": "please",
-        "description": "تضيف اللطف إلى الطلب."
+        "description": "كلمة تجعل الطلب ألطف."
       }
     ],
-    "tense": null,
-    "tenseReason": "استُعمل فعل الأمر لأن المتكلم يطلب من الطرف الآخر أن يغيّر طريقة كلامه الآن. كلمة please تجعل الطلب مؤدبًا.",
+    "grammarExplanations": [
+      {
+        "sentence": "Speak slowly, please.",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "الجملة طلب مهذب بصيغة الأمر للتحدث بسرعة أبطأ، ولا تحمل زمنًا مستقلًا."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "Speak slowly, please. I am learning.",
-        "ar": "تحدث ببطء من فضلك. أنا أتعلم.",
-        "context": "تشرح سبب طلبك."
+        "en": "Speak slowly, please.",
+        "ar": "تحدث ببطء من فضلك.",
+        "context": "تقال عندما يكون الكلام سريعًا."
       },
       {
         "id": 2,
-        "en": "Can you speak slowly, please?",
-        "ar": "هل يمكنك أن تتحدث ببطء من فضلك؟",
-        "context": "نسخة أكثر لطفًا من الطلب نفسه."
+        "en": "Please speak more slowly.",
+        "ar": "من فضلك تحدث ببطء أكثر.",
+        "context": "تقال لطلب تقليل سرعة الكلام."
       },
       {
         "id": 3,
-        "en": "Speak slowly, please. I missed that word.",
-        "ar": "تحدث ببطء من فضلك. لقد فاتتني تلك الكلمة.",
-        "context": "توضح أن السرعة منعتك من السماع."
+        "en": "Speak clearly, please.",
+        "ar": "تحدث بوضوح من فضلك.",
+        "context": "تقال عند صعوبة سماع أو فهم الكلام."
       },
       {
         "id": 4,
-        "en": "Speak slowly, please. This is new for me.",
-        "ar": "تحدث ببطء من فضلك. هذا جديد بالنسبة لي.",
-        "context": "تطلب المراعاة لأن الموضوع جديد عليك."
+        "en": "Please speak slowly in English.",
+        "ar": "من فضلك تحدث ببطء بالإنجليزية.",
+        "context": "تقال عند تعلم اللغة."
       },
       {
         "id": 5,
-        "en": "Speak slowly, please, and repeat the example.",
-        "ar": "تحدث ببطء من فضلك، وأعد المثال.",
-        "context": "تطلب التبطئة والإعادة معًا."
+        "en": "Can you speak slowly?",
+        "ar": "هل يمكنك التحدث ببطء؟",
+        "context": "تقال كطلب ألطف."
       },
       {
         "id": 6,
-        "en": "Speak slowly, please. I want to write it.",
-        "ar": "تحدث ببطء من فضلك. أريد أن أكتب ذلك.",
-        "context": "تحتاج إلى وقت للتدوين."
+        "en": "Please say it slowly.",
+        "ar": "من فضلك قلها ببطء.",
+        "context": "تقال عند طلب نطق أبطأ لعبارة."
       },
       {
         "id": 7,
-        "en": "Speak slowly, please, so I can understand.",
-        "ar": "تحدث ببطء من فضلك لكي أستطيع أن أفهم.",
-        "context": "توضح الهدف من الطلب."
+        "en": "Speak slowly so I can understand.",
+        "ar": "تحدث ببطء حتى أستطيع الفهم.",
+        "context": "توضح سبب الطلب."
       },
       {
         "id": 8,
-        "en": "Please speak slowly during the lesson.",
-        "ar": "من فضلك تحدث ببطء أثناء الدرس.",
-        "context": "تحدد الوقت أو السياق."
+        "en": "Please speak louder.",
+        "ar": "من فضلك تحدث بصوت أعلى.",
+        "context": "تقال عندما يكون الصوت منخفضًا."
       },
       {
         "id": 9,
-        "en": "Speak slowly, please. Your accent is new to me.",
-        "ar": "تحدث ببطء من فضلك. لهجتك جديدة بالنسبة لي.",
-        "context": "توضح أن اختلاف اللهجة يزيد الصعوبة."
+        "en": "Speak slowly during the lesson.",
+        "ar": "تحدث ببطء أثناء الدرس.",
+        "context": "تقال في موقف تعليمي."
       },
       {
         "id": 10,
-        "en": "Speak slowly, please. I need to hear each word.",
-        "ar": "تحدث ببطء من فضلك. أحتاج أن أسمع كل كلمة.",
-        "context": "تؤكد الحاجة إلى الوضوح الكامل."
+        "en": "Please speak one word at a time.",
+        "ar": "من فضلك تحدث كلمة واحدة في كل مرة.",
+        "context": "تقال عند الحاجة إلى تفصيل الكلام."
       }
     ]
   }

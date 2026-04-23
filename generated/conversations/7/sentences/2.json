@@ -10,112 +10,119 @@
     "wordMeanings": [
       {
         "term": "Yes",
-        "description": "جواب مباشر يفيد الموافقة أو التأكيد أو الإقرار بصحة شيء."
+        "description": "كلمة تأكيد أو موافقة."
       },
       {
         "term": "and",
-        "description": "حرف عطف يربط بين كلمتين أو جملتين."
+        "description": "حرف عطف يضيف معلومة."
       },
       {
         "term": "the",
-        "description": "أداة تعريف تشير إلى شيء معروف أو محدد."
+        "description": "أداة تعريف لفنان محدد."
       },
       {
         "term": "artist",
-        "description": "اسم يعني والفنان."
+        "description": "فنان."
       },
       {
         "term": "over",
-        "description": "حرف جر أو ظرف يعني فوق أو على امتداد."
+        "description": "تأتي هنا مع there للإشارة إلى مكان أبعد قليلًا."
       },
       {
         "term": "there",
-        "description": "ظرف مكان يعني هناك."
+        "description": "هناك، أي في ذلك المكان."
       },
       {
         "term": "painted",
-        "description": "فعل يعني رسم."
+        "description": "صيغة ماضية تعني رسم أو لوّن."
       },
       {
         "term": "most",
-        "description": "كلمة تدل على الأعلى أو الأغلب حسب السياق."
+        "description": "تعني معظم أو أغلب."
       },
       {
         "term": "of",
-        "description": "حرف جر يربط بين اسمين وغالبًا يعني من أو الخاص بـ حسب السياق."
+        "description": "يربط الكمية بالأعمال."
       },
       {
         "term": "these",
-        "description": "اسم أو صفة إشارة للجمع القريب."
+        "description": "اسم إشارة للجمع القريب."
       },
       {
         "term": "works",
-        "description": "صيغة المضارع من work وتعني يعمل أو ينجح حسب السياق."
+        "description": "أعمال فنية."
       }
     ],
-    "tense": "الماضي البسيط",
-    "tenseEn": "Past Simple",
-    "tenseReason": "استُعمل الماضي البسيط لأن الجملة تتحدث عن حدث وقع في الماضي واكتمل هناك.",
+    "grammarExplanations": [
+      {
+        "sentence": "Yes, and the artist over there painted most of these works.",
+        "explanation": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "استُعمل الماضي البسيط لأن رسم الأعمال حدث مكتمل قبل وقت الحديث."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "Yesterday, Yes, and the artist over there painted most of these works.",
-        "ar": "أمس، نعم، والفنان هناك رسم معظم هذه الأعمال.",
-        "context": "تضيف زمنًا ماضيًا واضحًا."
+        "en": "The artist over there painted this picture.",
+        "ar": "الفنان هناك رسم هذه الصورة.",
+        "context": "تشير إلى فنان وعمله."
       },
       {
         "id": 2,
-        "en": "Yes, and the artist over there painted most of these works this morning.",
-        "ar": "نعم، والفنان هناك رسم معظم هذه الأعمال هذا الصباح.",
-        "context": "تحدد وقتًا ماضيًا قريبًا."
+        "en": "She painted most of these works.",
+        "ar": "هي رسمت معظم هذه الأعمال.",
+        "context": "تشرح مساهمة فنانة في معرض."
       },
       {
         "id": 3,
-        "en": "Yes, and the artist over there painted most of these works after lunch.",
-        "ar": "نعم، والفنان هناك رسم معظم هذه الأعمال بعد الغداء.",
-        "context": "تربط الحدث بوقت تالٍ لحدث آخر."
+        "en": "The artist over there made this sculpture.",
+        "ar": "الفنان هناك صنع هذا التمثال.",
+        "context": "تتحدث عن نوع آخر من الفن."
       },
       {
         "id": 4,
-        "en": "Yes, and the artist over there painted most of these works because it was necessary.",
-        "ar": "نعم، والفنان هناك رسم معظم هذه الأعمال لأنه كان ضروريًا.",
-        "context": "تضيف سببًا لحدوث الفعل في الماضي."
+        "en": "He painted these works last year.",
+        "ar": "رسم هذه الأعمال العام الماضي.",
+        "context": "تذكر وقت إنشاء الأعمال."
       },
       {
         "id": 5,
-        "en": "Earlier, Yes, and the artist over there painted most of these works.",
-        "ar": "في وقت سابق، نعم، والفنان هناك رسم معظم هذه الأعمال.",
-        "context": "تربط الحدث بفترة ماضية غير بعيدة."
+        "en": "Most of these works are new.",
+        "ar": "معظم هذه الأعمال جديدة.",
+        "context": "تصف مجموعة الأعمال."
       },
       {
         "id": 6,
-        "en": "Yes, and the artist over there painted most of these works, and everyone noticed.",
-        "ar": "نعم، والفنان هناك رسم معظم هذه الأعمال، والجميع لاحظ ذلك.",
-        "context": "تضيف نتيجة لما حدث في الماضي."
+        "en": "Yes, and the artist is here today.",
+        "ar": "نعم، والفنان موجود هنا اليوم.",
+        "context": "تضيف معلومة عن وجود الفنان."
       },
       {
         "id": 7,
-        "en": "Yes, and the artist over there painted most of these works before we left.",
-        "ar": "نعم، والفنان هناك رسم معظم هذه الأعمال قبل أن نغادر.",
-        "context": "تربط الفعل الماضي بحدث ماضٍ آخر."
+        "en": "The artist over there painted the large wall.",
+        "ar": "الفنان هناك رسم الجدار الكبير.",
+        "context": "تشير إلى عمل كبير في المكان."
       },
       {
         "id": 8,
-        "en": "Yes, and the artist over there painted most of these works during the trip.",
-        "ar": "نعم، والفنان هناك رسم معظم هذه الأعمال أثناء الرحلة.",
-        "context": "تضع الحدث في إطار زمني أو مكاني محدد."
+        "en": "They painted most of the pictures together.",
+        "ar": "رسموا معظم الصور معًا.",
+        "context": "تصف تعاونًا بين فنانين."
       },
       {
         "id": 9,
-        "en": "At that time, Yes, and the artist over there painted most of these works.",
-        "ar": "في ذلك الوقت، نعم، والفنان هناك رسم معظم هذه الأعمال.",
-        "context": "تجعل الجملة جزءًا من سرد ماضٍ."
+        "en": "The artist over there is very famous.",
+        "ar": "الفنان هناك مشهور جدًا.",
+        "context": "تضيف معلومة عن الشخص المشار إليه."
       },
       {
         "id": 10,
-        "en": "Soon after that, Yes, and the artist over there painted most of these works.",
-        "ar": "بعد ذلك بقليل، نعم، والفنان هناك رسم معظم هذه الأعمال.",
-        "context": "توضح ترتيب الحدث بعد شيء آخر في الماضي."
+        "en": "Most of these works tell a story.",
+        "ar": "معظم هذه الأعمال تحكي قصة.",
+        "context": "تصف معنى الأعمال الفنية."
       }
     ]
   }

@@ -10,88 +10,95 @@
     "wordMeanings": [
       {
         "term": "How",
-        "description": "أداة سؤال."
+        "description": "تبدأ سؤالًا عن السعر أو المقدار."
       },
       {
         "term": "much",
-        "description": "هنا تأتي مع very لتكوين very much، أي كثيرًا / بدرجة كبيرة."
+        "description": "كم، وتستخدم مع المال والسعر."
       },
       {
         "term": "are",
-        "description": "فعل be مع you."
+        "description": "صيغة تربط السؤال بسعر الأشياء في الحاضر."
       },
       {
         "term": "these",
-        "description": "اسم أو صفة إشارة للجمع القريب."
+        "description": "هذه، وتشير إلى أشياء قريبة متعددة."
       },
       {
         "term": "earrings",
-        "description": "اسم يعني الأقراط."
+        "description": "أقراط أو حلقان للأذن."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "How much are these earrings?",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "يستخدم المضارع البسيط مع فعل الربط للسؤال عن سعر حالي لأشياء معروضة للبيع."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "You can ask, \"How much are these earrings?\" when you need information.",
-        "ar": "يمكنك أن تسأل: \"كم سعر هذه الأقراط؟\" عندما تحتاج إلى معلومة.",
-        "context": "تستعمل الجملة كسؤال مباشر للحصول على معلومة."
+        "en": "How much are these earrings?",
+        "ar": "كم سعر هذه الأقراط؟",
+        "context": "تقال عند السؤال عن سعر الأقراط."
       },
       {
         "id": 2,
-        "en": "Many people ask, \"How much are these earrings?\" in this situation.",
-        "ar": "يسأل كثير من الناس: \"كم سعر هذه الأقراط؟\" في هذا الموقف.",
-        "context": "توضح أن هذا سؤال شائع في موقف مشابه."
+        "en": "How much are these shoes?",
+        "ar": "كم سعر هذا الحذاء؟",
+        "context": "تقال عند السؤال عن سعر حذاء في متجر."
       },
       {
         "id": 3,
-        "en": "I asked, \"How much are these earrings?\" because I was not sure.",
-        "ar": "سألت: \"كم سعر هذه الأقراط؟\" لأنني لم أكن متأكدًا.",
-        "context": "تضيف سببًا لطرح السؤال."
+        "en": "How much are these tickets?",
+        "ar": "كم سعر هذه التذاكر؟",
+        "context": "تقال عند السؤال عن ثمن تذاكر متعددة."
       },
       {
         "id": 4,
-        "en": "She asked politely, \"How much are these earrings?\"",
-        "ar": "سألت بأدب: \"كم سعر هذه الأقراط؟\".",
-        "context": "تبين أن السؤال قيل بطريقة مهذبة."
+        "en": "How much are these apples?",
+        "ar": "كم سعر هذه التفاحات؟",
+        "context": "تقال عند شراء فاكهة."
       },
       {
         "id": 5,
-        "en": "At work, someone may ask, \"How much are these earrings?\"",
-        "ar": "في العمل، قد يسأل شخص ما: \"كم سعر هذه الأقراط؟\".",
-        "context": "تضع السؤال في سياق مهني أو عملي."
+        "en": "How much are these bags?",
+        "ar": "كم سعر هذه الحقائب؟",
+        "context": "تقال عند التسوق لحقائب."
       },
       {
         "id": 6,
-        "en": "Before deciding, ask: \"How much are these earrings?\"",
-        "ar": "قبل أن تقرر، اسأل: \"كم سعر هذه الأقراط؟\".",
-        "context": "تستخدم السؤال قبل اتخاذ قرار."
+        "en": "How much is this necklace?",
+        "ar": "كم سعر هذه القلادة؟",
+        "context": "تقال عند السؤال عن قطعة واحدة من المجوهرات."
       },
       {
         "id": 7,
-        "en": "The student asked, \"How much are these earrings?\" in class.",
-        "ar": "سأل الطالب: \"كم سعر هذه الأقراط؟\" في الصف.",
-        "context": "تجعل الجملة جزءًا من موقف تعليمي."
+        "en": "How much is this ring?",
+        "ar": "كم سعر هذا الخاتم؟",
+        "context": "تقال عند السؤال عن سعر خاتم."
       },
       {
         "id": 8,
-        "en": "While traveling, you can ask, \"How much are these earrings?\"",
-        "ar": "أثناء السفر، يمكنك أن تسأل: \"كم سعر هذه الأقراط؟\".",
-        "context": "تربط السؤال بموقف السفر أو التنقل."
+        "en": "How much are those earrings?",
+        "ar": "كم سعر تلك الأقراط؟",
+        "context": "تقال عند الإشارة إلى أقراط أبعد."
       },
       {
         "id": 9,
-        "en": "He asked me, \"How much are these earrings?\" again.",
-        "ar": "سألني: \"كم سعر هذه الأقراط؟\" مرة أخرى.",
-        "context": "تضيف معنى التكرار لنفس السؤال."
+        "en": "How much are these earrings in silver?",
+        "ar": "كم سعر هذه الأقراط المصنوعة من الفضة؟",
+        "context": "تقال عند السؤال عن نوع أو مادة محددة."
       },
       {
         "id": 10,
-        "en": "If you are not sure, ask: \"How much are these earrings?\"",
-        "ar": "إذا لم تكن متأكدًا، فاسأل: \"كم سعر هذه الأقراط؟\".",
-        "context": "توضح أن السؤال مناسب عند عدم التأكد."
+        "en": "How much are these earrings after the discount?",
+        "ar": "كم سعر هذه الأقراط بعد الخصم؟",
+        "context": "تقال عند السؤال عن السعر بعد التخفيض."
       }
     ]
   }

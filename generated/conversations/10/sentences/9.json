@@ -10,91 +10,99 @@
     "wordMeanings": [
       {
         "term": "Can",
-        "description": "فعل مساعد يدل هنا على القدرة أو الاستعداد لتلبية الطلب."
+        "description": "تبدأ سؤالًا عن القدرة أو الإمكانية، وتستعمل هنا كطلب مهذب."
       },
       {
         "term": "you",
-        "description": "الضمير الذي يعود على الشخص المخاطَب."
+        "description": "ضمير يشير إلى الشخص الذي يوجه إليه الطلب."
       },
       {
         "term": "show",
-        "description": "فعل يعني يري أو يعرض."
+        "description": "تُري أو تعرض شيئًا لشخص آخر."
       },
       {
         "term": "me",
-        "description": "ضمير مفعول به يعني أنا/إياي."
+        "description": "ضمير يشير إلى المتكلم بوصفه من سيشاهد الصور."
       },
       {
         "term": "its",
-        "description": "اسم يعني تريني."
+        "description": "تدل على أن الصور تخص الشيء المذكور، مثل الشقة."
       },
       {
         "term": "photos",
-        "description": "اسم يعني صورها."
+        "description": "صور أو لقطات مرئية."
       }
     ],
-    "tense": null,
-    "tenseReason": "استُعمل هذا التركيب لأنه سؤال يعتمد على فعل modal مثل can أو could أو would، لذلك لا نعامله هنا كزمن مستقل بل كصيغة سؤال وظيفية.",
+    "grammarExplanations": [
+      {
+        "sentence": "Can you show me its photos?",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "الجملة سؤال طلب باستخدام Can للسؤال عن إمكانية عرض الصور، وليست زمنًا مستقلًا."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "You can ask, \"Can you show me its photos?\" when you need information.",
-        "ar": "يمكنك أن تسأل: \"هل يمكنك أن تريني صورها؟\" عندما تحتاج إلى معلومة.",
-        "context": "تستعمل الجملة كسؤال مباشر للحصول على معلومة."
+        "en": "Can you show me the room?",
+        "ar": "هل يمكنك أن تريني الغرفة؟",
+        "context": "يُستخدم لطلب رؤية مكان بشكل مباشر."
       },
       {
         "id": 2,
-        "en": "Many people ask, \"Can you show me its photos?\" in this situation.",
-        "ar": "يسأل كثير من الناس: \"هل يمكنك أن تريني صورها؟\" في هذا الموقف.",
-        "context": "توضح أن هذا سؤال شائع في موقف مشابه."
+        "en": "Can you show me your ticket?",
+        "ar": "هل يمكنك أن تريني تذكرتك؟",
+        "context": "يُستخدم عند طلب التحقق من شيء يحمله الشخص."
       },
       {
         "id": 3,
-        "en": "I asked, \"Can you show me its photos?\" because I was not sure.",
-        "ar": "سألت: \"هل يمكنك أن تريني صورها؟\" لأنني لم أكن متأكدًا.",
-        "context": "تضيف سببًا لطرح السؤال."
+        "en": "Can you show me the photos?",
+        "ar": "هل يمكنك أن تريني الصور؟",
+        "context": "يُستخدم لطلب مشاهدة صور متاحة."
       },
       {
         "id": 4,
-        "en": "She asked politely, \"Can you show me its photos?\"",
-        "ar": "سألت بأدب: \"هل يمكنك أن تريني صورها؟\".",
-        "context": "تبين أن السؤال قيل بطريقة مهذبة."
+        "en": "Can you show me its location?",
+        "ar": "هل يمكنك أن تريني موقعه؟",
+        "context": "يُستخدم لمعرفة مكان شيء محدد."
       },
       {
         "id": 5,
-        "en": "At work, someone may ask, \"Can you show me its photos?\"",
-        "ar": "في العمل، قد يسأل شخص ما: \"هل يمكنك أن تريني صورها؟\".",
-        "context": "تضع السؤال في سياق مهني أو عملي."
+        "en": "Can you show me the file on your phone?",
+        "ar": "هل يمكنك أن تريني الملف على هاتفك؟",
+        "context": "يُستخدم لطلب عرض ملف موجود على جهاز."
       },
       {
         "id": 6,
-        "en": "Before deciding, ask: \"Can you show me its photos?\"",
-        "ar": "قبل أن تقرر، اسأل: \"هل يمكنك أن تريني صورها؟\".",
-        "context": "تستخدم السؤال قبل اتخاذ قرار."
+        "en": "Can you show me the price list?",
+        "ar": "هل يمكنك أن تريني قائمة الأسعار؟",
+        "context": "يُستخدم في متجر أو مكتب لمعرفة الأسعار."
       },
       {
         "id": 7,
-        "en": "The student asked, \"Can you show me its photos?\" in class.",
-        "ar": "سأل الطالب: \"هل يمكنك أن تريني صورها؟\" في الصف.",
-        "context": "تجعل الجملة جزءًا من موقف تعليمي."
+        "en": "Can you show me how it works?",
+        "ar": "هل يمكنك أن تريني كيف يعمل؟",
+        "context": "يُستخدم عند طلب شرح عملي لطريقة عمل شيء."
       },
       {
         "id": 8,
-        "en": "While traveling, you can ask, \"Can you show me its photos?\"",
-        "ar": "أثناء السفر، يمكنك أن تسأل: \"هل يمكنك أن تريني صورها؟\".",
-        "context": "تربط السؤال بموقف السفر أو التنقل."
+        "en": "Can you show me the available options?",
+        "ar": "هل يمكنك أن تريني الخيارات المتاحة؟",
+        "context": "يُستخدم عند مقارنة عدة اختيارات."
       },
       {
         "id": 9,
-        "en": "He asked me, \"Can you show me its photos?\" again.",
-        "ar": "سألني: \"هل يمكنك أن تريني صورها؟\" مرة أخرى.",
-        "context": "تضيف معنى التكرار لنفس السؤال."
+        "en": "Can you show me the contract first?",
+        "ar": "هل يمكنك أن تريني العقد أولًا؟",
+        "context": "يُستخدم قبل اتخاذ قرار أو توقيع."
       },
       {
         "id": 10,
-        "en": "If you are not sure, ask: \"Can you show me its photos?\"",
-        "ar": "إذا لم تكن متأكدًا، فاسأل: \"هل يمكنك أن تريني صورها؟\".",
-        "context": "توضح أن السؤال مناسب عند عدم التأكد."
+        "en": "Can you show me the way to the office?",
+        "ar": "هل يمكنك أن تريني الطريق إلى المكتب؟",
+        "context": "يُستخدم عند طلب إرشاد إلى مكان."
       }
     ]
   }

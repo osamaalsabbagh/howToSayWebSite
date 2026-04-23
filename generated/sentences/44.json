@@ -10,100 +10,107 @@
     "wordMeanings": [
       {
         "term": "I",
-        "description": "ضمير المتكلم."
+        "description": "ضمير المتكلم ويشير إلى الشخص الذي يتحدث."
       },
       {
         "term": "will",
-        "description": "أداة مستقبل تدل على ما سيحدث لاحقًا."
+        "description": "كلمة تدل هنا على عرض أو وعد بفعل شيء."
       },
       {
         "term": "take",
-        "description": "فعل يعني يأخذ أو يستغرق أو يصطحب حسب السياق."
+        "description": "أوصلك أو أرافقك إلى مكان في هذا السياق."
       },
       {
         "term": "you",
-        "description": "الضمير الذي يعود على الشخص المخاطَب."
+        "description": "ضمير يشير إلى الشخص الذي أتحدث معه."
       },
       {
         "term": "to",
-        "description": "أداة تأتي قبل المصدر بعد أفعال مثل want."
+        "description": "إلى، وتدل على الاتجاه أو المكان المقصود."
       },
       {
         "term": "the",
-        "description": "أداة تعريف تشير إلى شيء معروف أو محدد."
+        "description": "أداة تشير إلى مكان محدد ومعروف من السياق."
       },
       {
         "term": "bus",
-        "description": "اسم يعني حافلة."
+        "description": "حافلة، وهي وسيلة نقل جماعية."
       },
       {
         "term": "stop",
-        "description": "اسم يعني الحافلات."
+        "description": "موقف أو مكان انتظار وسيلة النقل."
       }
     ],
-    "tense": "المستقبل البسيط",
-    "tenseEn": "Future Simple",
-    "tenseReason": "استُعمل المستقبل البسيط لأن الجملة تتحدث عن شيء سيحدث لاحقًا أو عن قرار أو توقع يخص المستقبل.",
+    "grammarExplanations": [
+      {
+        "sentence": "I will take you to the bus stop.",
+        "explanation": {
+          "tense": "المستقبل البسيط",
+          "tenseEn": "Future Simple",
+          "reason": "تستخدم will مع الفعل الأساسي لعرض المساعدة في المستقبل القريب، والتعبير take you to يعني أوصلك أو أرافقك إلى مكان."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "People often say, \"I will take you to the bus stop\" in situations like this.",
-        "ar": "يقول الناس كثيرًا: \"سأوصلك إلى موقف الحافلات\" في مواقف كهذه.",
-        "context": "تستخدم الجملة بوصفها تركيبًا شائعًا في موقف مشابه."
+        "en": "I will take you to the airport.",
+        "ar": "سأوصلك إلى المطار.",
+        "context": "تقال عند عرض توصيل شخص إلى المطار."
       },
       {
         "id": 2,
-        "en": "You can say, \"I will take you to the bus stop\" when this happens.",
-        "ar": "يمكنك أن تقول: \"سأوصلك إلى موقف الحافلات\" عندما يحدث هذا.",
-        "context": "توضح أن الجملة مناسبة في موقف متكرر."
+        "en": "She will take me to the station.",
+        "ar": "ستوصلني إلى المحطة.",
+        "context": "تقال عند ترتيب توصيل إلى محطة."
       },
       {
         "id": 3,
-        "en": "I heard someone say, \"I will take you to the bus stop\".",
-        "ar": "سمعت شخصًا يقول: \"سأوصلك إلى موقف الحافلات\".",
-        "context": "تجعل الجملة جزءًا من كلام سمعته من شخص آخر."
+        "en": "We will take them to the hotel.",
+        "ar": "سنوصلهم إلى الفندق.",
+        "context": "تقال عند عرض نقل ضيوف إلى مكان إقامتهم."
       },
       {
         "id": 4,
-        "en": "The teacher used the sentence, \"I will take you to the bus stop\" in class.",
-        "ar": "استخدم المعلم الجملة: \"سأوصلك إلى موقف الحافلات\" في الصف.",
-        "context": "تستخدم الجملة مثالًا تعليميًا في الصف."
+        "en": "He will take his mother to the doctor.",
+        "ar": "سيأخذ أمه إلى الطبيب.",
+        "context": "تقال عند مرافقة شخص إلى موعد طبي."
       },
       {
         "id": 5,
-        "en": "Many learners remember the sentence, \"I will take you to the bus stop\" first.",
-        "ar": "يتذكر كثير من المتعلمين الجملة: \"سأوصلك إلى موقف الحافلات\" أولًا.",
-        "context": "تقدم الجملة بوصفها جملة تعليمية أساسية."
+        "en": "I will take you home.",
+        "ar": "سأوصلك إلى البيت.",
+        "context": "تقال عند عرض توصيل شخص إلى منزله."
       },
       {
         "id": 6,
-        "en": "She said, \"I will take you to the bus stop\" in a calm way.",
-        "ar": "قالت: \"سأوصلك إلى موقف الحافلات\" بطريقة هادئة.",
-        "context": "تجعل الجملة جزءًا من كلام مباشر في موقف عادي."
+        "en": "They will take us to the meeting.",
+        "ar": "سيوصلوننا إلى الاجتماع.",
+        "context": "تقال عند وجود من سيوصل المجموعة إلى اجتماع."
       },
       {
         "id": 7,
-        "en": "He repeated, \"I will take you to the bus stop\" more than once.",
-        "ar": "ردد: \"سأوصلك إلى موقف الحافلات\" أكثر من مرة.",
-        "context": "تضيف معنى التكرار لنفس الجملة."
+        "en": "I will walk with you to the bus stop.",
+        "ar": "سأمشي معك إلى موقف الحافلات.",
+        "context": "تقال عند عرض مرافقة شخص سيرًا."
       },
       {
         "id": 8,
-        "en": "At the right moment, someone might say, \"I will take you to the bus stop\".",
-        "ar": "في اللحظة المناسبة، قد يقول شخص ما: \"سأوصلك إلى موقف الحافلات\".",
-        "context": "توضح أن الجملة مرتبطة بتوقيت مناسب في السياق."
+        "en": "My brother will take you to school.",
+        "ar": "سيوصلك أخي إلى المدرسة.",
+        "context": "تقال عند ترتيب توصيل إلى المدرسة."
       },
       {
         "id": 9,
-        "en": "I wrote down the sentence, \"I will take you to the bus stop\" so I would remember it.",
-        "ar": "كتبت الجملة: \"سأوصلك إلى موقف الحافلات\" حتى أتذكرها.",
-        "context": "تعطي مثالًا على حفظ الجملة أو مراجعتها."
+        "en": "I will take the children to the park.",
+        "ar": "سآخذ الأطفال إلى الحديقة.",
+        "context": "تقال عند التخطيط لمرافقة الأطفال إلى مكان."
       },
       {
         "id": 10,
-        "en": "It is useful to know when to say, \"I will take you to the bus stop\".",
-        "ar": "من المفيد أن تعرف متى تقول: \"سأوصلك إلى موقف الحافلات\".",
-        "context": "تركز على معرفة الوقت المناسب لاستخدام الجملة."
+        "en": "The driver will take you to the office.",
+        "ar": "سيوصلك السائق إلى المكتب.",
+        "context": "تقال عند إبلاغ شخص بترتيب التوصيل."
       }
     ]
   }

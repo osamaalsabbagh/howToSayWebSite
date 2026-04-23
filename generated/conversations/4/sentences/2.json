@@ -10,96 +10,111 @@
     "wordMeanings": [
       {
         "term": "No",
-        "description": "نفي أو رد يزيل القلق ويعني هنا لا."
+        "description": "كلمة نفي تعني أن المقعد غير مشغول."
       },
       {
         "term": "go",
-        "description": "فعل يعني يذهب أو ينتقل من مكان إلى آخر."
+        "description": "تأتي هنا ضمن عبارة تشجيع تعني تفضل أو أكمل."
       },
       {
         "term": "ahead",
-        "description": "فعل يعني قدما."
+        "description": "تكمل عبارة go ahead وتعطي معنى السماح بالمضي."
       },
       {
         "term": "Feel",
-        "description": "فعل يعني يشعر."
+        "description": "تأتي هنا ضمن عبارة تشجيع تعني لا تتردد."
       },
       {
         "term": "free",
-        "description": "صفة تعني اجلس."
+        "description": "تعني بحرية أو بدون حرج في هذا السياق."
       },
       {
         "term": "to",
-        "description": "أداة تأتي قبل المصدر بعد أفعال مثل want."
+        "description": "تأتي قبل الفعل بعد feel free."
       },
       {
         "term": "sit",
-        "description": "فعل يعني براحتك."
+        "description": "تعني اجلس أو اتخذ مقعدًا."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "No, go ahead.",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه إجابة قصيرة مع عبارة سماح وتشجيع، وليست جملة خبرية بزمن مستقل."
+        }
+      },
+      {
+        "sentence": "Feel free to sit.",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه صيغة تشجيع أو دعوة مهذبة للجلوس، لذلك لا نعاملها كزمن فعلي مستقل."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "In general, No, go ahead. Feel free to sit.",
-        "ar": "بشكل عام، لا، امضِ قدماً. اجلس براحتك.",
-        "context": "تضيف عبارة عامة تحافظ على نفس المعنى الأساسي."
+        "en": "No, go ahead. Feel free to sit here.",
+        "ar": "لا، تفضل. اجلس هنا براحتك.",
+        "context": "تسمح لشخص بالجلوس قربك."
       },
       {
         "id": 2,
-        "en": "Usually, No, go ahead. Feel free to sit.",
-        "ar": "عادةً، لا، امضِ قدماً. اجلس براحتك.",
-        "context": "تضيف ظرفًا يدل على التكرار أو العادة."
+        "en": "Go ahead. The seat is free.",
+        "ar": "تفضل. المقعد فارغ.",
+        "context": "تطمئن شخصًا أن المكان متاح."
       },
       {
         "id": 3,
-        "en": "Sometimes, No, go ahead. Feel free to sit.",
-        "ar": "أحيانًا، لا، امضِ قدماً. اجلس براحتك.",
-        "context": "تضع الجملة في سياق أقل تكرارًا."
+        "en": "Feel free to ask me anything.",
+        "ar": "لا تتردد في سؤالي عن أي شيء.",
+        "context": "تشجع شخصًا على طرح الأسئلة."
       },
       {
         "id": 4,
-        "en": "For now, No, go ahead. Feel free to sit.",
-        "ar": "في الوقت الحالي، لا، امضِ قدماً. اجلس براحتك.",
-        "context": "تربط الجملة بالوضع الحالي."
+        "en": "No, nobody is sitting there.",
+        "ar": "لا، لا أحد يجلس هناك.",
+        "context": "تؤكد أن المكان غير مشغول."
       },
       {
         "id": 5,
-        "en": "No, go ahead. Feel free to sit, so that helps a lot.",
-        "ar": "لا، امضِ قدماً. اجلس براحتك، وهذا يساعد كثيرًا.",
-        "context": "تضيف نتيجة بسيطة على نفس المعنى."
+        "en": "Feel free to use this chair.",
+        "ar": "لا تتردد في استخدام هذا الكرسي.",
+        "context": "تعرض كرسيًا على شخص."
       },
       {
         "id": 6,
-        "en": "No, go ahead. Feel free to sit in daily life.",
-        "ar": "لا، امضِ قدماً. اجلس براحتك في الحياة اليومية.",
-        "context": "تربط الجملة بمواقف الحياة اليومية."
+        "en": "Go ahead and sit down.",
+        "ar": "تفضل واجلس.",
+        "context": "تدعو شخصًا للجلوس بشكل مباشر."
       },
       {
         "id": 7,
-        "en": "No, go ahead. Feel free to sit when it is necessary.",
-        "ar": "لا، امضِ قدماً. اجلس براحتك عندما يكون ذلك ضروريًا.",
-        "context": "تربط الجملة بشرط أو حاجة معينة."
+        "en": "No, it is not taken.",
+        "ar": "لا، إنه غير مشغول.",
+        "context": "تجيب عن سؤال حول مقعد."
       },
       {
         "id": 8,
-        "en": "In this situation, No, go ahead. Feel free to sit.",
-        "ar": "في هذا الموقف، لا، امضِ قدماً. اجلس براحتك.",
-        "context": "تجعل الجملة جزءًا من موقف واضح."
+        "en": "Feel free to wait here.",
+        "ar": "لا تتردد في الانتظار هنا.",
+        "context": "تسمح لشخص بالبقاء في مكان."
       },
       {
         "id": 9,
-        "en": "No, go ahead. Feel free to sit, and everyone notices that.",
-        "ar": "لا، امضِ قدماً. اجلس براحتك، والجميع يلاحظ ذلك.",
-        "context": "تضيف ملاحظة أو نتيجة بعد الجملة."
+        "en": "Go ahead. I do not need that seat.",
+        "ar": "تفضل. أنا لا أحتاج ذلك المقعد.",
+        "context": "تترك مكانًا لشخص آخر."
       },
       {
         "id": 10,
-        "en": "No, go ahead. Feel free to sit most of the time.",
-        "ar": "لا، امضِ قدماً. اجلس براحتك معظم الوقت.",
-        "context": "تضيف عبارة تكرار شائعة."
+        "en": "No, please sit.",
+        "ar": "لا، من فضلك اجلس.",
+        "context": "رد قصير ومهذب بعد سؤال عن المقعد."
       }
     ]
   }

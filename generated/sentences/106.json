@@ -10,71 +10,79 @@
     "wordMeanings": [
       {
         "term": "Stop",
-        "description": "فعل يعني توقف."
+        "description": "توقف فورًا عن فعل شيء أو عن الحركة."
       }
     ],
-    "tense": null,
-    "tenseReason": "استُعمل هذا الأسلوب لأن الجملة تقدم طلبًا أو تعليمات مباشرة موجهة إلى شخص آخر، لذلك لا نضع لها هنا زمنًا فعليًا مستقلًا.",
+    "grammarExplanations": [
+      {
+        "sentence": "Stop!",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه صيغة أمر قصيرة وعاجلة، والفاعل مفهوم من السياق، لذلك لا تحمل زمنًا مستقلًا."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "In this situation, people often say, \"Stop!\"",
-        "ar": "في هذا الموقف، يقول الناس كثيرًا: \"توقف!\"",
-        "context": "توضح أن العبارة مناسبة في هذا النوع من المواقف."
+        "en": "Stop the car.",
+        "ar": "أوقف السيارة.",
+        "context": "تقال عند طلب إيقاف السيارة فورًا."
       },
       {
         "id": 2,
-        "en": "The teacher said, \"Stop!\" to the students.",
-        "ar": "قال المعلم للطلاب: \"توقف!\"",
-        "context": "تستخدم الجملة كتعليمات أو توجيه مباشر."
+        "en": "Stop talking, please.",
+        "ar": "توقف عن الكلام من فضلك.",
+        "context": "تقال عند طلب الهدوء بأدب."
       },
       {
         "id": 3,
-        "en": "He told me, \"Stop!\" before we left.",
-        "ar": "قال لي: \"توقف!\" قبل أن نغادر.",
-        "context": "تضع العبارة قبل حدث آخر."
+        "en": "Stop here.",
+        "ar": "توقف هنا.",
+        "context": "تقال عند تحديد مكان التوقف."
       },
       {
         "id": 4,
-        "en": "She said, \"Stop!\" in a polite way.",
-        "ar": "قالت: \"توقف!\" بطريقة مهذبة.",
-        "context": "تظهر أن العبارة يمكن أن تقال بلطف أو أدب."
+        "en": "Please stop now.",
+        "ar": "من فضلك توقف الآن.",
+        "context": "تقال عند طلب التوقف بطريقة أوضح وأهدأ."
       },
       {
         "id": 5,
-        "en": "Someone shouted, \"Stop!\" when there was a problem.",
-        "ar": "صاح شخص ما: \"توقف!\" عندما ظهرت مشكلة.",
-        "context": "تربط العبارة بموقف سريع أو طارئ."
+        "en": "Stop running.",
+        "ar": "توقف عن الجري.",
+        "context": "تقال عندما يكون الجري غير آمن أو غير مناسب."
       },
       {
         "id": 6,
-        "en": "You can say, \"Stop!\" when you need a quick response.",
-        "ar": "يمكنك أن تقول: \"توقف!\" عندما تحتاج إلى رد سريع.",
-        "context": "توضح أن العبارة مفيدة عند الحاجة إلى استجابة مباشرة."
+        "en": "Stop touching that.",
+        "ar": "توقف عن لمس ذلك.",
+        "context": "تقال عند منع شخص من لمس شيء."
       },
       {
         "id": 7,
-        "en": "They repeated, \"Stop!\" more than once.",
-        "ar": "رددوا: \"توقف!\" أكثر من مرة.",
-        "context": "تعطي مثالًا على تكرار العبارة."
+        "en": "Stop at the red light.",
+        "ar": "توقف عند الإشارة الحمراء.",
+        "context": "تقال عند إعطاء تعليمات قيادة."
       },
       {
         "id": 8,
-        "en": "I heard him say, \"Stop!\" yesterday.",
-        "ar": "سمعته يقول: \"توقف!\" أمس.",
-        "context": "تجعل العبارة جزءًا من موقف سمعته من شخص آخر."
+        "en": "Stop making noise.",
+        "ar": "توقف عن إحداث الضجيج.",
+        "context": "تقال عند طلب الهدوء."
       },
       {
         "id": 9,
-        "en": "Many learners remember the phrase, \"Stop!\"",
-        "ar": "يتذكر كثير من المتعلمين العبارة: \"توقف!\"",
-        "context": "تقدم العبارة بوصفها عبارة سهلة التذكر."
+        "en": "Stop for a minute.",
+        "ar": "توقف لدقيقة.",
+        "context": "تقال عند طلب توقف قصير."
       },
       {
         "id": 10,
-        "en": "At that moment, she said, \"Stop!\"",
-        "ar": "في تلك اللحظة، قالت: \"توقف!\"",
-        "context": "تربط العبارة بلحظة معينة في السرد."
+        "en": "Stop and listen.",
+        "ar": "توقف واستمع.",
+        "context": "تقال عند الحاجة إلى انتباه شخص."
       }
     ]
   }

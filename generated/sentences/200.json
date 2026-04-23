@@ -10,80 +10,87 @@
     "wordMeanings": [
       {
         "term": "They",
-        "description": "ضمير يشير إلى أكثر من شخص أو شيء."
+        "description": "هم أو هن، وتشير إلى مجموعة أشخاص."
       },
       {
         "term": "arrived",
-        "description": "صيغة الماضي من arrive وتعني وصل."
+        "description": "وصلوا إلى المكان المقصود."
       },
       {
         "term": "yesterday",
-        "description": "ظرف زمان يعني أمس."
+        "description": "أمس، أي اليوم السابق لليوم الحالي."
       }
     ],
-    "tense": "الماضي البسيط",
-    "tenseEn": "Past Simple",
-    "tenseReason": "استُعمل الماضي البسيط لأن الجملة تتحدث عن حدث وقع في الماضي واكتمل هناك.",
+    "grammarExplanations": [
+      {
+        "sentence": "They arrived yesterday.",
+        "explanation": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "يستخدم الماضي البسيط لأن الوصول حدث وانتهى في وقت محدد في الماضي، وهو أمس."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "People often say, \"They arrived yesterday\" in situations like this.",
-        "ar": "يقول الناس كثيرًا: \"وصلوا أمس\" في مواقف كهذه.",
-        "context": "تستخدم الجملة بوصفها تركيبًا شائعًا في موقف مشابه."
+        "en": "They arrived yesterday.",
+        "ar": "وصلوا أمس.",
+        "context": "تقال عند الإخبار عن موعد وصول مجموعة."
       },
       {
         "id": 2,
-        "en": "You can say, \"They arrived yesterday\" when this happens.",
-        "ar": "يمكنك أن تقول: \"وصلوا أمس\" عندما يحدث هذا.",
-        "context": "توضح أن الجملة مناسبة في موقف متكرر."
+        "en": "They arrived this morning.",
+        "ar": "وصلوا هذا الصباح.",
+        "context": "تقال عند ذكر وقت وصول في صباح اليوم."
       },
       {
         "id": 3,
-        "en": "I heard someone say, \"They arrived yesterday\".",
-        "ar": "سمعت شخصًا يقول: \"وصلوا أمس\".",
-        "context": "تجعل الجملة جزءًا من كلام سمعته من شخص آخر."
+        "en": "They arrived last night.",
+        "ar": "وصلوا الليلة الماضية.",
+        "context": "تقال عند وصف وصول حدث في الليل."
       },
       {
         "id": 4,
-        "en": "The teacher used the sentence, \"They arrived yesterday\" in class.",
-        "ar": "استخدم المعلم الجملة: \"وصلوا أمس\" في الصف.",
-        "context": "تستخدم الجملة مثالًا تعليميًا في الصف."
+        "en": "They arrived at noon.",
+        "ar": "وصلوا عند الظهر.",
+        "context": "تقال عند تحديد ساعة تقريبية للوصول."
       },
       {
         "id": 5,
-        "en": "Many learners remember the sentence, \"They arrived yesterday\" first.",
-        "ar": "يتذكر كثير من المتعلمين الجملة: \"وصلوا أمس\" أولًا.",
-        "context": "تقدم الجملة بوصفها جملة تعليمية أساسية."
+        "en": "They arrived at the hotel.",
+        "ar": "وصلوا إلى الفندق.",
+        "context": "تقال عند الإخبار بوصول مجموعة إلى فندق."
       },
       {
         "id": 6,
-        "en": "She said, \"They arrived yesterday\" in a calm way.",
-        "ar": "قالت: \"وصلوا أمس\" بطريقة هادئة.",
-        "context": "تجعل الجملة جزءًا من كلام مباشر في موقف عادي."
+        "en": "They arrived in Boston yesterday.",
+        "ar": "وصلوا إلى بوسطن أمس.",
+        "context": "تقال عند ذكر مدينة الوصول ووقته."
       },
       {
         "id": 7,
-        "en": "He repeated, \"They arrived yesterday\" more than once.",
-        "ar": "ردد: \"وصلوا أمس\" أكثر من مرة.",
-        "context": "تضيف معنى التكرار لنفس الجملة."
+        "en": "She arrived yesterday.",
+        "ar": "وصلت أمس.",
+        "context": "تقال عند الإخبار عن وصول امرأة."
       },
       {
         "id": 8,
-        "en": "At the right moment, someone might say, \"They arrived yesterday\".",
-        "ar": "في اللحظة المناسبة، قد يقول شخص ما: \"وصلوا أمس\".",
-        "context": "توضح أن الجملة مرتبطة بتوقيت مناسب في السياق."
+        "en": "He arrived yesterday.",
+        "ar": "وصل أمس.",
+        "context": "تقال عند الإخبار عن وصول رجل."
       },
       {
         "id": 9,
-        "en": "I wrote down the sentence, \"They arrived yesterday\" so I would remember it.",
-        "ar": "كتبت الجملة: \"وصلوا أمس\" حتى أتذكرها.",
-        "context": "تعطي مثالًا على حفظ الجملة أو مراجعتها."
+        "en": "We arrived yesterday.",
+        "ar": "وصلنا أمس.",
+        "context": "تقال عند الحديث عن وصول المتكلم مع آخرين."
       },
       {
         "id": 10,
-        "en": "It is useful to know when to say, \"They arrived yesterday\".",
-        "ar": "من المفيد أن تعرف متى تقول: \"وصلوا أمس\".",
-        "context": "تركز على معرفة الوقت المناسب لاستخدام الجملة."
+        "en": "The guests arrived yesterday.",
+        "ar": "وصل الضيوف أمس.",
+        "context": "تقال عند الإخبار عن وصول ضيوف."
       }
     ]
   }

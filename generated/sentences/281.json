@@ -10,88 +10,95 @@
     "wordMeanings": [
       {
         "term": "It",
-        "description": "ضمير يعود على الشيء أو الجملة التي قيلت."
+        "description": "يشير إلى المكان أو الشيء الذي تحدد عنوانه."
       },
       {
         "term": "is",
-        "description": "فعل be في الحاضر مع المفرد."
+        "description": "تربط المكان بعنوانه."
       },
       {
         "term": "on",
-        "description": "حرف جر يعني على أو في يوم محدد حسب السياق."
+        "description": "تستخدم مع أسماء الشوارع بمعنى يقع في أو على."
       },
       {
         "term": "7th",
-        "description": "رقم يدل على السابع."
+        "description": "السابع، وهو رقم ترتيبي لاسم الشارع."
       },
       {
         "term": "Street",
-        "description": "اسم يعني شارع."
+        "description": "شارع."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "It is on 7th Street.",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "تستخدم الجملة فعل الربط في الحاضر لوصف عنوان مكان، وتأتي on عادة مع أسماء الشوارع."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "People often say, \"It is on 7th Street\" in situations like this.",
-        "ar": "يقول الناس كثيرًا: \"إنه في شارع السابع\" في مواقف كهذه.",
-        "context": "تستخدم الجملة بوصفها تركيبًا شائعًا في موقف مشابه."
+        "en": "It is on 7th Street.",
+        "ar": "إنه في شارع السابع.",
+        "context": "تقال عند تحديد عنوان مكان."
       },
       {
         "id": 2,
-        "en": "You can say, \"It is on 7th Street\" when this happens.",
-        "ar": "يمكنك أن تقول: \"إنه في شارع السابع\" عندما يحدث هذا.",
-        "context": "توضح أن الجملة مناسبة في موقف متكرر."
+        "en": "The hotel is on 7th Street.",
+        "ar": "الفندق في شارع السابع.",
+        "context": "تقال عند تحديد موقع فندق."
       },
       {
         "id": 3,
-        "en": "I heard someone say, \"It is on 7th Street\".",
-        "ar": "سمعت شخصًا يقول: \"إنه في شارع السابع\".",
-        "context": "تجعل الجملة جزءًا من كلام سمعته من شخص آخر."
+        "en": "My office is on 7th Street.",
+        "ar": "مكتبي في شارع السابع.",
+        "context": "تقال عند إعطاء عنوان العمل."
       },
       {
         "id": 4,
-        "en": "The teacher used the sentence, \"It is on 7th Street\" in class.",
-        "ar": "استخدم المعلم الجملة: \"إنه في شارع السابع\" في الصف.",
-        "context": "تستخدم الجملة مثالًا تعليميًا في الصف."
+        "en": "Is the restaurant on 7th Street?",
+        "ar": "هل المطعم في شارع السابع؟",
+        "context": "تستخدم للسؤال عن عنوان مطعم."
       },
       {
         "id": 5,
-        "en": "Many learners remember the sentence, \"It is on 7th Street\" first.",
-        "ar": "يتذكر كثير من المتعلمين الجملة: \"إنه في شارع السابع\" أولًا.",
-        "context": "تقدم الجملة بوصفها جملة تعليمية أساسية."
+        "en": "The bank is on 5th Street.",
+        "ar": "البنك في شارع الخامس.",
+        "context": "تقال عند استخدام رقم شارع مختلف."
       },
       {
         "id": 6,
-        "en": "She said, \"It is on 7th Street\" in a calm way.",
-        "ar": "قالت: \"إنه في شارع السابع\" بطريقة هادئة.",
-        "context": "تجعل الجملة جزءًا من كلام مباشر في موقف عادي."
+        "en": "It is on 7th Street near the park.",
+        "ar": "إنه في شارع السابع قرب الحديقة.",
+        "context": "تقال عند إضافة علامة قريبة للعنوان."
       },
       {
         "id": 7,
-        "en": "He repeated, \"It is on 7th Street\" more than once.",
-        "ar": "ردد: \"إنه في شارع السابع\" أكثر من مرة.",
-        "context": "تضيف معنى التكرار لنفس الجملة."
+        "en": "Her apartment is on 7th Street.",
+        "ar": "شقتها في شارع السابع.",
+        "context": "تقال عند ذكر عنوان سكن."
       },
       {
         "id": 8,
-        "en": "At the right moment, someone might say, \"It is on 7th Street\".",
-        "ar": "في اللحظة المناسبة، قد يقول شخص ما: \"إنه في شارع السابع\".",
-        "context": "توضح أن الجملة مرتبطة بتوقيت مناسب في السياق."
+        "en": "The cafe is on Main Street.",
+        "ar": "المقهى في الشارع الرئيسي.",
+        "context": "تقال عند استخدام اسم شارع معروف."
       },
       {
         "id": 9,
-        "en": "I wrote down the sentence, \"It is on 7th Street\" so I would remember it.",
-        "ar": "كتبت الجملة: \"إنه في شارع السابع\" حتى أتذكرها.",
-        "context": "تعطي مثالًا على حفظ الجملة أو مراجعتها."
+        "en": "The museum is on 7th Street and Oak Avenue.",
+        "ar": "المتحف في شارع السابع وجادة أوك.",
+        "context": "تقال عند تحديد تقاطع أو موقع أدق."
       },
       {
         "id": 10,
-        "en": "It is useful to know when to say, \"It is on 7th Street\".",
-        "ar": "من المفيد أن تعرف متى تقول: \"إنه في شارع السابع\".",
-        "context": "تركز على معرفة الوقت المناسب لاستخدام الجملة."
+        "en": "We live on 7th Street.",
+        "ar": "نحن نسكن في شارع السابع.",
+        "context": "تقال عند إعطاء عنوان السكن."
       }
     ]
   }

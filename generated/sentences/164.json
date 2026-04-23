@@ -10,79 +10,87 @@
     "wordMeanings": [
       {
         "term": "At",
-        "description": "حرف جر يعني عند أو في وقت/مكان محدد."
+        "description": "تستخدم مع الوقت للسؤال عن لحظة أو ساعة محددة."
       },
       {
         "term": "what",
-        "description": "أداة سؤال عن الشيء أو المعنى أو الاختيار."
+        "description": "أي، وتستخدم هنا للسؤال عن المعلومة المطلوبة."
       },
       {
         "term": "time",
-        "description": "تكرار الكلمة هنا جزء من التعبير الثابت الذي يعني أحيانًا أو من وقت لآخر."
+        "description": "وقت أو ساعة حدوث شيء."
       }
     ],
-    "tense": null,
-    "tenseReason": "استُعمل هذا التركيب بحسب وظيفته في السياق، وليس بوصفه زمنًا فعليًا مستقلًا يمكن فصله بسهولة عن المعنى الوظيفي للجملة.",
+    "grammarExplanations": [
+      {
+        "sentence": "At what time?",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه عبارة سؤال مختصرة عن الوقت، وفيها حذف للفعل حسب السياق، لذلك لا يظهر فيها زمن مستقل."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "You can ask, \"At what time?\" when you need information.",
-        "ar": "يمكنك أن تسأل: \"في أي وقت؟\" عندما تحتاج إلى معلومة.",
-        "context": "تستعمل الجملة كسؤال مباشر للحصول على معلومة."
+        "en": "At what time?",
+        "ar": "في أي وقت؟",
+        "context": "تقال للسؤال عن وقت محدد."
       },
       {
         "id": 2,
-        "en": "Many people ask, \"At what time?\" in this situation.",
-        "ar": "يسأل كثير من الناس: \"في أي وقت؟\" في هذا الموقف.",
-        "context": "توضح أن هذا سؤال شائع في موقف مشابه."
+        "en": "At what time does it start?",
+        "ar": "في أي وقت يبدأ؟",
+        "context": "تقال عند السؤال عن بداية حدث."
       },
       {
         "id": 3,
-        "en": "I asked, \"At what time?\" because I was not sure.",
-        "ar": "سألت: \"في أي وقت؟\" لأنني لم أكن متأكدًا.",
-        "context": "تضيف سببًا لطرح السؤال."
+        "en": "At what time should I come?",
+        "ar": "في أي وقت ينبغي أن آتي؟",
+        "context": "تقال عند ترتيب موعد وصول."
       },
       {
         "id": 4,
-        "en": "She asked politely, \"At what time?\"",
-        "ar": "سألت بأدب: \"في أي وقت؟\".",
-        "context": "تبين أن السؤال قيل بطريقة مهذبة."
+        "en": "At what time is the meeting?",
+        "ar": "في أي وقت يكون الاجتماع؟",
+        "context": "تقال لمعرفة موعد اجتماع."
       },
       {
         "id": 5,
-        "en": "At work, someone may ask, \"At what time?\"",
-        "ar": "في العمل، قد يسأل شخص ما: \"في أي وقت؟\".",
-        "context": "تضع السؤال في سياق مهني أو عملي."
+        "en": "At what time is the bus?",
+        "ar": "في أي وقت تكون الحافلة؟",
+        "context": "تقال عند السؤال عن موعد الحافلة."
       },
       {
         "id": 6,
-        "en": "Before deciding, ask: \"At what time?\"",
-        "ar": "قبل أن تقرر، اسأل: \"في أي وقت؟\".",
-        "context": "تستخدم السؤال قبل اتخاذ قرار."
+        "en": "At what time do you close?",
+        "ar": "في أي وقت تغلقون؟",
+        "context": "تقال للسؤال عن وقت إغلاق محل أو مكتب."
       },
       {
         "id": 7,
-        "en": "The student asked, \"At what time?\" in class.",
-        "ar": "سأل الطالب: \"في أي وقت؟\" في الصف.",
-        "context": "تجعل الجملة جزءًا من موقف تعليمي."
+        "en": "At what time can I call?",
+        "ar": "في أي وقت يمكنني الاتصال؟",
+        "context": "تقال لمعرفة وقت مناسب للمكالمة."
       },
       {
         "id": 8,
-        "en": "While traveling, you can ask, \"At what time?\"",
-        "ar": "أثناء السفر، يمكنك أن تسأل: \"في أي وقت؟\".",
-        "context": "تربط السؤال بموقف السفر أو التنقل."
+        "en": "At what time will she arrive?",
+        "ar": "في أي وقت ستصل؟",
+        "context": "تقال عند السؤال عن وقت وصول امرأة."
       },
       {
         "id": 9,
-        "en": "He asked me, \"At what time?\" again.",
-        "ar": "سألني: \"في أي وقت؟\" مرة أخرى.",
-        "context": "تضيف معنى التكرار لنفس السؤال."
+        "en": "At what time is breakfast?",
+        "ar": "في أي وقت يكون الإفطار؟",
+        "context": "تقال في فندق أو بيت لمعرفة موعد الإفطار."
       },
       {
         "id": 10,
-        "en": "If you are not sure, ask: \"At what time?\"",
-        "ar": "إذا لم تكن متأكدًا، فاسأل: \"في أي وقت؟\".",
-        "context": "توضح أن السؤال مناسب عند عدم التأكد."
+        "en": "At what time does the train leave?",
+        "ar": "في أي وقت يغادر القطار؟",
+        "context": "تقال عند السؤال عن موعد مغادرة القطار."
       }
     ]
   }

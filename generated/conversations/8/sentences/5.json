@@ -10,124 +10,147 @@
     "wordMeanings": [
       {
         "term": "I",
-        "description": "ضمير المتكلم."
+        "description": "ضمير المتكلم المفرد."
       },
       {
         "term": "am",
-        "description": "فعل be مع I ويُستعمل هنا مع learning لتكوين المضارع المستمر."
+        "description": "صيغة تأتي مع ضمير المتكلم المفرد للتعبير عن حالة أو يقين."
       },
       {
         "term": "sure",
-        "description": "حال أو ظرف يعني متأكد."
+        "description": "تعني متأكد."
       },
       {
         "term": "she",
-        "description": "ضمير يشير إلى امرأة أو بنت."
+        "description": "ضمير يعود على العمة."
       },
       {
         "term": "will",
-        "description": "أداة مستقبل تدل على ما سيحدث لاحقًا."
+        "description": "يدل على المستقبل أو توقع ما سيحدث."
       },
       {
         "term": "be",
-        "description": "فعل أمر من be."
+        "description": "يعني تكون بعد will."
       },
       {
         "term": "surprised",
-        "description": "فعل يعني عندما."
+        "description": "مندَهشة أو متفاجئة."
       },
       {
         "term": "to",
-        "description": "أداة تأتي قبل المصدر بعد أفعال مثل want."
+        "description": "تأتي قبل الفعل لتوضيح سبب الدهشة."
       },
       {
         "term": "see",
-        "description": "فعل يعني يرى."
+        "description": "تعني ترى أو تشاهد."
       },
       {
         "term": "how",
-        "description": "أداة سؤال."
+        "description": "تبدأ تعبيرًا عن درجة أو مقدار."
       },
       {
         "term": "big",
-        "description": "صفة تعني كبير."
+        "description": "كبير الحجم أو النمو."
       },
       {
         "term": "he",
-        "description": "الضمير الذي يعود على شخص مفرد مذكر."
+        "description": "ضمير يعود على الطفل."
       },
       {
         "term": "is",
-        "description": "فعل be في الحاضر مع المفرد."
+        "description": "صيغة تربط الضمير بالوصف الحالي."
       },
       {
         "term": "now",
-        "description": "ظرف زمان يعني الآن."
+        "description": "الآن، في الوقت الحالي."
       }
     ],
-    "tense": "المستقبل البسيط",
-    "tenseEn": "Future Simple",
-    "tenseReason": "استُعمل المستقبل البسيط لأن الجملة تتحدث عن شيء سيحدث لاحقًا أو عن قرار أو توقع يخص المستقبل.",
+    "grammarExplanations": [
+      {
+        "sentence": "I am sure",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُعمل المضارع البسيط للتعبير عن يقين المتكلم الحالي."
+        }
+      },
+      {
+        "sentence": "she will be surprised to see how big he is now",
+        "explanation": {
+          "tense": "المستقبل البسيط",
+          "tenseEn": "Future Simple",
+          "reason": "استُعمل المستقبل البسيط للتعبير عن توقع ما سيحدث عندما ترى العمة الطفل."
+        }
+      },
+      {
+        "sentence": "how big he is now",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُعمل المضارع البسيط لوصف حجم الطفل الحالي."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "Soon, I am sure she will be surprised to see how big he is now.",
-        "ar": "قريبًا، أنا متأكد أنها ستندهش عندما ترى كم هو كبير الآن.",
-        "context": "تؤكد قرب الحدث في المستقبل."
+        "en": "I am sure she will be happy to see him.",
+        "ar": "أنا متأكد أنها ستكون سعيدة برؤيته.",
+        "context": "تتوقع شعور شخص عند اللقاء."
       },
       {
         "id": 2,
-        "en": "Tomorrow, I am sure she will be surprised to see how big he is now.",
-        "ar": "غدًا، أنا متأكد أنها ستندهش عندما ترى كم هو كبير الآن.",
-        "context": "تربط الجملة بوقت مستقبلي محدد."
+        "en": "She will be surprised to see the baby.",
+        "ar": "ستندهش عندما ترى الطفل.",
+        "context": "تتحدث عن رد فعل متوقع."
       },
       {
         "id": 3,
-        "en": "I am sure she will be surprised to see how big he is now after lunch.",
-        "ar": "أنا متأكد أنها ستندهش عندما ترى كم هو كبير الآن بعد الغداء.",
-        "context": "تضيف توقيتًا مستقبليًا واضحًا."
+        "en": "I am sure he is much bigger now.",
+        "ar": "أنا متأكد أنه أكبر بكثير الآن.",
+        "context": "تصف تغير طفل مع الوقت."
       },
       {
         "id": 4,
-        "en": "I am sure she will be surprised to see how big he is now if everything goes well.",
-        "ar": "أنا متأكد أنها ستندهش عندما ترى كم هو كبير الآن إذا سارت الأمور جيدًا.",
-        "context": "تجعل الحدث معتمدًا على شرط مستقبلي."
+        "en": "I am sure they will be excited.",
+        "ar": "أنا متأكد أنهم سيكونون متحمسين.",
+        "context": "تتوقع رد فعل جماعة."
       },
       {
         "id": 5,
-        "en": "I am sure she will be surprised to see how big he is now later today.",
-        "ar": "أنا متأكد أنها ستندهش عندما ترى كم هو كبير الآن لاحقًا اليوم.",
-        "context": "تربط الجملة بمستقبل قريب جدًا."
+        "en": "She will be surprised by how tall he is.",
+        "ar": "ستندهش من مدى طوله.",
+        "context": "تصف سبب الدهشة."
       },
       {
         "id": 6,
-        "en": "I think I am sure she will be surprised to see how big he is now.",
-        "ar": "أعتقد أن أنا متأكد أنها ستندهش عندما ترى كم هو كبير الآن.",
-        "context": "تضيف معنى التوقع أو الاعتقاد."
+        "en": "I am sure my aunt will love him.",
+        "ar": "أنا متأكد أن عمتي ستحبه.",
+        "context": "تتوقع شعور قريبة تجاه طفل."
       },
       {
         "id": 7,
-        "en": "I am sure she will be surprised to see how big he is now, so get ready.",
-        "ar": "أنا متأكد أنها ستندهش عندما ترى كم هو كبير الآن، لذا استعد.",
-        "context": "تضيف نتيجة أو استعدادًا لحدث مستقبلي."
+        "en": "He is so big now.",
+        "ar": "إنه كبير جدًا الآن.",
+        "context": "تصف نمو الطفل حاليًا."
       },
       {
         "id": 8,
-        "en": "Next week, I am sure she will be surprised to see how big he is now.",
-        "ar": "الأسبوع القادم، أنا متأكد أنها ستندهش عندما ترى كم هو كبير الآن.",
-        "context": "تنقل الجملة إلى وقت مستقبلي أبعد قليلًا."
+        "en": "I am sure she will notice the change.",
+        "ar": "أنا متأكد أنها ستلاحظ التغيير.",
+        "context": "تتوقع أن ترى شخصًا تغيرًا واضحًا."
       },
       {
         "id": 9,
-        "en": "I am sure she will be surprised to see how big he is now when the time is right.",
-        "ar": "أنا متأكد أنها ستندهش عندما ترى كم هو كبير الآن عندما يحين الوقت المناسب.",
-        "context": "تربط الحدث المستقبلي بوقت مناسب غير محدد."
+        "en": "She will be surprised when she arrives.",
+        "ar": "ستندهش عندما تصل.",
+        "context": "تتحدث عن رد فعل عند الوصول."
       },
       {
         "id": 10,
-        "en": "Before long, I am sure she will be surprised to see how big he is now.",
-        "ar": "بعد وقت قصير، أنا متأكد أنها ستندهش عندما ترى كم هو كبير الآن.",
-        "context": "تضيف ظرفًا مستقبليًا عامًا."
+        "en": "I am sure he will smile when he sees her.",
+        "ar": "أنا متأكد أنه سيبتسم عندما يراها.",
+        "context": "تتوقع رد فعل الطفل عند اللقاء."
       }
     ]
   }

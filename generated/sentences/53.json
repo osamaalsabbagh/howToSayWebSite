@@ -10,80 +10,87 @@
     "wordMeanings": [
       {
         "term": "I",
-        "description": "ضمير المتكلم."
+        "description": "ضمير المتكلم المفرد."
       },
       {
         "term": "am",
-        "description": "فعل be في الحاضر مع I."
+        "description": "صيغة تأتي مع ضمير المتكلم المفرد للتعبير عن الشعور الحالي."
       },
       {
         "term": "happy",
-        "description": "صفة تعني سعيد."
+        "description": "سعيد أو يشعر بالفرح."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط مع be لوصف شعور المتكلم الحالي أو حالته العامة.",
+    "grammarExplanations": [
+      {
+        "sentence": "I am happy.",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "الجملة تصف شعور المتكلم الحالي بالسعادة."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
         "en": "I am happy today.",
         "ar": "أنا سعيد اليوم.",
-        "context": "تصف شعورك في هذا اليوم."
+        "context": "تقال للتعبير عن شعور جيد في ذلك اليوم."
       },
       {
         "id": 2,
         "en": "I am happy for you.",
-        "ar": "أنا سعيد لأجلك.",
-        "context": "تشارك شخصًا فرحته."
+        "ar": "أنا سعيد من أجلك.",
+        "context": "تقال عند الفرح لنجاح شخص آخر."
       },
       {
         "id": 3,
-        "en": "I am happy to be here.",
-        "ar": "أنا سعيد بوجودي هنا.",
-        "context": "تعبر عن ارتياحك للمكان أو الموقف."
+        "en": "She is happy with the result.",
+        "ar": "هي سعيدة بالنتيجة.",
+        "context": "تصف رضا شخص عن نتيجة."
       },
       {
         "id": 4,
-        "en": "I am happy with the result.",
-        "ar": "أنا سعيد بالنتيجة.",
-        "context": "تعبر عن رضاك عن النتيجة."
+        "en": "We are happy to help.",
+        "ar": "نحن سعداء بالمساعدة.",
+        "context": "تقال عند عرض المساعدة بلطف."
       },
       {
         "id": 5,
-        "en": "I am happy because we finished.",
-        "ar": "أنا سعيد لأننا انتهينا.",
-        "context": "تذكر سبب شعورك الجيد."
+        "en": "He is happy at school.",
+        "ar": "هو سعيد في المدرسة.",
+        "context": "تصف شعور شخص في مكان معين."
       },
       {
         "id": 6,
-        "en": "I am happy now that I understand.",
-        "ar": "أنا سعيد الآن لأنني أفهم.",
-        "context": "السعادة ناتجة عن الفهم أو الوضوح."
+        "en": "I am happy to hear that.",
+        "ar": "أنا سعيد لسماع ذلك.",
+        "context": "تقال عند سماع خبر جيد."
       },
       {
         "id": 7,
-        "en": "I am happy to help.",
-        "ar": "أنا سعيد بالمساعدة.",
-        "context": "تعبر عن استعداد لطيف للمساعدة."
+        "en": "Are you happy now?",
+        "ar": "هل أنت سعيد الآن؟",
+        "context": "تُستخدم للسؤال عن شعور شخص."
       },
       {
         "id": 8,
-        "en": "I am happy you are here.",
-        "ar": "أنا سعيد لأنك هنا.",
-        "context": "تعبر عن فرحتك بوجود شخص."
+        "en": "They are happy with their new home.",
+        "ar": "هم سعداء بمنزلهم الجديد.",
+        "context": "تصف رضا أشخاص عن مكان جديد."
       },
       {
         "id": 9,
-        "en": "I am happy with my progress.",
-        "ar": "أنا سعيد بتقدمي.",
-        "context": "تعبر عن رضاك عن تطورك."
+        "en": "I am happy about the news.",
+        "ar": "أنا سعيد بالخبر.",
+        "context": "تقال عند الفرح بسبب خبر."
       },
       {
         "id": 10,
-        "en": "I am happy we talked today.",
-        "ar": "أنا سعيد لأننا تحدثنا اليوم.",
-        "context": "تعبر عن ارتياحك بعد محادثة."
+        "en": "My mother is happy today.",
+        "ar": "أمي سعيدة اليوم.",
+        "context": "تصف شعور أحد أفراد العائلة."
       }
     ]
   }

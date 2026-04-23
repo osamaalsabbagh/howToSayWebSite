@@ -10,92 +10,99 @@
     "wordMeanings": [
       {
         "term": "Are",
-        "description": "فعل be مع you."
+        "description": "تأتي في بداية السؤال مع ضمير المخاطب لتكوين سؤال."
       },
       {
         "term": "you",
-        "description": "الضمير الذي يعود على الشخص المخاطَب."
+        "description": "أنت، وتشير إلى الشخص المخاطب."
       },
       {
         "term": "going",
-        "description": "هنا لا تعني يذهب حرفيًا، بل تُستعمل للسؤال عن سير الأمور وتطورها."
+        "description": "جزء من تركيب يدل هنا على نية أو خطة مستقبلية."
       },
       {
         "term": "to",
-        "description": "أداة تأتي قبل المصدر بعد أفعال مثل want."
+        "description": "تربط تركيب النية بالفعل الأساسي بعده."
       },
       {
         "term": "help",
-        "description": "اسم هنا بمعنى المساعدة."
+        "description": "تساعد أو تقدم العون."
       },
       {
         "term": "her",
-        "description": "ضمير يعود على امرأة أو بنت، وقد يأتي للملكية حسب التركيب."
+        "description": "إياها أو لها، وتشير إلى امرأة أو فتاة."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "Are you going to help her?",
+        "explanation": {
+          "tense": "المستقبل البسيط",
+          "tenseEn": "Future Simple",
+          "reason": "السؤال يستخدم تركيب النية المستقبلية: هل أنت ذاهب إلى فعل شيء، ومعناه هنا السؤال عن خطة أو نية لمساعدتها لاحقًا."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "You can ask, \"Are you going to help her?\" when you need information.",
-        "ar": "يمكنك أن تسأل: \"هل ستساعدها؟\" عندما تحتاج إلى معلومة.",
-        "context": "تستعمل الجملة كسؤال مباشر للحصول على معلومة."
+        "en": "Are you going to help her?",
+        "ar": "هل ستساعدها؟",
+        "context": "تقال عند السؤال عن نية شخص في مساعدة امرأة."
       },
       {
         "id": 2,
-        "en": "Many people ask, \"Are you going to help her?\" in this situation.",
-        "ar": "يسأل كثير من الناس: \"هل ستساعدها؟\" في هذا الموقف.",
-        "context": "توضح أن هذا سؤال شائع في موقف مشابه."
+        "en": "Are you going to call her?",
+        "ar": "هل ستتصل بها؟",
+        "context": "تقال عند السؤال عن نية الاتصال بامرأة."
       },
       {
         "id": 3,
-        "en": "I asked, \"Are you going to help her?\" because I was not sure.",
-        "ar": "سألت: \"هل ستساعدها؟\" لأنني لم أكن متأكدًا.",
-        "context": "تضيف سببًا لطرح السؤال."
+        "en": "Are you going to visit her?",
+        "ar": "هل ستزورها؟",
+        "context": "تقال عند السؤال عن خطة زيارة امرأة."
       },
       {
         "id": 4,
-        "en": "She asked politely, \"Are you going to help her?\"",
-        "ar": "سألت بأدب: \"هل ستساعدها؟\".",
-        "context": "تبين أن السؤال قيل بطريقة مهذبة."
+        "en": "Are you going to meet her today?",
+        "ar": "هل ستقابلها اليوم؟",
+        "context": "تقال عند السؤال عن موعد لقاء في اليوم نفسه."
       },
       {
         "id": 5,
-        "en": "At work, someone may ask, \"Are you going to help her?\"",
-        "ar": "في العمل، قد يسأل شخص ما: \"هل ستساعدها؟\".",
-        "context": "تضع السؤال في سياق مهني أو عملي."
+        "en": "Are you going to help them?",
+        "ar": "هل ستساعدهم؟",
+        "context": "تقال عند السؤال عن نية مساعدة مجموعة."
       },
       {
         "id": 6,
-        "en": "Before deciding, ask: \"Are you going to help her?\"",
-        "ar": "قبل أن تقرر، اسأل: \"هل ستساعدها؟\".",
-        "context": "تستخدم السؤال قبل اتخاذ قرار."
+        "en": "Are you going to help me?",
+        "ar": "هل ستساعدني؟",
+        "context": "تقال عند طلب معرفة إن كان المخاطب سيقدم المساعدة."
       },
       {
         "id": 7,
-        "en": "The student asked, \"Are you going to help her?\" in class.",
-        "ar": "سأل الطالب: \"هل ستساعدها؟\" في الصف.",
-        "context": "تجعل الجملة جزءًا من موقف تعليمي."
+        "en": "Are you going to tell her?",
+        "ar": "هل ستخبرها؟",
+        "context": "تقال عند السؤال عن نية إخبار امرأة بشيء."
       },
       {
         "id": 8,
-        "en": "While traveling, you can ask, \"Are you going to help her?\"",
-        "ar": "أثناء السفر، يمكنك أن تسأل: \"هل ستساعدها؟\".",
-        "context": "تربط السؤال بموقف السفر أو التنقل."
+        "en": "Are you going to drive her home?",
+        "ar": "هل ستوصلها بالسيارة إلى البيت؟",
+        "context": "تقال عند السؤال عن خطة إيصال امرأة إلى منزلها."
       },
       {
         "id": 9,
-        "en": "He asked me, \"Are you going to help her?\" again.",
-        "ar": "سألني: \"هل ستساعدها؟\" مرة أخرى.",
-        "context": "تضيف معنى التكرار لنفس السؤال."
+        "en": "Are you going to give her the ticket?",
+        "ar": "هل ستعطيها التذكرة؟",
+        "context": "تقال عند السؤال عن نية تسليم تذكرة لامرأة."
       },
       {
         "id": 10,
-        "en": "If you are not sure, ask: \"Are you going to help her?\"",
-        "ar": "إذا لم تكن متأكدًا، فاسأل: \"هل ستساعدها؟\".",
-        "context": "توضح أن السؤال مناسب عند عدم التأكد."
+        "en": "Are you going to wait for her?",
+        "ar": "هل ستنتظرها؟",
+        "context": "تقال عند السؤال عن نية انتظار امرأة."
       }
     ]
   }

@@ -10,88 +10,95 @@
     "wordMeanings": [
       {
         "term": "I",
-        "description": "ضمير المتكلم."
+        "description": "ضمير المتكلم ويشير إلى الشخص الذي يتحدث."
       },
       {
         "term": "do",
-        "description": "فعل مساعد يُستعمل لتكوين النفي والسؤال في المضارع البسيط."
+        "description": "تساعد هنا على تكوين النفي في المضارع مع I."
       },
       {
         "term": "not",
-        "description": "أداة نفي."
+        "description": "كلمة نفي تجعل المعنى لا أريد."
       },
       {
         "term": "want",
-        "description": "فعل يدل على الرغبة."
+        "description": "أريد أو أرغب في شيء."
       },
       {
         "term": "it",
-        "description": "ضمير يعود على الشيء أو الجملة التي قيلت."
+        "description": "ضمير يشير إلى شيء معروف من السياق."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "I do not want it.",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "تستخدم الجملة المضارع البسيط للتعبير عن رغبة أو رفض حالي، ويأتي do not قبل الفعل الأساسي لتكوين النفي."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "People often say, \"I do not want it\" in situations like this.",
-        "ar": "يقول الناس كثيرًا: \"لا أريده\" في مواقف كهذه.",
-        "context": "تستخدم الجملة بوصفها تركيبًا شائعًا في موقف مشابه."
+        "en": "I do not want this bag.",
+        "ar": "لا أريد هذه الحقيبة.",
+        "context": "تقال عند رفض شيء معروض."
       },
       {
         "id": 2,
-        "en": "You can say, \"I do not want it\" when this happens.",
-        "ar": "يمكنك أن تقول: \"لا أريده\" عندما يحدث هذا.",
-        "context": "توضح أن الجملة مناسبة في موقف متكرر."
+        "en": "She does not want tea.",
+        "ar": "هي لا تريد الشاي.",
+        "context": "تقال عند رفض مشروب."
       },
       {
         "id": 3,
-        "en": "I heard someone say, \"I do not want it\".",
-        "ar": "سمعت شخصًا يقول: \"لا أريده\".",
-        "context": "تجعل الجملة جزءًا من كلام سمعته من شخص آخر."
+        "en": "I do not want any help.",
+        "ar": "لا أريد أي مساعدة.",
+        "context": "تقال عند رفض المساعدة."
       },
       {
         "id": 4,
-        "en": "The teacher used the sentence, \"I do not want it\" in class.",
-        "ar": "استخدم المعلم الجملة: \"لا أريده\" في الصف.",
-        "context": "تستخدم الجملة مثالًا تعليميًا في الصف."
+        "en": "He does not want the ticket.",
+        "ar": "هو لا يريد التذكرة.",
+        "context": "تقال عند رفض تذكرة أو عدم الحاجة إليها."
       },
       {
         "id": 5,
-        "en": "Many learners remember the sentence, \"I do not want it\" first.",
-        "ar": "يتذكر كثير من المتعلمين الجملة: \"لا أريده\" أولًا.",
-        "context": "تقدم الجملة بوصفها جملة تعليمية أساسية."
+        "en": "We do not want a problem.",
+        "ar": "لا نريد مشكلة.",
+        "context": "تقال عند محاولة تجنب الخلاف."
       },
       {
         "id": 6,
-        "en": "She said, \"I do not want it\" in a calm way.",
-        "ar": "قالت: \"لا أريده\" بطريقة هادئة.",
-        "context": "تجعل الجملة جزءًا من كلام مباشر في موقف عادي."
+        "en": "I do not want more food.",
+        "ar": "لا أريد المزيد من الطعام.",
+        "context": "تقال عند الشبع أو الاكتفاء."
       },
       {
         "id": 7,
-        "en": "He repeated, \"I do not want it\" more than once.",
-        "ar": "ردد: \"لا أريده\" أكثر من مرة.",
-        "context": "تضيف معنى التكرار لنفس الجملة."
+        "en": "They do not want a new car.",
+        "ar": "هم لا يريدون سيارة جديدة.",
+        "context": "تقال عند عدم الرغبة في شراء شيء."
       },
       {
         "id": 8,
-        "en": "At the right moment, someone might say, \"I do not want it\".",
-        "ar": "في اللحظة المناسبة، قد يقول شخص ما: \"لا أريده\".",
-        "context": "توضح أن الجملة مرتبطة بتوقيت مناسب في السياق."
+        "en": "I do not want this job.",
+        "ar": "لا أريد هذه الوظيفة.",
+        "context": "تقال عند رفض فرصة عمل."
       },
       {
         "id": 9,
-        "en": "I wrote down the sentence, \"I do not want it\" so I would remember it.",
-        "ar": "كتبت الجملة: \"لا أريده\" حتى أتذكرها.",
-        "context": "تعطي مثالًا على حفظ الجملة أو مراجعتها."
+        "en": "My son does not want milk.",
+        "ar": "ابني لا يريد الحليب.",
+        "context": "تقال عند رفض طفل لمشروب."
       },
       {
         "id": 10,
-        "en": "It is useful to know when to say, \"I do not want it\".",
-        "ar": "من المفيد أن تعرف متى تقول: \"لا أريده\".",
-        "context": "تركز على معرفة الوقت المناسب لاستخدام الجملة."
+        "en": "I do not want that answer.",
+        "ar": "لا أريد تلك الإجابة.",
+        "context": "تقال عند رفض رد غير مناسب."
       }
     ]
   }

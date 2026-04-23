@@ -10,88 +10,95 @@
     "wordMeanings": [
       {
         "term": "Do",
-        "description": "فعل مساعد يُستعمل لتكوين النفي والسؤال في المضارع البسيط."
+        "description": "تأتي في بداية السؤال مع المخاطب لتكوين سؤال في الحاضر."
       },
       {
         "term": "you",
-        "description": "الضمير الذي يعود على الشخص المخاطَب."
+        "description": "أنت أو أنتم، وتشير إلى البائع أو المكان."
       },
       {
         "term": "have",
-        "description": "فعل يعني يملك، ويأتي أيضًا كفعل مساعد."
+        "description": "لديك أو يتوفر عندك."
       },
       {
         "term": "something",
-        "description": "ضمير يعني شيء ما."
+        "description": "شيء ما، وتوحي بأن المتكلم يتوقع أو يرجو وجود خيار."
       },
       {
         "term": "cheaper",
-        "description": "صفة تعني أرخص."
+        "description": "أرخص، أي بسعر أقل."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "Do you have something cheaper?",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "يستخدم المضارع البسيط للسؤال عن توفر خيار أرخص، وكلمة شيء ما تجعل السؤال يميل إلى توقع وجود خيار بديل."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "You can ask, \"Do you have something cheaper?\" when you need information.",
-        "ar": "يمكنك أن تسأل: \"هل لديك شيء أرخص؟\" عندما تحتاج إلى معلومة.",
-        "context": "تستعمل الجملة كسؤال مباشر للحصول على معلومة."
+        "en": "Do you have something cheaper?",
+        "ar": "هل لديك شيء أرخص؟",
+        "context": "تقال عند توقع وجود خيار أرخص."
       },
       {
         "id": 2,
-        "en": "Many people ask, \"Do you have something cheaper?\" in this situation.",
-        "ar": "يسأل كثير من الناس: \"هل لديك شيء أرخص؟\" في هذا الموقف.",
-        "context": "توضح أن هذا سؤال شائع في موقف مشابه."
+        "en": "Do you have something smaller?",
+        "ar": "هل لديك شيء أصغر؟",
+        "context": "تقال عند توقع توفر حجم أصغر."
       },
       {
         "id": 3,
-        "en": "I asked, \"Do you have something cheaper?\" because I was not sure.",
-        "ar": "سألت: \"هل لديك شيء أرخص؟\" لأنني لم أكن متأكدًا.",
-        "context": "تضيف سببًا لطرح السؤال."
+        "en": "Do you have something larger?",
+        "ar": "هل لديك شيء أكبر؟",
+        "context": "تقال عند توقع توفر حجم أكبر."
       },
       {
         "id": 4,
-        "en": "She asked politely, \"Do you have something cheaper?\"",
-        "ar": "سألت بأدب: \"هل لديك شيء أرخص؟\".",
-        "context": "تبين أن السؤال قيل بطريقة مهذبة."
+        "en": "Do you have something better?",
+        "ar": "هل لديك شيء أفضل؟",
+        "context": "تقال عند البحث عن بديل أفضل."
       },
       {
         "id": 5,
-        "en": "At work, someone may ask, \"Do you have something cheaper?\"",
-        "ar": "في العمل، قد يسأل شخص ما: \"هل لديك شيء أرخص؟\".",
-        "context": "تضع السؤال في سياق مهني أو عملي."
+        "en": "Do you have something less expensive?",
+        "ar": "هل لديك شيء أقل تكلفة؟",
+        "context": "تقال بطريقة مهذبة عند البحث عن سعر أقل."
       },
       {
         "id": 6,
-        "en": "Before deciding, ask: \"Do you have something cheaper?\"",
-        "ar": "قبل أن تقرر، اسأل: \"هل لديك شيء أرخص؟\".",
-        "context": "تستخدم السؤال قبل اتخاذ قرار."
+        "en": "Do you have something in red?",
+        "ar": "هل لديك شيء باللون الأحمر؟",
+        "context": "تقال عند توقع وجود لون محدد."
       },
       {
         "id": 7,
-        "en": "The student asked, \"Do you have something cheaper?\" in class.",
-        "ar": "سأل الطالب: \"هل لديك شيء أرخص؟\" في الصف.",
-        "context": "تجعل الجملة جزءًا من موقف تعليمي."
+        "en": "Do you have something for a gift?",
+        "ar": "هل لديك شيء كهدية؟",
+        "context": "تقال عند طلب اقتراح مناسب للهدية."
       },
       {
         "id": 8,
-        "en": "While traveling, you can ask, \"Do you have something cheaper?\"",
-        "ar": "أثناء السفر، يمكنك أن تسأل: \"هل لديك شيء أرخص؟\".",
-        "context": "تربط السؤال بموقف السفر أو التنقل."
+        "en": "Do you have something under twenty dollars?",
+        "ar": "هل لديك شيء بأقل من عشرين دولارًا؟",
+        "context": "تقال عند تحديد ميزانية."
       },
       {
         "id": 9,
-        "en": "He asked me, \"Do you have something cheaper?\" again.",
-        "ar": "سألني: \"هل لديك شيء أرخص؟\" مرة أخرى.",
-        "context": "تضيف معنى التكرار لنفس السؤال."
+        "en": "Do you have something like this?",
+        "ar": "هل لديك شيء مثل هذا؟",
+        "context": "تقال عند البحث عن بديل مشابه."
       },
       {
         "id": 10,
-        "en": "If you are not sure, ask: \"Do you have something cheaper?\"",
-        "ar": "إذا لم تكن متأكدًا، فاسأل: \"هل لديك شيء أرخص؟\".",
-        "context": "توضح أن السؤال مناسب عند عدم التأكد."
+        "en": "Do you have something available today?",
+        "ar": "هل لديك شيء متاح اليوم؟",
+        "context": "تقال عند الحاجة إلى خيار فوري."
       }
     ]
   }

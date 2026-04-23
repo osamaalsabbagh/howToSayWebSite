@@ -10,100 +10,115 @@
     "wordMeanings": [
       {
         "term": "Sure",
-        "description": "صفة تعني بالتأكيد."
+        "description": "كلمة موافقة تعني بالتأكيد أو نعم."
       },
       {
         "term": "I",
-        "description": "ضمير المتكلم."
+        "description": "ضمير المتكلم المفرد."
       },
       {
         "term": "will",
-        "description": "أداة مستقبل تدل على ما سيحدث لاحقًا."
+        "description": "تدل هنا على قرار أو وعد بفعل شيء بعد لحظة الكلام."
       },
       {
         "term": "display",
-        "description": "فعل يعني سأعرضها."
+        "description": "يعرض شيئًا ليكون مرئيًا."
       },
       {
         "term": "them",
-        "description": "ضمير مفعول به يعود على جماعة."
+        "description": "ضمير يعود على أشياء متعددة، مثل الصور."
       },
       {
         "term": "on",
-        "description": "حرف جر يعني على أو في يوم محدد حسب السياق."
+        "description": "حرف جر يحدد السطح أو الوسيلة التي سيظهر عليها الشيء."
       },
       {
         "term": "the",
-        "description": "أداة تعريف تشير إلى شيء معروف أو محدد."
+        "description": "أداة تعريف تشير إلى شاشة معروفة في الموقف."
       },
       {
         "term": "screen",
-        "description": "اسم يعني الشاشة."
+        "description": "الشاشة التي تظهر عليها الصور أو المعلومات."
       }
     ],
-    "tense": "المستقبل البسيط",
-    "tenseEn": "Future Simple",
-    "tenseReason": "استُعمل المستقبل البسيط لأن الجملة تتحدث عن شيء سيحدث لاحقًا أو عن قرار أو توقع يخص المستقبل.",
+    "grammarExplanations": [
+      {
+        "sentence": "Sure",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "كلمة موافقة قصيرة وليست جملة بزمن مستقل."
+        }
+      },
+      {
+        "sentence": "I will display them on the screen",
+        "explanation": {
+          "tense": "المستقبل البسيط",
+          "tenseEn": "Future Simple",
+          "reason": "استُخدم will للتعبير عن قرار فوري أو وعد بعرض الصور بعد لحظة الكلام."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "Soon, Sure, I will display them on the screen.",
-        "ar": "قريبًا، بالتأكيد، سأعرضها على الشاشة.",
-        "context": "تؤكد قرب الحدث في المستقبل."
+        "en": "Sure, I will send them now.",
+        "ar": "بالتأكيد، سأرسلها الآن.",
+        "context": "يُستخدم عند الموافقة على إرسال أشياء مباشرة."
       },
       {
         "id": 2,
-        "en": "Tomorrow, Sure, I will display them on the screen.",
-        "ar": "غدًا، بالتأكيد، سأعرضها على الشاشة.",
-        "context": "تربط الجملة بوقت مستقبلي محدد."
+        "en": "Sure, I will open the file on the screen.",
+        "ar": "بالتأكيد، سأفتح الملف على الشاشة.",
+        "context": "يُستخدم عند الموافقة على عرض ملف لشخص."
       },
       {
         "id": 3,
-        "en": "Sure, I will display them on the screen after lunch.",
-        "ar": "بالتأكيد، سأعرضها على الشاشة بعد الغداء.",
-        "context": "تضيف توقيتًا مستقبليًا واضحًا."
+        "en": "Sure, I will show you the photos.",
+        "ar": "بالتأكيد، سأريك الصور.",
+        "context": "يُستخدم للرد بالموافقة على طلب رؤية صور."
       },
       {
         "id": 4,
-        "en": "Sure, I will display them on the screen if everything goes well.",
-        "ar": "بالتأكيد، سأعرضها على الشاشة إذا سارت الأمور جيدًا.",
-        "context": "تجعل الحدث معتمدًا على شرط مستقبلي."
+        "en": "Sure, I will explain it in a minute.",
+        "ar": "بالتأكيد، سأشرحه خلال دقيقة.",
+        "context": "يُستخدم عند الوعد بشرح شيء قريبًا."
       },
       {
         "id": 5,
-        "en": "Sure, I will display them on the screen later today.",
-        "ar": "بالتأكيد، سأعرضها على الشاشة لاحقًا اليوم.",
-        "context": "تربط الجملة بمستقبل قريب جدًا."
+        "en": "Sure, I will print them for you.",
+        "ar": "بالتأكيد، سأطبعها لك.",
+        "context": "يُستخدم عند الموافقة على خدمة بسيطة."
       },
       {
         "id": 6,
-        "en": "I think Sure, I will display them on the screen.",
-        "ar": "أعتقد أن بالتأكيد، سأعرضها على الشاشة.",
-        "context": "تضيف معنى التوقع أو الاعتقاد."
+        "en": "Sure, I will put the map on the screen.",
+        "ar": "بالتأكيد، سأضع الخريطة على الشاشة.",
+        "context": "يُستخدم عند عرض خريطة لشخص."
       },
       {
         "id": 7,
-        "en": "Sure, I will display them on the screen, so get ready.",
-        "ar": "بالتأكيد، سأعرضها على الشاشة، لذا استعد.",
-        "context": "تضيف نتيجة أو استعدادًا لحدث مستقبلي."
+        "en": "Sure, I will call the owner.",
+        "ar": "بالتأكيد، سأتصل بالمالك.",
+        "context": "يُستخدم للرد على طلب تواصل مع شخص آخر."
       },
       {
         "id": 8,
-        "en": "Next week, Sure, I will display them on the screen.",
-        "ar": "الأسبوع القادم، بالتأكيد، سأعرضها على الشاشة.",
-        "context": "تنقل الجملة إلى وقت مستقبلي أبعد قليلًا."
+        "en": "Sure, I will check the schedule.",
+        "ar": "بالتأكيد، سأتحقق من الجدول.",
+        "context": "يُستخدم عند الموافقة على مراجعة وقت أو موعد."
       },
       {
         "id": 9,
-        "en": "Sure, I will display them on the screen when the time is right.",
-        "ar": "بالتأكيد، سأعرضها على الشاشة عندما يحين الوقت المناسب.",
-        "context": "تربط الحدث المستقبلي بوقت مناسب غير محدد."
+        "en": "Sure, I will display the details here.",
+        "ar": "بالتأكيد، سأعرض التفاصيل هنا.",
+        "context": "يُستخدم عند عرض معلومات أمام شخص."
       },
       {
         "id": 10,
-        "en": "Before long, Sure, I will display them on the screen.",
-        "ar": "بعد وقت قصير، بالتأكيد، سأعرضها على الشاشة.",
-        "context": "تضيف ظرفًا مستقبليًا عامًا."
+        "en": "Sure, I will answer your question.",
+        "ar": "بالتأكيد، سأجيب عن سؤالك.",
+        "context": "يُستخدم عند الموافقة على تقديم إجابة."
       }
     ]
   }

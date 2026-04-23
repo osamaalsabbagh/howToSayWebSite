@@ -10,119 +10,143 @@
     "wordMeanings": [
       {
         "term": "Yes",
-        "description": "جواب مباشر يفيد الموافقة أو التأكيد أو الإقرار بصحة شيء."
+        "description": "إجابة موافقة أو تأكيد."
       },
       {
         "term": "we",
-        "description": "ضمير المتكلمين."
+        "description": "ضمير يشير إلى المتكلم ومن معه، مثل الشركة أو فريق الخدمة."
       },
       {
         "term": "can",
-        "description": "فعل مساعد يدل هنا على القدرة أو الاستعداد لتلبية الطلب."
+        "description": "تدل على القدرة أو الإمكانية."
       },
       {
         "term": "send",
-        "description": "فعل يعني يمكننا."
+        "description": "يرسل أو يشحن."
       },
       {
         "term": "it",
-        "description": "ضمير يعود على الشيء أو الجملة التي قيلت."
+        "description": "ضمير يعود على الطلب أو الطرد."
       },
       {
         "term": "to",
-        "description": "أداة تأتي قبل المصدر بعد أفعال مثل want."
+        "description": "تحدد الجهة أو المكان الذي سيصل إليه الشيء."
       },
       {
         "term": "another",
-        "description": "كلمة تعني واحدًا آخر."
+        "description": "آخر أو مختلف."
       },
       {
         "term": "address",
-        "description": "اسم يعني عنوان."
+        "description": "عنوان."
       },
       {
         "term": "if",
-        "description": "أداة شرط تعني إذا."
+        "description": "تدخل شرطًا."
       },
       {
         "term": "you",
-        "description": "الضمير الذي يعود على الشخص المخاطَب."
+        "description": "ضمير المخاطب."
       },
       {
         "term": "tell",
-        "description": "فعل يعني يخبر أو يقول لشخص."
+        "description": "تخبر أو تبلغ."
       },
       {
         "term": "us",
-        "description": "ضمير مفعول به يعود على المتكلمين."
+        "description": "ضمير يشير إلى فريق الخدمة أو الشركة."
       },
       {
         "term": "today",
-        "description": "ظرف زمان يعني اليوم."
+        "description": "هذا اليوم."
       }
     ],
-    "tense": null,
-    "tenseReason": "تتضمن الجملة فعلًا modal يعبّر عن القدرة أو الإمكانية أو الرغبة، لذلك لا نضع لها هنا زمنًا فعليًا مستقلًا على الرغم من وجود معنى زمني عام في السياق.",
+    "grammarExplanations": [
+      {
+        "sentence": "Yes",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "كلمة موافقة قصيرة وليست جملة بزمن مستقل."
+        }
+      },
+      {
+        "sentence": "we can send it to another address",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "تستخدم can للتعبير عن الإمكانية أو القدرة على إرسال الطرد لعنوان آخر."
+        }
+      },
+      {
+        "sentence": "if you tell us today",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "يأتي المضارع البسيط داخل شرط حقيقي يحدد ما يجب أن يحدث اليوم."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "People often say, \"Yes, we can send it to another address if you tell us today\" in situations like this.",
-        "ar": "يقول الناس كثيرًا: \"نعم، يمكننا إرساله إلى عنوان آخر إذا أخبرتنا اليوم\" في مواقف كهذه.",
-        "context": "تستخدم الجملة بوصفها تركيبًا شائعًا في موقف مشابه."
+        "en": "Yes, we can send it tomorrow if you confirm today.",
+        "ar": "نعم، يمكننا إرساله غدًا إذا أكدت اليوم.",
+        "context": "يُستخدم عند ربط الإرسال بشرط."
       },
       {
         "id": 2,
-        "en": "You can say, \"Yes, we can send it to another address if you tell us today\" when this happens.",
-        "ar": "يمكنك أن تقول: \"نعم، يمكننا إرساله إلى عنوان آخر إذا أخبرتنا اليوم\" عندما يحدث هذا.",
-        "context": "توضح أن الجملة مناسبة في موقف متكرر."
+        "en": "We can deliver it to another address if you call us today.",
+        "ar": "يمكننا توصيله إلى عنوان آخر إذا اتصلت بنا اليوم.",
+        "context": "يُستخدم عند السماح بتغيير العنوان بشرط الاتصال."
       },
       {
         "id": 3,
-        "en": "I heard someone say, \"Yes, we can send it to another address if you tell us today\".",
-        "ar": "سمعت شخصًا يقول: \"نعم، يمكننا إرساله إلى عنوان آخر إذا أخبرتنا اليوم\".",
-        "context": "تجعل الجملة جزءًا من كلام سمعته من شخص آخر."
+        "en": "Yes, we can change the date if you ask now.",
+        "ar": "نعم، يمكننا تغيير التاريخ إذا طلبت الآن.",
+        "context": "يُستخدم عند تعديل موعد قبل فوات الوقت."
       },
       {
         "id": 4,
-        "en": "The teacher used the sentence, \"Yes, we can send it to another address if you tell us today\" in class.",
-        "ar": "استخدم المعلم الجملة: \"نعم، يمكننا إرساله إلى عنوان آخر إذا أخبرتنا اليوم\" في الصف.",
-        "context": "تستخدم الجملة مثالًا تعليميًا في الصف."
+        "en": "We can send the file to another email if you give it today.",
+        "ar": "يمكننا إرسال الملف إلى بريد إلكتروني آخر إذا أعطيته اليوم.",
+        "context": "يُستخدم عند تغيير جهة إرسال."
       },
       {
         "id": 5,
-        "en": "Many learners remember the sentence, \"Yes, we can send it to another address if you tell us today\" first.",
-        "ar": "يتذكر كثير من المتعلمين الجملة: \"نعم، يمكننا إرساله إلى عنوان آخر إذا أخبرتنا اليوم\" أولًا.",
-        "context": "تقدم الجملة بوصفها جملة تعليمية أساسية."
+        "en": "Yes, we can update your order if you tell us now.",
+        "ar": "نعم، يمكننا تحديث طلبك إذا أخبرتنا الآن.",
+        "context": "يُستخدم في خدمة العملاء عند تعديل طلب."
       },
       {
         "id": 6,
-        "en": "She said, \"Yes, we can send it to another address if you tell us today\" in a calm way.",
-        "ar": "قالت: \"نعم، يمكننا إرساله إلى عنوان آخر إذا أخبرتنا اليوم\" بطريقة هادئة.",
-        "context": "تجعل الجملة جزءًا من كلام مباشر في موقف عادي."
+        "en": "We can call another number if you prefer.",
+        "ar": "يمكننا الاتصال برقم آخر إذا كنت تفضل.",
+        "context": "يُستخدم عند تغيير رقم التواصل."
       },
       {
         "id": 7,
-        "en": "He repeated, \"Yes, we can send it to another address if you tell us today\" more than once.",
-        "ar": "ردد: \"نعم، يمكننا إرساله إلى عنوان آخر إذا أخبرتنا اليوم\" أكثر من مرة.",
-        "context": "تضيف معنى التكرار لنفس الجملة."
+        "en": "Yes, we can send it to your office.",
+        "ar": "نعم، يمكننا إرساله إلى مكتبك.",
+        "context": "يُستخدم عند اختيار مكان استلام مختلف."
       },
       {
         "id": 8,
-        "en": "At the right moment, someone might say, \"Yes, we can send it to another address if you tell us today\".",
-        "ar": "في اللحظة المناسبة، قد يقول شخص ما: \"نعم، يمكننا إرساله إلى عنوان آخر إذا أخبرتنا اليوم\".",
-        "context": "توضح أن الجملة مرتبطة بتوقيت مناسب في السياق."
+        "en": "We can change the address if the package has not left.",
+        "ar": "يمكننا تغيير العنوان إذا لم يغادر الطرد.",
+        "context": "يُستخدم عندما يعتمد التعديل على حالة الشحنة."
       },
       {
         "id": 9,
-        "en": "I wrote down the sentence, \"Yes, we can send it to another address if you tell us today\" so I would remember it.",
-        "ar": "كتبت الجملة: \"نعم، يمكننا إرساله إلى عنوان آخر إذا أخبرتنا اليوم\" حتى أتذكرها.",
-        "context": "تعطي مثالًا على حفظ الجملة أو مراجعتها."
+        "en": "Yes, we can help if you send the details today.",
+        "ar": "نعم، يمكننا المساعدة إذا أرسلت التفاصيل اليوم.",
+        "context": "يُستخدم عند طلب معلومات لإتمام الخدمة."
       },
       {
         "id": 10,
-        "en": "It is useful to know when to say, \"Yes, we can send it to another address if you tell us today\".",
-        "ar": "من المفيد أن تعرف متى تقول: \"نعم، يمكننا إرساله إلى عنوان آخر إذا أخبرتنا اليوم\".",
-        "context": "تركز على معرفة الوقت المناسب لاستخدام الجملة."
+        "en": "We can send it again if you need another copy.",
+        "ar": "يمكننا إرساله مرة أخرى إذا كنت تحتاج نسخة أخرى.",
+        "context": "يُستخدم عند إعادة إرسال شيء."
       }
     ]
   }

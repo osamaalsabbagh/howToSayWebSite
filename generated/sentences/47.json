@@ -10,84 +10,91 @@
     "wordMeanings": [
       {
         "term": "I",
-        "description": "ضمير المتكلم."
+        "description": "ضمير المتكلم ويشير إلى الشخص الذي يتحدث."
       },
       {
         "term": "am",
-        "description": "فعل be مع I ويُستعمل هنا مع learning لتكوين المضارع المستمر."
+        "description": "صيغة تأتي مع ضمير المتكلم المفرد وتربط الشخص بوصفه أو هويته."
       },
       {
         "term": "an",
-        "description": "أداة نكرة تأتي قبل الاسم المفرد الذي يبدأ بصوت علّة."
+        "description": "أداة تأتي قبل اسم مفرد يبدأ بصوت متحرك."
       },
       {
         "term": "American",
-        "description": "اسم علم يشير إلى أمريكي."
+        "description": "شخص أمريكي أو صاحب جنسية أمريكية."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "I am an American.",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "تستخدم الجملة المضارع البسيط مع am للتعريف بالهوية أو الجنسية الحالية للمتكلم."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "People often say, \"I am an American\" in situations like this.",
-        "ar": "يقول الناس كثيرًا: \"أنا أمريكي\" في مواقف كهذه.",
-        "context": "تستخدم الجملة بوصفها تركيبًا شائعًا في موقف مشابه."
+        "en": "I am a Canadian.",
+        "ar": "أنا كندي.",
+        "context": "تقال عند تحديد الجنسية."
       },
       {
         "id": 2,
-        "en": "You can say, \"I am an American\" when this happens.",
-        "ar": "يمكنك أن تقول: \"أنا أمريكي\" عندما يحدث هذا.",
-        "context": "توضح أن الجملة مناسبة في موقف متكرر."
+        "en": "She is an American.",
+        "ar": "هي أمريكية.",
+        "context": "تقال عند التعريف بجنسية امرأة أو فتاة."
       },
       {
         "id": 3,
-        "en": "I heard someone say, \"I am an American\".",
-        "ar": "سمعت شخصًا يقول: \"أنا أمريكي\".",
-        "context": "تجعل الجملة جزءًا من كلام سمعته من شخص آخر."
+        "en": "He is a teacher.",
+        "ar": "هو معلم.",
+        "context": "تقال عند التعريف بمهنة شخص."
       },
       {
         "id": 4,
-        "en": "The teacher used the sentence, \"I am an American\" in class.",
-        "ar": "استخدم المعلم الجملة: \"أنا أمريكي\" في الصف.",
-        "context": "تستخدم الجملة مثالًا تعليميًا في الصف."
+        "en": "I am an engineer.",
+        "ar": "أنا مهندس.",
+        "context": "تقال عند التعريف بالمهنة."
       },
       {
         "id": 5,
-        "en": "Many learners remember the sentence, \"I am an American\" first.",
-        "ar": "يتذكر كثير من المتعلمين الجملة: \"أنا أمريكي\" أولًا.",
-        "context": "تقدم الجملة بوصفها جملة تعليمية أساسية."
+        "en": "We are students.",
+        "ar": "نحن طلاب.",
+        "context": "تقال عند التعريف بمجموعة في الدراسة."
       },
       {
         "id": 6,
-        "en": "She said, \"I am an American\" in a calm way.",
-        "ar": "قالت: \"أنا أمريكي\" بطريقة هادئة.",
-        "context": "تجعل الجملة جزءًا من كلام مباشر في موقف عادي."
+        "en": "They are Turkish.",
+        "ar": "هم أتراك.",
+        "context": "تقال عند تحديد جنسية مجموعة."
       },
       {
         "id": 7,
-        "en": "He repeated, \"I am an American\" more than once.",
-        "ar": "ردد: \"أنا أمريكي\" أكثر من مرة.",
-        "context": "تضيف معنى التكرار لنفس الجملة."
+        "en": "I am from Canada.",
+        "ar": "أنا من كندا.",
+        "context": "تقال عند ذكر البلد الذي تنتمي إليه."
       },
       {
         "id": 8,
-        "en": "At the right moment, someone might say, \"I am an American\".",
-        "ar": "في اللحظة المناسبة، قد يقول شخص ما: \"أنا أمريكي\".",
-        "context": "توضح أن الجملة مرتبطة بتوقيت مناسب في السياق."
+        "en": "My friend is an Egyptian.",
+        "ar": "صديقي مصري.",
+        "context": "تقال عند التعريف بجنسية صديق."
       },
       {
         "id": 9,
-        "en": "I wrote down the sentence, \"I am an American\" so I would remember it.",
-        "ar": "كتبت الجملة: \"أنا أمريكي\" حتى أتذكرها.",
-        "context": "تعطي مثالًا على حفظ الجملة أو مراجعتها."
+        "en": "I am a visitor here.",
+        "ar": "أنا زائر هنا.",
+        "context": "تقال عند توضيح أنك لست من المكان."
       },
       {
         "id": 10,
-        "en": "It is useful to know when to say, \"I am an American\".",
-        "ar": "من المفيد أن تعرف متى تقول: \"أنا أمريكي\".",
-        "context": "تركز على معرفة الوقت المناسب لاستخدام الجملة."
+        "en": "She is from the United States.",
+        "ar": "هي من الولايات المتحدة.",
+        "context": "تقال عند ذكر بلد شخص بطريقة مباشرة."
       }
     ]
   }

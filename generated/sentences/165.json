@@ -10,99 +10,107 @@
     "wordMeanings": [
       {
         "term": "Can",
-        "description": "فعل مساعد يدل هنا على القدرة أو الاستعداد لتلبية الطلب."
+        "description": "تستخدم في بداية السؤال لطلب الإذن أو الإمكانية بأدب."
       },
       {
         "term": "I",
-        "description": "ضمير المتكلم."
+        "description": "أنا، وتشير إلى المتكلم."
       },
       {
         "term": "make",
-        "description": "فعل يعني يصنع أو يجعل."
+        "description": "أحدد أو أرتب، وتستخدم هنا مع الموعد."
       },
       {
         "term": "an",
-        "description": "أداة نكرة تأتي قبل الاسم المفرد الذي يبدأ بصوت علّة."
+        "description": "أداة تدل على شيء واحد غير محدد قبل كلمة تبدأ بصوت علة."
       },
       {
         "term": "appointment",
-        "description": "اسم يعني موعد."
+        "description": "موعد مرتب مسبقًا للقاء أو خدمة."
       },
       {
         "term": "for",
-        "description": "حرف جر يعني لـ أو من أجل."
+        "description": "تستخدم هنا لربط الموعد باليوم المطلوب."
       },
       {
         "term": "next",
-        "description": "صفة أو ظرف يعني التالي أو القادم."
+        "description": "القادم أو التالي."
       },
       {
         "term": "Wednesday",
-        "description": "اسم يوم هو الأربعاء."
+        "description": "يوم الأربعاء."
       }
     ],
-    "tense": null,
-    "tenseReason": "استُعمل هذا التركيب لأنه سؤال يعتمد على فعل modal مثل can أو could أو would، لذلك لا نعامله هنا كزمن مستقل بل كصيغة سؤال وظيفية.",
+    "grammarExplanations": [
+      {
+        "sentence": "Can I make an appointment for next Wednesday?",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه صيغة سؤال مهذب باستخدام فعل يدل على الإمكانية أو الإذن، والفعل بعده يأتي بصيغته الأساسية، لذلك الأفضل شرحها كتركيب طلب لا كزمن مستقل."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "You can ask, \"Can I make an appointment for next Wednesday?\" when you need information.",
-        "ar": "يمكنك أن تسأل: \"هل يمكنني تحديد موعد يوم الأربعاء القادم؟\" عندما تحتاج إلى معلومة.",
-        "context": "تستعمل الجملة كسؤال مباشر للحصول على معلومة."
+        "en": "Can I make an appointment for next Wednesday?",
+        "ar": "هل يمكنني تحديد موعد يوم الأربعاء القادم؟",
+        "context": "تقال عند طلب موعد في يوم محدد."
       },
       {
         "id": 2,
-        "en": "Many people ask, \"Can I make an appointment for next Wednesday?\" in this situation.",
-        "ar": "يسأل كثير من الناس: \"هل يمكنني تحديد موعد يوم الأربعاء القادم؟\" في هذا الموقف.",
-        "context": "توضح أن هذا سؤال شائع في موقف مشابه."
+        "en": "Can I make an appointment for tomorrow?",
+        "ar": "هل يمكنني تحديد موعد للغد؟",
+        "context": "تقال عند طلب موعد قريب."
       },
       {
         "id": 3,
-        "en": "I asked, \"Can I make an appointment for next Wednesday?\" because I was not sure.",
-        "ar": "سألت: \"هل يمكنني تحديد موعد يوم الأربعاء القادم؟\" لأنني لم أكن متأكدًا.",
-        "context": "تضيف سببًا لطرح السؤال."
+        "en": "Can I make an appointment for next week?",
+        "ar": "هل يمكنني تحديد موعد للأسبوع القادم؟",
+        "context": "تقال عند طلب موعد في الأسبوع التالي."
       },
       {
         "id": 4,
-        "en": "She asked politely, \"Can I make an appointment for next Wednesday?\"",
-        "ar": "سألت بأدب: \"هل يمكنني تحديد موعد يوم الأربعاء القادم؟\".",
-        "context": "تبين أن السؤال قيل بطريقة مهذبة."
+        "en": "Can I make an appointment with the doctor?",
+        "ar": "هل يمكنني تحديد موعد مع الطبيب؟",
+        "context": "تقال عند حجز موعد طبي."
       },
       {
         "id": 5,
-        "en": "At work, someone may ask, \"Can I make an appointment for next Wednesday?\"",
-        "ar": "في العمل، قد يسأل شخص ما: \"هل يمكنني تحديد موعد يوم الأربعاء القادم؟\".",
-        "context": "تضع السؤال في سياق مهني أو عملي."
+        "en": "Can I make an appointment at ten?",
+        "ar": "هل يمكنني تحديد موعد في العاشرة؟",
+        "context": "تقال عند اقتراح ساعة محددة."
       },
       {
         "id": 6,
-        "en": "Before deciding, ask: \"Can I make an appointment for next Wednesday?\"",
-        "ar": "قبل أن تقرر، اسأل: \"هل يمكنني تحديد موعد يوم الأربعاء القادم؟\".",
-        "context": "تستخدم السؤال قبل اتخاذ قرار."
+        "en": "Can I make an appointment for my mother?",
+        "ar": "هل يمكنني تحديد موعد لأمي؟",
+        "context": "تقال عند حجز موعد لشخص آخر."
       },
       {
         "id": 7,
-        "en": "The student asked, \"Can I make an appointment for next Wednesday?\" in class.",
-        "ar": "سأل الطالب: \"هل يمكنني تحديد موعد يوم الأربعاء القادم؟\" في الصف.",
-        "context": "تجعل الجملة جزءًا من موقف تعليمي."
+        "en": "Can I make an appointment online?",
+        "ar": "هل يمكنني تحديد موعد عبر الإنترنت؟",
+        "context": "تقال عند السؤال عن طريقة الحجز."
       },
       {
         "id": 8,
-        "en": "While traveling, you can ask, \"Can I make an appointment for next Wednesday?\"",
-        "ar": "أثناء السفر، يمكنك أن تسأل: \"هل يمكنني تحديد موعد يوم الأربعاء القادم؟\".",
-        "context": "تربط السؤال بموقف السفر أو التنقل."
+        "en": "Can I make an appointment this afternoon?",
+        "ar": "هل يمكنني تحديد موعد بعد ظهر اليوم؟",
+        "context": "تقال عند طلب موعد في اليوم نفسه."
       },
       {
         "id": 9,
-        "en": "He asked me, \"Can I make an appointment for next Wednesday?\" again.",
-        "ar": "سألني: \"هل يمكنني تحديد موعد يوم الأربعاء القادم؟\" مرة أخرى.",
-        "context": "تضيف معنى التكرار لنفس السؤال."
+        "en": "Can I make an appointment for a haircut?",
+        "ar": "هل يمكنني تحديد موعد لقص الشعر؟",
+        "context": "تقال عند حجز خدمة في صالون."
       },
       {
         "id": 10,
-        "en": "If you are not sure, ask: \"Can I make an appointment for next Wednesday?\"",
-        "ar": "إذا لم تكن متأكدًا، فاسأل: \"هل يمكنني تحديد موعد يوم الأربعاء القادم؟\".",
-        "context": "توضح أن السؤال مناسب عند عدم التأكد."
+        "en": "Can I make an appointment before noon?",
+        "ar": "هل يمكنني تحديد موعد قبل الظهر؟",
+        "context": "تقال عند طلب وقت صباحي."
       }
     ]
   }

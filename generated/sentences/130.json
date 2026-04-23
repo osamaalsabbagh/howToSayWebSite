@@ -10,88 +10,95 @@
     "wordMeanings": [
       {
         "term": "They",
-        "description": "ضمير يشير إلى أكثر من شخص أو شيء."
+        "description": "ضمير يشير إلى مجموعة من الأشخاص."
       },
       {
         "term": "will",
-        "description": "أداة مستقبل تدل على ما سيحدث لاحقًا."
+        "description": "كلمة تدل على أن الفعل سيحدث في المستقبل."
       },
       {
         "term": "be",
-        "description": "فعل أمر من be."
+        "description": "تأتي بعد will لتكوين معنى العودة القريبة في التعبير."
       },
       {
         "term": "right",
-        "description": "هنا جزء من All right التي تدل على القبول أو الموافقة، وليس المقصود فقط معنى \"صحيح\" أو \"يمين\"."
+        "description": "تعني هنا فورًا أو بعد وقت قصير جدًا."
       },
       {
         "term": "back",
-        "description": "اسم أو ظرف أو صفة يعني ظهر/خلف/عودة حسب السياق."
+        "description": "عائدون إلى المكان أو الحالة السابقة."
       }
     ],
-    "tense": "المستقبل البسيط",
-    "tenseEn": "Future Simple",
-    "tenseReason": "استُعمل المستقبل البسيط لأن الجملة تتحدث عن شيء سيحدث لاحقًا أو عن قرار أو توقع يخص المستقبل.",
+    "grammarExplanations": [
+      {
+        "sentence": "They will be right back.",
+        "explanation": {
+          "tense": "المستقبل البسيط",
+          "tenseEn": "Future Simple",
+          "reason": "تستخدم will be للتحدث عن عودة متوقعة في المستقبل القريب، والتعبير right back يعني بعد وقت قصير جدًا."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "People often say, \"They will be right back\" in situations like this.",
-        "ar": "يقول الناس كثيرًا: \"سيعودون حالًا\" في مواقف كهذه.",
-        "context": "تستخدم الجملة بوصفها تركيبًا شائعًا في موقف مشابه."
+        "en": "I will be right back.",
+        "ar": "سأعود حالًا.",
+        "context": "تقال عند مغادرة قصيرة مع نية العودة بسرعة."
       },
       {
         "id": 2,
-        "en": "You can say, \"They will be right back\" when this happens.",
-        "ar": "يمكنك أن تقول: \"سيعودون حالًا\" عندما يحدث هذا.",
-        "context": "توضح أن الجملة مناسبة في موقف متكرر."
+        "en": "She will be back soon.",
+        "ar": "ستعود قريبًا.",
+        "context": "تقال عند توقع عودة امرأة أو فتاة بعد قليل."
       },
       {
         "id": 3,
-        "en": "I heard someone say, \"They will be right back\".",
-        "ar": "سمعت شخصًا يقول: \"سيعودون حالًا\".",
-        "context": "تجعل الجملة جزءًا من كلام سمعته من شخص آخر."
+        "en": "We will be right back.",
+        "ar": "سنعود حالًا.",
+        "context": "تقال عند خروج مجموعة لفترة قصيرة."
       },
       {
         "id": 4,
-        "en": "The teacher used the sentence, \"They will be right back\" in class.",
-        "ar": "استخدم المعلم الجملة: \"سيعودون حالًا\" في الصف.",
-        "context": "تستخدم الجملة مثالًا تعليميًا في الصف."
+        "en": "He will be back in a minute.",
+        "ar": "سيعود خلال دقيقة.",
+        "context": "تقال عند توقع عودة سريعة جدًا."
       },
       {
         "id": 5,
-        "en": "Many learners remember the sentence, \"They will be right back\" first.",
-        "ar": "يتذكر كثير من المتعلمين الجملة: \"سيعودون حالًا\" أولًا.",
-        "context": "تقدم الجملة بوصفها جملة تعليمية أساسية."
+        "en": "The doctor will be right back.",
+        "ar": "سيعود الطبيب حالًا.",
+        "context": "تقال عند انتظار الطبيب لفترة قصيرة."
       },
       {
         "id": 6,
-        "en": "She said, \"They will be right back\" in a calm way.",
-        "ar": "قالت: \"سيعودون حالًا\" بطريقة هادئة.",
-        "context": "تجعل الجملة جزءًا من كلام مباشر في موقف عادي."
+        "en": "They will return soon.",
+        "ar": "سيعودون قريبًا.",
+        "context": "تقال عند توقع عودة مجموعة."
       },
       {
         "id": 7,
-        "en": "He repeated, \"They will be right back\" more than once.",
-        "ar": "ردد: \"سيعودون حالًا\" أكثر من مرة.",
-        "context": "تضيف معنى التكرار لنفس الجملة."
+        "en": "My parents will be back tonight.",
+        "ar": "سيعود والداي الليلة.",
+        "context": "تقال عند تحديد وقت عودة الأهل."
       },
       {
         "id": 8,
-        "en": "At the right moment, someone might say, \"They will be right back\".",
-        "ar": "في اللحظة المناسبة، قد يقول شخص ما: \"سيعودون حالًا\".",
-        "context": "توضح أن الجملة مرتبطة بتوقيت مناسب في السياق."
+        "en": "The manager will be right back.",
+        "ar": "سيعود المدير حالًا.",
+        "context": "تقال عند انتظار المدير."
       },
       {
         "id": 9,
-        "en": "I wrote down the sentence, \"They will be right back\" so I would remember it.",
-        "ar": "كتبت الجملة: \"سيعودون حالًا\" حتى أتذكرها.",
-        "context": "تعطي مثالًا على حفظ الجملة أو مراجعتها."
+        "en": "I will come back soon.",
+        "ar": "سأعود قريبًا.",
+        "context": "تقال عند وعد بالرجوع بعد وقت قصير."
       },
       {
         "id": 10,
-        "en": "It is useful to know when to say, \"They will be right back\".",
-        "ar": "من المفيد أن تعرف متى تقول: \"سيعودون حالًا\".",
-        "context": "تركز على معرفة الوقت المناسب لاستخدام الجملة."
+        "en": "They will be back after lunch.",
+        "ar": "سيعودون بعد الغداء.",
+        "context": "تقال عند تحديد عودة مجموعة بعد وجبة."
       }
     ]
   }

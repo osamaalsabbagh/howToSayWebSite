@@ -10,91 +10,99 @@
     "wordMeanings": [
       {
         "term": "Would",
-        "description": "فعل modal يُستعمل للطلب المؤدب أو الرغبة أو الفرضية."
+        "description": "تجعل الطلب مهذبًا وغير مباشر."
       },
       {
         "term": "you",
-        "description": "الضمير الذي يعود على الشخص المخاطَب."
+        "description": "ضمير يشير إلى الشخص الذي أتحدث معه."
       },
       {
         "term": "take",
-        "description": "فعل يعني يأخذ أو يستغرق أو يصطحب حسب السياق."
+        "description": "تدوّن أو تسجل في هذا السياق."
       },
       {
         "term": "a",
-        "description": "أداة نكرة تأتي قبل الاسم المفرد المعدود."
+        "description": "أداة تدل على شيء واحد غير محدد."
       },
       {
         "term": "message",
-        "description": "اسم يعني رسالة."
+        "description": "رسالة أو كلام يترك لشخص غير موجود."
       },
       {
         "term": "please",
-        "description": "تضيف اللطف إلى الطلب."
+        "description": "كلمة تجعل الطلب أكثر أدبًا."
       }
     ],
-    "tense": null,
-    "tenseReason": "استُعمل هذا التركيب لأنه سؤال يعتمد على فعل modal مثل can أو could أو would، لذلك لا نعامله هنا كزمن مستقل بل كصيغة سؤال وظيفية.",
+    "grammarExplanations": [
+      {
+        "sentence": "Would you take a message please?",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه صيغة طلب مهذب باستخدام Would you لطلب تدوين رسالة لشخص غير متاح، وهي بنية طلب وليست زمنًا مستقلًا."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "You can ask, \"Would you take a message please?\" when you need information.",
-        "ar": "يمكنك أن تسأل: \"هل يمكنك تدوين رسالة من فضلك؟\" عندما تحتاج إلى معلومة.",
-        "context": "تستعمل الجملة كسؤال مباشر للحصول على معلومة."
+        "en": "Would you leave a message please?",
+        "ar": "هل يمكنك ترك رسالة من فضلك؟",
+        "context": "تقال عند طلب تسجيل رسالة لشخص غير موجود."
       },
       {
         "id": 2,
-        "en": "Many people ask, \"Would you take a message please?\" in this situation.",
-        "ar": "يسأل كثير من الناس: \"هل يمكنك تدوين رسالة من فضلك؟\" في هذا الموقف.",
-        "context": "توضح أن هذا سؤال شائع في موقف مشابه."
+        "en": "Could you take a message please?",
+        "ar": "هل يمكنك تدوين رسالة من فضلك؟",
+        "context": "تقال عند طلب تدوين رسالة عبر الهاتف بأدب."
       },
       {
         "id": 3,
-        "en": "I asked, \"Would you take a message please?\" because I was not sure.",
-        "ar": "سألت: \"هل يمكنك تدوين رسالة من فضلك؟\" لأنني لم أكن متأكدًا.",
-        "context": "تضيف سببًا لطرح السؤال."
+        "en": "Would you ask him to call me?",
+        "ar": "هل يمكنك أن تطلب منه الاتصال بي؟",
+        "context": "تقال عند ترك طلب لشخص غير موجود."
       },
       {
         "id": 4,
-        "en": "She asked politely, \"Would you take a message please?\"",
-        "ar": "سألت بأدب: \"هل يمكنك تدوين رسالة من فضلك؟\".",
-        "context": "تبين أن السؤال قيل بطريقة مهذبة."
+        "en": "Please tell her I called.",
+        "ar": "من فضلك أخبرها أنني اتصلت.",
+        "context": "تقال عند طلب نقل رسالة قصيرة."
       },
       {
         "id": 5,
-        "en": "At work, someone may ask, \"Would you take a message please?\"",
-        "ar": "في العمل، قد يسأل شخص ما: \"هل يمكنك تدوين رسالة من فضلك؟\".",
-        "context": "تضع السؤال في سياق مهني أو عملي."
+        "en": "Would you write this down please?",
+        "ar": "هل يمكنك كتابة هذا من فضلك؟",
+        "context": "تقال عند طلب تدوين معلومة."
       },
       {
         "id": 6,
-        "en": "Before deciding, ask: \"Would you take a message please?\"",
-        "ar": "قبل أن تقرر، اسأل: \"هل يمكنك تدوين رسالة من فضلك؟\".",
-        "context": "تستخدم السؤال قبل اتخاذ قرار."
+        "en": "Can I leave a message?",
+        "ar": "هل يمكنني ترك رسالة؟",
+        "context": "تقال عند الرغبة في ترك رسالة عبر الهاتف."
       },
       {
         "id": 7,
-        "en": "The student asked, \"Would you take a message please?\" in class.",
-        "ar": "سأل الطالب: \"هل يمكنك تدوين رسالة من فضلك؟\" في الصف.",
-        "context": "تجعل الجملة جزءًا من موقف تعليمي."
+        "en": "Would you tell him I will call later?",
+        "ar": "هل يمكنك أن تخبره أنني سأتصل لاحقًا؟",
+        "context": "تقال عند ترك رسالة لشخص غائب."
       },
       {
         "id": 8,
-        "en": "While traveling, you can ask, \"Would you take a message please?\"",
-        "ar": "أثناء السفر، يمكنك أن تسأل: \"هل يمكنك تدوين رسالة من فضلك؟\".",
-        "context": "تربط السؤال بموقف السفر أو التنقل."
+        "en": "Please take my number.",
+        "ar": "من فضلك دوّن رقمي.",
+        "context": "تقال عند إعطاء رقم للرد لاحقًا."
       },
       {
         "id": 9,
-        "en": "He asked me, \"Would you take a message please?\" again.",
-        "ar": "سألني: \"هل يمكنك تدوين رسالة من فضلك؟\" مرة أخرى.",
-        "context": "تضيف معنى التكرار لنفس السؤال."
+        "en": "Would you give her this message?",
+        "ar": "هل يمكنك إعطاءها هذه الرسالة؟",
+        "context": "تقال عند طلب نقل رسالة لشخص."
       },
       {
         "id": 10,
-        "en": "If you are not sure, ask: \"Would you take a message please?\"",
-        "ar": "إذا لم تكن متأكدًا، فاسأل: \"هل يمكنك تدوين رسالة من فضلك؟\".",
-        "context": "توضح أن السؤال مناسب عند عدم التأكد."
+        "en": "Please ask him to call back.",
+        "ar": "من فضلك اطلب منه أن يعاود الاتصال.",
+        "context": "تقال عند طلب رد اتصال من شخص غير متاح."
       }
     ]
   }

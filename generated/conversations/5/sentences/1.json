@@ -10,116 +10,123 @@
     "wordMeanings": [
       {
         "term": "Good",
-        "description": "صفة تعني جيد أو مريح أو مناسب هنا."
+        "description": "جزء من تحية مهذبة تناسب بداية اليوم."
       },
       {
         "term": "morning",
-        "description": "اسم يعني الصباح."
+        "description": "الصباح، وتكمل عبارة التحية."
       },
       {
         "term": "I",
-        "description": "ضمير المتكلم."
+        "description": "ضمير المتكلم المفرد."
       },
       {
         "term": "am",
-        "description": "فعل be مع I ويُستعمل هنا مع learning لتكوين المضارع المستمر."
+        "description": "صيغة تأتي مع ضمير المتكلم المفرد وتوضح وجود المتكلم الآن."
       },
       {
         "term": "here",
-        "description": "ظرف مكان يعني هنا."
+        "description": "تعني هنا، أي في هذا المكان."
       },
       {
         "term": "to",
-        "description": "أداة تأتي قبل المصدر بعد أفعال مثل want."
+        "description": "تأتي قبل الفعل لتوضيح الغرض من الحضور."
       },
       {
         "term": "see",
-        "description": "فعل يعني يرى."
+        "description": "تعني يرى أو يعاين في هذا السياق."
       },
       {
         "term": "the",
-        "description": "أداة تعريف تشير إلى شيء معروف أو محدد."
+        "description": "أداة تعريف لشقة محددة معروفة من الإعلان."
       },
       {
         "term": "apartment",
-        "description": "اسم يعني شقة."
+        "description": "شقة سكنية."
       },
       {
         "term": "you",
-        "description": "الضمير الذي يعود على الشخص المخاطَب."
+        "description": "ضمير المخاطب، ويشير هنا إلى المكتب أو الموظف."
       },
       {
         "term": "listed",
-        "description": "فعل يعني عنها."
+        "description": "تعني عرضتم أو أدرجتم للبيع أو الإيجار."
       },
       {
         "term": "online",
-        "description": "صفة تعني الإنترنت."
+        "description": "على الإنترنت."
       }
     ],
-    "tense": "الماضي البسيط",
-    "tenseEn": "Past Simple",
-    "tenseReason": "استُعمل الماضي البسيط لأن الجملة تتحدث عن حدث وقع في الماضي واكتمل هناك.",
+    "grammarExplanations": [
+      {
+        "sentence": "Good morning, I am here to see the apartment you listed online.",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُعمل المضارع البسيط مع I am لوصف وجود المتكلم الحالي وسبب حضوره الآن."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "Yesterday, Good morning, I am here to see the apartment you listed online.",
-        "ar": "أمس، صباح الخير، أنا هنا لرؤية الشقة التي أعلنتم عنها على الإنترنت.",
-        "context": "تضيف زمنًا ماضيًا واضحًا."
+        "en": "Good morning, I am here to see the house.",
+        "ar": "صباح الخير، أنا هنا لرؤية المنزل.",
+        "context": "تصل لمعاينة عقار."
       },
       {
         "id": 2,
-        "en": "Good morning, I am here to see the apartment you listed online this morning.",
-        "ar": "صباح الخير، أنا هنا لرؤية الشقة التي أعلنتم عنها على الإنترنت هذا الصباح.",
-        "context": "تحدد وقتًا ماضيًا قريبًا."
+        "en": "I am here to see the apartment on Maple Street.",
+        "ar": "أنا هنا لرؤية الشقة في شارع مابل.",
+        "context": "تحدد الشقة التي تريد معاينتها."
       },
       {
         "id": 3,
-        "en": "Good morning, I am here to see the apartment you listed online after lunch.",
-        "ar": "صباح الخير، أنا هنا لرؤية الشقة التي أعلنتم عنها على الإنترنت بعد الغداء.",
-        "context": "تربط الحدث بوقت تالٍ لحدث آخر."
+        "en": "I saw the apartment online.",
+        "ar": "رأيت الشقة على الإنترنت.",
+        "context": "تذكر مصدر معرفتك بالعقار."
       },
       {
         "id": 4,
-        "en": "Good morning, I am here to see the apartment you listed online because it was necessary.",
-        "ar": "صباح الخير، أنا هنا لرؤية الشقة التي أعلنتم عنها على الإنترنت لأنه كان ضروريًا.",
-        "context": "تضيف سببًا لحدوث الفعل في الماضي."
+        "en": "Good morning, I am here for the viewing.",
+        "ar": "صباح الخير، أنا هنا للمعاينة.",
+        "context": "تستخدم كلمة viewing بدل شرح طويل."
       },
       {
         "id": 5,
-        "en": "Earlier, Good morning, I am here to see the apartment you listed online.",
-        "ar": "في وقت سابق، صباح الخير، أنا هنا لرؤية الشقة التي أعلنتم عنها على الإنترنت.",
-        "context": "تربط الحدث بفترة ماضية غير بعيدة."
+        "en": "I am here to see the room you listed.",
+        "ar": "أنا هنا لرؤية الغرفة التي عرضتموها.",
+        "context": "تسأل عن مكان معروض للإيجار."
       },
       {
         "id": 6,
-        "en": "Good morning, I am here to see the apartment you listed online, and everyone noticed.",
-        "ar": "صباح الخير، أنا هنا لرؤية الشقة التي أعلنتم عنها على الإنترنت، والجميع لاحظ ذلك.",
-        "context": "تضيف نتيجة لما حدث في الماضي."
+        "en": "I am here to ask about the apartment.",
+        "ar": "أنا هنا للسؤال عن الشقة.",
+        "context": "تبدأ حديثًا مع مكتب عقار."
       },
       {
         "id": 7,
-        "en": "Good morning, I am here to see the apartment you listed online before we left.",
-        "ar": "صباح الخير، أنا هنا لرؤية الشقة التي أعلنتم عنها على الإنترنت قبل أن نغادر.",
-        "context": "تربط الفعل الماضي بحدث ماضٍ آخر."
+        "en": "Good morning, I saw your listing online.",
+        "ar": "صباح الخير، رأيت إعلانكم على الإنترنت.",
+        "context": "تذكر سبب حضورك مباشرة."
       },
       {
         "id": 8,
-        "en": "Good morning, I am here to see the apartment you listed online during the trip.",
-        "ar": "صباح الخير، أنا هنا لرؤية الشقة التي أعلنتم عنها على الإنترنت أثناء الرحلة.",
-        "context": "تضع الحدث في إطار زمني أو مكاني محدد."
+        "en": "I am here to see the apartment today.",
+        "ar": "أنا هنا لرؤية الشقة اليوم.",
+        "context": "تؤكد موعد المعاينة."
       },
       {
         "id": 9,
-        "en": "At that time, Good morning, I am here to see the apartment you listed online.",
-        "ar": "في ذلك الوقت، صباح الخير، أنا هنا لرؤية الشقة التي أعلنتم عنها على الإنترنت.",
-        "context": "تجعل الجملة جزءًا من سرد ماضٍ."
+        "en": "The apartment you listed looks nice.",
+        "ar": "الشقة التي عرضتموها تبدو جميلة.",
+        "context": "تعلّق على إعلان عقاري."
       },
       {
         "id": 10,
-        "en": "Soon after that, Good morning, I am here to see the apartment you listed online.",
-        "ar": "بعد ذلك بقليل، صباح الخير، أنا هنا لرؤية الشقة التي أعلنتم عنها على الإنترنت.",
-        "context": "توضح ترتيب الحدث بعد شيء آخر في الماضي."
+        "en": "Good morning, I am interested in the apartment.",
+        "ar": "صباح الخير، أنا مهتم بالشقة.",
+        "context": "تبدأ الحديث مع موظف العقار."
       }
     ]
   }

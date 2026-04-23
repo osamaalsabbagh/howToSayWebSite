@@ -10,92 +10,99 @@
     "wordMeanings": [
       {
         "term": "Do",
-        "description": "فعل مساعد يُستعمل لتكوين النفي والسؤال في المضارع البسيط."
+        "description": "تأتي في بداية السؤال مع المخاطب لتكوين سؤال في الحاضر."
       },
       {
         "term": "you",
-        "description": "الضمير الذي يعود على الشخص المخاطَب."
+        "description": "أنت، وتشير إلى الشخص المخاطب."
       },
       {
         "term": "know",
-        "description": "فعل يعني يعرف أو يعلم."
+        "description": "تعرف أو لديك معرفة."
       },
       {
         "term": "how",
-        "description": "أداة سؤال."
+        "description": "كيف، وتستخدم هنا للسؤال عن طريقة أو مهارة."
       },
       {
         "term": "to",
-        "description": "أداة تأتي قبل المصدر بعد أفعال مثل want."
+        "description": "تربط كلمة كيف بالفعل بعدها لتكوين معنى معرفة طريقة فعل الشيء."
       },
       {
         "term": "cook",
-        "description": "فعل يعني تطبخ."
+        "description": "تطبخ أو تعد الطعام."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "Do you know how to cook?",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "يستخدم السؤال المضارع البسيط لأنه يسأل عن معرفة أو مهارة عامة لدى الشخص، وعبارة كيف تطبخ تأتي بعد الفعل لتحديد المهارة."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "You can ask, \"Do you know how to cook?\" when you need information.",
-        "ar": "يمكنك أن تسأل: \"هل تعرف كيف تطبخ؟\" عندما تحتاج إلى معلومة.",
-        "context": "تستعمل الجملة كسؤال مباشر للحصول على معلومة."
+        "en": "Do you know how to cook?",
+        "ar": "هل تعرف كيف تطبخ؟",
+        "context": "تقال للسؤال عن مهارة الطبخ."
       },
       {
         "id": 2,
-        "en": "Many people ask, \"Do you know how to cook?\" in this situation.",
-        "ar": "يسأل كثير من الناس: \"هل تعرف كيف تطبخ؟\" في هذا الموقف.",
-        "context": "توضح أن هذا سؤال شائع في موقف مشابه."
+        "en": "Do you know how to drive?",
+        "ar": "هل تعرف كيف تقود؟",
+        "context": "تقال للسؤال عن مهارة القيادة."
       },
       {
         "id": 3,
-        "en": "I asked, \"Do you know how to cook?\" because I was not sure.",
-        "ar": "سألت: \"هل تعرف كيف تطبخ؟\" لأنني لم أكن متأكدًا.",
-        "context": "تضيف سببًا لطرح السؤال."
+        "en": "Do you know how to swim?",
+        "ar": "هل تعرف كيف تسبح؟",
+        "context": "تقال للسؤال عن مهارة السباحة."
       },
       {
         "id": 4,
-        "en": "She asked politely, \"Do you know how to cook?\"",
-        "ar": "سألت بأدب: \"هل تعرف كيف تطبخ؟\".",
-        "context": "تبين أن السؤال قيل بطريقة مهذبة."
+        "en": "Do you know how to read this?",
+        "ar": "هل تعرف كيف تقرأ هذا؟",
+        "context": "تقال عند طلب فهم كتابة أو نص."
       },
       {
         "id": 5,
-        "en": "At work, someone may ask, \"Do you know how to cook?\"",
-        "ar": "في العمل، قد يسأل شخص ما: \"هل تعرف كيف تطبخ؟\".",
-        "context": "تضع السؤال في سياق مهني أو عملي."
+        "en": "Do you know how to use this machine?",
+        "ar": "هل تعرف كيف تستخدم هذه الآلة؟",
+        "context": "تقال عند السؤال عن طريقة استخدام جهاز."
       },
       {
         "id": 6,
-        "en": "Before deciding, ask: \"Do you know how to cook?\"",
-        "ar": "قبل أن تقرر، اسأل: \"هل تعرف كيف تطبخ؟\".",
-        "context": "تستخدم السؤال قبل اتخاذ قرار."
+        "en": "Do you know how to fix it?",
+        "ar": "هل تعرف كيف تصلحه؟",
+        "context": "تقال عند وجود مشكلة تحتاج إلى إصلاح."
       },
       {
         "id": 7,
-        "en": "The student asked, \"Do you know how to cook?\" in class.",
-        "ar": "سأل الطالب: \"هل تعرف كيف تطبخ؟\" في الصف.",
-        "context": "تجعل الجملة جزءًا من موقف تعليمي."
+        "en": "Do you know how to get there?",
+        "ar": "هل تعرف كيف تصل إلى هناك؟",
+        "context": "تقال عند السؤال عن طريق أو وسيلة وصول."
       },
       {
         "id": 8,
-        "en": "While traveling, you can ask, \"Do you know how to cook?\"",
-        "ar": "أثناء السفر، يمكنك أن تسأل: \"هل تعرف كيف تطبخ؟\".",
-        "context": "تربط السؤال بموقف السفر أو التنقل."
+        "en": "Do you know how to open this door?",
+        "ar": "هل تعرف كيف تفتح هذا الباب؟",
+        "context": "تقال عند صعوبة فتح باب."
       },
       {
         "id": 9,
-        "en": "He asked me, \"Do you know how to cook?\" again.",
-        "ar": "سألني: \"هل تعرف كيف تطبخ؟\" مرة أخرى.",
-        "context": "تضيف معنى التكرار لنفس السؤال."
+        "en": "Do you know how to make tea?",
+        "ar": "هل تعرف كيف تعد الشاي؟",
+        "context": "تقال للسؤال عن طريقة إعداد الشاي."
       },
       {
         "id": 10,
-        "en": "If you are not sure, ask: \"Do you know how to cook?\"",
-        "ar": "إذا لم تكن متأكدًا، فاسأل: \"هل تعرف كيف تطبخ؟\".",
-        "context": "توضح أن السؤال مناسب عند عدم التأكد."
+        "en": "Do you know how to speak Arabic?",
+        "ar": "هل تعرف كيف تتحدث العربية؟",
+        "context": "تقال للسؤال عن القدرة على التحدث بالعربية."
       }
     ]
   }

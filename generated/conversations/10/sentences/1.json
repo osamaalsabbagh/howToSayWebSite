@@ -10,139 +10,159 @@
     "wordMeanings": [
       {
         "term": "Good",
-        "description": "صفة تعني جيد أو مريح أو مناسب هنا."
+        "description": "جزء من تحية مهذبة في بداية اليوم."
       },
       {
         "term": "morning",
-        "description": "اسم يعني الصباح."
+        "description": "الصباح، وتكمل عبارة التحية."
       },
       {
         "term": "Can",
-        "description": "فعل مساعد يدل هنا على القدرة أو الاستعداد لتلبية الطلب."
+        "description": "تبدأ طلبًا عن إمكانية فعل شيء."
       },
       {
         "term": "I",
-        "description": "ضمير المتكلم."
+        "description": "ضمير المتكلم المفرد."
       },
       {
         "term": "see",
-        "description": "فعل يعني يرى."
+        "description": "تعني أرى أو أعاين في هذا السياق."
       },
       {
         "term": "the",
-        "description": "أداة تعريف تشير إلى شيء معروف أو محدد."
+        "description": "أداة تعريف لشقة محددة معروفة من الإعلان."
       },
       {
         "term": "apartment",
-        "description": "اسم يعني شقة."
+        "description": "شقة سكنية."
       },
       {
         "term": "listed",
-        "description": "فعل يعني يمكنني."
+        "description": "معروضة أو مُعلَن عنها."
       },
       {
         "term": "on",
-        "description": "حرف جر يعني على أو في يوم محدد حسب السياق."
+        "description": "حرف يحدد مكان ظهور الإعلان."
+      },
+      {
+        "term": "the",
+        "description": "أداة تعريف لموضع محدد في المكتب."
       },
       {
         "term": "front",
-        "description": "اسم يعني المعلن."
+        "description": "الواجهة أو الجزء الأمامي."
       },
       {
         "term": "of",
-        "description": "حرف جر يربط بين اسمين وغالبًا يعني من أو الخاص بـ حسب السياق."
+        "description": "يربط الواجهة بالمكتب."
       },
       {
         "term": "your",
-        "description": "صفة ملكية تعني خاصتك أو خاصتكم."
+        "description": "صفة ملكية تعني الخاص بكم."
       },
       {
         "term": "office",
-        "description": "اسم يعني مكتب."
+        "description": "مكتب أو مقر عمل."
       },
       {
         "term": "for",
-        "description": "حرف جر يعني لـ أو من أجل."
+        "description": "تستخدم هنا لذكر السعر المطلوب."
       },
       {
         "term": "900",
-        "description": "رقم يدل على بسعر."
+        "description": "الرقم تسعمئة."
       },
       {
         "term": "dollars",
-        "description": "اسم يعني دولارات."
+        "description": "دولارات، وهي العملة المذكورة في السعر."
       },
       {
         "term": "per",
-        "description": "حرف أو أداة تربط المعنى بفكرة 900."
+        "description": "تعني لكل أو في كل، وتستخدم مع الأسعار الدورية."
       },
       {
         "term": "month",
-        "description": "اسم يعني شهر."
+        "description": "شهر."
       }
     ],
-    "tense": null,
-    "tenseReason": "استُعمل هذا التركيب لأنه سؤال يعتمد على فعل modal مثل can أو could أو would، لذلك لا نعامله هنا كزمن مستقل بل كصيغة سؤال وظيفية.",
+    "grammarExplanations": [
+      {
+        "sentence": "Good morning.",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه تحية صباحية وليست جملة فعلية لها زمن مستقل."
+        }
+      },
+      {
+        "sentence": "Can I see the apartment listed on the front of your office for 900 dollars per month?",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذا طلب مباشر باستخدام can للسؤال عن إمكانية معاينة الشقة. لذلك يشرح كتركيب طلب لا كزمن مستقل."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "You can ask, \"Good morning. Can I see the apartment listed on the front of your office for 900 dollars per month?\" when you need information.",
-        "ar": "يمكنك أن تسأل: \"صباح الخير. هل يمكنني رؤية الشقة المُعلَن عنها على واجهة مكتبكم بسعر 900 دولار في الشهر؟\" عندما تحتاج إلى معلومة.",
-        "context": "تستعمل الجملة كسؤال مباشر للحصول على معلومة."
+        "en": "Good morning. Can I see the apartment listed online?",
+        "ar": "صباح الخير. هل يمكنني رؤية الشقة المُعلَن عنها على الإنترنت؟",
+        "context": "تطلب معاينة شقة رأيتها في إعلان."
       },
       {
         "id": 2,
-        "en": "Many people ask, \"Good morning. Can I see the apartment listed on the front of your office for 900 dollars per month?\" in this situation.",
-        "ar": "يسأل كثير من الناس: \"صباح الخير. هل يمكنني رؤية الشقة المُعلَن عنها على واجهة مكتبكم بسعر 900 دولار في الشهر؟\" في هذا الموقف.",
-        "context": "توضح أن هذا سؤال شائع في موقف مشابه."
+        "en": "Can I see the room listed on your website?",
+        "ar": "هل يمكنني رؤية الغرفة المُعلَن عنها على موقعكم؟",
+        "context": "تسأل عن عقار معروض إلكترونيًا."
       },
       {
         "id": 3,
-        "en": "I asked, \"Good morning. Can I see the apartment listed on the front of your office for 900 dollars per month?\" because I was not sure.",
-        "ar": "سألت: \"صباح الخير. هل يمكنني رؤية الشقة المُعلَن عنها على واجهة مكتبكم بسعر 900 دولار في الشهر؟\" لأنني لم أكن متأكدًا.",
-        "context": "تضيف سببًا لطرح السؤال."
+        "en": "Can I see the apartment for 900 dollars per month?",
+        "ar": "هل يمكنني رؤية الشقة بسعر 900 دولار في الشهر؟",
+        "context": "تحدد الشقة بحسب السعر."
       },
       {
         "id": 4,
-        "en": "She asked politely, \"Good morning. Can I see the apartment listed on the front of your office for 900 dollars per month?\"",
-        "ar": "سألت بأدب: \"صباح الخير. هل يمكنني رؤية الشقة المُعلَن عنها على واجهة مكتبكم بسعر 900 دولار في الشهر؟\".",
-        "context": "تبين أن السؤال قيل بطريقة مهذبة."
+        "en": "Good morning. Can I ask about the apartment?",
+        "ar": "صباح الخير. هل يمكنني السؤال عن الشقة؟",
+        "context": "تبدأ حديثًا في مكتب عقار."
       },
       {
         "id": 5,
-        "en": "At work, someone may ask, \"Good morning. Can I see the apartment listed on the front of your office for 900 dollars per month?\"",
-        "ar": "في العمل، قد يسأل شخص ما: \"صباح الخير. هل يمكنني رؤية الشقة المُعلَن عنها على واجهة مكتبكم بسعر 900 دولار في الشهر؟\".",
-        "context": "تضع السؤال في سياق مهني أو عملي."
+        "en": "Can I see the apartment on the front page?",
+        "ar": "هل يمكنني رؤية الشقة الموجودة في الصفحة الأولى؟",
+        "context": "تسأل عن إعلان ظاهر في موضع بارز."
       },
       {
         "id": 6,
-        "en": "Before deciding, ask: \"Good morning. Can I see the apartment listed on the front of your office for 900 dollars per month?\"",
-        "ar": "قبل أن تقرر، اسأل: \"صباح الخير. هل يمكنني رؤية الشقة المُعلَن عنها على واجهة مكتبكم بسعر 900 دولار في الشهر؟\".",
-        "context": "تستخدم السؤال قبل اتخاذ قرار."
+        "en": "Can I see the house listed for rent?",
+        "ar": "هل يمكنني رؤية المنزل المعروض للإيجار؟",
+        "context": "تطلب معاينة منزل لا شقة."
       },
       {
         "id": 7,
-        "en": "The student asked, \"Good morning. Can I see the apartment listed on the front of your office for 900 dollars per month?\" in class.",
-        "ar": "سأل الطالب: \"صباح الخير. هل يمكنني رؤية الشقة المُعلَن عنها على واجهة مكتبكم بسعر 900 دولار في الشهر؟\" في الصف.",
-        "context": "تجعل الجملة جزءًا من موقف تعليمي."
+        "en": "Good morning. Can I see it today?",
+        "ar": "صباح الخير. هل يمكنني رؤيتها اليوم؟",
+        "context": "تسأل عن إمكانية المعاينة في نفس اليوم."
       },
       {
         "id": 8,
-        "en": "While traveling, you can ask, \"Good morning. Can I see the apartment listed on the front of your office for 900 dollars per month?\"",
-        "ar": "أثناء السفر، يمكنك أن تسأل: \"صباح الخير. هل يمكنني رؤية الشقة المُعلَن عنها على واجهة مكتبكم بسعر 900 دولار في الشهر؟\".",
-        "context": "تربط السؤال بموقف السفر أو التنقل."
+        "en": "Can I see the office listed for 900 dollars?",
+        "ar": "هل يمكنني رؤية المكتب المعروض بسعر 900 دولار؟",
+        "context": "تستخدم نفس الصيغة مع نوع عقار آخر."
       },
       {
         "id": 9,
-        "en": "He asked me, \"Good morning. Can I see the apartment listed on the front of your office for 900 dollars per month?\" again.",
-        "ar": "سألني: \"صباح الخير. هل يمكنني رؤية الشقة المُعلَن عنها على واجهة مكتبكم بسعر 900 دولار في الشهر؟\" مرة أخرى.",
-        "context": "تضيف معنى التكرار لنفس السؤال."
+        "en": "Can I see the apartment near the station?",
+        "ar": "هل يمكنني رؤية الشقة القريبة من المحطة؟",
+        "context": "تحدد الشقة بحسب موقعها."
       },
       {
         "id": 10,
-        "en": "If you are not sure, ask: \"Good morning. Can I see the apartment listed on the front of your office for 900 dollars per month?\"",
-        "ar": "إذا لم تكن متأكدًا، فاسأل: \"صباح الخير. هل يمكنني رؤية الشقة المُعلَن عنها على واجهة مكتبكم بسعر 900 دولار في الشهر؟\".",
-        "context": "توضح أن السؤال مناسب عند عدم التأكد."
+        "en": "Good morning. Can I see the listing?",
+        "ar": "صباح الخير. هل يمكنني رؤية الإعلان؟",
+        "context": "تطلب الاطلاع على الإعلان نفسه."
       }
     ]
   }

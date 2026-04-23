@@ -10,104 +10,115 @@
     "wordMeanings": [
       {
         "term": "It",
-        "description": "ضمير يعود على الشيء أو الجملة التي قيلت."
+        "description": "ضمير يعود على الشقة."
       },
       {
         "term": "has",
-        "description": "صيغة المضارع مع he/she/it من have."
+        "description": "تعني تحتوي على أو فيها."
       },
       {
         "term": "one",
-        "description": "كلمة تدل على العدد واحد أو على شيء واحد."
+        "description": "عدد يعني واحد."
       },
       {
         "term": "bedroom",
-        "description": "اسم يعني غرفة."
+        "description": "غرفة نوم."
       },
       {
         "term": "a",
-        "description": "أداة نكرة تأتي قبل الاسم المفرد المعدود."
+        "description": "أداة نكرة قبل اسم مفرد."
       },
       {
         "term": "small",
-        "description": "صفة تعني صغير."
+        "description": "صفة تعني صغيرًا."
       },
       {
         "term": "kitchen",
-        "description": "اسم يعني واحدة."
+        "description": "مطبخ."
       },
       {
         "term": "and",
-        "description": "حرف عطف يربط بين كلمتين أو جملتين."
+        "description": "حرف عطف يربط بين عناصر القائمة."
+      },
+      {
+        "term": "a",
+        "description": "أداة نكرة قبل اسم مفرد."
       },
       {
         "term": "balcony",
-        "description": "اسم يعني وشرفة."
+        "description": "شرفة."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "It has one bedroom, a small kitchen, and a balcony.",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُعمل المضارع البسيط لوصف مكونات الشقة الحالية."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "In general, It has one bedroom, a small kitchen, and a balcony.",
-        "ar": "بشكل عام، فيها غرفة نوم واحدة، ومطبخ صغير، وشرفة.",
-        "context": "تضيف عبارة عامة تحافظ على نفس المعنى الأساسي."
+        "en": "It has two bedrooms and a large kitchen.",
+        "ar": "فيها غرفتا نوم ومطبخ كبير.",
+        "context": "تصف مكونات شقة."
       },
       {
         "id": 2,
-        "en": "Usually, It has one bedroom, a small kitchen, and a balcony.",
-        "ar": "عادةً، فيها غرفة نوم واحدة، ومطبخ صغير، وشرفة.",
-        "context": "تضيف ظرفًا يدل على التكرار أو العادة."
+        "en": "The apartment has a balcony.",
+        "ar": "الشقة فيها شرفة.",
+        "context": "تذكر ميزة واحدة مهمة."
       },
       {
         "id": 3,
-        "en": "Sometimes, It has one bedroom, a small kitchen, and a balcony.",
-        "ar": "أحيانًا، فيها غرفة نوم واحدة، ومطبخ صغير، وشرفة.",
-        "context": "تضع الجملة في سياق أقل تكرارًا."
+        "en": "It has one bathroom and a small living room.",
+        "ar": "فيها حمام واحد وغرفة معيشة صغيرة.",
+        "context": "تعدد أجزاء المسكن."
       },
       {
         "id": 4,
-        "en": "For now, It has one bedroom, a small kitchen, and a balcony.",
-        "ar": "في الوقت الحالي، فيها غرفة نوم واحدة، ومطبخ صغير، وشرفة.",
-        "context": "تربط الجملة بالوضع الحالي."
+        "en": "It has a nice view.",
+        "ar": "لديها إطلالة جميلة.",
+        "context": "تصف ميزة بصرية."
       },
       {
         "id": 5,
-        "en": "It has one bedroom, a small kitchen, and a balcony, so that helps a lot.",
-        "ar": "فيها غرفة نوم واحدة، ومطبخ صغير، وشرفة، وهذا يساعد كثيرًا.",
-        "context": "تضيف نتيجة بسيطة على نفس المعنى."
+        "en": "The house has three bedrooms.",
+        "ar": "المنزل فيه ثلاث غرف نوم.",
+        "context": "تصف حجم منزل."
       },
       {
         "id": 6,
-        "en": "It has one bedroom, a small kitchen, and a balcony in daily life.",
-        "ar": "فيها غرفة نوم واحدة، ومطبخ صغير، وشرفة في الحياة اليومية.",
-        "context": "تربط الجملة بمواقف الحياة اليومية."
+        "en": "It has a small kitchen but a big balcony.",
+        "ar": "فيها مطبخ صغير لكن شرفة كبيرة.",
+        "context": "تقارن بين ميزتين."
       },
       {
         "id": 7,
-        "en": "It has one bedroom, a small kitchen, and a balcony when it is necessary.",
-        "ar": "فيها غرفة نوم واحدة، ومطبخ صغير، وشرفة عندما يكون ذلك ضروريًا.",
-        "context": "تربط الجملة بشرط أو حاجة معينة."
+        "en": "It has everything I need.",
+        "ar": "فيها كل ما أحتاجه.",
+        "context": "تعبر عن كفاية المكان."
       },
       {
         "id": 8,
-        "en": "In this situation, It has one bedroom, a small kitchen, and a balcony.",
-        "ar": "في هذا الموقف، فيها غرفة نوم واحدة، ومطبخ صغير، وشرفة.",
-        "context": "تجعل الجملة جزءًا من موقف واضح."
+        "en": "The room has one window.",
+        "ar": "الغرفة فيها نافذة واحدة.",
+        "context": "تصف تفصيلًا داخليًا."
       },
       {
         "id": 9,
-        "en": "It has one bedroom, a small kitchen, and a balcony, and everyone notices that.",
-        "ar": "فيها غرفة نوم واحدة، ومطبخ صغير، وشرفة، والجميع يلاحظ ذلك.",
-        "context": "تضيف ملاحظة أو نتيجة بعد الجملة."
+        "en": "It has a bedroom near the balcony.",
+        "ar": "فيها غرفة نوم قرب الشرفة.",
+        "context": "تحدد موقع غرفة داخل الشقة."
       },
       {
         "id": 10,
-        "en": "It has one bedroom, a small kitchen, and a balcony most of the time.",
-        "ar": "فيها غرفة نوم واحدة، ومطبخ صغير، وشرفة معظم الوقت.",
-        "context": "تضيف عبارة تكرار شائعة."
+        "en": "It has a small kitchen for simple meals.",
+        "ar": "فيها مطبخ صغير للوجبات البسيطة.",
+        "context": "تشرح فائدة المطبخ الصغير."
       }
     ]
   }

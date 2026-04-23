@@ -10,87 +10,95 @@
     "wordMeanings": [
       {
         "term": "Let",
-        "description": "فعل يُستعمل للسماح أو في تركيب let me / let us لاقتراح أو طلب شيء."
+        "description": "تأتي هنا بمعنى اسمح أو دع، لطلب فرصة لفعل شيء."
       },
       {
         "term": "me",
-        "description": "ضمير مفعول به يعني أنا/إياي."
+        "description": "ضمير يشير إلى المتكلم عندما يكون متلقيًا للفعل."
       },
       {
         "term": "think",
-        "description": "فعل يعني يعتقد أو يفكر."
+        "description": "أفكر أو أراجع الأمر في ذهني."
       },
       {
         "term": "about",
-        "description": "حرف جر أو ظرف يعني عن أو تقريبًا حسب السياق."
+        "description": "عن أو بخصوص، وتربط التفكير بالموضوع."
       },
       {
         "term": "it",
-        "description": "ضمير يعود على الشيء أو الجملة التي قيلت."
+        "description": "ضمير يشير إلى الأمر أو العرض المعروف من السياق."
       }
     ],
-    "tense": null,
-    "tenseReason": "استُعمل هذا الأسلوب لأن الجملة تقدم طلبًا أو تعليمات مباشرة موجهة إلى شخص آخر، لذلك لا نضع لها هنا زمنًا فعليًا مستقلًا.",
+    "grammarExplanations": [
+      {
+        "sentence": "Let me think about it.",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه صيغة طلب مهذبة للحصول على وقت للتفكير، وتعمل كتعبير عملي لا يحمل زمنًا مستقلًا."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "In this situation, people often say, \"Let me think about it\".",
-        "ar": "في هذا الموقف، يقول الناس كثيرًا: \"دعني أفكر في الأمر\".",
-        "context": "توضح أن العبارة مناسبة في هذا النوع من المواقف."
+        "en": "Let me think first.",
+        "ar": "دعني أفكر أولًا.",
+        "context": "تقال عند الحاجة إلى وقت قبل إعطاء جواب."
       },
       {
         "id": 2,
-        "en": "The teacher said, \"Let me think about it\" to the students.",
-        "ar": "قال المعلم للطلاب: \"دعني أفكر في الأمر\".",
-        "context": "تستخدم الجملة كتعليمات أو توجيه مباشر."
+        "en": "Let me think about your offer.",
+        "ar": "دعني أفكر في عرضك.",
+        "context": "تقال عند عدم قبول عرض أو رفضه فورًا."
       },
       {
         "id": 3,
-        "en": "He told me, \"Let me think about it\" before we left.",
-        "ar": "قال لي: \"دعني أفكر في الأمر\" قبل أن نغادر.",
-        "context": "تضع العبارة قبل حدث آخر."
+        "en": "Please give me time to think.",
+        "ar": "من فضلك أعطني وقتًا لأفكر.",
+        "context": "تقال عند طلب مهلة لاتخاذ قرار."
       },
       {
         "id": 4,
-        "en": "She said, \"Let me think about it\" in a polite way.",
-        "ar": "قالت: \"دعني أفكر في الأمر\" بطريقة مهذبة.",
-        "context": "تظهر أن العبارة يمكن أن تقال بلطف أو أدب."
+        "en": "I need to think about this.",
+        "ar": "أحتاج إلى التفكير في هذا.",
+        "context": "تقال عندما يكون القرار مهمًا أو غير واضح."
       },
       {
         "id": 5,
-        "en": "Someone shouted, \"Let me think about it\" when there was a problem.",
-        "ar": "صاح شخص ما: \"دعني أفكر في الأمر\" عندما ظهرت مشكلة.",
-        "context": "تربط العبارة بموقف سريع أو طارئ."
+        "en": "Let me decide later.",
+        "ar": "دعني أقرر لاحقًا.",
+        "context": "تقال عند تأجيل القرار."
       },
       {
         "id": 6,
-        "en": "You can say, \"Let me think about it\" when you need a quick response.",
-        "ar": "يمكنك أن تقول: \"دعني أفكر في الأمر\" عندما تحتاج إلى رد سريع.",
-        "context": "توضح أن العبارة مفيدة عند الحاجة إلى استجابة مباشرة."
+        "en": "Let me think for a moment.",
+        "ar": "دعني أفكر للحظة.",
+        "context": "تقال عند الحاجة إلى وقت قصير للتفكير."
       },
       {
         "id": 7,
-        "en": "They repeated, \"Let me think about it\" more than once.",
-        "ar": "رددوا: \"دعني أفكر في الأمر\" أكثر من مرة.",
-        "context": "تعطي مثالًا على تكرار العبارة."
+        "en": "She needs to think about the plan.",
+        "ar": "هي تحتاج إلى التفكير في الخطة.",
+        "context": "تقال عند رغبة شخص في مراجعة خطة قبل الموافقة."
       },
       {
         "id": 8,
-        "en": "I heard him say, \"Let me think about it\" yesterday.",
-        "ar": "سمعته يقول: \"دعني أفكر في الأمر\" أمس.",
-        "context": "تجعل العبارة جزءًا من موقف سمعته من شخص آخر."
+        "en": "We need to think carefully.",
+        "ar": "نحتاج إلى التفكير بعناية.",
+        "context": "تقال عند وجود قرار يحتاج إلى انتباه."
       },
       {
         "id": 9,
-        "en": "Many learners remember the phrase, \"Let me think about it\".",
-        "ar": "يتذكر كثير من المتعلمين العبارة: \"دعني أفكر في الأمر\".",
-        "context": "تقدم العبارة بوصفها عبارة سهلة التذكر."
+        "en": "Let me think and call you later.",
+        "ar": "دعني أفكر وأتصل بك لاحقًا.",
+        "context": "تقال عند وعد بالرد بعد التفكير."
       },
       {
         "id": 10,
-        "en": "At that moment, she said, \"Let me think about it\".",
-        "ar": "في تلك اللحظة، قالت: \"دعني أفكر في الأمر\".",
-        "context": "تربط العبارة بلحظة معينة في السرد."
+        "en": "He wants to think about the price.",
+        "ar": "هو يريد أن يفكر في السعر.",
+        "context": "تقال عند تردد شخص بسبب تكلفة."
       }
     ]
   }

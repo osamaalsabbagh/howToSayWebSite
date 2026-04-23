@@ -10,80 +10,87 @@
     "wordMeanings": [
       {
         "term": "He",
-        "description": "الضمير الذي يعود على شخص مفرد مذكر."
+        "description": "ضمير يشير إلى رجل أو ولد معروف من السياق."
       },
       {
         "term": "is",
-        "description": "فعل be في الحاضر."
+        "description": "صيغة تأتي مع المفرد الغائب وتربط الشخص بوصفه الحالي."
       },
       {
         "term": "right",
-        "description": "هنا تعني على حق / كلامه صحيح."
+        "description": "على حق أو كلامه صحيح في هذا السياق."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تصف حكمًا أو حقيقة في النقاش الحالي: أن رأيه صحيح.",
+    "grammarExplanations": [
+      {
+        "sentence": "He is right.",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "تستخدم الجملة وصفًا حاليًا لرأي الشخص أو صحة كلامه، لذلك تأتي بصيغة المضارع البسيط مع is."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "He is right about the price.",
-        "ar": "هو على حق بشأن السعر.",
-        "context": "توافقه في نقطة محددة."
+        "en": "She is right.",
+        "ar": "هي على حق.",
+        "context": "تقال عند تأكيد صحة كلام امرأة أو فتاة."
       },
       {
         "id": 2,
-        "en": "I think he is right.",
-        "ar": "أعتقد أنه على حق.",
-        "context": "تعبر عن موافقتك على رأيه."
+        "en": "You are right.",
+        "ar": "أنت على حق.",
+        "context": "تقال عند الموافقة على رأي المخاطب."
       },
       {
         "id": 3,
-        "en": "He is right this time.",
-        "ar": "هو على حق هذه المرة.",
-        "context": "تحدد أن الصحة في هذا الموقف الحالي."
+        "en": "The teacher is right.",
+        "ar": "المعلم على حق.",
+        "context": "تقال عند تأكيد صحة شرح المعلم."
       },
       {
         "id": 4,
-        "en": "He is right, and we should listen.",
-        "ar": "هو على حق، ويجب أن نستمع.",
-        "context": "توافق ثم تبني على ذلك نتيجة."
+        "en": "My friend is right.",
+        "ar": "صديقي على حق.",
+        "context": "تقال عند دعم رأي صديق."
       },
       {
         "id": 5,
-        "en": "He is right about the answer.",
-        "ar": "هو على حق بشأن الإجابة.",
-        "context": "توافقه في أمر تعليمي أو عملي."
+        "en": "I think he is right.",
+        "ar": "أعتقد أنه على حق.",
+        "context": "تقال عند التعبير عن رأي في صحة كلام شخص."
       },
       {
         "id": 6,
-        "en": "He is right because the rule is clear.",
-        "ar": "هو على حق لأن القاعدة واضحة.",
-        "context": "تذكر سبب موافقتك."
+        "en": "They are right about the price.",
+        "ar": "هم على حق بشأن السعر.",
+        "context": "تقال عند تأكيد صحة معلومة عن السعر."
       },
       {
         "id": 7,
-        "en": "He is right most of the time.",
-        "ar": "هو على حق معظم الوقت.",
-        "context": "تصف نمطًا عامًا نسبيًا."
+        "en": "Your answer is right.",
+        "ar": "إجابتك صحيحة.",
+        "context": "تقال عند تصحيح إجابة في درس أو اختبار."
       },
       {
         "id": 8,
-        "en": "He is right, but his tone is strong.",
-        "ar": "هو على حق، لكن أسلوبه حاد.",
-        "context": "تفرق بين صحة الفكرة وطريقة عرضها."
+        "en": "The number is right.",
+        "ar": "الرقم صحيح.",
+        "context": "تقال عند التحقق من رقم."
       },
       {
         "id": 9,
-        "en": "He is right about this problem.",
-        "ar": "هو على حق بشأن هذه المشكلة.",
-        "context": "توافق على تحليله لمشكلة معينة."
+        "en": "His idea is right.",
+        "ar": "فكرته صحيحة.",
+        "context": "تقال عند تأييد فكرة شخص."
       },
       {
         "id": 10,
-        "en": "He is right to be careful.",
-        "ar": "هو محق في أن يكون حذرًا.",
-        "context": "توافق على سلوكه أو موقفه."
+        "en": "This address is right.",
+        "ar": "هذا العنوان صحيح.",
+        "context": "تقال عند التأكد من عنوان."
       }
     ]
   }

@@ -10,107 +10,123 @@
     "wordMeanings": [
       {
         "term": "Sure",
-        "description": "صفة تعني هل."
+        "description": "كلمة موافقة تعني بالتأكيد أو لا مشكلة."
       },
       {
         "term": "Can",
-        "description": "فعل مساعد يدل هنا على القدرة أو الاستعداد لتلبية الطلب."
+        "description": "تبدأ طلبًا مهذبًا عن قدرة الشخص أو استعداده لفعل شيء."
       },
       {
         "term": "you",
-        "description": "الضمير الذي يعود على الشخص المخاطَب."
+        "description": "ضمير المخاطب، ويشير إلى الشخص الذي يُطلب منه شيء."
       },
       {
         "term": "give",
-        "description": "فعل يعني يعطي."
+        "description": "تعني تعطي أو تقدم معلومة."
       },
       {
         "term": "me",
-        "description": "ضمير مفعول به يعني أنا/إياي."
+        "description": "ضمير يعود على المتكلم بوصفه متلقي المعلومة."
       },
       {
         "term": "your",
-        "description": "صفة ملكية تعني خاصتك أو خاصتكم."
+        "description": "صفة ملكية تعني الخاص بك."
       },
       {
         "term": "full",
-        "description": "صفة تعني الكامل."
+        "description": "تعني كاملًا أو غير مختصر."
       },
       {
         "term": "address",
-        "description": "اسم يعني عنوان."
+        "description": "مكان السكن أو العنوان الكامل."
       },
       {
         "term": "and",
-        "description": "حرف عطف يربط بين كلمتين أو جملتين."
+        "description": "حرف عطف يربط بين معلومتين مطلوبتين."
       },
       {
         "term": "age",
-        "description": "فعل يعني وعمرك."
+        "description": "العمر أو عدد سنوات الشخص."
       }
     ],
-    "tense": null,
-    "tenseReason": "استُعمل هذا التركيب لأنه سؤال يعتمد على فعل modal مثل can أو could أو would، لذلك لا نعامله هنا كزمن مستقل بل كصيغة سؤال وظيفية.",
+    "grammarExplanations": [
+      {
+        "sentence": "Sure.",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه كلمة موافقة قصيرة وليست جملة فعلية لها زمن مستقل."
+        }
+      },
+      {
+        "sentence": "Can you give me your full address and age?",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذا سؤال طلب يعتمد على can لطلب معلومات التسجيل بطريقة مباشرة ومقبولة، لذلك يشرح كتركيب طلب لا كزمن مستقل."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "You can ask, \"Sure. Can you give me your full address and age?\" when you need information.",
-        "ar": "يمكنك أن تسأل: \"بالتأكيد. هل يمكنك أن تعطيني عنوانك الكامل وعمرك؟\" عندما تحتاج إلى معلومة.",
-        "context": "تستعمل الجملة كسؤال مباشر للحصول على معلومة."
+        "en": "Can you give me your phone number?",
+        "ar": "هل يمكنك أن تعطيني رقم هاتفك؟",
+        "context": "تطلب معلومة للتواصل."
       },
       {
         "id": 2,
-        "en": "Many people ask, \"Sure. Can you give me your full address and age?\" in this situation.",
-        "ar": "يسأل كثير من الناس: \"بالتأكيد. هل يمكنك أن تعطيني عنوانك الكامل وعمرك؟\" في هذا الموقف.",
-        "context": "توضح أن هذا سؤال شائع في موقف مشابه."
+        "en": "Can you give me your email address?",
+        "ar": "هل يمكنك أن تعطيني عنوان بريدك الإلكتروني؟",
+        "context": "تطلب بريدًا لإرسال التفاصيل."
       },
       {
         "id": 3,
-        "en": "I asked, \"Sure. Can you give me your full address and age?\" because I was not sure.",
-        "ar": "سألت: \"بالتأكيد. هل يمكنك أن تعطيني عنوانك الكامل وعمرك؟\" لأنني لم أكن متأكدًا.",
-        "context": "تضيف سببًا لطرح السؤال."
+        "en": "Sure. Can you write your full name here?",
+        "ar": "بالتأكيد. هل يمكنك كتابة اسمك الكامل هنا؟",
+        "context": "تطلب استكمال نموذج."
       },
       {
         "id": 4,
-        "en": "She asked politely, \"Sure. Can you give me your full address and age?\"",
-        "ar": "سألت بأدب: \"بالتأكيد. هل يمكنك أن تعطيني عنوانك الكامل وعمرك؟\".",
-        "context": "تبين أن السؤال قيل بطريقة مهذبة."
+        "en": "Can you give me your address, please?",
+        "ar": "هل يمكنك أن تعطيني عنوانك من فضلك؟",
+        "context": "تجعل الطلب أكثر لطفًا بإضافة please."
       },
       {
         "id": 5,
-        "en": "At work, someone may ask, \"Sure. Can you give me your full address and age?\"",
-        "ar": "في العمل، قد يسأل شخص ما: \"بالتأكيد. هل يمكنك أن تعطيني عنوانك الكامل وعمرك؟\".",
-        "context": "تضع السؤال في سياق مهني أو عملي."
+        "en": "Can you give me your age for the form?",
+        "ar": "هل يمكنك أن تعطيني عمرك للنموذج؟",
+        "context": "توضح سبب طلب العمر."
       },
       {
         "id": 6,
-        "en": "Before deciding, ask: \"Sure. Can you give me your full address and age?\"",
-        "ar": "قبل أن تقرر، اسأل: \"بالتأكيد. هل يمكنك أن تعطيني عنوانك الكامل وعمرك؟\".",
-        "context": "تستخدم السؤال قبل اتخاذ قرار."
+        "en": "Sure. Can you confirm your address?",
+        "ar": "بالتأكيد. هل يمكنك تأكيد عنوانك؟",
+        "context": "تتحقق من معلومة مسجلة."
       },
       {
         "id": 7,
-        "en": "The student asked, \"Sure. Can you give me your full address and age?\" in class.",
-        "ar": "سأل الطالب: \"بالتأكيد. هل يمكنك أن تعطيني عنوانك الكامل وعمرك؟\" في الصف.",
-        "context": "تجعل الجملة جزءًا من موقف تعليمي."
+        "en": "Can you give me the class name?",
+        "ar": "هل يمكنك أن تعطيني اسم الحصة؟",
+        "context": "تطلب معلومة عن نشاط معين."
       },
       {
         "id": 8,
-        "en": "While traveling, you can ask, \"Sure. Can you give me your full address and age?\"",
-        "ar": "أثناء السفر، يمكنك أن تسأل: \"بالتأكيد. هل يمكنك أن تعطيني عنوانك الكامل وعمرك؟\".",
-        "context": "تربط السؤال بموقف السفر أو التنقل."
+        "en": "Can you give me your full address before we continue?",
+        "ar": "هل يمكنك أن تعطيني عنوانك الكامل قبل أن نكمل؟",
+        "context": "تحتاج معلومة أساسية قبل متابعة التسجيل."
       },
       {
         "id": 9,
-        "en": "He asked me, \"Sure. Can you give me your full address and age?\" again.",
-        "ar": "سألني: \"بالتأكيد. هل يمكنك أن تعطيني عنوانك الكامل وعمرك؟\" مرة أخرى.",
-        "context": "تضيف معنى التكرار لنفس السؤال."
+        "en": "Can you tell me your age?",
+        "ar": "هل يمكنك أن تخبرني بعمرك؟",
+        "context": "صيغة أخرى لطلب العمر."
       },
       {
         "id": 10,
-        "en": "If you are not sure, ask: \"Sure. Can you give me your full address and age?\"",
-        "ar": "إذا لم تكن متأكدًا، فاسأل: \"بالتأكيد. هل يمكنك أن تعطيني عنوانك الكامل وعمرك؟\".",
-        "context": "توضح أن السؤال مناسب عند عدم التأكد."
+        "en": "Sure. Can you give me one more detail?",
+        "ar": "بالتأكيد. هل يمكنك أن تعطيني تفصيلًا آخر؟",
+        "context": "تطلب معلومة إضافية بلطف."
       }
     ]
   }

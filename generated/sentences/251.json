@@ -10,88 +10,103 @@
     "wordMeanings": [
       {
         "term": "Sorry",
-        "description": "صفة أو تعبير يعني آسف."
+        "description": "عذرًا، وتستخدم للتلطف قبل توضيح أمر غير مريح."
       },
       {
         "term": "we",
-        "description": "ضمير المتكلمين."
+        "description": "نحن، وتشير إلى المتجر أو الجهة المتحدثة."
       },
       {
         "term": "only",
-        "description": "ظرف يعني فقط."
+        "description": "فقط، وتدل على حصر الخيار."
       },
       {
         "term": "accept",
-        "description": "فعل يعني عذرا."
+        "description": "نقبل."
       },
       {
         "term": "cash",
-        "description": "اسم يعني نقدا."
+        "description": "نقد أو مال ورقي ومعدني."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "Sorry",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه كلمة اعتذار أو تلطف قبل توضيح طريقة الدفع، ولا تحمل زمنًا مستقلًا."
+        }
+      },
+      {
+        "sentence": "we only accept cash",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "يستخدم المضارع البسيط للتعبير عن سياسة عامة في المكان، وكلمة فقط تحصر طريقة الدفع في النقد."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "People often say, \"Sorry, we only accept cash\" in situations like this.",
-        "ar": "يقول الناس كثيرًا: \"عذرًا، نقبل فقط الدفع نقدًا\" في مواقف كهذه.",
-        "context": "تستخدم الجملة بوصفها تركيبًا شائعًا في موقف مشابه."
+        "en": "Sorry, we only accept cash.",
+        "ar": "عذرًا، نقبل الدفع نقدًا فقط.",
+        "context": "تقال عند توضيح أن الدفع يجب أن يكون نقدًا."
       },
       {
         "id": 2,
-        "en": "You can say, \"Sorry, we only accept cash\" when this happens.",
-        "ar": "يمكنك أن تقول: \"عذرًا، نقبل فقط الدفع نقدًا\" عندما يحدث هذا.",
-        "context": "توضح أن الجملة مناسبة في موقف متكرر."
+        "en": "We only accept cash.",
+        "ar": "نقبل النقد فقط.",
+        "context": "تقال لتوضيح سياسة الدفع."
       },
       {
         "id": 3,
-        "en": "I heard someone say, \"Sorry, we only accept cash\".",
-        "ar": "سمعت شخصًا يقول: \"عذرًا، نقبل فقط الدفع نقدًا\".",
-        "context": "تجعل الجملة جزءًا من كلام سمعته من شخص آخر."
+        "en": "Sorry, cash only.",
+        "ar": "عذرًا، نقدًا فقط.",
+        "context": "تقال باختصار في متجر أو مطعم."
       },
       {
         "id": 4,
-        "en": "The teacher used the sentence, \"Sorry, we only accept cash\" in class.",
-        "ar": "استخدم المعلم الجملة: \"عذرًا، نقبل فقط الدفع نقدًا\" في الصف.",
-        "context": "تستخدم الجملة مثالًا تعليميًا في الصف."
+        "en": "Sorry, we only accept cash today.",
+        "ar": "عذرًا، نقبل النقد فقط اليوم.",
+        "context": "تقال عند وجود مشكلة مؤقتة في الدفع."
       },
       {
         "id": 5,
-        "en": "Many learners remember the sentence, \"Sorry, we only accept cash\" first.",
-        "ar": "يتذكر كثير من المتعلمين الجملة: \"عذرًا، نقبل فقط الدفع نقدًا\" أولًا.",
-        "context": "تقدم الجملة بوصفها جملة تعليمية أساسية."
+        "en": "This place only accepts cash.",
+        "ar": "هذا المكان يقبل النقد فقط.",
+        "context": "تقال عند شرح سياسة مكان لشخص آخر."
       },
       {
         "id": 6,
-        "en": "She said, \"Sorry, we only accept cash\" in a calm way.",
-        "ar": "قالت: \"عذرًا، نقبل فقط الدفع نقدًا\" بطريقة هادئة.",
-        "context": "تجعل الجملة جزءًا من كلام مباشر في موقف عادي."
+        "en": "Do you only accept cash?",
+        "ar": "هل تقبلون النقد فقط؟",
+        "context": "تقال عند التأكد من خيارات الدفع."
       },
       {
         "id": 7,
-        "en": "He repeated, \"Sorry, we only accept cash\" more than once.",
-        "ar": "ردد: \"عذرًا، نقبل فقط الدفع نقدًا\" أكثر من مرة.",
-        "context": "تضيف معنى التكرار لنفس الجملة."
+        "en": "They only accept cash here.",
+        "ar": "هم يقبلون النقد فقط هنا.",
+        "context": "تقال عند إخبار شخص قبل الدفع."
       },
       {
         "id": 8,
-        "en": "At the right moment, someone might say, \"Sorry, we only accept cash\".",
-        "ar": "في اللحظة المناسبة، قد يقول شخص ما: \"عذرًا، نقبل فقط الدفع نقدًا\".",
-        "context": "توضح أن الجملة مرتبطة بتوقيت مناسب في السياق."
+        "en": "Sorry, we do not accept cards.",
+        "ar": "عذرًا، لا نقبل البطاقات.",
+        "context": "تقال عند رفض الدفع بالبطاقة."
       },
       {
         "id": 9,
-        "en": "I wrote down the sentence, \"Sorry, we only accept cash\" so I would remember it.",
-        "ar": "كتبت الجملة: \"عذرًا، نقبل فقط الدفع نقدًا\" حتى أتذكرها.",
-        "context": "تعطي مثالًا على حفظ الجملة أو مراجعتها."
+        "en": "Please pay in cash.",
+        "ar": "يرجى الدفع نقدًا.",
+        "context": "تقال كتعليمات دفع."
       },
       {
         "id": 10,
-        "en": "It is useful to know when to say, \"Sorry, we only accept cash\".",
-        "ar": "من المفيد أن تعرف متى تقول: \"عذرًا، نقبل فقط الدفع نقدًا\".",
-        "context": "تركز على معرفة الوقت المناسب لاستخدام الجملة."
+        "en": "We accept cash and checks only.",
+        "ar": "نقبل النقد والشيكات فقط.",
+        "context": "تقال عند حصر خيارات الدفع في وسيلتين."
       }
     ]
   }

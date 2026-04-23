@@ -10,79 +10,87 @@
     "wordMeanings": [
       {
         "term": "On",
-        "description": "حرف جر يعني على أو في يوم محدد حسب السياق."
+        "description": "تستخدم هنا لتحديد جهة أو جانب."
       },
       {
         "term": "the",
-        "description": "أداة تعريف تشير إلى شيء معروف أو محدد."
+        "description": "أداة تشير إلى جهة محددة."
       },
       {
         "term": "right",
-        "description": "هنا جزء من All right التي تدل على القبول أو الموافقة، وليس المقصود فقط معنى \"صحيح\" أو \"يمين\"."
+        "description": "الجهة اليمنى."
       }
     ],
-    "tense": null,
-    "tenseReason": "استُعمل هذا التعبير لأنه عبارة ثابتة أو رد قصير يُستخدم في موقف محدد، وليس جملة فعلية كاملة بزمن واضح.",
+    "grammarExplanations": [
+      {
+        "sentence": "On the right.",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذا تعبير اتجاهي قصير يحدد الجهة اليمنى، ولا يحتوي على فعل ظاهر أو زمن مستقل."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "In this situation, people often say, \"On the right\".",
-        "ar": "في هذا الموقف، يقول الناس كثيرًا: \"على اليمين\".",
-        "context": "توضح أن العبارة مناسبة في هذا النوع من المواقف."
+        "en": "On the right.",
+        "ar": "على اليمين.",
+        "context": "تقال كجواب قصير عند تحديد الاتجاه."
       },
       {
         "id": 2,
-        "en": "The teacher said, \"On the right\" to the students.",
-        "ar": "قال المعلم للطلاب: \"على اليمين\".",
-        "context": "تستخدم الجملة كتعليمات أو توجيه مباشر."
+        "en": "It is on the right.",
+        "ar": "إنه على اليمين.",
+        "context": "تقال عند تحديد موقع شيء."
       },
       {
         "id": 3,
-        "en": "He told me, \"On the right\" before we left.",
-        "ar": "قال لي: \"على اليمين\" قبل أن نغادر.",
-        "context": "تضع العبارة قبل حدث آخر."
+        "en": "The bank is on the right.",
+        "ar": "البنك على اليمين.",
+        "context": "تقال عند إعطاء اتجاهات في الطريق."
       },
       {
         "id": 4,
-        "en": "She said, \"On the right\" in a polite way.",
-        "ar": "قالت: \"على اليمين\" بطريقة مهذبة.",
-        "context": "تظهر أن العبارة يمكن أن تقال بلطف أو أدب."
+        "en": "The door is on the right.",
+        "ar": "الباب على اليمين.",
+        "context": "تقال عند تحديد مكان باب."
       },
       {
         "id": 5,
-        "en": "Someone shouted, \"On the right\" when there was a problem.",
-        "ar": "صاح شخص ما: \"على اليمين\" عندما ظهرت مشكلة.",
-        "context": "تربط العبارة بموقف سريع أو طارئ."
+        "en": "Sit on the right.",
+        "ar": "اجلس على اليمين.",
+        "context": "تقال عند تحديد مكان جلوس."
       },
       {
         "id": 6,
-        "en": "You can say, \"On the right\" when you need a quick response.",
-        "ar": "يمكنك أن تقول: \"على اليمين\" عندما تحتاج إلى رد سريع.",
-        "context": "توضح أن العبارة مفيدة عند الحاجة إلى استجابة مباشرة."
+        "en": "The elevator is on the right.",
+        "ar": "المصعد على اليمين.",
+        "context": "تقال عند إرشاد شخص إلى المصعد."
       },
       {
         "id": 7,
-        "en": "They repeated, \"On the right\" more than once.",
-        "ar": "رددوا: \"على اليمين\" أكثر من مرة.",
-        "context": "تعطي مثالًا على تكرار العبارة."
+        "en": "Look on the right.",
+        "ar": "انظر إلى اليمين.",
+        "context": "تقال عند لفت الانتباه إلى جهة معينة."
       },
       {
         "id": 8,
-        "en": "I heard him say, \"On the right\" yesterday.",
-        "ar": "سمعته يقول: \"على اليمين\" أمس.",
-        "context": "تجعل العبارة جزءًا من موقف سمعته من شخص آخر."
+        "en": "The restaurant is on the right.",
+        "ar": "المطعم على اليمين.",
+        "context": "تقال عند وصف مكان مطعم."
       },
       {
         "id": 9,
-        "en": "Many learners remember the phrase, \"On the right\".",
-        "ar": "يتذكر كثير من المتعلمين العبارة: \"على اليمين\".",
-        "context": "تقدم العبارة بوصفها عبارة سهلة التذكر."
+        "en": "Keep your suitcase on the right.",
+        "ar": "أبق حقيبتك على اليمين.",
+        "context": "تقال عند تنظيم مكان حقيبة."
       },
       {
         "id": 10,
-        "en": "At that moment, she said, \"On the right\".",
-        "ar": "في تلك اللحظة، قالت: \"على اليمين\".",
-        "context": "تربط العبارة بلحظة معينة في السرد."
+        "en": "The ticket office is on the right.",
+        "ar": "مكتب التذاكر على اليمين.",
+        "context": "تقال عند إرشاد مسافر."
       }
     ]
   }

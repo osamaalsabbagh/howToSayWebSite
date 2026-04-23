@@ -10,88 +10,95 @@
     "wordMeanings": [
       {
         "term": "The",
-        "description": "أداة تعريف تشير إلى شيء معروف أو محدد."
+        "description": "أداة تشير إلى درجة حرارة محددة في السياق."
       },
       {
         "term": "temperature",
-        "description": "اسم يعني الحرارة."
+        "description": "درجة الحرارة."
       },
       {
         "term": "is",
-        "description": "فعل be في الحاضر مع المفرد."
+        "description": "صيغة تربط الشيء بوصفه أو مستواه الحالي."
       },
       {
         "term": "below",
-        "description": "صفة تعني أقل."
+        "description": "أقل من مستوى أو رقم معين، وليس بالضرورة تحته مباشرة."
       },
       {
         "term": "zero",
-        "description": "كلمة ترتبط بمعنى الصفر."
+        "description": "الصفر."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "The temperature is below zero.",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "تستخدم is لوصف مستوى درجة الحرارة الحالي، وتستخدم below عندما يكون الشيء أقل من مستوى أو رقم معين."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "People often say, \"The temperature is below zero\" in situations like this.",
-        "ar": "يقول الناس كثيرًا: \"درجة الحرارة أقل من الصفر\" في مواقف كهذه.",
-        "context": "تستخدم الجملة بوصفها تركيبًا شائعًا في موقف مشابه."
+        "en": "The price is below ten dollars.",
+        "ar": "السعر أقل من عشرة دولارات.",
+        "context": "تقال عند وصف سعر دون مستوى معين."
       },
       {
         "id": 2,
-        "en": "You can say, \"The temperature is below zero\" when this happens.",
-        "ar": "يمكنك أن تقول: \"درجة الحرارة أقل من الصفر\" عندما يحدث هذا.",
-        "context": "توضح أن الجملة مناسبة في موقف متكرر."
+        "en": "The city is below sea level.",
+        "ar": "المدينة تحت مستوى سطح البحر.",
+        "context": "تقال عند وصف مستوى جغرافي أقل من البحر."
       },
       {
         "id": 3,
-        "en": "I heard someone say, \"The temperature is below zero\".",
-        "ar": "سمعت شخصًا يقول: \"درجة الحرارة أقل من الصفر\".",
-        "context": "تجعل الجملة جزءًا من كلام سمعته من شخص آخر."
+        "en": "The score is below average.",
+        "ar": "النتيجة أقل من المتوسط.",
+        "context": "تقال عند تقييم نتيجة منخفضة."
       },
       {
         "id": 4,
-        "en": "The teacher used the sentence, \"The temperature is below zero\" in class.",
-        "ar": "استخدم المعلم الجملة: \"درجة الحرارة أقل من الصفر\" في الصف.",
-        "context": "تستخدم الجملة مثالًا تعليميًا في الصف."
+        "en": "The number is below five.",
+        "ar": "الرقم أقل من خمسة.",
+        "context": "تقال عند مقارنة رقم بحد معين."
       },
       {
         "id": 5,
-        "en": "Many learners remember the sentence, \"The temperature is below zero\" first.",
-        "ar": "يتذكر كثير من المتعلمين الجملة: \"درجة الحرارة أقل من الصفر\" أولًا.",
-        "context": "تقدم الجملة بوصفها جملة تعليمية أساسية."
+        "en": "The shelf is below the window.",
+        "ar": "الرف أسفل النافذة.",
+        "context": "تقال عند وصف موضع عام أقل من النافذة."
       },
       {
         "id": 6,
-        "en": "She said, \"The temperature is below zero\" in a calm way.",
-        "ar": "قالت: \"درجة الحرارة أقل من الصفر\" بطريقة هادئة.",
-        "context": "تجعل الجملة جزءًا من كلام مباشر في موقف عادي."
+        "en": "The temperature is below freezing.",
+        "ar": "درجة الحرارة أقل من درجة التجمد.",
+        "context": "تقال عند وصف طقس شديد البرودة."
       },
       {
         "id": 7,
-        "en": "He repeated, \"The temperature is below zero\" more than once.",
-        "ar": "ردد: \"درجة الحرارة أقل من الصفر\" أكثر من مرة.",
-        "context": "تضيف معنى التكرار لنفس الجملة."
+        "en": "The answer is below the picture.",
+        "ar": "الإجابة أسفل الصورة.",
+        "context": "تقال عند تحديد مكان نص في صفحة."
       },
       {
         "id": 8,
-        "en": "At the right moment, someone might say, \"The temperature is below zero\".",
-        "ar": "في اللحظة المناسبة، قد يقول شخص ما: \"درجة الحرارة أقل من الصفر\".",
-        "context": "توضح أن الجملة مرتبطة بتوقيت مناسب في السياق."
+        "en": "His name is below mine.",
+        "ar": "اسمه أسفل اسمي.",
+        "context": "تقال عند وصف ترتيب في قائمة."
       },
       {
         "id": 9,
-        "en": "I wrote down the sentence, \"The temperature is below zero\" so I would remember it.",
-        "ar": "كتبت الجملة: \"درجة الحرارة أقل من الصفر\" حتى أتذكرها.",
-        "context": "تعطي مثالًا على حفظ الجملة أو مراجعتها."
+        "en": "The room is below the office.",
+        "ar": "الغرفة أسفل المكتب.",
+        "context": "تقال عند وصف طابق أو مستوى أقل."
       },
       {
         "id": 10,
-        "en": "It is useful to know when to say, \"The temperature is below zero\".",
-        "ar": "من المفيد أن تعرف متى تقول: \"درجة الحرارة أقل من الصفر\".",
-        "context": "تركز على معرفة الوقت المناسب لاستخدام الجملة."
+        "en": "The value is below the limit.",
+        "ar": "القيمة أقل من الحد.",
+        "context": "تقال عند مقارنة قيمة بحد مسموح."
       }
     ]
   }

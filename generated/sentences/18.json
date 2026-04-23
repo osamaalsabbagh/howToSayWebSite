@@ -10,80 +10,87 @@
     "wordMeanings": [
       {
         "term": "How",
-        "description": "أداة سؤال عن الحال أو الكيفية."
+        "description": "كلمة سؤال عن الحال أو الطريقة."
       },
       {
         "term": "are",
-        "description": "فعل be مع you."
+        "description": "صيغة تأتي مع المخاطب أو الجمع وتربط الشخص بحالته."
       },
       {
         "term": "you",
-        "description": "الضمير المخاطَب."
+        "description": "ضمير يشير إلى الشخص الذي أتحدث معه."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن السؤال عن الحال أو الوضع الحالي للشخص في لحظة الكلام.",
+    "grammarExplanations": [
+      {
+        "sentence": "How are you?",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه صيغة سؤال شائعة للسؤال عن حال شخص أو بدء التحية، والأفضل فهمها كتعبير تواصلي لا كزمن مستقل."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "How are you today?",
-        "ar": "كيف حالك اليوم؟",
-        "context": "تسأل عن حال شخص في هذا اليوم."
+        "en": "How is your mother?",
+        "ar": "كيف حال والدتك؟",
+        "context": "تقال عند السؤال عن صحة أو حال والدة شخص."
       },
       {
         "id": 2,
-        "en": "Hi, how are you?",
-        "ar": "مرحبًا، كيف حالك؟",
-        "context": "تجمع بين التحية والسؤال عن الحال."
+        "en": "How are your children?",
+        "ar": "كيف حال أطفالك؟",
+        "context": "تقال عند السؤال عن حال أطفال شخص."
       },
       {
         "id": 3,
-        "en": "How are you now?",
-        "ar": "كيف حالك الآن؟",
-        "context": "تسأل عن الحالة في هذه اللحظة."
+        "en": "How is your brother?",
+        "ar": "كيف حال أخيك؟",
+        "context": "تقال عند السؤال عن شخص من العائلة."
       },
       {
         "id": 4,
-        "en": "How are you feeling?",
-        "ar": "كيف تشعر؟",
-        "context": "نسخة قريبة أكثر تركيزًا على الشعور."
+        "en": "How are things?",
+        "ar": "كيف تسير الأمور؟",
+        "context": "تقال للسؤال العام عن الأحوال."
       },
       {
         "id": 5,
-        "en": "How are you doing?",
-        "ar": "كيف حالك؟ / كيف تسير أمورك؟",
-        "context": "صيغة شائعة جدًا في الكلام اليومي."
+        "en": "How is your day?",
+        "ar": "كيف يومك؟",
+        "context": "تقال للسؤال عن يوم شخص."
       },
       {
         "id": 6,
-        "en": "How are you after the trip?",
-        "ar": "كيف حالك بعد الرحلة؟",
-        "context": "تسأل عن الحال بعد حدث معين."
+        "en": "How are you today?",
+        "ar": "كيف حالك اليوم؟",
+        "context": "تقال عند السؤال عن حال شخص في ذلك اليوم."
       },
       {
         "id": 7,
-        "en": "How are you these days?",
-        "ar": "كيف حالك هذه الأيام؟",
-        "context": "تسأل عن الحال في فترة قريبة."
+        "en": "How is your family?",
+        "ar": "كيف حال عائلتك؟",
+        "context": "تقال عند السؤال عن أحوال عائلة شخص."
       },
       {
         "id": 8,
-        "en": "How are you and your family?",
-        "ar": "كيف حالك وحال عائلتك؟",
-        "context": "توسع السؤال ليشمل أشخاصًا آخرين."
+        "en": "How are your parents?",
+        "ar": "كيف حال والديك؟",
+        "context": "تقال عند السؤال عن الأب والأم."
       },
       {
         "id": 9,
-        "en": "How are you? You look tired.",
-        "ar": "كيف حالك؟ تبدو متعبًا.",
-        "context": "تربط السؤال بملاحظة على الشخص."
+        "en": "How is everyone at home?",
+        "ar": "كيف حال الجميع في البيت؟",
+        "context": "تقال عند السؤال عن أفراد البيت."
       },
       {
         "id": 10,
-        "en": "How are you? It has been a long time.",
-        "ar": "كيف حالك؟ لقد مر وقت طويل.",
-        "context": "تسأل بعد غياب أو انقطاع."
+        "en": "How are you feeling?",
+        "ar": "كيف تشعر؟",
+        "context": "تقال عند السؤال عن صحة أو شعور شخص."
       }
     ]
   }

@@ -10,75 +10,83 @@
     "wordMeanings": [
       {
         "term": "That",
-        "description": "تشير إلى أمر أو خبر سبق ذكره."
+        "description": "ذلك، وتشير إلى اتجاه بعيد أو مشار إليه."
       },
       {
         "term": "way",
-        "description": "اسم يعني الاتجاه."
+        "description": "طريق أو اتجاه."
       }
     ],
-    "tense": null,
-    "tenseReason": "استُعمل هذا التعبير لأنه عبارة ثابتة أو رد قصير يُستخدم في موقف محدد، وليس جملة فعلية كاملة بزمن واضح.",
+    "grammarExplanations": [
+      {
+        "sentence": "That way.",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه عبارة اتجاه قصيرة بلا فعل ظاهر، وتستخدم للإشارة إلى الطريق أو الجهة المطلوبة."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "In this situation, people often say, \"That way\".",
-        "ar": "في هذا الموقف، يقول الناس كثيرًا: \"من ذلك الاتجاه\".",
-        "context": "توضح أن العبارة مناسبة في هذا النوع من المواقف."
+        "en": "That way.",
+        "ar": "من ذلك الاتجاه.",
+        "context": "تقال عند الإشارة إلى اتجاه معين."
       },
       {
         "id": 2,
-        "en": "The teacher said, \"That way\" to the students.",
-        "ar": "قال المعلم للطلاب: \"من ذلك الاتجاه\".",
-        "context": "تستخدم الجملة كتعليمات أو توجيه مباشر."
+        "en": "Go that way.",
+        "ar": "اذهب من ذلك الاتجاه.",
+        "context": "تقال عند إعطاء اتجاه قصير."
       },
       {
         "id": 3,
-        "en": "He told me, \"That way\" before we left.",
-        "ar": "قال لي: \"من ذلك الاتجاه\" قبل أن نغادر.",
-        "context": "تضع العبارة قبل حدث آخر."
+        "en": "The airport is that way.",
+        "ar": "المطار من ذلك الاتجاه.",
+        "context": "تقال عند إرشاد شخص إلى المطار."
       },
       {
         "id": 4,
-        "en": "She said, \"That way\" in a polite way.",
-        "ar": "قالت: \"من ذلك الاتجاه\" بطريقة مهذبة.",
-        "context": "تظهر أن العبارة يمكن أن تقال بلطف أو أدب."
+        "en": "The station is that way.",
+        "ar": "المحطة من ذلك الاتجاه.",
+        "context": "تقال عند الإشارة إلى طريق المحطة."
       },
       {
         "id": 5,
-        "en": "Someone shouted, \"That way\" when there was a problem.",
-        "ar": "صاح شخص ما: \"من ذلك الاتجاه\" عندما ظهرت مشكلة.",
-        "context": "تربط العبارة بموقف سريع أو طارئ."
+        "en": "The exit is that way.",
+        "ar": "المخرج من ذلك الاتجاه.",
+        "context": "تقال داخل مبنى أو مكان عام."
       },
       {
         "id": 6,
-        "en": "You can say, \"That way\" when you need a quick response.",
-        "ar": "يمكنك أن تقول: \"من ذلك الاتجاه\" عندما تحتاج إلى رد سريع.",
-        "context": "توضح أن العبارة مفيدة عند الحاجة إلى استجابة مباشرة."
+        "en": "Walk that way.",
+        "ar": "امش من ذلك الاتجاه.",
+        "context": "تقال عند توجيه شخص للمشي."
       },
       {
         "id": 7,
-        "en": "They repeated, \"That way\" more than once.",
-        "ar": "رددوا: \"من ذلك الاتجاه\" أكثر من مرة.",
-        "context": "تعطي مثالًا على تكرار العبارة."
+        "en": "Turn that way.",
+        "ar": "انعطف في ذلك الاتجاه.",
+        "context": "تقال عند توجيه حركة أو قيادة."
       },
       {
         "id": 8,
-        "en": "I heard him say, \"That way\" yesterday.",
-        "ar": "سمعته يقول: \"من ذلك الاتجاه\" أمس.",
-        "context": "تجعل العبارة جزءًا من موقف سمعته من شخص آخر."
+        "en": "This way, not that way.",
+        "ar": "من هذا الاتجاه، وليس من ذلك الاتجاه.",
+        "context": "تقال عند تصحيح الاتجاه."
       },
       {
         "id": 9,
-        "en": "Many learners remember the phrase, \"That way\".",
-        "ar": "يتذكر كثير من المتعلمين العبارة: \"من ذلك الاتجاه\".",
-        "context": "تقدم العبارة بوصفها عبارة سهلة التذكر."
+        "en": "The bathroom is that way.",
+        "ar": "الحمام من ذلك الاتجاه.",
+        "context": "تقال عند إرشاد شخص داخل مكان."
       },
       {
         "id": 10,
-        "en": "At that moment, she said, \"That way\".",
-        "ar": "في تلك اللحظة، قالت: \"من ذلك الاتجاه\".",
-        "context": "تربط العبارة بلحظة معينة في السرد."
+        "en": "The bus stop is that way.",
+        "ar": "موقف الحافلات من ذلك الاتجاه.",
+        "context": "تقال عند توجيه شخص إلى موقف الحافلات."
       }
     ]
   }

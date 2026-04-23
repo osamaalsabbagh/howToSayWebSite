@@ -10,80 +10,87 @@
     "wordMeanings": [
       {
         "term": "I",
-        "description": "ضمير المتكلم."
+        "description": "ضمير المتكلم ويشير إلى الشخص الذي يتحدث."
       },
       {
         "term": "am",
-        "description": "فعل be مع I ويُستعمل هنا مع learning لتكوين المضارع المستمر."
+        "description": "صيغة تأتي مع ضمير المتكلم المفرد وتربط الشخص بحالته."
       },
       {
         "term": "thirsty",
-        "description": "صفة تعني عطشان."
+        "description": "عطشان أو يحتاج إلى الشرب."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "I am thirsty.",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "تستخدم الجملة am مع صفة لوصف حالة المتكلم الحالية، وهي الحاجة إلى الشرب."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "People often say, \"I am thirsty\" in situations like this.",
-        "ar": "يقول الناس كثيرًا: \"أنا عطشان\" في مواقف كهذه.",
-        "context": "تستخدم الجملة بوصفها تركيبًا شائعًا في موقف مشابه."
+        "en": "I am hungry.",
+        "ar": "أنا جائع.",
+        "context": "تقال عند الحاجة إلى الطعام."
       },
       {
         "id": 2,
-        "en": "You can say, \"I am thirsty\" when this happens.",
-        "ar": "يمكنك أن تقول: \"أنا عطشان\" عندما يحدث هذا.",
-        "context": "توضح أن الجملة مناسبة في موقف متكرر."
+        "en": "She is thirsty after running.",
+        "ar": "هي عطشانة بعد الجري.",
+        "context": "تقال عند الحاجة إلى الشرب بعد مجهود."
       },
       {
         "id": 3,
-        "en": "I heard someone say, \"I am thirsty\".",
-        "ar": "سمعت شخصًا يقول: \"أنا عطشان\".",
-        "context": "تجعل الجملة جزءًا من كلام سمعته من شخص آخر."
+        "en": "He is very thirsty.",
+        "ar": "هو عطشان جدًا.",
+        "context": "تقال عند التأكيد على شدة العطش."
       },
       {
         "id": 4,
-        "en": "The teacher used the sentence, \"I am thirsty\" in class.",
-        "ar": "استخدم المعلم الجملة: \"أنا عطشان\" في الصف.",
-        "context": "تستخدم الجملة مثالًا تعليميًا في الصف."
+        "en": "We are thirsty now.",
+        "ar": "نحن عطشى الآن.",
+        "context": "تقال عند طلب مشروب لمجموعة."
       },
       {
         "id": 5,
-        "en": "Many learners remember the sentence, \"I am thirsty\" first.",
-        "ar": "يتذكر كثير من المتعلمين الجملة: \"أنا عطشان\" أولًا.",
-        "context": "تقدم الجملة بوصفها جملة تعليمية أساسية."
+        "en": "The child is thirsty.",
+        "ar": "الطفل عطشان.",
+        "context": "تقال عند ملاحظة حاجة طفل للماء."
       },
       {
         "id": 6,
-        "en": "She said, \"I am thirsty\" in a calm way.",
-        "ar": "قالت: \"أنا عطشان\" بطريقة هادئة.",
-        "context": "تجعل الجملة جزءًا من كلام مباشر في موقف عادي."
+        "en": "I am not thirsty.",
+        "ar": "أنا لست عطشانًا.",
+        "context": "تقال عند رفض مشروب لأنك لا تحتاجه."
       },
       {
         "id": 7,
-        "en": "He repeated, \"I am thirsty\" more than once.",
-        "ar": "ردد: \"أنا عطشان\" أكثر من مرة.",
-        "context": "تضيف معنى التكرار لنفس الجملة."
+        "en": "They are thirsty after the game.",
+        "ar": "هم عطشى بعد المباراة.",
+        "context": "تقال بعد نشاط بدني."
       },
       {
         "id": 8,
-        "en": "At the right moment, someone might say, \"I am thirsty\".",
-        "ar": "في اللحظة المناسبة، قد يقول شخص ما: \"أنا عطشان\".",
-        "context": "توضح أن الجملة مرتبطة بتوقيت مناسب في السياق."
+        "en": "My brother is thirsty again.",
+        "ar": "أخي عطشان مرة أخرى.",
+        "context": "تقال عند عودة الحاجة إلى الشرب."
       },
       {
         "id": 9,
-        "en": "I wrote down the sentence, \"I am thirsty\" so I would remember it.",
-        "ar": "كتبت الجملة: \"أنا عطشان\" حتى أتذكرها.",
-        "context": "تعطي مثالًا على حفظ الجملة أو مراجعتها."
+        "en": "I am thirsty for cold water.",
+        "ar": "أنا عطشان وأريد ماءً باردًا.",
+        "context": "تقال عند تحديد نوع المشروب المطلوب."
       },
       {
         "id": 10,
-        "en": "It is useful to know when to say, \"I am thirsty\".",
-        "ar": "من المفيد أن تعرف متى تقول: \"أنا عطشان\".",
-        "context": "تركز على معرفة الوقت المناسب لاستخدام الجملة."
+        "en": "The baby is thirsty.",
+        "ar": "الرضيع عطشان.",
+        "context": "تقال عند حاجة رضيع إلى الشرب."
       }
     ]
   }

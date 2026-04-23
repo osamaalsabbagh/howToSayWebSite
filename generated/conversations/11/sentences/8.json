@@ -10,92 +10,99 @@
     "wordMeanings": [
       {
         "term": "How",
-        "description": "أداة سؤال."
+        "description": "أداة سؤال عن الطريقة أو الكيفية."
       },
       {
         "term": "does",
-        "description": "صيغة المضارع البسيط مع he/she/it من do."
+        "description": "تساعد في تكوين سؤال في المضارع مع فاعل مفرد."
       },
       {
         "term": "it",
-        "description": "ضمير يعود على الشيء أو الجملة التي قيلت."
+        "description": "ضمير يعود على الجواب أو المعنى المذكور سابقًا."
       },
       {
         "term": "depend",
-        "description": "فعل يعني يعتمد."
+        "description": "يعتمد أو يتحدد بحسب شيء آخر."
       },
       {
         "term": "on",
-        "description": "حرف جر يعني على أو في يوم محدد حسب السياق."
+        "description": "تأتي مع depend لتحديد الشيء المؤثر."
       },
       {
         "term": "context",
-        "description": "اسم يعني السياق."
+        "description": "السياق أو الظروف التي تغيّر المعنى."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "How does it depend on context?",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "السؤال يستخدم المضارع البسيط للاستفسار عن علاقة عامة بين المعنى والسياق."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "You can ask, \"How does it depend on context?\" when you need information.",
-        "ar": "يمكنك أن تسأل: \"كيف يعتمد على السياق؟\" عندما تحتاج إلى معلومة.",
-        "context": "تستعمل الجملة كسؤال مباشر للحصول على معلومة."
+        "en": "How does it work?",
+        "ar": "كيف يعمل؟",
+        "context": "يُستخدم عند طلب شرح طريقة عمل شيء."
       },
       {
         "id": 2,
-        "en": "Many people ask, \"How does it depend on context?\" in this situation.",
-        "ar": "يسأل كثير من الناس: \"كيف يعتمد على السياق؟\" في هذا الموقف.",
-        "context": "توضح أن هذا سؤال شائع في موقف مشابه."
+        "en": "How does it help students?",
+        "ar": "كيف يساعد الطلاب؟",
+        "context": "يُستخدم عند طلب توضيح فائدة شيء."
       },
       {
         "id": 3,
-        "en": "I asked, \"How does it depend on context?\" because I was not sure.",
-        "ar": "سألت: \"كيف يعتمد على السياق؟\" لأنني لم أكن متأكدًا.",
-        "context": "تضيف سببًا لطرح السؤال."
+        "en": "How does the answer depend on the question?",
+        "ar": "كيف تعتمد الإجابة على السؤال؟",
+        "context": "يُستخدم عند فهم علاقة الإجابة بصياغة السؤال."
       },
       {
         "id": 4,
-        "en": "She asked politely, \"How does it depend on context?\"",
-        "ar": "سألت بأدب: \"كيف يعتمد على السياق؟\".",
-        "context": "تبين أن السؤال قيل بطريقة مهذبة."
+        "en": "How does the meaning depend on the sentence?",
+        "ar": "كيف يعتمد المعنى على الجملة؟",
+        "context": "يُستخدم في درس لغة لتوضيح أثر الجملة."
       },
       {
         "id": 5,
-        "en": "At work, someone may ask, \"How does it depend on context?\"",
-        "ar": "في العمل، قد يسأل شخص ما: \"كيف يعتمد على السياق؟\".",
-        "context": "تضع السؤال في سياق مهني أو عملي."
+        "en": "How does the price depend on the size?",
+        "ar": "كيف يعتمد السعر على الحجم؟",
+        "context": "يُستخدم عند طلب شرح اختلاف السعر."
       },
       {
         "id": 6,
-        "en": "Before deciding, ask: \"How does it depend on context?\"",
-        "ar": "قبل أن تقرر، اسأل: \"كيف يعتمد على السياق؟\".",
-        "context": "تستخدم السؤال قبل اتخاذ قرار."
+        "en": "How does the result depend on practice?",
+        "ar": "كيف تعتمد النتيجة على التدريب؟",
+        "context": "يُستخدم عند الحديث عن أثر التدريب."
       },
       {
         "id": 7,
-        "en": "The student asked, \"How does it depend on context?\" in class.",
-        "ar": "سأل الطالب: \"كيف يعتمد على السياق؟\" في الصف.",
-        "context": "تجعل الجملة جزءًا من موقف تعليمي."
+        "en": "How does the plan depend on the weather?",
+        "ar": "كيف تعتمد الخطة على الطقس؟",
+        "context": "يُستخدم عندما قد يغير الطقس قرارًا."
       },
       {
         "id": 8,
-        "en": "While traveling, you can ask, \"How does it depend on context?\"",
-        "ar": "أثناء السفر، يمكنك أن تسأل: \"كيف يعتمد على السياق؟\".",
-        "context": "تربط السؤال بموقف السفر أو التنقل."
+        "en": "How does it depend on your goal?",
+        "ar": "كيف يعتمد ذلك على هدفك؟",
+        "context": "يُستخدم عند ربط الاختيار بهدف الشخص."
       },
       {
         "id": 9,
-        "en": "He asked me, \"How does it depend on context?\" again.",
-        "ar": "سألني: \"كيف يعتمد على السياق؟\" مرة أخرى.",
-        "context": "تضيف معنى التكرار لنفس السؤال."
+        "en": "How does the word change in context?",
+        "ar": "كيف تتغير الكلمة في السياق؟",
+        "context": "يُستخدم عند تعلم معنى كلمة حسب استعمالها."
       },
       {
         "id": 10,
-        "en": "If you are not sure, ask: \"How does it depend on context?\"",
-        "ar": "إذا لم تكن متأكدًا، فاسأل: \"كيف يعتمد على السياق؟\".",
-        "context": "توضح أن السؤال مناسب عند عدم التأكد."
+        "en": "How does this rule apply here?",
+        "ar": "كيف تنطبق هذه القاعدة هنا؟",
+        "context": "يُستخدم عند طلب تطبيق قاعدة على مثال."
       }
     ]
   }

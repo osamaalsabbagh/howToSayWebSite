@@ -10,99 +10,119 @@
     "wordMeanings": [
       {
         "term": "I",
-        "description": "ضمير المتكلم."
+        "description": "ضمير المتكلم المفرد."
       },
       {
         "term": "think",
-        "description": "فعل يعني يعتقد أو يفكر."
+        "description": "أعتقد أو أظن."
+      },
+      {
+        "term": "I",
+        "description": "ضمير المتكلم المفرد مرة أخرى لأنه صاحب المعرفة أيضًا."
       },
       {
         "term": "know",
-        "description": "فعل يعني يعرف أو يعلم."
+        "description": "أعرف أو لدي المعلومة."
       },
       {
         "term": "the",
-        "description": "أداة تعريف تشير إلى شيء معروف أو محدد."
+        "description": "أداة تعريف تشير إلى إجابة محددة ومعروفة في السياق."
       },
       {
         "term": "answer",
-        "description": "اسم يعني جواب أو إجابة."
+        "description": "الإجابة أو الحل."
       },
       {
         "term": "Is",
-        "description": "فعل be في الحاضر مع المفرد."
+        "description": "تبدأ سؤالًا عن هوية الشيء أو صحة التخمين."
       },
       {
         "term": "it",
-        "description": "ضمير يعود على الشيء أو الجملة التي قيلت."
+        "description": "ضمير يعود على الإجابة المحتملة."
       },
       {
         "term": "water",
-        "description": "اسم يعني ماء."
+        "description": "ماء."
       }
     ],
-    "tense": null,
-    "tenseReason": "استُعمل هذا التركيب بحسب وظيفته في السياق، وليس بوصفه زمنًا فعليًا مستقلًا يمكن فصله بسهولة عن المعنى الوظيفي للجملة.",
+    "grammarExplanations": [
+      {
+        "sentence": "I think I know the answer.",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُخدم المضارع البسيط للتعبير عن اعتقاد المتكلم ومعرفته الحالية بالإجابة."
+        }
+      },
+      {
+        "sentence": "Is it water?",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "السؤال يستخدم صيغة حالية للتحقق من هوية الإجابة المقترحة الآن."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "You can ask, \"I think I know the answer. Is it water?\" when you need information.",
-        "ar": "يمكنك أن تسأل: \"أعتقد أنني أعرف الإجابة. هل هي الماء؟\" عندما تحتاج إلى معلومة.",
-        "context": "تستعمل الجملة كسؤال مباشر للحصول على معلومة."
+        "en": "I think I know the answer. Is it fire?",
+        "ar": "أعتقد أنني أعرف الإجابة. هل هي النار؟",
+        "context": "يُستخدم عندما يقدم طالب تخمينًا في درس أو لغز."
       },
       {
         "id": 2,
-        "en": "Many people ask, \"I think I know the answer. Is it water?\" in this situation.",
-        "ar": "يسأل كثير من الناس: \"أعتقد أنني أعرف الإجابة. هل هي الماء؟\" في هذا الموقف.",
-        "context": "توضح أن هذا سؤال شائع في موقف مشابه."
+        "en": "I think I know the answer. Is it the library?",
+        "ar": "أعتقد أنني أعرف الإجابة. هل هي المكتبة؟",
+        "context": "يُستخدم عند تخمين مكان."
       },
       {
         "id": 3,
-        "en": "I asked, \"I think I know the answer. Is it water?\" because I was not sure.",
-        "ar": "سألت: \"أعتقد أنني أعرف الإجابة. هل هي الماء؟\" لأنني لم أكن متأكدًا.",
-        "context": "تضيف سببًا لطرح السؤال."
+        "en": "I think I know the answer. Is it Friday?",
+        "ar": "أعتقد أنني أعرف الإجابة. هل هو يوم الجمعة؟",
+        "context": "يُستخدم عند تخمين يوم أو موعد."
       },
       {
         "id": 4,
-        "en": "She asked politely, \"I think I know the answer. Is it water?\"",
-        "ar": "سألت بأدب: \"أعتقد أنني أعرف الإجابة. هل هي الماء؟\".",
-        "context": "تبين أن السؤال قيل بطريقة مهذبة."
+        "en": "I think I know the answer. Is it number seven?",
+        "ar": "أعتقد أنني أعرف الإجابة. هل هو الرقم سبعة؟",
+        "context": "يُستخدم عند تخمين رقم في مسألة."
       },
       {
         "id": 5,
-        "en": "At work, someone may ask, \"I think I know the answer. Is it water?\"",
-        "ar": "في العمل، قد يسأل شخص ما: \"أعتقد أنني أعرف الإجابة. هل هي الماء؟\".",
-        "context": "تضع السؤال في سياق مهني أو عملي."
+        "en": "I think I know the answer. Is it your brother?",
+        "ar": "أعتقد أنني أعرف الإجابة. هل هو أخوك؟",
+        "context": "يُستخدم عند تخمين شخص."
       },
       {
         "id": 6,
-        "en": "Before deciding, ask: \"I think I know the answer. Is it water?\"",
-        "ar": "قبل أن تقرر، اسأل: \"أعتقد أنني أعرف الإجابة. هل هي الماء؟\".",
-        "context": "تستخدم السؤال قبل اتخاذ قرار."
+        "en": "I think I know the answer. Is it the red button?",
+        "ar": "أعتقد أنني أعرف الإجابة. هل هو الزر الأحمر؟",
+        "context": "يُستخدم عند اختيار شيء من عدة أشياء."
       },
       {
         "id": 7,
-        "en": "The student asked, \"I think I know the answer. Is it water?\" in class.",
-        "ar": "سأل الطالب: \"أعتقد أنني أعرف الإجابة. هل هي الماء؟\" في الصف.",
-        "context": "تجعل الجملة جزءًا من موقف تعليمي."
+        "en": "I think I know the answer. Is it because of the rain?",
+        "ar": "أعتقد أنني أعرف الإجابة. هل هو بسبب المطر؟",
+        "context": "يُستخدم عند تخمين سبب مشكلة أو حدث."
       },
       {
         "id": 8,
-        "en": "While traveling, you can ask, \"I think I know the answer. Is it water?\"",
-        "ar": "أثناء السفر، يمكنك أن تسأل: \"أعتقد أنني أعرف الإجابة. هل هي الماء؟\".",
-        "context": "تربط السؤال بموقف السفر أو التنقل."
+        "en": "I think I know the answer. Is it a triangle?",
+        "ar": "أعتقد أنني أعرف الإجابة. هل هو مثلث؟",
+        "context": "يُستخدم في سؤال تعليمي عن شكل."
       },
       {
         "id": 9,
-        "en": "He asked me, \"I think I know the answer. Is it water?\" again.",
-        "ar": "سألني: \"أعتقد أنني أعرف الإجابة. هل هي الماء؟\" مرة أخرى.",
-        "context": "تضيف معنى التكرار لنفس السؤال."
+        "en": "I think I know the answer. Is it in the drawer?",
+        "ar": "أعتقد أنني أعرف الإجابة. هل هو في الدرج؟",
+        "context": "يُستخدم عند تخمين مكان شيء مفقود."
       },
       {
         "id": 10,
-        "en": "If you are not sure, ask: \"I think I know the answer. Is it water?\"",
-        "ar": "إذا لم تكن متأكدًا، فاسأل: \"أعتقد أنني أعرف الإجابة. هل هي الماء؟\".",
-        "context": "توضح أن السؤال مناسب عند عدم التأكد."
+        "en": "I think I know the answer. Is it the first choice?",
+        "ar": "أعتقد أنني أعرف الإجابة. هل هو الخيار الأول؟",
+        "context": "يُستخدم عند اختيار إجابة من قائمة."
       }
     ]
   }

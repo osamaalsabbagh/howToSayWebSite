@@ -10,80 +10,87 @@
     "wordMeanings": [
       {
         "term": "Thank",
-        "description": "فعل أو تعبير شكر يعني أشكر أو أقدّر."
+        "description": "أشكر، وتأتي هنا ضمن تعبير شكر."
       },
       {
         "term": "you",
-        "description": "الضمير الذي يعود على الشخص المخاطَب."
+        "description": "ضمير يشير إلى الشخص الذي أشكره."
       },
       {
         "term": "sir",
-        "description": "اسم علم يشير إلى سيدي."
+        "description": "سيدي، لقب مهذب لمخاطبة رجل."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "Thank you sir.",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذا تعبير شكر مهذب مع لقب للمخاطبة، ولا يستخدم كجملة بزمن مستقل."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "People often say, \"Thank you sir\" in situations like this.",
-        "ar": "يقول الناس كثيرًا: \"شكرًا سيدي\" في مواقف كهذه.",
-        "context": "تستخدم الجملة بوصفها تركيبًا شائعًا في موقف مشابه."
+        "en": "Thank you, sir.",
+        "ar": "شكرًا سيدي.",
+        "context": "تقال لشكر رجل بأدب."
       },
       {
         "id": 2,
-        "en": "You can say, \"Thank you sir\" when this happens.",
-        "ar": "يمكنك أن تقول: \"شكرًا سيدي\" عندما يحدث هذا.",
-        "context": "توضح أن الجملة مناسبة في موقف متكرر."
+        "en": "Thank you, ma'am.",
+        "ar": "شكرًا سيدتي.",
+        "context": "تقال لشكر امرأة بأدب."
       },
       {
         "id": 3,
-        "en": "I heard someone say, \"Thank you sir\".",
-        "ar": "سمعت شخصًا يقول: \"شكرًا سيدي\".",
-        "context": "تجعل الجملة جزءًا من كلام سمعته من شخص آخر."
+        "en": "Thank you for your help, sir.",
+        "ar": "شكرًا على مساعدتك يا سيدي.",
+        "context": "تقال لرجل ساعدك."
       },
       {
         "id": 4,
-        "en": "The teacher used the sentence, \"Thank you sir\" in class.",
-        "ar": "استخدم المعلم الجملة: \"شكرًا سيدي\" في الصف.",
-        "context": "تستخدم الجملة مثالًا تعليميًا في الصف."
+        "en": "Thank you very much, sir.",
+        "ar": "شكرًا جزيلًا يا سيدي.",
+        "context": "تقال للتعبير عن امتنان كبير لرجل."
       },
       {
         "id": 5,
-        "en": "Many learners remember the sentence, \"Thank you sir\" first.",
-        "ar": "يتذكر كثير من المتعلمين الجملة: \"شكرًا سيدي\" أولًا.",
-        "context": "تقدم الجملة بوصفها جملة تعليمية أساسية."
+        "en": "Thank you for waiting, sir.",
+        "ar": "شكرًا لانتظارك يا سيدي.",
+        "context": "تقال عند تقدير انتظار رجل."
       },
       {
         "id": 6,
-        "en": "She said, \"Thank you sir\" in a calm way.",
-        "ar": "قالت: \"شكرًا سيدي\" بطريقة هادئة.",
-        "context": "تجعل الجملة جزءًا من كلام مباشر في موقف عادي."
+        "en": "Thank you for the information, sir.",
+        "ar": "شكرًا على المعلومات يا سيدي.",
+        "context": "تقال عند تلقي معلومات مفيدة."
       },
       {
         "id": 7,
-        "en": "He repeated, \"Thank you sir\" more than once.",
-        "ar": "ردد: \"شكرًا سيدي\" أكثر من مرة.",
-        "context": "تضيف معنى التكرار لنفس الجملة."
+        "en": "Thank you for your time, sir.",
+        "ar": "شكرًا على وقتك يا سيدي.",
+        "context": "تقال بعد مقابلة أو حديث."
       },
       {
         "id": 8,
-        "en": "At the right moment, someone might say, \"Thank you sir\".",
-        "ar": "في اللحظة المناسبة، قد يقول شخص ما: \"شكرًا سيدي\".",
-        "context": "توضح أن الجملة مرتبطة بتوقيت مناسب في السياق."
+        "en": "Thank you for calling, sir.",
+        "ar": "شكرًا لاتصالك يا سيدي.",
+        "context": "تقال في خدمة العملاء أو مكالمة رسمية."
       },
       {
         "id": 9,
-        "en": "I wrote down the sentence, \"Thank you sir\" so I would remember it.",
-        "ar": "كتبت الجملة: \"شكرًا سيدي\" حتى أتذكرها.",
-        "context": "تعطي مثالًا على حفظ الجملة أو مراجعتها."
+        "en": "Thank you for coming, sir.",
+        "ar": "شكرًا لقدومك يا سيدي.",
+        "context": "تقال عند تقدير حضور رجل."
       },
       {
         "id": 10,
-        "en": "It is useful to know when to say, \"Thank you sir\".",
-        "ar": "من المفيد أن تعرف متى تقول: \"شكرًا سيدي\".",
-        "context": "تركز على معرفة الوقت المناسب لاستخدام الجملة."
+        "en": "Thank you for your patience, sir.",
+        "ar": "شكرًا على صبرك يا سيدي.",
+        "context": "تقال عند تأخير شخص أو جعله ينتظر."
       }
     ]
   }

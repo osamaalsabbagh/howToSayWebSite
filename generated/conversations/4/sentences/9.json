@@ -10,100 +10,111 @@
     "wordMeanings": [
       {
         "term": "I",
-        "description": "ضمير المتكلم."
+        "description": "ضمير المتكلم المفرد."
       },
       {
         "term": "hope",
-        "description": "فعل يعني آمل."
+        "description": "تعني آمل أو أتمنى حدوث شيء."
+      },
+      {
+        "term": "I",
+        "description": "ضمير المتكلم المفرد داخل الجزء الثاني من الجملة."
       },
       {
         "term": "see",
-        "description": "فعل يعني يرى."
+        "description": "تعني أرى أو أشاهد."
       },
       {
         "term": "you",
-        "description": "الضمير الذي يعود على الشخص المخاطَب."
+        "description": "ضمير المخاطب، ويشير إلى الشخص الذي يتمنى رؤيته."
       },
       {
         "term": "on",
-        "description": "حرف جر يعني على أو في يوم محدد حسب السياق."
+        "description": "تستخدم هنا بمعنى على الشاشة أو ضمن عرض مرئي."
       },
       {
         "term": "screen",
-        "description": "اسم يعني أراك."
+        "description": "الشاشة، والمقصود الظهور في عمل فني أو إعلامي."
       },
       {
         "term": "again",
-        "description": "مرة أخرى."
+        "description": "تعني مرة أخرى."
       },
       {
         "term": "someday",
-        "description": "كلمة ترتبط بمعنى الشاشة."
+        "description": "تعني في يوم ما في المستقبل غير المحدد."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "I hope I see you on screen again someday.",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُعمل المضارع البسيط لأن المتكلم يعبّر عن أمل حاضر يتعلق بحدوث شيء في المستقبل غير المحدد."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "In general, I hope I see you on screen again someday.",
-        "ar": "بشكل عام، آمل أن أراك على الشاشة مرة أخرى يومًا ما.",
-        "context": "تضيف عبارة عامة تحافظ على نفس المعنى الأساسي."
+        "en": "I hope I see you again soon.",
+        "ar": "آمل أن أراك مرة أخرى قريبًا.",
+        "context": "تودع شخصًا وتتمنى لقاءه قريبًا."
       },
       {
         "id": 2,
-        "en": "Usually, I hope I see you on screen again someday.",
-        "ar": "عادةً، آمل أن أراك على الشاشة مرة أخرى يومًا ما.",
-        "context": "تضيف ظرفًا يدل على التكرار أو العادة."
+        "en": "I hope I see your work online someday.",
+        "ar": "آمل أن أرى عملك على الإنترنت يومًا ما.",
+        "context": "تشجع شخصًا لديه عمل إبداعي."
       },
       {
         "id": 3,
-        "en": "Sometimes, I hope I see you on screen again someday.",
-        "ar": "أحيانًا، آمل أن أراك على الشاشة مرة أخرى يومًا ما.",
-        "context": "تضع الجملة في سياق أقل تكرارًا."
+        "en": "I hope we meet again someday.",
+        "ar": "آمل أن نلتقي مرة أخرى يومًا ما.",
+        "context": "تعبّر عن رغبة مستقبلية عامة."
       },
       {
         "id": 4,
-        "en": "For now, I hope I see you on screen again someday.",
-        "ar": "في الوقت الحالي، آمل أن أراك على الشاشة مرة أخرى يومًا ما.",
-        "context": "تربط الجملة بالوضع الحالي."
+        "en": "I hope I see that movie again.",
+        "ar": "آمل أن أشاهد ذلك الفيلم مرة أخرى.",
+        "context": "تتحدث عن رغبة في إعادة مشاهدة فيلم."
       },
       {
         "id": 5,
-        "en": "I hope I see you on screen again someday, so that helps a lot.",
-        "ar": "آمل أن أراك على الشاشة مرة أخرى يومًا ما، وهذا يساعد كثيرًا.",
-        "context": "تضيف نتيجة بسيطة على نفس المعنى."
+        "en": "I hope you act again someday.",
+        "ar": "آمل أن تمثل مرة أخرى يومًا ما.",
+        "context": "تتمنى عودة شخص إلى التمثيل."
       },
       {
         "id": 6,
-        "en": "I hope I see you on screen again someday in daily life.",
-        "ar": "آمل أن أراك على الشاشة مرة أخرى يومًا ما في الحياة اليومية.",
-        "context": "تربط الجملة بمواقف الحياة اليومية."
+        "en": "I hope I see you at the airport again.",
+        "ar": "آمل أن أراك في المطار مرة أخرى.",
+        "context": "تتمنى لقاء شخص في مكان محدد."
       },
       {
         "id": 7,
-        "en": "I hope I see you on screen again someday when it is necessary.",
-        "ar": "آمل أن أراك على الشاشة مرة أخرى يومًا ما عندما يكون ذلك ضروريًا.",
-        "context": "تربط الجملة بشرط أو حاجة معينة."
+        "en": "I hope your next role is on screen soon.",
+        "ar": "آمل أن يكون دورك القادم على الشاشة قريبًا.",
+        "context": "تتحدث مع ممثل عن عودة فنية."
       },
       {
         "id": 8,
-        "en": "In this situation, I hope I see you on screen again someday.",
-        "ar": "في هذا الموقف، آمل أن أراك على الشاشة مرة أخرى يومًا ما.",
-        "context": "تجعل الجملة جزءًا من موقف واضح."
+        "en": "I hope I watch your new show someday.",
+        "ar": "آمل أن أشاهد عرضك الجديد يومًا ما.",
+        "context": "تدعم شخصًا يعمل في الفن."
       },
       {
         "id": 9,
-        "en": "I hope I see you on screen again someday, and everyone notices that.",
-        "ar": "آمل أن أراك على الشاشة مرة أخرى يومًا ما، والجميع يلاحظ ذلك.",
-        "context": "تضيف ملاحظة أو نتيجة بعد الجملة."
+        "en": "I hope we talk again someday.",
+        "ar": "آمل أن نتحدث مرة أخرى يومًا ما.",
+        "context": "تقولها بعد حديث لطيف."
       },
       {
         "id": 10,
-        "en": "I hope I see you on screen again someday most of the time.",
-        "ar": "آمل أن أراك على الشاشة مرة أخرى يومًا ما معظم الوقت.",
-        "context": "تضيف عبارة تكرار شائعة."
+        "en": "I hope I see you in another film.",
+        "ar": "آمل أن أراك في فيلم آخر.",
+        "context": "تعبر عن رغبتك في رؤية ممثل في عمل جديد."
       }
     ]
   }

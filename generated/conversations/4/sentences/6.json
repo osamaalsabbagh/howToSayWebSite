@@ -10,104 +10,119 @@
     "wordMeanings": [
       {
         "term": "That",
-        "description": "تشير إلى أمر أو خبر سبق ذكره."
+        "description": "يشير إلى كلام الشخص أو إعجابه بالفيلم."
       },
       {
         "term": "means",
-        "description": "فعل يعني يعني."
+        "description": "تعني له قيمة أو يدل على شيء مهم."
       },
       {
         "term": "a",
-        "description": "أداة نكرة تأتي قبل الاسم المفرد المعدود."
+        "description": "جزء من عبارة a lot التي تعني كثيرًا."
       },
       {
         "term": "lot",
-        "description": "حال أو ظرف يعني الكثير."
+        "description": "تكمل عبارة a lot وتعني مقدارًا كبيرًا."
       },
       {
         "term": "It",
-        "description": "ضمير يعود على الشيء أو الجملة التي قيلت."
+        "description": "ضمير يعود على الدور في الفيلم."
       },
       {
         "term": "was",
-        "description": "فعل be في الماضي مع المفرد."
+        "description": "صيغة ماضية تربط الضمير بالوصف."
       },
       {
         "term": "my",
-        "description": "صفة ملكية تعني خاصتي."
+        "description": "صفة ملكية تعني الخاص بي."
       },
       {
         "term": "favorite",
-        "description": "صفة تعني المفضل."
+        "description": "صفة تعني المفضل أو الأحب."
       },
       {
         "term": "role",
-        "description": "اسم يعني دوري."
+        "description": "دور تمثيلي أو شخصية يؤديها الممثل."
       }
     ],
-    "tense": "الماضي البسيط",
-    "tenseEn": "Past Simple",
-    "tenseReason": "استُعمل الماضي البسيط لأن الجملة تتحدث عن حدث وقع في الماضي واكتمل هناك.",
+    "grammarExplanations": [
+      {
+        "sentence": "That means a lot.",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُعمل المضارع البسيط للتعبير عن أثر كلام الشخص وقيمته الحالية عند المتكلم."
+        }
+      },
+      {
+        "sentence": "It was my favorite role.",
+        "explanation": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "استُعمل الماضي البسيط لأن المتكلم يتحدث عن دور سابق في فيلم انتهى العمل عليه."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "Yesterday, That means a lot. It was my favorite role.",
-        "ar": "أمس، هذا يعني الكثير. كان ذلك دوري المفضل.",
-        "context": "تضيف زمنًا ماضيًا واضحًا."
+        "en": "That means a lot to me.",
+        "ar": "هذا يعني الكثير لي.",
+        "context": "تعبّر عن امتنانك لكلام مؤثر."
       },
       {
         "id": 2,
-        "en": "That means a lot. It was my favorite role this morning.",
-        "ar": "هذا يعني الكثير. كان ذلك دوري المفضل هذا الصباح.",
-        "context": "تحدد وقتًا ماضيًا قريبًا."
+        "en": "It was my favorite project.",
+        "ar": "كان ذلك مشروعي المفضل.",
+        "context": "تتحدث عن عمل سابق تحبه."
       },
       {
         "id": 3,
-        "en": "That means a lot. It was my favorite role after lunch.",
-        "ar": "هذا يعني الكثير. كان ذلك دوري المفضل بعد الغداء.",
-        "context": "تربط الحدث بوقت تالٍ لحدث آخر."
+        "en": "Your support means a lot.",
+        "ar": "دعمك يعني الكثير.",
+        "context": "تشكر شخصًا على دعمه."
       },
       {
         "id": 4,
-        "en": "That means a lot. It was my favorite role because it was necessary.",
-        "ar": "هذا يعني الكثير. كان ذلك دوري المفضل لأنه كان ضروريًا.",
-        "context": "تضيف سببًا لحدوث الفعل في الماضي."
+        "en": "It was my favorite song on the album.",
+        "ar": "كانت تلك أغنيتي المفضلة في الألبوم.",
+        "context": "تذكر عملًا فنيًا مفضلًا."
       },
       {
         "id": 5,
-        "en": "Earlier, That means a lot. It was my favorite role.",
-        "ar": "في وقت سابق، هذا يعني الكثير. كان ذلك دوري المفضل.",
-        "context": "تربط الحدث بفترة ماضية غير بعيدة."
+        "en": "That comment means a lot.",
+        "ar": "ذلك التعليق يعني الكثير.",
+        "context": "ترد على تعليق لطيف."
       },
       {
         "id": 6,
-        "en": "That means a lot. It was my favorite role, and everyone noticed.",
-        "ar": "هذا يعني الكثير. كان ذلك دوري المفضل، والجميع لاحظ ذلك.",
-        "context": "تضيف نتيجة لما حدث في الماضي."
+        "en": "It was my favorite scene.",
+        "ar": "كان ذلك مشهدي المفضل.",
+        "context": "تتحدث عن جزء من فيلم."
       },
       {
         "id": 7,
-        "en": "That means a lot. It was my favorite role before we left.",
-        "ar": "هذا يعني الكثير. كان ذلك دوري المفضل قبل أن نغادر.",
-        "context": "تربط الفعل الماضي بحدث ماضٍ آخر."
+        "en": "Your message means a lot to us.",
+        "ar": "رسالتك تعني الكثير لنا.",
+        "context": "يشكر فريق شخصًا على رسالة."
       },
       {
         "id": 8,
-        "en": "That means a lot. It was my favorite role during the trip.",
-        "ar": "هذا يعني الكثير. كان ذلك دوري المفضل أثناء الرحلة.",
-        "context": "تضع الحدث في إطار زمني أو مكاني محدد."
+        "en": "It was my favorite job.",
+        "ar": "كانت تلك وظيفتي المفضلة.",
+        "context": "تتحدث عن وظيفة سابقة."
       },
       {
         "id": 9,
-        "en": "At that time, That means a lot. It was my favorite role.",
-        "ar": "في ذلك الوقت، هذا يعني الكثير. كان ذلك دوري المفضل.",
-        "context": "تجعل الجملة جزءًا من سرد ماضٍ."
+        "en": "That means a lot coming from you.",
+        "ar": "هذا يعني الكثير عندما يأتي منك.",
+        "context": "تؤكد قيمة رأي شخص معين."
       },
       {
         "id": 10,
-        "en": "Soon after that, That means a lot. It was my favorite role.",
-        "ar": "بعد ذلك بقليل، هذا يعني الكثير. كان ذلك دوري المفضل.",
-        "context": "توضح ترتيب الحدث بعد شيء آخر في الماضي."
+        "en": "It was my favorite role for many years.",
+        "ar": "كان ذلك دوري المفضل لسنوات كثيرة.",
+        "context": "تصف ارتباطًا طويلًا بدور سابق."
       }
     ]
   }

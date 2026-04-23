@@ -10,71 +10,79 @@
     "wordMeanings": [
       {
         "term": "Really",
-        "description": "ظرف يُستخدم للتأكيد ويعني حقًا أو فعلًا."
+        "description": "حقًا، وتستخدم للسؤال بدهشة أو للتأكد من صحة الكلام."
       }
     ],
-    "tense": null,
-    "tenseReason": "استُعمل هذا التركيب بحسب وظيفته في السياق، وليس بوصفه زمنًا فعليًا مستقلًا يمكن فصله بسهولة عن المعنى الوظيفي للجملة.",
+    "grammarExplanations": [
+      {
+        "sentence": "Really?",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه كلمة سؤال قصيرة للتعبير عن الدهشة أو طلب التأكيد، ولا تحتوي على فعل أو زمن مستقل."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "You can ask, \"Really?\" when you need information.",
-        "ar": "يمكنك أن تسأل: \"حقًا؟\" عندما تحتاج إلى معلومة.",
-        "context": "تستعمل الجملة كسؤال مباشر للحصول على معلومة."
+        "en": "Really? That is great.",
+        "ar": "حقًا؟ هذا رائع.",
+        "context": "تقال عند سماع خبر جيد ومفاجئ."
       },
       {
         "id": 2,
-        "en": "Many people ask, \"Really?\" in this situation.",
-        "ar": "يسأل كثير من الناس: \"حقًا؟\" في هذا الموقف.",
-        "context": "توضح أن هذا سؤال شائع في موقف مشابه."
+        "en": "Really? I did not know that.",
+        "ar": "حقًا؟ لم أكن أعرف ذلك.",
+        "context": "تقال عند سماع معلومة جديدة."
       },
       {
         "id": 3,
-        "en": "I asked, \"Really?\" because I was not sure.",
-        "ar": "سألت: \"حقًا؟\" لأنني لم أكن متأكدًا.",
-        "context": "تضيف سببًا لطرح السؤال."
+        "en": "Are you serious?",
+        "ar": "هل أنت جاد؟",
+        "context": "تقال عند عدم تصديق الكلام فورًا."
       },
       {
         "id": 4,
-        "en": "She asked politely, \"Really?\"",
-        "ar": "سألت بأدب: \"حقًا؟\".",
-        "context": "تبين أن السؤال قيل بطريقة مهذبة."
+        "en": "Is that true?",
+        "ar": "هل هذا صحيح؟",
+        "context": "تقال عند طلب تأكيد خبر."
       },
       {
         "id": 5,
-        "en": "At work, someone may ask, \"Really?\"",
-        "ar": "في العمل، قد يسأل شخص ما: \"حقًا؟\".",
-        "context": "تضع السؤال في سياق مهني أو عملي."
+        "en": "Really? That is surprising.",
+        "ar": "حقًا؟ هذا مفاجئ.",
+        "context": "تقال عند سماع شيء غير متوقع."
       },
       {
         "id": 6,
-        "en": "Before deciding, ask: \"Really?\"",
-        "ar": "قبل أن تقرر، اسأل: \"حقًا؟\".",
-        "context": "تستخدم السؤال قبل اتخاذ قرار."
+        "en": "Really? When did it happen?",
+        "ar": "حقًا؟ متى حدث ذلك؟",
+        "context": "تقال عند الرغبة في معرفة تفاصيل خبر."
       },
       {
         "id": 7,
-        "en": "The student asked, \"Really?\" in class.",
-        "ar": "سأل الطالب: \"حقًا؟\" في الصف.",
-        "context": "تجعل الجملة جزءًا من موقف تعليمي."
+        "en": "Really? I cannot believe it.",
+        "ar": "حقًا؟ لا أستطيع تصديق ذلك.",
+        "context": "تقال عند دهشة قوية."
       },
       {
         "id": 8,
-        "en": "While traveling, you can ask, \"Really?\"",
-        "ar": "أثناء السفر، يمكنك أن تسأل: \"حقًا؟\".",
-        "context": "تربط السؤال بموقف السفر أو التنقل."
+        "en": "Really? That sounds interesting.",
+        "ar": "حقًا؟ يبدو ذلك مثيرًا للاهتمام.",
+        "context": "تقال عند الاهتمام بخبر أو فكرة."
       },
       {
         "id": 9,
-        "en": "He asked me, \"Really?\" again.",
-        "ar": "سألني: \"حقًا؟\" مرة أخرى.",
-        "context": "تضيف معنى التكرار لنفس السؤال."
+        "en": "Really? Tell me more.",
+        "ar": "حقًا؟ أخبرني المزيد.",
+        "context": "تقال عند طلب تفاصيل إضافية."
       },
       {
         "id": 10,
-        "en": "If you are not sure, ask: \"Really?\"",
-        "ar": "إذا لم تكن متأكدًا، فاسأل: \"حقًا؟\".",
-        "context": "توضح أن السؤال مناسب عند عدم التأكد."
+        "en": "Really? I am happy for you.",
+        "ar": "حقًا؟ أنا سعيد من أجلك.",
+        "context": "تقال عند سماع خبر مفرح لشخص."
       }
     ]
   }

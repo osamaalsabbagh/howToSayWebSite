@@ -10,11 +10,11 @@
     "wordMeanings": [
       {
         "term": "Sure",
-        "description": "صفة تعني بالتأكيد."
+        "description": "كلمة موافقة وتشجيع تعني بالتأكيد أو نعم."
       },
       {
         "term": "Do",
-        "description": "فعل مساعد يُستعمل لتكوين النفي والسؤال في المضارع البسيط."
+        "description": "تبدأ هنا صيغة نهي أو نصيحة بعدم فعل شيء."
       },
       {
         "term": "not",
@@ -22,11 +22,11 @@
       },
       {
         "term": "be",
-        "description": "فعل أمر من be."
+        "description": "تعني كن أو تكون، وتأتي هنا ضمن نصيحة بعدم الخوف."
       },
       {
         "term": "afraid",
-        "description": "صفة تعني تخف."
+        "description": "صفة تعني خائف أو قلق."
       },
       {
         "term": "of",
@@ -34,7 +34,7 @@
       },
       {
         "term": "failing",
-        "description": "فعل يعني الفشل."
+        "description": "تعني الفشل أو عدم النجاح في المحاولة."
       },
       {
         "term": "Every",
@@ -42,11 +42,11 @@
       },
       {
         "term": "great",
-        "description": "صفة تعني ممثل."
+        "description": "صفة تعني عظيم أو بارع، وتصف جودة الممثل."
       },
       {
         "term": "actor",
-        "description": "اسم يعني عظيم."
+        "description": "اسم يعني ممثل."
       },
       {
         "term": "started",
@@ -54,72 +54,95 @@
       },
       {
         "term": "somewhere",
-        "description": "حال أو ظرف يعني مكان."
+        "description": "تعني في مكان ما أو من نقطة بداية غير محددة."
       }
     ],
-    "tense": "الماضي البسيط",
-    "tenseEn": "Past Simple",
-    "tenseReason": "استُعمل الماضي البسيط لأن الجملة تتحدث عن حدث وقع في الماضي واكتمل هناك.",
+    "grammarExplanations": [
+      {
+        "sentence": "Sure.",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذا الجزء تعبير قصير أو غير مكتمل فعليًا، لذلك لا نضع له زمنًا مستقلًا."
+        }
+      },
+      {
+        "sentence": "Do not be afraid of failing.",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذا الجزء طلب أو توجيه مباشر، لذلك لا نعامله كزمن فعلي مستقل."
+        }
+      },
+      {
+        "sentence": "Every great actor started somewhere.",
+        "explanation": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "استُعمل الماضي البسيط لأن هذا الجزء يتحدث عن حدث أو حالة في الماضي."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "Yesterday, Sure. Do not be afraid of failing. Every great actor started somewhere.",
-        "ar": "أمس، بالتأكيد. لا تخف من الفشل. كل ممثل عظيم بدأ من مكان ما.",
-        "context": "تضيف زمنًا ماضيًا واضحًا."
+        "en": "Sure. Do not be afraid of failing. Every great artist started somewhere.",
+        "ar": "بالتأكيد. لا تخف من الفشل. كل فنان عظيم بدأ من مكان ما.",
+        "context": "نفس التشجيع لكن مع كلمة أوسع من ممثل."
       },
       {
         "id": 2,
-        "en": "Sure. Do not be afraid of failing. Every great actor started somewhere this morning.",
-        "ar": "بالتأكيد. لا تخف من الفشل. كل ممثل عظيم بدأ من مكان ما هذا الصباح.",
-        "context": "تحدد وقتًا ماضيًا قريبًا."
+        "en": "Sure. Do not be afraid of trying. Every great actor started somewhere.",
+        "ar": "بالتأكيد. لا تخف من المحاولة. كل ممثل عظيم بدأ من مكان ما.",
+        "context": "تركز على الخوف من المحاولة بدل الخوف من الفشل."
       },
       {
         "id": 3,
-        "en": "Sure. Do not be afraid of failing. Every great actor started somewhere after lunch.",
-        "ar": "بالتأكيد. لا تخف من الفشل. كل ممثل عظيم بدأ من مكان ما بعد الغداء.",
-        "context": "تربط الحدث بوقت تالٍ لحدث آخر."
+        "en": "Do not be afraid of failing. Every great actor started somewhere.",
+        "ar": "لا تخف من الفشل. كل ممثل عظيم بدأ من مكان ما.",
+        "context": "صيغة مباشرة بدون كلمة الموافقة في البداية."
       },
       {
         "id": 4,
-        "en": "Sure. Do not be afraid of failing. Every great actor started somewhere because it was necessary.",
-        "ar": "بالتأكيد. لا تخف من الفشل. كل ممثل عظيم بدأ من مكان ما لأنه كان ضروريًا.",
-        "context": "تضيف سببًا لحدوث الفعل في الماضي."
+        "en": "Sure. Do not be afraid of making mistakes. Every great actor started somewhere.",
+        "ar": "بالتأكيد. لا تخف من ارتكاب الأخطاء. كل ممثل عظيم بدأ من مكان ما.",
+        "context": "تستخدم معنى قريبًا من الفشل في التدريب."
       },
       {
         "id": 5,
-        "en": "Earlier, Sure. Do not be afraid of failing. Every great actor started somewhere.",
-        "ar": "في وقت سابق، بالتأكيد. لا تخف من الفشل. كل ممثل عظيم بدأ من مكان ما.",
-        "context": "تربط الحدث بفترة ماضية غير بعيدة."
+        "en": "Sure. Do not be afraid of your first audition. Every great actor started somewhere.",
+        "ar": "بالتأكيد. لا تخف من تجربتك الأولى. كل ممثل عظيم بدأ من مكان ما.",
+        "context": "تشجيع لشخص يخوض تجربة أداء لأول مرة."
       },
       {
         "id": 6,
-        "en": "Sure. Do not be afraid of failing. Every great actor started somewhere, and everyone noticed.",
-        "ar": "بالتأكيد. لا تخف من الفشل. كل ممثل عظيم بدأ من مكان ما، والجميع لاحظ ذلك.",
-        "context": "تضيف نتيجة لما حدث في الماضي."
+        "en": "Sure. Do not be afraid of small roles. Every great actor started somewhere.",
+        "ar": "بالتأكيد. لا تخف من الأدوار الصغيرة. كل ممثل عظيم بدأ من مكان ما.",
+        "context": "تشجع المبتدئ على قبول بدايات بسيطة."
       },
       {
         "id": 7,
-        "en": "Sure. Do not be afraid of failing. Every great actor started somewhere before we left.",
-        "ar": "بالتأكيد. لا تخف من الفشل. كل ممثل عظيم بدأ من مكان ما قبل أن نغادر.",
-        "context": "تربط الفعل الماضي بحدث ماضٍ آخر."
+        "en": "Sure. Do not be afraid of learning slowly. Every great actor started somewhere.",
+        "ar": "بالتأكيد. لا تخف من التعلم ببطء. كل ممثل عظيم بدأ من مكان ما.",
+        "context": "تشجع شخصًا يشعر أن تقدمه بطيء."
       },
       {
         "id": 8,
-        "en": "Sure. Do not be afraid of failing. Every great actor started somewhere during the trip.",
-        "ar": "بالتأكيد. لا تخف من الفشل. كل ممثل عظيم بدأ من مكان ما أثناء الرحلة.",
-        "context": "تضع الحدث في إطار زمني أو مكاني محدد."
+        "en": "Sure. Do not be afraid of starting late. Every great actor started somewhere.",
+        "ar": "بالتأكيد. لا تخف من البدء متأخرًا. كل ممثل عظيم بدأ من مكان ما.",
+        "context": "تشجيع لمن يظن أن الوقت تأخر على البداية."
       },
       {
         "id": 9,
-        "en": "At that time, Sure. Do not be afraid of failing. Every great actor started somewhere.",
-        "ar": "في ذلك الوقت، بالتأكيد. لا تخف من الفشل. كل ممثل عظيم بدأ من مكان ما.",
-        "context": "تجعل الجملة جزءًا من سرد ماضٍ."
+        "en": "Sure. Do not be afraid of failing in class. Every great actor started somewhere.",
+        "ar": "بالتأكيد. لا تخف من الفشل في الصف. كل ممثل عظيم بدأ من مكان ما.",
+        "context": "تشجيع في درس تمثيل أو تدريب."
       },
       {
         "id": 10,
-        "en": "Soon after that, Sure. Do not be afraid of failing. Every great actor started somewhere.",
-        "ar": "بعد ذلك بقليل، بالتأكيد. لا تخف من الفشل. كل ممثل عظيم بدأ من مكان ما.",
-        "context": "توضح ترتيب الحدث بعد شيء آخر في الماضي."
+        "en": "Sure. Do not be afraid of failing. Every great actor started as a beginner.",
+        "ar": "بالتأكيد. لا تخف من الفشل. كل ممثل عظيم بدأ كمبتدئ.",
+        "context": "تعطي نفس الرسالة بصياغة أوضح عن البداية."
       }
     ]
   }

@@ -10,92 +10,107 @@
     "wordMeanings": [
       {
         "term": "Good",
-        "description": "صفة تعني جيد أو مريح أو مناسب هنا."
+        "description": "جزء من تحية مهذبة تناسب وقتًا معينًا من اليوم."
       },
       {
         "term": "afternoon",
-        "description": "اسم يعني مساؤك."
+        "description": "فترة بعد الظهر."
       },
       {
         "term": "Is",
-        "description": "فعل be في الحاضر مع المفرد."
+        "description": "صيغة سؤال تربط الشيء بحالته الحالية."
       },
       {
         "term": "this",
-        "description": "اسم إشارة يعني هذا."
+        "description": "اسم إشارة يشير إلى المقعد القريب."
       },
       {
         "term": "seat",
-        "description": "اسم يعني المقعد."
+        "description": "مقعد."
       },
       {
         "term": "taken",
-        "description": "فعل يعني مشغول."
+        "description": "تعني مشغولًا أو محجوزًا في هذا السياق."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "Good afternoon.",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه تحية مرتبطة بوقت اليوم وليست جملة فعلية لها زمن مستقل."
+        }
+      },
+      {
+        "sentence": "Is this seat taken?",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُعمل المضارع البسيط للسؤال عن الحالة الحالية للمقعد: هل هو مشغول الآن؟"
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "You can ask, \"Good afternoon. Is this seat taken?\" when you need information.",
-        "ar": "يمكنك أن تسأل: \"طاب مساؤك. هل هذا المقعد مشغول؟\" عندما تحتاج إلى معلومة.",
-        "context": "تستعمل الجملة كسؤال مباشر للحصول على معلومة."
+        "en": "Good afternoon. Is this table taken?",
+        "ar": "طاب مساؤك. هل هذه الطاولة مشغولة؟",
+        "context": "تسأل بأدب في مقهى أو مطعم."
       },
       {
         "id": 2,
-        "en": "Many people ask, \"Good afternoon. Is this seat taken?\" in this situation.",
-        "ar": "يسأل كثير من الناس: \"طاب مساؤك. هل هذا المقعد مشغول؟\" في هذا الموقف.",
-        "context": "توضح أن هذا سؤال شائع في موقف مشابه."
+        "en": "Is this seat free?",
+        "ar": "هل هذا المقعد فارغ؟",
+        "context": "صيغة مباشرة للسؤال عن المقعد."
       },
       {
         "id": 3,
-        "en": "I asked, \"Good afternoon. Is this seat taken?\" because I was not sure.",
-        "ar": "سألت: \"طاب مساؤك. هل هذا المقعد مشغول؟\" لأنني لم أكن متأكدًا.",
-        "context": "تضيف سببًا لطرح السؤال."
+        "en": "Good afternoon. May I sit here?",
+        "ar": "طاب مساؤك. هل يمكنني الجلوس هنا؟",
+        "context": "تطلب الإذن بالجلوس بلطف."
       },
       {
         "id": 4,
-        "en": "She asked politely, \"Good afternoon. Is this seat taken?\"",
-        "ar": "سألت بأدب: \"طاب مساؤك. هل هذا المقعد مشغول؟\".",
-        "context": "تبين أن السؤال قيل بطريقة مهذبة."
+        "en": "Is this chair taken?",
+        "ar": "هل هذا الكرسي مشغول؟",
+        "context": "تسأل عن كرسي محدد."
       },
       {
         "id": 5,
-        "en": "At work, someone may ask, \"Good afternoon. Is this seat taken?\"",
-        "ar": "في العمل، قد يسأل شخص ما: \"طاب مساؤك. هل هذا المقعد مشغول؟\".",
-        "context": "تضع السؤال في سياق مهني أو عملي."
+        "en": "Good afternoon. Is anyone sitting here?",
+        "ar": "طاب مساؤك. هل يجلس أحد هنا؟",
+        "context": "تتأكد من عدم وجود شخص يستخدم المكان."
       },
       {
         "id": 6,
-        "en": "Before deciding, ask: \"Good afternoon. Is this seat taken?\"",
-        "ar": "قبل أن تقرر، اسأل: \"طاب مساؤك. هل هذا المقعد مشغول؟\".",
-        "context": "تستخدم السؤال قبل اتخاذ قرار."
+        "en": "Is this place taken?",
+        "ar": "هل هذا المكان مشغول؟",
+        "context": "تستخدم place بدل seat في سؤال عام."
       },
       {
         "id": 7,
-        "en": "The student asked, \"Good afternoon. Is this seat taken?\" in class.",
-        "ar": "سأل الطالب: \"طاب مساؤك. هل هذا المقعد مشغول؟\" في الصف.",
-        "context": "تجعل الجملة جزءًا من موقف تعليمي."
+        "en": "Good afternoon. Is this line for boarding?",
+        "ar": "طاب مساؤك. هل هذا الطابور للصعود؟",
+        "context": "تسأل في المطار عن الطابور الصحيح."
       },
       {
         "id": 8,
-        "en": "While traveling, you can ask, \"Good afternoon. Is this seat taken?\"",
-        "ar": "أثناء السفر، يمكنك أن تسأل: \"طاب مساؤك. هل هذا المقعد مشغول؟\".",
-        "context": "تربط السؤال بموقف السفر أو التنقل."
+        "en": "Is this seat near the window?",
+        "ar": "هل هذا المقعد قرب النافذة؟",
+        "context": "تسأل عن وصف المقعد."
       },
       {
         "id": 9,
-        "en": "He asked me, \"Good afternoon. Is this seat taken?\" again.",
-        "ar": "سألني: \"طاب مساؤك. هل هذا المقعد مشغول؟\" مرة أخرى.",
-        "context": "تضيف معنى التكرار لنفس السؤال."
+        "en": "Good afternoon. Is this waiting area open?",
+        "ar": "طاب مساؤك. هل منطقة الانتظار هذه مفتوحة؟",
+        "context": "تسأل عن حالة مكان في المطار."
       },
       {
         "id": 10,
-        "en": "If you are not sure, ask: \"Good afternoon. Is this seat taken?\"",
-        "ar": "إذا لم تكن متأكدًا، فاسأل: \"طاب مساؤك. هل هذا المقعد مشغول؟\".",
-        "context": "توضح أن السؤال مناسب عند عدم التأكد."
+        "en": "Is this seat available?",
+        "ar": "هل هذا المقعد متاح؟",
+        "context": "صيغة رسمية أكثر للسؤال عن توفر المقعد."
       }
     ]
   }

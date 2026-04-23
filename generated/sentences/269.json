@@ -10,84 +10,91 @@
     "wordMeanings": [
       {
         "term": "How",
-        "description": "أداة سؤال."
+        "description": "تستخدم هنا للسؤال عن مقدار المسافة."
       },
       {
         "term": "far",
-        "description": "صفة تعني كم."
+        "description": "بعيد أو ذو مسافة."
       },
       {
         "term": "is",
-        "description": "فعل be في الحاضر مع المفرد."
+        "description": "تربط السؤال بالمسافة الحالية أو المعروفة."
       },
       {
         "term": "it",
-        "description": "ضمير يعود على الشيء أو الجملة التي قيلت."
+        "description": "يشير إلى المكان أو الطريق المقصود."
       }
     ],
-    "tense": "المضارع البسيط",
-    "tenseEn": "Present Simple",
-    "tenseReason": "استُعمل المضارع البسيط لأن الجملة تعبّر عن حقيقة أو عادة أو حالة عامة أو معنى حاضر في الوقت الحالي.",
+    "grammarExplanations": [
+      {
+        "sentence": "How far is it?",
+        "explanation": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "السؤال يستخدم فعل الربط في الحاضر للسؤال عن مسافة عامة أو حالية إلى مكان مفهوم من السياق."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "You can ask, \"How far is it?\" when you need information.",
-        "ar": "يمكنك أن تسأل: \"كم يبعد؟\" عندما تحتاج إلى معلومة.",
-        "context": "تستعمل الجملة كسؤال مباشر للحصول على معلومة."
+        "en": "How far is it?",
+        "ar": "كم يبعد؟",
+        "context": "تقال عند السؤال عن المسافة إلى مكان معروف من الحديث."
       },
       {
         "id": 2,
-        "en": "Many people ask, \"How far is it?\" in this situation.",
-        "ar": "يسأل كثير من الناس: \"كم يبعد؟\" في هذا الموقف.",
-        "context": "توضح أن هذا سؤال شائع في موقف مشابه."
+        "en": "How far is the hotel?",
+        "ar": "كم يبعد الفندق؟",
+        "context": "تقال عند السؤال عن مسافة الفندق."
       },
       {
         "id": 3,
-        "en": "I asked, \"How far is it?\" because I was not sure.",
-        "ar": "سألت: \"كم يبعد؟\" لأنني لم أكن متأكدًا.",
-        "context": "تضيف سببًا لطرح السؤال."
+        "en": "How far is the station?",
+        "ar": "كم تبعد المحطة؟",
+        "context": "تقال عند السؤال عن مسافة محطة."
       },
       {
         "id": 4,
-        "en": "She asked politely, \"How far is it?\"",
-        "ar": "سألت بأدب: \"كم يبعد؟\".",
-        "context": "تبين أن السؤال قيل بطريقة مهذبة."
+        "en": "How far is the airport from here?",
+        "ar": "كم يبعد المطار من هنا؟",
+        "context": "تقال عند السؤال عن المسافة من الموقع الحالي."
       },
       {
         "id": 5,
-        "en": "At work, someone may ask, \"How far is it?\"",
-        "ar": "في العمل، قد يسأل شخص ما: \"كم يبعد؟\".",
-        "context": "تضع السؤال في سياق مهني أو عملي."
+        "en": "How far is it to the city center?",
+        "ar": "كم يبعد مركز المدينة؟",
+        "context": "تقال عند السؤال عن مسافة مركز المدينة."
       },
       {
         "id": 6,
-        "en": "Before deciding, ask: \"How far is it?\"",
-        "ar": "قبل أن تقرر، اسأل: \"كم يبعد؟\".",
-        "context": "تستخدم السؤال قبل اتخاذ قرار."
+        "en": "How far is your house?",
+        "ar": "كم يبعد منزلك؟",
+        "context": "تستخدم للسؤال عن مسافة منزل شخص."
       },
       {
         "id": 7,
-        "en": "The student asked, \"How far is it?\" in class.",
-        "ar": "سأل الطالب: \"كم يبعد؟\" في الصف.",
-        "context": "تجعل الجملة جزءًا من موقف تعليمي."
+        "en": "Is it far?",
+        "ar": "هل هو بعيد؟",
+        "context": "تستخدم كسؤال أقصر عن المسافة."
       },
       {
         "id": 8,
-        "en": "While traveling, you can ask, \"How far is it?\"",
-        "ar": "أثناء السفر، يمكنك أن تسأل: \"كم يبعد؟\".",
-        "context": "تربط السؤال بموقف السفر أو التنقل."
+        "en": "It is not far.",
+        "ar": "ليس بعيدًا.",
+        "context": "تقال للإجابة بأن المسافة قصيرة."
       },
       {
         "id": 9,
-        "en": "He asked me, \"How far is it?\" again.",
-        "ar": "سألني: \"كم يبعد؟\" مرة أخرى.",
-        "context": "تضيف معنى التكرار لنفس السؤال."
+        "en": "It is about ten minutes away.",
+        "ar": "يبعد حوالي عشر دقائق.",
+        "context": "تقال لإعطاء تقدير زمني للمسافة."
       },
       {
         "id": 10,
-        "en": "If you are not sure, ask: \"How far is it?\"",
-        "ar": "إذا لم تكن متأكدًا، فاسأل: \"كم يبعد؟\".",
-        "context": "توضح أن السؤال مناسب عند عدم التأكد."
+        "en": "How far is the bus stop from the hotel?",
+        "ar": "كم تبعد محطة الحافلات عن الفندق؟",
+        "context": "تقال عند السؤال عن المسافة بين مكانين."
       }
     ]
   }

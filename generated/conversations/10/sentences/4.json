@@ -10,107 +10,115 @@
     "wordMeanings": [
       {
         "term": "Let",
-        "description": "فعل يُستعمل للسماح أو في تركيب let me / let us لاقتراح أو طلب شيء."
+        "description": "تبدأ عبارة تعني اسمح لي أو دعني أفعل شيئًا."
       },
       {
         "term": "me",
-        "description": "ضمير مفعول به يعني أنا/إياي."
+        "description": "ضمير يعود على المتكلم."
       },
       {
         "term": "check",
-        "description": "فعل يعني دعني."
+        "description": "تعني أتحقق أو أفحص."
       },
       {
         "term": "if",
-        "description": "أداة شرط تعني إذا."
+        "description": "تعني إن كان أو إذا."
       },
       {
         "term": "I",
-        "description": "ضمير المتكلم."
+        "description": "ضمير المتكلم المفرد."
       },
       {
         "term": "can",
-        "description": "فعل مساعد يدل هنا على القدرة أو الاستعداد لتلبية الطلب."
+        "description": "يدل على الإمكانية أو القدرة."
       },
       {
         "term": "get",
-        "description": "فعل شائع يعني يحصل على أو يصل أو يصبح حسب السياق."
+        "description": "تعني أحصل على أو أجلب."
       },
       {
         "term": "the",
-        "description": "أداة تعريف تشير إلى شيء معروف أو محدد."
+        "description": "أداة تعريف لمفتاح محدد."
       },
       {
         "term": "key",
-        "description": "اسم يعني مفتاح."
+        "description": "مفتاح الشقة."
       },
       {
         "term": "now",
-        "description": "ظرف زمان يعني الآن."
+        "description": "الآن، في هذه اللحظة."
       }
     ],
-    "tense": null,
-    "tenseReason": "استُعمل هذا الأسلوب لأن الجملة تقدم طلبًا أو تعليمات مباشرة موجهة إلى شخص آخر، لذلك لا نضع لها هنا زمنًا فعليًا مستقلًا.",
+    "grammarExplanations": [
+      {
+        "sentence": "Let me check if I can get the key now.",
+        "explanation": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه عبارة عرض أو إجراء مباشر تبدأ بـ Let me، وداخلها can للتعبير عن الإمكانية، لذلك لا نعاملها كزمن مستقل واحد."
+        }
+      }
+    ],
     "examples": [
       {
         "id": 1,
-        "en": "In this situation, people often say, \"Let me check if I can get the key now\".",
-        "ar": "في هذا الموقف، يقول الناس كثيرًا: \"دعني أتحقق إن كان بإمكاني الحصول على المفتاح الآن\".",
-        "context": "توضح أن العبارة مناسبة في هذا النوع من المواقف."
+        "en": "Let me check if I can call the owner.",
+        "ar": "دعني أتحقق إن كان بإمكاني الاتصال بالمالك.",
+        "context": "تعرض التحقق من إمكانية خطوة معينة."
       },
       {
         "id": 2,
-        "en": "The teacher said, \"Let me check if I can get the key now\" to the students.",
-        "ar": "قال المعلم للطلاب: \"دعني أتحقق إن كان بإمكاني الحصول على المفتاح الآن\".",
-        "context": "تستخدم الجملة كتعليمات أو توجيه مباشر."
+        "en": "Let me check if the key is here.",
+        "ar": "دعني أتحقق إن كان المفتاح هنا.",
+        "context": "تفحص مكان المفتاح."
       },
       {
         "id": 3,
-        "en": "He told me, \"Let me check if I can get the key now\" before we left.",
-        "ar": "قال لي: \"دعني أتحقق إن كان بإمكاني الحصول على المفتاح الآن\" قبل أن نغادر.",
-        "context": "تضع العبارة قبل حدث آخر."
+        "en": "Let me check the schedule now.",
+        "ar": "دعني أتحقق من الجدول الآن.",
+        "context": "تراجع المواعيد المتاحة."
       },
       {
         "id": 4,
-        "en": "She said, \"Let me check if I can get the key now\" in a polite way.",
-        "ar": "قالت: \"دعني أتحقق إن كان بإمكاني الحصول على المفتاح الآن\" بطريقة مهذبة.",
-        "context": "تظهر أن العبارة يمكن أن تقال بلطف أو أدب."
+        "en": "Let me see if I can help.",
+        "ar": "دعني أرى إن كان بإمكاني المساعدة.",
+        "context": "تعرض محاولة المساعدة."
       },
       {
         "id": 5,
-        "en": "Someone shouted, \"Let me check if I can get the key now\" when there was a problem.",
-        "ar": "صاح شخص ما: \"دعني أتحقق إن كان بإمكاني الحصول على المفتاح الآن\" عندما ظهرت مشكلة.",
-        "context": "تربط العبارة بموقف سريع أو طارئ."
+        "en": "Let me check if we can visit today.",
+        "ar": "دعني أتحقق إن كان بإمكاننا الزيارة اليوم.",
+        "context": "تتأكد من إمكانية موعد قريب."
       },
       {
         "id": 6,
-        "en": "You can say, \"Let me check if I can get the key now\" when you need a quick response.",
-        "ar": "يمكنك أن تقول: \"دعني أتحقق إن كان بإمكاني الحصول على المفتاح الآن\" عندما تحتاج إلى رد سريع.",
-        "context": "توضح أن العبارة مفيدة عند الحاجة إلى استجابة مباشرة."
+        "en": "I can get the key now.",
+        "ar": "يمكنني الحصول على المفتاح الآن.",
+        "context": "تؤكد أن المفتاح متاح."
       },
       {
         "id": 7,
-        "en": "They repeated, \"Let me check if I can get the key now\" more than once.",
-        "ar": "رددوا: \"دعني أتحقق إن كان بإمكاني الحصول على المفتاح الآن\" أكثر من مرة.",
-        "context": "تعطي مثالًا على تكرار العبارة."
+        "en": "Let me check with the owner first.",
+        "ar": "دعني أتحقق مع المالك أولًا.",
+        "context": "تحتاج موافقة أو معلومة من المالك."
       },
       {
         "id": 8,
-        "en": "I heard him say, \"Let me check if I can get the key now\" yesterday.",
-        "ar": "سمعته يقول: \"دعني أتحقق إن كان بإمكاني الحصول على المفتاح الآن\" أمس.",
-        "context": "تجعل العبارة جزءًا من موقف سمعته من شخص آخر."
+        "en": "Let me check if the apartment is open.",
+        "ar": "دعني أتحقق إن كانت الشقة مفتوحة.",
+        "context": "تفحص حالة المكان قبل الزيارة."
       },
       {
         "id": 9,
-        "en": "Many learners remember the phrase, \"Let me check if I can get the key now\".",
-        "ar": "يتذكر كثير من المتعلمين العبارة: \"دعني أتحقق إن كان بإمكاني الحصول على المفتاح الآن\".",
-        "context": "تقدم العبارة بوصفها عبارة سهلة التذكر."
+        "en": "Let me get the key for you.",
+        "ar": "دعني أحضر المفتاح لك.",
+        "context": "تعرض إحضار المفتاح مباشرة."
       },
       {
         "id": 10,
-        "en": "At that moment, she said, \"Let me check if I can get the key now\".",
-        "ar": "في تلك اللحظة، قالت: \"دعني أتحقق إن كان بإمكاني الحصول على المفتاح الآن\".",
-        "context": "تربط العبارة بلحظة معينة في السرد."
+        "en": "Let me check if I can arrange it.",
+        "ar": "دعني أتحقق إن كان بإمكاني ترتيب ذلك.",
+        "context": "تتعامل مع طلب يحتاج تنظيمًا."
       }
     ]
   }

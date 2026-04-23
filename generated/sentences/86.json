@@ -1,81 +1,89 @@
 {
-  "schemaVersion": 1,
-  "id": 86,
-  "sentence": {
-    "en": "No.",
-    "ar": "لا.",
-    "context": "ارفض أو انفِ بوضوح."
-  },
-  "lesson": {
-    "wordMeanings": [
-      {
-        "term": "No",
-        "description": "جواب مباشر يفيد الرفض أو النفي أو عدم الموافقة."
-      }
-    ],
-    "tense": null,
-    "tenseReason": "استُعملت لأن المتكلم يريد نفي شيء أو رفضه فورًا، لا التعبير عن حدث مرتبط بزمن.",
-    "examples": [
-      {
-        "id": 1,
-        "en": "No, I do not agree.",
-        "ar": "لا، أنا لا أوافق.",
-        "context": "ترفض رأيًا أو اقتراحًا."
-      },
-      {
-        "id": 2,
-        "en": "No, thank you.",
-        "ar": "لا، شكرًا لك.",
-        "context": "ترفض شيئًا بأدب."
-      },
-      {
-        "id": 3,
-        "en": "No, I am busy now.",
-        "ar": "لا، أنا مشغول الآن.",
-        "context": "ترفض طلبًا لأنك مشغول."
-      },
-      {
-        "id": 4,
-        "en": "No, that is not mine.",
-        "ar": "لا، هذا ليس لي.",
-        "context": "تنفي ملكية شيء."
-      },
-      {
-        "id": 5,
-        "en": "No, I did not call him.",
-        "ar": "لا، أنا لم أتصل به.",
-        "context": "تنفي أنك فعلت شيئًا."
-      },
-      {
-        "id": 6,
-        "en": "No, we cannot wait longer.",
-        "ar": "لا، لا يمكننا الانتظار أكثر.",
-        "context": "ترفض الاستمرار في التأخير."
-      },
-      {
-        "id": 7,
-        "en": "No, he is not here.",
-        "ar": "لا، هو ليس هنا.",
-        "context": "تنفي وجود شخص."
-      },
-      {
-        "id": 8,
-        "en": "No, that answer is wrong.",
-        "ar": "لا، تلك الإجابة خاطئة.",
-        "context": "ترفض أو تصحح معلومة."
-      },
-      {
-        "id": 9,
-        "en": "No, I do not need help.",
-        "ar": "لا، أنا لا أحتاج مساعدة.",
-        "context": "توضح أنك لا تحتاج شيئًا."
-      },
-      {
-        "id": 10,
-        "en": "No, this is not the right place.",
-        "ar": "لا، هذا ليس المكان الصحيح.",
-        "context": "تنفي صحة مكان أو اختيار."
-      }
-    ]
-  }
+	"schemaVersion": 1,
+	"id": 86,
+	"sentence": {
+		"en": "No.",
+		"ar": "لا.",
+		"context": "ارفض أو انفِ بوضوح."
+	},
+	"lesson": {
+		"wordMeanings": [
+			{
+				"term": "No",
+				"description": "كلمة تُستخدم للرفض أو للنفي والإجابة بالسلب"
+			}
+		],
+		"grammarExplanations": [
+			{
+				"sentence": "No.",
+				"explanation": {
+					"tense": null,
+					"tenseEn": null,
+					"reason": "هذه كلمة تُستخدم كإجابة قصيرة مستقلة للتعبير عن الرفض أو النفي، ولا ترتبط بزمن معين"
+				}
+			}
+		],
+		"examples": [
+			{
+				"id": 1,
+				"en": "No, I do not understand.",
+				"ar": "لا، أنا لا أفهم.",
+				"context": "نفي الفهم بعد شرح"
+			},
+			{
+				"id": 2,
+				"en": "No, I cannot do that.",
+				"ar": "لا، لا أستطيع فعل ذلك.",
+				"context": "رفض طلب"
+			},
+			{
+				"id": 3,
+				"en": "No, that is not correct.",
+				"ar": "لا، هذا غير صحيح.",
+				"context": "تصحيح معلومة خاطئة"
+			},
+			{
+				"id": 4,
+				"en": "No, I do not agree.",
+				"ar": "لا، أنا لا أتفق.",
+				"context": "رفض رأي أو اقتراح"
+			},
+			{
+				"id": 5,
+				"en": "No, I will not come.",
+				"ar": "لا، لن آتي.",
+				"context": "رفض الحضور في المستقبل"
+			},
+			{
+				"id": 6,
+				"en": "No, it is not possible.",
+				"ar": "لا، هذا غير ممكن.",
+				"context": "نفي إمكانية شيء"
+			},
+			{
+				"id": 7,
+				"en": "No, I have not seen it.",
+				"ar": "لا، لم أره.",
+				"context": "نفي تجربة سابقة"
+			},
+			{
+				"id": 8,
+				"en": "No, thank you.",
+				"ar": "لا، شكرًا.",
+				"context": "رفض عرض بطريقة مهذبة"
+			},
+			{
+				"id": 9,
+				"en": "No, that does not sound good.",
+				"ar": "لا، لا يبدو ذلك جيدًا.",
+				"context": "رفض فكرة أو خطة"
+			},
+			{
+				"id": 10,
+				"en": "No, I am not ready.",
+				"ar": "لا، أنا لست مستعدًا.",
+				"context": "نفي الاستعداد للبدء"
+			}
+		]
+	}
 }

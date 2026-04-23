@@ -1,89 +1,97 @@
 {
-  "schemaVersion": 1,
-  "id": 1,
-  "sentence": {
-    "en": "Be careful driving.",
-    "ar": "كن حذرًا أثناء القيادة.",
-    "context": "حذر شخصًا أن يقود بحذر."
-  },
-  "lesson": {
-    "wordMeanings": [
-      {
-        "term": "Be",
-        "description": "فعل أمر من be."
-      },
-      {
-        "term": "careful",
-        "description": "صفة تعني حذر أو منتبه."
-      },
-      {
-        "term": "driving",
-        "description": "أثناء القيادة أو عند قيادة السيارة."
-      }
-    ],
-    "tense": null,
-    "tenseReason": "استُعمل فعل الأمر لأن المتكلم يوجّه تحذيرًا مباشرًا مرتبطًا بنشاط محدد هو القيادة.",
-    "examples": [
-      {
-        "id": 1,
-        "en": "Be careful driving at night.",
-        "ar": "كن حذرًا أثناء القيادة ليلًا.",
-        "context": "تحذير بسبب ضعف الرؤية أو التعب."
-      },
-      {
-        "id": 2,
-        "en": "Be careful driving in the rain.",
-        "ar": "كن حذرًا أثناء القيادة في المطر.",
-        "context": "تحذير بسبب ظروف الطريق."
-      },
-      {
-        "id": 3,
-        "en": "Be careful driving on this road.",
-        "ar": "كن حذرًا أثناء القيادة على هذا الطريق.",
-        "context": "تحذير بسبب طريق معين."
-      },
-      {
-        "id": 4,
-        "en": "Be careful driving home.",
-        "ar": "كن حذرًا أثناء القيادة إلى المنزل.",
-        "context": "تحذير عند نهاية زيارة أو لقاء."
-      },
-      {
-        "id": 5,
-        "en": "Be careful driving when you are tired.",
-        "ar": "كن حذرًا أثناء القيادة عندما تكون متعبًا.",
-        "context": "تحذير بسبب التعب."
-      },
-      {
-        "id": 6,
-        "en": "Be careful driving with the children in the car.",
-        "ar": "كن حذرًا أثناء القيادة ومعك الأطفال في السيارة.",
-        "context": "تحذير إضافي بسبب وجود أطفال."
-      },
-      {
-        "id": 7,
-        "en": "Be careful driving after dark.",
-        "ar": "كن حذرًا أثناء القيادة بعد حلول الظلام.",
-        "context": "تحذير بسبب الوقت."
-      },
-      {
-        "id": 8,
-        "en": "Be careful driving in this area.",
-        "ar": "كن حذرًا أثناء القيادة في هذه المنطقة.",
-        "context": "تحذير مرتبط بالمكان."
-      },
-      {
-        "id": 9,
-        "en": "Be careful driving back from work.",
-        "ar": "كن حذرًا أثناء القيادة عائدًا من العمل.",
-        "context": "تحذير في طريق العودة."
-      },
-      {
-        "id": 10,
-        "en": "Be careful driving; the streets are busy today.",
-        "ar": "كن حذرًا أثناء القيادة؛ الشوارع مزدحمة اليوم.",
-        "context": "تحذير مع ذكر السبب."
-      }
-    ]
-  }
+	"schemaVersion": 1,
+	"id": 1,
+	"sentence": {
+		"en": "Be careful driving.",
+		"ar": "كن حذرًا أثناء القيادة.",
+		"context": "حذر شخصًا أن يقود بحذر."
+	},
+	"lesson": {
+		"wordMeanings": [
+			{
+				"term": "Be",
+				"description": "فعل أمر يُستخدم لطلب أن يكون الشخص على حالة معينة"
+			},
+			{
+				"term": "careful",
+				"description": "حذر أو منتبه لتجنب الخطر أو الخطأ"
+			},
+			{
+				"term": "driving",
+				"description": "القيادة، ويأتي هنا للدلالة على الفعل أثناء حدوثه"
+			}
+		],
+		"grammarExplanations": [
+			{
+				"sentence": "Be careful driving.",
+				"explanation": {
+					"tense": null,
+					"tenseEn": null,
+					"reason": "هذه جملة أمر تُستخدم لإعطاء نصيحة أو تحذير مباشر، حيث يبدأ الفعل بصيغته الأساسية بدون فاعل، وكلمة driving توضح أن الحذر مطلوب أثناء القيام بالقيادة"
+				}
+			}
+		],
+		"examples": [
+			{
+				"id": 1,
+				"en": "Be careful walking at night.",
+				"ar": "كن حذرًا أثناء المشي ليلًا.",
+				"context": "تحذير شخص من خطر محتمل أثناء المشي في الليل"
+			},
+			{
+				"id": 2,
+				"en": "Be careful crossing the street.",
+				"ar": "كن حذرًا أثناء عبور الشارع.",
+				"context": "تنبيه لتجنب الحوادث أثناء عبور الطريق"
+			},
+			{
+				"id": 3,
+				"en": "Be careful using that tool.",
+				"ar": "كن حذرًا أثناء استخدام تلك الأداة.",
+				"context": "تحذير من أداة قد تكون خطيرة"
+			},
+			{
+				"id": 4,
+				"en": "Be careful carrying the box.",
+				"ar": "كن حذرًا أثناء حمل الصندوق.",
+				"context": "تنبيه لتجنب إسقاط شيء ثقيل أو حساس"
+			},
+			{
+				"id": 5,
+				"en": "Be careful opening the door.",
+				"ar": "كن حذرًا أثناء فتح الباب.",
+				"context": "تنبيه لوجود شيء خلف الباب أو خطر محتمل"
+			},
+			{
+				"id": 6,
+				"en": "Be careful handling the glass.",
+				"ar": "كن حذرًا أثناء التعامل مع الزجاج.",
+				"context": "تحذير من كسر الزجاج أو الإصابة"
+			},
+			{
+				"id": 7,
+				"en": "Be careful talking to strangers.",
+				"ar": "كن حذرًا أثناء التحدث مع الغرباء.",
+				"context": "نصيحة لتجنب المخاطر الاجتماعية"
+			},
+			{
+				"id": 8,
+				"en": "Be careful climbing the ladder.",
+				"ar": "كن حذرًا أثناء صعود السلم.",
+				"context": "تحذير من خطر السقوط"
+			},
+			{
+				"id": 9,
+				"en": "Be careful using your phone while walking.",
+				"ar": "كن حذرًا أثناء استخدام هاتفك أثناء المشي.",
+				"context": "تنبيه لتجنب الحوادث بسبب عدم الانتباه"
+			},
+			{
+				"id": 10,
+				"en": "Be careful cooking with hot oil.",
+				"ar": "كن حذرًا أثناء الطبخ بالزيت الساخن.",
+				"context": "تحذير من خطر الحروق أثناء الطبخ"
+			}
+		]
+	}
 }
