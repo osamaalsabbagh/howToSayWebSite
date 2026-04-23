@@ -10,7 +10,8 @@
     "parts": [
       {
         "sentence": "I am sure",
-        "ar": "أنا متأكد أنها ستندهش عندما ترى كم هو كبير الآن.",
+        "ar": "أنا متأكد.",
+        "context": "يمهّد لتأكيد شيء يثق به المتحدث.",
         "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
@@ -33,7 +34,8 @@
       },
       {
         "sentence": "she will be surprised to see how big he is now",
-        "ar": "أنا متأكد أنها ستندهش عندما ترى كم هو كبير الآن.",
+        "ar": "أنها ستندهش عندما ترى كم هو كبير الآن.",
+        "context": "يوضح الشيء الذي يؤكده المتحدث بثقة.",
         "grammar": {
           "tense": "المستقبل البسيط",
           "tenseEn": "Future Simple",
@@ -88,7 +90,8 @@
       },
       {
         "sentence": "how big he is now",
-        "ar": "أنا متأكد أنها ستندهش عندما ترى كم هو كبير الآن.",
+        "ar": "كم هو كبير الآن.",
+        "context": "يوضح الفكرة أو المعلومة التابعة لما قبله.",
         "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",

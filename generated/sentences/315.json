@@ -10,7 +10,8 @@
     "parts": [
       {
         "sentence": "Do you think",
-        "ar": "هل تعتقد أن ذلك ممكن؟",
+        "ar": "هل تعتقد",
+        "context": "يبدأ به المتحدث الفكرة الأساسية قبل إضافة التفاصيل.",
         "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
@@ -33,7 +34,8 @@
       },
       {
         "sentence": "it is possible",
-        "ar": "هل تعتقد أن ذلك ممكن؟",
+        "ar": "أن ذلك ممكن؟",
+        "context": "يوضح الفكرة التي يراها المتحدث أو يسأل عنها.",
         "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",

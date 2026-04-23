@@ -11,6 +11,7 @@
       {
         "sentence": "Are you calling from the number registered with your order?",
         "ar": "هل تتصل من الرقم المسجل في طلبك؟",
+        "context": "يُستخدم هذا السؤال للتحقق من حالة أو معلومة في هذا الموقف.",
         "grammar": {
           "tense": "المضارع المستمر",
           "tenseEn": "Present Continuous",
@@ -61,7 +62,8 @@
       },
       {
         "sentence": "registered with your order",
-        "ar": "هل تتصل من الرقم المسجل في طلبك؟",
+        "ar": "المسجل في طلبك.",
+        "context": "يصف المقصود بدقة داخل هذا السؤال أو التوضيح.",
         "grammar": {
           "tense": null,
           "tenseEn": null,

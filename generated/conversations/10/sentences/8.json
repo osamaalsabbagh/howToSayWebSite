@@ -10,7 +10,8 @@
     "parts": [
       {
         "sentence": "The owner is at work",
-        "ar": "المالك في العمل ولا يستطيع المغادرة الآن.",
+        "ar": "المالك في العمل.",
+        "context": "يبدأ به المتحدث الفكرة الأساسية قبل إضافة التفاصيل.",
         "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
@@ -41,7 +42,8 @@
       },
       {
         "sentence": "and cannot leave now",
-        "ar": "المالك في العمل ولا يستطيع المغادرة الآن.",
+        "ar": "ولا يستطيع المغادرة الآن.",
+        "context": "يضيف معلومة مكملة لما قبله.",
         "grammar": {
           "tense": null,
           "tenseEn": null,

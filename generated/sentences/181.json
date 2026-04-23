@@ -10,7 +10,8 @@
     "parts": [
       {
         "sentence": "How long does it take",
-        "ar": "كم من الوقت يستغرق للوصول إلى جورجيا؟",
+        "ar": "كم من الوقت يستغرق",
+        "context": "يوضح المعلومة أو الفكرة التابعة لما قبله.",
         "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
@@ -41,7 +42,8 @@
       },
       {
         "sentence": "to get to Georgia",
-        "ar": "كم من الوقت يستغرق للوصول إلى جورجيا؟",
+        "ar": "للوصول إلى جورجيا؟",
+        "context": "يوضح الغرض أو الفعل المقصود بعد العبارة السابقة.",
         "grammar": {
           "tense": null,
           "tenseEn": null,

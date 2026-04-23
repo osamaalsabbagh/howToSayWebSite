@@ -10,7 +10,8 @@
     "parts": [
       {
         "sentence": "What is the name of the company",
-        "ar": "ما اسم الشركة التي تعمل بها؟",
+        "ar": "ما اسم الشركة",
+        "context": "يوضح المعلومة أو الفكرة التابعة لما قبله.",
         "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
@@ -49,7 +50,8 @@
       },
       {
         "sentence": "you work for",
-        "ar": "ما اسم الشركة التي تعمل بها؟",
+        "ar": "التي تعمل بها؟",
+        "context": "يكمل به المتحدث المعنى أو النتيجة داخل هذا الموقف.",
         "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",

@@ -10,7 +10,8 @@
     "parts": [
       {
         "sentence": "I have a question",
-        "ar": "لدي سؤال أريد أن أطرحه عليك.",
+        "ar": "لدي سؤال.",
+        "context": "يمهّد لطرح سؤال سيأتي بعده.",
         "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
@@ -37,7 +38,8 @@
       },
       {
         "sentence": "I want to ask you",
-        "ar": "لدي سؤال أريد أن أطرحه عليك.",
+        "ar": "أريد أن أطرحه عليك.",
+        "context": "يوضح السؤال الذي يريد المتحدث طرحه.",
         "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",

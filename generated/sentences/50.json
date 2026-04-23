@@ -10,7 +10,8 @@
     "parts": [
       {
         "sentence": "I am coming",
-        "ar": "أنا قادم لأوصلك.",
+        "ar": "أنا قادم.",
+        "context": "يبدأ به المتحدث الفكرة الأساسية قبل إضافة التفاصيل.",
         "grammar": {
           "tense": "المضارع المستمر",
           "tenseEn": "Present Continuous",
@@ -33,7 +34,8 @@
       },
       {
         "sentence": "to pick you up",
-        "ar": "أنا قادم لأوصلك.",
+        "ar": "لأوصلك.",
+        "context": "يوضح الغرض أو الفعل المقصود بعد العبارة السابقة.",
         "grammar": {
           "tense": null,
           "tenseEn": null,

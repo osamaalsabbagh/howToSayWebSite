@@ -10,7 +10,8 @@
     "parts": [
       {
         "sentence": "How much is it",
-        "ar": "كم يكلف الذهاب إلى ميامي؟",
+        "ar": "كم يكلف",
+        "context": "يوضح المعلومة أو الفكرة التابعة لما قبله.",
         "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
@@ -37,7 +38,8 @@
       },
       {
         "sentence": "to go to Miami",
-        "ar": "كم يكلف الذهاب إلى ميامي؟",
+        "ar": "الذهاب إلى ميامي؟",
+        "context": "يوضح الغرض أو الفعل المقصود بعد العبارة السابقة.",
         "grammar": {
           "tense": null,
           "tenseEn": null,

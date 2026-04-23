@@ -10,7 +10,8 @@
     "parts": [
       {
         "sentence": "Do you know",
-        "ar": "هل تعرف ماذا يقول هذا؟",
+        "ar": "هل تعرف",
+        "context": "يمهّد لسؤال عن معلومة يريد المتحدث معرفتها.",
         "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
@@ -33,7 +34,8 @@
       },
       {
         "sentence": "what this says",
-        "ar": "هل تعرف ماذا يقول هذا؟",
+        "ar": "ماذا يقول هذا؟",
+        "context": "يوضح المعلومة التي لا يعرفها المتحدث أو يسأل عنها.",
         "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",

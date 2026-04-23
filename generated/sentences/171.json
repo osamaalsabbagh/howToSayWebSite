@@ -10,7 +10,8 @@
     "parts": [
       {
         "sentence": "Do you want me",
-        "ar": "هل تريدني أن آتي وأوصلك؟",
+        "ar": "هل تريدني",
+        "context": "يبدأ بسؤال عن رغبة السامع قبل ذكر الفعل المقترح.",
         "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
@@ -37,7 +38,8 @@
       },
       {
         "sentence": "to come and pick you up",
-        "ar": "هل تريدني أن آتي وأوصلك؟",
+        "ar": "أن آتي وأوصلك؟",
+        "context": "يوضح الغرض أو الفعل المقصود بعد العبارة السابقة.",
         "grammar": {
           "tense": null,
           "tenseEn": null,

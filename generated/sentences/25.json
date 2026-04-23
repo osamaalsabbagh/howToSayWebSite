@@ -10,7 +10,8 @@
     "parts": [
       {
         "sentence": "I do not know",
-        "ar": "لا أعرف كيف أستخدمه.",
+        "ar": "لا أعرف.",
+        "context": "يعبّر عن عدم المعرفة قبل توضيح الشيء المقصود.",
         "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
@@ -37,7 +38,8 @@
       },
       {
         "sentence": "how to use it",
-        "ar": "لا أعرف كيف أستخدمه.",
+        "ar": "كيف أستخدمه.",
+        "context": "يوضح المعلومة التي لا يعرفها المتحدث أو يسأل عنها.",
         "grammar": {
           "tense": null,
           "tenseEn": null,

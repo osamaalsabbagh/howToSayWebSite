@@ -10,7 +10,8 @@
     "parts": [
       {
         "sentence": "Alright",
-        "ar": "تمام، سوف أبدأ تتبعه الآن.",
+        "ar": "تمام.",
+        "context": "تعطي موافقة أو تطمينًا قبل متابعة الكلام.",
         "grammar": {
           "tense": null,
           "tenseEn": null,
@@ -25,7 +26,8 @@
       },
       {
         "sentence": "I will start tracking it now",
-        "ar": "تمام، سوف أبدأ تتبعه الآن.",
+        "ar": "سوف أبدأ تتبعه الآن.",
+        "context": "يكمل به المتحدث المعنى أو النتيجة داخل هذا الموقف.",
         "grammar": {
           "tense": "المستقبل البسيط",
           "tenseEn": "Future Simple",

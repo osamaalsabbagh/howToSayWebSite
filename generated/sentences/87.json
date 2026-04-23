@@ -10,7 +10,8 @@
     "parts": [
       {
         "sentence": "This is nonsense",
-        "ar": "هذا هراء وأنت تعرف ذلك.",
+        "ar": "هذا هراء.",
+        "context": "يبدأ به المتحدث الفكرة الأساسية قبل إضافة التفاصيل.",
         "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
@@ -33,7 +34,8 @@
       },
       {
         "sentence": "and you know it",
-        "ar": "هذا هراء وأنت تعرف ذلك.",
+        "ar": "وأنت تعرف ذلك.",
+        "context": "يضيف معلومة مكملة لما قبله.",
         "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",

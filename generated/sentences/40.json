@@ -10,7 +10,8 @@
     "parts": [
       {
         "sentence": "I will call you",
-        "ar": "سأتصل بك عندما أغادر.",
+        "ar": "سأتصل بك.",
+        "context": "يبدأ به المتحدث الفكرة الأساسية قبل إضافة التفاصيل.",
         "grammar": {
           "tense": "المستقبل البسيط",
           "tenseEn": "Future Simple",
@@ -37,7 +38,8 @@
       },
       {
         "sentence": "when I leave",
-        "ar": "سأتصل بك عندما أغادر.",
+        "ar": "عندما أغادر.",
+        "context": "يوضح الفكرة أو المعلومة التابعة لما قبله.",
         "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",

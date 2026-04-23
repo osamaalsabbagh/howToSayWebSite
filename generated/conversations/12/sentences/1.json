@@ -10,7 +10,8 @@
     "parts": [
       {
         "sentence": "Hello",
-        "ar": "مرحبًا، أنا أتصل للسؤال عن طلبي.",
+        "ar": "مرحبًا.",
+        "context": "يفتتح بها المتحدث الكلام قبل الدخول في الفكرة الأساسية.",
         "grammar": {
           "tense": null,
           "tenseEn": null,
@@ -25,7 +26,8 @@
       },
       {
         "sentence": "I am calling to ask about my order",
-        "ar": "مرحبًا، أنا أتصل للسؤال عن طلبي.",
+        "ar": "أنا أتصل للسؤال عن طلبي.",
+        "context": "يكمل به المتحدث المعنى أو النتيجة داخل هذا الموقف.",
         "grammar": {
           "tense": "المضارع المستمر",
           "tenseEn": "Present Continuous",

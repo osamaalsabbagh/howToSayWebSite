@@ -10,7 +10,8 @@
     "parts": [
       {
         "sentence": "I am good",
-        "ar": "أنا جيد، وأنت؟",
+        "ar": "أنا بخير.",
+        "context": "يبدأ به المتحدث الفكرة الأساسية قبل إضافة التفاصيل.",
         "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
@@ -33,7 +34,8 @@
       },
       {
         "sentence": "and you?",
-        "ar": "أنا جيد، وأنت؟",
+        "ar": "وأنت؟",
+        "context": "يضيف معلومة مكملة لما قبله.",
         "grammar": {
           "tense": null,
           "tenseEn": null,
