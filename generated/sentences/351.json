@@ -5,5 +5,103 @@
     "en": "Will you take me home?",
     "ar": "هل ستأخذني إلى المنزل؟",
     "context": "طلب التوصيل إلى المنزل."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Will you take me home?",
+        "ar": "هل ستأخذني إلى المنزل؟",
+        "context": "طلب لمعرفة إن كان الشخص سيقوم بتوصيل المتحدث إلى المنزل.",
+        "grammar": {
+          "tense": "المستقبل البسيط",
+          "tenseEn": "Future Simple",
+          "reason": "استخدمت صيغة المستقبل للسؤال عن فعل سيحدث لاحقًا، وهو أخذ المتحدث إلى المنزل."
+        },
+        "wordMeanings": [
+          {
+            "term": "Will",
+            "description": "تدل على المستقبل أو السؤال عن فعل قادم."
+          },
+          {
+            "term": "you",
+            "description": "ضمير يشير إلى الشخص المخاطب."
+          },
+          {
+            "term": "take",
+            "description": "يعني يأخذ أو يوصل شخصًا إلى مكان."
+          },
+          {
+            "term": "me",
+            "description": "ضمير يشير إلى المتحدث كمفعول به."
+          },
+          {
+            "term": "home",
+            "description": "يعني إلى المنزل أو البيت."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Will you drive me home?",
+        "ar": "هل ستوصلني بالسيارة إلى المنزل؟",
+        "context": "يستخدم لطلب التوصيل بالسيارة."
+      },
+      {
+        "id": 2,
+        "en": "Will you take me to school?",
+        "ar": "هل ستأخذني إلى المدرسة؟",
+        "context": "يستخدم لطلب الذهاب إلى المدرسة."
+      },
+      {
+        "id": 3,
+        "en": "Will you take me to the airport?",
+        "ar": "هل ستأخذني إلى المطار؟",
+        "context": "يستخدم عند الحاجة إلى الذهاب للمطار."
+      },
+      {
+        "id": 4,
+        "en": "Will you help me tomorrow?",
+        "ar": "هل ستساعدني غدًا؟",
+        "context": "يستخدم لطلب مساعدة مستقبلية."
+      },
+      {
+        "id": 5,
+        "en": "Will you call me later?",
+        "ar": "هل ستتصل بي لاحقًا؟",
+        "context": "يستخدم لطلب اتصال لاحق."
+      },
+      {
+        "id": 6,
+        "en": "Will you meet me there?",
+        "ar": "هل ستقابلني هناك؟",
+        "context": "يستخدم لترتيب لقاء."
+      },
+      {
+        "id": 7,
+        "en": "Will you wait for me?",
+        "ar": "هل ستنتظرني؟",
+        "context": "يستخدم لطلب الانتظار."
+      },
+      {
+        "id": 8,
+        "en": "Will you bring me water?",
+        "ar": "هل ستجلب لي ماء؟",
+        "context": "يستخدم لطلب إحضار الماء."
+      },
+      {
+        "id": 9,
+        "en": "Will you show me the way?",
+        "ar": "هل ستدلني على الطريق؟",
+        "context": "يستخدم عند طلب إرشاد."
+      },
+      {
+        "id": 10,
+        "en": "Will you send me the address?",
+        "ar": "هل سترسل لي العنوان؟",
+        "context": "يستخدم لطلب إرسال عنوان."
+      }
+    ]
   }
 }

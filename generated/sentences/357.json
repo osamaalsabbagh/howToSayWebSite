@@ -5,5 +5,103 @@
     "en": "Are they coming this evening?",
     "ar": "هل سيأتون هذا المساء؟",
     "context": "السؤال عن وصول أشخاص في المساء."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Are they coming this evening?",
+        "ar": "هل سيأتون هذا المساء؟",
+        "context": "سؤال عن خطة أو حدث قريب في هذا المساء.",
+        "grammar": {
+          "tense": "المضارع المستمر",
+          "tenseEn": "Present Continuous",
+          "reason": "استُخدم المضارع المستمر للسؤال عن ترتيب أو خطة قريبة الحدوث في المستقبل."
+        },
+        "wordMeanings": [
+          {
+            "term": "Are",
+            "description": "صيغة حاضرة تستخدم مع الجمع أو مع المخاطب."
+          },
+          {
+            "term": "they",
+            "description": "ضمير يشير إلى جماعة."
+          },
+          {
+            "term": "coming",
+            "description": "يعني يأتون أو قادمون."
+          },
+          {
+            "term": "this",
+            "description": "يشير إلى وقت قريب أو محدد."
+          },
+          {
+            "term": "evening",
+            "description": "فترة المساء."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Are they leaving tonight?",
+        "ar": "هل سيغادرون الليلة؟",
+        "context": "يستخدم للسؤال عن خطة مغادرة قريبة."
+      },
+      {
+        "id": 2,
+        "en": "Are they visiting tomorrow?",
+        "ar": "هل سيزورون غدًا؟",
+        "context": "يستخدم للسؤال عن زيارة مخطط لها."
+      },
+      {
+        "id": 3,
+        "en": "Are they joining us later?",
+        "ar": "هل سينضمون إلينا لاحقًا؟",
+        "context": "يستخدم للسؤال عن انضمام لاحق."
+      },
+      {
+        "id": 4,
+        "en": "Are they staying here tonight?",
+        "ar": "هل سيبقون هنا الليلة؟",
+        "context": "يستخدم للسؤال عن خطة إقامة."
+      },
+      {
+        "id": 5,
+        "en": "Are they arriving soon?",
+        "ar": "هل سيصلون قريبًا؟",
+        "context": "يستخدم للسؤال عن وصول قريب."
+      },
+      {
+        "id": 6,
+        "en": "Are they meeting us today?",
+        "ar": "هل سيقابلوننا اليوم؟",
+        "context": "يستخدم للسؤال عن موعد لقاء."
+      },
+      {
+        "id": 7,
+        "en": "Are they calling this afternoon?",
+        "ar": "هل سيتصلون بعد الظهر؟",
+        "context": "يستخدم للسؤال عن اتصال متوقع."
+      },
+      {
+        "id": 8,
+        "en": "Are they working this weekend?",
+        "ar": "هل سيعملون في عطلة نهاية الأسبوع؟",
+        "context": "يستخدم للسؤال عن جدول عمل."
+      },
+      {
+        "id": 9,
+        "en": "Are they traveling next week?",
+        "ar": "هل سيسافرون الأسبوع القادم؟",
+        "context": "يستخدم للسؤال عن خطة سفر."
+      },
+      {
+        "id": 10,
+        "en": "Are they coming with you?",
+        "ar": "هل سيأتون معك؟",
+        "context": "يستخدم للسؤال إن كان أشخاص سيرافقون المخاطب."
+      }
+    ]
   }
 }

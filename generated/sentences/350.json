@@ -5,5 +5,111 @@
     "en": "Who would you like to speak to?",
     "ar": "من تود التحدث إليه؟",
     "context": "السؤال عن الشخص المطلوب عبر الهاتف."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Who would you like to speak to?",
+        "ar": "من تود التحدث إليه؟",
+        "context": "سؤال مهذب لمعرفة الشخص الذي يريد المخاطب التواصل معه.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه صيغة طلب أو سؤال مهذب باستخدام فعل مساعد للتلطف، وليست زمنًا مستقلًا واضحًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "Who",
+            "description": "أداة سؤال عن الشخص."
+          },
+          {
+            "term": "would",
+            "description": "كلمة تستخدم لجعل السؤال أكثر تهذيبًا."
+          },
+          {
+            "term": "you",
+            "description": "ضمير يشير إلى الشخص المخاطب."
+          },
+          {
+            "term": "like",
+            "description": "تعني يرغب أو يود في هذا السياق."
+          },
+          {
+            "term": "to",
+            "description": "تأتي قبل الفعل لتكوين المصدر."
+          },
+          {
+            "term": "speak",
+            "description": "يعني يتحدث أو يتكلم."
+          },
+          {
+            "term": "to",
+            "description": "تعني إلى أو مع في سياق التحدث إلى شخص."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Who would you like to call?",
+        "ar": "من تود الاتصال به؟",
+        "context": "يستخدم لمعرفة الشخص المراد الاتصال به."
+      },
+      {
+        "id": 2,
+        "en": "Who would you like to meet?",
+        "ar": "من تود مقابلته؟",
+        "context": "يستخدم لترتيب مقابلة."
+      },
+      {
+        "id": 3,
+        "en": "Who would you like to invite?",
+        "ar": "من تود دعوته؟",
+        "context": "يستخدم عند التخطيط لدعوة شخص."
+      },
+      {
+        "id": 4,
+        "en": "Who would you like to ask?",
+        "ar": "من تود أن تسأل؟",
+        "context": "يستخدم عند اختيار شخص للسؤال."
+      },
+      {
+        "id": 5,
+        "en": "Who would you like to see?",
+        "ar": "من تود رؤيته؟",
+        "context": "يستخدم لمعرفة الشخص المطلوب رؤيته."
+      },
+      {
+        "id": 6,
+        "en": "Who would you like to help?",
+        "ar": "من تود مساعدته؟",
+        "context": "يستخدم عند عرض أو اختيار المساعدة."
+      },
+      {
+        "id": 7,
+        "en": "Who would you like to visit?",
+        "ar": "من تود زيارته؟",
+        "context": "يستخدم عند ترتيب زيارة."
+      },
+      {
+        "id": 8,
+        "en": "Who would you like to thank?",
+        "ar": "من تود شكره؟",
+        "context": "يستخدم عند الحديث عن الشكر."
+      },
+      {
+        "id": 9,
+        "en": "Who would you like to bring?",
+        "ar": "من تود إحضاره؟",
+        "context": "يستخدم عند اختيار شخص ليأتي."
+      },
+      {
+        "id": 10,
+        "en": "Who would you like to hear?",
+        "ar": "من تود سماعه؟",
+        "context": "يستخدم عند اختيار متحدث أو مغن."
+      }
+    ]
   }
 }

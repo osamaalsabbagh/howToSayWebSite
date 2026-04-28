@@ -5,5 +5,103 @@
     "en": "Are your children with you?",
     "ar": "هل أطفالك معك؟",
     "context": "السؤال إن كان الشخص برفقة أطفاله."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Are your children with you?",
+        "ar": "هل أطفالك معك؟",
+        "context": "سؤال عن وجود الأطفال مع الشخص المخاطب.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُخدم الحاضر للسؤال عن وضع أو وجود حالي."
+        },
+        "wordMeanings": [
+          {
+            "term": "Are",
+            "description": "صيغة حاضرة تستخدم مع الجمع."
+          },
+          {
+            "term": "your",
+            "description": "تدل على الملكية أو الانتماء للمخاطب."
+          },
+          {
+            "term": "children",
+            "description": "أطفال."
+          },
+          {
+            "term": "with",
+            "description": "تعني برفقة أو مع."
+          },
+          {
+            "term": "you",
+            "description": "ضمير يشير إلى الشخص المخاطب."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Are your parents with you?",
+        "ar": "هل والداك معك؟",
+        "context": "يستخدم للسؤال عن وجود الوالدين."
+      },
+      {
+        "id": 2,
+        "en": "Are your friends with you?",
+        "ar": "هل أصدقاؤك معك؟",
+        "context": "يستخدم للسؤال عن رفقة الأصدقاء."
+      },
+      {
+        "id": 3,
+        "en": "Are your bags with you?",
+        "ar": "هل حقائبك معك؟",
+        "context": "يستخدم للتأكد من وجود الحقائب."
+      },
+      {
+        "id": 4,
+        "en": "Are your keys with you?",
+        "ar": "هل مفاتيحك معك؟",
+        "context": "يستخدم للتأكد من حمل المفاتيح."
+      },
+      {
+        "id": 5,
+        "en": "Are your students with you?",
+        "ar": "هل طلابك معك؟",
+        "context": "يستخدم في سياق معلم أو مسؤول."
+      },
+      {
+        "id": 6,
+        "en": "Are your documents with you?",
+        "ar": "هل مستنداتك معك؟",
+        "context": "يستخدم للتأكد من وجود أوراق مهمة."
+      },
+      {
+        "id": 7,
+        "en": "Are your tickets with you?",
+        "ar": "هل تذاكرك معك؟",
+        "context": "يستخدم قبل السفر أو الدخول."
+      },
+      {
+        "id": 8,
+        "en": "Are your brothers with you?",
+        "ar": "هل إخوتك معك؟",
+        "context": "يستخدم للسؤال عن وجود الإخوة."
+      },
+      {
+        "id": 9,
+        "en": "Are your sisters with you?",
+        "ar": "هل أخواتك معك؟",
+        "context": "يستخدم للسؤال عن وجود الأخوات."
+      },
+      {
+        "id": 10,
+        "en": "Are your guests with you?",
+        "ar": "هل ضيوفك معك؟",
+        "context": "يستخدم للسؤال عن مرافقة الضيوف."
+      }
+    ]
   }
 }

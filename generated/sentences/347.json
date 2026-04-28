@@ -5,5 +5,99 @@
     "en": "Where is the pharmacy?",
     "ar": "أين الصيدلية؟",
     "context": "السؤال عن مكان الصيدلية."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Where is the pharmacy?",
+        "ar": "أين الصيدلية؟",
+        "context": "سؤال مباشر لمعرفة مكان صيدلية محددة أو قريبة.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "تستخدم صيغة المضارع البسيط مع الفعل للدلالة على مكان موجود في الوقت الحالي."
+        },
+        "wordMeanings": [
+          {
+            "term": "Where",
+            "description": "أداة سؤال عن المكان."
+          },
+          {
+            "term": "is",
+            "description": "صيغة حاضرة مع المفرد."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف لشيء معروف أو مطلوب."
+          },
+          {
+            "term": "pharmacy",
+            "description": "مكان تُباع فيه الأدوية."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Where is the hospital?",
+        "ar": "أين المستشفى؟",
+        "context": "يستخدم عند البحث عن المستشفى."
+      },
+      {
+        "id": 2,
+        "en": "Where is the clinic?",
+        "ar": "أين العيادة؟",
+        "context": "يستخدم عند الحاجة إلى عيادة."
+      },
+      {
+        "id": 3,
+        "en": "Where is the airport?",
+        "ar": "أين المطار؟",
+        "context": "يستخدم للسؤال عن مكان المطار."
+      },
+      {
+        "id": 4,
+        "en": "Where is the station?",
+        "ar": "أين المحطة؟",
+        "context": "يستخدم للسؤال عن محطة معينة."
+      },
+      {
+        "id": 5,
+        "en": "Where is the office?",
+        "ar": "أين المكتب؟",
+        "context": "يستخدم داخل مبنى أو شركة."
+      },
+      {
+        "id": 6,
+        "en": "Where is the elevator?",
+        "ar": "أين المصعد؟",
+        "context": "يستخدم عند البحث عن المصعد."
+      },
+      {
+        "id": 7,
+        "en": "Where is the entrance?",
+        "ar": "أين المدخل؟",
+        "context": "يستخدم عند الوصول إلى مكان جديد."
+      },
+      {
+        "id": 8,
+        "en": "Where is the exit?",
+        "ar": "أين المخرج؟",
+        "context": "يستخدم عند الرغبة في الخروج."
+      },
+      {
+        "id": 9,
+        "en": "Where is the restaurant?",
+        "ar": "أين المطعم؟",
+        "context": "يستخدم عند البحث عن مطعم معروف."
+      },
+      {
+        "id": 10,
+        "en": "Where is the bathroom?",
+        "ar": "أين الحمام؟",
+        "context": "يستخدم للسؤال عن مكان الحمام."
+      }
+    ]
   }
 }

@@ -5,5 +5,107 @@
     "en": "At what time did it happen?",
     "ar": "في أي وقت حدث ذلك؟",
     "context": "السؤال عن توقيت حدوث شيء ما."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "At what time did it happen?",
+        "ar": "في أي وقت حدث ذلك؟",
+        "context": "سؤال عن الوقت المحدد لحدث وقع في الماضي.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "استُخدم فعل مساعد بصيغة الماضي للسؤال عن حدث وقع وانتهى في وقت سابق."
+        },
+        "wordMeanings": [
+          {
+            "term": "At",
+            "description": "تستخدم للسؤال عن وقت محدد."
+          },
+          {
+            "term": "what",
+            "description": "أداة سؤال تعني أي أو ما."
+          },
+          {
+            "term": "time",
+            "description": "يعني وقت."
+          },
+          {
+            "term": "did",
+            "description": "كلمة مساعدة تستخدم في أسئلة الماضي."
+          },
+          {
+            "term": "it",
+            "description": "ضمير يعود على الحدث أو الأمر."
+          },
+          {
+            "term": "happen",
+            "description": "يعني يحدث أو يقع."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "At what time did you arrive?",
+        "ar": "في أي وقت وصلت؟",
+        "context": "يستخدم للسؤال عن وقت الوصول."
+      },
+      {
+        "id": 2,
+        "en": "At what time did they leave?",
+        "ar": "في أي وقت غادروا؟",
+        "context": "يستخدم للسؤال عن وقت المغادرة."
+      },
+      {
+        "id": 3,
+        "en": "At what time did the meeting start?",
+        "ar": "في أي وقت بدأ الاجتماع؟",
+        "context": "يستخدم للسؤال عن بداية اجتماع."
+      },
+      {
+        "id": 4,
+        "en": "At what time did the movie end?",
+        "ar": "في أي وقت انتهى الفيلم؟",
+        "context": "يستخدم للسؤال عن نهاية فيلم."
+      },
+      {
+        "id": 5,
+        "en": "At what time did she call?",
+        "ar": "في أي وقت اتصلت؟",
+        "context": "يستخدم للسؤال عن وقت اتصال."
+      },
+      {
+        "id": 6,
+        "en": "At what time did he come?",
+        "ar": "في أي وقت جاء؟",
+        "context": "يستخدم للسؤال عن وقت قدوم شخص."
+      },
+      {
+        "id": 7,
+        "en": "At what time did you sleep?",
+        "ar": "في أي وقت نمت؟",
+        "context": "يستخدم للسؤال عن وقت النوم."
+      },
+      {
+        "id": 8,
+        "en": "At what time did the train arrive?",
+        "ar": "في أي وقت وصل القطار؟",
+        "context": "يستخدم للسؤال عن وقت وصول القطار."
+      },
+      {
+        "id": 9,
+        "en": "At what time did class begin?",
+        "ar": "في أي وقت بدأت الحصة؟",
+        "context": "يستخدم للسؤال عن بداية الحصة."
+      },
+      {
+        "id": 10,
+        "en": "At what time did the rain stop?",
+        "ar": "في أي وقت توقف المطر؟",
+        "context": "يستخدم للسؤال عن نهاية المطر."
+      }
+    ]
   }
 }

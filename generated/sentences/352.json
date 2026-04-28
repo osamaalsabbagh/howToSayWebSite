@@ -5,5 +5,107 @@
     "en": "Would you like water or milk?",
     "ar": "هل تود الماء أم الحليب؟",
     "context": "التخيير بين مشروبين."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Would you like water or milk?",
+        "ar": "هل تود الماء أم الحليب؟",
+        "context": "سؤال مهذب يعرض خيارين على الشخص.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه صيغة عرض مهذبة باستخدام تعبير للرغبة والاختيار، وليست زمنًا مستقلًا واضحًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "Would",
+            "description": "تجعل السؤال مهذبًا ولطيفًا."
+          },
+          {
+            "term": "you",
+            "description": "ضمير يشير إلى الشخص المخاطب."
+          },
+          {
+            "term": "like",
+            "description": "تعني ترغب أو تود."
+          },
+          {
+            "term": "water",
+            "description": "ماء."
+          },
+          {
+            "term": "or",
+            "description": "تستخدم للاختيار بين شيئين."
+          },
+          {
+            "term": "milk",
+            "description": "حليب."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Would you like tea or coffee?",
+        "ar": "هل تود الشاي أم القهوة؟",
+        "context": "يستخدم عند عرض مشروبين."
+      },
+      {
+        "id": 2,
+        "en": "Would you like rice or bread?",
+        "ar": "هل تود الأرز أم الخبز؟",
+        "context": "يستخدم عند عرض نوعين من الطعام."
+      },
+      {
+        "id": 3,
+        "en": "Would you like soup or salad?",
+        "ar": "هل تود الحساء أم السلطة؟",
+        "context": "يستخدم في مطعم أو على مائدة طعام."
+      },
+      {
+        "id": 4,
+        "en": "Would you like juice or water?",
+        "ar": "هل تود العصير أم الماء؟",
+        "context": "يستخدم عند تقديم مشروبات."
+      },
+      {
+        "id": 5,
+        "en": "Would you like chicken or fish?",
+        "ar": "هل تود الدجاج أم السمك؟",
+        "context": "يستخدم عند اختيار وجبة."
+      },
+      {
+        "id": 6,
+        "en": "Would you like a chair or a sofa?",
+        "ar": "هل تود كرسيًا أم أريكة؟",
+        "context": "يستخدم عند عرض مكان للجلوس."
+      },
+      {
+        "id": 7,
+        "en": "Would you like red or blue?",
+        "ar": "هل تود الأحمر أم الأزرق؟",
+        "context": "يستخدم عند اختيار لون."
+      },
+      {
+        "id": 8,
+        "en": "Would you like one or two?",
+        "ar": "هل تود واحدًا أم اثنين؟",
+        "context": "يستخدم عند السؤال عن العدد."
+      },
+      {
+        "id": 9,
+        "en": "Would you like help or time?",
+        "ar": "هل تود المساعدة أم الوقت؟",
+        "context": "يستخدم عند عرض نوعين من الدعم."
+      },
+      {
+        "id": 10,
+        "en": "Would you like this or that?",
+        "ar": "هل تود هذا أم ذاك؟",
+        "context": "يستخدم عند الاختيار بين شيئين."
+      }
+    ]
   }
 }
