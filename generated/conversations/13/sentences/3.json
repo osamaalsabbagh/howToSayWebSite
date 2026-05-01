@@ -1,0 +1,111 @@
+{
+  "schemaVersion": 1,
+  "id": 3,
+  "sentence": {
+    "en": "No, I have not seen anything.",
+    "ar": "لا، لم أرَ أي شيء.",
+    "context": "ينفي أنه رأى أي شيء يتعلق بالمفاتيح."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "No, I have not seen anything.",
+        "ar": "لا، لم أرَ أي شيء.",
+        "context": "تُستخدم لنفي رؤية أي شيء متعلق بالمفاتيح.",
+        "grammar": {
+          "tense": "المضارع التام",
+          "tenseEn": "Present Perfect",
+          "reason": "استُخدم have not seen لنفي حدوث الرؤية حتى الآن مع ارتباطها بالسؤال الحالي."
+        },
+        "wordMeanings": [
+          {
+            "term": "No",
+            "description": "لا، جواب نفي."
+          },
+          {
+            "term": "I",
+            "description": "ضمير يشير إلى المتكلم."
+          },
+          {
+            "term": "have",
+            "description": "تُستخدم مع التصريف الثالث لتكوين المضارع التام."
+          },
+          {
+            "term": "not",
+            "description": "أداة نفي."
+          },
+          {
+            "term": "seen",
+            "description": "رأيت أو لاحظت."
+          },
+          {
+            "term": "anything",
+            "description": "أي شيء."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "No, I have not seen your phone.",
+        "ar": "لا، لم أرَ هاتفك.",
+        "context": "تُستخدم للرد على سؤال عن شيء مفقود."
+      },
+      {
+        "id": 2,
+        "en": "I have not found anything yet.",
+        "ar": "لم أجد أي شيء بعد.",
+        "context": "تُستخدم أثناء البحث."
+      },
+      {
+        "id": 3,
+        "en": "No, she has not seen the keys.",
+        "ar": "لا، لم ترَ المفاتيح.",
+        "context": "تُستخدم لنقل جواب شخص آخر."
+      },
+      {
+        "id": 4,
+        "en": "We have not received any message.",
+        "ar": "لم نتلقَ أي رسالة.",
+        "context": "تُستخدم لنفي وصول رسالة حتى الآن."
+      },
+      {
+        "id": 5,
+        "en": "I have not checked the hallway.",
+        "ar": "لم أتحقق من الممر.",
+        "context": "تُستخدم لذكر خطوة لم تحدث بعد."
+      },
+      {
+        "id": 6,
+        "en": "No, I have not heard anything.",
+        "ar": "لا، لم أسمع أي شيء.",
+        "context": "تُستخدم عند السؤال عن خبر أو صوت."
+      },
+      {
+        "id": 7,
+        "en": "They have not found the bag.",
+        "ar": "لم يجدوا الحقيبة.",
+        "context": "تُستخدم عندما لا تزال الحقيبة مفقودة."
+      },
+      {
+        "id": 8,
+        "en": "I have not seen anyone outside.",
+        "ar": "لم أرَ أحدًا في الخارج.",
+        "context": "تُستخدم للرد على سؤال عن وجود أشخاص."
+      },
+      {
+        "id": 9,
+        "en": "No, I have not opened the door.",
+        "ar": "لا، لم أفتح الباب.",
+        "context": "تُستخدم لنفي فعل حدث حتى الآن."
+      },
+      {
+        "id": 10,
+        "en": "He has not noticed anything strange.",
+        "ar": "لم يلاحظ أي شيء غريب.",
+        "context": "تُستخدم لنفي ملاحظة شيء غير عادي."
+      }
+    ]
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "schemaVersion": 1,
+  "id": 441,
+  "sentence": {
+    "en": "Sorry, we do not have any vacancies.",
+    "ar": "عذرًا، ليس لدينا أي شواغر.",
+    "context": "يُقال في الفنادق عندما لا توجد غرف متاحة."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Sorry",
+        "ar": "عذرا",
+        "context": "هذا الجزء يهيئ السامع لرفض مهذب أو خبر غير مناسب.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "كلمة اعتذار ثابتة لا تحمل زمنا مستقلا."
+        },
+        "wordMeanings": [
+          {
+            "term": "Sorry",
+            "description": "كلمة اعتذار أو تمهيد لخبر غير مريح"
+          }
+        ]
+      },
+      {
+        "sentence": "we do not have any vacancies",
+        "ar": "ليس لدينا أي شواغر",
+        "context": "هذا الجزء يوضح أن الفندق لا يملك غرفا متاحة.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "يستخدم المضارع البسيط مع النفي للتعبير عن عدم توفر الشواغر الآن."
+        },
+        "wordMeanings": [
+          {
+            "term": "we",
+            "description": "ضمير يشير إلى المتكلم ومعه جهة أو مجموعة"
+          },
+          {
+            "term": "do",
+            "description": "فعل مساعد يستخدم مع النفي في المضارع البسيط"
+          },
+          {
+            "term": "not",
+            "description": "أداة نفي"
+          },
+          {
+            "term": "have",
+            "description": "يعني نحصل على أو يتوفر لدينا حسب السياق"
+          },
+          {
+            "term": "any",
+            "description": "تعني أي كمية وتستخدم كثيرا في السؤال أو النفي"
+          },
+          {
+            "term": "vacancies",
+            "description": "غرف أو أماكن شاغرة ومتاحة"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Sorry, we do not have any rooms.",
+        "ar": "عذرا، ليس لدينا أي غرف.",
+        "context": "يستخدم هذا المثال في موقف خدمة أو سفر مباشر."
+      },
+      {
+        "id": 2,
+        "en": "Sorry, we are full tonight.",
+        "ar": "عذرا، نحن ممتلئون الليلة.",
+        "context": "يناسب طلبا مهذبا في فندق أو مطعم."
+      },
+      {
+        "id": 3,
+        "en": "Sorry, there are no vacancies.",
+        "ar": "عذرا، لا توجد شواغر.",
+        "context": "يقال عند الحاجة إلى معلومة عملية."
+      },
+      {
+        "id": 4,
+        "en": "Sorry, we do not have a table.",
+        "ar": "عذرا، ليس لدينا طاولة.",
+        "context": "يساعد على استخدام النمط في موقف مشابه."
+      },
+      {
+        "id": 5,
+        "en": "Sorry, we do not have any seats.",
+        "ar": "عذرا، ليس لدينا أي مقاعد.",
+        "context": "يناسب محادثة قصيرة مع موظف خدمة."
+      },
+      {
+        "id": 6,
+        "en": "Sorry, the hotel is full.",
+        "ar": "عذرا، الفندق ممتلئ.",
+        "context": "يستخدم عندما تكون الحاجة واضحة من السياق."
+      },
+      {
+        "id": 7,
+        "en": "Sorry, we cannot take more guests.",
+        "ar": "عذرا، لا نستطيع استقبال ضيوف أكثر.",
+        "context": "يقال للحصول على شيء أو معرفة مكانه."
+      },
+      {
+        "id": 8,
+        "en": "Sorry, there is no room available.",
+        "ar": "عذرا، لا توجد غرفة متاحة.",
+        "context": "يناسب ترتيب إقامة أو تنقل."
+      },
+      {
+        "id": 9,
+        "en": "Sorry, we have no openings today.",
+        "ar": "عذرا، ليست لدينا أماكن متاحة اليوم.",
+        "context": "يستخدم في سؤال يومي طبيعي."
+      },
+      {
+        "id": 10,
+        "en": "Sorry, everything is booked.",
+        "ar": "عذرا، كل شيء محجوز.",
+        "context": "يساعد على نقل نفس الفكرة بكلمات قريبة."
+      }
+    ]
+  }
+}

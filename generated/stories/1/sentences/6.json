@@ -1,0 +1,171 @@
+{
+  "schemaVersion": 1,
+  "id": 6,
+  "sentence": {
+    "en": "The barber laughed and said to his customer, \"See? I told you he is dumb.\"",
+    "ar": "ضحك الحلاق وقال لزبونه: «انظر! أخبرتك أنه غبي.»",
+    "context": "ردّة فعل الحلاق على تصرّف الطفل."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "The barber laughed and said to his customer",
+        "ar": "ضحك الحلاق وقال لزبونه",
+        "context": "هذا الجزء يصف رد فعل الحلاق بعد اختيار الطفل.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "استُخدم laughed وsaid لسرد فعلين حدثا وانتهيا في الماضي."
+        },
+        "wordMeanings": [
+          {
+            "term": "The",
+            "description": "أداة تشير إلى الحلاق المعروف."
+          },
+          {
+            "term": "barber",
+            "description": "الحلاق."
+          },
+          {
+            "term": "laughed",
+            "description": "ضحك."
+          },
+          {
+            "term": "and",
+            "description": "و."
+          },
+          {
+            "term": "said",
+            "description": "قال."
+          },
+          {
+            "term": "to",
+            "description": "إلى أو موجّهًا الكلام نحو."
+          },
+          {
+            "term": "his",
+            "description": "تدل على الزبون المرتبط بالموقف."
+          },
+          {
+            "term": "customer",
+            "description": "الزبون."
+          }
+        ]
+      },
+      {
+        "sentence": "See?",
+        "ar": "أترى؟",
+        "context": "تُستخدم للفت الانتباه إلى ما يظنه الحلاق دليلًا.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه صيغة قصيرة للتنبيه أو التأكيد وليست زمنًا مستقلًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "See",
+            "description": "انظر أو أترى."
+          }
+        ]
+      },
+      {
+        "sentence": "I told you he is dumb.",
+        "ar": "أخبرتك أنه غبي.",
+        "context": "هذا الجزء يوضح أن الحلاق يعتقد أن اختباره أثبت كلامه.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "استُخدم told للإشارة إلى كلام قاله سابقًا، وis داخل الجملة المنقولة لوصف الطفل في نظره."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير يشير إلى المتكلم."
+          },
+          {
+            "term": "told",
+            "description": "أخبرت."
+          },
+          {
+            "term": "you",
+            "description": "الشخص المخاطب."
+          },
+          {
+            "term": "he",
+            "description": "هو، ويشير إلى الطفل."
+          },
+          {
+            "term": "is",
+            "description": "يكون أو هو."
+          },
+          {
+            "term": "dumb",
+            "description": "غبي، بحسب رأي الحلاق."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "The man laughed and said hello.",
+        "ar": "ضحك الرجل وقال مرحبًا.",
+        "context": "تُستخدم لوصف فعلين متتابعين."
+      },
+      {
+        "id": 2,
+        "en": "See, I told you it works.",
+        "ar": "أترى، أخبرتك أنه يعمل.",
+        "context": "تُستخدم عند إثبات رأي سابق."
+      },
+      {
+        "id": 3,
+        "en": "She laughed and told him the story.",
+        "ar": "ضحكت وأخبرته القصة.",
+        "context": "تُستخدم في سرد حدث ماض."
+      },
+      {
+        "id": 4,
+        "en": "I told you he was late.",
+        "ar": "أخبرتك أنه كان متأخرًا.",
+        "context": "تُستخدم عند تذكير شخص بكلام سابق."
+      },
+      {
+        "id": 5,
+        "en": "The customer laughed at the joke.",
+        "ar": "ضحك الزبون على النكتة.",
+        "context": "تُستخدم عند وصف رد فعل."
+      },
+      {
+        "id": 6,
+        "en": "See, the door is open.",
+        "ar": "أترى، الباب مفتوح.",
+        "context": "تُستخدم للفت انتباه شخص إلى دليل."
+      },
+      {
+        "id": 7,
+        "en": "He said to his friend, wait here.",
+        "ar": "قال لصديقه: انتظر هنا.",
+        "context": "تُستخدم لنقل كلام مباشر."
+      },
+      {
+        "id": 8,
+        "en": "I told you the answer.",
+        "ar": "أخبرتك بالإجابة.",
+        "context": "تُستخدم عند الإشارة إلى كلام سابق."
+      },
+      {
+        "id": 9,
+        "en": "The teacher said the lesson is easy.",
+        "ar": "قال المعلم إن الدرس سهل.",
+        "context": "تُستخدم لنقل وصف داخل كلام."
+      },
+      {
+        "id": 10,
+        "en": "He laughed because he felt sure.",
+        "ar": "ضحك لأنه شعر بالثقة.",
+        "context": "تُستخدم لشرح سبب رد فعل."
+      }
+    ]
+  }
+}

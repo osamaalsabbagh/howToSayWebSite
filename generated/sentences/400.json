@@ -1,0 +1,131 @@
+{
+  "schemaVersion": 1,
+  "id": 400,
+  "sentence": {
+    "en": "She wants to know when you are coming.",
+    "ar": "هي تريد أن تعرف متى ستأتي.",
+    "context": "نقل رغبة شخص في معرفة موعد قدومك."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "She wants to know",
+        "ar": "هي تريد أن تعرف",
+        "context": "هذا الجزء يوضح رغبة الشخص الآخر في الحصول على معلومة.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "يستخدم المضارع البسيط لأن wants تصف رغبة حالية أو ثابتة عند الشخص."
+        },
+        "wordMeanings": [
+          {
+            "term": "She",
+            "description": "ضمير يشير إلى أنثى"
+          },
+          {
+            "term": "wants",
+            "description": "يعني تريد أو ترغب"
+          },
+          {
+            "term": "to",
+            "description": "تدل هنا على الوقت المتبقي قبل الساعة التالية أو تربط الفعل بما بعده"
+          },
+          {
+            "term": "know",
+            "description": "يعني تعرف أو تعلم"
+          }
+        ]
+      },
+      {
+        "sentence": "when you are coming",
+        "ar": "متى ستأتي",
+        "context": "هذا الجزء يوضح المعلومة المطلوبة وهي موعد القدوم.",
+        "grammar": {
+          "tense": "المضارع المستمر",
+          "tenseEn": "Present Continuous",
+          "reason": "يستخدم المضارع المستمر هنا للدلالة على ترتيب أو خطة قريبة للقدوم."
+        },
+        "wordMeanings": [
+          {
+            "term": "when",
+            "description": "كلمة تسأل عن الوقت"
+          },
+          {
+            "term": "you",
+            "description": "ضمير يشير إلى الشخص المخاطب"
+          },
+          {
+            "term": "are",
+            "description": "صيغة تستخدم مع المخاطب أو الجمع في الحاضر"
+          },
+          {
+            "term": "coming",
+            "description": "يعني قادم أو آت"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "He wants to know when you are leaving.",
+        "ar": "هو يريد أن يعرف متى ستغادر.",
+        "context": "يستخدم لنقل سؤال شخص عن وقت المغادرة."
+      },
+      {
+        "id": 2,
+        "en": "She wants to know where you are staying.",
+        "ar": "هي تريد أن تعرف أين تقيم.",
+        "context": "يناسب نقل رغبة في معرفة المكان."
+      },
+      {
+        "id": 3,
+        "en": "They want to know when we are arriving.",
+        "ar": "هم يريدون أن يعرفوا متى سنصل.",
+        "context": "يقال عند نقل سؤال عن موعد الوصول."
+      },
+      {
+        "id": 4,
+        "en": "My mother wants to know when you are calling.",
+        "ar": "أمي تريد أن تعرف متى ستتصل.",
+        "context": "يستخدم عند نقل سؤال من شخص آخر."
+      },
+      {
+        "id": 5,
+        "en": "The teacher wants to know why you are late.",
+        "ar": "المعلم يريد أن يعرف لماذا أنت متأخر.",
+        "context": "يناسب نقل طلب تفسير."
+      },
+      {
+        "id": 6,
+        "en": "She wants to know what you are doing.",
+        "ar": "هي تريد أن تعرف ماذا تفعل.",
+        "context": "يقال عند السؤال عن نشاط حالي."
+      },
+      {
+        "id": 7,
+        "en": "He wants to know if you are ready.",
+        "ar": "هو يريد أن يعرف هل أنت جاهز.",
+        "context": "يستخدم لنقل سؤال بنعم أو لا."
+      },
+      {
+        "id": 8,
+        "en": "We want to know when the bus is coming.",
+        "ar": "نحن نريد أن نعرف متى ستأتي الحافلة.",
+        "context": "يناسب سؤالا عن موعد وصول."
+      },
+      {
+        "id": 9,
+        "en": "She wants to know when dinner is starting.",
+        "ar": "هي تريد أن تعرف متى سيبدأ العشاء.",
+        "context": "يقال عند ترتيب وقت وجبة."
+      },
+      {
+        "id": 10,
+        "en": "They want to know how you are coming.",
+        "ar": "هم يريدون أن يعرفوا كيف ستأتي.",
+        "context": "يستخدم للسؤال عن طريقة الوصول."
+      }
+    ]
+  }
+}

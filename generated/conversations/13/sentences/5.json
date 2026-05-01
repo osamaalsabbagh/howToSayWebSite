@@ -1,0 +1,151 @@
+{
+  "schemaVersion": 1,
+  "id": 5,
+  "sentence": {
+    "en": "No, I do not. Without these keys, I cannot get into my apartment.",
+    "ar": "لا، ليس لدي. بدون هذه المفاتيح لن أستطيع دخول شقتي.",
+    "context": "يوضح أنه لا يملك نسخة احتياطية، وبالتالي لا يستطيع دخول شقته."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "No, I do not.",
+        "ar": "لا، ليس لدي.",
+        "context": "تُستخدم لنفي امتلاك نسخة أخرى من المفاتيح.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُخدم do not لنفي فعل have في الحاضر، أي أن المتكلم لا يملك نسخة الآن."
+        },
+        "wordMeanings": [
+          {
+            "term": "No",
+            "description": "لا، جواب نفي."
+          },
+          {
+            "term": "I",
+            "description": "ضمير يشير إلى المتكلم."
+          },
+          {
+            "term": "do",
+            "description": "تُستخدم مع النفي في المضارع البسيط."
+          },
+          {
+            "term": "not",
+            "description": "أداة نفي."
+          }
+        ]
+      },
+      {
+        "sentence": "Without these keys, I cannot get into my apartment.",
+        "ar": "بدون هذه المفاتيح لن أستطيع دخول شقتي.",
+        "context": "توضح الجملة نتيجة عدم وجود المفاتيح وهي عدم القدرة على الدخول.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "الجملة تستخدم cannot للتعبير عن عدم القدرة الحالية، وهذا تركيب قدرة وليس زمنًا مستقلًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "Without",
+            "description": "بدون أو من غير."
+          },
+          {
+            "term": "these",
+            "description": "هذه، وتشير إلى المفاتيح القريبة أو المذكورة."
+          },
+          {
+            "term": "keys",
+            "description": "المفاتيح المطلوبة للدخول."
+          },
+          {
+            "term": "I",
+            "description": "ضمير يشير إلى المتكلم."
+          },
+          {
+            "term": "cannot",
+            "description": "لا أستطيع أو لا أقدر."
+          },
+          {
+            "term": "get",
+            "description": "أصل أو أدخل في هذا السياق."
+          },
+          {
+            "term": "into",
+            "description": "إلى داخل."
+          },
+          {
+            "term": "my",
+            "description": "تدل على الملكية للمتكلم."
+          },
+          {
+            "term": "apartment",
+            "description": "الشقة."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "No, I do not have a spare key.",
+        "ar": "لا، ليس لدي مفتاح احتياطي.",
+        "context": "تُستخدم لنفي وجود بديل."
+      },
+      {
+        "id": 2,
+        "en": "Without my card, I cannot enter the building.",
+        "ar": "بدون بطاقتي، لا أستطيع دخول المبنى.",
+        "context": "تُستخدم عند الاعتماد على بطاقة دخول."
+      },
+      {
+        "id": 3,
+        "en": "Without the password, I cannot open the account.",
+        "ar": "بدون كلمة المرور، لا أستطيع فتح الحساب.",
+        "context": "تُستخدم عند مشكلة تسجيل الدخول."
+      },
+      {
+        "id": 4,
+        "en": "No, I do not know the code.",
+        "ar": "لا، لا أعرف الرمز.",
+        "context": "تُستخدم عند السؤال عن رمز دخول."
+      },
+      {
+        "id": 5,
+        "en": "Without a ticket, we cannot board the train.",
+        "ar": "بدون تذكرة، لا نستطيع ركوب القطار.",
+        "context": "تُستخدم عند السفر."
+      },
+      {
+        "id": 6,
+        "en": "I cannot get into the room.",
+        "ar": "لا أستطيع الدخول إلى الغرفة.",
+        "context": "تُستخدم عند وجود باب مغلق."
+      },
+      {
+        "id": 7,
+        "en": "No, I do not have another copy.",
+        "ar": "لا، ليست لدي نسخة أخرى.",
+        "context": "تُستخدم عند فقدان نسخة مهمة."
+      },
+      {
+        "id": 8,
+        "en": "Without these papers, I cannot finish the form.",
+        "ar": "بدون هذه الأوراق، لا أستطيع إنهاء النموذج.",
+        "context": "تُستخدم عند نقص مستندات."
+      },
+      {
+        "id": 9,
+        "en": "I cannot get into my email.",
+        "ar": "لا أستطيع الدخول إلى بريدي الإلكتروني.",
+        "context": "تُستخدم عند مشكلة حساب."
+      },
+      {
+        "id": 10,
+        "en": "Without help, I cannot solve this problem.",
+        "ar": "بدون مساعدة، لا أستطيع حل هذه المشكلة.",
+        "context": "تُستخدم عند الحاجة إلى دعم."
+      }
+    ]
+  }
+}
