@@ -1,0 +1,175 @@
+{
+  "schemaVersion": 1,
+  "id": 8,
+  "sentence": {
+    "en": "The man smiled and explained, \"I did. And today I am taking them to the beach.\"",
+    "ar": "ابتسم الرجل وشرح: «لقد فعلت. واليوم آخذها إلى الشاطئ.»",
+    "context": "خاتمة النكتة بإجابة غير متوقعة."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "The man smiled and explained",
+        "ar": "ابتسم الرجل وشرح",
+        "context": "تصف بداية جواب الرجل الهادئ.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "استُخدم smiled وexplained لأنهما حدثان مكتملان في القصة."
+        },
+        "wordMeanings": [
+          {
+            "term": "The",
+            "description": "أداة تعريف للرجل المعروف."
+          },
+          {
+            "term": "man",
+            "description": "الرجل."
+          },
+          {
+            "term": "smiled",
+            "description": "ابتسم."
+          },
+          {
+            "term": "and",
+            "description": "و."
+          },
+          {
+            "term": "explained",
+            "description": "شرح أو أوضح."
+          }
+        ]
+      },
+      {
+        "sentence": "I did.",
+        "ar": "لقد فعلت.",
+        "context": "إجابة قصيرة تؤكد أنه أخذهم إلى حديقة الحيوان فعلًا.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه إجابة مختصرة تستخدم did بدل تكرار الفعل السابق، لذلك تُفهم من السياق."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "أنا."
+          },
+          {
+            "term": "did",
+            "description": "فعلت ذلك أو قمت بالأمر المذكور."
+          }
+        ]
+      },
+      {
+        "sentence": "And today I am taking them to the beach.",
+        "ar": "واليوم آخذها إلى الشاطئ.",
+        "context": "تُظهر المفارقة: بعد حديقة الحيوان يأخذهم إلى الشاطئ.",
+        "grammar": {
+          "tense": "المضارع المستمر",
+          "tenseEn": "Present Continuous",
+          "reason": "استُخدم am taking للتعبير عن خطة أو فعل يحدث اليوم في سياق القصة."
+        },
+        "wordMeanings": [
+          {
+            "term": "And",
+            "description": "و، تربط الإجابة بما قبلها."
+          },
+          {
+            "term": "today",
+            "description": "اليوم."
+          },
+          {
+            "term": "I",
+            "description": "أنا."
+          },
+          {
+            "term": "am",
+            "description": "صيغة تأتي مع أنا في الحاضر."
+          },
+          {
+            "term": "taking",
+            "description": "آخذ أو أنقل."
+          },
+          {
+            "term": "them",
+            "description": "هم أو إياهم، والمقصود البطاريق."
+          },
+          {
+            "term": "to",
+            "description": "إلى."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف لمكان محدد."
+          },
+          {
+            "term": "beach",
+            "description": "الشاطئ."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "A woman was walking home when the rain started.",
+        "ar": "كانت امرأة تمشي إلى البيت عندما بدأ المطر.",
+        "context": "تقال لبدء مشهد فيه حدث قطع حدثًا مستمرًا."
+      },
+      {
+        "id": 2,
+        "en": "The guard looked inside the bag and asked a question.",
+        "ar": "نظر الحارس داخل الحقيبة وسأل سؤالًا.",
+        "context": "تقال عند سرد فعلين متتابعين في الماضي."
+      },
+      {
+        "id": 3,
+        "en": "The driver replied politely to the officer.",
+        "ar": "رد السائق بأدب على الضابط.",
+        "context": "تقال عند وصف طريقة الرد."
+      },
+      {
+        "id": 4,
+        "en": "You need to take the files to the office.",
+        "ar": "يلزمك أن تأخذ الملفات إلى المكتب.",
+        "context": "تقال لإعطاء توجيه واضح."
+      },
+      {
+        "id": 5,
+        "en": "The next day, the teacher saw the student again.",
+        "ar": "في اليوم التالي، رأت المعلمة الطالب مرة أخرى.",
+        "context": "تقال عند متابعة قصة في اليوم التالي."
+      },
+      {
+        "id": 6,
+        "en": "He pulled the car over and checked the papers.",
+        "ar": "أوقف السيارة جانبًا وفحص الأوراق.",
+        "context": "تقال عند وصف إجراء على الطريق."
+      },
+      {
+        "id": 7,
+        "en": "I thought I told you to call early.",
+        "ar": "ظننت أنني قلت لك أن تتصل مبكرًا.",
+        "context": "تقال عند تذكير شخص بتعليمات سابقة."
+      },
+      {
+        "id": 8,
+        "en": "She smiled and explained the mistake.",
+        "ar": "ابتسمت وشرحت الخطأ.",
+        "context": "تقال عند وصف رد هادئ بعد سوء فهم."
+      },
+      {
+        "id": 9,
+        "en": "The man was carrying a box when the door opened.",
+        "ar": "كان الرجل يحمل صندوقًا عندما فُتح الباب.",
+        "context": "تقال لوصف حدث مستمر قطعه حدث آخر."
+      },
+      {
+        "id": 10,
+        "en": "The officer looked confused after the answer.",
+        "ar": "بدا الضابط حائرًا بعد الإجابة.",
+        "context": "تقال عند وصف رد فعل على جواب مفاجئ."
+      }
+    ]
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "schemaVersion": 1,
+  "id": 2,
+  "sentence": {
+    "en": "Tell me all about your vacation.",
+    "ar": "أخبرني بكل شيء عن عطلتك.",
+    "context": "طلب معرفة التفاصيل الكاملة عن موضوع"
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Tell me all about your vacation.",
+        "ar": "أخبرني بكل شيء عن عطلتك.",
+        "context": "تُستخدم لطلب تفاصيل كاملة عن تجربة شخص.",
+        "grammar": {
+          "tense": "صيغة الأمر",
+          "tenseEn": "Imperative",
+          "reason": "الجملة تبدأ بالفعل Tell، لذلك هي طلب مباشر من المخاطب."
+        },
+        "wordMeanings": [
+          {
+            "term": "Tell",
+            "description": "أخبر أو قل."
+          },
+          {
+            "term": "me",
+            "description": "لي أو إياي."
+          },
+          {
+            "term": "all",
+            "description": "كل شيء أو جميع التفاصيل."
+          },
+          {
+            "term": "about",
+            "description": "عن أو بخصوص."
+          },
+          {
+            "term": "your",
+            "description": "الخاصة بك."
+          },
+          {
+            "term": "vacation",
+            "description": "عطلتك أو إجازتك."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I watched a movie about friendship.",
+        "ar": "شاهدت فيلمًا عن الصداقة.",
+        "context": "تقال عند ذكر موضوع فيلم."
+      },
+      {
+        "id": 2,
+        "en": "Tell me about your new job.",
+        "ar": "أخبرني عن عملك الجديد.",
+        "context": "تقال عند طلب تفاصيل عن موضوع."
+      },
+      {
+        "id": 3,
+        "en": "What are you thinking about?",
+        "ar": "بماذا تفكر؟",
+        "context": "تقال للسؤال عن موضوع التفكير."
+      },
+      {
+        "id": 4,
+        "en": "There is something strange about this place.",
+        "ar": "هناك شيء غريب بخصوص هذا المكان.",
+        "context": "تقال عند التعبير عن انطباع غير واضح."
+      },
+      {
+        "id": 5,
+        "en": "She wrote an article about health.",
+        "ar": "كتبت مقالًا عن الصحة.",
+        "context": "تقال عند ذكر موضوع مقال."
+      },
+      {
+        "id": 6,
+        "en": "Ask him about the meeting.",
+        "ar": "اسأله عن الاجتماع.",
+        "context": "تقال عند طلب معلومات من شخص."
+      },
+      {
+        "id": 7,
+        "en": "Why are they excited about the trip?",
+        "ar": "لماذا هم متحمسون للرحلة؟",
+        "context": "تقال للسؤال عن سبب شعور مرتبط بموضوع."
+      },
+      {
+        "id": 8,
+        "en": "There is nothing wrong about your answer.",
+        "ar": "لا يوجد شيء خاطئ في إجابتك.",
+        "context": "تقال لطمأنة شخص عن إجابة."
+      },
+      {
+        "id": 9,
+        "en": "We talked about the problem.",
+        "ar": "تحدثنا عن المشكلة.",
+        "context": "تقال عند ذكر موضوع حديث سابق."
+      },
+      {
+        "id": 10,
+        "en": "Tell us all about your plan.",
+        "ar": "أخبرنا بكل شيء عن خطتك.",
+        "context": "تقال عند طلب شرح كامل."
+      }
+    ]
+  }
+}
