@@ -1,0 +1,119 @@
+{
+  "schemaVersion": 1,
+  "id": 1,
+  "sentence": {
+    "en": "A lion was sleeping under a big tree.",
+    "ar": "كان أسدٌ نائمًا تحت شجرة كبيرة.",
+    "context": "وصف حالة سكون في بداية القصة دون حدوث أي فعل آخر."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "A lion was sleeping under a big tree.",
+        "ar": "كان أسد نائمًا تحت شجرة كبيرة",
+        "context": "يفتتح القصة بوصف ما كان يحدث في الخلفية.",
+        "grammar": {
+          "tense": "الماضي المستمر",
+          "tenseEn": "Past Continuous",
+          "reason": "was sleeping يصف فعلًا مستمرًا في الماضي قبل أن يحدث شيء آخر."
+        },
+        "wordMeanings": [
+          {
+            "term": "A",
+            "description": "أداة تشير إلى أسد غير محدد"
+          },
+          {
+            "term": "lion",
+            "description": "أسد"
+          },
+          {
+            "term": "was",
+            "description": "كان للمفرد في الماضي"
+          },
+          {
+            "term": "sleeping",
+            "description": "نائمًا أو ينام"
+          },
+          {
+            "term": "under",
+            "description": "تحت"
+          },
+          {
+            "term": "a",
+            "description": "أداة تشير إلى شجرة غير محددة"
+          },
+          {
+            "term": "big",
+            "description": "كبيرة"
+          },
+          {
+            "term": "tree",
+            "description": "شجرة"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "A child was sitting under a small tree.",
+        "ar": "كان طفل جالسًا تحت شجرة صغيرة.",
+        "context": "افتتاح قصة بوصف خلفية."
+      },
+      {
+        "id": 2,
+        "en": "A bird flew across the garden.",
+        "ar": "طار طائر عبر الحديقة.",
+        "context": "وصف حركة قصيرة في قصة."
+      },
+      {
+        "id": 3,
+        "en": "The man woke up surprised.",
+        "ar": "استيقظ الرجل مندهشًا.",
+        "context": "وصف رد فعل بعد حدث."
+      },
+      {
+        "id": 4,
+        "en": "She caught the ball with both hands.",
+        "ar": "أمسكت الكرة بكلتا يديها.",
+        "context": "وصف الإمساك بشيء."
+      },
+      {
+        "id": 5,
+        "en": "The boy trembled with cold.",
+        "ar": "ارتجف الصبي من البرد.",
+        "context": "وصف رد فعل جسدي."
+      },
+      {
+        "id": 6,
+        "en": "The dog slept under the table.",
+        "ar": "نام الكلب تحت الطاولة.",
+        "context": "وصف مكان النوم."
+      },
+      {
+        "id": 7,
+        "en": "The girl ran across the street carefully.",
+        "ar": "ركضت الفتاة عبر الشارع بحذر.",
+        "context": "وصف حركة من جهة إلى أخرى."
+      },
+      {
+        "id": 8,
+        "en": "He looked angry after the noise.",
+        "ar": "بدا غاضبًا بعد الضوضاء.",
+        "context": "وصف شعور بعد إزعاج."
+      },
+      {
+        "id": 9,
+        "en": "The cat touched the door by accident.",
+        "ar": "لمست القطة الباب عن غير قصد.",
+        "context": "وصف فعل غير مقصود."
+      },
+      {
+        "id": 10,
+        "en": "Fear made the child quiet.",
+        "ar": "جعل الخوف الطفل هادئًا.",
+        "context": "وصف أثر الخوف."
+      }
+    ]
+  }
+}

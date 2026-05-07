@@ -1,0 +1,147 @@
+{
+  "schemaVersion": 1,
+  "id": 13,
+  "sentence": {
+    "en": "These are just a couple of examples — and there are many more.",
+    "ar": "هذان مثالان فقط، وهناك الكثير غيرهما.",
+    "context": "توضيح أن المذكور لا يمثل كل الأخطاء بل مجرد نموذجين للتوضيح."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "These are just a couple of examples",
+        "ar": "هذه مجرد بضعة أمثلة",
+        "context": "يقلل نطاق الأمثلة المذكورة ويعرضها كنماذج فقط.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "are يصف حالة هذه الأشياء في الحاضر."
+        },
+        "wordMeanings": [
+          {
+            "term": "These",
+            "description": "هذه أو هؤلاء"
+          },
+          {
+            "term": "are",
+            "description": "تكون أو هي للجمع"
+          },
+          {
+            "term": "just",
+            "description": "فقط أو مجرد"
+          },
+          {
+            "term": "a",
+            "description": "أداة قبل تعبير مفرد"
+          },
+          {
+            "term": "couple",
+            "description": "اثنان أو بضعة"
+          },
+          {
+            "term": "of",
+            "description": "من"
+          },
+          {
+            "term": "examples",
+            "description": "أمثلة"
+          }
+        ]
+      },
+      {
+        "sentence": "and there are many more.",
+        "ar": "وهناك الكثير غيرها",
+        "context": "يوضح أن الأمثلة ليست حصرًا لكل الأخطاء.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "there are تعبر عن وجود أشياء كثيرة في الحاضر."
+        },
+        "wordMeanings": [
+          {
+            "term": "and",
+            "description": "و"
+          },
+          {
+            "term": "there",
+            "description": "هناك"
+          },
+          {
+            "term": "are",
+            "description": "يوجد للجمع"
+          },
+          {
+            "term": "many",
+            "description": "كثير"
+          },
+          {
+            "term": "more",
+            "description": "أكثر أو غيرها"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "My brother and I arrived early.",
+        "ar": "وصلت أنا وأخي مبكرًا.",
+        "context": "مثال على ترتيب صحيح للضمائر."
+      },
+      {
+        "id": 2,
+        "en": "Someone says this phrase every day.",
+        "ar": "يقول أحدهم هذه العبارة كل يوم.",
+        "context": "تمهيد لمثال شائع."
+      },
+      {
+        "id": 3,
+        "en": "There are fewer chairs in this room.",
+        "ar": "يوجد عدد أقل من الكراسي في هذه الغرفة.",
+        "context": "يستخدم مع أشياء معدودة."
+      },
+      {
+        "id": 4,
+        "en": "There is less water in the bottle.",
+        "ar": "يوجد ماء أقل في الزجاجة.",
+        "context": "يستخدم مع شيء غير معدود."
+      },
+      {
+        "id": 5,
+        "en": "The correct way is clear now.",
+        "ar": "الطريقة الصحيحة واضحة الآن.",
+        "context": "يقال بعد شرح التصحيح."
+      },
+      {
+        "id": 6,
+        "en": "These are just two simple examples.",
+        "ar": "هذان مجرد مثالين بسيطين.",
+        "context": "يقال عند تقديم نماذج قليلة."
+      },
+      {
+        "id": 7,
+        "en": "I have seen that lesson before.",
+        "ar": "لقد رأيت ذلك الدرس من قبل.",
+        "context": "مثال على صيغة الخبرة السابقة."
+      },
+      {
+        "id": 8,
+        "en": "Some expressions become part of daily speech.",
+        "ar": "تصبح بعض العبارات جزءًا من الكلام اليومي.",
+        "context": "يصف انتشار تعبيرات معينة."
+      },
+      {
+        "id": 9,
+        "en": "If you make mistakes, you are learning.",
+        "ar": "إذا ارتكبت أخطاء، فأنت تتعلم.",
+        "context": "يقال لتشجيع المتعلم."
+      },
+      {
+        "id": 10,
+        "en": "Speaking is better than staying silent.",
+        "ar": "التحدث أفضل من البقاء صامتًا.",
+        "context": "تشجيع على ممارسة الكلام."
+      }
+    ]
+  }
+}

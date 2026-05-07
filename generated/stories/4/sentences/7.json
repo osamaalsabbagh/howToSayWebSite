@@ -1,0 +1,131 @@
+{
+  "schemaVersion": 1,
+  "id": 7,
+  "sentence": {
+    "en": "He added, \"Maybe I can help you someday.\"",
+    "ar": "أضاف: «ربما أستطيع مساعدتك يومًا ما.»",
+    "context": "وعد محتمل مرتبط بزمن غير محدد في المستقبل."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "He added",
+        "ar": "أضاف",
+        "context": "يمهد لكلام إضافي بعد الطلب الأول.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "added فعل ماض يصف قولًا حدث في القصة."
+        },
+        "wordMeanings": [
+          {
+            "term": "He",
+            "description": "هو ويشير إلى الفأر"
+          },
+          {
+            "term": "added",
+            "description": "أضاف أو قال شيئًا آخر"
+          }
+        ]
+      },
+      {
+        "sentence": "Maybe I can help you someday.",
+        "ar": "ربما أستطيع مساعدتك يومًا ما",
+        "context": "وعد غير مؤكد بالمساعدة في المستقبل.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "تحتوي الجملة على can للتعبير عن القدرة، ومع Maybe تصبح احتمالا لا زمنًا محددًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "Maybe",
+            "description": "ربما أو من المحتمل"
+          },
+          {
+            "term": "I",
+            "description": "أنا"
+          },
+          {
+            "term": "can",
+            "description": "أستطيع أو أقدر"
+          },
+          {
+            "term": "help",
+            "description": "أساعد"
+          },
+          {
+            "term": "you",
+            "description": "إياك أو أنت"
+          },
+          {
+            "term": "someday",
+            "description": "يومًا ما في المستقبل"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "He begged for another chance.",
+        "ar": "توسل من أجل فرصة أخرى.",
+        "context": "يقال عندما يطلب شخص الرحمة أو السماح."
+      },
+      {
+        "id": 2,
+        "en": "Please let me explain the problem.",
+        "ar": "من فضلك دعني أشرح المشكلة.",
+        "context": "طلب مهذب قبل التوضيح."
+      },
+      {
+        "id": 3,
+        "en": "Maybe I can help you tomorrow.",
+        "ar": "ربما أستطيع مساعدتك غدًا.",
+        "context": "وعد محتمل بالمساعدة في المستقبل."
+      },
+      {
+        "id": 4,
+        "en": "She laughed at the strange idea.",
+        "ar": "ضحكت من الفكرة الغريبة.",
+        "context": "وصف عدم أخذ فكرة بجدية."
+      },
+      {
+        "id": 5,
+        "en": "He decided to leave early.",
+        "ar": "قرر أن يغادر مبكرًا.",
+        "context": "وصف قرار بعد تفكير."
+      },
+      {
+        "id": 6,
+        "en": "The door became harder to open.",
+        "ar": "أصبح الباب أصعب في الفتح.",
+        "context": "وصف تغير الحالة إلى الأصعب."
+      },
+      {
+        "id": 7,
+        "en": "They heard cries for help.",
+        "ar": "سمعوا صرخات طلبًا للمساعدة.",
+        "context": "وصف سماع استغاثة."
+      },
+      {
+        "id": 8,
+        "en": "She hurried to answer the call.",
+        "ar": "أسرعت لتجيب على المكالمة.",
+        "context": "وصف فعل سريع بلا تأخير."
+      },
+      {
+        "id": 9,
+        "en": "He kept working until the job was done.",
+        "ar": "واصل العمل حتى انتهت المهمة.",
+        "context": "وصف الاستمرار حتى تحقق النتيجة."
+      },
+      {
+        "id": 10,
+        "en": "Even a small act can change everything.",
+        "ar": "حتى فعل صغير يمكن أن يغير كل شيء.",
+        "context": "يقال لاستخلاص عبرة من موقف."
+      }
+    ]
+  }
+}

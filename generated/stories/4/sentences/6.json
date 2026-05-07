@@ -1,0 +1,139 @@
+{
+  "schemaVersion": 1,
+  "id": 6,
+  "sentence": {
+    "en": "He begged, saying, \"Please let me go.\"",
+    "ar": "توسّل قائلًا: «أرجوك دعني أذهب.»",
+    "context": "كلام مباشر صادر من الفأر طلبًا للنجاة."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "He begged",
+        "ar": "توسل",
+        "context": "يصف فعل الفأر قبل الكلام المباشر.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "begged فعل ماض يصف حدثًا وقع في القصة وانتهى."
+        },
+        "wordMeanings": [
+          {
+            "term": "He",
+            "description": "هو ويشير إلى الفأر"
+          },
+          {
+            "term": "begged",
+            "description": "توسل أو طلب برجاء شديد"
+          }
+        ]
+      },
+      {
+        "sentence": "saying",
+        "ar": "قائلًا",
+        "context": "تربط الفعل بالكلام الذي قاله الفأر.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه صيغة اسم فاعل تصف طريقة التوسل ولا تحمل زمنًا مستقلًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "saying",
+            "description": "قائلًا أو وهو يقول"
+          }
+        ]
+      },
+      {
+        "sentence": "Please let me go.",
+        "ar": "أرجوك دعني أذهب",
+        "context": "الكلام المباشر الذي يطلب فيه الفأر النجاة.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه صيغة طلب مهذب ثم أمر بمعنى السماح، لذلك لا تحمل زمنًا مستقلًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "Please",
+            "description": "أرجوك أو من فضلك"
+          },
+          {
+            "term": "let",
+            "description": "اسمح أو دع"
+          },
+          {
+            "term": "me",
+            "description": "إياي أو لي"
+          },
+          {
+            "term": "go",
+            "description": "أذهب أو أنصرف"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "He begged for another chance.",
+        "ar": "توسل من أجل فرصة أخرى.",
+        "context": "يقال عندما يطلب شخص الرحمة أو السماح."
+      },
+      {
+        "id": 2,
+        "en": "Please let me explain the problem.",
+        "ar": "من فضلك دعني أشرح المشكلة.",
+        "context": "طلب مهذب قبل التوضيح."
+      },
+      {
+        "id": 3,
+        "en": "Maybe I can help you tomorrow.",
+        "ar": "ربما أستطيع مساعدتك غدًا.",
+        "context": "وعد محتمل بالمساعدة في المستقبل."
+      },
+      {
+        "id": 4,
+        "en": "She laughed at the strange idea.",
+        "ar": "ضحكت من الفكرة الغريبة.",
+        "context": "وصف عدم أخذ فكرة بجدية."
+      },
+      {
+        "id": 5,
+        "en": "He decided to leave early.",
+        "ar": "قرر أن يغادر مبكرًا.",
+        "context": "وصف قرار بعد تفكير."
+      },
+      {
+        "id": 6,
+        "en": "The door became harder to open.",
+        "ar": "أصبح الباب أصعب في الفتح.",
+        "context": "وصف تغير الحالة إلى الأصعب."
+      },
+      {
+        "id": 7,
+        "en": "They heard cries for help.",
+        "ar": "سمعوا صرخات طلبًا للمساعدة.",
+        "context": "وصف سماع استغاثة."
+      },
+      {
+        "id": 8,
+        "en": "She hurried to answer the call.",
+        "ar": "أسرعت لتجيب على المكالمة.",
+        "context": "وصف فعل سريع بلا تأخير."
+      },
+      {
+        "id": 9,
+        "en": "He kept working until the job was done.",
+        "ar": "واصل العمل حتى انتهت المهمة.",
+        "context": "وصف الاستمرار حتى تحقق النتيجة."
+      },
+      {
+        "id": 10,
+        "en": "Even a small act can change everything.",
+        "ar": "حتى فعل صغير يمكن أن يغير كل شيء.",
+        "context": "يقال لاستخلاص عبرة من موقف."
+      }
+    ]
+  }
+}
