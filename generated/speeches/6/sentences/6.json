@@ -1,0 +1,127 @@
+{
+  "schemaVersion": 1,
+  "id": 6,
+  "sentence": {
+    "en": "Does not mean you are not growing.",
+    "ar": "لا يعني أنك لا تنمو.",
+    "context": "التوضيح أن النمو قد يكون خفيًا."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Does not mean",
+        "ar": "لا يعني",
+        "context": "يكمل الجملة السابقة لينفي استنتاجا خاطئا.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "Does not mean تعبير في المضارع البسيط لنفي معنى أو نتيجة عامة، والفاعل مفهوم من الجملة السابقة."
+        },
+        "wordMeanings": [
+          {
+            "term": "Does",
+            "description": "كلمة مساعدة للنفي مع فاعل مفرد أو فكرة مفهومة."
+          },
+          {
+            "term": "not",
+            "description": "أداة نفي تعني لا."
+          },
+          {
+            "term": "mean",
+            "description": "يعني أو يدل على."
+          }
+        ]
+      },
+      {
+        "sentence": "you are not growing.",
+        "ar": "أنك لا تنمو.",
+        "context": "يوضح الاستنتاج المنفي: أن عدم رؤية التقدم لا يساوي عدم النمو.",
+        "grammar": {
+          "tense": "المضارع المستمر",
+          "tenseEn": "Present Continuous",
+          "reason": "are growing يصف عملية مستمرة، والنفي not يوضح أن الجملة ترفض فكرة عدم النمو."
+        },
+        "wordMeanings": [
+          {
+            "term": "you",
+            "description": "ضمير المخاطب؛ الشخص المتعلم أو المتطور."
+          },
+          {
+            "term": "are",
+            "description": "تأتي مع you لتكوين الفعل المستمر."
+          },
+          {
+            "term": "not",
+            "description": "أداة نفي تعني لا."
+          },
+          {
+            "term": "growing",
+            "description": "تنمو أو تتطور تدريجيا."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Slow progress does not mean failure.",
+        "ar": "التقدم البطيء لا يعني الفشل.",
+        "context": "تطمين عند بطء النتائج."
+      },
+      {
+        "id": 2,
+        "en": "A low score does not mean you cannot improve.",
+        "ar": "الدرجة المنخفضة لا تعني أنك لا تستطيع التحسن.",
+        "context": "تشجيع بعد نتيجة ضعيفة."
+      },
+      {
+        "id": 3,
+        "en": "You are still growing.",
+        "ar": "أنت لا تزال تنمو.",
+        "context": "تأكيد على التطور المستمر."
+      },
+      {
+        "id": 4,
+        "en": "Silence does not mean nothing is happening.",
+        "ar": "الصمت لا يعني أن لا شيء يحدث.",
+        "context": "يقال عندما لا تظهر علامات واضحة."
+      },
+      {
+        "id": 5,
+        "en": "Hard work does not mean quick results.",
+        "ar": "العمل الجاد لا يعني نتائج سريعة.",
+        "context": "تذكير ببطء بعض النتائج."
+      },
+      {
+        "id": 6,
+        "en": "You are not losing time.",
+        "ar": "أنت لا تضيع الوقت.",
+        "context": "تطمين لشخص يتعلم ببطء."
+      },
+      {
+        "id": 7,
+        "en": "Mistakes do not mean you are weak.",
+        "ar": "الأخطاء لا تعني أنك ضعيف.",
+        "context": "تشجيع بعد الخطأ."
+      },
+      {
+        "id": 8,
+        "en": "Practice means you are growing.",
+        "ar": "الممارسة تعني أنك تنمو.",
+        "context": "ربط الممارسة بالتطور."
+      },
+      {
+        "id": 9,
+        "en": "You are learning even now.",
+        "ar": "أنت تتعلم حتى الآن.",
+        "context": "تأكيد على فائدة اللحظة الحالية."
+      },
+      {
+        "id": 10,
+        "en": "Failure does not mean the end.",
+        "ar": "الفشل لا يعني النهاية.",
+        "context": "تشجيع للاستمرار بعد فشل."
+      }
+    ]
+  }
+}

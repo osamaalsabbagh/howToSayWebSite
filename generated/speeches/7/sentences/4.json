@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "id": 4,
+  "sentence": {
+    "en": "You might sound like you are saying a completely different word.",
+    "ar": "ربما تبدو كأنك تقول كلمة مختلفة تمامًا.",
+    "context": "شرح أثر الخطأ في النطق."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "You might sound like",
+        "ar": "قد تبدو كأنك",
+        "context": "هذا الجزء يعبّر عن احتمال في النتيجة وليس عن يقين.",
+        "grammar": {
+          "tense": "تركيب احتمالي",
+          "tenseEn": "Modal Structure",
+          "reason": "might يعطي معنى الاحتمال، لذلك لا يُعامل كتعبير بزمن مستقل واضح."
+        },
+        "wordMeanings": [
+          {
+            "term": "You",
+            "description": "ضمير يعني أنت أو أنتم بحسب السياق"
+          },
+          {
+            "term": "might",
+            "description": "قد أو ربما؛ تفيد الاحتمال"
+          },
+          {
+            "term": "sound",
+            "description": "تبدو في السمع"
+          },
+          {
+            "term": "like",
+            "description": "مثل أو كأن"
+          }
+        ]
+      },
+      {
+        "sentence": "you are saying a completely different word",
+        "ar": "أنك تقول كلمة مختلفة تمامًا",
+        "context": "هذا الجزء يصف الفعل الذي يبدو أنك تقوم به في تلك اللحظة.",
+        "grammar": {
+          "tense": "المضارع المستمر",
+          "tenseEn": "Present Continuous",
+          "reason": "are saying يصف فعل القول كما يُسمع أو يبدو في اللحظة المتخيلة."
+        },
+        "wordMeanings": [
+          {
+            "term": "you",
+            "description": "ضمير يعني أنت أو أنتم بحسب السياق"
+          },
+          {
+            "term": "are",
+            "description": "صيغة تدل على الحالة الحالية مع الجمع"
+          },
+          {
+            "term": "saying",
+            "description": "تقول أو تنطق"
+          },
+          {
+            "term": "a",
+            "description": "أداة تنكير قبل اسم مفرد"
+          },
+          {
+            "term": "completely",
+            "description": "تمامًا أو بشكل كامل"
+          },
+          {
+            "term": "different",
+            "description": "مختلف"
+          },
+          {
+            "term": "word",
+            "description": "كلمة"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Stop guessing the sound from the spelling.",
+        "ar": "توقف عن تخمين الصوت من التهجئة.",
+        "context": "نصيحة لتعلم النطق بدقة."
+      },
+      {
+        "id": 2,
+        "en": "English spelling can be confusing.",
+        "ar": "قد تكون التهجئة الإنجليزية مربكة.",
+        "context": "لشرح صعوبة الكتابة والنطق."
+      },
+      {
+        "id": 3,
+        "en": "If you learn it wrong, you will repeat it wrong.",
+        "ar": "إذا تعلمته خطأ، فسوف تكرره خطأ.",
+        "context": "للتحذير من تثبيت عادة خاطئة."
+      },
+      {
+        "id": 4,
+        "en": "You might say a different word.",
+        "ar": "قد تقول كلمة مختلفة.",
+        "context": "لشرح أثر خطأ النطق."
+      },
+      {
+        "id": 5,
+        "en": "Fix the sound before it becomes a habit.",
+        "ar": "صحح الصوت قبل أن يصبح عادة.",
+        "context": "نصيحة عند التدريب."
+      },
+      {
+        "id": 6,
+        "en": "Get the pronunciation right early.",
+        "ar": "اجعل النطق صحيحًا مبكرًا.",
+        "context": "للتشجيع على البداية الصحيحة."
+      },
+      {
+        "id": 7,
+        "en": "Learning a language means learning sounds too.",
+        "ar": "تعلم لغة يعني تعلم الأصوات أيضًا.",
+        "context": "لتوضيح أهمية النطق."
+      },
+      {
+        "id": 8,
+        "en": "Written English and spoken English can differ.",
+        "ar": "قد تختلف الإنجليزية المكتوبة والمنطوقة.",
+        "context": "لشرح الفرق بين النظامين."
+      },
+      {
+        "id": 9,
+        "en": "Let me show you the silent letter.",
+        "ar": "دعني أريك الحرف الصامت.",
+        "context": "عند تقديم مثال تعليمي."
+      },
+      {
+        "id": 10,
+        "en": "These are useful examples.",
+        "ar": "هذه أمثلة مفيدة.",
+        "context": "عند عرض نماذج للتعلم."
+      }
+    ]
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "id": 3,
+  "sentence": {
+    "en": "When you learn and feel like you are wasting your time...",
+    "ar": "عندما تتعلم وتشعر أنك تضيع وقتك...",
+    "context": "الإحساس بأن التعلم بلا جدوى أحيانًا."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "When you learn and feel like",
+        "ar": "عندما تتعلم وتشعر كأن",
+        "context": "يمهد لوصف شعور داخلي يظهر أثناء التعلم.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "learn وfeel يصفان حالة عامة قد تتكرر، وlike هنا تعني كأن قبل الجملة التالية."
+        },
+        "wordMeanings": [
+          {
+            "term": "When",
+            "description": "عندما؛ تقدم حالة أو وقتا."
+          },
+          {
+            "term": "you",
+            "description": "ضمير المخاطب؛ يخاطب المستمع."
+          },
+          {
+            "term": "learn",
+            "description": "تتعلم أو تكتسب معرفة."
+          },
+          {
+            "term": "and",
+            "description": "تربط بين فعل التعلم والشعور."
+          },
+          {
+            "term": "feel",
+            "description": "تشعر أو تحس."
+          },
+          {
+            "term": "like",
+            "description": "كأن أو كما لو أن."
+          }
+        ]
+      },
+      {
+        "sentence": "you are wasting your time...",
+        "ar": "أنك تضيع وقتك...",
+        "context": "يوضح الشعور السلبي بأن الجهد لا يعطي فائدة.",
+        "grammar": {
+          "tense": "المضارع المستمر",
+          "tenseEn": "Present Continuous",
+          "reason": "are wasting يصف إحساسا بأن الفعل يحدث الآن أو خلال فترة التعلم الحالية."
+        },
+        "wordMeanings": [
+          {
+            "term": "you",
+            "description": "ضمير المخاطب؛ الشخص الذي يشعر بذلك."
+          },
+          {
+            "term": "are",
+            "description": "تأتي مع you لتكوين فعل مستمر."
+          },
+          {
+            "term": "wasting",
+            "description": "تضيع أو تستخدم بلا فائدة."
+          },
+          {
+            "term": "your",
+            "description": "تدل على أن الوقت يخص المخاطب."
+          },
+          {
+            "term": "time",
+            "description": "الوقت أو الساعات التي يبذلها الشخص."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "When you study and feel tired, take a short break.",
+        "ar": "عندما تدرس وتشعر بالتعب، خذ استراحة قصيرة.",
+        "context": "نصيحة أثناء التعلم."
+      },
+      {
+        "id": 2,
+        "en": "When you feel like you are failing, ask for help.",
+        "ar": "عندما تشعر كأنك تفشل، اطلب المساعدة.",
+        "context": "تشجيع عند الإحباط."
+      },
+      {
+        "id": 3,
+        "en": "You are not wasting your time.",
+        "ar": "أنت لا تضيع وقتك.",
+        "context": "تطمين لشخص يتعلم."
+      },
+      {
+        "id": 4,
+        "en": "She feels like she is moving slowly.",
+        "ar": "تشعر كأنها تتحرك ببطء.",
+        "context": "وصف إحساس بطء التقدم."
+      },
+      {
+        "id": 5,
+        "en": "I feel like I am improving.",
+        "ar": "أشعر كأنني أتحسن.",
+        "context": "وصف إحساس إيجابي بالتقدم."
+      },
+      {
+        "id": 6,
+        "en": "When you learn a language, mistakes are normal.",
+        "ar": "عندما تتعلم لغة، الأخطاء طبيعية.",
+        "context": "تذكير لمتعلم لغة."
+      },
+      {
+        "id": 7,
+        "en": "He feels like he is wasting effort.",
+        "ar": "يشعر كأنه يضيع جهده.",
+        "context": "يقال عن شخص محبط."
+      },
+      {
+        "id": 8,
+        "en": "When you practice daily, progress comes later.",
+        "ar": "عندما تتدرب يوميا، يأتي التقدم لاحقا.",
+        "context": "تشجيع على الصبر."
+      },
+      {
+        "id": 9,
+        "en": "You are building skill with every lesson.",
+        "ar": "أنت تبني مهارة مع كل درس.",
+        "context": "تأكيد قيمة التعلم المستمر."
+      },
+      {
+        "id": 10,
+        "en": "When you feel stuck, review the basics.",
+        "ar": "عندما تشعر أنك عالق، راجع الأساسيات.",
+        "context": "نصيحة عند التوقف في التعلم."
+      }
+    ]
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "id": 9,
+  "sentence": {
+    "en": "Let me show you.",
+    "ar": "دعني أريك.",
+    "context": "تمهيد لعرض أمثلة واقعية."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Let me show you.",
+        "ar": "دعني أريك.",
+        "context": "تُستخدم للانتقال من الشرح إلى عرض مثال.",
+        "grammar": {
+          "tense": "صيغة طلب",
+          "tenseEn": "Imperative",
+          "reason": "Let في بداية الجملة يصنع طلبًا لطيفًا بالسماح للمتكلم أن يعرض شيئًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "Let",
+            "description": "دع أو اسمح"
+          },
+          {
+            "term": "me",
+            "description": "لي أو أنا كمفعول"
+          },
+          {
+            "term": "show",
+            "description": "أري أو أعرض"
+          },
+          {
+            "term": "you",
+            "description": "ضمير يعني أنت أو أنتم بحسب السياق"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Stop guessing the sound from the spelling.",
+        "ar": "توقف عن تخمين الصوت من التهجئة.",
+        "context": "نصيحة لتعلم النطق بدقة."
+      },
+      {
+        "id": 2,
+        "en": "English spelling can be confusing.",
+        "ar": "قد تكون التهجئة الإنجليزية مربكة.",
+        "context": "لشرح صعوبة الكتابة والنطق."
+      },
+      {
+        "id": 3,
+        "en": "If you learn it wrong, you will repeat it wrong.",
+        "ar": "إذا تعلمته خطأ، فسوف تكرره خطأ.",
+        "context": "للتحذير من تثبيت عادة خاطئة."
+      },
+      {
+        "id": 4,
+        "en": "You might say a different word.",
+        "ar": "قد تقول كلمة مختلفة.",
+        "context": "لشرح أثر خطأ النطق."
+      },
+      {
+        "id": 5,
+        "en": "Fix the sound before it becomes a habit.",
+        "ar": "صحح الصوت قبل أن يصبح عادة.",
+        "context": "نصيحة عند التدريب."
+      },
+      {
+        "id": 6,
+        "en": "Get the pronunciation right early.",
+        "ar": "اجعل النطق صحيحًا مبكرًا.",
+        "context": "للتشجيع على البداية الصحيحة."
+      },
+      {
+        "id": 7,
+        "en": "Learning a language means learning sounds too.",
+        "ar": "تعلم لغة يعني تعلم الأصوات أيضًا.",
+        "context": "لتوضيح أهمية النطق."
+      },
+      {
+        "id": 8,
+        "en": "Written English and spoken English can differ.",
+        "ar": "قد تختلف الإنجليزية المكتوبة والمنطوقة.",
+        "context": "لشرح الفرق بين النظامين."
+      },
+      {
+        "id": 9,
+        "en": "Let me show you the silent letter.",
+        "ar": "دعني أريك الحرف الصامت.",
+        "context": "عند تقديم مثال تعليمي."
+      },
+      {
+        "id": 10,
+        "en": "These are useful examples.",
+        "ar": "هذه أمثلة مفيدة.",
+        "context": "عند عرض نماذج للتعلم."
+      }
+    ]
+  }
+}

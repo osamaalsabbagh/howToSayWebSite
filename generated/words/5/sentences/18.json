@@ -1,0 +1,127 @@
+{
+  "schemaVersion": 1,
+  "id": 18,
+  "sentence": {
+    "en": "I am having pasta. What about you?",
+    "ar": "سأتناول المعكرونة. ماذا عنك؟",
+    "context": "حاضر مستمر يُستخدم هنا للتعبير عن خطة مؤكدة في المستقبل القريب (تناول الطعام)، وطرح سؤال عن اختيار الشخص الآخر"
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "I am having pasta.",
+        "ar": "سأتناول المعكرونة.",
+        "context": "تستخدم لإخبار الشخص الآخر باختيار الطعام المخطط له قريبا.",
+        "grammar": {
+          "tense": "المضارع المستمر",
+          "tenseEn": "Present Continuous",
+          "reason": "am having يستخدم هنا لخطة قريبة مؤكدة، وليس فقط لشيء يحدث في هذه اللحظة."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير المتكلم؛ الشخص الذي يختار الطعام."
+          },
+          {
+            "term": "am",
+            "description": "صيغة تأتي مع I لتكوين الفعل المستمر."
+          },
+          {
+            "term": "having",
+            "description": "يتناول أو سيأكل في سياق الطعام."
+          },
+          {
+            "term": "pasta",
+            "description": "معكرونة؛ نوع من الطعام."
+          }
+        ]
+      },
+      {
+        "sentence": "What about you?",
+        "ar": "ماذا عنك؟",
+        "context": "سؤال لطيف لمعرفة اختيار الشخص الآخر بعد ذكر اختيارك.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "What about تعبير ثابت للسؤال عن رأي أو اختيار شخص آخر، وليس جملة فعلية بزمن مستقل."
+        },
+        "wordMeanings": [
+          {
+            "term": "What",
+            "description": "تأتي هنا ضمن تعبير يعني ماذا عن."
+          },
+          {
+            "term": "about",
+            "description": "عن؛ تكمل التعبير للسؤال عن الشخص."
+          },
+          {
+            "term": "you",
+            "description": "ضمير المخاطب؛ الشخص المطلوب منه الإجابة."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I am having soup. What about you?",
+        "ar": "سأتناول الحساء. ماذا عنك؟",
+        "context": "يقال عند اختيار الطعام."
+      },
+      {
+        "id": 2,
+        "en": "I am having tea. What about you?",
+        "ar": "سأشرب الشاي. ماذا عنك؟",
+        "context": "يستخدم عند طلب المشروبات."
+      },
+      {
+        "id": 3,
+        "en": "She is having salad for lunch.",
+        "ar": "ستتناول السلطة على الغداء.",
+        "context": "يقال عن خطة طعام قريبة."
+      },
+      {
+        "id": 4,
+        "en": "We are having dinner at eight.",
+        "ar": "سنتناول العشاء في الثامنة.",
+        "context": "يستخدم لخطة مؤكدة بوقت محدد."
+      },
+      {
+        "id": 5,
+        "en": "I am having coffee before work.",
+        "ar": "سأشرب القهوة قبل العمل.",
+        "context": "يقال عن خطة قريبة."
+      },
+      {
+        "id": 6,
+        "en": "What about your order?",
+        "ar": "ماذا عن طلبك؟",
+        "context": "سؤال عن اختيار شخص في مطعم."
+      },
+      {
+        "id": 7,
+        "en": "I am having rice today.",
+        "ar": "سأتناول الأرز اليوم.",
+        "context": "يستخدم لذكر وجبة مخطط لها."
+      },
+      {
+        "id": 8,
+        "en": "They are having pizza tonight.",
+        "ar": "سيتناولون البيتزا الليلة.",
+        "context": "يقال عن خطة طعام جماعية."
+      },
+      {
+        "id": 9,
+        "en": "I am having a sandwich.",
+        "ar": "سأتناول شطيرة.",
+        "context": "يستخدم في اختيار وجبة بسيطة."
+      },
+      {
+        "id": 10,
+        "en": "What about you after lunch?",
+        "ar": "ماذا عنك بعد الغداء؟",
+        "context": "سؤال عن خطة الشخص الآخر."
+      }
+    ]
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "id": 1,
+  "sentence": {
+    "en": "Your results are excellent!",
+    "ar": "نتائجك ممتازة!",
+    "context": "مدح أداء الطالب."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Your results are excellent!",
+        "ar": "نتائجك ممتازة.",
+        "context": "تُستخدم لمدح أداء طالب بعد ظهور النتائج.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "are يصف حالة النتائج الحالية، والجملة تعطي حكمًا مباشرًا بالإيجابية."
+        },
+        "wordMeanings": [
+          {
+            "term": "Your",
+            "description": "الخاص بك أو نتائجك بحسب السياق"
+          },
+          {
+            "term": "results",
+            "description": "نتائج"
+          },
+          {
+            "term": "are",
+            "description": "صيغة تدل على وجود أو حالة مع الجمع"
+          },
+          {
+            "term": "excellent",
+            "description": "ممتازة"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Your score is excellent.",
+        "ar": "درجتك ممتازة.",
+        "context": "عند مدح نتيجة طالب."
+      },
+      {
+        "id": 2,
+        "en": "Please check the website later.",
+        "ar": "يرجى التحقق من الموقع لاحقًا.",
+        "context": "عندما لا تكون المعلومة متاحة الآن."
+      },
+      {
+        "id": 3,
+        "en": "Do you want help with your results?",
+        "ar": "هل تريد مساعدة في نتائجك؟",
+        "context": "لعرض المساعدة على طالب."
+      },
+      {
+        "id": 4,
+        "en": "The results will be posted soon.",
+        "ar": "سيتم نشر النتائج قريبًا.",
+        "context": "للإخبار عن إعلان قريب."
+      },
+      {
+        "id": 5,
+        "en": "She is waiting for her final results.",
+        "ar": "هي تنتظر نتائجها النهائية.",
+        "context": "لوصف ترقب شخص للنتيجة."
+      },
+      {
+        "id": 6,
+        "en": "I checked my results online.",
+        "ar": "تحققت من نتائجي عبر الإنترنت.",
+        "context": "للحديث عن استخدام موقع إلكتروني."
+      },
+      {
+        "id": 7,
+        "en": "The school results are out.",
+        "ar": "نتائج المدرسة صدرت.",
+        "context": "لإبلاغ شخص بتوفر النتائج."
+      },
+      {
+        "id": 8,
+        "en": "Did you see your exam results?",
+        "ar": "هل رأيت نتائج امتحانك؟",
+        "context": "للسؤال عن الاطلاع على النتائج."
+      },
+      {
+        "id": 9,
+        "en": "I am looking for the results page.",
+        "ar": "أبحث عن صفحة النتائج.",
+        "context": "عند البحث داخل موقع."
+      },
+      {
+        "id": 10,
+        "en": "The graduation results are available now.",
+        "ar": "نتائج التخرج متاحة الآن.",
+        "context": "للإعلان عن توفر النتائج."
+      }
+    ]
+  }
+}

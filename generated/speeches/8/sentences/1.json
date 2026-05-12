@@ -1,0 +1,135 @@
+{
+  "schemaVersion": 1,
+  "id": 1,
+  "sentence": {
+    "en": "Do you feel nervous when you speak English slowly?",
+    "ar": "هل تشعر بالتوتر عندما تتحدث الإنجليزية ببطء؟",
+    "context": "سؤال عن الإحساس بالتوتر أثناء التحدث ببطء باللغة الإنجليزية."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Do you feel nervous",
+        "ar": "هل تشعر بالتوتر",
+        "context": "هذا الجزء يسأل عن شعور الشخص الحالي أو المعتاد.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "Do يبدأ سؤالًا في المضارع البسيط عن شعور عام أو متكرر."
+        },
+        "wordMeanings": [
+          {
+            "term": "Do",
+            "description": "أداة تُستخدم لصنع سؤال في المضارع أو نفي في الأمر"
+          },
+          {
+            "term": "you",
+            "description": "أنت أو إياك بحسب موقعها"
+          },
+          {
+            "term": "feel",
+            "description": "تشعر"
+          },
+          {
+            "term": "nervous",
+            "description": "متوتر أو قلق"
+          }
+        ]
+      },
+      {
+        "sentence": "when you speak English slowly",
+        "ar": "عندما تتحدث الإنجليزية ببطء",
+        "context": "هذا الجزء يحدد الموقف الذي يحدث فيه الشعور.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "speak في المضارع البسيط لأن الجملة تتحدث عن موقف عام يتكرر عند الكلام."
+        },
+        "wordMeanings": [
+          {
+            "term": "when",
+            "description": "عندما أو حين"
+          },
+          {
+            "term": "you",
+            "description": "أنت أو إياك بحسب موقعها"
+          },
+          {
+            "term": "speak",
+            "description": "تتحدث"
+          },
+          {
+            "term": "English",
+            "description": "الإنجليزية"
+          },
+          {
+            "term": "slowly",
+            "description": "ببطء"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I speak slowly when I explain ideas.",
+        "ar": "أتحدث ببطء عندما أشرح الأفكار.",
+        "context": "للتعبير عن وضوح مقصود في الكلام."
+      },
+      {
+        "id": 2,
+        "en": "She pauses before important words.",
+        "ar": "هي تتوقف قليلًا قبل الكلمات المهمة.",
+        "context": "لوصف متحدثة تختار كلماتها بعناية."
+      },
+      {
+        "id": 3,
+        "en": "Slow speech can sound confident.",
+        "ar": "قد يبدو الكلام البطيء واثقًا.",
+        "context": "لتصحيح فكرة أن البطء ضعف."
+      },
+      {
+        "id": 4,
+        "en": "The speaker made his message clear.",
+        "ar": "جعل المتحدث رسالته واضحة.",
+        "context": "لوصف أثر الكلام المنظم."
+      },
+      {
+        "id": 5,
+        "en": "People need time to understand ideas.",
+        "ar": "يحتاج الناس وقتًا لفهم الأفكار.",
+        "context": "لتوضيح حاجة المستمع إلى وقت."
+      },
+      {
+        "id": 6,
+        "en": "Clear words help the audience listen.",
+        "ar": "تساعد الكلمات الواضحة الجمهور على الاستماع.",
+        "context": "عند شرح فائدة الوضوح."
+      },
+      {
+        "id": 7,
+        "en": "Do you feel calm when you speak slowly?",
+        "ar": "هل تشعر بالهدوء عندما تتحدث ببطء؟",
+        "context": "للسؤال عن شعور أثناء الكلام."
+      },
+      {
+        "id": 8,
+        "en": "Wise leaders often speak with control.",
+        "ar": "القادة الحكماء غالبًا يتحدثون بتحكم.",
+        "context": "لوصف أسلوب خطاب متزن."
+      },
+      {
+        "id": 9,
+        "en": "This does not make you weak.",
+        "ar": "هذا لا يجعلك ضعيفًا.",
+        "context": "لطمأنة شخص يظن البطء عيبًا."
+      },
+      {
+        "id": 10,
+        "en": "Your message becomes stronger with clarity.",
+        "ar": "تصبح رسالتك أقوى مع الوضوح.",
+        "context": "لربط قوة الرسالة بالوضوح."
+      }
+    ]
+  }
+}
