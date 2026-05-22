@@ -1,0 +1,115 @@
+{
+  "schemaVersion": 1,
+  "id": 2,
+  "sentence": {
+    "en": "Are you going to the concert tonight?",
+    "ar": "هل أنت ذاهبة إلى الحفل الليلة؟",
+    "context": "تسألها عن حضور حفل موسيقي."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Are you going to the concert tonight?",
+        "ar": "هل أنت ذاهبة إلى الحفل الليلة؟",
+        "context": "السؤال يستفسر عن خطة قريبة في هذه الليلة.",
+        "grammar": {
+          "tense": "المضارع المستمر",
+          "tenseEn": "Present Continuous",
+          "reason": "صيغة are going تستخدم هنا للترتيب أو الخطة القريبة، وليس فقط للحركة الجسدية."
+        },
+        "wordMeanings": [
+          {
+            "term": "Are",
+            "description": "صيغة سؤال تأتي مع المخاطب في هذا التركيب"
+          },
+          {
+            "term": "you",
+            "description": "ضمير المخاطب ويعني أنت أو أنتم حسب السياق"
+          },
+          {
+            "term": "going",
+            "description": "تعني ذاهب وتدل هنا على خطة للحضور"
+          },
+          {
+            "term": "to",
+            "description": "تعني إلى وتربط الذهاب بالمكان أو الحدث"
+          },
+          {
+            "term": "the",
+            "description": "تحدد الحفل لأنه معروف أو مقصود"
+          },
+          {
+            "term": "concert",
+            "description": "تعني حفل موسيقي"
+          },
+          {
+            "term": "tonight",
+            "description": "تعني هذه الليلة"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Are you going to the meeting today?",
+        "ar": "هل أنت ذاهب إلى الاجتماع اليوم؟",
+        "context": "تسأل عن خطة في نفس اليوم."
+      },
+      {
+        "id": 2,
+        "en": "Are you going to the party tonight?",
+        "ar": "هل أنت ذاهب إلى الحفلة الليلة؟",
+        "context": "تسأل عن حضور فعالية قريبة."
+      },
+      {
+        "id": 3,
+        "en": "Are you going to the market now?",
+        "ar": "هل أنت ذاهب إلى السوق الآن؟",
+        "context": "تسأل عن حركة أو خطة حالية."
+      },
+      {
+        "id": 4,
+        "en": "Are you going to the office tomorrow?",
+        "ar": "هل أنت ذاهب إلى المكتب غدا؟",
+        "context": "تسأل عن ترتيب قريب للعمل."
+      },
+      {
+        "id": 5,
+        "en": "Are you going to the bank later?",
+        "ar": "هل أنت ذاهب إلى البنك لاحقا؟",
+        "context": "تسأل عن خطة في وقت لاحق."
+      },
+      {
+        "id": 6,
+        "en": "Are you going to the class this morning?",
+        "ar": "هل أنت ذاهب إلى الحصة هذا الصباح؟",
+        "context": "تستفسر عن حضور درس."
+      },
+      {
+        "id": 7,
+        "en": "Are you going to the game tonight?",
+        "ar": "هل أنت ذاهب إلى المباراة الليلة؟",
+        "context": "تسأل عن حضور مباراة."
+      },
+      {
+        "id": 8,
+        "en": "Are you going to the shop after work?",
+        "ar": "هل أنت ذاهب إلى المتجر بعد العمل؟",
+        "context": "تسأل عن ترتيب بعد الدوام."
+      },
+      {
+        "id": 9,
+        "en": "Are you going to the airport soon?",
+        "ar": "هل أنت ذاهب إلى المطار قريبا؟",
+        "context": "تسأل عن خطة سفر قريبة."
+      },
+      {
+        "id": 10,
+        "en": "Are you going to the doctor today?",
+        "ar": "هل أنت ذاهب إلى الطبيب اليوم؟",
+        "context": "تستفسر عن موعد طبي."
+      }
+    ]
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "schemaVersion": 1,
+  "id": 6,
+  "sentence": {
+    "en": "I will explain it to you.",
+    "ar": "سأشرحها لك.",
+    "context": "يطمئنه بأنه سيفهم لاحقًا."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "I will explain it to you.",
+        "ar": "سأشرح ذلك لك.",
+        "context": "يطمئن الأب ابنه بأنه سيقدم له التفسير بعد قليل.",
+        "grammar": {
+          "tense": "المستقبل البسيط",
+          "tenseEn": "Future Simple",
+          "reason": "استُخدم will للتعبير عن فعل سيحدث لاحقًا، وهو شرح الأمر للمخاطب."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير للمتكلم المفرد ويعني أنا"
+          },
+          {
+            "term": "will",
+            "description": "كلمة تدل على المستقبل أو نية فعل شيء لاحقًا"
+          },
+          {
+            "term": "explain",
+            "description": "أشرح أو أوضح"
+          },
+          {
+            "term": "it",
+            "description": "ذلك الشيء أو الأمر المذكور"
+          },
+          {
+            "term": "to",
+            "description": "إلى أو لـ، لتحديد من يتلقى الشرح"
+          },
+          {
+            "term": "you",
+            "description": "أنت أو لك حسب السياق"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I will call you tomorrow.",
+        "ar": "سأتصل بك غدًا.",
+        "context": "تُقال عند الوعد باتصال لاحق."
+      },
+      {
+        "id": 2,
+        "en": "I will explain the rule.",
+        "ar": "سأشرح القاعدة.",
+        "context": "تُستخدم عند تقديم درس أو توضيح."
+      },
+      {
+        "id": 3,
+        "en": "She will help you.",
+        "ar": "هي ستساعدك.",
+        "context": "تُقال لطمأنة شخص."
+      },
+      {
+        "id": 4,
+        "en": "We will bring the boxes.",
+        "ar": "سنحضر الصناديق.",
+        "context": "تُستخدم عند الوعد بفعل قريب."
+      },
+      {
+        "id": 5,
+        "en": "He will explain it later.",
+        "ar": "هو سيشرح ذلك لاحقًا.",
+        "context": "تُقال عندما يتأجل التفسير."
+      },
+      {
+        "id": 6,
+        "en": "I will show it to you.",
+        "ar": "سأريك ذلك.",
+        "context": "تُستخدم عند الوعد بعرض شيء."
+      },
+      {
+        "id": 7,
+        "en": "They will answer the question.",
+        "ar": "سيجيبون عن السؤال.",
+        "context": "تُقال عن رد متوقع لاحقًا."
+      },
+      {
+        "id": 8,
+        "en": "I will tell you the reason.",
+        "ar": "سأخبرك بالسبب.",
+        "context": "تُستخدم عند وعد شخص بتفسير."
+      },
+      {
+        "id": 9,
+        "en": "You will understand soon.",
+        "ar": "ستفهم قريبًا.",
+        "context": "تُقال لطمأنة شخص مرتبك."
+      },
+      {
+        "id": 10,
+        "en": "I will explain this example.",
+        "ar": "سأشرح هذا المثال.",
+        "context": "تُستخدم في موقف تعليمي."
+      }
+    ]
+  }
+}

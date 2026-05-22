@@ -1,0 +1,123 @@
+{
+  "schemaVersion": 1,
+  "id": 2,
+  "sentence": {
+    "en": "Okay, but I need to take a bath first.",
+    "ar": "حسنًا، لكنني بحاجة إلى أن أستحم أولا.",
+    "context": "يوافق على الحديث ويذكر أنه سيستحم في الحوض بالماء، وليس مجرد دوش عادي."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Okay, but I need to take a bath first.",
+        "ar": "حسنا، لكنني أحتاج أن آخذ حماما أولا.",
+        "context": "يقبل الحديث لكنه يؤجل ذلك حتى ينتهي من الاستحمام.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استخدم need للتعبير عن حاجة حالية، وbut يربط الموافقة بشرط أو تأجيل."
+        },
+        "wordMeanings": [
+          {
+            "term": "Okay",
+            "description": "حسنا أو موافق"
+          },
+          {
+            "term": "but",
+            "description": "لكن"
+          },
+          {
+            "term": "I",
+            "description": "أنا"
+          },
+          {
+            "term": "need",
+            "description": "أحتاج"
+          },
+          {
+            "term": "to",
+            "description": "تأتي قبل الفعل لتوضيح الحاجة"
+          },
+          {
+            "term": "take",
+            "description": "آخذ، وداخل التعبير تعني أقوم بحمام"
+          },
+          {
+            "term": "a",
+            "description": "أداة تنكير قبل اسم مفرد"
+          },
+          {
+            "term": "bath",
+            "description": "حمام في حوض الماء"
+          },
+          {
+            "term": "first",
+            "description": "أولا، قبل شيء آخر"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Okay, but I need to eat first.",
+        "ar": "حسنا، لكنني أحتاج أن آكل أولا.",
+        "context": "موافقة مع طلب فعل شيء قبلها."
+      },
+      {
+        "id": 2,
+        "en": "I need to take a shower first.",
+        "ar": "أحتاج أن آخذ دوشا أولا.",
+        "context": "تأجيل الخطة بسبب الاستحمام."
+      },
+      {
+        "id": 3,
+        "en": "Okay, but I need to call my mother.",
+        "ar": "حسنا، لكنني أحتاج أن أتصل بأمي.",
+        "context": "قبول مع ذكر مهمة عاجلة."
+      },
+      {
+        "id": 4,
+        "en": "I need to take a short break first.",
+        "ar": "أحتاج أن آخذ استراحة قصيرة أولا.",
+        "context": "طلب استراحة قبل المتابعة."
+      },
+      {
+        "id": 5,
+        "en": "Okay, but I need to finish this.",
+        "ar": "حسنا، لكنني أحتاج أن أنهي هذا.",
+        "context": "تأجيل الحديث أو الحركة حتى انتهاء مهمة."
+      },
+      {
+        "id": 6,
+        "en": "He needs to take a bath tonight.",
+        "ar": "هو يحتاج أن يأخذ حماما الليلة.",
+        "context": "وصف حاجة شخص للاستحمام."
+      },
+      {
+        "id": 7,
+        "en": "Okay, but we need to leave soon.",
+        "ar": "حسنا، لكننا نحتاج أن نغادر قريبا.",
+        "context": "موافقة مع تنبيه للوقت."
+      },
+      {
+        "id": 8,
+        "en": "I need to clean the bathroom first.",
+        "ar": "أحتاج أن أنظف الحمام أولا.",
+        "context": "ترتيب مهمة قبل استخدام المكان."
+      },
+      {
+        "id": 9,
+        "en": "Okay, but she needs to rest first.",
+        "ar": "حسنا، لكنها تحتاج أن ترتاح أولا.",
+        "context": "تقديم راحة شخص على خطة أخرى."
+      },
+      {
+        "id": 10,
+        "en": "I need to take my medicine first.",
+        "ar": "أحتاج أن آخذ دوائي أولا.",
+        "context": "ذكر أولوية صحية قبل المتابعة."
+      }
+    ]
+  }
+}

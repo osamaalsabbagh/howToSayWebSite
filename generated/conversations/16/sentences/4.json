@@ -1,0 +1,167 @@
+{
+  "schemaVersion": 1,
+  "id": 4,
+  "sentence": {
+    "en": "Of course! But please do not run. You always run ahead and get lost.",
+    "ar": "بالطبع! لكن من فضلك لا تركض. أنت دائمًا تركض للأمام وتضيع.",
+    "context": "الأب يحذره من تصرف يكرره باستمرار أثناء الرحلات"
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Of course!",
+        "ar": "بالطبع!",
+        "context": "جواب موافقة سريع على طلب الطفل.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه عبارة ثابتة للموافقة ولا تحمل زمنًا مستقلًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "Of",
+            "description": "من أو في تعبير ثابت حسب السياق."
+          },
+          {
+            "term": "course",
+            "description": "تأتي مع of course بمعنى بالطبع."
+          }
+        ]
+      },
+      {
+        "sentence": "But please do not run.",
+        "ar": "لكن من فضلك لا تركض.",
+        "context": "ينبه الأب الطفل إلى عدم الركض. ",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "do not run صيغة نهي مباشرة، لذلك لا تحمل زمنًا مستقلًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "But",
+            "description": "لكن."
+          },
+          {
+            "term": "please",
+            "description": "من فضلك."
+          },
+          {
+            "term": "do",
+            "description": "فعل مساعد للنهي أو السؤال."
+          },
+          {
+            "term": "not",
+            "description": "أداة نفي."
+          },
+          {
+            "term": "run",
+            "description": "تركض."
+          }
+        ]
+      },
+      {
+        "sentence": "You always run ahead and get lost.",
+        "ar": "أنت دائمًا تركض للأمام وتضيع.",
+        "context": "يشرح الأب سبب التحذير بأنه سلوك متكرر.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استعمل run وget في المضارع البسيط مع always لوصف عادة متكررة."
+        },
+        "wordMeanings": [
+          {
+            "term": "You",
+            "description": "ضمير المخاطب."
+          },
+          {
+            "term": "always",
+            "description": "دائمًا."
+          },
+          {
+            "term": "run",
+            "description": "تركض."
+          },
+          {
+            "term": "ahead",
+            "description": "إلى الأمام."
+          },
+          {
+            "term": "and",
+            "description": "تربط بين كلمات أو أفكار."
+          },
+          {
+            "term": "get",
+            "description": "تصبح أو تحصل حسب السياق."
+          },
+          {
+            "term": "lost",
+            "description": "تائه أو ضائع."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Please do not run ahead.",
+        "ar": "من فضلك لا تركض إلى الأمام.",
+        "context": "تحذير طفل من الابتعاد."
+      },
+      {
+        "id": 2,
+        "en": "I am angry now.",
+        "ar": "أنا غاضب الآن.",
+        "context": "تعبير مباشر عن الغضب الحالي."
+      },
+      {
+        "id": 3,
+        "en": "Yelling will not help.",
+        "ar": "الصراخ لن يساعد.",
+        "context": "نصيحة عند التعامل مع مشكلة."
+      },
+      {
+        "id": 4,
+        "en": "I will be calm.",
+        "ar": "سأكون هادئًا.",
+        "context": "قرار بالهدوء بعد الانزعاج."
+      },
+      {
+        "id": 5,
+        "en": "Let us get some water.",
+        "ar": "دعنا نحضر بعض الماء.",
+        "context": "اقتراح بعد التعب أو المشي."
+      },
+      {
+        "id": 6,
+        "en": "Then we will go to the elephant area.",
+        "ar": "ثم سنذهب إلى منطقة الفيلة.",
+        "context": "ترتيب خطة الزيارة."
+      },
+      {
+        "id": 7,
+        "en": "He was wrong, but stay calm.",
+        "ar": "كان مخطئًا، لكن ابق هادئًا.",
+        "context": "اعتراف بالخطأ مع نصيحة بالهدوء."
+      },
+      {
+        "id": 8,
+        "en": "I still want to see the lions.",
+        "ar": "ما زلت أريد رؤية الأسود.",
+        "context": "تعبير عن رغبة مستمرة."
+      },
+      {
+        "id": 9,
+        "en": "Do not get lost in the crowd.",
+        "ar": "لا تضع في الزحام.",
+        "context": "تحذير من الابتعاد في مكان مزدحم."
+      },
+      {
+        "id": 10,
+        "en": "We will go after ice cream.",
+        "ar": "سنذهب بعد البوظة.",
+        "context": "تحديد ترتيب الأحداث."
+      }
+    ]
+  }
+}

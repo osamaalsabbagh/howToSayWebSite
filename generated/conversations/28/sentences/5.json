@@ -1,0 +1,159 @@
+{
+  "schemaVersion": 1,
+  "id": 5,
+  "sentence": {
+    "en": "I did not know there was a path to climb here from behind the cliff.",
+    "ar": "لم أكن أعلم أن هناك طريقًا للصعود إلى هنا من خلف الجرف.",
+    "context": "يوضح اكتشاف طريق خلفي يؤدي إلى القمة من خلف المنحدر الصخري."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "I did not know",
+        "ar": "لم أكن أعلم",
+        "context": "تبدأ الجملة ببيان أن المعلومة كانت غير معروفة سابقًا.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "did not know ينفي المعرفة في الماضي قبل اكتشاف الطريق."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "المتكلم نفسه"
+          },
+          {
+            "term": "did",
+            "description": "تستعمل مع not لنفي فعل في الماضي"
+          },
+          {
+            "term": "not",
+            "description": "أداة نفي"
+          },
+          {
+            "term": "know",
+            "description": "أعرف أو أعلم"
+          }
+        ]
+      },
+      {
+        "sentence": "there was a path to climb here from behind the cliff.",
+        "ar": "أن هناك طريقًا للصعود إلى هنا من خلف الجرف.",
+        "context": "توضح المعلومة التي اكتشفها المتكلم عن طريق الوصول.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "was يستعمل هنا داخل ما لم يكن يعرفه المتكلم في الماضي، مع أن الطريق موجود."
+        },
+        "wordMeanings": [
+          {
+            "term": "there",
+            "description": "تستعمل للدلالة على وجود شيء"
+          },
+          {
+            "term": "was",
+            "description": "كان أو يوجد في سياق الماضي"
+          },
+          {
+            "term": "a",
+            "description": "واحد غير محدد"
+          },
+          {
+            "term": "path",
+            "description": "طريق أو ممر"
+          },
+          {
+            "term": "to",
+            "description": "توضح الغرض من الطريق"
+          },
+          {
+            "term": "climb",
+            "description": "الصعود أو التسلق"
+          },
+          {
+            "term": "here",
+            "description": "إلى هذا المكان"
+          },
+          {
+            "term": "from",
+            "description": "من جهة"
+          },
+          {
+            "term": "behind",
+            "description": "خلف"
+          },
+          {
+            "term": "the",
+            "description": "تحدد الجرف المعروف"
+          },
+          {
+            "term": "cliff",
+            "description": "جرف أو منحدر صخري مرتفع"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I did not know there was a path here.",
+        "ar": "لم أكن أعلم أن هناك طريقًا هنا.",
+        "context": "تقال عند اكتشاف طريق جديد."
+      },
+      {
+        "id": 2,
+        "en": "I did not know we could climb from behind.",
+        "ar": "لم أكن أعلم أننا نستطيع الصعود من الخلف.",
+        "context": "تقال عند اكتشاف طريقة وصول."
+      },
+      {
+        "id": 3,
+        "en": "There was a small path behind the hill.",
+        "ar": "كان هناك طريق صغير خلف التل.",
+        "context": "تقال عند وصف طريق مخفي."
+      },
+      {
+        "id": 4,
+        "en": "I did not know the cliff was so high.",
+        "ar": "لم أكن أعلم أن الجرف كان عاليًا جدًا.",
+        "context": "تقال عند المفاجأة بارتفاع مكان."
+      },
+      {
+        "id": 5,
+        "en": "There is a path to climb the rock.",
+        "ar": "هناك طريق لصعود الصخرة.",
+        "context": "تقال عند توضيح طريقة الوصول."
+      },
+      {
+        "id": 6,
+        "en": "I did not know this place was so beautiful.",
+        "ar": "لم أكن أعلم أن هذا المكان جميل جدًا.",
+        "context": "تقال عند الإعجاب المفاجئ بمكان."
+      },
+      {
+        "id": 7,
+        "en": "We found a path behind the cliff.",
+        "ar": "وجدنا طريقًا خلف الجرف.",
+        "context": "تقال عند اكتشاف ممر خلفي."
+      },
+      {
+        "id": 8,
+        "en": "I did not know there was water below.",
+        "ar": "لم أكن أعلم أن هناك ماء في الأسفل.",
+        "context": "تقال عند اكتشاف شيء أسفل مكان مرتفع."
+      },
+      {
+        "id": 9,
+        "en": "There was a way to reach the top.",
+        "ar": "كان هناك طريق للوصول إلى القمة.",
+        "context": "تقال عند وصف طريق إلى مكان عال."
+      },
+      {
+        "id": 10,
+        "en": "I did not know we could come here.",
+        "ar": "لم أكن أعلم أننا نستطيع القدوم إلى هنا.",
+        "context": "تقال عند اكتشاف إمكانية زيارة مكان."
+      }
+    ]
+  }
+}

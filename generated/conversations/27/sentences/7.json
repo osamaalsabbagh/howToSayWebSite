@@ -1,0 +1,175 @@
+{
+  "schemaVersion": 1,
+  "id": 7,
+  "sentence": {
+    "en": "Not exactly. My father asked for a discount on his bill since he bought two bikes.",
+    "ar": "ليس بالضبط. والدي طلب خصمًا على فاتورته لأنه اشترى دراجتين.",
+    "context": "يوضح أن المبلغ النهائي أقل من التقدير لأن الأب طلب تخفيضًا."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Not exactly.",
+        "ar": "ليس بالضبط.",
+        "context": "تستعمل لتصحيح تقدير سابق دون نفيه بالكامل.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه عبارة رد مختصرة بلا فعل ظاهر مستقل."
+        },
+        "wordMeanings": [
+          {
+            "term": "Not",
+            "description": "تدل على النفي"
+          },
+          {
+            "term": "exactly",
+            "description": "بدقة أو تمامًا"
+          }
+        ]
+      },
+      {
+        "sentence": "My father asked for a discount on his bill",
+        "ar": "طلب والدي خصمًا على فاتورته",
+        "context": "تشرح ما فعله الأب لتقليل السعر.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "asked يدل على فعل مكتمل في الماضي أثناء الشراء."
+        },
+        "wordMeanings": [
+          {
+            "term": "My",
+            "description": "خاص بي"
+          },
+          {
+            "term": "father",
+            "description": "الأب"
+          },
+          {
+            "term": "asked",
+            "description": "طلب في الماضي"
+          },
+          {
+            "term": "for",
+            "description": "تأتي بعد asked بمعنى طلب الحصول على"
+          },
+          {
+            "term": "a",
+            "description": "واحد غير محدد"
+          },
+          {
+            "term": "discount",
+            "description": "خصم أو تخفيض في السعر"
+          },
+          {
+            "term": "on",
+            "description": "على أو متعلق بـ"
+          },
+          {
+            "term": "his",
+            "description": "خاص به"
+          },
+          {
+            "term": "bill",
+            "description": "فاتورته أو المبلغ المطلوب"
+          }
+        ]
+      },
+      {
+        "sentence": "since he bought two bikes.",
+        "ar": "لأنه اشترى دراجتين.",
+        "context": "تعطي سبب طلب الخصم وهو شراء أكثر من دراجة.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "bought يدل على شراء مكتمل في الماضي."
+        },
+        "wordMeanings": [
+          {
+            "term": "since",
+            "description": "لأن أو بما أن"
+          },
+          {
+            "term": "he",
+            "description": "هو، أي الأب"
+          },
+          {
+            "term": "bought",
+            "description": "اشترى"
+          },
+          {
+            "term": "two",
+            "description": "اثنتين"
+          },
+          {
+            "term": "bikes",
+            "description": "دراجات هوائية"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Not exactly. We got a discount.",
+        "ar": "ليس بالضبط. حصلنا على خصم.",
+        "context": "تقال عند تصحيح مبلغ متوقع."
+      },
+      {
+        "id": 2,
+        "en": "My father asked for a lower price.",
+        "ar": "طلب والدي سعرًا أقل.",
+        "context": "تقال عند الحديث عن المساومة."
+      },
+      {
+        "id": 3,
+        "en": "She asked for a discount on her bill.",
+        "ar": "طلبت خصمًا على فاتورتها.",
+        "context": "تقال عند تخفيض فاتورة."
+      },
+      {
+        "id": 4,
+        "en": "He bought two bikes yesterday.",
+        "ar": "اشترى دراجتين أمس.",
+        "context": "تقال عند ذكر عدد ما اشتراه شخص."
+      },
+      {
+        "id": 5,
+        "en": "We got a discount since we bought two bags.",
+        "ar": "حصلنا على خصم لأننا اشترينا حقيبتين.",
+        "context": "تقال عند تفسير سبب الخصم."
+      },
+      {
+        "id": 6,
+        "en": "Not exactly. The final price was lower.",
+        "ar": "ليس بالضبط. كان السعر النهائي أقل.",
+        "context": "تقال عند وجود فرق عن التقدير."
+      },
+      {
+        "id": 7,
+        "en": "My mother asked for a discount.",
+        "ar": "طلبت أمي خصمًا.",
+        "context": "تقال عند وصف تفاوض في الشراء."
+      },
+      {
+        "id": 8,
+        "en": "He asked for help since the bike was heavy.",
+        "ar": "طلب المساعدة لأن الدراجة كانت ثقيلة.",
+        "context": "تقال عند بيان سبب الطلب."
+      },
+      {
+        "id": 9,
+        "en": "The seller gave us a discount on the bill.",
+        "ar": "أعطانا البائع خصمًا على الفاتورة.",
+        "context": "تقال عند نجاح المساومة."
+      },
+      {
+        "id": 10,
+        "en": "We bought two bikes and paid less.",
+        "ar": "اشترينا دراجتين ودفعنا أقل.",
+        "context": "تقال عند تلخيص نتيجة الخصم."
+      }
+    ]
+  }
+}

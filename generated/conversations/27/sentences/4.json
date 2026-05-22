@@ -1,0 +1,119 @@
+{
+  "schemaVersion": 1,
+  "id": 4,
+  "sentence": {
+    "en": "What is the average price of bikes there?",
+    "ar": "كم السعر المتوسط للدراجات هناك؟",
+    "context": "يسأل عن متوسط سعر الدراجات."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "What is the average price of bikes there?",
+        "ar": "ما متوسط سعر الدراجات هناك؟",
+        "context": "تسأل الجملة عن السعر المعتاد أو التقريبي للدراجات في ذلك السوق.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "is يسأل عن معلومة عامة أو حالية عن السعر."
+        },
+        "wordMeanings": [
+          {
+            "term": "What",
+            "description": "ما أو كم هنا للسؤال عن المعلومة"
+          },
+          {
+            "term": "is",
+            "description": "تربط السؤال بالمعلومة المطلوبة"
+          },
+          {
+            "term": "the",
+            "description": "تحدد متوسطًا معروف النوع"
+          },
+          {
+            "term": "average",
+            "description": "متوسط أو القيمة بين الأعلى والأدنى"
+          },
+          {
+            "term": "price",
+            "description": "سعر"
+          },
+          {
+            "term": "of",
+            "description": "تربط السعر بالدراجات"
+          },
+          {
+            "term": "bikes",
+            "description": "دراجات هوائية"
+          },
+          {
+            "term": "there",
+            "description": "في ذلك المكان"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "What is the average price of cars there?",
+        "ar": "ما متوسط سعر السيارات هناك؟",
+        "context": "تقال عند السؤال عن أسعار سوق سيارات."
+      },
+      {
+        "id": 2,
+        "en": "What is the price of this bike?",
+        "ar": "ما سعر هذه الدراجة؟",
+        "context": "تقال عند السؤال عن دراجة محددة."
+      },
+      {
+        "id": 3,
+        "en": "What is the average cost of a helmet?",
+        "ar": "ما متوسط تكلفة الخوذة؟",
+        "context": "تقال عند تقدير تكلفة شراء."
+      },
+      {
+        "id": 4,
+        "en": "How much are bikes there?",
+        "ar": "كم سعر الدراجات هناك؟",
+        "context": "تقال بصيغة أبسط للسؤال عن السعر."
+      },
+      {
+        "id": 5,
+        "en": "What is the average price in this shop?",
+        "ar": "ما متوسط السعر في هذا المتجر؟",
+        "context": "تقال عند مقارنة متجر بغيره."
+      },
+      {
+        "id": 6,
+        "en": "What is the average price of tickets?",
+        "ar": "ما متوسط سعر التذاكر؟",
+        "context": "تقال عند التخطيط لشراء تذاكر."
+      },
+      {
+        "id": 7,
+        "en": "The average price is about 200 dollars.",
+        "ar": "السعر المتوسط حوالي 200 دولار.",
+        "context": "تقال عند إعطاء تقدير عام."
+      },
+      {
+        "id": 8,
+        "en": "What is the cheapest price there?",
+        "ar": "ما أرخص سعر هناك؟",
+        "context": "تقال عند البحث عن أقل سعر."
+      },
+      {
+        "id": 9,
+        "en": "What is the average size of bikes there?",
+        "ar": "ما متوسط حجم الدراجات هناك؟",
+        "context": "تقال عند السؤال عن الحجم المعتاد."
+      },
+      {
+        "id": 10,
+        "en": "What is the price after the discount?",
+        "ar": "ما السعر بعد الخصم؟",
+        "context": "تقال عند السؤال عن السعر النهائي."
+      }
+    ]
+  }
+}

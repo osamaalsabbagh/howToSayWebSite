@@ -1,0 +1,159 @@
+{
+  "schemaVersion": 1,
+  "id": 7,
+  "sentence": {
+    "en": "Let us sit here a little longer and watch the birds return behind the horizon.",
+    "ar": "دعنا نجلس هنا أكثر قليلاً ونشاهد الطيور تعود خلف الأفق.",
+    "context": "يقترح البقاء لمتابعة منظر الطيور عند عودتها في الأفق البعيد."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Let us sit here a little longer",
+        "ar": "دعنا نجلس هنا مدة أطول قليلًا",
+        "context": "يقترح المتكلم البقاء في المكان لوقت إضافي.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "Let us صيغة اقتراح جماعي، لذلك لا تعامل كزمن فعلي عادي."
+        },
+        "wordMeanings": [
+          {
+            "term": "Let",
+            "description": "تستعمل لاقتراح فعل مشترك"
+          },
+          {
+            "term": "us",
+            "description": "نحن، أي المتكلم ومن معه"
+          },
+          {
+            "term": "sit",
+            "description": "نجلس"
+          },
+          {
+            "term": "here",
+            "description": "في هذا المكان"
+          },
+          {
+            "term": "a",
+            "description": "تدخل في تعبير كمية صغيرة"
+          },
+          {
+            "term": "little",
+            "description": "قليلًا"
+          },
+          {
+            "term": "longer",
+            "description": "مدة أطول"
+          }
+        ]
+      },
+      {
+        "sentence": "and watch the birds return behind the horizon.",
+        "ar": "ونشاهد الطيور تعود خلف الأفق.",
+        "context": "توضح النشاط الذي يريد المتكلم البقاء من أجله.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "watch هنا تابع للاقتراح بعد Let us، وreturn يصف الفعل الذي تتم مشاهدته."
+        },
+        "wordMeanings": [
+          {
+            "term": "and",
+            "description": "تربط بين الجلوس والمشاهدة"
+          },
+          {
+            "term": "watch",
+            "description": "نشاهد أو نراقب"
+          },
+          {
+            "term": "the",
+            "description": "تحدد الطيور المرئية"
+          },
+          {
+            "term": "birds",
+            "description": "الطيور"
+          },
+          {
+            "term": "return",
+            "description": "تعود"
+          },
+          {
+            "term": "behind",
+            "description": "خلف"
+          },
+          {
+            "term": "the",
+            "description": "تحدد الأفق المقصود"
+          },
+          {
+            "term": "horizon",
+            "description": "الأفق، أي الخط البعيد بين السماء والأرض أو البحر"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Let us stay here a little longer.",
+        "ar": "دعنا نبقى هنا مدة أطول قليلًا.",
+        "context": "تقال عند الرغبة في عدم المغادرة بسرعة."
+      },
+      {
+        "id": 2,
+        "en": "Let us sit and watch the sunset.",
+        "ar": "دعنا نجلس ونشاهد الغروب.",
+        "context": "تقال عند اقتراح الاستمتاع بمنظر طبيعي."
+      },
+      {
+        "id": 3,
+        "en": "Let us watch the birds fly home.",
+        "ar": "دعنا نشاهد الطيور تطير عائدة إلى موطنها.",
+        "context": "تقال عند متابعة حركة الطيور."
+      },
+      {
+        "id": 4,
+        "en": "We can sit here a little longer.",
+        "ar": "يمكننا الجلوس هنا مدة أطول قليلًا.",
+        "context": "تقال عند وجود وقت إضافي."
+      },
+      {
+        "id": 5,
+        "en": "The birds return behind the hills.",
+        "ar": "تعود الطيور خلف التلال.",
+        "context": "تقال عند وصف مشهد بعيد."
+      },
+      {
+        "id": 6,
+        "en": "Let us watch the waves for a while.",
+        "ar": "دعنا نشاهد الأمواج لبعض الوقت.",
+        "context": "تقال عند الاستمتاع بهدوء البحر."
+      },
+      {
+        "id": 7,
+        "en": "Let us wait until the birds return.",
+        "ar": "دعنا ننتظر حتى تعود الطيور.",
+        "context": "تقال عند انتظار مشهد محدد."
+      },
+      {
+        "id": 8,
+        "en": "The sun disappears behind the horizon.",
+        "ar": "تختفي الشمس خلف الأفق.",
+        "context": "تقال عند وصف الغروب."
+      },
+      {
+        "id": 9,
+        "en": "Let us sit near the water.",
+        "ar": "دعنا نجلس قرب الماء.",
+        "context": "تقال عند اختيار مكان للجلوس."
+      },
+      {
+        "id": 10,
+        "en": "We watched the birds return at sunset.",
+        "ar": "شاهدنا الطيور تعود عند الغروب.",
+        "context": "تقال عند وصف تجربة مشاهدة سابقة."
+      }
+    ]
+  }
+}

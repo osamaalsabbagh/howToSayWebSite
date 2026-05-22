@@ -1,0 +1,151 @@
+{
+  "schemaVersion": 1,
+  "id": 1,
+  "sentence": {
+    "en": "It has been raining since morning. Do you still want to go out?",
+    "ar": "إنها تمطر منذ الصباح. هل ما زلت تريد الخروج؟",
+    "context": "المشهد يبدأ في البيت قبل الخروج."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "It has been raining since morning.",
+        "ar": "إنها تمطر منذ الصباح.",
+        "context": "تصف استمرار المطر من الصباح حتى الآن.",
+        "grammar": {
+          "tense": "المضارع التام المستمر",
+          "tenseEn": "Present Perfect Continuous",
+          "reason": "has been raining يصف فعلًا بدأ في الماضي وما زال مستمرًا حتى وقت الكلام."
+        },
+        "wordMeanings": [
+          {
+            "term": "It",
+            "description": "ضمير يستخدم مع الطقس في الإنجليزية"
+          },
+          {
+            "term": "has",
+            "description": "تساعد على تكوين معنى بدأ في الماضي ومستمر"
+          },
+          {
+            "term": "been",
+            "description": "جزء من تركيب الاستمرار حتى الآن"
+          },
+          {
+            "term": "raining",
+            "description": "تمطر"
+          },
+          {
+            "term": "since",
+            "description": "منذ"
+          },
+          {
+            "term": "morning",
+            "description": "الصباح"
+          }
+        ]
+      },
+      {
+        "sentence": "Do you still want to go out?",
+        "ar": "هل ما زلت تريد الخروج؟",
+        "context": "يسأل إن كان الشخص لا يزال يريد الخروج رغم المطر.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "Do you want يسأل عن رغبة حالية، وstill يبين استمرار الرغبة."
+        },
+        "wordMeanings": [
+          {
+            "term": "Do",
+            "description": "أداة سؤال في المضارع البسيط"
+          },
+          {
+            "term": "you",
+            "description": "الشخص المخاطب"
+          },
+          {
+            "term": "still",
+            "description": "ما زلت أو حتى الآن"
+          },
+          {
+            "term": "want",
+            "description": "تريد"
+          },
+          {
+            "term": "to",
+            "description": "تأتي قبل الفعل لتكوين معنى أن تفعل"
+          },
+          {
+            "term": "go",
+            "description": "تذهب"
+          },
+          {
+            "term": "out",
+            "description": "إلى الخارج"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "It has been snowing since morning.",
+        "ar": "إنها تثلج منذ الصباح.",
+        "context": "تقال عند استمرار الثلج."
+      },
+      {
+        "id": 2,
+        "en": "Do you still want to leave?",
+        "ar": "هل ما زلت تريد المغادرة؟",
+        "context": "تقال بعد ظهور ظرف قد يغير القرار."
+      },
+      {
+        "id": 3,
+        "en": "It has been raining all day.",
+        "ar": "إنها تمطر طوال اليوم.",
+        "context": "تقال عند استمرار المطر مدة طويلة."
+      },
+      {
+        "id": 4,
+        "en": "Do you want to go out in the rain?",
+        "ar": "هل تريد الخروج في المطر؟",
+        "context": "تقال قبل مغادرة البيت."
+      },
+      {
+        "id": 5,
+        "en": "I still want to go to the cafe.",
+        "ar": "ما زلت أريد الذهاب إلى المقهى.",
+        "context": "تقال عند الإصرار على الخروج."
+      },
+      {
+        "id": 6,
+        "en": "It has been cold since morning.",
+        "ar": "كان الجو باردًا منذ الصباح.",
+        "context": "تقال عن استمرار البرد."
+      },
+      {
+        "id": 7,
+        "en": "Do you still need an umbrella?",
+        "ar": "هل ما زلت تحتاج إلى مظلة؟",
+        "context": "تقال قبل الخروج في المطر."
+      },
+      {
+        "id": 8,
+        "en": "The rain has been falling since noon.",
+        "ar": "المطر يهطل منذ الظهر.",
+        "context": "تقال عن استمرار الهطول."
+      },
+      {
+        "id": 9,
+        "en": "We can still go out together.",
+        "ar": "يمكننا أن نخرج معًا رغم ذلك.",
+        "context": "تقال عند عدم إلغاء الخطة."
+      },
+      {
+        "id": 10,
+        "en": "Do you still want to walk?",
+        "ar": "هل ما زلت تريد المشي؟",
+        "context": "تقال عند تغير الطقس."
+      }
+    ]
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "schemaVersion": 1,
+  "id": 1,
+  "sentence": {
+    "en": "I finally bought a new bicycle yesterday.",
+    "ar": "أنا أخيرًا اشتريت دراجة جديدة بالأمس.",
+    "context": "يخبر صديقه أنه اشترى وسيلة تنقّل جديدة."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "I finally bought a new bicycle yesterday.",
+        "ar": "اشتريت أخيرًا دراجة جديدة أمس.",
+        "context": "تخبر الجملة عن شراء حدث في الماضي بعد انتظار.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "bought يدل على حدث مكتمل في الماضي، وyesterday يحدد وقتًا ماضيًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "المتكلم نفسه"
+          },
+          {
+            "term": "finally",
+            "description": "أخيرًا بعد انتظار أو تأخير"
+          },
+          {
+            "term": "bought",
+            "description": "اشتريت"
+          },
+          {
+            "term": "a",
+            "description": "واحدة غير محددة سابقًا"
+          },
+          {
+            "term": "new",
+            "description": "جديدة"
+          },
+          {
+            "term": "bicycle",
+            "description": "دراجة هوائية"
+          },
+          {
+            "term": "yesterday",
+            "description": "أمس"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I finally bought a new phone yesterday.",
+        "ar": "اشتريت أخيرًا هاتفًا جديدًا أمس.",
+        "context": "تقال عند شراء شيء بعد انتظار."
+      },
+      {
+        "id": 2,
+        "en": "She finally bought a new bag.",
+        "ar": "اشترت أخيرًا حقيبة جديدة.",
+        "context": "تقال عند إتمام شراء مؤجل."
+      },
+      {
+        "id": 3,
+        "en": "I bought a new bicycle last week.",
+        "ar": "اشتريت دراجة جديدة الأسبوع الماضي.",
+        "context": "تقال عند ذكر وقت شراء سابق."
+      },
+      {
+        "id": 4,
+        "en": "He finally bought a car yesterday.",
+        "ar": "اشترى أخيرًا سيارة أمس.",
+        "context": "تقال عند خبر شراء مهم."
+      },
+      {
+        "id": 5,
+        "en": "I finally found a good bicycle.",
+        "ar": "وجدت أخيرًا دراجة جيدة.",
+        "context": "تقال بعد بحث طويل."
+      },
+      {
+        "id": 6,
+        "en": "We bought new shoes yesterday.",
+        "ar": "اشترينا أحذية جديدة أمس.",
+        "context": "تقال عند الحديث عن تسوق سابق."
+      },
+      {
+        "id": 7,
+        "en": "I finally bought something useful.",
+        "ar": "اشتريت أخيرًا شيئًا مفيدًا.",
+        "context": "تقال عند الرضا عن شراء."
+      },
+      {
+        "id": 8,
+        "en": "She bought a bicycle for work.",
+        "ar": "اشترت دراجة للعمل.",
+        "context": "تقال عند شرح سبب الشراء."
+      },
+      {
+        "id": 9,
+        "en": "I bought a new helmet yesterday.",
+        "ar": "اشتريت خوذة جديدة أمس.",
+        "context": "تقال عند شراء شيء متعلق بالدراجة."
+      },
+      {
+        "id": 10,
+        "en": "They finally bought a new house.",
+        "ar": "اشتروا أخيرًا بيتًا جديدًا.",
+        "context": "تقال عند إتمام شراء كبير بعد انتظار."
+      }
+    ]
+  }
+}

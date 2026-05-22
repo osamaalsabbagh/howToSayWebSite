@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "id": 9,
+  "sentence": {
+    "en": "I tried to call him today, but he did not answer.",
+    "ar": "لقد حاولت الاتصال به اليوم، ولكنه لم يرد.",
+    "context": "يوضح أنه اتصل بتوم سابقًا لكنه لم يرد على الاتصال."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "I tried to call him today",
+        "ar": "حاولت الاتصال به اليوم.",
+        "context": "تصف العبارة محاولة اتصال حدثت في وقت سابق اليوم.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "استعمل tried لأن محاولة الاتصال حدثت وانتهت في الماضي القريب."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير المتكلم المفرد."
+          },
+          {
+            "term": "tried",
+            "description": "حاولت في الماضي."
+          },
+          {
+            "term": "to",
+            "description": "إلى أو أن حسب السياق."
+          },
+          {
+            "term": "call",
+            "description": "أتصل أو اتصل."
+          },
+          {
+            "term": "him",
+            "description": "هو بصيغة المفعول."
+          },
+          {
+            "term": "today",
+            "description": "اليوم."
+          }
+        ]
+      },
+      {
+        "sentence": "but he did not answer.",
+        "ar": "لكنه لم يرد.",
+        "context": "توضح العبارة نتيجة المحاولة: لم تحصل إجابة.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "استعمل did not answer لنفي فعل حدث في الماضي."
+        },
+        "wordMeanings": [
+          {
+            "term": "but",
+            "description": "لكن."
+          },
+          {
+            "term": "he",
+            "description": "ضمير يشير إلى ذكر."
+          },
+          {
+            "term": "did",
+            "description": "فعل مساعد في الماضي."
+          },
+          {
+            "term": "not",
+            "description": "أداة نفي."
+          },
+          {
+            "term": "answer",
+            "description": "جواب."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I cannot find the keys.",
+        "ar": "لا أستطيع أن أجد المفاتيح.",
+        "context": "تقال عند البحث عن شيء مفقود."
+      },
+      {
+        "id": 2,
+        "en": "Do you think they are in the car?",
+        "ar": "هل تعتقد أنها في السيارة؟",
+        "context": "سؤال عن مكان شيء مفقود."
+      },
+      {
+        "id": 3,
+        "en": "The answer will come from Sarah.",
+        "ar": "سيأتي الجواب من سارة.",
+        "context": "تقال عندما يعرف شخص معين الإجابة."
+      },
+      {
+        "id": 4,
+        "en": "I tried to call him, but he did not answer.",
+        "ar": "حاولت الاتصال به، لكنه لم يرد.",
+        "context": "تصف محاولة اتصال فاشلة."
+      },
+      {
+        "id": 5,
+        "en": "He never answers during work.",
+        "ar": "هو لا يجيب أبدًا أثناء العمل.",
+        "context": "تصف عادة متكررة."
+      },
+      {
+        "id": 6,
+        "en": "Call her after six o’clock.",
+        "ar": "اتصل بها بعد الساعة السادسة.",
+        "context": "توجيه لوقت اتصال مناسب."
+      },
+      {
+        "id": 7,
+        "en": "We have another problem.",
+        "ar": "لدينا مشكلة أخرى.",
+        "context": "تمهيد لعرض مشكلة جديدة."
+      },
+      {
+        "id": 8,
+        "en": "I cannot find the map.",
+        "ar": "لا أستطيع أن أجد الخريطة.",
+        "context": "تقال عند فقدان شيء مهم في رحلة."
+      },
+      {
+        "id": 9,
+        "en": "The best help will come from the guide.",
+        "ar": "أفضل مساعدة ستأتي من الدليل.",
+        "context": "توضح أن شخصًا معينًا هو الأقدر على المساعدة."
+      },
+      {
+        "id": 10,
+        "en": "Try again after the meeting.",
+        "ar": "حاول مرة أخرى بعد الاجتماع.",
+        "context": "نصيحة بتأجيل المحاولة لوقت مناسب."
+      }
+    ]
+  }
+}

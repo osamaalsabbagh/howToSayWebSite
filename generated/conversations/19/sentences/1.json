@@ -1,0 +1,123 @@
+{
+  "schemaVersion": 1,
+  "id": 1,
+  "sentence": {
+    "en": "Do you want to go to the bar tonight?",
+    "ar": "هل تريد أن تذهب إلى الحانة الليلة؟",
+    "context": "الحانة هنا بمعناها المعروف كمكان يقدم عادةً المشروبات الكحولية."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Do you want to go to the bar tonight?",
+        "ar": "هل تريد أن تذهب إلى الحانة الليلة؟",
+        "context": "سؤال عن رغبة المخاطب في الخروج إلى مكان محدد الليلة.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "يستخدم Do في بداية السؤال مع want للسؤال عن رغبة حالية أو عامة."
+        },
+        "wordMeanings": [
+          {
+            "term": "Do",
+            "description": "أداة تستخدم لصنع سؤال في المضارع"
+          },
+          {
+            "term": "you",
+            "description": "أنت، الشخص المخاطب"
+          },
+          {
+            "term": "want",
+            "description": "تريد أو ترغب"
+          },
+          {
+            "term": "to",
+            "description": "تأتي قبل الفعل لتربطه بالرغبة"
+          },
+          {
+            "term": "go",
+            "description": "تذهب"
+          },
+          {
+            "term": "to",
+            "description": "إلى، للاتجاه نحو مكان"
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف لمكان معروف في الكلام"
+          },
+          {
+            "term": "bar",
+            "description": "حانة أو مكان يقدم مشروبات وقد يقدم طعاما"
+          },
+          {
+            "term": "tonight",
+            "description": "هذه الليلة"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Do you want to go to the cafe tonight?",
+        "ar": "هل تريد أن تذهب إلى المقهى الليلة؟",
+        "context": "سؤال عن خطة مسائية."
+      },
+      {
+        "id": 2,
+        "en": "Do you want to watch the game tonight?",
+        "ar": "هل تريد أن تشاهد المباراة الليلة؟",
+        "context": "سؤال عن نشاط مشترك."
+      },
+      {
+        "id": 3,
+        "en": "Do you want to go to the park?",
+        "ar": "هل تريد أن تذهب إلى الحديقة؟",
+        "context": "اقتراح للخروج إلى مكان عام."
+      },
+      {
+        "id": 4,
+        "en": "Do you want to eat dinner now?",
+        "ar": "هل تريد أن تأكل العشاء الآن؟",
+        "context": "سؤال عن رغبة حالية."
+      },
+      {
+        "id": 5,
+        "en": "Do you want to meet after work?",
+        "ar": "هل تريد أن نلتقي بعد العمل؟",
+        "context": "اقتراح موعد بعد الدوام."
+      },
+      {
+        "id": 6,
+        "en": "Do you want to sit outside?",
+        "ar": "هل تريد أن تجلس في الخارج؟",
+        "context": "سؤال عند اختيار مكان الجلوس."
+      },
+      {
+        "id": 7,
+        "en": "Do you want to join us tonight?",
+        "ar": "هل تريد أن تنضم إلينا الليلة؟",
+        "context": "دعوة لشخص للانضمام إلى مجموعة."
+      },
+      {
+        "id": 8,
+        "en": "Do you want to leave early?",
+        "ar": "هل تريد أن تغادر مبكرا؟",
+        "context": "سؤال عن تفضيل وقت المغادرة."
+      },
+      {
+        "id": 9,
+        "en": "Do you want to try this place?",
+        "ar": "هل تريد أن تجرب هذا المكان؟",
+        "context": "اقتراح مكان جديد."
+      },
+      {
+        "id": 10,
+        "en": "Do you want to walk home?",
+        "ar": "هل تريد أن تمشي إلى البيت؟",
+        "context": "سؤال عن طريقة العودة."
+      }
+    ]
+  }
+}

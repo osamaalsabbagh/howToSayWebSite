@@ -1,0 +1,131 @@
+{
+  "schemaVersion": 1,
+  "id": 9,
+  "sentence": {
+    "en": "Okay, I will stop by before the concert.",
+    "ar": "حسنًا، سوف أمر قبل الحفل.",
+    "context": "أي سوف أمر على المتجر قبل الحفل."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Okay",
+        "ar": "حسنا",
+        "context": "كلمة قبول قبل إعلان الخطة.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "كلمة موافقة أو انتقال في الكلام وليست فعلا بزمن مستقل."
+        },
+        "wordMeanings": [
+          {
+            "term": "Okay",
+            "description": "تعني حسنا وتدل على القبول أو الاستعداد"
+          }
+        ]
+      },
+      {
+        "sentence": "I will stop by before the concert.",
+        "ar": "سوف أمر قبل الحفل.",
+        "context": "تعلن المتحدثة خطة قصيرة لزيارة المتجر قبل الحفل.",
+        "grammar": {
+          "tense": "المستقبل البسيط",
+          "tenseEn": "Future Simple",
+          "reason": "will قبل stop by يدل على قرار أو خطة مستقبلية، وbefore يحدد وقتها قبل الحفل."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير المتكلم ويعني أنا"
+          },
+          {
+            "term": "will",
+            "description": "تدل على المستقبل وتأتي قبل الفعل"
+          },
+          {
+            "term": "stop",
+            "description": "تعني أتوقف أو أمر بشكل قصير ضمن التعبير"
+          },
+          {
+            "term": "by",
+            "description": "تكمل معنى المرور السريع على مكان"
+          },
+          {
+            "term": "before",
+            "description": "تعني قبل وتحدد ترتيب الوقت"
+          },
+          {
+            "term": "the",
+            "description": "تحدد الحفل المعروف في الحديث"
+          },
+          {
+            "term": "concert",
+            "description": "تعني الحفل الموسيقي"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Okay, I will stop by after work.",
+        "ar": "حسنا، سوف أمر بعد العمل.",
+        "context": "تعلن زيارة قصيرة بعد الدوام."
+      },
+      {
+        "id": 2,
+        "en": "I will stop by before dinner.",
+        "ar": "سوف أمر قبل العشاء.",
+        "context": "تحدد وقت زيارة قصيرة."
+      },
+      {
+        "id": 3,
+        "en": "I will stop by the shop tomorrow.",
+        "ar": "سوف أمر على المتجر غدا.",
+        "context": "تذكر خطة لزيارة متجر."
+      },
+      {
+        "id": 4,
+        "en": "I will stop by your office later.",
+        "ar": "سوف أمر على مكتبك لاحقا.",
+        "context": "تخطط لزيارة قصيرة لشخص."
+      },
+      {
+        "id": 5,
+        "en": "I will stop by the bank first.",
+        "ar": "سوف أمر على البنك أولا.",
+        "context": "تذكر خطوة قبل شيء آخر."
+      },
+      {
+        "id": 6,
+        "en": "I will stop by before the meeting.",
+        "ar": "سوف أمر قبل الاجتماع.",
+        "context": "تحدد زيارة قبل موعد."
+      },
+      {
+        "id": 7,
+        "en": "I will stop by for five minutes.",
+        "ar": "سوف أمر لخمس دقائق.",
+        "context": "توضح أن الزيارة قصيرة."
+      },
+      {
+        "id": 8,
+        "en": "I will stop by on my way home.",
+        "ar": "سوف أمر في طريقي إلى البيت.",
+        "context": "تربط الزيارة بمسار العودة."
+      },
+      {
+        "id": 9,
+        "en": "I will stop by the cafe tonight.",
+        "ar": "سوف أمر على المقهى الليلة.",
+        "context": "تذكر مكانا ستزوره."
+      },
+      {
+        "id": 10,
+        "en": "I will stop by and get the bag.",
+        "ar": "سوف أمر وآخذ الحقيبة.",
+        "context": "توضح غرض الزيارة القصيرة."
+      }
+    ]
+  }
+}

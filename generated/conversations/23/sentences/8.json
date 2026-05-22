@@ -1,0 +1,139 @@
+{
+  "schemaVersion": 1,
+  "id": 8,
+  "sentence": {
+    "en": "I like how you decorated your bedroom. It feels peaceful.",
+    "ar": "يعجبني كيف دوكرتي غرفة نومك. إنها تعطي إحساسًا بالسلام.",
+    "context": "تمدح ديكور الغرفة وأجواءها."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "I like how you decorated your bedroom.",
+        "ar": "يعجبني كيف زينت غرفة نومك.",
+        "context": "تمدح طريقة ترتيب وتزيين غرفة النوم.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "like يصف إعجابًا حاليًا، وdecorated داخله يشير إلى فعل تزيين تم في الماضي."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "المتكلم نفسه"
+          },
+          {
+            "term": "like",
+            "description": "يعجبني أو أحب"
+          },
+          {
+            "term": "how",
+            "description": "الطريقة التي حدث بها الشيء"
+          },
+          {
+            "term": "you",
+            "description": "الشخص المخاطب"
+          },
+          {
+            "term": "decorated",
+            "description": "زينت أو رتبت بشكل جميل"
+          },
+          {
+            "term": "your",
+            "description": "خاص بك"
+          },
+          {
+            "term": "bedroom",
+            "description": "غرفة النوم"
+          }
+        ]
+      },
+      {
+        "sentence": "It feels peaceful.",
+        "ar": "إنها تعطي إحساسًا بالسكينة.",
+        "context": "تصف الجو العام الذي تعطيه الغرفة بعد التزيين.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "feels يصف الانطباع الحالي الذي يتركه المكان."
+        },
+        "wordMeanings": [
+          {
+            "term": "It",
+            "description": "يشير إلى غرفة النوم أو جوها"
+          },
+          {
+            "term": "feels",
+            "description": "يعطي إحساسًا أو يبدو من ناحية الشعور"
+          },
+          {
+            "term": "peaceful",
+            "description": "هادئ ومريح للنفس"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I like how you arranged your desk. It feels organized.",
+        "ar": "يعجبني كيف رتبت مكتبك. إنه يبدو منظمًا.",
+        "context": "تقال عند مدح ترتيب مكان العمل."
+      },
+      {
+        "id": 2,
+        "en": "I like how you decorated the room. It feels warm.",
+        "ar": "يعجبني كيف زينت الغرفة. إنها تبدو دافئة.",
+        "context": "تقال عند مدح ديكور مريح."
+      },
+      {
+        "id": 3,
+        "en": "I like how you painted the wall. It feels fresh.",
+        "ar": "يعجبني كيف دهنت الجدار. إنه يبدو منعشًا.",
+        "context": "تقال عند ملاحظة أثر لون جديد."
+      },
+      {
+        "id": 4,
+        "en": "I like how you cleaned your bedroom.",
+        "ar": "يعجبني كيف نظفت غرفة نومك.",
+        "context": "تقال عند مدح النظافة والترتيب."
+      },
+      {
+        "id": 5,
+        "en": "It feels peaceful in this room.",
+        "ar": "يوجد إحساس بالسكينة في هذه الغرفة.",
+        "context": "تقال عند وصف جو هادئ."
+      },
+      {
+        "id": 6,
+        "en": "I like how you placed the bed near the window.",
+        "ar": "يعجبني كيف وضعت السرير قرب النافذة.",
+        "context": "تقال عند مدح اختيار مكان السرير."
+      },
+      {
+        "id": 7,
+        "en": "It feels cozy with these lights.",
+        "ar": "يبدو المكان مريحًا مع هذه الأضواء.",
+        "context": "تقال عند وصف أثر الإضاءة."
+      },
+      {
+        "id": 8,
+        "en": "I like how you chose soft colors.",
+        "ar": "يعجبني كيف اخترت ألوانًا هادئة.",
+        "context": "تقال عند مدح ألوان الديكور."
+      },
+      {
+        "id": 9,
+        "en": "It feels peaceful after the change.",
+        "ar": "يبدو المكان هادئًا بعد التغيير.",
+        "context": "تقال بعد تعديل ترتيب المكان."
+      },
+      {
+        "id": 10,
+        "en": "I like how you made the room brighter.",
+        "ar": "يعجبني كيف جعلت الغرفة أكثر إشراقًا.",
+        "context": "تقال عند مدح تحسين الإضاءة."
+      }
+    ]
+  }
+}

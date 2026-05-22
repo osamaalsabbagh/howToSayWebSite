@@ -1,0 +1,147 @@
+{
+  "schemaVersion": 1,
+  "id": 1,
+  "sentence": {
+    "en": "Look over there! That man's arm is stuck in the train door.",
+    "ar": "انظر هناك! ذراع ذلك الرجل عالقة في باب القطار.",
+    "context": "يلفت انتباه صديقه إلى حادثة في جهة بعيدة نسبيًا عبر الرصيف (ليس المكان قريبًا)، لذا المقصود الإشارة إلى نقطة بعيدة."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Look over there!",
+        "ar": "انظر هناك!",
+        "context": "يلفت المتكلم انتباه صديقه إلى مكان بعيد نسبيًا. ",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "Look فعل أمر، وover there يشير إلى مكان أبعد من المتكلم."
+        },
+        "wordMeanings": [
+          {
+            "term": "Look",
+            "description": "انظر."
+          },
+          {
+            "term": "over",
+            "description": "هناك أو إلى الجهة البعيدة في التعبير."
+          },
+          {
+            "term": "there",
+            "description": "هناك."
+          }
+        ]
+      },
+      {
+        "sentence": "That man's arm is stuck in the train door.",
+        "ar": "ذراع ذلك الرجل عالقة في باب القطار.",
+        "context": "تصف الجملة المشكلة التي يراها المتكلم.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استعمل is stuck لوصف حالة الذراع الآن."
+        },
+        "wordMeanings": [
+          {
+            "term": "That",
+            "description": "ذلك أو أن حسب السياق."
+          },
+          {
+            "term": "man's",
+            "description": "خاص بذلك الرجل."
+          },
+          {
+            "term": "arm",
+            "description": "ذراع."
+          },
+          {
+            "term": "is",
+            "description": "يدل على حالة أو وصف في الحاضر."
+          },
+          {
+            "term": "stuck",
+            "description": "عالقة."
+          },
+          {
+            "term": "in",
+            "description": "في أو داخل."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف تشير إلى شيء محدد."
+          },
+          {
+            "term": "train",
+            "description": "قطار."
+          },
+          {
+            "term": "door",
+            "description": "باب."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Look over there! The door is closing.",
+        "ar": "انظر هناك! الباب يغلق.",
+        "context": "تنبيه لشخص إلى شيء يحدث بعيدًا."
+      },
+      {
+        "id": 2,
+        "en": "I hope he can move quickly.",
+        "ar": "آمل أن يتمكن من التحرك بسرعة.",
+        "context": "تقال عند القلق على شخص."
+      },
+      {
+        "id": 3,
+        "en": "There are many people near the door.",
+        "ar": "هناك كثير من الناس قرب الباب.",
+        "context": "ملاحظة تجمع أشخاص في مكان."
+      },
+      {
+        "id": 4,
+        "en": "They are trying to help the man.",
+        "ar": "إنهم يحاولون مساعدة الرجل.",
+        "context": "تصف محاولة مساعدة جارية."
+      },
+      {
+        "id": 5,
+        "en": "What time will the bus arrive?",
+        "ar": "في أي وقت ستصل الحافلة؟",
+        "context": "سؤال عن موعد وصول وسيلة نقل."
+      },
+      {
+        "id": 6,
+        "en": "It should arrive around seven.",
+        "ar": "من المفترض أن تصل حوالي السابعة.",
+        "context": "إعطاء موعد متوقع."
+      },
+      {
+        "id": 7,
+        "en": "Let us wait here.",
+        "ar": "دعنا ننتظر هنا.",
+        "context": "اقتراح بالبقاء في مكان محدد."
+      },
+      {
+        "id": 8,
+        "en": "This place is perfect.",
+        "ar": "هذا المكان مثالي.",
+        "context": "موافقة على موضع مناسب."
+      },
+      {
+        "id": 9,
+        "en": "The next train arrives soon.",
+        "ar": "يصل القطار التالي قريبًا.",
+        "context": "تصف موعدًا قريبًا."
+      },
+      {
+        "id": 10,
+        "en": "We can get on quickly from here.",
+        "ar": "يمكننا الصعود بسرعة من هنا.",
+        "context": "توضح ميزة الوقوف في مكان معين."
+      }
+    ]
+  }
+}

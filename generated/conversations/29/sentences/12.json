@@ -1,0 +1,159 @@
+{
+  "schemaVersion": 1,
+  "id": 12,
+  "sentence": {
+    "en": "Not a bad plan, unless she uses your phone's data and checks the blog too!",
+    "ar": "ليست خطة سيئة، إلا إذا تستخدم بيانات هاتفك وتتفقد المدونة أيضًا!",
+    "context": "يُستعمل المضارع في هذه الجملة في اللغة الأصلية للدلالة على احتمال مستقبلي."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Not a bad plan",
+        "ar": "ليست خطة سيئة",
+        "context": "يمدح الخطة بشكل خفيف مع وجود تحفظ لاحق.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "عبارة وصفية مختصرة بلا فعل ظاهر مستقل."
+        },
+        "wordMeanings": [
+          {
+            "term": "Not",
+            "description": "تنفي الوصف التالي"
+          },
+          {
+            "term": "a",
+            "description": "واحدة غير محددة"
+          },
+          {
+            "term": "bad",
+            "description": "سيئة"
+          },
+          {
+            "term": "plan",
+            "description": "خطة"
+          }
+        ]
+      },
+      {
+        "sentence": "unless she uses your phone's data and checks the blog too!",
+        "ar": "إلا إذا استخدمت بيانات هاتفك وتفقدت المدونة أيضًا!",
+        "context": "يضيف احتمالًا ساخرًا قد يجعل الخطة تفشل.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "بعد unless يستعمل المضارع البسيط للدلالة على احتمال مستقبلي."
+        },
+        "wordMeanings": [
+          {
+            "term": "unless",
+            "description": "إلا إذا"
+          },
+          {
+            "term": "she",
+            "description": "هي، أي الزوجة"
+          },
+          {
+            "term": "uses",
+            "description": "تستخدم"
+          },
+          {
+            "term": "your",
+            "description": "خاص بك"
+          },
+          {
+            "term": "phone's",
+            "description": "الخاص بهاتفك"
+          },
+          {
+            "term": "data",
+            "description": "بيانات الإنترنت في الهاتف"
+          },
+          {
+            "term": "and",
+            "description": "تربط بين فعلين محتملين"
+          },
+          {
+            "term": "checks",
+            "description": "تتفقد أو تراجع"
+          },
+          {
+            "term": "the",
+            "description": "تحدد المدونة المعروفة"
+          },
+          {
+            "term": "blog",
+            "description": "مدونة أو موقع منشورات"
+          },
+          {
+            "term": "too",
+            "description": "أيضًا"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Not a bad idea, unless it costs too much.",
+        "ar": "ليست فكرة سيئة، إلا إذا كانت مكلفة جدًا.",
+        "context": "تقال عند قبول فكرة مع شرط."
+      },
+      {
+        "id": 2,
+        "en": "Not a bad plan, unless she finds out.",
+        "ar": "ليست خطة سيئة، إلا إذا اكتشفت الأمر.",
+        "context": "تقال عند ذكر خطر على الخطة."
+      },
+      {
+        "id": 3,
+        "en": "She might use your phone's data.",
+        "ar": "قد تستخدم بيانات هاتفك.",
+        "context": "تقال عند توقع طريقة بديلة للاتصال."
+      },
+      {
+        "id": 4,
+        "en": "He checks the blog every day.",
+        "ar": "هو يتفقد المدونة كل يوم.",
+        "context": "تقال عند وصف عادة متابعة."
+      },
+      {
+        "id": 5,
+        "en": "Unless the network works, we cannot watch it.",
+        "ar": "إلا إذا عملت الشبكة، لا يمكننا مشاهدته.",
+        "context": "تقال عند ربط المشاهدة بالإنترنت."
+      },
+      {
+        "id": 6,
+        "en": "Not a bad plan for tonight.",
+        "ar": "ليست خطة سيئة لهذه الليلة.",
+        "context": "تقال عند تقييم خطة قصيرة."
+      },
+      {
+        "id": 7,
+        "en": "Unless she asks again, stay quiet.",
+        "ar": "إلا إذا سألت مرة أخرى، ابق صامتًا.",
+        "context": "تقال عند اقتراح تجنب النقاش."
+      },
+      {
+        "id": 8,
+        "en": "She uses my phone when the Wi-Fi is down.",
+        "ar": "تستخدم هاتفي عندما يكون الواي فاي معطلًا.",
+        "context": "تقال عند وجود بديل للإنترنت."
+      },
+      {
+        "id": 9,
+        "en": "Not a bad joke, but it is risky.",
+        "ar": "ليست مزحة سيئة، لكنها محفوفة بالمخاطر.",
+        "context": "تقال عند تقييم حل ساخر."
+      },
+      {
+        "id": 10,
+        "en": "She checks the video too.",
+        "ar": "هي تتفقد الفيديو أيضًا.",
+        "context": "تقال عند توقع استمرار متابعة المحتوى."
+      }
+    ]
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "schemaVersion": 1,
+  "id": 14,
+  "sentence": {
+    "en": "I do not know. Maybe he is used to it.",
+    "ar": "لا أدري، ربما يكون معتادًا على ذلك.",
+    "context": "يخمن أنه اعتاد الجري في مثل هذا الطقس."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "I do not know.",
+        "ar": "لا أدري.",
+        "context": "يعبر عن عدم معرفة السبب الحقيقي.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "do not know ينفي المعرفة في الوقت الحالي."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "المتكلم نفسه"
+          },
+          {
+            "term": "do",
+            "description": "تستعمل مع not لتكوين النفي"
+          },
+          {
+            "term": "not",
+            "description": "أداة نفي"
+          },
+          {
+            "term": "know",
+            "description": "أعرف أو أدري"
+          }
+        ]
+      },
+      {
+        "sentence": "Maybe he is used to it.",
+        "ar": "ربما يكون معتادًا على ذلك.",
+        "context": "يعطي تخمينًا بأن الرجل اعتاد المطر والبرد.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "is used to يصف عادة أو ألفة حالية مع شيء متكرر."
+        },
+        "wordMeanings": [
+          {
+            "term": "Maybe",
+            "description": "ربما"
+          },
+          {
+            "term": "he",
+            "description": "هو، أي الرجل"
+          },
+          {
+            "term": "is",
+            "description": "يربط الشخص بحالته"
+          },
+          {
+            "term": "used",
+            "description": "معتاد في هذا التعبير"
+          },
+          {
+            "term": "to",
+            "description": "تأتي مع used للدلالة على الاعتياد"
+          },
+          {
+            "term": "it",
+            "description": "ذلك، أي الجري في المطر أو الطقس البارد"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I do not know. Maybe she is tired.",
+        "ar": "لا أدري. ربما هي متعبة.",
+        "context": "تقال عند التخمين."
+      },
+      {
+        "id": 2,
+        "en": "Maybe he is used to the cold.",
+        "ar": "ربما هو معتاد على البرد.",
+        "context": "تقال عن شخص يتحمل البرد."
+      },
+      {
+        "id": 3,
+        "en": "I am used to the rain.",
+        "ar": "أنا معتاد على المطر.",
+        "context": "تقال عند عدم الانزعاج من المطر."
+      },
+      {
+        "id": 4,
+        "en": "He is used to running every day.",
+        "ar": "هو معتاد على الركض كل يوم.",
+        "context": "تقال عن عادة رياضية."
+      },
+      {
+        "id": 5,
+        "en": "I do not know the reason.",
+        "ar": "لا أعرف السبب.",
+        "context": "تقال عند عدم امتلاك تفسير."
+      },
+      {
+        "id": 6,
+        "en": "Maybe they are used to it.",
+        "ar": "ربما هم معتادون على ذلك.",
+        "context": "تقال عند تفسير سلوك مجموعة."
+      },
+      {
+        "id": 7,
+        "en": "She is not used to this weather.",
+        "ar": "هي ليست معتادة على هذا الطقس.",
+        "context": "تقال عند صعوبة التأقلم."
+      },
+      {
+        "id": 8,
+        "en": "I do not know, but he looks fine.",
+        "ar": "لا أدري، لكنه يبدو بخير.",
+        "context": "تقال عند عدم التأكد مع ملاحظة."
+      },
+      {
+        "id": 9,
+        "en": "Maybe he likes running in the rain.",
+        "ar": "ربما يحب الركض تحت المطر.",
+        "context": "تقال كتخمين عن تفضيل."
+      },
+      {
+        "id": 10,
+        "en": "He is used to hard weather.",
+        "ar": "هو معتاد على الطقس الصعب.",
+        "context": "تقال عن شخص قوي التحمل."
+      }
+    ]
+  }
+}

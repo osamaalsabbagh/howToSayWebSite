@@ -1,0 +1,123 @@
+{
+  "schemaVersion": 1,
+  "id": 2,
+  "sentence": {
+    "en": "Really? Is it big or small?",
+    "ar": "حقًا؟ هل هي كبيرة أم صغيرة؟",
+    "context": "يسأل عن حجم الدراجة بشكل عام."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Really?",
+        "ar": "حقًا؟",
+        "context": "تستعمل لإظهار المفاجأة أو الاهتمام بما قيل.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه كلمة رد قصيرة وليست جملة فعلية بزمن."
+        },
+        "wordMeanings": [
+          {
+            "term": "Really",
+            "description": "حقًا أو بجدية"
+          }
+        ]
+      },
+      {
+        "sentence": "Is it big or small?",
+        "ar": "هل هي كبيرة أم صغيرة؟",
+        "context": "تسأل عن حجم الدراجة بين خيارين.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "Is في بداية السؤال يصف حالة أو صفة حالية للشيء."
+        },
+        "wordMeanings": [
+          {
+            "term": "Is",
+            "description": "تأتي في بداية السؤال عن صفة الشيء"
+          },
+          {
+            "term": "it",
+            "description": "تشير إلى الدراجة"
+          },
+          {
+            "term": "big",
+            "description": "كبيرة الحجم"
+          },
+          {
+            "term": "or",
+            "description": "أم، وتعرض اختيارًا"
+          },
+          {
+            "term": "small",
+            "description": "صغيرة الحجم"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Really? Is it new or old?",
+        "ar": "حقًا؟ هل هو جديد أم قديم؟",
+        "context": "تقال عند السؤال عن حالة شيء."
+      },
+      {
+        "id": 2,
+        "en": "Is the bicycle big or small?",
+        "ar": "هل الدراجة كبيرة أم صغيرة؟",
+        "context": "تقال عند السؤال عن حجم الدراجة."
+      },
+      {
+        "id": 3,
+        "en": "Really? Is it fast?",
+        "ar": "حقًا؟ هل هي سريعة؟",
+        "context": "تقال عند الاهتمام بصفة الدراجة."
+      },
+      {
+        "id": 4,
+        "en": "Is your room big or small?",
+        "ar": "هل غرفتك كبيرة أم صغيرة؟",
+        "context": "تقال عند السؤال عن حجم غرفة."
+      },
+      {
+        "id": 5,
+        "en": "Really? Is it comfortable?",
+        "ar": "حقًا؟ هل هي مريحة؟",
+        "context": "تقال عند السؤال عن تجربة استخدام شيء."
+      },
+      {
+        "id": 6,
+        "en": "Is the bag heavy or light?",
+        "ar": "هل الحقيبة ثقيلة أم خفيفة؟",
+        "context": "تقال عند السؤال عن وزن حقيبة."
+      },
+      {
+        "id": 7,
+        "en": "Really? Is it for you?",
+        "ar": "حقًا؟ هل هي لك؟",
+        "context": "تقال عند الاستغراب من شراء شيء."
+      },
+      {
+        "id": 8,
+        "en": "Is the car big or small?",
+        "ar": "هل السيارة كبيرة أم صغيرة؟",
+        "context": "تقال عند السؤال عن حجم سيارة."
+      },
+      {
+        "id": 9,
+        "en": "Really? Is it expensive?",
+        "ar": "حقًا؟ هل هي غالية؟",
+        "context": "تقال عند السؤال عن السعر."
+      },
+      {
+        "id": 10,
+        "en": "Is it safe or dangerous?",
+        "ar": "هل هو آمن أم خطير؟",
+        "context": "تقال عند السؤال عن درجة الأمان."
+      }
+    ]
+  }
+}

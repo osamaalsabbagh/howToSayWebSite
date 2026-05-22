@@ -1,0 +1,135 @@
+{
+  "schemaVersion": 1,
+  "id": 16,
+  "sentence": {
+    "en": "No need. I will get the tickets for us.",
+    "ar": "لا حاجة. أنا سوف أحصل على التذاكر لنا.",
+    "context": "جملة دارجة بمعنى أنه سيتكفل بشراء التذاكر."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "No need.",
+        "ar": "لا حاجة.",
+        "context": "تستخدم لطمأنة الشخص أن الأمر غير ضروري.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "تعبير مختصر ثابت بلا فعل كامل، ومعناه أن الفعل أو القلق غير مطلوب."
+        },
+        "wordMeanings": [
+          {
+            "term": "No",
+            "description": "نفي أو رفض لوجود الشيء"
+          },
+          {
+            "term": "need",
+            "description": "حاجة أو ضرورة"
+          }
+        ]
+      },
+      {
+        "sentence": "I will get the tickets for us.",
+        "ar": "سأحصل على التذاكر لنا.",
+        "context": "يوضح أن المتكلم سيتكفل بشراء التذاكر لاحقا.",
+        "grammar": {
+          "tense": "المستقبل البسيط",
+          "tenseEn": "Future Simple",
+          "reason": "استخدمت will للتعبير عن قرار أو وعد سيحدث بعد وقت الكلام."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "أنا، المتكلم عن نفسه"
+          },
+          {
+            "term": "will",
+            "description": "تدل على أن الفعل سيحدث في المستقبل"
+          },
+          {
+            "term": "get",
+            "description": "أحصل على أو أشتري حسب السياق"
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف تشير إلى تذاكر معروفة للطرفين"
+          },
+          {
+            "term": "tickets",
+            "description": "تذاكر الدخول أو السفر"
+          },
+          {
+            "term": "for",
+            "description": "لصالح أو من أجل"
+          },
+          {
+            "term": "us",
+            "description": "لنا، للمتكلم ومن معه"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "No need. I will call the driver for us.",
+        "ar": "لا حاجة. سأتصل بالسائق لنا.",
+        "context": "يقال عند التكفل بترتيب المواصلات."
+      },
+      {
+        "id": 2,
+        "en": "I will buy the food for us.",
+        "ar": "سأشتري الطعام لنا.",
+        "context": "يقال عند عرض دفع أو إحضار الطعام."
+      },
+      {
+        "id": 3,
+        "en": "No need. I will open the door.",
+        "ar": "لا حاجة. سأفتح الباب.",
+        "context": "يقال لمن يحاول القيام بشيء وأنت ستفعله."
+      },
+      {
+        "id": 4,
+        "en": "I will get the keys for you.",
+        "ar": "سأحصل على المفاتيح لك.",
+        "context": "يقال عند عرض إحضار شيء لشخص آخر."
+      },
+      {
+        "id": 5,
+        "en": "No need. I will pay today.",
+        "ar": "لا حاجة. سأدفع اليوم.",
+        "context": "يقال عند تحمل تكلفة شيء."
+      },
+      {
+        "id": 6,
+        "en": "I will save two seats for us.",
+        "ar": "سأحجز مقعدين لنا.",
+        "context": "يقال قبل وصول الآخرين إلى المكان."
+      },
+      {
+        "id": 7,
+        "en": "No need. I will send the message.",
+        "ar": "لا حاجة. سأرسل الرسالة.",
+        "context": "يقال عند تحمل مهمة التواصل."
+      },
+      {
+        "id": 8,
+        "en": "I will bring the papers for us.",
+        "ar": "سأحضر الأوراق لنا.",
+        "context": "يقال عند الاستعداد لاجتماع أو درس."
+      },
+      {
+        "id": 9,
+        "en": "No need. I will check the time.",
+        "ar": "لا حاجة. سأتحقق من الوقت.",
+        "context": "يقال عند القيام بمهمة صغيرة بدلا من الآخر."
+      },
+      {
+        "id": 10,
+        "en": "I will get the coffee for everyone.",
+        "ar": "سأحضر القهوة للجميع.",
+        "context": "يقال عند عرض إحضار مشروبات للمجموعة."
+      }
+    ]
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "schemaVersion": 1,
+  "id": 3,
+  "sentence": {
+    "en": "Look, a bird is flying low behind the waves.",
+    "ar": "انظر، طائر يطير منخفضًا خلف الأمواج.",
+    "context": "يدمج مشهد الطائر في الخلفية خلف حركة الأمواج."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Look",
+        "ar": "انظر",
+        "context": "تستعمل لتنبيه الشخص إلى مشهد يحدث الآن.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه صيغة أمر مباشرة ولا تحمل زمنًا مستقلًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "Look",
+            "description": "انظر أو انتبه"
+          }
+        ]
+      },
+      {
+        "sentence": "a bird is flying low behind the waves.",
+        "ar": "طائر يطير منخفضًا خلف الأمواج.",
+        "context": "تصف حركة طائر في لحظة المشاهدة.",
+        "grammar": {
+          "tense": "المضارع المستمر",
+          "tenseEn": "Present Continuous",
+          "reason": "is flying يصف فعلًا يحدث الآن أثناء الكلام."
+        },
+        "wordMeanings": [
+          {
+            "term": "a",
+            "description": "واحد غير محدد"
+          },
+          {
+            "term": "bird",
+            "description": "طائر"
+          },
+          {
+            "term": "is",
+            "description": "تأتي مع الفعل المستمر في الحاضر"
+          },
+          {
+            "term": "flying",
+            "description": "يطير في الهواء"
+          },
+          {
+            "term": "low",
+            "description": "منخفضًا أو قريبًا من السطح"
+          },
+          {
+            "term": "behind",
+            "description": "خلف"
+          },
+          {
+            "term": "the",
+            "description": "تحدد الأمواج المرئية"
+          },
+          {
+            "term": "waves",
+            "description": "أمواج البحر"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Look, a bird is flying above the sea.",
+        "ar": "انظر، طائر يطير فوق البحر.",
+        "context": "تقال عند ملاحظة طائر في اللحظة نفسها."
+      },
+      {
+        "id": 2,
+        "en": "A bird is flying low near the water.",
+        "ar": "طائر يطير منخفضًا قرب الماء.",
+        "context": "تقال عند وصف حركة طائر قريبة."
+      },
+      {
+        "id": 3,
+        "en": "Look, the waves are moving fast.",
+        "ar": "انظر، الأمواج تتحرك بسرعة.",
+        "context": "تقال لتنبيه شخص لحركة البحر."
+      },
+      {
+        "id": 4,
+        "en": "A boat is moving behind the waves.",
+        "ar": "قارب يتحرك خلف الأمواج.",
+        "context": "تقال عند رؤية شيء خلف الأمواج."
+      },
+      {
+        "id": 5,
+        "en": "Look, a fish is jumping above the water.",
+        "ar": "انظر، سمكة تقفز فوق الماء.",
+        "context": "تقال عند ملاحظة حركة مفاجئة."
+      },
+      {
+        "id": 6,
+        "en": "The bird is flying behind the cliff.",
+        "ar": "الطائر يطير خلف الجرف.",
+        "context": "تقال عند وصف مكان الطائر بالنسبة للجرف."
+      },
+      {
+        "id": 7,
+        "en": "Look, the sun is going down.",
+        "ar": "انظر، الشمس تغرب.",
+        "context": "تقال عند ملاحظة الغروب."
+      },
+      {
+        "id": 8,
+        "en": "A bird is flying low over the rocks.",
+        "ar": "طائر يطير منخفضًا فوق الصخور.",
+        "context": "تقال عند وصف طائر قريب من الصخور."
+      },
+      {
+        "id": 9,
+        "en": "Look, something is moving below the water.",
+        "ar": "انظر، شيء يتحرك تحت الماء.",
+        "context": "تقال عند ملاحظة حركة في البحر."
+      },
+      {
+        "id": 10,
+        "en": "The birds are flying behind the clouds.",
+        "ar": "الطيور تطير خلف الغيوم.",
+        "context": "تقال عند وصف مشهد في السماء."
+      }
+    ]
+  }
+}

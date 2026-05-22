@@ -1,0 +1,155 @@
+{
+  "schemaVersion": 1,
+  "id": 1,
+  "sentence": {
+    "en": "Can you warm up this bread? I like to eat warm bread for breakfast.",
+    "ar": "هل يمكنك تدفئة هذا الخبز؟ أنا أحب أن أكل خبزًا دافئًا على الإفطار.",
+    "context": "تطلب منه تسخين الخبز لأنها تفضل تناوله دافئًا في الصباح."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Can you warm up this bread",
+        "ar": "هل يمكنك تدفئة هذا الخبز؟",
+        "context": "طلب مهذب لتسخين الخبز.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "Can you يستخدم لطلب مهذب، و warm up فعل مركب يعني يسخن قليلا."
+        },
+        "wordMeanings": [
+          {
+            "term": "Can",
+            "description": "هل يمكن أو هل تستطيع"
+          },
+          {
+            "term": "you",
+            "description": "أنت أو لك حسب السياق"
+          },
+          {
+            "term": "warm",
+            "description": "يدفئ أو دافئ حسب السياق"
+          },
+          {
+            "term": "up",
+            "description": "تكمل معنى الفعل المركب"
+          },
+          {
+            "term": "this",
+            "description": "هذا أو هذه القريبة"
+          },
+          {
+            "term": "bread",
+            "description": "خبز"
+          }
+        ]
+      },
+      {
+        "sentence": "I like to eat warm bread for breakfast",
+        "ar": "أنا أحب أن آكل خبزا دافئا على الإفطار.",
+        "context": "تشرح سبب الطلب وتفضيلها في الصباح.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "تستخدم like لوصف تفضيل عام أو عادة."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "أنا"
+          },
+          {
+            "term": "like",
+            "description": "أحب أو أفضل"
+          },
+          {
+            "term": "to",
+            "description": "أن أو إلى حسب السياق"
+          },
+          {
+            "term": "eat",
+            "description": "آكل"
+          },
+          {
+            "term": "warm",
+            "description": "يدفئ أو دافئ حسب السياق"
+          },
+          {
+            "term": "bread",
+            "description": "خبز"
+          },
+          {
+            "term": "for",
+            "description": "لأجل أو في مناسبة"
+          },
+          {
+            "term": "breakfast",
+            "description": "الإفطار"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Can you warm up this soup",
+        "ar": "هل يمكنك تدفئة هذا الحساء",
+        "context": "يقال لطلب تسخين الطعام بلطف"
+      },
+      {
+        "id": 2,
+        "en": "Please put it here",
+        "ar": "من فضلك ضعه هنا",
+        "context": "يقال عند طلب وضع شيء في مكان قريب"
+      },
+      {
+        "id": 3,
+        "en": "This is clear now",
+        "ar": "هذا واضح الآن",
+        "context": "يقال بعد فهم شرح أو مثال"
+      },
+      {
+        "id": 4,
+        "en": "There are two cups on the table",
+        "ar": "يوجد كوبان على الطاولة",
+        "context": "يقال لوصف أشياء في مكان محدد"
+      },
+      {
+        "id": 5,
+        "en": "I can help you now",
+        "ar": "يمكنني مساعدتك الآن",
+        "context": "يقال عند عرض المساعدة"
+      },
+      {
+        "id": 6,
+        "en": "It is safe inside",
+        "ar": "إنه آمن في الداخل",
+        "context": "يقال لوصف مكان محمي"
+      },
+      {
+        "id": 7,
+        "en": "They are ready outside",
+        "ar": "هم جاهزون في الخارج",
+        "context": "يقال لوصف الاستعداد في مكان خارجي"
+      },
+      {
+        "id": 8,
+        "en": "Now close the box tightly",
+        "ar": "الآن أغلق العلبة بإحكام",
+        "context": "يقال عند إعطاء تعليمات لحماية شيء"
+      },
+      {
+        "id": 9,
+        "en": "I understand the idea",
+        "ar": "أنا أفهم الفكرة",
+        "context": "يقال عندما تصبح الفكرة واضحة"
+      },
+      {
+        "id": 10,
+        "en": "That makes sense",
+        "ar": "ذلك منطقي",
+        "context": "يقال عندما يبدو الكلام معقولا"
+      }
+    ]
+  }
+}

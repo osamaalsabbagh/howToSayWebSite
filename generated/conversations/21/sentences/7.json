@@ -1,0 +1,139 @@
+{
+  "schemaVersion": 1,
+  "id": 7,
+  "sentence": {
+    "en": "No problem. I will be waiting in the living room.",
+    "ar": "لا مشكلة. سأكون منتظرة في غرفة المعيشة.",
+    "context": "تستعمل فعل الكينونة المساعد للتعبير عن حالة انتظارها."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "No problem.",
+        "ar": "لا مشكلة.",
+        "context": "تستعمل للرد بلطف وإظهار أن الأمر مقبول.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه عبارة ثابتة قصيرة لا تحتوي على فعل بزمن مستقل."
+        },
+        "wordMeanings": [
+          {
+            "term": "No",
+            "description": "يفيد النفي أو عدم وجود الشيء"
+          },
+          {
+            "term": "problem",
+            "description": "مشكلة أو أمر مزعج"
+          }
+        ]
+      },
+      {
+        "sentence": "I will be waiting in the living room.",
+        "ar": "سأكون منتظرة في غرفة المعيشة.",
+        "context": "توضح مكان وجودها وحالة انتظارها لاحقًا.",
+        "grammar": {
+          "tense": "المستقبل المستمر",
+          "tenseEn": "Future Continuous",
+          "reason": "will be مع الفعل المنتهي بـ ing يصف حالة مستمرة في وقت لاحق."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "المتكلمة نفسها"
+          },
+          {
+            "term": "will",
+            "description": "يدل على المستقبل"
+          },
+          {
+            "term": "be",
+            "description": "يأتي مع will قبل وصف الحالة المستمرة"
+          },
+          {
+            "term": "waiting",
+            "description": "في حالة انتظار شخص أو شيء"
+          },
+          {
+            "term": "in",
+            "description": "داخل مكان"
+          },
+          {
+            "term": "the",
+            "description": "تحدد أن المكان معروف للطرفين"
+          },
+          {
+            "term": "living",
+            "description": "مرتبط بالجلوس والمعيشة اليومية داخل البيت"
+          },
+          {
+            "term": "room",
+            "description": "غرفة أو مكان داخل البيت"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "No problem. I will be waiting outside.",
+        "ar": "لا مشكلة. سأكون منتظرًا في الخارج.",
+        "context": "تقال عند قبول التأخير وتحديد مكان الانتظار."
+      },
+      {
+        "id": 2,
+        "en": "No problem. I will be sitting near the door.",
+        "ar": "لا مشكلة. سأكون جالسًا قرب الباب.",
+        "context": "تقال لتسهيل العثور على الشخص لاحقًا."
+      },
+      {
+        "id": 3,
+        "en": "No problem. I will be reading in my room.",
+        "ar": "لا مشكلة. سأكون أقرأ في غرفتي.",
+        "context": "تقال عند الانتظار مع نشاط هادئ."
+      },
+      {
+        "id": 4,
+        "en": "No problem. I will be working at my desk.",
+        "ar": "لا مشكلة. سأكون أعمل على مكتبي.",
+        "context": "تقال عند إعلام شخص بمكانك أثناء الانتظار."
+      },
+      {
+        "id": 5,
+        "en": "No problem. I will be standing by the car.",
+        "ar": "لا مشكلة. سأكون واقفًا بجانب السيارة.",
+        "context": "تقال عند الاتفاق على نقطة انتظار واضحة."
+      },
+      {
+        "id": 6,
+        "en": "No problem. I will be staying in the hotel lobby.",
+        "ar": "لا مشكلة. سأبقى في بهو الفندق.",
+        "context": "تقال عند انتظار شخص في فندق."
+      },
+      {
+        "id": 7,
+        "en": "No problem. I will be watching the bags.",
+        "ar": "لا مشكلة. سأكون أراقب الحقائب.",
+        "context": "تقال عند تحمل مسؤولية مؤقتة أثناء الانتظار."
+      },
+      {
+        "id": 8,
+        "en": "No problem. I will be waiting for your message.",
+        "ar": "لا مشكلة. سأكون منتظرًا رسالتك.",
+        "context": "تقال عند انتظار رد أو تحديث."
+      },
+      {
+        "id": 9,
+        "en": "No problem. I will be resting on the sofa.",
+        "ar": "لا مشكلة. سأكون أرتاح على الأريكة.",
+        "context": "تقال عند الانتظار داخل البيت براحة."
+      },
+      {
+        "id": 10,
+        "en": "No problem. I will be listening from the kitchen.",
+        "ar": "لا مشكلة. سأكون أستمع من المطبخ.",
+        "context": "تقال عندما يبقى الشخص قريبًا رغم وجوده في غرفة أخرى."
+      }
+    ]
+  }
+}

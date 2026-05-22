@@ -1,0 +1,127 @@
+{
+  "schemaVersion": 1,
+  "id": 6,
+  "sentence": {
+    "en": "That is good. I will be quick.",
+    "ar": "ذلك جيد. سأكون سريعًا.",
+    "context": "يطمئنها أنه لن يتأخر في الاستحمام."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "That is good.",
+        "ar": "ذلك جيد.",
+        "context": "تستعمل الجملة لتأكيد أن الأمر مناسب أو مقبول.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "الفعل يدل على وصف حالي ثابت للموقف في لحظة الكلام."
+        },
+        "wordMeanings": [
+          {
+            "term": "That",
+            "description": "اسم إشارة لشيء أو أمر سبق ذكره"
+          },
+          {
+            "term": "is",
+            "description": "يربط اسم الإشارة بالوصف في الحاضر"
+          },
+          {
+            "term": "good",
+            "description": "مناسب أو جيد في هذا الموقف"
+          }
+        ]
+      },
+      {
+        "sentence": "I will be quick.",
+        "ar": "سأكون سريعًا.",
+        "context": "تستعمل الجملة كوعد بأنه لن يستغرق وقتًا طويلًا.",
+        "grammar": {
+          "tense": "المستقبل البسيط",
+          "tenseEn": "Future Simple",
+          "reason": "استعمال will يوضح وعدًا أو قرارًا متعلقًا بوقت لاحق."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "المتكلم نفسه"
+          },
+          {
+            "term": "will",
+            "description": "يدل على فعل أو حالة في المستقبل"
+          },
+          {
+            "term": "be",
+            "description": "يأتي بعد will للتعبير عن حالة الشخص"
+          },
+          {
+            "term": "quick",
+            "description": "سريع ولا يأخذ وقتًا طويلًا"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "That is fine. I will be ready soon.",
+        "ar": "ذلك جيد. سأكون جاهزًا قريبًا.",
+        "context": "تقال عند قبول ترتيب مع وعد بعدم التأخير."
+      },
+      {
+        "id": 2,
+        "en": "That is okay. I will be careful.",
+        "ar": "ذلك لا بأس به. سأكون حذرًا.",
+        "context": "تقال لطمأنة شخص بعد تنبيه أو طلب."
+      },
+      {
+        "id": 3,
+        "en": "That is helpful. I will be there early.",
+        "ar": "ذلك مفيد. سأكون هناك مبكرًا.",
+        "context": "تقال بعد تلقي معلومة تساعد على الوصول في الوقت المناسب."
+      },
+      {
+        "id": 4,
+        "en": "That is perfect. I will be quiet.",
+        "ar": "ذلك مثالي. سأكون هادئًا.",
+        "context": "تقال عند الاتفاق على وضع يحتاج إلى الهدوء."
+      },
+      {
+        "id": 5,
+        "en": "That is good. I will be back soon.",
+        "ar": "ذلك جيد. سأعود قريبًا.",
+        "context": "تقال قبل مغادرة قصيرة مع طمأنة الآخر."
+      },
+      {
+        "id": 6,
+        "en": "That is clear. I will be quick with the call.",
+        "ar": "ذلك واضح. سأكون سريعًا في المكالمة.",
+        "context": "تقال بعد فهم طلب تقصير المكالمة."
+      },
+      {
+        "id": 7,
+        "en": "That is enough. I will be fast.",
+        "ar": "ذلك كاف. سأكون سريعًا.",
+        "context": "تقال عند الاستعداد لإنهاء أمر بسرعة."
+      },
+      {
+        "id": 8,
+        "en": "That is nice. I will be polite.",
+        "ar": "ذلك لطيف. سأكون مهذبًا.",
+        "context": "تقال عند الاستجابة لنصيحة عن طريقة التصرف."
+      },
+      {
+        "id": 9,
+        "en": "That is simple. I will be quick.",
+        "ar": "ذلك بسيط. سأكون سريعًا.",
+        "context": "تقال عندما يكون العمل سهلًا ولا يحتاج وقتًا."
+      },
+      {
+        "id": 10,
+        "en": "That is safe. I will be careful.",
+        "ar": "ذلك آمن. سأكون حذرًا.",
+        "context": "تقال عند الموافقة مع وعد بالانتباه."
+      }
+    ]
+  }
+}

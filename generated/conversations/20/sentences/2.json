@@ -1,0 +1,147 @@
+{
+  "schemaVersion": 1,
+  "id": 2,
+  "sentence": {
+    "en": "Not today. I want to stay here and watch the baseball practice.",
+    "ar": "ليس اليوم. أريد أن أبقى هنا وأشاهد تدريب البيسبول.",
+    "context": "يُشير إلى رياضة البيسبول كتمرين رياضي."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Not today.",
+        "ar": "ليس اليوم.",
+        "context": "رفض مختصر ومهذب لفعل الشيء اليوم.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "عبارة مختصرة بلا فعل كامل، وتفهم من السياق بمعنى لن أفعل ذلك اليوم."
+        },
+        "wordMeanings": [
+          {
+            "term": "Not",
+            "description": "ليس أو لا"
+          },
+          {
+            "term": "today",
+            "description": "اليوم"
+          }
+        ]
+      },
+      {
+        "sentence": "I want to stay here and watch the baseball practice.",
+        "ar": "أريد أن أبقى هنا وأشاهد تدريب البيسبول.",
+        "context": "يوضح ما يفضل فعله بدلا من الذهاب.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استخدم want للتعبير عن رغبة حالية، ثم جاء فعلان بعد to وand لما يريد فعله."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "أنا"
+          },
+          {
+            "term": "want",
+            "description": "أريد"
+          },
+          {
+            "term": "to",
+            "description": "تربط الرغبة بالفعل بعدها"
+          },
+          {
+            "term": "stay",
+            "description": "أبقى"
+          },
+          {
+            "term": "here",
+            "description": "هنا"
+          },
+          {
+            "term": "and",
+            "description": "و، للربط بين فعلين"
+          },
+          {
+            "term": "watch",
+            "description": "أشاهد"
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف لتدريب معروف"
+          },
+          {
+            "term": "baseball",
+            "description": "البيسبول"
+          },
+          {
+            "term": "practice",
+            "description": "تدريب أو تمرين"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Not today. I want to rest.",
+        "ar": "ليس اليوم. أريد أن أرتاح.",
+        "context": "رفض خطة بسبب الحاجة للراحة."
+      },
+      {
+        "id": 2,
+        "en": "I want to stay here and read.",
+        "ar": "أريد أن أبقى هنا وأقرأ.",
+        "context": "تعبير عن رغبة في البقاء."
+      },
+      {
+        "id": 3,
+        "en": "I want to watch the football practice.",
+        "ar": "أريد أن أشاهد تدريب كرة القدم.",
+        "context": "رغبة في متابعة تدريب رياضي."
+      },
+      {
+        "id": 4,
+        "en": "Not today. I have work.",
+        "ar": "ليس اليوم. لدي عمل.",
+        "context": "رفض بسبب الانشغال."
+      },
+      {
+        "id": 5,
+        "en": "I want to stay home and sleep.",
+        "ar": "أريد أن أبقى في البيت وأنام.",
+        "context": "شرح رغبة بسيطة في الراحة."
+      },
+      {
+        "id": 6,
+        "en": "I want to watch the basketball game.",
+        "ar": "أريد أن أشاهد مباراة كرة السلة.",
+        "context": "رغبة في مشاهدة مباراة."
+      },
+      {
+        "id": 7,
+        "en": "Not today. I want to study.",
+        "ar": "ليس اليوم. أريد أن أدرس.",
+        "context": "رفض الخروج بسبب الدراسة."
+      },
+      {
+        "id": 8,
+        "en": "I want to stay here with my friend.",
+        "ar": "أريد أن أبقى هنا مع صديقي.",
+        "context": "توضيح سبب البقاء في المكان."
+      },
+      {
+        "id": 9,
+        "en": "I want to watch the team practice.",
+        "ar": "أريد أن أشاهد تدريب الفريق.",
+        "context": "رغبة في متابعة تمرين فريق."
+      },
+      {
+        "id": 10,
+        "en": "Not today. I will go tomorrow.",
+        "ar": "ليس اليوم. سأذهب غدا.",
+        "context": "تأجيل الخطة إلى يوم آخر."
+      }
+    ]
+  }
+}

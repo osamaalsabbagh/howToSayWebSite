@@ -1,0 +1,147 @@
+{
+  "schemaVersion": 1,
+  "id": 10,
+  "sentence": {
+    "en": "Look, my boy. There are several bottles of juice in this box.",
+    "ar": "انظر يا ولدي. يوجد عدة قوارير من العصير في هذه العلبة.",
+    "context": "يبدأ الأب بشرح رمزي مستخدمًا العلبة كمثال."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Look my boy",
+        "ar": "انظر يا ولدي.",
+        "context": "نداء وتمهيد لجذب انتباه الابن قبل الشرح.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "الأمر Look يستخدم للتنبيه، و my boy نداء حنون."
+        },
+        "wordMeanings": [
+          {
+            "term": "Look",
+            "description": "انظر أو انتبه"
+          },
+          {
+            "term": "my",
+            "description": "ملكي وتدل على القرب"
+          },
+          {
+            "term": "boy",
+            "description": "يا ولدي"
+          }
+        ]
+      },
+      {
+        "sentence": "There are several bottles of juice in this box",
+        "ar": "يوجد عدة قوارير من العصير في هذه العلبة.",
+        "context": "جملة تصف ما يوجد داخل العلبة.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "تركيب There are يستخدم لإثبات وجود أشياء جمع في مكان ما الآن."
+        },
+        "wordMeanings": [
+          {
+            "term": "There",
+            "description": "تبدأ تعبيرا عن وجود شيء"
+          },
+          {
+            "term": "are",
+            "description": "صيغة تدل على الحالة مع الجمع"
+          },
+          {
+            "term": "several",
+            "description": "عدة"
+          },
+          {
+            "term": "bottles",
+            "description": "قوارير أو زجاجات"
+          },
+          {
+            "term": "of",
+            "description": "من وتربط الكلمات"
+          },
+          {
+            "term": "juice",
+            "description": "عصير"
+          },
+          {
+            "term": "in",
+            "description": "داخل"
+          },
+          {
+            "term": "this",
+            "description": "هذا أو هذه القريبة"
+          },
+          {
+            "term": "box",
+            "description": "علبة أو صندوق"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "There are several books in this bag",
+        "ar": "يوجد عدة كتب في هذه الحقيبة",
+        "context": "يقال لوصف محتويات شيء"
+      },
+      {
+        "id": 2,
+        "en": "Please put it here",
+        "ar": "من فضلك ضعه هنا",
+        "context": "يقال عند طلب وضع شيء في مكان قريب"
+      },
+      {
+        "id": 3,
+        "en": "This is clear now",
+        "ar": "هذا واضح الآن",
+        "context": "يقال بعد فهم شرح أو مثال"
+      },
+      {
+        "id": 4,
+        "en": "There are two cups on the table",
+        "ar": "يوجد كوبان على الطاولة",
+        "context": "يقال لوصف أشياء في مكان محدد"
+      },
+      {
+        "id": 5,
+        "en": "I can help you now",
+        "ar": "يمكنني مساعدتك الآن",
+        "context": "يقال عند عرض المساعدة"
+      },
+      {
+        "id": 6,
+        "en": "It is safe inside",
+        "ar": "إنه آمن في الداخل",
+        "context": "يقال لوصف مكان محمي"
+      },
+      {
+        "id": 7,
+        "en": "They are ready outside",
+        "ar": "هم جاهزون في الخارج",
+        "context": "يقال لوصف الاستعداد في مكان خارجي"
+      },
+      {
+        "id": 8,
+        "en": "Now close the box tightly",
+        "ar": "الآن أغلق العلبة بإحكام",
+        "context": "يقال عند إعطاء تعليمات لحماية شيء"
+      },
+      {
+        "id": 9,
+        "en": "I understand the idea",
+        "ar": "أنا أفهم الفكرة",
+        "context": "يقال عندما تصبح الفكرة واضحة"
+      },
+      {
+        "id": 10,
+        "en": "That makes sense",
+        "ar": "ذلك منطقي",
+        "context": "يقال عندما يبدو الكلام معقولا"
+      }
+    ]
+  }
+}

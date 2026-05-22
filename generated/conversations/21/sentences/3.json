@@ -1,0 +1,131 @@
+{
+  "schemaVersion": 1,
+  "id": 3,
+  "sentence": {
+    "en": "The bathroom is free, you can go in.",
+    "ar": "الحمام فارغ، يمكنك الدخول.",
+    "context": "الحمام يقصد به الغرفة التي فيها المرحاض أو مكان الاستحمام."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "The bathroom is free,",
+        "ar": "الحمام فارغ،",
+        "context": "يخبره أن الحمام متاح للاستخدام الآن.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استخدم is لوصف حالة الحمام الحالية."
+        },
+        "wordMeanings": [
+          {
+            "term": "The",
+            "description": "أداة تعريف لحمام معروف في البيت"
+          },
+          {
+            "term": "bathroom",
+            "description": "الحمام أو غرفة الاستحمام والمرحاض"
+          },
+          {
+            "term": "is",
+            "description": "يكون أو هو"
+          },
+          {
+            "term": "free",
+            "description": "متاح أو غير مشغول"
+          }
+        ]
+      },
+      {
+        "sentence": "you can go in.",
+        "ar": "يمكنك الدخول.",
+        "context": "يعطي إذنا أو يوضح أن الدخول ممكن الآن.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "can تركيب يدل على القدرة أو الإذن، وليس زمنا مستقلا مثل الأزمنة البسيطة."
+        },
+        "wordMeanings": [
+          {
+            "term": "you",
+            "description": "أنت"
+          },
+          {
+            "term": "can",
+            "description": "يمكنك أو تستطيع"
+          },
+          {
+            "term": "go",
+            "description": "تذهب أو تدخل حسب السياق"
+          },
+          {
+            "term": "in",
+            "description": "إلى الداخل"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "The room is free, you can go in.",
+        "ar": "الغرفة متاحة، يمكنك الدخول.",
+        "context": "إخبار شخص أن المكان لم يعد مشغولا."
+      },
+      {
+        "id": 2,
+        "en": "The bathroom is clean now.",
+        "ar": "الحمام نظيف الآن.",
+        "context": "وصف حالة الحمام الحالية."
+      },
+      {
+        "id": 3,
+        "en": "You can go in after me.",
+        "ar": "يمكنك الدخول بعدي.",
+        "context": "إعطاء ترتيب لاستخدام مكان."
+      },
+      {
+        "id": 4,
+        "en": "The kitchen is free.",
+        "ar": "المطبخ متاح.",
+        "context": "إخبار شخص أن المكان جاهز للاستخدام."
+      },
+      {
+        "id": 5,
+        "en": "You can use the bathroom.",
+        "ar": "يمكنك استخدام الحمام.",
+        "context": "إذن مباشر باستخدام الحمام."
+      },
+      {
+        "id": 6,
+        "en": "The hall is free after seven.",
+        "ar": "القاعة متاحة بعد السابعة.",
+        "context": "تحديد وقت توفر مكان."
+      },
+      {
+        "id": 7,
+        "en": "You can come in now.",
+        "ar": "يمكنك الدخول الآن.",
+        "context": "السماح بالدخول في هذه اللحظة."
+      },
+      {
+        "id": 8,
+        "en": "The office is free this morning.",
+        "ar": "المكتب متاح هذا الصباح.",
+        "context": "وصف توفر مكتب."
+      },
+      {
+        "id": 9,
+        "en": "You can go in quietly.",
+        "ar": "يمكنك الدخول بهدوء.",
+        "context": "إذن بالدخول مع طريقة معينة."
+      },
+      {
+        "id": 10,
+        "en": "The bathroom is free for ten minutes.",
+        "ar": "الحمام متاح لعشر دقائق.",
+        "context": "إخبار شخص بمدة توفر المكان."
+      }
+    ]
+  }
+}

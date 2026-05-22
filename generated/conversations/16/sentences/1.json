@@ -1,0 +1,135 @@
+{
+  "schemaVersion": 1,
+  "id": 1,
+  "sentence": {
+    "en": "Look at all these animals! This place is amazing!",
+    "ar": "انظر إلى كل هذه الحيوانات! هذا المكان مذهل!",
+    "context": "طفل يعبر عن انبهاره بعد دخوله إلى حديقة الحيوانات، ويشير إلى تنوع الكائنات هناك"
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Look at all these animals!",
+        "ar": "انظر إلى كل هذه الحيوانات!",
+        "context": "يعبر الطفل عن الانبهار ويدعو للنظر إلى الحيوانات. ",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "Look فعل أمر مباشر، لذلك لا يحمل زمنًا مستقلًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "Look",
+            "description": "انظر."
+          },
+          {
+            "term": "at",
+            "description": "في أو عند."
+          },
+          {
+            "term": "all",
+            "description": "كل."
+          },
+          {
+            "term": "these",
+            "description": "هذه."
+          },
+          {
+            "term": "animals",
+            "description": "حيوانات."
+          }
+        ]
+      },
+      {
+        "sentence": "This place is amazing!",
+        "ar": "هذا المكان مذهل!",
+        "context": "تصف الجملة إعجاب الطفل بالمكان.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استعمل is لوصف المكان في الحاضر."
+        },
+        "wordMeanings": [
+          {
+            "term": "This",
+            "description": "هذا."
+          },
+          {
+            "term": "place",
+            "description": "مكان."
+          },
+          {
+            "term": "is",
+            "description": "يدل على حالة أو وصف في الحاضر."
+          },
+          {
+            "term": "amazing",
+            "description": "مذهل."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Look at these birds!",
+        "ar": "انظر إلى هذه الطيور!",
+        "context": "تعجب عند رؤية حيوانات."
+      },
+      {
+        "id": 2,
+        "en": "This place is beautiful.",
+        "ar": "هذا المكان جميل.",
+        "context": "تعبير عن الإعجاب بالمكان."
+      },
+      {
+        "id": 3,
+        "en": "They have a small garden inside.",
+        "ar": "لديهم حديقة صغيرة في الداخل.",
+        "context": "إضافة معلومة عن مكان داخلي."
+      },
+      {
+        "id": 4,
+        "en": "Can we see the monkeys next?",
+        "ar": "هل يمكننا رؤية القرود تاليًا؟",
+        "context": "طلب للانتقال إلى حيوان آخر."
+      },
+      {
+        "id": 5,
+        "en": "The children want to see the elephants.",
+        "ar": "يريد الأطفال رؤية الفيلة.",
+        "context": "تصف رغبة في زيارة قسم معين."
+      },
+      {
+        "id": 6,
+        "en": "We can go inside now.",
+        "ar": "يمكننا الدخول الآن.",
+        "context": "تقال عند السماح بالدخول."
+      },
+      {
+        "id": 7,
+        "en": "The lion area is next.",
+        "ar": "منطقة الأسود تالية.",
+        "context": "تحديد وجهة في حديقة الحيوان."
+      },
+      {
+        "id": 8,
+        "en": "This garden has many butterflies.",
+        "ar": "هذه الحديقة فيها فراشات كثيرة.",
+        "context": "وصف مكان مخصص للفراشات."
+      },
+      {
+        "id": 9,
+        "en": "Look at all those animals.",
+        "ar": "انظر إلى كل تلك الحيوانات.",
+        "context": "لفت انتباه إلى مجموعة حيوانات."
+      },
+      {
+        "id": 10,
+        "en": "Can we visit the elephants after lunch?",
+        "ar": "هل يمكننا زيارة الفيلة بعد الغداء؟",
+        "context": "طلب مؤجل لزيارة قسم معين."
+      }
+    ]
+  }
+}

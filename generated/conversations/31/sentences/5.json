@@ -1,0 +1,119 @@
+{
+  "schemaVersion": 1,
+  "id": 5,
+  "sentence": {
+    "en": "Doors locked, lights off. Ready?",
+    "ar": "الأبواب مقفلة، والأنوار مطفأة. جاهز؟",
+    "context": "إغلاق البيت قبل المغادرة ليوضح الانتقال."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Doors locked, lights off.",
+        "ar": "الأبواب مقفلة، والأنوار مطفأة.",
+        "context": "تراجع سريع لحالة البيت قبل الخروج.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه عبارات مختصرة محذوف منها الفعل، وتصف حالة الأشياء."
+        },
+        "wordMeanings": [
+          {
+            "term": "Doors",
+            "description": "الأبواب"
+          },
+          {
+            "term": "locked",
+            "description": "مقفلة أو مغلقة بالمفتاح"
+          },
+          {
+            "term": "lights",
+            "description": "الأنوار"
+          },
+          {
+            "term": "off",
+            "description": "مطفأة أو غير عاملة"
+          }
+        ]
+      },
+      {
+        "sentence": "Ready?",
+        "ar": "جاهز؟",
+        "context": "سؤال مختصر للتأكد من الاستعداد للمغادرة.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "كلمة سؤال مختصرة بلا فعل ظاهر."
+        },
+        "wordMeanings": [
+          {
+            "term": "Ready",
+            "description": "جاهز أو مستعد"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Bags ready, shoes on. Ready?",
+        "ar": "الحقائب جاهزة، والأحذية ملبوسة. جاهز؟",
+        "context": "تقال قبل الخروج."
+      },
+      {
+        "id": 2,
+        "en": "Doors locked and lights off.",
+        "ar": "الأبواب مقفلة والأنوار مطفأة.",
+        "context": "تقال للتأكد من أمان البيت."
+      },
+      {
+        "id": 3,
+        "en": "Phone charged, coat ready.",
+        "ar": "الهاتف مشحون، والمعطف جاهز.",
+        "context": "تقال عند مراجعة الاستعداد."
+      },
+      {
+        "id": 4,
+        "en": "Ready to leave?",
+        "ar": "هل أنت جاهز للمغادرة؟",
+        "context": "تقال قبل الانطلاق."
+      },
+      {
+        "id": 5,
+        "en": "The lights are off.",
+        "ar": "الأنوار مطفأة.",
+        "context": "تقال عند التأكد من إطفاء الأنوار."
+      },
+      {
+        "id": 6,
+        "en": "The doors are locked.",
+        "ar": "الأبواب مقفلة.",
+        "context": "تقال عند تأمين البيت."
+      },
+      {
+        "id": 7,
+        "en": "Umbrella ready, boots on.",
+        "ar": "المظلة جاهزة، والجزمة ملبوسة.",
+        "context": "تقال قبل الخروج في المطر."
+      },
+      {
+        "id": 8,
+        "en": "Everything is ready.",
+        "ar": "كل شيء جاهز.",
+        "context": "تقال عند إتمام التحضير."
+      },
+      {
+        "id": 9,
+        "en": "Windows closed, lights off.",
+        "ar": "النوافذ مغلقة، والأنوار مطفأة.",
+        "context": "تقال عند مراجعة البيت."
+      },
+      {
+        "id": 10,
+        "en": "Ready? Let us go.",
+        "ar": "جاهز؟ لنذهب.",
+        "context": "تقال في لحظة المغادرة."
+      }
+    ]
+  }
+}

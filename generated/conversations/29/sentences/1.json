@@ -1,0 +1,119 @@
+{
+  "schemaVersion": 1,
+  "id": 1,
+  "sentence": {
+    "en": "Hi John, how are you?",
+    "ar": "مرحبًا جون، كيف حالك؟",
+    "context": "افتتاح عادي للحوار."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Hi John",
+        "ar": "مرحبًا جون",
+        "context": "تحية مباشرة لشخص اسمه جون.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه تحية ونداء، ولا تحتوي على فعل بزمن مستقل."
+        },
+        "wordMeanings": [
+          {
+            "term": "Hi",
+            "description": "مرحبًا، تحية غير رسمية"
+          },
+          {
+            "term": "John",
+            "description": "اسم الشخص المخاطب"
+          }
+        ]
+      },
+      {
+        "sentence": "how are you?",
+        "ar": "كيف حالك؟",
+        "context": "سؤال عادي عن حال الشخص في بداية الحديث.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "are يسأل عن حالة الشخص الحالية."
+        },
+        "wordMeanings": [
+          {
+            "term": "how",
+            "description": "كيف، للسؤال عن الحال"
+          },
+          {
+            "term": "are",
+            "description": "تأتي مع المخاطب للسؤال عن حالته"
+          },
+          {
+            "term": "you",
+            "description": "الشخص المخاطب"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Hi Sara, how are you?",
+        "ar": "مرحبًا سارة، كيف حالك؟",
+        "context": "تقال عند بدء حديث مع صديقة."
+      },
+      {
+        "id": 2,
+        "en": "Hi John, how is your day?",
+        "ar": "مرحبًا جون، كيف يومك؟",
+        "context": "تقال للسؤال عن يوم شخص."
+      },
+      {
+        "id": 3,
+        "en": "Hello, how are you today?",
+        "ar": "مرحبًا، كيف حالك اليوم؟",
+        "context": "تقال كتحية مهذبة."
+      },
+      {
+        "id": 4,
+        "en": "Hi, are you okay?",
+        "ar": "مرحبًا، هل أنت بخير؟",
+        "context": "تقال عند القلق على شخص."
+      },
+      {
+        "id": 5,
+        "en": "Good morning John, how are you?",
+        "ar": "صباح الخير جون، كيف حالك؟",
+        "context": "تقال في بداية اليوم."
+      },
+      {
+        "id": 6,
+        "en": "Hi Mike, how are things?",
+        "ar": "مرحبًا مايك، كيف الأمور؟",
+        "context": "تقال بشكل ودي غير رسمي."
+      },
+      {
+        "id": 7,
+        "en": "Hi John, are you busy?",
+        "ar": "مرحبًا جون، هل أنت مشغول؟",
+        "context": "تقال قبل طلب الحديث."
+      },
+      {
+        "id": 8,
+        "en": "Hello John, how do you feel?",
+        "ar": "مرحبًا جون، كيف تشعر؟",
+        "context": "تقال عند السؤال عن الحالة النفسية أو الجسدية."
+      },
+      {
+        "id": 9,
+        "en": "Hi, how is your family?",
+        "ar": "مرحبًا، كيف حال عائلتك؟",
+        "context": "تقال عند السؤال بلطف عن العائلة."
+      },
+      {
+        "id": 10,
+        "en": "Hi John, nice to see you.",
+        "ar": "مرحبًا جون، سعيد برؤيتك.",
+        "context": "تقال عند لقاء شخص معروف."
+      }
+    ]
+  }
+}

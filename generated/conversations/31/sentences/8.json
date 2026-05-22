@@ -1,0 +1,135 @@
+{
+  "schemaVersion": 1,
+  "id": 8,
+  "sentence": {
+    "en": "Let us walk faster. You will feel warmer soon.",
+    "ar": "دعينا نمشِ بسرعة، ستشعرين أدفأ قريبًا.",
+    "context": "ستشعرين أدفأ تعني ستشعرين بأنك أدفأ."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Let us walk faster.",
+        "ar": "دعينا نمشي أسرع.",
+        "context": "يقترح زيادة السرعة لتخفيف البرد.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "Let us صيغة اقتراح وليست زمنًا مستقلًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "Let",
+            "description": "تستعمل لاقتراح فعل مشترك"
+          },
+          {
+            "term": "us",
+            "description": "نحن"
+          },
+          {
+            "term": "walk",
+            "description": "نمشي"
+          },
+          {
+            "term": "faster",
+            "description": "بسرعة أكبر"
+          }
+        ]
+      },
+      {
+        "sentence": "You will feel warmer soon.",
+        "ar": "ستشعرين بدفء أكثر قريبًا.",
+        "context": "يطمئنها بأن المشي الأسرع سيجعلها أدفأ.",
+        "grammar": {
+          "tense": "المستقبل البسيط",
+          "tenseEn": "Future Simple",
+          "reason": "will feel يتوقع شعورًا سيحدث بعد قليل."
+        },
+        "wordMeanings": [
+          {
+            "term": "You",
+            "description": "الشخص المخاطب"
+          },
+          {
+            "term": "will",
+            "description": "تدل على المستقبل"
+          },
+          {
+            "term": "feel",
+            "description": "تشعرين"
+          },
+          {
+            "term": "warmer",
+            "description": "أدفأ أو أكثر دفئًا"
+          },
+          {
+            "term": "soon",
+            "description": "قريبًا"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Let us walk faster to stay warm.",
+        "ar": "دعنا نمشي أسرع لنبقى دافئين.",
+        "context": "تقال في طقس بارد."
+      },
+      {
+        "id": 2,
+        "en": "You will feel better soon.",
+        "ar": "ستشعر بتحسن قريبًا.",
+        "context": "تقال لطمأنة شخص."
+      },
+      {
+        "id": 3,
+        "en": "Walk faster and you will feel warm.",
+        "ar": "امش أسرع وستشعر بالدفء.",
+        "context": "تقال كنصيحة ضد البرد."
+      },
+      {
+        "id": 4,
+        "en": "Let us move quickly.",
+        "ar": "دعنا نتحرك بسرعة.",
+        "context": "تقال عند استعجال الطريق."
+      },
+      {
+        "id": 5,
+        "en": "You will feel warmer inside the cafe.",
+        "ar": "ستشعر بدفء أكثر داخل المقهى.",
+        "context": "تقال عند الاقتراب من مكان دافئ."
+      },
+      {
+        "id": 6,
+        "en": "Let us go faster before it rains more.",
+        "ar": "دعنا نذهب أسرع قبل أن يزداد المطر.",
+        "context": "تقال في طقس ممطر."
+      },
+      {
+        "id": 7,
+        "en": "She will feel warmer with a scarf.",
+        "ar": "ستشعر بدفء أكثر مع وشاح.",
+        "context": "تقال عند اقتراح ملابس دافئة."
+      },
+      {
+        "id": 8,
+        "en": "Let us walk to the bridge.",
+        "ar": "دعنا نمشي إلى الجسر.",
+        "context": "تقال عند تحديد الطريق."
+      },
+      {
+        "id": 9,
+        "en": "You will feel fine soon.",
+        "ar": "ستشعر بأنك بخير قريبًا.",
+        "context": "تقال للتطمين."
+      },
+      {
+        "id": 10,
+        "en": "The hot drink will make you feel warmer.",
+        "ar": "المشروب الساخن سيجعلك تشعر بدفء أكثر.",
+        "context": "تقال بعد دخول مكان دافئ."
+      }
+    ]
+  }
+}

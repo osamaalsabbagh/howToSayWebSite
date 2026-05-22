@@ -1,0 +1,135 @@
+{
+  "schemaVersion": 1,
+  "id": 4,
+  "sentence": {
+    "en": "Some of it went bad before we used it.",
+    "ar": "بعضها فسد قبل أن نستعمله.",
+    "context": "يكمل التفسير بأن الفواكه فسدت قبل الاستخدام."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Some of it went bad",
+        "ar": "بعضها فسد.",
+        "context": "توضح العبارة أن جزءًا من الفاكهة تلف.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "استعمل went bad لأن التلف حدث في الماضي."
+        },
+        "wordMeanings": [
+          {
+            "term": "Some",
+            "description": "بعض."
+          },
+          {
+            "term": "of",
+            "description": "من أو في تعبير ثابت حسب السياق."
+          },
+          {
+            "term": "it",
+            "description": "ضمير يعود على الشيء المذكور."
+          },
+          {
+            "term": "went",
+            "description": "ذهب أو صار في الماضي."
+          },
+          {
+            "term": "bad",
+            "description": "فاسدة أو سيئة."
+          }
+        ]
+      },
+      {
+        "sentence": "before we used it.",
+        "ar": "قبل أن نستعمله.",
+        "context": "تحدد العبارة أن التلف حدث قبل الاستخدام.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "استعمل used لأن الاستعمال كان حدثًا ماضيًا مقارنًا بوقت التلف."
+        },
+        "wordMeanings": [
+          {
+            "term": "before",
+            "description": "قبل."
+          },
+          {
+            "term": "we",
+            "description": "ضمير المتكلمين."
+          },
+          {
+            "term": "used",
+            "description": "استعملنا في الماضي."
+          },
+          {
+            "term": "it",
+            "description": "ضمير يعود على الشيء المذكور."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "These apples have gone bad.",
+        "ar": "لقد فسدت هذه التفاحات.",
+        "context": "تقال عند تلف الطعام."
+      },
+      {
+        "id": 2,
+        "en": "I brought too much food last time.",
+        "ar": "جلبت طعامًا كثيرًا جدًا في المرة الماضية.",
+        "context": "شرح سبب وجود فائض."
+      },
+      {
+        "id": 3,
+        "en": "Some of it went bad before dinner.",
+        "ar": "فسد بعضه قبل العشاء.",
+        "context": "تصف تلف الطعام قبل استخدامه."
+      },
+      {
+        "id": 4,
+        "en": "I usually use everything you bring.",
+        "ar": "عادة أستعمل كل ما تجلبه.",
+        "context": "تصف عادة في البيت."
+      },
+      {
+        "id": 5,
+        "en": "This time I was very busy.",
+        "ar": "هذه المرة كنت مشغولًا جدًا.",
+        "context": "تقديم سبب لعدم إنجاز شيء."
+      },
+      {
+        "id": 6,
+        "en": "The kids had problems at school.",
+        "ar": "كان لدى الأطفال مشاكل في المدرسة.",
+        "context": "ذكر سبب الانشغال."
+      },
+      {
+        "id": 7,
+        "en": "Please arrange the kitchen next time.",
+        "ar": "من فضلك رتب المطبخ في المرة القادمة.",
+        "context": "طلب تحسين التنظيم لاحقًا."
+      },
+      {
+        "id": 8,
+        "en": "Use the fruit before it goes bad.",
+        "ar": "استعمل الفاكهة قبل أن تفسد.",
+        "context": "نصيحة لتجنب الهدر."
+      },
+      {
+        "id": 9,
+        "en": "I cannot find the basket.",
+        "ar": "لا أستطيع أن أجد السلة.",
+        "context": "تقال عند فقدان شيء."
+      },
+      {
+        "id": 10,
+        "en": "Maybe we put it in the storage room.",
+        "ar": "ربما وضعناها في غرفة التخزين.",
+        "context": "اقتراح مكان محتمل لشيء مفقود."
+      }
+    ]
+  }
+}

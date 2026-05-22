@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": 4,
+  "sentence": {
+    "en": "Is it clean?",
+    "ar": "هل هو نظيف؟",
+    "context": "يسأل عن حالة الحمام قبل الدخول."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Is it clean?",
+        "ar": "هل هو نظيف؟",
+        "context": "سؤال قصير عن نظافة الحمام أو الشيء المقصود.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "بدأ السؤال بـ is لأن المتكلم يسأل عن حالة حالية للشيء."
+        },
+        "wordMeanings": [
+          {
+            "term": "Is",
+            "description": "هل يكون أو هل هو، وتبدأ بها أسئلة الوصف"
+          },
+          {
+            "term": "it",
+            "description": "هو أو هي لشيء غير عاقل مذكور سابقا"
+          },
+          {
+            "term": "clean",
+            "description": "نظيف"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Is it ready?",
+        "ar": "هل هو جاهز؟",
+        "context": "سؤال عن جاهزية شيء."
+      },
+      {
+        "id": 2,
+        "en": "Is it safe?",
+        "ar": "هل هو آمن؟",
+        "context": "سؤال عن السلامة قبل الاستخدام."
+      },
+      {
+        "id": 3,
+        "en": "Is it open?",
+        "ar": "هل هو مفتوح؟",
+        "context": "سؤال عن حالة مكان أو باب."
+      },
+      {
+        "id": 4,
+        "en": "Is it empty?",
+        "ar": "هل هو فارغ؟",
+        "context": "سؤال عن توفر مكان أو وعاء."
+      },
+      {
+        "id": 5,
+        "en": "Is it clean enough?",
+        "ar": "هل هو نظيف بما يكفي؟",
+        "context": "سؤال عن مستوى النظافة."
+      },
+      {
+        "id": 6,
+        "en": "Is the bathroom clean?",
+        "ar": "هل الحمام نظيف؟",
+        "context": "سؤال مباشر عن الحمام."
+      },
+      {
+        "id": 7,
+        "en": "Is it warm inside?",
+        "ar": "هل هو دافئ في الداخل؟",
+        "context": "سؤال قبل دخول مكان."
+      },
+      {
+        "id": 8,
+        "en": "Is it quiet now?",
+        "ar": "هل هو هادئ الآن؟",
+        "context": "سؤال عن حالة مكان في الوقت الحالي."
+      },
+      {
+        "id": 9,
+        "en": "Is it close to the room?",
+        "ar": "هل هو قريب من الغرفة؟",
+        "context": "سؤال عن موقع شيء."
+      },
+      {
+        "id": 10,
+        "en": "Is it easy to use?",
+        "ar": "هل هو سهل الاستخدام؟",
+        "context": "سؤال عن سهولة استعمال شيء."
+      }
+    ]
+  }
+}

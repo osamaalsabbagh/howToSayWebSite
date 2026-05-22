@@ -1,0 +1,119 @@
+{
+  "schemaVersion": 1,
+  "id": 10,
+  "sentence": {
+    "en": "That is the best lesson we can learn.",
+    "ar": "ذلك هو أفضل درس يمكن أن نتعلمه.",
+    "context": "يلخص الفكرة بأن هذا هو أعظم ما يمكن استخلاصه."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "That is the best lesson we can learn.",
+        "ar": "ذلك هو أفضل درس يمكن أن نتعلمه.",
+        "context": "تلخص الجملة الفكرة الأساسية التي خرجا بها من الحديث.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "is يصف حكمًا حاليًا أو عامًا، وcan learn يعبر عن قدرة أو إمكانية."
+        },
+        "wordMeanings": [
+          {
+            "term": "That",
+            "description": "ذلك، أي الفكرة المذكورة"
+          },
+          {
+            "term": "is",
+            "description": "يربط الفكرة بالوصف"
+          },
+          {
+            "term": "the",
+            "description": "تحدد الدرس بأنه الأهم"
+          },
+          {
+            "term": "best",
+            "description": "الأفضل"
+          },
+          {
+            "term": "lesson",
+            "description": "درس أو فائدة مستخلصة"
+          },
+          {
+            "term": "we",
+            "description": "نحن"
+          },
+          {
+            "term": "can",
+            "description": "نستطيع أو يمكننا"
+          },
+          {
+            "term": "learn",
+            "description": "نتعلم أو نستفيد"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "That is the best advice I can give.",
+        "ar": "تلك هي أفضل نصيحة يمكنني أن أعطيها.",
+        "context": "تقال عند تلخيص نصيحة مهمة."
+      },
+      {
+        "id": 2,
+        "en": "That is the best lesson from the mistake.",
+        "ar": "ذلك هو أفضل درس من الخطأ.",
+        "context": "تقال بعد التعلم من تجربة سيئة."
+      },
+      {
+        "id": 3,
+        "en": "We can learn from every result.",
+        "ar": "يمكننا أن نتعلم من كل نتيجة.",
+        "context": "تقال عند تشجيع التعلم المستمر."
+      },
+      {
+        "id": 4,
+        "en": "That is the best choice we can make.",
+        "ar": "ذلك هو أفضل خيار يمكننا اتخاذه.",
+        "context": "تقال عند تأكيد قرار."
+      },
+      {
+        "id": 5,
+        "en": "This is the lesson we can learn.",
+        "ar": "هذا هو الدرس الذي يمكننا تعلمه.",
+        "context": "تقال عند شرح مغزى موقف."
+      },
+      {
+        "id": 6,
+        "en": "That is the best way to improve.",
+        "ar": "ذلك هو أفضل طريقة للتحسن.",
+        "context": "تقال عند تلخيص وسيلة مفيدة."
+      },
+      {
+        "id": 7,
+        "en": "We can learn a lesson from effort.",
+        "ar": "يمكننا أن نتعلم درسًا من الجهد.",
+        "context": "تقال عند ربط التعلم بالعمل."
+      },
+      {
+        "id": 8,
+        "en": "That is the best idea for today.",
+        "ar": "تلك هي أفضل فكرة لليوم.",
+        "context": "تقال عند اختيار فكرة مناسبة."
+      },
+      {
+        "id": 9,
+        "en": "The best lesson is to keep trying.",
+        "ar": "أفضل درس هو أن نستمر في المحاولة.",
+        "context": "تقال عند تشجيع عدم الاستسلام."
+      },
+      {
+        "id": 10,
+        "en": "That is something we can learn together.",
+        "ar": "ذلك شيء يمكننا أن نتعلمه معًا.",
+        "context": "تقال عند مشاركة تجربة تعلم."
+      }
+    ]
+  }
+}

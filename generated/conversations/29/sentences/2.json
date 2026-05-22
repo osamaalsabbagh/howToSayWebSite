@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "id": 2,
+  "sentence": {
+    "en": "Not bad.",
+    "ar": "ليس سيئًا.",
+    "context": "يرد بجملة قصيرة لكنه غير مرتاح."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Not bad.",
+        "ar": "ليس سيئًا.",
+        "context": "تستعمل كإجابة مختصرة تعني أن الحال مقبول لكنه ليس ممتازًا.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه عبارة وصفية مختصرة بلا فعل ظاهر مستقل."
+        },
+        "wordMeanings": [
+          {
+            "term": "Not",
+            "description": "تنفي الوصف التالي"
+          },
+          {
+            "term": "bad",
+            "description": "سيئ"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Not bad, thank you.",
+        "ar": "ليس سيئًا، شكرًا لك.",
+        "context": "تقال ردًا على سؤال عن الحال."
+      },
+      {
+        "id": 2,
+        "en": "The food is not bad.",
+        "ar": "الطعام ليس سيئًا.",
+        "context": "تقال عند تقييم شيء بأنه مقبول."
+      },
+      {
+        "id": 3,
+        "en": "My day is not bad.",
+        "ar": "يومي ليس سيئًا.",
+        "context": "تقال عند وصف يوم عادي."
+      },
+      {
+        "id": 4,
+        "en": "Not bad, but I am tired.",
+        "ar": "ليس سيئًا، لكنني متعب.",
+        "context": "تقال عند وجود تعب رغم أن الحال مقبول."
+      },
+      {
+        "id": 5,
+        "en": "The plan is not bad.",
+        "ar": "الخطة ليست سيئة.",
+        "context": "تقال عند قبول فكرة مع تحفظ."
+      },
+      {
+        "id": 6,
+        "en": "This price is not bad.",
+        "ar": "هذا السعر ليس سيئًا.",
+        "context": "تقال عند تقييم سعر مناسب."
+      },
+      {
+        "id": 7,
+        "en": "Not bad for a first try.",
+        "ar": "ليس سيئًا لمحاولة أولى.",
+        "context": "تقال عند تشجيع شخص بعد تجربة."
+      },
+      {
+        "id": 8,
+        "en": "His answer was not bad.",
+        "ar": "كانت إجابته ليست سيئة.",
+        "context": "تقال عند تقييم إجابة."
+      },
+      {
+        "id": 9,
+        "en": "Not bad, just a little slow.",
+        "ar": "ليس سيئًا، فقط بطيء قليلًا.",
+        "context": "تقال عند ملاحظة عيب بسيط."
+      },
+      {
+        "id": 10,
+        "en": "The result is not bad.",
+        "ar": "النتيجة ليست سيئة.",
+        "context": "تقال عند الرضا الجزئي عن نتيجة."
+      }
+    ]
+  }
+}

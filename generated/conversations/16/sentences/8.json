@@ -1,0 +1,175 @@
+{
+  "schemaVersion": 1,
+  "id": 8,
+  "sentence": {
+    "en": "Good. Let us get some ice cream, and then we will go to the lion area.",
+    "ar": "جيد. لنأخذ بعض البوظة، وثم سوف نذهب إلى منطقة الأسد.",
+    "context": "المقصود بـ'منطقة الأسد' هو القسم المخصص للأسود داخل حديقة الحيوان، وقد كُتبت الترجمة بهذا الشكل لتوحي بالمقابل الإنجليزي المباشر، لأن هذا هو الأسلوب الشائع في الإنجليزية."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Good.",
+        "ar": "جيد.",
+        "context": "يعبر الأب عن الموافقة على هدوء الطفل. ",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "Good هنا كلمة تقييم أو قبول قصيرة بلا زمن مستقل."
+        },
+        "wordMeanings": [
+          {
+            "term": "Good",
+            "description": "جيد."
+          }
+        ]
+      },
+      {
+        "sentence": "Let us get some ice cream",
+        "ar": "دعنا نحضر بعض البوظة.",
+        "context": "يقترح الأب شراء بوظة قبل متابعة الزيارة. ",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "Let us صيغة اقتراح، وليست زمنًا مستقلًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "Let",
+            "description": "دع."
+          },
+          {
+            "term": "us",
+            "description": "نحن بصيغة المفعول."
+          },
+          {
+            "term": "get",
+            "description": "تصبح أو تحصل حسب السياق."
+          },
+          {
+            "term": "some",
+            "description": "بعض."
+          },
+          {
+            "term": "ice",
+            "description": "ثلج أو جزء من ice cream."
+          },
+          {
+            "term": "cream",
+            "description": "كريمة أو جزء من ice cream."
+          }
+        ]
+      },
+      {
+        "sentence": "and then we will go to the lion area.",
+        "ar": "ثم سنذهب إلى منطقة الأسد.",
+        "context": "توضح العبارة الخطوة التالية في الخطة.",
+        "grammar": {
+          "tense": "المستقبل البسيط",
+          "tenseEn": "Future Simple",
+          "reason": "استعمل will go للتعبير عن خطة مستقبلية قريبة بعد البوظة."
+        },
+        "wordMeanings": [
+          {
+            "term": "and",
+            "description": "تربط بين كلمات أو أفكار."
+          },
+          {
+            "term": "then",
+            "description": "ثم."
+          },
+          {
+            "term": "we",
+            "description": "ضمير المتكلمين."
+          },
+          {
+            "term": "will",
+            "description": "سوف."
+          },
+          {
+            "term": "go",
+            "description": "نذهب."
+          },
+          {
+            "term": "to",
+            "description": "إلى أو أن حسب السياق."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف تشير إلى شيء محدد."
+          },
+          {
+            "term": "lion",
+            "description": "أسد."
+          },
+          {
+            "term": "area",
+            "description": "منطقة."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Please do not run ahead.",
+        "ar": "من فضلك لا تركض إلى الأمام.",
+        "context": "تحذير طفل من الابتعاد."
+      },
+      {
+        "id": 2,
+        "en": "I am angry now.",
+        "ar": "أنا غاضب الآن.",
+        "context": "تعبير مباشر عن الغضب الحالي."
+      },
+      {
+        "id": 3,
+        "en": "Yelling will not help.",
+        "ar": "الصراخ لن يساعد.",
+        "context": "نصيحة عند التعامل مع مشكلة."
+      },
+      {
+        "id": 4,
+        "en": "I will be calm.",
+        "ar": "سأكون هادئًا.",
+        "context": "قرار بالهدوء بعد الانزعاج."
+      },
+      {
+        "id": 5,
+        "en": "Let us get some water.",
+        "ar": "دعنا نحضر بعض الماء.",
+        "context": "اقتراح بعد التعب أو المشي."
+      },
+      {
+        "id": 6,
+        "en": "Then we will go to the elephant area.",
+        "ar": "ثم سنذهب إلى منطقة الفيلة.",
+        "context": "ترتيب خطة الزيارة."
+      },
+      {
+        "id": 7,
+        "en": "He was wrong, but stay calm.",
+        "ar": "كان مخطئًا، لكن ابق هادئًا.",
+        "context": "اعتراف بالخطأ مع نصيحة بالهدوء."
+      },
+      {
+        "id": 8,
+        "en": "I still want to see the lions.",
+        "ar": "ما زلت أريد رؤية الأسود.",
+        "context": "تعبير عن رغبة مستمرة."
+      },
+      {
+        "id": 9,
+        "en": "Do not get lost in the crowd.",
+        "ar": "لا تضع في الزحام.",
+        "context": "تحذير من الابتعاد في مكان مزدحم."
+      },
+      {
+        "id": 10,
+        "en": "We will go after ice cream.",
+        "ar": "سنذهب بعد البوظة.",
+        "context": "تحديد ترتيب الأحداث."
+      }
+    ]
+  }
+}

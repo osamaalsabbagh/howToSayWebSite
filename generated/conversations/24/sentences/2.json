@@ -1,0 +1,131 @@
+{
+  "schemaVersion": 1,
+  "id": 2,
+  "sentence": {
+    "en": "No, thank you. I do not drink beer.",
+    "ar": "لا، شكرًا لك. أنا لا أشرب البيرة.",
+    "context": "يرفض بأدب لأنه لا يشرب هذا المشروب."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "No, thank you.",
+        "ar": "لا، شكرًا لك.",
+        "context": "تستعمل للرفض بطريقة مهذبة.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه عبارة رد ثابتة لا تحتوي على زمن فعلي واضح."
+        },
+        "wordMeanings": [
+          {
+            "term": "No",
+            "description": "رفض أو نفي"
+          },
+          {
+            "term": "thank",
+            "description": "أشكر أو أعبر عن الامتنان"
+          },
+          {
+            "term": "you",
+            "description": "الشخص المخاطب"
+          }
+        ]
+      },
+      {
+        "sentence": "I do not drink beer.",
+        "ar": "أنا لا أشرب البيرة.",
+        "context": "توضح سبب الرفض بأنه لا يشرب هذا النوع من المشروبات.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "do not مع الفعل الأساسي drink يعبر عن عادة أو موقف عام منفي."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "المتكلم نفسه"
+          },
+          {
+            "term": "do",
+            "description": "تستعمل مع not لتكوين النفي في المضارع البسيط"
+          },
+          {
+            "term": "not",
+            "description": "أداة نفي"
+          },
+          {
+            "term": "drink",
+            "description": "أشرب"
+          },
+          {
+            "term": "beer",
+            "description": "مشروب كحولي من الشعير"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "No, thank you. I do not drink coffee.",
+        "ar": "لا، شكرًا لك. أنا لا أشرب القهوة.",
+        "context": "تقال عند رفض القهوة بأدب."
+      },
+      {
+        "id": 2,
+        "en": "No, thank you. I do not eat meat.",
+        "ar": "لا، شكرًا لك. أنا لا آكل اللحم.",
+        "context": "تقال عند رفض طعام بسبب عادة أو اختيار."
+      },
+      {
+        "id": 3,
+        "en": "No, thank you. I do not need a bag.",
+        "ar": "لا، شكرًا لك. لا أحتاج إلى حقيبة.",
+        "context": "تقال عند رفض عرض في متجر."
+      },
+      {
+        "id": 4,
+        "en": "No, thank you. I do not want dessert.",
+        "ar": "لا، شكرًا لك. لا أريد حلوى.",
+        "context": "تقال عند رفض حلوى بعد الطعام."
+      },
+      {
+        "id": 5,
+        "en": "I do not drink alcohol.",
+        "ar": "أنا لا أشرب الكحول.",
+        "context": "تقال لتوضيح موقف عام من المشروبات الكحولية."
+      },
+      {
+        "id": 6,
+        "en": "I do not drink soda at night.",
+        "ar": "أنا لا أشرب المشروبات الغازية ليلًا.",
+        "context": "تقال عند شرح عادة صحية."
+      },
+      {
+        "id": 7,
+        "en": "No, thank you. I do not smoke.",
+        "ar": "لا، شكرًا لك. أنا لا أدخن.",
+        "context": "تقال عند رفض سيجارة بأدب."
+      },
+      {
+        "id": 8,
+        "en": "No, thank you. I do not feel hungry.",
+        "ar": "لا، شكرًا لك. لا أشعر بالجوع.",
+        "context": "تقال عند رفض الطعام لأنك لست جائعًا."
+      },
+      {
+        "id": 9,
+        "en": "I do not drink tea with sugar.",
+        "ar": "أنا لا أشرب الشاي مع السكر.",
+        "context": "تقال عند توضيح تفضيل في المشروب."
+      },
+      {
+        "id": 10,
+        "en": "No, thank you. I do not want another glass.",
+        "ar": "لا، شكرًا لك. لا أريد كأسًا آخر.",
+        "context": "تقال عند رفض المزيد من الشراب."
+      }
+    ]
+  }
+}

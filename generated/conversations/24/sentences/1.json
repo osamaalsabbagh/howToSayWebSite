@@ -1,0 +1,147 @@
+{
+  "schemaVersion": 1,
+  "id": 1,
+  "sentence": {
+    "en": "This place feels nice tonight. Would you like a glass of beer?",
+    "ar": "هذا المكان يعطي إحساسًا لطيفًا الليلة. هل ترغب بكأس من البيرة؟",
+    "context": "يصف المكان أنه جميل ثم يعرض عليه مشروبًا كحوليًا وهو يجلس معه في المقهى."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "This place feels nice tonight.",
+        "ar": "هذا المكان يبدو لطيفًا الليلة.",
+        "context": "تصف الجملة الجو الحالي للمكان في المساء.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "feels يصف الانطباع الحالي الذي يعطيه المكان."
+        },
+        "wordMeanings": [
+          {
+            "term": "This",
+            "description": "اسم إشارة لشيء قريب أو حاضر"
+          },
+          {
+            "term": "place",
+            "description": "مكان"
+          },
+          {
+            "term": "feels",
+            "description": "يعطي إحساسًا أو يبدو من ناحية الشعور"
+          },
+          {
+            "term": "nice",
+            "description": "لطيف أو مريح"
+          },
+          {
+            "term": "tonight",
+            "description": "في هذه الليلة"
+          }
+        ]
+      },
+      {
+        "sentence": "Would you like a glass of beer?",
+        "ar": "هل ترغب بكأس من البيرة؟",
+        "context": "تستعمل الجملة لعرض مشروب بطريقة مهذبة.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "Would you like صيغة مهذبة للعرض أو السؤال عن الرغبة وليست زمنًا عاديًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "Would",
+            "description": "تستعمل لجعل السؤال مهذبًا"
+          },
+          {
+            "term": "you",
+            "description": "الشخص المخاطب"
+          },
+          {
+            "term": "like",
+            "description": "ترغب أو تحب في هذا العرض"
+          },
+          {
+            "term": "a",
+            "description": "واحد غير محدد سابقًا"
+          },
+          {
+            "term": "glass",
+            "description": "كأس أو مقدار في كأس"
+          },
+          {
+            "term": "of",
+            "description": "تربط الكأس بما يحتويه"
+          },
+          {
+            "term": "beer",
+            "description": "مشروب كحولي من الشعير"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "This place feels quiet tonight. Would you like some tea?",
+        "ar": "هذا المكان يبدو هادئًا الليلة. هل ترغب ببعض الشاي؟",
+        "context": "تقال عند وصف الجو ثم عرض مشروب."
+      },
+      {
+        "id": 2,
+        "en": "This cafe feels nice today.",
+        "ar": "هذا المقهى يبدو لطيفًا اليوم.",
+        "context": "تقال عند الإعجاب بجو مقهى."
+      },
+      {
+        "id": 3,
+        "en": "Would you like a glass of water?",
+        "ar": "هل ترغب بكأس من الماء؟",
+        "context": "تقال لعرض ماء بأدب."
+      },
+      {
+        "id": 4,
+        "en": "Would you like a cup of coffee?",
+        "ar": "هل ترغب بفنجان من القهوة؟",
+        "context": "تقال عند عرض القهوة على ضيف."
+      },
+      {
+        "id": 5,
+        "en": "This room feels warm tonight.",
+        "ar": "هذه الغرفة تبدو دافئة الليلة.",
+        "context": "تقال عند وصف حرارة أو جو غرفة."
+      },
+      {
+        "id": 6,
+        "en": "Would you like something to eat?",
+        "ar": "هل ترغب بشيء للأكل؟",
+        "context": "تقال عند عرض الطعام."
+      },
+      {
+        "id": 7,
+        "en": "This restaurant feels busy tonight.",
+        "ar": "هذا المطعم يبدو مزدحمًا الليلة.",
+        "context": "تقال عند ملاحظة ازدحام مطعم."
+      },
+      {
+        "id": 8,
+        "en": "Would you like a small salad?",
+        "ar": "هل ترغب بسلطة صغيرة؟",
+        "context": "تقال عند اقتراح طلب خفيف."
+      },
+      {
+        "id": 9,
+        "en": "This place feels better in the evening.",
+        "ar": "هذا المكان يبدو أفضل في المساء.",
+        "context": "تقال عند مقارنة جو المكان حسب الوقت."
+      },
+      {
+        "id": 10,
+        "en": "Would you like another glass?",
+        "ar": "هل ترغب بكأس آخر؟",
+        "context": "تقال عند عرض المزيد من الشراب."
+      }
+    ]
+  }
+}

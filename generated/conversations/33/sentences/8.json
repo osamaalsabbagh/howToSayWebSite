@@ -1,0 +1,127 @@
+{
+  "schemaVersion": 1,
+  "id": 8,
+  "sentence": {
+    "en": "Good. Put them here on the table.",
+    "ar": "جيد، ضعها هنا على الطاولة.",
+    "context": "يطلب منه وضع العلب أمامه على الطاولة."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Good",
+        "ar": "جيد.",
+        "context": "تعبير قصير للموافقة قبل إعطاء التعليمات.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "تعبير ثابت أو تركيب لا يحتاج إلى زمن مستقل."
+        },
+        "wordMeanings": [
+          {
+            "term": "Good",
+            "description": "جيد أو حسن"
+          }
+        ]
+      },
+      {
+        "sentence": "Put them here on the table",
+        "ar": "ضعها هنا على الطاولة.",
+        "context": "أمر مباشر يطلب وضع الأشياء في مكان محدد.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "صيغة الأمر تستخدم الفعل مباشرة لطلب تنفيذ عمل."
+        },
+        "wordMeanings": [
+          {
+            "term": "Put",
+            "description": "ضع أو انقل إلى مكان"
+          },
+          {
+            "term": "them",
+            "description": "هم أو هما أو إياها حسب الشيء المذكور"
+          },
+          {
+            "term": "here",
+            "description": "هنا في هذا المكان"
+          },
+          {
+            "term": "on",
+            "description": "على سطح شيء"
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف لشيء محدد"
+          },
+          {
+            "term": "table",
+            "description": "طاولة"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Put it here on the chair",
+        "ar": "ضعه هنا على الكرسي",
+        "context": "يقال عند طلب وضع شيء في مكان قريب"
+      },
+      {
+        "id": 2,
+        "en": "Please put it here",
+        "ar": "من فضلك ضعه هنا",
+        "context": "يقال عند طلب وضع شيء في مكان قريب"
+      },
+      {
+        "id": 3,
+        "en": "This is clear now",
+        "ar": "هذا واضح الآن",
+        "context": "يقال بعد فهم شرح أو مثال"
+      },
+      {
+        "id": 4,
+        "en": "There are two cups on the table",
+        "ar": "يوجد كوبان على الطاولة",
+        "context": "يقال لوصف أشياء في مكان محدد"
+      },
+      {
+        "id": 5,
+        "en": "I can help you now",
+        "ar": "يمكنني مساعدتك الآن",
+        "context": "يقال عند عرض المساعدة"
+      },
+      {
+        "id": 6,
+        "en": "It is safe inside",
+        "ar": "إنه آمن في الداخل",
+        "context": "يقال لوصف مكان محمي"
+      },
+      {
+        "id": 7,
+        "en": "They are ready outside",
+        "ar": "هم جاهزون في الخارج",
+        "context": "يقال لوصف الاستعداد في مكان خارجي"
+      },
+      {
+        "id": 8,
+        "en": "Now close the box tightly",
+        "ar": "الآن أغلق العلبة بإحكام",
+        "context": "يقال عند إعطاء تعليمات لحماية شيء"
+      },
+      {
+        "id": 9,
+        "en": "I understand the idea",
+        "ar": "أنا أفهم الفكرة",
+        "context": "يقال عندما تصبح الفكرة واضحة"
+      },
+      {
+        "id": 10,
+        "en": "That makes sense",
+        "ar": "ذلك منطقي",
+        "context": "يقال عندما يبدو الكلام معقولا"
+      }
+    ]
+  }
+}

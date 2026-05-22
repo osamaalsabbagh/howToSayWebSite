@@ -1,0 +1,147 @@
+{
+  "schemaVersion": 1,
+  "id": 7,
+  "sentence": {
+    "en": "Sometimes, but I am careful not to spill it on the bed.",
+    "ar": "أحيانًا، لكنني أحرص ألا أسكبه على السرير.",
+    "context": "توضح أنها تشرب أحيانًا، لكنها تنتبه لعدم سكب الشراب على السرير."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Sometimes",
+        "ar": "أحيانًا",
+        "context": "تجيب بأنها تفعل ذلك في بعض الأوقات فقط.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه كلمة ظرفية منفردة لا تحتوي على فعل بزمن مستقل."
+        },
+        "wordMeanings": [
+          {
+            "term": "Sometimes",
+            "description": "في بعض الأوقات وليس دائمًا"
+          }
+        ]
+      },
+      {
+        "sentence": "but I am careful not to spill it on the bed.",
+        "ar": "لكنني حريصة على ألا أسكبه على السرير.",
+        "context": "توضح الاحتياط الذي تتخذه عند شرب الشاي في الغرفة.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "am careful يصف صفة أو حالة حاضرة لدى المتكلمة."
+        },
+        "wordMeanings": [
+          {
+            "term": "but",
+            "description": "تقدم فكرة مخالفة أو احترازًا"
+          },
+          {
+            "term": "I",
+            "description": "المتكلمة نفسها"
+          },
+          {
+            "term": "am",
+            "description": "صيغة تأتي مع المتكلم المفرد لوصف حالته الآن"
+          },
+          {
+            "term": "careful",
+            "description": "حذرة ومنتبهة"
+          },
+          {
+            "term": "not",
+            "description": "تدل على النفي"
+          },
+          {
+            "term": "to",
+            "description": "تأتي قبل الفعل لتكوين معنى ألا أفعل"
+          },
+          {
+            "term": "spill",
+            "description": "أسكب شيئًا دون قصد"
+          },
+          {
+            "term": "it",
+            "description": "يشير إلى الشاي أو الشراب"
+          },
+          {
+            "term": "on",
+            "description": "على سطح شيء"
+          },
+          {
+            "term": "the",
+            "description": "تحدد سريرًا معروفًا"
+          },
+          {
+            "term": "bed",
+            "description": "سرير للنوم"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Sometimes, but I am careful not to make noise.",
+        "ar": "أحيانًا، لكنني حريص على ألا أحدث ضوضاء.",
+        "context": "تقال عند فعل شيء مع مراعاة الآخرين."
+      },
+      {
+        "id": 2,
+        "en": "Sometimes, but I am careful not to drop it.",
+        "ar": "أحيانًا، لكنني حريص على ألا أسقطه.",
+        "context": "تقال عند حمل شيء قابل للكسر."
+      },
+      {
+        "id": 3,
+        "en": "I am careful not to spill coffee on the table.",
+        "ar": "أنا حريص على ألا أسكب القهوة على الطاولة.",
+        "context": "تقال عند شرب القهوة قرب الأثاث."
+      },
+      {
+        "id": 4,
+        "en": "I am careful not to wake the baby.",
+        "ar": "أنا حريص على ألا أوقظ الطفل.",
+        "context": "تقال عند التصرف بهدوء في البيت."
+      },
+      {
+        "id": 5,
+        "en": "Sometimes, but I do not stay long.",
+        "ar": "أحيانًا، لكنني لا أبقى طويلًا.",
+        "context": "تقال عند وصف عادة محدودة."
+      },
+      {
+        "id": 6,
+        "en": "I am careful not to leave water on the floor.",
+        "ar": "أنا حريص على ألا أترك ماء على الأرض.",
+        "context": "تقال عند تجنب جعل الأرض زلقة."
+      },
+      {
+        "id": 7,
+        "en": "Sometimes, but I am careful with my books.",
+        "ar": "أحيانًا، لكنني حريص على كتبي.",
+        "context": "تقال عند حماية الكتب من التلف."
+      },
+      {
+        "id": 8,
+        "en": "I am careful not to touch the hot cup.",
+        "ar": "أنا حريص على ألا ألمس الكوب الساخن.",
+        "context": "تقال عند تجنب الحرق."
+      },
+      {
+        "id": 9,
+        "en": "Sometimes, but I am careful not to forget.",
+        "ar": "أحيانًا، لكنني حريص على ألا أنسى.",
+        "context": "تقال عند محاولة تذكر أمر مهم."
+      },
+      {
+        "id": 10,
+        "en": "I am careful not to spill tea on my notebook.",
+        "ar": "أنا حريص على ألا أسكب الشاي على دفتري.",
+        "context": "تقال عند شرب الشاي أثناء الدراسة."
+      }
+    ]
+  }
+}
