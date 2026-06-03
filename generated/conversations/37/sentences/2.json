@@ -1,0 +1,111 @@
+{
+  "schemaVersion": 1,
+  "id": 2,
+  "sentence": {
+    "en": "No, you cannot.",
+    "ar": "لا، لا يمكنك.",
+    "context": "ترفض تأجيل المكالمة."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "No",
+        "ar": "لا.",
+        "context": "نفي مباشر أو رفض.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه كلمة جوابية للنفي ولا تحمل زمنًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "No",
+            "description": "لا"
+          }
+        ]
+      },
+      {
+        "sentence": "you cannot",
+        "ar": "لا يمكنك.",
+        "context": "رفض واضح لطلب الشخص الآخر.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "cannot تركيب قدرة أو سماح منفي وليس زمنًا مستقلًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "you",
+            "description": "أنت"
+          },
+          {
+            "term": "cannot",
+            "description": "لا تستطيع أو لا يمكنك"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "No, you cannot leave now",
+        "ar": "لا، لا يمكنك المغادرة الآن",
+        "context": "يقال عند رفض مغادرة شخص"
+      },
+      {
+        "id": 2,
+        "en": "No, you cannot wait",
+        "ar": "لا، لا يمكنك الانتظار",
+        "context": "يقال عند وجود ضرورة فورية"
+      },
+      {
+        "id": 3,
+        "en": "No, I cannot help today",
+        "ar": "لا، لا أستطيع المساعدة اليوم",
+        "context": "يقال عند رفض طلب مساعدة"
+      },
+      {
+        "id": 4,
+        "en": "You cannot park here",
+        "ar": "لا يمكنك إيقاف السيارة هنا",
+        "context": "يقال عند منع فعل معين"
+      },
+      {
+        "id": 5,
+        "en": "No, she cannot come",
+        "ar": "لا، لا يمكنها القدوم",
+        "context": "يقال لتوضيح عدم قدرة شخص على الحضور"
+      },
+      {
+        "id": 6,
+        "en": "You cannot miss this meeting",
+        "ar": "لا يمكنك تفويت هذا الاجتماع",
+        "context": "يقال للتأكيد على أهمية الحضور"
+      },
+      {
+        "id": 7,
+        "en": "No, we cannot delay it",
+        "ar": "لا، لا يمكننا تأجيله",
+        "context": "يقال عند رفض التأجيل"
+      },
+      {
+        "id": 8,
+        "en": "You cannot call later",
+        "ar": "لا يمكنك الاتصال لاحقًا",
+        "context": "يقال عند الحاجة إلى اتصال فوري"
+      },
+      {
+        "id": 9,
+        "en": "No, they cannot wait outside",
+        "ar": "لا، لا يمكنهم الانتظار في الخارج",
+        "context": "يقال عند رفض مكان انتظار"
+      },
+      {
+        "id": 10,
+        "en": "You cannot ignore this problem",
+        "ar": "لا يمكنك تجاهل هذه المشكلة",
+        "context": "يقال عند التشديد على ضرورة التصرف"
+      }
+    ]
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "schemaVersion": 1,
+  "id": 8,
+  "sentence": {
+    "en": "Then find someone to cover for you. Ask for permission, take the car, and come home now.",
+    "ar": "إذن جد أحدًا ينوب عنك، اطلب إذنًا، وخذ السيارة، وتعال إلى البيت الآن.",
+    "context": "تصر أن يعود فورًا."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Then find someone to cover for you",
+        "ar": "إذن ابحث عن شخص ينوب عنك.",
+        "context": "تقدم حلًا لمشكلة عدم القدرة على ترك العمل.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "find أمر مباشر، و to cover for you يوضح الغرض من إيجاد الشخص."
+        },
+        "wordMeanings": [
+          {
+            "term": "Then",
+            "description": "إذن أو بعد ذلك"
+          },
+          {
+            "term": "find",
+            "description": "جِد أو ابحث عن"
+          },
+          {
+            "term": "someone",
+            "description": "شخصًا ما"
+          },
+          {
+            "term": "to",
+            "description": "لـ أو كي"
+          },
+          {
+            "term": "cover",
+            "description": "ينوب أو يغطي المهمة"
+          },
+          {
+            "term": "for",
+            "description": "عن أو من أجل"
+          },
+          {
+            "term": "you",
+            "description": "أنت أو عنك"
+          }
+        ]
+      },
+      {
+        "sentence": "Ask for permission",
+        "ar": "اطلب إذنًا.",
+        "context": "تعطي خطوة عملية لمغادرة العمل.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "Ask أمر مباشر بإجراء محدد."
+        },
+        "wordMeanings": [
+          {
+            "term": "Ask",
+            "description": "اطلب أو اسأل"
+          },
+          {
+            "term": "for",
+            "description": "عن أو من أجل"
+          },
+          {
+            "term": "permission",
+            "description": "إذن أو سماح"
+          }
+        ]
+      },
+      {
+        "sentence": "take the car",
+        "ar": "خذ السيارة.",
+        "context": "تطلب منه استخدام السيارة للعودة.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "take أمر مباشر بفعل مطلوب."
+        },
+        "wordMeanings": [
+          {
+            "term": "take",
+            "description": "خذ"
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف"
+          },
+          {
+            "term": "car",
+            "description": "السيارة"
+          }
+        ]
+      },
+      {
+        "sentence": "and come home now",
+        "ar": "وتعال إلى البيت الآن.",
+        "context": "تؤكد الهدف النهائي وهو العودة فورًا.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "come أمر مباشر، و now يجعل الطلب عاجلًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "and",
+            "description": "و، للربط"
+          },
+          {
+            "term": "come",
+            "description": "تعال"
+          },
+          {
+            "term": "home",
+            "description": "إلى البيت أو المنزل"
+          },
+          {
+            "term": "now",
+            "description": "الآن"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Find someone to help you",
+        "ar": "جد شخصًا يساعدك",
+        "context": "يقال عند اقتراح حل عملي"
+      },
+      {
+        "id": 2,
+        "en": "Ask for permission before you leave",
+        "ar": "اطلب إذنًا قبل أن تغادر",
+        "context": "يقال عند الحاجة إلى موافقة"
+      },
+      {
+        "id": 3,
+        "en": "Take the car and come here",
+        "ar": "خذ السيارة وتعال إلى هنا",
+        "context": "يقال عند طلب حضور سريع"
+      },
+      {
+        "id": 4,
+        "en": "Come home now",
+        "ar": "تعال إلى البيت الآن",
+        "context": "يقال عند وجود أمر عاجل في البيت"
+      },
+      {
+        "id": 5,
+        "en": "Then call your manager",
+        "ar": "إذن اتصل بمديرك",
+        "context": "يقال كخطوة تالية لحل مشكلة"
+      },
+      {
+        "id": 6,
+        "en": "Find someone to cover the shift",
+        "ar": "جد شخصًا يغطي المناوبة",
+        "context": "يقال عند الحاجة إلى بديل في العمل"
+      },
+      {
+        "id": 7,
+        "en": "Ask for help and leave",
+        "ar": "اطلب المساعدة وغادر",
+        "context": "يقال عند استعجال شخص"
+      },
+      {
+        "id": 8,
+        "en": "Take your phone with you",
+        "ar": "خذ هاتفك معك",
+        "context": "يقال كتذكير قبل المغادرة"
+      },
+      {
+        "id": 9,
+        "en": "Come to the hospital now",
+        "ar": "تعال إلى المستشفى الآن",
+        "context": "يقال في حالة طارئة"
+      },
+      {
+        "id": 10,
+        "en": "Then ask someone to drive",
+        "ar": "إذن اطلب من شخص أن يقود",
+        "context": "يقال عند اقتراح بديل للوصول"
+      }
+    ]
+  }
+}

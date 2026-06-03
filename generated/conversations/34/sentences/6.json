@@ -1,0 +1,175 @@
+{
+  "schemaVersion": 1,
+  "id": 6,
+  "sentence": {
+    "en": "But sometimes, as you know, in construction we have to delay our break for work needs.",
+    "ar": "ولكن أحيانًا، كما تعلمين، في البناء نضطر إلى تأجيل استراحتنا لاحتياجات العمل.",
+    "context": "يوضح أن طبيعة البناء قد تضطرهم لتأجيل الراحة حسب ضغط العمل."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "But sometimes",
+        "ar": "ولكن أحيانًا",
+        "context": "تمهيد لذكر استثناء عن العادة.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه عبارة ربط وظرف تكرار ولا تحمل زمنًا مستقلًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "But",
+            "description": "لكن أو ولكن"
+          },
+          {
+            "term": "sometimes",
+            "description": "أحيانًا"
+          }
+        ]
+      },
+      {
+        "sentence": "as you know",
+        "ar": "كما تعرفين",
+        "context": "إضافة جانبية تشير إلى أن المعلومة معروفة للمخاطبة.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "تستخدم know في المضارع البسيط للتعبير عن معرفة حالية عامة."
+        },
+        "wordMeanings": [
+          {
+            "term": "as",
+            "description": "كما أو مثلما"
+          },
+          {
+            "term": "you",
+            "description": "أنت"
+          },
+          {
+            "term": "know",
+            "description": "تعرف أو تعلم"
+          }
+        ]
+      },
+      {
+        "sentence": "in construction we have to delay our break for work needs",
+        "ar": "في البناء نضطر إلى تأجيل استراحتنا بسبب احتياجات العمل.",
+        "context": "يوضح السبب العملي لتأخير الاستراحة.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "have to في المضارع البسيط يعبر عن ضرورة أو التزام متكرر بسبب طبيعة العمل."
+        },
+        "wordMeanings": [
+          {
+            "term": "in",
+            "description": "في، داخل مجال أو مكان"
+          },
+          {
+            "term": "construction",
+            "description": "البناء أو مجال التشييد"
+          },
+          {
+            "term": "we",
+            "description": "نحن"
+          },
+          {
+            "term": "have",
+            "description": "جزء من تعبير يدل على الاضطرار"
+          },
+          {
+            "term": "to",
+            "description": "تأتي بعد have لتكوين معنى يجب"
+          },
+          {
+            "term": "delay",
+            "description": "نؤجل"
+          },
+          {
+            "term": "our",
+            "description": "استراحتنا أو ما يخصنا"
+          },
+          {
+            "term": "break",
+            "description": "استراحة"
+          },
+          {
+            "term": "for",
+            "description": "بسبب أو من أجل"
+          },
+          {
+            "term": "work",
+            "description": "العمل"
+          },
+          {
+            "term": "needs",
+            "description": "احتياجات أو متطلبات"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Sometimes we have to wait for the manager",
+        "ar": "أحيانًا نضطر إلى انتظار المدير",
+        "context": "يقال عند وجود تأخير بسبب شخص مسؤول"
+      },
+      {
+        "id": 2,
+        "en": "As you know, we work outside",
+        "ar": "كما تعرف، نحن نعمل في الخارج",
+        "context": "يقال لتذكير شخص بمعلومة يعرفها"
+      },
+      {
+        "id": 3,
+        "en": "We have to change the plan today",
+        "ar": "علينا أن نغير الخطة اليوم",
+        "context": "يقال عند وجود ضرورة جديدة"
+      },
+      {
+        "id": 4,
+        "en": "They have to delay the meeting",
+        "ar": "عليهم أن يؤجلوا الاجتماع",
+        "context": "يقال عندما لا يمكن بدء الاجتماع في وقته"
+      },
+      {
+        "id": 5,
+        "en": "We have to finish this work first",
+        "ar": "علينا أن ننهي هذا العمل أولًا",
+        "context": "يقال عند ترتيب الأولويات"
+      },
+      {
+        "id": 6,
+        "en": "Sometimes the bus arrives late",
+        "ar": "أحيانًا تصل الحافلة متأخرة",
+        "context": "يقال عن شيء يحدث من وقت لآخر"
+      },
+      {
+        "id": 7,
+        "en": "In winter we have to start early",
+        "ar": "في الشتاء علينا أن نبدأ مبكرًا",
+        "context": "يقال عن ضرورة مرتبطة بموسم"
+      },
+      {
+        "id": 8,
+        "en": "We have to stop for safety",
+        "ar": "علينا أن نتوقف من أجل السلامة",
+        "context": "يقال عندما يكون التوقف ضروريًا"
+      },
+      {
+        "id": 9,
+        "en": "They sometimes move the break",
+        "ar": "هم أحيانًا ينقلون وقت الاستراحة",
+        "context": "يقال عن تغيير غير دائم في الجدول"
+      },
+      {
+        "id": 10,
+        "en": "We have to help the team",
+        "ar": "علينا أن نساعد الفريق",
+        "context": "يقال عند وجود واجب جماعي"
+      }
+    ]
+  }
+}

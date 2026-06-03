@@ -1,0 +1,167 @@
+{
+  "schemaVersion": 1,
+  "id": 2,
+  "sentence": {
+    "en": "Hello! Yes, we do. Are you looking for a specific breed or just browsing?",
+    "ar": "أهلاً! نعم نفعل. هل تبحث عن سلالة معينة أم فقط تتفرج؟",
+    "context": "كلمة تتفرج، أي تنظر إلى القطط دون نية شراء محددة."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Hello",
+        "ar": "أهلًا.",
+        "context": "تحية للزبون.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه تحية ثابتة ولا تحمل زمنًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "Hello",
+            "description": "أهلًا أو مرحبًا"
+          }
+        ]
+      },
+      {
+        "sentence": "Yes we do",
+        "ar": "نعم، نبيع.",
+        "context": "إجابة مختصرة تؤكد أنهم يبيعون الشيء المسؤول عنه.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "do يحل محل sell في السؤال السابق لتجنب التكرار."
+        },
+        "wordMeanings": [
+          {
+            "term": "Yes",
+            "description": "نعم"
+          },
+          {
+            "term": "we",
+            "description": "نحن"
+          },
+          {
+            "term": "do",
+            "description": "نفعل أو نبيع في هذا السياق"
+          }
+        ]
+      },
+      {
+        "sentence": "Are you looking for a specific breed or just browsing",
+        "ar": "هل تبحث عن سلالة معينة أم تتصفح فقط؟",
+        "context": "يسأل إن كان الزبون يريد نوعًا محددًا أم ينظر فقط.",
+        "grammar": {
+          "tense": "المضارع المستمر",
+          "tenseEn": "Present Continuous",
+          "reason": "Are you looking يستخدم للسؤال عن ما يفعله الزبون أو يريده الآن."
+        },
+        "wordMeanings": [
+          {
+            "term": "Are",
+            "description": "كلمة مساعدة للسؤال"
+          },
+          {
+            "term": "you",
+            "description": "أنت"
+          },
+          {
+            "term": "looking",
+            "description": "تبحث أو تنظر"
+          },
+          {
+            "term": "for",
+            "description": "عن"
+          },
+          {
+            "term": "a",
+            "description": "أداة قبل اسم مفرد غير محدد"
+          },
+          {
+            "term": "specific",
+            "description": "محدد أو معين"
+          },
+          {
+            "term": "breed",
+            "description": "سلالة"
+          },
+          {
+            "term": "or",
+            "description": "أو"
+          },
+          {
+            "term": "just",
+            "description": "فقط"
+          },
+          {
+            "term": "browsing",
+            "description": "تتصفح أو تنظر دون قرار شراء"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Hello, are you looking for a gift",
+        "ar": "أهلًا، هل تبحث عن هدية؟",
+        "context": "يقال لزبون في متجر"
+      },
+      {
+        "id": 2,
+        "en": "Yes, we do",
+        "ar": "نعم، نفعل",
+        "context": "يقال جوابًا مختصرًا على سؤال"
+      },
+      {
+        "id": 3,
+        "en": "Are you looking for a specific color",
+        "ar": "هل تبحث عن لون معين؟",
+        "context": "يقال عند مساعدة زبون"
+      },
+      {
+        "id": 4,
+        "en": "Are you just browsing today",
+        "ar": "هل تتصفح فقط اليوم؟",
+        "context": "يقال لمعرفة نية الزبون"
+      },
+      {
+        "id": 5,
+        "en": "Hello, we have many breeds",
+        "ar": "أهلًا، لدينا سلالات كثيرة",
+        "context": "يقال في متجر حيوانات"
+      },
+      {
+        "id": 6,
+        "en": "I am looking for a specific size",
+        "ar": "أبحث عن حجم معين",
+        "context": "يقال عند طلب منتج محدد"
+      },
+      {
+        "id": 7,
+        "en": "We do sell that here",
+        "ar": "نحن نبيع ذلك هنا",
+        "context": "يقال لتأكيد توفر منتج"
+      },
+      {
+        "id": 8,
+        "en": "Are you looking for something special",
+        "ar": "هل تبحث عن شيء خاص؟",
+        "context": "يقال عند عرض المساعدة"
+      },
+      {
+        "id": 9,
+        "en": "I am just browsing",
+        "ar": "أنا أتصفح فقط",
+        "context": "يقال عندما لا تنوي الشراء فورًا"
+      },
+      {
+        "id": 10,
+        "en": "Do you want a specific breed",
+        "ar": "هل تريد سلالة معينة؟",
+        "context": "يقال عند السؤال عن تفضيل واضح"
+      }
+    ]
+  }
+}

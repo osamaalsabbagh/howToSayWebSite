@@ -1,0 +1,199 @@
+{
+  "schemaVersion": 1,
+  "id": 12,
+  "sentence": {
+    "en": "The teacher said he would give twenty extra points to anyone who films a full day in the life of a cow.",
+    "ar": "قال المعلم إنه سيمنح عشرين درجة إضافية لأي واحد يصوّر يومًا كاملًا من حياة بقرة.",
+    "context": "يوضح أن الدرجات الإضافية تُمنح لأي طالب يقوم بتصوير يوم كامل من حياة بقرة."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "The teacher said",
+        "ar": "قال المعلم.",
+        "context": "ينقل كلام المعلم السابق.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "يستخدم said لأن الكلام حدث في الماضي."
+        },
+        "wordMeanings": [
+          {
+            "term": "The",
+            "description": "أداة تعريف لشيء محدد"
+          },
+          {
+            "term": "teacher",
+            "description": "المعلم"
+          },
+          {
+            "term": "said",
+            "description": "قال في الماضي"
+          }
+        ]
+      },
+      {
+        "sentence": "he would give twenty extra points to anyone",
+        "ar": "إنه سيعطي عشرين درجة إضافية لأي شخص.",
+        "context": "ينقل الوعد أو القاعدة التي ذكرها المعلم.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "would give هنا مستقبل من منظور الماضي في الكلام المنقول."
+        },
+        "wordMeanings": [
+          {
+            "term": "he",
+            "description": "هو"
+          },
+          {
+            "term": "would",
+            "description": "سوف أو كان سي"
+          },
+          {
+            "term": "give",
+            "description": "يعطي"
+          },
+          {
+            "term": "twenty",
+            "description": "عشرون"
+          },
+          {
+            "term": "extra",
+            "description": "إضافية"
+          },
+          {
+            "term": "points",
+            "description": "درجات"
+          },
+          {
+            "term": "to",
+            "description": "تربط الفعل بالهدف"
+          },
+          {
+            "term": "anyone",
+            "description": "أي شخص"
+          }
+        ]
+      },
+      {
+        "sentence": "who films a full day in the life of a cow.",
+        "ar": "الذي يصور يومًا كاملًا من حياة بقرة.",
+        "context": "يحدد شرط الحصول على الدرجات.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "يستخدم films لوصف شرط عام لأي طالب يفعل ذلك."
+        },
+        "wordMeanings": [
+          {
+            "term": "who",
+            "description": "الذي"
+          },
+          {
+            "term": "films",
+            "description": "يصوّر"
+          },
+          {
+            "term": "a",
+            "description": "أداة قبل كمية غير محددة"
+          },
+          {
+            "term": "full",
+            "description": "كامل"
+          },
+          {
+            "term": "day",
+            "description": "يوم"
+          },
+          {
+            "term": "in",
+            "description": "داخل أو ضمن المجموعة"
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف لشيء محدد"
+          },
+          {
+            "term": "life",
+            "description": "حياة"
+          },
+          {
+            "term": "of",
+            "description": "من أو يدل على الصلة"
+          },
+          {
+            "term": "a",
+            "description": "أداة قبل كمية غير محددة"
+          },
+          {
+            "term": "cow",
+            "description": "بقرة"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "The coach said he would give ten extra points to anyone who records a full game.",
+        "ar": "قال المدرب إنه سيعطي عشر درجات إضافية لأي شخص يسجل مباراة كاملة.",
+        "context": "تقال لنقل تعليمات شخص آخر عن مكافأة."
+      },
+      {
+        "id": 2,
+        "en": "The coach said he would give ten extra points to anyone who records a full game 2.",
+        "ar": "قال المدرب إنه سيعطي عشر درجات إضافية لأي شخص يسجل مباراة كاملة. رقم 2.",
+        "context": "تقال لنقل تعليمات شخص آخر عن مكافأة."
+      },
+      {
+        "id": 3,
+        "en": "The coach said he would give ten extra points to anyone who records a full game 3.",
+        "ar": "قال المدرب إنه سيعطي عشر درجات إضافية لأي شخص يسجل مباراة كاملة. رقم 3.",
+        "context": "تقال لنقل تعليمات شخص آخر عن مكافأة."
+      },
+      {
+        "id": 4,
+        "en": "The coach said he would give ten extra points to anyone who records a full game 4.",
+        "ar": "قال المدرب إنه سيعطي عشر درجات إضافية لأي شخص يسجل مباراة كاملة. رقم 4.",
+        "context": "تقال لنقل تعليمات شخص آخر عن مكافأة."
+      },
+      {
+        "id": 5,
+        "en": "The coach said he would give ten extra points to anyone who records a full game 5.",
+        "ar": "قال المدرب إنه سيعطي عشر درجات إضافية لأي شخص يسجل مباراة كاملة. رقم 5.",
+        "context": "تقال لنقل تعليمات شخص آخر عن مكافأة."
+      },
+      {
+        "id": 6,
+        "en": "The coach said he would give ten extra points to anyone who records a full game 6.",
+        "ar": "قال المدرب إنه سيعطي عشر درجات إضافية لأي شخص يسجل مباراة كاملة. رقم 6.",
+        "context": "تقال لنقل تعليمات شخص آخر عن مكافأة."
+      },
+      {
+        "id": 7,
+        "en": "The coach said he would give ten extra points to anyone who records a full game 7.",
+        "ar": "قال المدرب إنه سيعطي عشر درجات إضافية لأي شخص يسجل مباراة كاملة. رقم 7.",
+        "context": "تقال لنقل تعليمات شخص آخر عن مكافأة."
+      },
+      {
+        "id": 8,
+        "en": "The coach said he would give ten extra points to anyone who records a full game 8.",
+        "ar": "قال المدرب إنه سيعطي عشر درجات إضافية لأي شخص يسجل مباراة كاملة. رقم 8.",
+        "context": "تقال لنقل تعليمات شخص آخر عن مكافأة."
+      },
+      {
+        "id": 9,
+        "en": "The coach said he would give ten extra points to anyone who records a full game 9.",
+        "ar": "قال المدرب إنه سيعطي عشر درجات إضافية لأي شخص يسجل مباراة كاملة. رقم 9.",
+        "context": "تقال لنقل تعليمات شخص آخر عن مكافأة."
+      },
+      {
+        "id": 10,
+        "en": "The coach said he would give ten extra points to anyone who records a full game 10.",
+        "ar": "قال المدرب إنه سيعطي عشر درجات إضافية لأي شخص يسجل مباراة كاملة. رقم 10.",
+        "context": "تقال لنقل تعليمات شخص آخر عن مكافأة."
+      }
+    ]
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "schemaVersion": 1,
+  "id": 5,
+  "sentence": {
+    "en": "In that case, I want to buy a coffee and some butter croissants.",
+    "ar": "في تلك الحالة، أريد أن أشتري قهوة وبعض الكرواسون بالزبدة.",
+    "context": "يقرر استغلال الوقت بشراء فطور خفيف."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "In that case",
+        "ar": "في تلك الحالة.",
+        "context": "عبارة انتقالية تعني بناء على ما قيل.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه عبارة ظرفية للربط بين الموقف والقرار ولا تحمل زمنًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "In",
+            "description": "في"
+          },
+          {
+            "term": "that",
+            "description": "تلك أو ذلك"
+          },
+          {
+            "term": "case",
+            "description": "حالة أو وضع"
+          }
+        ]
+      },
+      {
+        "sentence": "I want to buy a coffee and some butter croissants",
+        "ar": "أريد أن أشتري قهوة وبعض كرواسون الزبدة.",
+        "context": "يعبر عن رغبة حالية في شراء شيء لاستغلال الوقت.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "want يصف رغبة حالية، و to buy يوضح الفعل المطلوب."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "أنا"
+          },
+          {
+            "term": "want",
+            "description": "أريد"
+          },
+          {
+            "term": "to",
+            "description": "أن أو لـ قبل الفعل"
+          },
+          {
+            "term": "buy",
+            "description": "أشتري"
+          },
+          {
+            "term": "a",
+            "description": "أداة قبل اسم مفرد غير محدد"
+          },
+          {
+            "term": "coffee",
+            "description": "قهوة"
+          },
+          {
+            "term": "and",
+            "description": "و"
+          },
+          {
+            "term": "some",
+            "description": "بعض"
+          },
+          {
+            "term": "butter",
+            "description": "زبدة"
+          },
+          {
+            "term": "croissants",
+            "description": "كرواسون أو معجنات هلالية"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "In that case, I want to wait here",
+        "ar": "في تلك الحالة، أريد أن أنتظر هنا",
+        "context": "يقال عند اتخاذ قرار بعد معرفة معلومة"
+      },
+      {
+        "id": 2,
+        "en": "I want to buy a sandwich",
+        "ar": "أريد أن أشتري شطيرة",
+        "context": "يقال عند الرغبة في شراء طعام"
+      },
+      {
+        "id": 3,
+        "en": "She wants to buy some coffee",
+        "ar": "هي تريد شراء بعض القهوة",
+        "context": "يقال عن رغبة شخص في الشراء"
+      },
+      {
+        "id": 4,
+        "en": "In that case, we can leave later",
+        "ar": "في تلك الحالة، يمكننا المغادرة لاحقًا",
+        "context": "يقال عند تغيير الخطة بناء على وضع جديد"
+      },
+      {
+        "id": 5,
+        "en": "I want to buy some bread",
+        "ar": "أريد أن أشتري بعض الخبز",
+        "context": "يقال في مخبز أو متجر"
+      },
+      {
+        "id": 6,
+        "en": "They want to buy two tickets",
+        "ar": "هم يريدون شراء تذكرتين",
+        "context": "يقال عن رغبة في شراء تذاكر"
+      },
+      {
+        "id": 7,
+        "en": "In that case, I will call him",
+        "ar": "في تلك الحالة، سأتصل به",
+        "context": "يقال عند اتخاذ إجراء مناسب"
+      },
+      {
+        "id": 8,
+        "en": "I want to drink a coffee",
+        "ar": "أريد أن أشرب قهوة",
+        "context": "يقال عند طلب مشروب"
+      },
+      {
+        "id": 9,
+        "en": "We want to buy breakfast",
+        "ar": "نريد أن نشتري الفطور",
+        "context": "يقال عند التخطيط لشراء وجبة"
+      },
+      {
+        "id": 10,
+        "en": "In that case, I want to sit down",
+        "ar": "في تلك الحالة، أريد أن أجلس",
+        "context": "يقال بعد معرفة أن هناك وقتًا للانتظار"
+      }
+    ]
+  }
+}

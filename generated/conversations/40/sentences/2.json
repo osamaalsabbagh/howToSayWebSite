@@ -1,0 +1,163 @@
+{
+  "schemaVersion": 1,
+  "id": 2,
+  "sentence": {
+    "en": "There was a traffic jam near the city center because of the changes they are making.",
+    "ar": "كان هناك ازدحام مروري قرب مركز المدينة بسبب التعديلات التي يقومون بها.",
+    "context": "يتحدث عن زحمة مؤقتة بسبب أعمال الطرق التي ينفذها عمال المدينة."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "There was a traffic jam near the city center",
+        "ar": "كان هناك ازدحام مروري قرب مركز المدينة.",
+        "context": "يذكر سبب التأخر في الطريق.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "There was يصف وجود ازدحام في وقت سابق أثناء الطريق."
+        },
+        "wordMeanings": [
+          {
+            "term": "There",
+            "description": "هناك"
+          },
+          {
+            "term": "was",
+            "description": "كان أو وُجد للمفرد"
+          },
+          {
+            "term": "a",
+            "description": "أداة قبل اسم مفرد"
+          },
+          {
+            "term": "traffic",
+            "description": "مرور أو حركة سيارات"
+          },
+          {
+            "term": "jam",
+            "description": "ازدحام"
+          },
+          {
+            "term": "near",
+            "description": "قرب"
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف"
+          },
+          {
+            "term": "city",
+            "description": "مدينة"
+          },
+          {
+            "term": "center",
+            "description": "مركز"
+          }
+        ]
+      },
+      {
+        "sentence": "because of the changes they are making",
+        "ar": "بسبب التغييرات التي يقومون بها.",
+        "context": "يوضح سبب الزحام المؤقت.",
+        "grammar": {
+          "tense": "المضارع المستمر",
+          "tenseEn": "Present Continuous",
+          "reason": "are making يصف أعمالًا جارية حاليًا تسبب الازدحام."
+        },
+        "wordMeanings": [
+          {
+            "term": "because",
+            "description": "بسبب أو لأن"
+          },
+          {
+            "term": "of",
+            "description": "من، وتكمل معنى بسبب"
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف"
+          },
+          {
+            "term": "changes",
+            "description": "تغييرات أو تعديلات"
+          },
+          {
+            "term": "they",
+            "description": "هم"
+          },
+          {
+            "term": "are",
+            "description": "كلمة مساعدة للمضارع المستمر"
+          },
+          {
+            "term": "making",
+            "description": "يقومون بها أو يصنعون"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "There was a traffic jam downtown",
+        "ar": "كان هناك ازدحام مروري في وسط المدينة",
+        "context": "يقال لتفسير التأخر"
+      },
+      {
+        "id": 2,
+        "en": "There was an accident near the center",
+        "ar": "كان هناك حادث قرب المركز",
+        "context": "يقال عن سبب زحام"
+      },
+      {
+        "id": 3,
+        "en": "I am late because of traffic",
+        "ar": "أنا متأخر بسبب الزحام",
+        "context": "يقال عند الاعتذار عن التأخر"
+      },
+      {
+        "id": 4,
+        "en": "They are making changes to the road",
+        "ar": "هم يجرون تغييرات على الطريق",
+        "context": "يقال عن أعمال طريق جارية"
+      },
+      {
+        "id": 5,
+        "en": "The city center is busy",
+        "ar": "مركز المدينة مزدحم",
+        "context": "يقال لوصف منطقة"
+      },
+      {
+        "id": 6,
+        "en": "There was a long line",
+        "ar": "كان هناك طابور طويل",
+        "context": "يقال عند ذكر تأخير"
+      },
+      {
+        "id": 7,
+        "en": "The traffic jam was near my office",
+        "ar": "كان الازدحام قرب مكتبي",
+        "context": "يقال لتحديد مكان الزحام"
+      },
+      {
+        "id": 8,
+        "en": "They are fixing the street",
+        "ar": "هم يصلحون الشارع",
+        "context": "يقال عن أعمال طرق"
+      },
+      {
+        "id": 9,
+        "en": "There was a problem because of rain",
+        "ar": "كانت هناك مشكلة بسبب المطر",
+        "context": "يقال لشرح سبب"
+      },
+      {
+        "id": 10,
+        "en": "The changes are making traffic slow",
+        "ar": "التغييرات تجعل المرور بطيئًا",
+        "context": "يقال عند شرح أثر الأعمال"
+      }
+    ]
+  }
+}

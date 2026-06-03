@@ -1,0 +1,135 @@
+{
+  "schemaVersion": 1,
+  "id": 13,
+  "sentence": {
+    "en": "Nice. But why did you choose the brown color?",
+    "ar": "لطيف. ولكن لماذا اخترتم اللون البني؟",
+    "context": "تسأل عن سبب اختيار لون المبنى البني."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Nice",
+        "ar": "لطيف.",
+        "context": "تعليق قصير يعبر عن استحسان.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه صفة مستخدمة كتعليق قصير وليست جملة فعلية بزمن."
+        },
+        "wordMeanings": [
+          {
+            "term": "Nice",
+            "description": "لطيف أو جميل"
+          }
+        ]
+      },
+      {
+        "sentence": "But why did you choose the brown color",
+        "ar": "ولكن لماذا اخترتم اللون البني؟",
+        "context": "سؤال عن سبب قرار سابق.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "did choose يستخدم للسؤال عن فعل حدث في الماضي وهو اختيار اللون."
+        },
+        "wordMeanings": [
+          {
+            "term": "But",
+            "description": "لكن أو ولكن"
+          },
+          {
+            "term": "why",
+            "description": "لماذا، للسؤال عن السبب"
+          },
+          {
+            "term": "did",
+            "description": "كلمة مساعدة للسؤال في الماضي"
+          },
+          {
+            "term": "you",
+            "description": "أنتم أو أنت حسب السياق"
+          },
+          {
+            "term": "choose",
+            "description": "تختار أو اخترتم بعد did"
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف"
+          },
+          {
+            "term": "brown",
+            "description": "البني اللون"
+          },
+          {
+            "term": "color",
+            "description": "لون"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Nice. But why did you leave early",
+        "ar": "لطيف. ولكن لماذا غادرت مبكرًا؟",
+        "context": "يقال بعد تعليق قصير ثم سؤال عن سبب"
+      },
+      {
+        "id": 2,
+        "en": "Why did you choose this room",
+        "ar": "لماذا اخترت هذه الغرفة؟",
+        "context": "يقال للسؤال عن سبب اختيار سابق"
+      },
+      {
+        "id": 3,
+        "en": "Why did they paint the door blue",
+        "ar": "لماذا طَلوا الباب بالأزرق؟",
+        "context": "يقال للسؤال عن سبب قرار في الماضي"
+      },
+      {
+        "id": 4,
+        "en": "But why did she call you",
+        "ar": "ولكن لماذا اتصلت بك؟",
+        "context": "يقال للاستفسار عن سبب اتصال سابق"
+      },
+      {
+        "id": 5,
+        "en": "Why did you buy this car",
+        "ar": "لماذا اشتريت هذه السيارة؟",
+        "context": "يقال للسؤال عن دافع شراء"
+      },
+      {
+        "id": 6,
+        "en": "Nice. Why did you make it smaller",
+        "ar": "لطيف. لماذا جعلته أصغر؟",
+        "context": "يقال بعد ملاحظة تغيير في تصميم"
+      },
+      {
+        "id": 7,
+        "en": "Why did we stop here",
+        "ar": "لماذا توقفنا هنا؟",
+        "context": "يقال للسؤال عن سبب توقف"
+      },
+      {
+        "id": 8,
+        "en": "Why did he change the plan",
+        "ar": "لماذا غير الخطة؟",
+        "context": "يقال عند الاستفسار عن قرار سابق"
+      },
+      {
+        "id": 9,
+        "en": "But why did you ask him",
+        "ar": "ولكن لماذا سألته؟",
+        "context": "يقال عند الاستغراب من سؤال سابق"
+      },
+      {
+        "id": 10,
+        "en": "Why did they choose gray",
+        "ar": "لماذا اختاروا الرمادي؟",
+        "context": "يقال للسؤال عن سبب اختيار لون"
+      }
+    ]
+  }
+}

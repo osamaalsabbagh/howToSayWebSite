@@ -1,0 +1,195 @@
+{
+  "schemaVersion": 1,
+  "id": 4,
+  "sentence": {
+    "en": "Excellent! I will call you when I leave my office so we can arrive at the same time.",
+    "ar": "ممتاز! سأتصل بك عندما أغادر مكتبي كي نستطيع الوصول في الوقت نفسه.",
+    "context": "يبدي إعجابه بالفكرة ثم يخبره أنه سيتصل به قبل مغادرة مكتبه لتنسيق موعد الوصول."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Excellent",
+        "ar": "ممتاز.",
+        "context": "تعليق قصير لإظهار الإعجاب أو الموافقة.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه كلمة تقييم وليست جملة بزمن."
+        },
+        "wordMeanings": [
+          {
+            "term": "Excellent",
+            "description": "ممتاز أو رائع"
+          }
+        ]
+      },
+      {
+        "sentence": "I will call you",
+        "ar": "سأتصل بك.",
+        "context": "يذكر خطة للتواصل لاحقًا.",
+        "grammar": {
+          "tense": "المستقبل البسيط",
+          "tenseEn": "Future Simple",
+          "reason": "will call يعبّر عن وعد أو قرار مستقبلي."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "أنا"
+          },
+          {
+            "term": "will",
+            "description": "سوف أو سأ"
+          },
+          {
+            "term": "call",
+            "description": "أتصل"
+          },
+          {
+            "term": "you",
+            "description": "بك أو أنت كمفعول"
+          }
+        ]
+      },
+      {
+        "sentence": "when I leave my office",
+        "ar": "عندما أغادر مكتبي.",
+        "context": "يحدد وقت الاتصال.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "بعد when في معنى مستقبلي يستخدم المضارع البسيط لتحديد وقت الفعل."
+        },
+        "wordMeanings": [
+          {
+            "term": "when",
+            "description": "عندما"
+          },
+          {
+            "term": "I",
+            "description": "أنا"
+          },
+          {
+            "term": "leave",
+            "description": "أغادر"
+          },
+          {
+            "term": "my",
+            "description": "الخاص بي"
+          },
+          {
+            "term": "office",
+            "description": "مكتب"
+          }
+        ]
+      },
+      {
+        "sentence": "so we can arrive at the same time",
+        "ar": "كي نستطيع الوصول في الوقت نفسه.",
+        "context": "يوضح الهدف من الاتصال والتنسيق.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "can arrive تركيب قدرة أو إمكانية، و so يوضح الغرض وليس زمنًا مستقلًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "so",
+            "description": "كي أو لذلك"
+          },
+          {
+            "term": "we",
+            "description": "نحن"
+          },
+          {
+            "term": "can",
+            "description": "نستطيع أو يمكننا"
+          },
+          {
+            "term": "arrive",
+            "description": "نصل"
+          },
+          {
+            "term": "at",
+            "description": "في أو عند"
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف"
+          },
+          {
+            "term": "same",
+            "description": "نفس أو ذاته"
+          },
+          {
+            "term": "time",
+            "description": "وقت"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Excellent. I will call you tonight",
+        "ar": "ممتاز. سأتصل بك الليلة",
+        "context": "يقال بعد الموافقة على خطة اتصال"
+      },
+      {
+        "id": 2,
+        "en": "I will text you when I leave",
+        "ar": "سأراسلك عندما أغادر",
+        "context": "يقال لتنسيق الوقت مع شخص"
+      },
+      {
+        "id": 3,
+        "en": "Call me when you reach the office",
+        "ar": "اتصل بي عندما تصل إلى المكتب",
+        "context": "يقال عند انتظار وصول شخص"
+      },
+      {
+        "id": 4,
+        "en": "We can arrive at the same time",
+        "ar": "يمكننا الوصول في الوقت نفسه",
+        "context": "يقال عند تنسيق موعد وصول"
+      },
+      {
+        "id": 5,
+        "en": "I will leave early so we can meet",
+        "ar": "سأغادر مبكرًا كي نستطيع اللقاء",
+        "context": "يقال عند ترتيب وقت للقاء"
+      },
+      {
+        "id": 6,
+        "en": "Excellent. We can start now",
+        "ar": "ممتاز. يمكننا البدء الآن",
+        "context": "يقال بعد اكتمال الاستعداد"
+      },
+      {
+        "id": 7,
+        "en": "She will call when she finishes work",
+        "ar": "ستتصل عندما تنهي العمل",
+        "context": "يقال عن اتصال مرتبط بوقت لاحق"
+      },
+      {
+        "id": 8,
+        "en": "I will wait so you can park the car",
+        "ar": "سأنتظر كي تستطيع إيقاف السيارة",
+        "context": "يقال عند إعطاء شخص وقتًا"
+      },
+      {
+        "id": 9,
+        "en": "We will meet at the same place",
+        "ar": "سنلتقي في المكان نفسه",
+        "context": "يقال عند تأكيد مكان لقاء"
+      },
+      {
+        "id": 10,
+        "en": "I will call you before dinner",
+        "ar": "سأتصل بك قبل العشاء",
+        "context": "يقال لتحديد وقت اتصال تقريبي"
+      }
+    ]
+  }
+}

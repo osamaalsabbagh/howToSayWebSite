@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": 6,
+  "sentence": {
+    "en": "Sure, thanks.",
+    "ar": "بالتأكيد، شكرًا.",
+    "context": "يشكره ويجلس بانتظار البائع."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Sure",
+        "ar": "بالتأكيد.",
+        "context": "قبول مهذب لاقتراح الجلوس.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "كلمة جوابية للموافقة ولا تحمل زمنًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "Sure",
+            "description": "بالتأكيد أو نعم"
+          }
+        ]
+      },
+      {
+        "sentence": "thanks",
+        "ar": "شكرًا.",
+        "context": "شكر قصير بعد تلقي المساعدة.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "كلمة شكر ثابتة ولا تحمل زمنًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "thanks",
+            "description": "شكرًا"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Sure, thanks for your help",
+        "ar": "بالتأكيد، شكرًا على مساعدتك",
+        "context": "يقال بعد قبول مساعدة"
+      },
+      {
+        "id": 2,
+        "en": "Sure, I can wait",
+        "ar": "بالتأكيد، أستطيع الانتظار",
+        "context": "يقال عند قبول الانتظار"
+      },
+      {
+        "id": 3,
+        "en": "Thanks for the chair",
+        "ar": "شكرًا على الكرسي",
+        "context": "يقال بعد أن يقدم لك شخص مقعدًا"
+      },
+      {
+        "id": 4,
+        "en": "Sure, that is fine",
+        "ar": "بالتأكيد، لا بأس بذلك",
+        "context": "يقال للموافقة على اقتراح"
+      },
+      {
+        "id": 5,
+        "en": "Thanks, I will sit here",
+        "ar": "شكرًا، سأجلس هنا",
+        "context": "يقال عند قبول مكان جلوس"
+      },
+      {
+        "id": 6,
+        "en": "Sure, show me the cats",
+        "ar": "بالتأكيد، أرني القطط",
+        "context": "يقال في متجر حيوانات"
+      },
+      {
+        "id": 7,
+        "en": "Thanks for waiting",
+        "ar": "شكرًا على الانتظار",
+        "context": "يقال لشخص انتظر"
+      },
+      {
+        "id": 8,
+        "en": "Sure, no problem",
+        "ar": "بالتأكيد، لا مشكلة",
+        "context": "يقال عند قبول أمر بسيط"
+      },
+      {
+        "id": 9,
+        "en": "Thanks for the offer",
+        "ar": "شكرًا على العرض",
+        "context": "يقال بعد عرض مساعدة أو خدمة"
+      },
+      {
+        "id": 10,
+        "en": "Sure, I understand",
+        "ar": "بالتأكيد، أفهم",
+        "context": "يقال عند تأكيد الفهم"
+      }
+    ]
+  }
+}

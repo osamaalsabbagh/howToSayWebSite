@@ -1,0 +1,175 @@
+{
+  "schemaVersion": 1,
+  "id": 2,
+  "sentence": {
+    "en": "Well, son, a capital city is the main city of a country where the government is.",
+    "ar": "حسنًا، بُني، المدينة العاصمة هي المدينة الرئيسة في الدولة حيث توجد الحكومة.",
+    "context": "يشرح الأب المفهوم بطريقة بسيطة ومباشرة."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Well son",
+        "ar": "حسنًا يا بني.",
+        "context": "تمهيد لطيف قبل الشرح.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه عبارة تمهيد ونداء ولا تحمل زمنًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "Well",
+            "description": "حسنًا أو طيب"
+          },
+          {
+            "term": "son",
+            "description": "ابني أو يا بني"
+          }
+        ]
+      },
+      {
+        "sentence": "a capital city is the main city of a country",
+        "ar": "المدينة العاصمة هي المدينة الرئيسة في دولة.",
+        "context": "يعطي التعريف الأساسي لمعنى العاصمة.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "is يستخدم في تعريف عام ثابت."
+        },
+        "wordMeanings": [
+          {
+            "term": "a",
+            "description": "أداة قبل اسم مفرد غير محدد"
+          },
+          {
+            "term": "capital",
+            "description": "عاصمة أو رئيسي"
+          },
+          {
+            "term": "city",
+            "description": "مدينة"
+          },
+          {
+            "term": "is",
+            "description": "هي أو تكون للتعريف"
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف"
+          },
+          {
+            "term": "main",
+            "description": "رئيسي أو أهم"
+          },
+          {
+            "term": "city",
+            "description": "مدينة"
+          },
+          {
+            "term": "of",
+            "description": "من أو التابعة لـ"
+          },
+          {
+            "term": "a",
+            "description": "أداة قبل اسم مفرد غير محدد"
+          },
+          {
+            "term": "country",
+            "description": "دولة أو بلد"
+          }
+        ]
+      },
+      {
+        "sentence": "where the government is",
+        "ar": "حيث توجد الحكومة.",
+        "context": "يضيف معلومة توضح سبب أهمية العاصمة.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "is يصف مكان وجود الحكومة كحقيقة عامة."
+        },
+        "wordMeanings": [
+          {
+            "term": "where",
+            "description": "حيث أو أين"
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف"
+          },
+          {
+            "term": "government",
+            "description": "الحكومة"
+          },
+          {
+            "term": "is",
+            "description": "توجد أو تكون"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "A capital city is the main city of a country",
+        "ar": "المدينة العاصمة هي المدينة الرئيسة في الدولة",
+        "context": "يقال عند تعريف العاصمة ببساطة"
+      },
+      {
+        "id": 2,
+        "en": "The government is in the capital city",
+        "ar": "الحكومة في المدينة العاصمة",
+        "context": "يقال لشرح وظيفة العاصمة"
+      },
+      {
+        "id": 3,
+        "en": "A school is a place where students learn",
+        "ar": "المدرسة مكان يتعلم فيه الطلاب",
+        "context": "يقال عند تعريف شيء بطريقة بسيطة"
+      },
+      {
+        "id": 4,
+        "en": "A hospital is a place where doctors work",
+        "ar": "المستشفى مكان يعمل فيه الأطباء",
+        "context": "يقال عند شرح وظيفة مكان"
+      },
+      {
+        "id": 5,
+        "en": "The main office is downtown",
+        "ar": "المكتب الرئيس في وسط المدينة",
+        "context": "يقال لتحديد أهم مكتب"
+      },
+      {
+        "id": 6,
+        "en": "A country has many cities",
+        "ar": "الدولة لديها مدن كثيرة",
+        "context": "يقال عند شرح الجغرافيا للأطفال"
+      },
+      {
+        "id": 7,
+        "en": "The capital is where leaders meet",
+        "ar": "العاصمة هي المكان الذي يجتمع فيه القادة",
+        "context": "يقال لتوضيح دور العاصمة"
+      },
+      {
+        "id": 8,
+        "en": "The main city is very busy",
+        "ar": "المدينة الرئيسة مزدحمة جدًا",
+        "context": "يقال لوصف مدينة مهمة"
+      },
+      {
+        "id": 9,
+        "en": "A cafe is a place where people drink coffee",
+        "ar": "المقهى مكان يشرب فيه الناس القهوة",
+        "context": "يقال عند تعريف مكان مألوف"
+      },
+      {
+        "id": 10,
+        "en": "Well, son, that is a good question",
+        "ar": "حسنًا يا بني، هذا سؤال جيد",
+        "context": "يقال عند تشجيع طفل على السؤال"
+      }
+    ]
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "schemaVersion": 1,
+  "id": 3,
+  "sentence": {
+    "en": "Alright, did you get the stuff I asked for?",
+    "ar": "طيب، هل جلبت الأشياء التي طلبتها منك؟",
+    "context": "تتحقق من اكتمال المشتريات."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Alright",
+        "ar": "طيب.",
+        "context": "انتقال من سبب التأخر إلى سؤال آخر.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "كلمة انتقالية ولا تحمل زمنًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "Alright",
+            "description": "طيب أو حسنًا"
+          }
+        ]
+      },
+      {
+        "sentence": "did you get the stuff I asked for",
+        "ar": "هل جلبت الأشياء التي طلبتها؟",
+        "context": "تسأل هل اشترى المطلوب.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "did you get سؤال عن فعل اكتمل قبل العودة."
+        },
+        "wordMeanings": [
+          {
+            "term": "did",
+            "description": "كلمة مساعدة للسؤال في الماضي"
+          },
+          {
+            "term": "you",
+            "description": "أنت"
+          },
+          {
+            "term": "get",
+            "description": "جلبت أو أحضرت بعد did"
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف"
+          },
+          {
+            "term": "stuff",
+            "description": "الأشياء أو الأغراض"
+          },
+          {
+            "term": "I",
+            "description": "أنا"
+          },
+          {
+            "term": "asked",
+            "description": "طلبت"
+          },
+          {
+            "term": "for",
+            "description": "من أجل أو طلبتها"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Did you get the milk",
+        "ar": "هل جلبت الحليب؟",
+        "context": "يقال للتحقق من المشتريات"
+      },
+      {
+        "id": 2,
+        "en": "Did you get what I asked for",
+        "ar": "هل جلبت ما طلبته؟",
+        "context": "يقال بعد عودة شخص من متجر"
+      },
+      {
+        "id": 3,
+        "en": "Alright, did you call him",
+        "ar": "طيب، هل اتصلت به؟",
+        "context": "يقال للانتقال إلى سؤال"
+      },
+      {
+        "id": 4,
+        "en": "I asked for cheese",
+        "ar": "طلبت جبنة",
+        "context": "يقال لتذكير شخص بطلب"
+      },
+      {
+        "id": 5,
+        "en": "The stuff is in the bag",
+        "ar": "الأغراض في الكيس",
+        "context": "يقال بعد التسوق"
+      },
+      {
+        "id": 6,
+        "en": "Did they get everything",
+        "ar": "هل جلبوا كل شيء؟",
+        "context": "يقال للتحقق من اكتمال قائمة"
+      },
+      {
+        "id": 7,
+        "en": "You got the wrong stuff",
+        "ar": "جلبت الأشياء الخاطئة",
+        "context": "يقال عند وجود خطأ"
+      },
+      {
+        "id": 8,
+        "en": "I asked for bananas",
+        "ar": "طلبت موزًا",
+        "context": "يقال عند تذكير بالمطلوب"
+      },
+      {
+        "id": 9,
+        "en": "Did you get it from the market",
+        "ar": "هل جلبته من السوق؟",
+        "context": "يقال للسؤال عن مصدر الشراء"
+      },
+      {
+        "id": 10,
+        "en": "Alright, show me the bag",
+        "ar": "طيب، أرني الكيس",
+        "context": "يقال بعد التسوق"
+      }
+    ]
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": 1,
+  "sentence": {
+    "en": "Why are you late, honey?",
+    "ar": "لماذا أنت متأخر يا عسل؟",
+    "context": "تسأل بدلال خفيف ونبرة محبة، مستخدمة لفظًا لطيفًا بين الأزواج."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Why are you late honey",
+        "ar": "لماذا أنت متأخر يا حبيبي؟",
+        "context": "سؤال لطيف عن سبب التأخر.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "are يصف حالة حالية، وهي التأخر الآن."
+        },
+        "wordMeanings": [
+          {
+            "term": "Why",
+            "description": "لماذا"
+          },
+          {
+            "term": "are",
+            "description": "تكون أو أنت في السؤال"
+          },
+          {
+            "term": "you",
+            "description": "أنت"
+          },
+          {
+            "term": "late",
+            "description": "متأخر"
+          },
+          {
+            "term": "honey",
+            "description": "حبيبي أو عزيزي كنداء لطيف"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Why are you late today",
+        "ar": "لماذا أنت متأخر اليوم؟",
+        "context": "يقال عند وصول شخص متأخرًا"
+      },
+      {
+        "id": 2,
+        "en": "Are you late because of traffic",
+        "ar": "هل أنت متأخر بسبب الزحام؟",
+        "context": "يقال للسؤال عن سبب التأخر"
+      },
+      {
+        "id": 3,
+        "en": "Honey, why are you worried",
+        "ar": "حبيبي، لماذا أنت قلق؟",
+        "context": "يقال بنبرة محبة"
+      },
+      {
+        "id": 4,
+        "en": "Why is the bus late",
+        "ar": "لماذا الحافلة متأخرة؟",
+        "context": "يقال عند انتظار مواصلة"
+      },
+      {
+        "id": 5,
+        "en": "You are late for dinner",
+        "ar": "أنت متأخر عن العشاء",
+        "context": "يقال في البيت"
+      },
+      {
+        "id": 6,
+        "en": "Why are they late",
+        "ar": "لماذا هم متأخرون؟",
+        "context": "يقال عند انتظار أشخاص"
+      },
+      {
+        "id": 7,
+        "en": "I am late because of work",
+        "ar": "أنا متأخر بسبب العمل",
+        "context": "يقال لتفسير التأخر"
+      },
+      {
+        "id": 8,
+        "en": "Honey, dinner is ready",
+        "ar": "حبيبي، العشاء جاهز",
+        "context": "يقال بلطف في البيت"
+      },
+      {
+        "id": 9,
+        "en": "Why are you home late",
+        "ar": "لماذا عدت إلى البيت متأخرًا؟",
+        "context": "يقال عند العودة المتأخرة"
+      },
+      {
+        "id": 10,
+        "en": "You are not usually late",
+        "ar": "أنت لا تتأخر عادة",
+        "context": "يقال عند استغراب التأخر"
+      }
+    ]
+  }
+}

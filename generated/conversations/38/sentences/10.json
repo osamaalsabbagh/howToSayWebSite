@@ -1,0 +1,163 @@
+{
+  "schemaVersion": 1,
+  "id": 10,
+  "sentence": {
+    "en": "Looks like we just got to the market. Let us grab what your mom asked for.",
+    "ar": "يبدو أننا للتو وصلنا إلى السوق، دعنا نلتقط ما طلبته أمك.",
+    "context": "يقولها الأب عند وصولهما للتو إلى السوق، ويُفهم منها الوصول اللحظي لا الفعل الرسمي (arrive)، ويحث ابنه على أخذ الأغراض بسرعة أثناء التسوق دون تأنٍ، ولفظ الأم هنا عامي غير رسمي."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Looks like we just got to the market",
+        "ar": "يبدو أننا وصلنا للتو إلى السوق.",
+        "context": "يلاحظ وصولهما في هذه اللحظة تقريبًا.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "got to تعني وصل إلى، و just يوضح أن الوصول حدث قبل لحظة."
+        },
+        "wordMeanings": [
+          {
+            "term": "Looks",
+            "description": "يبدو"
+          },
+          {
+            "term": "like",
+            "description": "مثل أو كأن"
+          },
+          {
+            "term": "we",
+            "description": "نحن"
+          },
+          {
+            "term": "just",
+            "description": "للتو"
+          },
+          {
+            "term": "got",
+            "description": "وصلنا في هذا السياق"
+          },
+          {
+            "term": "to",
+            "description": "إلى"
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف"
+          },
+          {
+            "term": "market",
+            "description": "السوق"
+          }
+        ]
+      },
+      {
+        "sentence": "Let us grab what your mom asked for",
+        "ar": "دعنا نأخذ ما طلبته أمك.",
+        "context": "اقتراح سريع لجمع أغراض التسوق المطلوبة.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "Let us صيغة اقتراح، و asked for تصف ما طلبته الأم سابقًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "Let",
+            "description": "دع أو لنفعل"
+          },
+          {
+            "term": "us",
+            "description": "نا أو نحن في الاقتراح"
+          },
+          {
+            "term": "grab",
+            "description": "نأخذ بسرعة"
+          },
+          {
+            "term": "what",
+            "description": "ما أو الشيء الذي"
+          },
+          {
+            "term": "your",
+            "description": "الخاص بك"
+          },
+          {
+            "term": "mom",
+            "description": "الأم بصيغة غير رسمية"
+          },
+          {
+            "term": "asked",
+            "description": "طلبت"
+          },
+          {
+            "term": "for",
+            "description": "من أجل أو طلبته"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Looks like we just arrived",
+        "ar": "يبدو أننا وصلنا للتو",
+        "context": "يقال عند الوصول إلى مكان"
+      },
+      {
+        "id": 2,
+        "en": "We just got to the office",
+        "ar": "وصلنا للتو إلى المكتب",
+        "context": "يقال بعد الوصول مباشرة"
+      },
+      {
+        "id": 3,
+        "en": "Let us grab some coffee",
+        "ar": "دعنا نأخذ بعض القهوة",
+        "context": "يقال عند اقتراح شراء سريع"
+      },
+      {
+        "id": 4,
+        "en": "Grab what your mother needs",
+        "ar": "خذ ما تحتاجه أمك",
+        "context": "يقال عند التسوق لشخص"
+      },
+      {
+        "id": 5,
+        "en": "Looks like the market is open",
+        "ar": "يبدو أن السوق مفتوح",
+        "context": "يقال عند ملاحظة حالة مكان"
+      },
+      {
+        "id": 6,
+        "en": "She asked for lemons and tomatoes",
+        "ar": "طلبت ليمونًا وبندورة",
+        "context": "يقال عند تذكر قائمة مشتريات"
+      },
+      {
+        "id": 7,
+        "en": "Let us buy what we need",
+        "ar": "دعنا نشتري ما نحتاجه",
+        "context": "يقال عند بدء التسوق"
+      },
+      {
+        "id": 8,
+        "en": "We just got to the bus stop",
+        "ar": "وصلنا للتو إلى موقف الحافلات",
+        "context": "يقال بعد الوصول لنقطة انتظار"
+      },
+      {
+        "id": 9,
+        "en": "Looks like we have everything",
+        "ar": "يبدو أن لدينا كل شيء",
+        "context": "يقال عند مراجعة الأغراض"
+      },
+      {
+        "id": 10,
+        "en": "Let us grab the list first",
+        "ar": "دعنا نأخذ القائمة أولًا",
+        "context": "يقال قبل جمع المشتريات"
+      }
+    ]
+  }
+}

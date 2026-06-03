@@ -1,0 +1,167 @@
+{
+  "schemaVersion": 1,
+  "id": 5,
+  "sentence": {
+    "en": "Please have a seat on that chair while I get a few for you to look at.",
+    "ar": "تفضل بالجلوس على ذلك الكرسي بينما أجلب البعض من أجلك لتراه.",
+    "context": "يدعوه للجلوس على الكرسي في انتظار أن يحضر له بعض القطط."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Please have a seat on that chair",
+        "ar": "من فضلك اجلس على ذلك الكرسي.",
+        "context": "طلب مهذب من الزبون أن يجلس وينتظر.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "Please have a seat صيغة طلب مهذب، وليست جملة بزمن خبري."
+        },
+        "wordMeanings": [
+          {
+            "term": "Please",
+            "description": "من فضلك أو تفضل"
+          },
+          {
+            "term": "have",
+            "description": "خذ أو اجلس في تعبير have a seat"
+          },
+          {
+            "term": "a",
+            "description": "أداة قبل اسم مفرد غير محدد"
+          },
+          {
+            "term": "seat",
+            "description": "مقعد أو جلوس"
+          },
+          {
+            "term": "on",
+            "description": "على"
+          },
+          {
+            "term": "that",
+            "description": "ذلك"
+          },
+          {
+            "term": "chair",
+            "description": "كرسي"
+          }
+        ]
+      },
+      {
+        "sentence": "while I get a few for you to look at",
+        "ar": "بينما أحضر بعضًا منها لك لتنظر إليها.",
+        "context": "يوضح ما سيفعله البائع أثناء انتظار الزبون.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "get هنا تصف فعلًا سيحدث ضمن ترتيب قريب بعد while، و to look at يوضح الغرض."
+        },
+        "wordMeanings": [
+          {
+            "term": "while",
+            "description": "بينما أو أثناء"
+          },
+          {
+            "term": "I",
+            "description": "أنا"
+          },
+          {
+            "term": "get",
+            "description": "أحضر أو أجلب"
+          },
+          {
+            "term": "a",
+            "description": "أداة ضمن عبارة تعني بعضًا"
+          },
+          {
+            "term": "few",
+            "description": "قليل أو بعض"
+          },
+          {
+            "term": "for",
+            "description": "لأجل أو من أجل"
+          },
+          {
+            "term": "you",
+            "description": "أنت أو لك"
+          },
+          {
+            "term": "to",
+            "description": "لكي أو لـ"
+          },
+          {
+            "term": "look",
+            "description": "تنظر"
+          },
+          {
+            "term": "at",
+            "description": "إلى، وتكمل معنى ينظر إلى"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Please have a seat here",
+        "ar": "من فضلك اجلس هنا",
+        "context": "يقال للزبون أو الضيف عند الانتظار"
+      },
+      {
+        "id": 2,
+        "en": "Have a seat on this chair",
+        "ar": "اجلس على هذا الكرسي",
+        "context": "يقال لتحديد مكان الجلوس"
+      },
+      {
+        "id": 3,
+        "en": "Please wait while I get the keys",
+        "ar": "من فضلك انتظر بينما أحضر المفاتيح",
+        "context": "يقال عند طلب انتظار قصير"
+      },
+      {
+        "id": 4,
+        "en": "I will get a few for you",
+        "ar": "سأحضر بعضًا منها لك",
+        "context": "يقال عند إحضار خيارات لشخص"
+      },
+      {
+        "id": 5,
+        "en": "Look at these cats",
+        "ar": "انظر إلى هذه القطط",
+        "context": "يقال عند عرض حيوانات أو أشياء"
+      },
+      {
+        "id": 6,
+        "en": "Please sit while I check",
+        "ar": "من فضلك اجلس بينما أتحقق",
+        "context": "يقال في متجر أو مكتب"
+      },
+      {
+        "id": 7,
+        "en": "That chair is comfortable",
+        "ar": "ذلك الكرسي مريح",
+        "context": "يقال عند وصف مكان الجلوس"
+      },
+      {
+        "id": 8,
+        "en": "I have a few cats here",
+        "ar": "لدي بعض القطط هنا",
+        "context": "يقال عند عرض خيارات قليلة"
+      },
+      {
+        "id": 9,
+        "en": "Please look at this one",
+        "ar": "من فضلك انظر إلى هذه الواحدة",
+        "context": "يقال لتوجيه انتباه الزبون"
+      },
+      {
+        "id": 10,
+        "en": "I will bring a few for you",
+        "ar": "سأحضر بعضًا منها لك",
+        "context": "يقال عند خدمة زبون"
+      }
+    ]
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "schemaVersion": 1,
+  "id": 4,
+  "sentence": {
+    "en": "Alex has a high fever and he needs to go to the hospital.",
+    "ar": "أليكس يعاني من حُمّى شديدة ويحتاج إلى الذهاب إلى المستشفى.",
+    "context": "توضح المشكلة الطبية الطارئة للابن."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Alex has a high fever",
+        "ar": "أليكس لديه حمى شديدة.",
+        "context": "يصف المشكلة الصحية الحالية.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "has يصف حالة صحية حالية."
+        },
+        "wordMeanings": [
+          {
+            "term": "Alex",
+            "description": "اسم الشخص المصاب"
+          },
+          {
+            "term": "has",
+            "description": "لديه أو يعاني من"
+          },
+          {
+            "term": "a",
+            "description": "أداة قبل اسم مفرد غير محدد"
+          },
+          {
+            "term": "high",
+            "description": "مرتفع أو شديد"
+          },
+          {
+            "term": "fever",
+            "description": "حمى"
+          }
+        ]
+      },
+      {
+        "sentence": "and he needs to go to the hospital",
+        "ar": "ويحتاج إلى الذهاب إلى المستشفى.",
+        "context": "يوضح الإجراء المطلوب بسبب الحمى.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "needs يعبّر عن حاجة حالية وضرورية."
+        },
+        "wordMeanings": [
+          {
+            "term": "and",
+            "description": "و، للربط"
+          },
+          {
+            "term": "he",
+            "description": "هو"
+          },
+          {
+            "term": "needs",
+            "description": "يحتاج"
+          },
+          {
+            "term": "to",
+            "description": "إلى أو أن قبل الفعل"
+          },
+          {
+            "term": "go",
+            "description": "يذهب"
+          },
+          {
+            "term": "to",
+            "description": "إلى"
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف"
+          },
+          {
+            "term": "hospital",
+            "description": "مستشفى"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "She has a high fever",
+        "ar": "لديها حمى شديدة",
+        "context": "يقال لوصف حالة صحية مقلقة"
+      },
+      {
+        "id": 2,
+        "en": "He needs to see a doctor",
+        "ar": "يحتاج إلى رؤية طبيب",
+        "context": "يقال عند الحاجة إلى علاج"
+      },
+      {
+        "id": 3,
+        "en": "Alex needs to rest now",
+        "ar": "يحتاج أليكس إلى الراحة الآن",
+        "context": "يقال عند نصح مريض بالراحة"
+      },
+      {
+        "id": 4,
+        "en": "The child has a bad cough",
+        "ar": "لدى الطفل سعال شديد",
+        "context": "يقال لوصف عرض مرضي"
+      },
+      {
+        "id": 5,
+        "en": "We need to go to the hospital",
+        "ar": "نحتاج إلى الذهاب إلى المستشفى",
+        "context": "يقال في حالة طارئة"
+      },
+      {
+        "id": 6,
+        "en": "He has a fever today",
+        "ar": "لديه حمى اليوم",
+        "context": "يقال عند الإبلاغ عن مرض شخص"
+      },
+      {
+        "id": 7,
+        "en": "She needs to take medicine",
+        "ar": "تحتاج إلى تناول الدواء",
+        "context": "يقال عن حاجة صحية"
+      },
+      {
+        "id": 8,
+        "en": "The baby needs to go home",
+        "ar": "يحتاج الطفل إلى الذهاب إلى البيت",
+        "context": "يقال عند حاجة طفل للراحة"
+      },
+      {
+        "id": 9,
+        "en": "He has a serious problem",
+        "ar": "لديه مشكلة خطيرة",
+        "context": "يقال عند وصف أمر مهم"
+      },
+      {
+        "id": 10,
+        "en": "They need to call the doctor",
+        "ar": "يحتاجون إلى الاتصال بالطبيب",
+        "context": "يقال عند طلب مساعدة طبية"
+      }
+    ]
+  }
+}

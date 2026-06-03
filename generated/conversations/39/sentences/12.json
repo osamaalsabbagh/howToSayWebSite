@@ -1,0 +1,167 @@
+{
+  "schemaVersion": 1,
+  "id": 12,
+  "sentence": {
+    "en": "Alright, I will take it. Anything I should know about taking care of it?",
+    "ar": "تمام، سآخذها. أي شيء يجب أن أعرفه عن العناية بها؟",
+    "context": "يسأل عن كيفية الاهتمام بالقطة الجديدة."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Alright",
+        "ar": "تمام.",
+        "context": "إعلان قبول القرار.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "كلمة جوابية للموافقة ولا تحمل زمنًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "Alright",
+            "description": "تمام أو حسنًا"
+          }
+        ]
+      },
+      {
+        "sentence": "I will take it",
+        "ar": "سآخذها.",
+        "context": "يعلن قرار شراء القطة.",
+        "grammar": {
+          "tense": "المستقبل البسيط",
+          "tenseEn": "Future Simple",
+          "reason": "will take يعبر عن قرار اتخذه المتكلم الآن."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "أنا"
+          },
+          {
+            "term": "will",
+            "description": "سوف أو سأ"
+          },
+          {
+            "term": "take",
+            "description": "آخذ أو أشتري في هذا السياق"
+          },
+          {
+            "term": "it",
+            "description": "هي أو ها للقطة"
+          }
+        ]
+      },
+      {
+        "sentence": "Anything I should know about taking care of it",
+        "ar": "هل هناك أي شيء يجب أن أعرفه عن العناية بها؟",
+        "context": "يسأل عن تعليمات الرعاية قبل أخذ القطة.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "should know تركيب نصيحة أو ضرورة خفيفة، و taking care of تعبير عن العناية."
+        },
+        "wordMeanings": [
+          {
+            "term": "Anything",
+            "description": "أي شيء"
+          },
+          {
+            "term": "I",
+            "description": "أنا"
+          },
+          {
+            "term": "should",
+            "description": "ينبغي أو يجب بشكل نصيحة"
+          },
+          {
+            "term": "know",
+            "description": "أعرف"
+          },
+          {
+            "term": "about",
+            "description": "عن أو بخصوص"
+          },
+          {
+            "term": "taking",
+            "description": "أخذ أو القيام في تعبير العناية"
+          },
+          {
+            "term": "care",
+            "description": "رعاية أو عناية"
+          },
+          {
+            "term": "of",
+            "description": "بـ أو لـ في تعبير العناية بـ"
+          },
+          {
+            "term": "it",
+            "description": "بها أو به للشيء المذكور"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Alright, I will take this one",
+        "ar": "تمام، سآخذ هذه الواحدة",
+        "context": "يقال عند قرار الشراء"
+      },
+      {
+        "id": 2,
+        "en": "I will take it today",
+        "ar": "سآخذها اليوم",
+        "context": "يقال عند تأكيد شراء أو استلام"
+      },
+      {
+        "id": 3,
+        "en": "Anything I should know",
+        "ar": "هل هناك أي شيء يجب أن أعرفه؟",
+        "context": "يقال قبل تجربة شيء جديد"
+      },
+      {
+        "id": 4,
+        "en": "You should know about the food",
+        "ar": "يجب أن تعرف عن الطعام",
+        "context": "يقال عند إعطاء تعليمات رعاية"
+      },
+      {
+        "id": 5,
+        "en": "Taking care of a cat takes time",
+        "ar": "العناية بقطة تأخذ وقتًا",
+        "context": "يقال عند شرح مسؤولية"
+      },
+      {
+        "id": 6,
+        "en": "I should ask about the price",
+        "ar": "ينبغي أن أسأل عن السعر",
+        "context": "يقال قبل الشراء"
+      },
+      {
+        "id": 7,
+        "en": "Anything else I should buy",
+        "ar": "هل هناك أي شيء آخر يجب أن أشتريه؟",
+        "context": "يقال في متجر"
+      },
+      {
+        "id": 8,
+        "en": "I will take care of it",
+        "ar": "سأعتني بها",
+        "context": "يقال عند تحمل مسؤولية"
+      },
+      {
+        "id": 9,
+        "en": "You should know the rules",
+        "ar": "ينبغي أن تعرف القواعد",
+        "context": "يقال قبل بدء شيء"
+      },
+      {
+        "id": 10,
+        "en": "Alright, tell me about it",
+        "ar": "تمام، أخبرني عنها",
+        "context": "يقال عند طلب معلومات"
+      }
+    ]
+  }
+}

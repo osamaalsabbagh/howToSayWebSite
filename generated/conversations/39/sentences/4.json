@@ -1,0 +1,139 @@
+{
+  "schemaVersion": 1,
+  "id": 4,
+  "sentence": {
+    "en": "Got it. That breed is available at our other location.",
+    "ar": "فهمتها، تلك السلالة متوفرة في محلنا الآخر.",
+    "context": "يخبره أن السلالة المطلوبة موجودة في فرع آخر لهم."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Got it",
+        "ar": "فهمت.",
+        "context": "تعبير قصير يعني أن البائع فهم طلب الزبون.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "Got it تعبير ثابت للموافقة أو الفهم، ولا يحتاج إلى زمن مستقل."
+        },
+        "wordMeanings": [
+          {
+            "term": "Got",
+            "description": "فهمت في هذا التعبير"
+          },
+          {
+            "term": "it",
+            "description": "ذلك أو الطلب المقصود"
+          }
+        ]
+      },
+      {
+        "sentence": "That breed is available at our other location",
+        "ar": "تلك السلالة متوفرة في فرعنا الآخر.",
+        "context": "يوضح مكان توفر السلالة المطلوبة.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "is available يصف حالة توفر حالية في فرع آخر."
+        },
+        "wordMeanings": [
+          {
+            "term": "That",
+            "description": "تلك أو ذلك الشيء المحدد"
+          },
+          {
+            "term": "breed",
+            "description": "سلالة"
+          },
+          {
+            "term": "is",
+            "description": "تكون أو هي"
+          },
+          {
+            "term": "available",
+            "description": "متوفرة"
+          },
+          {
+            "term": "at",
+            "description": "في، لتحديد مكان"
+          },
+          {
+            "term": "our",
+            "description": "الخاص بنا"
+          },
+          {
+            "term": "other",
+            "description": "آخر"
+          },
+          {
+            "term": "location",
+            "description": "موقع أو فرع"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Got it. That color is available",
+        "ar": "فهمت. ذلك اللون متوفر",
+        "context": "يقال بعد فهم طلب زبون"
+      },
+      {
+        "id": 2,
+        "en": "That breed is available today",
+        "ar": "تلك السلالة متوفرة اليوم",
+        "context": "يقال لتأكيد التوفر"
+      },
+      {
+        "id": 3,
+        "en": "It is available at our other store",
+        "ar": "إنه متوفر في متجرنا الآخر",
+        "context": "يقال عند توجيه زبون لفرع آخر"
+      },
+      {
+        "id": 4,
+        "en": "Got it. I can check the location",
+        "ar": "فهمت. أستطيع التحقق من الفرع",
+        "context": "يقال عند مساعدة زبون"
+      },
+      {
+        "id": 5,
+        "en": "The product is available online",
+        "ar": "المنتج متوفر على الإنترنت",
+        "context": "يقال عند ذكر طريقة شراء أخرى"
+      },
+      {
+        "id": 6,
+        "en": "Our other location is downtown",
+        "ar": "فرعنا الآخر في وسط المدينة",
+        "context": "يقال لتحديد مكان فرع"
+      },
+      {
+        "id": 7,
+        "en": "That size is not available here",
+        "ar": "ذلك المقاس غير متوفر هنا",
+        "context": "يقال عند عدم وجود طلب الزبون"
+      },
+      {
+        "id": 8,
+        "en": "Got it. You want a light color",
+        "ar": "فهمت. أنت تريد لونًا فاتحًا",
+        "context": "يقال لتأكيد فهم الطلب"
+      },
+      {
+        "id": 9,
+        "en": "The cat is at our other location",
+        "ar": "القطة في فرعنا الآخر",
+        "context": "يقال لتوجيه الزبون إلى مكان الحيوان"
+      },
+      {
+        "id": 10,
+        "en": "That breed is popular here",
+        "ar": "تلك السلالة مشهورة هنا",
+        "context": "يقال عند الحديث عن طلب شائع"
+      }
+    ]
+  }
+}

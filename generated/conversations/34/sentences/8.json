@@ -1,0 +1,159 @@
+{
+  "schemaVersion": 1,
+  "id": 8,
+  "sentence": {
+    "en": "We have built three buildings so far, and this year we will build three more.",
+    "ar": "بنينا ثلاث أبنية حتى الآن، وهذه السنة سنبني ثلاثة أخرى.",
+    "context": "يشرح عدد المباني التي أنجزوها حتى الآن ويذكر خطتهم للسنة الحالية."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "We have built three buildings so far",
+        "ar": "لقد بنينا ثلاثة مبان حتى الآن.",
+        "context": "يعرض الإنجاز الحالي حتى لحظة الكلام.",
+        "grammar": {
+          "tense": "المضارع التام",
+          "tenseEn": "Present Perfect",
+          "reason": "have built مع so far يوضح نتيجة وصلت إلى الحاضر."
+        },
+        "wordMeanings": [
+          {
+            "term": "We",
+            "description": "نحن"
+          },
+          {
+            "term": "have",
+            "description": "كلمة مساعدة لتكوين المضارع التام"
+          },
+          {
+            "term": "built",
+            "description": "بنينا أو شيدنا"
+          },
+          {
+            "term": "three",
+            "description": "ثلاثة"
+          },
+          {
+            "term": "buildings",
+            "description": "مبان"
+          },
+          {
+            "term": "so",
+            "description": "جزء من عبارة تعني حتى الآن"
+          },
+          {
+            "term": "far",
+            "description": "يكمل معنى حتى الآن"
+          }
+        ]
+      },
+      {
+        "sentence": "and this year we will build three more",
+        "ar": "وهذه السنة سنبني ثلاثة أخرى.",
+        "context": "ينتقل إلى خطة مستقبلية خلال السنة الحالية.",
+        "grammar": {
+          "tense": "المستقبل البسيط",
+          "tenseEn": "Future Simple",
+          "reason": "will build يصف فعلًا مخططًا أو متوقعًا في المستقبل."
+        },
+        "wordMeanings": [
+          {
+            "term": "and",
+            "description": "و، للربط بين فكرتين"
+          },
+          {
+            "term": "this",
+            "description": "هذه أو هذا القريب"
+          },
+          {
+            "term": "year",
+            "description": "سنة أو عام"
+          },
+          {
+            "term": "we",
+            "description": "نحن"
+          },
+          {
+            "term": "will",
+            "description": "سوف أو سن، للدلالة على المستقبل"
+          },
+          {
+            "term": "build",
+            "description": "نبني أو نشيد"
+          },
+          {
+            "term": "three",
+            "description": "ثلاثة"
+          },
+          {
+            "term": "more",
+            "description": "أخرى أو إضافية"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "We have finished two rooms so far",
+        "ar": "أنهينا غرفتين حتى الآن",
+        "context": "يقال لذكر مقدار الإنجاز الحالي"
+      },
+      {
+        "id": 2,
+        "en": "They have sold five cars so far",
+        "ar": "باعوا خمس سيارات حتى الآن",
+        "context": "يقال لعرض نتيجة وصلت إلى الحاضر"
+      },
+      {
+        "id": 3,
+        "en": "This year we will open a new office",
+        "ar": "هذه السنة سنفتح مكتبًا جديدًا",
+        "context": "يقال عن خطة في السنة الحالية"
+      },
+      {
+        "id": 4,
+        "en": "We will hire three more workers",
+        "ar": "سنوظف ثلاثة عمال آخرين",
+        "context": "يقال عن قرار أو خطة قادمة"
+      },
+      {
+        "id": 5,
+        "en": "I have read four books so far",
+        "ar": "قرأت أربعة كتب حتى الآن",
+        "context": "يقال عن تقدم مستمر حتى الآن"
+      },
+      {
+        "id": 6,
+        "en": "She has visited two cities so far",
+        "ar": "زارت مدينتين حتى الآن",
+        "context": "يقال عن تجارب مكتملة إلى الآن"
+      },
+      {
+        "id": 7,
+        "en": "We will build a small bridge",
+        "ar": "سنبني جسرًا صغيرًا",
+        "context": "يقال عن مشروع مستقبلي"
+      },
+      {
+        "id": 8,
+        "en": "They will add two more tables",
+        "ar": "سيضيفون طاولتين أخريين",
+        "context": "يقال عن إضافة متوقعة"
+      },
+      {
+        "id": 9,
+        "en": "We have completed the first stage",
+        "ar": "أكملنا المرحلة الأولى",
+        "context": "يقال لتوضيح إنجاز انتهى وله أثر الآن"
+      },
+      {
+        "id": 10,
+        "en": "Next month we will start another project",
+        "ar": "الشهر القادم سنبدأ مشروعًا آخر",
+        "context": "يقال عن خطة مستقبلية محددة"
+      }
+    ]
+  }
+}

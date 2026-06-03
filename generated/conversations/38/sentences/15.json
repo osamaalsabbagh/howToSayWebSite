@@ -1,0 +1,123 @@
+{
+  "schemaVersion": 1,
+  "id": 15,
+  "sentence": {
+    "en": "Yeah, it is faster than cash.",
+    "ar": "نعم، فهي أسرع من الدفع النقدي.",
+    "context": "يجيب الأب بنعم غير رسمية."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Yeah",
+        "ar": "نعم.",
+        "context": "جواب غير رسمي بالموافقة.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه كلمة جوابية غير رسمية ولا تحمل زمنًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "Yeah",
+            "description": "نعم بشكل غير رسمي"
+          }
+        ]
+      },
+      {
+        "sentence": "it is faster than cash",
+        "ar": "إنها أسرع من النقد.",
+        "context": "يوضح سبب تفضيل الدفع بالبطاقة.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "is يصف مقارنة عامة بين البطاقة والنقد."
+        },
+        "wordMeanings": [
+          {
+            "term": "it",
+            "description": "هي أو هو للشيء المذكور"
+          },
+          {
+            "term": "is",
+            "description": "تكون أو هي"
+          },
+          {
+            "term": "faster",
+            "description": "أسرع"
+          },
+          {
+            "term": "than",
+            "description": "من في المقارنة"
+          },
+          {
+            "term": "cash",
+            "description": "النقد أو المال الورقي"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Yeah, it is easier than cash",
+        "ar": "نعم، إنها أسهل من النقد",
+        "context": "يقال عند تفضيل طريقة دفع"
+      },
+      {
+        "id": 2,
+        "en": "The card is faster than cash",
+        "ar": "البطاقة أسرع من النقد",
+        "context": "يقال لمقارنة الدفع"
+      },
+      {
+        "id": 3,
+        "en": "It is cheaper than the bus",
+        "ar": "إنه أرخص من الحافلة",
+        "context": "يقال في مقارنة سعر"
+      },
+      {
+        "id": 4,
+        "en": "Yeah, that is true",
+        "ar": "نعم، هذا صحيح",
+        "context": "يقال للموافقة على كلام"
+      },
+      {
+        "id": 5,
+        "en": "This line is faster than that line",
+        "ar": "هذا الطابور أسرع من ذلك الطابور",
+        "context": "يقال في متجر أو بنك"
+      },
+      {
+        "id": 6,
+        "en": "Paying by card is simple",
+        "ar": "الدفع بالبطاقة بسيط",
+        "context": "يقال عند شرح طريقة دفع"
+      },
+      {
+        "id": 7,
+        "en": "Yeah, it saves time",
+        "ar": "نعم، إنها توفر الوقت",
+        "context": "يقال لتوضيح فائدة"
+      },
+      {
+        "id": 8,
+        "en": "Cash is slower today",
+        "ar": "النقد أبطأ اليوم",
+        "context": "يقال عند ازدحام أو بطء"
+      },
+      {
+        "id": 9,
+        "en": "It is better than waiting",
+        "ar": "إنه أفضل من الانتظار",
+        "context": "يقال عند اختيار حل أسرع"
+      },
+      {
+        "id": 10,
+        "en": "Yeah, cards are useful",
+        "ar": "نعم، البطاقات مفيدة",
+        "context": "يقال عند الحديث عن الدفع"
+      }
+    ]
+  }
+}

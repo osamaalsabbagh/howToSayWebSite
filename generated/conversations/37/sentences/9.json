@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 1,
+  "id": 9,
+  "sentence": {
+    "en": "Leila, please take Alex to the hospital yourself. I will come as soon as I finish my meetings.",
+    "ar": "ليلى، من فضلك خذي أليكس إلى المستشفى بنفسك، سآتي حالما أنهي اجتماعاتي.",
+    "context": "يطلب منها التصرف مؤقتًا ويَعِد بالقدوم بعد الاجتماعات."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Leila please take Alex to the hospital yourself",
+        "ar": "ليلى، من فضلك خذي أليكس إلى المستشفى بنفسك.",
+        "context": "طلب مباشر منها أن تتصرف فورًا.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "please take أمر مهذب، و yourself يؤكد أنها هي من ستفعل ذلك."
+        },
+        "wordMeanings": [
+          {
+            "term": "Leila",
+            "description": "اسم الشخص المخاطب"
+          },
+          {
+            "term": "please",
+            "description": "من فضلك"
+          },
+          {
+            "term": "take",
+            "description": "خذي أو اصطحبي"
+          },
+          {
+            "term": "Alex",
+            "description": "اسم الشخص المقصود"
+          },
+          {
+            "term": "to",
+            "description": "إلى"
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف"
+          },
+          {
+            "term": "hospital",
+            "description": "المستشفى"
+          },
+          {
+            "term": "yourself",
+            "description": "بنفسك"
+          }
+        ]
+      },
+      {
+        "sentence": "I will come",
+        "ar": "سآتي.",
+        "context": "وعد بالقدوم لاحقًا.",
+        "grammar": {
+          "tense": "المستقبل البسيط",
+          "tenseEn": "Future Simple",
+          "reason": "will come يعبّر عن وعد أو خطة مستقبلية."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "أنا"
+          },
+          {
+            "term": "will",
+            "description": "سوف أو سأ"
+          },
+          {
+            "term": "come",
+            "description": "آتي"
+          }
+        ]
+      },
+      {
+        "sentence": "as soon as I finish my meetings",
+        "ar": "حالما أنهي اجتماعاتي.",
+        "context": "يحدد أن القدوم سيكون مباشرة بعد انتهاء الاجتماعات.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "بعد as soon as في معنى مستقبلي يستخدم المضارع البسيط لتحديد وقت الفعل."
+        },
+        "wordMeanings": [
+          {
+            "term": "as",
+            "description": "جزء من عبارة تعني حالما"
+          },
+          {
+            "term": "soon",
+            "description": "قريبًا، وتكمل معنى حالما"
+          },
+          {
+            "term": "as",
+            "description": "تكمل عبارة حالما"
+          },
+          {
+            "term": "I",
+            "description": "أنا"
+          },
+          {
+            "term": "finish",
+            "description": "أنهي"
+          },
+          {
+            "term": "my",
+            "description": "الخاص بي"
+          },
+          {
+            "term": "meetings",
+            "description": "اجتماعات"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Please take him to the doctor",
+        "ar": "من فضلك خذه إلى الطبيب",
+        "context": "يقال عند طلب مساعدة صحية"
+      },
+      {
+        "id": 2,
+        "en": "I will come as soon as I can",
+        "ar": "سآتي حالما أستطيع",
+        "context": "يقال عند وعد شخص بالقدوم سريعًا"
+      },
+      {
+        "id": 3,
+        "en": "Take the child to the hospital yourself",
+        "ar": "خذ الطفل إلى المستشفى بنفسك",
+        "context": "يقال عند طلب تصرف مباشر"
+      },
+      {
+        "id": 4,
+        "en": "I will call as soon as I arrive",
+        "ar": "سأتصل حالما أصل",
+        "context": "يقال عند ربط الاتصال بالوصول"
+      },
+      {
+        "id": 5,
+        "en": "Please take your mother home",
+        "ar": "من فضلك خذ والدتك إلى البيت",
+        "context": "يقال عند طلب اصطحاب شخص"
+      },
+      {
+        "id": 6,
+        "en": "She will come after work",
+        "ar": "ستأتي بعد العمل",
+        "context": "يقال عن خطة حضور لاحقة"
+      },
+      {
+        "id": 7,
+        "en": "I will leave as soon as the meeting ends",
+        "ar": "سأغادر حالما ينتهي الاجتماع",
+        "context": "يقال عند وعد بالمغادرة بعد حدث"
+      },
+      {
+        "id": 8,
+        "en": "Please do it yourself",
+        "ar": "من فضلك افعل ذلك بنفسك",
+        "context": "يقال عند طلب الاعتماد على الشخص نفسه"
+      },
+      {
+        "id": 9,
+        "en": "We will help as soon as we finish",
+        "ar": "سنساعد حالما ننتهي",
+        "context": "يقال عند تأجيل المساعدة قليلًا"
+      },
+      {
+        "id": 10,
+        "en": "Take Alex home now",
+        "ar": "خذ أليكس إلى البيت الآن",
+        "context": "يقال عند طلب نقل شخص فورًا"
+      }
+    ]
+  }
+}

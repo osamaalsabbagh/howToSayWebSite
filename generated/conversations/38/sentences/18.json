@@ -1,0 +1,123 @@
+{
+  "schemaVersion": 1,
+  "id": 18,
+  "sentence": {
+    "en": "Thanks, Dad! That will be fun!",
+    "ar": "شكرًا أبي! ذلك سيكون ممتعًا!",
+    "context": "يقولها الابن بحماس قبل أن يبدأ بالدفع بنفسه لأول مرة."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Thanks Dad",
+        "ar": "شكرًا يا أبي.",
+        "context": "شكر موجه للأب.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه عبارة شكر ونداء ولا تحمل زمنًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "Thanks",
+            "description": "شكرًا"
+          },
+          {
+            "term": "Dad",
+            "description": "أبي أو بابا"
+          }
+        ]
+      },
+      {
+        "sentence": "That will be fun",
+        "ar": "سيكون ذلك ممتعًا.",
+        "context": "يعبر عن توقع إيجابي لتجربة الدفع.",
+        "grammar": {
+          "tense": "المستقبل البسيط",
+          "tenseEn": "Future Simple",
+          "reason": "will be fun يصف شعورًا أو نتيجة متوقعة في المستقبل القريب."
+        },
+        "wordMeanings": [
+          {
+            "term": "That",
+            "description": "ذلك الأمر أو التجربة"
+          },
+          {
+            "term": "will",
+            "description": "سوف أو سـ"
+          },
+          {
+            "term": "be",
+            "description": "يكون"
+          },
+          {
+            "term": "fun",
+            "description": "ممتع"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Thanks, Dad, that will help",
+        "ar": "شكرًا يا أبي، هذا سيساعد",
+        "context": "يقال بعد مساعدة الأب"
+      },
+      {
+        "id": 2,
+        "en": "That will be fun for us",
+        "ar": "سيكون ذلك ممتعًا لنا",
+        "context": "يقال عن تجربة متوقعة"
+      },
+      {
+        "id": 3,
+        "en": "Thanks, that is very kind",
+        "ar": "شكرًا، هذا لطف كبير",
+        "context": "يقال عند تلقي مساعدة"
+      },
+      {
+        "id": 4,
+        "en": "Paying by card will be fun",
+        "ar": "الدفع بالبطاقة سيكون ممتعًا",
+        "context": "يقال عند تجربة شيء جديد"
+      },
+      {
+        "id": 5,
+        "en": "That will be easy",
+        "ar": "سيكون ذلك سهلًا",
+        "context": "يقال عند توقع سهولة أمر"
+      },
+      {
+        "id": 6,
+        "en": "Thanks, Mom, I can do it",
+        "ar": "شكرًا يا أمي، أستطيع فعل ذلك",
+        "context": "يقال بثقة بعد إذن أو مساعدة"
+      },
+      {
+        "id": 7,
+        "en": "This will be exciting",
+        "ar": "سيكون هذا مثيرًا",
+        "context": "يقال عند الحماس لتجربة"
+      },
+      {
+        "id": 8,
+        "en": "Thanks for letting me try",
+        "ar": "شكرًا لسماحك لي بالتجربة",
+        "context": "يقال بعد الحصول على إذن"
+      },
+      {
+        "id": 9,
+        "en": "That will be a good lesson",
+        "ar": "سيكون ذلك درسًا جيدًا",
+        "context": "يقال عند توقع تعلم شيء"
+      },
+      {
+        "id": 10,
+        "en": "Thanks, Dad, I will be careful",
+        "ar": "شكرًا يا أبي، سأكون حذرًا",
+        "context": "يقال بعد تحذير من الأب"
+      }
+    ]
+  }
+}

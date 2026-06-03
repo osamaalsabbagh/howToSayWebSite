@@ -1,0 +1,139 @@
+{
+  "schemaVersion": 1,
+  "id": 2,
+  "sentence": {
+    "en": "Do not worry, there is another bus in fifteen minutes.",
+    "ar": "لا تقلق، هناك حافلة أخرى بعد خمس عشرة دقيقة.",
+    "context": "يطمئنه بأن هناك حافلة قريبة الموعد."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Do not worry",
+        "ar": "لا تقلق.",
+        "context": "عبارة طمأنة لشخص متوتر.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه صيغة نهي أو طلب بعدم القلق وليست زمنًا خبريًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "Do",
+            "description": "تأتي مع not لتكوين نهي"
+          },
+          {
+            "term": "not",
+            "description": "لا أو ليس للنفي"
+          },
+          {
+            "term": "worry",
+            "description": "تقلق"
+          }
+        ]
+      },
+      {
+        "sentence": "there is another bus in fifteen minutes",
+        "ar": "هناك حافلة أخرى بعد خمس عشرة دقيقة.",
+        "context": "يعطي سببًا للطمأنة بوجود خيار قريب.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "there is يستخدم لبيان وجود شيء، وهنا يصف حافلة متاحة قريبًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "there",
+            "description": "هناك في تركيب يدل على الوجود"
+          },
+          {
+            "term": "is",
+            "description": "يوجد أو تكون للمفرد"
+          },
+          {
+            "term": "another",
+            "description": "آخر أو أخرى"
+          },
+          {
+            "term": "bus",
+            "description": "حافلة"
+          },
+          {
+            "term": "in",
+            "description": "بعد مدة زمنية هنا"
+          },
+          {
+            "term": "fifteen",
+            "description": "خمس عشرة"
+          },
+          {
+            "term": "minutes",
+            "description": "دقائق"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Do not worry, there is another train soon",
+        "ar": "لا تقلق، هناك قطار آخر قريبًا",
+        "context": "يقال لطمأنة شخص فاته القطار"
+      },
+      {
+        "id": 2,
+        "en": "Do not worry, I can help you",
+        "ar": "لا تقلق، أستطيع مساعدتك",
+        "context": "يقال لتخفيف قلق شخص"
+      },
+      {
+        "id": 3,
+        "en": "There is another meeting tomorrow",
+        "ar": "هناك اجتماع آخر غدًا",
+        "context": "يقال عند وجود فرصة ثانية"
+      },
+      {
+        "id": 4,
+        "en": "There is a bus in ten minutes",
+        "ar": "هناك حافلة بعد عشر دقائق",
+        "context": "يقال لإخبار شخص بموعد قريب"
+      },
+      {
+        "id": 5,
+        "en": "Do not worry about the delay",
+        "ar": "لا تقلق بشأن التأخير",
+        "context": "يقال لتهدئة شخص بسبب تأخير"
+      },
+      {
+        "id": 6,
+        "en": "There is another room upstairs",
+        "ar": "هناك غرفة أخرى في الطابق العلوي",
+        "context": "يقال عند تقديم خيار بديل"
+      },
+      {
+        "id": 7,
+        "en": "Do not worry, the office is close",
+        "ar": "لا تقلق، المكتب قريب",
+        "context": "يقال لتقليل قلق المسافة"
+      },
+      {
+        "id": 8,
+        "en": "There is another chance next week",
+        "ar": "هناك فرصة أخرى الأسبوع القادم",
+        "context": "يقال لتشجيع شخص بعد خسارة فرصة"
+      },
+      {
+        "id": 9,
+        "en": "Do not worry, we have time",
+        "ar": "لا تقلق، لدينا وقت",
+        "context": "يقال عندما لا يكون الوقت ضيقًا"
+      },
+      {
+        "id": 10,
+        "en": "There is a cafe near the stop",
+        "ar": "هناك مقهى قرب الموقف",
+        "context": "يقال لذكر مكان قريب ومفيد"
+      }
+    ]
+  }
+}

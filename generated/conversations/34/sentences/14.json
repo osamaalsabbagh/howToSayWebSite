@@ -1,0 +1,171 @@
+{
+  "schemaVersion": 1,
+  "id": 14,
+  "sentence": {
+    "en": "The contractor asked his wife, \"Do you want brown or gray?\" and she chose brown.",
+    "ar": "المتعهد سأل زوجته: هل تريدين البني أم الرمادي؟ وهي اختارت البني.",
+    "context": "يقولها بنبرة تقريرية كمزحة تبدو حقيقية."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "The contractor asked his wife",
+        "ar": "سأل المقاول زوجته.",
+        "context": "يمهد للقصة بذكر من سأل من.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "asked يصف فعلًا حدث وانتهى في الماضي."
+        },
+        "wordMeanings": [
+          {
+            "term": "The",
+            "description": "أداة تعريف"
+          },
+          {
+            "term": "contractor",
+            "description": "المقاول أو المتعهد"
+          },
+          {
+            "term": "asked",
+            "description": "سأل"
+          },
+          {
+            "term": "his",
+            "description": "خاص به"
+          },
+          {
+            "term": "wife",
+            "description": "زوجة"
+          }
+        ]
+      },
+      {
+        "sentence": "Do you want brown or gray",
+        "ar": "هل تريدين البني أم الرمادي؟",
+        "context": "السؤال المباشر الذي قيل داخل القصة.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "Do you want سؤال في المضارع عن رغبة أو اختيار في تلك اللحظة."
+        },
+        "wordMeanings": [
+          {
+            "term": "Do",
+            "description": "كلمة مساعدة للسؤال"
+          },
+          {
+            "term": "you",
+            "description": "أنت"
+          },
+          {
+            "term": "want",
+            "description": "تريدين أو ترغب"
+          },
+          {
+            "term": "brown",
+            "description": "البني"
+          },
+          {
+            "term": "or",
+            "description": "أو"
+          },
+          {
+            "term": "gray",
+            "description": "الرمادي"
+          }
+        ]
+      },
+      {
+        "sentence": "and she chose brown",
+        "ar": "وهي اختارت البني.",
+        "context": "يعطي نتيجة الاختيار في القصة.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "chose يصف قرارًا حدث وانتهى في الماضي."
+        },
+        "wordMeanings": [
+          {
+            "term": "and",
+            "description": "و، للربط"
+          },
+          {
+            "term": "she",
+            "description": "هي"
+          },
+          {
+            "term": "chose",
+            "description": "اختارت"
+          },
+          {
+            "term": "brown",
+            "description": "البني"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "The manager asked his assistant, Do you want tea or coffee",
+        "ar": "سأل المدير مساعده: هل تريد الشاي أم القهوة؟",
+        "context": "يقال عند نقل سؤال مباشر داخل قصة"
+      },
+      {
+        "id": 2,
+        "en": "She asked her brother, Do you need help",
+        "ar": "سألت أخاها: هل تحتاج إلى مساعدة؟",
+        "context": "يقال عند ذكر سؤال قيل في الماضي"
+      },
+      {
+        "id": 3,
+        "en": "He chose gray for the wall",
+        "ar": "اختار الرمادي للجدار",
+        "context": "يقال عند ذكر اختيار لون سابق"
+      },
+      {
+        "id": 4,
+        "en": "The teacher asked the class a question",
+        "ar": "سأل المعلم الصف سؤالًا",
+        "context": "يقال لوصف حدث في الماضي"
+      },
+      {
+        "id": 5,
+        "en": "Do you want rice or bread",
+        "ar": "هل تريد الأرز أم الخبز؟",
+        "context": "يقال عند عرض خيارين"
+      },
+      {
+        "id": 6,
+        "en": "She chose the small table",
+        "ar": "اختارت الطاولة الصغيرة",
+        "context": "يقال عند ذكر قرار شراء أو اختيار"
+      },
+      {
+        "id": 7,
+        "en": "The worker asked his friend for advice",
+        "ar": "طلب العامل النصيحة من صديقه",
+        "context": "يقال عند ذكر طلب سابق"
+      },
+      {
+        "id": 8,
+        "en": "Do you want the blue bag or the black bag",
+        "ar": "هل تريد الحقيبة الزرقاء أم الحقيبة السوداء؟",
+        "context": "يقال عند المقارنة بين خيارين"
+      },
+      {
+        "id": 9,
+        "en": "He asked his wife about the color",
+        "ar": "سأل زوجته عن اللون",
+        "context": "يقال عند ذكر استشارة في اختيار"
+      },
+      {
+        "id": 10,
+        "en": "They chose brown for the door",
+        "ar": "اختاروا البني للباب",
+        "context": "يقال عند ذكر اختيار تصميم سابق"
+      }
+    ]
+  }
+}

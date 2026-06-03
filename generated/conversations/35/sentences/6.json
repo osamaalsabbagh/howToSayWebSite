@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "id": 6,
+  "sentence": {
+    "en": "Good idea. There is a bakery next to the bus stop.",
+    "ar": "فكرة جيدة. هناك مخبز بجانب موقف الحافلات.",
+    "context": "يوافقه الرأي ويشير إلى المخبز القريب."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Good idea",
+        "ar": "فكرة جيدة.",
+        "context": "تعبير موافقة على اقتراح.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه عبارة اسمية قصيرة للتقييم ولا تحمل زمنًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "Good",
+            "description": "جيد أو مناسب"
+          },
+          {
+            "term": "idea",
+            "description": "فكرة"
+          }
+        ]
+      },
+      {
+        "sentence": "There is a bakery next to the bus stop",
+        "ar": "هناك مخبز بجانب موقف الحافلات.",
+        "context": "يذكر مكانًا قريبًا يمكن الذهاب إليه.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "There is يستخدم لبيان وجود مكان في موقع معين."
+        },
+        "wordMeanings": [
+          {
+            "term": "There",
+            "description": "هناك في تركيب يدل على الوجود"
+          },
+          {
+            "term": "is",
+            "description": "يوجد أو تكون للمفرد"
+          },
+          {
+            "term": "a",
+            "description": "أداة قبل اسم مفرد غير محدد"
+          },
+          {
+            "term": "bakery",
+            "description": "مخبز"
+          },
+          {
+            "term": "next",
+            "description": "قريب أو ملاصق في عبارة بجانب"
+          },
+          {
+            "term": "to",
+            "description": "إلى، وتكمل معنى بجانب"
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف"
+          },
+          {
+            "term": "bus",
+            "description": "حافلة"
+          },
+          {
+            "term": "stop",
+            "description": "موقف"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Good idea. There is a cafe nearby",
+        "ar": "فكرة جيدة. هناك مقهى قريب",
+        "context": "يقال عند الموافقة وذكر مكان قريب"
+      },
+      {
+        "id": 2,
+        "en": "There is a shop next to the station",
+        "ar": "هناك متجر بجانب المحطة",
+        "context": "يقال لوصف موقع متجر"
+      },
+      {
+        "id": 3,
+        "en": "Good idea. We can wait there",
+        "ar": "فكرة جيدة. يمكننا الانتظار هناك",
+        "context": "يقال عند قبول اقتراح مكان"
+      },
+      {
+        "id": 4,
+        "en": "There is a restaurant next to my office",
+        "ar": "هناك مطعم بجانب مكتبي",
+        "context": "يقال لتحديد مكان مطعم"
+      },
+      {
+        "id": 5,
+        "en": "There is a bank next to the bakery",
+        "ar": "هناك بنك بجانب المخبز",
+        "context": "يقال عند إعطاء اتجاهات"
+      },
+      {
+        "id": 6,
+        "en": "Good idea. Let us buy coffee",
+        "ar": "فكرة جيدة. لنشتر القهوة",
+        "context": "يقال عند قبول اقتراح شراء"
+      },
+      {
+        "id": 7,
+        "en": "There is a bus stop near the school",
+        "ar": "هناك موقف حافلات قرب المدرسة",
+        "context": "يقال لوصف موقع الموقف"
+      },
+      {
+        "id": 8,
+        "en": "Good idea. The bakery is open",
+        "ar": "فكرة جيدة. المخبز مفتوح",
+        "context": "يقال عند وجود سبب يدعم الاقتراح"
+      },
+      {
+        "id": 9,
+        "en": "There is a hotel next to the hospital",
+        "ar": "هناك فندق بجانب المستشفى",
+        "context": "يقال لوصف مكان بجانب معلم"
+      },
+      {
+        "id": 10,
+        "en": "Good idea. We have fifteen minutes",
+        "ar": "فكرة جيدة. لدينا خمس عشرة دقيقة",
+        "context": "يقال عند توفر وقت كاف لتنفيذ اقتراح"
+      }
+    ]
+  }
+}

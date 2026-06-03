@@ -1,0 +1,171 @@
+{
+  "schemaVersion": 1,
+  "id": 7,
+  "sentence": {
+    "en": "That is not fair. I just cannot leave right now, the project depends on me.",
+    "ar": "هذا ليس عدلًا، أنا فقط لا أستطيع المغادرة حاليًا، فالمشروع يعتمد عليّ.",
+    "context": "يدافع عن نفسه ويبين صعوبة ترك العمل فورًا."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "That is not fair",
+        "ar": "هذا ليس عادلًا.",
+        "context": "اعتراض على حكم أو اتهام.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "is not يصف تقييمًا حاليًا للموقف."
+        },
+        "wordMeanings": [
+          {
+            "term": "That",
+            "description": "ذلك أو هذا الكلام"
+          },
+          {
+            "term": "is",
+            "description": "يكون أو هو"
+          },
+          {
+            "term": "not",
+            "description": "ليس للنفي"
+          },
+          {
+            "term": "fair",
+            "description": "عادل أو منصف"
+          }
+        ]
+      },
+      {
+        "sentence": "I just cannot leave right now",
+        "ar": "أنا فقط لا أستطيع المغادرة الآن.",
+        "context": "يوضح عدم القدرة على المغادرة فورًا.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "cannot leave تركيب قدرة منفي، و right now يربطه باللحظة الحالية."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "أنا"
+          },
+          {
+            "term": "just",
+            "description": "فقط أو ببساطة"
+          },
+          {
+            "term": "cannot",
+            "description": "لا أستطيع"
+          },
+          {
+            "term": "leave",
+            "description": "أغادر"
+          },
+          {
+            "term": "right",
+            "description": "تمامًا أو حالًا في عبارة الآن"
+          },
+          {
+            "term": "now",
+            "description": "الآن"
+          }
+        ]
+      },
+      {
+        "sentence": "the project depends on me",
+        "ar": "المشروع يعتمد عليّ.",
+        "context": "يقدم سببًا لبقائه في العمل.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "depends يصف حقيقة حالية عن مسؤولية المتكلم."
+        },
+        "wordMeanings": [
+          {
+            "term": "the",
+            "description": "أداة تعريف"
+          },
+          {
+            "term": "project",
+            "description": "المشروع"
+          },
+          {
+            "term": "depends",
+            "description": "يعتمد"
+          },
+          {
+            "term": "on",
+            "description": "على"
+          },
+          {
+            "term": "me",
+            "description": "عليّ أو أنا كمفعول"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "That is not fair to me",
+        "ar": "هذا ليس عادلًا بحقي",
+        "context": "يقال عند الاعتراض على معاملة"
+      },
+      {
+        "id": 2,
+        "en": "I cannot leave right now",
+        "ar": "لا أستطيع المغادرة الآن",
+        "context": "يقال عند وجود مانع فوري"
+      },
+      {
+        "id": 3,
+        "en": "The team depends on me",
+        "ar": "الفريق يعتمد عليّ",
+        "context": "يقال عند الشعور بالمسؤولية"
+      },
+      {
+        "id": 4,
+        "en": "I just cannot stop today",
+        "ar": "أنا فقط لا أستطيع التوقف اليوم",
+        "context": "يقال عند ضغط العمل"
+      },
+      {
+        "id": 5,
+        "en": "This decision is not fair",
+        "ar": "هذا القرار ليس عادلًا",
+        "context": "يقال عند رفض قرار"
+      },
+      {
+        "id": 6,
+        "en": "The meeting depends on your answer",
+        "ar": "الاجتماع يعتمد على جوابك",
+        "context": "يقال عند انتظار قرار شخص"
+      },
+      {
+        "id": 7,
+        "en": "She cannot come right now",
+        "ar": "لا تستطيع القدوم الآن",
+        "context": "يقال عن مانع مؤقت"
+      },
+      {
+        "id": 8,
+        "en": "That is not true",
+        "ar": "هذا ليس صحيحًا",
+        "context": "يقال عند تصحيح اتهام"
+      },
+      {
+        "id": 9,
+        "en": "The project depends on this meeting",
+        "ar": "المشروع يعتمد على هذا الاجتماع",
+        "context": "يقال عند توضيح أهمية اجتماع"
+      },
+      {
+        "id": 10,
+        "en": "I cannot ignore my work",
+        "ar": "لا أستطيع تجاهل عملي",
+        "context": "يقال عند الدفاع عن مسؤولية مهنية"
+      }
+    ]
+  }
+}
