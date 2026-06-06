@@ -1,0 +1,111 @@
+{
+  "schemaVersion": 1,
+  "id": 1236,
+  "sentence": {
+    "en": "Can we reschedule on May 5th?",
+    "ar": "هل يمكننا إعادة جدولة الموعد إلى الخامس من مايو؟",
+    "context": "تُستخدم لطلب إعادة جدولة موعد إلى تاريخ معين."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Can we reschedule on May 5th",
+        "ar": "هل يمكننا إعادة الجدولة إلى الخامس من مايو",
+        "context": "طلب تغيير موعد إلى تاريخ محدد.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه صيغة طلب باستخدام كلمة تدل على الإمكان، وليست زمنًا مستقلًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "Can",
+            "description": "تُستخدم لطلب الإمكان"
+          },
+          {
+            "term": "we",
+            "description": "نحن"
+          },
+          {
+            "term": "reschedule",
+            "description": "نعيد جدولة الموعد"
+          },
+          {
+            "term": "on",
+            "description": "إلى أو في"
+          },
+          {
+            "term": "May",
+            "description": "شهر مايو"
+          },
+          {
+            "term": "5th",
+            "description": "اليوم الخامس"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Can we reschedule on June 1st?",
+        "ar": "هل يمكننا إعادة الجدولة إلى الأول من يونيو؟",
+        "context": "تُستخدم لتاريخ محدد."
+      },
+      {
+        "id": 2,
+        "en": "May 5th works for me.",
+        "ar": "الخامس من مايو يناسبني.",
+        "context": "تُستخدم لقبول التاريخ."
+      },
+      {
+        "id": 3,
+        "en": "Can we move it to May 5th?",
+        "ar": "هل يمكننا نقله إلى الخامس من مايو؟",
+        "context": "تُستخدم لتغيير الموعد."
+      },
+      {
+        "id": 4,
+        "en": "I need to reschedule to May 5th.",
+        "ar": "أحتاج إلى إعادة الجدولة إلى الخامس من مايو.",
+        "context": "تُقال عند طلب تغيير."
+      },
+      {
+        "id": 5,
+        "en": "The new appointment is May 5th.",
+        "ar": "الموعد الجديد هو الخامس من مايو.",
+        "context": "تُستخدم لتأكيد الموعد."
+      },
+      {
+        "id": 6,
+        "en": "May 5th is not available.",
+        "ar": "الخامس من مايو غير متاح.",
+        "context": "تُستخدم لرفض التاريخ."
+      },
+      {
+        "id": 7,
+        "en": "Please reschedule the visit.",
+        "ar": "يرجى إعادة جدولة الزيارة.",
+        "context": "تُستخدم كطلب عام."
+      },
+      {
+        "id": 8,
+        "en": "Can we choose another date?",
+        "ar": "هل يمكننا اختيار تاريخ آخر؟",
+        "context": "تُستخدم عند عدم مناسبة التاريخ."
+      },
+      {
+        "id": 9,
+        "en": "I can meet on May 5th.",
+        "ar": "يمكنني اللقاء في الخامس من مايو.",
+        "context": "تُستخدم لذكر التوفر."
+      },
+      {
+        "id": 10,
+        "en": "Confirm May 5th by email.",
+        "ar": "أكد الخامس من مايو بالبريد الإلكتروني.",
+        "context": "تُستخدم كتعليمات."
+      }
+    ]
+  }
+}

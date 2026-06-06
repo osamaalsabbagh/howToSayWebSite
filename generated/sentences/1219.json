@@ -1,0 +1,159 @@
+{
+  "schemaVersion": 1,
+  "id": 1219,
+  "sentence": {
+    "en": "I am looking for the VA Hospital. Can you point me in the right direction?",
+    "ar": "أنا أبحث عن مستشفى شؤون المحاربين القدامى. هل يمكنك إرشادي للطريق الصحيح؟",
+    "context": "تُستخدم لطلب المساعدة في الوصول إلى مستشفى معين، خصوصًا مستشفى المحاربين القدامى."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "I am looking for the VA Hospital",
+        "ar": "أنا أبحث عن مستشفى شؤون المحاربين القدامى",
+        "context": "توضح المكان الذي يحاول المتكلم الوصول إليه.",
+        "grammar": {
+          "tense": "المضارع المستمر",
+          "tenseEn": "Present Continuous",
+          "reason": "استُخدم المضارع المستمر لوصف بحث يحدث الآن."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير يشير إلى المتكلم"
+          },
+          {
+            "term": "am",
+            "description": "صيغة تأتي مع ضمير المتكلم المفرد في الحالة المستمرة"
+          },
+          {
+            "term": "looking",
+            "description": "أبحث أو أنظر"
+          },
+          {
+            "term": "for",
+            "description": "عن"
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف"
+          },
+          {
+            "term": "VA",
+            "description": "اختصار يشير إلى شؤون المحاربين القدامى في هذا السياق"
+          },
+          {
+            "term": "Hospital",
+            "description": "مستشفى"
+          }
+        ]
+      },
+      {
+        "sentence": "Can you point me in the right direction",
+        "ar": "هل يمكنك إرشادي للطريق الصحيح",
+        "context": "طلب مهذب للحصول على اتجاهات.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه صيغة طلب مساعدة باستخدام كلمة تدل على القدرة، وليست زمنًا مستقلًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "Can",
+            "description": "تُستخدم لطلب المساعدة"
+          },
+          {
+            "term": "you",
+            "description": "ضمير للمخاطب"
+          },
+          {
+            "term": "point",
+            "description": "يرشد أو يدل"
+          },
+          {
+            "term": "me",
+            "description": "ضمير يشير إلى المتكلم كمفعول به"
+          },
+          {
+            "term": "in",
+            "description": "في أو نحو"
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف"
+          },
+          {
+            "term": "right",
+            "description": "صحيح أو مناسب"
+          },
+          {
+            "term": "direction",
+            "description": "اتجاه"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I am looking for the clinic.",
+        "ar": "أنا أبحث عن العيادة.",
+        "context": "تُستخدم عند البحث عن مكان طبي."
+      },
+      {
+        "id": 2,
+        "en": "Can you point me to the exit?",
+        "ar": "هل يمكنك إرشادي إلى المخرج؟",
+        "context": "تُستخدم لطلب اتجاه."
+      },
+      {
+        "id": 3,
+        "en": "I am looking for the main office.",
+        "ar": "أنا أبحث عن المكتب الرئيسي.",
+        "context": "تُقال داخل مبنى."
+      },
+      {
+        "id": 4,
+        "en": "Can you show me the right direction?",
+        "ar": "هل يمكنك أن تريني الاتجاه الصحيح؟",
+        "context": "تُستخدم عند الضياع."
+      },
+      {
+        "id": 5,
+        "en": "Where is the hospital?",
+        "ar": "أين المستشفى؟",
+        "context": "تُستخدم للسؤال المباشر."
+      },
+      {
+        "id": 6,
+        "en": "I need directions to the hospital.",
+        "ar": "أحتاج إلى إرشادات إلى المستشفى.",
+        "context": "تُستخدم لطلب مساعدة."
+      },
+      {
+        "id": 7,
+        "en": "The hospital is down this street.",
+        "ar": "المستشفى في نهاية هذا الشارع.",
+        "context": "تُستخدم لإعطاء اتجاه."
+      },
+      {
+        "id": 8,
+        "en": "Can you help me find this building?",
+        "ar": "هل يمكنك مساعدتي في إيجاد هذا المبنى؟",
+        "context": "تُقال عند البحث عن موقع."
+      },
+      {
+        "id": 9,
+        "en": "I think I am going the wrong way.",
+        "ar": "أعتقد أنني أسير في الطريق الخطأ.",
+        "context": "تُستخدم عند الشك في الاتجاه."
+      },
+      {
+        "id": 10,
+        "en": "Please point me toward the entrance.",
+        "ar": "يرجى إرشادي نحو المدخل.",
+        "context": "تُستخدم داخل منشأة."
+      }
+    ]
+  }
+}

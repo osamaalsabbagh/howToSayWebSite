@@ -1,0 +1,115 @@
+{
+  "schemaVersion": 1,
+  "id": 1223,
+  "sentence": {
+    "en": "How do I get to Times Square?",
+    "ar": "كيف أصل إلى تايمز سكوير؟",
+    "context": "تُستخدم للاستفسار عن كيفية الوصول إلى معلم شهير أو موقع معروف."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "How do I get to Times Square",
+        "ar": "كيف أصل إلى تايمز سكوير",
+        "context": "سؤال عن الطريق إلى مكان معروف.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُخدم المضارع البسيط للسؤال عن طريقة الوصول."
+        },
+        "wordMeanings": [
+          {
+            "term": "How",
+            "description": "كيف"
+          },
+          {
+            "term": "do",
+            "description": "كلمة مساعدة لتكوين السؤال في الحاضر"
+          },
+          {
+            "term": "I",
+            "description": "ضمير يشير إلى المتكلم"
+          },
+          {
+            "term": "get",
+            "description": "أصل"
+          },
+          {
+            "term": "to",
+            "description": "إلى"
+          },
+          {
+            "term": "Times",
+            "description": "جزء من اسم مكان مشهور"
+          },
+          {
+            "term": "Square",
+            "description": "ساحة، وجزء من اسم المكان"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "How do I get to the museum?",
+        "ar": "كيف أصل إلى المتحف؟",
+        "context": "تُستخدم لطلب طريق."
+      },
+      {
+        "id": 2,
+        "en": "Can you show me the way to Times Square?",
+        "ar": "هل يمكنك أن تريني الطريق إلى تايمز سكوير؟",
+        "context": "تُستخدم لطلب إرشاد."
+      },
+      {
+        "id": 3,
+        "en": "Take the subway to Times Square.",
+        "ar": "خذ المترو إلى تايمز سكوير.",
+        "context": "تُستخدم كإجابة."
+      },
+      {
+        "id": 4,
+        "en": "Is Times Square nearby?",
+        "ar": "هل تايمز سكوير قريبة؟",
+        "context": "تُستخدم للسؤال عن القرب."
+      },
+      {
+        "id": 5,
+        "en": "Which train goes to Times Square?",
+        "ar": "أي قطار يذهب إلى تايمز سكوير؟",
+        "context": "تُستخدم للسؤال عن المواصلات."
+      },
+      {
+        "id": 6,
+        "en": "I am trying to get to Times Square.",
+        "ar": "أحاول الوصول إلى تايمز سكوير.",
+        "context": "تُقال عند طلب مساعدة."
+      },
+      {
+        "id": 7,
+        "en": "Walk two blocks to the square.",
+        "ar": "امشِ شارعين إلى الساحة.",
+        "context": "تُستخدم كإرشاد."
+      },
+      {
+        "id": 8,
+        "en": "The map shows Times Square.",
+        "ar": "تُظهر الخريطة تايمز سكوير.",
+        "context": "تُستخدم مع خريطة."
+      },
+      {
+        "id": 9,
+        "en": "How far is Times Square?",
+        "ar": "كم تبعد تايمز سكوير؟",
+        "context": "تُستخدم للسؤال عن المسافة."
+      },
+      {
+        "id": 10,
+        "en": "You can get there by bus.",
+        "ar": "يمكنك الوصول إلى هناك بالحافلة.",
+        "context": "تُستخدم لإعطاء وسيلة."
+      }
+    ]
+  }
+}

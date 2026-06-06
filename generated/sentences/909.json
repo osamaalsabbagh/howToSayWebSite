@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "id": 909,
   "sentence": {
-    "en": "I think those shoes are very good looking.",
+    "en": "I think those shoes are very good-looking.",
     "ar": "أعتقد أن ذلك الحذاء أنيق جدًا.",
     "context": "تُستخدم للإعجاب بمظهر الأحذية."
   },
@@ -29,13 +29,13 @@
         ]
       },
       {
-        "sentence": "those shoes are very good looking.",
+        "sentence": "those shoes are very good-looking.",
         "ar": "أن تلك الأحذية أنيقة جدا.",
         "context": "هذا الجزء يوضح الرأي عن مظهر الأحذية.",
         "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
-          "reason": "الفعل are يصف الأحذية بصفة حالية، وgood looking تعبير يعني حسن المظهر."
+          "reason": "الفعل are يصف الأحذية بصفة حالية، وgood-looking تعبير يعني حسن المظهر."
         },
         "wordMeanings": [
           {
@@ -74,7 +74,7 @@
       },
       {
         "id": 2,
-        "en": "I think this shirt is good looking.",
+        "en": "I think this shirt is good-looking.",
         "ar": "أعتقد أن هذا القميص أنيق.",
         "context": "لإبداء رأي في ملابس."
       },
@@ -104,7 +104,7 @@
       },
       {
         "id": 7,
-        "en": "I think that dress is good looking.",
+        "en": "I think that dress is good-looking.",
         "ar": "أعتقد أن ذلك الفستان أنيق.",
         "context": "لإبداء رأي في لباس."
       },
@@ -122,7 +122,7 @@
       },
       {
         "id": 10,
-        "en": "These shoes are very good looking.",
+        "en": "These shoes are very good-looking.",
         "ar": "هذه الأحذية أنيقة جدا.",
         "context": "لوصف المظهر مباشرة."
       }

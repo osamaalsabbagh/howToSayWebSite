@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "id": 1251,
+  "sentence": {
+    "en": "Is anyone in here?",
+    "ar": "هل يوجد أحد هنا؟",
+    "context": "الإشارة إلى شيء أو شخص موجود داخل المكان الذي أنت فيه الآن، وغالبًا تُقال عندما تتحدث من داخل الغرفة أو المكان."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Is anyone in here",
+        "ar": "هل يوجد أحد هنا",
+        "context": "سؤال للتحقق من وجود شخص داخل المكان الحالي.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُخدم المضارع البسيط للسؤال عن وجود شخص في المكان الآن."
+        },
+        "wordMeanings": [
+          {
+            "term": "Is",
+            "description": "تُستخدم للسؤال عن الوجود أو الحالة"
+          },
+          {
+            "term": "anyone",
+            "description": "أي شخص أو أحد"
+          },
+          {
+            "term": "in",
+            "description": "داخل"
+          },
+          {
+            "term": "here",
+            "description": "هنا، في المكان الحالي"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Is anyone home?",
+        "ar": "هل يوجد أحد في المنزل؟",
+        "context": "تُستخدم عند دخول منزل أو طرق الباب."
+      },
+      {
+        "id": 2,
+        "en": "Is anyone in the room?",
+        "ar": "هل يوجد أحد في الغرفة؟",
+        "context": "تُقال عند التحقق من غرفة."
+      },
+      {
+        "id": 3,
+        "en": "Is anybody here?",
+        "ar": "هل يوجد أحد هنا؟",
+        "context": "تُستخدم بصيغة قريبة."
+      },
+      {
+        "id": 4,
+        "en": "I think someone is in here.",
+        "ar": "أعتقد أن شخصًا ما هنا بالداخل.",
+        "context": "تُقال عند سماع صوت أو ملاحظة حركة."
+      },
+      {
+        "id": 5,
+        "en": "There is no one in here.",
+        "ar": "لا يوجد أحد هنا بالداخل.",
+        "context": "تُستخدم لنفي وجود شخص."
+      },
+      {
+        "id": 6,
+        "en": "Are you in here?",
+        "ar": "هل أنت هنا بالداخل؟",
+        "context": "تُقال عند البحث عن شخص محدد."
+      },
+      {
+        "id": 7,
+        "en": "Is anyone using this room?",
+        "ar": "هل يستخدم أحد هذه الغرفة؟",
+        "context": "تُستخدم قبل دخول غرفة."
+      },
+      {
+        "id": 8,
+        "en": "Someone is in the office.",
+        "ar": "يوجد شخص في المكتب.",
+        "context": "تُستخدم للإخبار بوجود شخص."
+      },
+      {
+        "id": 9,
+        "en": "Is anyone available right now?",
+        "ar": "هل يوجد أحد متاح الآن؟",
+        "context": "تُستخدم لطلب مساعدة."
+      },
+      {
+        "id": 10,
+        "en": "Please answer if you are in here.",
+        "ar": "يرجى الرد إذا كنت هنا بالداخل.",
+        "context": "تُقال عند محاولة العثور على شخص."
+      }
+    ]
+  }
+}

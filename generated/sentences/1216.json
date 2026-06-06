@@ -1,0 +1,115 @@
+{
+  "schemaVersion": 1,
+  "id": 1216,
+  "sentence": {
+    "en": "Do you know the Wi-Fi password?",
+    "ar": "هل تعرف كلمة مرور الواي فاي؟",
+    "context": "تُستخدم للاستفسار عن كلمة مرور الشبكة اللاسلكية."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Do you know the Wi-Fi password",
+        "ar": "هل تعرف كلمة مرور الواي فاي",
+        "context": "سؤال عن كلمة مرور الشبكة اللاسلكية.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُخدم المضارع البسيط للسؤال عن معرفة معلومة حالية."
+        },
+        "wordMeanings": [
+          {
+            "term": "Do",
+            "description": "كلمة مساعدة لتكوين السؤال في الحاضر"
+          },
+          {
+            "term": "you",
+            "description": "ضمير للمخاطب"
+          },
+          {
+            "term": "know",
+            "description": "تعرف"
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف"
+          },
+          {
+            "term": "Wi",
+            "description": "جزء من اسم الشبكة اللاسلكية"
+          },
+          {
+            "term": "Fi",
+            "description": "جزء من اسم الشبكة اللاسلكية"
+          },
+          {
+            "term": "password",
+            "description": "كلمة مرور"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "What is the Wi-Fi password?",
+        "ar": "ما كلمة مرور الواي فاي؟",
+        "context": "تُستخدم للسؤال المباشر."
+      },
+      {
+        "id": 2,
+        "en": "Can I use your Wi-Fi?",
+        "ar": "هل يمكنني استخدام الواي فاي لديك؟",
+        "context": "تُقال عند طلب اتصال."
+      },
+      {
+        "id": 3,
+        "en": "The password is on the wall.",
+        "ar": "كلمة المرور على الحائط.",
+        "context": "تُستخدم لتحديد مكان المعلومة."
+      },
+      {
+        "id": 4,
+        "en": "Do you know the network name?",
+        "ar": "هل تعرف اسم الشبكة؟",
+        "context": "تُستخدم للسؤال عن بيانات الشبكة."
+      },
+      {
+        "id": 5,
+        "en": "I need the Wi-Fi password.",
+        "ar": "أحتاج إلى كلمة مرور الواي فاي.",
+        "context": "تُقال عند الاتصال بالإنترنت."
+      },
+      {
+        "id": 6,
+        "en": "The Wi-Fi is not working.",
+        "ar": "الواي فاي لا يعمل.",
+        "context": "تُستخدم عند مشكلة اتصال."
+      },
+      {
+        "id": 7,
+        "en": "Please send me the password.",
+        "ar": "يرجى إرسال كلمة المرور لي.",
+        "context": "تُستخدم لطلبها برسالة."
+      },
+      {
+        "id": 8,
+        "en": "Can you write down the password?",
+        "ar": "هل يمكنك كتابة كلمة المرور؟",
+        "context": "تُستخدم لتجنب الخطأ."
+      },
+      {
+        "id": 9,
+        "en": "I forgot the Wi-Fi password.",
+        "ar": "نسيت كلمة مرور الواي فاي.",
+        "context": "تُقال عند فقدانها."
+      },
+      {
+        "id": 10,
+        "en": "The cafe has free Wi-Fi.",
+        "ar": "المقهى لديه واي فاي مجاني.",
+        "context": "تُستخدم عن خدمة متاحة."
+      }
+    ]
+  }
+}

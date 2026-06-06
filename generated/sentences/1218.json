@@ -1,0 +1,123 @@
+{
+  "schemaVersion": 1,
+  "id": 1218,
+  "sentence": {
+    "en": "Can you tell me where this address is located?",
+    "ar": "هل يمكنك أن تخبرني أين يقع هذا العنوان؟",
+    "context": "تُستخدم للاستفسار عن موقع عنوان معين."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Can you tell me where this address is located",
+        "ar": "هل يمكنك أن تخبرني أين يقع هذا العنوان",
+        "context": "طلب مساعدة في تحديد موقع عنوان معين.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه صيغة طلب مساعدة باستخدام كلمة تدل على القدرة، وداخلها سؤال غير مباشر عن المكان."
+        },
+        "wordMeanings": [
+          {
+            "term": "Can",
+            "description": "تُستخدم لطلب شيء أو السؤال عن القدرة"
+          },
+          {
+            "term": "you",
+            "description": "ضمير للمخاطب"
+          },
+          {
+            "term": "tell",
+            "description": "تخبر"
+          },
+          {
+            "term": "me",
+            "description": "ضمير يشير إلى المتكلم كمفعول به"
+          },
+          {
+            "term": "where",
+            "description": "أين"
+          },
+          {
+            "term": "this",
+            "description": "هذا"
+          },
+          {
+            "term": "address",
+            "description": "عنوان"
+          },
+          {
+            "term": "is",
+            "description": "تدل على المكان أو الحالة"
+          },
+          {
+            "term": "located",
+            "description": "يقع أو موجود"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Can you tell me where the hotel is?",
+        "ar": "هل يمكنك أن تخبرني أين الفندق؟",
+        "context": "تُستخدم لطلب موقع."
+      },
+      {
+        "id": 2,
+        "en": "Where is this address?",
+        "ar": "أين هذا العنوان؟",
+        "context": "تُقال بصيغة مباشرة."
+      },
+      {
+        "id": 3,
+        "en": "Can you find this address for me?",
+        "ar": "هل يمكنك العثور على هذا العنوان لي؟",
+        "context": "تُستخدم لطلب مساعدة."
+      },
+      {
+        "id": 4,
+        "en": "The address is near the station.",
+        "ar": "العنوان قرب المحطة.",
+        "context": "تُستخدم لإعطاء موقع."
+      },
+      {
+        "id": 5,
+        "en": "I do not know where this address is.",
+        "ar": "لا أعرف أين هذا العنوان.",
+        "context": "تُقال عند الحيرة."
+      },
+      {
+        "id": 6,
+        "en": "Can you show me the location?",
+        "ar": "هل يمكنك أن تريني الموقع؟",
+        "context": "تُستخدم لطلب تحديد على خريطة."
+      },
+      {
+        "id": 7,
+        "en": "This address is located downtown.",
+        "ar": "يقع هذا العنوان في وسط المدينة.",
+        "context": "تُستخدم لتحديد منطقة."
+      },
+      {
+        "id": 8,
+        "en": "Can you send me the address?",
+        "ar": "هل يمكنك إرسال العنوان لي؟",
+        "context": "تُستخدم لطلب المعلومة."
+      },
+      {
+        "id": 9,
+        "en": "The map shows the address.",
+        "ar": "تُظهر الخريطة العنوان.",
+        "context": "تُقال عند استخدام خريطة."
+      },
+      {
+        "id": 10,
+        "en": "Please tell me how to get there.",
+        "ar": "يرجى إخباري كيف أصل إلى هناك.",
+        "context": "تُستخدم لطلب اتجاهات."
+      }
+    ]
+  }
+}

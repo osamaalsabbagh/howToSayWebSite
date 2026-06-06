@@ -1,0 +1,115 @@
+{
+  "schemaVersion": 1,
+  "id": 1234,
+  "sentence": {
+    "en": "Let us meet up on April 30th.",
+    "ar": "دعنا نلتقي في الثلاثين من أبريل.",
+    "context": "تُستخدم لاقتراح تاريخ معين للاجتماع أو اللقاء."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Let us meet up on April 30th",
+        "ar": "دعنا نلتقي في الثلاثين من أبريل",
+        "context": "اقتراح لقاء في تاريخ محدد.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه صيغة اقتراح أو دعوة، وليست زمنًا مستقلًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "Let",
+            "description": "تُستخدم لاقتراح فعل مشترك"
+          },
+          {
+            "term": "us",
+            "description": "نحن في صيغة الدعوة"
+          },
+          {
+            "term": "meet",
+            "description": "نلتقي"
+          },
+          {
+            "term": "up",
+            "description": "تُكمل معنى اللقاء غير الرسمي"
+          },
+          {
+            "term": "on",
+            "description": "في"
+          },
+          {
+            "term": "April",
+            "description": "شهر أبريل"
+          },
+          {
+            "term": "30th",
+            "description": "اليوم الثلاثون"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Let us meet on May 1st.",
+        "ar": "دعنا نلتقي في الأول من مايو.",
+        "context": "تُستخدم لتاريخ محدد."
+      },
+      {
+        "id": 2,
+        "en": "Can we meet on April 30th?",
+        "ar": "هل يمكننا اللقاء في الثلاثين من أبريل؟",
+        "context": "تُستخدم كسؤال."
+      },
+      {
+        "id": 3,
+        "en": "April 30th works for me.",
+        "ar": "الثلاثون من أبريل يناسبني.",
+        "context": "تُستخدم لقبول التاريخ."
+      },
+      {
+        "id": 4,
+        "en": "Let us choose April 30th.",
+        "ar": "دعنا نختار الثلاثين من أبريل.",
+        "context": "تُستخدم لتأكيد التاريخ."
+      },
+      {
+        "id": 5,
+        "en": "The meeting is on April 30th.",
+        "ar": "الاجتماع في الثلاثين من أبريل.",
+        "context": "تُستخدم للإبلاغ."
+      },
+      {
+        "id": 6,
+        "en": "I am free on April 30th.",
+        "ar": "أنا متفرغ في الثلاثين من أبريل.",
+        "context": "تُستخدم لذكر التوفر."
+      },
+      {
+        "id": 7,
+        "en": "Let us meet up next month.",
+        "ar": "دعنا نلتقي الشهر القادم.",
+        "context": "تُستخدم دون تاريخ دقيق."
+      },
+      {
+        "id": 8,
+        "en": "Can you confirm April 30th?",
+        "ar": "هل يمكنك تأكيد الثلاثين من أبريل؟",
+        "context": "تُستخدم لتأكيد موعد."
+      },
+      {
+        "id": 9,
+        "en": "April 30th is too late.",
+        "ar": "الثلاثون من أبريل متأخر جدًا.",
+        "context": "تُستخدم لرفض تاريخ."
+      },
+      {
+        "id": 10,
+        "en": "We can meet before April 30th.",
+        "ar": "يمكننا اللقاء قبل الثلاثين من أبريل.",
+        "context": "تُستخدم لاقتراح بديل."
+      }
+    ]
+  }
+}
