@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": 1107,
+  "sentence": {
+    "en": "Can you help me understand?",
+    "ar": "هل يمكنك مساعدتي على الفهم؟",
+    "context": "تُستخدم لطلب المساعدة في فهم شيء غير واضح أو معقد."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Can you help me understand",
+        "ar": "هل يمكنك مساعدتي على الفهم",
+        "context": "تُستخدم لطلب شرح أو دعم في الفهم.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه صيغة طلب باستخدام كلمة تدل على القدرة أو الإمكان، لذلك لا تُعد زمنًا مستقلًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "Can",
+            "description": "تُستخدم للسؤال عن القدرة أو طلب المساعدة"
+          },
+          {
+            "term": "you",
+            "description": "ضمير للمخاطب"
+          },
+          {
+            "term": "help",
+            "description": "يساعد"
+          },
+          {
+            "term": "me",
+            "description": "ضمير يشير إلى المتكلم كمفعول به"
+          },
+          {
+            "term": "understand",
+            "description": "يفهم"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Can you help me with this?",
+        "ar": "هل يمكنك مساعدتي في هذا؟",
+        "context": "تُستخدم عند طلب مساعدة عامة."
+      },
+      {
+        "id": 2,
+        "en": "Can you explain this to me?",
+        "ar": "هل يمكنك شرح هذا لي؟",
+        "context": "تُستخدم عند طلب توضيح."
+      },
+      {
+        "id": 3,
+        "en": "Can you help me understand the rule?",
+        "ar": "هل يمكنك مساعدتي على فهم القاعدة؟",
+        "context": "تُقال في الدراسة أو التدريب."
+      },
+      {
+        "id": 4,
+        "en": "Can you show me the problem?",
+        "ar": "هل يمكنك أن تريني المشكلة؟",
+        "context": "تُستخدم عند محاولة فهم خطأ."
+      },
+      {
+        "id": 5,
+        "en": "Can you help me read this?",
+        "ar": "هل يمكنك مساعدتي في قراءة هذا؟",
+        "context": "تُستخدم عند صعوبة قراءة نص."
+      },
+      {
+        "id": 6,
+        "en": "Can you make it easier to understand?",
+        "ar": "هل يمكنك جعله أسهل للفهم؟",
+        "context": "تُقال عند طلب تبسيط."
+      },
+      {
+        "id": 7,
+        "en": "Can you tell me what this means?",
+        "ar": "هل يمكنك إخباري ماذا يعني هذا؟",
+        "context": "تُستخدم عند سؤال عن معنى."
+      },
+      {
+        "id": 8,
+        "en": "Can you help me understand the instructions?",
+        "ar": "هل يمكنك مساعدتي على فهم التعليمات؟",
+        "context": "تُقال عند وجود تعليمات غير واضحة."
+      },
+      {
+        "id": 9,
+        "en": "Can you explain the answer?",
+        "ar": "هل يمكنك شرح الإجابة؟",
+        "context": "تُستخدم في موقف تعليمي."
+      },
+      {
+        "id": 10,
+        "en": "Can you help me understand what happened?",
+        "ar": "هل يمكنك مساعدتي على فهم ما حدث؟",
+        "context": "تُستخدم عند محاولة فهم موقف."
+      }
+    ]
+  }
+}

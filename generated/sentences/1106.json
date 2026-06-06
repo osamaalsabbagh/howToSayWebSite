@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "id": 1106,
+  "sentence": {
+    "en": "I am afraid I do not understand. Could you explain this?",
+    "ar": "أخشى أنني لا أفهم. هل يمكنك شرح هذا؟",
+    "context": "تُستخدم للتعبير المهذب عن عدم الفهم وطلب توضيح."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "I am afraid I do not understand",
+        "ar": "أخشى أنني لا أفهم",
+        "context": "تُستخدم لقول عدم الفهم بطريقة مهذبة وغير حادة.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُخدم المضارع البسيط للتعبير عن حالة حالية من عدم الفهم."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير يشير إلى المتكلم"
+          },
+          {
+            "term": "am",
+            "description": "صيغة تأتي مع ضمير المتكلم المفرد وتعبر عن الحالة الحالية"
+          },
+          {
+            "term": "afraid",
+            "description": "تُستخدم هنا للتلطف قبل قول شيء سلبي"
+          },
+          {
+            "term": "I",
+            "description": "ضمير يشير إلى المتكلم"
+          },
+          {
+            "term": "do",
+            "description": "كلمة مساعدة تُستخدم مع النفي في الحاضر"
+          },
+          {
+            "term": "not",
+            "description": "أداة نفي"
+          },
+          {
+            "term": "understand",
+            "description": "يفهم"
+          }
+        ]
+      },
+      {
+        "sentence": "Could you explain this",
+        "ar": "هل يمكنك شرح هذا",
+        "context": "تُستخدم لطلب توضيح بطريقة مهذبة.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه صيغة طلب مهذبة باستخدام كلمة تدل على الإمكان، وليست زمنًا مستقلًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "Could",
+            "description": "تُستخدم لطلب شيء بأدب"
+          },
+          {
+            "term": "you",
+            "description": "ضمير للمخاطب"
+          },
+          {
+            "term": "explain",
+            "description": "يشرح أو يوضح"
+          },
+          {
+            "term": "this",
+            "description": "هذا الشيء أو هذه الفكرة"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I am afraid I do not follow.",
+        "ar": "أخشى أنني لا أتابع الفكرة.",
+        "context": "تُستخدم عند عدم فهم الشرح."
+      },
+      {
+        "id": 2,
+        "en": "Could you explain that again?",
+        "ar": "هل يمكنك شرح ذلك مرة أخرى؟",
+        "context": "تُستخدم لطلب إعادة الشرح."
+      },
+      {
+        "id": 3,
+        "en": "I do not understand this part.",
+        "ar": "لا أفهم هذا الجزء.",
+        "context": "تُقال عند وجود جزء غير واضح."
+      },
+      {
+        "id": 4,
+        "en": "Could you make this clearer?",
+        "ar": "هل يمكنك جعل هذا أوضح؟",
+        "context": "تُستخدم لطلب توضيح إضافي."
+      },
+      {
+        "id": 5,
+        "en": "I am afraid I need more details.",
+        "ar": "أخشى أنني أحتاج إلى مزيد من التفاصيل.",
+        "context": "تُقال عندما لا تكفي المعلومات."
+      },
+      {
+        "id": 6,
+        "en": "Could you explain the next step?",
+        "ar": "هل يمكنك شرح الخطوة التالية؟",
+        "context": "تُستخدم عند تعلم إجراء معين."
+      },
+      {
+        "id": 7,
+        "en": "I am not sure I understand.",
+        "ar": "لست متأكدًا أنني أفهم.",
+        "context": "تُستخدم للتعبير عن تردد في الفهم."
+      },
+      {
+        "id": 8,
+        "en": "Could you give me an example?",
+        "ar": "هل يمكنك إعطائي مثالًا؟",
+        "context": "تُستخدم لطلب مثال يوضح الفكرة."
+      },
+      {
+        "id": 9,
+        "en": "I am afraid this is not clear to me.",
+        "ar": "أخشى أن هذا ليس واضحًا لي.",
+        "context": "تُقال بأدب عند عدم وضوح معلومة."
+      },
+      {
+        "id": 10,
+        "en": "Could you explain this in simple words?",
+        "ar": "هل يمكنك شرح هذا بكلمات بسيطة؟",
+        "context": "تُستخدم عند طلب تبسيط الشرح."
+      }
+    ]
+  }
+}

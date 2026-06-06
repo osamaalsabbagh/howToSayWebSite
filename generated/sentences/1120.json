@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "id": 1120,
+  "sentence": {
+    "en": "Who is our teacher?",
+    "ar": "من هو معلمنا؟",
+    "context": "تُستخدم للسؤال عن هوية المعلم المسؤول عن الصف."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Who is our teacher",
+        "ar": "من هو معلمنا",
+        "context": "سؤال عن هوية المعلم المسؤول.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُخدم المضارع البسيط للسؤال عن هوية أو صفة حالية."
+        },
+        "wordMeanings": [
+          {
+            "term": "Who",
+            "description": "من، للسؤال عن شخص"
+          },
+          {
+            "term": "is",
+            "description": "تدل على الهوية أو الوصف الحالي"
+          },
+          {
+            "term": "our",
+            "description": "خاصتنا أو يعود إلينا"
+          },
+          {
+            "term": "teacher",
+            "description": "معلم أو معلمة"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Who is the teacher today?",
+        "ar": "من المعلم اليوم؟",
+        "context": "تُستخدم عند السؤال عن معلم الحصة."
+      },
+      {
+        "id": 2,
+        "en": "Who is our math teacher?",
+        "ar": "من معلم الرياضيات لدينا؟",
+        "context": "تُقال للسؤال عن معلم مادة."
+      },
+      {
+        "id": 3,
+        "en": "Who is in charge of the class?",
+        "ar": "من المسؤول عن الصف؟",
+        "context": "تُستخدم للسؤال عن المسؤول."
+      },
+      {
+        "id": 4,
+        "en": "Who is your English teacher?",
+        "ar": "من معلم الإنجليزية لديك؟",
+        "context": "تُقال عند السؤال عن معلم شخص آخر."
+      },
+      {
+        "id": 5,
+        "en": "Who is the new teacher?",
+        "ar": "من المعلم الجديد؟",
+        "context": "تُستخدم عند وصول معلم جديد."
+      },
+      {
+        "id": 6,
+        "en": "Who teaches this class?",
+        "ar": "من يدرّس هذا الصف؟",
+        "context": "تُستخدم للسؤال عن المدرس المسؤول."
+      },
+      {
+        "id": 7,
+        "en": "Who is our science teacher?",
+        "ar": "من معلم العلوم لدينا؟",
+        "context": "تُقال في سياق مادة العلوم."
+      },
+      {
+        "id": 8,
+        "en": "Who is the substitute teacher?",
+        "ar": "من المعلم البديل؟",
+        "context": "تُستخدم عند غياب المعلم الأساسي."
+      },
+      {
+        "id": 9,
+        "en": "Who is leading the lesson?",
+        "ar": "من يقود الدرس؟",
+        "context": "تُقال عند وجود أكثر من معلم."
+      },
+      {
+        "id": 10,
+        "en": "Who is our homeroom teacher?",
+        "ar": "من معلم الصف الأساسي لدينا؟",
+        "context": "تُستخدم للسؤال عن معلم الصف المسؤول."
+      }
+    ]
+  }
+}

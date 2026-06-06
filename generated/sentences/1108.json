@@ -1,0 +1,119 @@
+{
+  "schemaVersion": 1,
+  "id": 1108,
+  "sentence": {
+    "en": "Can you show me how to do this?",
+    "ar": "هل يمكنك أن تريني كيف أفعل هذا؟",
+    "context": "تُستخدم لطلب شرح عملي أو خطوات للقيام بشيء معين."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Can you show me how to do this",
+        "ar": "هل يمكنك أن تريني كيف أفعل هذا",
+        "context": "تُستخدم لطلب عرض عملي لطريقة تنفيذ شيء.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه صيغة طلب مساعدة باستخدام كلمة تدل على القدرة، وليست زمنًا مستقلًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "Can",
+            "description": "تُستخدم لطلب شيء أو السؤال عن القدرة"
+          },
+          {
+            "term": "you",
+            "description": "ضمير للمخاطب"
+          },
+          {
+            "term": "show",
+            "description": "يُري أو يوضح عمليًا"
+          },
+          {
+            "term": "me",
+            "description": "ضمير يشير إلى المتكلم كمفعول به"
+          },
+          {
+            "term": "how",
+            "description": "كيف أو الطريقة"
+          },
+          {
+            "term": "to",
+            "description": "تأتي قبل الفعل في التعبير عن الطريقة"
+          },
+          {
+            "term": "do",
+            "description": "يفعل أو ينجز"
+          },
+          {
+            "term": "this",
+            "description": "هذا الشيء أو هذه المهمة"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Can you show me how to use this?",
+        "ar": "هل يمكنك أن تريني كيف أستخدم هذا؟",
+        "context": "تُستخدم عند تعلم استخدام أداة."
+      },
+      {
+        "id": 2,
+        "en": "Can you show me how to start?",
+        "ar": "هل يمكنك أن تريني كيف أبدأ؟",
+        "context": "تُقال عند بداية مهمة جديدة."
+      },
+      {
+        "id": 3,
+        "en": "Can you show me how to fix it?",
+        "ar": "هل يمكنك أن تريني كيف أصلحه؟",
+        "context": "تُستخدم عند وجود عطل أو مشكلة."
+      },
+      {
+        "id": 4,
+        "en": "Can you show me the steps?",
+        "ar": "هل يمكنك أن تريني الخطوات؟",
+        "context": "تُقال عند طلب شرح منظم."
+      },
+      {
+        "id": 5,
+        "en": "Can you show me how this works?",
+        "ar": "هل يمكنك أن تريني كيف يعمل هذا؟",
+        "context": "تُستخدم عند فهم آلية شيء."
+      },
+      {
+        "id": 6,
+        "en": "Can you teach me how to do this?",
+        "ar": "هل يمكنك تعليمي كيف أفعل هذا؟",
+        "context": "تُقال عند طلب تعليم مباشر."
+      },
+      {
+        "id": 7,
+        "en": "Can you show me how to save the file?",
+        "ar": "هل يمكنك أن تريني كيف أحفظ الملف؟",
+        "context": "تُستخدم عند تعلم إجراء على الحاسوب."
+      },
+      {
+        "id": 8,
+        "en": "Can you show me how to prepare it?",
+        "ar": "هل يمكنك أن تريني كيف أعده؟",
+        "context": "تُقال عند تعلم تحضير شيء."
+      },
+      {
+        "id": 9,
+        "en": "Can you show me how to open this?",
+        "ar": "هل يمكنك أن تريني كيف أفتح هذا؟",
+        "context": "تُستخدم عند صعوبة فتح شيء."
+      },
+      {
+        "id": 10,
+        "en": "Can you show me how to complete the form?",
+        "ar": "هل يمكنك أن تريني كيف أكمل النموذج؟",
+        "context": "تُقال عند طلب إرشاد في تعبئة نموذج."
+      }
+    ]
+  }
+}

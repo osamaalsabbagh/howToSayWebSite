@@ -1,0 +1,111 @@
+{
+  "schemaVersion": 1,
+  "id": 1121,
+  "sentence": {
+    "en": "Can you explain this topic again?",
+    "ar": "هل يمكنك شرح هذا الموضوع مرة أخرى؟",
+    "context": "تُستخدم من قبل الطلاب لطلب شرح الموضوع مرة أخرى من المعلم."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Can you explain this topic again",
+        "ar": "هل يمكنك شرح هذا الموضوع مرة أخرى",
+        "context": "طلب مهذب لإعادة شرح موضوع غير واضح.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه صيغة طلب باستخدام كلمة تدل على القدرة، وليست زمنًا مستقلًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "Can",
+            "description": "تُستخدم لطلب شيء أو السؤال عن القدرة"
+          },
+          {
+            "term": "you",
+            "description": "ضمير للمخاطب"
+          },
+          {
+            "term": "explain",
+            "description": "يشرح أو يوضح"
+          },
+          {
+            "term": "this",
+            "description": "هذا"
+          },
+          {
+            "term": "topic",
+            "description": "موضوع"
+          },
+          {
+            "term": "again",
+            "description": "مرة أخرى"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Can you explain the lesson again?",
+        "ar": "هل يمكنك شرح الدرس مرة أخرى؟",
+        "context": "تُستخدم عندما لا يكون الدرس واضحًا."
+      },
+      {
+        "id": 2,
+        "en": "Could you explain this part again?",
+        "ar": "هل يمكنك شرح هذا الجزء مرة أخرى؟",
+        "context": "تُستخدم بصيغة أكثر تهذيبًا."
+      },
+      {
+        "id": 3,
+        "en": "Can you explain the rule again?",
+        "ar": "هل يمكنك شرح القاعدة مرة أخرى؟",
+        "context": "تُقال عند عدم فهم قاعدة."
+      },
+      {
+        "id": 4,
+        "en": "Can you repeat the explanation?",
+        "ar": "هل يمكنك تكرار الشرح؟",
+        "context": "تُستخدم لطلب إعادة شرح."
+      },
+      {
+        "id": 5,
+        "en": "Can you explain this example?",
+        "ar": "هل يمكنك شرح هذا المثال؟",
+        "context": "تُستخدم عند الحاجة إلى توضيح مثال."
+      },
+      {
+        "id": 6,
+        "en": "Can you make the topic clearer?",
+        "ar": "هل يمكنك جعل الموضوع أوضح؟",
+        "context": "تُقال عند طلب تبسيط."
+      },
+      {
+        "id": 7,
+        "en": "Could you go over this again?",
+        "ar": "هل يمكنك مراجعة هذا مرة أخرى؟",
+        "context": "تُستخدم في الصف للمراجعة."
+      },
+      {
+        "id": 8,
+        "en": "Can you explain it more slowly?",
+        "ar": "هل يمكنك شرحه ببطء أكثر؟",
+        "context": "تُستخدم عندما يكون الشرح سريعًا."
+      },
+      {
+        "id": 9,
+        "en": "Can you explain the homework again?",
+        "ar": "هل يمكنك شرح الواجب مرة أخرى؟",
+        "context": "تُقال عند عدم فهم المطلوب."
+      },
+      {
+        "id": 10,
+        "en": "Can you give another explanation?",
+        "ar": "هل يمكنك تقديم شرح آخر؟",
+        "context": "تُستخدم عند الحاجة إلى طريقة شرح مختلفة."
+      }
+    ]
+  }
+}

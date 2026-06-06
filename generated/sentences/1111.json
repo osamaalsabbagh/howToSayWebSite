@@ -1,0 +1,115 @@
+{
+  "schemaVersion": 1,
+  "id": 1111,
+  "sentence": {
+    "en": "Can you show me how this works?",
+    "ar": "هل يمكنك أن تريني لي كيف يعمل هذا؟",
+    "context": "تُستخدم لطلب شرح عملي لكيفية عمل شيء ما."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Can you show me how this works",
+        "ar": "هل يمكنك أن تريني كيف يعمل هذا",
+        "context": "تُستخدم لطلب توضيح عملي لطريقة عمل شيء.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "الجملة طلب باستخدام كلمة تدل على القدرة، وداخلها وصف لطريقة عمل الشيء."
+        },
+        "wordMeanings": [
+          {
+            "term": "Can",
+            "description": "تُستخدم لطلب شيء أو السؤال عن القدرة"
+          },
+          {
+            "term": "you",
+            "description": "ضمير للمخاطب"
+          },
+          {
+            "term": "show",
+            "description": "يُري أو يوضح عمليًا"
+          },
+          {
+            "term": "me",
+            "description": "ضمير يشير إلى المتكلم كمفعول به"
+          },
+          {
+            "term": "how",
+            "description": "كيف أو الطريقة"
+          },
+          {
+            "term": "this",
+            "description": "هذا الشيء"
+          },
+          {
+            "term": "works",
+            "description": "يعمل أو يؤدي وظيفته"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Can you show me how the machine works?",
+        "ar": "هل يمكنك أن تريني كيف تعمل الآلة؟",
+        "context": "تُستخدم عند تعلم تشغيل آلة."
+      },
+      {
+        "id": 2,
+        "en": "Can you explain how this works?",
+        "ar": "هل يمكنك شرح كيف يعمل هذا؟",
+        "context": "تُقال عند طلب فهم الآلية."
+      },
+      {
+        "id": 3,
+        "en": "Can you show me how the app works?",
+        "ar": "هل يمكنك أن تريني كيف يعمل التطبيق؟",
+        "context": "تُستخدم عند تعلم تطبيق جديد."
+      },
+      {
+        "id": 4,
+        "en": "Could you show me how this tool works?",
+        "ar": "هل يمكنك أن تريني كيف تعمل هذه الأداة؟",
+        "context": "تُستخدم بطريقة أكثر تهذيبًا."
+      },
+      {
+        "id": 5,
+        "en": "Can you show me how to use this?",
+        "ar": "هل يمكنك أن تريني كيف أستخدم هذا؟",
+        "context": "تُقال عند طلب شرح عملي."
+      },
+      {
+        "id": 6,
+        "en": "Can you tell me how this works?",
+        "ar": "هل يمكنك إخباري كيف يعمل هذا؟",
+        "context": "تُستخدم عند طلب شرح شفهي."
+      },
+      {
+        "id": 7,
+        "en": "Can you show me the basic idea?",
+        "ar": "هل يمكنك أن تريني الفكرة الأساسية؟",
+        "context": "تُقال عند بداية تعلم شيء."
+      },
+      {
+        "id": 8,
+        "en": "Can you show me how the system works?",
+        "ar": "هل يمكنك أن تريني كيف يعمل النظام؟",
+        "context": "تُستخدم في العمل أو التقنية."
+      },
+      {
+        "id": 9,
+        "en": "Could you explain the function of this button?",
+        "ar": "هل يمكنك شرح وظيفة هذا الزر؟",
+        "context": "تُستخدم عند تعلم واجهة أو جهاز."
+      },
+      {
+        "id": 10,
+        "en": "Can you show me what this does?",
+        "ar": "هل يمكنك أن تريني ماذا يفعل هذا؟",
+        "context": "تُقال عند السؤال عن وظيفة شيء."
+      }
+    ]
+  }
+}

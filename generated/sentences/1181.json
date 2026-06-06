@@ -1,0 +1,135 @@
+{
+  "schemaVersion": 1,
+  "id": 1181,
+  "sentence": {
+    "en": "Your shirt looks awesome. Where did you buy it?",
+    "ar": "قميصك يبدو رائعًا. من أين اشتريته؟",
+    "context": "تُستخدم لمدح ملابس شخص ما والسؤال عن مكان شرائها."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Your shirt looks awesome",
+        "ar": "قميصك يبدو رائعًا",
+        "context": "تُستخدم لمدح قميص شخص.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُخدم المضارع البسيط لوصف مظهر حالي."
+        },
+        "wordMeanings": [
+          {
+            "term": "Your",
+            "description": "خاص بك"
+          },
+          {
+            "term": "shirt",
+            "description": "قميص"
+          },
+          {
+            "term": "looks",
+            "description": "يبدو"
+          },
+          {
+            "term": "awesome",
+            "description": "رائع جدًا"
+          }
+        ]
+      },
+      {
+        "sentence": "Where did you buy it",
+        "ar": "من أين اشتريته",
+        "context": "سؤال عن مكان شراء القميص.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "استُخدم الماضي البسيط لأن فعل الشراء حدث في الماضي."
+        },
+        "wordMeanings": [
+          {
+            "term": "Where",
+            "description": "أين أو من أين"
+          },
+          {
+            "term": "did",
+            "description": "كلمة مساعدة لتكوين سؤال في الماضي"
+          },
+          {
+            "term": "you",
+            "description": "ضمير للمخاطب"
+          },
+          {
+            "term": "buy",
+            "description": "تشتري"
+          },
+          {
+            "term": "it",
+            "description": "يشير إلى القميص"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Your jacket looks great.",
+        "ar": "سترتك تبدو رائعة.",
+        "context": "تُستخدم لمدح ملابس."
+      },
+      {
+        "id": 2,
+        "en": "Where did you buy those shoes?",
+        "ar": "من أين اشتريت ذلك الحذاء؟",
+        "context": "تُقال عند السؤال عن شراء."
+      },
+      {
+        "id": 3,
+        "en": "Your dress looks beautiful.",
+        "ar": "فستانك يبدو جميلًا.",
+        "context": "تُستخدم للمجاملة."
+      },
+      {
+        "id": 4,
+        "en": "That shirt looks nice on you.",
+        "ar": "ذلك القميص يبدو جميلًا عليك.",
+        "context": "تُقال كمدح مباشر."
+      },
+      {
+        "id": 5,
+        "en": "Where can I get one?",
+        "ar": "أين يمكنني الحصول على واحد؟",
+        "context": "تُستخدم بعد الإعجاب بشيء."
+      },
+      {
+        "id": 6,
+        "en": "I bought it at the mall.",
+        "ar": "اشتريته من المركز التجاري.",
+        "context": "تُستخدم للإجابة عن مكان الشراء."
+      },
+      {
+        "id": 7,
+        "en": "Your bag looks awesome.",
+        "ar": "حقيبتك تبدو رائعة.",
+        "context": "تُستخدم لمدح حقيبة."
+      },
+      {
+        "id": 8,
+        "en": "Where did you find it?",
+        "ar": "أين وجدته؟",
+        "context": "تُستخدم للسؤال عن مصدر شيء."
+      },
+      {
+        "id": 9,
+        "en": "That color looks good.",
+        "ar": "ذلك اللون يبدو جميلًا.",
+        "context": "تُقال عند مدح لون."
+      },
+      {
+        "id": 10,
+        "en": "I love your shirt.",
+        "ar": "أحب قميصك.",
+        "context": "تُستخدم كمجاملة بسيطة."
+      }
+    ]
+  }
+}

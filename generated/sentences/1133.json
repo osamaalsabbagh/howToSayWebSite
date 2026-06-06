@@ -1,0 +1,115 @@
+{
+  "schemaVersion": 1,
+  "id": 1133,
+  "sentence": {
+    "en": "Do you have copies of the lessons?",
+    "ar": "هل لديك نسخ من الدروس؟",
+    "context": "تُستخدم لطلب نسخ من مواد الدروس أو النشرات من زميل في الصف."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Do you have copies of the lessons",
+        "ar": "هل لديك نسخ من الدروس",
+        "context": "سؤال عن توفر نسخ من مواد الدرس.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُخدم المضارع البسيط للسؤال عن امتلاك شيء أو توفره الآن."
+        },
+        "wordMeanings": [
+          {
+            "term": "Do",
+            "description": "كلمة مساعدة تُستخدم لتكوين السؤال في الحاضر"
+          },
+          {
+            "term": "you",
+            "description": "ضمير للمخاطب"
+          },
+          {
+            "term": "have",
+            "description": "لديك أو عندك"
+          },
+          {
+            "term": "copies",
+            "description": "نسخ"
+          },
+          {
+            "term": "of",
+            "description": "من"
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف"
+          },
+          {
+            "term": "lessons",
+            "description": "دروس"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Do you have a copy of the notes?",
+        "ar": "هل لديك نسخة من الملاحظات؟",
+        "context": "تُستخدم لطلب ملاحظات دراسية."
+      },
+      {
+        "id": 2,
+        "en": "Do you have the lesson handout?",
+        "ar": "هل لديك نشرة الدرس؟",
+        "context": "تُقال عند طلب ورقة من الصف."
+      },
+      {
+        "id": 3,
+        "en": "Can I borrow your notes?",
+        "ar": "هل يمكنني استعارة ملاحظاتك؟",
+        "context": "تُستخدم عند غياب أو نقص ملاحظات."
+      },
+      {
+        "id": 4,
+        "en": "Do you have copies for everyone?",
+        "ar": "هل لديك نسخ للجميع؟",
+        "context": "تُقال عند توزيع أوراق."
+      },
+      {
+        "id": 5,
+        "en": "I need a copy of the lesson.",
+        "ar": "أحتاج إلى نسخة من الدرس.",
+        "context": "تُستخدم عند طلب مادة دراسية."
+      },
+      {
+        "id": 6,
+        "en": "Do you have the class notes?",
+        "ar": "هل لديك ملاحظات الصف؟",
+        "context": "تُقال لزميل في الصف."
+      },
+      {
+        "id": 7,
+        "en": "Can you send me the lesson?",
+        "ar": "هل يمكنك إرسال الدرس لي؟",
+        "context": "تُستخدم عند طلب نسخة إلكترونية."
+      },
+      {
+        "id": 8,
+        "en": "Do you have extra copies?",
+        "ar": "هل لديك نسخ إضافية؟",
+        "context": "تُقال عند الحاجة إلى نسخة زائدة."
+      },
+      {
+        "id": 9,
+        "en": "The teacher gave us copies of the worksheet.",
+        "ar": "أعطانا المعلم نسخًا من ورقة العمل.",
+        "context": "تُستخدم عند توزيع مواد."
+      },
+      {
+        "id": 10,
+        "en": "Do you have copies of yesterday's lesson?",
+        "ar": "هل لديك نسخ من درس أمس؟",
+        "context": "تُقال بعد الغياب عن درس."
+      }
+    ]
+  }
+}
