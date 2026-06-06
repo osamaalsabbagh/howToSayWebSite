@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "id": 956,
+  "sentence": {
+    "en": "Where is Main Street?",
+    "ar": "أين شارع مين؟",
+    "context": "تُستخدم للسؤال عن الاتجاه إلى شارع معروف."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Where is Main Street",
+        "ar": "أين شارع مين",
+        "context": "تُستخدم للسؤال عن موقع شارع محدد أو كيفية الوصول إليه.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "السؤال يستخدم is للسؤال عن موقع ثابت أو معروف في الحاضر."
+        },
+        "wordMeanings": [
+          {
+            "term": "Where",
+            "description": "أين، وتُستخدم للسؤال عن المكان"
+          },
+          {
+            "term": "is",
+            "description": "تعني يوجد أو يكون، وتأتي هنا للسؤال عن الموقع"
+          },
+          {
+            "term": "Main",
+            "description": "اسم جزء من اسم الشارع، ويعني عادة الرئيسي إذا لم يكن اسمًا خاصًا"
+          },
+          {
+            "term": "Street",
+            "description": "شارع، وهي جزء من اسم المكان"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Where is the bank?",
+        "ar": "أين البنك؟",
+        "context": "تُستخدم للسؤال عن موقع البنك."
+      },
+      {
+        "id": 2,
+        "en": "Where is the train station?",
+        "ar": "أين محطة القطار؟",
+        "context": "تُستخدم عند طلب الاتجاهات."
+      },
+      {
+        "id": 3,
+        "en": "Where is Oak Street?",
+        "ar": "أين شارع أوك؟",
+        "context": "تُستخدم للسؤال عن شارع باسم محدد."
+      },
+      {
+        "id": 4,
+        "en": "Where is the hospital?",
+        "ar": "أين المستشفى؟",
+        "context": "تُستخدم عند الحاجة للوصول إلى مستشفى."
+      },
+      {
+        "id": 5,
+        "en": "Where is the nearest bus stop?",
+        "ar": "أين أقرب موقف حافلات؟",
+        "context": "تُستخدم عند البحث عن مواصلات."
+      },
+      {
+        "id": 6,
+        "en": "Where is the hotel?",
+        "ar": "أين الفندق؟",
+        "context": "تُستخدم عند الوصول إلى مدينة أو مكان جديد."
+      },
+      {
+        "id": 7,
+        "en": "Where is the school?",
+        "ar": "أين المدرسة؟",
+        "context": "تُستخدم للسؤال عن موقع مدرسة."
+      },
+      {
+        "id": 8,
+        "en": "Where is the market?",
+        "ar": "أين السوق؟",
+        "context": "تُستخدم عند البحث عن مكان للتسوق."
+      },
+      {
+        "id": 9,
+        "en": "Where is First Street?",
+        "ar": "أين الشارع الأول؟",
+        "context": "تُستخدم للسؤال عن شارع محدد."
+      },
+      {
+        "id": 10,
+        "en": "Where is the office?",
+        "ar": "أين المكتب؟",
+        "context": "تُستخدم عند البحث عن مكان عمل أو خدمة."
+      }
+    ]
+  }
+}

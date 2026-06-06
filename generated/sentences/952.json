@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": 952,
+  "sentence": {
+    "en": "What color is that car?",
+    "ar": "ما لون تلك السيارة؟",
+    "context": "تُستخدم لسؤال عن لون سيارة معينة."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "What color is that car",
+        "ar": "ما لون تلك السيارة",
+        "context": "تُستخدم كسؤال مباشر عن لون سيارة محددة.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "السؤال يستخدم is لوصف صفة حالية للسيارة، وهي لونها."
+        },
+        "wordMeanings": [
+          {
+            "term": "What",
+            "description": "ما، وتُستخدم للسؤال عن شيء أو صفة"
+          },
+          {
+            "term": "color",
+            "description": "لون"
+          },
+          {
+            "term": "is",
+            "description": "تأتي في السؤال لربط الشيء بصفته"
+          },
+          {
+            "term": "that",
+            "description": "تلك، وتشير إلى سيارة محددة غالبًا أبعد من المتكلم"
+          },
+          {
+            "term": "car",
+            "description": "سيارة"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "What color is your bike?",
+        "ar": "ما لون دراجتك؟",
+        "context": "تُستخدم للسؤال عن لون دراجة."
+      },
+      {
+        "id": 2,
+        "en": "What color is that bag?",
+        "ar": "ما لون تلك الحقيبة؟",
+        "context": "تُستخدم عند الإشارة إلى حقيبة محددة."
+      },
+      {
+        "id": 3,
+        "en": "What color is the door?",
+        "ar": "ما لون الباب؟",
+        "context": "تُستخدم لوصف شيء في مكان."
+      },
+      {
+        "id": 4,
+        "en": "What color is your shirt?",
+        "ar": "ما لون قميصك؟",
+        "context": "تُستخدم عند السؤال عن ملابس شخص."
+      },
+      {
+        "id": 5,
+        "en": "What color is the house?",
+        "ar": "ما لون البيت؟",
+        "context": "تُستخدم عند وصف بيت أو البحث عنه."
+      },
+      {
+        "id": 6,
+        "en": "What color is that phone?",
+        "ar": "ما لون ذلك الهاتف؟",
+        "context": "تُستخدم عند السؤال عن جهاز محدد."
+      },
+      {
+        "id": 7,
+        "en": "What color is the table?",
+        "ar": "ما لون الطاولة؟",
+        "context": "تُستخدم لوصف أثاث."
+      },
+      {
+        "id": 8,
+        "en": "What color is her dress?",
+        "ar": "ما لون فستانها؟",
+        "context": "تُستخدم عند السؤال عن ملابس أنثى."
+      },
+      {
+        "id": 9,
+        "en": "What color is the box?",
+        "ar": "ما لون الصندوق؟",
+        "context": "تُستخدم عند تمييز صندوق بين عدة صناديق."
+      },
+      {
+        "id": 10,
+        "en": "What color is your notebook?",
+        "ar": "ما لون دفترك؟",
+        "context": "تُستخدم في الصف أو عند البحث عن دفتر."
+      }
+    ]
+  }
+}
