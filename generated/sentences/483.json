@@ -1,0 +1,111 @@
+{
+  "schemaVersion": 1,
+  "id": 483,
+  "sentence": {
+    "en": "There is a restaurant near here.",
+    "ar": "يوجد مطعم قريب من هنا.",
+    "context": "الإشارة إلى وجود مطعم قريب."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "There is a restaurant near here.",
+        "ar": "يوجد مطعم قريب من هنا.",
+        "context": "تستخدم لإخبار شخص بوجود مطعم قريب.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "There is تستخدم للتعبير عن وجود شيء مفرد في الحاضر."
+        },
+        "wordMeanings": [
+          {
+            "term": "There",
+            "description": "تبدأ تعبيرًا عن وجود شيء."
+          },
+          {
+            "term": "is",
+            "description": "تستخدم مع الشيء المفرد في تعبير الوجود."
+          },
+          {
+            "term": "a",
+            "description": "تدل على شيء واحد غير محدد."
+          },
+          {
+            "term": "restaurant",
+            "description": "مكان يقدم الطعام."
+          },
+          {
+            "term": "near",
+            "description": "تعني قريب من."
+          },
+          {
+            "term": "here",
+            "description": "تعني هذا المكان."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "There is a cafe near here.",
+        "ar": "يوجد مقهى قريب من هنا.",
+        "context": "الإشارة إلى مكان قريب."
+      },
+      {
+        "id": 2,
+        "en": "There is a hotel near the station.",
+        "ar": "يوجد فندق قرب المحطة.",
+        "context": "ذكر موقع فندق."
+      },
+      {
+        "id": 3,
+        "en": "Is there a restaurant nearby?",
+        "ar": "هل يوجد مطعم قريب؟",
+        "context": "سؤال عن وجود مطعم."
+      },
+      {
+        "id": 4,
+        "en": "There is a bank over there.",
+        "ar": "يوجد بنك هناك.",
+        "context": "الإشارة إلى مكان بعيد قليلًا."
+      },
+      {
+        "id": 5,
+        "en": "The restaurant is near here.",
+        "ar": "المطعم قريب من هنا.",
+        "context": "وصف موقع مطعم."
+      },
+      {
+        "id": 6,
+        "en": "There is a table near the window.",
+        "ar": "توجد طاولة قرب النافذة.",
+        "context": "ذكر وجود طاولة في مكان."
+      },
+      {
+        "id": 7,
+        "en": "There are many restaurants here.",
+        "ar": "هناك مطاعم كثيرة هنا.",
+        "context": "ذكر وجود عدة مطاعم."
+      },
+      {
+        "id": 8,
+        "en": "There is a doctor near here.",
+        "ar": "يوجد طبيب قريب من هنا.",
+        "context": "الإشارة إلى خدمة قريبة."
+      },
+      {
+        "id": 9,
+        "en": "This place is near here.",
+        "ar": "هذا المكان قريب من هنا.",
+        "context": "توضيح قرب مكان."
+      },
+      {
+        "id": 10,
+        "en": "There is no restaurant here.",
+        "ar": "لا يوجد مطعم هنا.",
+        "context": "نفي وجود مطعم."
+      }
+    ]
+  }
+}

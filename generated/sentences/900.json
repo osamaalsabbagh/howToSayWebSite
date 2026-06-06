@@ -1,0 +1,111 @@
+{
+  "schemaVersion": 1,
+  "id": 900,
+  "sentence": {
+    "en": "Is it suppose to rain tomorrow?",
+    "ar": "هل من المفترض أن تمطر غدًا؟",
+    "context": "تُستخدم للسؤال عن توقعات الطقس ليوم الغد."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Is it suppose to rain tomorrow?",
+        "ar": "هل من المفترض أن تمطر غدا؟",
+        "context": "سؤال عن توقع المطر غدا؛ الصياغة الشائعة الأدق هي supposed to.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "التركيب يقصد به السؤال عن توقع أو افتراض، ووجود suppose هنا يعبر عن معنى supposed to في الاستخدام المقصود."
+        },
+        "wordMeanings": [
+          {
+            "term": "Is",
+            "description": "تبدأ سؤالا عن الحالة أو التوقع"
+          },
+          {
+            "term": "it",
+            "description": "تستخدم هنا للحديث عن الطقس"
+          },
+          {
+            "term": "suppose",
+            "description": "المقصود بها مفترض أو متوقع في هذا السياق"
+          },
+          {
+            "term": "to",
+            "description": "تأتي قبل الفعل المتوقع"
+          },
+          {
+            "term": "rain",
+            "description": "تمطر"
+          },
+          {
+            "term": "tomorrow",
+            "description": "غدا"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Is it supposed to rain tomorrow?",
+        "ar": "هل من المفترض أن تمطر غدا؟",
+        "context": "الصيغة الشائعة للسؤال عن توقع المطر."
+      },
+      {
+        "id": 2,
+        "en": "Is it going to rain tomorrow?",
+        "ar": "هل ستمطر غدا؟",
+        "context": "للسؤال عن توقع الطقس."
+      },
+      {
+        "id": 3,
+        "en": "Will it rain tomorrow?",
+        "ar": "هل ستمطر غدا؟",
+        "context": "صيغة مباشرة عن المستقبل."
+      },
+      {
+        "id": 4,
+        "en": "Is it supposed to snow?",
+        "ar": "هل من المفترض أن يتساقط الثلج؟",
+        "context": "للسؤال عن توقع الثلج."
+      },
+      {
+        "id": 5,
+        "en": "It is supposed to rain tonight.",
+        "ar": "من المفترض أن تمطر الليلة.",
+        "context": "لذكر توقع طقس."
+      },
+      {
+        "id": 6,
+        "en": "Is it supposed to be cold?",
+        "ar": "هل من المفترض أن يكون الجو باردا؟",
+        "context": "للسؤال عن توقع البرودة."
+      },
+      {
+        "id": 7,
+        "en": "Do you think it will rain tomorrow?",
+        "ar": "هل تظن أنها ستمطر غدا؟",
+        "context": "لطلب رأي عن الطقس."
+      },
+      {
+        "id": 8,
+        "en": "Is it supposed to rain today?",
+        "ar": "هل من المفترض أن تمطر اليوم؟",
+        "context": "للسؤال عن طقس اليوم."
+      },
+      {
+        "id": 9,
+        "en": "The weather says it will rain.",
+        "ar": "تقول توقعات الطقس إنها ستمطر.",
+        "context": "لنقل توقع من النشرة."
+      },
+      {
+        "id": 10,
+        "en": "Is tomorrow supposed to be sunny?",
+        "ar": "هل من المفترض أن يكون الغد مشمسا؟",
+        "context": "للسؤال عن توقع الشمس."
+      }
+    ]
+  }
+}

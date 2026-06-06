@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": 776,
+  "sentence": {
+    "en": "What did you do yesterday?",
+    "ar": "ماذا فعلت البارحة؟",
+    "context": "السؤال عن نشاط البارحة."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "What did you do yesterday?",
+        "ar": "ماذا فعلت البارحة؟",
+        "context": "سؤال عن نشاط حدث في اليوم السابق.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "يستخدم الماضي البسيط مع yesterday لأنه وقت ماض منته، وتأتي did لتكوين السؤال ويأتي الفعل do بصورته الأساسية."
+        },
+        "wordMeanings": [
+          {
+            "term": "What",
+            "description": "ماذا؛ للسؤال عن النشاط"
+          },
+          {
+            "term": "did",
+            "description": "أداة سؤال في الماضي البسيط"
+          },
+          {
+            "term": "you",
+            "description": "الشخص المخاطب"
+          },
+          {
+            "term": "do",
+            "description": "تفعل أو تقوم به"
+          },
+          {
+            "term": "yesterday",
+            "description": "أمس أو البارحة"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "What did you eat yesterday?",
+        "ar": "ماذا أكلت أمس؟",
+        "context": "للسؤال عن طعام اليوم السابق."
+      },
+      {
+        "id": 2,
+        "en": "What did you learn yesterday?",
+        "ar": "ماذا تعلمت أمس؟",
+        "context": "للسؤال عن تعلم سابق."
+      },
+      {
+        "id": 3,
+        "en": "What did you buy yesterday?",
+        "ar": "ماذا اشتريت أمس؟",
+        "context": "للسؤال عن شراء سابق."
+      },
+      {
+        "id": 4,
+        "en": "Where did you go yesterday?",
+        "ar": "إلى أين ذهبت أمس؟",
+        "context": "للسؤال عن مكان زرته."
+      },
+      {
+        "id": 5,
+        "en": "Who did you see yesterday?",
+        "ar": "من رأيت أمس؟",
+        "context": "للسؤال عن شخص قابلته."
+      },
+      {
+        "id": 6,
+        "en": "What did they do yesterday?",
+        "ar": "ماذا فعلوا أمس؟",
+        "context": "للسؤال عن نشاط مجموعة."
+      },
+      {
+        "id": 7,
+        "en": "What did you cook yesterday?",
+        "ar": "ماذا طبخت أمس؟",
+        "context": "للسؤال عن طعام تم تحضيره."
+      },
+      {
+        "id": 8,
+        "en": "What did you finish yesterday?",
+        "ar": "ماذا أنهيت أمس؟",
+        "context": "للسؤال عن إنجاز سابق."
+      },
+      {
+        "id": 9,
+        "en": "What did you watch yesterday?",
+        "ar": "ماذا شاهدت أمس؟",
+        "context": "للسؤال عن مشاهدة سابقة."
+      },
+      {
+        "id": 10,
+        "en": "What did you write yesterday?",
+        "ar": "ماذا كتبت أمس؟",
+        "context": "للسؤال عن كتابة حدثت أمس."
+      }
+    ]
+  }
+}

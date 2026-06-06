@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": 742,
+  "sentence": {
+    "en": "Do you have a problem?",
+    "ar": "هل لديك مشكلة؟",
+    "context": "السؤال عن وجود مشكلة لدى الشخص."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Do you have a problem?",
+        "ar": "هل لديك مشكلة؟",
+        "context": "سؤال لمعرفة إن كان الشخص يواجه صعوبة.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "يستخدم المضارع البسيط للسؤال عن حالة حالية، وتأتي Do لتكوين السؤال مع you."
+        },
+        "wordMeanings": [
+          {
+            "term": "Do",
+            "description": "أداة سؤال في المضارع البسيط"
+          },
+          {
+            "term": "you",
+            "description": "الشخص الذي تخاطبه"
+          },
+          {
+            "term": "have",
+            "description": "لديك أو عندك"
+          },
+          {
+            "term": "a",
+            "description": "واحدة غير محددة"
+          },
+          {
+            "term": "problem",
+            "description": "مشكلة أو صعوبة"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Do you have a question?",
+        "ar": "هل لديك سؤال؟",
+        "context": "للتأكد من فهم شخص للشرح."
+      },
+      {
+        "id": 2,
+        "en": "Do you have a complaint?",
+        "ar": "هل لديك شكوى؟",
+        "context": "في خدمة العملاء."
+      },
+      {
+        "id": 3,
+        "en": "Do you have a headache?",
+        "ar": "هل لديك صداع؟",
+        "context": "للسؤال عن ألم أو تعب."
+      },
+      {
+        "id": 4,
+        "en": "Do you have a solution?",
+        "ar": "هل لديك حل؟",
+        "context": "للسؤال عن طريقة لحل مشكلة."
+      },
+      {
+        "id": 5,
+        "en": "Do they have a problem?",
+        "ar": "هل لديهم مشكلة؟",
+        "context": "للسؤال عن أشخاص آخرين."
+      },
+      {
+        "id": 6,
+        "en": "Do you have any problem?",
+        "ar": "هل لديك أي مشكلة؟",
+        "context": "للسؤال بشكل عام عن وجود صعوبة."
+      },
+      {
+        "id": 7,
+        "en": "Do you have a problem with this?",
+        "ar": "هل لديك مشكلة مع هذا؟",
+        "context": "للسؤال عن اعتراض أو عدم ارتياح."
+      },
+      {
+        "id": 8,
+        "en": "Do you have a reason?",
+        "ar": "هل لديك سبب؟",
+        "context": "للسؤال عن مبرر موقف."
+      },
+      {
+        "id": 9,
+        "en": "Do you have a concern?",
+        "ar": "هل لديك قلق؟",
+        "context": "للسؤال عن خوف أو تردد."
+      },
+      {
+        "id": 10,
+        "en": "Do we have a problem?",
+        "ar": "هل لدينا مشكلة؟",
+        "context": "للتأكد من وجود خلاف أو صعوبة."
+      }
+    ]
+  }
+}

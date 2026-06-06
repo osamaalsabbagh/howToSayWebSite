@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": 912,
+  "sentence": {
+    "en": "I have never done that.",
+    "ar": "لم أفعل ذلك أبداً من قبل.",
+    "context": "تُستخدم للتعبير عن عدم وجود تجربة سابقة لدى المتكلم في أمر معين."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "I have never done that.",
+        "ar": "لم أفعل ذلك أبدا من قبل.",
+        "context": "جملة تنفي وجود تجربة سابقة حتى الآن.",
+        "grammar": {
+          "tense": "المضارع التام",
+          "tenseEn": "Present Perfect",
+          "reason": "يستخدم المضارع التام مع never للتحدث عن تجربة لم تحدث في أي وقت قبل الآن."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "أنا؛ المتكلم"
+          },
+          {
+            "term": "have",
+            "description": "أداة لتكوين المضارع التام"
+          },
+          {
+            "term": "never",
+            "description": "أبدا؛ تنفي حدوث الفعل"
+          },
+          {
+            "term": "done",
+            "description": "فعلت أو قمت بـ"
+          },
+          {
+            "term": "that",
+            "description": "ذلك الأمر أو الفعل"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I have never been there.",
+        "ar": "لم أذهب إلى هناك أبدا.",
+        "context": "لنفي تجربة زيارة."
+      },
+      {
+        "id": 2,
+        "en": "I have never tried that.",
+        "ar": "لم أجرب ذلك أبدا.",
+        "context": "لنفي تجربة شيء."
+      },
+      {
+        "id": 3,
+        "en": "Have you ever done that?",
+        "ar": "هل فعلت ذلك من قبل؟",
+        "context": "للسؤال عن تجربة."
+      },
+      {
+        "id": 4,
+        "en": "She has never done that.",
+        "ar": "هي لم تفعل ذلك أبدا.",
+        "context": "للتحدث عن شخص آخر."
+      },
+      {
+        "id": 5,
+        "en": "I have done that before.",
+        "ar": "لقد فعلت ذلك من قبل.",
+        "context": "لعكس المعنى."
+      },
+      {
+        "id": 6,
+        "en": "We have never seen it.",
+        "ar": "لم نره أبدا.",
+        "context": "لنفي تجربة رؤية."
+      },
+      {
+        "id": 7,
+        "en": "I have never eaten sushi.",
+        "ar": "لم آكل السوشي أبدا.",
+        "context": "لنفي تجربة طعام."
+      },
+      {
+        "id": 8,
+        "en": "They have never worked here.",
+        "ar": "لم يعملوا هنا أبدا.",
+        "context": "لنفي خبرة عمل."
+      },
+      {
+        "id": 9,
+        "en": "I have never heard that word.",
+        "ar": "لم أسمع تلك الكلمة أبدا.",
+        "context": "عند تعلم كلمة جديدة."
+      },
+      {
+        "id": 10,
+        "en": "He has never called me.",
+        "ar": "لم يتصل بي أبدا.",
+        "context": "لنفي حدوث اتصال."
+      }
+    ]
+  }
+}

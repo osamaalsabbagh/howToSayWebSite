@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "id": 786,
+  "sentence": {
+    "en": "What is the temperature?",
+    "ar": "ما درجة الحرارة؟",
+    "context": "السؤال عن درجة الحرارة الحالية."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "What is the temperature?",
+        "ar": "ما درجة الحرارة؟",
+        "context": "سؤال عن القياس الحالي للحرارة.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "الفعل is يسأل عن قيمة أو حالة حالية، وthe يحدد درجة الحرارة المقصودة."
+        },
+        "wordMeanings": [
+          {
+            "term": "What",
+            "description": "ما أو كم في هذا السؤال"
+          },
+          {
+            "term": "is",
+            "description": "يكون أو يساوي حاليا"
+          },
+          {
+            "term": "the",
+            "description": "تحدد الشيء المقصود"
+          },
+          {
+            "term": "temperature",
+            "description": "درجة الحرارة"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "What is the weather?",
+        "ar": "ما حالة الطقس؟",
+        "context": "للسؤال عن الطقس عموما."
+      },
+      {
+        "id": 2,
+        "en": "What is the temperature outside?",
+        "ar": "ما درجة الحرارة في الخارج؟",
+        "context": "للسؤال عن حرارة الخارج."
+      },
+      {
+        "id": 3,
+        "en": "What is the temperature today?",
+        "ar": "ما درجة الحرارة اليوم؟",
+        "context": "للسؤال عن طقس اليوم."
+      },
+      {
+        "id": 4,
+        "en": "What is the room temperature?",
+        "ar": "ما درجة حرارة الغرفة؟",
+        "context": "للسؤال عن حرارة داخلية."
+      },
+      {
+        "id": 5,
+        "en": "Is the temperature high?",
+        "ar": "هل درجة الحرارة عالية؟",
+        "context": "للسؤال عن شدة الحرارة."
+      },
+      {
+        "id": 6,
+        "en": "What is the temperature in Istanbul?",
+        "ar": "ما درجة الحرارة في إسطنبول؟",
+        "context": "للسؤال عن طقس مدينة."
+      },
+      {
+        "id": 7,
+        "en": "What is the temperature at night?",
+        "ar": "ما درجة الحرارة في الليل؟",
+        "context": "للسؤال عن حرارة وقت محدد."
+      },
+      {
+        "id": 8,
+        "en": "What is the water temperature?",
+        "ar": "ما درجة حرارة الماء؟",
+        "context": "للسؤال قبل السباحة أو الاستخدام."
+      },
+      {
+        "id": 9,
+        "en": "What is the temperature now?",
+        "ar": "ما درجة الحرارة الآن؟",
+        "context": "للسؤال عن الحرارة الحالية مباشرة."
+      },
+      {
+        "id": 10,
+        "en": "What is the temperature in summer?",
+        "ar": "ما درجة الحرارة في الصيف؟",
+        "context": "للسؤال عن طقس موسم."
+      }
+    ]
+  }
+}

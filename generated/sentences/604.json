@@ -1,0 +1,127 @@
+{
+  "schemaVersion": 1,
+  "id": 604,
+  "sentence": {
+    "en": "He said you like to watch movies.",
+    "ar": "قال إنك تحب مشاهدة الأفلام.",
+    "context": "نقل كلام عن اهتمام شخص بمشاهدة الأفلام."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "He said",
+        "ar": "قال هو",
+        "context": "هذا الجزء يقدم الكلام المنقول عن شخص آخر.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "استُخدم الماضي البسيط لأن فعل القول حدث في الماضي."
+        },
+        "wordMeanings": [
+          {
+            "term": "He",
+            "description": "ضمير يعني هو."
+          },
+          {
+            "term": "said",
+            "description": "قال أو ذكر في الماضي."
+          }
+        ]
+      },
+      {
+        "sentence": "you like to watch movies.",
+        "ar": "إنك تحب مشاهدة الأفلام.",
+        "context": "هذا الجزء يوضح المعلومة المنقولة عن اهتمام المخاطب.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُخدم المضارع البسيط لأن الجملة تصف تفضيلاً أو عادة عامة."
+        },
+        "wordMeanings": [
+          {
+            "term": "you",
+            "description": "أنت أو أنتم حسب السياق."
+          },
+          {
+            "term": "like",
+            "description": "تحب أو تفضل."
+          },
+          {
+            "term": "to",
+            "description": "تأتي قبل الفعل لتربطه بما يحبه الشخص."
+          },
+          {
+            "term": "watch",
+            "description": "تشاهد."
+          },
+          {
+            "term": "movies",
+            "description": "أفلام."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "She said you like music.",
+        "ar": "قالت إنك تحب الموسيقى.",
+        "context": "تستخدم لنقل كلام عن اهتمام شخص."
+      },
+      {
+        "id": 2,
+        "en": "He said you speak English.",
+        "ar": "قال إنك تتحدث الإنجليزية.",
+        "context": "تقال عند نقل معلومة عن قدرة لغوية."
+      },
+      {
+        "id": 3,
+        "en": "My brother said you like movies.",
+        "ar": "قال أخي إنك تحب الأفلام.",
+        "context": "تستخدم عند ذكر مصدر الكلام."
+      },
+      {
+        "id": 4,
+        "en": "She said I like to cook.",
+        "ar": "قالت إنني أحب الطبخ.",
+        "context": "تقال عند نقل كلام عن المتكلم."
+      },
+      {
+        "id": 5,
+        "en": "He said they like to travel.",
+        "ar": "قال إنهم يحبون السفر.",
+        "context": "تستخدم لنقل تفضيل مجموعة."
+      },
+      {
+        "id": 6,
+        "en": "You said he likes movies.",
+        "ar": "قلت إنّه يحب الأفلام.",
+        "context": "تقال لتذكير شخص بما قاله."
+      },
+      {
+        "id": 7,
+        "en": "He said you want to go.",
+        "ar": "قال إنك تريد الذهاب.",
+        "context": "تستخدم لنقل رغبة شخص."
+      },
+      {
+        "id": 8,
+        "en": "She said you watch movies every week.",
+        "ar": "قالت إنك تشاهد الأفلام كل أسبوع.",
+        "context": "تقال لنقل عادة مشاهدة."
+      },
+      {
+        "id": 9,
+        "en": "He told me you like concerts.",
+        "ar": "أخبرني أنك تحب الحفلات الموسيقية.",
+        "context": "تستخدم بصيغة أخرى لنقل كلام."
+      },
+      {
+        "id": 10,
+        "en": "They said we like good movies.",
+        "ar": "قالوا إننا نحب الأفلام الجيدة.",
+        "context": "تستخدم لنقل كلام عن مجموعة."
+      }
+    ]
+  }
+}

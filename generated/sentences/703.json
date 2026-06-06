@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "id": 703,
+  "sentence": {
+    "en": "I am a teacher.",
+    "ar": "أنا مدرس.",
+    "context": "الإفصاح عن المهنة."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "I am a teacher.",
+        "ar": "أنا مدرس.",
+        "context": "تستخدم للتعريف بمهنتك.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "الجملة تصف مهنة أو هوية حالية."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير يعني أنا."
+          },
+          {
+            "term": "am",
+            "description": "صيغة تأتي مع ضمير المتكلم وتربطه بوصفه."
+          },
+          {
+            "term": "a",
+            "description": "أداة تأتي قبل مهنة مفردة."
+          },
+          {
+            "term": "teacher",
+            "description": "مدرس أو معلم."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I am a doctor.",
+        "ar": "أنا طبيب.",
+        "context": "تقال للتعريف بمهنة أخرى."
+      },
+      {
+        "id": 2,
+        "en": "She is a teacher.",
+        "ar": "هي معلمة.",
+        "context": "تستخدم عن مهنة امرأة."
+      },
+      {
+        "id": 3,
+        "en": "Are you a teacher?",
+        "ar": "هل أنت مدرس؟",
+        "context": "تقال للسؤال عن المهنة."
+      },
+      {
+        "id": 4,
+        "en": "My father is a teacher.",
+        "ar": "والدي مدرس.",
+        "context": "تستخدم لذكر مهنة الأب."
+      },
+      {
+        "id": 5,
+        "en": "I am not a teacher.",
+        "ar": "أنا لست مدرساً.",
+        "context": "تقال لنفي المهنة."
+      },
+      {
+        "id": 6,
+        "en": "We are teachers.",
+        "ar": "نحن مدرسون.",
+        "context": "تستخدم عندما يتحدث أكثر من مدرس."
+      },
+      {
+        "id": 7,
+        "en": "He is an English teacher.",
+        "ar": "هو مدرس إنجليزي.",
+        "context": "تقال عند تحديد مادة التدريس."
+      },
+      {
+        "id": 8,
+        "en": "I work as a teacher.",
+        "ar": "أعمل مدرساً.",
+        "context": "تستخدم بصيغة أخرى للمهنة."
+      },
+      {
+        "id": 9,
+        "en": "My teacher is kind.",
+        "ar": "معلمي لطيف.",
+        "context": "تقال لوصف معلم."
+      },
+      {
+        "id": 10,
+        "en": "The teacher is here.",
+        "ar": "المعلم هنا.",
+        "context": "تستخدم للإخبار بوجود المعلم."
+      }
+    ]
+  }
+}

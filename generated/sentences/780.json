@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "id": 780,
+  "sentence": {
+    "en": "What do you think?",
+    "ar": "ما رأيك؟",
+    "context": "طلب رأي."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "What do you think?",
+        "ar": "ما رأيك؟",
+        "context": "سؤال مباشر لطلب رأي الشخص الآن.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "يستخدم المضارع البسيط مع think لطلب الرأي الحالي أو العام، وتأتي do لتكوين السؤال."
+        },
+        "wordMeanings": [
+          {
+            "term": "What",
+            "description": "ماذا أو ما"
+          },
+          {
+            "term": "do",
+            "description": "أداة سؤال في المضارع البسيط"
+          },
+          {
+            "term": "you",
+            "description": "الشخص المخاطب"
+          },
+          {
+            "term": "think",
+            "description": "تظن أو ترى برأيك"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "What do you think of this?",
+        "ar": "ما رأيك في هذا؟",
+        "context": "لطلب رأي في شيء قريب."
+      },
+      {
+        "id": 2,
+        "en": "What do you think about the plan?",
+        "ar": "ما رأيك في الخطة؟",
+        "context": "لطلب تقييم خطة."
+      },
+      {
+        "id": 3,
+        "en": "What does she think?",
+        "ar": "ما رأيها؟",
+        "context": "للسؤال عن رأي امرأة أو فتاة."
+      },
+      {
+        "id": 4,
+        "en": "What do they think?",
+        "ar": "ما رأيهم؟",
+        "context": "للسؤال عن رأي مجموعة."
+      },
+      {
+        "id": 5,
+        "en": "Do you think it is good?",
+        "ar": "هل تعتقد أنه جيد؟",
+        "context": "للسؤال عن تقييم شيء."
+      },
+      {
+        "id": 6,
+        "en": "What do you think we should do?",
+        "ar": "ما رأيك ماذا يجب أن نفعل؟",
+        "context": "لطلب اقتراح عملي."
+      },
+      {
+        "id": 7,
+        "en": "What do you think of my idea?",
+        "ar": "ما رأيك في فكرتي؟",
+        "context": "لطلب رأي في فكرة شخصية."
+      },
+      {
+        "id": 8,
+        "en": "What do you think of the color?",
+        "ar": "ما رأيك في اللون؟",
+        "context": "عند اختيار لون."
+      },
+      {
+        "id": 9,
+        "en": "What do you think of the price?",
+        "ar": "ما رأيك في السعر؟",
+        "context": "عند تقييم سعر منتج."
+      },
+      {
+        "id": 10,
+        "en": "What do you think now?",
+        "ar": "ما رأيك الآن؟",
+        "context": "بعد شرح أو تغيير معلومات."
+      }
+    ]
+  }
+}

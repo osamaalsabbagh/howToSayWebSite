@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "id": 815,
+  "sentence": {
+    "en": "Are you working today?",
+    "ar": "هل تعمل اليوم؟",
+    "context": "السؤال عما إذا كان لدى الشخص دوام اليوم."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Are you working today?",
+        "ar": "هل تعمل اليوم؟",
+        "context": "سؤال عن دوام أو عمل الشخص في هذا اليوم.",
+        "grammar": {
+          "tense": "المضارع المستمر",
+          "tenseEn": "Present Continuous",
+          "reason": "يستخدم المضارع المستمر للسؤال عن ترتيب مؤقت أو نشاط خلال اليوم الحالي."
+        },
+        "wordMeanings": [
+          {
+            "term": "Are",
+            "description": "صيغة مساعدة مع you في المضارع المستمر"
+          },
+          {
+            "term": "you",
+            "description": "الشخص المخاطب"
+          },
+          {
+            "term": "working",
+            "description": "تعمل أو لديك دوام"
+          },
+          {
+            "term": "today",
+            "description": "اليوم"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Are you working tomorrow?",
+        "ar": "هل تعمل غدا؟",
+        "context": "للسؤال عن دوام الغد."
+      },
+      {
+        "id": 2,
+        "en": "Are you working tonight?",
+        "ar": "هل تعمل الليلة؟",
+        "context": "للسؤال عن عمل ليلي."
+      },
+      {
+        "id": 3,
+        "en": "Is she working today?",
+        "ar": "هل تعمل اليوم؟",
+        "context": "للسؤال عن دوام امرأة."
+      },
+      {
+        "id": 4,
+        "en": "Are they working now?",
+        "ar": "هل يعملون الآن؟",
+        "context": "للسؤال عن نشاط حالي."
+      },
+      {
+        "id": 5,
+        "en": "Are you busy today?",
+        "ar": "هل أنت مشغول اليوم؟",
+        "context": "للسؤال عن توفر شخص."
+      },
+      {
+        "id": 6,
+        "en": "Are you studying today?",
+        "ar": "هل تدرس اليوم؟",
+        "context": "للسؤال عن نشاط دراسة."
+      },
+      {
+        "id": 7,
+        "en": "Are you working at home?",
+        "ar": "هل تعمل في البيت؟",
+        "context": "للسؤال عن مكان العمل."
+      },
+      {
+        "id": 8,
+        "en": "Are you working this weekend?",
+        "ar": "هل تعمل في نهاية هذا الأسبوع؟",
+        "context": "للسؤال عن دوام نهاية الأسبوع."
+      },
+      {
+        "id": 9,
+        "en": "Are you working late today?",
+        "ar": "هل تعمل لوقت متأخر اليوم؟",
+        "context": "للسؤال عن وقت العمل."
+      },
+      {
+        "id": 10,
+        "en": "Are you free today?",
+        "ar": "هل أنت متفرغ اليوم؟",
+        "context": "للسؤال عن عدم وجود دوام أو انشغال."
+      }
+    ]
+  }
+}

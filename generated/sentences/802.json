@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": 802,
+  "sentence": {
+    "en": "Who is it?",
+    "ar": "من المتصل؟",
+    "context": "السؤال عن هوية المتصل عبر الهاتف."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Who is it?",
+        "ar": "من هو؟",
+        "context": "سؤال عن هوية شخص غير مرئي، مثل المتصل أو الطارق.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "الفعل is يربط الضمير it بالهوية المطلوبة، ويستخدم it عندما لا تعرف الشخص بعد."
+        },
+        "wordMeanings": [
+          {
+            "term": "Who",
+            "description": "من؛ للسؤال عن الهوية"
+          },
+          {
+            "term": "is",
+            "description": "يكون أو هو"
+          },
+          {
+            "term": "it",
+            "description": "تستخدم لشخص غير معروف في الهاتف أو عند الباب"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Who is calling?",
+        "ar": "من يتصل؟",
+        "context": "عند تلقي مكالمة."
+      },
+      {
+        "id": 2,
+        "en": "Who is there?",
+        "ar": "من هناك؟",
+        "context": "عند سماع شخص عند الباب."
+      },
+      {
+        "id": 3,
+        "en": "Who is at the door?",
+        "ar": "من عند الباب؟",
+        "context": "عند سماع طرق."
+      },
+      {
+        "id": 4,
+        "en": "Who is this?",
+        "ar": "من هذا؟",
+        "context": "للسؤال عن هوية شخص قريب."
+      },
+      {
+        "id": 5,
+        "en": "Who is that?",
+        "ar": "من ذلك؟",
+        "context": "للسؤال عن شخص أبعد."
+      },
+      {
+        "id": 6,
+        "en": "Is it your brother?",
+        "ar": "هل هو أخوك؟",
+        "context": "للتخمين عن هوية شخص."
+      },
+      {
+        "id": 7,
+        "en": "Is it the driver?",
+        "ar": "هل هو السائق؟",
+        "context": "عند انتظار سائق."
+      },
+      {
+        "id": 8,
+        "en": "Who is on the phone?",
+        "ar": "من على الهاتف؟",
+        "context": "للسؤال عن المتصل."
+      },
+      {
+        "id": 9,
+        "en": "Who is speaking?",
+        "ar": "من يتحدث؟",
+        "context": "في مكالمة أو اجتماع صوتي."
+      },
+      {
+        "id": 10,
+        "en": "Who is it for?",
+        "ar": "لمن هذا؟",
+        "context": "للسؤال عن الشخص المقصود بشيء."
+      }
+    ]
+  }
+}

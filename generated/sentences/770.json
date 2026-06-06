@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "id": 770,
+  "sentence": {
+    "en": "Were there any problems?",
+    "ar": "هل كانت هناك أي مشاكل؟",
+    "context": "السؤال عن حدوث مشاكل."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Were there any problems?",
+        "ar": "هل كانت هناك أي مشاكل؟",
+        "context": "سؤال عن وجود مشاكل في وقت سابق.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "تستخدم were مع there للسؤال عن وجود شيء في الماضي، وكلمة any مناسبة في السؤال."
+        },
+        "wordMeanings": [
+          {
+            "term": "Were",
+            "description": "كانت؛ صيغة ماضية مع الجمع أو تركيب الوجود"
+          },
+          {
+            "term": "there",
+            "description": "تستخدم مع were للسؤال عن وجود شيء"
+          },
+          {
+            "term": "any",
+            "description": "أي؛ تستخدم غالبا في الأسئلة"
+          },
+          {
+            "term": "problems",
+            "description": "مشاكل أو صعوبات"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Were there any questions?",
+        "ar": "هل كانت هناك أي أسئلة؟",
+        "context": "بعد شرح أو اجتماع."
+      },
+      {
+        "id": 2,
+        "en": "Were there any delays?",
+        "ar": "هل كانت هناك أي تأخيرات؟",
+        "context": "للسؤال عن رحلة أو عمل."
+      },
+      {
+        "id": 3,
+        "en": "Were there any mistakes?",
+        "ar": "هل كانت هناك أي أخطاء؟",
+        "context": "بعد مراجعة عمل."
+      },
+      {
+        "id": 4,
+        "en": "Were there any complaints?",
+        "ar": "هل كانت هناك أي شكاوى؟",
+        "context": "في خدمة العملاء."
+      },
+      {
+        "id": 5,
+        "en": "Were there any changes?",
+        "ar": "هل كانت هناك أي تغييرات؟",
+        "context": "للسؤال عن تحديثات سابقة."
+      },
+      {
+        "id": 6,
+        "en": "Were you late?",
+        "ar": "هل كنت متأخرا؟",
+        "context": "للسؤال عن موقف في الماضي."
+      },
+      {
+        "id": 7,
+        "en": "Were they ready?",
+        "ar": "هل كانوا جاهزين؟",
+        "context": "للسؤال عن حالة مجموعة سابقا."
+      },
+      {
+        "id": 8,
+        "en": "Was there a problem?",
+        "ar": "هل كانت هناك مشكلة؟",
+        "context": "للسؤال عن مشكلة واحدة."
+      },
+      {
+        "id": 9,
+        "en": "Were there many people?",
+        "ar": "هل كان هناك كثير من الناس؟",
+        "context": "للسؤال عن حضور سابق."
+      },
+      {
+        "id": 10,
+        "en": "Were there enough chairs?",
+        "ar": "هل كانت هناك كراس كافية؟",
+        "context": "بعد مناسبة أو اجتماع."
+      }
+    ]
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "id": 905,
+  "sentence": {
+    "en": "Is this your book?",
+    "ar": "هل هذا كتابك؟",
+    "context": "تُستخدم للسؤال عمّا إذا كان هذا الكتاب يخص الشخص الآخر."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Is this your book?",
+        "ar": "هل هذا كتابك؟",
+        "context": "سؤال عن ملكية كتاب قريب.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "الفعل is يربط الشيء القريب بصاحبه المحتمل في الحاضر."
+        },
+        "wordMeanings": [
+          {
+            "term": "Is",
+            "description": "هل يكون أو هل هذا"
+          },
+          {
+            "term": "this",
+            "description": "هذا الشيء القريب"
+          },
+          {
+            "term": "your",
+            "description": "الخاص بك"
+          },
+          {
+            "term": "book",
+            "description": "كتاب"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Is this your phone?",
+        "ar": "هل هذا هاتفك؟",
+        "context": "للسؤال عن ملكية هاتف."
+      },
+      {
+        "id": 2,
+        "en": "Is this your bag?",
+        "ar": "هل هذه حقيبتك؟",
+        "context": "للسؤال عن حقيبة."
+      },
+      {
+        "id": 3,
+        "en": "Is that your book?",
+        "ar": "هل ذلك كتابك؟",
+        "context": "للسؤال عن شيء أبعد."
+      },
+      {
+        "id": 4,
+        "en": "This is my book.",
+        "ar": "هذا كتابي.",
+        "context": "للإجابة عن الملكية."
+      },
+      {
+        "id": 5,
+        "en": "Is this his book?",
+        "ar": "هل هذا كتابه؟",
+        "context": "للسؤال عن ملكية شخص آخر."
+      },
+      {
+        "id": 6,
+        "en": "Where is your book?",
+        "ar": "أين كتابك؟",
+        "context": "للسؤال عن مكان الكتاب."
+      },
+      {
+        "id": 7,
+        "en": "Is this your notebook?",
+        "ar": "هل هذا دفتر ملاحظاتك؟",
+        "context": "للسؤال عن دفتر."
+      },
+      {
+        "id": 8,
+        "en": "Is this yours?",
+        "ar": "هل هذا لك؟",
+        "context": "سؤال عام عن الملكية."
+      },
+      {
+        "id": 9,
+        "en": "Do you need your book?",
+        "ar": "هل تحتاج كتابك؟",
+        "context": "للسؤال عن الحاجة إليه."
+      },
+      {
+        "id": 10,
+        "en": "This is not your book.",
+        "ar": "هذا ليس كتابك.",
+        "context": "لنفي الملكية."
+      }
+    ]
+  }
+}

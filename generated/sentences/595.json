@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "id": 595,
+  "sentence": {
+    "en": "Who sent this message?",
+    "ar": "من أرسل هذه الرسالة؟",
+    "context": "السؤال عن مرسل رسالة نصية أو رسالة إلكترونية."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Who sent this message?",
+        "ar": "من أرسل هذه الرسالة؟",
+        "context": "تستخدم للسؤال عن الشخص الذي أرسل رسالة نصية أو إلكترونية.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "السؤال عن فعل إرسال اكتمل قبل لحظة السؤال."
+        },
+        "wordMeanings": [
+          {
+            "term": "Who",
+            "description": "من، وتستخدم للسؤال عن شخص."
+          },
+          {
+            "term": "sent",
+            "description": "أرسل، فعل في الماضي."
+          },
+          {
+            "term": "this",
+            "description": "هذه أو هذا، وتشير إلى شيء محدد قريب."
+          },
+          {
+            "term": "message",
+            "description": "رسالة، وغالباً تكون نصية أو إلكترونية."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Who sent this email?",
+        "ar": "من أرسل هذا البريد الإلكتروني؟",
+        "context": "تقال للسؤال عن مرسل بريد إلكتروني."
+      },
+      {
+        "id": 2,
+        "en": "Who sent this text?",
+        "ar": "من أرسل هذه الرسالة النصية؟",
+        "context": "تستخدم للسؤال عن مرسل رسالة هاتفية."
+      },
+      {
+        "id": 3,
+        "en": "My brother sent this message.",
+        "ar": "أرسل أخي هذه الرسالة.",
+        "context": "تقال للإجابة عن مرسل الرسالة."
+      },
+      {
+        "id": 4,
+        "en": "Who wrote this message?",
+        "ar": "من كتب هذه الرسالة؟",
+        "context": "تستخدم للسؤال عن كاتب رسالة."
+      },
+      {
+        "id": 5,
+        "en": "She sent a message this morning.",
+        "ar": "أرسلت رسالة هذا الصباح.",
+        "context": "تقال عن رسالة أرسلت في وقت سابق اليوم."
+      },
+      {
+        "id": 6,
+        "en": "Who received this message?",
+        "ar": "من استلم هذه الرسالة؟",
+        "context": "تستخدم للسؤال عن المستلم."
+      },
+      {
+        "id": 7,
+        "en": "He sent me a message.",
+        "ar": "أرسل لي رسالة.",
+        "context": "تقال عند الحديث عن رسالة وصلت إليك."
+      },
+      {
+        "id": 8,
+        "en": "Who sent this message to you?",
+        "ar": "من أرسل هذه الرسالة إليك؟",
+        "context": "تستخدم لتأكيد الشخص المرسل للمخاطب."
+      },
+      {
+        "id": 9,
+        "en": "They sent a message to the teacher.",
+        "ar": "أرسلوا رسالة إلى المعلم.",
+        "context": "تقال عن إرسال رسالة لشخص محدد."
+      },
+      {
+        "id": 10,
+        "en": "Who deleted this message?",
+        "ar": "من حذف هذه الرسالة؟",
+        "context": "تستخدم للسؤال عن فعل حدث للرسالة."
+      }
+    ]
+  }
+}

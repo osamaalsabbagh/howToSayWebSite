@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "id": 496,
+  "sentence": {
+    "en": "Which one?",
+    "ar": "أي واحد؟",
+    "context": "طلب التوضيح عند وجود عدة اختيارات."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Which one?",
+        "ar": "أي واحد؟",
+        "context": "سؤال مختصر لطلب تحديد خيار من عدة خيارات.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه عبارة سؤال مختصرة بلا فعل، لذلك لا تحمل زمنًا مستقلًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "Which",
+            "description": "تسأل عن اختيار محدد من بين عدة خيارات."
+          },
+          {
+            "term": "one",
+            "description": "تعني واحدًا أو خيارًا واحدًا."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Which one do you want?",
+        "ar": "أي واحد تريد؟",
+        "context": "طلب تحديد خيار."
+      },
+      {
+        "id": 2,
+        "en": "Which one is cheaper?",
+        "ar": "أي واحد أرخص؟",
+        "context": "المقارنة بين خيارات."
+      },
+      {
+        "id": 3,
+        "en": "I want this one.",
+        "ar": "أريد هذا الواحد.",
+        "context": "الإشارة إلى خيار محدد."
+      },
+      {
+        "id": 4,
+        "en": "Which one is yours?",
+        "ar": "أي واحد لك؟",
+        "context": "السؤال عن ملكية خيار."
+      },
+      {
+        "id": 5,
+        "en": "Choose one, please.",
+        "ar": "اختر واحدًا من فضلك.",
+        "context": "طلب اختيار واحد."
+      },
+      {
+        "id": 6,
+        "en": "Which one tastes better?",
+        "ar": "أي واحد طعمه أفضل؟",
+        "context": "مقارنة في الطعم."
+      },
+      {
+        "id": 7,
+        "en": "This one is mine.",
+        "ar": "هذا الواحد لي.",
+        "context": "تحديد الملكية."
+      },
+      {
+        "id": 8,
+        "en": "Which one should I buy?",
+        "ar": "أي واحد يجب أن أشتري؟",
+        "context": "طلب نصيحة في الشراء."
+      },
+      {
+        "id": 9,
+        "en": "Which one is near the door?",
+        "ar": "أي واحد قرب الباب؟",
+        "context": "تحديد خيار بحسب المكان."
+      },
+      {
+        "id": 10,
+        "en": "I do not know which one.",
+        "ar": "لا أعرف أي واحد.",
+        "context": "التعبير عن عدم القدرة على الاختيار."
+      }
+    ]
+  }
+}

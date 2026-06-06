@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "id": 820,
+  "sentence": {
+    "en": "He is an Engineer.",
+    "ar": "هو مهندس.",
+    "context": "توضيح مهنة شخص ما."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "He is an Engineer.",
+        "ar": "هو مهندس.",
+        "context": "جملة تخبر عن مهنة شخص.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "الفعل is يربط الضمير he بالمهنة الحالية أو الصفة التعريفية."
+        },
+        "wordMeanings": [
+          {
+            "term": "He",
+            "description": "هو؛ رجل أو ولد"
+          },
+          {
+            "term": "is",
+            "description": "يكون أو هو"
+          },
+          {
+            "term": "an",
+            "description": "أداة نكرة قبل كلمة تبدأ بصوت متحرك"
+          },
+          {
+            "term": "Engineer",
+            "description": "مهندس"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "He is a doctor.",
+        "ar": "هو طبيب.",
+        "context": "لذكر مهنة رجل."
+      },
+      {
+        "id": 2,
+        "en": "She is an engineer.",
+        "ar": "هي مهندسة.",
+        "context": "لذكر مهنة امرأة."
+      },
+      {
+        "id": 3,
+        "en": "He is a teacher.",
+        "ar": "هو معلم.",
+        "context": "للتعريف بوظيفة شخص."
+      },
+      {
+        "id": 4,
+        "en": "My brother is an engineer.",
+        "ar": "أخي مهندس.",
+        "context": "لذكر مهنة قريب."
+      },
+      {
+        "id": 5,
+        "en": "He is an artist.",
+        "ar": "هو فنان.",
+        "context": "لذكر عمل إبداعي."
+      },
+      {
+        "id": 6,
+        "en": "He is a student.",
+        "ar": "هو طالب.",
+        "context": "للتعريف بوضع شخص."
+      },
+      {
+        "id": 7,
+        "en": "They are engineers.",
+        "ar": "هم مهندسون.",
+        "context": "لذكر مهنة مجموعة."
+      },
+      {
+        "id": 8,
+        "en": "Is he an engineer?",
+        "ar": "هل هو مهندس؟",
+        "context": "للسؤال عن مهنة."
+      },
+      {
+        "id": 9,
+        "en": "He is a computer engineer.",
+        "ar": "هو مهندس حاسوب.",
+        "context": "لتحديد نوع الهندسة."
+      },
+      {
+        "id": 10,
+        "en": "Her father is an engineer.",
+        "ar": "والدها مهندس.",
+        "context": "لذكر مهنة والد شخص."
+      }
+    ]
+  }
+}

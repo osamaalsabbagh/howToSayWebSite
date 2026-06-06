@@ -1,0 +1,123 @@
+{
+  "schemaVersion": 1,
+  "id": 680,
+  "sentence": {
+    "en": "Sorry, I did not hear clearly.",
+    "ar": "عذرًا، لم أسمع بوضوح.",
+    "context": "الاعتذار بسبب عدم سماع الكلام بوضوح."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Sorry,",
+        "ar": "عذراً،",
+        "context": "تستخدم للبدء باعتذار قبل توضيح المشكلة.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه كلمة اعتذار وليست جملة ذات زمن."
+        },
+        "wordMeanings": [
+          {
+            "term": "Sorry",
+            "description": "عذراً أو آسف."
+          }
+        ]
+      },
+      {
+        "sentence": "I did not hear clearly.",
+        "ar": "لم أسمع بوضوح.",
+        "context": "توضح أن المتكلم لم يسمع الكلام السابق جيداً.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "الجملة تتحدث عن عدم سماع حدث في الماضي القريب."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير يعني أنا."
+          },
+          {
+            "term": "did",
+            "description": "كلمة مساعدة تُستخدم مع النفي في الماضي."
+          },
+          {
+            "term": "not",
+            "description": "أداة نفي."
+          },
+          {
+            "term": "hear",
+            "description": "أسمع."
+          },
+          {
+            "term": "clearly",
+            "description": "بوضوح."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Sorry, I did not understand.",
+        "ar": "عذراً، لم أفهم.",
+        "context": "تقال عند عدم فهم الكلام."
+      },
+      {
+        "id": 2,
+        "en": "I did not hear you.",
+        "ar": "لم أسمعك.",
+        "context": "تستخدم عند عدم سماع المخاطب."
+      },
+      {
+        "id": 3,
+        "en": "Sorry, can you say that again?",
+        "ar": "عذراً، هل يمكنك قول ذلك مرة أخرى؟",
+        "context": "تقال بعد عدم السماع."
+      },
+      {
+        "id": 4,
+        "en": "I cannot hear you clearly.",
+        "ar": "لا أستطيع سماعك بوضوح.",
+        "context": "تستخدم أثناء استمرار مشكلة الصوت."
+      },
+      {
+        "id": 5,
+        "en": "Sorry, I heard something else.",
+        "ar": "عذراً، سمعت شيئاً آخر.",
+        "context": "تقال عند سوء السماع."
+      },
+      {
+        "id": 6,
+        "en": "We did not hear clearly.",
+        "ar": "لم نسمع بوضوح.",
+        "context": "تستخدم عندما لم تسمع مجموعة."
+      },
+      {
+        "id": 7,
+        "en": "Please speak more loudly.",
+        "ar": "من فضلك تحدث بصوت أعلى.",
+        "context": "تقال لتحسين السماع."
+      },
+      {
+        "id": 8,
+        "en": "Sorry, what did you say?",
+        "ar": "عذراً، ماذا قلت؟",
+        "context": "تستخدم لطلب تكرار الكلام."
+      },
+      {
+        "id": 9,
+        "en": "I did not hear the question.",
+        "ar": "لم أسمع السؤال.",
+        "context": "تقال في درس أو اجتماع."
+      },
+      {
+        "id": 10,
+        "en": "She did not hear clearly.",
+        "ar": "هي لم تسمع بوضوح.",
+        "context": "تستخدم عن شخص آخر."
+      }
+    ]
+  }
+}

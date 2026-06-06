@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": 509,
+  "sentence": {
+    "en": "Are you hungry?",
+    "ar": "هل أنت جائع؟",
+    "context": "السؤال عن شعور الجوع لدى الشخص."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Are you hungry?",
+        "ar": "هل أنت جائع؟",
+        "context": "سؤال عن شعور الشخص بالجوع الآن.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "Are يصف حالة شعورية حالية."
+        },
+        "wordMeanings": [
+          {
+            "term": "Are",
+            "description": "تستخدم للسؤال عن الحالة."
+          },
+          {
+            "term": "you",
+            "description": "تشير إلى المخاطب."
+          },
+          {
+            "term": "hungry",
+            "description": "تعني جائع أو بحاجة إلى الطعام."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I am hungry.",
+        "ar": "أنا جائع.",
+        "context": "إخبار عن الجوع."
+      },
+      {
+        "id": 2,
+        "en": "Are you thirsty?",
+        "ar": "هل أنت عطشان؟",
+        "context": "سؤال عن شعور مشابه."
+      },
+      {
+        "id": 3,
+        "en": "She is hungry now.",
+        "ar": "هي جائعة الآن.",
+        "context": "وصف حالة شخص."
+      },
+      {
+        "id": 4,
+        "en": "We are not hungry.",
+        "ar": "نحن لسنا جائعين.",
+        "context": "نفي الجوع."
+      },
+      {
+        "id": 5,
+        "en": "Are the children hungry?",
+        "ar": "هل الأطفال جائعون؟",
+        "context": "سؤال عن الأطفال."
+      },
+      {
+        "id": 6,
+        "en": "He is very hungry.",
+        "ar": "هو جائع جدًا.",
+        "context": "تأكيد شدة الجوع."
+      },
+      {
+        "id": 7,
+        "en": "I am hungry after work.",
+        "ar": "أنا جائع بعد العمل.",
+        "context": "ذكر وقت الشعور بالجوع."
+      },
+      {
+        "id": 8,
+        "en": "Are you hungry for lunch?",
+        "ar": "هل أنت جائع للغداء؟",
+        "context": "سؤال قبل وجبة."
+      },
+      {
+        "id": 9,
+        "en": "They are hungry and tired.",
+        "ar": "هم جائعون ومتعبون.",
+        "context": "وصف حالتين."
+      },
+      {
+        "id": 10,
+        "en": "The food is ready if you are hungry.",
+        "ar": "الطعام جاهز إذا كنت جائعًا.",
+        "context": "عرض الطعام عند الجوع."
+      }
+    ]
+  }
+}

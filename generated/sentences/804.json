@@ -1,0 +1,111 @@
+{
+  "schemaVersion": 1,
+  "id": 804,
+  "sentence": {
+    "en": "Who is that man over there?",
+    "ar": "من ذلك الرجل هناك؟",
+    "context": "السؤال عن هوية رجل معين في مكان بعيد مع إشارة ضمنية للمكان."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Who is that man over there?",
+        "ar": "من ذلك الرجل هناك؟",
+        "context": "سؤال عن هوية رجل بعيد أو مشار إليه.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "الفعل is يربط الشخص المشار إليه بهويته، وover there تحدد مكانه البعيد نسبيا."
+        },
+        "wordMeanings": [
+          {
+            "term": "Who",
+            "description": "من؛ للسؤال عن الهوية"
+          },
+          {
+            "term": "is",
+            "description": "يكون أو هو"
+          },
+          {
+            "term": "that",
+            "description": "ذلك؛ لشخص أبعد أو مشار إليه"
+          },
+          {
+            "term": "man",
+            "description": "رجل"
+          },
+          {
+            "term": "over",
+            "description": "هناك في ذلك الاتجاه ضمن التعبير"
+          },
+          {
+            "term": "there",
+            "description": "هناك؛ مكان بعيد نسبيا"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Who is that woman over there?",
+        "ar": "من تلك المرأة هناك؟",
+        "context": "للسؤال عن امرأة بعيدة."
+      },
+      {
+        "id": 2,
+        "en": "Who is that boy?",
+        "ar": "من ذلك الولد؟",
+        "context": "للسؤال عن هوية ولد."
+      },
+      {
+        "id": 3,
+        "en": "Who is that girl?",
+        "ar": "من تلك الفتاة؟",
+        "context": "للسؤال عن هوية فتاة."
+      },
+      {
+        "id": 4,
+        "en": "Who is the man near the door?",
+        "ar": "من الرجل قرب الباب؟",
+        "context": "لتحديد شخص بمكانه."
+      },
+      {
+        "id": 5,
+        "en": "Who is sitting over there?",
+        "ar": "من يجلس هناك؟",
+        "context": "للسؤال عن شخص جالس."
+      },
+      {
+        "id": 6,
+        "en": "Who is standing there?",
+        "ar": "من يقف هناك؟",
+        "context": "للسؤال عن شخص واقف."
+      },
+      {
+        "id": 7,
+        "en": "Who is that man with your father?",
+        "ar": "من ذلك الرجل مع والدك؟",
+        "context": "للسؤال عن شخص مع معروف."
+      },
+      {
+        "id": 8,
+        "en": "Who is that man in the suit?",
+        "ar": "من ذلك الرجل بالبدلة؟",
+        "context": "لتحديد شخص بملابسه."
+      },
+      {
+        "id": 9,
+        "en": "Who is that person?",
+        "ar": "من ذلك الشخص؟",
+        "context": "للسؤال العام عن شخص."
+      },
+      {
+        "id": 10,
+        "en": "Who is over there?",
+        "ar": "من هناك؟",
+        "context": "للسؤال عن شخص في مكان بعيد."
+      }
+    ]
+  }
+}

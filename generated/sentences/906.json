@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "id": 906,
+  "sentence": {
+    "en": "I still have to brush my teeth and take a shower.",
+    "ar": "لا زال علي أن أنظف أسناني وآخذ دش.",
+    "context": "تُستخدم للتعبير عن أن هناك مهام نظافة شخصية لم تُنجز بعد."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "I still have to brush my teeth",
+        "ar": "لا يزال علي أن أنظف أسناني",
+        "context": "جزء يوضح مهمة نظافة شخصية ما زالت مطلوبة.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "have to يدل على واجب أو ضرورة، وstill يوضح أن المهمة لم تنجز بعد."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "أنا؛ المتكلم"
+          },
+          {
+            "term": "still",
+            "description": "ما زلت أو لا يزال"
+          },
+          {
+            "term": "have",
+            "description": "جزء من تعبير يدل على الوجوب"
+          },
+          {
+            "term": "to",
+            "description": "تكمل تعبير have to"
+          },
+          {
+            "term": "brush",
+            "description": "أنظف بالفرشاة"
+          },
+          {
+            "term": "my",
+            "description": "خاصتي أو يخصني"
+          },
+          {
+            "term": "teeth",
+            "description": "أسنان"
+          }
+        ]
+      },
+      {
+        "sentence": "and take a shower.",
+        "ar": "وآخذ دشا.",
+        "context": "جزء يضيف مهمة ثانية يجب إنجازها.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذا جزء معطوف على الفعل السابق ضمن قائمة مهام، ولا يحمل زمنا مستقلا."
+        },
+        "wordMeanings": [
+          {
+            "term": "and",
+            "description": "و؛ تربط بين مهمتين"
+          },
+          {
+            "term": "take",
+            "description": "آخذ أو أقوم بـ في تعبير الاستحمام"
+          },
+          {
+            "term": "a",
+            "description": "أداة نكرة لشيء واحد"
+          },
+          {
+            "term": "shower",
+            "description": "دش أو استحمام"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I still have to take a shower.",
+        "ar": "لا يزال علي أن آخذ دشا.",
+        "context": "لذكر مهمة متبقية."
+      },
+      {
+        "id": 2,
+        "en": "I still have to brush my teeth.",
+        "ar": "لا يزال علي أن أنظف أسناني.",
+        "context": "قبل الخروج أو النوم."
+      },
+      {
+        "id": 3,
+        "en": "I have to wash my face.",
+        "ar": "يجب أن أغسل وجهي.",
+        "context": "لذكر مهمة نظافة."
+      },
+      {
+        "id": 4,
+        "en": "She still has to get ready.",
+        "ar": "لا يزال عليها أن تستعد.",
+        "context": "للتحدث عن شخص آخر."
+      },
+      {
+        "id": 5,
+        "en": "We still have to pack.",
+        "ar": "لا يزال علينا أن نحزم الأمتعة.",
+        "context": "قبل السفر."
+      },
+      {
+        "id": 6,
+        "en": "I need to take a shower.",
+        "ar": "أحتاج إلى أخذ دش.",
+        "context": "للتعبير عن حاجة شخصية."
+      },
+      {
+        "id": 7,
+        "en": "I have to brush my teeth before bed.",
+        "ar": "يجب أن أنظف أسناني قبل النوم.",
+        "context": "لذكر روتين يومي."
+      },
+      {
+        "id": 8,
+        "en": "I still have to change my clothes.",
+        "ar": "لا يزال علي أن أغير ملابسي.",
+        "context": "قبل الخروج."
+      },
+      {
+        "id": 9,
+        "en": "Do you still have to shower?",
+        "ar": "هل لا يزال عليك أن تستحم؟",
+        "context": "للسؤال عن مهمة متبقية."
+      },
+      {
+        "id": 10,
+        "en": "I still have two things to do.",
+        "ar": "لا يزال لدي شيئان لأفعلهما.",
+        "context": "للتعبير عن مهام باقية."
+      }
+    ]
+  }
+}

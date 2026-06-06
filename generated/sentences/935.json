@@ -1,0 +1,127 @@
+{
+  "schemaVersion": 1,
+  "id": 935,
+  "sentence": {
+    "en": "Sorry, I do not have a pencil.",
+    "ar": "عذرًا، ليس لدي قلم رصاص.",
+    "context": "تُستخدم للاعتذار عند عدم امتلاك قلم رصاص عندما يطلبه أحدهم."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Sorry",
+        "ar": "عذرًا",
+        "context": "كلمة اعتذار قصيرة قبل شرح السبب.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه كلمة اعتذار ثابتة وليست جملة ذات زمن."
+        },
+        "wordMeanings": [
+          {
+            "term": "Sorry",
+            "description": "عذرًا أو آسف، وتُستخدم للاعتذار"
+          }
+        ]
+      },
+      {
+        "sentence": "I do not have a pencil",
+        "ar": "ليس لدي قلم رصاص",
+        "context": "هذا الجزء يوضح سبب الاعتذار وهو عدم امتلاك القلم.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُخدم المضارع البسيط للتعبير عن حالة حالية وهي عدم امتلاك القلم."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير يشير إلى المتكلم"
+          },
+          {
+            "term": "do",
+            "description": "تُستخدم هنا للمساعدة في تكوين النفي مع المضارع"
+          },
+          {
+            "term": "not",
+            "description": "أداة نفي"
+          },
+          {
+            "term": "have",
+            "description": "أملك أو لدي"
+          },
+          {
+            "term": "a",
+            "description": "أداة تشير إلى شيء واحد غير محدد"
+          },
+          {
+            "term": "pencil",
+            "description": "قلم رصاص"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Sorry, I do not have a pen.",
+        "ar": "عذرًا، ليس لدي قلم.",
+        "context": "تُستخدم عند عدم القدرة على إعارة قلم."
+      },
+      {
+        "id": 2,
+        "en": "Sorry, I do not have my phone.",
+        "ar": "عذرًا، ليس لدي هاتفي.",
+        "context": "تُستخدم عند عدم توفر الهاتف معك."
+      },
+      {
+        "id": 3,
+        "en": "Sorry, I do not have enough money.",
+        "ar": "عذرًا، ليس لدي مال كاف.",
+        "context": "تُستخدم عند عدم القدرة على الدفع."
+      },
+      {
+        "id": 4,
+        "en": "Sorry, I do not have the key.",
+        "ar": "عذرًا، ليس لدي المفتاح.",
+        "context": "تُستخدم عند عدم القدرة على فتح مكان."
+      },
+      {
+        "id": 5,
+        "en": "Sorry, I do not have time.",
+        "ar": "عذرًا، ليس لدي وقت.",
+        "context": "تُستخدم عند رفض طلب بسبب الانشغال."
+      },
+      {
+        "id": 6,
+        "en": "Sorry, I do not have your book.",
+        "ar": "عذرًا، ليس لدي كتابك.",
+        "context": "تُستخدم عند سؤال شخص عن كتابه."
+      },
+      {
+        "id": 7,
+        "en": "Sorry, I do not have a ticket.",
+        "ar": "عذرًا، ليس لدي تذكرة.",
+        "context": "تُستخدم عند الدخول أو السفر بدون تذكرة."
+      },
+      {
+        "id": 8,
+        "en": "Sorry, I do not have change.",
+        "ar": "عذرًا، ليس لدي فكة.",
+        "context": "تُستخدم عند الدفع نقدًا."
+      },
+      {
+        "id": 9,
+        "en": "Sorry, I do not have the address.",
+        "ar": "عذرًا، ليس لدي العنوان.",
+        "context": "تُستخدم عند عدم معرفة مكان."
+      },
+      {
+        "id": 10,
+        "en": "Sorry, I do not have an answer.",
+        "ar": "عذرًا، ليس لدي إجابة.",
+        "context": "تُستخدم عند عدم معرفة الرد."
+      }
+    ]
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": 603,
+  "sentence": {
+    "en": "Have you seen this movie?",
+    "ar": "هل شاهدت هذا الفيلم؟",
+    "context": "السؤال عن مشاهدة فيلم معين."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Have you seen this movie?",
+        "ar": "هل شاهدت هذا الفيلم؟",
+        "context": "تستخدم للسؤال عن تجربة مشاهدة فيلم معين قبل الآن.",
+        "grammar": {
+          "tense": "المضارع التام",
+          "tenseEn": "Present Perfect",
+          "reason": "السؤال عن تجربة سابقة لها علاقة بالحاضر دون تحديد وقت المشاهدة."
+        },
+        "wordMeanings": [
+          {
+            "term": "Have",
+            "description": "كلمة مساعدة لبناء سؤال عن تجربة حدثت قبل الآن."
+          },
+          {
+            "term": "you",
+            "description": "أنت أو أنتم حسب السياق."
+          },
+          {
+            "term": "seen",
+            "description": "شاهدت أو رأيت، وتدل هنا على مشاهدة فيلم."
+          },
+          {
+            "term": "this",
+            "description": "هذا، وتشير إلى فيلم محدد."
+          },
+          {
+            "term": "movie",
+            "description": "فيلم."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Have you seen this show?",
+        "ar": "هل شاهدت هذا العرض؟",
+        "context": "تقال للسؤال عن تجربة مشاهدة عرض."
+      },
+      {
+        "id": 2,
+        "en": "I have seen this movie twice.",
+        "ar": "شاهدت هذا الفيلم مرتين.",
+        "context": "تستخدم لذكر تكرار المشاهدة."
+      },
+      {
+        "id": 3,
+        "en": "She has seen that movie.",
+        "ar": "لقد شاهدت ذلك الفيلم.",
+        "context": "تقال عن تجربة مشاهدة لدى امرأة."
+      },
+      {
+        "id": 4,
+        "en": "Have they seen the new movie?",
+        "ar": "هل شاهدوا الفيلم الجديد؟",
+        "context": "تستخدم للسؤال عن مجموعة."
+      },
+      {
+        "id": 5,
+        "en": "I have not seen this movie.",
+        "ar": "لم أشاهد هذا الفيلم.",
+        "context": "تقال لنفي تجربة مشاهدة."
+      },
+      {
+        "id": 6,
+        "en": "Have you watched this movie?",
+        "ar": "هل شاهدت هذا الفيلم؟",
+        "context": "تستخدم بصيغة قريبة للسؤال نفسه."
+      },
+      {
+        "id": 7,
+        "en": "He has seen many movies.",
+        "ar": "لقد شاهد أفلاماً كثيرة.",
+        "context": "تقال عن خبرة مشاهدة عامة."
+      },
+      {
+        "id": 8,
+        "en": "Have you seen my phone?",
+        "ar": "هل رأيت هاتفي؟",
+        "context": "تستخدم للسؤال عن رؤية شيء مفقود."
+      },
+      {
+        "id": 9,
+        "en": "We have seen this before.",
+        "ar": "لقد رأينا هذا من قبل.",
+        "context": "تقال عند تذكر تجربة سابقة."
+      },
+      {
+        "id": 10,
+        "en": "Have you seen the first movie?",
+        "ar": "هل شاهدت الفيلم الأول؟",
+        "context": "تستخدم للسؤال عن جزء معين من سلسلة."
+      }
+    ]
+  }
+}

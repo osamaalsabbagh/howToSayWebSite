@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": 555,
+  "sentence": {
+    "en": "I am sick.",
+    "ar": "أنا مريض.",
+    "context": "الإعلام بأنك مريض."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "I am sick.",
+        "ar": "أنا مريض.",
+        "context": "تستخدم لإخبار الآخرين بحالة مرضية.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "am يصف الحالة الصحية الحالية للمتكلم."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "تشير إلى المتكلم."
+          },
+          {
+            "term": "am",
+            "description": "تعني أكون وتصف الحالة."
+          },
+          {
+            "term": "sick",
+            "description": "تعني مريض أو غير بصحة جيدة."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I feel sick.",
+        "ar": "أشعر بالمرض.",
+        "context": "وصف شعور صحي سيئ."
+      },
+      {
+        "id": 2,
+        "en": "She is sick today.",
+        "ar": "هي مريضة اليوم.",
+        "context": "ذكر مرض شخص."
+      },
+      {
+        "id": 3,
+        "en": "Are you sick?",
+        "ar": "هل أنت مريض؟",
+        "context": "سؤال عن المرض."
+      },
+      {
+        "id": 4,
+        "en": "I am not sick now.",
+        "ar": "أنا لست مريضًا الآن.",
+        "context": "نفي المرض."
+      },
+      {
+        "id": 5,
+        "en": "He is sick at home.",
+        "ar": "هو مريض في المنزل.",
+        "context": "تحديد مكان المريض."
+      },
+      {
+        "id": 6,
+        "en": "We are sick and tired.",
+        "ar": "نحن مرضى ومتعبون.",
+        "context": "وصف حالة مجموعة."
+      },
+      {
+        "id": 7,
+        "en": "I need to see a doctor.",
+        "ar": "أحتاج إلى رؤية طبيب.",
+        "context": "طلب مساعدة صحية."
+      },
+      {
+        "id": 8,
+        "en": "The child is sick.",
+        "ar": "الطفل مريض.",
+        "context": "وصف حالة طفل."
+      },
+      {
+        "id": 9,
+        "en": "I was sick yesterday.",
+        "ar": "كنت مريضًا أمس.",
+        "context": "ذكر مرض سابق."
+      },
+      {
+        "id": 10,
+        "en": "Medicine can help when you are sick.",
+        "ar": "يمكن أن يساعد الدواء عندما تكون مريضًا.",
+        "context": "نصيحة عامة."
+      }
+    ]
+  }
+}

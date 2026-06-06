@@ -1,0 +1,127 @@
+{
+  "schemaVersion": 1,
+  "id": 846,
+  "sentence": {
+    "en": "Do you think it will rain today?",
+    "ar": "هل تظن أنه ستمطر اليوم؟",
+    "context": "للسؤال عن توقعات المطر لهذا اليوم."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Do you think",
+        "ar": "هل تظن",
+        "context": "بداية سؤال عن رأي أو توقع الشخص.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "يستخدم المضارع البسيط مع think لطلب رأي أو توقع حالي."
+        },
+        "wordMeanings": [
+          {
+            "term": "Do",
+            "description": "أداة سؤال في المضارع البسيط"
+          },
+          {
+            "term": "you",
+            "description": "الشخص المخاطب"
+          },
+          {
+            "term": "think",
+            "description": "تظن أو تعتقد"
+          }
+        ]
+      },
+      {
+        "sentence": "it will rain today",
+        "ar": "أنه ستمطر اليوم",
+        "context": "جزء يوضح التوقع عن المطر في اليوم الحالي.",
+        "grammar": {
+          "tense": "المستقبل البسيط",
+          "tenseEn": "Future Simple",
+          "reason": "will تستخدم للتوقع عن المستقبل، وtoday يحدد أن التوقع يخص اليوم."
+        },
+        "wordMeanings": [
+          {
+            "term": "it",
+            "description": "تستخدم هنا للحديث عن الطقس"
+          },
+          {
+            "term": "will",
+            "description": "سوف؛ للتوقع بالمستقبل"
+          },
+          {
+            "term": "rain",
+            "description": "تمطر أو ينزل المطر"
+          },
+          {
+            "term": "today",
+            "description": "اليوم"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Do you think it will snow today?",
+        "ar": "هل تظن أنه سيتساقط الثلج اليوم؟",
+        "context": "للسؤال عن توقع الثلج."
+      },
+      {
+        "id": 2,
+        "en": "Do you think it will be cold?",
+        "ar": "هل تظن أن الجو سيكون باردا؟",
+        "context": "للسؤال عن توقع البرودة."
+      },
+      {
+        "id": 3,
+        "en": "Do you think it will rain tomorrow?",
+        "ar": "هل تظن أنه ستمطر غدا؟",
+        "context": "للسؤال عن طقس الغد."
+      },
+      {
+        "id": 4,
+        "en": "I think it will rain.",
+        "ar": "أظن أنها ستمطر.",
+        "context": "للتعبير عن توقع."
+      },
+      {
+        "id": 5,
+        "en": "Do you think the bus will come?",
+        "ar": "هل تظن أن الحافلة ستأتي؟",
+        "context": "للسؤال عن توقع وصول."
+      },
+      {
+        "id": 6,
+        "en": "Do you think he will call?",
+        "ar": "هل تظن أنه سيتصل؟",
+        "context": "للسؤال عن توقع اتصال."
+      },
+      {
+        "id": 7,
+        "en": "Do you think it will be sunny?",
+        "ar": "هل تظن أن الجو سيكون مشمسا؟",
+        "context": "للسؤال عن توقع الشمس."
+      },
+      {
+        "id": 8,
+        "en": "Do you think we will be late?",
+        "ar": "هل تظن أننا سنتأخر؟",
+        "context": "للسؤال عن توقع التأخر."
+      },
+      {
+        "id": 9,
+        "en": "Do you think it will work?",
+        "ar": "هل تظن أنه سينجح؟",
+        "context": "للسؤال عن توقع نجاح شيء."
+      },
+      {
+        "id": 10,
+        "en": "Do you think they will arrive today?",
+        "ar": "هل تظن أنهم سيصلون اليوم؟",
+        "context": "للسؤال عن توقع وصول."
+      }
+    ]
+  }
+}

@@ -1,0 +1,155 @@
+{
+  "schemaVersion": 1,
+  "id": 520,
+  "sentence": {
+    "en": "Do you know where there is a store that sells towels?",
+    "ar": "هل تعرف أين يوجد متجر يبيع المناشف؟",
+    "context": "البحث عن متجر يبيع المناشف."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Do you know",
+        "ar": "هل تعرف",
+        "context": "بداية السؤال لمعرفة إن كان المخاطب يعرف المعلومة.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "know في المضارع البسيط يسأل عن معرفة حالية."
+        },
+        "wordMeanings": [
+          {
+            "term": "Do",
+            "description": "تساعد في تكوين السؤال."
+          },
+          {
+            "term": "you",
+            "description": "تشير إلى المخاطب."
+          },
+          {
+            "term": "know",
+            "description": "تعني تعرف أو تعلم."
+          }
+        ]
+      },
+      {
+        "sentence": "where there is a store",
+        "ar": "أين يوجد متجر",
+        "context": "جزء يسأل عن مكان وجود متجر.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "there is يستخدم للتعبير عن وجود شيء مفرد في مكان ما."
+        },
+        "wordMeanings": [
+          {
+            "term": "where",
+            "description": "تعني أين وتسأل عن المكان."
+          },
+          {
+            "term": "there",
+            "description": "جزء من تركيب يدل على الوجود."
+          },
+          {
+            "term": "is",
+            "description": "تستخدم مع الشيء المفرد الموجود."
+          },
+          {
+            "term": "a",
+            "description": "تدل على شيء واحد غير محدد."
+          },
+          {
+            "term": "store",
+            "description": "متجر أو محل."
+          }
+        ]
+      },
+      {
+        "sentence": "that sells towels?",
+        "ar": "يبيع المناشف؟",
+        "context": "جزء يصف نوع المتجر المطلوب بأنه يبيع المناشف.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "sells في المضارع البسيط يصف ما يبيعه المتجر عادة."
+        },
+        "wordMeanings": [
+          {
+            "term": "that",
+            "description": "تربط الوصف بالمتجر المقصود."
+          },
+          {
+            "term": "sells",
+            "description": "تعني يبيع."
+          },
+          {
+            "term": "towels",
+            "description": "مناشف بصيغة الجمع."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Do you know where there is a pharmacy?",
+        "ar": "هل تعرف أين توجد صيدلية؟",
+        "context": "سؤال عن مكان خدمة."
+      },
+      {
+        "id": 2,
+        "en": "I need a store that sells towels.",
+        "ar": "أحتاج إلى متجر يبيع المناشف.",
+        "context": "توضيح الحاجة إلى متجر محدد."
+      },
+      {
+        "id": 3,
+        "en": "There is a store near here.",
+        "ar": "يوجد متجر قريب من هنا.",
+        "context": "إخبار بوجود متجر."
+      },
+      {
+        "id": 4,
+        "en": "Do you know where I can buy towels?",
+        "ar": "هل تعرف أين يمكنني شراء المناشف؟",
+        "context": "سؤال عن مكان شراء."
+      },
+      {
+        "id": 5,
+        "en": "This store sells towels.",
+        "ar": "هذا المتجر يبيع المناشف.",
+        "context": "وصف بضاعة المتجر."
+      },
+      {
+        "id": 6,
+        "en": "Where is the nearest store?",
+        "ar": "أين أقرب متجر؟",
+        "context": "سؤال عن متجر قريب."
+      },
+      {
+        "id": 7,
+        "en": "They sell towels at the market.",
+        "ar": "يبيعون المناشف في السوق.",
+        "context": "ذكر مكان بيع المناشف."
+      },
+      {
+        "id": 8,
+        "en": "Do you know this store?",
+        "ar": "هل تعرف هذا المتجر؟",
+        "context": "سؤال عن معرفة متجر."
+      },
+      {
+        "id": 9,
+        "en": "I found a store that sells soap.",
+        "ar": "وجدت متجرًا يبيع الصابون.",
+        "context": "ذكر متجر يبيع شيئًا معينًا."
+      },
+      {
+        "id": 10,
+        "en": "The towels are in that store.",
+        "ar": "المناشف في ذلك المتجر.",
+        "context": "تحديد مكان المناشف."
+      }
+    ]
+  }
+}

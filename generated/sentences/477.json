@@ -1,0 +1,131 @@
+{
+  "schemaVersion": 1,
+  "id": 477,
+  "sentence": {
+    "en": "I think I need to see a doctor.",
+    "ar": "أعتقد أنني بحاجة لرؤية طبيب.",
+    "context": "التعبير عن حاجة لزيارة الطبيب بسبب مشكلة صحية."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "I think",
+        "ar": "أعتقد",
+        "context": "يمهد المتكلم لرأيه أو تقديره الشخصي.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "think في المضارع البسيط يعبر عن رأي حالي."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "تشير إلى المتكلم."
+          },
+          {
+            "term": "think",
+            "description": "تعني أعتقد أو أظن."
+          }
+        ]
+      },
+      {
+        "sentence": "I need to see a doctor.",
+        "ar": "أنني بحاجة لرؤية طبيب.",
+        "context": "يوضح المتكلم حاجته إلى زيارة طبيب.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "need في المضارع البسيط يصف حاجة موجودة الآن، وto see يوضح الفعل المطلوب."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "تشير إلى المتكلم."
+          },
+          {
+            "term": "need",
+            "description": "تعني أحتاج."
+          },
+          {
+            "term": "to",
+            "description": "تربط الحاجة بالفعل بعدها."
+          },
+          {
+            "term": "see",
+            "description": "تعني أزور أو أقابل في هذا السياق."
+          },
+          {
+            "term": "a",
+            "description": "تدل على شخص واحد غير محدد."
+          },
+          {
+            "term": "doctor",
+            "description": "طبيب أو شخص مختص بالعلاج."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I think I need help.",
+        "ar": "أعتقد أنني بحاجة إلى مساعدة.",
+        "context": "التعبير عن حاجة عامة."
+      },
+      {
+        "id": 2,
+        "en": "I need to see a nurse.",
+        "ar": "أحتاج إلى رؤية ممرضة.",
+        "context": "طلب رعاية صحية."
+      },
+      {
+        "id": 3,
+        "en": "She thinks she needs a doctor.",
+        "ar": "هي تعتقد أنها بحاجة إلى طبيب.",
+        "context": "وصف رأي شخص آخر عن صحته."
+      },
+      {
+        "id": 4,
+        "en": "I need to see a dentist.",
+        "ar": "أحتاج إلى رؤية طبيب أسنان.",
+        "context": "التعبير عن حاجة طبية محددة."
+      },
+      {
+        "id": 5,
+        "en": "Do you need to see a doctor?",
+        "ar": "هل تحتاج إلى رؤية طبيب؟",
+        "context": "سؤال عن الحاجة إلى طبيب."
+      },
+      {
+        "id": 6,
+        "en": "I think I am sick.",
+        "ar": "أعتقد أنني مريض.",
+        "context": "التعبير عن شعور صحي."
+      },
+      {
+        "id": 7,
+        "en": "He needs to rest.",
+        "ar": "هو يحتاج إلى الراحة.",
+        "context": "ذكر حاجة صحية."
+      },
+      {
+        "id": 8,
+        "en": "We need to call a doctor.",
+        "ar": "نحتاج إلى الاتصال بطبيب.",
+        "context": "طلب مساعدة طبية."
+      },
+      {
+        "id": 9,
+        "en": "I think this is serious.",
+        "ar": "أعتقد أن هذا خطير.",
+        "context": "تقدير خطورة موقف."
+      },
+      {
+        "id": 10,
+        "en": "The doctor can see you now.",
+        "ar": "يمكن للطبيب رؤيتك الآن.",
+        "context": "إخبار بإمكانية مقابلة الطبيب."
+      }
+    ]
+  }
+}

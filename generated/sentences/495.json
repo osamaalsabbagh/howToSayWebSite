@@ -1,0 +1,131 @@
+{
+  "schemaVersion": 1,
+  "id": 495,
+  "sentence": {
+    "en": "Where is there a doctor who speaks English?",
+    "ar": "أين يوجد طبيب يتحدث الإنجليزية؟",
+    "context": "البحث عن طبيب يتحدث الإنجليزية لتسهيل التواصل."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Where is there a doctor",
+        "ar": "أين يوجد طبيب",
+        "context": "الجزء الأول يسأل عن مكان وجود طبيب.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "is there يستخدم للسؤال عن وجود شيء مفرد ومكانه."
+        },
+        "wordMeanings": [
+          {
+            "term": "Where",
+            "description": "تسأل عن المكان."
+          },
+          {
+            "term": "is",
+            "description": "تستخدم مع المفرد في سؤال الوجود."
+          },
+          {
+            "term": "there",
+            "description": "جزء من تركيب السؤال عن الوجود."
+          },
+          {
+            "term": "a",
+            "description": "تدل على شخص واحد غير محدد."
+          },
+          {
+            "term": "doctor",
+            "description": "طبيب أو شخص مختص بالعلاج."
+          }
+        ]
+      },
+      {
+        "sentence": "who speaks English?",
+        "ar": "يتحدث الإنجليزية؟",
+        "context": "الجزء الثاني يحدد نوع الطبيب المطلوب بأنه يتحدث الإنجليزية.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "speaks في المضارع البسيط يصف قدرة أو صفة ثابتة للطبيب."
+        },
+        "wordMeanings": [
+          {
+            "term": "who",
+            "description": "تربط الوصف بالشخص وتعني الذي."
+          },
+          {
+            "term": "speaks",
+            "description": "تعني يتحدث."
+          },
+          {
+            "term": "English",
+            "description": "اللغة الإنجليزية."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Where is there a doctor?",
+        "ar": "أين يوجد طبيب؟",
+        "context": "سؤال عن مكان طبيب."
+      },
+      {
+        "id": 2,
+        "en": "I need a doctor who speaks English.",
+        "ar": "أحتاج إلى طبيب يتحدث الإنجليزية.",
+        "context": "توضيح نوع الطبيب المطلوب."
+      },
+      {
+        "id": 3,
+        "en": "Is there a nurse who speaks English?",
+        "ar": "هل توجد ممرضة تتحدث الإنجليزية؟",
+        "context": "سؤال عن شخص طبي يتحدث الإنجليزية."
+      },
+      {
+        "id": 4,
+        "en": "The doctor speaks English.",
+        "ar": "الطبيب يتحدث الإنجليزية.",
+        "context": "وصف قدرة الطبيب على اللغة."
+      },
+      {
+        "id": 5,
+        "en": "Where can I find a doctor?",
+        "ar": "أين يمكنني العثور على طبيب؟",
+        "context": "سؤال عن طريقة العثور على طبيب."
+      },
+      {
+        "id": 6,
+        "en": "There is a doctor near here.",
+        "ar": "يوجد طبيب قريب من هنا.",
+        "context": "إخبار بوجود طبيب قريب."
+      },
+      {
+        "id": 7,
+        "en": "She knows a doctor who speaks English.",
+        "ar": "هي تعرف طبيبًا يتحدث الإنجليزية.",
+        "context": "ذكر معرفة شخص مناسب."
+      },
+      {
+        "id": 8,
+        "en": "Do you speak English?",
+        "ar": "هل تتحدث الإنجليزية؟",
+        "context": "سؤال عن اللغة."
+      },
+      {
+        "id": 9,
+        "en": "I need help from a doctor.",
+        "ar": "أحتاج إلى مساعدة من طبيب.",
+        "context": "التعبير عن حاجة طبية."
+      },
+      {
+        "id": 10,
+        "en": "Where is there a clinic?",
+        "ar": "أين توجد عيادة؟",
+        "context": "سؤال عن مكان خدمة طبية."
+      }
+    ]
+  }
+}

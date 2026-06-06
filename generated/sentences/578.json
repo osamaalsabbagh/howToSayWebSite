@@ -1,0 +1,135 @@
+{
+  "schemaVersion": 1,
+  "id": 578,
+  "sentence": {
+    "en": "This is the first time I have been here.",
+    "ar": "هذه أول مرة أكون فيها هنا.",
+    "context": "الإشارة إلى زيارة مكان لأول مرة."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "This is the first time",
+        "ar": "هذه هي المرة الأولى",
+        "context": "هذا الجزء يوضح أن التجربة الحالية لم تحدث من قبل.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "يصف الجزء حقيقة عن الموقف الحالي، وهي أنه أول مرة."
+        },
+        "wordMeanings": [
+          {
+            "term": "This",
+            "description": "هذه أو هذا، وتشير إلى التجربة الحالية."
+          },
+          {
+            "term": "is",
+            "description": "صيغة تربط التجربة بوصفها."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف تشير إلى مرة محددة."
+          },
+          {
+            "term": "first",
+            "description": "الأولى، أي لا توجد مرة قبلها."
+          },
+          {
+            "term": "time",
+            "description": "مرة أو مناسبة."
+          }
+        ]
+      },
+      {
+        "sentence": "I have been here.",
+        "ar": "كنت هنا أو جئت إلى هنا.",
+        "context": "هذا الجزء يوضح تجربة الوجود في هذا المكان حتى الآن.",
+        "grammar": {
+          "tense": "المضارع التام",
+          "tenseEn": "Present Perfect",
+          "reason": "استُخدم المضارع التام للحديث عن تجربة مرتبطة بالحاضر، وليس عن وقت محدد في الماضي."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير يعني أنا، ويشير إلى المتكلم."
+          },
+          {
+            "term": "have",
+            "description": "كلمة مساعدة تبني معنى تجربة حدثت قبل الآن."
+          },
+          {
+            "term": "been",
+            "description": "كنت أو وُجدت في مكان."
+          },
+          {
+            "term": "here",
+            "description": "هنا، أي في هذا المكان."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "This is the first time I have visited Boston.",
+        "ar": "هذه أول مرة أزور فيها بوسطن.",
+        "context": "تقال عند زيارة مدينة لأول مرة."
+      },
+      {
+        "id": 2,
+        "en": "This is the first time she has been here.",
+        "ar": "هذه أول مرة تكون فيها هنا.",
+        "context": "تستخدم للحديث عن تجربة شخص آخر في مكان."
+      },
+      {
+        "id": 3,
+        "en": "This is the first time we have met.",
+        "ar": "هذه أول مرة نلتقي فيها.",
+        "context": "تقال عند لقاء شخص للمرة الأولى."
+      },
+      {
+        "id": 4,
+        "en": "This is the first time I have eaten here.",
+        "ar": "هذه أول مرة آكل فيها هنا.",
+        "context": "تستخدم عند تجربة مطعم لأول مرة."
+      },
+      {
+        "id": 5,
+        "en": "This is the first time he has traveled alone.",
+        "ar": "هذه أول مرة يسافر فيها وحده.",
+        "context": "تقال عن تجربة سفر جديدة لشخص."
+      },
+      {
+        "id": 6,
+        "en": "This is my first time here.",
+        "ar": "هذه أول مرة لي هنا.",
+        "context": "تستخدم بطريقة أقصر للتعبير عن أول زيارة."
+      },
+      {
+        "id": 7,
+        "en": "I have never been here before.",
+        "ar": "لم أكن هنا من قبل أبداً.",
+        "context": "تقال لنفي أي زيارة سابقة للمكان."
+      },
+      {
+        "id": 8,
+        "en": "This is the first time they have seen snow.",
+        "ar": "هذه أول مرة يرون فيها الثلج.",
+        "context": "تستخدم عند تجربة شيء لأول مرة."
+      },
+      {
+        "id": 9,
+        "en": "This is the first time I have spoken English here.",
+        "ar": "هذه أول مرة أتحدث فيها الإنجليزية هنا.",
+        "context": "تقال عند استخدام الإنجليزية في مكان لأول مرة."
+      },
+      {
+        "id": 10,
+        "en": "This is the first time my mother has visited us.",
+        "ar": "هذه أول مرة تزورنا فيها أمي.",
+        "context": "تستخدم عند الحديث عن زيارة عائلية أولى."
+      }
+    ]
+  }
+}

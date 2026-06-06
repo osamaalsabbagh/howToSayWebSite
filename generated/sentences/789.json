@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "id": 789,
+  "sentence": {
+    "en": "Where are you from?",
+    "ar": "من أين أنت؟",
+    "context": "السؤال عن مكان الأصل."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Where are you from?",
+        "ar": "من أين أنت؟",
+        "context": "سؤال عن بلد أو مدينة الأصل.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "الفعل are يصف علاقة الشخص بمكان أصله في الحاضر، وfrom تدل على الأصل أو المصدر."
+        },
+        "wordMeanings": [
+          {
+            "term": "Where",
+            "description": "أين؛ للسؤال عن المكان"
+          },
+          {
+            "term": "are",
+            "description": "صيغة مع you في السؤال عن الحالة أو الأصل"
+          },
+          {
+            "term": "you",
+            "description": "الشخص المخاطب"
+          },
+          {
+            "term": "from",
+            "description": "من؛ تدل على الأصل أو المكان الذي يأتي منه الشخص"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Where is she from?",
+        "ar": "من أين هي؟",
+        "context": "للسؤال عن أصل امرأة أو فتاة."
+      },
+      {
+        "id": 2,
+        "en": "Where are they from?",
+        "ar": "من أين هم؟",
+        "context": "للسؤال عن أصل مجموعة."
+      },
+      {
+        "id": 3,
+        "en": "Where is your family from?",
+        "ar": "من أين عائلتك؟",
+        "context": "للسؤال عن أصل عائلة."
+      },
+      {
+        "id": 4,
+        "en": "Are you from Turkey?",
+        "ar": "هل أنت من تركيا؟",
+        "context": "للتأكد من بلد الشخص."
+      },
+      {
+        "id": 5,
+        "en": "Where are you from originally?",
+        "ar": "من أين أنت أصلا؟",
+        "context": "للسؤال بدقة عن الأصل."
+      },
+      {
+        "id": 6,
+        "en": "Where is this coffee from?",
+        "ar": "من أين هذه القهوة؟",
+        "context": "للسؤال عن مصدر منتج."
+      },
+      {
+        "id": 7,
+        "en": "Where are your parents from?",
+        "ar": "من أين والداك؟",
+        "context": "للسؤال عن أصل الوالدين."
+      },
+      {
+        "id": 8,
+        "en": "Where is he from?",
+        "ar": "من أين هو؟",
+        "context": "للسؤال عن أصل رجل أو ولد."
+      },
+      {
+        "id": 9,
+        "en": "Where are these apples from?",
+        "ar": "من أين هذا التفاح؟",
+        "context": "للسؤال عن مصدر طعام."
+      },
+      {
+        "id": 10,
+        "en": "Where are you coming from?",
+        "ar": "من أين تأتي؟",
+        "context": "للسؤال عن مكان القدوم الآن."
+      }
+    ]
+  }
+}

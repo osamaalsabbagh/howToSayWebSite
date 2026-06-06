@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": 664,
+  "sentence": {
+    "en": "How do you spell it?",
+    "ar": "كيف تتهجّاها؟",
+    "context": "طلب معرفة التهجئة الصحيحة لكلمة ما."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "How do you spell it?",
+        "ar": "كيف تتهجاها؟",
+        "context": "تستخدم للسؤال عن حروف كلمة أو اسم بالترتيب الصحيح.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "السؤال عن طريقة عامة لكتابة كلمة بحروفها."
+        },
+        "wordMeanings": [
+          {
+            "term": "How",
+            "description": "كيف، وتستخدم للسؤال عن الطريقة."
+          },
+          {
+            "term": "do",
+            "description": "كلمة مساعدة لتكوين سؤال في المضارع البسيط."
+          },
+          {
+            "term": "you",
+            "description": "أنت أو أنتم حسب السياق."
+          },
+          {
+            "term": "spell",
+            "description": "تتهجى أو تذكر الحروف بالترتيب."
+          },
+          {
+            "term": "it",
+            "description": "ها أو تلك الكلمة."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "How do you spell your name?",
+        "ar": "كيف تتهجى اسمك؟",
+        "context": "تقال عند طلب حروف الاسم."
+      },
+      {
+        "id": 2,
+        "en": "Can you spell it?",
+        "ar": "هل يمكنك تهجئتها؟",
+        "context": "تستخدم كطلب مباشر للتهجئة."
+      },
+      {
+        "id": 3,
+        "en": "Please spell it slowly.",
+        "ar": "من فضلك تهجها ببطء.",
+        "context": "تقال عند الحاجة إلى وضوح."
+      },
+      {
+        "id": 4,
+        "en": "I cannot spell it.",
+        "ar": "لا أستطيع تهجئتها.",
+        "context": "تستخدم عند عدم معرفة الحروف."
+      },
+      {
+        "id": 5,
+        "en": "How does she spell it?",
+        "ar": "كيف تتهجاها؟",
+        "context": "تقال للسؤال عن تهجئة شخص آخر."
+      },
+      {
+        "id": 6,
+        "en": "Spell the word again.",
+        "ar": "تهج الكلمة مرة أخرى.",
+        "context": "تستخدم لطلب إعادة الحروف."
+      },
+      {
+        "id": 7,
+        "en": "How do you spell Seattle?",
+        "ar": "كيف تتهجى سياتل؟",
+        "context": "تقال للسؤال عن اسم مدينة."
+      },
+      {
+        "id": 8,
+        "en": "Can you write it for me?",
+        "ar": "هل يمكنك كتابتها لي؟",
+        "context": "تستخدم عندما تكون التهجئة صعبة."
+      },
+      {
+        "id": 9,
+        "en": "How do you pronounce it?",
+        "ar": "كيف تنطقها؟",
+        "context": "تقال للسؤال عن النطق لا الحروف."
+      },
+      {
+        "id": 10,
+        "en": "She can spell it correctly.",
+        "ar": "هي تستطيع تهجئتها بشكل صحيح.",
+        "context": "تستخدم لوصف قدرة شخص."
+      }
+    ]
+  }
+}

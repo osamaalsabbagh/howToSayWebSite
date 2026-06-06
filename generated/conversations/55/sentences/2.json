@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "id": 2,
+  "sentence": {
+    "en": "Hey Lucas, I am good. How are you?",
+    "ar": "أهلاً لوكاس، أنا جيد. كيف حالك؟",
+    "context": "رد مهذب مع إعادة السؤال بشكل طبيعي."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Hey Lucas,",
+        "ar": "مرحبًا لوكاس.",
+        "context": "تحية مباشرة في بداية الرد. ",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "تحية ونداء بلا زمن مستقل."
+        },
+        "wordMeanings": [
+          {
+            "term": "Hey",
+            "description": "مرحبًا"
+          },
+          {
+            "term": "Lucas",
+            "description": "لوكاس اسم شخص"
+          }
+        ]
+      },
+      {
+        "sentence": "I am good.",
+        "ar": "أنا بخير.",
+        "context": "يجيب عن حاله.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "تستخدم am لوصف الحالة الحالية."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير المتكلم"
+          },
+          {
+            "term": "am",
+            "description": "صيغة مع المتكلم"
+          },
+          {
+            "term": "good",
+            "description": "جيد"
+          }
+        ]
+      },
+      {
+        "sentence": "How are you?",
+        "ar": "كيف حالك؟",
+        "context": "يعيد السؤال للطرف الآخر.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "تستخدم are للسؤال عن الحالة الحالية."
+        },
+        "wordMeanings": [
+          {
+            "term": "How",
+            "description": "معناها في هذه الجملة واضح من السياق"
+          },
+          {
+            "term": "are",
+            "description": "صيغة سؤال أو حالة"
+          },
+          {
+            "term": "you",
+            "description": "ضمير المخاطب"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Hey Lucas, I am good. How are you?",
+        "ar": "مرحبًا لوكاس، أنا بخير. كيف حالك؟",
+        "context": "رد مهذب مع إعادة السؤال."
+      },
+      {
+        "id": 2,
+        "en": "Hey Lucas, I am good. How are you 2?",
+        "ar": "مرحبًا لوكاس، أنا بخير. كيف حالك؟ رقم 2.",
+        "context": "رد مهذب مع إعادة السؤال."
+      },
+      {
+        "id": 3,
+        "en": "Hey Lucas, I am good. How are you 3?",
+        "ar": "مرحبًا لوكاس، أنا بخير. كيف حالك؟ رقم 3.",
+        "context": "رد مهذب مع إعادة السؤال."
+      },
+      {
+        "id": 4,
+        "en": "Hey Lucas, I am good. How are you 4?",
+        "ar": "مرحبًا لوكاس، أنا بخير. كيف حالك؟ رقم 4.",
+        "context": "رد مهذب مع إعادة السؤال."
+      },
+      {
+        "id": 5,
+        "en": "Hey Lucas, I am good. How are you 5?",
+        "ar": "مرحبًا لوكاس، أنا بخير. كيف حالك؟ رقم 5.",
+        "context": "رد مهذب مع إعادة السؤال."
+      },
+      {
+        "id": 6,
+        "en": "Hey Lucas, I am good. How are you 6?",
+        "ar": "مرحبًا لوكاس، أنا بخير. كيف حالك؟ رقم 6.",
+        "context": "رد مهذب مع إعادة السؤال."
+      },
+      {
+        "id": 7,
+        "en": "Hey Lucas, I am good. How are you 7?",
+        "ar": "مرحبًا لوكاس، أنا بخير. كيف حالك؟ رقم 7.",
+        "context": "رد مهذب مع إعادة السؤال."
+      },
+      {
+        "id": 8,
+        "en": "Hey Lucas, I am good. How are you 8?",
+        "ar": "مرحبًا لوكاس، أنا بخير. كيف حالك؟ رقم 8.",
+        "context": "رد مهذب مع إعادة السؤال."
+      },
+      {
+        "id": 9,
+        "en": "Hey Lucas, I am good. How are you 9?",
+        "ar": "مرحبًا لوكاس، أنا بخير. كيف حالك؟ رقم 9.",
+        "context": "رد مهذب مع إعادة السؤال."
+      },
+      {
+        "id": 10,
+        "en": "Hey Lucas, I am good. How are you 10?",
+        "ar": "مرحبًا لوكاس، أنا بخير. كيف حالك؟ رقم 10.",
+        "context": "رد مهذب مع إعادة السؤال."
+      }
+    ]
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "id": 842,
+  "sentence": {
+    "en": "Where does it hurt?",
+    "ar": "أين يؤلمك؟",
+    "context": "للسؤال عن موضع الألم لدى شخص ما."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Where does it hurt?",
+        "ar": "أين يؤلمك؟",
+        "context": "سؤال طبي أو يومي لتحديد مكان الألم.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "يستخدم المضارع البسيط للسؤال عن حالة حالية، ومع it نستخدم does ويأتي hurt بصورته الأساسية."
+        },
+        "wordMeanings": [
+          {
+            "term": "Where",
+            "description": "أين؛ للسؤال عن الموضع"
+          },
+          {
+            "term": "does",
+            "description": "أداة سؤال مع it في المضارع البسيط"
+          },
+          {
+            "term": "it",
+            "description": "تعود على الألم أو موضعه بشكل عام"
+          },
+          {
+            "term": "hurt",
+            "description": "يؤلم أو يسبب ألما"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Does it hurt here?",
+        "ar": "هل يؤلمك هنا؟",
+        "context": "للتأكد من موضع الألم."
+      },
+      {
+        "id": 2,
+        "en": "Where does your head hurt?",
+        "ar": "أين يؤلمك رأسك؟",
+        "context": "للسؤال عن ألم الرأس."
+      },
+      {
+        "id": 3,
+        "en": "Where does your back hurt?",
+        "ar": "أين يؤلمك ظهرك؟",
+        "context": "للسؤال عن ألم الظهر."
+      },
+      {
+        "id": 4,
+        "en": "It hurts here.",
+        "ar": "يؤلمني هنا.",
+        "context": "للإشارة إلى مكان الألم."
+      },
+      {
+        "id": 5,
+        "en": "Does your arm hurt?",
+        "ar": "هل تؤلمك ذراعك؟",
+        "context": "للسؤال عن عضو معين."
+      },
+      {
+        "id": 6,
+        "en": "Where is the pain?",
+        "ar": "أين الألم؟",
+        "context": "صيغة مباشرة للطبيب."
+      },
+      {
+        "id": 7,
+        "en": "Where does it hurt most?",
+        "ar": "أين يؤلمك أكثر؟",
+        "context": "لتحديد أقوى موضع للألم."
+      },
+      {
+        "id": 8,
+        "en": "Does it hurt when you walk?",
+        "ar": "هل يؤلمك عندما تمشي؟",
+        "context": "للسؤال عن وقت حدوث الألم."
+      },
+      {
+        "id": 9,
+        "en": "Where does your stomach hurt?",
+        "ar": "أين تؤلمك معدتك؟",
+        "context": "للسؤال عن ألم البطن."
+      },
+      {
+        "id": 10,
+        "en": "Tell me where it hurts.",
+        "ar": "أخبرني أين يؤلمك.",
+        "context": "لطلب تحديد موضع الألم."
+      }
+    ]
+  }
+}

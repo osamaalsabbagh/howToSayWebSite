@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": 829,
+  "sentence": {
+    "en": "I am good.",
+    "ar": "أنا جيد.",
+    "context": "اي أنك بحال جيد وهو رد إيجابي على سؤال عن الحال."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "I am good.",
+        "ar": "أنا بخير.",
+        "context": "رد بسيط وإيجابي على سؤال عن الحال.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "الفعل am يصف حالة المتكلم الحالية، ويأتي مع I فقط."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "أنا؛ المتكلم"
+          },
+          {
+            "term": "am",
+            "description": "صيغة تدل على الحالة الحالية مع أنا"
+          },
+          {
+            "term": "good",
+            "description": "بخير أو جيد"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I am fine.",
+        "ar": "أنا بخير.",
+        "context": "رد شائع على سؤال عن الحال."
+      },
+      {
+        "id": 2,
+        "en": "I am okay.",
+        "ar": "أنا بخير.",
+        "context": "رد بسيط وهادئ."
+      },
+      {
+        "id": 3,
+        "en": "I am very good.",
+        "ar": "أنا جيد جدا.",
+        "context": "رد أكثر إيجابية."
+      },
+      {
+        "id": 4,
+        "en": "She is good.",
+        "ar": "هي بخير.",
+        "context": "للحديث عن حال امرأة."
+      },
+      {
+        "id": 5,
+        "en": "He is good.",
+        "ar": "هو بخير.",
+        "context": "للحديث عن حال رجل."
+      },
+      {
+        "id": 6,
+        "en": "We are good.",
+        "ar": "نحن بخير.",
+        "context": "للرد باسم مجموعة."
+      },
+      {
+        "id": 7,
+        "en": "Are you good?",
+        "ar": "هل أنت بخير؟",
+        "context": "للاطمئنان على شخص."
+      },
+      {
+        "id": 8,
+        "en": "I am good today.",
+        "ar": "أنا بخير اليوم.",
+        "context": "لذكر الحال في يوم محدد."
+      },
+      {
+        "id": 9,
+        "en": "I feel good.",
+        "ar": "أشعر أنني بخير.",
+        "context": "للتعبير عن شعور إيجابي."
+      },
+      {
+        "id": 10,
+        "en": "Everything is good.",
+        "ar": "كل شيء جيد.",
+        "context": "للاطمئنان على الأمور عامة."
+      }
+    ]
+  }
+}

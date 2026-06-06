@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "id": 643,
+  "sentence": {
+    "en": "What size?",
+    "ar": "ما المقاس؟",
+    "context": "السؤال عن مقاس الملابس أو الأحذية."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "What size?",
+        "ar": "ما المقاس؟",
+        "context": "تستخدم كعبارة قصيرة للسؤال عن مقاس مطلوب في متجر.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه عبارة سؤال مختصرة وليست جملة فعلية كاملة، لذلك لا يوجد زمن مستقل."
+        },
+        "wordMeanings": [
+          {
+            "term": "What",
+            "description": "ما أو أي، وتستخدم للسؤال عن اختيار."
+          },
+          {
+            "term": "size",
+            "description": "مقاس أو حجم."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "What color?",
+        "ar": "ما اللون؟",
+        "context": "تقال للسؤال عن لون مطلوب."
+      },
+      {
+        "id": 2,
+        "en": "What size do you need?",
+        "ar": "ما المقاس الذي تحتاجه؟",
+        "context": "تستخدم بصيغة كاملة في متجر."
+      },
+      {
+        "id": 3,
+        "en": "What size are these shoes?",
+        "ar": "ما مقاس هذه الأحذية؟",
+        "context": "تقال عند فحص حذاء."
+      },
+      {
+        "id": 4,
+        "en": "I need a small size.",
+        "ar": "أحتاج إلى مقاس صغير.",
+        "context": "تستخدم للإجابة عن المقاس."
+      },
+      {
+        "id": 5,
+        "en": "Do you have this size?",
+        "ar": "هل لديك هذا المقاس؟",
+        "context": "تقال عند البحث عن مقاس محدد."
+      },
+      {
+        "id": 6,
+        "en": "What size is the shirt?",
+        "ar": "ما مقاس القميص؟",
+        "context": "تستخدم للسؤال عن مقاس قميص."
+      },
+      {
+        "id": 7,
+        "en": "This size is too big.",
+        "ar": "هذا المقاس كبير جداً.",
+        "context": "تقال عند تجربة ملابس."
+      },
+      {
+        "id": 8,
+        "en": "What size does she wear?",
+        "ar": "ما المقاس الذي ترتديه؟",
+        "context": "تستخدم للسؤال عن مقاس امرأة."
+      },
+      {
+        "id": 9,
+        "en": "I want a medium size.",
+        "ar": "أريد مقاساً متوسطاً.",
+        "context": "تقال عند طلب مقاس معين."
+      },
+      {
+        "id": 10,
+        "en": "What size is available?",
+        "ar": "ما المقاس المتوفر؟",
+        "context": "تستخدم للسؤال عن المقاسات الموجودة."
+      }
+    ]
+  }
+}

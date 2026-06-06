@@ -1,0 +1,111 @@
+{
+  "schemaVersion": 1,
+  "id": 545,
+  "sentence": {
+    "en": "I have pain in my arm.",
+    "ar": "لدي ألم في ذراعي.",
+    "context": "الإبلاغ عن ألم في الذراع."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "I have pain in my arm.",
+        "ar": "لدي ألم في ذراعي.",
+        "context": "تستخدم لإخبار الطبيب أو شخص آخر عن مكان الألم.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "have يصف حالة صحية موجودة الآن."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "تشير إلى المتكلم."
+          },
+          {
+            "term": "have",
+            "description": "تعني لدي."
+          },
+          {
+            "term": "pain",
+            "description": "ألم."
+          },
+          {
+            "term": "in",
+            "description": "تعني في أو داخل."
+          },
+          {
+            "term": "my",
+            "description": "تعني الخاص بي."
+          },
+          {
+            "term": "arm",
+            "description": "ذراع."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I have pain in my leg.",
+        "ar": "لدي ألم في ساقي.",
+        "context": "الإبلاغ عن ألم في الساق."
+      },
+      {
+        "id": 2,
+        "en": "She has pain in her back.",
+        "ar": "لديها ألم في ظهرها.",
+        "context": "وصف ألم شخص."
+      },
+      {
+        "id": 3,
+        "en": "Do you have pain?",
+        "ar": "هل لديك ألم؟",
+        "context": "سؤال طبي عام."
+      },
+      {
+        "id": 4,
+        "en": "My arm hurts.",
+        "ar": "ذراعي تؤلمني.",
+        "context": "صيغة أخرى للألم."
+      },
+      {
+        "id": 5,
+        "en": "I need a doctor for this pain.",
+        "ar": "أحتاج إلى طبيب لهذا الألم.",
+        "context": "طلب مساعدة طبية."
+      },
+      {
+        "id": 6,
+        "en": "He has pain in his shoulder.",
+        "ar": "لديه ألم في كتفه.",
+        "context": "تحديد موضع ألم."
+      },
+      {
+        "id": 7,
+        "en": "The pain is strong.",
+        "ar": "الألم قوي.",
+        "context": "وصف شدة الألم."
+      },
+      {
+        "id": 8,
+        "en": "I do not have pain now.",
+        "ar": "ليس لدي ألم الآن.",
+        "context": "نفي الألم."
+      },
+      {
+        "id": 9,
+        "en": "Please check my arm.",
+        "ar": "من فضلك افحص ذراعي.",
+        "context": "طلب فحص الذراع."
+      },
+      {
+        "id": 10,
+        "en": "The medicine helps the pain.",
+        "ar": "الدواء يساعد في تخفيف الألم.",
+        "context": "ذكر أثر الدواء."
+      }
+    ]
+  }
+}

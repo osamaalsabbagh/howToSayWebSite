@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": 902,
+  "sentence": {
+    "en": "Is this a safe area?",
+    "ar": "هل هذه منطقة آمنة؟",
+    "context": "تُستخدم للسؤال عن مدى أمان المنطقة."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Is this a safe area?",
+        "ar": "هل هذه منطقة آمنة؟",
+        "context": "سؤال عن أمان مكان أو حي قريب.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "الفعل is يصف حالة المكان الحالية أو العامة، وتقديمه يحول الجملة إلى سؤال."
+        },
+        "wordMeanings": [
+          {
+            "term": "Is",
+            "description": "هل يكون أو هل الحالة كذلك"
+          },
+          {
+            "term": "this",
+            "description": "هذه المنطقة القريبة أو المقصودة"
+          },
+          {
+            "term": "a",
+            "description": "أداة نكرة لشيء واحد"
+          },
+          {
+            "term": "safe",
+            "description": "آمن أو غير خطر"
+          },
+          {
+            "term": "area",
+            "description": "منطقة أو حي"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Is this area safe at night?",
+        "ar": "هل هذه المنطقة آمنة ليلا؟",
+        "context": "للسؤال عن أمان الليل."
+      },
+      {
+        "id": 2,
+        "en": "Is this a quiet area?",
+        "ar": "هل هذه منطقة هادئة؟",
+        "context": "للسؤال عن طبيعة الحي."
+      },
+      {
+        "id": 3,
+        "en": "Is the hotel in a safe area?",
+        "ar": "هل الفندق في منطقة آمنة؟",
+        "context": "قبل حجز فندق."
+      },
+      {
+        "id": 4,
+        "en": "This is a safe area.",
+        "ar": "هذه منطقة آمنة.",
+        "context": "لطمأنة شخص."
+      },
+      {
+        "id": 5,
+        "en": "Is that area safe?",
+        "ar": "هل تلك المنطقة آمنة؟",
+        "context": "للسؤال عن مكان أبعد."
+      },
+      {
+        "id": 6,
+        "en": "Is this street safe?",
+        "ar": "هل هذا الشارع آمن؟",
+        "context": "للسؤال عن شارع محدد."
+      },
+      {
+        "id": 7,
+        "en": "Is it safe to walk here?",
+        "ar": "هل المشي هنا آمن؟",
+        "context": "للسؤال عن المشي في المكان."
+      },
+      {
+        "id": 8,
+        "en": "Is this a good area?",
+        "ar": "هل هذه منطقة جيدة؟",
+        "context": "للسؤال عن جودة الحي."
+      },
+      {
+        "id": 9,
+        "en": "The area is not safe.",
+        "ar": "المنطقة ليست آمنة.",
+        "context": "للتحذير."
+      },
+      {
+        "id": 10,
+        "en": "Is this a safe place to stay?",
+        "ar": "هل هذا مكان آمن للإقامة؟",
+        "context": "قبل اختيار سكن."
+      }
+    ]
+  }
+}

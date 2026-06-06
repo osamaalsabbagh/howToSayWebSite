@@ -1,0 +1,115 @@
+{
+  "schemaVersion": 1,
+  "id": 498,
+  "sentence": {
+    "en": "Would you like a glass of water?",
+    "ar": "هل تود كوبًا من الماء؟",
+    "context": "عرض تقديم كوب ماء لشخص ما."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Would you like a glass of water?",
+        "ar": "هل تود كوبًا من الماء؟",
+        "context": "عرض مهذب لتقديم الماء لشخص.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه صيغة مهذبة أو تركيب مساعد للتعبير عن عرض أو رغبة أو طلب، وليست زمنًا مستقلًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "Would",
+            "description": "تجعل العرض مهذبًا."
+          },
+          {
+            "term": "you",
+            "description": "تشير إلى الشخص المخاطب."
+          },
+          {
+            "term": "like",
+            "description": "تعني ترغب في هذا السياق."
+          },
+          {
+            "term": "a",
+            "description": "تدل على شيء واحد غير محدد."
+          },
+          {
+            "term": "glass",
+            "description": "كأس للشرب."
+          },
+          {
+            "term": "of",
+            "description": "تربط الكأس بما داخله."
+          },
+          {
+            "term": "water",
+            "description": "ماء."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Would you like some water?",
+        "ar": "هل تود بعض الماء؟",
+        "context": "عرض ماء بأدب."
+      },
+      {
+        "id": 2,
+        "en": "Would you like a cup of tea?",
+        "ar": "هل تود كوب شاي؟",
+        "context": "عرض مشروب ساخن."
+      },
+      {
+        "id": 3,
+        "en": "I would like a glass of water.",
+        "ar": "أود كوبًا من الماء.",
+        "context": "إجابة بطلب الماء."
+      },
+      {
+        "id": 4,
+        "en": "Can I have a glass of water?",
+        "ar": "هل يمكنني الحصول على كوب ماء؟",
+        "context": "طلب ماء."
+      },
+      {
+        "id": 5,
+        "en": "Would she like water?",
+        "ar": "هل تود ماء؟",
+        "context": "سؤال عن رغبة شخص آخر."
+      },
+      {
+        "id": 6,
+        "en": "A glass of water is on the table.",
+        "ar": "كوب ماء على الطاولة.",
+        "context": "تحديد مكان الماء."
+      },
+      {
+        "id": 7,
+        "en": "Would you like cold water?",
+        "ar": "هل تود ماء باردًا؟",
+        "context": "عرض نوع محدد من الماء."
+      },
+      {
+        "id": 8,
+        "en": "We would like two glasses of water.",
+        "ar": "نود كوبين من الماء.",
+        "context": "طلب ماء لشخصين."
+      },
+      {
+        "id": 9,
+        "en": "Would you like something to drink?",
+        "ar": "هل تود شيئًا للشرب؟",
+        "context": "عرض مشروب عام."
+      },
+      {
+        "id": 10,
+        "en": "Please bring a glass of water.",
+        "ar": "من فضلك أحضر كوب ماء.",
+        "context": "طلب مباشر للماء."
+      }
+    ]
+  }
+}

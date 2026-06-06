@@ -1,0 +1,119 @@
+{
+  "schemaVersion": 1,
+  "id": 553,
+  "sentence": {
+    "en": "I am fine, and you?",
+    "ar": "أنا بخير، وأنت؟",
+    "context": "رد مهذب على سؤال: كيف حالك؟ مع السؤال عن حال الطرف الآخر"
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "I am fine,",
+        "ar": "أنا بخير،",
+        "context": "الجزء الأول يجيب عن الحال بطريقة مهذبة.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "am يصف الحالة الحالية للمتكلم."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "تشير إلى المتكلم."
+          },
+          {
+            "term": "am",
+            "description": "تعني أكون وتصف الحالة."
+          },
+          {
+            "term": "fine",
+            "description": "تعني بخير."
+          }
+        ]
+      },
+      {
+        "sentence": "and you?",
+        "ar": "وأنت؟",
+        "context": "الجزء الثاني يعيد السؤال إلى الشخص الآخر باختصار.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه عبارة سؤال مختصرة بلا فعل مستقل."
+        },
+        "wordMeanings": [
+          {
+            "term": "and",
+            "description": "تعني و وتربط الرد بسؤال مقابل."
+          },
+          {
+            "term": "you",
+            "description": "تشير إلى المخاطب."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I am fine, thank you.",
+        "ar": "أنا بخير، شكرًا لك.",
+        "context": "رد مهذب على سؤال الحال."
+      },
+      {
+        "id": 2,
+        "en": "I am good, and you?",
+        "ar": "أنا بخير، وأنت؟",
+        "context": "رد وسؤال مقابل."
+      },
+      {
+        "id": 3,
+        "en": "How are you?",
+        "ar": "كيف حالك؟",
+        "context": "سؤال عن الحال."
+      },
+      {
+        "id": 4,
+        "en": "She is fine today.",
+        "ar": "هي بخير اليوم.",
+        "context": "وصف حالة شخص."
+      },
+      {
+        "id": 5,
+        "en": "We are fine.",
+        "ar": "نحن بخير.",
+        "context": "رد عن مجموعة."
+      },
+      {
+        "id": 6,
+        "en": "I am not fine.",
+        "ar": "أنا لست بخير.",
+        "context": "إخبار بحالة غير جيدة."
+      },
+      {
+        "id": 7,
+        "en": "And you?",
+        "ar": "وأنت؟",
+        "context": "سؤال مختصر عن حال الطرف الآخر."
+      },
+      {
+        "id": 8,
+        "en": "I feel fine now.",
+        "ar": "أشعر أنني بخير الآن.",
+        "context": "تأكيد تحسن الحالة."
+      },
+      {
+        "id": 9,
+        "en": "He is fine after the medicine.",
+        "ar": "هو بخير بعد الدواء.",
+        "context": "ذكر تحسن صحي."
+      },
+      {
+        "id": 10,
+        "en": "I am fine this morning.",
+        "ar": "أنا بخير هذا الصباح.",
+        "context": "ذكر الحال في وقت محدد."
+      }
+    ]
+  }
+}

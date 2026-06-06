@@ -1,0 +1,111 @@
+{
+  "schemaVersion": 1,
+  "id": 500,
+  "sentence": {
+    "en": "Would you like something to drink?",
+    "ar": "هل تود شيئًا للشرب؟",
+    "context": "عرض مشروب بشكل عام."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Would you like something to drink?",
+        "ar": "هل تود شيئًا للشرب؟",
+        "context": "عرض عام ومهذب لأي مشروب.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه صيغة مهذبة أو تركيب مساعد للتعبير عن عرض أو رغبة أو طلب، وليست زمنًا مستقلًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "Would",
+            "description": "تجعل العرض مهذبًا."
+          },
+          {
+            "term": "you",
+            "description": "تشير إلى المخاطب."
+          },
+          {
+            "term": "like",
+            "description": "تعني ترغب."
+          },
+          {
+            "term": "something",
+            "description": "تعني شيئًا غير محدد."
+          },
+          {
+            "term": "to",
+            "description": "تربط الشيء بالفعل المقصود."
+          },
+          {
+            "term": "drink",
+            "description": "تعني تشرب."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Would you like something to eat?",
+        "ar": "هل تود شيئًا للأكل؟",
+        "context": "عرض طعام بشكل عام."
+      },
+      {
+        "id": 2,
+        "en": "I would like something to drink.",
+        "ar": "أود شيئًا للشرب.",
+        "context": "طلب مشروب غير محدد."
+      },
+      {
+        "id": 3,
+        "en": "Would you like water?",
+        "ar": "هل تود ماء؟",
+        "context": "عرض مشروب محدد."
+      },
+      {
+        "id": 4,
+        "en": "She would like juice.",
+        "ar": "هي تود عصيرًا.",
+        "context": "ذكر رغبة في مشروب."
+      },
+      {
+        "id": 5,
+        "en": "Do you want something cold?",
+        "ar": "هل تريد شيئًا باردًا؟",
+        "context": "عرض شيء بارد."
+      },
+      {
+        "id": 6,
+        "en": "We have something to drink.",
+        "ar": "لدينا شيء للشرب.",
+        "context": "إخبار بتوفر مشروب."
+      },
+      {
+        "id": 7,
+        "en": "Would you like tea?",
+        "ar": "هل تود شايًا؟",
+        "context": "عرض الشاي."
+      },
+      {
+        "id": 8,
+        "en": "I need something to drink.",
+        "ar": "أحتاج إلى شيء للشرب.",
+        "context": "التعبير عن العطش."
+      },
+      {
+        "id": 9,
+        "en": "Would they like coffee?",
+        "ar": "هل يودون قهوة؟",
+        "context": "سؤال عن رغبة مجموعة."
+      },
+      {
+        "id": 10,
+        "en": "Please bring something to drink.",
+        "ar": "من فضلك أحضر شيئًا للشرب.",
+        "context": "طلب مشروب عام."
+      }
+    ]
+  }
+}

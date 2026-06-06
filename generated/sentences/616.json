@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": 616,
+  "sentence": {
+    "en": "Do you have any vacancies?",
+    "ar": "هل لديكم غرف شاغرة؟",
+    "context": "السؤال عن توفر غرف في فندق."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Do you have any vacancies?",
+        "ar": "هل لديكم أي غرف شاغرة؟",
+        "context": "تستخدم في فندق للسؤال عن توفر غرف غير محجوزة.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "السؤال عن توفر حالي باستخدام فعل يدل على الامتلاك أو التوفر."
+        },
+        "wordMeanings": [
+          {
+            "term": "Do",
+            "description": "كلمة مساعدة لتكوين سؤال في المضارع البسيط."
+          },
+          {
+            "term": "you",
+            "description": "أنتم أو حضرتكم في هذا السياق عند مخاطبة الفندق."
+          },
+          {
+            "term": "have",
+            "description": "لديكم أو يتوفر عندكم."
+          },
+          {
+            "term": "any",
+            "description": "أي، وتستخدم غالباً في الأسئلة."
+          },
+          {
+            "term": "vacancies",
+            "description": "أماكن أو غرف شاغرة غير محجوزة."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Do you have any rooms?",
+        "ar": "هل لديكم أي غرف؟",
+        "context": "تقال في فندق للسؤال عن الغرف."
+      },
+      {
+        "id": 2,
+        "en": "Do you have a room tonight?",
+        "ar": "هل لديكم غرفة الليلة؟",
+        "context": "تستخدم للسؤال عن توفر غرفة لليلة واحدة."
+      },
+      {
+        "id": 3,
+        "en": "We have no vacancies.",
+        "ar": "ليست لدينا غرف شاغرة.",
+        "context": "تقال عندما يكون الفندق ممتلئاً."
+      },
+      {
+        "id": 4,
+        "en": "Do you have any single rooms?",
+        "ar": "هل لديكم أي غرف مفردة؟",
+        "context": "تستخدم للسؤال عن نوع محدد من الغرف."
+      },
+      {
+        "id": 5,
+        "en": "Do you have any seats available?",
+        "ar": "هل لديكم أي مقاعد متاحة؟",
+        "context": "تقال للسؤال عن توفر مقاعد."
+      },
+      {
+        "id": 6,
+        "en": "The hotel has two vacancies.",
+        "ar": "لدى الفندق غرفتان شاغرتان.",
+        "context": "تستخدم للإخبار بتوفر غرف."
+      },
+      {
+        "id": 7,
+        "en": "Do you have any cheap rooms?",
+        "ar": "هل لديكم أي غرف رخيصة؟",
+        "context": "تقال عند البحث عن غرفة بسعر منخفض."
+      },
+      {
+        "id": 8,
+        "en": "Do you have any beds?",
+        "ar": "هل لديكم أي أسرّة؟",
+        "context": "تستخدم في نزل أو فندق بسيط."
+      },
+      {
+        "id": 9,
+        "en": "We have one room available.",
+        "ar": "لدينا غرفة واحدة متاحة.",
+        "context": "تقال عند وجود خيار واحد فقط."
+      },
+      {
+        "id": 10,
+        "en": "Do you have any vacancies for Friday?",
+        "ar": "هل لديكم أي غرف شاغرة ليوم الجمعة؟",
+        "context": "تستخدم للسؤال عن توفر في تاريخ محدد."
+      }
+    ]
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "schemaVersion": 1,
+  "id": 492,
+  "sentence": {
+    "en": "What would you like to drink?",
+    "ar": "ماذا تود أن تشرب؟",
+    "context": "عرض خيار مشروب على الضيف أو الزبون."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "What would you like to drink?",
+        "ar": "ماذا تود أن تشرب؟",
+        "context": "سؤال مهذب عن المشروب الذي يريده الشخص.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "would like to صيغة مهذبة للسؤال عن الرغبة، وليست زمنًا مستقلًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "What",
+            "description": "تسأل عن الاختيار المطلوب."
+          },
+          {
+            "term": "would",
+            "description": "تجعل السؤال مهذبًا."
+          },
+          {
+            "term": "you",
+            "description": "تشير إلى الشخص المخاطب."
+          },
+          {
+            "term": "like",
+            "description": "تعني ترغب في هذا التعبير."
+          },
+          {
+            "term": "to",
+            "description": "تربط الرغبة بالفعل بعدها."
+          },
+          {
+            "term": "drink",
+            "description": "تعني تشرب."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "What would you like to eat?",
+        "ar": "ماذا تود أن تأكل؟",
+        "context": "سؤال مهذب عن الطعام."
+      },
+      {
+        "id": 2,
+        "en": "I would like to drink water.",
+        "ar": "أود أن أشرب ماء.",
+        "context": "إجابة عن مشروب مطلوب."
+      },
+      {
+        "id": 3,
+        "en": "Would you like tea?",
+        "ar": "هل تود شايًا؟",
+        "context": "عرض مشروب."
+      },
+      {
+        "id": 4,
+        "en": "She would like coffee.",
+        "ar": "هي تود قهوة.",
+        "context": "ذكر رغبة في مشروب."
+      },
+      {
+        "id": 5,
+        "en": "What drink would you like?",
+        "ar": "أي مشروب تود؟",
+        "context": "سؤال عن اختيار مشروب."
+      },
+      {
+        "id": 6,
+        "en": "We would like to drink juice.",
+        "ar": "نود أن نشرب عصيرًا.",
+        "context": "ذكر رغبة مجموعة."
+      },
+      {
+        "id": 7,
+        "en": "Would you like something cold?",
+        "ar": "هل تود شيئًا باردًا؟",
+        "context": "عرض خيار عام."
+      },
+      {
+        "id": 8,
+        "en": "I would like hot tea.",
+        "ar": "أود شايًا ساخنًا.",
+        "context": "اختيار مشروب محدد."
+      },
+      {
+        "id": 9,
+        "en": "What would the children like to drink?",
+        "ar": "ماذا يود الأطفال أن يشربوا؟",
+        "context": "سؤال عن مشروبات الأطفال."
+      },
+      {
+        "id": 10,
+        "en": "Would you like a glass of water?",
+        "ar": "هل تود كأس ماء؟",
+        "context": "عرض ماء بأدب."
+      }
+    ]
+  }
+}

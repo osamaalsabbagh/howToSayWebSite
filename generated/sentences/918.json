@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "id": 918,
+  "sentence": {
+    "en": "I went to the supermarket, and then to the computer store.",
+    "ar": "ذهبت إلى السوبرماركت، ثم إلى محل الحواسيب.",
+    "context": "تُستخدم لسرد الأنشطة التي قام بها الشخص بترتيب زمني."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "I went to the supermarket",
+        "ar": "ذهبت إلى السوبرماركت",
+        "context": "هذا الجزء يذكر المكان الأول الذي ذهب إليه المتكلم في الماضي.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "استُخدم الماضي البسيط لأن الذهاب حدث وانتهى قبل وقت الكلام."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير يشير إلى المتكلم نفسه"
+          },
+          {
+            "term": "went",
+            "description": "ذهب، وتدل هنا على حركة تمت في الماضي"
+          },
+          {
+            "term": "to",
+            "description": "إلى، وتبين اتجاه الذهاب أو المكان المقصود"
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف تشير إلى مكان محدد معروف"
+          },
+          {
+            "term": "supermarket",
+            "description": "سوبرماركت أو متجر كبير لشراء الطعام والحاجات"
+          }
+        ]
+      },
+      {
+        "sentence": "and then to the computer store",
+        "ar": "ثم إلى محل الحواسيب",
+        "context": "هذا الجزء يضيف المكان الثاني بعد المكان الأول في ترتيب الأحداث.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذا تركيب معطوف ومختصر؛ الفعل مفهوم من الجزء السابق، لذلك لا يحتاج إلى زمن مستقل."
+        },
+        "wordMeanings": [
+          {
+            "term": "and",
+            "description": "و، تربط بين فكرتين أو مكانين"
+          },
+          {
+            "term": "then",
+            "description": "ثم، وتبين أن الأمر حدث بعد ما قبله"
+          },
+          {
+            "term": "to",
+            "description": "إلى، وتدل على الاتجاه نحو مكان آخر"
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف تشير إلى محل محدد"
+          },
+          {
+            "term": "computer",
+            "description": "حاسوب، وتصف نوع المحل هنا"
+          },
+          {
+            "term": "store",
+            "description": "محل أو متجر للبيع"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I went to the bank, and then to the post office.",
+        "ar": "ذهبت إلى البنك، ثم إلى مكتب البريد.",
+        "context": "تُستخدم لسرد مكانين ذهبت إليهما بالترتيب."
+      },
+      {
+        "id": 2,
+        "en": "I went to the park, and then to the library.",
+        "ar": "ذهبت إلى الحديقة، ثم إلى المكتبة.",
+        "context": "تُستخدم عند ذكر نشاطين في أماكن مختلفة."
+      },
+      {
+        "id": 3,
+        "en": "She went to the market, and then to the pharmacy.",
+        "ar": "ذهبت إلى السوق، ثم إلى الصيدلية.",
+        "context": "تُستخدم لوصف تنقل شخص آخر بين مكانين."
+      },
+      {
+        "id": 4,
+        "en": "We went to class, and then to lunch.",
+        "ar": "ذهبنا إلى الصف، ثم إلى الغداء.",
+        "context": "تُستخدم لوصف جدول بسيط في الماضي."
+      },
+      {
+        "id": 5,
+        "en": "He went home, and then to work.",
+        "ar": "ذهب إلى البيت، ثم إلى العمل.",
+        "context": "تُستخدم عند ترتيب مشاوير الشخص."
+      },
+      {
+        "id": 6,
+        "en": "I went to the cafe, and then to the bookstore.",
+        "ar": "ذهبت إلى المقهى، ثم إلى مكتبة بيع الكتب.",
+        "context": "تُستخدم لوصف مشوارين متتاليين."
+      },
+      {
+        "id": 7,
+        "en": "They went to the hotel, and then to the beach.",
+        "ar": "ذهبوا إلى الفندق، ثم إلى الشاطئ.",
+        "context": "تُستخدم لوصف ترتيب الرحلة."
+      },
+      {
+        "id": 8,
+        "en": "I went to the doctor, and then to the office.",
+        "ar": "ذهبت إلى الطبيب، ثم إلى المكتب.",
+        "context": "تُستخدم لسرد مواعيد يوم سابق."
+      },
+      {
+        "id": 9,
+        "en": "My father went to the garage, and then to the store.",
+        "ar": "ذهب أبي إلى المرآب، ثم إلى المتجر.",
+        "context": "تُستخدم لوصف تحركات شخص في الماضي."
+      },
+      {
+        "id": 10,
+        "en": "We went downtown, and then to the station.",
+        "ar": "ذهبنا إلى وسط المدينة، ثم إلى المحطة.",
+        "context": "تُستخدم عند شرح مسار رحلة قصيرة."
+      }
+    ]
+  }
+}

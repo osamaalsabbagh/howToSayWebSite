@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": 863,
+  "sentence": {
+    "en": "What is the room rate?",
+    "ar": "كم سعر الغرفة؟",
+    "context": "تُستخدم للسؤال عن تكلفة الغرفة في فندق لكل ليلة."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "What is the room rate?",
+        "ar": "كم سعر الغرفة؟",
+        "context": "سؤال في فندق عن سعر الغرفة.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "الفعل is يسأل عن قيمة أو سعر حالي، وroom rate تعني سعر الغرفة."
+        },
+        "wordMeanings": [
+          {
+            "term": "What",
+            "description": "ما أو كم في هذا السؤال"
+          },
+          {
+            "term": "is",
+            "description": "يكون أو يساوي"
+          },
+          {
+            "term": "the",
+            "description": "تحدد السعر المقصود"
+          },
+          {
+            "term": "room",
+            "description": "غرفة"
+          },
+          {
+            "term": "rate",
+            "description": "سعر أو تعرفة"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "What is the price?",
+        "ar": "ما السعر؟",
+        "context": "للسؤال عن سعر عام."
+      },
+      {
+        "id": 2,
+        "en": "What is the room price?",
+        "ar": "كم سعر الغرفة؟",
+        "context": "صيغة مباشرة في فندق."
+      },
+      {
+        "id": 3,
+        "en": "How much is the room?",
+        "ar": "كم سعر الغرفة؟",
+        "context": "للسؤال عن تكلفة غرفة."
+      },
+      {
+        "id": 4,
+        "en": "What is the rate per night?",
+        "ar": "كم السعر لكل ليلة؟",
+        "context": "في فندق أو سكن."
+      },
+      {
+        "id": 5,
+        "en": "Is breakfast included in the room rate?",
+        "ar": "هل الإفطار مشمول في سعر الغرفة؟",
+        "context": "للسؤال عن تفاصيل السعر."
+      },
+      {
+        "id": 6,
+        "en": "What is the daily rate?",
+        "ar": "كم السعر اليومي؟",
+        "context": "للسؤال عن تكلفة يومية."
+      },
+      {
+        "id": 7,
+        "en": "The room rate is 80 dollars.",
+        "ar": "سعر الغرفة ٨٠ دولارا.",
+        "context": "للإجابة عن سعر الغرفة."
+      },
+      {
+        "id": 8,
+        "en": "What is the weekly rate?",
+        "ar": "كم السعر الأسبوعي؟",
+        "context": "للسؤال عن إقامة أطول."
+      },
+      {
+        "id": 9,
+        "en": "Can you lower the room rate?",
+        "ar": "هل يمكنك تخفيض سعر الغرفة؟",
+        "context": "للتفاوض على السعر."
+      },
+      {
+        "id": 10,
+        "en": "What is the room rate tonight?",
+        "ar": "كم سعر الغرفة الليلة؟",
+        "context": "للسؤال عن سعر ليلة محددة."
+      }
+    ]
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": 713,
+  "sentence": {
+    "en": "Take this medicine.",
+    "ar": "خذ هذا الدواء.",
+    "context": "طلب من شخص أن يتناول دواءً معينًا."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Take this medicine.",
+        "ar": "خذ هذا الدواء.",
+        "context": "تستخدم لإعطاء تعليمات بتناول دواء محدد.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه صيغة أمر مباشر وليست زمناً مستقلاً."
+        },
+        "wordMeanings": [
+          {
+            "term": "Take",
+            "description": "خذ أو تناول في سياق الدواء."
+          },
+          {
+            "term": "this",
+            "description": "هذا، وتشير إلى دواء محدد قريب."
+          },
+          {
+            "term": "medicine",
+            "description": "دواء."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Take this medicine after dinner.",
+        "ar": "خذ هذا الدواء بعد العشاء.",
+        "context": "تستخدم مع وقت تناول الدواء."
+      },
+      {
+        "id": 2,
+        "en": "Please take your medicine.",
+        "ar": "من فضلك خذ دواءك.",
+        "context": "تقال بصيغة ألطف."
+      },
+      {
+        "id": 3,
+        "en": "Do not take this medicine.",
+        "ar": "لا تأخذ هذا الدواء.",
+        "context": "تستخدم للتحذير من دواء."
+      },
+      {
+        "id": 4,
+        "en": "She needs to take medicine.",
+        "ar": "هي تحتاج إلى أخذ دواء.",
+        "context": "تقال عند حاجة شخص للعلاج."
+      },
+      {
+        "id": 5,
+        "en": "Take this medicine with water.",
+        "ar": "خذ هذا الدواء مع الماء.",
+        "context": "تستخدم كتعليمات طبية."
+      },
+      {
+        "id": 6,
+        "en": "Can I take this medicine?",
+        "ar": "هل يمكنني أخذ هذا الدواء؟",
+        "context": "تقال للسؤال عن السماح."
+      },
+      {
+        "id": 7,
+        "en": "The doctor told me to take medicine.",
+        "ar": "قال لي الطبيب أن آخذ دواء.",
+        "context": "تستخدم لنقل تعليمات الطبيب."
+      },
+      {
+        "id": 8,
+        "en": "Take one pill.",
+        "ar": "خذ حبة واحدة.",
+        "context": "تقال عند تحديد الجرعة."
+      },
+      {
+        "id": 9,
+        "en": "This medicine helps your throat.",
+        "ar": "هذا الدواء يساعد حلقك.",
+        "context": "تستخدم لشرح فائدة الدواء."
+      },
+      {
+        "id": 10,
+        "en": "Take the medicine now.",
+        "ar": "خذ الدواء الآن.",
+        "context": "تستخدم لتحديد وقت فوري."
+      }
+    ]
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "schemaVersion": 1,
+  "id": 499,
+  "sentence": {
+    "en": "Would you like coffee or tea?",
+    "ar": "هل تود قهوةً أم شايًا؟",
+    "context": "عرض خيارين من المشروبات."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Would you like coffee or tea?",
+        "ar": "هل تود قهوة أم شايًا؟",
+        "context": "عرض مهذب بين خيارين من المشروبات.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه صيغة مهذبة أو تركيب مساعد للتعبير عن عرض أو رغبة أو طلب، وليست زمنًا مستقلًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "Would",
+            "description": "تجعل السؤال مهذبًا."
+          },
+          {
+            "term": "you",
+            "description": "تشير إلى المخاطب."
+          },
+          {
+            "term": "like",
+            "description": "تعني ترغب أو تود."
+          },
+          {
+            "term": "coffee",
+            "description": "مشروب القهوة."
+          },
+          {
+            "term": "or",
+            "description": "تعني أو وتعرض خيارًا آخر."
+          },
+          {
+            "term": "tea",
+            "description": "مشروب الشاي."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Would you like tea or juice?",
+        "ar": "هل تود شايًا أم عصيرًا؟",
+        "context": "عرض خيارين من المشروبات."
+      },
+      {
+        "id": 2,
+        "en": "I would like coffee, please.",
+        "ar": "أود قهوة من فضلك.",
+        "context": "اختيار القهوة."
+      },
+      {
+        "id": 3,
+        "en": "She would like tea.",
+        "ar": "هي تود شايًا.",
+        "context": "ذكر رغبة شخص."
+      },
+      {
+        "id": 4,
+        "en": "Coffee or tea?",
+        "ar": "قهوة أم شاي؟",
+        "context": "عرض مختصر لخيارين."
+      },
+      {
+        "id": 5,
+        "en": "Would you like soup or salad?",
+        "ar": "هل تود شوربة أم سلطة؟",
+        "context": "عرض خيارين من الطعام."
+      },
+      {
+        "id": 6,
+        "en": "We would like coffee.",
+        "ar": "نود قهوة.",
+        "context": "طلب مشروب لمجموعة."
+      },
+      {
+        "id": 7,
+        "en": "He does not like tea.",
+        "ar": "هو لا يحب الشاي.",
+        "context": "نفي تفضيل مشروب."
+      },
+      {
+        "id": 8,
+        "en": "Would you like a hot drink?",
+        "ar": "هل تود مشروبًا ساخنًا؟",
+        "context": "عرض نوع عام من المشروبات."
+      },
+      {
+        "id": 9,
+        "en": "Tea or coffee is fine.",
+        "ar": "الشاي أو القهوة مناسبان.",
+        "context": "قبول أي من الخيارين."
+      },
+      {
+        "id": 10,
+        "en": "What would you like to drink?",
+        "ar": "ماذا تود أن تشرب؟",
+        "context": "سؤال عام عن المشروب."
+      }
+    ]
+  }
+}

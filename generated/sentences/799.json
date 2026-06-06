@@ -1,0 +1,111 @@
+{
+  "schemaVersion": 1,
+  "id": 799,
+  "sentence": {
+    "en": "Which school does he go to?",
+    "ar": "إلى أي مدرسة يذهب؟",
+    "context": "السؤال عن اسم المدرسة التي يدرس فيها شخص ما."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Which school does he go to?",
+        "ar": "إلى أي مدرسة يذهب؟",
+        "context": "سؤال عن المدرسة التي يرتادها شخص عادة.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "يستخدم المضارع البسيط للسؤال عن عادة أو ترتيب ثابت، ومع he نستخدم does ويأتي الفعل go بصورته الأساسية."
+        },
+        "wordMeanings": [
+          {
+            "term": "Which",
+            "description": "أي؛ للاختيار من مدارس محددة أو محتملة"
+          },
+          {
+            "term": "school",
+            "description": "مدرسة"
+          },
+          {
+            "term": "does",
+            "description": "أداة سؤال مع هو أو هي في المضارع البسيط"
+          },
+          {
+            "term": "he",
+            "description": "هو؛ ولد أو رجل"
+          },
+          {
+            "term": "go",
+            "description": "يذهب أو يرتاد"
+          },
+          {
+            "term": "to",
+            "description": "إلى؛ تدل على الاتجاه أو المكان"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Which school do you go to?",
+        "ar": "إلى أي مدرسة تذهب؟",
+        "context": "للسؤال عن مدرسة المخاطب."
+      },
+      {
+        "id": 2,
+        "en": "Which school does she go to?",
+        "ar": "إلى أي مدرسة تذهب؟",
+        "context": "للسؤال عن مدرسة فتاة."
+      },
+      {
+        "id": 3,
+        "en": "Which class does he go to?",
+        "ar": "إلى أي صف يذهب؟",
+        "context": "للسؤال عن الصف الدراسي."
+      },
+      {
+        "id": 4,
+        "en": "Which college does he attend?",
+        "ar": "أي كلية يرتاد؟",
+        "context": "للسؤال عن كلية شخص."
+      },
+      {
+        "id": 5,
+        "en": "Where does he go to school?",
+        "ar": "أين يذهب إلى المدرسة؟",
+        "context": "صيغة أخرى للسؤال عن مكان الدراسة."
+      },
+      {
+        "id": 6,
+        "en": "Which school do they go to?",
+        "ar": "إلى أي مدرسة يذهبون؟",
+        "context": "للسؤال عن مدرسة مجموعة."
+      },
+      {
+        "id": 7,
+        "en": "Which school is near your house?",
+        "ar": "أي مدرسة قريبة من بيتك؟",
+        "context": "للسؤال عن مدرسة محددة بموقع."
+      },
+      {
+        "id": 8,
+        "en": "Which school did he go to?",
+        "ar": "إلى أي مدرسة ذهب؟",
+        "context": "للسؤال عن مدرسة في الماضي."
+      },
+      {
+        "id": 9,
+        "en": "Which school does your son go to?",
+        "ar": "إلى أي مدرسة يذهب ابنك؟",
+        "context": "للسؤال عن مدرسة الابن."
+      },
+      {
+        "id": 10,
+        "en": "Which school does he like?",
+        "ar": "أي مدرسة يحب؟",
+        "context": "للسؤال عن تفضيل مدرسة."
+      }
+    ]
+  }
+}

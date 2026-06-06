@@ -1,0 +1,102 @@
+{
+  "schemaVersion": 1,
+  "id": 13,
+  "sentence": {
+    "en": "Yes, I do.",
+    "ar": "نعم، أفعل.",
+    "context": "إجابة مباشرة ومختصرة أنه يقوم بذلك."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Yes, I do.",
+        "ar": "نعم، أفعل.",
+        "context": "The speaker gives a short positive answer to a do question.",
+        "grammar": {
+          "tense": "simple present",
+          "tenseEn": "Simple Present",
+          "reason": "Do repeats the auxiliary from the question in a short present answer."
+        },
+        "wordMeanings": [
+          {
+            "term": "Yes",
+            "ar": "نعم",
+            "description": "Arabic meaning for \"Yes\" in this sentence."
+          },
+          {
+            "term": "I",
+            "ar": "أنا",
+            "description": "Arabic meaning for \"I\" in this sentence."
+          },
+          {
+            "term": "do",
+            "ar": "أفعل",
+            "description": "Arabic meaning for \"do\" in this sentence."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Yes, I do.",
+        "ar": "نعم، أفعل.",
+        "context": "Answering yes to a do question."
+      },
+      {
+        "id": 2,
+        "en": "Yes, we do.",
+        "ar": "نعم، نفعل.",
+        "context": "Giving a group answer."
+      },
+      {
+        "id": 3,
+        "en": "No, I do not.",
+        "ar": "لا، لا أفعل.",
+        "context": "Giving a negative short answer."
+      },
+      {
+        "id": 4,
+        "en": "Yes, she does.",
+        "ar": "نعم، هي تفعل.",
+        "context": "Answering about someone else."
+      },
+      {
+        "id": 5,
+        "en": "I do this every day.",
+        "ar": "أفعل هذا كل يوم.",
+        "context": "Describing a repeated action."
+      },
+      {
+        "id": 6,
+        "en": "Do you work here?",
+        "ar": "هل تعمل هنا؟",
+        "context": "Asking a do question."
+      },
+      {
+        "id": 7,
+        "en": "Yes, they do.",
+        "ar": "نعم، هم يفعلون.",
+        "context": "Answering about a group."
+      },
+      {
+        "id": 8,
+        "en": "I do my work early.",
+        "ar": "أفعل عملي مبكرًا.",
+        "context": "Using do as a main verb."
+      },
+      {
+        "id": 9,
+        "en": "Do you come here?",
+        "ar": "هل تأتي إلى هنا؟",
+        "context": "Asking about visiting a place."
+      },
+      {
+        "id": 10,
+        "en": "Yes, he does.",
+        "ar": "نعم، هو يفعل.",
+        "context": "Giving a short answer about a man."
+      }
+    ]
+  }
+}

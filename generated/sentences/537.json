@@ -1,0 +1,111 @@
+{
+  "schemaVersion": 1,
+  "id": 537,
+  "sentence": {
+    "en": "How many children do you have?",
+    "ar": "كم عدد أطفالك؟",
+    "context": "السؤال عن عدد الأبناء."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "How many children do you have?",
+        "ar": "كم عدد أطفالك؟",
+        "context": "سؤال عن عدد الأبناء لدى الشخص.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "يستخدم do have للسؤال عن حقيقة شخصية حالية."
+        },
+        "wordMeanings": [
+          {
+            "term": "How",
+            "description": "تدخل في سؤال عن العدد."
+          },
+          {
+            "term": "many",
+            "description": "تعني كم عدد وتستخدم مع الأشياء المعدودة."
+          },
+          {
+            "term": "children",
+            "description": "تعني أطفال أو أبناء."
+          },
+          {
+            "term": "do",
+            "description": "تساعد في تكوين السؤال."
+          },
+          {
+            "term": "you",
+            "description": "تشير إلى المخاطب."
+          },
+          {
+            "term": "have",
+            "description": "تعني لديك."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "How many brothers do you have?",
+        "ar": "كم أخًا لديك؟",
+        "context": "سؤال عن عدد الإخوة."
+      },
+      {
+        "id": 2,
+        "en": "I have two children.",
+        "ar": "لدي طفلان.",
+        "context": "إجابة عن عدد الأبناء."
+      },
+      {
+        "id": 3,
+        "en": "She has three children.",
+        "ar": "لديها ثلاثة أطفال.",
+        "context": "ذكر عدد أبناء شخص."
+      },
+      {
+        "id": 4,
+        "en": "Do you have children?",
+        "ar": "هل لديك أطفال؟",
+        "context": "سؤال عام عن وجود أبناء."
+      },
+      {
+        "id": 5,
+        "en": "How many people are in your family?",
+        "ar": "كم شخصًا في عائلتك؟",
+        "context": "سؤال عن عدد أفراد العائلة."
+      },
+      {
+        "id": 6,
+        "en": "They have one child.",
+        "ar": "لديهم طفل واحد.",
+        "context": "ذكر عدد أبناء."
+      },
+      {
+        "id": 7,
+        "en": "I do not have children.",
+        "ar": "ليس لدي أطفال.",
+        "context": "نفي وجود أبناء."
+      },
+      {
+        "id": 8,
+        "en": "How many sisters do you have?",
+        "ar": "كم أختًا لديك؟",
+        "context": "سؤال عن عدد الأخوات."
+      },
+      {
+        "id": 9,
+        "en": "My friend has four children.",
+        "ar": "لدى صديقي أربعة أطفال.",
+        "context": "ذكر عدد أبناء صديق."
+      },
+      {
+        "id": 10,
+        "en": "The children are at home.",
+        "ar": "الأطفال في المنزل.",
+        "context": "تحديد مكان الأطفال."
+      }
+    ]
+  }
+}

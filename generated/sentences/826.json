@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "id": 826,
+  "sentence": {
+    "en": "How is the weather?",
+    "ar": "كيف الطقس؟",
+    "context": "السؤال عن حالة الطقس الآن."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "How is the weather?",
+        "ar": "كيف الطقس؟",
+        "context": "سؤال عام عن حالة الطقس الحالية.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "الفعل is يصف حالة الطقس الحالية، وHow تسأل عن الحال أو الوصف."
+        },
+        "wordMeanings": [
+          {
+            "term": "How",
+            "description": "كيف؛ للسؤال عن الحال"
+          },
+          {
+            "term": "is",
+            "description": "يكون أو حالته الآن"
+          },
+          {
+            "term": "the",
+            "description": "تحدد الشيء المقصود"
+          },
+          {
+            "term": "weather",
+            "description": "الطقس أو حالة الجو"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "How is the weather today?",
+        "ar": "كيف الطقس اليوم؟",
+        "context": "للسؤال عن طقس اليوم."
+      },
+      {
+        "id": 2,
+        "en": "How is the weather there?",
+        "ar": "كيف الطقس هناك؟",
+        "context": "للسؤال عن طقس مكان آخر."
+      },
+      {
+        "id": 3,
+        "en": "Is the weather good?",
+        "ar": "هل الطقس جيد؟",
+        "context": "للتأكد من مناسبة الطقس."
+      },
+      {
+        "id": 4,
+        "en": "How is the weather in winter?",
+        "ar": "كيف الطقس في الشتاء؟",
+        "context": "للسؤال عن طقس موسم."
+      },
+      {
+        "id": 5,
+        "en": "What is the weather like?",
+        "ar": "كيف حال الطقس؟",
+        "context": "صيغة شائعة للسؤال عن الطقس."
+      },
+      {
+        "id": 6,
+        "en": "How is the weather outside?",
+        "ar": "كيف الطقس في الخارج؟",
+        "context": "قبل الخروج."
+      },
+      {
+        "id": 7,
+        "en": "How is the weather in New York?",
+        "ar": "كيف الطقس في نيويورك؟",
+        "context": "للسؤال عن طقس مدينة."
+      },
+      {
+        "id": 8,
+        "en": "Is the weather cold?",
+        "ar": "هل الطقس بارد؟",
+        "context": "للسؤال عن البرودة."
+      },
+      {
+        "id": 9,
+        "en": "Is the weather hot?",
+        "ar": "هل الطقس حار؟",
+        "context": "للسؤال عن الحرارة."
+      },
+      {
+        "id": 10,
+        "en": "How was the weather yesterday?",
+        "ar": "كيف كان الطقس أمس؟",
+        "context": "للسؤال عن طقس سابق."
+      }
+    ]
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "schemaVersion": 1,
+  "id": 619,
+  "sentence": {
+    "en": "Do you know where she is?",
+    "ar": "هل تعرف أين هي؟",
+    "context": "الاستفسار عن مكان شخص معين."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Do you know",
+        "ar": "هل تعرف",
+        "context": "هذا الجزء يطلب من المخاطب معلومة أو معرفة.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "السؤال عن معرفة حالية لدى المخاطب."
+        },
+        "wordMeanings": [
+          {
+            "term": "Do",
+            "description": "كلمة مساعدة لتكوين سؤال في المضارع البسيط."
+          },
+          {
+            "term": "you",
+            "description": "أنت أو أنتم حسب السياق."
+          },
+          {
+            "term": "know",
+            "description": "تعرف أو تعلم."
+          }
+        ]
+      },
+      {
+        "sentence": "where she is?",
+        "ar": "أين هي؟",
+        "context": "هذا الجزء يوضح أن المعلومة المطلوبة هي مكان المرأة.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "الجزء يسأل عن مكان أو حالة وجود حالية."
+        },
+        "wordMeanings": [
+          {
+            "term": "where",
+            "description": "أين، وتستخدم للسؤال عن المكان."
+          },
+          {
+            "term": "she",
+            "description": "هي، وتشير إلى امرأة."
+          },
+          {
+            "term": "is",
+            "description": "صيغة تربط الشخص بمكانه أو حالته الآن."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Do you know where he is?",
+        "ar": "هل تعرف أين هو؟",
+        "context": "تقال للسؤال عن مكان رجل."
+      },
+      {
+        "id": 2,
+        "en": "Do you know where my phone is?",
+        "ar": "هل تعرف أين هاتفي؟",
+        "context": "تستخدم عند البحث عن الهاتف."
+      },
+      {
+        "id": 3,
+        "en": "I know where she is.",
+        "ar": "أعرف أين هي.",
+        "context": "تقال عند معرفة مكان امرأة."
+      },
+      {
+        "id": 4,
+        "en": "She knows where the hotel is.",
+        "ar": "هي تعرف أين الفندق.",
+        "context": "تستخدم عند معرفة موقع فندق."
+      },
+      {
+        "id": 5,
+        "en": "Do you know where they live?",
+        "ar": "هل تعرف أين يعيشون؟",
+        "context": "تقال للسؤال عن مكان سكن مجموعة."
+      },
+      {
+        "id": 6,
+        "en": "Do you know when she comes?",
+        "ar": "هل تعرف متى تأتي؟",
+        "context": "تستخدم للسؤال عن وقت بدلاً من مكان."
+      },
+      {
+        "id": 7,
+        "en": "We do not know where she is.",
+        "ar": "لا نعرف أين هي.",
+        "context": "تقال لنفي معرفة مكان شخص."
+      },
+      {
+        "id": 8,
+        "en": "Do you know where the bank is?",
+        "ar": "هل تعرف أين البنك؟",
+        "context": "تستخدم للسؤال عن موقع بنك."
+      },
+      {
+        "id": 9,
+        "en": "He knows where she works.",
+        "ar": "هو يعرف أين تعمل.",
+        "context": "تقال عند معرفة مكان عمل امرأة."
+      },
+      {
+        "id": 10,
+        "en": "Do you know where we are?",
+        "ar": "هل تعرف أين نحن؟",
+        "context": "تستخدم عند السؤال عن الموقع الحالي."
+      }
+    ]
+  }
+}

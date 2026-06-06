@@ -1,0 +1,131 @@
+{
+  "schemaVersion": 1,
+  "id": 591,
+  "sentence": {
+    "en": "Where did you work before you worked here?",
+    "ar": "أين كنت تعمل قبل أن تعمل هنا؟",
+    "context": "السؤال عن الوظيفة السابقة لشخص ما."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Where did you work",
+        "ar": "أين كنت تعمل",
+        "context": "هذا الجزء يسأل عن مكان العمل السابق.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "السؤال عن عمل حدث في فترة سابقة قبل الوضع الحالي."
+        },
+        "wordMeanings": [
+          {
+            "term": "Where",
+            "description": "أين، وتستخدم للسؤال عن المكان."
+          },
+          {
+            "term": "did",
+            "description": "كلمة مساعدة لتكوين سؤال في الماضي."
+          },
+          {
+            "term": "you",
+            "description": "أنت أو أنتم حسب السياق."
+          },
+          {
+            "term": "work",
+            "description": "تعمل أو تمارس وظيفة."
+          }
+        ]
+      },
+      {
+        "sentence": "before you worked here?",
+        "ar": "قبل أن تعمل هنا؟",
+        "context": "هذا الجزء يحدد أن السؤال عن الفترة التي سبقت العمل في المكان الحالي.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "استخدم الفعل الماضي لأن العمل في هذا المكان بدأ في الماضي، والجزء يحدد الترتيب الزمني."
+        },
+        "wordMeanings": [
+          {
+            "term": "before",
+            "description": "قبل، وتدل على ترتيب زمني سابق."
+          },
+          {
+            "term": "you",
+            "description": "أنت أو أنتم حسب السياق."
+          },
+          {
+            "term": "worked",
+            "description": "عملت، فعل في الماضي."
+          },
+          {
+            "term": "here",
+            "description": "هنا، أي في هذا المكان."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Where did you live before you moved here?",
+        "ar": "أين كنت تعيش قبل أن تنتقل إلى هنا؟",
+        "context": "تقال للسؤال عن مكان السكن السابق."
+      },
+      {
+        "id": 2,
+        "en": "Where did she work before this job?",
+        "ar": "أين كانت تعمل قبل هذه الوظيفة؟",
+        "context": "تستخدم للسؤال عن عمل امرأة السابق."
+      },
+      {
+        "id": 3,
+        "en": "I worked at a hotel before I worked here.",
+        "ar": "عملت في فندق قبل أن أعمل هنا.",
+        "context": "تقال للإجابة عن وظيفة سابقة."
+      },
+      {
+        "id": 4,
+        "en": "Where did he study before college?",
+        "ar": "أين درس قبل الكلية؟",
+        "context": "تستخدم للسؤال عن دراسة سابقة."
+      },
+      {
+        "id": 5,
+        "en": "They worked in Boston before they moved.",
+        "ar": "عملوا في بوسطن قبل أن ينتقلوا.",
+        "context": "تقال لذكر عمل سابق قبل انتقال."
+      },
+      {
+        "id": 6,
+        "en": "Where did you work last year?",
+        "ar": "أين عملت العام الماضي؟",
+        "context": "تستخدم للسؤال عن وظيفة في وقت ماض محدد."
+      },
+      {
+        "id": 7,
+        "en": "I worked in a bank before this company.",
+        "ar": "عملت في بنك قبل هذه الشركة.",
+        "context": "تقال عند الحديث عن خبرة وظيفية."
+      },
+      {
+        "id": 8,
+        "en": "Where did your father work before retirement?",
+        "ar": "أين عمل والدك قبل التقاعد؟",
+        "context": "تستخدم للسؤال عن عمل الأب السابق."
+      },
+      {
+        "id": 9,
+        "en": "She worked here before she moved away.",
+        "ar": "عملت هنا قبل أن تنتقل بعيداً.",
+        "context": "تقال لشرح ترتيب حدثين في الماضي."
+      },
+      {
+        "id": 10,
+        "en": "Where did you go before you came here?",
+        "ar": "إلى أين ذهبت قبل أن تأتي إلى هنا؟",
+        "context": "تستخدم للسؤال عن مكان سابق قبل الوصول."
+      }
+    ]
+  }
+}

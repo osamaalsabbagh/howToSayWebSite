@@ -1,0 +1,123 @@
+{
+  "schemaVersion": 1,
+  "id": 548,
+  "sentence": {
+    "en": "I will tell him you called.",
+    "ar": "سأخبره أنك اتصلت.",
+    "context": "الوعد بإيصال خبر مكالمة إلى شخص آخر."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "I will tell him",
+        "ar": "سأخبره",
+        "context": "الجزء الأول وعد بإيصال المعلومة إلى شخص آخر.",
+        "grammar": {
+          "tense": "المستقبل البسيط",
+          "tenseEn": "Future Simple",
+          "reason": "will يدل على وعد أو نية مستقبلية."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "تشير إلى المتكلم."
+          },
+          {
+            "term": "will",
+            "description": "تدل على فعل سيحدث في المستقبل."
+          },
+          {
+            "term": "tell",
+            "description": "تعني أخبر."
+          },
+          {
+            "term": "him",
+            "description": "تشير إلى شخص مذكر غائب."
+          }
+        ]
+      },
+      {
+        "sentence": "you called.",
+        "ar": "أنك اتصلت.",
+        "context": "الجزء الثاني يوضح الرسالة التي سيخبره بها.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "called في الماضي البسيط يدل على اتصال حدث قبل لحظة الكلام."
+        },
+        "wordMeanings": [
+          {
+            "term": "you",
+            "description": "تشير إلى المخاطب."
+          },
+          {
+            "term": "called",
+            "description": "تعني اتصلت."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I will tell her you called.",
+        "ar": "سأخبرها أنك اتصلت.",
+        "context": "وعد بإيصال رسالة."
+      },
+      {
+        "id": 2,
+        "en": "Please tell him I called.",
+        "ar": "من فضلك أخبره أنني اتصلت.",
+        "context": "طلب نقل خبر مكالمة."
+      },
+      {
+        "id": 3,
+        "en": "I will give him the message.",
+        "ar": "سأعطيه الرسالة.",
+        "context": "وعد بإيصال رسالة."
+      },
+      {
+        "id": 4,
+        "en": "She called this morning.",
+        "ar": "اتصلت هذا الصباح.",
+        "context": "ذكر اتصال سابق."
+      },
+      {
+        "id": 5,
+        "en": "I will tell him tomorrow.",
+        "ar": "سأخبره غدًا.",
+        "context": "تحديد وقت الإخبار."
+      },
+      {
+        "id": 6,
+        "en": "He will call you back.",
+        "ar": "سيتصل بك لاحقًا.",
+        "context": "وعد باتصال عكسي."
+      },
+      {
+        "id": 7,
+        "en": "Did you call him?",
+        "ar": "هل اتصلت به؟",
+        "context": "سؤال عن اتصال سابق."
+      },
+      {
+        "id": 8,
+        "en": "I told him the news.",
+        "ar": "أخبرته بالخبر.",
+        "context": "ذكر إخبار سابق."
+      },
+      {
+        "id": 9,
+        "en": "Tell her I am here.",
+        "ar": "أخبرها أنني هنا.",
+        "context": "طلب نقل معلومة."
+      },
+      {
+        "id": 10,
+        "en": "I will not forget to tell him.",
+        "ar": "لن أنسى أن أخبره.",
+        "context": "تأكيد الالتزام."
+      }
+    ]
+  }
+}

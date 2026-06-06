@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "id": 756,
+  "sentence": {
+    "en": "How much is it?",
+    "ar": "كم سعره؟",
+    "context": "السؤال عن السعر."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "How much is it?",
+        "ar": "كم سعره؟",
+        "context": "سؤال مباشر عن سعر شيء أمامك أو معروف.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "الفعل is يصف السعر الحالي للشيء، وتعبير How much يستخدم للسؤال عن السعر أو الكمية غير المعدودة."
+        },
+        "wordMeanings": [
+          {
+            "term": "How",
+            "description": "كم في هذا التعبير"
+          },
+          {
+            "term": "much",
+            "description": "كثير أو مقدار، ويستخدم هنا للسعر"
+          },
+          {
+            "term": "is",
+            "description": "يكون أو يساوي في السعر"
+          },
+          {
+            "term": "it",
+            "description": "هذا الشيء غير المسمى"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "How much is this?",
+        "ar": "كم سعر هذا؟",
+        "context": "للسؤال عن سعر شيء تشير إليه."
+      },
+      {
+        "id": 2,
+        "en": "How much is the ticket?",
+        "ar": "كم سعر التذكرة؟",
+        "context": "عند شراء تذكرة."
+      },
+      {
+        "id": 3,
+        "en": "How much is the room?",
+        "ar": "كم سعر الغرفة؟",
+        "context": "في فندق أو سكن."
+      },
+      {
+        "id": 4,
+        "en": "How much is the coffee?",
+        "ar": "كم سعر القهوة؟",
+        "context": "في مقهى أو متجر."
+      },
+      {
+        "id": 5,
+        "en": "How much is a taxi?",
+        "ar": "كم سعر سيارة الأجرة؟",
+        "context": "للسؤال عن تكلفة النقل."
+      },
+      {
+        "id": 6,
+        "en": "How much is the bag?",
+        "ar": "كم سعر الحقيبة؟",
+        "context": "عند التسوق."
+      },
+      {
+        "id": 7,
+        "en": "How much is dinner?",
+        "ar": "كم سعر العشاء؟",
+        "context": "للسؤال عن تكلفة وجبة."
+      },
+      {
+        "id": 8,
+        "en": "How much is the bill?",
+        "ar": "كم قيمة الفاتورة؟",
+        "context": "بعد خدمة أو طعام."
+      },
+      {
+        "id": 9,
+        "en": "How much is the phone?",
+        "ar": "كم سعر الهاتف؟",
+        "context": "للسؤال عن سعر جهاز."
+      },
+      {
+        "id": 10,
+        "en": "How much is one night?",
+        "ar": "كم سعر ليلة واحدة؟",
+        "context": "في فندق أو مكان إقامة."
+      }
+    ]
+  }
+}

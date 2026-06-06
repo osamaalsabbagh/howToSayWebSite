@@ -1,0 +1,115 @@
+{
+  "schemaVersion": 1,
+  "id": 570,
+  "sentence": {
+    "en": "No, I am American.",
+    "ar": "لا، أنا أمريكي.",
+    "context": "توضيح الجنسية عند النفي."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "No,",
+        "ar": "لا،",
+        "context": "تستخدم للرد بالنفي قبل توضيح المعلومة الصحيحة.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه كلمة جواب قصيرة وليست جملة ذات زمن."
+        },
+        "wordMeanings": [
+          {
+            "term": "No",
+            "description": "لا، وتستخدم للنفي أو الرفض."
+          }
+        ]
+      },
+      {
+        "sentence": "I am American.",
+        "ar": "أنا أمريكي.",
+        "context": "توضح الجنسية الصحيحة بعد النفي.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "الجملة تصف هوية أو جنسية حالية للمتكلم."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير يعني أنا، ويشير إلى المتكلم."
+          },
+          {
+            "term": "am",
+            "description": "صيغة تأتي مع ضمير المتكلم المفرد وتربط المتكلم بوصفه."
+          },
+          {
+            "term": "American",
+            "description": "أمريكي، أي من الولايات المتحدة أو يحمل جنسيتها."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "No, I am Canadian.",
+        "ar": "لا، أنا كندي.",
+        "context": "تقال لتصحيح الجنسية بعد سؤال خاطئ."
+      },
+      {
+        "id": 2,
+        "en": "No, I am Turkish.",
+        "ar": "لا، أنا تركي.",
+        "context": "تستخدم عند نفي جنسية وذكر أخرى."
+      },
+      {
+        "id": 3,
+        "en": "No, she is American.",
+        "ar": "لا، هي أمريكية.",
+        "context": "تقال لتصحيح جنسية امرأة."
+      },
+      {
+        "id": 4,
+        "en": "No, he is from Boston.",
+        "ar": "لا، هو من بوسطن.",
+        "context": "تستخدم لتصحيح مكان أصل شخص."
+      },
+      {
+        "id": 5,
+        "en": "No, I am from Chicago.",
+        "ar": "لا، أنا من شيكاغو.",
+        "context": "تقال لتصحيح المدينة الأصلية."
+      },
+      {
+        "id": 6,
+        "en": "No, we are American.",
+        "ar": "لا، نحن أمريكيون.",
+        "context": "تستخدم عندما تتحدث مجموعة عن جنسيتها."
+      },
+      {
+        "id": 7,
+        "en": "No, my husband is American.",
+        "ar": "لا، زوجي أمريكي.",
+        "context": "تقال لتصحيح جنسية الزوج."
+      },
+      {
+        "id": 8,
+        "en": "No, I am a student.",
+        "ar": "لا، أنا طالب.",
+        "context": "تستخدم لتصحيح وصف أو مهنة."
+      },
+      {
+        "id": 9,
+        "en": "No, they are American.",
+        "ar": "لا، هم أمريكيون.",
+        "context": "تقال لتصحيح جنسية مجموعة."
+      },
+      {
+        "id": 10,
+        "en": "No, my name is John.",
+        "ar": "لا، اسمي جون.",
+        "context": "تستخدم لتصحيح اسم بعد سوء فهم."
+      }
+    ]
+  }
+}

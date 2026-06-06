@@ -1,0 +1,115 @@
+{
+  "schemaVersion": 1,
+  "id": 768,
+  "sentence": {
+    "en": "The big one or the small one?",
+    "ar": "الكبير أم الصغير؟",
+    "context": "طلب تحديد الاختيار بين شيئين بحجمين مختلفين."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "The big one or the small one?",
+        "ar": "الكبير أم الصغير؟",
+        "context": "سؤال اختياري مختصر بين شيئين معروفين.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه عبارة اختيارية بلا فعل صريح، وتستخدم or لعرض بديلين."
+        },
+        "wordMeanings": [
+          {
+            "term": "The",
+            "description": "تحدد أن الشيء معروف من السياق"
+          },
+          {
+            "term": "big",
+            "description": "كبير الحجم"
+          },
+          {
+            "term": "one",
+            "description": "واحد أو شيء بديل عن الاسم المعروف"
+          },
+          {
+            "term": "or",
+            "description": "أم أو أو للاختيار"
+          },
+          {
+            "term": "the",
+            "description": "تحدد الشيء الثاني المعروف"
+          },
+          {
+            "term": "small",
+            "description": "صغير الحجم"
+          },
+          {
+            "term": "one",
+            "description": "شيء أو واحد بدل تكرار الاسم"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "The red one or the blue one?",
+        "ar": "الأحمر أم الأزرق؟",
+        "context": "للاختيار بين لونين."
+      },
+      {
+        "id": 2,
+        "en": "The old one or the new one?",
+        "ar": "القديم أم الجديد؟",
+        "context": "للاختيار بين نسختين."
+      },
+      {
+        "id": 3,
+        "en": "The cheap one or the expensive one?",
+        "ar": "الرخيص أم الغالي؟",
+        "context": "للاختيار حسب السعر."
+      },
+      {
+        "id": 4,
+        "en": "The first one or the second one?",
+        "ar": "الأول أم الثاني؟",
+        "context": "للاختيار بين خيارين مرتبين."
+      },
+      {
+        "id": 5,
+        "en": "The black one or the white one?",
+        "ar": "الأسود أم الأبيض؟",
+        "context": "للاختيار بين لونين."
+      },
+      {
+        "id": 6,
+        "en": "The long one or the short one?",
+        "ar": "الطويل أم القصير؟",
+        "context": "للاختيار حسب الطول."
+      },
+      {
+        "id": 7,
+        "en": "The hot one or the cold one?",
+        "ar": "الساخن أم البارد؟",
+        "context": "للاختيار بين درجة حرارة."
+      },
+      {
+        "id": 8,
+        "en": "The left one or the right one?",
+        "ar": "الذي على اليسار أم الذي على اليمين؟",
+        "context": "للتحديد حسب المكان."
+      },
+      {
+        "id": 9,
+        "en": "The large one or the medium one?",
+        "ar": "الكبير أم المتوسط؟",
+        "context": "عند اختيار مقاس."
+      },
+      {
+        "id": 10,
+        "en": "The quiet one or the busy one?",
+        "ar": "الهادئ أم المزدحم؟",
+        "context": "للاختيار بين مكانين أو أوقات."
+      }
+    ]
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "id": 542,
+  "sentence": {
+    "en": "How old are you?",
+    "ar": "كم عمرك؟",
+    "context": "السؤال عن عمر الشخص."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "How old are you?",
+        "ar": "كم عمرك؟",
+        "context": "سؤال مباشر عن عمر الشخص.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "are يستخدم للسؤال عن صفة أو حالة حالية، وهي العمر."
+        },
+        "wordMeanings": [
+          {
+            "term": "How",
+            "description": "تدخل في سؤال عن مقدار أو وصف."
+          },
+          {
+            "term": "old",
+            "description": "تعني العمر هنا."
+          },
+          {
+            "term": "are",
+            "description": "تستخدم للسؤال عن حالة أو صفة."
+          },
+          {
+            "term": "you",
+            "description": "تشير إلى المخاطب."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I am 32.",
+        "ar": "عمري ٣٢ سنة.",
+        "context": "إجابة عن العمر."
+      },
+      {
+        "id": 2,
+        "en": "How old is your brother?",
+        "ar": "كم عمر أخيك؟",
+        "context": "سؤال عن عمر شخص آخر."
+      },
+      {
+        "id": 3,
+        "en": "She is twenty years old.",
+        "ar": "هي عمرها عشرون سنة.",
+        "context": "ذكر عمر شخص."
+      },
+      {
+        "id": 4,
+        "en": "Are you thirty?",
+        "ar": "هل عمرك ثلاثون؟",
+        "context": "سؤال عن عمر محدد."
+      },
+      {
+        "id": 5,
+        "en": "My son is five years old.",
+        "ar": "ابني عمره خمس سنوات.",
+        "context": "ذكر عمر طفل."
+      },
+      {
+        "id": 6,
+        "en": "How old is this building?",
+        "ar": "كم عمر هذا المبنى؟",
+        "context": "سؤال عن عمر شيء."
+      },
+      {
+        "id": 7,
+        "en": "He is not old.",
+        "ar": "هو ليس كبيرًا في السن.",
+        "context": "نفي كبر السن."
+      },
+      {
+        "id": 8,
+        "en": "I do not ask age.",
+        "ar": "أنا لا أسأل عن العمر.",
+        "context": "تعليق اجتماعي."
+      },
+      {
+        "id": 9,
+        "en": "How old are the children?",
+        "ar": "كم عمر الأطفال؟",
+        "context": "سؤال عن أعمار أطفال."
+      },
+      {
+        "id": 10,
+        "en": "She looks young.",
+        "ar": "هي تبدو شابة.",
+        "context": "تعليق متعلق بالعمر."
+      }
+    ]
+  }
+}

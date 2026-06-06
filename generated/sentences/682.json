@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": 682,
+  "sentence": {
+    "en": "That is wrong.",
+    "ar": "ذلك خطأ.",
+    "context": "الإشارة إلى خطأ أو تصحيح معلومة."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "That is wrong.",
+        "ar": "ذلك خطأ.",
+        "context": "تستخدم لتصحيح معلومة أو قول إن شيئاً غير صحيح.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "الجملة تصف حالة أو حكماً حالياً على شيء."
+        },
+        "wordMeanings": [
+          {
+            "term": "That",
+            "description": "ذلك، وتشير إلى معلومة أو فعل."
+          },
+          {
+            "term": "is",
+            "description": "صيغة تربط الشيء بوصفه."
+          },
+          {
+            "term": "wrong",
+            "description": "خطأ أو غير صحيح."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "That is right.",
+        "ar": "ذلك صحيح.",
+        "context": "تقال لتأكيد صحة شيء."
+      },
+      {
+        "id": 2,
+        "en": "This answer is wrong.",
+        "ar": "هذه الإجابة خطأ.",
+        "context": "تستخدم عند تصحيح إجابة."
+      },
+      {
+        "id": 3,
+        "en": "I think that is wrong.",
+        "ar": "أعتقد أن ذلك خطأ.",
+        "context": "تقال للتعبير عن رأي في خطأ."
+      },
+      {
+        "id": 4,
+        "en": "That word is wrong.",
+        "ar": "تلك الكلمة خطأ.",
+        "context": "تستخدم في تصحيح لغة."
+      },
+      {
+        "id": 5,
+        "en": "You are wrong.",
+        "ar": "أنت مخطئ.",
+        "context": "تقال عند تصحيح شخص مباشرة."
+      },
+      {
+        "id": 6,
+        "en": "That is not wrong.",
+        "ar": "ذلك ليس خطأ.",
+        "context": "تستخدم للدفاع عن صحة شيء."
+      },
+      {
+        "id": 7,
+        "en": "The address is wrong.",
+        "ar": "العنوان خطأ.",
+        "context": "تقال عند وجود خطأ في العنوان."
+      },
+      {
+        "id": 8,
+        "en": "Is that wrong?",
+        "ar": "هل ذلك خطأ؟",
+        "context": "تستخدم للسؤال عن صحة شيء."
+      },
+      {
+        "id": 9,
+        "en": "That sounds wrong.",
+        "ar": "ذلك يبدو خطأ.",
+        "context": "تقال عند الشك في صحة عبارة."
+      },
+      {
+        "id": 10,
+        "en": "The time is wrong.",
+        "ar": "الوقت خطأ.",
+        "context": "تستخدم عند تصحيح موعد."
+      }
+    ]
+  }
+}

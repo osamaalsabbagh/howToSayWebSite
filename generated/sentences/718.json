@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": 718,
+  "sentence": {
+    "en": "Where is the nearest hospital?",
+    "ar": "أين أقرب مستشفى؟",
+    "context": "طلب معرفة أقرب مستشفى."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Where is the nearest hospital?",
+        "ar": "أين أقرب مستشفى؟",
+        "context": "سؤال يستخدم عند الحاجة إلى الوصول بسرعة إلى مستشفى قريب.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "الفعل يدل على موقع ثابت أو حالي، لذلك يستخدم المضارع البسيط مع السؤال عن المكان."
+        },
+        "wordMeanings": [
+          {
+            "term": "Where",
+            "description": "أداة سؤال عن المكان"
+          },
+          {
+            "term": "is",
+            "description": "صيغة تدل على وجود شيء أو مكانه الآن"
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف تشير إلى شيء محدد"
+          },
+          {
+            "term": "nearest",
+            "description": "الأقرب من حيث المسافة"
+          },
+          {
+            "term": "hospital",
+            "description": "مستشفى أو مكان للعلاج"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Where is the nearest pharmacy?",
+        "ar": "أين أقرب صيدلية؟",
+        "context": "يستخدم عند الحاجة إلى شراء دواء."
+      },
+      {
+        "id": 2,
+        "en": "Where is the nearest bus stop?",
+        "ar": "أين أقرب موقف حافلات؟",
+        "context": "يستخدم لمعرفة مكان ركوب الحافلة."
+      },
+      {
+        "id": 3,
+        "en": "Where is the nearest hotel?",
+        "ar": "أين أقرب فندق؟",
+        "context": "يستخدم عند البحث عن مكان للإقامة."
+      },
+      {
+        "id": 4,
+        "en": "Where is the nearest clinic?",
+        "ar": "أين أقرب عيادة؟",
+        "context": "يستخدم عند طلب رعاية طبية بسيطة."
+      },
+      {
+        "id": 5,
+        "en": "Where is the nearest bank?",
+        "ar": "أين أقرب بنك؟",
+        "context": "يستخدم عند الحاجة إلى خدمات مصرفية."
+      },
+      {
+        "id": 6,
+        "en": "Where is the nearest taxi stand?",
+        "ar": "أين أقرب موقف سيارات أجرة؟",
+        "context": "يستخدم عند الحاجة إلى سيارة أجرة."
+      },
+      {
+        "id": 7,
+        "en": "Where is the nearest police station?",
+        "ar": "أين أقرب مركز شرطة؟",
+        "context": "يستخدم عند الحاجة إلى مساعدة رسمية."
+      },
+      {
+        "id": 8,
+        "en": "Where is the nearest exit?",
+        "ar": "أين أقرب مخرج؟",
+        "context": "يستخدم عند محاولة مغادرة مبنى."
+      },
+      {
+        "id": 9,
+        "en": "Where is the nearest restroom?",
+        "ar": "أين أقرب دورة مياه؟",
+        "context": "يستخدم للسؤال عن مكان دورة المياه."
+      },
+      {
+        "id": 10,
+        "en": "Where is the nearest train station?",
+        "ar": "أين أقرب محطة قطار؟",
+        "context": "يستخدم عند التخطيط للسفر بالقطار."
+      }
+    ]
+  }
+}

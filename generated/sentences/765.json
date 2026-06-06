@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "id": 765,
+  "sentence": {
+    "en": "Is there anything cheaper?",
+    "ar": "هل يوجد شيء أرخص؟",
+    "context": "السؤال عن وجود خيار أرخص."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Is there anything cheaper?",
+        "ar": "هل يوجد شيء أرخص؟",
+        "context": "سؤال في الشراء عن توفر خيار أقل سعرا.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "تركيب there is يستخدم للسؤال عن وجود شيء، وكلمة cheaper تقارن السعر بخيار آخر."
+        },
+        "wordMeanings": [
+          {
+            "term": "Is",
+            "description": "أداة سؤال في تركيب يدل على الوجود"
+          },
+          {
+            "term": "there",
+            "description": "تستخدم مع is للسؤال عن وجود شيء"
+          },
+          {
+            "term": "anything",
+            "description": "أي شيء"
+          },
+          {
+            "term": "cheaper",
+            "description": "أرخص أو أقل سعرا"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Is there anything bigger?",
+        "ar": "هل يوجد شيء أكبر؟",
+        "context": "للسؤال عن حجم أكبر."
+      },
+      {
+        "id": 2,
+        "en": "Is there anything smaller?",
+        "ar": "هل يوجد شيء أصغر؟",
+        "context": "للسؤال عن خيار أصغر."
+      },
+      {
+        "id": 3,
+        "en": "Is there anything better?",
+        "ar": "هل يوجد شيء أفضل؟",
+        "context": "للسؤال عن جودة أعلى."
+      },
+      {
+        "id": 4,
+        "en": "Is there anything closer?",
+        "ar": "هل يوجد شيء أقرب؟",
+        "context": "للسؤال عن مكان أقرب."
+      },
+      {
+        "id": 5,
+        "en": "Is there a cheaper room?",
+        "ar": "هل توجد غرفة أرخص؟",
+        "context": "في فندق عند مقارنة الأسعار."
+      },
+      {
+        "id": 6,
+        "en": "Is there a cheaper ticket?",
+        "ar": "هل توجد تذكرة أرخص؟",
+        "context": "عند شراء تذاكر."
+      },
+      {
+        "id": 7,
+        "en": "Is there anything on sale?",
+        "ar": "هل يوجد شيء عليه تخفيض؟",
+        "context": "في متجر للبحث عن تخفيضات."
+      },
+      {
+        "id": 8,
+        "en": "Is there another option?",
+        "ar": "هل يوجد خيار آخر؟",
+        "context": "عند عدم مناسبة الخيار الأول."
+      },
+      {
+        "id": 9,
+        "en": "Is there anything available today?",
+        "ar": "هل يوجد شيء متاح اليوم؟",
+        "context": "للسؤال عن توفر فوري."
+      },
+      {
+        "id": 10,
+        "en": "Is there a cheaper restaurant nearby?",
+        "ar": "هل يوجد مطعم أرخص قريب؟",
+        "context": "للبحث عن طعام بسعر أقل."
+      }
+    ]
+  }
+}

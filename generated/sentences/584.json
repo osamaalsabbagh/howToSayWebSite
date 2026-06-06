@@ -1,0 +1,111 @@
+{
+  "schemaVersion": 1,
+  "id": 584,
+  "sentence": {
+    "en": "What school did you go to?",
+    "ar": "في أي مدرسة درست؟",
+    "context": "السؤال عن المدرسة التي التحق بها الشخص."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "What school did you go to?",
+        "ar": "إلى أي مدرسة ذهبت أو في أي مدرسة درست؟",
+        "context": "تستخدم للسؤال عن المدرسة السابقة التي التحق بها الشخص.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "استُخدم الماضي البسيط لأن السؤال عن تجربة تعليمية أو التحاق حدث في الماضي."
+        },
+        "wordMeanings": [
+          {
+            "term": "What",
+            "description": "أي أو ما، وتستخدم هنا للسؤال عن اسم المدرسة."
+          },
+          {
+            "term": "school",
+            "description": "مدرسة."
+          },
+          {
+            "term": "did",
+            "description": "كلمة مساعدة لتكوين سؤال في الماضي."
+          },
+          {
+            "term": "you",
+            "description": "أنت أو أنتم حسب السياق."
+          },
+          {
+            "term": "go",
+            "description": "تذهب أو تلتحق في هذا السياق."
+          },
+          {
+            "term": "to",
+            "description": "إلى، وتربط الفعل بالمكان أو المؤسسة."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "What college did you go to?",
+        "ar": "في أي كلية درست؟",
+        "context": "تقال للسؤال عن الكلية السابقة."
+      },
+      {
+        "id": 2,
+        "en": "What university did she go to?",
+        "ar": "في أي جامعة درست؟",
+        "context": "تستخدم للسؤال عن جامعة امرأة."
+      },
+      {
+        "id": 3,
+        "en": "I went to a small school.",
+        "ar": "ذهبت إلى مدرسة صغيرة.",
+        "context": "تقال للإجابة عن نوع المدرسة."
+      },
+      {
+        "id": 4,
+        "en": "Did you go to school here?",
+        "ar": "هل درست في المدرسة هنا؟",
+        "context": "تستخدم للسؤال عن مكان الدراسة في الماضي."
+      },
+      {
+        "id": 5,
+        "en": "What school did your son go to?",
+        "ar": "في أي مدرسة درس ابنك؟",
+        "context": "تقال للسؤال عن مدرسة ابن شخص."
+      },
+      {
+        "id": 6,
+        "en": "He went to school in Boston.",
+        "ar": "درس في مدرسة في بوسطن.",
+        "context": "تستخدم لذكر مكان الدراسة السابق."
+      },
+      {
+        "id": 7,
+        "en": "Where did you go to school?",
+        "ar": "أين درست؟",
+        "context": "تقال بصيغة شائعة للسؤال عن مكان الدراسة."
+      },
+      {
+        "id": 8,
+        "en": "What school did they choose?",
+        "ar": "أي مدرسة اختاروا؟",
+        "context": "تستخدم للسؤال عن اختيار مدرسة في الماضي."
+      },
+      {
+        "id": 9,
+        "en": "My daughter went to that school.",
+        "ar": "درست ابنتي في تلك المدرسة.",
+        "context": "تقال عند ربط الابنة بمدرسة معينة."
+      },
+      {
+        "id": 10,
+        "en": "Did your brother go to this school?",
+        "ar": "هل درس أخوك في هذه المدرسة؟",
+        "context": "تستخدم للسؤال عن دراسة الأخ في مكان معين."
+      }
+    ]
+  }
+}

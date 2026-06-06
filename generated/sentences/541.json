@@ -1,0 +1,111 @@
+{
+  "schemaVersion": 1,
+  "id": 541,
+  "sentence": {
+    "en": "How many apples would you like?",
+    "ar": "كم تفاحة تود؟",
+    "context": "السؤال عن العدد المطلوبة من شيء ما قابل للعد."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "How many apples would you like?",
+        "ar": "كم تفاحة تود؟",
+        "context": "سؤال مهذب عن عدد التفاحات المطلوبة.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "would like صيغة مهذبة للسؤال عن الرغبة، وmany تستخدم مع الأشياء المعدودة."
+        },
+        "wordMeanings": [
+          {
+            "term": "How",
+            "description": "تدخل في سؤال عن العدد."
+          },
+          {
+            "term": "many",
+            "description": "تعني كم عدد."
+          },
+          {
+            "term": "apples",
+            "description": "تفاحات بصيغة الجمع."
+          },
+          {
+            "term": "would",
+            "description": "تجعل السؤال مهذبًا."
+          },
+          {
+            "term": "you",
+            "description": "تشير إلى المخاطب."
+          },
+          {
+            "term": "like",
+            "description": "تعني ترغب أو تود."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "How many oranges would you like?",
+        "ar": "كم برتقالة تود؟",
+        "context": "سؤال عن عدد فاكهة."
+      },
+      {
+        "id": 2,
+        "en": "I would like three apples.",
+        "ar": "أود ثلاث تفاحات.",
+        "context": "إجابة بعدد مطلوب."
+      },
+      {
+        "id": 3,
+        "en": "Would you like an apple?",
+        "ar": "هل تود تفاحة؟",
+        "context": "عرض تفاحة واحدة."
+      },
+      {
+        "id": 4,
+        "en": "How many cups do you need?",
+        "ar": "كم كوبًا تحتاج؟",
+        "context": "سؤال عن عدد أشياء."
+      },
+      {
+        "id": 5,
+        "en": "She would like two apples.",
+        "ar": "هي تود تفاحتين.",
+        "context": "ذكر رغبة شخص."
+      },
+      {
+        "id": 6,
+        "en": "We have many apples.",
+        "ar": "لدينا تفاح كثير.",
+        "context": "ذكر توفر كمية."
+      },
+      {
+        "id": 7,
+        "en": "How many tickets would you like?",
+        "ar": "كم تذكرة تود؟",
+        "context": "سؤال عن عدد تذاكر."
+      },
+      {
+        "id": 8,
+        "en": "The apples are fresh.",
+        "ar": "التفاح طازج.",
+        "context": "وصف التفاح."
+      },
+      {
+        "id": 9,
+        "en": "I do not want many apples.",
+        "ar": "لا أريد تفاحًا كثيرًا.",
+        "context": "تحديد رغبة قليلة."
+      },
+      {
+        "id": 10,
+        "en": "Please give me one apple.",
+        "ar": "من فضلك أعطني تفاحة واحدة.",
+        "context": "طلب عدد محدد."
+      }
+    ]
+  }
+}

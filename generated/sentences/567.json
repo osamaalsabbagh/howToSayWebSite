@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": 567,
+  "sentence": {
+    "en": "My name is John Smith.",
+    "ar": "اسمي جون سميث.",
+    "context": "التعريف بالنفس."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "My name is John Smith.",
+        "ar": "اسمي جون سميث.",
+        "context": "تستخدم عند تقديم نفسك وذكر اسمك الكامل.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "الجملة تعرض معلومة تعريفية ثابتة عن الاسم في الحاضر."
+        },
+        "wordMeanings": [
+          {
+            "term": "My",
+            "description": "تعني الخاص بي أو الذي يخصني."
+          },
+          {
+            "term": "name",
+            "description": "اسم."
+          },
+          {
+            "term": "is",
+            "description": "صيغة تربط الاسم بالمعلومة التي بعده."
+          },
+          {
+            "term": "John",
+            "description": "جون، اسم شخص."
+          },
+          {
+            "term": "Smith",
+            "description": "سميث، اسم عائلة."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "My name is Sarah Lee.",
+        "ar": "اسمي سارة لي.",
+        "context": "تقال عند تقديم النفس باسم كامل."
+      },
+      {
+        "id": 2,
+        "en": "His name is John Smith.",
+        "ar": "اسمه جون سميث.",
+        "context": "تستخدم لتعريف اسم رجل."
+      },
+      {
+        "id": 3,
+        "en": "Her name is Anna Brown.",
+        "ar": "اسمها آنا براون.",
+        "context": "تقال عند ذكر اسم امرأة."
+      },
+      {
+        "id": 4,
+        "en": "My first name is John.",
+        "ar": "اسمي الأول جون.",
+        "context": "تستخدم عند توضيح الاسم الأول."
+      },
+      {
+        "id": 5,
+        "en": "My last name is Smith.",
+        "ar": "اسم عائلتي سميث.",
+        "context": "تقال عند توضيح اسم العائلة."
+      },
+      {
+        "id": 6,
+        "en": "Your name is on the list.",
+        "ar": "اسمك على القائمة.",
+        "context": "تستخدم عند إخبار شخص بوجود اسمه في قائمة."
+      },
+      {
+        "id": 7,
+        "en": "The name is easy.",
+        "ar": "الاسم سهل.",
+        "context": "تقال عند وصف اسم بأنه بسيط."
+      },
+      {
+        "id": 8,
+        "en": "My name is David.",
+        "ar": "اسمي ديفيد.",
+        "context": "تستخدم في تعريف قصير بالاسم الأول."
+      },
+      {
+        "id": 9,
+        "en": "What is your name?",
+        "ar": "ما اسمك؟",
+        "context": "تقال للسؤال عن اسم شخص."
+      },
+      {
+        "id": 10,
+        "en": "My name is on the card.",
+        "ar": "اسمي على البطاقة.",
+        "context": "تستخدم عند الإشارة إلى اسم مكتوب."
+      }
+    ]
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": 792,
+  "sentence": {
+    "en": "Where did you learn it?",
+    "ar": "من أين تعلمته؟",
+    "context": "السؤال عن مصدر تعلم أمر ما."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Where did you learn it?",
+        "ar": "من أين تعلمته؟",
+        "context": "سؤال عن المكان أو المصدر الذي تعلم منه الشخص شيئا.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "تستخدم did للسؤال عن فعل تعلم حدث في الماضي، ويبقى الفعل learn في صورته الأساسية."
+        },
+        "wordMeanings": [
+          {
+            "term": "Where",
+            "description": "أين أو من أين حسب السياق"
+          },
+          {
+            "term": "did",
+            "description": "أداة سؤال في الماضي البسيط"
+          },
+          {
+            "term": "you",
+            "description": "الشخص المخاطب"
+          },
+          {
+            "term": "learn",
+            "description": "تتعلم أو تكتسب معرفة"
+          },
+          {
+            "term": "it",
+            "description": "ذلك الشيء أو المهارة"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Where did you learn English?",
+        "ar": "أين تعلمت الإنجليزية؟",
+        "context": "للسؤال عن مصدر تعلم لغة."
+      },
+      {
+        "id": 2,
+        "en": "Where did you learn to cook?",
+        "ar": "أين تعلمت الطبخ؟",
+        "context": "للسؤال عن مصدر مهارة."
+      },
+      {
+        "id": 3,
+        "en": "Where did she learn it?",
+        "ar": "أين تعلمته؟",
+        "context": "للسؤال عن تعلم شخص آخر."
+      },
+      {
+        "id": 4,
+        "en": "How did you learn it?",
+        "ar": "كيف تعلمته؟",
+        "context": "للسؤال عن الطريقة."
+      },
+      {
+        "id": 5,
+        "en": "When did you learn it?",
+        "ar": "متى تعلمته؟",
+        "context": "للسؤال عن وقت التعلم."
+      },
+      {
+        "id": 6,
+        "en": "Where did you learn that word?",
+        "ar": "أين تعلمت تلك الكلمة؟",
+        "context": "للسؤال عن كلمة جديدة."
+      },
+      {
+        "id": 7,
+        "en": "Where did you learn this song?",
+        "ar": "أين تعلمت هذه الأغنية؟",
+        "context": "للسؤال عن مصدر أغنية."
+      },
+      {
+        "id": 8,
+        "en": "Where did they learn Arabic?",
+        "ar": "أين تعلموا العربية؟",
+        "context": "للسؤال عن مصدر تعلم مجموعة."
+      },
+      {
+        "id": 9,
+        "en": "Where did you learn to drive?",
+        "ar": "أين تعلمت القيادة؟",
+        "context": "للسؤال عن تعلم القيادة."
+      },
+      {
+        "id": 10,
+        "en": "Where did you learn this recipe?",
+        "ar": "أين تعلمت هذه الوصفة؟",
+        "context": "للسؤال عن مصدر وصفة."
+      }
+    ]
+  }
+}

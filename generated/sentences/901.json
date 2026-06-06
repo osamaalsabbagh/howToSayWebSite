@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "id": 901,
+  "sentence": {
+    "en": "Is John there please?",
+    "ar": "هل جون موجود من فضلك؟",
+    "context": "تُستخدم عند السؤال عن شخص في مكالمة هاتفية."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Is John there please?",
+        "ar": "هل جون موجود من فضلك؟",
+        "context": "سؤال مهذب في الهاتف لمعرفة إن كان جون متاحا.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "الفعل is يسأل عن وجود جون أو توفره الآن، وplease تجعل السؤال مهذبا."
+        },
+        "wordMeanings": [
+          {
+            "term": "Is",
+            "description": "هل يكون أو هل يوجد"
+          },
+          {
+            "term": "John",
+            "description": "اسم شخص"
+          },
+          {
+            "term": "there",
+            "description": "هناك أو موجود في المكان المقصود"
+          },
+          {
+            "term": "please",
+            "description": "من فضلك؛ للتأدب"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Is Mary there please?",
+        "ar": "هل ماري موجودة من فضلك؟",
+        "context": "للسؤال عن شخص في مكالمة."
+      },
+      {
+        "id": 2,
+        "en": "Is John available?",
+        "ar": "هل جون متاح؟",
+        "context": "للسؤال عن إمكانية الحديث معه."
+      },
+      {
+        "id": 3,
+        "en": "Can I speak to John please?",
+        "ar": "هل يمكنني التحدث إلى جون من فضلك؟",
+        "context": "صيغة هاتفية مهذبة."
+      },
+      {
+        "id": 4,
+        "en": "Is the manager there please?",
+        "ar": "هل المدير موجود من فضلك؟",
+        "context": "للسؤال عن مسؤول."
+      },
+      {
+        "id": 5,
+        "en": "Is he there?",
+        "ar": "هل هو موجود؟",
+        "context": "للسؤال عن شخص معروف."
+      },
+      {
+        "id": 6,
+        "en": "Is John at home?",
+        "ar": "هل جون في البيت؟",
+        "context": "للسؤال عن مكان جون."
+      },
+      {
+        "id": 7,
+        "en": "May I speak to John?",
+        "ar": "هل يمكنني التحدث إلى جون؟",
+        "context": "صيغة رسمية في الهاتف."
+      },
+      {
+        "id": 8,
+        "en": "Is John in the office?",
+        "ar": "هل جون في المكتب؟",
+        "context": "للسؤال في سياق عمل."
+      },
+      {
+        "id": 9,
+        "en": "Please tell John I called.",
+        "ar": "من فضلك أخبر جون أنني اتصلت.",
+        "context": "لترك رسالة."
+      },
+      {
+        "id": 10,
+        "en": "Is John there right now?",
+        "ar": "هل جون موجود الآن؟",
+        "context": "للتأكد من وجوده حاليا."
+      }
+    ]
+  }
+}

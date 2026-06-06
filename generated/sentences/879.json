@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": 879,
+  "sentence": {
+    "en": "How do I use this?",
+    "ar": "كيف أستخدم هذا؟",
+    "context": "تُستخدم لطلب شرح لكيفية استخدام شيء ما."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "How do I use this?",
+        "ar": "كيف أستخدم هذا؟",
+        "context": "سؤال لطلب طريقة استخدام شيء قريب أو معروف.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "يستخدم المضارع البسيط للسؤال عن طريقة عامة أو تعليمات، وتأتي do لتكوين السؤال مع I."
+        },
+        "wordMeanings": [
+          {
+            "term": "How",
+            "description": "كيف؛ للسؤال عن الطريقة"
+          },
+          {
+            "term": "do",
+            "description": "أداة سؤال في المضارع البسيط"
+          },
+          {
+            "term": "I",
+            "description": "أنا؛ المتكلم"
+          },
+          {
+            "term": "use",
+            "description": "أستخدم أو أستعمل"
+          },
+          {
+            "term": "this",
+            "description": "هذا الشيء القريب"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "How do I open this?",
+        "ar": "كيف أفتح هذا؟",
+        "context": "لطلب طريقة فتح شيء."
+      },
+      {
+        "id": 2,
+        "en": "How do I turn it on?",
+        "ar": "كيف أشغله؟",
+        "context": "للسؤال عن تشغيل جهاز."
+      },
+      {
+        "id": 3,
+        "en": "How do I use this phone?",
+        "ar": "كيف أستخدم هذا الهاتف؟",
+        "context": "لطلب مساعدة مع هاتف."
+      },
+      {
+        "id": 4,
+        "en": "How do you use this?",
+        "ar": "كيف تستخدم هذا؟",
+        "context": "للسؤال عن طريقة شخص آخر."
+      },
+      {
+        "id": 5,
+        "en": "Can you show me how to use this?",
+        "ar": "هل يمكنك أن تريني كيف أستخدم هذا؟",
+        "context": "لطلب شرح عملي."
+      },
+      {
+        "id": 6,
+        "en": "How do I pay here?",
+        "ar": "كيف أدفع هنا؟",
+        "context": "للسؤال عن طريقة الدفع."
+      },
+      {
+        "id": 7,
+        "en": "How do I write this?",
+        "ar": "كيف أكتب هذا؟",
+        "context": "للسؤال عن طريقة الكتابة."
+      },
+      {
+        "id": 8,
+        "en": "How do I fix this?",
+        "ar": "كيف أصلح هذا؟",
+        "context": "لطلب طريقة إصلاح."
+      },
+      {
+        "id": 9,
+        "en": "How do I use the internet?",
+        "ar": "كيف أستخدم الإنترنت؟",
+        "context": "للسؤال عن خدمة الإنترنت."
+      },
+      {
+        "id": 10,
+        "en": "How do I find the station?",
+        "ar": "كيف أجد المحطة؟",
+        "context": "لطلب إرشادات."
+      }
+    ]
+  }
+}

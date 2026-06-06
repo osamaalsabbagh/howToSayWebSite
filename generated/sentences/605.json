@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "id": 605,
+  "sentence": {
+    "en": "How tall are you?",
+    "ar": "ما طولك؟",
+    "context": "السؤال عن طول الشخص."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "How tall are you?",
+        "ar": "كم طولك؟",
+        "context": "تستخدم للسؤال عن طول شخص.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "السؤال يطلب وصفاً أو قياساً حالياً للشخص."
+        },
+        "wordMeanings": [
+          {
+            "term": "How",
+            "description": "كيف أو كم، وتستخدم هنا للسؤال عن مقدار."
+          },
+          {
+            "term": "tall",
+            "description": "طويل أو ذو طول."
+          },
+          {
+            "term": "are",
+            "description": "صيغة تربط المخاطب بوصفه في السؤال."
+          },
+          {
+            "term": "you",
+            "description": "أنت أو أنتم حسب السياق."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "How old are you?",
+        "ar": "كم عمرك؟",
+        "context": "تقال للسؤال عن العمر."
+      },
+      {
+        "id": 2,
+        "en": "How tall is he?",
+        "ar": "كم طوله؟",
+        "context": "تستخدم للسؤال عن طول رجل."
+      },
+      {
+        "id": 3,
+        "en": "She is very tall.",
+        "ar": "هي طويلة جداً.",
+        "context": "تقال لوصف طول امرأة."
+      },
+      {
+        "id": 4,
+        "en": "I am not very tall.",
+        "ar": "أنا لست طويلاً جداً.",
+        "context": "تستخدم لوصف طول المتكلم."
+      },
+      {
+        "id": 5,
+        "en": "How tall is your brother?",
+        "ar": "كم طول أخيك؟",
+        "context": "تقال للسؤال عن طول الأخ."
+      },
+      {
+        "id": 6,
+        "en": "He is taller than me.",
+        "ar": "هو أطول مني.",
+        "context": "تستخدم للمقارنة في الطول."
+      },
+      {
+        "id": 7,
+        "en": "How tall is this building?",
+        "ar": "كم ارتفاع هذا المبنى؟",
+        "context": "تقال للسؤال عن ارتفاع شيء."
+      },
+      {
+        "id": 8,
+        "en": "You are tall.",
+        "ar": "أنت طويل.",
+        "context": "تستخدم لوصف شخص مباشرة."
+      },
+      {
+        "id": 9,
+        "en": "How tall are your children?",
+        "ar": "كم طول أطفالك؟",
+        "context": "تقال للسؤال عن أطوال الأطفال."
+      },
+      {
+        "id": 10,
+        "en": "My son is tall.",
+        "ar": "ابني طويل.",
+        "context": "تستخدم لوصف الابن."
+      }
+    ]
+  }
+}

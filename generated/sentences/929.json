@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": 929,
+  "sentence": {
+    "en": "Please tell me.",
+    "ar": "من فضلك أخبرني.",
+    "context": "تُستخدم لطلب معلومات من شخص ما."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Please tell me",
+        "ar": "من فضلك أخبرني",
+        "context": "تُستخدم عندما تريد أن يعطيك شخص معلومة مباشرة.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه صيغة أمر مهذبة، ولا تحمل زمنًا لأنها طلب مباشر."
+        },
+        "wordMeanings": [
+          {
+            "term": "Please",
+            "description": "من فضلك، وتدل على الأدب في الطلب"
+          },
+          {
+            "term": "tell",
+            "description": "أخبر، أي أعط معلومة بالكلام"
+          },
+          {
+            "term": "me",
+            "description": "لي أو أنا بصيغة المفعول"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Please tell me the time.",
+        "ar": "من فضلك أخبرني بالوقت.",
+        "context": "تُستخدم عند السؤال عن الساعة."
+      },
+      {
+        "id": 2,
+        "en": "Please tell me the price.",
+        "ar": "من فضلك أخبرني بالسعر.",
+        "context": "تُستخدم في متجر أو عند الشراء."
+      },
+      {
+        "id": 3,
+        "en": "Please tell me your name.",
+        "ar": "من فضلك أخبرني باسمك.",
+        "context": "تُستخدم عند التعارف."
+      },
+      {
+        "id": 4,
+        "en": "Please tell me the address.",
+        "ar": "من فضلك أخبرني بالعنوان.",
+        "context": "تُستخدم عند طلب مكان محدد."
+      },
+      {
+        "id": 5,
+        "en": "Please tell me what happened.",
+        "ar": "من فضلك أخبرني بما حدث.",
+        "context": "تُستخدم عند طلب تفسير أو قصة."
+      },
+      {
+        "id": 6,
+        "en": "Please tell me where to go.",
+        "ar": "من فضلك أخبرني إلى أين أذهب.",
+        "context": "تُستخدم عند طلب توجيه."
+      },
+      {
+        "id": 7,
+        "en": "Please tell me the truth.",
+        "ar": "من فضلك أخبرني بالحقيقة.",
+        "context": "تُستخدم عند طلب الصراحة."
+      },
+      {
+        "id": 8,
+        "en": "Please tell me your answer.",
+        "ar": "من فضلك أخبرني بإجابتك.",
+        "context": "تُستخدم عند انتظار قرار أو رد."
+      },
+      {
+        "id": 9,
+        "en": "Please tell me the number.",
+        "ar": "من فضلك أخبرني بالرقم.",
+        "context": "تُستخدم عند طلب رقم هاتف أو رمز."
+      },
+      {
+        "id": 10,
+        "en": "Please tell me if you can come.",
+        "ar": "من فضلك أخبرني إذا كنت تستطيع الحضور.",
+        "context": "تُستخدم عند تأكيد حضور شخص."
+      }
+    ]
+  }
+}

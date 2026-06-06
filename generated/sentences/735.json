@@ -1,0 +1,111 @@
+{
+  "schemaVersion": 1,
+  "id": 735,
+  "sentence": {
+    "en": "Can you give me an example?",
+    "ar": "هل يمكنك أن تعطيني مثالًا؟",
+    "context": "طلب توضيح من خلال مثال."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Can you give me an example?",
+        "ar": "هل يمكنك أن تعطيني مثالًا؟",
+        "context": "طلب مهذب لتوضيح فكرة أو شرح بمثال.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه صيغة طلب باستخدام فعل القدرة، وتركز على طلب التوضيح لا على زمن الفعل."
+        },
+        "wordMeanings": [
+          {
+            "term": "Can",
+            "description": "تستخدم لطلب شيء بأدب أو للسؤال عن القدرة"
+          },
+          {
+            "term": "you",
+            "description": "ضمير يشير إلى الشخص المخاطب"
+          },
+          {
+            "term": "give",
+            "description": "تعطي أو تقدم"
+          },
+          {
+            "term": "me",
+            "description": "لي أو إلى المتكلم"
+          },
+          {
+            "term": "an",
+            "description": "أداة نكرة قبل كلمة تبدأ بصوت مناسب"
+          },
+          {
+            "term": "example",
+            "description": "مثال يوضح الفكرة"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Can you give me an answer?",
+        "ar": "هل يمكنك أن تعطيني إجابة؟",
+        "context": "يستخدم عند طلب رد واضح."
+      },
+      {
+        "id": 2,
+        "en": "Can you give me a reason?",
+        "ar": "هل يمكنك أن تعطيني سببًا؟",
+        "context": "يستخدم عند طلب تفسير."
+      },
+      {
+        "id": 3,
+        "en": "Can you show me an example?",
+        "ar": "هل يمكنك أن تريني مثالًا؟",
+        "context": "يستخدم عند الرغبة في رؤية توضيح."
+      },
+      {
+        "id": 4,
+        "en": "Can you explain this with an example?",
+        "ar": "هل يمكنك شرح هذا بمثال؟",
+        "context": "يستخدم عند طلب شرح عملي."
+      },
+      {
+        "id": 5,
+        "en": "Please give me an example.",
+        "ar": "من فضلك أعطني مثالًا.",
+        "context": "يستخدم كطلب مباشر في درس أو محادثة."
+      },
+      {
+        "id": 6,
+        "en": "Can she give us an example?",
+        "ar": "هل يمكنها أن تعطينا مثالًا؟",
+        "context": "يستخدم لطلب توضيح من شخص آخر."
+      },
+      {
+        "id": 7,
+        "en": "Can you give me another example?",
+        "ar": "هل يمكنك أن تعطيني مثالًا آخر؟",
+        "context": "يستخدم عند الحاجة إلى توضيح إضافي."
+      },
+      {
+        "id": 8,
+        "en": "I need an example.",
+        "ar": "أحتاج إلى مثال.",
+        "context": "يستخدم للتعبير عن الحاجة إلى توضيح."
+      },
+      {
+        "id": 9,
+        "en": "This is a good example.",
+        "ar": "هذا مثال جيد.",
+        "context": "يستخدم لوصف مثال مناسب."
+      },
+      {
+        "id": 10,
+        "en": "Can you give the class an example?",
+        "ar": "هل يمكنك أن تعطي الصف مثالًا؟",
+        "context": "يستخدم في موقف تعليمي."
+      }
+    ]
+  }
+}
