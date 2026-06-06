@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": 1009,
+  "sentence": {
+    "en": "Do you have a recommendation?",
+    "ar": "هل لديك توصية؟",
+    "context": "تُستخدم لطلب اقتراح من شخص ما."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Do you have a recommendation",
+        "ar": "هل لديك توصية",
+        "context": "تُستخدم لطلب اقتراح أو ترشيح من شخص.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "السؤال يستخدم Do مع have للسؤال عن امتلاك اقتراح حالي."
+        },
+        "wordMeanings": [
+          {
+            "term": "Do",
+            "description": "تُستخدم لتكوين سؤال في المضارع"
+          },
+          {
+            "term": "you",
+            "description": "أنت أو أنتم حسب المخاطب"
+          },
+          {
+            "term": "have",
+            "description": "لديك أو تملك"
+          },
+          {
+            "term": "a",
+            "description": "أداة تشير إلى شيء واحد غير محدد"
+          },
+          {
+            "term": "recommendation",
+            "description": "توصية أو اقتراح"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Do you have a restaurant recommendation?",
+        "ar": "هل لديك توصية لمطعم؟",
+        "context": "تُستخدم عند البحث عن مطعم."
+      },
+      {
+        "id": 2,
+        "en": "Do you have a hotel recommendation?",
+        "ar": "هل لديك توصية لفندق؟",
+        "context": "تُستخدم عند البحث عن إقامة."
+      },
+      {
+        "id": 3,
+        "en": "Can you recommend a good place?",
+        "ar": "هل يمكنك ترشيح مكان جيد؟",
+        "context": "تُستخدم لطلب اقتراح عام."
+      },
+      {
+        "id": 4,
+        "en": "Do you know a good cafe?",
+        "ar": "هل تعرف مقهى جيدًا؟",
+        "context": "تُستخدم عند طلب ترشيح مقهى."
+      },
+      {
+        "id": 5,
+        "en": "I need a recommendation.",
+        "ar": "أحتاج إلى توصية.",
+        "context": "تُستخدم عند طلب اقتراح."
+      },
+      {
+        "id": 6,
+        "en": "Do you have a book recommendation?",
+        "ar": "هل لديك توصية لكتاب؟",
+        "context": "تُستخدم عند اختيار كتاب."
+      },
+      {
+        "id": 7,
+        "en": "Do you have any advice?",
+        "ar": "هل لديك أي نصيحة؟",
+        "context": "تُستخدم لطلب رأي مساعد."
+      },
+      {
+        "id": 8,
+        "en": "What do you recommend?",
+        "ar": "ماذا توصي؟",
+        "context": "تُستخدم كطلب مختصر للتوصية."
+      },
+      {
+        "id": 9,
+        "en": "Do you recommend this place?",
+        "ar": "هل توصي بهذا المكان؟",
+        "context": "تُستخدم قبل زيارة مكان."
+      },
+      {
+        "id": 10,
+        "en": "Can you suggest something good?",
+        "ar": "هل يمكنك اقتراح شيء جيد؟",
+        "context": "تُستخدم عند طلب خيار مناسب."
+      }
+    ]
+  }
+}

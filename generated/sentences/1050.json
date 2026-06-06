@@ -1,0 +1,163 @@
+{
+  "schemaVersion": 1,
+  "id": 1050,
+  "sentence": {
+    "en": "Hello! Today is my first day. I am really excited to get started.",
+    "ar": "مرحبًا! اليوم هو أول يوم لي. أنا متحمس حقاً للبدء.",
+    "context": "تُستخدم من قِبل شخص في أول يوم له للتعبير عن الحماس وتحية الآخرين."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Hello",
+        "ar": "مرحبًا",
+        "context": "تحية قصيرة في بداية الكلام.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه تحية ثابتة ولا تحمل زمنًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "Hello",
+            "description": "مرحبًا أو أهلًا"
+          }
+        ]
+      },
+      {
+        "sentence": "Today is my first day",
+        "ar": "اليوم هو أول يوم لي",
+        "context": "هذا الجزء يوضح أن المتكلم يبدأ تجربة جديدة اليوم.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "الجملة تستخدم is لذكر حقيقة حالية عن اليوم."
+        },
+        "wordMeanings": [
+          {
+            "term": "Today",
+            "description": "اليوم"
+          },
+          {
+            "term": "is",
+            "description": "تربط اليوم بوصفه"
+          },
+          {
+            "term": "my",
+            "description": "خاصتي، وتدل على أن اليوم يخص تجربة المتكلم"
+          },
+          {
+            "term": "first",
+            "description": "الأول"
+          },
+          {
+            "term": "day",
+            "description": "يوم"
+          }
+        ]
+      },
+      {
+        "sentence": "I am really excited to get started",
+        "ar": "أنا متحمس حقًا للبدء",
+        "context": "هذا الجزء يعبّر عن الحماس لبداية العمل أو النشاط.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "الجملة تصف شعورًا حاليًا باستخدام am مع صفة."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير يشير إلى المتكلم"
+          },
+          {
+            "term": "am",
+            "description": "صيغة تأتي مع ضمير المتكلم وتربطه بالحالة"
+          },
+          {
+            "term": "really",
+            "description": "حقًا أو جدًا، لتقوية المعنى"
+          },
+          {
+            "term": "excited",
+            "description": "متحمس"
+          },
+          {
+            "term": "to",
+            "description": "تأتي قبل الفعل لتوضيح سبب الحماس"
+          },
+          {
+            "term": "get",
+            "description": "أبدأ أو أدخل في الحالة في هذا التعبير"
+          },
+          {
+            "term": "started",
+            "description": "بدأ أو انطلق"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Hello! Today is my first day.",
+        "ar": "مرحبًا! اليوم هو أول يوم لي.",
+        "context": "تُستخدم عند بدء عمل أو دراسة."
+      },
+      {
+        "id": 2,
+        "en": "I am excited to start.",
+        "ar": "أنا متحمس للبدء.",
+        "context": "تُستخدم للتعبير عن الحماس."
+      },
+      {
+        "id": 3,
+        "en": "Today is my first day at work.",
+        "ar": "اليوم هو أول يوم لي في العمل.",
+        "context": "تُستخدم في وظيفة جديدة."
+      },
+      {
+        "id": 4,
+        "en": "I am ready to get started.",
+        "ar": "أنا مستعد للبدء.",
+        "context": "تُستخدم عند الاستعداد."
+      },
+      {
+        "id": 5,
+        "en": "Hello, I am new here.",
+        "ar": "مرحبًا، أنا جديد هنا.",
+        "context": "تُستخدم للتعريف بالنفس في مكان جديد."
+      },
+      {
+        "id": 6,
+        "en": "I am really happy to be here.",
+        "ar": "أنا سعيد حقًا بوجودي هنا.",
+        "context": "تُستخدم للتعبير عن امتنان أو حماس."
+      },
+      {
+        "id": 7,
+        "en": "This is my first day.",
+        "ar": "هذا أول يوم لي.",
+        "context": "تُستخدم لتوضيح سبب عدم الخبرة."
+      },
+      {
+        "id": 8,
+        "en": "I am excited to meet everyone.",
+        "ar": "أنا متحمس لمقابلة الجميع.",
+        "context": "تُستخدم في بداية تجربة جماعية."
+      },
+      {
+        "id": 9,
+        "en": "I am ready to learn.",
+        "ar": "أنا مستعد للتعلم.",
+        "context": "تُستخدم في تدريب أو صف."
+      },
+      {
+        "id": 10,
+        "en": "Today is an important day for me.",
+        "ar": "اليوم يوم مهم بالنسبة لي.",
+        "context": "تُستخدم عند بداية مهمة مهمة."
+      }
+    ]
+  }
+}

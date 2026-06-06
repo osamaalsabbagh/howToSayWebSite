@@ -1,0 +1,115 @@
+{
+  "schemaVersion": 1,
+  "id": 962,
+  "sentence": {
+    "en": "Hello, how are you?",
+    "ar": "مرحبًا، كيف حالك؟",
+    "context": "تُستخدم كتحية شائعة والسؤال عن الحال."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Hello",
+        "ar": "مرحبًا",
+        "context": "هذا الجزء تحية تبدأ بها المحادثة.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه تحية ثابتة وليست جملة ذات زمن."
+        },
+        "wordMeanings": [
+          {
+            "term": "Hello",
+            "description": "مرحبًا، تُستخدم لبدء الحديث أو التحية"
+          }
+        ]
+      },
+      {
+        "sentence": "how are you",
+        "ar": "كيف حالك",
+        "context": "هذا الجزء سؤال مهذب عن حال الشخص.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "السؤال يستخدم are للسؤال عن الحالة الحالية للمخاطب."
+        },
+        "wordMeanings": [
+          {
+            "term": "how",
+            "description": "كيف، وتُستخدم للسؤال عن الحال أو الطريقة"
+          },
+          {
+            "term": "are",
+            "description": "تربط المخاطب بحالته في السؤال"
+          },
+          {
+            "term": "you",
+            "description": "أنت أو أنتم حسب المخاطب"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Hi, how are you?",
+        "ar": "أهلًا، كيف حالك؟",
+        "context": "تُستخدم كتحية غير رسمية."
+      },
+      {
+        "id": 2,
+        "en": "Good morning, how are you?",
+        "ar": "صباح الخير، كيف حالك؟",
+        "context": "تُستخدم في بداية اليوم."
+      },
+      {
+        "id": 3,
+        "en": "Hello, how is your day?",
+        "ar": "مرحبًا، كيف يومك؟",
+        "context": "تُستخدم للسؤال عن يوم شخص."
+      },
+      {
+        "id": 4,
+        "en": "Hello, are you okay?",
+        "ar": "مرحبًا، هل أنت بخير؟",
+        "context": "تُستخدم عند الاطمئنان على شخص."
+      },
+      {
+        "id": 5,
+        "en": "Hi, how is work?",
+        "ar": "أهلًا، كيف العمل؟",
+        "context": "تُستخدم للسؤال عن العمل."
+      },
+      {
+        "id": 6,
+        "en": "Hello, how is your family?",
+        "ar": "مرحبًا، كيف حال عائلتك؟",
+        "context": "تُستخدم للسؤال بلطف عن العائلة."
+      },
+      {
+        "id": 7,
+        "en": "Good evening, how are you?",
+        "ar": "مساء الخير، كيف حالك؟",
+        "context": "تُستخدم في المساء."
+      },
+      {
+        "id": 8,
+        "en": "Hello, how are things?",
+        "ar": "مرحبًا، كيف الأمور؟",
+        "context": "تُستخدم للسؤال العام عن الحال."
+      },
+      {
+        "id": 9,
+        "en": "Hi, are you well?",
+        "ar": "أهلًا، هل أنت بخير؟",
+        "context": "تُستخدم للاطمئنان بطريقة بسيطة."
+      },
+      {
+        "id": 10,
+        "en": "Hello, how is school?",
+        "ar": "مرحبًا، كيف المدرسة؟",
+        "context": "تُستخدم للسؤال عن الدراسة."
+      }
+    ]
+  }
+}

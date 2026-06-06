@@ -1,0 +1,111 @@
+{
+  "schemaVersion": 1,
+  "id": 1000,
+  "sentence": {
+    "en": "I need to catch a flight.",
+    "ar": "أحتاج أن ألحق برحلة طيران.",
+    "context": "تُستخدم للتعبير عن الحاجة للذهاب إلى المطار في الوقت المناسب."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "I need to catch a flight",
+        "ar": "أحتاج أن ألحق برحلة طيران",
+        "context": "تُستخدم عند وجود رحلة طيران يجب الوصول إليها في الوقت.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُخدم المضارع البسيط للتعبير عن حاجة حالية وعاجلة."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير يشير إلى المتكلم"
+          },
+          {
+            "term": "need",
+            "description": "أحتاج"
+          },
+          {
+            "term": "to",
+            "description": "تأتي قبل الفعل لتوضيح ما يحتاج المتكلم فعله"
+          },
+          {
+            "term": "catch",
+            "description": "ألحق أو أصل في الوقت المناسب"
+          },
+          {
+            "term": "a",
+            "description": "أداة تشير إلى رحلة واحدة غير محددة"
+          },
+          {
+            "term": "flight",
+            "description": "رحلة طيران"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I need to catch a bus.",
+        "ar": "أحتاج أن ألحق بالحافلة.",
+        "context": "تُستخدم عند قرب موعد الحافلة."
+      },
+      {
+        "id": 2,
+        "en": "I need to catch a train.",
+        "ar": "أحتاج أن ألحق بالقطار.",
+        "context": "تُستخدم في محطة أو قبل السفر."
+      },
+      {
+        "id": 3,
+        "en": "We need to leave now.",
+        "ar": "نحتاج إلى المغادرة الآن.",
+        "context": "تُستخدم عند ضيق الوقت."
+      },
+      {
+        "id": 4,
+        "en": "I need to go to the airport.",
+        "ar": "أحتاج إلى الذهاب إلى المطار.",
+        "context": "تُستخدم قبل رحلة طيران."
+      },
+      {
+        "id": 5,
+        "en": "I need to be there on time.",
+        "ar": "أحتاج أن أكون هناك في الوقت.",
+        "context": "تُستخدم عند أهمية الموعد."
+      },
+      {
+        "id": 6,
+        "en": "She needs to catch her flight.",
+        "ar": "هي تحتاج أن تلحق برحلتها.",
+        "context": "تُستخدم عن شخص آخر لديه رحلة."
+      },
+      {
+        "id": 7,
+        "en": "I need to hurry.",
+        "ar": "أحتاج إلى الإسراع.",
+        "context": "تُستخدم في موقف عاجل."
+      },
+      {
+        "id": 8,
+        "en": "I need a taxi to the airport.",
+        "ar": "أحتاج إلى سيارة أجرة إلى المطار.",
+        "context": "تُستخدم لطلب نقل إلى المطار."
+      },
+      {
+        "id": 9,
+        "en": "We need to catch the next flight.",
+        "ar": "نحتاج أن نلحق بالرحلة التالية.",
+        "context": "تُستخدم عند تغيير الرحلات."
+      },
+      {
+        "id": 10,
+        "en": "I need to check in soon.",
+        "ar": "أحتاج إلى تسجيل الدخول قريبًا.",
+        "context": "تُستخدم في المطار قبل الرحلة."
+      }
+    ]
+  }
+}

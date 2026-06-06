@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": 1026,
+  "sentence": {
+    "en": "What is your favorite sport?",
+    "ar": "ما هو رياضتك المفضلة؟",
+    "context": "تُستخدم لسؤال شخص عن الرياضة التي يفضلها."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "What is your favorite sport",
+        "ar": "ما رياضتك المفضلة",
+        "context": "تُستخدم لمعرفة الرياضة التي يحبها الشخص أكثر من غيرها.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "السؤال يستخدم is للسؤال عن تفضيل عام أو ثابت نسبيًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "What",
+            "description": "ما، للسؤال عن معلومة"
+          },
+          {
+            "term": "is",
+            "description": "تربط السؤال بالمعلومة المطلوبة"
+          },
+          {
+            "term": "your",
+            "description": "خاصتك، وتربط التفضيل بالمخاطب"
+          },
+          {
+            "term": "favorite",
+            "description": "المفضل أو الأكثر حبًا"
+          },
+          {
+            "term": "sport",
+            "description": "رياضة"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "What is your favorite team?",
+        "ar": "ما فريقك المفضل؟",
+        "context": "تُستخدم عند الحديث عن الرياضة."
+      },
+      {
+        "id": 2,
+        "en": "What is your favorite game?",
+        "ar": "ما لعبتك المفضلة؟",
+        "context": "تُستخدم للسؤال عن لعبة يحبها الشخص."
+      },
+      {
+        "id": 3,
+        "en": "My favorite sport is soccer.",
+        "ar": "رياضتي المفضلة هي كرة القدم.",
+        "context": "تُستخدم للإجابة عن السؤال."
+      },
+      {
+        "id": 4,
+        "en": "Do you like basketball?",
+        "ar": "هل تحب كرة السلة؟",
+        "context": "تُستخدم للسؤال عن رياضة محددة."
+      },
+      {
+        "id": 5,
+        "en": "She likes tennis.",
+        "ar": "هي تحب التنس.",
+        "context": "تُستخدم لوصف تفضيل شخص آخر."
+      },
+      {
+        "id": 6,
+        "en": "What sport do you play?",
+        "ar": "ما الرياضة التي تلعبها؟",
+        "context": "تُستخدم للسؤال عن ممارسة الرياضة."
+      },
+      {
+        "id": 7,
+        "en": "What is his favorite sport?",
+        "ar": "ما رياضته المفضلة؟",
+        "context": "تُستخدم للسؤال عن شخص آخر."
+      },
+      {
+        "id": 8,
+        "en": "I love swimming.",
+        "ar": "أحب السباحة.",
+        "context": "تُستخدم للتعبير عن رياضة تحبها."
+      },
+      {
+        "id": 9,
+        "en": "What sport do you watch?",
+        "ar": "ما الرياضة التي تشاهدها؟",
+        "context": "تُستخدم للسؤال عن المتابعة الرياضية."
+      },
+      {
+        "id": 10,
+        "en": "My favorite sport is running.",
+        "ar": "رياضتي المفضلة هي الجري.",
+        "context": "تُستخدم عند ذكر تفضيل شخصي."
+      }
+    ]
+  }
+}

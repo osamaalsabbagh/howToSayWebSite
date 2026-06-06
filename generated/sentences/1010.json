@@ -1,0 +1,115 @@
+{
+  "schemaVersion": 1,
+  "id": 1010,
+  "sentence": {
+    "en": "Can you tell me more about this?",
+    "ar": "هل يمكنك أن تخبرني المزيد عن هذا؟",
+    "context": "تُستخدم لطلب معلومات إضافية."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Can you tell me more about this",
+        "ar": "هل يمكنك أن تخبرني المزيد عن هذا",
+        "context": "تُستخدم عندما تريد تفاصيل إضافية عن موضوع أو شيء.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "السؤال يستخدم Can you لطلب خدمة أو شرح، وليس للتعبير عن زمن مستقل."
+        },
+        "wordMeanings": [
+          {
+            "term": "Can",
+            "description": "هل يمكنك، لطلب المساعدة"
+          },
+          {
+            "term": "you",
+            "description": "أنت أو أنتم حسب المخاطب"
+          },
+          {
+            "term": "tell",
+            "description": "تخبر أو تعطي معلومات"
+          },
+          {
+            "term": "me",
+            "description": "لي، أي للمتكلم"
+          },
+          {
+            "term": "more",
+            "description": "المزيد أو معلومات أكثر"
+          },
+          {
+            "term": "about",
+            "description": "عن أو بخصوص"
+          },
+          {
+            "term": "this",
+            "description": "هذا، وتشير إلى الموضوع أو الشيء المقصود"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Can you explain this to me?",
+        "ar": "هل يمكنك شرح هذا لي؟",
+        "context": "تُستخدم عند طلب توضيح."
+      },
+      {
+        "id": 2,
+        "en": "Can you tell me more about the job?",
+        "ar": "هل يمكنك أن تخبرني المزيد عن الوظيفة؟",
+        "context": "تُستخدم في سياق عمل."
+      },
+      {
+        "id": 3,
+        "en": "Can you tell me more about the room?",
+        "ar": "هل يمكنك أن تخبرني المزيد عن الغرفة؟",
+        "context": "تُستخدم عند حجز فندق."
+      },
+      {
+        "id": 4,
+        "en": "I need more information.",
+        "ar": "أحتاج إلى معلومات أكثر.",
+        "context": "تُستخدم عند عدم كفاية التفاصيل."
+      },
+      {
+        "id": 5,
+        "en": "Can you give me more details?",
+        "ar": "هل يمكنك إعطائي مزيدًا من التفاصيل؟",
+        "context": "تُستخدم لطلب شرح أعمق."
+      },
+      {
+        "id": 6,
+        "en": "Can you tell me more about the price?",
+        "ar": "هل يمكنك أن تخبرني المزيد عن السعر؟",
+        "context": "تُستخدم قبل الشراء."
+      },
+      {
+        "id": 7,
+        "en": "Can you tell me more about the plan?",
+        "ar": "هل يمكنك أن تخبرني المزيد عن الخطة؟",
+        "context": "تُستخدم في التخطيط."
+      },
+      {
+        "id": 8,
+        "en": "Please tell me more.",
+        "ar": "من فضلك أخبرني المزيد.",
+        "context": "تُستخدم كطلب مختصر."
+      },
+      {
+        "id": 9,
+        "en": "Can you tell us more about this?",
+        "ar": "هل يمكنك أن تخبرنا المزيد عن هذا؟",
+        "context": "تُستخدم عندما تسأل باسم مجموعة."
+      },
+      {
+        "id": 10,
+        "en": "Can you tell me what happened?",
+        "ar": "هل يمكنك أن تخبرني بما حدث؟",
+        "context": "تُستخدم لفهم موقف."
+      }
+    ]
+  }
+}

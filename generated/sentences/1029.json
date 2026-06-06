@@ -1,0 +1,111 @@
+{
+  "schemaVersion": 1,
+  "id": 1029,
+  "sentence": {
+    "en": "Where is the nearest subway station?",
+    "ar": "أين أقرب محطة مترو؟",
+    "context": "تُستخدم لطلب الاتجاهات إلى أقرب محطة مترو."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Where is the nearest subway station",
+        "ar": "أين أقرب محطة مترو",
+        "context": "تُستخدم للسؤال عن أقرب مكان لركوب المترو.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "السؤال يستخدم is للسؤال عن موقع حالي لمكان."
+        },
+        "wordMeanings": [
+          {
+            "term": "Where",
+            "description": "أين، للسؤال عن المكان"
+          },
+          {
+            "term": "is",
+            "description": "يوجد أو يكون في مكان"
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف تشير إلى الأقرب في المنطقة"
+          },
+          {
+            "term": "nearest",
+            "description": "الأقرب"
+          },
+          {
+            "term": "subway",
+            "description": "مترو أو قطار أنفاق"
+          },
+          {
+            "term": "station",
+            "description": "محطة"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Where is the nearest train station?",
+        "ar": "أين أقرب محطة قطار؟",
+        "context": "تُستخدم للسؤال عن قطار."
+      },
+      {
+        "id": 2,
+        "en": "Where is the nearest bus stop?",
+        "ar": "أين أقرب موقف حافلات؟",
+        "context": "تُستخدم عند استخدام الحافلة."
+      },
+      {
+        "id": 3,
+        "en": "Where is the subway entrance?",
+        "ar": "أين مدخل المترو؟",
+        "context": "تُستخدم بعد الوصول إلى المحطة."
+      },
+      {
+        "id": 4,
+        "en": "Is there a subway station nearby?",
+        "ar": "هل توجد محطة مترو قريبة؟",
+        "context": "تُستخدم للسؤال عن وجود محطة."
+      },
+      {
+        "id": 5,
+        "en": "How do I get to the subway station?",
+        "ar": "كيف أصل إلى محطة المترو؟",
+        "context": "تُستخدم لطلب الطريق."
+      },
+      {
+        "id": 6,
+        "en": "The subway station is close.",
+        "ar": "محطة المترو قريبة.",
+        "context": "تُستخدم لتقديم معلومة."
+      },
+      {
+        "id": 7,
+        "en": "Where is the nearest station?",
+        "ar": "أين أقرب محطة؟",
+        "context": "تُستخدم بصيغة عامة."
+      },
+      {
+        "id": 8,
+        "en": "Which way is the subway?",
+        "ar": "أي طريق إلى المترو؟",
+        "context": "تُستخدم كسؤال مختصر."
+      },
+      {
+        "id": 9,
+        "en": "Can you show me the subway station?",
+        "ar": "هل يمكنك أن تريني محطة المترو؟",
+        "context": "تُستخدم لطلب إرشاد."
+      },
+      {
+        "id": 10,
+        "en": "I need the nearest subway station.",
+        "ar": "أحتاج إلى أقرب محطة مترو.",
+        "context": "تُستخدم عند البحث عن مواصلات."
+      }
+    ]
+  }
+}

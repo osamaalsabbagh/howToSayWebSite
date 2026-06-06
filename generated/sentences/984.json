@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": 984,
+  "sentence": {
+    "en": "Is there a hospital nearby?",
+    "ar": "هل هناك مستشفى قريب؟",
+    "context": "تُستخدم للسؤال عن وجود مستشفى قريب."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Is there a hospital nearby",
+        "ar": "هل هناك مستشفى قريب",
+        "context": "تُستخدم للسؤال عن وجود مستشفى في المنطقة القريبة.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "السؤال يستخدم Is there للسؤال عن وجود شيء في الحاضر."
+        },
+        "wordMeanings": [
+          {
+            "term": "Is",
+            "description": "هل يوجد، وتبدأ سؤالًا عن الوجود"
+          },
+          {
+            "term": "there",
+            "description": "هناك، وتُستخدم مع السؤال عن وجود شيء"
+          },
+          {
+            "term": "a",
+            "description": "أداة تشير إلى شيء واحد غير محدد"
+          },
+          {
+            "term": "hospital",
+            "description": "مستشفى"
+          },
+          {
+            "term": "nearby",
+            "description": "قريب أو في المنطقة القريبة"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Is there a pharmacy nearby?",
+        "ar": "هل هناك صيدلية قريبة؟",
+        "context": "تُستخدم عند الحاجة إلى دواء."
+      },
+      {
+        "id": 2,
+        "en": "Is there a bank nearby?",
+        "ar": "هل هناك بنك قريب؟",
+        "context": "تُستخدم عند الحاجة إلى خدمة مصرفية."
+      },
+      {
+        "id": 3,
+        "en": "Is there a restroom nearby?",
+        "ar": "هل هناك دورة مياه قريبة؟",
+        "context": "تُستخدم في الأماكن العامة."
+      },
+      {
+        "id": 4,
+        "en": "Is there a hotel nearby?",
+        "ar": "هل هناك فندق قريب؟",
+        "context": "تُستخدم عند البحث عن مكان إقامة."
+      },
+      {
+        "id": 5,
+        "en": "Is there a bus stop nearby?",
+        "ar": "هل هناك موقف حافلات قريب؟",
+        "context": "تُستخدم عند الحاجة للمواصلات."
+      },
+      {
+        "id": 6,
+        "en": "Is there a doctor nearby?",
+        "ar": "هل هناك طبيب قريب؟",
+        "context": "تُستخدم عند الحاجة لمساعدة طبية."
+      },
+      {
+        "id": 7,
+        "en": "Is there a store nearby?",
+        "ar": "هل هناك متجر قريب؟",
+        "context": "تُستخدم عند البحث عن مكان للشراء."
+      },
+      {
+        "id": 8,
+        "en": "Is there a cafe nearby?",
+        "ar": "هل هناك مقهى قريب؟",
+        "context": "تُستخدم عند البحث عن مكان للجلوس."
+      },
+      {
+        "id": 9,
+        "en": "Is there a taxi nearby?",
+        "ar": "هل هناك سيارة أجرة قريبة؟",
+        "context": "تُستخدم عند الحاجة إلى نقل."
+      },
+      {
+        "id": 10,
+        "en": "Is there a clinic nearby?",
+        "ar": "هل هناك عيادة قريبة؟",
+        "context": "تُستخدم عند البحث عن علاج قريب."
+      }
+    ]
+  }
+}

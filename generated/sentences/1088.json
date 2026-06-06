@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": 1088,
+  "sentence": {
+    "en": "What is your day like?",
+    "ar": "كيف يبدو يومك؟",
+    "context": "تُستخدم لسؤال شخص عن كيف يسير يومه أو ما يتضمنه عادةً."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "What is your day like",
+        "ar": "كيف يبدو يومك",
+        "context": "تُستخدم للسؤال عن شكل يوم الشخص أو روتينه.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "السؤال يستخدم is للسؤال عن وصف أو طبيعة اليوم عادة أو حاليًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "What",
+            "description": "ما، وتدخل هنا في سؤال عن الوصف"
+          },
+          {
+            "term": "is",
+            "description": "تربط السؤال بالوصف المطلوب"
+          },
+          {
+            "term": "your",
+            "description": "خاصتك، وتربط اليوم بالمخاطب"
+          },
+          {
+            "term": "day",
+            "description": "يوم"
+          },
+          {
+            "term": "like",
+            "description": "مثل أو كيف حاله في هذا السؤال"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "What is your morning like?",
+        "ar": "كيف يبدو صباحك؟",
+        "context": "تُستخدم للسؤال عن بداية اليوم."
+      },
+      {
+        "id": 2,
+        "en": "What is your workday like?",
+        "ar": "كيف يبدو يوم عملك؟",
+        "context": "تُستخدم للسؤال عن العمل."
+      },
+      {
+        "id": 3,
+        "en": "My day is busy.",
+        "ar": "يومي مشغول.",
+        "context": "تُستخدم للإجابة."
+      },
+      {
+        "id": 4,
+        "en": "My day is quiet.",
+        "ar": "يومي هادئ.",
+        "context": "تُستخدم لوصف يوم بسيط."
+      },
+      {
+        "id": 5,
+        "en": "What is school like?",
+        "ar": "كيف تبدو المدرسة؟",
+        "context": "تُستخدم للسؤال عن تجربة."
+      },
+      {
+        "id": 6,
+        "en": "What is your schedule like?",
+        "ar": "كيف يبدو جدولك؟",
+        "context": "تُستخدم للسؤال عن الانشغال."
+      },
+      {
+        "id": 7,
+        "en": "How is your day?",
+        "ar": "كيف يومك؟",
+        "context": "تُستخدم للسؤال العام."
+      },
+      {
+        "id": 8,
+        "en": "What is your weekend like?",
+        "ar": "كيف تبدو عطلة نهاية أسبوعك؟",
+        "context": "تُستخدم عن الروتين الأسبوعي."
+      },
+      {
+        "id": 9,
+        "en": "My day starts early.",
+        "ar": "يبدأ يومي مبكرًا.",
+        "context": "تُستخدم لوصف الروتين."
+      },
+      {
+        "id": 10,
+        "en": "My day has many meetings.",
+        "ar": "يومي فيه اجتماعات كثيرة.",
+        "context": "تُستخدم لوصف يوم عمل."
+      }
+    ]
+  }
+}

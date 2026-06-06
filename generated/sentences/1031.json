@@ -1,0 +1,131 @@
+{
+  "schemaVersion": 1,
+  "id": 1031,
+  "sentence": {
+    "en": "Can you show me how to use this?",
+    "ar": "هل يمكنك أن تريني كيف أستخدم هذا؟",
+    "context": "تُستخدم لطلب شرح أو مساعدة في استخدام شيء ما."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Can you show me",
+        "ar": "هل يمكنك أن تريني",
+        "context": "هذا الجزء يطلب توضيحًا عمليًا من المخاطب.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "Can you بنية طلب مساعدة وليست زمنًا مستقلًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "Can",
+            "description": "هل يمكنك، لطلب المساعدة"
+          },
+          {
+            "term": "you",
+            "description": "أنت أو أنتم حسب المخاطب"
+          },
+          {
+            "term": "show",
+            "description": "تُري أو توضح"
+          },
+          {
+            "term": "me",
+            "description": "لي، أي للمتكلم"
+          }
+        ]
+      },
+      {
+        "sentence": "how to use this",
+        "ar": "كيف أستخدم هذا",
+        "context": "هذا الجزء يحدد أن المطلوب هو طريقة الاستخدام.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه عبارة مصدرية تعليمية عن طريقة الفعل ولا تحمل زمنًا مستقلًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "how",
+            "description": "كيف، للسؤال عن الطريقة"
+          },
+          {
+            "term": "to",
+            "description": "تأتي قبل الفعل في عبارة الطريقة"
+          },
+          {
+            "term": "use",
+            "description": "أستخدم"
+          },
+          {
+            "term": "this",
+            "description": "هذا، وتشير إلى الشيء المطلوب تعلم استخدامه"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Can you show me how to open this?",
+        "ar": "هل يمكنك أن تريني كيف أفتح هذا؟",
+        "context": "تُستخدم عند صعوبة فتح شيء."
+      },
+      {
+        "id": 2,
+        "en": "Can you show me how to turn this on?",
+        "ar": "هل يمكنك أن تريني كيف أشغل هذا؟",
+        "context": "تُستخدم عند تعلم تشغيل جهاز."
+      },
+      {
+        "id": 3,
+        "en": "Can you explain how to use this?",
+        "ar": "هل يمكنك شرح كيفية استخدام هذا؟",
+        "context": "تُستخدم لطلب شرح."
+      },
+      {
+        "id": 4,
+        "en": "How do I use this?",
+        "ar": "كيف أستخدم هذا؟",
+        "context": "تُستخدم كسؤال مباشر."
+      },
+      {
+        "id": 5,
+        "en": "Can you show me how it works?",
+        "ar": "هل يمكنك أن تريني كيف يعمل؟",
+        "context": "تُستخدم عند جهاز أو أداة."
+      },
+      {
+        "id": 6,
+        "en": "Please show me how to use it.",
+        "ar": "من فضلك أرني كيف أستخدمه.",
+        "context": "تُستخدم كطلب مباشر."
+      },
+      {
+        "id": 7,
+        "en": "Can you show me how to pay?",
+        "ar": "هل يمكنك أن تريني كيف أدفع؟",
+        "context": "تُستخدم عند نظام دفع جديد."
+      },
+      {
+        "id": 8,
+        "en": "Can you show me how to log in?",
+        "ar": "هل يمكنك أن تريني كيف أسجل الدخول؟",
+        "context": "تُستخدم عند استخدام تطبيق."
+      },
+      {
+        "id": 9,
+        "en": "Can you show me how to charge this?",
+        "ar": "هل يمكنك أن تريني كيف أشحن هذا؟",
+        "context": "تُستخدم عند جهاز يحتاج شحنًا."
+      },
+      {
+        "id": 10,
+        "en": "Can you teach me how to use this?",
+        "ar": "هل يمكنك تعليمي كيف أستخدم هذا؟",
+        "context": "تُستخدم عند طلب تعليم."
+      }
+    ]
+  }
+}

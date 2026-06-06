@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": 1018,
+  "sentence": {
+    "en": "Can I use your restroom?",
+    "ar": "هل يمكنني استخدام دورة المياه لديكم؟",
+    "context": "تُستخدم لطلب استخدام دورة المياه بأدب."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Can I use your restroom",
+        "ar": "هل يمكنني استخدام دورة المياه لديكم",
+        "context": "تُستخدم لطلب الإذن باستخدام دورة المياه في مكان يخص شخصًا أو مؤسسة.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "السؤال يستخدم Can I لطلب الإذن بأدب، وليس للتعبير عن زمن مستقل."
+        },
+        "wordMeanings": [
+          {
+            "term": "Can",
+            "description": "هل يمكن، وتُستخدم لطلب الإذن"
+          },
+          {
+            "term": "I",
+            "description": "ضمير يشير إلى المتكلم"
+          },
+          {
+            "term": "use",
+            "description": "أستخدم"
+          },
+          {
+            "term": "your",
+            "description": "خاصتكم أو خاصتك حسب المخاطب"
+          },
+          {
+            "term": "restroom",
+            "description": "دورة مياه، كلمة مهذبة للأماكن العامة"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Can I use your bathroom?",
+        "ar": "هل يمكنني استخدام حمامكم؟",
+        "context": "تُستخدم في بيت أو مكان خاص."
+      },
+      {
+        "id": 2,
+        "en": "Can I use the restroom?",
+        "ar": "هل يمكنني استخدام دورة المياه؟",
+        "context": "تُستخدم في مكان عام."
+      },
+      {
+        "id": 3,
+        "en": "Where is your restroom?",
+        "ar": "أين دورة المياه لديكم؟",
+        "context": "تُستخدم للسؤال عن المكان."
+      },
+      {
+        "id": 4,
+        "en": "May I use the restroom?",
+        "ar": "هل يمكنني استخدام دورة المياه؟",
+        "context": "تُستخدم بصيغة أكثر رسمية."
+      },
+      {
+        "id": 5,
+        "en": "Can I use the restroom here?",
+        "ar": "هل يمكنني استخدام دورة المياه هنا؟",
+        "context": "تُستخدم لتحديد المكان الحالي."
+      },
+      {
+        "id": 6,
+        "en": "Can my child use your restroom?",
+        "ar": "هل يمكن لطفلي استخدام دورة المياه لديكم؟",
+        "context": "تُستخدم عند السؤال نيابة عن طفل."
+      },
+      {
+        "id": 7,
+        "en": "Is the restroom open?",
+        "ar": "هل دورة المياه مفتوحة؟",
+        "context": "تُستخدم قبل محاولة الدخول."
+      },
+      {
+        "id": 8,
+        "en": "Can I wash my hands here?",
+        "ar": "هل يمكنني غسل يدي هنا؟",
+        "context": "تُستخدم عند طلب استخدام المغسلة."
+      },
+      {
+        "id": 9,
+        "en": "Do you have a restroom?",
+        "ar": "هل لديكم دورة مياه؟",
+        "context": "تُستخدم في متجر أو مقهى."
+      },
+      {
+        "id": 10,
+        "en": "Please show me the restroom.",
+        "ar": "من فضلك أرني دورة المياه.",
+        "context": "تُستخدم لطلب إرشاد."
+      }
+    ]
+  }
+}

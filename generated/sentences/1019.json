@@ -1,0 +1,119 @@
+{
+  "schemaVersion": 1,
+  "id": 1019,
+  "sentence": {
+    "en": "Do you know the way to the library?",
+    "ar": "هل تعرف الطريق إلى المكتبة؟",
+    "context": "تُستخدم لطلب الاتجاهات إلى المكتبة."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Do you know the way to the library",
+        "ar": "هل تعرف الطريق إلى المكتبة",
+        "context": "تُستخدم للسؤال عما إذا كان الشخص يعرف اتجاه المكتبة.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "السؤال يستخدم Do مع know للسؤال عن معرفة حالية أو عامة."
+        },
+        "wordMeanings": [
+          {
+            "term": "Do",
+            "description": "تُستخدم لتكوين سؤال في المضارع"
+          },
+          {
+            "term": "you",
+            "description": "أنت أو أنتم حسب المخاطب"
+          },
+          {
+            "term": "know",
+            "description": "تعرف أو لديك معلومة"
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف تشير إلى طريق محدد"
+          },
+          {
+            "term": "way",
+            "description": "طريق أو اتجاه"
+          },
+          {
+            "term": "to",
+            "description": "إلى، وتبين الوجهة"
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف تشير إلى مكتبة معروفة أو مقصودة"
+          },
+          {
+            "term": "library",
+            "description": "مكتبة"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Do you know the way to the station?",
+        "ar": "هل تعرف الطريق إلى المحطة؟",
+        "context": "تُستخدم لطلب اتجاهات إلى محطة."
+      },
+      {
+        "id": 2,
+        "en": "Do you know the way to the hospital?",
+        "ar": "هل تعرف الطريق إلى المستشفى؟",
+        "context": "تُستخدم عند الحاجة إلى مستشفى."
+      },
+      {
+        "id": 3,
+        "en": "Do you know where the library is?",
+        "ar": "هل تعرف أين المكتبة؟",
+        "context": "تُستخدم بصيغة أخرى للسؤال عن المكان."
+      },
+      {
+        "id": 4,
+        "en": "Can you show me the way?",
+        "ar": "هل يمكنك أن تريني الطريق؟",
+        "context": "تُستخدم لطلب إرشاد مباشر."
+      },
+      {
+        "id": 5,
+        "en": "I need directions to the library.",
+        "ar": "أحتاج إلى اتجاهات إلى المكتبة.",
+        "context": "تُستخدم عند طلب المساعدة."
+      },
+      {
+        "id": 6,
+        "en": "Which way is the library?",
+        "ar": "أي طريق إلى المكتبة؟",
+        "context": "تُستخدم كسؤال مختصر."
+      },
+      {
+        "id": 7,
+        "en": "Do you know the way downtown?",
+        "ar": "هل تعرف الطريق إلى وسط المدينة؟",
+        "context": "تُستخدم للسؤال عن وجهة عامة."
+      },
+      {
+        "id": 8,
+        "en": "Do you know this street?",
+        "ar": "هل تعرف هذا الشارع؟",
+        "context": "تُستخدم عند السؤال عن موقع شارع."
+      },
+      {
+        "id": 9,
+        "en": "Can you tell me how to get to the library?",
+        "ar": "هل يمكنك إخباري كيف أصل إلى المكتبة؟",
+        "context": "تُستخدم لطلب شرح الطريق."
+      },
+      {
+        "id": 10,
+        "en": "The library is near the school.",
+        "ar": "المكتبة قريبة من المدرسة.",
+        "context": "تُستخدم لتقديم اتجاه بسيط."
+      }
+    ]
+  }
+}

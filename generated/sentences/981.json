@@ -1,0 +1,111 @@
+{
+  "schemaVersion": 1,
+  "id": 981,
+  "sentence": {
+    "en": "Where can I buy a ticket?",
+    "ar": "أين يمكنني شراء تذكرة؟",
+    "context": "تُستخدم للسؤال عن مكان شراء التذاكر."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Where can I buy a ticket",
+        "ar": "أين يمكنني شراء تذكرة",
+        "context": "تُستخدم للسؤال عن المكان المناسب لشراء تذكرة.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "السؤال يستخدم can للسؤال عن إمكانية أو مكان القيام بالفعل، وليس عن زمن مستقل."
+        },
+        "wordMeanings": [
+          {
+            "term": "Where",
+            "description": "أين، للسؤال عن المكان"
+          },
+          {
+            "term": "can",
+            "description": "يمكن، وتُستخدم للسؤال عن الإمكانية"
+          },
+          {
+            "term": "I",
+            "description": "ضمير يشير إلى المتكلم"
+          },
+          {
+            "term": "buy",
+            "description": "أشتري"
+          },
+          {
+            "term": "a",
+            "description": "أداة تشير إلى شيء واحد غير محدد"
+          },
+          {
+            "term": "ticket",
+            "description": "تذكرة"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Where can I buy a bus ticket?",
+        "ar": "أين يمكنني شراء تذكرة حافلة؟",
+        "context": "تُستخدم في محطة أو شارع."
+      },
+      {
+        "id": 2,
+        "en": "Where can I buy a train ticket?",
+        "ar": "أين يمكنني شراء تذكرة قطار؟",
+        "context": "تُستخدم في محطة القطار."
+      },
+      {
+        "id": 3,
+        "en": "Where can I buy a phone card?",
+        "ar": "أين يمكنني شراء بطاقة هاتف؟",
+        "context": "تُستخدم عند البحث عن بطاقة اتصال."
+      },
+      {
+        "id": 4,
+        "en": "Where can I get a ticket?",
+        "ar": "أين يمكنني الحصول على تذكرة؟",
+        "context": "تُستخدم بصيغة عامة عن التذاكر."
+      },
+      {
+        "id": 5,
+        "en": "Where can we buy tickets?",
+        "ar": "أين يمكننا شراء التذاكر؟",
+        "context": "تُستخدم عندما تسأل لمجموعة."
+      },
+      {
+        "id": 6,
+        "en": "Where can I buy food?",
+        "ar": "أين يمكنني شراء الطعام؟",
+        "context": "تُستخدم عند البحث عن مكان طعام."
+      },
+      {
+        "id": 7,
+        "en": "Where can I buy water?",
+        "ar": "أين يمكنني شراء الماء؟",
+        "context": "تُستخدم عند الحاجة إلى ماء."
+      },
+      {
+        "id": 8,
+        "en": "Where can I buy this?",
+        "ar": "أين يمكنني شراء هذا؟",
+        "context": "تُستخدم عند رؤية منتج يعجبك."
+      },
+      {
+        "id": 9,
+        "en": "Where can I pay for the ticket?",
+        "ar": "أين يمكنني دفع ثمن التذكرة؟",
+        "context": "تُستخدم عند البحث عن مكان الدفع."
+      },
+      {
+        "id": 10,
+        "en": "Where can I buy a ticket online?",
+        "ar": "أين يمكنني شراء تذكرة عبر الإنترنت؟",
+        "context": "تُستخدم عند تفضيل الشراء الإلكتروني."
+      }
+    ]
+  }
+}

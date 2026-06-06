@@ -1,0 +1,123 @@
+{
+  "schemaVersion": 1,
+  "id": 997,
+  "sentence": {
+    "en": "Can I have the bill, please?",
+    "ar": "هل يمكنني الحصول على الفاتورة، من فضلك؟",
+    "context": "تُستخدم لطلب الفاتورة بعد تناول الطعام في المطعم."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Can I have the bill",
+        "ar": "هل يمكنني الحصول على الفاتورة",
+        "context": "هذا الجزء يطلب الفاتورة في مطعم أو مقهى.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "السؤال يستخدم Can I لطلب شيء بأدب، وليس للتعبير عن زمن مستقل."
+        },
+        "wordMeanings": [
+          {
+            "term": "Can",
+            "description": "هل يمكن، للسؤال بأدب عن إمكانية الحصول على شيء"
+          },
+          {
+            "term": "I",
+            "description": "ضمير يشير إلى المتكلم"
+          },
+          {
+            "term": "have",
+            "description": "أحصل على أو آخذ في سياق الطلب"
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف تشير إلى الفاتورة الخاصة بالطاولة"
+          },
+          {
+            "term": "bill",
+            "description": "فاتورة أو حساب المطلوب دفعه"
+          }
+        ]
+      },
+      {
+        "sentence": "please",
+        "ar": "من فضلك",
+        "context": "كلمة تزيد تهذيب الطلب.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "كلمة أدب ثابتة لا تحمل زمنًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "please",
+            "description": "من فضلك، لتلطيف الطلب"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Can I have the check, please?",
+        "ar": "هل يمكنني الحصول على الحساب، من فضلك؟",
+        "context": "تُستخدم في مطعم بنفس معنى طلب الفاتورة."
+      },
+      {
+        "id": 2,
+        "en": "Can we have the bill, please?",
+        "ar": "هل يمكننا الحصول على الفاتورة، من فضلك؟",
+        "context": "تُستخدم عندما يطلب الحساب أكثر من شخص."
+      },
+      {
+        "id": 3,
+        "en": "Can I pay now, please?",
+        "ar": "هل يمكنني الدفع الآن، من فضلك؟",
+        "context": "تُستخدم عند الاستعداد للمغادرة."
+      },
+      {
+        "id": 4,
+        "en": "Could I have the bill, please?",
+        "ar": "هل يمكنني الحصول على الفاتورة، من فضلك؟",
+        "context": "تُستخدم بصيغة أكثر تهذيبًا."
+      },
+      {
+        "id": 5,
+        "en": "Can I have a receipt, please?",
+        "ar": "هل يمكنني الحصول على إيصال، من فضلك؟",
+        "context": "تُستخدم بعد الدفع."
+      },
+      {
+        "id": 6,
+        "en": "Can I have the menu, please?",
+        "ar": "هل يمكنني الحصول على قائمة الطعام، من فضلك؟",
+        "context": "تُستخدم قبل طلب الطعام."
+      },
+      {
+        "id": 7,
+        "en": "Can I have some water, please?",
+        "ar": "هل يمكنني الحصول على بعض الماء، من فضلك؟",
+        "context": "تُستخدم لطلب ماء في المطعم."
+      },
+      {
+        "id": 8,
+        "en": "Can I have a table, please?",
+        "ar": "هل يمكنني الحصول على طاولة، من فضلك؟",
+        "context": "تُستخدم عند دخول مطعم."
+      },
+      {
+        "id": 9,
+        "en": "Can I have my change, please?",
+        "ar": "هل يمكنني الحصول على باقي نقودي، من فضلك؟",
+        "context": "تُستخدم بعد الدفع نقدًا."
+      },
+      {
+        "id": 10,
+        "en": "Can I have the total, please?",
+        "ar": "هل يمكنني معرفة المجموع، من فضلك؟",
+        "context": "تُستخدم عند السؤال عن مبلغ الدفع."
+      }
+    ]
+  }
+}

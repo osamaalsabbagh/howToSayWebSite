@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": 972,
+  "sentence": {
+    "en": "What is your phone number?",
+    "ar": "ما رقم هاتفك؟",
+    "context": "تُستخدم لطلب رقم الهاتف من شخص ما."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "What is your phone number",
+        "ar": "ما رقم هاتفك",
+        "context": "تُستخدم لطلب رقم هاتف شخص مباشرة.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "السؤال يستخدم is للسؤال عن معلومة حالية وثابتة نسبيًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "What",
+            "description": "ما، وتُستخدم للسؤال عن معلومة"
+          },
+          {
+            "term": "is",
+            "description": "تربط السؤال بالمعلومة المطلوبة"
+          },
+          {
+            "term": "your",
+            "description": "خاصتك، وتربط الرقم بالمخاطب"
+          },
+          {
+            "term": "phone",
+            "description": "هاتف"
+          },
+          {
+            "term": "number",
+            "description": "رقم"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "What is your address?",
+        "ar": "ما عنوانك؟",
+        "context": "تُستخدم لطلب عنوان شخص."
+      },
+      {
+        "id": 2,
+        "en": "What is your email address?",
+        "ar": "ما عنوان بريدك الإلكتروني؟",
+        "context": "تُستخدم لطلب وسيلة تواصل مكتوبة."
+      },
+      {
+        "id": 3,
+        "en": "What is your name?",
+        "ar": "ما اسمك؟",
+        "context": "تُستخدم عند التعارف."
+      },
+      {
+        "id": 4,
+        "en": "What is her phone number?",
+        "ar": "ما رقم هاتفها؟",
+        "context": "تُستخدم لطلب رقم امرأة أو فتاة."
+      },
+      {
+        "id": 5,
+        "en": "What is his phone number?",
+        "ar": "ما رقم هاتفه؟",
+        "context": "تُستخدم لطلب رقم رجل أو ولد."
+      },
+      {
+        "id": 6,
+        "en": "What is the office number?",
+        "ar": "ما رقم المكتب؟",
+        "context": "تُستخدم لطلب رقم مكان عمل."
+      },
+      {
+        "id": 7,
+        "en": "What is your room number?",
+        "ar": "ما رقم غرفتك؟",
+        "context": "تُستخدم في فندق أو سكن."
+      },
+      {
+        "id": 8,
+        "en": "What is your ticket number?",
+        "ar": "ما رقم تذكرتك؟",
+        "context": "تُستخدم في سفر أو خدمة عملاء."
+      },
+      {
+        "id": 9,
+        "en": "What is your account number?",
+        "ar": "ما رقم حسابك؟",
+        "context": "تُستخدم في تعامل رسمي أو مصرفي."
+      },
+      {
+        "id": 10,
+        "en": "What is the house number?",
+        "ar": "ما رقم المنزل؟",
+        "context": "تُستخدم عند تحديد عنوان."
+      }
+    ]
+  }
+}

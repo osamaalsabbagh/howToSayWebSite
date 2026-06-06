@@ -1,0 +1,111 @@
+{
+  "schemaVersion": 1,
+  "id": 1035,
+  "sentence": {
+    "en": "Can you recommend a good book?",
+    "ar": "هل يمكنك أن توصي بكتاب جيد؟",
+    "context": "تُستخدم لطلب ترشيح لكتاب جيد."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Can you recommend a good book",
+        "ar": "هل يمكنك أن توصي بكتاب جيد",
+        "context": "تُستخدم لطلب اقتراح كتاب مناسب أو ممتع.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "السؤال يستخدم Can you لطلب توصية أو خدمة، وليس زمنًا مستقلًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "Can",
+            "description": "هل يمكنك، لطلب المساعدة"
+          },
+          {
+            "term": "you",
+            "description": "أنت أو أنتم حسب المخاطب"
+          },
+          {
+            "term": "recommend",
+            "description": "توصي أو ترشح"
+          },
+          {
+            "term": "a",
+            "description": "أداة تشير إلى كتاب واحد غير محدد"
+          },
+          {
+            "term": "good",
+            "description": "جيد أو مناسب"
+          },
+          {
+            "term": "book",
+            "description": "كتاب"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Can you recommend a good movie?",
+        "ar": "هل يمكنك ترشيح فيلم جيد؟",
+        "context": "تُستخدم عند طلب اقتراح فيلم."
+      },
+      {
+        "id": 2,
+        "en": "Can you recommend a good restaurant?",
+        "ar": "هل يمكنك ترشيح مطعم جيد؟",
+        "context": "تُستخدم عند البحث عن طعام."
+      },
+      {
+        "id": 3,
+        "en": "Do you know a good book?",
+        "ar": "هل تعرف كتابًا جيدًا؟",
+        "context": "تُستخدم بصيغة مشابهة."
+      },
+      {
+        "id": 4,
+        "en": "What book do you recommend?",
+        "ar": "ما الكتاب الذي توصي به؟",
+        "context": "تُستخدم لطلب توصية مباشرة."
+      },
+      {
+        "id": 5,
+        "en": "Can you suggest a book for me?",
+        "ar": "هل يمكنك اقتراح كتاب لي؟",
+        "context": "تُستخدم عند طلب اقتراح شخصي."
+      },
+      {
+        "id": 6,
+        "en": "I need a good book.",
+        "ar": "أحتاج إلى كتاب جيد.",
+        "context": "تُستخدم عند البحث عن قراءة."
+      },
+      {
+        "id": 7,
+        "en": "Can you recommend an easy book?",
+        "ar": "هل يمكنك ترشيح كتاب سهل؟",
+        "context": "تُستخدم لمتعلم أو مبتدئ."
+      },
+      {
+        "id": 8,
+        "en": "This is a good book.",
+        "ar": "هذا كتاب جيد.",
+        "context": "تُستخدم عند مدح كتاب."
+      },
+      {
+        "id": 9,
+        "en": "Can you recommend a book in English?",
+        "ar": "هل يمكنك ترشيح كتاب بالإنجليزية؟",
+        "context": "تُستخدم عند تعلم اللغة."
+      },
+      {
+        "id": 10,
+        "en": "She recommended a good book.",
+        "ar": "هي رشحت كتابًا جيدًا.",
+        "context": "تُستخدم لوصف توصية حدثت."
+      }
+    ]
+  }
+}

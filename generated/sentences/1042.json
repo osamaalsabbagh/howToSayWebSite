@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "id": 1042,
+  "sentence": {
+    "en": "How have you been?",
+    "ar": "كيف حالك؟",
+    "context": "تُستخدم للسؤال عن حال شخص بعد غياب أو فترة انقطاع."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "How have you been",
+        "ar": "كيف كان حالك",
+        "context": "تُستخدم للسؤال عن حال شخص خلال فترة منذ آخر لقاء.",
+        "grammar": {
+          "tense": "المضارع التام",
+          "tenseEn": "Present Perfect",
+          "reason": "استُخدم المضارع التام لأنه يسأل عن الحالة خلال فترة ممتدة حتى الآن."
+        },
+        "wordMeanings": [
+          {
+            "term": "How",
+            "description": "كيف، للسؤال عن الحال"
+          },
+          {
+            "term": "have",
+            "description": "تساعد في تكوين معنى امتداد الحالة حتى الآن"
+          },
+          {
+            "term": "you",
+            "description": "أنت أو أنتم حسب المخاطب"
+          },
+          {
+            "term": "been",
+            "description": "كنت أو كان حالك، وتدل على الحالة خلال الفترة"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "How are you?",
+        "ar": "كيف حالك؟",
+        "context": "تُستخدم كسؤال عام عن الحال."
+      },
+      {
+        "id": 2,
+        "en": "How have you been lately?",
+        "ar": "كيف كان حالك مؤخرًا؟",
+        "context": "تُستخدم بعد فترة من عدم التواصل."
+      },
+      {
+        "id": 3,
+        "en": "I have been well.",
+        "ar": "كنت بخير.",
+        "context": "تُستخدم للإجابة عن السؤال."
+      },
+      {
+        "id": 4,
+        "en": "I have been busy.",
+        "ar": "كنت مشغولًا.",
+        "context": "تُستخدم لوصف الفترة الماضية."
+      },
+      {
+        "id": 5,
+        "en": "How has your family been?",
+        "ar": "كيف كانت حال عائلتك؟",
+        "context": "تُستخدم للسؤال عن العائلة بعد غياب."
+      },
+      {
+        "id": 6,
+        "en": "How have things been?",
+        "ar": "كيف كانت الأمور؟",
+        "context": "تُستخدم للسؤال العام عن الحياة."
+      },
+      {
+        "id": 7,
+        "en": "Have you been okay?",
+        "ar": "هل كنت بخير؟",
+        "context": "تُستخدم للاطمئنان."
+      },
+      {
+        "id": 8,
+        "en": "I have been tired.",
+        "ar": "كنت متعبًا.",
+        "context": "تُستخدم لوصف حالة مستمرة مؤخرًا."
+      },
+      {
+        "id": 9,
+        "en": "How have you been at work?",
+        "ar": "كيف كان حالك في العمل؟",
+        "context": "تُستخدم للسؤال عن العمل بعد مدة."
+      },
+      {
+        "id": 10,
+        "en": "It is good to hear you have been well.",
+        "ar": "من الجيد سماع أنك كنت بخير.",
+        "context": "تُستخدم بعد إجابة إيجابية."
+      }
+    ]
+  }
+}

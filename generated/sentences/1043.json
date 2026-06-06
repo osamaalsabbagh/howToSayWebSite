@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": 1043,
+  "sentence": {
+    "en": "What is happening",
+    "ar": "ما الذي يحدث؟",
+    "context": "تُستخدم للسؤال عن الأحداث الجارية في اللحظة."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "What is happening",
+        "ar": "ما الذي يحدث",
+        "context": "تُستخدم للسؤال عن موقف جارٍ الآن.",
+        "grammar": {
+          "tense": "المضارع المستمر",
+          "tenseEn": "Present Continuous",
+          "reason": "استُخدم المضارع المستمر لأن السؤال عن حدث يحدث في اللحظة الحالية."
+        },
+        "wordMeanings": [
+          {
+            "term": "What",
+            "description": "ما، للسؤال عن الشيء أو الحدث"
+          },
+          {
+            "term": "is",
+            "description": "تساعد في بناء الفعل الجاري"
+          },
+          {
+            "term": "happening",
+            "description": "يحدث أو يقع الآن"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "What is going on?",
+        "ar": "ما الذي يجري؟",
+        "context": "تُستخدم للسؤال عن موقف حالي."
+      },
+      {
+        "id": 2,
+        "en": "What happened?",
+        "ar": "ماذا حدث؟",
+        "context": "تُستخدم للسؤال عن شيء انتهى."
+      },
+      {
+        "id": 3,
+        "en": "What is happening outside?",
+        "ar": "ما الذي يحدث في الخارج؟",
+        "context": "تُستخدم عند سماع صوت أو حركة."
+      },
+      {
+        "id": 4,
+        "en": "Something is happening.",
+        "ar": "هناك شيء يحدث.",
+        "context": "تُستخدم عند ملاحظة أمر غير واضح."
+      },
+      {
+        "id": 5,
+        "en": "What is happening here?",
+        "ar": "ما الذي يحدث هنا؟",
+        "context": "تُستخدم عند دخول موقف غريب."
+      },
+      {
+        "id": 6,
+        "en": "Why is this happening?",
+        "ar": "لماذا يحدث هذا؟",
+        "context": "تُستخدم لطلب سبب."
+      },
+      {
+        "id": 7,
+        "en": "What is happening in the room?",
+        "ar": "ما الذي يحدث في الغرفة؟",
+        "context": "تُستخدم للسؤال عن مكان محدد."
+      },
+      {
+        "id": 8,
+        "en": "Tell me what is happening.",
+        "ar": "أخبرني بما يحدث.",
+        "context": "تُستخدم لطلب شرح."
+      },
+      {
+        "id": 9,
+        "en": "Nothing is happening.",
+        "ar": "لا شيء يحدث.",
+        "context": "تُستخدم للإجابة بالنفي."
+      },
+      {
+        "id": 10,
+        "en": "What is happening right now?",
+        "ar": "ما الذي يحدث الآن؟",
+        "context": "تُستخدم للتأكيد على اللحظة الحالية."
+      }
+    ]
+  }
+}

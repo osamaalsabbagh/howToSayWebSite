@@ -1,0 +1,123 @@
+{
+  "schemaVersion": 1,
+  "id": 1014,
+  "sentence": {
+    "en": "I think I left my wallet.",
+    "ar": "أعتقد أنني نسيت محفظتي.",
+    "context": "تُستخدم للتعبير عن القلق بشأن نسيان المحفظة."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "I think",
+        "ar": "أعتقد",
+        "context": "هذا الجزء يعبّر عن ظن المتكلم وليس عن تأكد كامل.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُخدم المضارع البسيط للتعبير عن رأي أو اعتقاد حالي."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير يشير إلى المتكلم"
+          },
+          {
+            "term": "think",
+            "description": "أعتقد أو أظن"
+          }
+        ]
+      },
+      {
+        "sentence": "I left my wallet",
+        "ar": "نسيت محفظتي أو تركتها",
+        "context": "هذا الجزء يشرح الشيء الذي يظنه المتكلم حدث في الماضي.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "استُخدم الماضي البسيط لأن ترك المحفظة حدث سابقًا قبل وقت الكلام."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير يشير إلى المتكلم"
+          },
+          {
+            "term": "left",
+            "description": "تركت أو نسيت في مكان"
+          },
+          {
+            "term": "my",
+            "description": "خاصتي، وتدل على أن المحفظة للمتكلم"
+          },
+          {
+            "term": "wallet",
+            "description": "محفظة"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I think I left my phone.",
+        "ar": "أعتقد أنني نسيت هاتفي.",
+        "context": "تُستخدم عند القلق من نسيان الهاتف."
+      },
+      {
+        "id": 2,
+        "en": "I think I left my keys.",
+        "ar": "أعتقد أنني نسيت مفاتيحي.",
+        "context": "تُستخدم عند البحث عن المفاتيح."
+      },
+      {
+        "id": 3,
+        "en": "I think I forgot my bag.",
+        "ar": "أعتقد أنني نسيت حقيبتي.",
+        "context": "تُستخدم عند فقدان حقيبة."
+      },
+      {
+        "id": 4,
+        "en": "I left my wallet at home.",
+        "ar": "تركت محفظتي في البيت.",
+        "context": "تُستخدم لتحديد مكان المحفظة."
+      },
+      {
+        "id": 5,
+        "en": "She thinks she left her coat.",
+        "ar": "هي تعتقد أنها نسيت معطفها.",
+        "context": "تُستخدم عن شخص آخر."
+      },
+      {
+        "id": 6,
+        "en": "I think I lost my wallet.",
+        "ar": "أعتقد أنني فقدت محفظتي.",
+        "context": "تُستخدم عند الخوف من فقدان المحفظة."
+      },
+      {
+        "id": 7,
+        "en": "I think I left it in the car.",
+        "ar": "أعتقد أنني تركته في السيارة.",
+        "context": "تُستخدم عند تذكر مكان محتمل."
+      },
+      {
+        "id": 8,
+        "en": "I think I left my ticket.",
+        "ar": "أعتقد أنني نسيت تذكرتي.",
+        "context": "تُستخدم قبل السفر أو الدخول."
+      },
+      {
+        "id": 9,
+        "en": "I think I left my book.",
+        "ar": "أعتقد أنني نسيت كتابي.",
+        "context": "تُستخدم في المدرسة أو البيت."
+      },
+      {
+        "id": 10,
+        "en": "I think I left something behind.",
+        "ar": "أعتقد أنني تركت شيئًا خلفي.",
+        "context": "تُستخدم عند الشعور بأنك نسيت غرضًا."
+      }
+    ]
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "schemaVersion": 1,
+  "id": 970,
+  "sentence": {
+    "en": "Excuse me, can I ask you a question?",
+    "ar": "عذرًا، هل يمكنني أن أطرح عليك سؤالًا؟",
+    "context": "تُستخدم لجذب انتباه شخص ما بلطف قبل طرح سؤال."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Excuse me",
+        "ar": "عذرًا",
+        "context": "تُستخدم لجذب انتباه شخص بأدب قبل الكلام.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه عبارة أدب ثابتة ولا تحمل زمنًا مستقلًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "Excuse",
+            "description": "اعذر، وتأتي مع الكلمة التالية كعبارة مهذبة للفت الانتباه"
+          },
+          {
+            "term": "me",
+            "description": "أنا بصيغة المفعول، أي اعذرني"
+          }
+        ]
+      },
+      {
+        "sentence": "can I ask you a question",
+        "ar": "هل يمكنني أن أطرح عليك سؤالًا",
+        "context": "هذا الجزء يطلب الإذن بطرح سؤال.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "السؤال يستخدم can I لطلب الإذن، وهي بنية طلب وليست زمنًا مستقلًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "can",
+            "description": "هل يمكن، وتُستخدم للسؤال عن الإذن أو الإمكانية"
+          },
+          {
+            "term": "I",
+            "description": "ضمير يشير إلى المتكلم"
+          },
+          {
+            "term": "ask",
+            "description": "أسأل أو أطرح"
+          },
+          {
+            "term": "you",
+            "description": "أنت أو إياك حسب السياق"
+          },
+          {
+            "term": "a",
+            "description": "أداة تشير إلى شيء واحد غير محدد"
+          },
+          {
+            "term": "question",
+            "description": "سؤال"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Excuse me, can I sit here?",
+        "ar": "عذرًا، هل يمكنني الجلوس هنا؟",
+        "context": "تُستخدم لطلب مقعد بأدب."
+      },
+      {
+        "id": 2,
+        "en": "Excuse me, can I pass?",
+        "ar": "عذرًا، هل يمكنني المرور؟",
+        "context": "تُستخدم عند وجود شخص في الطريق."
+      },
+      {
+        "id": 3,
+        "en": "Excuse me, can I use this chair?",
+        "ar": "عذرًا، هل يمكنني استخدام هذا الكرسي؟",
+        "context": "تُستخدم عند طلب استخدام شيء."
+      },
+      {
+        "id": 4,
+        "en": "Excuse me, can I ask your name?",
+        "ar": "عذرًا، هل يمكنني أن أسأل عن اسمك؟",
+        "context": "تُستخدم في التعارف أو التسجيل."
+      },
+      {
+        "id": 5,
+        "en": "Excuse me, can you help me?",
+        "ar": "عذرًا، هل يمكنك مساعدتي؟",
+        "context": "تُستخدم لطلب مساعدة من شخص."
+      },
+      {
+        "id": 6,
+        "en": "Excuse me, can I see the menu?",
+        "ar": "عذرًا، هل يمكنني رؤية قائمة الطعام؟",
+        "context": "تُستخدم في مطعم."
+      },
+      {
+        "id": 7,
+        "en": "Excuse me, can I talk to you?",
+        "ar": "عذرًا، هل يمكنني التحدث معك؟",
+        "context": "تُستخدم قبل بدء محادثة."
+      },
+      {
+        "id": 8,
+        "en": "Excuse me, can I open the window?",
+        "ar": "عذرًا، هل يمكنني فتح النافذة؟",
+        "context": "تُستخدم لطلب إذن في مكان مشترك."
+      },
+      {
+        "id": 9,
+        "en": "Excuse me, can I take this?",
+        "ar": "عذرًا، هل يمكنني أخذ هذا؟",
+        "context": "تُستخدم قبل أخذ شيء."
+      },
+      {
+        "id": 10,
+        "en": "Excuse me, can I leave now?",
+        "ar": "عذرًا، هل يمكنني المغادرة الآن؟",
+        "context": "تُستخدم لطلب إذن بالمغادرة."
+      }
+    ]
+  }
+}

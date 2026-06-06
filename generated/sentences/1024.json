@@ -1,0 +1,127 @@
+{
+  "schemaVersion": 1,
+  "id": 1024,
+  "sentence": {
+    "en": "I think it is going to rain.",
+    "ar": "أعتقد أنه ستمطر.",
+    "context": "تُستخدم للتعبير عن توقع هطول المطر."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "I think",
+        "ar": "أعتقد",
+        "context": "هذا الجزء يوضح أن المتكلم يعبّر عن توقع أو رأي.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُخدم المضارع البسيط للتعبير عن اعتقاد حالي."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير يشير إلى المتكلم"
+          },
+          {
+            "term": "think",
+            "description": "أعتقد أو أظن"
+          }
+        ]
+      },
+      {
+        "sentence": "it is going to rain",
+        "ar": "أنه ستمطر",
+        "context": "هذا الجزء يوضح التوقع المرتبط بالطقس.",
+        "grammar": {
+          "tense": "المستقبل البسيط",
+          "tenseEn": "Future Simple",
+          "reason": "going to تُستخدم للتوقع المستقبلي بناءً على علامات أو إحساس حالي."
+        },
+        "wordMeanings": [
+          {
+            "term": "it",
+            "description": "ضمير يُستخدم هنا للحديث عن الطقس"
+          },
+          {
+            "term": "is",
+            "description": "تساعد في بناء تعبير going to"
+          },
+          {
+            "term": "going",
+            "description": "جزء من تعبير يدل على مستقبل متوقع"
+          },
+          {
+            "term": "to",
+            "description": "جزء من التعبير المستقبلي قبل الفعل"
+          },
+          {
+            "term": "rain",
+            "description": "تمطر أو ينزل المطر"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I think it is going to snow.",
+        "ar": "أعتقد أنها ستثلج.",
+        "context": "تُستخدم لتوقع تساقط الثلج."
+      },
+      {
+        "id": 2,
+        "en": "I think it will rain.",
+        "ar": "أعتقد أنها ستمطر.",
+        "context": "تُستخدم لتوقع المطر."
+      },
+      {
+        "id": 3,
+        "en": "It is going to rain soon.",
+        "ar": "ستمطر قريبًا.",
+        "context": "تُستخدم عند رؤية غيوم."
+      },
+      {
+        "id": 4,
+        "en": "I think the weather will change.",
+        "ar": "أعتقد أن الطقس سيتغير.",
+        "context": "تُستخدم عند توقع تغير الطقس."
+      },
+      {
+        "id": 5,
+        "en": "I think it is going to be cold.",
+        "ar": "أعتقد أن الجو سيكون باردًا.",
+        "context": "تُستخدم لتوقع البرد."
+      },
+      {
+        "id": 6,
+        "en": "It looks like rain.",
+        "ar": "يبدو أنها ستمطر.",
+        "context": "تُستخدم عند ملاحظة علامات المطر."
+      },
+      {
+        "id": 7,
+        "en": "I think we need an umbrella.",
+        "ar": "أعتقد أننا نحتاج إلى مظلة.",
+        "context": "تُستخدم قبل الخروج في طقس ممطر."
+      },
+      {
+        "id": 8,
+        "en": "The sky is dark.",
+        "ar": "السماء مظلمة.",
+        "context": "تُستخدم كعلامة على المطر."
+      },
+      {
+        "id": 9,
+        "en": "I think it is going to be sunny.",
+        "ar": "أعتقد أن الجو سيكون مشمسًا.",
+        "context": "تُستخدم لتوقع طقس جيد."
+      },
+      {
+        "id": 10,
+        "en": "I think the storm is coming.",
+        "ar": "أعتقد أن العاصفة قادمة.",
+        "context": "تُستخدم عند توقع عاصفة."
+      }
+    ]
+  }
+}

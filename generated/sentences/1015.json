@@ -1,0 +1,119 @@
+{
+  "schemaVersion": 1,
+  "id": 1015,
+  "sentence": {
+    "en": "Do you have any plans for the weekend?",
+    "ar": "هل لديك أي خطط لعطلة نهاية الأسبوع؟",
+    "context": "تُستخدم لسؤال شخص عن أنشطته في عطلة نهاية الأسبوع."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Do you have any plans for the weekend",
+        "ar": "هل لديك أي خطط لعطلة نهاية الأسبوع",
+        "context": "تُستخدم للسؤال عن أنشطة أو ترتيبات الشخص القادمة.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "السؤال يستخدم Do مع have للسؤال عن وجود خطط حالية للمستقبل القريب."
+        },
+        "wordMeanings": [
+          {
+            "term": "Do",
+            "description": "تُستخدم لتكوين سؤال في المضارع"
+          },
+          {
+            "term": "you",
+            "description": "أنت أو أنتم حسب المخاطب"
+          },
+          {
+            "term": "have",
+            "description": "لديك أو تملك"
+          },
+          {
+            "term": "any",
+            "description": "أي، وتُستخدم في السؤال"
+          },
+          {
+            "term": "plans",
+            "description": "خطط أو ترتيبات"
+          },
+          {
+            "term": "for",
+            "description": "لـ أو من أجل"
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف تشير إلى عطلة نهاية الأسبوع المعروفة"
+          },
+          {
+            "term": "weekend",
+            "description": "عطلة نهاية الأسبوع"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Do you have plans tonight?",
+        "ar": "هل لديك خطط الليلة؟",
+        "context": "تُستخدم للسؤال عن أنشطة الليلة."
+      },
+      {
+        "id": 2,
+        "en": "Do you have any plans tomorrow?",
+        "ar": "هل لديك أي خطط غدًا؟",
+        "context": "تُستخدم عند تنسيق موعد."
+      },
+      {
+        "id": 3,
+        "en": "What are your plans for the weekend?",
+        "ar": "ما خططك لعطلة نهاية الأسبوع؟",
+        "context": "تُستخدم بصيغة مباشرة."
+      },
+      {
+        "id": 4,
+        "en": "I have no plans for the weekend.",
+        "ar": "ليست لدي خطط لعطلة نهاية الأسبوع.",
+        "context": "تُستخدم للإجابة بالنفي."
+      },
+      {
+        "id": 5,
+        "en": "We have plans for Saturday.",
+        "ar": "لدينا خطط ليوم السبت.",
+        "context": "تُستخدم لذكر ترتيب محدد."
+      },
+      {
+        "id": 6,
+        "en": "Do you want to meet this weekend?",
+        "ar": "هل تريد أن نلتقي في عطلة نهاية الأسبوع؟",
+        "context": "تُستخدم بعد السؤال عن الخطط."
+      },
+      {
+        "id": 7,
+        "en": "Do you have any travel plans?",
+        "ar": "هل لديك أي خطط سفر؟",
+        "context": "تُستخدم للسؤال عن السفر."
+      },
+      {
+        "id": 8,
+        "en": "Are you free this weekend?",
+        "ar": "هل أنت متفرغ في عطلة نهاية الأسبوع؟",
+        "context": "تُستخدم لاقتراح لقاء."
+      },
+      {
+        "id": 9,
+        "en": "My weekend is busy.",
+        "ar": "عطلة نهاية الأسبوع لدي مشغولة.",
+        "context": "تُستخدم للإجابة عند وجود أعمال كثيرة."
+      },
+      {
+        "id": 10,
+        "en": "I plan to rest this weekend.",
+        "ar": "أخطط للراحة في عطلة نهاية الأسبوع.",
+        "context": "تُستخدم لذكر خطة بسيطة."
+      }
+    ]
+  }
+}

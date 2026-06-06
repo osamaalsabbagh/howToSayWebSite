@@ -1,0 +1,115 @@
+{
+  "schemaVersion": 1,
+  "id": 1033,
+  "sentence": {
+    "en": "What is your favorite type of music?",
+    "ar": "ما نوع الموسيقى المفضل لديك؟",
+    "context": "تُستخدم لسؤال شخص عن نوع الموسيقى الذي يفضله."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "What is your favorite type of music",
+        "ar": "ما نوع الموسيقى المفضل لديك",
+        "context": "تُستخدم لمعرفة ذوق الشخص الموسيقي.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "السؤال يستخدم is للسؤال عن تفضيل عام أو ثابت نسبيًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "What",
+            "description": "ما، للسؤال عن معلومة"
+          },
+          {
+            "term": "is",
+            "description": "تربط السؤال بالمعلومة المطلوبة"
+          },
+          {
+            "term": "your",
+            "description": "خاصتك، وتربط التفضيل بالمخاطب"
+          },
+          {
+            "term": "favorite",
+            "description": "المفضل أو الأكثر حبًا"
+          },
+          {
+            "term": "type",
+            "description": "نوع"
+          },
+          {
+            "term": "of",
+            "description": "من أو خاص بـ، وتربط النوع بالموسيقى"
+          },
+          {
+            "term": "music",
+            "description": "موسيقى"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "What is your favorite song?",
+        "ar": "ما أغنيتك المفضلة؟",
+        "context": "تُستخدم للسؤال عن أغنية محددة."
+      },
+      {
+        "id": 2,
+        "en": "What kind of music do you like?",
+        "ar": "ما نوع الموسيقى الذي تحبه؟",
+        "context": "تُستخدم بصيغة مشابهة."
+      },
+      {
+        "id": 3,
+        "en": "I like quiet music.",
+        "ar": "أحب الموسيقى الهادئة.",
+        "context": "تُستخدم للإجابة عن الذوق الموسيقي."
+      },
+      {
+        "id": 4,
+        "en": "My favorite type of music is jazz.",
+        "ar": "نوع الموسيقى المفضل لدي هو الجاز.",
+        "context": "تُستخدم لذكر تفضيل."
+      },
+      {
+        "id": 5,
+        "en": "Do you like pop music?",
+        "ar": "هل تحب موسيقى البوب؟",
+        "context": "تُستخدم للسؤال عن نوع محدد."
+      },
+      {
+        "id": 6,
+        "en": "What music do you listen to?",
+        "ar": "ما الموسيقى التي تستمع إليها؟",
+        "context": "تُستخدم في حديث ودي."
+      },
+      {
+        "id": 7,
+        "en": "She likes classical music.",
+        "ar": "هي تحب الموسيقى الكلاسيكية.",
+        "context": "تُستخدم لوصف ذوق شخص آخر."
+      },
+      {
+        "id": 8,
+        "en": "What is your favorite band?",
+        "ar": "ما فرقتك المفضلة؟",
+        "context": "تُستخدم عند الحديث عن الموسيقى."
+      },
+      {
+        "id": 9,
+        "en": "I love this type of music.",
+        "ar": "أحب هذا النوع من الموسيقى.",
+        "context": "تُستخدم للتعبير عن إعجاب."
+      },
+      {
+        "id": 10,
+        "en": "What is your favorite singer?",
+        "ar": "من مغنيك المفضل؟",
+        "context": "تُستخدم للسؤال عن فنان."
+      }
+    ]
+  }
+}
