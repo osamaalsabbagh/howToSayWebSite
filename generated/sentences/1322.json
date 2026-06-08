@@ -1,0 +1,139 @@
+{
+  "schemaVersion": 1,
+  "id": 1322,
+  "sentence": {
+    "en": "The food tasted bad, so I did not finish it.",
+    "ar": "كان طعم الطعام سيئًا، لذلك لم أكمله.",
+    "context": "صف تجربة غير مرضية مع طعام أو شراب."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "The food tasted bad",
+        "ar": "كان طعم الطعام سيئًا",
+        "context": "يصف هذا الجزء تجربة طعام غير جيدة في الماضي.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "tasted في الماضي البسيط لأنه يصف إحساسًا بالطعم حدث في تجربة سابقة."
+        },
+        "wordMeanings": [
+          {
+            "term": "The",
+            "description": "أداة تعريف لطعام محدد."
+          },
+          {
+            "term": "food",
+            "description": "طعام."
+          },
+          {
+            "term": "tasted",
+            "description": "كان طعمه أو بدا مذاقه."
+          },
+          {
+            "term": "bad",
+            "description": "سيئ أو غير لذيذ."
+          }
+        ]
+      },
+      {
+        "sentence": "so I did not finish it.",
+        "ar": "لذلك لم أكمله.",
+        "context": "يوضح هذا الجزء نتيجة الطعم السيئ وهي عدم إنهاء الطعام.",
+        "grammar": {
+          "tense": "الماضي البسيط المنفي",
+          "tenseEn": "Past Simple",
+          "reason": "did not finish نفي في الماضي البسيط، وso تربط السبب بالنتيجة."
+        },
+        "wordMeanings": [
+          {
+            "term": "so",
+            "description": "لذلك؛ تربط السبب بالنتيجة."
+          },
+          {
+            "term": "I",
+            "description": "أنا؛ المتكلم."
+          },
+          {
+            "term": "did",
+            "description": "أداة تساعد على النفي في الماضي."
+          },
+          {
+            "term": "not",
+            "description": "تدل على النفي."
+          },
+          {
+            "term": "finish",
+            "description": "أكمل أو أنهي."
+          },
+          {
+            "term": "it",
+            "description": "تشير إلى الطعام."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "The soup tasted bad, so I did not eat it.",
+        "ar": "كان طعم الحساء سيئًا، لذلك لم آكله.",
+        "context": "يقال عند ترك طعام بسبب مذاقه."
+      },
+      {
+        "id": 2,
+        "en": "The coffee was cold, so I did not finish it.",
+        "ar": "كانت القهوة باردة، لذلك لم أكملها.",
+        "context": "يقال عند عدم إكمال مشروب."
+      },
+      {
+        "id": 3,
+        "en": "The meal tasted good, so I finished it.",
+        "ar": "كان طعم الوجبة جيدًا، لذلك أكملتها.",
+        "context": "يقال عند إكمال الطعام بسبب جودته."
+      },
+      {
+        "id": 4,
+        "en": "The bread was old, so I did not buy it.",
+        "ar": "كان الخبز قديمًا، لذلك لم أشتره.",
+        "context": "يقال عند رفض شيء بسبب حالته."
+      },
+      {
+        "id": 5,
+        "en": "The juice tasted strange.",
+        "ar": "كان طعم العصير غريبًا.",
+        "context": "يقال عند وصف مذاق غير معتاد."
+      },
+      {
+        "id": 6,
+        "en": "I did not finish my dinner.",
+        "ar": "لم أكمل عشائي.",
+        "context": "يقال عند ترك جزء من الطعام."
+      },
+      {
+        "id": 7,
+        "en": "The food was too spicy, so she stopped eating.",
+        "ar": "كان الطعام حارًا جدًا، لذلك توقفت عن الأكل.",
+        "context": "يقال عند تأثير الطعم في التصرف."
+      },
+      {
+        "id": 8,
+        "en": "The cake tasted sweet.",
+        "ar": "كان طعم الكعكة حلوًا.",
+        "context": "يقال عند وصف مذاق جيد."
+      },
+      {
+        "id": 9,
+        "en": "He did not finish the drink.",
+        "ar": "لم يكمل المشروب.",
+        "context": "يقال عند ترك مشروب."
+      },
+      {
+        "id": 10,
+        "en": "The food smelled bad, so we left it.",
+        "ar": "كانت رائحة الطعام سيئة، لذلك تركناه.",
+        "context": "يقال عند رفض طعام بسبب رائحته."
+      }
+    ]
+  }
+}

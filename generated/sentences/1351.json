@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "id": 1351,
+  "sentence": {
+    "en": "This restaurant is better than the one we visited last week.",
+    "ar": "هذا المطعم أفضل من الذي زرناه الأسبوع الماضي.",
+    "context": "قارن بين مكانين وبيّن أن أحدهما أفضل من الآخر."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "This restaurant is better than the one",
+        "ar": "هذا المطعم أفضل من ذلك المطعم",
+        "context": "يعرض هذا الجزء المقارنة بين المطعم الحالي ومطعم آخر.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "is better than يصف مقارنة حالية، وbetter صيغة مقارنة تعني أفضل من."
+        },
+        "wordMeanings": [
+          {
+            "term": "This",
+            "description": "هذا؛ تشير إلى المطعم الحالي."
+          },
+          {
+            "term": "restaurant",
+            "description": "مطعم."
+          },
+          {
+            "term": "is",
+            "description": "تربط المطعم بالتقييم."
+          },
+          {
+            "term": "better",
+            "description": "أفضل؛ صيغة مقارنة."
+          },
+          {
+            "term": "than",
+            "description": "من؛ تستخدم في المقارنة."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف لشيء محدد."
+          },
+          {
+            "term": "one",
+            "description": "تعني المطعم الآخر دون تكرار الكلمة."
+          }
+        ]
+      },
+      {
+        "sentence": "we visited last week.",
+        "ar": "الذي زرناه الأسبوع الماضي.",
+        "context": "يوضح هذا الجزء أي مطعم تتم المقارنة معه.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "visited في الماضي البسيط لأن الزيارة حدثت الأسبوع الماضي وانتهت."
+        },
+        "wordMeanings": [
+          {
+            "term": "we",
+            "description": "نحن؛ المتكلم مع آخرين."
+          },
+          {
+            "term": "visited",
+            "description": "زرنا أو ذهبنا إلى مكان."
+          },
+          {
+            "term": "last",
+            "description": "الماضي أو السابق."
+          },
+          {
+            "term": "week",
+            "description": "أسبوع."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "This cafe is better than the one downtown.",
+        "ar": "هذا المقهى أفضل من الذي في وسط المدينة.",
+        "context": "يقال عند مقارنة مقهيين."
+      },
+      {
+        "id": 2,
+        "en": "This hotel is better than the one we stayed in.",
+        "ar": "هذا الفندق أفضل من الذي أقمنا فيه.",
+        "context": "يقال عند مقارنة فندقين."
+      },
+      {
+        "id": 3,
+        "en": "This meal is better than yesterday's meal.",
+        "ar": "هذه الوجبة أفضل من وجبة أمس.",
+        "context": "يقال عند مقارنة طعامين."
+      },
+      {
+        "id": 4,
+        "en": "The new restaurant is better than the old one.",
+        "ar": "المطعم الجديد أفضل من القديم.",
+        "context": "يقال عند مقارنة مكان جديد بقديم."
+      },
+      {
+        "id": 5,
+        "en": "We visited that restaurant last week.",
+        "ar": "زرنا ذلك المطعم الأسبوع الماضي.",
+        "context": "يقال عند ذكر زيارة سابقة."
+      },
+      {
+        "id": 6,
+        "en": "This book is better than the one I read before.",
+        "ar": "هذا الكتاب أفضل من الذي قرأته من قبل.",
+        "context": "يقال عند مقارنة كتابين."
+      },
+      {
+        "id": 7,
+        "en": "This restaurant is cheaper than the other one.",
+        "ar": "هذا المطعم أرخص من الآخر.",
+        "context": "يقال عند مقارنة الأسعار."
+      },
+      {
+        "id": 8,
+        "en": "She is better than last week.",
+        "ar": "هي أفضل من الأسبوع الماضي.",
+        "context": "يقال عند تحسن حالة شخص."
+      },
+      {
+        "id": 9,
+        "en": "This road is better than the old road.",
+        "ar": "هذا الطريق أفضل من الطريق القديم.",
+        "context": "يقال عند مقارنة طريقين."
+      },
+      {
+        "id": 10,
+        "en": "The place we visited last week was nice.",
+        "ar": "كان المكان الذي زرناه الأسبوع الماضي لطيفًا.",
+        "context": "يقال عند وصف مكان سابق."
+      }
+    ]
+  }
+}

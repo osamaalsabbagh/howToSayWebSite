@@ -1,0 +1,127 @@
+{
+  "schemaVersion": 1,
+  "id": 1337,
+  "sentence": {
+    "en": "I stayed home because it was raining.",
+    "ar": "بقيت في المنزل لأنه كانت تمطر.",
+    "context": "قدّم سببًا لقيامك أو عدم قيامك بشيء ما."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "I stayed home",
+        "ar": "بقيت في المنزل",
+        "context": "يوضح هذا الجزء الفعل الذي قام به المتكلم في الماضي.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "stayed في الماضي البسيط لأنه يصف قرارًا أو فعلًا حدث في الماضي."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "أنا؛ المتكلم."
+          },
+          {
+            "term": "stayed",
+            "description": "بقيت أو لم أغادر."
+          },
+          {
+            "term": "home",
+            "description": "في المنزل."
+          }
+        ]
+      },
+      {
+        "sentence": "because it was raining.",
+        "ar": "لأنه كانت تمطر.",
+        "context": "يوضح هذا الجزء سبب البقاء في المنزل.",
+        "grammar": {
+          "tense": "الماضي المستمر",
+          "tenseEn": "Past Continuous",
+          "reason": "was raining يدل على حالة طقس كانت مستمرة في ذلك الوقت الماضي، وbecause تربط السبب بالفعل."
+        },
+        "wordMeanings": [
+          {
+            "term": "because",
+            "description": "لأن؛ تقدم السبب."
+          },
+          {
+            "term": "it",
+            "description": "ضمير يُستخدم مع الطقس في الإنجليزية."
+          },
+          {
+            "term": "was",
+            "description": "تأتي مع المفرد لتكوين الماضي المستمر."
+          },
+          {
+            "term": "raining",
+            "description": "تمطر أو ينزل المطر."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I stayed home because I was tired.",
+        "ar": "بقيت في المنزل لأنني كنت متعبًا.",
+        "context": "يقال عند تقديم سبب للبقاء."
+      },
+      {
+        "id": 2,
+        "en": "She stayed inside because it was cold.",
+        "ar": "بقيت في الداخل لأنه كان باردًا.",
+        "context": "يقال عند ربط القرار بالطقس."
+      },
+      {
+        "id": 3,
+        "en": "We stayed home because it was snowing.",
+        "ar": "بقينا في المنزل لأنه كان يثلج.",
+        "context": "يقال عند سوء الطقس."
+      },
+      {
+        "id": 4,
+        "en": "He left early because he was sick.",
+        "ar": "غادر مبكرًا لأنه كان مريضًا.",
+        "context": "يقال عند توضيح سبب المغادرة."
+      },
+      {
+        "id": 5,
+        "en": "I did not go out because it was raining.",
+        "ar": "لم أخرج لأنه كانت تمطر.",
+        "context": "يقال عند إلغاء خروج بسبب المطر."
+      },
+      {
+        "id": 6,
+        "en": "They stayed at home yesterday.",
+        "ar": "بقوا في المنزل أمس.",
+        "context": "يقال عن فعل في الماضي."
+      },
+      {
+        "id": 7,
+        "en": "It was raining all morning.",
+        "ar": "كانت تمطر طوال الصباح.",
+        "context": "يقال عند وصف طقس مستمر."
+      },
+      {
+        "id": 8,
+        "en": "I stayed home to rest.",
+        "ar": "بقيت في المنزل لأستريح.",
+        "context": "يقال عند ذكر غرض البقاء."
+      },
+      {
+        "id": 9,
+        "en": "She was reading while it was raining.",
+        "ar": "كانت تقرأ بينما كانت تمطر.",
+        "context": "يقال عن فعلين مستمرين في الماضي."
+      },
+      {
+        "id": 10,
+        "en": "We canceled the trip because it was raining.",
+        "ar": "ألغينا الرحلة لأنه كانت تمطر.",
+        "context": "يقال عند تأثير المطر في خطة."
+      }
+    ]
+  }
+}

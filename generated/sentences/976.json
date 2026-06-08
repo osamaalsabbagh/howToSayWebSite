@@ -1,103 +1,103 @@
 {
-  "schemaVersion": 1,
-  "id": 976,
-  "sentence": {
-    "en": "I don not know.",
-    "ar": "لا أعرف.",
-    "context": "تُستخدم للتعبير عن عدم المعرفة أو الجهل بالمعلومة."
-  },
-  "lesson": {
-    "parts": [
-      {
-        "sentence": "I don not know",
-        "ar": "لا أعرف",
-        "context": "تُستخدم للتعبير عن عدم معرفة المتكلم بالمعلومة.",
-        "grammar": {
-          "tense": "المضارع البسيط",
-          "tenseEn": "Present Simple",
-          "reason": "المعنى المقصود هو نفي المعرفة في الحاضر؛ النص يحتوي الصيغة كما وردت في المصدر."
-        },
-        "wordMeanings": [
-          {
-            "term": "I",
-            "description": "ضمير يشير إلى المتكلم"
-          },
-          {
-            "term": "don",
-            "description": "جزء ظاهر في النص من صيغة النفي المقصودة مع المتكلم"
-          },
-          {
-            "term": "not",
-            "description": "أداة نفي"
-          },
-          {
-            "term": "know",
-            "description": "أعرف أو أملك المعلومة"
-          }
-        ]
-      }
-    ],
-    "examples": [
-      {
-        "id": 1,
-        "en": "I do not know.",
-        "ar": "لا أعرف.",
-        "context": "تُستخدم للتعبير عن عدم معرفة معلومة."
-      },
-      {
-        "id": 2,
-        "en": "I do not know the answer.",
-        "ar": "لا أعرف الإجابة.",
-        "context": "تُستخدم عند عدم معرفة رد صحيح."
-      },
-      {
-        "id": 3,
-        "en": "I do not know his name.",
-        "ar": "لا أعرف اسمه.",
-        "context": "تُستخدم عند عدم معرفة اسم شخص."
-      },
-      {
-        "id": 4,
-        "en": "I do not know the address.",
-        "ar": "لا أعرف العنوان.",
-        "context": "تُستخدم عند عدم معرفة مكان."
-      },
-      {
-        "id": 5,
-        "en": "I do not know where she is.",
-        "ar": "لا أعرف أين هي.",
-        "context": "تُستخدم عند عدم معرفة مكان شخص."
-      },
-      {
-        "id": 6,
-        "en": "I do not know what happened.",
-        "ar": "لا أعرف ما حدث.",
-        "context": "تُستخدم عند عدم معرفة سبب أو قصة."
-      },
-      {
-        "id": 7,
-        "en": "I do not know the price.",
-        "ar": "لا أعرف السعر.",
-        "context": "تُستخدم عند عدم معرفة تكلفة شيء."
-      },
-      {
-        "id": 8,
-        "en": "I do not know this place.",
-        "ar": "لا أعرف هذا المكان.",
-        "context": "تُستخدم عند عدم التعرف على مكان."
-      },
-      {
-        "id": 9,
-        "en": "I do not know the time.",
-        "ar": "لا أعرف الوقت.",
-        "context": "تُستخدم عند عدم معرفة الساعة."
-      },
-      {
-        "id": 10,
-        "en": "I do not know what to say.",
-        "ar": "لا أعرف ماذا أقول.",
-        "context": "تُستخدم عند الحيرة أو المفاجأة."
-      }
-    ]
-  }
+	"schemaVersion": 1,
+	"id": 976,
+	"sentence": {
+		"en": "I do not know.",
+		"ar": "لا أعرف.",
+		"context": "تُستخدم للتعبير عن عدم المعرفة أو الجهل بالمعلومة."
+	},
+	"lesson": {
+		"parts": [
+			{
+				"sentence": "I do not know",
+				"ar": "لا أعرف",
+				"context": "تُستخدم للتعبير عن عدم معرفة المتكلم بالمعلومة.",
+				"grammar": {
+					"tense": "المضارع البسيط",
+					"tenseEn": "Present Simple",
+					"reason": "تُستخدم للتعبير عن عدم امتلاك المتكلم للمعلومة أو المعرفة في الوقت الحالي بشكل عام."
+				},
+				"wordMeanings": [
+					{
+						"term": "I",
+						"description": "ضمير يشير إلى المتكلم"
+					},
+					{
+						"term": "do",
+						"description": "فعل مساعد يُستخدم لتكوين النفي في المضارع البسيط"
+					},
+					{
+						"term": "not",
+						"description": "أداة نفي"
+					},
+					{
+						"term": "know",
+						"description": "أعرف أو أمتلك المعلومة"
+					}
+				]
+			}
+		],
+		"examples": [
+			{
+				"id": 1,
+				"en": "I do not know.",
+				"ar": "لا أعرف.",
+				"context": "تُستخدم للتعبير عن عدم معرفة معلومة."
+			},
+			{
+				"id": 2,
+				"en": "I do not know the answer.",
+				"ar": "لا أعرف الإجابة.",
+				"context": "تُستخدم عند عدم معرفة رد صحيح."
+			},
+			{
+				"id": 3,
+				"en": "I do not know his name.",
+				"ar": "لا أعرف اسمه.",
+				"context": "تُستخدم عند عدم معرفة اسم شخص."
+			},
+			{
+				"id": 4,
+				"en": "I do not know the address.",
+				"ar": "لا أعرف العنوان.",
+				"context": "تُستخدم عند عدم معرفة عنوان مكان أو شخص."
+			},
+			{
+				"id": 5,
+				"en": "I do not know where she is.",
+				"ar": "لا أعرف أين هي.",
+				"context": "تُستخدم عند عدم معرفة مكان شخص."
+			},
+			{
+				"id": 6,
+				"en": "I do not know what happened.",
+				"ar": "لا أعرف ما حدث.",
+				"context": "تُستخدم عند عدم معرفة ما جرى أو سبب وقوع أمر ما."
+			},
+			{
+				"id": 7,
+				"en": "I do not know the price.",
+				"ar": "لا أعرف السعر.",
+				"context": "تُستخدم عند عدم معرفة تكلفة شيء."
+			},
+			{
+				"id": 8,
+				"en": "I do not know this place.",
+				"ar": "لا أعرف هذا المكان.",
+				"context": "تُستخدم عند عدم الألفة بمكان أو عدم التعرف عليه."
+			},
+			{
+				"id": 9,
+				"en": "I do not know the time.",
+				"ar": "لا أعرف الوقت.",
+				"context": "تُستخدم عند عدم معرفة الساعة الحالية."
+			},
+			{
+				"id": 10,
+				"en": "I do not know what to say.",
+				"ar": "لا أعرف ماذا أقول.",
+				"context": "تُستخدم عند الحيرة أو المفاجأة."
+			}
+		]
+	}
 }
