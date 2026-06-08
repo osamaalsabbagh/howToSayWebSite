@@ -1,0 +1,135 @@
+{
+  "schemaVersion": 1,
+  "id": 1369,
+  "sentence": {
+    "en": "I am bored because there is nothing to do.",
+    "ar": "أنا ضَجْرانُ لأنَّه لا يوجدُ شَيءٌ لِفِعْلِهِ.",
+    "context": "يَصِفُ حالَةَ الضَّجَرِ عِندَ عَدمِ وُجودِ أيِّ نَشاطٍ مُمكِنٍ للقيامِ بِهِ."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "I am bored",
+        "ar": "أنا ضجران أو أشعر بالملل",
+        "context": "يوضح هذا الجزء شعور المتكلم الحالي.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "am bored يصف حالة شعورية حالية للمتكلم."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "أنا؛ المتكلم."
+          },
+          {
+            "term": "am",
+            "description": "صيغة تأتي مع ضمير المتكلم لوصف الحالة."
+          },
+          {
+            "term": "bored",
+            "description": "ضجران أو يشعر بالملل."
+          }
+        ]
+      },
+      {
+        "sentence": "because there is nothing to do.",
+        "ar": "لأنه لا يوجد شيء لفعله.",
+        "context": "يوضح هذا الجزء سبب الملل وهو عدم وجود نشاط.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "there is يصف وجودًا أو عدم وجود حاليًا، وbecause تقدم السبب."
+        },
+        "wordMeanings": [
+          {
+            "term": "because",
+            "description": "لأن؛ تقدم السبب."
+          },
+          {
+            "term": "there",
+            "description": "تستخدم مع is للتعبير عن وجود شيء."
+          },
+          {
+            "term": "is",
+            "description": "تدل على وجود شيء مفرد أو عدمه."
+          },
+          {
+            "term": "nothing",
+            "description": "لا شيء."
+          },
+          {
+            "term": "to",
+            "description": "تربط الشيء بالفعل الممكن."
+          },
+          {
+            "term": "do",
+            "description": "يفعل أو يقوم به."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I am bored because the class is long.",
+        "ar": "أنا أشعر بالملل لأن الدرس طويل.",
+        "context": "يقال عند ذكر سبب الملل."
+      },
+      {
+        "id": 2,
+        "en": "She is bored at home.",
+        "ar": "هي تشعر بالملل في المنزل.",
+        "context": "يقال عند وصف شعور شخص."
+      },
+      {
+        "id": 3,
+        "en": "There is nothing to eat.",
+        "ar": "لا يوجد شيء للأكل.",
+        "context": "يقال عند غياب الطعام."
+      },
+      {
+        "id": 4,
+        "en": "There is nothing to watch.",
+        "ar": "لا يوجد شيء للمشاهدة.",
+        "context": "يقال عند عدم وجود برنامج مناسب."
+      },
+      {
+        "id": 5,
+        "en": "I am tired because there is too much work.",
+        "ar": "أنا متعب لأن هناك عملًا كثيرًا.",
+        "context": "يقال عند ذكر سبب التعب."
+      },
+      {
+        "id": 6,
+        "en": "He is bored because he is alone.",
+        "ar": "هو يشعر بالملل لأنه وحده.",
+        "context": "يقال عند ربط الملل بالوحدة."
+      },
+      {
+        "id": 7,
+        "en": "We are bored today.",
+        "ar": "نحن نشعر بالملل اليوم.",
+        "context": "يقال عند وصف شعور جماعي."
+      },
+      {
+        "id": 8,
+        "en": "I need something to do.",
+        "ar": "أحتاج إلى شيء أفعله.",
+        "context": "يقال عند البحث عن نشاط."
+      },
+      {
+        "id": 9,
+        "en": "The movie was boring.",
+        "ar": "كان الفيلم مملًا.",
+        "context": "يقال عند وصف شيء سبب الملل."
+      },
+      {
+        "id": 10,
+        "en": "I am bored, so I will go for a walk.",
+        "ar": "أنا أشعر بالملل، لذلك سأذهب في نزهة.",
+        "context": "يقال عند اتخاذ فعل بسبب الملل."
+      }
+    ]
+  }
+}
