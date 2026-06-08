@@ -2,16 +2,16 @@
   "schemaVersion": 1,
   "id": 997,
   "sentence": {
-    "en": "Can I have the bill, please?",
-    "ar": "هل يمكنني الحصول على الفاتورة، من فضلك؟",
-    "context": "تُستخدم لطلب الفاتورة بعد تناول الطعام في المطعم."
+    "en": "Can I have the bill after dessert, please?",
+    "ar": "هل يمكنني الحصول على الفاتورة بعد الحلوى، من فضلك؟",
+    "context": "تُستخدم لطلب الفاتورة بعد الانتهاء من الحلوى في المطعم."
   },
   "lesson": {
     "parts": [
       {
-        "sentence": "Can I have the bill",
-        "ar": "هل يمكنني الحصول على الفاتورة",
-        "context": "هذا الجزء يطلب الفاتورة في مطعم أو مقهى.",
+        "sentence": "Can I have the bill after dessert",
+        "ar": "هل يمكنني الحصول على الفاتورة بعد الحلوى",
+        "context": "هذا الجزء يطلب الفاتورة بعد الحلوى في مطعم أو مقهى.",
         "grammar": {
           "tense": null,
           "tenseEn": null,
@@ -37,6 +37,14 @@
           {
             "term": "bill",
             "description": "فاتورة أو حساب المطلوب دفعه"
+          },
+          {
+            "term": "after",
+            "description": "بعد؛ تحدد أن الطلب يأتي بعد شيء آخر"
+          },
+          {
+            "term": "dessert",
+            "description": "الحلوى التي تؤكل بعد الوجبة"
           }
         ]
       },

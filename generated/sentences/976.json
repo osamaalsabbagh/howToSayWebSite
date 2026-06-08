@@ -2,16 +2,16 @@
 	"schemaVersion": 1,
 	"id": 976,
 	"sentence": {
-		"en": "I do not know.",
-		"ar": "لا أعرف.",
-		"context": "تُستخدم للتعبير عن عدم المعرفة أو الجهل بالمعلومة."
+		"en": "I do not know the answer.",
+		"ar": "لا أعرف الإجابة.",
+		"context": "تُستخدم للتعبير عن عدم معرفة الإجابة المطلوبة."
 	},
 	"lesson": {
 		"parts": [
 			{
-				"sentence": "I do not know",
-				"ar": "لا أعرف",
-				"context": "تُستخدم للتعبير عن عدم معرفة المتكلم بالمعلومة.",
+				"sentence": "I do not know the answer",
+				"ar": "لا أعرف الإجابة",
+				"context": "تُستخدم للتعبير عن عدم معرفة المتكلم للإجابة المطلوبة.",
 				"grammar": {
 					"tense": "المضارع البسيط",
 					"tenseEn": "Present Simple",
@@ -33,6 +33,14 @@
 					{
 						"term": "know",
 						"description": "أعرف أو أمتلك المعلومة"
+					},
+					{
+						"term": "the",
+						"description": "أداة تعريف تشير إلى إجابة محددة"
+					},
+					{
+						"term": "answer",
+						"description": "الإجابة أو الرد المطلوب"
 					}
 				]
 			}
