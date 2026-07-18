@@ -1,0 +1,127 @@
+{
+  "schemaVersion": 1,
+  "id": 1398,
+  "sentence": {
+    "en": "Can you call me when you arrive?",
+    "ar": "هل يمكنك أن تتصل بي عندما تصل؟",
+    "context": "اطلب من شخص إجراء مكالمة هاتفية عند وصوله إلى مكان معين."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Can you call me",
+        "ar": "هل يمكنك أن تتصل بي",
+        "context": "هذا الجزء يطلب من الشخص إجراء مكالمة بطريقة مهذبة.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "تبدأ الجملة بـ Can لطلب القدرة أو الإذن بأسلوب سؤال مهذب، لذلك هي تركيب طلبي وليست زمنًا مستقلًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "Can",
+            "description": "هل يمكنك، وتستخدم للسؤال عن القدرة أو الطلب المهذب."
+          },
+          {
+            "term": "you",
+            "description": "ضمير للمخاطب."
+          },
+          {
+            "term": "call",
+            "description": "تتصل هاتفيًا."
+          },
+          {
+            "term": "me",
+            "description": "بي أو إياي، وتشير إلى المتكلم."
+          }
+        ]
+      },
+      {
+        "sentence": "when you arrive",
+        "ar": "عندما تصل",
+        "context": "هذا الجزء يحدد وقت إجراء المكالمة وهو لحظة الوصول.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُخدم المضارع البسيط بعد when للحديث عن حدث مستقبلي في جملة زمنية، وهو الأسلوب الطبيعي بعد كلمات الوقت."
+        },
+        "wordMeanings": [
+          {
+            "term": "when",
+            "description": "عندما، وتربط الفعل بوقت حدوثه."
+          },
+          {
+            "term": "you",
+            "description": "ضمير للمخاطب."
+          },
+          {
+            "term": "arrive",
+            "description": "تصل إلى مكان."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Can you text me when you arrive?",
+        "ar": "هل يمكنك أن تراسلني عندما تصل؟",
+        "context": "يقال عند طلب رسالة عند الوصول."
+      },
+      {
+        "id": 2,
+        "en": "Can you call me after work?",
+        "ar": "هل يمكنك أن تتصل بي بعد العمل؟",
+        "context": "يقال عند طلب مكالمة في وقت محدد."
+      },
+      {
+        "id": 3,
+        "en": "Please call me when you get home.",
+        "ar": "من فضلك اتصل بي عندما تصل إلى البيت.",
+        "context": "يقال للاطمئنان على وصول شخص."
+      },
+      {
+        "id": 4,
+        "en": "Can you send a message when you leave?",
+        "ar": "هل يمكنك إرسال رسالة عندما تغادر؟",
+        "context": "يقال لمعرفة وقت مغادرة شخص."
+      },
+      {
+        "id": 5,
+        "en": "Can you tell me when you finish?",
+        "ar": "هل يمكنك أن تخبرني عندما تنتهي؟",
+        "context": "يقال عند انتظار انتهاء مهمة."
+      },
+      {
+        "id": 6,
+        "en": "Call me when the train arrives.",
+        "ar": "اتصل بي عندما يصل القطار.",
+        "context": "يقال عند متابعة وصول القطار."
+      },
+      {
+        "id": 7,
+        "en": "Can you phone your mother when you arrive?",
+        "ar": "هل يمكنك أن تتصل بأمك عندما تصل؟",
+        "context": "يقال لتذكير شخص بالتواصل."
+      },
+      {
+        "id": 8,
+        "en": "Can you wait for me when you arrive?",
+        "ar": "هل يمكنك أن تنتظرني عندما تصل؟",
+        "context": "يقال عند طلب الانتظار في مكان."
+      },
+      {
+        "id": 9,
+        "en": "Can you call the office when you arrive?",
+        "ar": "هل يمكنك أن تتصل بالمكتب عندما تصل؟",
+        "context": "يقال في ترتيب عملي بعد الوصول."
+      },
+      {
+        "id": 10,
+        "en": "Message me when you reach the hotel.",
+        "ar": "راسلني عندما تصل إلى الفندق.",
+        "context": "يقال للاطمئنان على الوصول إلى مكان."
+      }
+    ]
+  }
+}
