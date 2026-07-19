@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "id": 1500,
+  "sentence": {
+    "en": "Do you like pizza?",
+    "ar": "هل تحب البيتزا؟",
+    "context": "اطرح سؤالًا بسيطًا عن تفضيل شخص لنوع معين من الطعام."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Do you like pizza?",
+        "ar": "هل تحب البيتزا؟",
+        "context": "تستخدم الجملة للسؤال عن تفضيل شخص لطعام معين.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُخدم Do لتكوين سؤال في المضارع البسيط عن تفضيل عام."
+        },
+        "wordMeanings": [
+          {
+            "term": "Do",
+            "description": "كلمة مساعدة لتكوين السؤال في المضارع البسيط."
+          },
+          {
+            "term": "you",
+            "description": "ضمير للمخاطب."
+          },
+          {
+            "term": "like",
+            "description": "تحب أو تفضل."
+          },
+          {
+            "term": "pizza",
+            "description": "بيتزا."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Do you like coffee?",
+        "ar": "هل تحب القهوة؟",
+        "context": "يقال للسؤال عن مشروب مفضل."
+      },
+      {
+        "id": 2,
+        "en": "Do you like Italian food?",
+        "ar": "هل تحب الطعام الإيطالي؟",
+        "context": "يقال للسؤال عن نوع مطبخ."
+      },
+      {
+        "id": 3,
+        "en": "She likes pizza.",
+        "ar": "هي تحب البيتزا.",
+        "context": "يقال عند وصف تفضيل شخص."
+      },
+      {
+        "id": 4,
+        "en": "I do not like cold pizza.",
+        "ar": "لا أحب البيتزا الباردة.",
+        "context": "يقال عند رفض نوع محدد."
+      },
+      {
+        "id": 5,
+        "en": "Do they like spicy food?",
+        "ar": "هل يحبون الطعام الحار؟",
+        "context": "يقال عند السؤال عن تفضيل مجموعة."
+      },
+      {
+        "id": 6,
+        "en": "What pizza do you like?",
+        "ar": "أي بيتزا تحب؟",
+        "context": "يقال عند السؤال عن النوع."
+      },
+      {
+        "id": 7,
+        "en": "Do you want pizza for dinner?",
+        "ar": "هل تريد البيتزا للعشاء؟",
+        "context": "يقال عند اقتراح وجبة."
+      },
+      {
+        "id": 8,
+        "en": "He likes cheese pizza.",
+        "ar": "هو يحب بيتزا الجبن.",
+        "context": "يقال عند تحديد نوع البيتزا."
+      },
+      {
+        "id": 9,
+        "en": "Do you like this restaurant?",
+        "ar": "هل تحب هذا المطعم؟",
+        "context": "يقال للسؤال عن رأي عام."
+      },
+      {
+        "id": 10,
+        "en": "Pizza is my favorite dish.",
+        "ar": "البيتزا هي طبقي المفضل.",
+        "context": "يقال عند التعبير عن حب البيتزا."
+      }
+    ]
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "schemaVersion": 1,
+  "id": 1483,
+  "sentence": {
+    "en": "Please read the product description before buying.",
+    "ar": "يرجى قراءة وصف المنتج قبل الشراء.",
+    "context": "انصح شخصًا بقراءة تفاصيل منتج قبل اتخاذ قرار الشراء."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Please read the product description",
+        "ar": "يرجى قراءة وصف المنتج",
+        "context": "هذا الجزء يطلب قراءة تفاصيل المنتج بعناية.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه صيغة طلب مهذب تبدأ بـ Please ويتبعها الفعل الأساسي read، لذلك لا تحمل زمنًا خبريًا مستقلًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "Please",
+            "description": "يرجى أو من فضلك، وتستخدم للطلب المهذب."
+          },
+          {
+            "term": "read",
+            "description": "اقرأ."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف تشير إلى وصف محدد."
+          },
+          {
+            "term": "product",
+            "description": "منتج أو سلعة."
+          },
+          {
+            "term": "description",
+            "description": "وصف أو تفاصيل مكتوبة."
+          }
+        ]
+      },
+      {
+        "sentence": "before buying",
+        "ar": "قبل الشراء",
+        "context": "هذا الجزء يوضح أن القراءة يجب أن تسبق قرار الشراء.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذا تركيب ظرفي مختصر يبدأ بـ before ويتبعه اسم فعل buying، وليس جملة بزمن مستقل."
+        },
+        "wordMeanings": [
+          {
+            "term": "before",
+            "description": "قبل."
+          },
+          {
+            "term": "buying",
+            "description": "الشراء."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Please read the instructions before using it.",
+        "ar": "يرجى قراءة التعليمات قبل استخدامه.",
+        "context": "يقال عند التحذير قبل استخدام منتج."
+      },
+      {
+        "id": 2,
+        "en": "Read the description before you buy the phone.",
+        "ar": "اقرأ الوصف قبل أن تشتري الهاتف.",
+        "context": "يقال عند التسوق بعناية."
+      },
+      {
+        "id": 3,
+        "en": "The product description explains the size.",
+        "ar": "يوضح وصف المنتج المقاس.",
+        "context": "يقال عند معرفة تفاصيل منتج."
+      },
+      {
+        "id": 4,
+        "en": "Please check the price before buying.",
+        "ar": "يرجى التحقق من السعر قبل الشراء.",
+        "context": "يقال عند مقارنة الأسعار."
+      },
+      {
+        "id": 5,
+        "en": "She read the description carefully.",
+        "ar": "قرأت الوصف بعناية.",
+        "context": "يقال عن مراجعة تفاصيل مكتوبة."
+      },
+      {
+        "id": 6,
+        "en": "I always read reviews before buying.",
+        "ar": "أقرأ التقييمات دائمًا قبل الشراء.",
+        "context": "يقال عند وصف عادة شراء."
+      },
+      {
+        "id": 7,
+        "en": "The description says the jacket is waterproof.",
+        "ar": "يقول الوصف إن السترة مقاومة للماء.",
+        "context": "يقال عند نقل معلومة من وصف منتج."
+      },
+      {
+        "id": 8,
+        "en": "Please read this page before you order.",
+        "ar": "يرجى قراءة هذه الصفحة قبل أن تطلب.",
+        "context": "يقال قبل الشراء عبر الإنترنت."
+      },
+      {
+        "id": 9,
+        "en": "This product has a short description.",
+        "ar": "لهذا المنتج وصف قصير.",
+        "context": "يقال عند وصف معلومات المنتج."
+      },
+      {
+        "id": 10,
+        "en": "Buying without reading can cause problems.",
+        "ar": "قد يسبب الشراء بدون قراءة مشكلات.",
+        "context": "يقال للتحذير من التسرع."
+      }
+    ]
+  }
+}

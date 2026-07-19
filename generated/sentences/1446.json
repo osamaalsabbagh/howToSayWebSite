@@ -1,0 +1,131 @@
+{
+  "schemaVersion": 1,
+  "id": 1446,
+  "sentence": {
+    "en": "Please complete the form and sign your name.",
+    "ar": "رجاء أكمل النموذج ووقع اسمك.",
+    "context": "عبارة (وقع اسمك) مستمدة من أصول تاريخية حين كان التوقيع يُكتب بالاسم، واليوم قد يقصد بها أي توقيع، لكنها ما زالت تُستعمل بهذا الشكل بحكم العادة."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Please complete the form",
+        "ar": "رجاءً أكمل النموذج",
+        "context": "هذا الجزء طلب مهذب لملء نموذج أو إنهائه.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه صيغة طلب مهذب تبدأ بـ Please ويتبعها الفعل الأساسي complete، لذلك لا تحمل زمنًا مستقلًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "Please",
+            "description": "رجاءً أو من فضلك، وتستخدم لجعل الطلب مهذبًا."
+          },
+          {
+            "term": "complete",
+            "description": "أكمل أو املأ المطلوب حتى النهاية."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف تشير إلى نموذج محدد."
+          },
+          {
+            "term": "form",
+            "description": "نموذج يحتوي على بيانات مطلوبة."
+          }
+        ]
+      },
+      {
+        "sentence": "and sign your name",
+        "ar": "ووقّع اسمك",
+        "context": "هذا الجزء يطلب وضع التوقيع أو الاسم في المكان المطلوب.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذا أمر ثان مرتبط بالأول بواسطة and، والفعل sign بصيغته الأساسية لأنه طلب مباشر."
+        },
+        "wordMeanings": [
+          {
+            "term": "and",
+            "description": "و، وتربط بين طلبين."
+          },
+          {
+            "term": "sign",
+            "description": "وقّع أو اكتب توقيعك."
+          },
+          {
+            "term": "your",
+            "description": "كلمة ملكية تعني الخاص بك."
+          },
+          {
+            "term": "name",
+            "description": "اسم، ويأتي هنا ضمن عبارة تقليدية للتوقيع."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Please complete the application form.",
+        "ar": "رجاءً أكمل نموذج الطلب.",
+        "context": "يقال عند طلب ملء نموذج رسمي."
+      },
+      {
+        "id": 2,
+        "en": "Please sign your name at the bottom.",
+        "ar": "رجاءً وقّع اسمك في الأسفل.",
+        "context": "يقال عند تحديد مكان التوقيع."
+      },
+      {
+        "id": 3,
+        "en": "Complete the form before you leave.",
+        "ar": "أكمل النموذج قبل أن تغادر.",
+        "context": "يقال عند ضرورة إنهاء إجراء."
+      },
+      {
+        "id": 4,
+        "en": "Please write your name here.",
+        "ar": "رجاءً اكتب اسمك هنا.",
+        "context": "يقال عند ملء بيانات شخصية."
+      },
+      {
+        "id": 5,
+        "en": "Sign the paper and return it.",
+        "ar": "وقّع الورقة وأعدها.",
+        "context": "يقال عند التعامل مع مستند."
+      },
+      {
+        "id": 6,
+        "en": "Please complete this form today.",
+        "ar": "رجاءً أكمل هذا النموذج اليوم.",
+        "context": "يقال عند وجود موعد قريب."
+      },
+      {
+        "id": 7,
+        "en": "She completed the form yesterday.",
+        "ar": "أكملت النموذج أمس.",
+        "context": "يقال عن إجراء حدث في الماضي."
+      },
+      {
+        "id": 8,
+        "en": "He signed his name clearly.",
+        "ar": "وقّع اسمه بوضوح.",
+        "context": "يقال عند وصف طريقة التوقيع."
+      },
+      {
+        "id": 9,
+        "en": "Please check the form before you sign.",
+        "ar": "رجاءً تحقق من النموذج قبل أن توقع.",
+        "context": "يقال لتجنب الخطأ قبل التوقيع."
+      },
+      {
+        "id": 10,
+        "en": "Complete the form and send it by email.",
+        "ar": "أكمل النموذج وأرسله بالبريد الإلكتروني.",
+        "context": "يقال عند شرح إجراء إداري."
+      }
+    ]
+  }
+}

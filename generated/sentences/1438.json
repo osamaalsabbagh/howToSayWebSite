@@ -1,0 +1,135 @@
+{
+  "schemaVersion": 1,
+  "id": 1438,
+  "sentence": {
+    "en": "He caught a cold after walking in the rain.",
+    "ar": "أُصيب بنزلة برد بعد المشي في المطر.",
+    "context": "صف تعرض شخص لمرض شائع بسبب مشيه خارجا أثناء تساقط المطر."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "He caught a cold",
+        "ar": "أُصيب بنزلة برد",
+        "context": "هذا الجزء يخبر عن مرض بسيط أصاب الشخص في الماضي.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "استُخدم الماضي البسيط لأن الإصابة بنزلة البرد حدثت وانتهت أو بدأت في الماضي."
+        },
+        "wordMeanings": [
+          {
+            "term": "He",
+            "description": "ضمير يشير إلى رجل أو ولد."
+          },
+          {
+            "term": "caught",
+            "description": "أُصيب بـ أو التقط مرضًا."
+          },
+          {
+            "term": "a",
+            "description": "أداة تدل على شيء واحد غير محدد."
+          },
+          {
+            "term": "cold",
+            "description": "نزلة برد."
+          }
+        ]
+      },
+      {
+        "sentence": "after walking in the rain",
+        "ar": "بعد المشي في المطر",
+        "context": "هذا الجزء يذكر سببًا أو ظرفًا حدث قبل المرض.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذا تركيب يبدأ بـ after ويتبعه اسم فعل walking لبيان ما حدث قبل الإصابة، وليس جملة بزمن مستقل."
+        },
+        "wordMeanings": [
+          {
+            "term": "after",
+            "description": "بعد."
+          },
+          {
+            "term": "walking",
+            "description": "المشي أو السير."
+          },
+          {
+            "term": "in",
+            "description": "في أو داخل حالة المطر هنا."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف تشير إلى المطر المعروف في الموقف."
+          },
+          {
+            "term": "rain",
+            "description": "مطر."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "She caught a cold after the trip.",
+        "ar": "أُصيبت بنزلة برد بعد الرحلة.",
+        "context": "يقال عند ذكر وقت حدوث المرض."
+      },
+      {
+        "id": 2,
+        "en": "He got sick after walking in the rain.",
+        "ar": "مرض بعد المشي في المطر.",
+        "context": "يقال عند ربط المرض بالمطر."
+      },
+      {
+        "id": 3,
+        "en": "I caught a cold last week.",
+        "ar": "أُصبت بنزلة برد الأسبوع الماضي.",
+        "context": "يقال عند ذكر مرض سابق."
+      },
+      {
+        "id": 4,
+        "en": "They walked in the rain without coats.",
+        "ar": "مشوا في المطر بدون معاطف.",
+        "context": "يقال عند وصف سبب محتمل للبرد."
+      },
+      {
+        "id": 5,
+        "en": "She stayed home because she caught a cold.",
+        "ar": "بقيت في البيت لأنها أُصيبت بنزلة برد.",
+        "context": "يقال عند توضيح سبب البقاء في المنزل."
+      },
+      {
+        "id": 6,
+        "en": "He caught a cold after a cold night.",
+        "ar": "أُصيب بنزلة برد بعد ليلة باردة.",
+        "context": "يقال عند ربط المرض بالبرد."
+      },
+      {
+        "id": 7,
+        "en": "I started coughing after the rain.",
+        "ar": "بدأت أسعل بعد المطر.",
+        "context": "يقال عند وصف عرض مرضي بعد المطر."
+      },
+      {
+        "id": 8,
+        "en": "She wore a coat in the rain.",
+        "ar": "ارتدت معطفًا في المطر.",
+        "context": "يقال عند الحماية من البرد والمطر."
+      },
+      {
+        "id": 9,
+        "en": "He felt cold after walking outside.",
+        "ar": "شعر بالبرد بعد المشي في الخارج.",
+        "context": "يقال عند وصف أثر المشي في الجو البارد."
+      },
+      {
+        "id": 10,
+        "en": "The child caught a cold at school.",
+        "ar": "أُصيب الطفل بنزلة برد في المدرسة.",
+        "context": "يقال عند ذكر مكان الإصابة بالمرض."
+      }
+    ]
+  }
+}

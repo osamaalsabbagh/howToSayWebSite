@@ -1,0 +1,111 @@
+{
+  "schemaVersion": 1,
+  "id": 1604,
+  "sentence": {
+    "en": "My father works as an engineer.",
+    "ar": "والدي يعمل كمهندس.",
+    "context": "أخبر عن وظيفة والدك."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "My father works as an engineer.",
+        "ar": "والدي يعمل مهندسًا.",
+        "context": "تستخدم الجملة لإخبار شخص عن مهنة والدك.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُخدم المضارع البسيط لأن الجملة تصف وظيفة ثابتة أو معتادة."
+        },
+        "wordMeanings": [
+          {
+            "term": "My",
+            "description": "خاص بي."
+          },
+          {
+            "term": "father",
+            "description": "أب أو والد."
+          },
+          {
+            "term": "works",
+            "description": "يعمل."
+          },
+          {
+            "term": "as",
+            "description": "كـ أو بصفة."
+          },
+          {
+            "term": "an",
+            "description": "أداة تدل على شخص واحد غير محدد قبل صوت متحرك."
+          },
+          {
+            "term": "engineer",
+            "description": "مهندس."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "My mother works as a doctor.",
+        "ar": "والدتي تعمل طبيبة.",
+        "context": "يقال عند ذكر مهنة الأم."
+      },
+      {
+        "id": 2,
+        "en": "His father works as a teacher.",
+        "ar": "والده يعمل معلمًا.",
+        "context": "يقال عند وصف وظيفة والد شخص."
+      },
+      {
+        "id": 3,
+        "en": "My father works in a company.",
+        "ar": "والدي يعمل في شركة.",
+        "context": "يقال عند ذكر مكان العمل."
+      },
+      {
+        "id": 4,
+        "en": "She works as an engineer.",
+        "ar": "هي تعمل مهندسة.",
+        "context": "يقال عند وصف مهنة شخص."
+      },
+      {
+        "id": 5,
+        "en": "My uncle is an engineer.",
+        "ar": "عمي مهندس.",
+        "context": "يقال عند تعريف مهنة قريب."
+      },
+      {
+        "id": 6,
+        "en": "Engineers design bridges and buildings.",
+        "ar": "يصمم المهندسون الجسور والمباني.",
+        "context": "يقال عند شرح عمل المهندس."
+      },
+      {
+        "id": 7,
+        "en": "My father works every day.",
+        "ar": "يعمل والدي كل يوم.",
+        "context": "يقال عند وصف عادة العمل."
+      },
+      {
+        "id": 8,
+        "en": "He works as a manager now.",
+        "ar": "هو يعمل مديرًا الآن.",
+        "context": "يقال عند ذكر وظيفة حالية."
+      },
+      {
+        "id": 9,
+        "en": "My father likes his work.",
+        "ar": "والدي يحب عمله.",
+        "context": "يقال عند الحديث عن الرضا بالوظيفة."
+      },
+      {
+        "id": 10,
+        "en": "I want to work as an engineer.",
+        "ar": "أريد أن أعمل مهندسًا.",
+        "context": "يقال عند الحديث عن طموح مهني."
+      }
+    ]
+  }
+}

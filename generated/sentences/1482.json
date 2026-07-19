@@ -1,0 +1,127 @@
+{
+  "schemaVersion": 1,
+  "id": 1482,
+  "sentence": {
+    "en": "Can you describe what he looks like?",
+    "ar": "هل يمكنك أن تصف هو ماذا يشبه؟",
+    "context": "هذا الأسلوب يُستخدم في الإنجليزية للسؤال عن مظهر شخص ما، مثل ملامحه أو شعره أو طوله أو طريقة لبسه."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Can you describe",
+        "ar": "هل يمكنك أن تصف",
+        "context": "هذا الجزء يطلب من الشخص تقديم وصف.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "Can هنا تستخدم للسؤال المهذب عن القدرة أو الطلب، ويتبعها الفعل الأساسي describe."
+        },
+        "wordMeanings": [
+          {
+            "term": "Can",
+            "description": "هل يمكنك، وتستخدم للطلب أو السؤال عن القدرة."
+          },
+          {
+            "term": "you",
+            "description": "ضمير للمخاطب."
+          },
+          {
+            "term": "describe",
+            "description": "تصف أو تشرح شكل شيء أو شخص."
+          }
+        ]
+      },
+      {
+        "sentence": "what he looks like",
+        "ar": "كيف يبدو شكله",
+        "context": "هذا الجزء يحدد أن الوصف المطلوب هو مظهر الشخص الخارجي.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُخدم المضارع البسيط مع looks للسؤال عن مظهر عام حالي، والتعبير what he looks like يعني كيف يبدو شكله."
+        },
+        "wordMeanings": [
+          {
+            "term": "what",
+            "description": "ما أو كيف في هذا التعبير."
+          },
+          {
+            "term": "he",
+            "description": "ضمير يشير إلى رجل أو ولد."
+          },
+          {
+            "term": "looks",
+            "description": "يبدو من حيث الشكل."
+          },
+          {
+            "term": "like",
+            "description": "تُكمل التعبير للدلالة على المظهر أو الشبه."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Can you describe what she looks like?",
+        "ar": "هل يمكنك أن تصف كيف يبدو شكلها؟",
+        "context": "يقال عند السؤال عن مظهر امرأة أو فتاة."
+      },
+      {
+        "id": 2,
+        "en": "What does he look like?",
+        "ar": "كيف يبدو شكله؟",
+        "context": "يقال للسؤال مباشرة عن المظهر."
+      },
+      {
+        "id": 3,
+        "en": "He looks tall and friendly.",
+        "ar": "يبدو طويلًا وودودًا.",
+        "context": "يقال عند وصف شخص."
+      },
+      {
+        "id": 4,
+        "en": "Please describe the man in the photo.",
+        "ar": "رجاءً صف الرجل في الصورة.",
+        "context": "يقال عند طلب وصف بصري."
+      },
+      {
+        "id": 5,
+        "en": "Can you describe your teacher?",
+        "ar": "هل يمكنك وصف معلمك؟",
+        "context": "يقال عند طلب وصف شخص معروف."
+      },
+      {
+        "id": 6,
+        "en": "She looks like her mother.",
+        "ar": "هي تشبه أمها.",
+        "context": "يقال عند مقارنة الشبه."
+      },
+      {
+        "id": 7,
+        "en": "He has short black hair.",
+        "ar": "لديه شعر أسود قصير.",
+        "context": "يقال عند وصف المظهر."
+      },
+      {
+        "id": 8,
+        "en": "Can you tell me what he looks like?",
+        "ar": "هل يمكنك أن تخبرني كيف يبدو شكله؟",
+        "context": "يقال عند طلب وصف بتفصيل."
+      },
+      {
+        "id": 9,
+        "en": "The child looks very happy.",
+        "ar": "يبدو الطفل سعيدًا جدًا.",
+        "context": "يقال عند وصف تعبير الوجه."
+      },
+      {
+        "id": 10,
+        "en": "Describe what the building looks like.",
+        "ar": "صف كيف يبدو شكل المبنى.",
+        "context": "يقال عند طلب وصف شيء غير شخص."
+      }
+    ]
+  }
+}

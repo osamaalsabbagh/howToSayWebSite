@@ -1,0 +1,127 @@
+{
+  "schemaVersion": 1,
+  "id": 1419,
+  "sentence": {
+    "en": "Please check the email before you reply.",
+    "ar": "رجاءً تحقق من البريد الإلكتروني قبل أن ترد.",
+    "context": "اطلب من شخص مراجعة البريد الإلكتروني جيدًا قبل أن يقوم بالرد عليه."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Please check the email",
+        "ar": "رجاءً تحقق من البريد الإلكتروني",
+        "context": "هذا الجزء طلب مهذب لمراجعة رسالة قبل اتخاذ إجراء.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه صيغة طلب مهذب تبدأ بـ Please ويتبعها الفعل الأساسي check، لذلك لا تحمل زمنًا خبريًا مستقلًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "Please",
+            "description": "رجاءً أو من فضلك، وتستخدم لجعل الطلب مهذبًا."
+          },
+          {
+            "term": "check",
+            "description": "تحقق أو راجع بعناية."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف تشير إلى رسالة محددة."
+          },
+          {
+            "term": "email",
+            "description": "بريد إلكتروني أو رسالة إلكترونية."
+          }
+        ]
+      },
+      {
+        "sentence": "before you reply",
+        "ar": "قبل أن ترد",
+        "context": "هذا الجزء يحدد أن المراجعة يجب أن تحدث قبل الرد.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُخدم المضارع البسيط بعد before للإشارة إلى حدث لاحق مطلوب في ترتيب زمني."
+        },
+        "wordMeanings": [
+          {
+            "term": "before",
+            "description": "قبل."
+          },
+          {
+            "term": "you",
+            "description": "ضمير للمخاطب."
+          },
+          {
+            "term": "reply",
+            "description": "ترد أو تجيب."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Please read the message before you answer.",
+        "ar": "رجاءً اقرأ الرسالة قبل أن تجيب.",
+        "context": "يقال عند طلب الانتباه قبل الرد."
+      },
+      {
+        "id": 2,
+        "en": "Please check the file before you send it.",
+        "ar": "رجاءً تحقق من الملف قبل أن ترسله.",
+        "context": "يقال عند طلب مراجعة ملف."
+      },
+      {
+        "id": 3,
+        "en": "Check the address before you leave.",
+        "ar": "تحقق من العنوان قبل أن تغادر.",
+        "context": "يقال لتجنب الذهاب إلى مكان خطأ."
+      },
+      {
+        "id": 4,
+        "en": "Please call me before you reply.",
+        "ar": "رجاءً اتصل بي قبل أن ترد.",
+        "context": "يقال عند الحاجة إلى نقاش قبل إرسال رد."
+      },
+      {
+        "id": 5,
+        "en": "Please check the time before the meeting.",
+        "ar": "رجاءً تحقق من الوقت قبل الاجتماع.",
+        "context": "يقال للتأكد من موعد مهم."
+      },
+      {
+        "id": 6,
+        "en": "Read the email before you call him.",
+        "ar": "اقرأ البريد الإلكتروني قبل أن تتصل به.",
+        "context": "يقال عندما تحتوي الرسالة على معلومات مهمة."
+      },
+      {
+        "id": 7,
+        "en": "Please check your answer before you submit it.",
+        "ar": "رجاءً تحقق من إجابتك قبل أن تسلمها.",
+        "context": "يقال في اختبار أو واجب."
+      },
+      {
+        "id": 8,
+        "en": "Please wait before you reply.",
+        "ar": "رجاءً انتظر قبل أن ترد.",
+        "context": "يقال عند الحاجة إلى تأخير الرد."
+      },
+      {
+        "id": 9,
+        "en": "Check the email before lunch.",
+        "ar": "تحقق من البريد الإلكتروني قبل الغداء.",
+        "context": "يقال عند تحديد وقت لمراجعة البريد."
+      },
+      {
+        "id": 10,
+        "en": "Please think before you answer.",
+        "ar": "رجاءً فكر قبل أن تجيب.",
+        "context": "يقال لتشجيع رد متأن."
+      }
+    ]
+  }
+}

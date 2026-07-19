@@ -1,0 +1,111 @@
+{
+  "schemaVersion": 1,
+  "id": 1575,
+  "sentence": {
+    "en": "The teacher explained the lesson clearly.",
+    "ar": "المعلم شرح الدرس بوضوح.",
+    "context": "صف كيف قام المدرس بتوضيح الأفكار بطريقة سهلة الفهم."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "The teacher explained the lesson clearly.",
+        "ar": "شرح المعلم الدرس بوضوح.",
+        "context": "تستخدم الجملة لوصف شرح سابق كان مفهومًا وسهلًا.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "استُخدم الماضي البسيط لأن الشرح حدث وانتهى في وقت سابق."
+        },
+        "wordMeanings": [
+          {
+            "term": "The",
+            "description": "أداة تشير إلى معلم محدد."
+          },
+          {
+            "term": "teacher",
+            "description": "المعلم."
+          },
+          {
+            "term": "explained",
+            "description": "شرح أو وضح."
+          },
+          {
+            "term": "the",
+            "description": "أداة تشير إلى درس محدد."
+          },
+          {
+            "term": "lesson",
+            "description": "درس."
+          },
+          {
+            "term": "clearly",
+            "description": "بوضوح وبطريقة مفهومة."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "The teacher explained the rule clearly.",
+        "ar": "شرح المعلم القاعدة بوضوح.",
+        "context": "يقال عند فهم قاعدة بعد شرحها."
+      },
+      {
+        "id": 2,
+        "en": "She explained the plan clearly.",
+        "ar": "شرحت الخطة بوضوح.",
+        "context": "يقال عند عرض خطة سهلة الفهم."
+      },
+      {
+        "id": 3,
+        "en": "The lesson was clear today.",
+        "ar": "كان الدرس واضحًا اليوم.",
+        "context": "يقال عند تقييم درس."
+      },
+      {
+        "id": 4,
+        "en": "He explained the answer slowly.",
+        "ar": "شرح الإجابة ببطء.",
+        "context": "يقال عند وصف طريقة شرح."
+      },
+      {
+        "id": 5,
+        "en": "The teacher gave a clear example.",
+        "ar": "أعطى المعلم مثالًا واضحًا.",
+        "context": "يقال عند استخدام مثال مفيد."
+      },
+      {
+        "id": 6,
+        "en": "We understood the lesson clearly.",
+        "ar": "فهمنا الدرس بوضوح.",
+        "context": "يقال بعد شرح ناجح."
+      },
+      {
+        "id": 7,
+        "en": "The guide explained the route clearly.",
+        "ar": "شرح المرشد الطريق بوضوح.",
+        "context": "يقال عند تلقي إرشادات مفهومة."
+      },
+      {
+        "id": 8,
+        "en": "She taught the lesson well.",
+        "ar": "درست الدرس جيدًا.",
+        "context": "يقال عند مدح طريقة التدريس."
+      },
+      {
+        "id": 9,
+        "en": "The teacher explained everything yesterday.",
+        "ar": "شرح المعلم كل شيء أمس.",
+        "context": "يقال عند ذكر شرح كامل في الماضي."
+      },
+      {
+        "id": 10,
+        "en": "He spoke clearly during the lesson.",
+        "ar": "تحدث بوضوح أثناء الدرس.",
+        "context": "يقال عن طريقة الكلام في الصف."
+      }
+    ]
+  }
+}

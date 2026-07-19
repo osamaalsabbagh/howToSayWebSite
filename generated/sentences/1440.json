@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "id": 1440,
+  "sentence": {
+    "en": "What is your favorite color, and why do you like it?",
+    "ar": "ما هو لونك المفضل ولماذا تحبه؟",
+    "context": "اطرح سؤالًا عن اللون المفضل لشخص ما وشجعه على توضيح سبب اختياره لهذا اللون."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "What is your favorite color",
+        "ar": "ما هو لونك المفضل",
+        "context": "هذا الجزء يسأل عن اللون الذي يفضله الشخص.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُخدم is في المضارع البسيط للسؤال عن تفضيل عام أو صفة ثابتة نسبيًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "What",
+            "description": "ما، وتستخدم للسؤال عن شيء."
+          },
+          {
+            "term": "is",
+            "description": "تعني يكون أو هو في السؤال."
+          },
+          {
+            "term": "your",
+            "description": "كلمة ملكية تعني الخاص بك."
+          },
+          {
+            "term": "favorite",
+            "description": "المفضل أو الأحب."
+          },
+          {
+            "term": "color",
+            "description": "لون."
+          }
+        ]
+      },
+      {
+        "sentence": "and why do you like it",
+        "ar": "ولماذا تحبه",
+        "context": "هذا الجزء يطلب سبب تفضيل ذلك اللون.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُخدم do في سؤال المضارع البسيط مع like للسؤال عن سبب تفضيل عام."
+        },
+        "wordMeanings": [
+          {
+            "term": "and",
+            "description": "و، وتربط السؤالين."
+          },
+          {
+            "term": "why",
+            "description": "لماذا، للسؤال عن السبب."
+          },
+          {
+            "term": "do",
+            "description": "كلمة مساعدة تُستخدم لتكوين السؤال في المضارع البسيط."
+          },
+          {
+            "term": "you",
+            "description": "ضمير للمخاطب."
+          },
+          {
+            "term": "like",
+            "description": "تحب أو تفضل."
+          },
+          {
+            "term": "it",
+            "description": "إياه أو ذلك اللون."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "What is your favorite food, and why do you like it?",
+        "ar": "ما هو طعامك المفضل، ولماذا تحبه؟",
+        "context": "يقال عند السؤال عن تفضيل وسببه."
+      },
+      {
+        "id": 2,
+        "en": "What is your favorite song?",
+        "ar": "ما هي أغنيتك المفضلة؟",
+        "context": "يقال عند السؤال عن اختيار شخصي."
+      },
+      {
+        "id": 3,
+        "en": "Why do you like blue?",
+        "ar": "لماذا تحب اللون الأزرق؟",
+        "context": "يقال عند طلب سبب تفضيل لون."
+      },
+      {
+        "id": 4,
+        "en": "What color do you like?",
+        "ar": "أي لون تحب؟",
+        "context": "يقال عند سؤال أبسط عن اللون."
+      },
+      {
+        "id": 5,
+        "en": "My favorite color is green.",
+        "ar": "لوني المفضل هو الأخضر.",
+        "context": "يقال عند الإجابة عن سؤال اللون المفضل."
+      },
+      {
+        "id": 6,
+        "en": "I like red because it is bright.",
+        "ar": "أحب الأحمر لأنه زاهٍ.",
+        "context": "يقال عند شرح سبب تفضيل لون."
+      },
+      {
+        "id": 7,
+        "en": "What is your favorite book?",
+        "ar": "ما هو كتابك المفضل؟",
+        "context": "يقال عند السؤال عن تفضيل في القراءة."
+      },
+      {
+        "id": 8,
+        "en": "Why do you like this color?",
+        "ar": "لماذا تحب هذا اللون؟",
+        "context": "يقال عند الإشارة إلى لون محدد."
+      },
+      {
+        "id": 9,
+        "en": "What is her favorite color?",
+        "ar": "ما هو لونها المفضل؟",
+        "context": "يقال عند السؤال عن تفضيل شخص آخر."
+      },
+      {
+        "id": 10,
+        "en": "Do you like this color?",
+        "ar": "هل تحب هذا اللون؟",
+        "context": "يقال عند طلب رأي مباشر في لون."
+      }
+    ]
+  }
+}
