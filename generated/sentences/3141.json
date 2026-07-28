@@ -1,0 +1,131 @@
+{
+  "schemaVersion": 1,
+  "id": 3141,
+  "sentence": {
+    "en": "She would help you if she had time.",
+    "ar": "هي كانت ستساعدك لو كان لديها وقت.",
+    "context": "حالة افتراضية غير حقيقية أو غير مؤكدة تعتمد على شرط."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "She would help you",
+        "ar": "كانت ستساعدك",
+        "context": "الجزء الأول يذكر نتيجة افتراضية: المساعدة كانت ستحدث في حالة معينة.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "would help صيغة شرطية افتراضية، وليست زمنا بسيطا مستقلا."
+        },
+        "wordMeanings": [
+          {
+            "term": "She",
+            "description": "هي؛ امرأة أو فتاة نتحدث عنها."
+          },
+          {
+            "term": "would",
+            "description": "كانت ستـ؛ تستخدم هنا لنتيجة افتراضية."
+          },
+          {
+            "term": "help",
+            "description": "تساعد؛ تقدم دعما أو عونا."
+          },
+          {
+            "term": "you",
+            "description": "ك؛ الشخص الذي سيتلقى المساعدة."
+          }
+        ]
+      },
+      {
+        "sentence": "if she had time.",
+        "ar": "لو كان لديها وقت.",
+        "context": "الجزء الثاني يذكر الشرط غير المتحقق أو غير المؤكد.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "استُخدم الماضي البسيط had بعد if للتعبير عن شرط افتراضي في الحاضر، وليس عن امتلاك وقت في الماضي."
+        },
+        "wordMeanings": [
+          {
+            "term": "if",
+            "description": "إذا أو لو؛ تقدم الشرط."
+          },
+          {
+            "term": "she",
+            "description": "هي؛ تعود على الشخص نفسه."
+          },
+          {
+            "term": "had",
+            "description": "كان لديها؛ الماضي من have، ويستخدم هنا في شرط افتراضي."
+          },
+          {
+            "term": "time",
+            "description": "وقت؛ فترة متاحة لفعل شيء."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "She would help you if she had time.",
+        "ar": "كانت ستساعدك لو كان لديها وقت.",
+        "context": "تصف مساعدة افتراضية مشروطة بوجود وقت."
+      },
+      {
+        "id": 2,
+        "en": "He would help you if he had time.",
+        "ar": "كان سيساعدك لو كان لديه وقت.",
+        "context": "تغير الفاعل إلى رجل أو ولد."
+      },
+      {
+        "id": 3,
+        "en": "She would call you if she had time.",
+        "ar": "كانت ستتصل بك لو كان لديها وقت.",
+        "context": "تغير الفعل من المساعدة إلى الاتصال."
+      },
+      {
+        "id": 4,
+        "en": "Would she help you if she had time?",
+        "ar": "هل كانت ستساعدك لو كان لديها وقت؟",
+        "context": "تسأل عن النتيجة الافتراضية."
+      },
+      {
+        "id": 5,
+        "en": "She would not help you if she had no time.",
+        "ar": "لم تكن لتساعدك لو لم يكن لديها وقت.",
+        "context": "تنفي النتيجة في شرط معاكس."
+      },
+      {
+        "id": 6,
+        "en": "She helps you when she has time.",
+        "ar": "هي تساعدك عندما يكون لديها وقت.",
+        "context": "تصف حالة حقيقية أو عادة."
+      },
+      {
+        "id": 7,
+        "en": "She helped you when she had time.",
+        "ar": "ساعدتك عندما كان لديها وقت.",
+        "context": "تتحدث عن مساعدة حقيقية في الماضي."
+      },
+      {
+        "id": 8,
+        "en": "She will help you if she has time.",
+        "ar": "ستساعدك إذا كان لديها وقت.",
+        "context": "تتحدث عن شرط مستقبلي ممكن."
+      },
+      {
+        "id": 9,
+        "en": "I think she would help you if she had time.",
+        "ar": "أعتقد أنها كانت ستساعدك لو كان لديها وقت.",
+        "context": "تقدم رأيا عن موقف افتراضي."
+      },
+      {
+        "id": 10,
+        "en": "Ask her if she has time to help you.",
+        "ar": "اسألها إن كان لديها وقت لمساعدتك.",
+        "context": "تحول الشرط إلى طلب عملي."
+      }
+    ]
+  }
+}

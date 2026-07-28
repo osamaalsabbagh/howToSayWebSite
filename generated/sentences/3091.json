@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": 3091,
+  "sentence": {
+    "en": "What book are you reading?",
+    "ar": "ما الكتاب الذي تقرأه؟",
+    "context": "اختيار شيء من بين أشياء."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "What book are you reading?",
+        "ar": "ما الكتاب الذي تقرأه؟",
+        "context": "تسأل الجملة عن الكتاب الذي يقرأه الشخص الآن أو في هذه الفترة.",
+        "grammar": {
+          "tense": "المضارع المستمر",
+          "tenseEn": "Present Continuous",
+          "reason": "استُخدم المضارع المستمر لأن are reading يصف فعلا جاريا الآن أو نشاطا مستمرا في الفترة الحالية."
+        },
+        "wordMeanings": [
+          {
+            "term": "What",
+            "description": "ما أو أي؛ أداة سؤال تطلب تحديد شيء من بين خيارات."
+          },
+          {
+            "term": "book",
+            "description": "كتاب؛ شيء مكتوب أو مطبوع يقرأه الشخص."
+          },
+          {
+            "term": "are",
+            "description": "فعل مساعد من be يستخدم مع you في المضارع المستمر."
+          },
+          {
+            "term": "you",
+            "description": "أنت؛ الشخص المخاطب في السؤال."
+          },
+          {
+            "term": "reading",
+            "description": "تقرأ؛ صيغة الفعل read مع ing للدلالة على فعل القراءة الجاري."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "What book are you reading?",
+        "ar": "ما الكتاب الذي تقرأه؟",
+        "context": "تسأل عن كتاب يقرأه الشخص حاليا."
+      },
+      {
+        "id": 2,
+        "en": "What article are you reading?",
+        "ar": "ما المقال الذي تقرأه؟",
+        "context": "تسأل عن نص أقصر من كتاب."
+      },
+      {
+        "id": 3,
+        "en": "What book is she reading?",
+        "ar": "ما الكتاب الذي تقرؤه؟",
+        "context": "تسأل عن كتاب تقرؤه امرأة أو فتاة."
+      },
+      {
+        "id": 4,
+        "en": "What book are they reading in class?",
+        "ar": "ما الكتاب الذي يقرؤونه في الصف؟",
+        "context": "تسأل عن كتاب تدرسه مجموعة."
+      },
+      {
+        "id": 5,
+        "en": "Are you reading a new book?",
+        "ar": "هل تقرأ كتابا جديدا؟",
+        "context": "تسأل عن نشاط القراءة الحالي."
+      },
+      {
+        "id": 6,
+        "en": "I am reading a book about history.",
+        "ar": "أنا أقرأ كتابا عن التاريخ.",
+        "context": "تجيب باسم نوع الكتاب أو موضوعه."
+      },
+      {
+        "id": 7,
+        "en": "She is reading a book in the library.",
+        "ar": "هي تقرأ كتابا في المكتبة.",
+        "context": "تصف شخصا يقرأ في مكان محدد."
+      },
+      {
+        "id": 8,
+        "en": "What were you reading yesterday?",
+        "ar": "ماذا كنت تقرأ أمس؟",
+        "context": "تسأل عن فعل قراءة كان جاريا في الماضي."
+      },
+      {
+        "id": 9,
+        "en": "What will you read next?",
+        "ar": "ماذا ستقرأ بعد ذلك؟",
+        "context": "تسأل عن خطة قراءة مستقبلية."
+      },
+      {
+        "id": 10,
+        "en": "Tell me what book you are reading.",
+        "ar": "أخبرني ما الكتاب الذي تقرأه.",
+        "context": "تطلب المعلومة بصيغة غير مباشرة."
+      }
+    ]
+  }
+}

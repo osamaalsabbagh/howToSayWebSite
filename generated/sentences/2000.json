@@ -1,0 +1,119 @@
+{
+  "schemaVersion": 1,
+  "id": 2000,
+  "sentence": {
+    "en": "She is a member of the book club.",
+    "ar": "هي عضو في نادي الكتاب.",
+    "context": "أخبر أنها عضو من أعضاء نادي الكتاب."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "She is a member of the book club.",
+        "ar": "هي عضو في نادي الكتاب.",
+        "context": "تصف الجملة انتماءها إلى نادٍ محدد.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُخدم المضارع البسيط مع is لوصف حالة حالية أو عضوية قائمة."
+        },
+        "wordMeanings": [
+          {
+            "term": "She",
+            "description": "ضمير يشير إلى أنثى واحدة"
+          },
+          {
+            "term": "is",
+            "description": "صيغة تعني تكون أو هي في الحاضر"
+          },
+          {
+            "term": "a",
+            "description": "أداة تنكير لعضو واحد"
+          },
+          {
+            "term": "member",
+            "description": "عضو في مجموعة"
+          },
+          {
+            "term": "of",
+            "description": "في أو من ضمن"
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف لنادٍ محدد"
+          },
+          {
+            "term": "book",
+            "description": "كتاب، وتصف نوع النادي"
+          },
+          {
+            "term": "club",
+            "description": "نادٍ أو مجموعة نشاط"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "He is a member of the team.",
+        "ar": "هو عضو في الفريق.",
+        "context": "تقال عند وصف انتماء لفريق."
+      },
+      {
+        "id": 2,
+        "en": "She joined the book club.",
+        "ar": "هي انضمت إلى نادي الكتاب.",
+        "context": "تقال عند بدء العضوية."
+      },
+      {
+        "id": 3,
+        "en": "I am a member of this group.",
+        "ar": "أنا عضو في هذه المجموعة.",
+        "context": "تقال عند التعريف بالانتماء."
+      },
+      {
+        "id": 4,
+        "en": "They are members of the club.",
+        "ar": "هم أعضاء في النادي.",
+        "context": "تقال عند وصف أكثر من عضو."
+      },
+      {
+        "id": 5,
+        "en": "The book club meets every week.",
+        "ar": "نادي الكتاب يجتمع كل أسبوع.",
+        "context": "تقال عند وصف نشاط النادي."
+      },
+      {
+        "id": 6,
+        "en": "She reads books with the club.",
+        "ar": "هي تقرأ الكتب مع النادي.",
+        "context": "تقال عند وصف نشاط العضوية."
+      },
+      {
+        "id": 7,
+        "en": "He became a member last year.",
+        "ar": "هو أصبح عضوًا العام الماضي.",
+        "context": "تقال عند ذكر وقت الانضمام."
+      },
+      {
+        "id": 8,
+        "en": "Every member gets a card.",
+        "ar": "كل عضو يحصل على بطاقة.",
+        "context": "تقال عند وصف حق للأعضاء."
+      },
+      {
+        "id": 9,
+        "en": "She is not a club member.",
+        "ar": "هي ليست عضوة في النادي.",
+        "context": "تقال عند نفي العضوية."
+      },
+      {
+        "id": 10,
+        "en": "The club has many members.",
+        "ar": "النادي لديه أعضاء كثيرون.",
+        "context": "تقال عند وصف حجم النادي."
+      }
+    ]
+  }
+}

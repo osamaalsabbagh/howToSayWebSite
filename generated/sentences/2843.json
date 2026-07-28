@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "id": 2843,
+  "sentence": {
+    "en": "The test was difficult.",
+    "ar": "الاختبار كان صعبًا.",
+    "context": "وصف تجربة تقييم انتهت في الماضي."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "The test was difficult.",
+        "ar": "كان الاختبار صعبا.",
+        "context": "تصف الجملة اختبارا انتهى وكان صعبا على من أداه.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "استُخدم الماضي البسيط لأن was يصف حالة الاختبار في وقت ماض وانتهى."
+        },
+        "wordMeanings": [
+          {
+            "term": "The",
+            "description": "أداة تعريف تشير إلى اختبار محدد."
+          },
+          {
+            "term": "test",
+            "description": "اختبار؛ تقييم للمعرفة أو المهارة."
+          },
+          {
+            "term": "was",
+            "description": "كان؛ صيغة الماضي من is."
+          },
+          {
+            "term": "difficult",
+            "description": "صعب؛ ليس سهلا ويحتاج إلى جهد."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "The test was difficult.",
+        "ar": "كان الاختبار صعبا.",
+        "context": "تصف صعوبة اختبار انتهى."
+      },
+      {
+        "id": 2,
+        "en": "The test was easy.",
+        "ar": "كان الاختبار سهلا.",
+        "context": "تصف الحالة المعاكسة."
+      },
+      {
+        "id": 3,
+        "en": "The math test was difficult.",
+        "ar": "كان اختبار الرياضيات صعبا.",
+        "context": "تحدد مادة الاختبار."
+      },
+      {
+        "id": 4,
+        "en": "The test was difficult, but I passed.",
+        "ar": "كان الاختبار صعبا، لكنني نجحت.",
+        "context": "تجمع بين الصعوبة والنتيجة."
+      },
+      {
+        "id": 5,
+        "en": "Was the test difficult?",
+        "ar": "هل كان الاختبار صعبا؟",
+        "context": "تسأل عن صعوبة اختبار سابق."
+      },
+      {
+        "id": 6,
+        "en": "The test was not difficult.",
+        "ar": "لم يكن الاختبار صعبا.",
+        "context": "تنفي صعوبة الاختبار."
+      },
+      {
+        "id": 7,
+        "en": "The final test was difficult.",
+        "ar": "كان الاختبار النهائي صعبا.",
+        "context": "تصف اختبارا نهائيا."
+      },
+      {
+        "id": 8,
+        "en": "Everyone said the test was difficult.",
+        "ar": "قال الجميع إن الاختبار كان صعبا.",
+        "context": "تنقل رأي مجموعة."
+      },
+      {
+        "id": 9,
+        "en": "The test was difficult because it was long.",
+        "ar": "كان الاختبار صعبا لأنه كان طويلا.",
+        "context": "توضح سبب الصعوبة."
+      },
+      {
+        "id": 10,
+        "en": "I studied hard because the test was difficult.",
+        "ar": "درست بجد لأن الاختبار كان صعبا.",
+        "context": "تصف رد فعل على صعوبة الاختبار."
+      }
+    ]
+  }
+}

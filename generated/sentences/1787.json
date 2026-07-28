@@ -1,0 +1,115 @@
+{
+  "schemaVersion": 1,
+  "id": 1787,
+  "sentence": {
+    "en": "We learned about world history in school.",
+    "ar": "نحن تعلمنا عن تاريخ العالم في المدرسة.",
+    "context": "صف دراسة أحداث حدثت في الماضي على مستوى العالم."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "We learned about world history in school.",
+        "ar": "تعلمنا عن تاريخ العالم في المدرسة.",
+        "context": "تصف الجملة دراسة موضوع تاريخي في المدرسة في الماضي.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "استخدم learned لأن التعلم حدث في فترة ماضية أو تجربة مدرسية سابقة."
+        },
+        "wordMeanings": [
+          {
+            "term": "We",
+            "description": "نحن، المتكلم مع آخرين"
+          },
+          {
+            "term": "learned",
+            "description": "تعلمنا أو درسنا"
+          },
+          {
+            "term": "about",
+            "description": "عن، تبين موضوع التعلم"
+          },
+          {
+            "term": "world",
+            "description": "العالم"
+          },
+          {
+            "term": "history",
+            "description": "التاريخ أو أحداث الماضي"
+          },
+          {
+            "term": "in",
+            "description": "في، داخل مكان أو مؤسسة"
+          },
+          {
+            "term": "school",
+            "description": "المدرسة"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "We learned about science in school.",
+        "ar": "تعلمنا عن العلوم في المدرسة.",
+        "context": "يقال عن مادة دراسية."
+      },
+      {
+        "id": 2,
+        "en": "They learned about ancient history.",
+        "ar": "هم تعلموا عن التاريخ القديم.",
+        "context": "يستخدم لوصف دراسة الماضي القديم."
+      },
+      {
+        "id": 3,
+        "en": "I learned about music last year.",
+        "ar": "تعلمت عن الموسيقى العام الماضي.",
+        "context": "يقال عن تعلم موضوع سابق."
+      },
+      {
+        "id": 4,
+        "en": "She learned about computers in class.",
+        "ar": "هي تعلمت عن الحواسيب في الصف.",
+        "context": "يستخدم في سياق دراسي."
+      },
+      {
+        "id": 5,
+        "en": "We studied world history together.",
+        "ar": "درسنا تاريخ العالم معًا.",
+        "context": "يقال عن دراسة مشتركة."
+      },
+      {
+        "id": 6,
+        "en": "He learned about old cities.",
+        "ar": "هو تعلم عن المدن القديمة.",
+        "context": "يستخدم لموضوع تاريخي."
+      },
+      {
+        "id": 7,
+        "en": "The students learned about the war.",
+        "ar": "الطلاب تعلموا عن الحرب.",
+        "context": "يقال عن درس في التاريخ."
+      },
+      {
+        "id": 8,
+        "en": "We learned in a small classroom.",
+        "ar": "تعلمنا في صف صغير.",
+        "context": "يستخدم لتحديد مكان التعلم."
+      },
+      {
+        "id": 9,
+        "en": "I learned about my country history.",
+        "ar": "تعلمت عن تاريخ بلدي.",
+        "context": "يقال عن تاريخ محلي."
+      },
+      {
+        "id": 10,
+        "en": "They learned many facts in school.",
+        "ar": "هم تعلموا حقائق كثيرة في المدرسة.",
+        "context": "يستخدم لوصف تعلم معلومات."
+      }
+    ]
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": 3020,
+  "sentence": {
+    "en": "The visitor is waiting outside.",
+    "ar": "الزائر ينتظر خارجًا.",
+    "context": "شخص جاء لزيارة مكان أو شخص."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "The visitor is waiting outside.",
+        "ar": "الزائر ينتظر في الخارج.",
+        "context": "تصف الجملة أن زائرا محددا موجود خارج المكان وينتظر الآن.",
+        "grammar": {
+          "tense": "المضارع المستمر",
+          "tenseEn": "Present Continuous",
+          "reason": "استُخدم المضارع المستمر لأن is waiting يدل على فعل جار في الوقت الحالي."
+        },
+        "wordMeanings": [
+          {
+            "term": "The",
+            "description": "أداة تعريف تشير إلى زائر محدد."
+          },
+          {
+            "term": "visitor",
+            "description": "زائر؛ شخص جاء لرؤية شخص أو مكان."
+          },
+          {
+            "term": "is",
+            "description": "فعل مساعد مع visitor في المضارع المستمر."
+          },
+          {
+            "term": "waiting",
+            "description": "ينتظر؛ يبقى في مكان حتى يحدث شيء أو يأتي شخص."
+          },
+          {
+            "term": "outside",
+            "description": "في الخارج؛ خارج المكان أو المبنى."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "The visitor is waiting outside.",
+        "ar": "الزائر ينتظر في الخارج.",
+        "context": "تخبر أن الزائر ينتظر خارج المكان الآن."
+      },
+      {
+        "id": 2,
+        "en": "The visitor is waiting inside.",
+        "ar": "الزائر ينتظر في الداخل.",
+        "context": "تغير مكان الانتظار."
+      },
+      {
+        "id": 3,
+        "en": "The manager is waiting outside.",
+        "ar": "المدير ينتظر في الخارج.",
+        "context": "تغير الشخص الذي ينتظر."
+      },
+      {
+        "id": 4,
+        "en": "The visitor is not waiting outside.",
+        "ar": "الزائر لا ينتظر في الخارج.",
+        "context": "تنفي وجوده منتظرا في الخارج."
+      },
+      {
+        "id": 5,
+        "en": "Is the visitor waiting outside?",
+        "ar": "هل الزائر ينتظر في الخارج؟",
+        "context": "تسأل عن مكان الزائر الحالي."
+      },
+      {
+        "id": 6,
+        "en": "The visitor waits outside every morning.",
+        "ar": "ينتظر الزائر في الخارج كل صباح.",
+        "context": "تحول الانتظار إلى عادة."
+      },
+      {
+        "id": 7,
+        "en": "The visitor waited outside yesterday.",
+        "ar": "انتظر الزائر في الخارج أمس.",
+        "context": "تنقل الفعل إلى الماضي."
+      },
+      {
+        "id": 8,
+        "en": "The visitor is waiting outside the office.",
+        "ar": "الزائر ينتظر خارج المكتب.",
+        "context": "تحدد المكان بدقة أكبر."
+      },
+      {
+        "id": 9,
+        "en": "The visitor is waiting outside because the door is locked.",
+        "ar": "الزائر ينتظر في الخارج لأن الباب مقفل.",
+        "context": "توضح سبب الانتظار في الخارج."
+      },
+      {
+        "id": 10,
+        "en": "If the visitor is waiting outside, invite him in.",
+        "ar": "إذا كان الزائر ينتظر في الخارج، فادعه للدخول.",
+        "context": "تستخدم الجملة داخل توجيه."
+      }
+    ]
+  }
+}

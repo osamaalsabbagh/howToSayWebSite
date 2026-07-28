@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": 2468,
+  "sentence": {
+    "en": "The function returns a number.",
+    "ar": "تعيد الدالة رقمًا.",
+    "context": "الاستخدام تقني ويشير إلى إخراج قيمة بعد تنفيذ عملية."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "The function returns a number.",
+        "ar": "تعيد الدالة رقمًا.",
+        "context": "تُستخدم الجملة في البرمجة لوصف نوع القيمة التي تعطيها الدالة بعد تنفيذها.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "تصف الجملة سلوكًا عامًا للدالة في الكود، لذلك يُستخدم المضارع البسيط."
+        },
+        "wordMeanings": [
+          {
+            "term": "The",
+            "description": "أداة تعريف لدالة محددة"
+          },
+          {
+            "term": "function",
+            "description": "دالة أو جزء من برنامج ينفذ عملية"
+          },
+          {
+            "term": "returns",
+            "description": "تعيد أو تُخرج قيمة"
+          },
+          {
+            "term": "a",
+            "description": "أداة تنكير قبل اسم مفرد"
+          },
+          {
+            "term": "number",
+            "description": "رقم أو قيمة عددية"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "The function returns a number.",
+        "ar": "تعيد الدالة رقمًا.",
+        "context": "تُقال عند شرح ناتج دالة برمجية."
+      },
+      {
+        "id": 2,
+        "en": "The function returns a string.",
+        "ar": "تعيد الدالة نصًا.",
+        "context": "تُستخدم عندما يكون ناتج الدالة نصيًا."
+      },
+      {
+        "id": 3,
+        "en": "Does the function return a number?",
+        "ar": "هل تعيد الدالة رقمًا؟",
+        "context": "سؤال عن نوع القيمة الناتجة من الدالة."
+      },
+      {
+        "id": 4,
+        "en": "The function does not return a number.",
+        "ar": "لا تعيد الدالة رقمًا.",
+        "context": "تُستخدم عندما يكون الناتج من نوع آخر."
+      },
+      {
+        "id": 5,
+        "en": "This function returns the total price.",
+        "ar": "تعيد هذه الدالة السعر الإجمالي.",
+        "context": "تُقال عند وصف دالة تحسب مجموعًا."
+      },
+      {
+        "id": 6,
+        "en": "The function returned zero.",
+        "ar": "أعادت الدالة صفرًا.",
+        "context": "تُستخدم عند الحديث عن نتيجة تنفيذ سابق."
+      },
+      {
+        "id": 7,
+        "en": "A good function returns a clear value.",
+        "ar": "تعيد الدالة الجيدة قيمة واضحة.",
+        "context": "تُقال عند شرح مبدأ في البرمجة."
+      },
+      {
+        "id": 8,
+        "en": "The function returns a number after the calculation.",
+        "ar": "تعيد الدالة رقمًا بعد الحساب.",
+        "context": "تُستخدم لربط الناتج بعملية حسابية."
+      },
+      {
+        "id": 9,
+        "en": "The method returns a number.",
+        "ar": "تعيد الطريقة رقمًا.",
+        "context": "صياغة مشابهة في سياق برمجي يستخدم كلمة طريقة."
+      },
+      {
+        "id": 10,
+        "en": "The output of the function is a number.",
+        "ar": "مخرج الدالة رقم.",
+        "context": "صياغة بديلة تشرح نوع ناتج الدالة."
+      }
+    ]
+  }
+}

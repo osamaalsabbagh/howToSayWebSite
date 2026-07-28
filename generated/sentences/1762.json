@@ -1,0 +1,135 @@
+{
+  "schemaVersion": 1,
+  "id": 1762,
+  "sentence": {
+    "en": "She has a headache and is holding her head.",
+    "ar": "هي عندها صداع وتمسك رأسها.",
+    "context": "صف شعور شخص بألم في الجزء العلوي من جسده وهو يمسك رأسه الآن."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "She has a headache",
+        "ar": "هي لديها صداع.",
+        "context": "يوضح الجزء وجود ألم في الرأس.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استخدم has لوصف حالة صحية موجودة الآن."
+        },
+        "wordMeanings": [
+          {
+            "term": "She",
+            "description": "هي، تشير إلى أنثى"
+          },
+          {
+            "term": "has",
+            "description": "لديها أو تعاني من"
+          },
+          {
+            "term": "a",
+            "description": "أداة لشيء واحد غير محدد"
+          },
+          {
+            "term": "headache",
+            "description": "صداع أو ألم في الرأس"
+          }
+        ]
+      },
+      {
+        "sentence": "and is holding her head.",
+        "ar": "وتمسك رأسها.",
+        "context": "يوضح الجزء الفعل الجاري بسبب الألم.",
+        "grammar": {
+          "tense": "المضارع المستمر",
+          "tenseEn": "Present Continuous",
+          "reason": "استخدم is holding لأن الإمساك بالرأس يحدث الآن."
+        },
+        "wordMeanings": [
+          {
+            "term": "and",
+            "description": "و، تربط بين حالتين"
+          },
+          {
+            "term": "is",
+            "description": "صيغة مساعدة مع المضارع المستمر"
+          },
+          {
+            "term": "holding",
+            "description": "تمسك أو تضع يدها على شيء"
+          },
+          {
+            "term": "her",
+            "description": "خاص بها"
+          },
+          {
+            "term": "head",
+            "description": "رأس"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "She has a fever and is resting.",
+        "ar": "هي لديها حمى وتستريح.",
+        "context": "يقال عند وصف مرض وفعل يحدث الآن."
+      },
+      {
+        "id": 2,
+        "en": "He has a toothache and is calling the dentist.",
+        "ar": "هو لديه ألم أسنان ويتصل بطبيب الأسنان.",
+        "context": "يستخدم لوصف ألم مع تصرف مناسب."
+      },
+      {
+        "id": 3,
+        "en": "I have a headache today.",
+        "ar": "لدي صداع اليوم.",
+        "context": "يقال عند الإخبار عن ألم في الرأس."
+      },
+      {
+        "id": 4,
+        "en": "She is holding her arm carefully.",
+        "ar": "هي تمسك ذراعها بحذر.",
+        "context": "يستخدم عند وجود ألم أو إصابة."
+      },
+      {
+        "id": 5,
+        "en": "He is holding his head after the fall.",
+        "ar": "هو يمسك رأسه بعد السقوط.",
+        "context": "يقال عند القلق من ألم في الرأس."
+      },
+      {
+        "id": 6,
+        "en": "The child has a stomachache and is crying.",
+        "ar": "الطفل لديه ألم في المعدة ويبكي.",
+        "context": "يستخدم لوصف ألم ظاهر على طفل."
+      },
+      {
+        "id": 7,
+        "en": "She has pain in her back.",
+        "ar": "لديها ألم في ظهرها.",
+        "context": "يقال عند وصف ألم جسدي."
+      },
+      {
+        "id": 8,
+        "en": "He is holding his knee now.",
+        "ar": "هو يمسك ركبته الآن.",
+        "context": "يستخدم لوصف فعل جار بعد ألم."
+      },
+      {
+        "id": 9,
+        "en": "I am holding my head because it hurts.",
+        "ar": "أنا أمسك رأسي لأنه يؤلمني.",
+        "context": "يقال لشرح سبب لمس الرأس."
+      },
+      {
+        "id": 10,
+        "en": "She is resting because she has a headache.",
+        "ar": "هي تستريح لأنها لديها صداع.",
+        "context": "يستخدم لربط الصداع بالراحة."
+      }
+    ]
+  }
+}

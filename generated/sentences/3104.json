@@ -1,0 +1,119 @@
+{
+  "schemaVersion": 1,
+  "id": 3104,
+  "sentence": {
+    "en": "I know why he left.",
+    "ar": "أنا أعرف لماذا غادر.",
+    "context": "الإشارة إلى سبب حدث سابق."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "I know",
+        "ar": "أنا أعرف",
+        "context": "الجزء الأول يبين أن المتكلم يعرف السبب الآن.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُخدم المضارع البسيط لأن know يصف معرفة موجودة في الحاضر."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "أنا؛ المتكلم."
+          },
+          {
+            "term": "know",
+            "description": "أعرف؛ أملك المعلومة أو أفهم السبب."
+          }
+        ]
+      },
+      {
+        "sentence": "why he left.",
+        "ar": "لماذا غادر.",
+        "context": "الجزء الثاني يحدد أن المعرفة تتعلق بسبب مغادرته في الماضي.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "استُخدم الماضي البسيط لأن left يدل على مغادرة حدثت وانتهت."
+        },
+        "wordMeanings": [
+          {
+            "term": "why",
+            "description": "لماذا؛ تشير إلى سبب الفعل."
+          },
+          {
+            "term": "he",
+            "description": "هو؛ رجل أو ولد نتحدث عنه."
+          },
+          {
+            "term": "left",
+            "description": "غادر أو رحل؛ الماضي من leave."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I know why he left.",
+        "ar": "أنا أعرف لماذا غادر.",
+        "context": "تقول إنك تعرف سبب مغادرته."
+      },
+      {
+        "id": 2,
+        "en": "I know why she left.",
+        "ar": "أنا أعرف لماذا غادرت.",
+        "context": "تغير الشخص إلى امرأة أو فتاة."
+      },
+      {
+        "id": 3,
+        "en": "Do you know why he left?",
+        "ar": "هل تعرف لماذا غادر؟",
+        "context": "تسأل شخصا عن سبب المغادرة."
+      },
+      {
+        "id": 4,
+        "en": "I do not know why he left.",
+        "ar": "لا أعرف لماذا غادر.",
+        "context": "تنفي معرفة السبب."
+      },
+      {
+        "id": 5,
+        "en": "She knows why he left early.",
+        "ar": "هي تعرف لماذا غادر مبكرا.",
+        "context": "تصف معرفة شخص آخر بالسبب."
+      },
+      {
+        "id": 6,
+        "en": "I knew why he left.",
+        "ar": "كنت أعرف لماذا غادر.",
+        "context": "تنقل المعرفة إلى الماضي."
+      },
+      {
+        "id": 7,
+        "en": "I will know why he left soon.",
+        "ar": "سأعرف قريبا لماذا غادر.",
+        "context": "تتحدث عن معرفة السبب لاحقا."
+      },
+      {
+        "id": 8,
+        "en": "I know why he stayed.",
+        "ar": "أنا أعرف لماذا بقي.",
+        "context": "تغير الفعل من المغادرة إلى البقاء."
+      },
+      {
+        "id": 9,
+        "en": "Tell me why he left.",
+        "ar": "أخبرني لماذا غادر.",
+        "context": "تطلب معرفة السبب."
+      },
+      {
+        "id": 10,
+        "en": "No one knows why he left.",
+        "ar": "لا أحد يعرف لماذا غادر.",
+        "context": "تقول إن السبب غير معروف."
+      }
+    ]
+  }
+}

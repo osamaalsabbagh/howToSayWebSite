@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": 3338,
+  "sentence": {
+    "en": "The doctor is available now.",
+    "ar": "الطبيب متاح الآن.",
+    "context": "يمكن الوصول إليه أو مقابلته في هذا الوقت."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "The doctor is available now.",
+        "ar": "الطبيب متاح الآن.",
+        "context": "توضح الجملة أن الطبيب يمكن مقابلته أو التواصل معه في الوقت الحالي.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُخدم is لوصف حالة الطبيب الحالية."
+        },
+        "wordMeanings": [
+          {
+            "term": "The",
+            "description": "أداة تعريف؛ تجعل doctor طبيبا محددا."
+          },
+          {
+            "term": "doctor",
+            "description": "طبيب؛ شخص مؤهل لعلاج المرضى."
+          },
+          {
+            "term": "is",
+            "description": "يكون أو هو؛ فعل be مع مفرد غائب في المضارع."
+          },
+          {
+            "term": "available",
+            "description": "متاح؛ يمكن الوصول إليه أو مقابلته أو استخدام وقته."
+          },
+          {
+            "term": "now",
+            "description": "الآن؛ في الوقت الحالي."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "The doctor is available now.",
+        "ar": "الطبيب متاح الآن.",
+        "context": "تقول إن الطبيب يمكن مقابلته حاليا."
+      },
+      {
+        "id": 2,
+        "en": "The manager is available now.",
+        "ar": "المدير متاح الآن.",
+        "context": "تغير الشخص المتاح."
+      },
+      {
+        "id": 3,
+        "en": "The doctor is busy now.",
+        "ar": "الطبيب مشغول الآن.",
+        "context": "تعطي الحالة المعاكسة."
+      },
+      {
+        "id": 4,
+        "en": "The doctor is not available now.",
+        "ar": "الطبيب غير متاح الآن.",
+        "context": "تنفي إمكانية مقابلته حاليا."
+      },
+      {
+        "id": 5,
+        "en": "Is the doctor available now?",
+        "ar": "هل الطبيب متاح الآن؟",
+        "context": "تسأل عن إمكانية مقابلة الطبيب."
+      },
+      {
+        "id": 6,
+        "en": "The doctor was available yesterday.",
+        "ar": "كان الطبيب متاحا أمس.",
+        "context": "تنقل الحالة إلى الماضي."
+      },
+      {
+        "id": 7,
+        "en": "The doctor will be available tomorrow.",
+        "ar": "سيكون الطبيب متاحا غدا.",
+        "context": "تتحدث عن توفر مستقبلي."
+      },
+      {
+        "id": 8,
+        "en": "The doctor is available now for a short call.",
+        "ar": "الطبيب متاح الآن لمكالمة قصيرة.",
+        "context": "تحدد نوع التواصل المتاح."
+      },
+      {
+        "id": 9,
+        "en": "The doctor is available now because one appointment was canceled.",
+        "ar": "الطبيب متاح الآن لأن موعدا واحدا أُلغي.",
+        "context": "تذكر سبب توفر الطبيب."
+      },
+      {
+        "id": 10,
+        "en": "The doctor is available now, but the nurse is busy.",
+        "ar": "الطبيب متاح الآن، لكن الممرضة مشغولة.",
+        "context": "تضيف حالة شخص آخر في العيادة."
+      }
+    ]
+  }
+}

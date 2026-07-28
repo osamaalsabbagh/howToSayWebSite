@@ -1,0 +1,127 @@
+{
+  "schemaVersion": 1,
+  "id": 3176,
+  "sentence": {
+    "en": "She was able to fix the issue.",
+    "ar": "هي تمكنت من إصلاح المشكلة.",
+    "context": "نجاح في حل مشكلة محددة في الماضي بعد صعوبة، وليس مجرد قدرة عامة."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "She was able",
+        "ar": "تمكنت",
+        "context": "الجزء الأول يصف نجاحها أو قدرتها في موقف ماض محدد.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "استُخدم الماضي البسيط مع was able للدلالة على نجاح أو قدرة تحققت في الماضي."
+        },
+        "wordMeanings": [
+          {
+            "term": "She",
+            "description": "هي؛ امرأة أو فتاة نتحدث عنها."
+          },
+          {
+            "term": "was",
+            "description": "كانت؛ الماضي من is."
+          },
+          {
+            "term": "able",
+            "description": "قادرة؛ ومع was able تعني تمكنت في ذلك الموقف."
+          }
+        ]
+      },
+      {
+        "sentence": "to fix the issue.",
+        "ar": "من إصلاح المشكلة.",
+        "context": "الجزء الثاني يوضح ما نجحت في فعله.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه عبارة مصدرية تبدأ بـ to وتكمل معنى was able، وليست زمنا مستقلا."
+        },
+        "wordMeanings": [
+          {
+            "term": "to",
+            "description": "أن أو من؛ تدخل على fix لتوضيح الشيء الذي تمكنت منه."
+          },
+          {
+            "term": "fix",
+            "description": "تصلح؛ تعالج خللا أو مشكلة."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف قبل issue لأنها مشكلة محددة."
+          },
+          {
+            "term": "issue",
+            "description": "مشكلة أو خلل؛ أمر يحتاج إلى معالجة."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "She was able to fix the issue.",
+        "ar": "تمكنت من إصلاح المشكلة.",
+        "context": "تصف نجاحا في حل مشكلة ماضية."
+      },
+      {
+        "id": 2,
+        "en": "He was able to fix the issue.",
+        "ar": "تمكن من إصلاح المشكلة.",
+        "context": "تغير الفاعل إلى رجل أو ولد."
+      },
+      {
+        "id": 3,
+        "en": "She was able to solve the issue.",
+        "ar": "تمكنت من حل المشكلة.",
+        "context": "تستخدم solve بدلا من fix."
+      },
+      {
+        "id": 4,
+        "en": "Was she able to fix the issue?",
+        "ar": "هل تمكنت من إصلاح المشكلة؟",
+        "context": "تسأل عن نجاحها في الماضي."
+      },
+      {
+        "id": 5,
+        "en": "She was not able to fix the issue.",
+        "ar": "لم تتمكن من إصلاح المشكلة.",
+        "context": "تنفي نجاحها في الإصلاح."
+      },
+      {
+        "id": 6,
+        "en": "She is able to fix the issue now.",
+        "ar": "هي قادرة على إصلاح المشكلة الآن.",
+        "context": "تنقل القدرة إلى الحاضر."
+      },
+      {
+        "id": 7,
+        "en": "She will be able to fix the issue tomorrow.",
+        "ar": "ستتمكن من إصلاح المشكلة غدا.",
+        "context": "تتحدث عن نجاح أو قدرة مستقبلية."
+      },
+      {
+        "id": 8,
+        "en": "She fixed the issue after a long search.",
+        "ar": "أصلحت المشكلة بعد بحث طويل.",
+        "context": "تذكر الفعل مباشرة دون was able."
+      },
+      {
+        "id": 9,
+        "en": "I was relieved because she was able to fix the issue.",
+        "ar": "شعرت بالارتياح لأنها تمكنت من إصلاح المشكلة.",
+        "context": "تذكر رد فعل على نجاحها."
+      },
+      {
+        "id": 10,
+        "en": "She was able to fix the issue without outside help.",
+        "ar": "تمكنت من إصلاح المشكلة من دون مساعدة خارجية.",
+        "context": "تؤكد أنها فعلت ذلك باستقلالية."
+      }
+    ]
+  }
+}

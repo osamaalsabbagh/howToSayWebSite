@@ -1,0 +1,111 @@
+{
+  "schemaVersion": 1,
+  "id": 3146,
+  "sentence": {
+    "en": "We will write the plan tomorrow.",
+    "ar": "نحن سنكتب الخطة غدًا.",
+    "context": "حدث متوقع في المستقبل."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "We will write the plan tomorrow.",
+        "ar": "سنكتب الخطة غدا.",
+        "context": "تخبر الجملة عن نية أو ترتيب لكتابة الخطة في اليوم التالي.",
+        "grammar": {
+          "tense": "المستقبل البسيط",
+          "tenseEn": "Future Simple",
+          "reason": "استُخدم will write للتعبير عن فعل سيحدث في المستقبل، وtomorrow يحدد وقت الفعل."
+        },
+        "wordMeanings": [
+          {
+            "term": "We",
+            "description": "نحن؛ المتكلم ومعه شخص أو مجموعة."
+          },
+          {
+            "term": "will",
+            "description": "سوف أو سـ؛ فعل مساعد يدل على المستقبل."
+          },
+          {
+            "term": "write",
+            "description": "نكتب؛ نسجل كلمات أو تفاصيل مكتوبة."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف قبل plan لأنها خطة محددة."
+          },
+          {
+            "term": "plan",
+            "description": "خطة؛ ترتيب أو خطوات لعمل شيء."
+          },
+          {
+            "term": "tomorrow",
+            "description": "غدا؛ اليوم التالي لليوم الحالي."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "We will write the plan tomorrow.",
+        "ar": "سنكتب الخطة غدا.",
+        "context": "تذكر خطة كتابة مستقبلية."
+      },
+      {
+        "id": 2,
+        "en": "I will write the plan tomorrow.",
+        "ar": "سأكتب الخطة غدا.",
+        "context": "تغير الفاعل إلى المتكلم المفرد."
+      },
+      {
+        "id": 3,
+        "en": "We will write the report tomorrow.",
+        "ar": "سنكتب التقرير غدا.",
+        "context": "تغير الشيء المكتوب."
+      },
+      {
+        "id": 4,
+        "en": "Will we write the plan tomorrow?",
+        "ar": "هل سنكتب الخطة غدا؟",
+        "context": "تسأل عن الخطة المستقبلية."
+      },
+      {
+        "id": 5,
+        "en": "We will not write the plan tomorrow.",
+        "ar": "لن نكتب الخطة غدا.",
+        "context": "تنفي كتابة الخطة في ذلك الوقت."
+      },
+      {
+        "id": 6,
+        "en": "We wrote the plan yesterday.",
+        "ar": "كتبنا الخطة أمس.",
+        "context": "تنقل الكتابة إلى الماضي."
+      },
+      {
+        "id": 7,
+        "en": "We write the plan every Monday.",
+        "ar": "نكتب الخطة كل يوم اثنين.",
+        "context": "تصف عادة متكررة."
+      },
+      {
+        "id": 8,
+        "en": "We are writing the plan now.",
+        "ar": "نحن نكتب الخطة الآن.",
+        "context": "تصف الكتابة أثناء حدوثها."
+      },
+      {
+        "id": 9,
+        "en": "We will discuss the plan tomorrow.",
+        "ar": "سنناقش الخطة غدا.",
+        "context": "تغير الفعل من الكتابة إلى النقاش."
+      },
+      {
+        "id": 10,
+        "en": "Please help us write the plan tomorrow.",
+        "ar": "من فضلك ساعدنا في كتابة الخطة غدا.",
+        "context": "تطلب مساعدة في العمل المستقبلي."
+      }
+    ]
+  }
+}

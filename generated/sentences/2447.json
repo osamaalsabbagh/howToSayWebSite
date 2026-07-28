@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": 2447,
+  "sentence": {
+    "en": "Repeat the sentence after me.",
+    "ar": "كرر الجملة بعدي.",
+    "context": "استخدام تعليمي يطلب تقليد الكلام مباشرة لأجل التدريب."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Repeat the sentence after me.",
+        "ar": "كرر الجملة بعدي.",
+        "context": "تُستخدم الجملة في التعليم أو التدريب الصوتي لطلب تكرار الكلام كما يقوله المعلم.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "الجملة أمر مباشر يبدأ بالفعل، لذلك لا تحمل زمنًا خبريًا مستقلًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "Repeat",
+            "description": "كرر أو قل مرة أخرى"
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف لشيء محدد"
+          },
+          {
+            "term": "sentence",
+            "description": "جملة"
+          },
+          {
+            "term": "after",
+            "description": "بعد أو عقب"
+          },
+          {
+            "term": "me",
+            "description": "بعدي أو كما أقول أنا"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Repeat the sentence after me.",
+        "ar": "كرر الجملة بعدي.",
+        "context": "تُقال في درس لغة عندما يقلد المتعلم نطق المعلم."
+      },
+      {
+        "id": 2,
+        "en": "Repeat the word after me.",
+        "ar": "كرر الكلمة بعدي.",
+        "context": "تُستخدم للتدريب على نطق كلمة واحدة."
+      },
+      {
+        "id": 3,
+        "en": "Please repeat the sentence slowly.",
+        "ar": "من فضلك كرر الجملة ببطء.",
+        "context": "تُقال عندما يحتاج المتعلم إلى نطق أبطأ."
+      },
+      {
+        "id": 4,
+        "en": "Repeat the question after me.",
+        "ar": "كرر السؤال بعدي.",
+        "context": "تُستخدم عند تدريب شخص على صيغة سؤال."
+      },
+      {
+        "id": 5,
+        "en": "Do not repeat the sentence too fast.",
+        "ar": "لا تكرر الجملة بسرعة كبيرة.",
+        "context": "تُقال لتوجيه سرعة التمرين."
+      },
+      {
+        "id": 6,
+        "en": "The teacher asked us to repeat the sentence.",
+        "ar": "طلب منا المعلم أن نكرر الجملة.",
+        "context": "تُستخدم عند نقل تعليم من معلم."
+      },
+      {
+        "id": 7,
+        "en": "Repeat each sentence after the recording.",
+        "ar": "كرر كل جملة بعد التسجيل.",
+        "context": "تُقال في تدريب يعتمد على ملف صوتي."
+      },
+      {
+        "id": 8,
+        "en": "Can you repeat the sentence after me?",
+        "ar": "هل يمكنك تكرار الجملة بعدي؟",
+        "context": "سؤال مهذب قبل بدء تمرين تكرار."
+      },
+      {
+        "id": 9,
+        "en": "Repeat it after me three times.",
+        "ar": "كرره بعدي ثلاث مرات.",
+        "context": "تُستخدم عندما يحتاج التدريب إلى أكثر من محاولة."
+      },
+      {
+        "id": 10,
+        "en": "Say the sentence the way I say it.",
+        "ar": "قل الجملة بالطريقة التي أقولها بها.",
+        "context": "صياغة بديلة تطلب تقليد النطق أو الإيقاع."
+      }
+    ]
+  }
+}

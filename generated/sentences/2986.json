@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "id": 2986,
+  "sentence": {
+    "en": "I will understand later.",
+    "ar": "أنا سأفهم لاحقًا.",
+    "context": "توقع الفهم في المستقبل."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "I will understand later.",
+        "ar": "سأفهم لاحقا.",
+        "context": "تستخدم الجملة عندما تتوقع أنك ستفهم الأمر في وقت لاحق، وليس الآن.",
+        "grammar": {
+          "tense": "المستقبل البسيط",
+          "tenseEn": "Future Simple",
+          "reason": "استُخدم المستقبل البسيط لأن will understand يدل على فهم سيحدث لاحقا."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير يعني أنا، ويشير إلى المتكلم."
+          },
+          {
+            "term": "will",
+            "description": "سوف أو سـ؛ فعل مساعد يدل على المستقبل."
+          },
+          {
+            "term": "understand",
+            "description": "أفهم؛ أدرك معنى شيء أو سببه."
+          },
+          {
+            "term": "later",
+            "description": "لاحقا؛ في وقت بعد الوقت الحالي."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I will understand later.",
+        "ar": "سأفهم لاحقا.",
+        "context": "تتوقع الفهم في المستقبل."
+      },
+      {
+        "id": 2,
+        "en": "She will understand later.",
+        "ar": "هي ستفهم لاحقا.",
+        "context": "تستخدم المستقبل مع شخص آخر."
+      },
+      {
+        "id": 3,
+        "en": "I will understand tomorrow.",
+        "ar": "سأفهم غدا.",
+        "context": "تغير وقت الفهم المتوقع."
+      },
+      {
+        "id": 4,
+        "en": "I will not understand later.",
+        "ar": "لن أفهم لاحقا.",
+        "context": "تنفي توقع الفهم لاحقا."
+      },
+      {
+        "id": 5,
+        "en": "Will you understand later?",
+        "ar": "هل ستفهم لاحقا؟",
+        "context": "تسأل عن فهم مستقبلي."
+      },
+      {
+        "id": 6,
+        "en": "I understood later.",
+        "ar": "فهمت لاحقا.",
+        "context": "تنقل الفهم اللاحق إلى الماضي."
+      },
+      {
+        "id": 7,
+        "en": "I understand now.",
+        "ar": "أفهم الآن.",
+        "context": "تستخدم المضارع للحاضر."
+      },
+      {
+        "id": 8,
+        "en": "I will understand later if you explain again.",
+        "ar": "سأفهم لاحقا إذا شرحت مرة أخرى.",
+        "context": "تجعل الفهم مشروطا."
+      },
+      {
+        "id": 9,
+        "en": "I will understand later, but I need time.",
+        "ar": "سأفهم لاحقا، لكنني أحتاج إلى وقت.",
+        "context": "توضح سبب التأجيل."
+      },
+      {
+        "id": 10,
+        "en": "When I understand later, I will answer you.",
+        "ar": "عندما أفهم لاحقا، سأجيبك.",
+        "context": "تربط الفهم المستقبلي بفعل آخر."
+      }
+    ]
+  }
+}

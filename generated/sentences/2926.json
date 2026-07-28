@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "id": 2926,
+  "sentence": {
+    "en": "He lost a tooth.",
+    "ar": "هو فقد سن.",
+    "context": "فقدان واحد من الأسنان."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "He lost a tooth.",
+        "ar": "فقد سنا.",
+        "context": "تصف الجملة أن شخصا ذكرا فقد سنا واحدا في الماضي.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "استُخدم الماضي البسيط لأن lost يدل على فقدان حدث وانتهى في الماضي."
+        },
+        "wordMeanings": [
+          {
+            "term": "He",
+            "description": "ضمير يعني هو، ويشير إلى رجل أو ولد."
+          },
+          {
+            "term": "lost",
+            "description": "فقد؛ التصريف الماضي من lose."
+          },
+          {
+            "term": "a",
+            "description": "أداة تنكير تعني سنا واحدا غير محدد."
+          },
+          {
+            "term": "tooth",
+            "description": "سن؛ واحد من الأسنان في الفم."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "He lost a tooth.",
+        "ar": "فقد سنا.",
+        "context": "تصف فقدان سن واحد."
+      },
+      {
+        "id": 2,
+        "en": "She lost a tooth.",
+        "ar": "فقدت سنا.",
+        "context": "تستخدم الجملة مع امرأة أو فتاة."
+      },
+      {
+        "id": 3,
+        "en": "He lost two teeth.",
+        "ar": "فقد سنين.",
+        "context": "تغير العدد إلى أكثر من سن."
+      },
+      {
+        "id": 4,
+        "en": "He did not lose a tooth.",
+        "ar": "لم يفقد سنا.",
+        "context": "تنفي فقدان السن."
+      },
+      {
+        "id": 5,
+        "en": "Did he lose a tooth?",
+        "ar": "هل فقد سنا؟",
+        "context": "تسأل عن فقدان السن."
+      },
+      {
+        "id": 6,
+        "en": "He lost a tooth yesterday.",
+        "ar": "فقد سنا أمس.",
+        "context": "تحدد وقت الفقدان."
+      },
+      {
+        "id": 7,
+        "en": "The child lost a tooth.",
+        "ar": "فقد الطفل سنا.",
+        "context": "تصف موقفا شائعا مع الأطفال."
+      },
+      {
+        "id": 8,
+        "en": "He lost a tooth when he fell.",
+        "ar": "فقد سنا عندما سقط.",
+        "context": "توضح سبب الفقدان."
+      },
+      {
+        "id": 9,
+        "en": "He has a loose tooth.",
+        "ar": "لديه سن متخلخل.",
+        "context": "تصف حالة قبل فقدان السن."
+      },
+      {
+        "id": 10,
+        "en": "After he lost a tooth, he went to the dentist.",
+        "ar": "بعد أن فقد سنا، ذهب إلى طبيب الأسنان.",
+        "context": "تذكر ما حدث بعد الفقدان."
+      }
+    ]
+  }
+}

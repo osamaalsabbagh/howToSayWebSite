@@ -1,0 +1,111 @@
+{
+  "schemaVersion": 1,
+  "id": 1904,
+  "sentence": {
+    "en": "Turn left at the traffic light.",
+    "ar": "انعطف يسارًا عند إشارة المرور.",
+    "context": "إعطاء توجيه للانعطاف إلى اليسار."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Turn left at the traffic light.",
+        "ar": "انعطف يسارًا عند إشارة المرور.",
+        "context": "تستخدم الجملة لإعطاء اتجاه في الطريق.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه صيغة أمر لإعطاء تعليمات، والأمر لا يحمل زمنًا مستقلًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "Turn",
+            "description": "انعطف أو غيّر الاتجاه"
+          },
+          {
+            "term": "left",
+            "description": "يسارًا"
+          },
+          {
+            "term": "at",
+            "description": "عند، لتحديد نقطة الانعطاف"
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف لمكان محدد"
+          },
+          {
+            "term": "traffic",
+            "description": "مرور أو حركة السيارات"
+          },
+          {
+            "term": "light",
+            "description": "إشارة ضوئية"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Turn right at the corner.",
+        "ar": "انعطف يمينًا عند الزاوية.",
+        "context": "تعليمات طريق مشابهة."
+      },
+      {
+        "id": 2,
+        "en": "Go straight at the traffic light.",
+        "ar": "اذهب مباشرة عند إشارة المرور.",
+        "context": "توجيه في الطريق."
+      },
+      {
+        "id": 3,
+        "en": "Turn left after the bridge.",
+        "ar": "انعطف يسارًا بعد الجسر.",
+        "context": "تحديد نقطة انعطاف."
+      },
+      {
+        "id": 4,
+        "en": "Stop at the traffic light.",
+        "ar": "توقف عند إشارة المرور.",
+        "context": "تعليمات مرورية."
+      },
+      {
+        "id": 5,
+        "en": "The traffic light is green.",
+        "ar": "إشارة المرور خضراء.",
+        "context": "وصف حالة الإشارة."
+      },
+      {
+        "id": 6,
+        "en": "Turn left near the school.",
+        "ar": "انعطف يسارًا قرب المدرسة.",
+        "context": "توجيه باستخدام معلم."
+      },
+      {
+        "id": 7,
+        "en": "Do not turn left here.",
+        "ar": "لا تنعطف يسارًا هنا.",
+        "context": "نهي مروري."
+      },
+      {
+        "id": 8,
+        "en": "Take the left road.",
+        "ar": "خذ الطريق الأيسر.",
+        "context": "طريقة أخرى للتوجيه."
+      },
+      {
+        "id": 9,
+        "en": "Turn slowly at the light.",
+        "ar": "انعطف ببطء عند الإشارة.",
+        "context": "توجيه لطريقة القيادة."
+      },
+      {
+        "id": 10,
+        "en": "The store is on the left.",
+        "ar": "المتجر على اليسار.",
+        "context": "تحديد مكان بعد الاتجاه."
+      }
+    ]
+  }
+}

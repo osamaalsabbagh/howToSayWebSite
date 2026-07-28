@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": 3068,
+  "sentence": {
+    "en": "He is wearing a hat.",
+    "ar": "هو يرتدي قبعة.",
+    "context": "القبعة موجودة على رأسه الآن وليست عملية اللبس نفسها."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "He is wearing a hat.",
+        "ar": "هو يرتدي قبعة.",
+        "context": "تصف الجملة حالته الآن: القبعة على رأسه في الوقت الحالي.",
+        "grammar": {
+          "tense": "المضارع المستمر",
+          "tenseEn": "Present Continuous",
+          "reason": "استُخدم المضارع المستمر لأن is wearing يصف ما يرتديه الشخص حاليا."
+        },
+        "wordMeanings": [
+          {
+            "term": "He",
+            "description": "ضمير يعني هو، ويشير إلى رجل أو ولد."
+          },
+          {
+            "term": "is",
+            "description": "فعل مساعد مع he في المضارع المستمر."
+          },
+          {
+            "term": "wearing",
+            "description": "يرتدي؛ يلبس شيئا على جسمه أو رأسه."
+          },
+          {
+            "term": "a",
+            "description": "أداة تنكير تعني قبعة واحدة."
+          },
+          {
+            "term": "hat",
+            "description": "قبعة؛ غطاء للرأس."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "He is wearing a hat.",
+        "ar": "هو يرتدي قبعة.",
+        "context": "تصف ما على رأسه الآن."
+      },
+      {
+        "id": 2,
+        "en": "She is wearing a hat.",
+        "ar": "هي ترتدي قبعة.",
+        "context": "تستخدم الجملة مع امرأة أو فتاة."
+      },
+      {
+        "id": 3,
+        "en": "He is wearing a jacket.",
+        "ar": "هو يرتدي سترة.",
+        "context": "تغير قطعة الملابس."
+      },
+      {
+        "id": 4,
+        "en": "He is not wearing a hat.",
+        "ar": "هو لا يرتدي قبعة.",
+        "context": "تنفي وجود قبعة عليه الآن."
+      },
+      {
+        "id": 5,
+        "en": "Is he wearing a hat?",
+        "ar": "هل هو يرتدي قبعة؟",
+        "context": "تسأل عن مظهره الحالي."
+      },
+      {
+        "id": 6,
+        "en": "He wears a hat every day.",
+        "ar": "يرتدي قبعة كل يوم.",
+        "context": "تحول ارتداء القبعة إلى عادة."
+      },
+      {
+        "id": 7,
+        "en": "He wore a hat yesterday.",
+        "ar": "ارتدى قبعة أمس.",
+        "context": "تنقل اللباس إلى الماضي."
+      },
+      {
+        "id": 8,
+        "en": "He is wearing a hat in the sun.",
+        "ar": "هو يرتدي قبعة تحت الشمس.",
+        "context": "توضح ظرف ارتداء القبعة."
+      },
+      {
+        "id": 9,
+        "en": "He is wearing a hat because it is cold.",
+        "ar": "هو يرتدي قبعة لأن الجو بارد.",
+        "context": "توضح سبب ارتداء القبعة."
+      },
+      {
+        "id": 10,
+        "en": "If he is wearing a hat, he is ready to go outside.",
+        "ar": "إذا كان يرتدي قبعة، فهو مستعد للخروج.",
+        "context": "تربط مظهره باستنتاج."
+      }
+    ]
+  }
+}

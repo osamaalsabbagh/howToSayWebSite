@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": 2842,
+  "sentence": {
+    "en": "I have a test tomorrow.",
+    "ar": "أنا لدي اختبار غدًا.",
+    "context": "حدث قادم لتقييم المعرفة."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "I have a test tomorrow.",
+        "ar": "لدي اختبار غدا.",
+        "context": "تصف الجملة موعد اختبار قادم للمتكلم في اليوم التالي.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُخدم المضارع البسيط مع have للتعبير عن ترتيب أو موعد مقرر، رغم أن tomorrow يشير إلى المستقبل."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير يعني أنا، ويشير إلى المتكلم."
+          },
+          {
+            "term": "have",
+            "description": "لدي؛ هنا تعني عندي موعد أو اختبار مقرر."
+          },
+          {
+            "term": "a",
+            "description": "أداة تنكير تعني واحدا غير محدد."
+          },
+          {
+            "term": "test",
+            "description": "اختبار؛ تقييم للمعرفة أو المهارة."
+          },
+          {
+            "term": "tomorrow",
+            "description": "غدا؛ اليوم التالي لليوم الحالي."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I have a test tomorrow.",
+        "ar": "لدي اختبار غدا.",
+        "context": "تذكر موعد اختبار قريب."
+      },
+      {
+        "id": 2,
+        "en": "She has a test next week.",
+        "ar": "لديها اختبار الأسبوع القادم.",
+        "context": "تصف موعد اختبار في المستقبل."
+      },
+      {
+        "id": 3,
+        "en": "We have an English test tomorrow.",
+        "ar": "لدينا اختبار إنجليزي غدا.",
+        "context": "تحدد مادة الاختبار."
+      },
+      {
+        "id": 4,
+        "en": "I have a math test in the morning.",
+        "ar": "لدي اختبار رياضيات في الصباح.",
+        "context": "تحدد وقت الاختبار ومادته."
+      },
+      {
+        "id": 5,
+        "en": "I do not have a test tomorrow.",
+        "ar": "ليس لدي اختبار غدا.",
+        "context": "تنفي وجود اختبار في اليوم التالي."
+      },
+      {
+        "id": 6,
+        "en": "Do you have a test tomorrow?",
+        "ar": "هل لديك اختبار غدا؟",
+        "context": "تسأل عن موعد اختبار."
+      },
+      {
+        "id": 7,
+        "en": "He has a difficult test tomorrow.",
+        "ar": "لديه اختبار صعب غدا.",
+        "context": "تصف صعوبة الاختبار."
+      },
+      {
+        "id": 8,
+        "en": "I have to study because I have a test tomorrow.",
+        "ar": "يجب أن أدرس لأن لدي اختبارا غدا.",
+        "context": "توضح سبب الحاجة إلى الدراسة."
+      },
+      {
+        "id": 9,
+        "en": "The students have a test after lunch.",
+        "ar": "لدى الطلاب اختبار بعد الغداء.",
+        "context": "تحدد موعد اختبار للطلاب."
+      },
+      {
+        "id": 10,
+        "en": "I am worried because I have a test tomorrow.",
+        "ar": "أنا قلق لأن لدي اختبارا غدا.",
+        "context": "تصف شعورا بسبب الاختبار."
+      }
+    ]
+  }
+}

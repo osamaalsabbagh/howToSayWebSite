@@ -1,0 +1,155 @@
+{
+  "schemaVersion": 1,
+  "id": 3276,
+  "sentence": {
+    "en": "I cannot find my keys anywhere in the house even after checking every room.",
+    "ar": "أنا لا أستطيع إيجاد مفاتيحي في أي مكان في البيت حتى بعد تفقد كل غرفة.",
+    "context": "محاولة البحث في جميع أجزاء المكان مع التأكيد أنه تم تفقدها واحدة تلو الأخرى دون العثور عليها."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "I cannot find my keys anywhere in the house",
+        "ar": "لا أستطيع إيجاد مفاتيحي في أي مكان في البيت",
+        "context": "توضح العبارة أن المتكلم بحث في البيت ولم يجد مفاتيحه في أي موضع.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه بنية فعل modal باستخدام cannot للتعبير عن عدم القدرة، ولا تصنف كزمن مستقل."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "أنا؛ المتكلم."
+          },
+          {
+            "term": "cannot",
+            "description": "لا أستطيع؛ نفي القدرة أو الإمكانية."
+          },
+          {
+            "term": "find",
+            "description": "أجد؛ أعثر على شيء مفقود أو مطلوب."
+          },
+          {
+            "term": "my",
+            "description": "خاصتي؛ تبين أن keys مفاتيح المتكلم."
+          },
+          {
+            "term": "keys",
+            "description": "مفاتيح؛ أدوات صغيرة لفتح الأبواب أو الأقفال."
+          },
+          {
+            "term": "anywhere",
+            "description": "في أي مكان؛ هنا مع النفي تعني لا في أي موضع."
+          },
+          {
+            "term": "in",
+            "description": "في؛ تحدد المكان العام للبحث."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف؛ تجعل house بيتا محددا."
+          },
+          {
+            "term": "house",
+            "description": "بيت؛ مكان السكن."
+          }
+        ]
+      },
+      {
+        "sentence": "even after checking every room.",
+        "ar": "حتى بعد تفقد كل غرفة.",
+        "context": "تؤكد العبارة أن البحث كان شاملا ولم ينجح رغم تفقد كل غرفة.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "even after checking every room عبارة ظرفية فيها gerund، وليست جملة فعلية بزمن مستقل."
+        },
+        "wordMeanings": [
+          {
+            "term": "even",
+            "description": "حتى؛ تستخدم للتأكيد على شيء قوي أو غير متوقع."
+          },
+          {
+            "term": "after",
+            "description": "بعد؛ تشير إلى أن عدم العثور استمر بعد التفقد."
+          },
+          {
+            "term": "checking",
+            "description": "تفقد أو فحص؛ البحث في مكان للتأكد."
+          },
+          {
+            "term": "every",
+            "description": "كل؛ تشمل جميع الغرف واحدة واحدة."
+          },
+          {
+            "term": "room",
+            "description": "غرفة؛ جزء داخل البيت مثل غرفة النوم أو المعيشة."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I cannot find my keys anywhere in the house even after checking every room.",
+        "ar": "لا أستطيع إيجاد مفاتيحي في أي مكان في البيت حتى بعد تفقد كل غرفة.",
+        "context": "تؤكد فشل البحث رغم تفقد البيت كله."
+      },
+      {
+        "id": 2,
+        "en": "She cannot find her keys anywhere in the house even after checking every room.",
+        "ar": "هي لا تستطيع إيجاد مفاتيحها في أي مكان في البيت حتى بعد تفقد كل غرفة.",
+        "context": "تتحدث عن شخص آخر."
+      },
+      {
+        "id": 3,
+        "en": "I cannot find my phone anywhere in the house even after checking every room.",
+        "ar": "لا أستطيع إيجاد هاتفي في أي مكان في البيت حتى بعد تفقد كل غرفة.",
+        "context": "تغير الشيء المفقود."
+      },
+      {
+        "id": 4,
+        "en": "I can find my keys somewhere in the house.",
+        "ar": "أستطيع إيجاد مفاتيحي في مكان ما في البيت.",
+        "context": "تعطي معنى معاكسا تقريبا."
+      },
+      {
+        "id": 5,
+        "en": "Can you find your keys anywhere in the house?",
+        "ar": "هل تستطيع إيجاد مفاتيحك في أي مكان في البيت؟",
+        "context": "تسأل عن نتيجة البحث."
+      },
+      {
+        "id": 6,
+        "en": "I could not find my keys anywhere in the house yesterday.",
+        "ar": "لم أستطع إيجاد مفاتيحي في أي مكان في البيت أمس.",
+        "context": "تنقل عدم القدرة إلى الماضي."
+      },
+      {
+        "id": 7,
+        "en": "I will not be able to find my keys anywhere without a light.",
+        "ar": "لن أتمكن من إيجاد مفاتيحي في أي مكان دون ضوء.",
+        "context": "تتحدث عن صعوبة مستقبلية."
+      },
+      {
+        "id": 8,
+        "en": "I cannot find my keys anywhere in the house even after checking the kitchen.",
+        "ar": "لا أستطيع إيجاد مفاتيحي في أي مكان في البيت حتى بعد تفقد المطبخ.",
+        "context": "تحدد غرفة واحدة تم تفقدها."
+      },
+      {
+        "id": 9,
+        "en": "I cannot find my keys anywhere in the house because the rooms are messy.",
+        "ar": "لا أستطيع إيجاد مفاتيحي في أي مكان في البيت لأن الغرف فوضوية.",
+        "context": "تذكر سبب صعوبة البحث."
+      },
+      {
+        "id": 10,
+        "en": "I cannot find my keys anywhere in the house, but I found my wallet.",
+        "ar": "لا أستطيع إيجاد مفاتيحي في أي مكان في البيت، لكنني وجدت محفظتي.",
+        "context": "تضيف نتيجة أخرى أثناء البحث."
+      }
+    ]
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": 3053,
+  "sentence": {
+    "en": "I will wash it tomorrow.",
+    "ar": "أنا سأغسله غدًا.",
+    "context": "خطة للتنظيف في يوم قادم محدد."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "I will wash it tomorrow.",
+        "ar": "سأغسله غدا.",
+        "context": "تصف الجملة خطة المتكلم أن يغسل شيئا محددا في اليوم التالي.",
+        "grammar": {
+          "tense": "المستقبل البسيط",
+          "tenseEn": "Future Simple",
+          "reason": "استُخدم المستقبل البسيط لأن will wash يدل على فعل سيحدث لاحقا، وtomorrow يحدد أنه غدا."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير يعني أنا، ويشير إلى المتكلم."
+          },
+          {
+            "term": "will",
+            "description": "سوف أو سـ؛ علامة شائعة للمستقبل."
+          },
+          {
+            "term": "wash",
+            "description": "أغسل؛ أنظف بالماء أو الصابون."
+          },
+          {
+            "term": "it",
+            "description": "هو أو هي لغير العاقل؛ يشير إلى الشيء المراد غسله."
+          },
+          {
+            "term": "tomorrow",
+            "description": "غدا؛ اليوم التالي لليوم الحالي."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I will wash it tomorrow.",
+        "ar": "سأغسله غدا.",
+        "context": "تذكر خطة غسل شيء محدد غدا."
+      },
+      {
+        "id": 2,
+        "en": "She will wash it tomorrow.",
+        "ar": "ستغسله غدا.",
+        "context": "تستخدم الجملة مع امرأة أو فتاة."
+      },
+      {
+        "id": 3,
+        "en": "I will clean it tomorrow.",
+        "ar": "سأنظفه غدا.",
+        "context": "تغير الفعل إلى تنظيف عام."
+      },
+      {
+        "id": 4,
+        "en": "I will not wash it tomorrow.",
+        "ar": "لن أغسله غدا.",
+        "context": "تنفي خطة الغسل."
+      },
+      {
+        "id": 5,
+        "en": "Will you wash it tomorrow?",
+        "ar": "هل ستغسله غدا؟",
+        "context": "تسأل شخصا عن خطته."
+      },
+      {
+        "id": 6,
+        "en": "I wash it every week.",
+        "ar": "أغسله كل أسبوع.",
+        "context": "تحول الغسل إلى عادة."
+      },
+      {
+        "id": 7,
+        "en": "I washed it yesterday.",
+        "ar": "غسلته أمس.",
+        "context": "تنقل الفعل إلى الماضي."
+      },
+      {
+        "id": 8,
+        "en": "I will wash it tomorrow morning.",
+        "ar": "سأغسله صباح الغد.",
+        "context": "تحدد وقت الغسل بدقة أكبر."
+      },
+      {
+        "id": 9,
+        "en": "I will wash it tomorrow because it is dirty.",
+        "ar": "سأغسله غدا لأنه متسخ.",
+        "context": "توضح سبب الغسل."
+      },
+      {
+        "id": 10,
+        "en": "If I have time, I will wash it tomorrow.",
+        "ar": "إذا كان لدي وقت، فسأغسله غدا.",
+        "context": "تجعل الخطة مشروطة."
+      }
+    ]
+  }
+}

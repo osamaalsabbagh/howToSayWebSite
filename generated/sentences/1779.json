@@ -1,0 +1,131 @@
+{
+  "schemaVersion": 1,
+  "id": 1779,
+  "sentence": {
+    "en": "Hi! It is nice to see you again.",
+    "ar": "مَرْحَبًا! لَطيفٌ أَنْ أَراكَ مَرَّةً أُخْرَى.",
+    "context": "ابدأ محادثة تحية قصيرة عند مقابلة شخص تعرفه."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Hi!",
+        "ar": "مرحبًا!",
+        "context": "تحية قصيرة في بداية اللقاء.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه تحية ثابتة وليست جملة فعلية بزمن."
+        },
+        "wordMeanings": [
+          {
+            "term": "Hi",
+            "description": "مرحبًا، تحية قصيرة"
+          }
+        ]
+      },
+      {
+        "sentence": "It is nice to see you again.",
+        "ar": "من اللطيف أن أراك مرة أخرى.",
+        "context": "تعبير ودود عند مقابلة شخص تعرفه بعد غياب.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استخدم is لوصف شعور أو تقييم حاضر تجاه اللقاء."
+        },
+        "wordMeanings": [
+          {
+            "term": "It",
+            "description": "ضمير يمهد للوصف العام"
+          },
+          {
+            "term": "is",
+            "description": "يربط الأمر بوصفه"
+          },
+          {
+            "term": "nice",
+            "description": "لطيف أو جميل"
+          },
+          {
+            "term": "to",
+            "description": "تأتي قبل الفعل لتوضيح سبب اللطف"
+          },
+          {
+            "term": "see",
+            "description": "أرى أو ألتقي هنا"
+          },
+          {
+            "term": "you",
+            "description": "أنت أو أنتِ، المخاطب"
+          },
+          {
+            "term": "again",
+            "description": "مرة أخرى"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Hi! It is good to meet you.",
+        "ar": "مرحبًا! من الجيد أن ألتقي بك.",
+        "context": "يقال عند مقابلة شخص لأول مرة."
+      },
+      {
+        "id": 2,
+        "en": "It is nice to see you today.",
+        "ar": "من اللطيف أن أراك اليوم.",
+        "context": "يستخدم عند لقاء شخص في اليوم الحالي."
+      },
+      {
+        "id": 3,
+        "en": "Hi! How are you?",
+        "ar": "مرحبًا! كيف حالك؟",
+        "context": "تحية مع سؤال بسيط."
+      },
+      {
+        "id": 4,
+        "en": "It is great to be here again.",
+        "ar": "من الرائع أن أكون هنا مرة أخرى.",
+        "context": "يقال عند العودة إلى مكان."
+      },
+      {
+        "id": 5,
+        "en": "Nice to see you again.",
+        "ar": "سعيد برؤيتك مرة أخرى.",
+        "context": "تعبير مختصر عند اللقاء."
+      },
+      {
+        "id": 6,
+        "en": "Hi! You look well.",
+        "ar": "مرحبًا! تبدو بخير.",
+        "context": "يستخدم مع تحية وملاحظة ودية."
+      },
+      {
+        "id": 7,
+        "en": "It is nice to talk with you.",
+        "ar": "من اللطيف أن أتحدث معك.",
+        "context": "يقال أثناء محادثة ودية."
+      },
+      {
+        "id": 8,
+        "en": "Hi! I missed you.",
+        "ar": "مرحبًا! اشتقت إليك.",
+        "context": "يستخدم عند لقاء شخص بعد غياب."
+      },
+      {
+        "id": 9,
+        "en": "It is nice to visit again.",
+        "ar": "من اللطيف أن أزور مرة أخرى.",
+        "context": "يقال عند زيارة مكان مألوف."
+      },
+      {
+        "id": 10,
+        "en": "Hi! Welcome back.",
+        "ar": "مرحبًا! أهلًا بعودتك.",
+        "context": "يستخدم عند عودة شخص."
+      }
+    ]
+  }
+}

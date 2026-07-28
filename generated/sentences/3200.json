@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": 3200,
+  "sentence": {
+    "en": "He is an adult now.",
+    "ar": "هو بالغ الآن.",
+    "context": "وصف شخص وصل إلى سن الرشد."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "He is an adult now.",
+        "ar": "هو بالغ الآن.",
+        "context": "تصف الجملة شخصا وصل إلى سن الرشد أو أصبح كبيرا بما يكفي لتحمل مسؤوليات البالغين.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُخدم is لوصف حالته الحالية، وnow يبين أن هذا الوصف ينطبق عليه الآن."
+        },
+        "wordMeanings": [
+          {
+            "term": "He",
+            "description": "هو؛ رجل أو ولد نتحدث عنه."
+          },
+          {
+            "term": "is",
+            "description": "يكون أو هو؛ فعل be مع he في المضارع."
+          },
+          {
+            "term": "an",
+            "description": "أداة تنكير قبل adult لأنها تبدأ بصوت متحرك."
+          },
+          {
+            "term": "adult",
+            "description": "بالغ؛ شخص وصل إلى سن الرشد ولم يعد طفلا."
+          },
+          {
+            "term": "now",
+            "description": "الآن؛ في الوقت الحالي."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "He is an adult now.",
+        "ar": "هو بالغ الآن.",
+        "context": "تصف وصوله إلى سن الرشد."
+      },
+      {
+        "id": 2,
+        "en": "She is an adult now.",
+        "ar": "هي بالغة الآن.",
+        "context": "تغير الفاعل إلى امرأة أو فتاة."
+      },
+      {
+        "id": 3,
+        "en": "He is a young adult now.",
+        "ar": "هو شاب بالغ الآن.",
+        "context": "تصفه بأنه بالغ في بداية عمر الرشد."
+      },
+      {
+        "id": 4,
+        "en": "He is not an adult yet.",
+        "ar": "هو ليس بالغا بعد.",
+        "context": "تنفي وصوله إلى سن الرشد."
+      },
+      {
+        "id": 5,
+        "en": "Is he an adult now?",
+        "ar": "هل هو بالغ الآن؟",
+        "context": "تسأل عن عمره أو وضعه."
+      },
+      {
+        "id": 6,
+        "en": "He was not an adult then.",
+        "ar": "لم يكن بالغا حينها.",
+        "context": "تتحدث عن حالته في الماضي."
+      },
+      {
+        "id": 7,
+        "en": "He will be an adult next year.",
+        "ar": "سيصبح بالغا السنة القادمة.",
+        "context": "تتحدث عن بلوغه مستقبلا."
+      },
+      {
+        "id": 8,
+        "en": "He is an adult now, so he can decide.",
+        "ar": "هو بالغ الآن، لذلك يمكنه أن يقرر.",
+        "context": "تربط البلوغ بالقدرة على اتخاذ القرار."
+      },
+      {
+        "id": 9,
+        "en": "He is an adult now, but he still lives with his parents.",
+        "ar": "هو بالغ الآن، لكنه ما زال يعيش مع والديه.",
+        "context": "تضيف معلومة عن وضعه الحالي."
+      },
+      {
+        "id": 10,
+        "en": "Everyone treats him like an adult now.",
+        "ar": "الجميع يعامله كشخص بالغ الآن.",
+        "context": "تصف تغير تعامل الناس معه."
+      }
+    ]
+  }
+}

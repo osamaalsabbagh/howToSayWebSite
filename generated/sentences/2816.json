@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "id": 2816,
+  "sentence": {
+    "en": "She is teaching now.",
+    "ar": "هي تدرّس الآن.",
+    "context": "حدث يحدث في هذه اللحظة."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "She is teaching now.",
+        "ar": "هي تدرّس الآن.",
+        "context": "تصف الجملة فعلا يحدث في هذه اللحظة: هي تعطي درسا أو تشرح للطلاب.",
+        "grammar": {
+          "tense": "المضارع المستمر",
+          "tenseEn": "Present Continuous",
+          "reason": "استُخدم المضارع المستمر لأن is teaching مع now تدل على فعل جار الآن."
+        },
+        "wordMeanings": [
+          {
+            "term": "She",
+            "description": "ضمير يعني هي، ويشير إلى امرأة أو فتاة."
+          },
+          {
+            "term": "is",
+            "description": "فعل مساعد في المضارع المستمر مع الضمير she."
+          },
+          {
+            "term": "teaching",
+            "description": "تدرّس أو تعلّم الآن."
+          },
+          {
+            "term": "now",
+            "description": "الآن؛ في هذه اللحظة."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "She is teaching now.",
+        "ar": "هي تدرّس الآن.",
+        "context": "تصف أنها منشغلة بالتدريس في اللحظة الحالية."
+      },
+      {
+        "id": 2,
+        "en": "He is teaching math now.",
+        "ar": "هو يدرّس الرياضيات الآن.",
+        "context": "تحدد المادة التي يدرسها الشخص."
+      },
+      {
+        "id": 3,
+        "en": "They are teaching in the next room.",
+        "ar": "هم يدرّسون في الغرفة المجاورة.",
+        "context": "تحدد مكان التدريس الجاري."
+      },
+      {
+        "id": 4,
+        "en": "I am teaching a new student today.",
+        "ar": "أنا أدرّس طالبا جديدا اليوم.",
+        "context": "تصف وضعا مؤقتا في يوم معين."
+      },
+      {
+        "id": 5,
+        "en": "She is teaching online now.",
+        "ar": "هي تدرّس عبر الإنترنت الآن.",
+        "context": "توضح طريقة التدريس."
+      },
+      {
+        "id": 6,
+        "en": "The teacher is teaching grammar.",
+        "ar": "المعلم يدرّس القواعد.",
+        "context": "تصف موضوع الدرس الحالي."
+      },
+      {
+        "id": 7,
+        "en": "She is not teaching today.",
+        "ar": "هي لا تدرّس اليوم.",
+        "context": "تنفي عملها بالتدريس في هذا اليوم."
+      },
+      {
+        "id": 8,
+        "en": "Is she teaching now?",
+        "ar": "هل هي تدرّس الآن؟",
+        "context": "تسأل عن فعل يحدث حاليا."
+      },
+      {
+        "id": 9,
+        "en": "She is teaching the children a song.",
+        "ar": "هي تعلّم الأطفال أغنية.",
+        "context": "تصف ما يتعلمه الأطفال الآن."
+      },
+      {
+        "id": 10,
+        "en": "We are teaching together this week.",
+        "ar": "نحن ندرّس معا هذا الأسبوع.",
+        "context": "تصف عملا مؤقتا خلال هذا الأسبوع."
+      }
+    ]
+  }
+}

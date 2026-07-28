@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "id": 3019,
+  "sentence": {
+    "en": "The visit was short.",
+    "ar": "الزيارة كانت قصيرة.",
+    "context": "استخدام الكلمة كاسم لوصف حدث."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "The visit was short.",
+        "ar": "كانت الزيارة قصيرة.",
+        "context": "تصف الجملة زيارة محددة في الماضي بأنها لم تستغرق وقتا طويلا.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "استُخدم الماضي البسيط لأن was يصف حالة زيارة حدثت في الماضي."
+        },
+        "wordMeanings": [
+          {
+            "term": "The",
+            "description": "أداة تعريف تشير إلى زيارة محددة."
+          },
+          {
+            "term": "visit",
+            "description": "زيارة؛ مجيء شخص لرؤية شخص أو مكان."
+          },
+          {
+            "term": "was",
+            "description": "كان أو كانت؛ الماضي من is."
+          },
+          {
+            "term": "short",
+            "description": "قصير؛ لا يستغرق وقتا طويلا."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "The visit was short.",
+        "ar": "كانت الزيارة قصيرة.",
+        "context": "تصف مدة زيارة ماضية."
+      },
+      {
+        "id": 2,
+        "en": "The meeting was short.",
+        "ar": "كان الاجتماع قصيرا.",
+        "context": "تغير الحدث الموصوف إلى اجتماع."
+      },
+      {
+        "id": 3,
+        "en": "The visit was long.",
+        "ar": "كانت الزيارة طويلة.",
+        "context": "تستخدم الوصف المعاكس."
+      },
+      {
+        "id": 4,
+        "en": "The visit was not short.",
+        "ar": "لم تكن الزيارة قصيرة.",
+        "context": "تنفي أن مدة الزيارة كانت قصيرة."
+      },
+      {
+        "id": 5,
+        "en": "Was the visit short?",
+        "ar": "هل كانت الزيارة قصيرة؟",
+        "context": "تسأل عن مدة الزيارة."
+      },
+      {
+        "id": 6,
+        "en": "The visit is short.",
+        "ar": "الزيارة قصيرة.",
+        "context": "تصف الزيارة في الحاضر."
+      },
+      {
+        "id": 7,
+        "en": "The visit will be short.",
+        "ar": "ستكون الزيارة قصيرة.",
+        "context": "تنقل الوصف إلى المستقبل."
+      },
+      {
+        "id": 8,
+        "en": "The visit was short but helpful.",
+        "ar": "كانت الزيارة قصيرة لكنها مفيدة.",
+        "context": "تضيف وصفا آخر للزيارة."
+      },
+      {
+        "id": 9,
+        "en": "The visit was short because we were busy.",
+        "ar": "كانت الزيارة قصيرة لأننا كنا مشغولين.",
+        "context": "توضح سبب قصر الزيارة."
+      },
+      {
+        "id": 10,
+        "en": "Although the visit was short, we enjoyed it.",
+        "ar": "رغم أن الزيارة كانت قصيرة، استمتعنا بها.",
+        "context": "تربط قصر الزيارة بنتيجة إيجابية."
+      }
+    ]
+  }
+}

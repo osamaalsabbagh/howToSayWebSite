@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": 2657,
+  "sentence": {
+    "en": "Some were missing.",
+    "ar": "بعضها كان مفقودًا.",
+    "context": "الحديث عن جزء غير محدد من مجموعة ذُكرت سابقًا."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Some were missing.",
+        "ar": "كان بعضها مفقودا.",
+        "context": "تستخدم الجملة عندما يكون جزء غير محدد من مجموعة غير موجود.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "were يصف حالة ماضية لأشياء أو أشخاص من مجموعة، وSome يشير إلى جزء غير محدد."
+        },
+        "wordMeanings": [
+          {
+            "term": "Some",
+            "description": "بعضها أو بعض منهم"
+          },
+          {
+            "term": "were",
+            "description": "كانوا أو كانت، بحسب المجموعة المقصودة"
+          },
+          {
+            "term": "missing",
+            "description": "مفقودة أو غير موجودة في مكانها"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Some were missing.",
+        "ar": "كان بعضها مفقودا.",
+        "context": "تُقال عند فقد جزء من مجموعة."
+      },
+      {
+        "id": 2,
+        "en": "Some were broken.",
+        "ar": "كان بعضها مكسورا.",
+        "context": "تصف حالة جزء غير محدد من الأشياء."
+      },
+      {
+        "id": 3,
+        "en": "Some were late.",
+        "ar": "كان بعضهم متأخرا.",
+        "context": "تصف جزءا من مجموعة أشخاص."
+      },
+      {
+        "id": 4,
+        "en": "Some were not missing.",
+        "ar": "لم يكن بعضها مفقودا.",
+        "context": "تُقال لنفي الفقد عن جزء من المجموعة."
+      },
+      {
+        "id": 5,
+        "en": "Were some missing?",
+        "ar": "هل كان بعضها مفقودا؟",
+        "context": "سؤال عن فقد جزء من الأشياء."
+      },
+      {
+        "id": 6,
+        "en": "Some of the files were missing.",
+        "ar": "كانت بعض الملفات مفقودة.",
+        "context": "تحدد المجموعة المقصودة."
+      },
+      {
+        "id": 7,
+        "en": "Some of the keys were missing.",
+        "ar": "كانت بعض المفاتيح مفقودة.",
+        "context": "تصف فقد جزء من مفاتيح."
+      },
+      {
+        "id": 8,
+        "en": "We checked the boxes, and some were missing.",
+        "ar": "فحصنا الصناديق، وكان بعضها مفقودا.",
+        "context": "تصف اكتشاف الفقد بعد الفحص."
+      },
+      {
+        "id": 9,
+        "en": "Some were found later.",
+        "ar": "عُثر على بعضها لاحقا.",
+        "context": "تصف نتيجة بعد فقد جزئي."
+      },
+      {
+        "id": 10,
+        "en": "All were present, so none were missing.",
+        "ar": "كان الجميع موجودين، لذلك لم يكن أي منها مفقودا.",
+        "context": "توضح عكس حالة الفقد."
+      }
+    ]
+  }
+}

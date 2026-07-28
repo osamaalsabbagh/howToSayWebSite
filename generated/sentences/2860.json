@@ -1,0 +1,111 @@
+{
+  "schemaVersion": 1,
+  "id": 2860,
+  "sentence": {
+    "en": "The book is on the table.",
+    "ar": "الكتاب على الطاولة.",
+    "context": "شيء محدد معروف للطرفين."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "The book is on the table.",
+        "ar": "الكتاب على الطاولة.",
+        "context": "تحدد الجملة مكان كتاب معروف للطرفين.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُخدم المضارع البسيط مع is لوصف موقع الشيء في الوقت الحالي."
+        },
+        "wordMeanings": [
+          {
+            "term": "The",
+            "description": "أداة تعريف تشير إلى كتاب محدد."
+          },
+          {
+            "term": "book",
+            "description": "كتاب؛ شيء يُقرأ ويحتوي على صفحات."
+          },
+          {
+            "term": "is",
+            "description": "فعل يكون، وهنا يربط الكتاب بمكانه."
+          },
+          {
+            "term": "on",
+            "description": "على؛ فوق سطح شيء."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف تشير إلى طاولة محددة."
+          },
+          {
+            "term": "table",
+            "description": "طاولة؛ قطعة أثاث يوضع عليها الطعام أو الأشياء."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "The book is on the table.",
+        "ar": "الكتاب على الطاولة.",
+        "context": "تحدد مكان الكتاب."
+      },
+      {
+        "id": 2,
+        "en": "The pen is on the table.",
+        "ar": "القلم على الطاولة.",
+        "context": "تصف مكان شيء آخر."
+      },
+      {
+        "id": 3,
+        "en": "The book is in my bag.",
+        "ar": "الكتاب في حقيبتي.",
+        "context": "تصف مكانا مختلفا للكتاب."
+      },
+      {
+        "id": 4,
+        "en": "The book is under the table.",
+        "ar": "الكتاب تحت الطاولة.",
+        "context": "تستخدم حرف جر مختلفا."
+      },
+      {
+        "id": 5,
+        "en": "The red book is on the table.",
+        "ar": "الكتاب الأحمر على الطاولة.",
+        "context": "تحدد الكتاب بلونه."
+      },
+      {
+        "id": 6,
+        "en": "The book is not on the table.",
+        "ar": "الكتاب ليس على الطاولة.",
+        "context": "تنفي مكان الكتاب."
+      },
+      {
+        "id": 7,
+        "en": "Is the book on the table?",
+        "ar": "هل الكتاب على الطاولة؟",
+        "context": "تسأل عن مكان الكتاب."
+      },
+      {
+        "id": 8,
+        "en": "The book on the table is mine.",
+        "ar": "الكتاب الذي على الطاولة لي.",
+        "context": "تستخدم المكان لتحديد الكتاب."
+      },
+      {
+        "id": 9,
+        "en": "Please put the book on the table.",
+        "ar": "من فضلك ضع الكتاب على الطاولة.",
+        "context": "تطلب وضع الكتاب في ذلك المكان."
+      },
+      {
+        "id": 10,
+        "en": "I left the book on the table.",
+        "ar": "تركت الكتاب على الطاولة.",
+        "context": "تصف فعلا ماضيا يفسر مكان الكتاب."
+      }
+    ]
+  }
+}

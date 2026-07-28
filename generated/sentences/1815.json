@@ -1,0 +1,131 @@
+{
+  "schemaVersion": 1,
+  "id": 1815,
+  "sentence": {
+    "en": "I am very hungry. Let us eat something.",
+    "ar": "أنا جائع جدًا. دعنا نأكل شيئًا ما.",
+    "context": "صف أنك تشعر بحاجة شديدة للطعام وتقترح على من معك أن تتناولوا طعامًا غير محدد معًا."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "I am very hungry.",
+        "ar": "أنا جائع جدًا.",
+        "context": "يعبر هذا الجزء عن شعور قوي بالحاجة إلى الطعام.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استخدم am لوصف حالة المتكلم الحالية."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "أنا، المتكلم عن نفسه"
+          },
+          {
+            "term": "am",
+            "description": "صيغة تأتي مع أنا لوصف الحالة"
+          },
+          {
+            "term": "very",
+            "description": "جدًا"
+          },
+          {
+            "term": "hungry",
+            "description": "جائع أو محتاج إلى الطعام"
+          }
+        ]
+      },
+      {
+        "sentence": "Let us eat something.",
+        "ar": "دعنا نأكل شيئًا ما.",
+        "context": "يقترح هذا الجزء تناول طعام غير محدد معًا.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "Let us صيغة اقتراح أو دعوة لفعل شيء معًا، وليست زمنًا مستقلًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "Let",
+            "description": "دع أو لنقم بـ"
+          },
+          {
+            "term": "us",
+            "description": "نحن أو لنا، وتشير إلى المتكلم ومن معه"
+          },
+          {
+            "term": "eat",
+            "description": "نأكل"
+          },
+          {
+            "term": "something",
+            "description": "شيئًا ما غير محدد"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I am hungry. Let us make dinner.",
+        "ar": "أنا جائع. دعنا نحضر العشاء.",
+        "context": "يستخدم عند اقتراح إعداد طعام."
+      },
+      {
+        "id": 2,
+        "en": "We are hungry. Let us order food.",
+        "ar": "نحن جائعون. دعنا نطلب طعامًا.",
+        "context": "يقال عند الرغبة في طلب وجبة."
+      },
+      {
+        "id": 3,
+        "en": "I am thirsty. Let us drink water.",
+        "ar": "أنا عطشان. دعنا نشرب ماء.",
+        "context": "يستخدم عند اقتراح شرب شيء."
+      },
+      {
+        "id": 4,
+        "en": "She is hungry now.",
+        "ar": "هي جائعة الآن.",
+        "context": "يقال لوصف حالة حالية."
+      },
+      {
+        "id": 5,
+        "en": "Let us eat before the meeting.",
+        "ar": "دعنا نأكل قبل الاجتماع.",
+        "context": "يستخدم عند اقتراح الأكل قبل موعد."
+      },
+      {
+        "id": 6,
+        "en": "I am very tired. Let us rest.",
+        "ar": "أنا متعب جدًا. دعنا نرتاح.",
+        "context": "يقال عند اقتراح الراحة بسبب التعب."
+      },
+      {
+        "id": 7,
+        "en": "Let us find a restaurant.",
+        "ar": "دعنا نجد مطعمًا.",
+        "context": "يستخدم عند البحث عن مكان للأكل."
+      },
+      {
+        "id": 8,
+        "en": "I need food because I am hungry.",
+        "ar": "أحتاج إلى طعام لأنني جائع.",
+        "context": "يقال لشرح الحاجة للطعام."
+      },
+      {
+        "id": 9,
+        "en": "Let us eat something light.",
+        "ar": "دعنا نأكل شيئًا خفيفًا.",
+        "context": "يستخدم عند اقتراح وجبة بسيطة."
+      },
+      {
+        "id": 10,
+        "en": "I am very hungry after work.",
+        "ar": "أنا جائع جدًا بعد العمل.",
+        "context": "يقال عن الجوع بعد مجهود."
+      }
+    ]
+  }
+}

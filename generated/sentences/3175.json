@@ -1,0 +1,127 @@
+{
+  "schemaVersion": 1,
+  "id": 3175,
+  "sentence": {
+    "en": "He is able to finish the task.",
+    "ar": "هو قادر على إنهاء المهمة.",
+    "context": "امتلاك القدرة على القيام بشيء."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "He is able",
+        "ar": "هو قادر",
+        "context": "الجزء الأول يصف امتلاك الشخص للقدرة في الحاضر.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُخدم المضارع البسيط مع is لوصف قدرة حالية."
+        },
+        "wordMeanings": [
+          {
+            "term": "He",
+            "description": "هو؛ رجل أو ولد نتحدث عنه."
+          },
+          {
+            "term": "is",
+            "description": "هو أو يكون؛ يربط he بالصفة able."
+          },
+          {
+            "term": "able",
+            "description": "قادر؛ لديه القدرة أو الاستطاعة."
+          }
+        ]
+      },
+      {
+        "sentence": "to finish the task.",
+        "ar": "على إنهاء المهمة.",
+        "context": "الجزء الثاني يوضح الشيء الذي يستطيع فعله.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه عبارة مصدرية تبدأ بـ to وتكمل معنى able، وليست زمنا مستقلا."
+        },
+        "wordMeanings": [
+          {
+            "term": "to",
+            "description": "أن أو على؛ تدخل على finish لتوضيح القدرة."
+          },
+          {
+            "term": "finish",
+            "description": "ينهي؛ يكمل الشيء حتى النهاية."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف قبل task لأنها مهمة محددة."
+          },
+          {
+            "term": "task",
+            "description": "مهمة؛ عمل محدد يجب إنجازه."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "He is able to finish the task.",
+        "ar": "هو قادر على إنهاء المهمة.",
+        "context": "تصف قدرته على إنجاز مهمة."
+      },
+      {
+        "id": 2,
+        "en": "She is able to finish the task.",
+        "ar": "هي قادرة على إنهاء المهمة.",
+        "context": "تغير الفاعل إلى امرأة أو فتاة."
+      },
+      {
+        "id": 3,
+        "en": "He is able to solve the problem.",
+        "ar": "هو قادر على حل المشكلة.",
+        "context": "تغير الفعل من الإنهاء إلى الحل."
+      },
+      {
+        "id": 4,
+        "en": "Is he able to finish the task?",
+        "ar": "هل هو قادر على إنهاء المهمة؟",
+        "context": "تسأل عن قدرته."
+      },
+      {
+        "id": 5,
+        "en": "He is not able to finish the task today.",
+        "ar": "هو غير قادر على إنهاء المهمة اليوم.",
+        "context": "تنفي القدرة في وقت محدد."
+      },
+      {
+        "id": 6,
+        "en": "He was able to finish the task yesterday.",
+        "ar": "تمكن من إنهاء المهمة أمس.",
+        "context": "تنقل القدرة أو النجاح إلى الماضي."
+      },
+      {
+        "id": 7,
+        "en": "He will be able to finish the task tomorrow.",
+        "ar": "سيكون قادرا على إنهاء المهمة غدا.",
+        "context": "تتحدث عن قدرة مستقبلية."
+      },
+      {
+        "id": 8,
+        "en": "He can finish the task.",
+        "ar": "يمكنه إنهاء المهمة.",
+        "context": "تعبر عن القدرة باستخدام can."
+      },
+      {
+        "id": 9,
+        "en": "He is able to finish the task without help.",
+        "ar": "هو قادر على إنهاء المهمة من دون مساعدة.",
+        "context": "تضيف الاعتماد على النفس."
+      },
+      {
+        "id": 10,
+        "en": "I think he is able to finish the task.",
+        "ar": "أعتقد أنه قادر على إنهاء المهمة.",
+        "context": "تقدم رأيك في قدرته."
+      }
+    ]
+  }
+}

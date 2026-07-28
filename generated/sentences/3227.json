@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": 3227,
+  "sentence": {
+    "en": "This airline offers cheap flights.",
+    "ar": "هذه شركة طيران تقدم رحلات رخيصة.",
+    "context": "شركة تنظم رحلات جوية للركاب."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "This airline offers cheap flights.",
+        "ar": "هذه شركة الطيران تقدم رحلات رخيصة.",
+        "context": "تصف الجملة شركة طيران تقدم رحلات بأسعار منخفضة للركاب.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُخدم offers لأن الجملة تصف خدمة عامة أو معتادة تقدمها شركة الطيران."
+        },
+        "wordMeanings": [
+          {
+            "term": "This",
+            "description": "هذه؛ تشير إلى شركة طيران محددة قريبة في الحديث."
+          },
+          {
+            "term": "airline",
+            "description": "شركة طيران؛ شركة تنظم رحلات جوية وتنقل الركاب."
+          },
+          {
+            "term": "offers",
+            "description": "تقدم أو تعرض؛ توفر خدمة للناس، مع s لأنها مع مفرد غائب."
+          },
+          {
+            "term": "cheap",
+            "description": "رخيصة أو منخفضة السعر."
+          },
+          {
+            "term": "flights",
+            "description": "رحلات جوية؛ رحلات بالطائرة من مكان إلى آخر."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "This airline offers cheap flights.",
+        "ar": "هذه شركة الطيران تقدم رحلات رخيصة.",
+        "context": "تصف أسعار شركة الطيران."
+      },
+      {
+        "id": 2,
+        "en": "That airline offers cheap flights.",
+        "ar": "تلك شركة الطيران تقدم رحلات رخيصة.",
+        "context": "تشير إلى شركة أبعد أو مختلفة."
+      },
+      {
+        "id": 3,
+        "en": "This airline offers direct flights.",
+        "ar": "هذه شركة الطيران تقدم رحلات مباشرة.",
+        "context": "تغير نوع الرحلات."
+      },
+      {
+        "id": 4,
+        "en": "This airline does not offer cheap flights.",
+        "ar": "هذه شركة الطيران لا تقدم رحلات رخيصة.",
+        "context": "تنفي انخفاض الأسعار."
+      },
+      {
+        "id": 5,
+        "en": "Does this airline offer cheap flights?",
+        "ar": "هل تقدم شركة الطيران هذه رحلات رخيصة؟",
+        "context": "تسأل عن الأسعار."
+      },
+      {
+        "id": 6,
+        "en": "This airline offered cheap flights last year.",
+        "ar": "قدمت شركة الطيران هذه رحلات رخيصة السنة الماضية.",
+        "context": "تنقل العرض إلى الماضي."
+      },
+      {
+        "id": 7,
+        "en": "This airline will offer cheap flights soon.",
+        "ar": "ستقدم شركة الطيران هذه رحلات رخيصة قريبا.",
+        "context": "تتحدث عن عرض مستقبلي."
+      },
+      {
+        "id": 8,
+        "en": "This airline offers cheap flights to Istanbul.",
+        "ar": "هذه شركة الطيران تقدم رحلات رخيصة إلى إسطنبول.",
+        "context": "تحدد وجهة الرحلات."
+      },
+      {
+        "id": 9,
+        "en": "This airline offers cheap flights because it has fewer services.",
+        "ar": "هذه شركة الطيران تقدم رحلات رخيصة لأنها توفر خدمات أقل.",
+        "context": "تذكر سبب انخفاض السعر."
+      },
+      {
+        "id": 10,
+        "en": "This airline offers cheap flights, but the seats are small.",
+        "ar": "هذه شركة الطيران تقدم رحلات رخيصة، لكن المقاعد صغيرة.",
+        "context": "توازن بين السعر والراحة."
+      }
+    ]
+  }
+}

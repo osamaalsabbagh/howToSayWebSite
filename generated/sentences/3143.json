@@ -1,0 +1,111 @@
+{
+  "schemaVersion": 1,
+  "id": 3143,
+  "sentence": {
+    "en": "She is writing a message now.",
+    "ar": "هي تكتب رسالة الآن.",
+    "context": "فعل يحدث في هذه اللحظة."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "She is writing a message now.",
+        "ar": "هي تكتب رسالة الآن.",
+        "context": "تصف الجملة كتابة رسالة في هذه اللحظة.",
+        "grammar": {
+          "tense": "المضارع المستمر",
+          "tenseEn": "Present Continuous",
+          "reason": "استُخدم المضارع المستمر لأن is writing مع now يصف فعلا يحدث الآن."
+        },
+        "wordMeanings": [
+          {
+            "term": "She",
+            "description": "هي؛ امرأة أو فتاة نتحدث عنها."
+          },
+          {
+            "term": "is",
+            "description": "فعل مساعد من be يستخدم مع she في المضارع المستمر."
+          },
+          {
+            "term": "writing",
+            "description": "تكتب؛ تسجل كلمات أو رسالة الآن."
+          },
+          {
+            "term": "a",
+            "description": "أداة تنكير قبل message لأنها رسالة واحدة غير محددة."
+          },
+          {
+            "term": "message",
+            "description": "رسالة؛ نص قصير يرسل أو يكتب لشخص."
+          },
+          {
+            "term": "now",
+            "description": "الآن؛ في هذه اللحظة."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "She is writing a message now.",
+        "ar": "هي تكتب رسالة الآن.",
+        "context": "تصف الكتابة أثناء حدوثها."
+      },
+      {
+        "id": 2,
+        "en": "He is writing a message now.",
+        "ar": "هو يكتب رسالة الآن.",
+        "context": "تغير الفاعل إلى رجل أو ولد."
+      },
+      {
+        "id": 3,
+        "en": "She is writing an email now.",
+        "ar": "هي تكتب بريدا إلكترونيا الآن.",
+        "context": "تغير نوع النص المكتوب."
+      },
+      {
+        "id": 4,
+        "en": "Is she writing a message now?",
+        "ar": "هل تكتب رسالة الآن؟",
+        "context": "تسأل عن الفعل الجاري."
+      },
+      {
+        "id": 5,
+        "en": "She is not writing a message now.",
+        "ar": "هي لا تكتب رسالة الآن.",
+        "context": "تنفي الكتابة في هذه اللحظة."
+      },
+      {
+        "id": 6,
+        "en": "She writes messages every morning.",
+        "ar": "هي تكتب الرسائل كل صباح.",
+        "context": "تصف عادة متكررة."
+      },
+      {
+        "id": 7,
+        "en": "She wrote a message yesterday.",
+        "ar": "كتبت رسالة أمس.",
+        "context": "تنقل الكتابة إلى الماضي."
+      },
+      {
+        "id": 8,
+        "en": "She will write a message later.",
+        "ar": "ستكتب رسالة لاحقا.",
+        "context": "تتحدث عن كتابة مستقبلية."
+      },
+      {
+        "id": 9,
+        "en": "I can see that she is writing a message now.",
+        "ar": "أستطيع أن أرى أنها تكتب رسالة الآن.",
+        "context": "تصف ملاحظة مباشرة."
+      },
+      {
+        "id": 10,
+        "en": "Please wait because she is writing a message now.",
+        "ar": "من فضلك انتظر لأنها تكتب رسالة الآن.",
+        "context": "توضح سبب الانتظار."
+      }
+    ]
+  }
+}

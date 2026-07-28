@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": 3215,
+  "sentence": {
+    "en": "This change affects the results.",
+    "ar": "هذا التغيير يؤثر على النتائج.",
+    "context": "تأثير مباشر على شيء آخر."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "This change affects the results.",
+        "ar": "هذا التغيير يؤثر على النتائج.",
+        "context": "توضح الجملة أن تغييرا معينا يسبب اختلافا أو أثرا مباشرا في النتائج.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُخدم affects في المضارع البسيط لوصف علاقة تأثير عامة أو صحيحة الآن."
+        },
+        "wordMeanings": [
+          {
+            "term": "This",
+            "description": "هذا؛ يشير إلى تغيير محدد قريب في الحديث."
+          },
+          {
+            "term": "change",
+            "description": "تغيير؛ تعديل أو اختلاف عن الحالة السابقة."
+          },
+          {
+            "term": "affects",
+            "description": "يؤثر في؛ يسبب تغييرا في شيء آخر، مع s لأنها مع مفرد غائب."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف؛ تجعل results نتائج محددة."
+          },
+          {
+            "term": "results",
+            "description": "نتائج؛ مخرجات أو آثار تجربة أو قرار أو عمل."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "This change affects the results.",
+        "ar": "هذا التغيير يؤثر على النتائج.",
+        "context": "تصف أثرا مباشرا لتغيير معين."
+      },
+      {
+        "id": 2,
+        "en": "This change affects the schedule.",
+        "ar": "هذا التغيير يؤثر على الجدول.",
+        "context": "تغير الشيء المتأثر."
+      },
+      {
+        "id": 3,
+        "en": "That change affects the results.",
+        "ar": "ذلك التغيير يؤثر على النتائج.",
+        "context": "تشير إلى تغيير أبعد أو مختلف."
+      },
+      {
+        "id": 4,
+        "en": "This change does not affect the results.",
+        "ar": "هذا التغيير لا يؤثر على النتائج.",
+        "context": "تنفي وجود أثر."
+      },
+      {
+        "id": 5,
+        "en": "Does this change affect the results?",
+        "ar": "هل يؤثر هذا التغيير على النتائج؟",
+        "context": "تسأل عن وجود التأثير."
+      },
+      {
+        "id": 6,
+        "en": "This change affected the results yesterday.",
+        "ar": "أثر هذا التغيير على النتائج أمس.",
+        "context": "تنقل التأثير إلى الماضي."
+      },
+      {
+        "id": 7,
+        "en": "This change will affect the results later.",
+        "ar": "سيؤثر هذا التغيير على النتائج لاحقا.",
+        "context": "تتحدث عن أثر مستقبلي."
+      },
+      {
+        "id": 8,
+        "en": "This small change affects the results.",
+        "ar": "هذا التغيير الصغير يؤثر على النتائج.",
+        "context": "تصف حجم التغيير."
+      },
+      {
+        "id": 9,
+        "en": "This change affects the results because the data is different.",
+        "ar": "هذا التغيير يؤثر على النتائج لأن البيانات مختلفة.",
+        "context": "تذكر سبب التأثير."
+      },
+      {
+        "id": 10,
+        "en": "This change affects the results, but the effect is small.",
+        "ar": "هذا التغيير يؤثر على النتائج، لكن الأثر صغير.",
+        "context": "توضح أن التأثير محدود."
+      }
+    ]
+  }
+}

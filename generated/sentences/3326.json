@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": 3326,
+  "sentence": {
+    "en": "I attended the meeting yesterday.",
+    "ar": "أنا حضرت الاجتماع أمس.",
+    "context": "المشاركة بالحضور في حدث محدد انتهى في وقت سابق."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "I attended the meeting yesterday.",
+        "ar": "أنا حضرت الاجتماع أمس.",
+        "context": "تخبر الجملة أن المتكلم كان حاضرا في اجتماع محدد في اليوم السابق.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "استُخدم attended مع yesterday لأن الحضور حدث في وقت ماض محدد."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "أنا؛ المتكلم."
+          },
+          {
+            "term": "attended",
+            "description": "حضرت؛ ذهبت إلى حدث أو شاركت بالحضور فيه في الماضي."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف؛ تجعل meeting اجتماعا محددا."
+          },
+          {
+            "term": "meeting",
+            "description": "اجتماع؛ لقاء لمناقشة موضوع أو اتخاذ قرارات."
+          },
+          {
+            "term": "yesterday",
+            "description": "أمس؛ اليوم السابق لليوم الحالي."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I attended the meeting yesterday.",
+        "ar": "حضرت الاجتماع أمس.",
+        "context": "تخبر عن حضور اجتماع."
+      },
+      {
+        "id": 2,
+        "en": "She attended the meeting yesterday.",
+        "ar": "هي حضرت الاجتماع أمس.",
+        "context": "تتحدث عن حضور شخص آخر."
+      },
+      {
+        "id": 3,
+        "en": "I attended the event yesterday.",
+        "ar": "حضرت الحدث أمس.",
+        "context": "تغير الحدث الذي تم حضوره."
+      },
+      {
+        "id": 4,
+        "en": "I did not attend the meeting yesterday.",
+        "ar": "لم أحضر الاجتماع أمس.",
+        "context": "تنفي الحضور."
+      },
+      {
+        "id": 5,
+        "en": "Did you attend the meeting yesterday?",
+        "ar": "هل حضرت الاجتماع أمس؟",
+        "context": "تسأل عن حضور اجتماع سابق."
+      },
+      {
+        "id": 6,
+        "en": "I attend the meeting every week.",
+        "ar": "أحضر الاجتماع كل أسبوع.",
+        "context": "تصف حضورا متكررا."
+      },
+      {
+        "id": 7,
+        "en": "I will attend the meeting tomorrow.",
+        "ar": "سأحضر الاجتماع غدا.",
+        "context": "تتحدث عن حضور مستقبلي."
+      },
+      {
+        "id": 8,
+        "en": "I attended the online meeting yesterday.",
+        "ar": "حضرت الاجتماع عبر الإنترنت أمس.",
+        "context": "تحدد نوع الاجتماع."
+      },
+      {
+        "id": 9,
+        "en": "I attended the meeting yesterday because my manager asked me.",
+        "ar": "حضرت الاجتماع أمس لأن مديري طلب مني ذلك.",
+        "context": "تذكر سبب الحضور."
+      },
+      {
+        "id": 10,
+        "en": "I attended the meeting yesterday, but I left early.",
+        "ar": "حضرت الاجتماع أمس، لكنني غادرت مبكرا.",
+        "context": "تضيف ما حدث أثناء الاجتماع."
+      }
+    ]
+  }
+}

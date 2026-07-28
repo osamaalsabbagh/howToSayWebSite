@@ -1,0 +1,111 @@
+{
+  "schemaVersion": 1,
+  "id": 3358,
+  "sentence": {
+    "en": "I have seen this movie before.",
+    "ar": "أنا شاهدت هذا الفيلم من قبل.",
+    "context": "تجربة حدثت في وقت غير محدد ولها أثر حتى الآن."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "I have seen this movie before.",
+        "ar": "لقد شاهدت هذا الفيلم من قبل.",
+        "context": "تعني الجملة أن المتكلم شاهد الفيلم في وقت سابق غير محدد، ولذلك هو يعرفه الآن.",
+        "grammar": {
+          "tense": "المضارع التام",
+          "tenseEn": "Present Perfect",
+          "reason": "استُخدم have seen للحديث عن تجربة سابقة دون تحديد وقتها، مع أثرها في الحاضر."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "أنا؛ المتكلم."
+          },
+          {
+            "term": "have",
+            "description": "قد أو لقد؛ فعل مساعد في المضارع التام مع I."
+          },
+          {
+            "term": "seen",
+            "description": "شاهدت أو رأيت؛ التصريف الثالث من see."
+          },
+          {
+            "term": "this",
+            "description": "هذا؛ تشير إلى فيلم محدد قريب في الحديث."
+          },
+          {
+            "term": "movie",
+            "description": "فيلم؛ عمل سينمائي أو مصور."
+          },
+          {
+            "term": "before",
+            "description": "من قبل؛ في وقت سابق غير محدد."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I have seen this movie before.",
+        "ar": "لقد شاهدت هذا الفيلم من قبل.",
+        "context": "تذكر تجربة مشاهدة سابقة."
+      },
+      {
+        "id": 2,
+        "en": "She has seen this movie before.",
+        "ar": "لقد شاهدت هذا الفيلم من قبل.",
+        "context": "تغير الفاعل إلى امرأة أو فتاة."
+      },
+      {
+        "id": 3,
+        "en": "I have seen this show before.",
+        "ar": "لقد شاهدت هذا العرض من قبل.",
+        "context": "تغير الشيء الذي شاهده المتكلم."
+      },
+      {
+        "id": 4,
+        "en": "I have not seen this movie before.",
+        "ar": "لم أشاهد هذا الفيلم من قبل.",
+        "context": "تنفي وجود تجربة مشاهدة سابقة."
+      },
+      {
+        "id": 5,
+        "en": "Have you seen this movie before?",
+        "ar": "هل شاهدت هذا الفيلم من قبل؟",
+        "context": "تسأل شخصا عن تجربته السابقة."
+      },
+      {
+        "id": 6,
+        "en": "I saw this movie last week.",
+        "ar": "شاهدت هذا الفيلم الأسبوع الماضي.",
+        "context": "تستخدم الماضي البسيط لأن الوقت محدد."
+      },
+      {
+        "id": 7,
+        "en": "I have seen this movie before, but I forgot the ending.",
+        "ar": "لقد شاهدت هذا الفيلم من قبل، لكنني نسيت النهاية.",
+        "context": "تضيف معلومة عن أثر التجربة أو محدوديته."
+      },
+      {
+        "id": 8,
+        "en": "I have seen this movie before with my family.",
+        "ar": "لقد شاهدت هذا الفيلم من قبل مع عائلتي.",
+        "context": "تضيف من كان معه وقت المشاهدة."
+      },
+      {
+        "id": 9,
+        "en": "I think I have seen this movie before.",
+        "ar": "أظن أنني شاهدت هذا الفيلم من قبل.",
+        "context": "تجعل التجربة غير مؤكدة تماما."
+      },
+      {
+        "id": 10,
+        "en": "I have seen this movie before, so I know the story.",
+        "ar": "لقد شاهدت هذا الفيلم من قبل، لذلك أعرف القصة.",
+        "context": "توضح أثر التجربة السابقة في الحاضر."
+      }
+    ]
+  }
+}

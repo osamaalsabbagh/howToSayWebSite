@@ -1,0 +1,131 @@
+{
+  "schemaVersion": 1,
+  "id": 1812,
+  "sentence": {
+    "en": "I was tired. However, I finished the work.",
+    "ar": "كنت متعبًا. ومع ذلك، أنهيت العمل.",
+    "context": "أخبر أنك أكملت مهمة رغم الشعور بالتعب."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "I was tired.",
+        "ar": "كنت متعبًا.",
+        "context": "يصف هذا الجزء حالة المتكلم قبل أو أثناء إنجاز العمل.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "استخدم was لوصف حالة شعورية أو جسدية في الماضي."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "أنا، المتكلم عن نفسه"
+          },
+          {
+            "term": "was",
+            "description": "كنت، صيغة ماضية مع أنا"
+          },
+          {
+            "term": "tired",
+            "description": "متعب أو مرهق"
+          }
+        ]
+      },
+      {
+        "sentence": "However, I finished the work.",
+        "ar": "ومع ذلك، أنهيت العمل.",
+        "context": "يوضح هذا الجزء إنجاز العمل رغم التعب.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "استخدم finished لأن الإنجاز حدث وانتهى في الماضي، و However تظهر التباين."
+        },
+        "wordMeanings": [
+          {
+            "term": "However",
+            "description": "مع ذلك أو رغم ذلك"
+          },
+          {
+            "term": "I",
+            "description": "أنا، المتكلم عن نفسه"
+          },
+          {
+            "term": "finished",
+            "description": "أنهيت أو أكملت"
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف لشيء محدد"
+          },
+          {
+            "term": "work",
+            "description": "العمل أو المهمة"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I was busy. However, I called her.",
+        "ar": "كنت مشغولًا. ومع ذلك، اتصلت بها.",
+        "context": "يستخدم لإنجاز شيء رغم الانشغال."
+      },
+      {
+        "id": 2,
+        "en": "He was sick. However, he studied.",
+        "ar": "كان مريضًا. ومع ذلك، درس.",
+        "context": "يقال عن جهد رغم المرض."
+      },
+      {
+        "id": 3,
+        "en": "The work was hard. However, we finished it.",
+        "ar": "كان العمل صعبًا. ومع ذلك، أنهيناه.",
+        "context": "يستخدم عند إكمال مهمة صعبة."
+      },
+      {
+        "id": 4,
+        "en": "She was tired. However, she helped us.",
+        "ar": "كانت متعبة. ومع ذلك، ساعدتنا.",
+        "context": "يقال عن مساعدة رغم التعب."
+      },
+      {
+        "id": 5,
+        "en": "I was late. However, I joined the meeting.",
+        "ar": "كنت متأخرًا. ومع ذلك، انضممت إلى الاجتماع.",
+        "context": "يستخدم عند المشاركة رغم التأخير."
+      },
+      {
+        "id": 6,
+        "en": "They were hungry. However, they waited.",
+        "ar": "كانوا جائعين. ومع ذلك، انتظروا.",
+        "context": "يقال عن الصبر رغم الحاجة للطعام."
+      },
+      {
+        "id": 7,
+        "en": "I was nervous. However, I answered.",
+        "ar": "كنت متوترًا. ومع ذلك، أجبت.",
+        "context": "يستخدم عند التصرف رغم التوتر."
+      },
+      {
+        "id": 8,
+        "en": "It was difficult. However, I tried.",
+        "ar": "كان الأمر صعبًا. ومع ذلك، حاولت.",
+        "context": "يقال عن المحاولة رغم الصعوبة."
+      },
+      {
+        "id": 9,
+        "en": "We were tired. However, we walked home.",
+        "ar": "كنا متعبين. ومع ذلك، مشينا إلى البيت.",
+        "context": "يستخدم عند القيام بفعل رغم التعب."
+      },
+      {
+        "id": 10,
+        "en": "He was afraid. However, he spoke.",
+        "ar": "كان خائفًا. ومع ذلك، تكلم.",
+        "context": "يقال عن التغلب على الخوف."
+      }
+    ]
+  }
+}

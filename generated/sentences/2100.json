@@ -1,0 +1,111 @@
+{
+  "schemaVersion": 1,
+  "id": 2100,
+  "sentence": {
+    "en": "The meeting starts at nine o'clock.",
+    "ar": "الاجتماع يبدأ الساعة التاسعة تمامًا.",
+    "context": "تحديد وقت بدء حدث معين عند بداية الساعة التاسعة تمامًا."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "The meeting starts at nine o'clock.",
+        "ar": "الاجتماع يبدأ الساعة التاسعة تمامًا.",
+        "context": "تحدد الجملة موعد بداية اجتماع في جدول محدد.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُخدم المضارع البسيط للتعبير عن موعد مجدول، وat تُستخدم مع الوقت المحدد."
+        },
+        "wordMeanings": [
+          {
+            "term": "The",
+            "description": "أداة تعريف لاجتماع محدد"
+          },
+          {
+            "term": "meeting",
+            "description": "اجتماع"
+          },
+          {
+            "term": "starts",
+            "description": "يبدأ"
+          },
+          {
+            "term": "at",
+            "description": "في أو عند وقت محدد"
+          },
+          {
+            "term": "nine",
+            "description": "التاسعة"
+          },
+          {
+            "term": "o'clock",
+            "description": "تمامًا عند الساعة المذكورة"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "The class starts at eight o'clock.",
+        "ar": "الصف يبدأ الساعة الثامنة تمامًا.",
+        "context": "تقال عند تحديد وقت درس."
+      },
+      {
+        "id": 2,
+        "en": "The train leaves at nine o'clock.",
+        "ar": "القطار يغادر الساعة التاسعة تمامًا.",
+        "context": "تقال عند ذكر موعد نقل."
+      },
+      {
+        "id": 3,
+        "en": "Our meeting starts at noon.",
+        "ar": "اجتماعنا يبدأ عند الظهر.",
+        "context": "تقال عند تحديد وقت اجتماع."
+      },
+      {
+        "id": 4,
+        "en": "The meeting starts soon.",
+        "ar": "الاجتماع يبدأ قريبًا.",
+        "context": "تقال عند اقتراب موعد الاجتماع."
+      },
+      {
+        "id": 5,
+        "en": "She arrives at nine o'clock.",
+        "ar": "هي تصل الساعة التاسعة تمامًا.",
+        "context": "تقال عند موعد وصول."
+      },
+      {
+        "id": 6,
+        "en": "The store opens at nine.",
+        "ar": "المتجر يفتح في التاسعة.",
+        "context": "تقال عند موعد افتتاح يومي."
+      },
+      {
+        "id": 7,
+        "en": "The call starts at nine o'clock.",
+        "ar": "المكالمة تبدأ الساعة التاسعة تمامًا.",
+        "context": "تقال عند تحديد موعد مكالمة."
+      },
+      {
+        "id": 8,
+        "en": "We meet at nine every Monday.",
+        "ar": "نحن نلتقي في التاسعة كل اثنين.",
+        "context": "تقال عند موعد متكرر."
+      },
+      {
+        "id": 9,
+        "en": "The meeting ends at ten o'clock.",
+        "ar": "الاجتماع ينتهي الساعة العاشرة تمامًا.",
+        "context": "تقال عند تحديد وقت النهاية."
+      },
+      {
+        "id": 10,
+        "en": "Please come before nine o'clock.",
+        "ar": "رجاءً تعال قبل التاسعة تمامًا.",
+        "context": "تقال عند طلب الحضور قبل الموعد."
+      }
+    ]
+  }
+}

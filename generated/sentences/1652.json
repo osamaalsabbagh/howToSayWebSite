@@ -1,0 +1,111 @@
+{
+  "schemaVersion": 1,
+  "id": 1652,
+  "sentence": {
+    "en": "Please follow me to the office.",
+    "ar": "من فضلك اتبعني إلى المكتب.",
+    "context": "اطلب من شخص أن يمشي خلفك للوصول إلى مكان معين."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Please follow me to the office.",
+        "ar": "من فضلك اتبعني إلى المكتب.",
+        "context": "تستخدم الجملة كطلب مهذب من شخص أن يمشي معك أو خلفك إلى مكان محدد.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه جملة أمر مهذب تبدأ بـ Please، لذلك لا تُعامل كزمن مستقل."
+        },
+        "wordMeanings": [
+          {
+            "term": "Please",
+            "description": "من فضلك، وتضيف أدبًا للطلب."
+          },
+          {
+            "term": "follow",
+            "description": "اتبع أو امش خلف شخص."
+          },
+          {
+            "term": "me",
+            "description": "أنا أو إياي."
+          },
+          {
+            "term": "to",
+            "description": "إلى، وتدل على الاتجاه أو الوجهة."
+          },
+          {
+            "term": "the",
+            "description": "أداة تشير إلى مكتب محدد."
+          },
+          {
+            "term": "office",
+            "description": "مكتب."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Please follow me to the room.",
+        "ar": "من فضلك اتبعني إلى الغرفة.",
+        "context": "يقال عند إرشاد شخص إلى غرفة."
+      },
+      {
+        "id": 2,
+        "en": "Follow me to the front desk.",
+        "ar": "اتبعني إلى مكتب الاستقبال.",
+        "context": "يقال عند قيادة شخص إلى مكان خدمة."
+      },
+      {
+        "id": 3,
+        "en": "Please come with me to the office.",
+        "ar": "من فضلك تعال معي إلى المكتب.",
+        "context": "يقال عند طلب مرافقة شخص."
+      },
+      {
+        "id": 4,
+        "en": "The manager asked me to follow him.",
+        "ar": "طلب مني المدير أن أتبعه.",
+        "context": "يقال عند نقل طلب من شخص مسؤول."
+      },
+      {
+        "id": 5,
+        "en": "Please follow the guide.",
+        "ar": "من فضلك اتبع المرشد.",
+        "context": "يقال في جولة أو زيارة منظمة."
+      },
+      {
+        "id": 6,
+        "en": "She followed him to the office.",
+        "ar": "اتبعته إلى المكتب.",
+        "context": "يقال عند وصف حركة حدثت في الماضي."
+      },
+      {
+        "id": 7,
+        "en": "Please wait for me outside.",
+        "ar": "من فضلك انتظرني في الخارج.",
+        "context": "يقال عند طلب انتظار بدلاً من المرافقة."
+      },
+      {
+        "id": 8,
+        "en": "He walked to the office alone.",
+        "ar": "مشى إلى المكتب وحده.",
+        "context": "يقال عند وصف الذهاب إلى المكتب."
+      },
+      {
+        "id": 9,
+        "en": "Please follow this path.",
+        "ar": "من فضلك اتبع هذا الطريق.",
+        "context": "يقال عند إعطاء اتجاهات."
+      },
+      {
+        "id": 10,
+        "en": "I will follow you to the door.",
+        "ar": "سأتبعك إلى الباب.",
+        "context": "يقال عند قبول مرافقة شخص."
+      }
+    ]
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "schemaVersion": 1,
+  "id": 3238,
+  "sentence": {
+    "en": "They allowed him to enter.",
+    "ar": "هم سمحوا له بالدخول.",
+    "context": "إذن تم في الماضي."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "They allowed him",
+        "ar": "هم سمحوا له",
+        "context": "توضح العبارة أنهم أعطوه إذنا في الماضي.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "استُخدم allowed لأن الإذن حدث في الماضي."
+        },
+        "wordMeanings": [
+          {
+            "term": "They",
+            "description": "هم أو هن؛ الأشخاص أو الجهة التي أعطت الإذن."
+          },
+          {
+            "term": "allowed",
+            "description": "سمحوا؛ أعطوا إذنا أو لم يمنعوا."
+          },
+          {
+            "term": "him",
+            "description": "له أو إياه؛ الشخص الذي حصل على الإذن."
+          }
+        ]
+      },
+      {
+        "sentence": "to enter.",
+        "ar": "بالدخول.",
+        "context": "توضح العبارة الفعل الذي سُمح له به، وهو الدخول.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "to enter صيغة مصدرية مكملة لمعنى allowed، وليست فعلا مصرفا بزمن مستقل."
+        },
+        "wordMeanings": [
+          {
+            "term": "to",
+            "description": "أن أو لـ؛ جزء من صيغة المصدر قبل الفعل enter."
+          },
+          {
+            "term": "enter",
+            "description": "يدخل؛ يذهب إلى داخل مكان."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "They allowed him to enter.",
+        "ar": "سمحوا له بالدخول.",
+        "context": "تصف إذنا بالدخول في الماضي."
+      },
+      {
+        "id": 2,
+        "en": "They allowed her to enter.",
+        "ar": "سمحوا لها بالدخول.",
+        "context": "تغير الشخص الذي حصل على الإذن."
+      },
+      {
+        "id": 3,
+        "en": "They allowed him to leave.",
+        "ar": "سمحوا له بالمغادرة.",
+        "context": "تغير الفعل المسموح به."
+      },
+      {
+        "id": 4,
+        "en": "They did not allow him to enter.",
+        "ar": "لم يسمحوا له بالدخول.",
+        "context": "تنفي الإذن بالدخول."
+      },
+      {
+        "id": 5,
+        "en": "Did they allow him to enter?",
+        "ar": "هل سمحوا له بالدخول؟",
+        "context": "تسأل عن الإذن في الماضي."
+      },
+      {
+        "id": 6,
+        "en": "They allow him to enter every morning.",
+        "ar": "يسمحون له بالدخول كل صباح.",
+        "context": "تصف إذنا متكررا."
+      },
+      {
+        "id": 7,
+        "en": "They will allow him to enter tomorrow.",
+        "ar": "سيسمحون له بالدخول غدا.",
+        "context": "تتحدث عن إذن مستقبلي."
+      },
+      {
+        "id": 8,
+        "en": "They allowed him to enter the building.",
+        "ar": "سمحوا له بدخول المبنى.",
+        "context": "تحدد المكان الذي دخله."
+      },
+      {
+        "id": 9,
+        "en": "They allowed him to enter because he had a ticket.",
+        "ar": "سمحوا له بالدخول لأنه كان لديه تذكرة.",
+        "context": "تذكر سبب السماح."
+      },
+      {
+        "id": 10,
+        "en": "They allowed him to enter, but they checked his bag first.",
+        "ar": "سمحوا له بالدخول، لكنهم فحصوا حقيبته أولا.",
+        "context": "تضيف إجراء قبل الدخول."
+      }
+    ]
+  }
+}

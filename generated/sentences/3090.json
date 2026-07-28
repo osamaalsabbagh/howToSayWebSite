@@ -1,0 +1,135 @@
+{
+  "schemaVersion": 1,
+  "id": 3090,
+  "sentence": {
+    "en": "What is your name and where are you from?",
+    "ar": "ما اسمك ومن أين أنت؟",
+    "context": "سؤال عن معلومتين أساسيتين عن الشخص، وهما الاسم وبلد الأصل."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "What is your name",
+        "ar": "ما اسمك",
+        "context": "الجزء الأول يسأل عن اسم الشخص.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استخدمت صيغة السؤال مع فعل be في المضارع للسؤال عن معلومة حالية وهي الاسم."
+        },
+        "wordMeanings": [
+          {
+            "term": "What",
+            "description": "ما؛ أداة سؤال تطلب تحديد الشيء أو المعلومة."
+          },
+          {
+            "term": "is",
+            "description": "هو أو يكون؛ فعل be في المضارع مع الاسم المفرد."
+          },
+          {
+            "term": "your",
+            "description": "الخاص بك؛ ضمير ملكية يشير إلى المخاطب."
+          },
+          {
+            "term": "name",
+            "description": "اسم؛ الكلمة التي يعرف بها الشخص."
+          }
+        ]
+      },
+      {
+        "sentence": "and where are you from?",
+        "ar": "ومن أين أنت؟",
+        "context": "الجزء الثاني يضيف سؤالا عن بلد الشخص أو مكان أصله.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استخدمت صيغة السؤال مع are للسؤال عن أصل الشخص أو المكان الذي ينتمي إليه."
+        },
+        "wordMeanings": [
+          {
+            "term": "and",
+            "description": "و؛ تربط السؤالين في جملة واحدة."
+          },
+          {
+            "term": "where",
+            "description": "أين؛ أداة سؤال عن المكان أو الأصل."
+          },
+          {
+            "term": "are",
+            "description": "تكون أو أنت؛ فعل be في المضارع مع you."
+          },
+          {
+            "term": "you",
+            "description": "أنت؛ الشخص المخاطب في السؤال."
+          },
+          {
+            "term": "from",
+            "description": "من؛ تستخدم للسؤال عن بلد الأصل أو المكان الذي جاء منه الشخص."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "What is your name and where are you from?",
+        "ar": "ما اسمك ومن أين أنت؟",
+        "context": "تسأل شخصا جديدا عن اسمه وأصله."
+      },
+      {
+        "id": 2,
+        "en": "What is your name?",
+        "ar": "ما اسمك؟",
+        "context": "تسأل عن الاسم فقط."
+      },
+      {
+        "id": 3,
+        "en": "Where are you from?",
+        "ar": "من أين أنت؟",
+        "context": "تسأل عن بلد الشخص أو مكانه الأصلي."
+      },
+      {
+        "id": 4,
+        "en": "What is your name and what do you do?",
+        "ar": "ما اسمك وماذا تعمل؟",
+        "context": "تسأل عن الاسم والعمل في سؤال واحد."
+      },
+      {
+        "id": 5,
+        "en": "What is her name and where is she from?",
+        "ar": "ما اسمها ومن أين هي؟",
+        "context": "تسأل عن اسم امرأة أو فتاة وأصلها."
+      },
+      {
+        "id": 6,
+        "en": "What is his name and where is he from?",
+        "ar": "ما اسمه ومن أين هو؟",
+        "context": "تسأل عن اسم رجل أو ولد وأصله."
+      },
+      {
+        "id": 7,
+        "en": "My name is Omar, and I am from Jordan.",
+        "ar": "اسمي عمر، وأنا من الأردن.",
+        "context": "تعطي إجابة كاملة عن الاسم والأصل."
+      },
+      {
+        "id": 8,
+        "en": "Her name is Lina, and she is from Egypt.",
+        "ar": "اسمها لينا، وهي من مصر.",
+        "context": "تذكر اسم شخص آخر وبلده."
+      },
+      {
+        "id": 9,
+        "en": "Please tell me your name and where you are from.",
+        "ar": "من فضلك أخبرني باسمك ومن أين أنت.",
+        "context": "تطلب المعلومتين بصيغة أكثر تهذيبا."
+      },
+      {
+        "id": 10,
+        "en": "I asked him his name and where he was from.",
+        "ar": "سألته عن اسمه ومن أين هو.",
+        "context": "تنقل السؤال بصيغة الماضي."
+      }
+    ]
+  }
+}

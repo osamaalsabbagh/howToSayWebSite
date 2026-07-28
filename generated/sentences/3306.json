@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": 3306,
+  "sentence": {
+    "en": "He arranged the files yesterday.",
+    "ar": "هو رتب الملفات أمس.",
+    "context": "تنظيم أشياء في الماضي."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "He arranged the files yesterday.",
+        "ar": "هو رتب الملفات أمس.",
+        "context": "تخبر الجملة أنه نظم الملفات أو وضعها بترتيب معين في اليوم السابق.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "استُخدم arranged مع yesterday لأن الفعل حدث في وقت ماض محدد."
+        },
+        "wordMeanings": [
+          {
+            "term": "He",
+            "description": "هو؛ رجل أو ولد نتحدث عنه."
+          },
+          {
+            "term": "arranged",
+            "description": "رتب؛ نظم أشياء أو وضعها في نظام في الماضي."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف؛ تجعل files ملفات محددة."
+          },
+          {
+            "term": "files",
+            "description": "ملفات؛ أوراق أو مستندات أو ملفات رقمية."
+          },
+          {
+            "term": "yesterday",
+            "description": "أمس؛ اليوم السابق لليوم الحالي."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "He arranged the files yesterday.",
+        "ar": "هو رتب الملفات أمس.",
+        "context": "تصف تنظيما حدث أمس."
+      },
+      {
+        "id": 2,
+        "en": "She arranged the files yesterday.",
+        "ar": "هي رتبت الملفات أمس.",
+        "context": "تغير الفاعل إلى امرأة أو فتاة."
+      },
+      {
+        "id": 3,
+        "en": "He arranged the books yesterday.",
+        "ar": "رتب الكتب أمس.",
+        "context": "تغير الأشياء المرتبة."
+      },
+      {
+        "id": 4,
+        "en": "He did not arrange the files yesterday.",
+        "ar": "لم يرتب الملفات أمس.",
+        "context": "تنفي الترتيب."
+      },
+      {
+        "id": 5,
+        "en": "Did he arrange the files yesterday?",
+        "ar": "هل رتب الملفات أمس؟",
+        "context": "تسأل عن فعل ماض."
+      },
+      {
+        "id": 6,
+        "en": "He arranges the files every morning.",
+        "ar": "هو يرتب الملفات كل صباح.",
+        "context": "تصف عادة متكررة."
+      },
+      {
+        "id": 7,
+        "en": "He will arrange the files tomorrow.",
+        "ar": "سيرتب الملفات غدا.",
+        "context": "تتحدث عن ترتيب مستقبلي."
+      },
+      {
+        "id": 8,
+        "en": "He arranged the old files yesterday.",
+        "ar": "رتب الملفات القديمة أمس.",
+        "context": "تصف نوع الملفات."
+      },
+      {
+        "id": 9,
+        "en": "He arranged the files yesterday because the office was messy.",
+        "ar": "رتب الملفات أمس لأن المكتب كان فوضويا.",
+        "context": "تذكر سبب الترتيب."
+      },
+      {
+        "id": 10,
+        "en": "He arranged the files yesterday, but he lost one document.",
+        "ar": "رتب الملفات أمس، لكنه أضاع مستندا واحدا.",
+        "context": "تضيف مشكلة بعد الترتيب."
+      }
+    ]
+  }
+}

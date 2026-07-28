@@ -1,0 +1,123 @@
+{
+  "schemaVersion": 1,
+  "id": 3357,
+  "sentence": {
+    "en": "Finish your work before you leave.",
+    "ar": "أنه عملك قبل أن تغادر.",
+    "context": "حدث يجب أن يتم أولًا ثم يحدث المغادرة بعده مباشرة."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Finish your work",
+        "ar": "أنهِ عملك",
+        "context": "أمر مباشر يطلب من الشخص إكمال العمل.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه صيغة أمر، وليست زمنا خبريا."
+        },
+        "wordMeanings": [
+          {
+            "term": "Finish",
+            "description": "أنهِ أو أكمل؛ فعل أمر يطلب إتمام شيء."
+          },
+          {
+            "term": "your",
+            "description": "خاصتك؛ يدل على أن العمل يعود إلى المخاطب."
+          },
+          {
+            "term": "work",
+            "description": "عمل؛ المهمة أو الواجب المطلوب إكماله."
+          }
+        ]
+      },
+      {
+        "sentence": "before you leave",
+        "ar": "قبل أن تغادر",
+        "context": "تحدد أن إكمال العمل يجب أن يحدث أولا، ثم تأتي المغادرة بعده.",
+        "grammar": {
+          "tense": "المضارع البسيط في جملة زمنية",
+          "tenseEn": "Present Simple in a Time Clause",
+          "reason": "استُخدم leave بعد before رغم أن المعنى مستقبلي، لأن جمل الزمن في الإنجليزية تستخدم المضارع البسيط بعد before."
+        },
+        "wordMeanings": [
+          {
+            "term": "before",
+            "description": "قبل؛ تربط حدثا بحدث لاحق له."
+          },
+          {
+            "term": "you",
+            "description": "أنت؛ المخاطب."
+          },
+          {
+            "term": "leave",
+            "description": "تغادر؛ تخرج من المكان."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Finish your work before you leave.",
+        "ar": "أنهِ عملك قبل أن تغادر.",
+        "context": "تطلب إكمال العمل قبل الخروج."
+      },
+      {
+        "id": 2,
+        "en": "Finish your homework before you leave.",
+        "ar": "أنهِ واجبك قبل أن تغادر.",
+        "context": "تغير نوع العمل المطلوب."
+      },
+      {
+        "id": 3,
+        "en": "Finish your work before you go home.",
+        "ar": "أنهِ عملك قبل أن تذهب إلى المنزل.",
+        "context": "تحدد نوع المغادرة."
+      },
+      {
+        "id": 4,
+        "en": "Do not finish your work before you leave.",
+        "ar": "لا تُنهِ عملك قبل أن تغادر.",
+        "context": "تعطي أمرا منفيا، ولو كان أقل شيوعا في هذا السياق."
+      },
+      {
+        "id": 5,
+        "en": "Please finish your work before you leave.",
+        "ar": "من فضلك أنهِ عملك قبل أن تغادر.",
+        "context": "تجعل الأمر أكثر تهذيبا."
+      },
+      {
+        "id": 6,
+        "en": "You must finish your work before you leave.",
+        "ar": "يجب أن تنهي عملك قبل أن تغادر.",
+        "context": "تضيف إلزاما صريحا."
+      },
+      {
+        "id": 7,
+        "en": "Finish your work before the meeting starts.",
+        "ar": "أنهِ عملك قبل أن يبدأ الاجتماع.",
+        "context": "تغير الحدث الذي يأتي بعد العمل."
+      },
+      {
+        "id": 8,
+        "en": "Finish your work before you leave the office.",
+        "ar": "أنهِ عملك قبل أن تغادر المكتب.",
+        "context": "تحدد مكان المغادرة."
+      },
+      {
+        "id": 9,
+        "en": "Finish your work before you leave, or the report will be late.",
+        "ar": "أنهِ عملك قبل أن تغادر، وإلا سيتأخر التقرير.",
+        "context": "توضح نتيجة عدم الإكمال."
+      },
+      {
+        "id": 10,
+        "en": "The manager said, \"Finish your work before you leave.\"",
+        "ar": "قال المدير: \"أنهِ عملك قبل أن تغادر.\"",
+        "context": "تنقل الأمر كاقتباس من المدير."
+      }
+    ]
+  }
+}

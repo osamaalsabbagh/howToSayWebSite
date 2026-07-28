@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": 2814,
+  "sentence": {
+    "en": "I teach math at school.",
+    "ar": "أنا أدرّس رياضيات في المدرسة.",
+    "context": "وظيفة أو عمل معتاد."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "I teach math at school.",
+        "ar": "أنا أدرّس الرياضيات في المدرسة.",
+        "context": "تصف الجملة عملا أو وظيفة معتادة للمتكلم في المدرسة.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُخدم المضارع البسيط لأنه يصف وظيفة أو عملا معتادا."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير يعني أنا، ويشير إلى المتكلم."
+          },
+          {
+            "term": "teach",
+            "description": "أدرّس أو أعلّم."
+          },
+          {
+            "term": "math",
+            "description": "الرياضيات؛ مادة دراسية تشمل الأرقام والحساب."
+          },
+          {
+            "term": "at",
+            "description": "في؛ تستخدم هنا لتحديد مكان العمل أو الدراسة."
+          },
+          {
+            "term": "school",
+            "description": "مدرسة؛ مكان يتعلم فيه الطلاب."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I teach math at school.",
+        "ar": "أنا أدرّس الرياضيات في المدرسة.",
+        "context": "تصف وظيفة المتكلم."
+      },
+      {
+        "id": 2,
+        "en": "She teaches English at school.",
+        "ar": "هي تدرّس الإنجليزية في المدرسة.",
+        "context": "تصف مادة تدرسها معلمة."
+      },
+      {
+        "id": 3,
+        "en": "He teaches science at a high school.",
+        "ar": "هو يدرّس العلوم في مدرسة ثانوية.",
+        "context": "تصف عمل معلم ومكانه."
+      },
+      {
+        "id": 4,
+        "en": "I teach young children.",
+        "ar": "أنا أعلّم الأطفال الصغار.",
+        "context": "تحدد فئة الطلاب."
+      },
+      {
+        "id": 5,
+        "en": "We teach math every morning.",
+        "ar": "نحن ندرّس الرياضيات كل صباح.",
+        "context": "تصف عادة مرتبطة بوقت محدد."
+      },
+      {
+        "id": 6,
+        "en": "My father teaches at school.",
+        "ar": "أبي يدرّس في المدرسة.",
+        "context": "تصف عمل أحد أفراد العائلة."
+      },
+      {
+        "id": 7,
+        "en": "I do not teach math on Friday.",
+        "ar": "أنا لا أدرّس الرياضيات يوم الجمعة.",
+        "context": "تنفي العمل في يوم معين."
+      },
+      {
+        "id": 8,
+        "en": "Do you teach math at school?",
+        "ar": "هل تدرّس الرياضيات في المدرسة؟",
+        "context": "تسأل عن وظيفة أو مادة تدريس."
+      },
+      {
+        "id": 9,
+        "en": "The teacher teaches math clearly.",
+        "ar": "المعلم يدرّس الرياضيات بوضوح.",
+        "context": "تصف طريقة التدريس."
+      },
+      {
+        "id": 10,
+        "en": "I teach math because I enjoy numbers.",
+        "ar": "أنا أدرّس الرياضيات لأنني أستمتع بالأرقام.",
+        "context": "توضح سبب اختيار مادة التدريس."
+      }
+    ]
+  }
+}

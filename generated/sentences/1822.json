@@ -1,0 +1,131 @@
+{
+  "schemaVersion": 1,
+  "id": 1822,
+  "sentence": {
+    "en": "Be careful, the road is covered with ice.",
+    "ar": "كن حذرًا، الطريق مغطى بالجليد.",
+    "context": "حذر شخصًا من السير على سطح زلق بسبب تجمد الماء."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Be careful",
+        "ar": "كن حذرًا",
+        "context": "أمر قصير لتحذير شخص من خطر.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه صيغة أمر، والأمر لا يحمل زمنًا مستقلًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "Be",
+            "description": "كن أو تصرف بحالة معينة"
+          },
+          {
+            "term": "careful",
+            "description": "حذرًا أو منتبهًا"
+          }
+        ]
+      },
+      {
+        "sentence": "the road is covered with ice.",
+        "ar": "الطريق مغطى بالجليد.",
+        "context": "يوضح سبب التحذير وهو وجود الجليد على الطريق.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استخدم is covered لوصف حالة الطريق الحالية."
+        },
+        "wordMeanings": [
+          {
+            "term": "the",
+            "description": "أداة تعريف لمكان محدد"
+          },
+          {
+            "term": "road",
+            "description": "طريق"
+          },
+          {
+            "term": "is",
+            "description": "تربط الطريق بحالته"
+          },
+          {
+            "term": "covered",
+            "description": "مغطى"
+          },
+          {
+            "term": "with",
+            "description": "بـ أو بواسطة"
+          },
+          {
+            "term": "ice",
+            "description": "جليد أو ماء متجمد زلق"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Be careful, the floor is wet.",
+        "ar": "كن حذرًا، الأرض مبللة.",
+        "context": "يقال للتحذير من الانزلاق."
+      },
+      {
+        "id": 2,
+        "en": "The road is covered with snow.",
+        "ar": "الطريق مغطى بالثلج.",
+        "context": "يستخدم لوصف طريق شتوي."
+      },
+      {
+        "id": 3,
+        "en": "Be careful on the icy road.",
+        "ar": "كن حذرًا على الطريق الجليدي.",
+        "context": "يقال عند القيادة أو المشي على جليد."
+      },
+      {
+        "id": 4,
+        "en": "The bridge is covered with ice.",
+        "ar": "الجسر مغطى بالجليد.",
+        "context": "يستخدم للتحذير من سطح زلق."
+      },
+      {
+        "id": 5,
+        "en": "Be careful, the steps are slippery.",
+        "ar": "كن حذرًا، الدرج زلق.",
+        "context": "يقال عند احتمال السقوط."
+      },
+      {
+        "id": 6,
+        "en": "The car is covered with ice.",
+        "ar": "السيارة مغطاة بالجليد.",
+        "context": "يستخدم عن تجمد على سيارة."
+      },
+      {
+        "id": 7,
+        "en": "Be careful when you walk.",
+        "ar": "كن حذرًا عندما تمشي.",
+        "context": "يقال كنصيحة عامة."
+      },
+      {
+        "id": 8,
+        "en": "The sidewalk is covered with ice.",
+        "ar": "الرصيف مغطى بالجليد.",
+        "context": "يستخدم للتحذير من المشي."
+      },
+      {
+        "id": 9,
+        "en": "Drive slowly because the road is icy.",
+        "ar": "قد ببطء لأن الطريق جليدي.",
+        "context": "يقال في ظروف قيادة خطرة."
+      },
+      {
+        "id": 10,
+        "en": "The path is covered with water.",
+        "ar": "الممر مغطى بالماء.",
+        "context": "يستخدم لوصف سطح غير آمن."
+      }
+    ]
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": 3050,
+  "sentence": {
+    "en": "She washed the car yesterday.",
+    "ar": "هي غسلت السيارة أمس.",
+    "context": "تنظيف حدث في الماضي."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "She washed the car yesterday.",
+        "ar": "غسلت السيارة أمس.",
+        "context": "تصف الجملة أنها نظفت السيارة بالماء في اليوم السابق.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "استُخدم الماضي البسيط لأن washed يدل على غسل حدث في وقت ماض محدد بكلمة yesterday."
+        },
+        "wordMeanings": [
+          {
+            "term": "She",
+            "description": "ضمير يعني هي، ويشير إلى امرأة أو فتاة."
+          },
+          {
+            "term": "washed",
+            "description": "غسلت؛ التصريف الماضي من wash."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف تشير إلى سيارة محددة."
+          },
+          {
+            "term": "car",
+            "description": "سيارة؛ مركبة تسير على الطريق."
+          },
+          {
+            "term": "yesterday",
+            "description": "أمس؛ اليوم السابق لليوم الحالي."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "She washed the car yesterday.",
+        "ar": "غسلت السيارة أمس.",
+        "context": "تذكر غسل سيارة حدث أمس."
+      },
+      {
+        "id": 2,
+        "en": "He washed the car yesterday.",
+        "ar": "غسل السيارة أمس.",
+        "context": "تستخدم الجملة مع رجل أو ولد."
+      },
+      {
+        "id": 3,
+        "en": "She washed the bike yesterday.",
+        "ar": "غسلت الدراجة أمس.",
+        "context": "تغير الشيء الذي تم غسله."
+      },
+      {
+        "id": 4,
+        "en": "She did not wash the car yesterday.",
+        "ar": "لم تغسل السيارة أمس.",
+        "context": "تنفي غسل السيارة أمس."
+      },
+      {
+        "id": 5,
+        "en": "Did she wash the car yesterday?",
+        "ar": "هل غسلت السيارة أمس؟",
+        "context": "تسأل عن غسل السيارة."
+      },
+      {
+        "id": 6,
+        "en": "She washes the car every week.",
+        "ar": "تغسل السيارة كل أسبوع.",
+        "context": "تحول الغسل إلى عادة."
+      },
+      {
+        "id": 7,
+        "en": "She will wash the car tomorrow.",
+        "ar": "ستغسل السيارة غدا.",
+        "context": "تنقل الغسل إلى المستقبل."
+      },
+      {
+        "id": 8,
+        "en": "She washed the car yesterday in the driveway.",
+        "ar": "غسلت السيارة أمس في مدخل البيت.",
+        "context": "تحدد مكان الغسل."
+      },
+      {
+        "id": 9,
+        "en": "She washed the car yesterday because it was dirty.",
+        "ar": "غسلت السيارة أمس لأنها كانت متسخة.",
+        "context": "توضح سبب الغسل."
+      },
+      {
+        "id": 10,
+        "en": "After she washed the car yesterday, it looked new.",
+        "ar": "بعد أن غسلت السيارة أمس، بدت كأنها جديدة.",
+        "context": "تربط الغسل بنتيجة."
+      }
+    ]
+  }
+}

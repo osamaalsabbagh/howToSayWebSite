@@ -1,0 +1,127 @@
+{
+  "schemaVersion": 1,
+  "id": 3102,
+  "sentence": {
+    "en": "She is the one who helped me.",
+    "ar": "هي الشخص الذي ساعدني.",
+    "context": "ربط شخص بالفعل الذي قام به."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "She is the one",
+        "ar": "هي الشخص",
+        "context": "الجزء الأول يحدد المرأة أو الفتاة المقصودة من بين الآخرين.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُخدم المضارع البسيط لأن is يعرّف الشخص المقصود الآن."
+        },
+        "wordMeanings": [
+          {
+            "term": "She",
+            "description": "هي؛ تشير إلى امرأة أو فتاة."
+          },
+          {
+            "term": "is",
+            "description": "هي أو تكون؛ فعل be يربط الضمير بالوصف."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف تجعل one تشير إلى شخص محدد."
+          },
+          {
+            "term": "one",
+            "description": "الشخص أو الواحدة؛ تستخدم هنا بمعنى الشخص المقصود."
+          }
+        ]
+      },
+      {
+        "sentence": "who helped me.",
+        "ar": "الذي ساعدني.",
+        "context": "الجزء الثاني يوضح الفعل الذي قامت به في الماضي.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "استُخدم الماضي البسيط لأن helped يشير إلى مساعدة حدثت وانتهت في الماضي."
+        },
+        "wordMeanings": [
+          {
+            "term": "who",
+            "description": "الذي أو التي؛ ضمير وصل يشير إلى الشخص."
+          },
+          {
+            "term": "helped",
+            "description": "ساعد؛ قدم مساعدة أو دعما في الماضي."
+          },
+          {
+            "term": "me",
+            "description": "ني أو لي؛ ضمير مفعول به يشير إلى المتكلم."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "She is the one who helped me.",
+        "ar": "هي الشخص الذي ساعدني.",
+        "context": "تحدد الشخص الذي قدم لك المساعدة."
+      },
+      {
+        "id": 2,
+        "en": "He is the one who helped me.",
+        "ar": "هو الشخص الذي ساعدني.",
+        "context": "تغير الضمير إلى رجل أو ولد."
+      },
+      {
+        "id": 3,
+        "en": "She is the one who called me.",
+        "ar": "هي الشخص الذي اتصل بي.",
+        "context": "تحدد الشخص من خلال فعل آخر."
+      },
+      {
+        "id": 4,
+        "en": "She is the one who helped my sister.",
+        "ar": "هي الشخص الذي ساعد أختي.",
+        "context": "تغير الشخص الذي تلقى المساعدة."
+      },
+      {
+        "id": 5,
+        "en": "Is she the one who helped me?",
+        "ar": "هل هي الشخص الذي ساعدني؟",
+        "context": "تسأل للتأكد من هوية المساعدة."
+      },
+      {
+        "id": 6,
+        "en": "She is not the one who helped me.",
+        "ar": "هي ليست الشخص الذي ساعدني.",
+        "context": "تنفي أن تكون هي الشخص المقصود."
+      },
+      {
+        "id": 7,
+        "en": "She was the one who helped me yesterday.",
+        "ar": "كانت هي الشخص الذي ساعدني أمس.",
+        "context": "تنقل التعريف والمساعدة إلى الماضي."
+      },
+      {
+        "id": 8,
+        "en": "She will be the one who helps me tomorrow.",
+        "ar": "ستكون هي الشخص الذي سيساعدني غدا.",
+        "context": "تتحدث عن مساعدة مستقبلية."
+      },
+      {
+        "id": 9,
+        "en": "I know she is the one who helped me.",
+        "ar": "أعرف أنها الشخص الذي ساعدني.",
+        "context": "تؤكد معرفتك بهوية الشخص."
+      },
+      {
+        "id": 10,
+        "en": "Thank the one who helped me.",
+        "ar": "اشكر الشخص الذي ساعدني.",
+        "context": "تطلب شكر صاحب المساعدة."
+      }
+    ]
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "id": 3162,
+  "sentence": {
+    "en": "Yes, that is correct.",
+    "ar": "نعم، ذلك صحيح.",
+    "context": "تأكيد صحة معلومة."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Yes, that is correct.",
+        "ar": "نعم، هذا صحيح.",
+        "context": "تستخدم الجملة لتأكيد أن معلومة أو إجابة صحيحة.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُخدم المضارع البسيط مع is لوصف صحة المعلومة الآن."
+        },
+        "wordMeanings": [
+          {
+            "term": "Yes",
+            "description": "نعم؛ كلمة تأكيد."
+          },
+          {
+            "term": "that",
+            "description": "ذلك أو هذا؛ تشير إلى المعلومة أو الإجابة المذكورة."
+          },
+          {
+            "term": "is",
+            "description": "هو أو يكون؛ يربط that بالصفة correct."
+          },
+          {
+            "term": "correct",
+            "description": "صحيح؛ مطابق للحقيقة أو للإجابة المطلوبة."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Yes, that is correct.",
+        "ar": "نعم، هذا صحيح.",
+        "context": "تؤكد صحة معلومة."
+      },
+      {
+        "id": 2,
+        "en": "Yes, this is correct.",
+        "ar": "نعم، هذا صحيح.",
+        "context": "تشير إلى شيء قريب أو أمامك."
+      },
+      {
+        "id": 3,
+        "en": "No, that is not correct.",
+        "ar": "لا، هذا ليس صحيحا.",
+        "context": "تنفي صحة المعلومة."
+      },
+      {
+        "id": 4,
+        "en": "Is that correct?",
+        "ar": "هل هذا صحيح؟",
+        "context": "تطلب تأكيدا."
+      },
+      {
+        "id": 5,
+        "en": "That answer is correct.",
+        "ar": "تلك الإجابة صحيحة.",
+        "context": "تؤكد صحة إجابة محددة."
+      },
+      {
+        "id": 6,
+        "en": "That was correct yesterday.",
+        "ar": "كان ذلك صحيحا أمس.",
+        "context": "تتحدث عن صحة معلومة في الماضي."
+      },
+      {
+        "id": 7,
+        "en": "That will be correct after the update.",
+        "ar": "سيكون ذلك صحيحا بعد التحديث.",
+        "context": "تتحدث عن صحة مستقبلية مشروطة بتغيير."
+      },
+      {
+        "id": 8,
+        "en": "Yes, that is exactly correct.",
+        "ar": "نعم، هذا صحيح تماما.",
+        "context": "تؤكد بدقة أكبر."
+      },
+      {
+        "id": 9,
+        "en": "The teacher said that is correct.",
+        "ar": "قال المعلم إن هذا صحيح.",
+        "context": "تنقل تأكيد شخص آخر."
+      },
+      {
+        "id": 10,
+        "en": "Check the number again to see if that is correct.",
+        "ar": "تحقق من الرقم مرة أخرى لترى إن كان هذا صحيحا.",
+        "context": "تطلب التحقق من صحة معلومة."
+      }
+    ]
+  }
+}

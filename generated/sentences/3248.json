@@ -1,0 +1,111 @@
+{
+  "schemaVersion": 1,
+  "id": 3248,
+  "sentence": {
+    "en": "I have already finished the work.",
+    "ar": "أنا أنهيت العمل بالفعل.",
+    "context": "حدث اكتمل قبل الآن وله أثر مستمر."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "I have already finished the work.",
+        "ar": "لقد أنهيت العمل بالفعل.",
+        "context": "توضح الجملة أن العمل اكتمل قبل لحظة الكلام، لذلك لا حاجة لفعله الآن.",
+        "grammar": {
+          "tense": "المضارع التام",
+          "tenseEn": "Present Perfect",
+          "reason": "استُخدم have finished لأن التركيز على نتيجة الإنهاء حتى الآن، وalready يبين أن الأمر حدث قبل المتوقع أو قبل الآن."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "أنا؛ المتكلم."
+          },
+          {
+            "term": "have",
+            "description": "فعل مساعد مع I في المضارع التام."
+          },
+          {
+            "term": "already",
+            "description": "بالفعل أو من قبل؛ يدل على أن الشيء حدث قبل الآن أو قبل المتوقع."
+          },
+          {
+            "term": "finished",
+            "description": "أنهيت؛ التصريف الثالث من finish هنا."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف؛ تجعل work عملا محددا."
+          },
+          {
+            "term": "work",
+            "description": "عمل؛ مهمة أو واجب يجب إنجازه."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I have already finished the work.",
+        "ar": "لقد أنهيت العمل بالفعل.",
+        "context": "تقول إن العمل مكتمل قبل الآن."
+      },
+      {
+        "id": 2,
+        "en": "She has already finished the work.",
+        "ar": "لقد أنهت العمل بالفعل.",
+        "context": "تتحدث عن شخص آخر."
+      },
+      {
+        "id": 3,
+        "en": "I have already finished the report.",
+        "ar": "لقد أنهيت التقرير بالفعل.",
+        "context": "تغير الشيء المنجز."
+      },
+      {
+        "id": 4,
+        "en": "I have not already finished the work.",
+        "ar": "لم أكن قد أنهيت العمل بالفعل.",
+        "context": "تنفي حدوث الإنهاء مبكرا أو قبل الآن."
+      },
+      {
+        "id": 5,
+        "en": "Have you already finished the work?",
+        "ar": "هل أنهيت العمل بالفعل؟",
+        "context": "تسأل إن كان العمل اكتمل قبل الآن."
+      },
+      {
+        "id": 6,
+        "en": "I already finished the work yesterday.",
+        "ar": "أنهيت العمل بالفعل أمس.",
+        "context": "تستخدم الماضي البسيط مع وقت محدد."
+      },
+      {
+        "id": 7,
+        "en": "I will have already finished the work by noon.",
+        "ar": "سأكون قد أنهيت العمل بالفعل بحلول الظهر.",
+        "context": "تتحدث عن اكتمال سابق لوقت مستقبلي."
+      },
+      {
+        "id": 8,
+        "en": "I have already finished the hard work.",
+        "ar": "لقد أنهيت العمل الصعب بالفعل.",
+        "context": "تصف نوع العمل المنجز."
+      },
+      {
+        "id": 9,
+        "en": "I have already finished the work, so I can help you.",
+        "ar": "لقد أنهيت العمل بالفعل، لذلك يمكنني مساعدتك.",
+        "context": "تذكر نتيجة الإنهاء."
+      },
+      {
+        "id": 10,
+        "en": "I have already finished the work, but I need to review it.",
+        "ar": "لقد أنهيت العمل بالفعل، لكنني أحتاج إلى مراجعته.",
+        "context": "تضيف خطوة بعد الإنهاء."
+      }
+    ]
+  }
+}

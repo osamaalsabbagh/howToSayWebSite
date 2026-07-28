@@ -1,0 +1,139 @@
+{
+  "schemaVersion": 1,
+  "id": 3107,
+  "sentence": {
+    "en": "I will call you tomorrow to talk about the plan.",
+    "ar": "أنا سأتصل بك غدًا لنتحدث عن الخطة.",
+    "context": "قرار للتواصل في وقت قادم محدد مع توضيح سبب الاتصال."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "I will call you tomorrow",
+        "ar": "سأتصل بك غدا",
+        "context": "الجزء الأول يحدد فعلا مستقبليا ووقته: الاتصال غدا.",
+        "grammar": {
+          "tense": "المستقبل البسيط",
+          "tenseEn": "Future Simple",
+          "reason": "استُخدم will مع الفعل call للتعبير عن قرار أو وعد بفعل شيء في المستقبل."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "أنا؛ المتكلم."
+          },
+          {
+            "term": "will",
+            "description": "سوف أو سـ؛ فعل مساعد يدل على المستقبل."
+          },
+          {
+            "term": "call",
+            "description": "أتصل؛ أجري مكالمة هاتفية أو أتواصل معك."
+          },
+          {
+            "term": "you",
+            "description": "بك أو لك؛ الشخص المخاطب الذي سيتلقى الاتصال."
+          },
+          {
+            "term": "tomorrow",
+            "description": "غدا؛ اليوم الذي يلي اليوم الحالي."
+          }
+        ]
+      },
+      {
+        "sentence": "to talk about the plan.",
+        "ar": "لنتحدث عن الخطة.",
+        "context": "الجزء الثاني يوضح سبب الاتصال أو هدفه.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه عبارة مصدرية تبدأ بـ to وتبين الغرض من الاتصال، وليست زمنا مستقلا."
+        },
+        "wordMeanings": [
+          {
+            "term": "to",
+            "description": "لـ أو لكي؛ تستخدم هنا لبيان الهدف."
+          },
+          {
+            "term": "talk",
+            "description": "نتحدث؛ نناقش أو نتكلم مع شخص."
+          },
+          {
+            "term": "about",
+            "description": "عن؛ تحدد موضوع الحديث."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف قبل plan لأن الخطة معروفة في السياق."
+          },
+          {
+            "term": "plan",
+            "description": "الخطة؛ ترتيب أو فكرة لما سيتم عمله."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I will call you tomorrow to talk about the plan.",
+        "ar": "سأتصل بك غدا لنتحدث عن الخطة.",
+        "context": "تحدد وقت الاتصال وسببه."
+      },
+      {
+        "id": 2,
+        "en": "I will call you tonight to talk about the plan.",
+        "ar": "سأتصل بك الليلة لنتحدث عن الخطة.",
+        "context": "تغير وقت الاتصال إلى الليلة."
+      },
+      {
+        "id": 3,
+        "en": "I will email you tomorrow to explain the plan.",
+        "ar": "سأرسل لك بريدا إلكترونيا غدا لأشرح الخطة.",
+        "context": "تغير وسيلة التواصل والغرض."
+      },
+      {
+        "id": 4,
+        "en": "Will you call me tomorrow?",
+        "ar": "هل ستتصل بي غدا؟",
+        "context": "تسأل عن اتصال مستقبلي."
+      },
+      {
+        "id": 5,
+        "en": "I will not call you tomorrow.",
+        "ar": "لن أتصل بك غدا.",
+        "context": "تنفي حدوث الاتصال في المستقبل."
+      },
+      {
+        "id": 6,
+        "en": "I called you yesterday to talk about the plan.",
+        "ar": "اتصلت بك أمس لنتحدث عن الخطة.",
+        "context": "تنقل الاتصال إلى الماضي."
+      },
+      {
+        "id": 7,
+        "en": "I call you every Monday to review the plan.",
+        "ar": "أتصل بك كل يوم اثنين لمراجعة الخطة.",
+        "context": "تصف عادة متكررة."
+      },
+      {
+        "id": 8,
+        "en": "She will call you tomorrow about the plan.",
+        "ar": "ستتصل بك غدا بشأن الخطة.",
+        "context": "تغير المتصل إلى امرأة أو فتاة."
+      },
+      {
+        "id": 9,
+        "en": "I will meet you tomorrow to talk about the plan.",
+        "ar": "سأقابلك غدا لنتحدث عن الخطة.",
+        "context": "تغير الفعل من الاتصال إلى المقابلة."
+      },
+      {
+        "id": 10,
+        "en": "Please call me tomorrow to talk about the plan.",
+        "ar": "من فضلك اتصل بي غدا لنتحدث عن الخطة.",
+        "context": "تطلب من الشخص أن يتصل للغرض نفسه."
+      }
+    ]
+  }
+}

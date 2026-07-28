@@ -1,0 +1,111 @@
+{
+  "schemaVersion": 1,
+  "id": 2980,
+  "sentence": {
+    "en": "The cat is under the table.",
+    "ar": "القطة تحت الطاولة.",
+    "context": "موقع شيء أسفل شيء آخر."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "The cat is under the table.",
+        "ar": "القطة تحت الطاولة.",
+        "context": "تصف الجملة مكان القطة بأنها أسفل الطاولة.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُخدم المضارع البسيط لأن is يصف موقع القطة الآن."
+        },
+        "wordMeanings": [
+          {
+            "term": "The",
+            "description": "أداة تعريف تشير إلى قطة محددة."
+          },
+          {
+            "term": "cat",
+            "description": "قطة؛ حيوان أليف."
+          },
+          {
+            "term": "is",
+            "description": "فعل يكون في المضارع، ويربط cat بمكانها."
+          },
+          {
+            "term": "under",
+            "description": "تحت؛ في موضع أسفل شيء آخر."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف تشير إلى طاولة محددة."
+          },
+          {
+            "term": "table",
+            "description": "طاولة؛ قطعة أثاث توضع عليها الأشياء."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "The cat is under the table.",
+        "ar": "القطة تحت الطاولة.",
+        "context": "تصف مكان القطة."
+      },
+      {
+        "id": 2,
+        "en": "The dog is under the table.",
+        "ar": "الكلب تحت الطاولة.",
+        "context": "تغير الحيوان الموجود أسفل الطاولة."
+      },
+      {
+        "id": 3,
+        "en": "The cat is on the table.",
+        "ar": "القطة على الطاولة.",
+        "context": "تستخدم موضعا مختلفا."
+      },
+      {
+        "id": 4,
+        "en": "The cat is not under the table.",
+        "ar": "القطة ليست تحت الطاولة.",
+        "context": "تنفي مكان القطة."
+      },
+      {
+        "id": 5,
+        "en": "Is the cat under the table?",
+        "ar": "هل القطة تحت الطاولة؟",
+        "context": "تسأل عن مكان القطة."
+      },
+      {
+        "id": 6,
+        "en": "The cat was under the table yesterday.",
+        "ar": "كانت القطة تحت الطاولة أمس.",
+        "context": "تنقل المكان إلى الماضي."
+      },
+      {
+        "id": 7,
+        "en": "The cat will be under the table if it is afraid.",
+        "ar": "ستكون القطة تحت الطاولة إذا كانت خائفة.",
+        "context": "تصف مكانا محتملا في المستقبل."
+      },
+      {
+        "id": 8,
+        "en": "The cat is sleeping under the table.",
+        "ar": "القطة نائمة تحت الطاولة.",
+        "context": "تضيف ما تفعله القطة هناك."
+      },
+      {
+        "id": 9,
+        "en": "Look under the table; the cat is there.",
+        "ar": "انظر تحت الطاولة؛ القطة هناك.",
+        "context": "تستخدم under داخل توجيه."
+      },
+      {
+        "id": 10,
+        "en": "If the cat is under the table, do not move the chair.",
+        "ar": "إذا كانت القطة تحت الطاولة، فلا تحرك الكرسي.",
+        "context": "تستخدم الجملة داخل تحذير."
+      }
+    ]
+  }
+}

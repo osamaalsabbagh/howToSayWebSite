@@ -1,0 +1,127 @@
+{
+  "schemaVersion": 1,
+  "id": 3096,
+  "sentence": {
+    "en": "This is the place where we met.",
+    "ar": "هذا هو المكان حيث التقينا.",
+    "context": "ربط مكان بحدث حصل فيه."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "This is the place",
+        "ar": "هذا هو المكان",
+        "context": "الجزء الأول يحدد مكانا موجودا أمام المتكلم أو معروفا في السياق.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُخدم المضارع البسيط لأن is يربط this بالمكان المشار إليه الآن."
+        },
+        "wordMeanings": [
+          {
+            "term": "This",
+            "description": "هذا؛ تشير إلى شيء أو مكان قريب أو حاضر في الحديث."
+          },
+          {
+            "term": "is",
+            "description": "هو أو يكون؛ فعل be يربط الإشارة بالمكان."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف تجعل place مكانا محددا معروفا."
+          },
+          {
+            "term": "place",
+            "description": "مكان؛ موقع أو بقعة معينة."
+          }
+        ]
+      },
+      {
+        "sentence": "where we met.",
+        "ar": "حيث التقينا.",
+        "context": "الجزء الثاني يوضح أن اللقاء السابق حدث في ذلك المكان.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "استُخدم الماضي البسيط لأن met يشير إلى لقاء مكتمل في الماضي."
+        },
+        "wordMeanings": [
+          {
+            "term": "where",
+            "description": "حيث؛ تربط المكان بالفعل الذي حدث فيه."
+          },
+          {
+            "term": "we",
+            "description": "نحن؛ المتكلم وشخص آخر أو مجموعة معه."
+          },
+          {
+            "term": "met",
+            "description": "التقينا؛ الماضي من meet، أي قابلنا بعضنا في ذلك المكان."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "This is the place where we met.",
+        "ar": "هذا هو المكان الذي التقينا فيه.",
+        "context": "تحدد مكان لقاء سابق."
+      },
+      {
+        "id": 2,
+        "en": "This is the place where we first met.",
+        "ar": "هذا هو المكان الذي التقينا فيه أول مرة.",
+        "context": "تؤكد أن المكان مرتبط بأول لقاء."
+      },
+      {
+        "id": 3,
+        "en": "That is the cafe where we met.",
+        "ar": "ذلك هو المقهى الذي التقينا فيه.",
+        "context": "تحدد المقهى الذي حدث فيه اللقاء."
+      },
+      {
+        "id": 4,
+        "en": "This is the room where we met the manager.",
+        "ar": "هذه هي الغرفة التي التقينا فيها المدير.",
+        "context": "تربط غرفة بلقاء شخص معين."
+      },
+      {
+        "id": 5,
+        "en": "Is this the place where we met?",
+        "ar": "هل هذا هو المكان الذي التقينا فيه؟",
+        "context": "تسأل للتأكد من مكان اللقاء."
+      },
+      {
+        "id": 6,
+        "en": "This is not the place where we met.",
+        "ar": "هذا ليس المكان الذي التقينا فيه.",
+        "context": "تنفي أن يكون هذا هو مكان اللقاء."
+      },
+      {
+        "id": 7,
+        "en": "This was the place where we met.",
+        "ar": "كان هذا هو المكان الذي التقينا فيه.",
+        "context": "تتحدث عن المكان من منظور ماض."
+      },
+      {
+        "id": 8,
+        "en": "This will be the place where we meet.",
+        "ar": "سيكون هذا هو المكان الذي سنلتقي فيه.",
+        "context": "تتحدث عن مكان لقاء مستقبلي."
+      },
+      {
+        "id": 9,
+        "en": "I remember the place where we met.",
+        "ar": "أتذكر المكان الذي التقينا فيه.",
+        "context": "تربط الذكرى بمكان اللقاء."
+      },
+      {
+        "id": 10,
+        "en": "Show me the place where you met.",
+        "ar": "أرني المكان الذي التقيتما فيه.",
+        "context": "تطلب من شخص تحديد مكان لقاء."
+      }
+    ]
+  }
+}

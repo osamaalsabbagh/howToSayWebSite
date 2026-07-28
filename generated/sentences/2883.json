@@ -1,0 +1,139 @@
+{
+  "schemaVersion": 1,
+  "id": 2883,
+  "sentence": {
+    "en": "I am thirsty and I need to drink some water.",
+    "ar": "أنا عطشان وأحتاج أن أشرب بعض الماء.",
+    "context": "التعبير عن شعور حالي بالحاجة إلى شرب الماء، مع توضيح أن هذا الشعور يؤدي إلى رغبة مباشرة في الشرب الآن."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "I am thirsty",
+        "ar": "أنا عطشان.",
+        "context": "الجزء الأول يصف شعورا حاليا بالعطش.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُخدم am في المضارع البسيط لوصف حالة حالية للمتكلم."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير يعني أنا، ويشير إلى المتكلم."
+          },
+          {
+            "term": "am",
+            "description": "أكون أو أنا؛ فعل يكون مع I."
+          },
+          {
+            "term": "thirsty",
+            "description": "عطشان؛ يحتاج إلى شرب ماء أو سائل."
+          }
+        ]
+      },
+      {
+        "sentence": "and I need to drink some water.",
+        "ar": "وأحتاج إلى شرب بعض الماء.",
+        "context": "الجزء الثاني يشرح نتيجة العطش: الحاجة إلى شرب الماء.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُخدم need في المضارع البسيط لأنه يصف حاجة حالية."
+        },
+        "wordMeanings": [
+          {
+            "term": "and",
+            "description": "و؛ تربط بين الشعور والحاجة الناتجة عنه."
+          },
+          {
+            "term": "I",
+            "description": "ضمير يعني أنا، ويشير إلى المتكلم."
+          },
+          {
+            "term": "need",
+            "description": "أحتاج؛ يدل على ضرورة أو حاجة."
+          },
+          {
+            "term": "to",
+            "description": "أن؛ تأتي قبل الفعل drink لتكوين المصدر."
+          },
+          {
+            "term": "drink",
+            "description": "أشرب؛ أتناول سائلا."
+          },
+          {
+            "term": "some",
+            "description": "بعض؛ كمية غير محددة."
+          },
+          {
+            "term": "water",
+            "description": "ماء؛ سائل أساسي للشرب."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I am thirsty and I need to drink some water.",
+        "ar": "أنا عطشان وأحتاج إلى شرب بعض الماء.",
+        "context": "تربط بين العطش والحاجة إلى الماء."
+      },
+      {
+        "id": 2,
+        "en": "She is thirsty and needs some water.",
+        "ar": "هي عطشانة وتحتاج إلى بعض الماء.",
+        "context": "تصف حاجة شخص آخر إلى الماء."
+      },
+      {
+        "id": 3,
+        "en": "I am tired and I need to rest.",
+        "ar": "أنا متعب وأحتاج إلى الراحة.",
+        "context": "تستخدم نفس البناء مع شعور آخر."
+      },
+      {
+        "id": 4,
+        "en": "He is thirsty after running.",
+        "ar": "هو عطشان بعد الجري.",
+        "context": "توضح سبب العطش."
+      },
+      {
+        "id": 5,
+        "en": "I need to drink water now.",
+        "ar": "أحتاج إلى شرب الماء الآن.",
+        "context": "تؤكد الحاجة الحالية."
+      },
+      {
+        "id": 6,
+        "en": "I am not thirsty now.",
+        "ar": "أنا لست عطشانا الآن.",
+        "context": "تنفي الشعور بالعطش."
+      },
+      {
+        "id": 7,
+        "en": "Are you thirsty?",
+        "ar": "هل أنت عطشان؟",
+        "context": "تسأل عن الشعور بالعطش."
+      },
+      {
+        "id": 8,
+        "en": "The children are thirsty and need water.",
+        "ar": "الأطفال عطشى ويحتاجون إلى الماء.",
+        "context": "تصف حاجة مجموعة إلى الماء."
+      },
+      {
+        "id": 9,
+        "en": "I am thirsty because the weather is hot.",
+        "ar": "أنا عطشان لأن الطقس حار.",
+        "context": "توضح سبب العطش."
+      },
+      {
+        "id": 10,
+        "en": "Please give me some water because I am thirsty.",
+        "ar": "من فضلك أعطني بعض الماء لأنني عطشان.",
+        "context": "تطلب الماء بسبب العطش."
+      }
+    ]
+  }
+}

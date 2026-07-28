@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "id": 3355,
+  "sentence": {
+    "en": "The meat is beef.",
+    "ar": "اللحم هو لحم بقر.",
+    "context": "تحديد نوع اللحم أنه مأخوذ من البقر."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "The meat is beef.",
+        "ar": "اللحم هو لحم بقر.",
+        "context": "تحدد الجملة نوع اللحم وتقول إنه من البقر، وليس دجاجا أو غنما مثلا.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُخدم is لربط meat بنوعه الحالي."
+        },
+        "wordMeanings": [
+          {
+            "term": "The",
+            "description": "أداة تعريف؛ تجعل meat لحما محددا في الحديث."
+          },
+          {
+            "term": "meat",
+            "description": "لحم؛ الطعام المأخوذ من الحيوان."
+          },
+          {
+            "term": "is",
+            "description": "هو أو يكون؛ فعل ربط في المضارع."
+          },
+          {
+            "term": "beef",
+            "description": "لحم بقر؛ نوع اللحم المأخوذ من الأبقار."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "The meat is beef.",
+        "ar": "اللحم هو لحم بقر.",
+        "context": "تحدد نوع اللحم الموجود."
+      },
+      {
+        "id": 2,
+        "en": "The meat is chicken.",
+        "ar": "اللحم هو دجاج.",
+        "context": "تغير نوع اللحم."
+      },
+      {
+        "id": 3,
+        "en": "This meat is beef.",
+        "ar": "هذا اللحم لحم بقر.",
+        "context": "تشير إلى قطعة لحم محددة."
+      },
+      {
+        "id": 4,
+        "en": "The meat is not beef.",
+        "ar": "اللحم ليس لحم بقر.",
+        "context": "تنفي أن اللحم من البقر."
+      },
+      {
+        "id": 5,
+        "en": "Is the meat beef?",
+        "ar": "هل اللحم لحم بقر؟",
+        "context": "تسأل عن نوع اللحم."
+      },
+      {
+        "id": 6,
+        "en": "The meat was beef.",
+        "ar": "كان اللحم لحم بقر.",
+        "context": "تتحدث عن نوع اللحم في الماضي."
+      },
+      {
+        "id": 7,
+        "en": "The meat is beef, so I cannot eat it.",
+        "ar": "اللحم لحم بقر، لذلك لا أستطيع أكله.",
+        "context": "تربط نوع اللحم بسبب شخصي."
+      },
+      {
+        "id": 8,
+        "en": "The meat in this dish is beef.",
+        "ar": "اللحم في هذا الطبق لحم بقر.",
+        "context": "تحدد نوع اللحم داخل طبق."
+      },
+      {
+        "id": 9,
+        "en": "The waiter said the meat is beef.",
+        "ar": "قال النادل إن اللحم لحم بقر.",
+        "context": "تنقل معلومة عن نوع اللحم."
+      },
+      {
+        "id": 10,
+        "en": "The meat is beef, but the sauce is vegetarian.",
+        "ar": "اللحم لحم بقر، لكن الصلصة نباتية.",
+        "context": "تقارن بين مكونين في الطعام."
+      }
+    ]
+  }
+}

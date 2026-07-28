@@ -1,0 +1,115 @@
+{
+  "schemaVersion": 1,
+  "id": 2007,
+  "sentence": {
+    "en": "The swimming pool is 25 meters wide.",
+    "ar": "حوض السباحة خمسة وعشرون مترًا عَرْضًا.",
+    "context": "عرض حوض السباحة يساوي خمسة وعشرين مترًا."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "The swimming pool is 25 meters wide.",
+        "ar": "حوض السباحة عرضه خمسة وعشرون مترًا.",
+        "context": "تصف الجملة قياس عرض حوض السباحة.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُخدم المضارع البسيط مع is لوصف قياس ثابت أو حالي لشيء."
+        },
+        "wordMeanings": [
+          {
+            "term": "The",
+            "description": "أداة تعريف لحوض محدد"
+          },
+          {
+            "term": "swimming",
+            "description": "سباحة، وتصف نوع الحوض"
+          },
+          {
+            "term": "pool",
+            "description": "حوض أو مسبح"
+          },
+          {
+            "term": "is",
+            "description": "صيغة تعني يكون أو يبلغ في القياس"
+          },
+          {
+            "term": "25",
+            "description": "خمسة وعشرون"
+          },
+          {
+            "term": "meters",
+            "description": "أمتار، وحدة قياس للطول"
+          },
+          {
+            "term": "wide",
+            "description": "عريض أو عرضه يبلغ"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "The room is four meters wide.",
+        "ar": "الغرفة عرضها أربعة أمتار.",
+        "context": "تقال عند وصف عرض غرفة."
+      },
+      {
+        "id": 2,
+        "en": "The pool is ten meters long.",
+        "ar": "المسبح طوله عشرة أمتار.",
+        "context": "تقال عند قياس طول مسبح."
+      },
+      {
+        "id": 3,
+        "en": "This road is six meters wide.",
+        "ar": "هذا الطريق عرضه ستة أمتار.",
+        "context": "تقال عند وصف عرض طريق."
+      },
+      {
+        "id": 4,
+        "en": "The table is two meters long.",
+        "ar": "الطاولة طولها متران.",
+        "context": "تقال عند قياس طول طاولة."
+      },
+      {
+        "id": 5,
+        "en": "The garden is 20 meters wide.",
+        "ar": "الحديقة عرضها عشرون مترًا.",
+        "context": "تقال عند وصف عرض مساحة خارجية."
+      },
+      {
+        "id": 6,
+        "en": "The river is very wide here.",
+        "ar": "النهر عريض جدًا هنا.",
+        "context": "تقال عند وصف عرض نهر دون رقم."
+      },
+      {
+        "id": 7,
+        "en": "The swimming pool is clean.",
+        "ar": "حوض السباحة نظيف.",
+        "context": "تقال عند وصف حالة المسبح."
+      },
+      {
+        "id": 8,
+        "en": "The bridge is 30 meters long.",
+        "ar": "الجسر طوله ثلاثون مترًا.",
+        "context": "تقال عند وصف طول جسر."
+      },
+      {
+        "id": 9,
+        "en": "The hallway is two meters wide.",
+        "ar": "الممر عرضه متران.",
+        "context": "تقال عند قياس ممر."
+      },
+      {
+        "id": 10,
+        "en": "The field is 50 meters wide.",
+        "ar": "الملعب عرضه خمسون مترًا.",
+        "context": "تقال عند وصف قياس ملعب."
+      }
+    ]
+  }
+}

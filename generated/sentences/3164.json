@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "id": 3164,
+  "sentence": {
+    "en": "Yesterday was very cold.",
+    "ar": "أمس كان باردًا جدًا.",
+    "context": "استخدام الكلمة كاسم ليوم سابق."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Yesterday was very cold.",
+        "ar": "كان أمس باردا جدا.",
+        "context": "تصف الجملة طقس اليوم السابق بأنه شديد البرودة.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "استُخدم الماضي البسيط مع was لأن الجملة تصف حالة الطقس في يوم ماض."
+        },
+        "wordMeanings": [
+          {
+            "term": "Yesterday",
+            "description": "أمس؛ اليوم السابق لليوم الحالي."
+          },
+          {
+            "term": "was",
+            "description": "كان؛ الماضي من is."
+          },
+          {
+            "term": "very",
+            "description": "جدا؛ تقوي معنى الصفة."
+          },
+          {
+            "term": "cold",
+            "description": "بارد؛ منخفض الحرارة."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Yesterday was very cold.",
+        "ar": "كان أمس باردا جدا.",
+        "context": "تصف طقس اليوم السابق."
+      },
+      {
+        "id": 2,
+        "en": "Yesterday was very hot.",
+        "ar": "كان أمس حارا جدا.",
+        "context": "تغير وصف الطقس."
+      },
+      {
+        "id": 3,
+        "en": "Yesterday was very busy.",
+        "ar": "كان أمس مزدحما جدا.",
+        "context": "تصف اليوم من ناحية الأعمال أو الأحداث."
+      },
+      {
+        "id": 4,
+        "en": "Was yesterday very cold?",
+        "ar": "هل كان أمس باردا جدا؟",
+        "context": "تسأل عن طقس الأمس."
+      },
+      {
+        "id": 5,
+        "en": "Yesterday was not very cold.",
+        "ar": "لم يكن أمس باردا جدا.",
+        "context": "تنفي شدة البرودة."
+      },
+      {
+        "id": 6,
+        "en": "Today is very cold.",
+        "ar": "اليوم بارد جدا.",
+        "context": "تصف طقس اليوم الحالي."
+      },
+      {
+        "id": 7,
+        "en": "Tomorrow will be very cold.",
+        "ar": "سيكون الغد باردا جدا.",
+        "context": "تتحدث عن طقس متوقع."
+      },
+      {
+        "id": 8,
+        "en": "Yesterday was very cold, so we stayed inside.",
+        "ar": "كان أمس باردا جدا، لذلك بقينا في الداخل.",
+        "context": "تذكر نتيجة الطقس البارد."
+      },
+      {
+        "id": 9,
+        "en": "I wore a coat because yesterday was very cold.",
+        "ar": "ارتديت معطفا لأن أمس كان باردا جدا.",
+        "context": "تربط الملابس بالطقس."
+      },
+      {
+        "id": 10,
+        "en": "The morning was icy because yesterday was very cold.",
+        "ar": "كان الصباح جليديا لأن أمس كان باردا جدا.",
+        "context": "تذكر أثر البرودة."
+      }
+    ]
+  }
+}

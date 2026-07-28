@@ -1,0 +1,111 @@
+{
+  "schemaVersion": 1,
+  "id": 2665,
+  "sentence": {
+    "en": "Something is wrong with the computer.",
+    "ar": "شيء ما خطأ في الحاسوب.",
+    "context": "الإشارة إلى وجود مشكلة غير محددة دون معرفة طبيعتها أو سببها."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Something is wrong with the computer.",
+        "ar": "هناك مشكلة ما في الحاسوب.",
+        "context": "تُقال عند ملاحظة خلل غير محدد في الحاسوب.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "is يصف حالة حالية، وSomething تشير إلى مشكلة غير معروفة."
+        },
+        "wordMeanings": [
+          {
+            "term": "Something",
+            "description": "شيء ما أو أمر غير محدد"
+          },
+          {
+            "term": "is",
+            "description": "تدل على الوصف في الحاضر"
+          },
+          {
+            "term": "wrong",
+            "description": "خطأ أو غير سليم"
+          },
+          {
+            "term": "with",
+            "description": "في ما يخص أو في"
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف لحاسوب محدد"
+          },
+          {
+            "term": "computer",
+            "description": "حاسوب أو كمبيوتر"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Something is wrong with the computer.",
+        "ar": "هناك مشكلة ما في الحاسوب.",
+        "context": "تُقال عند وجود خلل غير معروف."
+      },
+      {
+        "id": 2,
+        "en": "Something is wrong with my phone.",
+        "ar": "هناك مشكلة ما في هاتفي.",
+        "context": "تصف خللا غير محدد في هاتف."
+      },
+      {
+        "id": 3,
+        "en": "Nothing is wrong with the computer.",
+        "ar": "لا توجد أي مشكلة في الحاسوب.",
+        "context": "تُقال لنفي وجود مشكلة."
+      },
+      {
+        "id": 4,
+        "en": "Is something wrong with the computer?",
+        "ar": "هل هناك مشكلة ما في الحاسوب؟",
+        "context": "سؤال عند ملاحظة تصرف غير طبيعي."
+      },
+      {
+        "id": 5,
+        "en": "Something is wrong with the screen.",
+        "ar": "هناك مشكلة ما في الشاشة.",
+        "context": "تحدد جزءا من الجهاز فيه خلل."
+      },
+      {
+        "id": 6,
+        "en": "I think something is wrong.",
+        "ar": "أظن أن هناك خطأ ما.",
+        "context": "تعبير عام عن الشك بوجود مشكلة."
+      },
+      {
+        "id": 7,
+        "en": "The computer is not working correctly.",
+        "ar": "الحاسوب لا يعمل بشكل صحيح.",
+        "context": "تشرح معنى وجود مشكلة."
+      },
+      {
+        "id": 8,
+        "en": "Something went wrong during the update.",
+        "ar": "حدث خطأ ما أثناء التحديث.",
+        "context": "تصف خللا وقع في الماضي."
+      },
+      {
+        "id": 9,
+        "en": "Please check what is wrong with the computer.",
+        "ar": "من فضلك تحقق مما هو خطأ في الحاسوب.",
+        "context": "طلب فحص سبب المشكلة."
+      },
+      {
+        "id": 10,
+        "en": "Something small may be wrong with the computer.",
+        "ar": "قد تكون هناك مشكلة بسيطة في الحاسوب.",
+        "context": "تصف احتمال وجود خلل غير كبير."
+      }
+    ]
+  }
+}

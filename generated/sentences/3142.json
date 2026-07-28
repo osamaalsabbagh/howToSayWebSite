@@ -1,0 +1,111 @@
+{
+  "schemaVersion": 1,
+  "id": 3142,
+  "sentence": {
+    "en": "I write a report every day.",
+    "ar": "أنا أكتب تقريرًا كل يوم.",
+    "context": "عادة متكررة في الحاضر."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "I write a report every day.",
+        "ar": "أنا أكتب تقريرا كل يوم.",
+        "context": "تصف الجملة عادة يومية أو جزءا ثابتا من العمل.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُخدم المضارع البسيط لأن write مع every day يصف عادة متكررة."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "أنا؛ المتكلم."
+          },
+          {
+            "term": "write",
+            "description": "أكتب؛ أسجل كلمات أو معلومات."
+          },
+          {
+            "term": "a",
+            "description": "أداة تنكير قبل report لأنه تقرير واحد غير محدد."
+          },
+          {
+            "term": "report",
+            "description": "تقرير؛ نص يشرح معلومات أو نتائج أو تقدم العمل."
+          },
+          {
+            "term": "every",
+            "description": "كل؛ تعني أن الشيء يحدث في كل مرة من الفترة المذكورة."
+          },
+          {
+            "term": "day",
+            "description": "يوم؛ فترة من 24 ساعة."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I write a report every day.",
+        "ar": "أنا أكتب تقريرا كل يوم.",
+        "context": "تصف عادة يومية."
+      },
+      {
+        "id": 2,
+        "en": "She writes a report every day.",
+        "ar": "هي تكتب تقريرا كل يوم.",
+        "context": "تصف عادة شخص آخر."
+      },
+      {
+        "id": 3,
+        "en": "I write an email every day.",
+        "ar": "أنا أكتب بريدا إلكترونيا كل يوم.",
+        "context": "تغير الشيء المكتوب."
+      },
+      {
+        "id": 4,
+        "en": "Do you write a report every day?",
+        "ar": "هل تكتب تقريرا كل يوم؟",
+        "context": "تسأل عن عادة يومية."
+      },
+      {
+        "id": 5,
+        "en": "I do not write a report every day.",
+        "ar": "أنا لا أكتب تقريرا كل يوم.",
+        "context": "تنفي تكرار العادة يوميا."
+      },
+      {
+        "id": 6,
+        "en": "I wrote a report yesterday.",
+        "ar": "كتبت تقريرا أمس.",
+        "context": "تتحدث عن فعل مكتمل في الماضي."
+      },
+      {
+        "id": 7,
+        "en": "I am writing a report now.",
+        "ar": "أنا أكتب تقريرا الآن.",
+        "context": "تصف الكتابة أثناء حدوثها."
+      },
+      {
+        "id": 8,
+        "en": "I will write a report tomorrow.",
+        "ar": "سأكتب تقريرا غدا.",
+        "context": "تتحدث عن كتابة مستقبلية."
+      },
+      {
+        "id": 9,
+        "en": "I write a short report every day.",
+        "ar": "أنا أكتب تقريرا قصيرا كل يوم.",
+        "context": "تصف نوع التقرير."
+      },
+      {
+        "id": 10,
+        "en": "My manager reads the report I write every day.",
+        "ar": "يقرأ مديري التقرير الذي أكتبه كل يوم.",
+        "context": "تذكر من يستخدم التقرير."
+      }
+    ]
+  }
+}

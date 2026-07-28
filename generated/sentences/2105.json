@@ -1,0 +1,127 @@
+{
+  "schemaVersion": 1,
+  "id": 2105,
+  "sentence": {
+    "en": "No, I do not want any coffee.",
+    "ar": "لا، لا أريد أي قهوة.",
+    "context": "رفض عرض أو طلب شيء معين."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "No",
+        "ar": "لا",
+        "context": "كلمة قصيرة للرفض المباشر.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه كلمة جواب أو رفض قصيرة وليست جملة بزمن فعلي."
+        },
+        "wordMeanings": [
+          {
+            "term": "No",
+            "description": "لا أو رفض"
+          }
+        ]
+      },
+      {
+        "sentence": "I do not want any coffee.",
+        "ar": "لا أريد أي قهوة.",
+        "context": "يوضح هذا الجزء الشيء المرفوض وهو القهوة.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُخدم النفي في المضارع البسيط مع do not للتعبير عن رغبة حالية منفية، وany تُستخدم مع النفي."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير المتكلم المفرد"
+          },
+          {
+            "term": "do",
+            "description": "كلمة مساعدة لتكوين النفي في الحاضر"
+          },
+          {
+            "term": "not",
+            "description": "لا للنفي"
+          },
+          {
+            "term": "want",
+            "description": "أريد أو أرغب"
+          },
+          {
+            "term": "any",
+            "description": "أي كمية في سياق النفي"
+          },
+          {
+            "term": "coffee",
+            "description": "قهوة"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "No, I do not want tea.",
+        "ar": "لا، لا أريد شايًا.",
+        "context": "تقال عند رفض مشروب."
+      },
+      {
+        "id": 2,
+        "en": "I do not want any sugar.",
+        "ar": "لا أريد أي سكر.",
+        "context": "تقال عند رفض إضافة السكر."
+      },
+      {
+        "id": 3,
+        "en": "No, thank you.",
+        "ar": "لا، شكرًا.",
+        "context": "تقال كرفض مهذب قصير."
+      },
+      {
+        "id": 4,
+        "en": "She does not want coffee.",
+        "ar": "هي لا تريد قهوة.",
+        "context": "تقال عند وصف رغبة شخص آخر."
+      },
+      {
+        "id": 5,
+        "en": "Do you want any coffee?",
+        "ar": "هل تريد أي قهوة؟",
+        "context": "تقال عند عرض القهوة."
+      },
+      {
+        "id": 6,
+        "en": "I want some water instead.",
+        "ar": "أريد بعض الماء بدلًا من ذلك.",
+        "context": "تقال عند طلب بديل."
+      },
+      {
+        "id": 7,
+        "en": "No, I am not hungry.",
+        "ar": "لا، لست جائعًا.",
+        "context": "تقال عند رفض الطعام."
+      },
+      {
+        "id": 8,
+        "en": "He does not drink coffee.",
+        "ar": "هو لا يشرب القهوة.",
+        "context": "تقال عند وصف عادة أو تفضيل."
+      },
+      {
+        "id": 9,
+        "en": "I do not need any help.",
+        "ar": "لا أحتاج إلى أي مساعدة.",
+        "context": "تقال عند رفض المساعدة."
+      },
+      {
+        "id": 10,
+        "en": "No, I do not want more.",
+        "ar": "لا، لا أريد المزيد.",
+        "context": "تقال عند رفض كمية إضافية."
+      }
+    ]
+  }
+}

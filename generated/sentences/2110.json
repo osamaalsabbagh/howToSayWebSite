@@ -1,0 +1,111 @@
+{
+  "schemaVersion": 1,
+  "id": 2110,
+  "sentence": {
+    "en": "Nobody helped me with the work.",
+    "ar": "لم يساعدني أحد في العمل.",
+    "context": "المقصود أن المتحدث أنجز العمل دون أن يتلقى أي مساعدة من أي شخص وعبر عن ذلك بأسلوب يومي دارج."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Nobody helped me with the work.",
+        "ar": "لم يساعدني أحد في العمل.",
+        "context": "توضح الجملة أن المتكلم لم يتلق أي مساعدة في إنجاز العمل.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "استُخدم الماضي البسيط لأن عدم تلقي المساعدة مرتبط بعمل حدث في الماضي، وNobody ينفي وجود أي مساعد."
+        },
+        "wordMeanings": [
+          {
+            "term": "Nobody",
+            "description": "لا أحد"
+          },
+          {
+            "term": "helped",
+            "description": "ساعد في الماضي"
+          },
+          {
+            "term": "me",
+            "description": "ني أو إياي حسب المعنى"
+          },
+          {
+            "term": "with",
+            "description": "في أو بخصوص"
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف لعمل محدد"
+          },
+          {
+            "term": "work",
+            "description": "عمل أو مهمة"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Nobody helped her with the project.",
+        "ar": "لم يساعدها أحد في المشروع.",
+        "context": "تقال عند إنجاز شخص لمهمة دون مساعدة."
+      },
+      {
+        "id": 2,
+        "en": "No one helped me yesterday.",
+        "ar": "لم يساعدني أحد أمس.",
+        "context": "تقال عند غياب المساعدة في وقت سابق."
+      },
+      {
+        "id": 3,
+        "en": "She finished the work alone.",
+        "ar": "هي أنهت العمل وحدها.",
+        "context": "تقال عند إنجاز العمل دون مساعدة."
+      },
+      {
+        "id": 4,
+        "en": "They helped me with the work.",
+        "ar": "هم ساعدوني في العمل.",
+        "context": "تقال عند وجود مساعدة."
+      },
+      {
+        "id": 5,
+        "en": "Nobody answered my request.",
+        "ar": "لم يجب أحد على طلبي.",
+        "context": "تقال عند تجاهل طلب مساعدة."
+      },
+      {
+        "id": 6,
+        "en": "I needed help with the work.",
+        "ar": "كنت أحتاج إلى مساعدة في العمل.",
+        "context": "تقال عند الحاجة إلى دعم."
+      },
+      {
+        "id": 7,
+        "en": "He did the work by himself.",
+        "ar": "هو أنجز العمل بنفسه.",
+        "context": "تقال عند العمل بشكل منفرد."
+      },
+      {
+        "id": 8,
+        "en": "Nobody came to help.",
+        "ar": "لم يأت أحد للمساعدة.",
+        "context": "تقال عند انتظار مساعدة لم تصل."
+      },
+      {
+        "id": 9,
+        "en": "The work was difficult.",
+        "ar": "كان العمل صعبًا.",
+        "context": "تقال عند تفسير الحاجة للمساعدة."
+      },
+      {
+        "id": 10,
+        "en": "I thanked the person who helped me.",
+        "ar": "شكرت الشخص الذي ساعدني.",
+        "context": "تقال عند وجود مساعدة في موقف آخر."
+      }
+    ]
+  }
+}

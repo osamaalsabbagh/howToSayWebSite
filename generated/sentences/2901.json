@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": 2901,
+  "sentence": {
+    "en": "I do not have time.",
+    "ar": "أنا لا أملك وقت.",
+    "context": "عدم توفر مدة كافية."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "I do not have time.",
+        "ar": "ليس لدي وقت.",
+        "context": "تستخدم الجملة للاعتذار أو التوضيح بأن الوقت غير كاف لفعل شيء الآن.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُخدم المضارع البسيط لأن do not have يصف حالة حالية: عدم توفر الوقت."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير يعني أنا، ويشير إلى المتكلم."
+          },
+          {
+            "term": "do",
+            "description": "فعل مساعد يُستخدم مع النفي في المضارع البسيط."
+          },
+          {
+            "term": "not",
+            "description": "لا؛ أداة نفي تجعل المعنى عكس الإثبات."
+          },
+          {
+            "term": "have",
+            "description": "لدي أو أملك؛ هنا تعني توفر الوقت."
+          },
+          {
+            "term": "time",
+            "description": "وقت؛ مدة متاحة لفعل شيء."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I do not have time.",
+        "ar": "ليس لدي وقت.",
+        "context": "توضح أن الوقت غير متاح."
+      },
+      {
+        "id": 2,
+        "en": "I do not have time today.",
+        "ar": "ليس لدي وقت اليوم.",
+        "context": "تحدد أن المشكلة في هذا اليوم."
+      },
+      {
+        "id": 3,
+        "en": "She does not have time for lunch.",
+        "ar": "ليس لديها وقت للغداء.",
+        "context": "تصف عدم توفر وقت لشخص آخر."
+      },
+      {
+        "id": 4,
+        "en": "We do not have much time.",
+        "ar": "ليس لدينا وقت كثير.",
+        "context": "توضح أن الوقت المتبقي قليل."
+      },
+      {
+        "id": 5,
+        "en": "I have time after work.",
+        "ar": "لدي وقت بعد العمل.",
+        "context": "تعطي المعنى المثبت للجملة."
+      },
+      {
+        "id": 6,
+        "en": "Do you have time now?",
+        "ar": "هل لديك وقت الآن؟",
+        "context": "تسأل عن توفر الوقت."
+      },
+      {
+        "id": 7,
+        "en": "I do not have time to wait.",
+        "ar": "ليس لدي وقت للانتظار.",
+        "context": "تحدد الفعل الذي لا يوجد وقت له."
+      },
+      {
+        "id": 8,
+        "en": "He said he did not have time.",
+        "ar": "قال إنه لم يكن لديه وقت.",
+        "context": "تنقل الجملة عن شخص آخر في الماضي."
+      },
+      {
+        "id": 9,
+        "en": "I do not have time, so I must leave.",
+        "ar": "ليس لدي وقت، لذلك يجب أن أغادر.",
+        "context": "تربط عدم الوقت بنتيجة عملية."
+      },
+      {
+        "id": 10,
+        "en": "I do not have time for a long meeting.",
+        "ar": "ليس لدي وقت لاجتماع طويل.",
+        "context": "تحدد نوع الشيء الذي لا يوجد وقت له."
+      }
+    ]
+  }
+}

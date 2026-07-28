@@ -1,0 +1,111 @@
+{
+  "schemaVersion": 1,
+  "id": 2819,
+  "sentence": {
+    "en": "The teacher is in the classroom.",
+    "ar": "المعلّم في الصف.",
+    "context": "تحديد موقع شخص يقوم بالتدريس."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "The teacher is in the classroom.",
+        "ar": "المعلم في الصف.",
+        "context": "تحدد الجملة مكان المعلم داخل المدرسة.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُخدم المضارع البسيط مع is لوصف موقع الشخص في الوقت الحالي."
+        },
+        "wordMeanings": [
+          {
+            "term": "The",
+            "description": "أداة تعريف تشير إلى معلم محدد."
+          },
+          {
+            "term": "teacher",
+            "description": "معلم؛ شخص يدرّس الطلاب."
+          },
+          {
+            "term": "is",
+            "description": "فعل يكون، وهنا يربط المعلم بمكانه."
+          },
+          {
+            "term": "in",
+            "description": "في أو داخل."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف تشير إلى صف محدد."
+          },
+          {
+            "term": "classroom",
+            "description": "صف دراسي؛ غرفة يتعلم فيها الطلاب."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "The teacher is in the classroom.",
+        "ar": "المعلم في الصف.",
+        "context": "تحدد مكان المعلم."
+      },
+      {
+        "id": 2,
+        "en": "The students are in the classroom.",
+        "ar": "الطلاب في الصف.",
+        "context": "تحدد مكان الطلاب."
+      },
+      {
+        "id": 3,
+        "en": "The teacher is at the door.",
+        "ar": "المعلم عند الباب.",
+        "context": "تصف مكان المعلم بدقة."
+      },
+      {
+        "id": 4,
+        "en": "My teacher is in the office.",
+        "ar": "معلمي في المكتب.",
+        "context": "تحدد مكان معلم المتكلم."
+      },
+      {
+        "id": 5,
+        "en": "The classroom is quiet.",
+        "ar": "الصف هادئ.",
+        "context": "تصف حالة الصف."
+      },
+      {
+        "id": 6,
+        "en": "The teacher is not in the classroom.",
+        "ar": "المعلم ليس في الصف.",
+        "context": "تنفي وجود المعلم في الصف."
+      },
+      {
+        "id": 7,
+        "en": "Is the teacher in the classroom?",
+        "ar": "هل المعلم في الصف؟",
+        "context": "تسأل عن مكان المعلم."
+      },
+      {
+        "id": 8,
+        "en": "The teacher is in the classroom with the students.",
+        "ar": "المعلم في الصف مع الطلاب.",
+        "context": "تضيف من يوجد معه."
+      },
+      {
+        "id": 9,
+        "en": "The new teacher is in the classroom.",
+        "ar": "المعلم الجديد في الصف.",
+        "context": "تحدد أي معلم تقصد."
+      },
+      {
+        "id": 10,
+        "en": "The teacher is ready in the classroom.",
+        "ar": "المعلم جاهز في الصف.",
+        "context": "تصف مكان المعلم واستعداده."
+      }
+    ]
+  }
+}

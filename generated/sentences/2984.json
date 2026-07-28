@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": 2984,
+  "sentence": {
+    "en": "He is understanding the lesson.",
+    "ar": "هو يفهم الدرس.",
+    "context": "عملية إدراك تحدث أثناء الشرح."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "He is understanding the lesson.",
+        "ar": "هو بدأ يفهم الدرس.",
+        "context": "تصف الجملة عملية فهم تدريجية تحدث أثناء الشرح، رغم أن understand غالبا يُستخدم في المضارع البسيط.",
+        "grammar": {
+          "tense": "المضارع المستمر",
+          "tenseEn": "Present Continuous",
+          "reason": "استُخدم المضارع المستمر لأن is understanding يركز على عملية فهم جارية أو تتطور الآن."
+        },
+        "wordMeanings": [
+          {
+            "term": "He",
+            "description": "ضمير يعني هو، ويشير إلى رجل أو ولد."
+          },
+          {
+            "term": "is",
+            "description": "فعل مساعد مع المفرد في المضارع المستمر."
+          },
+          {
+            "term": "understanding",
+            "description": "يفهم تدريجيا؛ صيغة ing من understand في سياق عملية جارية."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف تشير إلى درس محدد."
+          },
+          {
+            "term": "lesson",
+            "description": "درس؛ مادة تعليمية أو شرح يتعلمه الشخص."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "He is understanding the lesson.",
+        "ar": "هو بدأ يفهم الدرس.",
+        "context": "تصف فهما يتطور أثناء الشرح."
+      },
+      {
+        "id": 2,
+        "en": "She is understanding the lesson.",
+        "ar": "هي بدأت تفهم الدرس.",
+        "context": "تستخدم الجملة مع امرأة أو فتاة."
+      },
+      {
+        "id": 3,
+        "en": "He understands the lesson.",
+        "ar": "هو يفهم الدرس.",
+        "context": "تستخدم الصيغة الأكثر شيوعا للفهم العام."
+      },
+      {
+        "id": 4,
+        "en": "He is not understanding the lesson.",
+        "ar": "هو لا يفهم الدرس أثناء الشرح.",
+        "context": "تنفي عملية الفهم الجارية."
+      },
+      {
+        "id": 5,
+        "en": "Is he understanding the lesson?",
+        "ar": "هل بدأ يفهم الدرس؟",
+        "context": "تسأل عن تطور الفهم."
+      },
+      {
+        "id": 6,
+        "en": "He understood the lesson yesterday.",
+        "ar": "فهم الدرس أمس.",
+        "context": "تنقل الفهم إلى الماضي."
+      },
+      {
+        "id": 7,
+        "en": "He will understand the lesson later.",
+        "ar": "سيفهم الدرس لاحقا.",
+        "context": "تنقل الفهم إلى المستقبل."
+      },
+      {
+        "id": 8,
+        "en": "He is understanding the lesson because the teacher explains slowly.",
+        "ar": "هو بدأ يفهم الدرس لأن المعلم يشرح ببطء.",
+        "context": "توضح سبب تحسن الفهم."
+      },
+      {
+        "id": 9,
+        "en": "He is understanding the lesson, but he still has questions.",
+        "ar": "هو بدأ يفهم الدرس، لكن ما زالت لديه أسئلة.",
+        "context": "تصف فهما جزئيا."
+      },
+      {
+        "id": 10,
+        "en": "If he is understanding the lesson, let him explain it.",
+        "ar": "إذا كان بدأ يفهم الدرس، فدعه يشرحه.",
+        "context": "تستخدم الجملة داخل اقتراح."
+      }
+    ]
+  }
+}

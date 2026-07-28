@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "id": 2870,
+  "sentence": {
+    "en": "Put the book there.",
+    "ar": "ضع الكتاب هناك.",
+    "context": "الإشارة إلى مكان بعيد نسبيًا."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Put the book there.",
+        "ar": "ضع الكتاب هناك.",
+        "context": "تستخدم الجملة كطلب لوضع كتاب محدد في مكان مشار إليه أو بعيد نسبيا.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "الجملة أمر مباشر يبدأ بالفعل Put، لذلك لا تُعامل كجملة خبرية بزمن محدد."
+        },
+        "wordMeanings": [
+          {
+            "term": "Put",
+            "description": "ضع؛ فعل أمر يعني انقل الشيء إلى مكان معين."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف تشير إلى كتاب محدد."
+          },
+          {
+            "term": "book",
+            "description": "كتاب؛ شيء يُقرأ ويحتوي على صفحات."
+          },
+          {
+            "term": "there",
+            "description": "هناك؛ في ذلك المكان المشار إليه."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Put the book there.",
+        "ar": "ضع الكتاب هناك.",
+        "context": "تطلب وضع الكتاب في مكان محدد."
+      },
+      {
+        "id": 2,
+        "en": "Please put the book there.",
+        "ar": "من فضلك ضع الكتاب هناك.",
+        "context": "تجعل الطلب أكثر تهذيبا."
+      },
+      {
+        "id": 3,
+        "en": "Put the keys there.",
+        "ar": "ضع المفاتيح هناك.",
+        "context": "تطلب وضع شيء آخر في نفس المكان."
+      },
+      {
+        "id": 4,
+        "en": "Put the book on the table.",
+        "ar": "ضع الكتاب على الطاولة.",
+        "context": "تحدد مكانا واضحا للكتاب."
+      },
+      {
+        "id": 5,
+        "en": "Do not put the book there.",
+        "ar": "لا تضع الكتاب هناك.",
+        "context": "تنهي عن وضع الكتاب في ذلك المكان."
+      },
+      {
+        "id": 6,
+        "en": "Can you put the book there?",
+        "ar": "هل يمكنك أن تضع الكتاب هناك؟",
+        "context": "تطلب الأمر بصيغة سؤال مهذب."
+      },
+      {
+        "id": 7,
+        "en": "Put the book there when you finish.",
+        "ar": "ضع الكتاب هناك عندما تنتهي.",
+        "context": "تربط وضع الكتاب بانتهاء القراءة أو العمل."
+      },
+      {
+        "id": 8,
+        "en": "I put the book there yesterday.",
+        "ar": "وضعت الكتاب هناك أمس.",
+        "context": "تصف فعل الوضع في الماضي."
+      },
+      {
+        "id": 9,
+        "en": "The teacher said, put the book there.",
+        "ar": "قال المعلم: ضع الكتاب هناك.",
+        "context": "تنقل أمرا من شخص آخر."
+      },
+      {
+        "id": 10,
+        "en": "Put the book there so I can find it.",
+        "ar": "ضع الكتاب هناك حتى أستطيع أن أجده.",
+        "context": "توضح سبب اختيار المكان."
+      }
+    ]
+  }
+}

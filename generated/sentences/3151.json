@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "id": 3151,
+  "sentence": {
+    "en": "This answer is wrong.",
+    "ar": "هذه الإجابة خاطئة.",
+    "context": "وصف شيء غير صحيح."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "This answer is wrong.",
+        "ar": "هذه الإجابة خاطئة.",
+        "context": "تستخدم الجملة عندما تكون إجابة محددة غير صحيحة.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُخدم المضارع البسيط مع is لوصف حالة الإجابة الحالية."
+        },
+        "wordMeanings": [
+          {
+            "term": "This",
+            "description": "هذه؛ تشير إلى إجابة محددة قريبة أو مذكورة."
+          },
+          {
+            "term": "answer",
+            "description": "إجابة؛ رد على سؤال أو حل لمسألة."
+          },
+          {
+            "term": "is",
+            "description": "هي أو تكون؛ يربط answer بالصفة wrong."
+          },
+          {
+            "term": "wrong",
+            "description": "خاطئة؛ غير صحيحة."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "This answer is wrong.",
+        "ar": "هذه الإجابة خاطئة.",
+        "context": "تحدد أن الإجابة غير صحيحة."
+      },
+      {
+        "id": 2,
+        "en": "This answer is correct.",
+        "ar": "هذه الإجابة صحيحة.",
+        "context": "تذكر المعنى المعاكس."
+      },
+      {
+        "id": 3,
+        "en": "That answer is wrong.",
+        "ar": "تلك الإجابة خاطئة.",
+        "context": "تشير إلى إجابة أبعد أو مذكورة سابقا."
+      },
+      {
+        "id": 4,
+        "en": "Is this answer wrong?",
+        "ar": "هل هذه الإجابة خاطئة؟",
+        "context": "تسأل عن صحة الإجابة."
+      },
+      {
+        "id": 5,
+        "en": "This answer is not wrong.",
+        "ar": "هذه الإجابة ليست خاطئة.",
+        "context": "تنفي الخطأ."
+      },
+      {
+        "id": 6,
+        "en": "This answer was wrong yesterday.",
+        "ar": "كانت هذه الإجابة خاطئة أمس.",
+        "context": "تتحدث عن تقييم سابق."
+      },
+      {
+        "id": 7,
+        "en": "This answer will be wrong if the question changes.",
+        "ar": "ستكون هذه الإجابة خاطئة إذا تغير السؤال.",
+        "context": "تتحدث عن احتمال مستقبلي."
+      },
+      {
+        "id": 8,
+        "en": "The teacher said this answer is wrong.",
+        "ar": "قال المعلم إن هذه الإجابة خاطئة.",
+        "context": "تنقل حكم شخص آخر."
+      },
+      {
+        "id": 9,
+        "en": "I think this answer is wrong.",
+        "ar": "أعتقد أن هذه الإجابة خاطئة.",
+        "context": "تقدم رأيك في الإجابة."
+      },
+      {
+        "id": 10,
+        "en": "Please explain why this answer is wrong.",
+        "ar": "من فضلك اشرح لماذا هذه الإجابة خاطئة.",
+        "context": "تطلب سبب الخطأ."
+      }
+    ]
+  }
+}

@@ -1,0 +1,147 @@
+{
+  "schemaVersion": 1,
+  "id": 2126,
+  "sentence": {
+    "en": "What is your phone number, if you do not mind sharing it?",
+    "ar": "ما هو رقم هاتفك، إن لم تمانع مشاركته؟",
+    "context": "اطلب من شخص تزويدك برقم هاتفه مع إظهار اللباقة واحترام خصوصيته."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "What is your phone number",
+        "ar": "ما هو رقم هاتفك",
+        "context": "هذا الجزء يسأل عن رقم الهاتف مباشرة.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُخدم سؤال بفعل الكينونة is للسؤال عن معلومة حالية، وهي رقم الهاتف."
+        },
+        "wordMeanings": [
+          {
+            "term": "What",
+            "description": "ما أو ماذا للسؤال عن معلومة"
+          },
+          {
+            "term": "is",
+            "description": "صيغة سؤال تعني يكون أو هو"
+          },
+          {
+            "term": "your",
+            "description": "خاص بك أو بكم"
+          },
+          {
+            "term": "phone",
+            "description": "هاتف"
+          },
+          {
+            "term": "number",
+            "description": "رقم"
+          }
+        ]
+      },
+      {
+        "sentence": "if you do not mind sharing it?",
+        "ar": "إن لم تمانع مشاركته؟",
+        "context": "هذا الجزء يجعل السؤال أكثر لباقة ويحترم خصوصية الشخص.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُخدم do not mind في المضارع البسيط للتعبير عن عدم الممانعة، وif يجعلها عبارة شرطية مهذبة."
+        },
+        "wordMeanings": [
+          {
+            "term": "if",
+            "description": "إذا أو إن"
+          },
+          {
+            "term": "you",
+            "description": "أنت أو أنتم حسب المخاطب"
+          },
+          {
+            "term": "do",
+            "description": "كلمة مساعدة لتكوين النفي في الحاضر"
+          },
+          {
+            "term": "not",
+            "description": "لا للنفي"
+          },
+          {
+            "term": "mind",
+            "description": "تمانِع أو تنزعج من"
+          },
+          {
+            "term": "sharing",
+            "description": "مشاركة أو إعطاء المعلومة"
+          },
+          {
+            "term": "it",
+            "description": "إياه، ويعود على رقم الهاتف"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "What is your email address?",
+        "ar": "ما هو عنوان بريدك الإلكتروني؟",
+        "context": "تقال عند طلب وسيلة تواصل."
+      },
+      {
+        "id": 2,
+        "en": "Can I have your phone number?",
+        "ar": "هل يمكنني الحصول على رقم هاتفك؟",
+        "context": "تقال عند طلب رقم هاتف بشكل مباشر."
+      },
+      {
+        "id": 3,
+        "en": "What is your address, if you do not mind?",
+        "ar": "ما هو عنوانك إن لم تمانع؟",
+        "context": "تقال عند طلب معلومة شخصية بلطف."
+      },
+      {
+        "id": 4,
+        "en": "Do you mind sharing your number?",
+        "ar": "هل تمانع مشاركة رقمك؟",
+        "context": "تقال عند احترام خصوصية الشخص."
+      },
+      {
+        "id": 5,
+        "en": "Please write your phone number here.",
+        "ar": "رجاءً اكتب رقم هاتفك هنا.",
+        "context": "تقال عند تعبئة نموذج."
+      },
+      {
+        "id": 6,
+        "en": "I do not mind sharing my email.",
+        "ar": "لا أمانع مشاركة بريدي الإلكتروني.",
+        "context": "تقال عند الموافقة على إعطاء معلومة."
+      },
+      {
+        "id": 7,
+        "en": "What is her phone number?",
+        "ar": "ما هو رقم هاتفها؟",
+        "context": "تقال عند السؤال عن رقم شخص آخر."
+      },
+      {
+        "id": 8,
+        "en": "Can you send me your number?",
+        "ar": "هل يمكنك إرسال رقمك لي؟",
+        "context": "تقال عند طلب الرقم برسالة."
+      },
+      {
+        "id": 9,
+        "en": "I forgot your phone number.",
+        "ar": "نسيت رقم هاتفك.",
+        "context": "تقال عند الحاجة إلى الرقم مرة أخرى."
+      },
+      {
+        "id": 10,
+        "en": "Share it only if you feel comfortable.",
+        "ar": "شاركه فقط إذا كنت مرتاحًا.",
+        "context": "تقال عند احترام قرار الشخص."
+      }
+    ]
+  }
+}

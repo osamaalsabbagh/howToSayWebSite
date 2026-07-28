@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "id": 3002,
+  "sentence": {
+    "en": "This tool is useful.",
+    "ar": "هذه الأداة مفيدة.",
+    "context": "شيء يساعد في إنجاز عمل."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "This tool is useful.",
+        "ar": "هذه الأداة مفيدة.",
+        "context": "تصف الجملة أداة معينة بأنها نافعة وتساعد على إنجاز العمل.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُخدم المضارع البسيط لأن is يصف صفة حالية للأداة."
+        },
+        "wordMeanings": [
+          {
+            "term": "This",
+            "description": "هذه؛ تشير إلى أداة قريبة أو محددة في الكلام."
+          },
+          {
+            "term": "tool",
+            "description": "أداة؛ شيء يساعد على إنجاز عمل."
+          },
+          {
+            "term": "is",
+            "description": "فعل يكون في المضارع، ويربط tool بالصفة useful."
+          },
+          {
+            "term": "useful",
+            "description": "مفيد؛ له فائدة عملية أو يساعد في تحقيق شيء."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "This tool is useful.",
+        "ar": "هذه الأداة مفيدة.",
+        "context": "تصف قيمة أداة معينة."
+      },
+      {
+        "id": 2,
+        "en": "This app is useful.",
+        "ar": "هذا التطبيق مفيد.",
+        "context": "تغير الشيء الموصوف إلى تطبيق."
+      },
+      {
+        "id": 3,
+        "en": "That tool is useful.",
+        "ar": "تلك الأداة مفيدة.",
+        "context": "تشير إلى أداة أبعد أو مختلفة."
+      },
+      {
+        "id": 4,
+        "en": "This tool is not useful.",
+        "ar": "هذه الأداة ليست مفيدة.",
+        "context": "تنفي فائدة الأداة."
+      },
+      {
+        "id": 5,
+        "en": "Is this tool useful?",
+        "ar": "هل هذه الأداة مفيدة؟",
+        "context": "تسأل عن قيمة الأداة."
+      },
+      {
+        "id": 6,
+        "en": "This tool was useful yesterday.",
+        "ar": "كانت هذه الأداة مفيدة أمس.",
+        "context": "تنقل الوصف إلى الماضي."
+      },
+      {
+        "id": 7,
+        "en": "This tool will be useful later.",
+        "ar": "ستكون هذه الأداة مفيدة لاحقا.",
+        "context": "تنقل الوصف إلى المستقبل."
+      },
+      {
+        "id": 8,
+        "en": "This tool is useful for beginners.",
+        "ar": "هذه الأداة مفيدة للمبتدئين.",
+        "context": "تحدد الأشخاص الذين يستفيدون منها."
+      },
+      {
+        "id": 9,
+        "en": "This tool is useful because it saves time.",
+        "ar": "هذه الأداة مفيدة لأنها توفر الوقت.",
+        "context": "توضح سبب فائدتها."
+      },
+      {
+        "id": 10,
+        "en": "If this tool is useful, keep it nearby.",
+        "ar": "إذا كانت هذه الأداة مفيدة، فاحتفظ بها قريبة.",
+        "context": "تستخدم الجملة داخل نصيحة."
+      }
+    ]
+  }
+}

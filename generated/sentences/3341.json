@@ -1,0 +1,115 @@
+{
+  "schemaVersion": 1,
+  "id": 3341,
+  "sentence": {
+    "en": "The average of the numbers is ten.",
+    "ar": "متوسط الأرقام هو عشرة.",
+    "context": "قيمة حسابية ناتجة عن جمع الأرقام ثم قسمتها."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "The average of the numbers is ten.",
+        "ar": "متوسط الأرقام هو عشرة.",
+        "context": "تشرح الجملة نتيجة حسابية: عند جمع الأرقام وقسمتها على عددها تكون القيمة المتوسطة عشرة.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُخدم is للتعبير عن حقيقة حسابية حالية."
+        },
+        "wordMeanings": [
+          {
+            "term": "The",
+            "description": "أداة تعريف؛ تجعل average متوسطا محددا لهذه الأرقام."
+          },
+          {
+            "term": "average",
+            "description": "المتوسط؛ قيمة حسابية تمثل مجموع القيم مقسوما على عددها."
+          },
+          {
+            "term": "of",
+            "description": "لـ أو من؛ تربط المتوسط بالأرقام التي حُسب منها."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف؛ تجعل numbers أرقاما معروفة في السياق."
+          },
+          {
+            "term": "numbers",
+            "description": "أرقام؛ القيم التي تُستخدم في الحساب."
+          },
+          {
+            "term": "is",
+            "description": "هو أو يساوي؛ يربط المتوسط بالقيمة الناتجة."
+          },
+          {
+            "term": "ten",
+            "description": "عشرة؛ العدد 10."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "The average of the numbers is ten.",
+        "ar": "متوسط الأرقام هو عشرة.",
+        "context": "تذكر النتيجة الحسابية للمجموعة."
+      },
+      {
+        "id": 2,
+        "en": "The average of the numbers is five.",
+        "ar": "متوسط الأرقام هو خمسة.",
+        "context": "تغير قيمة المتوسط."
+      },
+      {
+        "id": 3,
+        "en": "The average of these numbers is ten.",
+        "ar": "متوسط هذه الأرقام هو عشرة.",
+        "context": "تشير إلى أرقام محددة قريبة."
+      },
+      {
+        "id": 4,
+        "en": "What is the average of the numbers?",
+        "ar": "ما متوسط الأرقام؟",
+        "context": "تسأل عن القيمة المتوسطة."
+      },
+      {
+        "id": 5,
+        "en": "The average of the scores is ten.",
+        "ar": "متوسط الدرجات هو عشرة.",
+        "context": "تطبق الفكرة على درجات بدلا من أرقام عامة."
+      },
+      {
+        "id": 6,
+        "en": "The average of the numbers was ten yesterday.",
+        "ar": "كان متوسط الأرقام عشرة أمس.",
+        "context": "تصف قيمة سابقة للمتوسط."
+      },
+      {
+        "id": 7,
+        "en": "The average of the numbers is not ten.",
+        "ar": "متوسط الأرقام ليس عشرة.",
+        "context": "تنفي النتيجة الحسابية."
+      },
+      {
+        "id": 8,
+        "en": "The average of the numbers is ten after the correction.",
+        "ar": "متوسط الأرقام هو عشرة بعد التصحيح.",
+        "context": "تربط النتيجة بتعديل في البيانات."
+      },
+      {
+        "id": 9,
+        "en": "If the total is thirty, the average of three numbers is ten.",
+        "ar": "إذا كان المجموع ثلاثين، فمتوسط ثلاثة أرقام هو عشرة.",
+        "context": "توضح سبب الوصول إلى المتوسط."
+      },
+      {
+        "id": 10,
+        "en": "The average of the numbers is ten, but the largest number is fifteen.",
+        "ar": "متوسط الأرقام هو عشرة، لكن أكبر رقم هو خمسة عشر.",
+        "context": "تقارن المتوسط بقيمة أخرى في المجموعة."
+      }
+    ]
+  }
+}

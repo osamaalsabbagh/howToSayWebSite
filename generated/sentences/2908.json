@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "id": 2908,
+  "sentence": {
+    "en": "Give this to him.",
+    "ar": "أعطِ هذا له.",
+    "context": "توجيه شيء نحو شخص."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Give this to him.",
+        "ar": "أعط هذا له.",
+        "context": "تستخدم الجملة كطلب مباشر لنقل شيء محدد إلى رجل أو ولد.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "الجملة أمر أو طلب مباشر، لذلك لا تُعامل كجملة خبرية بزمن محدد."
+        },
+        "wordMeanings": [
+          {
+            "term": "Give",
+            "description": "أعط؛ فعل أمر يعني سلّم شيئا لشخص."
+          },
+          {
+            "term": "this",
+            "description": "هذا؛ تشير إلى شيء قريب أو محدد في الموقف."
+          },
+          {
+            "term": "to",
+            "description": "إلى أو لـ؛ تبين الشخص الذي سيستلم الشيء."
+          },
+          {
+            "term": "him",
+            "description": "له؛ ضمير مفعول به يشير إلى رجل أو ولد."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Give this to him.",
+        "ar": "أعط هذا له.",
+        "context": "تطلب تسليم شيء لرجل أو ولد."
+      },
+      {
+        "id": 2,
+        "en": "Give this to her.",
+        "ar": "أعط هذا لها.",
+        "context": "تغير المستلم إلى امرأة أو فتاة."
+      },
+      {
+        "id": 3,
+        "en": "Give the book to him.",
+        "ar": "أعط الكتاب له.",
+        "context": "تحدد الشيء الذي يجب تسليمه."
+      },
+      {
+        "id": 4,
+        "en": "Please give this to him.",
+        "ar": "من فضلك أعط هذا له.",
+        "context": "تجعل الطلب أكثر تهذيبا."
+      },
+      {
+        "id": 5,
+        "en": "Do not give this to him.",
+        "ar": "لا تعط هذا له.",
+        "context": "تنهى عن تسليم الشيء له."
+      },
+      {
+        "id": 6,
+        "en": "Can you give this to him?",
+        "ar": "هل يمكنك أن تعطي هذا له؟",
+        "context": "تحول الأمر إلى سؤال مهذب."
+      },
+      {
+        "id": 7,
+        "en": "Give this to him before lunch.",
+        "ar": "أعط هذا له قبل الغداء.",
+        "context": "تحدد وقت التسليم."
+      },
+      {
+        "id": 8,
+        "en": "I gave this to him yesterday.",
+        "ar": "أعطيت هذا له أمس.",
+        "context": "تنقل الفكرة إلى الماضي."
+      },
+      {
+        "id": 9,
+        "en": "Give this to him when he arrives.",
+        "ar": "أعط هذا له عندما يصل.",
+        "context": "تحدد شرط التسليم."
+      },
+      {
+        "id": 10,
+        "en": "Give this to him, not to me.",
+        "ar": "أعط هذا له، وليس لي.",
+        "context": "توضح المستلم الصحيح."
+      }
+    ]
+  }
+}

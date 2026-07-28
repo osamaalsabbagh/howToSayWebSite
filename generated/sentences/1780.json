@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": 1780,
+  "sentence": {
+    "en": "Hi, my name is John.",
+    "ar": "مرحبًا، اسمي جون.",
+    "context": "قدم نفسك لشخص جديد باستخدام تحية قصيرة."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Hi, my name is John.",
+        "ar": "مرحبًا، اسمي جون.",
+        "context": "تستخدم الجملة للتحية وتقديم الاسم لشخص جديد.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "Hi تحية، و is تربط الاسم بالمعلومة الحالية عن المتكلم."
+        },
+        "wordMeanings": [
+          {
+            "term": "Hi",
+            "description": "مرحبًا، تحية قصيرة"
+          },
+          {
+            "term": "my",
+            "description": "خاص بي"
+          },
+          {
+            "term": "name",
+            "description": "اسم"
+          },
+          {
+            "term": "is",
+            "description": "يربط الاسم بما بعده"
+          },
+          {
+            "term": "John",
+            "description": "جون، اسم شخص"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Hi, my name is Sara.",
+        "ar": "مرحبًا، اسمي سارة.",
+        "context": "يقال عند تقديم النفس."
+      },
+      {
+        "id": 2,
+        "en": "Hello, my name is Omar.",
+        "ar": "مرحبًا، اسمي عمر.",
+        "context": "يستخدم في تعارف رسمي أو عادي."
+      },
+      {
+        "id": 3,
+        "en": "My name is Ali.",
+        "ar": "اسمي علي.",
+        "context": "تقديم الاسم دون تحية."
+      },
+      {
+        "id": 4,
+        "en": "Hi, I am John.",
+        "ar": "مرحبًا، أنا جون.",
+        "context": "طريقة أخرى للتعريف بالنفس."
+      },
+      {
+        "id": 5,
+        "en": "Hello, I am new here.",
+        "ar": "مرحبًا، أنا جديد هنا.",
+        "context": "يقال عند دخول مكان أو مجموعة جديدة."
+      },
+      {
+        "id": 6,
+        "en": "Hi, this is my friend.",
+        "ar": "مرحبًا، هذا صديقي.",
+        "context": "يستخدم عند تقديم شخص آخر."
+      },
+      {
+        "id": 7,
+        "en": "My name is on the list.",
+        "ar": "اسمي على القائمة.",
+        "context": "يقال عند التحقق من وجود الاسم."
+      },
+      {
+        "id": 8,
+        "en": "Hi, nice to meet you.",
+        "ar": "مرحبًا، سررت بلقائك.",
+        "context": "يستخدم عند مقابلة شخص جديد."
+      },
+      {
+        "id": 9,
+        "en": "His name is John.",
+        "ar": "اسمه جون.",
+        "context": "يقال عند تعريف شخص ذكر."
+      },
+      {
+        "id": 10,
+        "en": "Her name is Lina.",
+        "ar": "اسمها لينا.",
+        "context": "يستخدم عند تعريف شخص أنثى."
+      }
+    ]
+  }
+}

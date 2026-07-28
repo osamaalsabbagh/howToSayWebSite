@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": 3110,
+  "sentence": {
+    "en": "They won the match yesterday.",
+    "ar": "هم فازوا بالمباراة أمس.",
+    "context": "نتيجة حدثت في الماضي."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "They won the match yesterday.",
+        "ar": "هم فازوا بالمباراة أمس.",
+        "context": "تخبر الجملة عن فوز مجموعة أو فريق في مباراة حدثت أمس.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "استُخدم الماضي البسيط لأن won يشير إلى نتيجة مكتملة في وقت ماض محدد: yesterday."
+        },
+        "wordMeanings": [
+          {
+            "term": "They",
+            "description": "هم؛ تشير إلى فريق أو مجموعة أشخاص."
+          },
+          {
+            "term": "won",
+            "description": "فازوا؛ الماضي من win، أي حققوا الانتصار."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف قبل match لأن المباراة محددة ومعروفة."
+          },
+          {
+            "term": "match",
+            "description": "مباراة؛ منافسة رياضية بين فريقين أو لاعبين."
+          },
+          {
+            "term": "yesterday",
+            "description": "أمس؛ اليوم السابق لليوم الحالي."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "They won the match yesterday.",
+        "ar": "هم فازوا بالمباراة أمس.",
+        "context": "تذكر نتيجة مباراة حدثت أمس."
+      },
+      {
+        "id": 2,
+        "en": "They won the match last night.",
+        "ar": "هم فازوا بالمباراة الليلة الماضية.",
+        "context": "تغير وقت الفوز إلى الليلة الماضية."
+      },
+      {
+        "id": 3,
+        "en": "Our team won the match yesterday.",
+        "ar": "فاز فريقنا بالمباراة أمس.",
+        "context": "تحدد الفريق الفائز."
+      },
+      {
+        "id": 4,
+        "en": "Did they win the match yesterday?",
+        "ar": "هل فازوا بالمباراة أمس؟",
+        "context": "تسأل عن نتيجة المباراة."
+      },
+      {
+        "id": 5,
+        "en": "They did not win the match yesterday.",
+        "ar": "لم يفوزوا بالمباراة أمس.",
+        "context": "تنفي الفوز في المباراة."
+      },
+      {
+        "id": 6,
+        "en": "They lost the match yesterday.",
+        "ar": "خسروا المباراة أمس.",
+        "context": "تذكر النتيجة المعاكسة."
+      },
+      {
+        "id": 7,
+        "en": "They win matches often.",
+        "ar": "هم يفوزون بالمباريات كثيرا.",
+        "context": "تتحدث عن عادة أو نمط متكرر."
+      },
+      {
+        "id": 8,
+        "en": "They will win the match tomorrow.",
+        "ar": "سيفوزون بالمباراة غدا.",
+        "context": "تتحدث عن توقع مستقبلي."
+      },
+      {
+        "id": 9,
+        "en": "Everyone cheered when they won the match.",
+        "ar": "هتف الجميع عندما فازوا بالمباراة.",
+        "context": "تصف رد فعل الناس بعد الفوز."
+      },
+      {
+        "id": 10,
+        "en": "I heard they won the match yesterday.",
+        "ar": "سمعت أنهم فازوا بالمباراة أمس.",
+        "context": "تنقل خبر الفوز الذي سمعته."
+      }
+    ]
+  }
+}

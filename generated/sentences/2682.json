@@ -1,0 +1,123 @@
+{
+  "schemaVersion": 1,
+  "id": 2682,
+  "sentence": {
+    "en": "Sorry, I did not hear you.",
+    "ar": "عذرًا، لم أسمعك.",
+    "context": "استعمال فوري قصير للاعتذار أو الاستئذان في موقف كلامي مباشر، وليس وصف شعور داخلي."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Sorry",
+        "ar": "عذرا",
+        "context": "كلمة قصيرة للاعتذار أو طلب إعادة الكلام بلطف.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "Sorry تعبير ثابت قصير وليس جملة خبرية بزمن مستقل."
+        },
+        "wordMeanings": [
+          {
+            "term": "Sorry",
+            "description": "عذرا أو آسف"
+          }
+        ]
+      },
+      {
+        "sentence": "I did not hear you.",
+        "ar": "لم أسمعك.",
+        "context": "توضح سبب قول عذرا، وهو أن المتكلم لم يسمع الكلام.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "did not hear يستخدم النفي في الماضي البسيط لفعل لم يحدث أو لم يكتمل في لحظة سابقة."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "أنا"
+          },
+          {
+            "term": "did",
+            "description": "جزء من النفي في الماضي"
+          },
+          {
+            "term": "not",
+            "description": "أداة نفي"
+          },
+          {
+            "term": "hear",
+            "description": "أسمع"
+          },
+          {
+            "term": "you",
+            "description": "ك أو كلامك، للمخاطب"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Sorry, I did not hear you.",
+        "ar": "عذرا، لم أسمعك.",
+        "context": "تُقال عندما تحتاج أن يعيد الشخص كلامه."
+      },
+      {
+        "id": 2,
+        "en": "Sorry, I did not understand.",
+        "ar": "عذرا، لم أفهم.",
+        "context": "تُقال عند عدم فهم الكلام."
+      },
+      {
+        "id": 3,
+        "en": "Sorry, can you repeat that?",
+        "ar": "عذرا، هل يمكنك تكرار ذلك؟",
+        "context": "طلب مهذب لإعادة الكلام."
+      },
+      {
+        "id": 4,
+        "en": "I did not hear the question.",
+        "ar": "لم أسمع السؤال.",
+        "context": "تحدد الشيء الذي لم تسمعه."
+      },
+      {
+        "id": 5,
+        "en": "Did you hear me?",
+        "ar": "هل سمعتني؟",
+        "context": "سؤال عن وصول الكلام للمخاطب."
+      },
+      {
+        "id": 6,
+        "en": "I could not hear you clearly.",
+        "ar": "لم أستطع سماعك بوضوح.",
+        "context": "تصف مشكلة في وضوح الصوت."
+      },
+      {
+        "id": 7,
+        "en": "Sorry, the room was noisy.",
+        "ar": "عذرا، كانت الغرفة صاخبة.",
+        "context": "تذكر سبب عدم السماع."
+      },
+      {
+        "id": 8,
+        "en": "Please speak louder.",
+        "ar": "من فضلك تكلم بصوت أعلى.",
+        "context": "طلب تحسين الصوت حتى تسمع."
+      },
+      {
+        "id": 9,
+        "en": "I heard you this time.",
+        "ar": "سمعتك هذه المرة.",
+        "context": "تصف نجاح السماع بعد التكرار."
+      },
+      {
+        "id": 10,
+        "en": "Sorry, I missed the last part.",
+        "ar": "عذرا، فاتني الجزء الأخير.",
+        "context": "تُقال عند سماع جزء من الكلام فقط."
+      }
+    ]
+  }
+}

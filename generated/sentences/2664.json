@@ -1,0 +1,127 @@
+{
+  "schemaVersion": 1,
+  "id": 2664,
+  "sentence": {
+    "en": "If someone calls, please let me know.",
+    "ar": "إذا اتصل شخص ما، من فضلك أخبرني.",
+    "context": "الصياغة هادئة وأقرب للرسمية، وتُستخدم في طلب منظّم أو تعليمات."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "If someone calls",
+        "ar": "إذا اتصل شخص ما",
+        "context": "هذا شرط يحدد الحالة التي يجب التصرف عند حدوثها.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "يستخدم المضارع البسيط بعد If للحديث عن احتمال مستقبلي في شرط واقعي."
+        },
+        "wordMeanings": [
+          {
+            "term": "If",
+            "description": "إذا، لبدء شرط"
+          },
+          {
+            "term": "someone",
+            "description": "شخص ما أو شخص غير محدد"
+          },
+          {
+            "term": "calls",
+            "description": "يتصل أو يتكلم عبر الهاتف"
+          }
+        ]
+      },
+      {
+        "sentence": "please let me know.",
+        "ar": "من فضلك أخبرني.",
+        "context": "هذا طلب مهذب بإبلاغ المتكلم عند تحقق الشرط.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه صيغة طلب مهذب، لذلك لا تُعامل كزمن خبري مستقل."
+        },
+        "wordMeanings": [
+          {
+            "term": "please",
+            "description": "من فضلك، لجعل الطلب مهذبا"
+          },
+          {
+            "term": "let",
+            "description": "اجعل أو اسمح في تعبير يعني أخبرني"
+          },
+          {
+            "term": "me",
+            "description": "إياي أو لي"
+          },
+          {
+            "term": "know",
+            "description": "أعرف أو أكون على علم"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "If someone calls, please let me know.",
+        "ar": "إذا اتصل شخص ما، من فضلك أخبرني.",
+        "context": "تُقال عند ترك تعليمات لشخص يراقب الهاتف."
+      },
+      {
+        "id": 2,
+        "en": "If anyone arrives, please let me know.",
+        "ar": "إذا وصل أي شخص، من فضلك أخبرني.",
+        "context": "تعليمات مهذبة عند انتظار زائر."
+      },
+      {
+        "id": 3,
+        "en": "If someone asks for me, call me.",
+        "ar": "إذا سأل شخص ما عني، اتصل بي.",
+        "context": "تصف ما يجب فعله عند سؤال شخص."
+      },
+      {
+        "id": 4,
+        "en": "If someone calls, do not answer.",
+        "ar": "إذا اتصل شخص ما، لا تجب.",
+        "context": "تعليمات مختلفة عند حدوث اتصال."
+      },
+      {
+        "id": 5,
+        "en": "Should I let you know if someone calls?",
+        "ar": "هل يجب أن أخبرك إذا اتصل شخص ما؟",
+        "context": "سؤال لتأكيد التعليمات."
+      },
+      {
+        "id": 6,
+        "en": "Please let me know if the manager calls.",
+        "ar": "من فضلك أخبرني إذا اتصل المدير.",
+        "context": "طلب إبلاغ عن اتصال من شخص محدد."
+      },
+      {
+        "id": 7,
+        "en": "If someone comes early, ask them to wait.",
+        "ar": "إذا جاء شخص ما مبكرا، اطلب منه الانتظار.",
+        "context": "تعليمات شرطية في موقف استقبال."
+      },
+      {
+        "id": 8,
+        "en": "Let me know when someone arrives.",
+        "ar": "أخبرني عندما يصل شخص ما.",
+        "context": "طلب إبلاغ عند حدوث الوصول."
+      },
+      {
+        "id": 9,
+        "en": "If nobody calls, I will check later.",
+        "ar": "إذا لم يتصل أحد، سأتحقق لاحقا.",
+        "context": "تصف خطة عند عدم تحقق الشرط."
+      },
+      {
+        "id": 10,
+        "en": "Please let me know before you leave.",
+        "ar": "من فضلك أخبرني قبل أن تغادر.",
+        "context": "طلب مهذب للإبلاغ قبل فعل معين."
+      }
+    ]
+  }
+}

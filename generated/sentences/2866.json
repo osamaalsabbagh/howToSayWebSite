@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "id": 2866,
+  "sentence": {
+    "en": "I saw them yesterday.",
+    "ar": "أنا رأيتهم أمس.",
+    "context": "الإشارة إلى مجموعة أشخاص كمفعول به."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "I saw them yesterday.",
+        "ar": "رأيتهم أمس.",
+        "context": "تصف الجملة أن المتكلم رأى مجموعة أشخاص في اليوم السابق.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "استُخدم الماضي البسيط لأن saw ومعها yesterday تدلان على حدث مكتمل في الماضي."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير يعني أنا، ويشير إلى المتكلم."
+          },
+          {
+            "term": "saw",
+            "description": "رأيت؛ التصريف الماضي من see."
+          },
+          {
+            "term": "them",
+            "description": "ضمير مفعول به يعني إياهم أو إياهن، ويشير إلى مجموعة أشخاص أو أشياء."
+          },
+          {
+            "term": "yesterday",
+            "description": "أمس؛ اليوم السابق لليوم الحالي."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I saw them yesterday.",
+        "ar": "رأيتهم أمس.",
+        "context": "تصف رؤية مجموعة في الماضي."
+      },
+      {
+        "id": 2,
+        "en": "She saw them at school.",
+        "ar": "هي رأتهم في المدرسة.",
+        "context": "تحدد مكان الرؤية."
+      },
+      {
+        "id": 3,
+        "en": "We saw them after lunch.",
+        "ar": "رأيناهم بعد الغداء.",
+        "context": "تحدد وقت الرؤية."
+      },
+      {
+        "id": 4,
+        "en": "I did not see them yesterday.",
+        "ar": "لم أرهم أمس.",
+        "context": "تنفي حدوث الرؤية."
+      },
+      {
+        "id": 5,
+        "en": "Did you see them yesterday?",
+        "ar": "هل رأيتهم أمس؟",
+        "context": "تسأل عن رؤية مجموعة."
+      },
+      {
+        "id": 6,
+        "en": "I saw them outside the theater.",
+        "ar": "رأيتهم خارج المسرح.",
+        "context": "تحدد مكانا مرتبطا بسياق سابق."
+      },
+      {
+        "id": 7,
+        "en": "He saw them waiting outside.",
+        "ar": "هو رآهم ينتظرون في الخارج.",
+        "context": "تصف ما كانوا يفعلونه عند رؤيتهم."
+      },
+      {
+        "id": 8,
+        "en": "I saw them and said hello.",
+        "ar": "رأيتهم وقلت مرحبا.",
+        "context": "تصف فعلين متتابعين."
+      },
+      {
+        "id": 9,
+        "en": "I saw them yesterday, but I did not talk to them.",
+        "ar": "رأيتهم أمس، لكنني لم أتحدث إليهم.",
+        "context": "تصف رؤية بلا حديث."
+      },
+      {
+        "id": 10,
+        "en": "My brother saw them yesterday too.",
+        "ar": "أخي رآهم أمس أيضا.",
+        "context": "تضيف شخصا آخر رأى المجموعة."
+      }
+    ]
+  }
+}

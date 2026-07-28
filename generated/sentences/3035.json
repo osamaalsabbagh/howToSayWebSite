@@ -1,0 +1,111 @@
+{
+  "schemaVersion": 1,
+  "id": 3035,
+  "sentence": {
+    "en": "She walked in the park yesterday.",
+    "ar": "هي مشت في الحديقة أمس.",
+    "context": "حركة في مكان في الماضي."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "She walked in the park yesterday.",
+        "ar": "مشت في الحديقة أمس.",
+        "context": "تصف الجملة أنها مشَت داخل الحديقة في اليوم السابق.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "استُخدم الماضي البسيط لأن walked يدل على مشي حدث في وقت ماض محدد بكلمة yesterday."
+        },
+        "wordMeanings": [
+          {
+            "term": "She",
+            "description": "ضمير يعني هي، ويشير إلى امرأة أو فتاة."
+          },
+          {
+            "term": "walked",
+            "description": "مشت؛ التصريف الماضي من walk."
+          },
+          {
+            "term": "in",
+            "description": "في؛ تدل على الوجود داخل مكان."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف تشير إلى حديقة محددة."
+          },
+          {
+            "term": "park",
+            "description": "حديقة أو منتزه؛ مكان عام للمشي والراحة."
+          },
+          {
+            "term": "yesterday",
+            "description": "أمس؛ اليوم السابق لليوم الحالي."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "She walked in the park yesterday.",
+        "ar": "مشت في الحديقة أمس.",
+        "context": "تذكر مشيا حدث في الحديقة أمس."
+      },
+      {
+        "id": 2,
+        "en": "He walked in the park yesterday.",
+        "ar": "مشى في الحديقة أمس.",
+        "context": "تستخدم الجملة مع رجل أو ولد."
+      },
+      {
+        "id": 3,
+        "en": "She walked in the street yesterday.",
+        "ar": "مشت في الشارع أمس.",
+        "context": "تغير مكان المشي."
+      },
+      {
+        "id": 4,
+        "en": "She did not walk in the park yesterday.",
+        "ar": "لم تمش في الحديقة أمس.",
+        "context": "تنفي المشي في الحديقة أمس."
+      },
+      {
+        "id": 5,
+        "en": "Did she walk in the park yesterday?",
+        "ar": "هل مشت في الحديقة أمس؟",
+        "context": "تسأل عن المشي في الحديقة."
+      },
+      {
+        "id": 6,
+        "en": "She walks in the park every day.",
+        "ar": "تمشي في الحديقة كل يوم.",
+        "context": "تحول المشي إلى عادة."
+      },
+      {
+        "id": 7,
+        "en": "She will walk in the park tomorrow.",
+        "ar": "ستمشي في الحديقة غدا.",
+        "context": "تنقل المشي إلى المستقبل."
+      },
+      {
+        "id": 8,
+        "en": "She walked in the park yesterday with her sister.",
+        "ar": "مشت في الحديقة أمس مع أختها.",
+        "context": "توضح من كان معها."
+      },
+      {
+        "id": 9,
+        "en": "She walked in the park yesterday because the weather was nice.",
+        "ar": "مشت في الحديقة أمس لأن الطقس كان جميلا.",
+        "context": "توضح سبب المشي."
+      },
+      {
+        "id": 10,
+        "en": "After she walked in the park yesterday, she felt relaxed.",
+        "ar": "بعد أن مشت في الحديقة أمس، شعرت بالراحة.",
+        "context": "تربط المشي بنتيجة."
+      }
+    ]
+  }
+}

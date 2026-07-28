@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": 3163,
+  "sentence": {
+    "en": "I finished the work yesterday.",
+    "ar": "أنا أنهيت العمل أمس.",
+    "context": "حدث انتهى في يوم قبل اليوم الحالي مباشرة."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "I finished the work yesterday.",
+        "ar": "أنهيت العمل أمس.",
+        "context": "تصف الجملة إنجاز عمل محدد في اليوم السابق.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "استُخدم الماضي البسيط لأن finished يصف فعلا اكتمل في وقت ماض محدد: yesterday."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "أنا؛ المتكلم."
+          },
+          {
+            "term": "finished",
+            "description": "أنهيت؛ أكملت العمل حتى النهاية."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف قبل work لأنه عمل محدد."
+          },
+          {
+            "term": "work",
+            "description": "العمل؛ مهمة أو واجب يجب إنجازه."
+          },
+          {
+            "term": "yesterday",
+            "description": "أمس؛ اليوم السابق لليوم الحالي."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I finished the work yesterday.",
+        "ar": "أنهيت العمل أمس.",
+        "context": "تذكر إكمال العمل في الماضي."
+      },
+      {
+        "id": 2,
+        "en": "She finished the work yesterday.",
+        "ar": "أنهت العمل أمس.",
+        "context": "تغير الفاعل إلى امرأة أو فتاة."
+      },
+      {
+        "id": 3,
+        "en": "I finished the task yesterday.",
+        "ar": "أنهيت المهمة أمس.",
+        "context": "تغير الشيء المنجز."
+      },
+      {
+        "id": 4,
+        "en": "Did you finish the work yesterday?",
+        "ar": "هل أنهيت العمل أمس؟",
+        "context": "تسأل عن إكمال العمل."
+      },
+      {
+        "id": 5,
+        "en": "I did not finish the work yesterday.",
+        "ar": "لم أنه العمل أمس.",
+        "context": "تنفي إكمال العمل."
+      },
+      {
+        "id": 6,
+        "en": "I finish the work before dinner every day.",
+        "ar": "أنهي العمل قبل العشاء كل يوم.",
+        "context": "تصف عادة متكررة."
+      },
+      {
+        "id": 7,
+        "en": "I am finishing the work now.",
+        "ar": "أنا أنهي العمل الآن.",
+        "context": "تصف الإنهاء أثناء حدوثه."
+      },
+      {
+        "id": 8,
+        "en": "I will finish the work tomorrow.",
+        "ar": "سأنهي العمل غدا.",
+        "context": "تتحدث عن إنجاز مستقبلي."
+      },
+      {
+        "id": 9,
+        "en": "I was tired after I finished the work yesterday.",
+        "ar": "كنت متعبا بعد أن أنهيت العمل أمس.",
+        "context": "تذكر نتيجة إكمال العمل."
+      },
+      {
+        "id": 10,
+        "en": "My manager was happy because I finished the work yesterday.",
+        "ar": "كان مديري سعيدا لأنني أنهيت العمل أمس.",
+        "context": "تربط الإنجاز برد فعل في العمل."
+      }
+    ]
+  }
+}

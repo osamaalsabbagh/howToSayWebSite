@@ -1,0 +1,115 @@
+{
+  "schemaVersion": 1,
+  "id": 2004,
+  "sentence": {
+    "en": "I received a message from my teacher.",
+    "ar": "أنا استلمت رسالة من معلمي.",
+    "context": "المقصود رسالة قصيرة يمكن أن تكون مكتوبة أو عبر الهاتف، وليست خطابًا طويلًا."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "I received a message from my teacher.",
+        "ar": "أنا استلمت رسالة من معلمي.",
+        "context": "تصف الجملة وصول رسالة قصيرة من المعلم إلى المتكلم.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "استُخدم الماضي البسيط لأن استلام الرسالة حدث وانتهى في الماضي."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير المتكلم المفرد"
+          },
+          {
+            "term": "received",
+            "description": "استلمت أو تلقيت في الماضي"
+          },
+          {
+            "term": "a",
+            "description": "أداة تنكير لرسالة واحدة"
+          },
+          {
+            "term": "message",
+            "description": "رسالة قصيرة مكتوبة أو صوتية"
+          },
+          {
+            "term": "from",
+            "description": "من، لبيان المصدر"
+          },
+          {
+            "term": "my",
+            "description": "خاص بي"
+          },
+          {
+            "term": "teacher",
+            "description": "معلم أو معلمة حسب السياق"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "She received a message from her friend.",
+        "ar": "هي استلمت رسالة من صديقتها.",
+        "context": "تقال عند وصول رسالة من صديق."
+      },
+      {
+        "id": 2,
+        "en": "I got a message from my manager.",
+        "ar": "أنا تلقيت رسالة من مديري.",
+        "context": "تقال عند وصول رسالة عمل."
+      },
+      {
+        "id": 3,
+        "en": "He received an email from the school.",
+        "ar": "هو استلم بريدًا إلكترونيًا من المدرسة.",
+        "context": "تقال عند وصول رسالة رسمية."
+      },
+      {
+        "id": 4,
+        "en": "We received a message yesterday.",
+        "ar": "نحن استلمنا رسالة أمس.",
+        "context": "تقال عند ذكر وقت وصول الرسالة."
+      },
+      {
+        "id": 5,
+        "en": "My teacher sent me a message.",
+        "ar": "معلمي أرسل لي رسالة.",
+        "context": "تقال عند ذكر المرسل والفعل."
+      },
+      {
+        "id": 6,
+        "en": "I read the message quickly.",
+        "ar": "أنا قرأت الرسالة بسرعة.",
+        "context": "تقال بعد استلام الرسالة."
+      },
+      {
+        "id": 7,
+        "en": "They received messages from students.",
+        "ar": "هم استلموا رسائل من الطلاب.",
+        "context": "تقال عند وصول عدة رسائل."
+      },
+      {
+        "id": 8,
+        "en": "She received a phone message.",
+        "ar": "هي استلمت رسالة هاتفية.",
+        "context": "تقال عند وصول رسالة عبر الهاتف."
+      },
+      {
+        "id": 9,
+        "en": "I received a message about the homework.",
+        "ar": "أنا استلمت رسالة عن الواجب.",
+        "context": "تقال عند محتوى رسالة دراسية."
+      },
+      {
+        "id": 10,
+        "en": "The message came from my teacher.",
+        "ar": "الرسالة جاءت من معلمي.",
+        "context": "تقال عند توضيح مصدر الرسالة."
+      }
+    ]
+  }
+}

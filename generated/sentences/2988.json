@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "id": 2988,
+  "sentence": {
+    "en": "The university is big.",
+    "ar": "الجامعة كبيرة.",
+    "context": "وصف مكان تعليمي."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "The university is big.",
+        "ar": "الجامعة كبيرة.",
+        "context": "تصف الجملة جامعة محددة بأنها كبيرة الحجم أو واسعة.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُخدم المضارع البسيط لأن is يصف صفة حالية أو عامة للجامعة."
+        },
+        "wordMeanings": [
+          {
+            "term": "The",
+            "description": "أداة تعريف تشير إلى جامعة محددة."
+          },
+          {
+            "term": "university",
+            "description": "جامعة؛ مؤسسة تعليمية بعد المدرسة."
+          },
+          {
+            "term": "is",
+            "description": "فعل يكون في المضارع، ويربط university بصفته."
+          },
+          {
+            "term": "big",
+            "description": "كبير؛ واسع أو كبير الحجم."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "The university is big.",
+        "ar": "الجامعة كبيرة.",
+        "context": "تصف حجم جامعة."
+      },
+      {
+        "id": 2,
+        "en": "The school is big.",
+        "ar": "المدرسة كبيرة.",
+        "context": "تستخدم big مع مكان تعليمي آخر."
+      },
+      {
+        "id": 3,
+        "en": "The university is small.",
+        "ar": "الجامعة صغيرة.",
+        "context": "تستخدم الصفة المعاكسة."
+      },
+      {
+        "id": 4,
+        "en": "The university is not big.",
+        "ar": "الجامعة ليست كبيرة.",
+        "context": "تنفي كبر الجامعة."
+      },
+      {
+        "id": 5,
+        "en": "Is the university big?",
+        "ar": "هل الجامعة كبيرة؟",
+        "context": "تسأل عن حجم الجامعة."
+      },
+      {
+        "id": 6,
+        "en": "The university was big years ago.",
+        "ar": "كانت الجامعة كبيرة قبل سنوات.",
+        "context": "تنقل الوصف إلى الماضي."
+      },
+      {
+        "id": 7,
+        "en": "The university is big and old.",
+        "ar": "الجامعة كبيرة وقديمة.",
+        "context": "تضيف صفة أخرى للجامعة."
+      },
+      {
+        "id": 8,
+        "en": "The university is big, so many students study there.",
+        "ar": "الجامعة كبيرة، لذلك يدرس فيها طلاب كثيرون.",
+        "context": "تذكر نتيجة كبر الجامعة."
+      },
+      {
+        "id": 9,
+        "en": "I like the university because it is big.",
+        "ar": "أحب الجامعة لأنها كبيرة.",
+        "context": "توضح سبب الإعجاب بالجامعة."
+      },
+      {
+        "id": 10,
+        "en": "If the university is big, arrive early.",
+        "ar": "إذا كانت الجامعة كبيرة، فاحضر مبكرا.",
+        "context": "تستخدم الجملة داخل نصيحة."
+      }
+    ]
+  }
+}

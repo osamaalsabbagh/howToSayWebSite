@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": 2820,
+  "sentence": {
+    "en": "My teacher explained the lesson.",
+    "ar": "معلّمي شرح الدرس.",
+    "context": "حدث حصل داخل بيئة تعليمية."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "My teacher explained the lesson.",
+        "ar": "شرح معلمي الدرس.",
+        "context": "تصف الجملة أن المعلم شرح درسا للطلاب في موقف تعليمي.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "استُخدم الماضي البسيط لأن explained يدل على فعل مكتمل في الماضي."
+        },
+        "wordMeanings": [
+          {
+            "term": "My",
+            "description": "ضمير ملكية يعني الخاص بي أو معلمي أنا."
+          },
+          {
+            "term": "teacher",
+            "description": "معلم؛ الشخص الذي يشرح ويدرّس."
+          },
+          {
+            "term": "explained",
+            "description": "شرح أو وضّح؛ التصريف الماضي من explain."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف تشير إلى درس محدد."
+          },
+          {
+            "term": "lesson",
+            "description": "درس؛ موضوع تعليمي في الصف."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "My teacher explained the lesson.",
+        "ar": "شرح معلمي الدرس.",
+        "context": "تصف شرح درس في الماضي."
+      },
+      {
+        "id": 2,
+        "en": "The teacher explained the rule.",
+        "ar": "شرح المعلم القاعدة.",
+        "context": "تصف شرح قاعدة محددة."
+      },
+      {
+        "id": 3,
+        "en": "She explained the answer clearly.",
+        "ar": "هي شرحت الإجابة بوضوح.",
+        "context": "تصف طريقة الشرح."
+      },
+      {
+        "id": 4,
+        "en": "He explained the problem to us.",
+        "ar": "هو شرح لنا المشكلة.",
+        "context": "تذكر من تلقى الشرح."
+      },
+      {
+        "id": 5,
+        "en": "My teacher explained the homework.",
+        "ar": "شرح معلمي الواجب.",
+        "context": "تصف توضيح واجب مدرسي."
+      },
+      {
+        "id": 6,
+        "en": "They explained the plan yesterday.",
+        "ar": "هم شرحوا الخطة أمس.",
+        "context": "تصف شرحا حدث في وقت ماض."
+      },
+      {
+        "id": 7,
+        "en": "The teacher did not explain the lesson.",
+        "ar": "لم يشرح المعلم الدرس.",
+        "context": "تنفي حدوث الشرح."
+      },
+      {
+        "id": 8,
+        "en": "Did your teacher explain the lesson?",
+        "ar": "هل شرح معلمك الدرس؟",
+        "context": "تسأل عن حدوث الشرح."
+      },
+      {
+        "id": 9,
+        "en": "Our teacher explained the lesson twice.",
+        "ar": "شرح معلمنا الدرس مرتين.",
+        "context": "تذكر عدد مرات الشرح."
+      },
+      {
+        "id": 10,
+        "en": "My teacher explained the lesson after class.",
+        "ar": "شرح معلمي الدرس بعد الحصة.",
+        "context": "تحدد وقت الشرح."
+      }
+    ]
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "id": 3313,
+  "sentence": {
+    "en": "The baby is asleep.",
+    "ar": "الطفل نائم.",
+    "context": "حالة نوم في لحظة معينة."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "The baby is asleep.",
+        "ar": "الطفل نائم.",
+        "context": "تصف الجملة حالة الطفل الحالية: هو في حالة نوم.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُخدم is لوصف حالة حالية للطفل."
+        },
+        "wordMeanings": [
+          {
+            "term": "The",
+            "description": "أداة تعريف؛ تجعل baby طفلا محددا."
+          },
+          {
+            "term": "baby",
+            "description": "طفل رضيع أو صغير جدا."
+          },
+          {
+            "term": "is",
+            "description": "يكون أو هو؛ فعل be مع مفرد غائب في المضارع."
+          },
+          {
+            "term": "asleep",
+            "description": "نائم؛ في حالة نوم."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "The baby is asleep.",
+        "ar": "الطفل نائم.",
+        "context": "تصف حالة الطفل الآن."
+      },
+      {
+        "id": 2,
+        "en": "The child is asleep.",
+        "ar": "الطفل نائم.",
+        "context": "تستخدم كلمة أوسع من baby."
+      },
+      {
+        "id": 3,
+        "en": "The baby is awake.",
+        "ar": "الطفل مستيقظ.",
+        "context": "تعطي الحالة المعاكسة."
+      },
+      {
+        "id": 4,
+        "en": "The baby is not asleep.",
+        "ar": "الطفل ليس نائما.",
+        "context": "تنفي حالة النوم."
+      },
+      {
+        "id": 5,
+        "en": "Is the baby asleep?",
+        "ar": "هل الطفل نائم؟",
+        "context": "تسأل عن حالة الطفل."
+      },
+      {
+        "id": 6,
+        "en": "The baby was asleep yesterday afternoon.",
+        "ar": "كان الطفل نائما بعد ظهر أمس.",
+        "context": "تنقل الحالة إلى الماضي."
+      },
+      {
+        "id": 7,
+        "en": "The baby will be asleep soon.",
+        "ar": "سيكون الطفل نائما قريبا.",
+        "context": "تتحدث عن حالة مستقبلية قريبة."
+      },
+      {
+        "id": 8,
+        "en": "The baby is already asleep.",
+        "ar": "الطفل نائم بالفعل.",
+        "context": "تؤكد أن النوم حدث قبل المتوقع."
+      },
+      {
+        "id": 9,
+        "en": "The baby is asleep because the room is quiet.",
+        "ar": "الطفل نائم لأن الغرفة هادئة.",
+        "context": "تذكر سبب مساعد على النوم."
+      },
+      {
+        "id": 10,
+        "en": "The baby is asleep, so please speak quietly.",
+        "ar": "الطفل نائم، لذلك من فضلك تحدث بهدوء.",
+        "context": "تذكر تصرفا مناسبا لحالة النوم."
+      }
+    ]
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "schemaVersion": 1,
+  "id": 2116,
+  "sentence": {
+    "en": "I am not ready yet. Can you give me a few more minutes?",
+    "ar": "أنا لست جاهزًا بعد. هل يمكنك أن تمنحني بضع دقائق أخرى؟",
+    "context": "أخبر شخصًا بأنك غير مستعد بعد، واطلب منه منحك مزيدًا من الوقت للتحضير."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "I am not ready yet.",
+        "ar": "أنا لست جاهزًا بعد.",
+        "context": "يوضح هذا الجزء أن المتكلم لم ينته من الاستعداد.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُخدم am not لوصف حالة حالية منفية، وyet تعني أن الحالة قد تتغير لاحقًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير المتكلم المفرد"
+          },
+          {
+            "term": "am",
+            "description": "صيغة تأتي مع أنا في الحاضر"
+          },
+          {
+            "term": "not",
+            "description": "للنفي"
+          },
+          {
+            "term": "ready",
+            "description": "جاهز"
+          },
+          {
+            "term": "yet",
+            "description": "بعد، وتدل على أن الأمر لم يحدث حتى الآن"
+          }
+        ]
+      },
+      {
+        "sentence": "Can you give me a few more minutes?",
+        "ar": "هل يمكنك أن تمنحني بضع دقائق أخرى؟",
+        "context": "هذا الجزء يطلب وقتًا إضافيًا بطريقة مهذبة.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه بنية طلب مهذب باستخدام Can you للسؤال عن القدرة أو الاستعداد للمساعدة، وليست زمنًا مستقلًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "Can",
+            "description": "هل يمكنك أو هل تستطيع"
+          },
+          {
+            "term": "you",
+            "description": "أنت أو أنتم حسب المخاطب"
+          },
+          {
+            "term": "give",
+            "description": "تعطي أو تمنح"
+          },
+          {
+            "term": "me",
+            "description": "لي أو إياي"
+          },
+          {
+            "term": "a",
+            "description": "جزء من عبارة a few التي تعني بضع"
+          },
+          {
+            "term": "few",
+            "description": "بضع أو عدد قليل"
+          },
+          {
+            "term": "more",
+            "description": "إضافية أو أكثر"
+          },
+          {
+            "term": "minutes",
+            "description": "دقائق"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I am not finished yet.",
+        "ar": "لم أنته بعد.",
+        "context": "تقال عند الحاجة إلى وقت إضافي."
+      },
+      {
+        "id": 2,
+        "en": "Can you give me five minutes?",
+        "ar": "هل يمكنك أن تعطيني خمس دقائق؟",
+        "context": "تقال عند طلب وقت قصير."
+      },
+      {
+        "id": 3,
+        "en": "She is not ready yet.",
+        "ar": "هي ليست جاهزة بعد.",
+        "context": "تقال عند انتظار شخص."
+      },
+      {
+        "id": 4,
+        "en": "Please wait a few more minutes.",
+        "ar": "رجاءً انتظر بضع دقائق أخرى.",
+        "context": "تقال عند طلب الانتظار."
+      },
+      {
+        "id": 5,
+        "en": "I need more time.",
+        "ar": "أحتاج إلى مزيد من الوقت.",
+        "context": "تقال عند عدم كفاية الوقت."
+      },
+      {
+        "id": 6,
+        "en": "Can you wait here?",
+        "ar": "هل يمكنك الانتظار هنا؟",
+        "context": "تقال عند طلب الانتظار في مكان."
+      },
+      {
+        "id": 7,
+        "en": "I am ready now.",
+        "ar": "أنا جاهز الآن.",
+        "context": "تقال بعد انتهاء الاستعداد."
+      },
+      {
+        "id": 8,
+        "en": "They are not here yet.",
+        "ar": "هم ليسوا هنا بعد.",
+        "context": "تقال عند انتظار وصول مجموعة."
+      },
+      {
+        "id": 9,
+        "en": "Give me a moment, please.",
+        "ar": "أعطني لحظة رجاءً.",
+        "context": "تقال عند طلب وقت قصير جدًا."
+      },
+      {
+        "id": 10,
+        "en": "We need a few more chairs.",
+        "ar": "نحتاج إلى بضع كراسٍ أخرى.",
+        "context": "تقال عند طلب كمية إضافية قليلة."
+      }
+    ]
+  }
+}

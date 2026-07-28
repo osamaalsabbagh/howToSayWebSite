@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": 2200,
+  "sentence": {
+    "en": "Please read the last paragraph.",
+    "ar": "رجاءً اقرأ الفقرة الأخيرة.",
+    "context": "إعطاء تعليمات بقراءة الجزء الأخير من نص مكتوب."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Please read the last paragraph.",
+        "ar": "رجاءً اقرأ الفقرة الأخيرة.",
+        "context": "طلب مهذب بقراءة الفقرة الأخيرة من نص أو مستند.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "الجملة أمر أو طلب مباشر، لذلك لا تُعامل كجملة خبرية بزمن محدد."
+        },
+        "wordMeanings": [
+          {
+            "term": "Please",
+            "description": "رجاءً؛ تجعل الطلب مهذبًا"
+          },
+          {
+            "term": "read",
+            "description": "اقرأ"
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف"
+          },
+          {
+            "term": "last",
+            "description": "الأخيرة"
+          },
+          {
+            "term": "paragraph",
+            "description": "فقرة"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Please read the last paragraph.",
+        "ar": "رجاءً اقرأ الفقرة الأخيرة.",
+        "context": "إعطاء تعليمات بقراءة الجزء الأخير من نص مكتوب."
+      },
+      {
+        "id": 2,
+        "en": "Please read the first paragraph.",
+        "ar": "رجاءً اقرأ الفقرة الأولى.",
+        "context": "طلب قراءة فقرة مختلفة."
+      },
+      {
+        "id": 3,
+        "en": "Read the last paragraph aloud.",
+        "ar": "اقرأ الفقرة الأخيرة بصوت عالٍ.",
+        "context": "تحديد طريقة القراءة."
+      },
+      {
+        "id": 4,
+        "en": "The last paragraph is important.",
+        "ar": "الفقرة الأخيرة مهمة.",
+        "context": "سبب طلب قراءتها."
+      },
+      {
+        "id": 5,
+        "en": "Did you read the last paragraph?",
+        "ar": "هل قرأت الفقرة الأخيرة؟",
+        "context": "سؤال عن إتمام القراءة."
+      },
+      {
+        "id": 6,
+        "en": "Please do not skip the last paragraph.",
+        "ar": "رجاءً لا تتجاوز الفقرة الأخيرة.",
+        "context": "تنبيه إلى عدم تركها."
+      },
+      {
+        "id": 7,
+        "en": "The last paragraph explains the result.",
+        "ar": "تشرح الفقرة الأخيرة النتيجة.",
+        "context": "وصف وظيفة الفقرة الأخيرة."
+      },
+      {
+        "id": 8,
+        "en": "I will read the last paragraph now.",
+        "ar": "سأقرأ الفقرة الأخيرة الآن.",
+        "context": "الاستجابة للطلب."
+      },
+      {
+        "id": 9,
+        "en": "Which paragraph should I read?",
+        "ar": "أي فقرة يجب أن أقرأ؟",
+        "context": "سؤال لتأكيد المطلوب."
+      },
+      {
+        "id": 10,
+        "en": "Please read the final section.",
+        "ar": "رجاءً اقرأ القسم الأخير.",
+        "context": "صياغة قريبة لمعنى last paragraph."
+      }
+    ]
+  }
+}

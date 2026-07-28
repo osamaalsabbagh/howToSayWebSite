@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": 2949,
+  "sentence": {
+    "en": "This is true.",
+    "ar": "هذا صحيح.",
+    "context": "التأكيد على صحة معلومة."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "This is true.",
+        "ar": "هذا صحيح.",
+        "context": "تستخدم الجملة لتأكيد أن معلومة أو كلاما يطابق الواقع.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُخدم المضارع البسيط لأن is يصف صحة الأمر في الحاضر."
+        },
+        "wordMeanings": [
+          {
+            "term": "This",
+            "description": "هذا؛ تشير إلى معلومة أو كلام قريب في السياق."
+          },
+          {
+            "term": "is",
+            "description": "فعل يكون في المضارع، ويربط this بصفته."
+          },
+          {
+            "term": "true",
+            "description": "صحيح؛ مطابق للواقع أو غير كاذب."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "This is true.",
+        "ar": "هذا صحيح.",
+        "context": "تؤكد صحة معلومة."
+      },
+      {
+        "id": 2,
+        "en": "That is true.",
+        "ar": "ذلك صحيح.",
+        "context": "تستخدم true مع شيء أبعد في الكلام."
+      },
+      {
+        "id": 3,
+        "en": "This is not true.",
+        "ar": "هذا ليس صحيحا.",
+        "context": "تنفي صحة المعلومة."
+      },
+      {
+        "id": 4,
+        "en": "Is this true?",
+        "ar": "هل هذا صحيح؟",
+        "context": "تسأل عن صحة الكلام."
+      },
+      {
+        "id": 5,
+        "en": "This was true yesterday.",
+        "ar": "كان هذا صحيحا أمس.",
+        "context": "تنقل الصحة إلى الماضي."
+      },
+      {
+        "id": 6,
+        "en": "This might be true.",
+        "ar": "قد يكون هذا صحيحا.",
+        "context": "تجعل الحكم غير مؤكد."
+      },
+      {
+        "id": 7,
+        "en": "I know this is true.",
+        "ar": "أعرف أن هذا صحيح.",
+        "context": "تدخل الجملة داخل كلام أطول."
+      },
+      {
+        "id": 8,
+        "en": "This is true because I checked it.",
+        "ar": "هذا صحيح لأنني تحققت منه.",
+        "context": "توضح سبب الثقة بالمعلومة."
+      },
+      {
+        "id": 9,
+        "en": "If this is true, we need to act.",
+        "ar": "إذا كان هذا صحيحا، فعلينا أن نتصرف.",
+        "context": "تستخدم الجملة داخل شرط."
+      },
+      {
+        "id": 10,
+        "en": "This is true, but it is not the whole story.",
+        "ar": "هذا صحيح، لكنه ليس القصة كاملة.",
+        "context": "تؤكد الصحة مع إضافة قيد."
+      }
+    ]
+  }
+}

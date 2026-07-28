@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "id": 3047,
+  "sentence": {
+    "en": "The room is warm.",
+    "ar": "الغرفة دافئة.",
+    "context": "درجة حرارة مريحة."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "The room is warm.",
+        "ar": "الغرفة دافئة.",
+        "context": "تصف الجملة درجة حرارة الغرفة بأنها مريحة ومائلة إلى الدفء.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُخدم المضارع البسيط لأن is يصف حالة الغرفة الحالية."
+        },
+        "wordMeanings": [
+          {
+            "term": "The",
+            "description": "أداة تعريف تشير إلى غرفة محددة."
+          },
+          {
+            "term": "room",
+            "description": "غرفة؛ مساحة داخل بيت أو مبنى."
+          },
+          {
+            "term": "is",
+            "description": "فعل يكون في المضارع، ويربط room بالصفة warm."
+          },
+          {
+            "term": "warm",
+            "description": "دافئ؛ ليس باردا، وغالبا مريح الحرارة."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "The room is warm.",
+        "ar": "الغرفة دافئة.",
+        "context": "تصف حرارة غرفة محددة."
+      },
+      {
+        "id": 2,
+        "en": "The house is warm.",
+        "ar": "البيت دافئ.",
+        "context": "تغير المكان الموصوف."
+      },
+      {
+        "id": 3,
+        "en": "The room is cold.",
+        "ar": "الغرفة باردة.",
+        "context": "تستخدم الوصف المعاكس."
+      },
+      {
+        "id": 4,
+        "en": "The room is not warm.",
+        "ar": "الغرفة ليست دافئة.",
+        "context": "تنفي أن حرارة الغرفة دافئة."
+      },
+      {
+        "id": 5,
+        "en": "Is the room warm?",
+        "ar": "هل الغرفة دافئة؟",
+        "context": "تسأل عن درجة حرارة الغرفة."
+      },
+      {
+        "id": 6,
+        "en": "The room was warm last night.",
+        "ar": "كانت الغرفة دافئة الليلة الماضية.",
+        "context": "تنقل الوصف إلى الماضي."
+      },
+      {
+        "id": 7,
+        "en": "The room will be warm soon.",
+        "ar": "ستصبح الغرفة دافئة قريبا.",
+        "context": "تنقل الوصف إلى المستقبل."
+      },
+      {
+        "id": 8,
+        "en": "The room is warm in the afternoon.",
+        "ar": "الغرفة دافئة بعد الظهر.",
+        "context": "تحدد وقت الدفء."
+      },
+      {
+        "id": 9,
+        "en": "The room is warm because the heater is on.",
+        "ar": "الغرفة دافئة لأن المدفأة تعمل.",
+        "context": "توضح سبب الدفء."
+      },
+      {
+        "id": 10,
+        "en": "If the room is warm, open the window.",
+        "ar": "إذا كانت الغرفة دافئة، فافتح النافذة.",
+        "context": "تستخدم الجملة داخل توجيه."
+      }
+    ]
+  }
+}

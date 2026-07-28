@@ -1,0 +1,139 @@
+{
+  "schemaVersion": 1,
+  "id": 1858,
+  "sentence": {
+    "en": "I like this book because it is easy to read.",
+    "ar": "أنا أحب هذا الكتاب لأنه سهل القراءة.",
+    "context": "صف رأيك في شيء معين باستخدام ضمير الأشياء."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "I like this book",
+        "ar": "أنا أحب هذا الكتاب",
+        "context": "يعبر هذا الجزء عن رأي المتكلم في كتاب محدد.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استخدم like للتعبير عن تفضيل أو رأي عام في الحاضر."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "أنا، المتكلم عن نفسه"
+          },
+          {
+            "term": "like",
+            "description": "أحب أو يعجبني"
+          },
+          {
+            "term": "this",
+            "description": "هذا، لشيء محدد قريب أو حاضر"
+          },
+          {
+            "term": "book",
+            "description": "كتاب"
+          }
+        ]
+      },
+      {
+        "sentence": "because it is easy to read.",
+        "ar": "لأنه سهل القراءة.",
+        "context": "يوضح هذا الجزء سبب الإعجاب بالكتاب.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استخدم is لوصف صفة الكتاب، و because تقدم السبب."
+        },
+        "wordMeanings": [
+          {
+            "term": "because",
+            "description": "لأن، تقدم السبب"
+          },
+          {
+            "term": "it",
+            "description": "هو أو إنه، يعود على الكتاب"
+          },
+          {
+            "term": "is",
+            "description": "يربط الشيء بوصفه"
+          },
+          {
+            "term": "easy",
+            "description": "سهل"
+          },
+          {
+            "term": "to",
+            "description": "تأتي قبل الفعل لتوضيح مجال السهولة"
+          },
+          {
+            "term": "read",
+            "description": "يقرأ"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I like this story because it is short.",
+        "ar": "أحب هذه القصة لأنها قصيرة.",
+        "context": "يقال عند ذكر سبب الإعجاب."
+      },
+      {
+        "id": 2,
+        "en": "She likes the app because it is easy to use.",
+        "ar": "هي تحب التطبيق لأنه سهل الاستخدام.",
+        "context": "يستخدم لوصف سهولة شيء."
+      },
+      {
+        "id": 3,
+        "en": "I like this chair because it is comfortable.",
+        "ar": "أحب هذا الكرسي لأنه مريح.",
+        "context": "يقال عن سبب تفضيل شيء."
+      },
+      {
+        "id": 4,
+        "en": "He likes this book.",
+        "ar": "هو يحب هذا الكتاب.",
+        "context": "تعبير مباشر عن الإعجاب."
+      },
+      {
+        "id": 5,
+        "en": "This book is easy to read.",
+        "ar": "هذا الكتاب سهل القراءة.",
+        "context": "يستخدم لوصف كتاب مناسب."
+      },
+      {
+        "id": 6,
+        "en": "I like the lesson because it is clear.",
+        "ar": "أحب الدرس لأنه واضح.",
+        "context": "يقال عن درس مفهوم."
+      },
+      {
+        "id": 7,
+        "en": "They like the hotel because it is quiet.",
+        "ar": "هم يحبون الفندق لأنه هادئ.",
+        "context": "يستخدم لذكر سبب تفضيل مكان."
+      },
+      {
+        "id": 8,
+        "en": "I bought it because it was cheap.",
+        "ar": "اشتريته لأنه كان رخيصًا.",
+        "context": "يقال عن سبب شراء شيء."
+      },
+      {
+        "id": 9,
+        "en": "She read the book because it was interesting.",
+        "ar": "هي قرأت الكتاب لأنه كان شيقًا.",
+        "context": "يستخدم لسبب القراءة."
+      },
+      {
+        "id": 10,
+        "en": "I like this phone because it is small.",
+        "ar": "أحب هذا الهاتف لأنه صغير.",
+        "context": "يقال عن تفضيل جهاز."
+      }
+    ]
+  }
+}

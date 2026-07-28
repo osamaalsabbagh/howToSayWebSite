@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "id": 3012,
+  "sentence": {
+    "en": "I watched a video.",
+    "ar": "أنا شاهدت فيديو.",
+    "context": "محتوى مرئي تم مشاهدته."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "I watched a video.",
+        "ar": "شاهدت فيديو.",
+        "context": "تصف الجملة أن المتكلم شاهد مقطعا مرئيا أو تسجيلا في الماضي.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "استُخدم الماضي البسيط لأن watched يدل على مشاهدة حدثت وانتهت في الماضي."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير يعني أنا، ويشير إلى المتكلم."
+          },
+          {
+            "term": "watched",
+            "description": "شاهدت؛ التصريف الماضي من watch."
+          },
+          {
+            "term": "a",
+            "description": "أداة تنكير تعني فيديو واحدا غير محدد."
+          },
+          {
+            "term": "video",
+            "description": "فيديو أو مقطع مرئي؛ محتوى يُشاهد بالصورة وغالبا بالصوت."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I watched a video.",
+        "ar": "شاهدت فيديو.",
+        "context": "تذكر مشاهدة مقطع مرئي."
+      },
+      {
+        "id": 2,
+        "en": "She watched a video.",
+        "ar": "شاهدت فيديو.",
+        "context": "تستخدم الجملة مع امرأة أو فتاة."
+      },
+      {
+        "id": 3,
+        "en": "I watched a movie.",
+        "ar": "شاهدت فيلما.",
+        "context": "تغير المحتوى المرئي إلى فيلم."
+      },
+      {
+        "id": 4,
+        "en": "I did not watch a video.",
+        "ar": "لم أشاهد فيديو.",
+        "context": "تنفي حدوث المشاهدة."
+      },
+      {
+        "id": 5,
+        "en": "Did you watch a video?",
+        "ar": "هل شاهدت فيديو؟",
+        "context": "تسأل شخصا عن المشاهدة."
+      },
+      {
+        "id": 6,
+        "en": "I watch videos every night.",
+        "ar": "أشاهد فيديوهات كل ليلة.",
+        "context": "تحول المشاهدة إلى عادة."
+      },
+      {
+        "id": 7,
+        "en": "I will watch a video later.",
+        "ar": "سأشاهد فيديو لاحقا.",
+        "context": "تنقل المشاهدة إلى المستقبل."
+      },
+      {
+        "id": 8,
+        "en": "I watched a video about cooking.",
+        "ar": "شاهدت فيديو عن الطبخ.",
+        "context": "توضح موضوع الفيديو."
+      },
+      {
+        "id": 9,
+        "en": "I watched a video because I wanted to learn.",
+        "ar": "شاهدت فيديو لأنني أردت أن أتعلم.",
+        "context": "تذكر سبب المشاهدة."
+      },
+      {
+        "id": 10,
+        "en": "After I watched a video, I understood the lesson.",
+        "ar": "بعد أن شاهدت فيديو، فهمت الدرس.",
+        "context": "تربط المشاهدة بنتيجة."
+      }
+    ]
+  }
+}
