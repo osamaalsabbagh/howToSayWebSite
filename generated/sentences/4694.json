@@ -1,0 +1,109 @@
+{
+  "schemaVersion": 1,
+  "id": 4694,
+  "sentence": {
+    "en": "The doctor saved the patient.",
+    "ar": "الطبيب أنقذ المريض.",
+    "context": "حدث ماضٍ: طبيب منع موت مريض. الفعل المطلوب هو الفعل العام متعدد المعاني هنا بمعنى الإنقاذ، لا الفعل المتخصص للإنقاذ فقط، ولا الحماية من أذى قبل وقوعه، ولا الحفظ في الذاكرة أو الحاسوب، ولا ادخار المال، ولا تقليل الوقت، ولا إبقاء مقعد لشخص.",
+    "sourceWord": "save",
+    "sourcePos": "v."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "The doctor saved the patient.",
+        "ar": "الطبيب أنقذ المريض.",
+        "context": "تصف الجملة طبيبًا منع موت مريض أو أخرجه من خطر طبي.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "استُخدم الماضي البسيط لأن الإنقاذ حدث وانتهى في الماضي."
+        },
+        "wordMeanings": [
+          {
+            "term": "The",
+            "description": "أداة تعريف تشير إلى طبيب محدد."
+          },
+          {
+            "term": "doctor",
+            "description": "طبيب؛ شخص مختص بعلاج المرضى."
+          },
+          {
+            "term": "saved",
+            "description": "أنقذ؛ منع موت شخص أو أخرجه من خطر."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف تشير إلى مريض محدد."
+          },
+          {
+            "term": "patient",
+            "description": "مريض؛ شخص يتلقى علاجًا أو رعاية طبية."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "The doctor saved the patient.",
+        "ar": "الطبيب أنقذ المريض.",
+        "context": "إنقاذ طبي بالفعل العام لا المتخصص."
+      },
+      {
+        "id": 2,
+        "en": "The nurse saved the patient.",
+        "ar": "الممرضة أنقذت المريض.",
+        "context": "إنقاذ ممرضة لمريض بالفعل العام لا المتخصص."
+      },
+      {
+        "id": 3,
+        "en": "The doctor saved the baby.",
+        "ar": "الطبيب أنقذ الرضيع.",
+        "context": "إنقاذ رضيع بالفعل العام لا المتخصص."
+      },
+      {
+        "id": 4,
+        "en": "The firefighter saved the child.",
+        "ar": "رجل الإطفاء أنقذ الطفل.",
+        "context": "إخراج طفل من خطر بالفعل العام لا المتخصص."
+      },
+      {
+        "id": 5,
+        "en": "The medicine saved his life.",
+        "ar": "الدواء أنقذ حياته.",
+        "context": "منع الموت بدواء."
+      },
+      {
+        "id": 6,
+        "en": "The treatment saved her life.",
+        "ar": "العلاج أنقذ حياتها.",
+        "context": "منع الموت بعلاج."
+      },
+      {
+        "id": 7,
+        "en": "The team saved the village.",
+        "ar": "الفريق أنقذ القرية.",
+        "context": "إنقاذ قرية بالفعل العام لا المتخصص."
+      },
+      {
+        "id": 8,
+        "en": "The doctor saved her life.",
+        "ar": "الطبيب أنقذ حياتها.",
+        "context": "منع موت امرأة."
+      },
+      {
+        "id": 9,
+        "en": "The nurse saved his life.",
+        "ar": "الممرضة أنقذت حياته.",
+        "context": "منع موت رجل."
+      },
+      {
+        "id": 10,
+        "en": "The treatment saved the patient.",
+        "ar": "العلاج أنقذ المريض.",
+        "context": "إنقاذ مريض بعلاج بالفعل العام لا المتخصص."
+      }
+    ]
+  }
+}

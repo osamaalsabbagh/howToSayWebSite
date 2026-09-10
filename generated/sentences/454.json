@@ -11,7 +11,7 @@
       {
         "sentence": "Do you know how much it costs?",
         "ar": "هل تعرف كم يكلف؟",
-        "context": "The speaker asks whether the person knows the price.",
+        "context": "سؤال عن معرفة المخاطب بالمبلغ الذي يدفع ثمنًا للشيء، بأداة الكمية لا بلفظ السعر.",
         "grammar": {
           "tense": "simple present",
           "tenseEn": "Simple Present",
@@ -61,61 +61,61 @@
         "id": 1,
         "en": "Do you know the price?",
         "ar": "هل تعرف السعر؟",
-        "context": "Asking about price knowledge."
+        "context": "سؤال عن معرفة المخاطب بثمن الشيء."
       },
       {
         "id": 2,
         "en": "How much does it cost?",
         "ar": "كم يكلف؟",
-        "context": "Asking directly for a price."
+        "context": "سؤال مباشر عن المبلغ بأداة الكمية لا بلفظ السعر."
       },
       {
         "id": 3,
         "en": "It costs ten dollars.",
         "ar": "يكلف عشرة دولارات.",
-        "context": "Giving a price."
+        "context": "إخبار بثمن الشيء بالدولار."
       },
       {
         "id": 4,
         "en": "Do you know this place?",
         "ar": "هل تعرف هذا المكان؟",
-        "context": "Asking about familiarity."
+        "context": "سؤال عن معرفة المخاطب بهذا المكان."
       },
       {
         "id": 5,
         "en": "How much is the ticket?",
         "ar": "كم ثمن التذكرة؟",
-        "context": "Asking a ticket price."
+        "context": "سؤال عن قيمة التذكرة دون ذكر لفظ السعر."
       },
       {
         "id": 6,
         "en": "I do not know.",
         "ar": "لا أعرف.",
-        "context": "Saying you lack information."
+        "context": "رد المتكلم بعدم امتلاك المعلومة."
       },
       {
         "id": 7,
         "en": "The meal costs less today.",
         "ar": "الوجبة تكلف أقل اليوم.",
-        "context": "Talking about a discounted meal."
+        "context": "إخبار بانخفاض ثمن الوجبة في هذا اليوم."
       },
       {
         "id": 8,
         "en": "Do they know how much?",
         "ar": "هل يعرفون كم؟",
-        "context": "Asking whether others know the amount."
+        "context": "سؤال عما إذا كان الآخرون يعرفون المبلغ."
       },
       {
         "id": 9,
         "en": "It costs too much.",
         "ar": "إنه يكلف كثيرًا جدًا.",
-        "context": "Saying something is expensive."
+        "context": "شكوى بأن ثمن الشيء زائد عن الحد."
       },
       {
         "id": 10,
         "en": "You know how it works.",
         "ar": "أنت تعرف كيف يعمل.",
-        "context": "Talking about knowledge of a process."
+        "context": "إخبار المخاطب بأنه ملم بطريقة عمل الشيء."
       }
     ]
   }

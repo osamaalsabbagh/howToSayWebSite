@@ -2,20 +2,20 @@
   "schemaVersion": 1,
   "id": 1561,
   "sentence": {
-    "en": "Everything seems ready for the meeting.",
+    "en": "Everything looks ready for the meeting.",
     "ar": "كل شيء يبدو جاهزًا للاجتماع.",
-    "context": "صف انطباعًا عامًا بأن جميع الأمور مهيأة للجلسة القادمة."
+    "context": "صف انطباعًا من المظهر العام بأن جميع الأمور مهيأة للجلسة القادمة، لا من الكلام ولا من الإحساس."
   },
   "lesson": {
     "parts": [
       {
-        "sentence": "Everything seems ready for the meeting.",
-        "ar": "يبدو أن كل شيء جاهز للاجتماع.",
-        "context": "تستخدم الجملة لوصف انطباع عام عن جاهزية الأمور قبل الاجتماع.",
+        "sentence": "Everything looks ready for the meeting.",
+        "ar": "كل شيء يبدو جاهزًا للاجتماع.",
+        "context": "تصف الجملة انطباعًا من المظهر بأن كل الأمور مهيأة قبل الاجتماع، لا من الكلام ولا من الإحساس.",
         "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
-          "reason": "استُخدم المضارع البسيط لأن الجملة تصف حالة حالية أو انطباعًا عامًا."
+          "reason": "استُخدم المضارع البسيط لأن الجملة تصف انطباعًا حاليًا من المظهر."
         },
         "wordMeanings": [
           {
@@ -23,8 +23,8 @@
             "description": "كل شيء."
           },
           {
-            "term": "seems",
-            "description": "يبدو أو يظهر أنه."
+            "term": "looks",
+            "description": "يبدو من المظهر؛ يعطي انطباعًا مرئيًا."
           },
           {
             "term": "ready",
@@ -48,15 +48,15 @@
     "examples": [
       {
         "id": 1,
-        "en": "Everything looks ready for the party.",
-        "ar": "يبدو أن كل شيء جاهز للحفلة.",
-        "context": "يقال عند تفقد التحضيرات."
+        "en": "Everything looks ready for the meeting.",
+        "ar": "كل شيء يبدو جاهزًا للاجتماع.",
+        "context": "يقال عند تفقد التحضيرات، والانطباع من المظهر."
       },
       {
         "id": 2,
-        "en": "The room seems ready for the class.",
-        "ar": "تبدو الغرفة جاهزة للدرس.",
-        "context": "يقال قبل بدء حصة."
+        "en": "The room looks ready for the class.",
+        "ar": "الغرفة تبدو جاهزة للحصة.",
+        "context": "يقال قبل بدء حصة دراسية معينة، والانطباع من المظهر."
       },
       {
         "id": 3,
@@ -66,15 +66,15 @@
       },
       {
         "id": 4,
-        "en": "The team seems ready today.",
-        "ar": "يبدو الفريق جاهزًا اليوم.",
-        "context": "يقال قبل مباراة أو مهمة."
+        "en": "The team looks ready today.",
+        "ar": "الفريق يبدو جاهزًا اليوم.",
+        "context": "يقال قبل مباراة أو مهمة، والانطباع من المظهر."
       },
       {
         "id": 5,
-        "en": "Everything seems fine now.",
-        "ar": "يبدو أن كل شيء بخير الآن.",
-        "context": "يقال بعد فحص حالة عامة."
+        "en": "Everything looks ready for the party.",
+        "ar": "كل شيء يبدو جاهزًا للحفلة.",
+        "context": "يقال عند تفقد تحضيرات الحفلة، والانطباع من المظهر."
       },
       {
         "id": 6,
@@ -84,26 +84,26 @@
       },
       {
         "id": 7,
-        "en": "Everything seems ready for the exam.",
-        "ar": "يبدو أن كل شيء جاهز للامتحان.",
-        "context": "يقال قبل اختبار مهم."
+        "en": "Everything looks ready for the exam.",
+        "ar": "كل شيء يبدو جاهزًا للامتحان.",
+        "context": "يقال قبل اختبار مهم، والانطباع من المظهر."
       },
       {
         "id": 8,
-        "en": "The plan seems ready for approval.",
-        "ar": "تبدو الخطة جاهزة للموافقة.",
-        "context": "يقال عند مراجعة خطة قبل اعتمادها."
+        "en": "The plan looks ready for approval.",
+        "ar": "الخطة تبدو جاهزة للموافقة.",
+        "context": "يقال عند مراجعة خطة، والانطباع من المظهر."
       },
       {
         "id": 9,
-        "en": "Everyone seems ready for the meeting.",
-        "ar": "يبدو أن الجميع جاهز للاجتماع.",
-        "context": "يقال عند ملاحظة استعداد المشاركين."
+        "en": "Everyone looks ready for the meeting.",
+        "ar": "الجميع يبدو جاهزًا للاجتماع.",
+        "context": "يقال عند ملاحظة استعداد المشاركين بالمظهر."
       },
       {
         "id": 10,
         "en": "The meeting starts when everything is ready.",
-        "ar": "يبدأ الاجتماع عندما يكون كل شيء جاهزًا.",
+        "ar": "الاجتماع يبدأ عندما يكون كل شيء جاهزًا.",
         "context": "يقال عند ربط البدء بالتحضير."
       }
     ]
