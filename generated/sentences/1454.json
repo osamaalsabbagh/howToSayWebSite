@@ -11,7 +11,7 @@
       {
         "sentence": "Please correct the mistakes in this document.",
         "ar": "رجاءً صحح الأخطاء في هذا المستند.",
-        "context": "تستخدم الجملة كطلب مهذب لإصلاح أخطاء في ملف أو نص.",
+        "context": "تستخدم الجملة كطلب مهذب لإصلاح أخطاء داخل مستند محدد.",
         "grammar": {
           "tense": null,
           "tenseEn": null,
@@ -40,11 +40,11 @@
           },
           {
             "term": "this",
-            "description": "هذا، وتشير إلى مستند قريب أو محدد."
+            "description": "هذا؛ تشير إلى شيء قريب أو محدد في الموقف."
           },
           {
             "term": "document",
-            "description": "مستند أو ملف مكتوب."
+            "description": "مستند؛ نص أو ملف مكتوب يحتوي على معلومات."
           }
         ]
       }
@@ -52,63 +52,63 @@
     "examples": [
       {
         "id": 1,
-        "en": "Please correct the spelling mistakes.",
-        "ar": "رجاءً صحح الأخطاء الإملائية.",
-        "context": "يقال عند مراجعة نص مكتوب."
+        "en": "Please correct the mistakes in this document.",
+        "ar": "رجاءً صحح الأخطاء في هذا المستند.",
+        "context": "تطلب إصلاح أخطاء داخل مستند محدد."
       },
       {
         "id": 2,
-        "en": "Correct the mistakes before you send the file.",
-        "ar": "صحح الأخطاء قبل أن ترسل الملف.",
-        "context": "يقال قبل إرسال مستند."
+        "en": "Please review this document before the meeting.",
+        "ar": "رجاءً راجع هذا المستند قبل الاجتماع.",
+        "context": "تطلب قراءة مستند قبل اجتماع."
       },
       {
         "id": 3,
-        "en": "She corrected the mistakes in my report.",
-        "ar": "صححت الأخطاء في تقريري.",
-        "context": "يقال عن مراجعة تقرير."
+        "en": "The document contains several mistakes.",
+        "ar": "يحتوي المستند على عدة أخطاء.",
+        "context": "تصف مستندًا فيه أخطاء واضحة."
       },
       {
         "id": 4,
-        "en": "Please check this document carefully.",
-        "ar": "رجاءً تحقق من هذا المستند بعناية.",
-        "context": "يقال عند طلب مراجعة عامة."
+        "en": "I saved the document on my laptop.",
+        "ar": "حفظت المستند على حاسوبي المحمول.",
+        "context": "تذكر مكان حفظ ملف مكتوب."
       },
       {
         "id": 5,
-        "en": "The document has many mistakes.",
-        "ar": "يحتوي المستند على أخطاء كثيرة.",
-        "context": "يقال عند وصف مشكلة في النص."
+        "en": "Sign the document at the bottom.",
+        "ar": "وقّع المستند في الأسفل.",
+        "context": "تطلب توقيع مستند رسمي أو إداري."
       },
       {
         "id": 6,
-        "en": "I need to correct this sentence.",
-        "ar": "أحتاج إلى تصحيح هذه الجملة.",
-        "context": "يقال عند إصلاح خطأ لغوي."
+        "en": "Attach the document to the email.",
+        "ar": "أرفق المستند بالبريد الإلكتروني.",
+        "context": "تطلب إرسال مستند مع رسالة إلكترونية."
       },
       {
         "id": 7,
-        "en": "Please correct my answer.",
-        "ar": "رجاءً صحح إجابتي.",
-        "context": "يقال عند طلب تقييم جواب."
+        "en": "This document explains the new policy.",
+        "ar": "يشرح هذا المستند السياسة الجديدة.",
+        "context": "تصف مستندًا يحتوي على شرح مكتوب."
       },
       {
         "id": 8,
-        "en": "He found a mistake in the document.",
-        "ar": "وجد خطأ في المستند.",
-        "context": "يقال عند اكتشاف خطأ."
+        "en": "We need an official document for the application.",
+        "ar": "نحتاج إلى مستند رسمي للطلب.",
+        "context": "تذكر حاجة إدارية إلى مستند رسمي."
       },
       {
         "id": 9,
-        "en": "Please update the document after you correct it.",
-        "ar": "رجاءً حدّث المستند بعد أن تصححه.",
-        "context": "يقال عند طلب حفظ نسخة مصححة."
+        "en": "The document is missing one page.",
+        "ar": "ينقص المستند صفحة واحدة.",
+        "context": "تصف نقصًا في مستند."
       },
       {
         "id": 10,
-        "en": "We corrected the mistakes together.",
-        "ar": "صححنا الأخطاء معًا.",
-        "context": "يقال عند العمل الجماعي على التصحيح."
+        "en": "Please print the document after you correct it.",
+        "ar": "رجاءً اطبع المستند بعد أن تصححه.",
+        "context": "تطلب طباعة مستند بعد إصلاح أخطائه."
       }
     ]
   }

@@ -1,0 +1,113 @@
+{
+  "schemaVersion": 1,
+  "id": 4011,
+  "sentence": {
+    "en": "The lecture lasted nearly two hours.",
+    "ar": "استمرت المحاضرة قرابة ساعتين.",
+    "context": "وصف محاضرة انتهت في الماضي وكانت مدتها قريبة من ساعتين.",
+    "sourceWord": "last",
+    "sourcePos": "v."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "The lecture lasted nearly two hours.",
+        "ar": "استمرت المحاضرة قرابة ساعتين.",
+        "context": "تصف الجملة مدة محاضرة مكتملة في الماضي.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "استخدم الماضي البسيط لأن مدة المحاضرة حدثت وانتهت في وقت سابق."
+        },
+        "wordMeanings": [
+          {
+            "term": "The",
+            "description": "أداة تعريف تشير إلى محاضرة محددة معروفة في السياق."
+          },
+          {
+            "term": "lecture",
+            "description": "المحاضرة؛ درس أو حديث تعليمي أمام مستمعين."
+          },
+          {
+            "term": "lasted",
+            "description": "استمرت؛ بقيت جارية لمدة معينة في الماضي."
+          },
+          {
+            "term": "nearly",
+            "description": "قرابة؛ تعني أن المدة قريبة من الرقم المذكور وليست مساوية له تمامًا."
+          },
+          {
+            "term": "two",
+            "description": "اثنان؛ عدد الساعات."
+          },
+          {
+            "term": "hours",
+            "description": "ساعات؛ وحدات زمنية لقياس مدة المحاضرة."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "The lecture lasted nearly two hours.",
+        "ar": "استمرت المحاضرة قرابة ساعتين.",
+        "context": "وصف مدة محاضرة محددة انتهت في الماضي."
+      },
+      {
+        "id": 2,
+        "en": "The interview lasted forty minutes.",
+        "ar": "استمرت المقابلة أربعين دقيقة.",
+        "context": "وصف مدة مقابلة مكتملة في الماضي."
+      },
+      {
+        "id": 3,
+        "en": "The storm lasted all night.",
+        "ar": "استمرت العاصفة طوال الليل.",
+        "context": "وصف عاصفة استمرت خلال الليل وانتهت."
+      },
+      {
+        "id": 4,
+        "en": "The repair lasted three days.",
+        "ar": "استمر الإصلاح ثلاثة أيام.",
+        "context": "وصف مدة عمل إصلاح اكتمل في الماضي."
+      },
+      {
+        "id": 5,
+        "en": "The concert lasted until midnight.",
+        "ar": "استمر الحفل حتى منتصف الليل.",
+        "context": "وصف وقت انتهاء حفل استمر في الماضي."
+      },
+      {
+        "id": 6,
+        "en": "The flight lasted eight hours.",
+        "ar": "استمرت الرحلة الجوية ثماني ساعات.",
+        "context": "وصف مدة استمرار رحلة جوية اكتملت."
+      },
+      {
+        "id": 7,
+        "en": "The pain lasted only a minute.",
+        "ar": "استمر الألم دقيقة واحدة فقط.",
+        "context": "وصف ألم قصير حدث وانتهى."
+      },
+      {
+        "id": 8,
+        "en": "The meeting lasted past lunch.",
+        "ar": "استمر الاجتماع إلى ما بعد الغداء.",
+        "context": "وصف اجتماع امتد بعد وقت الغداء في الماضي."
+      },
+      {
+        "id": 9,
+        "en": "The lesson lasted less than an hour.",
+        "ar": "استمر الدرس أقل من ساعة.",
+        "context": "وصف مدة درس انتهى وكانت أقصر من ساعة."
+      },
+      {
+        "id": 10,
+        "en": "The blackout lasted until morning.",
+        "ar": "استمر انقطاع الكهرباء حتى الصباح.",
+        "context": "وصف مدة انقطاع كهرباء انتهى عند الصباح."
+      }
+    ]
+  }
+}

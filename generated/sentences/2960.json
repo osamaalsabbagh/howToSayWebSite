@@ -4,18 +4,18 @@
   "sentence": {
     "en": "Turn left at the corner.",
     "ar": "انعطف يسارًا عند الزاوية.",
-    "context": "تغيير الاتجاه أثناء الحركة."
+    "context": "إعطاء تعليمات بالانعطاف عند زاوية شارع محددة."
   },
   "lesson": {
     "parts": [
       {
         "sentence": "Turn left at the corner.",
-        "ar": "انعطف يسارا عند الزاوية.",
-        "context": "تستخدم الجملة كتعليمات طريق لتغيير الاتجاه إلى اليسار عند زاوية محددة.",
+        "ar": "انعطف يسارًا عند الزاوية.",
+        "context": "تستخدم الجملة corner لتحديد زاوية شارع يتم عندها تغيير الاتجاه.",
         "grammar": {
-          "tense": null,
-          "tenseEn": null,
-          "reason": "الجملة أمر أو طلب مباشر، لذلك لا تُعامل كجملة خبرية بزمن محدد."
+          "tense": "الأمر المباشر",
+          "tenseEn": "Imperative",
+          "reason": "تبدأ الجملة بالفعل الأساسي Turn لتقديم تعليمات مباشرة."
         },
         "wordMeanings": [
           {
@@ -24,7 +24,7 @@
           },
           {
             "term": "left",
-            "description": "يسارا؛ الاتجاه المقابل لليمين."
+            "description": "يسارًا؛ الاتجاه المقابل لليمين."
           },
           {
             "term": "at",
@@ -36,7 +36,7 @@
           },
           {
             "term": "corner",
-            "description": "زاوية أو منعطف؛ مكان التقاء شارعين أو حافتين."
+            "description": "زاوية أو ركن؛ مكان يلتقي فيه شارعان أو حافتان."
           }
         ]
       }
@@ -45,62 +45,62 @@
       {
         "id": 1,
         "en": "Turn left at the corner.",
-        "ar": "انعطف يسارا عند الزاوية.",
+        "ar": "انعطف يسارًا عند الزاوية.",
         "context": "تعطي تعليمات طريق."
       },
       {
         "id": 2,
-        "en": "Turn right at the corner.",
-        "ar": "انعطف يمينا عند الزاوية.",
-        "context": "تغير الاتجاه إلى اليمين."
+        "en": "The store is on the corner.",
+        "ar": "يقع المتجر عند ناصية الشارع.",
+        "context": "تصف موقع متجر عند زاوية شارع."
       },
       {
         "id": 3,
-        "en": "Turn left at the light.",
-        "ar": "انعطف يسارا عند الإشارة.",
-        "context": "تغير نقطة الانعطاف."
+        "en": "Wait for me at the next corner.",
+        "ar": "انتظرني عند الزاوية التالية.",
+        "context": "تحدد مكان انتظار في الطريق."
       },
       {
         "id": 4,
-        "en": "Do not turn left at the corner.",
-        "ar": "لا تنعطف يسارا عند الزاوية.",
-        "context": "تنهى عن هذا الاتجاه."
+        "en": "There is a small cafe on the corner.",
+        "ar": "يوجد مقهى صغير عند ناصية الشارع.",
+        "context": "تصف معلمًا موجودًا عند زاوية شارع."
       },
       {
         "id": 5,
-        "en": "Should I turn left at the corner?",
-        "ar": "هل يجب أن أنعطف يسارا عند الزاوية؟",
-        "context": "تسأل للتأكد من الاتجاه."
+        "en": "The children played near the corner of the yard.",
+        "ar": "لعب الأطفال قرب زاوية الفناء.",
+        "context": "تستخدم corner لزاوية مساحة خارجية."
       },
       {
         "id": 6,
-        "en": "I turned left at the corner.",
-        "ar": "انعطفت يسارا عند الزاوية.",
-        "context": "تنقل الفعل إلى الماضي."
+        "en": "Put the chair in the corner.",
+        "ar": "ضع الكرسي في الركن.",
+        "context": "تستخدم corner لركن داخل غرفة."
       },
       {
         "id": 7,
-        "en": "Turn left at the corner and stop.",
-        "ar": "انعطف يسارا عند الزاوية وتوقف.",
-        "context": "تجمع بين تعليمتي طريق."
+        "en": "The car stopped at the street corner.",
+        "ar": "توقفت السيارة عند زاوية الشارع.",
+        "context": "تصف مكان توقف السيارة."
       },
       {
         "id": 8,
-        "en": "Turn left at the next corner.",
-        "ar": "انعطف يسارا عند الزاوية التالية.",
-        "context": "تحدد زاوية قادمة."
+        "en": "She lives around the corner.",
+        "ar": "تسكن بالقرب من هنا.",
+        "context": "تستخدم تعبيرًا شائعًا يعني أن المكان قريب جدًا."
       },
       {
         "id": 9,
-        "en": "If you turn left at the corner, you will see the station.",
-        "ar": "إذا انعطفت يسارا عند الزاوية، سترى المحطة.",
-        "context": "توضح ما سيحدث بعد الانعطاف."
+        "en": "A lamp stood in the corner of the room.",
+        "ar": "كان هناك مصباح في ركن الغرفة.",
+        "context": "تصف موضع شيء داخل غرفة."
       },
       {
         "id": 10,
-        "en": "The driver said, \"Turn left at the corner.\"",
-        "ar": "قال السائق: \"انعطف يسارا عند الزاوية.\"",
-        "context": "تنقل التعليمات عن شخص آخر."
+        "en": "Do not cross until you reach the corner.",
+        "ar": "لا تعبر حتى تصل إلى الزاوية.",
+        "context": "تستخدم الزاوية كنقطة محددة في الطريق."
       }
     ]
   }

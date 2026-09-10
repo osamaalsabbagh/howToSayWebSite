@@ -1,0 +1,131 @@
+{
+  "schemaVersion": 1,
+  "id": 3374,
+  "sentence": {
+    "en": "Fasten your seat belt before the car moves.",
+    "ar": "اربط حزام الأمان قبل أن تتحرك السيارة.",
+    "context": "طلب استخدام أداة الأمان في السيارة قبل بدء الحركة."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Fasten your seat belt",
+        "ar": "اربط حزام الأمان",
+        "context": "أمر مباشر باستخدام أداة الأمان في السيارة.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه صيغة أمر، وليست زمنا خبريا."
+        },
+        "wordMeanings": [
+          {
+            "term": "Fasten",
+            "description": "اربط أو ثبت؛ اجعل الشيء محكما في مكانه."
+          },
+          {
+            "term": "your",
+            "description": "خاصتك؛ يدل على أن الحزام للمخاطب."
+          },
+          {
+            "term": "seat",
+            "description": "مقعد؛ هنا جزء من تعبير حزام الأمان في السيارة."
+          },
+          {
+            "term": "belt",
+            "description": "حزام؛ هنا شريط الأمان الذي يثبت الراكب."
+          }
+        ]
+      },
+      {
+        "sentence": "before the car moves",
+        "ar": "قبل أن تتحرك السيارة",
+        "context": "تحدد أن ربط الحزام يجب أن يحدث قبل بدء الحركة.",
+        "grammar": {
+          "tense": "المضارع البسيط في جملة زمنية",
+          "tenseEn": "Present Simple in a Time Clause",
+          "reason": "استُخدم moves بعد before رغم أن المعنى مستقبلي لأن جمل الزمن تستخدم المضارع البسيط."
+        },
+        "wordMeanings": [
+          {
+            "term": "before",
+            "description": "قبل؛ تجعل ربط الحزام سابقا للحركة."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف؛ تجعل car سيارة محددة."
+          },
+          {
+            "term": "car",
+            "description": "سيارة؛ مركبة للسفر."
+          },
+          {
+            "term": "moves",
+            "description": "تتحرك؛ تبدأ بالانتقال من مكانها."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Fasten your seat belt before the car moves.",
+        "ar": "اربط حزام الأمان قبل أن تتحرك السيارة.",
+        "context": "تعطي تعليمات أمان قبل بدء القيادة."
+      },
+      {
+        "id": 2,
+        "en": "Fasten your seat belt before we leave.",
+        "ar": "اربط حزام الأمان قبل أن نغادر.",
+        "context": "تطلب ربط الحزام قبل الانطلاق."
+      },
+      {
+        "id": 3,
+        "en": "Please fasten your seat belt.",
+        "ar": "من فضلك اربط حزام الأمان.",
+        "context": "تجعل الأمر أكثر تهذيبا."
+      },
+      {
+        "id": 4,
+        "en": "Do not unfasten your seat belt yet.",
+        "ar": "لا تفك حزام الأمان بعد.",
+        "context": "تطلب إبقاء الحزام مربوطا."
+      },
+      {
+        "id": 5,
+        "en": "Did you fasten your seat belt?",
+        "ar": "هل ربطت حزام الأمان؟",
+        "context": "تسأل إن تم تنفيذ تعليمات الأمان."
+      },
+      {
+        "id": 6,
+        "en": "I fastened my seat belt before the taxi moved.",
+        "ar": "ربطت حزام الأمان قبل أن تتحرك سيارة الأجرة.",
+        "context": "تصف فعلا حدث قبل حركة مركبة."
+      },
+      {
+        "id": 7,
+        "en": "Everyone must fasten a seat belt in the car.",
+        "ar": "يجب على الجميع ربط حزام أمان في السيارة.",
+        "context": "تعبر عن قاعدة أمان عامة."
+      },
+      {
+        "id": 8,
+        "en": "Fasten your seat belt because the road is rough.",
+        "ar": "اربط حزام الأمان لأن الطريق وعرة.",
+        "context": "تذكر سببا لربط الحزام."
+      },
+      {
+        "id": 9,
+        "en": "The driver told us to fasten our seat belts.",
+        "ar": "طلب منا السائق أن نربط أحزمة الأمان.",
+        "context": "تنقل تعليمات السائق."
+      },
+      {
+        "id": 10,
+        "en": "Fasten your seat belt before the bus starts moving.",
+        "ar": "اربط حزام الأمان قبل أن تبدأ الحافلة بالحركة.",
+        "context": "تطبق التعليمات على حافلة."
+      }
+    ]
+  }
+}

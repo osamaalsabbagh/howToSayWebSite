@@ -20,35 +20,35 @@
         "wordMeanings": [
           {
             "term": "I",
-            "description": "أنا"
+            "description": "أنا؛ المتحدث."
           },
           {
             "term": "need",
-            "description": "أحتاج"
+            "description": "أحتاج؛ لدي ضرورة أو حاجة."
           },
           {
             "term": "to",
-            "description": "أن؛ قبل الفعل pay"
+            "description": "أن؛ تأتي قبل الفعل لبيان المطلوب."
           },
           {
             "term": "pay",
-            "description": "أدفع"
+            "description": "أدفع؛ أسدد مالًا مستحقًا."
           },
           {
             "term": "the",
-            "description": "أداة تعريف"
+            "description": "أداة تعريف تجعل الفاتورة محددة."
           },
           {
             "term": "electricity",
-            "description": "الكهرباء"
+            "description": "الكهرباء؛ الطاقة التي تشغل الأضواء والأجهزة."
           },
           {
             "term": "bill",
-            "description": "فاتورة"
+            "description": "فاتورة؛ ورقة أو حساب يوضح مبلغًا يجب دفعه."
           },
           {
             "term": "today",
-            "description": "اليوم"
+            "description": "اليوم؛ في هذا اليوم."
           }
         ]
       }
@@ -62,9 +62,9 @@
       },
       {
         "id": 2,
-        "en": "I need to pay the water bill today.",
-        "ar": "أحتاج إلى دفع فاتورة الماء اليوم.",
-        "context": "تغير نوع الفاتورة إلى فاتورة الماء."
+        "en": "The electricity went out during the storm.",
+        "ar": "انقطعت الكهرباء أثناء العاصفة.",
+        "context": "تصف توقف الطاقة الكهربائية في مكان ما."
       },
       {
         "id": 3,
@@ -74,21 +74,21 @@
       },
       {
         "id": 4,
-        "en": "The bill is due today.",
-        "ar": "موعد دفع الفاتورة اليوم.",
-        "context": "تذكر أن موعد استحقاق الفاتورة هو اليوم."
+        "en": "This machine uses a lot of electricity.",
+        "ar": "تستخدم هذه الآلة كثيرًا من الكهرباء.",
+        "context": "تصف استهلاك جهاز للطاقة الكهربائية."
       },
       {
         "id": 5,
-        "en": "I paid the bill online.",
-        "ar": "دفعت الفاتورة عبر الإنترنت.",
-        "context": "توضح طريقة الدفع عبر الإنترنت."
+        "en": "Solar panels produce electricity.",
+        "ar": "تنتج الألواح الشمسية الكهرباء.",
+        "context": "تصف مصدرًا للطاقة الكهربائية."
       },
       {
         "id": 6,
-        "en": "We forgot to pay the bill.",
-        "ar": "نسينا دفع الفاتورة.",
-        "context": "تصف نسيان دفع الفاتورة."
+        "en": "The house has no electricity yet.",
+        "ar": "ليس في البيت كهرباء بعد.",
+        "context": "تصف بيتًا لم تصل إليه خدمة الكهرباء."
       },
       {
         "id": 7,
@@ -98,21 +98,21 @@
       },
       {
         "id": 8,
-        "en": "Please remind me to pay it.",
-        "ar": "رجاءً ذكّرني أن أدفعها.",
-        "context": "تطلب تذكيرا بدفع الفاتورة."
+        "en": "Please turn off the lights to save electricity.",
+        "ar": "رجاءً أطفئ الأضواء لتوفير الكهرباء.",
+        "context": "تطلب تقليل استخدام الطاقة الكهربائية."
       },
       {
         "id": 9,
-        "en": "I cannot pay the bill tomorrow.",
-        "ar": "لا أستطيع دفع الفاتورة غدًا.",
-        "context": "تنفي القدرة على الدفع غدا."
+        "en": "Electricity can be dangerous near water.",
+        "ar": "يمكن أن تكون الكهرباء خطيرة قرب الماء.",
+        "context": "تحذر من خطر الطاقة الكهربائية."
       },
       {
         "id": 10,
-        "en": "The electricity payment must be made today.",
-        "ar": "يجب دفع مبلغ الكهرباء اليوم.",
-        "context": "تعيد معنى وجوب دفع الكهرباء اليوم بصيغة رسمية."
+        "en": "The electricity bill is due today.",
+        "ar": "فاتورة الكهرباء مستحقة اليوم.",
+        "context": "تصف موعد دفع فاتورة خدمة الكهرباء."
       }
     ]
   }

@@ -1,0 +1,117 @@
+{
+  "schemaVersion": 1,
+  "id": 4036,
+  "sentence": {
+    "en": "Lina lectures at the university every Monday.",
+    "ar": "تحاضر لينا في الجامعة كل يوم اثنين.",
+    "context": "وصف عمل أو عادة متكررة للينا، فهي تقدم محاضرات في الجامعة كل يوم اثنين.",
+    "sourceWord": "lecture",
+    "sourcePos": "v."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Lina lectures at the university every Monday.",
+        "ar": "تحاضر لينا في الجامعة كل يوم اثنين.",
+        "context": "تصف الجملة عادة أسبوعية لشخص محدد يقدم محاضرات في الجامعة.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استخدم المضارع البسيط لأن الفعل عادة متكررة تحدث كل يوم اثنين."
+        },
+        "wordMeanings": [
+          {
+            "term": "Lina",
+            "description": "لينا؛ اسم الشخص الذي يقوم بالفعل."
+          },
+          {
+            "term": "lectures",
+            "description": "تحاضر؛ تقدم محاضرات تعليمية أو رسمية."
+          },
+          {
+            "term": "at",
+            "description": "في؛ تبين مكان تقديم المحاضرات."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف تشير إلى جامعة محددة."
+          },
+          {
+            "term": "university",
+            "description": "جامعة؛ مؤسسة للتعليم العالي."
+          },
+          {
+            "term": "every",
+            "description": "كل؛ تدل على التكرار دون استثناء في السياق."
+          },
+          {
+            "term": "Monday",
+            "description": "يوم الاثنين؛ اليوم الذي تتكرر فيه المحاضرات."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Lina lectures at the university every Monday.",
+        "ar": "تحاضر لينا في الجامعة كل يوم اثنين.",
+        "context": "وصف عادة أسبوعية لشخص يقدم محاضرات في الجامعة."
+      },
+      {
+        "id": 2,
+        "en": "Omar lectures at the college every Tuesday.",
+        "ar": "يحاضر عمر في الكلية كل يوم ثلاثاء.",
+        "context": "وصف عادة أسبوعية لشخص يقدم محاضرات في الكلية."
+      },
+      {
+        "id": 3,
+        "en": "Maya lectures on law twice a week.",
+        "ar": "تحاضر مايا عن القانون مرتين في الأسبوع.",
+        "context": "وصف عادة متكررة لشخص يقدم محاضرات عن القانون."
+      },
+      {
+        "id": 4,
+        "en": "Omar lectures to medical students in the morning.",
+        "ar": "يحاضر عمر لطلاب الطب في الصباح.",
+        "context": "وصف عادة لشخص يقدم محاضرات لطلاب طب."
+      },
+      {
+        "id": 5,
+        "en": "The expert lectures around the country.",
+        "ar": "يحاضر الخبير في أنحاء البلد.",
+        "context": "وصف خبير يقدم محاضرات في أماكن مختلفة داخل البلد."
+      },
+      {
+        "id": 6,
+        "en": "My aunt lectures at a small university.",
+        "ar": "تحاضر عمتي في جامعة صغيرة.",
+        "context": "وصف عمل العمة في تقديم محاضرات داخل جامعة صغيرة."
+      },
+      {
+        "id": 7,
+        "en": "The coach lectures about sports safety.",
+        "ar": "يحاضر المدرب عن السلامة في الرياضة.",
+        "context": "وصف مدرب يقدم محاضرات عن السلامة المرتبطة بالرياضة."
+      },
+      {
+        "id": 8,
+        "en": "Nadia lectures in English every spring.",
+        "ar": "تحاضر نادية بالإنجليزية كل ربيع.",
+        "context": "وصف عادة موسمية لشخص يقدم محاضرات بلغة محددة."
+      },
+      {
+        "id": 9,
+        "en": "The professor lectures for one hour.",
+        "ar": "يحاضر الأستاذ لمدة ساعة واحدة.",
+        "context": "وصف مدة معتادة لمحاضرات أستاذ محدد."
+      },
+      {
+        "id": 10,
+        "en": "The guide lectures at the museum on weekends.",
+        "ar": "يحاضر المرشد في المتحف في عطلات نهاية الأسبوع.",
+        "context": "وصف مرشد يقدم محاضرات في المتحف في أيام محددة."
+      }
+    ]
+  }
+}

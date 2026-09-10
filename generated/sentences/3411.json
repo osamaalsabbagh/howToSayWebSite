@@ -1,0 +1,127 @@
+{
+  "schemaVersion": 1,
+  "id": 3411,
+  "sentence": {
+    "en": "Boil the pasta until it is soft.",
+    "ar": "اسلق المعكرونة حتى تصبح طرية.",
+    "context": "تعليمات طبخ بوضع المعكرونة في ماء يغلي إلى أن تلين."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Boil the pasta",
+        "ar": "اسلق المعكرونة",
+        "context": "هذا الجزء يعطي أمرا بطبخ المعكرونة في ماء يغلي.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه صيغة أمر، لذلك لا تحمل زمنا مستقلا."
+        },
+        "wordMeanings": [
+          {
+            "term": "Boil",
+            "description": "اسلق؛ اطبخ في ماء يغلي."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف؛ تجعل المعكرونة محددة."
+          },
+          {
+            "term": "pasta",
+            "description": "معكرونة؛ طعام يطبخ غالبا في ماء."
+          }
+        ]
+      },
+      {
+        "sentence": "until it is soft",
+        "ar": "حتى تصبح طرية",
+        "context": "هذا الجزء يحدد الحالة التي يتوقف عندها الطبخ.",
+        "grammar": {
+          "tense": "المضارع البسيط في جملة زمنية",
+          "tenseEn": "Present Simple in a Time Clause",
+          "reason": "استُخدم المضارع البسيط بعد حتى للتعبير عن حالة مستقبلية داخل تعليمات الطبخ."
+        },
+        "wordMeanings": [
+          {
+            "term": "until",
+            "description": "حتى؛ تبين نهاية المدة أو الشرط."
+          },
+          {
+            "term": "it",
+            "description": "هي؛ تعود على المعكرونة."
+          },
+          {
+            "term": "is",
+            "description": "تصبح أو تكون؛ تربط الشيء بحالته."
+          },
+          {
+            "term": "soft",
+            "description": "طرية؛ سهلة المضغ أو غير قاسية."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Boil the pasta until it is soft.",
+        "ar": "اسلق المعكرونة حتى تصبح طرية.",
+        "context": "تعطي تعليمات طبخ للمعكرونة."
+      },
+      {
+        "id": 2,
+        "en": "Boil the potatoes until they are soft.",
+        "ar": "اسلق البطاطا حتى تصبح طرية.",
+        "context": "تعطي تعليمات طبخ لخضار."
+      },
+      {
+        "id": 3,
+        "en": "Do not boil the pasta too long.",
+        "ar": "لا تسلق المعكرونة لمدة طويلة جدا.",
+        "context": "تحذر من زيادة مدة الطبخ."
+      },
+      {
+        "id": 4,
+        "en": "Did you boil the pasta?",
+        "ar": "هل سلقت المعكرونة؟",
+        "context": "تسأل هل تم طبخ المعكرونة."
+      },
+      {
+        "id": 5,
+        "en": "Boil the vegetables for five minutes.",
+        "ar": "اسلق الخضار لمدة خمس دقائق.",
+        "context": "تحدد مدة قصيرة للطبخ."
+      },
+      {
+        "id": 6,
+        "en": "She boiled the pasta before dinner.",
+        "ar": "هي سلقت المعكرونة قبل العشاء.",
+        "context": "تنقل تعليمات الطبخ إلى فعل ماض."
+      },
+      {
+        "id": 7,
+        "en": "I will boil the pasta later.",
+        "ar": "أنا سأسلق المعكرونة لاحقا.",
+        "context": "تتحدث عن طبخ مستقبلي."
+      },
+      {
+        "id": 8,
+        "en": "Boil the pasta in salted water.",
+        "ar": "اسلق المعكرونة في ماء مالح.",
+        "context": "تضيف تفصيلا لطريقة الطبخ."
+      },
+      {
+        "id": 9,
+        "en": "The water for the pasta is boiling now.",
+        "ar": "ماء المعكرونة يغلي الآن.",
+        "context": "تصف الماء المستخدم للطبخ وهو يغلي حاليا."
+      },
+      {
+        "id": 10,
+        "en": "Boil the beans until they are tender.",
+        "ar": "اسلق الفاصولياء حتى تصبح طرية.",
+        "context": "تعطي تعليمات طبخ لنوع آخر من الطعام."
+      }
+    ]
+  }
+}

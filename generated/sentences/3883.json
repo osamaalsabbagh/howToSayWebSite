@@ -1,0 +1,113 @@
+{
+  "schemaVersion": 1,
+  "id": 3883,
+  "sentence": {
+    "en": "Please write your home address here.",
+    "ar": "اكتب عنوان منزلك هنا من فضلك.",
+    "context": "طلب كتابة عنوان السكن في مكان محدد في نموذج أو ورقة.",
+    "sourceWord": "home",
+    "sourcePos": "adj."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Please write your home address here.",
+        "ar": "اكتب عنوان منزلك هنا من فضلك.",
+        "context": "تطلب الجملة من شخص أن يكتب عنوان سكنه في المكان المحدد.",
+        "grammar": {
+          "tense": "الأمر المهذب",
+          "tenseEn": "Polite Imperative",
+          "reason": "بدأت الجملة بـ Please ثم الفعل write بصيغته الأساسية لأنها طلب مهذب، وhome هنا صفة قبل address بمعنى عنوان السكن."
+        },
+        "wordMeanings": [
+          {
+            "term": "Please",
+            "description": "من فضلك؛ تجعل الطلب مهذبًا."
+          },
+          {
+            "term": "write",
+            "description": "اكتب؛ ضع الكلمات أو المعلومات كتابة."
+          },
+          {
+            "term": "your",
+            "description": "ـك أو الخاص بك؛ يدل على أن العنوان يخص المخاطب."
+          },
+          {
+            "term": "home",
+            "description": "خاص بالمنزل أو بالسكن؛ يصف العنوان بأنه عنوان محل الإقامة."
+          },
+          {
+            "term": "address",
+            "description": "عنوان؛ معلومات المكان الذي يسكن فيه الشخص أو يقع فيه شيء."
+          },
+          {
+            "term": "here",
+            "description": "هنا؛ في هذا المكان المحدد."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Please write your home address here.",
+        "ar": "اكتب عنوان منزلك هنا من فضلك.",
+        "context": "طلب كتابة عنوان السكن في مكان محدد في نموذج أو ورقة."
+      },
+      {
+        "id": 2,
+        "en": "Her home address changed last month.",
+        "ar": "تغير عنوان منزلها الشهر الماضي.",
+        "context": "وصف تغير عنوان السكن الخاص بها."
+      },
+      {
+        "id": 3,
+        "en": "The form asks for a home phone number.",
+        "ar": "يطلب النموذج رقم هاتف المنزل.",
+        "context": "وصف نموذج يطلب رقم الهاتف المرتبط بالمنزل."
+      },
+      {
+        "id": 4,
+        "en": "My home office is small.",
+        "ar": "مكتبي المنزلي صغير.",
+        "context": "وصف مكتب داخل البيت أو مخصص للعمل من المنزل."
+      },
+      {
+        "id": 5,
+        "en": "The home page loads quickly.",
+        "ar": "تفتح الصفحة الرئيسية بسرعة.",
+        "context": "وصف صفحة رئيسية في موقع أو تطبيق."
+      },
+      {
+        "id": 6,
+        "en": "We need your home address.",
+        "ar": "نحتاج إلى عنوان منزلك.",
+        "context": "طلب عنوان السكن الخاص بالمخاطب."
+      },
+      {
+        "id": 7,
+        "en": "The home screen shows the date.",
+        "ar": "تعرض الشاشة الرئيسية التاريخ.",
+        "context": "وصف شاشة رئيسية في جهاز أو تطبيق."
+      },
+      {
+        "id": 8,
+        "en": "His home number is not listed.",
+        "ar": "رقم هاتف منزله غير مدرج.",
+        "context": "وصف رقم هاتف منزلي غير موجود في قائمة."
+      },
+      {
+        "id": 9,
+        "en": "The home address field is required.",
+        "ar": "حقل عنوان المنزل مطلوب.",
+        "context": "وصف خانة إلزامية لعنوان السكن في نموذج."
+      },
+      {
+        "id": 10,
+        "en": "She saved her home address in the app.",
+        "ar": "حفظت عنوان منزلها في التطبيق.",
+        "context": "وصف إدخال عنوان السكن وحفظه في تطبيق."
+      }
+    ]
+  }
+}

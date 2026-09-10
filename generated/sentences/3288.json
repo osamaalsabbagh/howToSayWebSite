@@ -4,18 +4,18 @@
   "sentence": {
     "en": "He applied the rule correctly.",
     "ar": "هو طبق القاعدة بشكل صحيح.",
-    "context": "استخدام شيء عمليًا."
+    "context": "وصف تطبيق قاعدة بطريقة صحيحة من دون خطأ."
   },
   "lesson": {
     "parts": [
       {
         "sentence": "He applied the rule correctly.",
         "ar": "هو طبق القاعدة بشكل صحيح.",
-        "context": "توضح الجملة أنه استخدم القاعدة بالطريقة الصحيحة في موقف عملي.",
+        "context": "توضح الجملة أنه استخدم القاعدة بالطريقة الصحيحة ومن دون خطأ.",
         "grammar": {
           "tense": "الماضي البسيط",
           "tenseEn": "Past Simple",
-          "reason": "استُخدم applied لأن تطبيق القاعدة حدث في الماضي."
+          "reason": "استُخدم applied لأن تطبيق القاعدة حدث في الماضي، وجاء correctly ليصف طريقة التطبيق."
         },
         "wordMeanings": [
           {
@@ -36,7 +36,7 @@
           },
           {
             "term": "correctly",
-            "description": "بشكل صحيح؛ من دون خطأ وبحسب المطلوب."
+            "description": "بشكل صحيح؛ بطريقة خالية من الخطأ وتطابق المطلوب."
           }
         ]
       }
@@ -46,49 +46,49 @@
         "id": 1,
         "en": "He applied the rule correctly.",
         "ar": "هو طبق القاعدة بشكل صحيح.",
-        "context": "تصف استخداما صحيحا للقاعدة."
+        "context": "تصف تطبيق قاعدة بلا خطأ."
       },
       {
         "id": 2,
-        "en": "She applied the rule correctly.",
-        "ar": "هي طبقت القاعدة بشكل صحيح.",
-        "context": "تغير الفاعل إلى امرأة أو فتاة."
+        "en": "She answered the question correctly.",
+        "ar": "أجابت عن السؤال بشكل صحيح.",
+        "context": "تصف إجابة مطابقة للصواب."
       },
       {
         "id": 3,
-        "en": "He applied the method correctly.",
-        "ar": "هو طبق الطريقة بشكل صحيح.",
-        "context": "تغير الشيء المطبق."
+        "en": "He used the tool correctly.",
+        "ar": "استخدم الأداة بشكل صحيح.",
+        "context": "تصف استعمال أداة بالطريقة المناسبة."
       },
       {
         "id": 4,
         "en": "He did not apply the rule correctly.",
         "ar": "لم يطبق القاعدة بشكل صحيح.",
-        "context": "تنفي التطبيق الصحيح."
+        "context": "توضح أن طريقة التطبيق كانت غير صحيحة."
       },
       {
         "id": 5,
         "en": "Did he apply the rule correctly?",
         "ar": "هل طبق القاعدة بشكل صحيح؟",
-        "context": "تسأل عن صحة التطبيق."
+        "context": "تسأل هل كانت طريقة التطبيق صحيحة."
       },
       {
         "id": 6,
-        "en": "He applies the rule correctly every time.",
-        "ar": "هو يطبق القاعدة بشكل صحيح كل مرة.",
-        "context": "تصف عادة متكررة."
+        "en": "The machine is working correctly now.",
+        "ar": "تعمل الآلة بشكل صحيح الآن.",
+        "context": "تصف عمل آلة بلا خلل."
       },
       {
         "id": 7,
-        "en": "He will apply the rule correctly next time.",
-        "ar": "سيطبق القاعدة بشكل صحيح في المرة القادمة.",
-        "context": "تتحدث عن تطبيق مستقبلي."
+        "en": "Please write the address correctly.",
+        "ar": "من فضلك اكتب العنوان بشكل صحيح.",
+        "context": "تطلب كتابة المعلومات بلا أخطاء."
       },
       {
         "id": 8,
         "en": "He applied the new rule correctly.",
         "ar": "طبق القاعدة الجديدة بشكل صحيح.",
-        "context": "تصف القاعدة بأنها جديدة."
+        "context": "تصف تطبيق قاعدة جديدة بالطريقة المطلوبة."
       },
       {
         "id": 9,
@@ -99,8 +99,8 @@
       {
         "id": 10,
         "en": "He applied the rule correctly, but the answer was still hard.",
-        "ar": "طبق القاعدة بشكل صحيح، لكن الإجابة كانت ما زالت صعبة.",
-        "context": "توضح أن التطبيق الصحيح لم يجعل كل شيء سهلا."
+        "ar": "طبق القاعدة بشكل صحيح، لكن الإجابة بقيت صعبة.",
+        "context": "توضح أن صحة الطريقة لا تعني سهولة النتيجة."
       }
     ]
   }

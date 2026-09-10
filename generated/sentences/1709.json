@@ -10,8 +10,8 @@
     "parts": [
       {
         "sentence": "She dropped the glass on the floor.",
-        "ar": "أسقطت الكأس على الأرض.",
-        "context": "تستخدم الجملة لوصف حادثة وقع فيها كأس على الأرض في الماضي.",
+        "ar": "هي أسقطت الكأس على الأرض.",
+        "context": "تستخدم الجملة لوصف حادثة أفلتت فيها كأسًا أو أسقطته على الأرض في الماضي.",
         "grammar": {
           "tense": "الماضي البسيط",
           "tenseEn": "Past Simple",
@@ -24,7 +24,7 @@
           },
           {
             "term": "dropped",
-            "description": "أسقطت."
+            "description": "أسقطت؛ تركت شيئًا يسقط من يدها أو من موضعه."
           },
           {
             "term": "the",
@@ -52,57 +52,57 @@
     "examples": [
       {
         "id": 1,
-        "en": "He dropped the plate on the floor.",
-        "ar": "أسقط الطبق على الأرض.",
-        "context": "يقال عند سقوط شيء من اليد."
+        "en": "She dropped the glass on the floor.",
+        "ar": "هي أسقطت الكأس على الأرض.",
+        "context": "تصف سقوط كأس من يدها أو من موضعه إلى الأرض."
       },
       {
         "id": 2,
-        "en": "The glass broke on the floor.",
-        "ar": "انكسر الكأس على الأرض.",
-        "context": "يقال عند نتيجة سقوط كأس."
+        "en": "He dropped the plate on the floor.",
+        "ar": "هو أسقط الطبق على الأرض.",
+        "context": "تصف سقوط طبق من يده إلى الأرض."
       },
       {
         "id": 3,
-        "en": "She picked up the glass carefully.",
-        "ar": "رفعت الكأس بعناية.",
-        "context": "يقال بعد سقوط شيء أو قبل نقله."
+        "en": "I dropped my keys yesterday.",
+        "ar": "أنا أسقطت مفاتيحي أمس.",
+        "context": "تصف إسقاط شيء صغير في الماضي."
       },
       {
         "id": 4,
-        "en": "Water spilled on the floor.",
-        "ar": "انسكب الماء على الأرض.",
-        "context": "يقال عند انسكاب محتوى الكأس."
+        "en": "Please do not drop the glass.",
+        "ar": "من فضلك لا تسقط الكأس.",
+        "context": "تحذر شخصًا من إسقاط شيء قابل للكسر."
       },
       {
         "id": 5,
-        "en": "I dropped my keys yesterday.",
-        "ar": "أسقطت مفاتيحي أمس.",
-        "context": "يقال عند إسقاط شيء آخر."
+        "en": "The child dropped a toy in the car.",
+        "ar": "أسقط الطفل لعبة في السيارة.",
+        "context": "تصف سقوط لعبة داخل السيارة."
       },
       {
         "id": 6,
-        "en": "The floor was wet after the accident.",
-        "ar": "كانت الأرض مبللة بعد الحادث.",
-        "context": "يقال بعد انسكاب ماء."
+        "en": "She dropped her phone, but it did not break.",
+        "ar": "هي أسقطت هاتفها، لكنه لم ينكسر.",
+        "context": "تصف إسقاط هاتف مع نتيجة غير سيئة."
       },
       {
         "id": 7,
-        "en": "She cleaned the floor quickly.",
-        "ar": "نظفت الأرض بسرعة.",
-        "context": "يقال بعد حادث سقوط."
+        "en": "The waiter dropped the tray by mistake.",
+        "ar": "أسقط النادل الصينية عن طريق الخطأ.",
+        "context": "تصف إسقاط شيء أثناء العمل دون قصد."
       },
       {
         "id": 8,
-        "en": "Please do not drop the glass.",
-        "ar": "من فضلك لا تسقط الكأس.",
-        "context": "يقال للتحذير من كسر شيء."
+        "en": "Do not drop the box on your foot.",
+        "ar": "لا تسقط الصندوق على قدمك.",
+        "context": "تحذر من إسقاط شيء ثقيل على الجسم."
       },
       {
         "id": 9,
-        "en": "The glass was on the table.",
-        "ar": "كان الكأس على الطاولة.",
-        "context": "يقال عند وصف مكانه قبل السقوط."
+        "en": "She almost dropped the baby bottle.",
+        "ar": "كادت أن تسقط زجاجة الطفل.",
+        "context": "تصف إسقاطًا كان قريبًا من الحدوث."
       },
       {
         "id": 10,

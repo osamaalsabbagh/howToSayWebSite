@@ -11,40 +11,40 @@
       {
         "sentence": "She shared the document with the team.",
         "ar": "هي شاركت المستند مع الفريق.",
-        "context": "تُستخدم الجملة عندما أتاحت مستندا للفريق ليطلعوا عليه أو يستخدموه.",
+        "context": "توضح الجملة أنها أتاحت مستندًا محددًا للفريق ليطلعوا عليه أو يستخدموه.",
         "grammar": {
           "tense": "الماضي البسيط",
           "tenseEn": "Past Simple",
-          "reason": "shared يصف فعلا حدث واكتمل في الماضي."
+          "reason": "shared يصف فعلًا حدث واكتمل في الماضي."
         },
         "wordMeanings": [
           {
             "term": "She",
-            "description": "هي"
+            "description": "ضمير يشير إلى امرأة أو فتاة واحدة."
           },
           {
             "term": "shared",
-            "description": "شاركت أو أتاحت للآخرين"
+            "description": "أتاحت أو شاركت شيئًا مع آخرين."
           },
           {
             "term": "the",
-            "description": "أداة تعريف لمستند محدد"
+            "description": "أداة تعريف تجعل المستند محددًا."
           },
           {
             "term": "document",
-            "description": "مستند أو ملف مكتوب"
+            "description": "مستند؛ نص أو ملف مكتوب يحتوي على معلومات."
           },
           {
             "term": "with",
-            "description": "مع"
+            "description": "مع؛ تدل على الجهة التي وصل إليها المستند."
           },
           {
             "term": "the",
-            "description": "أداة تعريف"
+            "description": "أداة تعريف تجعل الفريق محددًا."
           },
           {
             "term": "team",
-            "description": "الفريق أو مجموعة العمل"
+            "description": "فريق؛ مجموعة أشخاص يعملون معًا."
           }
         ]
       }
@@ -54,61 +54,61 @@
         "id": 1,
         "en": "She shared the document with the team.",
         "ar": "هي شاركت المستند مع الفريق.",
-        "context": "تُقال عند إتاحة مستند لفريق العمل."
+        "context": "تصف إتاحة مستند محدد لفريق العمل."
       },
       {
         "id": 2,
-        "en": "He shared the report with the team.",
-        "ar": "هو شارك التقرير مع الفريق.",
-        "context": "مثال يغير الفاعل ونوع الملف."
+        "en": "He shared the document with his manager.",
+        "ar": "هو شارك المستند مع مديره.",
+        "context": "تصف إتاحة مستند لشخص مسؤول."
       },
       {
         "id": 3,
         "en": "She shared the document by email.",
         "ar": "هي شاركت المستند عبر البريد الإلكتروني.",
-        "context": "تُستخدم عند ذكر وسيلة المشاركة."
+        "context": "توضح وسيلة إرسال المستند."
       },
       {
         "id": 4,
         "en": "Did she share the document with the team?",
         "ar": "هل شاركت المستند مع الفريق؟",
-        "context": "سؤال للتأكد من وصول المستند للفريق."
+        "context": "تسأل هل وصل المستند إلى الفريق."
       },
       {
         "id": 5,
         "en": "She did not share the document with everyone.",
         "ar": "هي لم تشارك المستند مع الجميع.",
-        "context": "تُستخدم عند تحديد من لم يحصل على المستند."
+        "context": "توضح أن المستند لم يصل إلى كل الأشخاص."
       },
       {
         "id": 6,
         "en": "The team reviewed the shared document.",
         "ar": "راجع الفريق المستند المشترك.",
-        "context": "تُقال بعد أن يصبح المستند متاحا للفريق."
+        "context": "تصف مراجعة الفريق لمستند صار متاحًا لهم."
       },
       {
         "id": 7,
         "en": "Please share the document with me.",
         "ar": "من فضلك شارك المستند معي.",
-        "context": "طلب للحصول على المستند."
+        "context": "تطلب من شخص أن يتيح لك مستندًا."
       },
       {
         "id": 8,
-        "en": "She shared the link to the document.",
-        "ar": "هي شاركت رابط المستند.",
-        "context": "تُستخدم عند مشاركة رابط بدلا من الملف نفسه."
+        "en": "She shared a link to the document.",
+        "ar": "هي شاركت رابطًا إلى المستند.",
+        "context": "تصف إرسال رابط يؤدي إلى المستند."
       },
       {
         "id": 9,
         "en": "They shared the document before the meeting.",
         "ar": "هم شاركوا المستند قبل الاجتماع.",
-        "context": "تُقال عند التحضير لاجتماع."
+        "context": "تصف إرسال مستند قبل اجتماع للتحضير."
       },
       {
         "id": 10,
         "en": "The document was shared with the whole team.",
         "ar": "تمت مشاركة المستند مع الفريق كله.",
-        "context": "صيغة مبنية للمجهول للمعنى نفسه."
+        "context": "تصف وصول المستند إلى كل أعضاء الفريق."
       }
     ]
   }

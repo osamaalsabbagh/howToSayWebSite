@@ -10,8 +10,8 @@
     "parts": [
       {
         "sentence": "My grandmother makes the best cookies.",
-        "ar": "جدتي تصنع أفضل الكوكيز.",
-        "context": "تستخدم الجملة لمدح ما تصنعه الجدة من حلوى في الأسلوب الأمريكي.",
+        "ar": "جدتي تصنع أفضل البسكويت.",
+        "context": "تستخدم الجملة لمدح البسكويت الحلو الذي تصنعه الجدة.",
         "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
@@ -40,7 +40,7 @@
           },
           {
             "term": "cookies",
-            "description": "كوكيز أو بسكويت حلو بالأسلوب الأمريكي."
+            "description": "بسكويت حلو صغير؛ كلمة أمريكية تقابل غالبًا biscuit في الإنجليزية البريطانية."
           }
         ]
       }
@@ -48,9 +48,9 @@
     "examples": [
       {
         "id": 1,
-        "en": "My mother makes the best cake.",
-        "ar": "والدتي تصنع أفضل كعكة.",
-        "context": "يقال عند مدح طبخ شخص."
+        "en": "My mother makes the best chocolate cookies.",
+        "ar": "تصنع والدتي أفضل بسكويت بالشوكولاتة.",
+        "context": "تصف نوعًا محددًا من البسكويت الحلو."
       },
       {
         "id": 2,
@@ -78,9 +78,9 @@
       },
       {
         "id": 6,
-        "en": "My grandmother cooks with love.",
-        "ar": "تطبخ جدتي بحب.",
-        "context": "يقال عند مدح أسلوب الجدة."
+        "en": "My grandmother puts nuts in her cookies.",
+        "ar": "تضع جدتي مكسرات في البسكويت الذي تصنعه.",
+        "context": "تصف مكونًا داخل البسكويت."
       },
       {
         "id": 7,
@@ -102,9 +102,9 @@
       },
       {
         "id": 10,
-        "en": "My grandmother shared the recipe.",
-        "ar": "شاركت جدتي الوصفة.",
-        "context": "يقال عند نقل طريقة التحضير."
+        "en": "My grandmother shared her cookie recipe.",
+        "ar": "شاركت جدتي وصفة البسكويت الخاصة بها.",
+        "context": "تصف وصفة خاصة بالبسكويت."
       }
     ]
   }

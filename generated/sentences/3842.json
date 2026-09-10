@@ -1,0 +1,109 @@
+{
+  "schemaVersion": 1,
+  "id": 3842,
+  "sentence": {
+    "en": "I have finished my homework.",
+    "ar": "لقد أنهيت واجبي.",
+    "context": "وصف إتمام الواجب بصيغة تربط الفعل الماضي بنتيجته الحاضرة.",
+    "sourceWord": "have",
+    "sourcePos": "auxiliary v."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "I have finished my homework.",
+        "ar": "لقد أنهيت واجبي.",
+        "context": "تصف الجملة أن المتكلم أكمل واجبه، والنتيجة مهمة الآن.",
+        "grammar": {
+          "tense": "المضارع التام",
+          "tenseEn": "Present Perfect",
+          "reason": "استُخدم have مع التصريف الثالث finished لتكوين المضارع التام، لأن الفعل اكتمل وله نتيجة حاضرة."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "أنا؛ المتكلم عن نفسه."
+          },
+          {
+            "term": "have",
+            "description": "فعل مساعد؛ يُستخدم هنا مع التصريف الثالث لتكوين المضارع التام."
+          },
+          {
+            "term": "finished",
+            "description": "أنهيت؛ أكملت شيئًا حتى نهايته."
+          },
+          {
+            "term": "my",
+            "description": "خاص بي؛ يربط الواجب بالمتكلم."
+          },
+          {
+            "term": "homework",
+            "description": "واجب منزلي؛ عمل دراسي يُنجز خارج الصف."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I have finished my homework.",
+        "ar": "لقد أنهيت واجبي.",
+        "context": "وصف إتمام الواجب بصيغة تربط الفعل الماضي بنتيجته الحاضرة."
+      },
+      {
+        "id": 2,
+        "en": "I have cleaned my room.",
+        "ar": "لقد نظفت غرفتي.",
+        "context": "وصف تنظيف الغرفة بصيغة تؤكد أن النتيجة موجودة الآن."
+      },
+      {
+        "id": 3,
+        "en": "We have completed the form.",
+        "ar": "لقد أكملنا الاستمارة.",
+        "context": "وصف إتمام الاستمارة مع أهمية اكتمالها الآن."
+      },
+      {
+        "id": 4,
+        "en": "They have opened the gate.",
+        "ar": "لقد فتحوا البوابة.",
+        "context": "وصف فتح البوابة مع بقاء النتيجة مهمة في الحاضر."
+      },
+      {
+        "id": 5,
+        "en": "I have washed the dishes.",
+        "ar": "لقد غسلت الأطباق.",
+        "context": "وصف إنجاز غسل الأطباق وظهور نتيجته الآن."
+      },
+      {
+        "id": 6,
+        "en": "We have moved the table.",
+        "ar": "لقد نقلنا الطاولة.",
+        "context": "وصف نقل الطاولة مع أثر واضح في المكان الآن."
+      },
+      {
+        "id": 7,
+        "en": "They have fixed the lights.",
+        "ar": "لقد أصلحوا المصابيح.",
+        "context": "وصف إصلاح المصابيح بصيغة تبرز أن المشكلة انتهت الآن."
+      },
+      {
+        "id": 8,
+        "en": "I have written the address.",
+        "ar": "لقد كتبت العنوان.",
+        "context": "وصف كتابة العنوان مع كونه متاحًا الآن."
+      },
+      {
+        "id": 9,
+        "en": "We have packed our bags.",
+        "ar": "لقد جهزنا حقائبنا.",
+        "context": "وصف تجهيز الحقائب مع الاستعداد الحالي."
+      },
+      {
+        "id": 10,
+        "en": "I have paid the bill.",
+        "ar": "لقد دفعت الفاتورة.",
+        "context": "وصف دفع الفاتورة مع انتهاء الحاجة إلى دفعها الآن."
+      }
+    ]
+  }
+}

@@ -2,53 +2,57 @@
   "schemaVersion": 1,
   "id": 838,
   "sentence": {
-    "en": "What time do you go to work everyday?",
+    "en": "What time do you go to work every day?",
     "ar": "في أي وقت تذهب إلى العمل كل يوم؟",
     "context": "للسؤال عن موعد ذهاب شخص ما إلى عمله يوميًا."
   },
   "lesson": {
     "parts": [
       {
-        "sentence": "What time do you go to work everyday?",
+        "sentence": "What time do you go to work every day?",
         "ar": "في أي وقت تذهب إلى العمل كل يوم؟",
-        "context": "سؤال عن موعد عادة يومية متكررة.",
+        "context": "تسأل الجملة عن وقت الذهاب إلى العمل كعادة يومية.",
         "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
-          "reason": "يستخدم المضارع البسيط للسؤال عن عادة يومية، وتأتي do لتكوين السؤال مع you."
+          "reason": "استُخدم do مع go لتكوين سؤال في المضارع البسيط عن عادة متكررة."
         },
         "wordMeanings": [
           {
             "term": "What",
-            "description": "أي أو ما ضمن سؤال الوقت"
+            "description": "ما أو أي؛ تبدأ سؤالًا عن الوقت هنا."
           },
           {
             "term": "time",
-            "description": "وقت أو ساعة محددة"
+            "description": "وقت؛ ساعة أو موعد محدد."
           },
           {
             "term": "do",
-            "description": "أداة سؤال في المضارع البسيط"
+            "description": "أداة سؤال في المضارع البسيط."
           },
           {
             "term": "you",
-            "description": "الشخص المخاطب"
+            "description": "أنت؛ الشخص المخاطب."
           },
           {
             "term": "go",
-            "description": "تذهب"
+            "description": "تذهب؛ تتحرك إلى مكان."
           },
           {
             "term": "to",
-            "description": "إلى؛ تدل على الاتجاه"
+            "description": "إلى؛ تدل على الاتجاه نحو مكان."
           },
           {
             "term": "work",
-            "description": "العمل أو مكان العمل"
+            "description": "العمل أو مكان العمل."
           },
           {
-            "term": "everyday",
-            "description": "كل يوم أو يوميا"
+            "term": "every",
+            "description": "كل؛ تدل على التكرار مع جميع الأيام."
+          },
+          {
+            "term": "day",
+            "description": "يوم؛ ومع every تعني كل يوم."
           }
         ]
       }
@@ -56,63 +60,63 @@
     "examples": [
       {
         "id": 1,
-        "en": "What time do you wake up every day?",
-        "ar": "في أي وقت تستيقظ كل يوم؟",
-        "context": "للسؤال عن عادة صباحية."
+        "en": "What time do you go to work every day?",
+        "ar": "في أي وقت تذهب إلى العمل كل يوم؟",
+        "context": "تسأل عن موعد الذهاب اليومي إلى العمل."
       },
       {
         "id": 2,
-        "en": "What time do you start work?",
-        "ar": "في أي وقت تبدأ العمل؟",
-        "context": "للسؤال عن بداية الدوام."
+        "en": "What time do you wake up every day?",
+        "ar": "في أي وقت تستيقظ كل يوم؟",
+        "context": "تسأل عن عادة صباحية يومية."
       },
       {
         "id": 3,
-        "en": "What time do you leave home?",
-        "ar": "في أي وقت تغادر البيت؟",
-        "context": "للسؤال عن موعد الخروج."
+        "en": "What time do you start work every day?",
+        "ar": "في أي وقت تبدأ العمل كل يوم؟",
+        "context": "تسأل عن بداية الدوام المعتادة."
       },
       {
         "id": 4,
-        "en": "What time does he go to work?",
-        "ar": "في أي وقت يذهب إلى العمل؟",
-        "context": "للسؤال عن موعد شخص آخر."
+        "en": "What time do you leave home every day?",
+        "ar": "في أي وقت تغادر البيت كل يوم؟",
+        "context": "تسأل عن موعد الخروج اليومي."
       },
       {
         "id": 5,
-        "en": "What time do they go to school?",
-        "ar": "في أي وقت يذهبون إلى المدرسة؟",
-        "context": "للسؤال عن عادة الطلاب."
+        "en": "What time does he go to work every day?",
+        "ar": "في أي وقت يذهب إلى العمل كل يوم؟",
+        "context": "تسأل عن عادة شخص آخر اليومية."
       },
       {
         "id": 6,
-        "en": "Do you go to work early?",
-        "ar": "هل تذهب إلى العمل مبكرا؟",
-        "context": "للسؤال عن وقت الذهاب بشكل عام."
+        "en": "What time do they go to school every day?",
+        "ar": "في أي وقت يذهبون إلى المدرسة كل يوم؟",
+        "context": "تسأل عن موعد ذهاب الطلاب المعتاد."
       },
       {
         "id": 7,
-        "en": "What time do you come home?",
-        "ar": "في أي وقت تعود إلى البيت؟",
-        "context": "للسؤال عن موعد العودة."
+        "en": "What time do you come home every day?",
+        "ar": "في أي وقت تعود إلى البيت كل يوم؟",
+        "context": "تسأل عن موعد العودة اليومي."
       },
       {
         "id": 8,
-        "en": "What time do you eat lunch?",
-        "ar": "في أي وقت تتناول الغداء؟",
-        "context": "للسؤال عن عادة يومية."
+        "en": "What time do you eat lunch every day?",
+        "ar": "في أي وقت تتناول الغداء كل يوم؟",
+        "context": "تسأل عن موعد وجبة يتكرر يوميًا."
       },
       {
         "id": 9,
-        "en": "What time do you finish work?",
-        "ar": "في أي وقت تنهي العمل؟",
-        "context": "للسؤال عن نهاية الدوام."
+        "en": "What time do you finish work every day?",
+        "ar": "في أي وقت تنهي العمل كل يوم؟",
+        "context": "تسأل عن موعد نهاية الدوام المعتاد."
       },
       {
         "id": 10,
-        "en": "What time do you go to bed?",
-        "ar": "في أي وقت تذهب إلى النوم؟",
-        "context": "للسؤال عن روتين المساء."
+        "en": "What time do you go to bed every day?",
+        "ar": "في أي وقت تذهب إلى النوم كل يوم؟",
+        "context": "تسأل عن عادة مسائية يومية."
       }
     ]
   }

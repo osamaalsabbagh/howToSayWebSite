@@ -1,0 +1,113 @@
+{
+  "schemaVersion": 1,
+  "id": 4414,
+  "sentence": {
+    "en": "Please do not break your promise.",
+    "ar": "من فضلك لا تخلف وعدك.",
+    "context": "اطلب من شخص بأدب ألا ينقض ما التزم به. والفعل المطلوب هو الفعل العام الذي يعني كسر الشيء، ويُستعمل مع العهد بمعنى نقضه، لا فعل الترك ولا فعل النسيان ولا فعل المخالفة. والمفعول هو الاسم الدال على العهد مفردًا، لا كلمة أخرى بمعنى الكلام المعطى. والجملة نهي مسبوق بكلمة التأدب، فلا فاعل ظاهر فيها.",
+    "sourceWord": "promise",
+    "sourcePos": "n."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Please do not break your promise.",
+        "ar": "من فضلك لا تخلف وعدك.",
+        "context": "الجملة طلب مؤدب بعدم نقض عهد سبق أن التزم به المخاطَب.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "الجملة نهي موجّه إلى المخاطَب، والنهي لا يحمل زمنًا مستقلًا؛ صيغ بالفعل المساعد مع أداة النفي قبل الفعل الأصلي، وسُبق بكلمة التأدب لتلطيف الطلب، ولا يُذكر الفاعل لأنه المخاطَب المفهوم."
+        },
+        "wordMeanings": [
+          {
+            "term": "Please",
+            "description": "من فضلك، كلمة تلطّف الطلب وتجعله مؤدبًا."
+          },
+          {
+            "term": "do",
+            "description": "فعل مساعد يأتي مع أداة النفي لصياغة النهي."
+          },
+          {
+            "term": "not",
+            "description": "أداة نفي تجعل الطلب نهيًا عن الفعل."
+          },
+          {
+            "term": "break",
+            "description": "يكسر الشيء، ويُستعمل مع العهد بمعنى نقضه وعدم تنفيذه."
+          },
+          {
+            "term": "your",
+            "description": "ضمير ملكية للمخاطَب، يبيّن أن العهد عهده هو."
+          },
+          {
+            "term": "promise",
+            "description": "وعد، أي عهد يلتزم صاحبه بتنفيذه."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Please do not break your promise.",
+        "ar": "من فضلك لا تخلف وعدك.",
+        "context": "طلب مؤدب من شخص بألا ينقض ما التزم به."
+      },
+      {
+        "id": 2,
+        "en": "Do not break your promise to your sister.",
+        "ar": "لا تخلف وعدك لأختك.",
+        "context": "تذكير شخص بالتزام أعطاه لأخته."
+      },
+      {
+        "id": 3,
+        "en": "He broke his promise and did not come.",
+        "ar": "هو أخلف وعده ولم يأت.",
+        "context": "الإخبار عن شخص لم ينفّذ ما التزم به."
+      },
+      {
+        "id": 4,
+        "en": "She never breaks a promise.",
+        "ar": "هي لا تخلف وعدًا أبدًا.",
+        "context": "مدح امرأة تُنفّذ كل ما تلتزم به."
+      },
+      {
+        "id": 5,
+        "en": "If you break your promise, they will not trust you.",
+        "ar": "إذا أخلفت وعدك، فهم لن يثقوا بك.",
+        "context": "تحذير من نتيجة عدم الالتزام."
+      },
+      {
+        "id": 6,
+        "en": "They broke their promise to pay us.",
+        "ar": "هم أخلفوا وعدهم بأن يدفعوا لنا.",
+        "context": "شكوى من جهة لم تلتزم بالدفع."
+      },
+      {
+        "id": 7,
+        "en": "I am sorry that I broke my promise.",
+        "ar": "أنا آسف لأني أخلفت وعدي.",
+        "context": "اعتذار عن عدم تنفيذ التزام سابق."
+      },
+      {
+        "id": 8,
+        "en": "Please do not break your promise again.",
+        "ar": "من فضلك لا تخلف وعدك مرة أخرى.",
+        "context": "طلب مؤدب بعدم تكرار النقض."
+      },
+      {
+        "id": 9,
+        "en": "Breaking a promise hurts people.",
+        "ar": "إخلاف الوعد يؤذي الناس.",
+        "context": "بيان الأثر السيئ لنقض العهود."
+      },
+      {
+        "id": 10,
+        "en": "He does not want to break his promise to his son.",
+        "ar": "هو لا يريد أن يخلف وعده لابنه.",
+        "context": "بيان حرص أب على تنفيذ ما التزم به لابنه."
+      }
+    ]
+  }
+}

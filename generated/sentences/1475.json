@@ -10,33 +10,33 @@
     "parts": [
       {
         "sentence": "What is today's date exactly?",
-        "ar": "ما تاريخ اليوم بالتحديد؟",
-        "context": "تستخدم الجملة للسؤال عن التاريخ الدقيق لليوم.",
+        "ar": "ما هو تاريخ اليوم بالتحديد؟",
+        "context": "تسأل الجملة عن التاريخ وتؤكد الحاجة إلى إجابة دقيقة لا تقريبية.",
         "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
-          "reason": "استُخدم is في المضارع البسيط للسؤال عن معلومة حالية وهي تاريخ اليوم."
+          "reason": "استُخدم is في سؤال عن معلومة حالية، وهي تاريخ اليوم."
         },
         "wordMeanings": [
           {
             "term": "What",
-            "description": "ما، وتستخدم للسؤال عن معلومة."
+            "description": "ما؛ تبدأ سؤالًا عن معلومة."
           },
           {
             "term": "is",
-            "description": "تعني يكون أو هو في السؤال."
+            "description": "يكون أو هو؛ يربط السؤال بالمعلومة المطلوبة."
           },
           {
             "term": "today's",
-            "description": "الخاص باليوم الحالي."
+            "description": "خاص بهذا اليوم الحالي."
           },
           {
             "term": "date",
-            "description": "تاريخ اليوم من يوم وشهر وسنة."
+            "description": "تاريخ؛ اليوم والشهر والسنة."
           },
           {
             "term": "exactly",
-            "description": "بالتحديد أو بدقة."
+            "description": "بالتحديد أو بدقة؛ تطلب جوابًا دقيقًا لا عامًا."
           }
         ]
       }
@@ -44,63 +44,63 @@
     "examples": [
       {
         "id": 1,
-        "en": "What is the date today?",
-        "ar": "ما تاريخ اليوم؟",
-        "context": "يقال عند السؤال عن التاريخ."
+        "en": "What is today's date exactly?",
+        "ar": "ما هو تاريخ اليوم بالتحديد؟",
+        "context": "تسأل عن التاريخ الدقيق لهذا اليوم."
       },
       {
         "id": 2,
-        "en": "What is today's date on the form?",
-        "ar": "ما تاريخ اليوم في النموذج؟",
-        "context": "يقال عند ملء بيانات."
+        "en": "What time exactly did you arrive?",
+        "ar": "في أي وقت بالتحديد وصلت؟",
+        "context": "تطلب وقت الوصول بدقة."
       },
       {
         "id": 3,
-        "en": "Please write the exact date.",
-        "ar": "رجاءً اكتب التاريخ الدقيق.",
-        "context": "يقال عند الحاجة إلى يوم وشهر وسنة."
+        "en": "Tell me exactly what happened.",
+        "ar": "أخبرني بالضبط ماذا حدث.",
+        "context": "تطلب وصفًا دقيقًا للأحداث."
       },
       {
         "id": 4,
-        "en": "The date is July first.",
-        "ar": "التاريخ هو الأول من يوليو.",
-        "context": "يقال عند إعطاء تاريخ."
+        "en": "This is exactly what I wanted.",
+        "ar": "هذا بالضبط ما أردته.",
+        "context": "تؤكد أن الشيء يطابق رغبتك تمامًا."
       },
       {
         "id": 5,
-        "en": "Do you know today's date?",
-        "ar": "هل تعرف تاريخ اليوم؟",
-        "context": "يقال عند طلب معرفة التاريخ."
+        "en": "She explained exactly where to go.",
+        "ar": "شرحت بالضبط إلى أين نذهب.",
+        "context": "تصف شرحًا دقيقًا للمكان المطلوب."
       },
       {
         "id": 6,
-        "en": "What is the exact time?",
-        "ar": "ما الوقت بالتحديد؟",
-        "context": "يقال عند طلب الدقة في الوقت."
+        "en": "I do not know exactly why he left.",
+        "ar": "لا أعرف بالضبط لماذا غادر.",
+        "context": "توضح أنك لا تعرف السبب الدقيق."
       },
       {
         "id": 7,
-        "en": "Today's date is on the board.",
-        "ar": "تاريخ اليوم على اللوح.",
-        "context": "يقال في الصف عند عرض التاريخ."
+        "en": "The box fits exactly in the space.",
+        "ar": "يناسب الصندوق المساحة بالضبط.",
+        "context": "تصف تطابق الحجم مع المكان دون فراغ زائد."
       },
       {
         "id": 8,
-        "en": "I forgot the date today.",
-        "ar": "نسيت التاريخ اليوم.",
-        "context": "يقال عند عدم تذكر التاريخ."
+        "en": "You are exactly right.",
+        "ar": "أنت محق تمامًا.",
+        "context": "تؤكد أن كلام الشخص صحيح تمامًا."
       },
       {
         "id": 9,
-        "en": "Please check today's date.",
-        "ar": "رجاءً تحقق من تاريخ اليوم.",
-        "context": "يقال قبل كتابة التاريخ."
+        "en": "Please follow the instructions exactly.",
+        "ar": "يرجى اتباع التعليمات بدقة.",
+        "context": "تطلب الالتزام بالتعليمات دون تغيير."
       },
       {
         "id": 10,
-        "en": "What date should I write?",
-        "ar": "أي تاريخ يجب أن أكتب؟",
-        "context": "يقال عند عدم التأكد من التاريخ المطلوب."
+        "en": "That is exactly the same problem.",
+        "ar": "تلك هي المشكلة نفسها بالضبط.",
+        "context": "تؤكد أن المشكلة مطابقة لمشكلة أخرى."
       }
     ]
   }

@@ -1,0 +1,115 @@
+{
+  "schemaVersion": 1,
+  "id": 3514,
+  "sentence": {
+    "en": "Enter the number in the next cell.",
+    "ar": "أدخل الرقم في الخانة التالية.",
+    "context": "الإشارة إلى خانة في جدول أو ملف بيانات، لا إلى خلية حية."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Enter the number in the next cell.",
+        "ar": "أدخل الرقم في الخانة التالية.",
+        "context": "تطلب الجملة إدخال رقم في خانة تالية داخل جدول.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "الجملة أمر مباشر، لذلك لا تحمل زمنًا مستقلًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "Enter",
+            "description": "أدخل؛ اكتب أو ضع معلومة في مكان مخصص."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف؛ تجعل الرقم محددًا."
+          },
+          {
+            "term": "number",
+            "description": "رقم؛ قيمة عددية يجب إدخالها."
+          },
+          {
+            "term": "in",
+            "description": "في؛ تبين مكان إدخال الرقم."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف؛ تجعل الخانة محددة."
+          },
+          {
+            "term": "next",
+            "description": "التالية؛ التي تأتي بعد الخانة الحالية."
+          },
+          {
+            "term": "cell",
+            "description": "خانة؛ مربع داخل جدول أو ورقة بيانات."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Enter the number in the next cell.",
+        "ar": "أدخل الرقم في الخانة التالية.",
+        "context": "تطلب كتابة رقم في خانة جدول."
+      },
+      {
+        "id": 2,
+        "en": "Click the empty cell first.",
+        "ar": "انقر على الخانة الفارغة أولًا.",
+        "context": "تطلب اختيار خانة قبل الكتابة."
+      },
+      {
+        "id": 3,
+        "en": "This cell contains the total.",
+        "ar": "تحتوي هذه الخانة على المجموع.",
+        "context": "تصف خانة فيها نتيجة حساب."
+      },
+      {
+        "id": 4,
+        "en": "Copy the formula into each cell.",
+        "ar": "انسخ الصيغة إلى كل خانة.",
+        "context": "تصف إدخال صيغة في خانات جدول."
+      },
+      {
+        "id": 5,
+        "en": "The cell turned yellow after the change.",
+        "ar": "تحولت الخانة إلى اللون الأصفر بعد التغيير.",
+        "context": "تصف تغير لون خانة في جدول."
+      },
+      {
+        "id": 6,
+        "en": "Do not leave this cell blank.",
+        "ar": "لا تترك هذه الخانة فارغة.",
+        "context": "تطلب ملء خانة مطلوبة."
+      },
+      {
+        "id": 7,
+        "en": "The first cell has a date.",
+        "ar": "تحتوي الخانة الأولى على تاريخ.",
+        "context": "تصف محتوى أول خانة."
+      },
+      {
+        "id": 8,
+        "en": "Move the name to another cell.",
+        "ar": "انقل الاسم إلى خانة أخرى.",
+        "context": "تصف نقل نص داخل جدول."
+      },
+      {
+        "id": 9,
+        "en": "The cell is too small for the text.",
+        "ar": "الخانة لا تتسع للنص.",
+        "context": "تصف عدم اتساع خانة لكلام مكتوب."
+      },
+      {
+        "id": 10,
+        "en": "Select the cell above the total.",
+        "ar": "حدد الخانة الموجودة فوق المجموع.",
+        "context": "تطلب اختيار خانة في موضع محدد."
+      }
+    ]
+  }
+}

@@ -4,14 +4,14 @@
   "sentence": {
     "en": "Morning exercise is part of his daily routine.",
     "ar": "التمرين الصباحي جزء من روتينه اليومي.",
-    "context": "الحديث عن أفعال تتكرر كل يوم بنفس الترتيب."
+    "context": "وصف نشاط يتكرر كل يوم ضمن روتين الشخص."
   },
   "lesson": {
     "parts": [
       {
         "sentence": "Morning exercise is part of his daily routine.",
         "ar": "التمرين الصباحي جزء من روتينه اليومي.",
-        "context": "تُستخدم الجملة لوصف عادة ثابتة ضمن برنامج الشخص اليومي.",
+        "context": "تستخدم الجملة daily لوصف شيء يحدث كل يوم أو يرتبط بكل يوم.",
         "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
@@ -20,35 +20,35 @@
         "wordMeanings": [
           {
             "term": "Morning",
-            "description": "صباحي أو متعلق بالصباح"
+            "description": "صباحي؛ متعلق بوقت الصباح."
           },
           {
             "term": "exercise",
-            "description": "تمرين أو نشاط بدني"
+            "description": "تمرين؛ نشاط بدني للحفاظ على الصحة."
           },
           {
             "term": "is",
-            "description": "يربط التمرين بوصفه ضمن الروتين"
+            "description": "يكون؛ يربط التمرين بأنه جزء من الروتين."
           },
           {
             "term": "part",
-            "description": "جزء أو عنصر"
+            "description": "جزء؛ عنصر داخل شيء أكبر."
           },
           {
             "term": "of",
-            "description": "من"
+            "description": "من؛ تربط الجزء بالروتين."
           },
           {
             "term": "his",
-            "description": "الخاص به"
+            "description": "الخاص به؛ ضمير ملكية."
           },
           {
             "term": "daily",
-            "description": "يومي أو يحدث كل يوم"
+            "description": "يومي؛ يحدث كل يوم أو يرتبط بكل يوم."
           },
           {
             "term": "routine",
-            "description": "روتين أو ترتيب ثابت للأفعال المتكررة"
+            "description": "روتين؛ ترتيب ثابت للأفعال المتكررة."
           }
         ]
       }
@@ -74,9 +74,9 @@
       },
       {
         "id": 4,
-        "en": "Morning exercise is not part of my routine.",
-        "ar": "التمرين الصباحي ليس جزءًا من روتيني.",
-        "context": "تُستخدم لنفي وجود عادة معينة."
+        "en": "Morning exercise is not part of my daily routine.",
+        "ar": "التمرين الصباحي ليس جزءًا من روتيني اليومي.",
+        "context": "تنفي وجود نشاط في برنامج يحدث كل يوم."
       },
       {
         "id": 5,
@@ -92,27 +92,27 @@
       },
       {
         "id": 7,
-        "en": "Exercise became part of his routine last year.",
-        "ar": "أصبح التمرين جزءًا من روتينه العام الماضي.",
-        "context": "تُقال عند الحديث عن بداية عادة في الماضي."
+        "en": "Daily exercise helped him sleep better.",
+        "ar": "ساعده التمرين اليومي على النوم بشكل أفضل.",
+        "context": "تصف أثر نشاط يتكرر كل يوم."
       },
       {
         "id": 8,
-        "en": "A healthy routine includes morning exercise.",
-        "ar": "يتضمن الروتين الصحي تمرينًا صباحيًا.",
-        "context": "تُستخدم عند تقديم نصيحة عامة."
+        "en": "She writes a daily report for her manager.",
+        "ar": "تكتب تقريرًا يوميًا لمديرها.",
+        "context": "تصف مهمة عمل تُنجز كل يوم."
       },
       {
         "id": 9,
-        "en": "He follows the same routine every day.",
-        "ar": "يتبع الروتين نفسه كل يوم.",
-        "context": "تُقال عند وصف تكرار ثابت."
+        "en": "The app sends daily reminders.",
+        "ar": "يرسل التطبيق تذكيرات يومية.",
+        "context": "تصف رسائل تتكرر كل يوم."
       },
       {
         "id": 10,
-        "en": "He exercises every morning.",
-        "ar": "يمارس التمرين كل صباح.",
-        "context": "صياغة أبسط لمعنى وجود التمرين في الروتين اليومي."
+        "en": "Daily practice made her faster.",
+        "ar": "جعلها التدريب اليومي أسرع.",
+        "context": "تصف تدريبًا يتكرر كل يوم."
       }
     ]
   }

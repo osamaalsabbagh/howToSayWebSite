@@ -4,14 +4,14 @@
   "sentence": {
     "en": "Please enter the building through the main door.",
     "ar": "يرجى الدخول إلى المبنى من خلال الباب الرئيسي.",
-    "context": "بشكل رسمي أو كتابي أكثر، وغالبًا في التعليمات أو في النماذج أو اللافتات."
+    "context": "تعليمات رسمية تطلب من الزوار دخول المبنى من الباب الرئيسي."
   },
   "lesson": {
     "parts": [
       {
         "sentence": "Please enter the building through the main door.",
         "ar": "يرجى الدخول إلى المبنى من خلال الباب الرئيسي.",
-        "context": "تُستخدم لتوجيه طلب أو تعليم مباشر في هذا الموقف.",
+        "context": "توجه الجملة الزائر إلى الدخول إلى مبنى من مدخل محدد.",
         "grammar": {
           "tense": null,
           "tenseEn": null,
@@ -24,7 +24,7 @@
           },
           {
             "term": "enter",
-            "description": "ادخل، وهي صيغة رسمية أكثر من تعال إلى الداخل."
+            "description": "ادخل أو يدخل؛ يتحرك إلى داخل مكان."
           },
           {
             "term": "the",
@@ -32,7 +32,7 @@
           },
           {
             "term": "building",
-            "description": "مبنى."
+            "description": "مبنى؛ مكان له جدران وغرف أو مكاتب."
           },
           {
             "term": "through",
@@ -44,11 +44,11 @@
           },
           {
             "term": "main",
-            "description": "الرئيسي."
+            "description": "الرئيسي؛ الأهم أو الأكثر استخدامًا."
           },
           {
             "term": "door",
-            "description": "باب."
+            "description": "باب؛ مدخل يفتح ويغلق."
           }
         ]
       }
@@ -92,9 +92,9 @@
       },
       {
         "id": 7,
-        "en": "Please use the main door.",
-        "ar": "يرجى استخدام الباب الرئيسي.",
-        "context": "تقال كتعليمات دخول مختصرة."
+        "en": "Please enter through the main entrance.",
+        "ar": "يرجى الدخول من المدخل الرئيسي.",
+        "context": "تقال لتوجيه الناس إلى المدخل الأساسي."
       },
       {
         "id": 8,

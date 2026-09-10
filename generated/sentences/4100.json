@@ -1,0 +1,109 @@
+{
+  "schemaVersion": 1,
+  "id": 4100,
+  "sentence": {
+    "en": "The mail arrived early today.",
+    "ar": "وصل البريد مبكرًا اليوم.",
+    "context": "وصف وصول البريد الورقي أو الطرود في وقت مبكر اليوم، مع استخدام الاسم الذي يعني البريد.",
+    "sourceWord": "mail",
+    "sourcePos": "n."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "The mail arrived early today.",
+        "ar": "وصل البريد مبكرًا اليوم.",
+        "context": "تصف الجملة وصول البريد في وقت أبكر من المعتاد خلال اليوم.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "استخدم الماضي البسيط لأن وصول البريد حدث وانتهى في وقت سابق اليوم."
+        },
+        "wordMeanings": [
+          {
+            "term": "The",
+            "description": "أداة تعريف تشير إلى بريد معروف أو متوقع."
+          },
+          {
+            "term": "mail",
+            "description": "البريد؛ رسائل أو طرود تصل عبر خدمة البريد، وليس بريدًا إلكترونيًا هنا."
+          },
+          {
+            "term": "arrived",
+            "description": "وصل؛ بلغ المكان المقصود."
+          },
+          {
+            "term": "early",
+            "description": "مبكرًا؛ قبل الوقت المعتاد أو المتوقع."
+          },
+          {
+            "term": "today",
+            "description": "اليوم؛ في هذا اليوم نفسه."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "The mail arrived early today.",
+        "ar": "وصل البريد مبكرًا اليوم.",
+        "context": "وصف وصول البريد في وقت مبكر اليوم."
+      },
+      {
+        "id": 2,
+        "en": "The mail arrived late yesterday.",
+        "ar": "وصل البريد متأخرًا أمس.",
+        "context": "وصف وصول البريد في وقت متأخر في اليوم السابق."
+      },
+      {
+        "id": 3,
+        "en": "The mail arrived before lunch.",
+        "ar": "وصل البريد قبل الغداء.",
+        "context": "وصف وصول البريد قبل وقت الغداء."
+      },
+      {
+        "id": 4,
+        "en": "The mail arrived at noon.",
+        "ar": "وصل البريد عند الظهر.",
+        "context": "وصف وصول البريد في وقت الظهر."
+      },
+      {
+        "id": 5,
+        "en": "The mail arrived during the storm.",
+        "ar": "وصل البريد أثناء العاصفة.",
+        "context": "وصف وصول البريد في أثناء عاصفة."
+      },
+      {
+        "id": 6,
+        "en": "The mail arrived while we were out.",
+        "ar": "وصل البريد بينما كنا في الخارج.",
+        "context": "وصف وصول البريد في وقت كان فيه المتكلمون خارج المكان."
+      },
+      {
+        "id": 7,
+        "en": "The mail arrived at the office.",
+        "ar": "وصل البريد إلى المكتب.",
+        "context": "وصف وصول البريد إلى مكان عمل محدد."
+      },
+      {
+        "id": 8,
+        "en": "The mail arrived with two packages.",
+        "ar": "وصل البريد ومعه طردان.",
+        "context": "وصف وصول البريد مصحوبًا بطردين."
+      },
+      {
+        "id": 9,
+        "en": "The mail arrived just after breakfast.",
+        "ar": "وصل البريد بعد الإفطار مباشرة.",
+        "context": "وصف وصول البريد بعد الإفطار بوقت قصير."
+      },
+      {
+        "id": 10,
+        "en": "The mail arrived on Monday.",
+        "ar": "وصل البريد يوم الاثنين.",
+        "context": "وصف وصول البريد في يوم محدد."
+      }
+    ]
+  }
+}

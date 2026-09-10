@@ -1,0 +1,119 @@
+{
+  "schemaVersion": 1,
+  "id": 3419,
+  "sentence": {
+    "en": "Book your appointment before Friday.",
+    "ar": "احجز موعدك قبل يوم الجمعة.",
+    "context": "تعليمات لشخص أن يرتب موعدًا رسميًا قبل يوم محدد."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Book your appointment",
+        "ar": "احجز موعدك",
+        "context": "هذا الجزء يعطي أمرا بترتيب موعد رسمي.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه صيغة أمر، لذلك لا تحمل زمنا مستقلا."
+        },
+        "wordMeanings": [
+          {
+            "term": "Book",
+            "description": "احجز؛ رتب موعدا مسبقا."
+          },
+          {
+            "term": "your",
+            "description": "خاصتك؛ تعود على الشخص المخاطب."
+          },
+          {
+            "term": "appointment",
+            "description": "موعد؛ وقت محدد للقاء أو خدمة."
+          }
+        ]
+      },
+      {
+        "sentence": "before Friday",
+        "ar": "قبل يوم الجمعة",
+        "context": "هذا الجزء يحدد آخر وقت مناسب للحجز.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه عبارة زمنية قصيرة وليست جملة فعلية مستقلة."
+        },
+        "wordMeanings": [
+          {
+            "term": "before",
+            "description": "قبل؛ تبين أن الحجز يجب أن يحدث أولا."
+          },
+          {
+            "term": "Friday",
+            "description": "يوم الجمعة؛ اليوم المحدد كحد زمني."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Book your appointment before Friday.",
+        "ar": "احجز موعدك قبل يوم الجمعة.",
+        "context": "تعطي تعليمات بموعد نهائي للحجز."
+      },
+      {
+        "id": 2,
+        "en": "Book your appointment online.",
+        "ar": "احجز موعدك أونلاين.",
+        "context": "تحدد طريقة حجز الموعد."
+      },
+      {
+        "id": 3,
+        "en": "Do not book your appointment too late.",
+        "ar": "لا تحجز موعدك في وقت متأخر جدا.",
+        "context": "تحذر من تأخير الحجز."
+      },
+      {
+        "id": 4,
+        "en": "Did you book your appointment?",
+        "ar": "هل حجزت موعدك؟",
+        "context": "تسأل هل تم ترتيب الموعد."
+      },
+      {
+        "id": 5,
+        "en": "She booked her appointment yesterday.",
+        "ar": "هي حجزت موعدها أمس.",
+        "context": "تنقل حجز الموعد إلى الماضي."
+      },
+      {
+        "id": 6,
+        "en": "He is booking his appointment now.",
+        "ar": "هو يحجز موعده الآن.",
+        "context": "تصف فعل الحجز أثناء حدوثه."
+      },
+      {
+        "id": 7,
+        "en": "You should book your appointment early.",
+        "ar": "ينبغي أن تحجز موعدك مبكرا.",
+        "context": "تعطي نصيحة حول وقت الحجز."
+      },
+      {
+        "id": 8,
+        "en": "Book the appointment before the clinic closes.",
+        "ar": "احجز الموعد قبل أن تغلق العيادة.",
+        "context": "تربط الحجز بوقت إغلاق مكان."
+      },
+      {
+        "id": 9,
+        "en": "The clinic will book an appointment for you.",
+        "ar": "العيادة ستحجز موعدا لك.",
+        "context": "تصف خدمة ترتيب موعد لشخص."
+      },
+      {
+        "id": 10,
+        "en": "Please book an appointment with the doctor.",
+        "ar": "من فضلك احجز موعدا مع الطبيب.",
+        "context": "تطلب ترتيب لقاء طبي."
+      }
+    ]
+  }
+}

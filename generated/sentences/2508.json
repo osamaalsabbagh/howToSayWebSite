@@ -11,7 +11,7 @@
       {
         "sentence": "The salad contains fresh vegetables.",
         "ar": "السلطة تحتوي على خضروات طازجة.",
-        "context": "تصف الجملة مكونات السلطة وتؤكد أن الخضروات فيها طازجة.",
+        "context": "تصف الجملة ما يوجد داخل السلطة من مكونات طازجة.",
         "grammar": {
           "tense": "المضارع البسيط",
           "tenseEn": "Present Simple",
@@ -20,23 +20,23 @@
         "wordMeanings": [
           {
             "term": "The",
-            "description": "أداة تعريف لسلطة محددة"
+            "description": "أداة تعريف؛ تجعل السلطة محددة في السياق."
           },
           {
             "term": "salad",
-            "description": "سلطة"
+            "description": "سلطة؛ طبق غالبًا يتكون من خضروات أو مكونات خفيفة."
           },
           {
             "term": "contains",
-            "description": "تحتوي على أو تضم"
+            "description": "تحتوي على؛ يوجد بداخلها أو من ضمن مكوناتها."
           },
           {
             "term": "fresh",
-            "description": "طازج أو غير قديم"
+            "description": "طازجة؛ حديثة أو غير قديمة، وغالبًا بجودة جيدة."
           },
           {
             "term": "vegetables",
-            "description": "خضروات"
+            "description": "خضروات؛ نباتات تؤكل مثل الطماطم والخيار والجزر."
           }
         ]
       }
@@ -74,9 +74,9 @@
       },
       {
         "id": 6,
-        "en": "Fresh vegetables make the salad better.",
-        "ar": "الخضروات الطازجة تجعل السلطة أفضل.",
-        "context": "تُقال عند الحديث عن جودة المكونات."
+        "en": "The label says the salad contains nuts.",
+        "ar": "يوضح الملصق أن السلطة تحتوي على مكسرات.",
+        "context": "تصف معلومة مهمة عن مكونات الطعام."
       },
       {
         "id": 7,

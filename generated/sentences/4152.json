@@ -1,0 +1,117 @@
+{
+  "schemaVersion": 1,
+  "id": 4152,
+  "sentence": {
+    "en": "This might not be the right address.",
+    "ar": "ربما لا يكون هذا هو العنوان الصحيح.",
+    "context": "التعبير عن شك غير مؤكد بأن هذا قد لا يكون العنوان الصحيح، لا عن نفي مؤكد.",
+    "sourceWord": "might",
+    "sourcePos": "modal v."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "This might not be the right address.",
+        "ar": "ربما لا يكون هذا هو العنوان الصحيح.",
+        "context": "تصف الجملة شكًا في أن العنوان الحالي قد لا يكون صحيحًا.",
+        "grammar": {
+          "tense": "احتمال منفي باستخدام فعل مساعد",
+          "tenseEn": "Negative Modal Possibility",
+          "reason": "استخدم might not قبل be للتعبير عن احتمال منفي غير مؤكد."
+        },
+        "wordMeanings": [
+          {
+            "term": "This",
+            "description": "هذا؛ يشير إلى العنوان أو المكان الحالي."
+          },
+          {
+            "term": "might",
+            "description": "ربما؛ فعل مساعد يدل على احتمال غير مؤكد."
+          },
+          {
+            "term": "not",
+            "description": "لا؛ تجعل الاحتمال منفيًا."
+          },
+          {
+            "term": "be",
+            "description": "يكون؛ يأتي بعد might not بصورته الأساسية."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف تشير إلى العنوان المقصود."
+          },
+          {
+            "term": "right",
+            "description": "صحيح؛ مناسب أو مطابق لما نبحث عنه."
+          },
+          {
+            "term": "address",
+            "description": "عنوان؛ معلومات مكان مثل شارع ورقم."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "This might not be the right address.",
+        "ar": "ربما لا يكون هذا هو العنوان الصحيح.",
+        "context": "احتمال غير مؤكد أن العنوان الحالي ليس الصحيح باستخدام might not."
+      },
+      {
+        "id": 2,
+        "en": "That might not be true.",
+        "ar": "ربما لا يكون ذلك صحيحًا.",
+        "context": "احتمال غير مؤكد أن المعلومة غير صحيحة باستخدام might not."
+      },
+      {
+        "id": 3,
+        "en": "She might not come today.",
+        "ar": "ربما لا تأتي اليوم.",
+        "context": "احتمال غير مؤكد أن امرأة لن تأتي اليوم باستخدام might not."
+      },
+      {
+        "id": 4,
+        "en": "We might not finish on time.",
+        "ar": "ربما لا ننتهي في الوقت المحدد.",
+        "context": "احتمال غير مؤكد أن المتكلمين لن ينهوا العمل في الموعد باستخدام might not."
+      },
+      {
+        "id": 5,
+        "en": "The key might not fit this lock.",
+        "ar": "ربما لا يناسب المفتاح هذا القفل.",
+        "context": "احتمال غير مؤكد أن المفتاح لا يدخل أو لا يعمل مع هذا القفل باستخدام might not."
+      },
+      {
+        "id": 6,
+        "en": "He might not hear the phone.",
+        "ar": "ربما لا يسمع الهاتف.",
+        "context": "احتمال غير مؤكد أن شخصًا ذكرًا لن يسمع رنين الهاتف باستخدام might not."
+      },
+      {
+        "id": 7,
+        "en": "The store might not accept cash.",
+        "ar": "ربما لا يقبل المتجر الدفع نقدًا.",
+        "context": "احتمال غير مؤكد أن المتجر لا يقبل النقد باستخدام might not."
+      },
+      {
+        "id": 8,
+        "en": "This method might not work.",
+        "ar": "ربما لا تنجح هذه الطريقة.",
+        "context": "احتمال غير مؤكد أن طريقة محددة لن تكون فعالة باستخدام might not."
+      },
+      {
+        "id": 9,
+        "en": "The room might not be ready.",
+        "ar": "ربما لا تكون الغرفة جاهزة.",
+        "context": "احتمال غير مؤكد أن الغرفة ليست جاهزة باستخدام might not."
+      },
+      {
+        "id": 10,
+        "en": "The message might not reach him.",
+        "ar": "ربما لا تصل الرسالة إليه.",
+        "context": "احتمال غير مؤكد أن الرسالة لن تصل إلى شخص ذكر باستخدام might not."
+      }
+    ]
+  }
+}

@@ -4,39 +4,39 @@
   "sentence": {
     "en": "Please count this for me.",
     "ar": "من فضلك عدّ هذا لي.",
-    "context": "تُستخدم لطلب من شخص ما أن يعد شيئًا لك."
+    "context": "طلب عدّ شيء لمعرفة عدد عناصره."
   },
   "lesson": {
     "parts": [
       {
-        "sentence": "Please count this for me",
-        "ar": "من فضلك عدّ هذا لي",
-        "context": "تُستخدم لطلب العد بطريقة مهذبة.",
+        "sentence": "Please count this for me.",
+        "ar": "من فضلك عدّ هذا لي.",
+        "context": "تستخدم الجملة الفعل count لطلب معرفة عدد شيء ما بطريقة مهذبة.",
         "grammar": {
-          "tense": null,
-          "tenseEn": null,
-          "reason": "هذه صيغة أمر مهذبة تبدأ بكلمة أدب، والفعل المطلوب هو count."
+          "tense": "الأمر المهذب",
+          "tenseEn": "Polite Imperative",
+          "reason": "تبدأ الجملة بـ Please ثم الفعل الأساسي count لتقديم طلب مهذب."
         },
         "wordMeanings": [
           {
             "term": "Please",
-            "description": "من فضلك، لجعل الطلب مهذبًا"
+            "description": "من فضلك؛ تجعل الطلب مهذبًا."
           },
           {
             "term": "count",
-            "description": "عدّ، أي احسب العدد"
+            "description": "عدّ؛ احسب عدد الأشياء أو الأشخاص."
           },
           {
             "term": "this",
-            "description": "هذا، وتشير إلى الشيء المطلوب عده"
+            "description": "هذا؛ تشير إلى الشيء المطلوب عدّه."
           },
           {
             "term": "for",
-            "description": "لـ أو من أجل، وتبين أن الفعل لمصلحة المتكلم"
+            "description": "لـ أو من أجل؛ تبين أن الفعل لمصلحة المتكلم."
           },
           {
             "term": "me",
-            "description": "لي أو أنا بصيغة المفعول"
+            "description": "لي؛ ضمير يعود على المتكلم بوصفه المستفيد من الطلب."
           }
         ]
       }
@@ -44,63 +44,63 @@
     "examples": [
       {
         "id": 1,
-        "en": "Please count the coins for me.",
-        "ar": "من فضلك عدّ العملات لي.",
-        "context": "تُستخدم عند الحاجة إلى حساب المال."
+        "en": "Please count this for me.",
+        "ar": "من فضلك عدّ هذا لي.",
+        "context": "تطلب معرفة عدد شيء محدد."
       },
       {
         "id": 2,
-        "en": "Please count the tickets for me.",
-        "ar": "من فضلك عدّ التذاكر لي.",
-        "context": "تُستخدم قبل توزيع التذاكر."
+        "en": "Please count the coins for me.",
+        "ar": "من فضلك عدّ العملات لي.",
+        "context": "تطلب عدّ قطع نقدية."
       },
       {
         "id": 3,
-        "en": "Please count these boxes for me.",
-        "ar": "من فضلك عدّ هذه الصناديق لي.",
-        "context": "تُستخدم في المخزن أو أثناء النقل."
+        "en": "Can you count the tickets?",
+        "ar": "هل يمكنك عدّ التذاكر؟",
+        "context": "تطلب عدّ تذاكر قبل استخدامها أو توزيعها."
       },
       {
         "id": 4,
-        "en": "Please count the chairs for me.",
-        "ar": "من فضلك عدّ الكراسي لي.",
-        "context": "تُستخدم عند تجهيز غرفة."
+        "en": "She counted the boxes in the room.",
+        "ar": "عدّت الصناديق في الغرفة.",
+        "context": "تصف عدّ أشياء موجودة في مكان."
       },
       {
         "id": 5,
-        "en": "Please count the students for me.",
-        "ar": "من فضلك عدّ الطلاب لي.",
-        "context": "تُستخدم في الصف أو في رحلة."
+        "en": "The teacher counted the students.",
+        "ar": "عدّ المعلم الطلاب.",
+        "context": "تصف معرفة عدد الطلاب."
       },
       {
         "id": 6,
-        "en": "Please count the pages for me.",
-        "ar": "من فضلك عدّ الصفحات لي.",
-        "context": "تُستخدم عند مراجعة مستند."
+        "en": "Count the pages before you print them.",
+        "ar": "عدّ الصفحات قبل أن تطبعها.",
+        "context": "تطلب معرفة عدد الصفحات قبل الطباعة."
       },
       {
         "id": 7,
-        "en": "Please count the bags for me.",
-        "ar": "من فضلك عدّ الحقائب لي.",
-        "context": "تُستخدم قبل السفر أو التسليم."
+        "en": "I counted ten bags at the door.",
+        "ar": "عددت عشر حقائب عند الباب.",
+        "context": "تصف نتيجة عدّ حقائب."
       },
       {
         "id": 8,
-        "en": "Please count the cups for me.",
-        "ar": "من فضلك عدّ الأكواب لي.",
-        "context": "تُستخدم عند تجهيز ضيافة."
+        "en": "Please count slowly.",
+        "ar": "من فضلك عدّ ببطء.",
+        "context": "تطلب أداء العد بسرعة أبطأ."
       },
       {
         "id": 9,
-        "en": "Please count the names for me.",
-        "ar": "من فضلك عدّ الأسماء لي.",
-        "context": "تُستخدم عند مراجعة قائمة."
+        "en": "They counted the names on the list.",
+        "ar": "عدّوا الأسماء الموجودة في القائمة.",
+        "context": "تصف عدّ عناصر مكتوبة في قائمة."
       },
       {
         "id": 10,
-        "en": "Please count the apples for me.",
-        "ar": "من فضلك عدّ التفاحات لي.",
-        "context": "تُستخدم في متجر أو مطبخ."
+        "en": "Do not count the empty seats.",
+        "ar": "لا تعدّ المقاعد الفارغة.",
+        "context": "توضح استبعاد أشياء معينة من العد."
       }
     ]
   }

@@ -1,0 +1,133 @@
+{
+  "schemaVersion": 1,
+  "id": 3944,
+  "sentence": {
+    "en": "Maya is an intelligent student who learns quickly.",
+    "ar": "مايا طالبة ذكية تتعلم بسرعة.",
+    "context": "وصف طالبة لديها قدرة عالية على الفهم والتعلم بسرعة، لا مجرد اجتهاد فقط.",
+    "sourceWord": "intelligent",
+    "sourcePos": "adj."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Maya is an intelligent student",
+        "ar": "مايا طالبة ذكية",
+        "context": "هذا الجزء يصف مايا بأنها طالبة لديها قدرة عقلية جيدة.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُخدم is في المضارع البسيط لوصف صفة ثابتة أو عامة لدى مايا."
+        },
+        "wordMeanings": [
+          {
+            "term": "Maya",
+            "description": "مايا؛ اسم شخص."
+          },
+          {
+            "term": "is",
+            "description": "تكون؛ تربط الاسم بوصفه."
+          },
+          {
+            "term": "an",
+            "description": "أداة نكرة؛ تأتي قبل اسم مفرد يبدأ بصوت متحرك."
+          },
+          {
+            "term": "intelligent",
+            "description": "ذكية؛ لديها قدرة جيدة على الفهم والتعلم وحل المشكلات."
+          },
+          {
+            "term": "student",
+            "description": "طالبة؛ شخص يتعلم في مدرسة أو جامعة أو دورة."
+          }
+        ]
+      },
+      {
+        "sentence": "who learns quickly",
+        "ar": "تتعلم بسرعة",
+        "context": "هذا الجزء يوضح دليلًا على ذكائها وهو سرعة التعلم.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُخدم learns في المضارع البسيط لوصف قدرة أو عادة عامة في التعلم."
+        },
+        "wordMeanings": [
+          {
+            "term": "who",
+            "description": "التي؛ تربط الوصف بالإنسانة المذكورة قبله."
+          },
+          {
+            "term": "learns",
+            "description": "تتعلم؛ تفهم شيئًا جديدًا أو تكتسب مهارة."
+          },
+          {
+            "term": "quickly",
+            "description": "بسرعة؛ في وقت قصير."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Maya is an intelligent student who learns quickly.",
+        "ar": "مايا طالبة ذكية تتعلم بسرعة.",
+        "context": "وصف طالبة لديها قدرة عالية على الفهم والتعلم بسرعة، لا مجرد اجتهاد فقط."
+      },
+      {
+        "id": 2,
+        "en": "He is an intelligent child.",
+        "ar": "هو طفل ذكي.",
+        "context": "وصف طفل لديه قدرة جيدة على الفهم."
+      },
+      {
+        "id": 3,
+        "en": "The intelligent student asked a deep question.",
+        "ar": "طرحت الطالبة الذكية سؤالًا عميقًا.",
+        "context": "وصف طالبة أظهرت فهمًا جيدًا من خلال سؤالها."
+      },
+      {
+        "id": 4,
+        "en": "She gave an intelligent answer.",
+        "ar": "قدمت إجابة ذكية.",
+        "context": "وصف إجابة تدل على فهم وتحليل جيدين."
+      },
+      {
+        "id": 5,
+        "en": "An intelligent person listens before speaking.",
+        "ar": "الشخص الذكي يستمع قبل أن يتكلم.",
+        "context": "وصف سلوك يدل على التفكير والفهم."
+      },
+      {
+        "id": 6,
+        "en": "The team needs an intelligent leader.",
+        "ar": "يحتاج الفريق إلى قائد ذكي.",
+        "context": "وصف حاجة الفريق إلى قائد يفهم المشكلات ويتخذ قرارات جيدة."
+      },
+      {
+        "id": 7,
+        "en": "Her intelligent comments improved the discussion.",
+        "ar": "حسّنت تعليقاتها الذكية النقاش.",
+        "context": "وصف تعليقات ذات فهم عميق ساعدت النقاش."
+      },
+      {
+        "id": 8,
+        "en": "The interviewer wanted an intelligent response.",
+        "ar": "أراد المحاور ردًا ذكيًا.",
+        "context": "وصف رغبة المحاور في جواب يدل على تفكير جيد."
+      },
+      {
+        "id": 9,
+        "en": "Maya made an intelligent choice.",
+        "ar": "اتخذت مايا اختيارًا ذكيًا.",
+        "context": "وصف اختيار يدل على فهم جيد للموقف."
+      },
+      {
+        "id": 10,
+        "en": "The teacher praised his intelligent idea.",
+        "ar": "أشاد المعلم بفكرته الذكية.",
+        "context": "وصف فكرة أظهرت قدرة على التفكير والفهم."
+      }
+    ]
+  }
+}

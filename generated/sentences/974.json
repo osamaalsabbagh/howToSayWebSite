@@ -3,15 +3,15 @@
   "id": 974,
   "sentence": {
     "en": "Could you give me directions to the nearest hospital?",
-    "ar": "هل يمكنك أن ترشدني لأقرب مشفى؟",
-    "context": "تُستخدم لطلب الإرشادات للوصول إلى مكان معين بشكل مؤدب."
+    "ar": "هل يمكنك أن تعطيني إرشادات للوصول إلى أقرب مستشفى؟",
+    "context": "طلب مهذب لإرشادات الطريق التي تساعد على الوصول إلى أقرب مستشفى."
   },
   "lesson": {
     "parts": [
       {
-        "sentence": "Could you give me directions to the nearest hospital",
-        "ar": "هل يمكنك أن ترشدني لأقرب مشفى",
-        "context": "تُستخدم لطلب إرشادات الطريق بأدب إلى أقرب مستشفى.",
+        "sentence": "Could you give me directions to the nearest hospital?",
+        "ar": "هل يمكنك أن تعطيني إرشادات للوصول إلى أقرب مستشفى؟",
+        "context": "تستخدم الجملة كلمة directions كجمع لكلمة direction، ومعناها هنا إرشادات الطريق للوصول إلى مكان.",
         "grammar": {
           "tense": null,
           "tenseEn": null,
@@ -20,23 +20,23 @@
         "wordMeanings": [
           {
             "term": "Could",
-            "description": "هل يمكنك، وتُستخدم لجعل الطلب أكثر تهذيبًا"
+            "description": "هل يمكنك؛ تُستخدم لجعل الطلب أكثر تهذيبًا."
           },
           {
             "term": "you",
-            "description": "أنت أو أنتم حسب المخاطب"
+            "description": "أنت؛ الشخص الذي يُطلب منه المساعدة."
           },
           {
             "term": "give",
-            "description": "تعطي أو تقدم"
+            "description": "تعطي أو تقدم؛ هنا تعني تقدم معلومات."
           },
           {
             "term": "me",
-            "description": "لي أو أنا بصيغة المفعول"
+            "description": "لي؛ تعود على المتكلم الذي يطلب الإرشادات."
           },
           {
             "term": "directions",
-            "description": "إرشادات الطريق أو التعليمات للوصول"
+            "description": "إرشادات الطريق؛ تعليمات تساعد على الوصول إلى مكان."
           },
           {
             "term": "to",
@@ -48,11 +48,11 @@
           },
           {
             "term": "nearest",
-            "description": "الأقرب من حيث المسافة"
+            "description": "الأقرب؛ الأقل مسافة من المكان الحالي."
           },
           {
             "term": "hospital",
-            "description": "مستشفى"
+            "description": "مستشفى؛ مكان يتلقى فيه الناس العلاج والرعاية الطبية."
           }
         ]
       }
@@ -60,62 +60,62 @@
     "examples": [
       {
         "id": 1,
-        "en": "Could you give me directions to the airport?",
-        "ar": "هل يمكنك أن ترشدني إلى المطار؟",
-        "context": "تُستخدم لطلب طريق إلى المطار بأدب."
+        "en": "Could you give me directions to the nearest hospital?",
+        "ar": "هل يمكنك أن تعطيني إرشادات للوصول إلى أقرب مستشفى؟",
+        "context": "تطلب إرشادات طريق إلى مستشفى قريب."
       },
       {
         "id": 2,
-        "en": "Could you give me directions to the hotel?",
-        "ar": "هل يمكنك أن ترشدني إلى الفندق؟",
-        "context": "تُستخدم عند البحث عن فندق."
+        "en": "Could you give me directions to the airport?",
+        "ar": "هل يمكنك أن تعطيني إرشادات للوصول إلى المطار؟",
+        "context": "تستخدم directions مع وجهة مختلفة."
       },
       {
         "id": 3,
-        "en": "Could you show me the way to the station?",
-        "ar": "هل يمكنك أن تريني الطريق إلى المحطة؟",
-        "context": "تُستخدم لطلب توجيه واضح."
+        "en": "I need directions to the train station.",
+        "ar": "أحتاج إلى إرشادات للوصول إلى محطة القطار.",
+        "context": "تصف حاجة واضحة لمعرفة الطريق."
       },
       {
         "id": 4,
-        "en": "Could you tell me where the hospital is?",
-        "ar": "هل يمكنك أن تخبرني أين المستشفى؟",
-        "context": "تُستخدم لطلب موقع المستشفى."
+        "en": "The directions to the hospital were easy.",
+        "ar": "كانت إرشادات الوصول إلى المستشفى سهلة.",
+        "context": "تصف إرشادات طريق واضحة إلى مستشفى."
       },
       {
         "id": 5,
-        "en": "Could you help me find the clinic?",
-        "ar": "هل يمكنك مساعدتي في العثور على العيادة؟",
-        "context": "تُستخدم عند الحاجة إلى مساعدة صحية."
+        "en": "The directions were clear and easy to follow.",
+        "ar": "كانت الإرشادات واضحة وسهلة الاتباع.",
+        "context": "تصف جودة إرشادات الطريق."
       },
       {
         "id": 6,
         "en": "Could you give me directions to the nearest bank?",
-        "ar": "هل يمكنك أن ترشدني إلى أقرب بنك؟",
+        "ar": "هل يمكنك أن تعطيني إرشادات للوصول إلى أقرب بنك؟",
         "context": "تُستخدم عند البحث عن بنك قريب."
       },
       {
         "id": 7,
         "en": "Could you give me directions to the bus stop?",
-        "ar": "هل يمكنك أن ترشدني إلى موقف الحافلة؟",
+        "ar": "هل يمكنك أن تعطيني إرشادات للوصول إلى موقف الحافلة؟",
         "context": "تُستخدم عند استخدام المواصلات."
       },
       {
         "id": 8,
-        "en": "Could you tell me the fastest way?",
-        "ar": "هل يمكنك أن تخبرني بأسرع طريق؟",
-        "context": "تُستخدم عند الحاجة إلى طريق سريع."
+        "en": "Write the directions on this paper.",
+        "ar": "اكتب الإرشادات على هذه الورقة.",
+        "context": "تطلب تسجيل إرشادات الطريق كتابة."
       },
       {
         "id": 9,
-        "en": "Could you point me to the pharmacy?",
-        "ar": "هل يمكنك أن تدلني على الصيدلية؟",
-        "context": "تُستخدم عند البحث عن دواء."
+        "en": "The map shows which direction is north.",
+        "ar": "توضح الخريطة أي اتجاه هو الشمال.",
+        "context": "تستخدم direction بمعنى اتجاه مكاني واحد."
       },
       {
         "id": 10,
         "en": "Could you give me directions to this address?",
-        "ar": "هل يمكنك أن ترشدني إلى هذا العنوان؟",
+        "ar": "هل يمكنك أن تعطيني إرشادات للوصول إلى هذا العنوان؟",
         "context": "تُستخدم عندما تحمل عنوانًا محددًا."
       }
     ]

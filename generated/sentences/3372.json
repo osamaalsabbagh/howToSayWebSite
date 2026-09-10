@@ -1,0 +1,115 @@
+{
+  "schemaVersion": 1,
+  "id": 3372,
+  "sentence": {
+    "en": "This seat does not belong to me.",
+    "ar": "هذا المقعد لا يخصني.",
+    "context": "نفي ملكية أو أحقية استخدام مقعد محدد."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "This seat does not belong to me.",
+        "ar": "هذا المقعد لا يخصني.",
+        "context": "تستخدم الجملة لنفي أن المقعد ملك للمتكلم أو مخصص له.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُخدم does not belong لنفي حالة ملكية أو تخصيص حالية."
+        },
+        "wordMeanings": [
+          {
+            "term": "This",
+            "description": "هذا؛ يشير إلى مقعد محدد."
+          },
+          {
+            "term": "seat",
+            "description": "مقعد؛ مكان للجلوس."
+          },
+          {
+            "term": "does",
+            "description": "صيغة مساعدة مع المفرد للنفي أو السؤال."
+          },
+          {
+            "term": "not",
+            "description": "لا؛ أداة نفي."
+          },
+          {
+            "term": "belong",
+            "description": "يخص؛ يدل على الملكية أو التخصيص."
+          },
+          {
+            "term": "to",
+            "description": "لـ؛ تربط الشيء بصاحبه."
+          },
+          {
+            "term": "me",
+            "description": "أنا؛ المتكلم بوصفه الشخص المنفي عنه الحق."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "This seat does not belong to me.",
+        "ar": "هذا المقعد لا يخصني.",
+        "context": "تنفي أن المقعد مخصص للمتكلم."
+      },
+      {
+        "id": 2,
+        "en": "This desk does not belong to me.",
+        "ar": "هذا المكتب لا يخصني.",
+        "context": "تنفي ملكية شيء آخر."
+      },
+      {
+        "id": 3,
+        "en": "This seat belongs to my friend.",
+        "ar": "هذا المقعد يخص صديقي.",
+        "context": "تحدد الشخص الذي يخصه المقعد."
+      },
+      {
+        "id": 4,
+        "en": "Does this seat belong to you?",
+        "ar": "هل هذا المقعد يخصك؟",
+        "context": "تسأل عن صاحب المقعد."
+      },
+      {
+        "id": 5,
+        "en": "This seat did not belong to me yesterday.",
+        "ar": "هذا المقعد لم يكن يخصني أمس.",
+        "context": "تنفي الملكية في الماضي."
+      },
+      {
+        "id": 6,
+        "en": "This seat will belong to me after the change.",
+        "ar": "هذا المقعد سيخصني بعد التغيير.",
+        "context": "تتحدث عن تخصيص مستقبلي."
+      },
+      {
+        "id": 7,
+        "en": "This seat does not belong to me, so I will move.",
+        "ar": "هذا المقعد لا يخصني، لذلك سأنتقل.",
+        "context": "تربط النفي بتصرف عملي."
+      },
+      {
+        "id": 8,
+        "en": "This seat does not belong to anyone.",
+        "ar": "هذا المقعد لا يخص أحدا.",
+        "context": "تنفي التخصيص لأي شخص."
+      },
+      {
+        "id": 9,
+        "en": "The ticket shows that this seat belongs to me.",
+        "ar": "تظهر التذكرة أن هذا المقعد يخصني.",
+        "context": "تذكر دليلا على التخصيص."
+      },
+      {
+        "id": 10,
+        "en": "I think this seat does not belong to me.",
+        "ar": "أظن أن هذا المقعد لا يخصني.",
+        "context": "تجعل النفي غير مؤكد تماما."
+      }
+    ]
+  }
+}

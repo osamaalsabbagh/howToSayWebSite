@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": 3852,
+  "sentence": {
+    "en": "The height of the shelf is two meters.",
+    "ar": "ارتفاع الرف هو متران.",
+    "context": "وصف قياس ارتفاع رف محدد بصيغة يكون فيها الارتفاع نفسه موضوع الجملة.",
+    "sourceWord": "height",
+    "sourcePos": "n."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "The height of the shelf is two meters.",
+        "ar": "ارتفاع الرف هو متران.",
+        "context": "تصف الجملة قياس ارتفاع الرف وتجعله موضوع الجملة.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Simple Present",
+          "reason": "استُخدم is في المضارع البسيط لأن الجملة تصف قياسًا ثابتًا أو معلومًا للرف."
+        },
+        "wordMeanings": [
+          {
+            "term": "The",
+            "description": "أداة تعريف؛ تجعل قياس الارتفاع محددًا في السياق."
+          },
+          {
+            "term": "height",
+            "description": "ارتفاع؛ قياس الشيء من أسفله إلى أعلاه."
+          },
+          {
+            "term": "of",
+            "description": "لـ أو الخاص بـ؛ تربط القياس بالشيء المقاس."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف؛ تشير إلى رف محدد."
+          },
+          {
+            "term": "shelf",
+            "description": "رف؛ سطح أفقي يوضع عليه شيء."
+          },
+          {
+            "term": "is",
+            "description": "يكون أو هو؛ يربط الارتفاع بقيمته."
+          },
+          {
+            "term": "two",
+            "description": "اثنان؛ الرقم المذكور في قياس الارتفاع."
+          },
+          {
+            "term": "meters",
+            "description": "أمتار؛ وحدة قياس للطول أو الارتفاع."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "The height of the shelf is two meters.",
+        "ar": "ارتفاع الرف هو متران.",
+        "context": "وصف قياس ارتفاع رف محدد بصيغة يكون فيها الارتفاع نفسه موضوع الجملة."
+      },
+      {
+        "id": 2,
+        "en": "The height of the door is two meters.",
+        "ar": "ارتفاع الباب هو متران.",
+        "context": "وصف قياس ارتفاع باب محدد."
+      },
+      {
+        "id": 3,
+        "en": "The height of the table is one meter.",
+        "ar": "ارتفاع الطاولة هو متر واحد.",
+        "context": "وصف قياس ارتفاع طاولة محددة."
+      },
+      {
+        "id": 4,
+        "en": "The height of the wall is three meters.",
+        "ar": "ارتفاع الجدار هو ثلاثة أمتار.",
+        "context": "وصف قياس ارتفاع جدار محدد."
+      },
+      {
+        "id": 5,
+        "en": "The height of the window is one meter.",
+        "ar": "ارتفاع النافذة هو متر واحد.",
+        "context": "وصف قياس ارتفاع نافذة محددة."
+      },
+      {
+        "id": 6,
+        "en": "The height of the tower is fifty meters.",
+        "ar": "ارتفاع البرج هو خمسون مترًا.",
+        "context": "وصف قياس ارتفاع برج محدد."
+      },
+      {
+        "id": 7,
+        "en": "The height of the fence is one meter.",
+        "ar": "ارتفاع السياج متر واحد.",
+        "context": "وصف قياس ارتفاع سياج محدد."
+      },
+      {
+        "id": 8,
+        "en": "The height of the box matters.",
+        "ar": "ارتفاع الصندوق مهم.",
+        "context": "توضيح أن قياس ارتفاع الصندوق مهم."
+      },
+      {
+        "id": 9,
+        "en": "The height of the chair surprised me.",
+        "ar": "فاجأني ارتفاع الكرسي.",
+        "context": "وصف دهشة المتكلم من ارتفاع كرسي."
+      },
+      {
+        "id": 10,
+        "en": "The height of the shelf changed.",
+        "ar": "تغير ارتفاع الرف.",
+        "context": "وصف تغير قياس ارتفاع الرف."
+      }
+    ]
+  }
+}

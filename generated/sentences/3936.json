@@ -1,0 +1,133 @@
+{
+  "schemaVersion": 1,
+  "id": 3936,
+  "sentence": {
+    "en": "I wanted coffee, but I drank tea instead.",
+    "ar": "كنت أريد قهوة، لكنني شربت الشاي بدلًا من ذلك.",
+    "context": "وصف اختيار الشاي كبديل عن القهوة التي كان الشخص يريدها أولًا.",
+    "sourceWord": "instead",
+    "sourcePos": "adv."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "I wanted coffee",
+        "ar": "كنت أريد قهوة",
+        "context": "هذا الجزء يوضح الرغبة الأولى قبل اختيار البديل.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "استُخدم wanted في الماضي البسيط لوصف رغبة كانت موجودة في وقت سابق."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "أنا؛ المتكلم عن نفسه."
+          },
+          {
+            "term": "wanted",
+            "description": "أراد؛ كان يرغب في شيء."
+          },
+          {
+            "term": "coffee",
+            "description": "قهوة؛ مشروب ساخن معروف."
+          }
+        ]
+      },
+      {
+        "sentence": "but I drank tea instead",
+        "ar": "لكنني شربت الشاي بدلًا من ذلك",
+        "context": "هذا الجزء يوضح أن المتكلم اختار الشاي بدل الخيار الأول.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "استُخدم drank في الماضي البسيط لأن شرب الشاي حدث وانتهى في الماضي."
+        },
+        "wordMeanings": [
+          {
+            "term": "but",
+            "description": "لكن؛ تربط بين رغبة أولى ونتيجة مختلفة عنها."
+          },
+          {
+            "term": "I",
+            "description": "أنا؛ المتكلم عن نفسه."
+          },
+          {
+            "term": "drank",
+            "description": "شرب؛ تناول مشروبًا."
+          },
+          {
+            "term": "tea",
+            "description": "شاي؛ مشروب ساخن."
+          },
+          {
+            "term": "instead",
+            "description": "بدلًا من ذلك؛ تبين أن شيئًا حل محل خيار آخر."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I wanted coffee, but I drank tea instead.",
+        "ar": "كنت أريد قهوة، لكنني شربت الشاي بدلًا من ذلك.",
+        "context": "وصف اختيار الشاي كبديل عن القهوة التي كان الشخص يريدها أولًا."
+      },
+      {
+        "id": 2,
+        "en": "She planned to call, but she sent a message instead.",
+        "ar": "كانت تخطط للاتصال، لكنها أرسلت رسالة بدلًا من ذلك.",
+        "context": "وصف استبدال الاتصال بإرسال رسالة."
+      },
+      {
+        "id": 3,
+        "en": "We missed the train, so we took a bus instead.",
+        "ar": "فاتنا القطار، لذلك أخذنا حافلة بدلًا من ذلك.",
+        "context": "وصف اختيار الحافلة كبديل بعد فوات القطار."
+      },
+      {
+        "id": 4,
+        "en": "He skipped dessert and ate fruit instead.",
+        "ar": "تجاوز الحلوى وأكل فاكهة بدلًا من ذلك.",
+        "context": "وصف اختيار الفاكهة بدل الحلوى."
+      },
+      {
+        "id": 5,
+        "en": "The shop was closed, so I ordered online instead.",
+        "ar": "كان المتجر مغلقًا، لذلك طلبت عبر الإنترنت بدلًا من ذلك.",
+        "context": "وصف الطلب عبر الإنترنت كبديل عن الشراء من المتجر."
+      },
+      {
+        "id": 6,
+        "en": "They canceled the picnic and watched a movie instead.",
+        "ar": "ألغوا النزهة وشاهدوا فيلمًا بدلًا من ذلك.",
+        "context": "وصف نشاط بديل بعد إلغاء النزهة."
+      },
+      {
+        "id": 7,
+        "en": "I forgot my notebook, so I used my phone instead.",
+        "ar": "نسيت دفتري، لذلك استخدمت هاتفي بدلًا من ذلك.",
+        "context": "وصف استخدام الهاتف كبديل عن الدفتر."
+      },
+      {
+        "id": 8,
+        "en": "She did not drive; she walked instead.",
+        "ar": "لم تَقُد السيارة؛ مشت بدلًا من ذلك.",
+        "context": "وصف المشي كبديل عن قيادة السيارة."
+      },
+      {
+        "id": 9,
+        "en": "The team changed the plan and practiced inside instead.",
+        "ar": "غيّر الفريق الخطة وتدرب في الداخل بدلًا من ذلك.",
+        "context": "وصف التدريب في الداخل كبديل عن الخطة الأولى."
+      },
+      {
+        "id": 10,
+        "en": "He wanted to buy a new desk, but he repaired the old one instead.",
+        "ar": "أراد شراء مكتب جديد، لكنه أصلح القديم بدلًا من ذلك.",
+        "context": "وصف إصلاح المكتب القديم كبديل عن شراء مكتب جديد."
+      }
+    ]
+  }
+}
