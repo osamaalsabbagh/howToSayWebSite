@@ -1,0 +1,109 @@
+{
+  "schemaVersion": 1,
+  "id": 4759,
+  "sentence": {
+    "en": "Several friends visited me yesterday.",
+    "ar": "عدة أصدقاء زاروني أمس.",
+    "context": "الحديث عن عدد غير محدد من الأصدقاء أكبر من اثنين أو ثلاثة، لا عدد صغير ولا عدد كبير جدًا، والكلمة المطلوبة محدد يأتي مباشرة قبل اسم الجمع بلا حرف جر بعده. المقصود زيارتهم للمتكلم في بيته، والحدث تم وانتهى في اليوم السابق، فالزمن الماضي البسيط.",
+    "sourceWord": "several",
+    "sourcePos": "det."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Several friends visited me yesterday.",
+        "ar": "عدة أصدقاء زاروني أمس.",
+        "context": "جملة يخبر بها المتكلم عن زيارة تلقاها في اليوم السابق.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "استُعمل الماضي البسيط لأن الزيارة وقعت في وقت محدد مضى وانتهى، ودل عليه ذكر اليوم السابق."
+        },
+        "wordMeanings": [
+          {
+            "term": "Several",
+            "description": "محدد يدل على عدد غير معين أكبر من قليل ويأتي قبل اسم جمع."
+          },
+          {
+            "term": "friends",
+            "description": "الأشخاص الذين تربطهم بالمتكلم صداقة."
+          },
+          {
+            "term": "visited",
+            "description": "صيغة ماضية تدل على زيارة شخص في مكانه."
+          },
+          {
+            "term": "me",
+            "description": "ضمير يدل على المتكلم في موضع المفعول."
+          },
+          {
+            "term": "yesterday",
+            "description": "اليوم السابق لليوم الذي نحن فيه."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Several friends visited me yesterday.",
+        "ar": "عدة أصدقاء زاروني أمس.",
+        "context": "زيارة تلقاها المتكلم في اليوم السابق."
+      },
+      {
+        "id": 2,
+        "en": "Several students were absent.",
+        "ar": "عدة طلاب كانوا غائبين.",
+        "context": "إخبار عن دارسين لم يحضروا الدرس."
+      },
+      {
+        "id": 3,
+        "en": "I bought several books.",
+        "ar": "أنا اشتريت عدة كتب.",
+        "context": "شراء عدد غير معين من الكتب في الماضي."
+      },
+      {
+        "id": 4,
+        "en": "Several windows are broken.",
+        "ar": "عدة نوافذ مكسورة.",
+        "context": "وصف حالة نوافذ في مبنى الآن."
+      },
+      {
+        "id": 5,
+        "en": "He asked several questions.",
+        "ar": "هو سأل عدة أسئلة.",
+        "context": "إخبار عن أسئلة طرحها رجل في لقاء."
+      },
+      {
+        "id": 6,
+        "en": "We waited several hours.",
+        "ar": "نحن انتظرنا عدة ساعات.",
+        "context": "بيان مدة انتظار طويلة مضت."
+      },
+      {
+        "id": 7,
+        "en": "Several trees fell in the storm.",
+        "ar": "عدة أشجار سقطت في العاصفة.",
+        "context": "أثر ريح قوية على أشجار في الماضي."
+      },
+      {
+        "id": 8,
+        "en": "She visited several cities.",
+        "ar": "هي زارت عدة مدن.",
+        "context": "إخبار عن تنقل امرأة بين مدن في الماضي."
+      },
+      {
+        "id": 9,
+        "en": "Several companies closed last month.",
+        "ar": "عدة شركات أغلقت الشهر الماضي.",
+        "context": "إخبار عن توقف شركات عن العمل."
+      },
+      {
+        "id": 10,
+        "en": "Several rooms are open.",
+        "ar": "عدة غرف مفتوحة.",
+        "context": "وصف حال أبواب غرف في مبنى الآن."
+      }
+    ]
+  }
+}

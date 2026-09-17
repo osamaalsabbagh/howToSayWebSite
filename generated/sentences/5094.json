@@ -1,0 +1,109 @@
+{
+  "schemaVersion": 1,
+  "id": 5094,
+  "sentence": {
+    "en": "The user typed a password.",
+    "ar": "كتب المستخدم كلمة مرور.",
+    "context": "إخبار عن شخص يستعمل نظامًا أو جهازًا وأدخل كلمة سر في الماضي.",
+    "sourceWord": "user",
+    "sourcePos": "n."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "The user typed a password.",
+        "ar": "كتب المستخدم كلمة مرور.",
+        "context": "إخبار عن شخص يستعمل نظامًا أو جهازًا وأدخل كلمة سر في الماضي.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "تصف الجملة حدثًا وقع في الماضي وانتهى، لذلك جاءت بصيغة الماضي البسيط."
+        },
+        "wordMeanings": [
+          {
+            "term": "The",
+            "description": "أداة تعريف لشيء معروف أو محدد"
+          },
+          {
+            "term": "user",
+            "description": "مستخدم يستعمل جهازًا أو خدمة"
+          },
+          {
+            "term": "typed",
+            "description": "كتب باستعمال لوحة مفاتيح في الماضي"
+          },
+          {
+            "term": "a",
+            "description": "أداة تنكير لشيء واحد غير محدد"
+          },
+          {
+            "term": "password",
+            "description": "كلمة مرور للدخول إلى حساب"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "The user typed a password.",
+        "ar": "كتب المستخدم كلمة مرور.",
+        "context": "إخبار عن شخص يستعمل نظامًا أو جهازًا وأدخل كلمة سر في الماضي."
+      },
+      {
+        "id": 2,
+        "en": "The user opened the app.",
+        "ar": "فتح المستخدم التطبيق.",
+        "context": "شخص يستعمل برنامجًا بدأ تشغيله."
+      },
+      {
+        "id": 3,
+        "en": "Every user needs a name.",
+        "ar": "كل مستخدم يحتاج إلى اسم.",
+        "context": "قاعدة تخص الأشخاص الذين يستعملون خدمة."
+      },
+      {
+        "id": 4,
+        "en": "The user changed the password.",
+        "ar": "غيّر المستخدم كلمة المرور.",
+        "context": "شخص يستعمل نظامًا عدل سر الدخول."
+      },
+      {
+        "id": 5,
+        "en": "A new user joined today.",
+        "ar": "انضم مستخدم جديد اليوم.",
+        "context": "شخص بدأ استعمال خدمة."
+      },
+      {
+        "id": 6,
+        "en": "The system checks each user.",
+        "ar": "يفحص النظام كل مستخدم.",
+        "context": "برنامج يتحقق من كل شخص يستعمله."
+      },
+      {
+        "id": 7,
+        "en": "This user forgot the account name.",
+        "ar": "نسي هذا المستخدم اسم الحساب.",
+        "context": "شخص يستعمل خدمة نسي بياناته."
+      },
+      {
+        "id": 8,
+        "en": "The user clicked the button.",
+        "ar": "نقر المستخدم الزر.",
+        "context": "شخص يستعمل واجهة ضغط زرًا."
+      },
+      {
+        "id": 9,
+        "en": "No user can see that file.",
+        "ar": "لا يستطيع أي مستخدم رؤية ذلك الملف.",
+        "context": "منع الأشخاص المستعملين من رؤية ملف."
+      },
+      {
+        "id": 10,
+        "en": "The user saved the changes.",
+        "ar": "حفظ المستخدم التغييرات.",
+        "context": "شخص يستعمل نظامًا خزّن تعديلات."
+      }
+    ]
+  }
+}

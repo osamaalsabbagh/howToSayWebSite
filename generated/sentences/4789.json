@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": 4789,
+  "sentence": {
+    "en": "The right side of the bed is empty.",
+    "ar": "الجانب الأيمن من السرير فارغ.",
+    "context": "وصف حالة حالية لجزء محدد من السرير يقع في جهة اليد اليمنى ولا يوجد عليه أحد. الصفة المطلوبة تعني الخلو التام لا الإتاحة للاستعمال. الاسم المطلوب هو الجزء الجانبي، لا الجهة العامة ولا نهاية السرير.",
+    "sourceWord": "side",
+    "sourcePos": "n."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "The right side of the bed is empty.",
+        "ar": "الجانب الأيمن من السرير فارغ.",
+        "context": "جملة تصف موضعًا محددًا من السرير وحالته.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "الجملة تصف حالة ثابتة في الوقت الحالي، لذلك جاء التركيب في المضارع البسيط."
+        },
+        "wordMeanings": [
+          {
+            "term": "The",
+            "description": "أداة تعريف تشير إلى جزء محدد."
+          },
+          {
+            "term": "right",
+            "description": "الأيمن؛ الجهة المقابلة لليد اليمنى."
+          },
+          {
+            "term": "side",
+            "description": "جانب؛ جزء جانبي من السرير."
+          },
+          {
+            "term": "of",
+            "description": "من؛ يربط الجزء بالسرير."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف تشير إلى سرير معروف."
+          },
+          {
+            "term": "bed",
+            "description": "سرير؛ مكان النوم."
+          },
+          {
+            "term": "is",
+            "description": "يربط الجزء بوصفه الحالي."
+          },
+          {
+            "term": "empty",
+            "description": "فارغ؛ لا يوجد عليه شيء أو شخص."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "The right side of the bed is empty.",
+        "ar": "الجانب الأيمن من السرير فارغ.",
+        "context": "وصف موضع فارغ في جهة محددة من السرير."
+      },
+      {
+        "id": 2,
+        "en": "The left side of the bed is empty.",
+        "ar": "الجانب الأيسر من السرير فارغ.",
+        "context": "وصف الجهة الأخرى من السرير."
+      },
+      {
+        "id": 3,
+        "en": "The right side of the table is wet.",
+        "ar": "الجانب الأيمن من الطاولة مبلل.",
+        "context": "وصف جهة مبللة من طاولة."
+      },
+      {
+        "id": 4,
+        "en": "The left side of the road is closed.",
+        "ar": "الجانب الأيسر من الطريق مغلق.",
+        "context": "وصف جهة غير مفتوحة للمرور في طريق."
+      },
+      {
+        "id": 5,
+        "en": "The other side of the room is quiet.",
+        "ar": "الجانب الآخر من الغرفة هادئ.",
+        "context": "وصف جهة مقابلة داخل غرفة."
+      },
+      {
+        "id": 6,
+        "en": "There is a chair on each side of the bed.",
+        "ar": "يوجد كرسي على كل جانب من السرير.",
+        "context": "وصف كرسيين موزعين حول السرير."
+      },
+      {
+        "id": 7,
+        "en": "The sunny side of the street is warm.",
+        "ar": "الجانب المشمس من الشارع دافئ.",
+        "context": "وصف جهة من شارع يصلها ضوء الشمس."
+      },
+      {
+        "id": 8,
+        "en": "Click the button on the right side of the screen.",
+        "ar": "انقر على الزر في الجانب الأيمن من الشاشة.",
+        "context": "تعليمات للنقر على زر في جهة من شاشة."
+      },
+      {
+        "id": 9,
+        "en": "Put the book on the right side of the seat.",
+        "ar": "ضع الكتاب على الجانب الأيمن من المقعد.",
+        "context": "أمر بوضع كتاب في جهة محددة من مقعد."
+      },
+      {
+        "id": 10,
+        "en": "She sat on the other side of the table.",
+        "ar": "هي جلست على الجانب الآخر من الطاولة.",
+        "context": "وصف جلوس شخص في الجهة المقابلة من طاولة."
+      }
+    ]
+  }
+}

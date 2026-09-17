@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 1,
+  "id": 4765,
+  "sentence": {
+    "en": "He shook his head.",
+    "ar": "هو هزّ رأسه.",
+    "context": "حدث ماض: رجل حرّك رأسه جانبًا للدلالة على النفي، لا إيماءة موافقة.",
+    "sourceWord": "shake",
+    "sourcePos": "v."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "He shook his head.",
+        "ar": "هو هزّ رأسه.",
+        "context": "تصف حركة رأس تدل غالبًا على الرفض.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "استُخدم الماضي البسيط لأن حركة الرأس حدثت وانتهت في الماضي."
+        },
+        "wordMeanings": [
+          {
+            "term": "He",
+            "description": "ضمير يشير إلى رجل أو ولد."
+          },
+          {
+            "term": "shook",
+            "description": "هزّ، أي حرّك رأسه يمينًا ويسارًا للدلالة على النفي."
+          },
+          {
+            "term": "his",
+            "description": "يدل على أن الرأس له."
+          },
+          {
+            "term": "head",
+            "description": "رأس."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "He shook his head.",
+        "ar": "هو هزّ رأسه.",
+        "context": "حركة رأس للنفي."
+      },
+      {
+        "id": 2,
+        "en": "She shook her head.",
+        "ar": "هي هزّت رأسها.",
+        "context": "حركة رأس للنفي."
+      },
+      {
+        "id": 3,
+        "en": "The boy shook his head.",
+        "ar": "الصبي هزّ رأسه.",
+        "context": "ولد حرّك رأسه للنفي."
+      },
+      {
+        "id": 4,
+        "en": "The teacher shook his head.",
+        "ar": "المعلم هزّ رأسه.",
+        "context": "معلم حرّك رأسه للنفي."
+      },
+      {
+        "id": 5,
+        "en": "My father shook his head.",
+        "ar": "أبي هزّ رأسه.",
+        "context": "أب حرّك رأسه للنفي."
+      },
+      {
+        "id": 6,
+        "en": "The child shook his head slowly.",
+        "ar": "الطفل هزّ رأسه ببطء.",
+        "context": "حركة رأس بطيئة للنفي."
+      },
+      {
+        "id": 7,
+        "en": "He shook his head twice.",
+        "ar": "هو هزّ رأسه مرتين.",
+        "context": "حركة رأس مكررة للنفي."
+      },
+      {
+        "id": 8,
+        "en": "She shook her head at the answer.",
+        "ar": "هي هزّت رأسها عند الإجابة.",
+        "context": "رفض أو عدم رضا عن إجابة."
+      },
+      {
+        "id": 9,
+        "en": "The child shook his head at the food.",
+        "ar": "الطفل هزّ رأسه عند الطعام.",
+        "context": "رفض طعام بحركة الرأس."
+      },
+      {
+        "id": 10,
+        "en": "He shook his head before leaving.",
+        "ar": "هو هزّ رأسه قبل المغادرة.",
+        "context": "حركة نفي قبل الانصراف."
+      }
+    ]
+  }
+}

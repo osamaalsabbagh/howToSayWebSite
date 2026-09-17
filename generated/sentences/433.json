@@ -11,7 +11,7 @@
       {
         "sentence": "I would like a map of the city.",
         "ar": "أود خريطة للمدينة.",
-        "context": "تستخدم هذه الجملة في سياق: طلب خريطة لاستخدامها في التنقل أو السياحة.",
+        "context": "طلب خريطة للمدينة من مكتب استعلامات أو فندق.",
         "grammar": {
           "tense": null,
           "tenseEn": null,
@@ -56,63 +56,63 @@
     "examples": [
       {
         "id": 1,
-        "en": "I would like a map of the area.",
-        "ar": "أود خريطة للمنطقة.",
-        "context": "يستخدم هذا المثال في موقف خدمة أو سفر مباشر."
+        "en": "I would like a map of the city.",
+        "ar": "أود خريطة للمدينة.",
+        "context": "طلب خريطة للمدينة من مكتب استعلامات."
       },
       {
         "id": 2,
         "en": "I would like a guidebook.",
         "ar": "أود دليلا سياحيا.",
-        "context": "يناسب طلبا مهذبا في فندق أو مطعم."
+        "context": "طلب كتاب إرشادي للسياح لا شخصًا مرافقًا."
       },
       {
         "id": 3,
         "en": "I would like a ticket to the museum.",
         "ar": "أود تذكرة إلى المتحف.",
-        "context": "يقال عند الحاجة إلى معلومة عملية."
+        "context": "طلب تذكرة دخول إلى المتحف."
       },
       {
         "id": 4,
         "en": "I would like some information.",
         "ar": "أود بعض المعلومات.",
-        "context": "يساعد على استخدام النمط في موقف مشابه."
+        "context": "طلب بعض المعلومات."
       },
       {
         "id": 5,
-        "en": "I would like a city map please.",
-        "ar": "أود خريطة للمدينة من فضلك.",
-        "context": "يناسب محادثة قصيرة مع موظف خدمة."
+        "en": "I would like a map of the area.",
+        "ar": "أود خريطة للمنطقة.",
+        "context": "طلب خريطة للمنطقة المحيطة."
       },
       {
         "id": 6,
         "en": "I would like directions to the hotel.",
         "ar": "أود إرشادات إلى الفندق.",
-        "context": "يستخدم عندما تكون الحاجة واضحة من السياق."
+        "context": "طلب إرشادات الوصول إلى الفندق."
       },
       {
         "id": 7,
         "en": "I would like a list of restaurants.",
         "ar": "أود قائمة بالمطاعم.",
-        "context": "يقال للحصول على شيء أو معرفة مكانه."
+        "context": "طلب قائمة بأسماء المطاعم."
       },
       {
         "id": 8,
         "en": "I would like a bus schedule.",
         "ar": "أود جدول الحافلات.",
-        "context": "يناسب ترتيب إقامة أو تنقل."
+        "context": "طلب جدول مواعيد الحافلات."
       },
       {
         "id": 9,
         "en": "I would like a map for tourists.",
         "ar": "أود خريطة للسياح.",
-        "context": "يستخدم في سؤال يومي طبيعي."
+        "context": "طلب خريطة معدة للسياح."
       },
       {
         "id": 10,
         "en": "I would like help with directions.",
         "ar": "أود مساعدة في الاتجاهات.",
-        "context": "يساعد على نقل نفس الفكرة بكلمات قريبة."
+        "context": "طلب مساعدة في معرفة الاتجاهات."
       }
     ]
   }

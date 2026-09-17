@@ -1,0 +1,109 @@
+{
+  "schemaVersion": 1,
+  "id": 5082,
+  "sentence": {
+    "en": "This unit has three lessons.",
+    "ar": "هذه الوحدة تحتوي على ثلاثة دروس.",
+    "context": "وصف جزء من كتاب أو دورة بأنه يحتوي على ثلاثة أجزاء تعليمية صغيرة.",
+    "sourceWord": "unit",
+    "sourcePos": "n."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "This unit has three lessons.",
+        "ar": "هذه الوحدة تحتوي على ثلاثة دروس.",
+        "context": "وصف جزء من كتاب أو دورة بأنه يحتوي على ثلاثة أجزاء تعليمية صغيرة.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "تصف الجملة حقيقة أو حالة عامة، لذلك جاءت بصيغة المضارع البسيط."
+        },
+        "wordMeanings": [
+          {
+            "term": "This",
+            "description": "اسم إشارة لشيء قريب أو حاضر في الكلام"
+          },
+          {
+            "term": "unit",
+            "description": "وحدة أو جزء من كتاب أو دورة"
+          },
+          {
+            "term": "has",
+            "description": "يملك أو يحتوي مع المفرد الغائب"
+          },
+          {
+            "term": "three",
+            "description": "العدد ثلاثة"
+          },
+          {
+            "term": "lessons",
+            "description": "دروس أو وحدات تعليمية صغيرة"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "This unit has three lessons.",
+        "ar": "هذه الوحدة تحتوي على ثلاثة دروس.",
+        "context": "وصف جزء من كتاب أو دورة بأنه يحتوي على ثلاثة أجزاء تعليمية صغيرة."
+      },
+      {
+        "id": 2,
+        "en": "The unit starts with a story.",
+        "ar": "تبدأ الوحدة بقصة.",
+        "context": "جزء تعليمي يبدأ بنص قصصي."
+      },
+      {
+        "id": 3,
+        "en": "Each unit has a test.",
+        "ar": "كل وحدة لديها اختبار.",
+        "context": "كل جزء تعليمي يحتوي اختبارًا."
+      },
+      {
+        "id": 4,
+        "en": "This unit is difficult.",
+        "ar": "هذه الوحدة صعبة.",
+        "context": "وصف جزء تعليمي بأنه غير سهل."
+      },
+      {
+        "id": 5,
+        "en": "The teacher explained the unit.",
+        "ar": "شرح المعلم الوحدة.",
+        "context": "توضيح جزء تعليمي للطلاب."
+      },
+      {
+        "id": 6,
+        "en": "Unit two is shorter.",
+        "ar": "الوحدة الثانية أقصر.",
+        "context": "مقارنة جزء تعليمي بغيره."
+      },
+      {
+        "id": 7,
+        "en": "We reviewed the last unit.",
+        "ar": "راجعنا الوحدة الأخيرة.",
+        "context": "إعادة دراسة جزء تعليمي سابق."
+      },
+      {
+        "id": 8,
+        "en": "The book includes ten units.",
+        "ar": "الكتاب يتضمن عشر وحدات.",
+        "context": "كتاب يحتوي أجزاء تعليمية متعددة."
+      },
+      {
+        "id": 9,
+        "en": "She missed one unit.",
+        "ar": "هي فوّتت وحدة واحدة.",
+        "context": "عدم دراسة جزء تعليمي واحد."
+      },
+      {
+        "id": 10,
+        "en": "The new unit is about travel.",
+        "ar": "الوحدة الجديدة عن السفر.",
+        "context": "موضوع جزء تعليمي جديد."
+      }
+    ]
+  }
+}

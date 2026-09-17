@@ -1,0 +1,113 @@
+{
+  "schemaVersion": 1,
+  "id": 4849,
+  "sentence": {
+    "en": "He has smoked two cigarettes today.",
+    "ar": "هو قد دخن سيجارتين اليوم.",
+    "context": "حدث تم داخل مدة لم تنته بعد بالمضارع التام لا الماضي البسيط: رجل استعمل لفافتي تبغ خلال هذا اليوم الذي ما زال جاريًا. والمطلوب الفعل الخاص باستعمال السيجارة، لا اسم عادة استعمال السجائر، ولا اسم المادة المتصاعدة من الاحتراق. وتأتي أداة التحقيق بعد الفاعل لا قبله. والعدد اثنان يأتي في العربية بصيغة المثنى.",
+    "sourceWord": "smoke",
+    "sourcePos": "v."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "He has smoked two cigarettes today.",
+        "ar": "هو قد دخن سيجارتين اليوم.",
+        "context": "جملة خبرية تحصي ما فعله رجل حتى هذه اللحظة من اليوم.",
+        "grammar": {
+          "tense": "المضارع التام",
+          "tenseEn": "Present Perfect",
+          "reason": "الحدث تم داخل مدة زمنية ما زالت جارية حتى لحظة الكلام، فجاء بالمضارع التام لا بالماضي البسيط."
+        },
+        "wordMeanings": [
+          {
+            "term": "He",
+            "description": "ضمير يدل على رجل غائب"
+          },
+          {
+            "term": "has",
+            "description": "صيغة تأتي مع الغائب المفرد للدلالة على تمام الحدث"
+          },
+          {
+            "term": "smoked",
+            "description": "استعمل السيجارة وسحب هواءها"
+          },
+          {
+            "term": "two",
+            "description": "العدد الذي يلي الواحد"
+          },
+          {
+            "term": "cigarettes",
+            "description": "لفافات التبغ الرفيعة التي تُشعل"
+          },
+          {
+            "term": "today",
+            "description": "اليوم الجاري الذي لم ينته بعد"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "He has smoked two cigarettes today.",
+        "ar": "هو قد دخن سيجارتين اليوم.",
+        "context": "حصيلة اليوم الجاري حتى هذه اللحظة."
+      },
+      {
+        "id": 2,
+        "en": "He has smoked one cigarette this morning.",
+        "ar": "هو قد دخن سيجارة واحدة هذا الصباح.",
+        "context": "حدث تم في صباح لم ينته بعد."
+      },
+      {
+        "id": 3,
+        "en": "I have not smoked today.",
+        "ar": "أنا لم أدخن اليوم.",
+        "context": "نفي حدوث الأمر في يوم ما زال جاريًا."
+      },
+      {
+        "id": 4,
+        "en": "She has smoked three cigarettes since morning.",
+        "ar": "هي قد دخنت ثلاث سجائر منذ الصباح.",
+        "context": "عدد تم منذ الصباح حتى الآن."
+      },
+      {
+        "id": 5,
+        "en": "They have smoked outside twice today.",
+        "ar": "هم قد دخنوا في الخارج مرتين اليوم.",
+        "context": "تكرار مرتين خلال يوم ما زال جاريًا."
+      },
+      {
+        "id": 6,
+        "en": "He has drunk two cups of coffee today.",
+        "ar": "هو قد شرب كوبين من القهوة اليوم.",
+        "context": "حصيلة الشرب في يوم ما زال جاريًا."
+      },
+      {
+        "id": 7,
+        "en": "Has he smoked today?",
+        "ar": "هل هو قد دخن اليوم؟",
+        "context": "سؤال عن حدث داخل يوم ما زال جاريًا."
+      },
+      {
+        "id": 8,
+        "en": "He has smoked in the car today.",
+        "ar": "هو قد دخن في السيارة اليوم.",
+        "context": "حدث تم داخل يوم ما زال جاريًا."
+      },
+      {
+        "id": 9,
+        "en": "He has smoked less this week.",
+        "ar": "هو قد دخن أقل هذا الأسبوع.",
+        "context": "مقارنة داخل أسبوع ما زال جاريًا."
+      },
+      {
+        "id": 10,
+        "en": "They have smoked all my cigarettes.",
+        "ar": "هم قد دخنوا كل سجائري.",
+        "context": "نتيجة باقية أثرها حتى الآن."
+      }
+    ]
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "schemaVersion": 1,
+  "id": 5152,
+  "sentence": {
+    "en": "This table is made of wood.",
+    "ar": "هذه الطاولة مصنوعة من الخشب.",
+    "context": "وصف مادة صنع طاولة محددة، والمطلوب اسم للمادة لا صفة.",
+    "sourceWord": "wood",
+    "sourcePos": "n."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "This table is made of wood.",
+        "ar": "هذه الطاولة مصنوعة من الخشب.",
+        "context": "وصف مادة صنع طاولة محددة، والمطلوب اسم للمادة لا صفة.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "تصف الجملة حقيقة أو حالة عامة، لذلك جاءت بصيغة المضارع البسيط."
+        },
+        "wordMeanings": [
+          {
+            "term": "This",
+            "description": "اسم إشارة لشيء قريب أو حاضر في الكلام"
+          },
+          {
+            "term": "table",
+            "description": "طاولة"
+          },
+          {
+            "term": "is",
+            "description": "يربط الاسم بوصفه في المضارع"
+          },
+          {
+            "term": "made",
+            "description": "مصنوع أو مكوّن في عبارة تصف المادة"
+          },
+          {
+            "term": "of",
+            "description": "تدل على الانتماء أو الجزء من الكل"
+          },
+          {
+            "term": "wood",
+            "description": "خشب"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "This table is made of wood.",
+        "ar": "هذه الطاولة مصنوعة من الخشب.",
+        "context": "وصف مادة صنع طاولة محددة، والمطلوب اسم للمادة لا صفة."
+      },
+      {
+        "id": 2,
+        "en": "The box is made of wood.",
+        "ar": "الصندوق مصنوع من الخشب.",
+        "context": "وصف مادة صنع صندوق."
+      },
+      {
+        "id": 3,
+        "en": "We carried wood to the house.",
+        "ar": "حملنا خشبًا إلى البيت.",
+        "context": "جماعة نقلت مادة صلبة إلى منزل."
+      },
+      {
+        "id": 4,
+        "en": "This village sells wood.",
+        "ar": "تبيع هذه القرية الخشب.",
+        "context": "بلدة صغيرة تبيع مادة من الأشجار."
+      },
+      {
+        "id": 5,
+        "en": "The old wood felt dry.",
+        "ar": "بدا الخشب القديم جافًا.",
+        "context": "مادة قديمة من الأشجار كانت بلا رطوبة."
+      },
+      {
+        "id": 6,
+        "en": "He cut the wood carefully.",
+        "ar": "قطع الخشب بعناية.",
+        "context": "رجل قسم مادة صلبة من الأشجار."
+      },
+      {
+        "id": 7,
+        "en": "The wood smelled fresh.",
+        "ar": "كانت رائحة الخشب منعشة.",
+        "context": "مادة من الأشجار لها رائحة جيدة."
+      },
+      {
+        "id": 8,
+        "en": "Rain damaged the wood.",
+        "ar": "أتلف المطر الخشب.",
+        "context": "ماء المطر أضر بالمادة."
+      },
+      {
+        "id": 9,
+        "en": "A piece of wood floated.",
+        "ar": "طفت قطعة خشب.",
+        "context": "جزء من المادة بقي فوق الماء."
+      },
+      {
+        "id": 10,
+        "en": "The wood came from the forest.",
+        "ar": "جاء الخشب من الغابة.",
+        "context": "المادة مصدرها مكان كثير الأشجار."
+      }
+    ]
+  }
+}
