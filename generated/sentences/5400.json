@@ -1,0 +1,113 @@
+{
+  "schemaVersion": 1,
+  "id": 5400,
+  "sentence": {
+    "en": "He commented on the final report.",
+    "ar": "هو علّق على التقرير النهائي.",
+    "context": "رجل أبدى رأيًا بشأن تقرير محدد بعد صدوره، والفعل ماضٍ بسيط.",
+    "sourceWord": "comment",
+    "sourcePos": "v."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "He commented on the final report.",
+        "ar": "هو علّق على التقرير النهائي.",
+        "context": "إخبار عن إبداء رجل رأيه بشأن تقرير.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "فعل إبداء الرأي حدث وانتهى في الماضي."
+        },
+        "wordMeanings": [
+          {
+            "term": "He",
+            "description": "ضمير لرجل"
+          },
+          {
+            "term": "commented",
+            "description": "أبدى رأيًا في الماضي"
+          },
+          {
+            "term": "on",
+            "description": "بشأن موضوع معين"
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف لشيء محدد"
+          },
+          {
+            "term": "final",
+            "description": "نهائي بعد اكتمال المراجعة"
+          },
+          {
+            "term": "report",
+            "description": "تقرير يقدم معلومات"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "He commented on the final report.",
+        "ar": "هو علّق على التقرير النهائي.",
+        "context": "رجل أبدى رأيه بشأن تقرير في الماضي."
+      },
+      {
+        "id": 2,
+        "en": "She comments on every proposal.",
+        "ar": "هي تعلّق على كل اقتراح.",
+        "context": "امرأة تبدي رأيها في كل اقتراح عادة."
+      },
+      {
+        "id": 3,
+        "en": "The coach commented on our progress.",
+        "ar": "المدرب علّق على تقدمنا.",
+        "context": "مدرب أبدى رأيه بشأن مستوى التقدم."
+      },
+      {
+        "id": 4,
+        "en": "I cannot comment on that matter.",
+        "ar": "أنا لا أستطيع التعليق على ذلك الأمر.",
+        "context": "امتناع المتكلم عن إبداء رأي بشأن أمر."
+      },
+      {
+        "id": 5,
+        "en": "They are commenting on the results now.",
+        "ar": "هم يعلّقون على النتائج الآن.",
+        "context": "إبداء الآراء بشأن نتائج جارٍ حاليًا."
+      },
+      {
+        "id": 6,
+        "en": "The minister refused to comment.",
+        "ar": "الوزير رفض أن يعلّق.",
+        "context": "وزير امتنع عن إبداء رأيه."
+      },
+      {
+        "id": 7,
+        "en": "Have you commented on the new plan?",
+        "ar": "هل علّقت على الخطة الجديدة؟",
+        "context": "سؤال عن إبداء رأي سابق له صلة بالحاضر."
+      },
+      {
+        "id": 8,
+        "en": "Please comment on the design.",
+        "ar": "من فضلك علّق على التصميم.",
+        "context": "طلب إبداء رأي بشأن تصميم."
+      },
+      {
+        "id": 9,
+        "en": "Nobody commented on his absence.",
+        "ar": "لا أحد علّق على غيابه.",
+        "context": "عدم إبداء أي شخص رأيًا بشأن غياب رجل."
+      },
+      {
+        "id": 10,
+        "en": "She will comment after the meeting.",
+        "ar": "هي ستعلّق بعد الاجتماع.",
+        "context": "إبداء امرأة رأيها سيحدث في المستقبل."
+      }
+    ]
+  }
+}

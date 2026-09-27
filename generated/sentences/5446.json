@@ -1,0 +1,109 @@
+{
+  "schemaVersion": 1,
+  "id": 5446,
+  "sentence": {
+    "en": "Please write your current address.",
+    "ar": "من فضلك اكتب عنوانك الحالي.",
+    "context": "طلب مهذب بكتابة عنوان السكن المستخدم في الوقت الحاضر لا عنوان سابق، والكلمة المطلوبة صفة قبل الاسم.",
+    "sourceWord": "current",
+    "sourcePos": "adj."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Please write your current address.",
+        "ar": "من فضلك اكتب عنوانك الحالي.",
+        "context": "طلب عنوان السكن الصحيح في الوقت الحاضر.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه صيغة أمر مهذبة، لذلك لا تحمل زمنًا مستقلًا، وجاءت الصفة قبل الاسم لتحدد العنوان المستخدم الآن."
+        },
+        "wordMeanings": [
+          {
+            "term": "Please",
+            "description": "من فضلك، كلمة تجعل الطلب مهذبًا"
+          },
+          {
+            "term": "write",
+            "description": "اكتب وسجّل بالكلمات"
+          },
+          {
+            "term": "your",
+            "description": "صفة ملكية لشيء يخص المخاطب"
+          },
+          {
+            "term": "current",
+            "description": "حالي ومستخدم في الوقت الحاضر"
+          },
+          {
+            "term": "address",
+            "description": "عنوان يحدد مكان السكن"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Please write your current address.",
+        "ar": "من فضلك اكتب عنوانك الحالي.",
+        "context": "طلب كتابة عنوان السكن المستخدم الآن لا عنوان قديم."
+      },
+      {
+        "id": 2,
+        "en": "The current manager started in May.",
+        "ar": "المدير الحالي بدأ في مايو.",
+        "context": "الشخص الذي يشغل منصب الإدارة الآن بدأ عمله في شهر محدد."
+      },
+      {
+        "id": 3,
+        "en": "Our current plan is too expensive.",
+        "ar": "خطتنا الحالية مكلفة جدًا.",
+        "context": "الخطة المعمول بها في الوقت الحاضر تتطلب مالًا كثيرًا."
+      },
+      {
+        "id": 4,
+        "en": "She is happy with her current job.",
+        "ar": "هي سعيدة بعملها الحالي.",
+        "context": "امرأة راضية عن الوظيفة التي تشغلها الآن."
+      },
+      {
+        "id": 5,
+        "en": "The current price includes tax.",
+        "ar": "السعر الحالي يشمل الضريبة.",
+        "context": "السعر المعمول به الآن يتضمن قيمة الضريبة."
+      },
+      {
+        "id": 6,
+        "en": "We discussed the current situation.",
+        "ar": "نحن ناقشنا الوضع الحالي.",
+        "context": "مجموعة تحدثت عن الظروف القائمة في الوقت الحاضر."
+      },
+      {
+        "id": 7,
+        "en": "Is this information still current?",
+        "ar": "هل هذه المعلومات ما زالت حالية؟",
+        "context": "سؤال عما إذا كانت معلومات محددة ما تزال صحيحة ومواكبة للحاضر."
+      },
+      {
+        "id": 8,
+        "en": "He supports the current policy.",
+        "ar": "هو يؤيد السياسة الحالية.",
+        "context": "رجل يوافق على السياسة المطبقة الآن."
+      },
+      {
+        "id": 9,
+        "en": "The current system needs improvement.",
+        "ar": "النظام الحالي يحتاج إلى تحسين.",
+        "context": "النظام المستخدم في الوقت الحاضر ليس جيدًا بما يكفي."
+      },
+      {
+        "id": 10,
+        "en": "Her current contract ends next month.",
+        "ar": "عقدها الحالي ينتهي الشهر المقبل.",
+        "context": "العقد الساري لامرأة الآن تنتهي مدته في الشهر التالي."
+      }
+    ]
+  }
+}

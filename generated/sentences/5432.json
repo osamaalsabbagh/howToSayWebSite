@@ -1,0 +1,117 @@
+{
+  "schemaVersion": 1,
+  "id": 5432,
+  "sentence": {
+    "en": "The farmer grows corn in this field.",
+    "ar": "المزارع يزرع الذرة في هذا الحقل.",
+    "context": "وصف المحصول الذي يزرعه مزارع بانتظام في حقل محدد، والمقصود نبات الحبوب ذو العرانيس.",
+    "sourceWord": "corn",
+    "sourcePos": "n."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "The farmer grows corn in this field.",
+        "ar": "المزارع يزرع الذرة في هذا الحقل.",
+        "context": "بيان نوع المحصول المزروع في أرض محددة.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "تصف الجملة نشاطًا زراعيًا معتادًا، لذلك استُخدم المضارع البسيط."
+        },
+        "wordMeanings": [
+          {
+            "term": "The",
+            "description": "أداة تعريف لشخص محدد"
+          },
+          {
+            "term": "farmer",
+            "description": "مزارع يعمل في زراعة الأرض"
+          },
+          {
+            "term": "grows",
+            "description": "يزرع ويرعى النبات حتى ينمو"
+          },
+          {
+            "term": "corn",
+            "description": "الذرة، نبات حبوب ينمو في عرانيس"
+          },
+          {
+            "term": "in",
+            "description": "في داخل مساحة مكان"
+          },
+          {
+            "term": "this",
+            "description": "اسم إشارة لمكان قريب محدد"
+          },
+          {
+            "term": "field",
+            "description": "حقل أو أرض مخصصة للزراعة"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "The farmer grows corn in this field.",
+        "ar": "المزارع يزرع الذرة في هذا الحقل.",
+        "context": "محصول الذرة يُزرع بانتظام في أرض محددة."
+      },
+      {
+        "id": 2,
+        "en": "We bought fresh corn at the market.",
+        "ar": "نحن اشترينا ذرة طازجة من السوق.",
+        "context": "شراء عرانيس حديثة الحصاد لتناولها."
+      },
+      {
+        "id": 3,
+        "en": "The corn is ready to harvest.",
+        "ar": "الذرة جاهزة للحصاد.",
+        "context": "محصول بلغ مرحلة يمكن جمعه فيها."
+      },
+      {
+        "id": 4,
+        "en": "She added corn to the salad.",
+        "ar": "هي أضافت الذرة إلى السلطة.",
+        "context": "إضافة حبوب الذرة إلى طبق سلطة."
+      },
+      {
+        "id": 5,
+        "en": "Corn grows well in warm weather.",
+        "ar": "الذرة تنمو جيدًا في الطقس الدافئ.",
+        "context": "بيان ظروف مناخية مناسبة لنمو هذا المحصول."
+      },
+      {
+        "id": 6,
+        "en": "They roasted the corn over the fire.",
+        "ar": "هم شووا الذرة فوق النار.",
+        "context": "طهي عرانيس الذرة مباشرة بحرارة النار."
+      },
+      {
+        "id": 7,
+        "en": "This soup contains corn and beans.",
+        "ar": "هذا الحساء يحتوي على الذرة والفاصولياء.",
+        "context": "ذكر مكوّنين نباتيين داخل حساء."
+      },
+      {
+        "id": 8,
+        "en": "The drought damaged the corn crop.",
+        "ar": "الجفاف أضر بمحصول الذرة.",
+        "context": "نقص المطر تسبب في ضرر للنبات المزروع."
+      },
+      {
+        "id": 9,
+        "en": "He boiled two ears of corn.",
+        "ar": "هو سلق عرنوسين من الذرة.",
+        "context": "طهي عرنوسين كاملين في ماء ساخن."
+      },
+      {
+        "id": 10,
+        "en": "Corn is an important food crop.",
+        "ar": "الذرة محصول غذائي مهم.",
+        "context": "وصف أهمية هذا النبات بوصفه مصدرًا للغذاء."
+      }
+    ]
+  }
+}

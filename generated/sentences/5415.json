@@ -1,0 +1,113 @@
+{
+  "schemaVersion": 1,
+  "id": 5415,
+  "sentence": {
+    "en": "Do not confuse the two addresses.",
+    "ar": "لا تخلط بين العنوانين.",
+    "context": "نهي المخاطب عن اعتبار عنوانين مختلفين شيئًا واحدًا أو اختيار أحدهما بدل الآخر، باستعمال فعل أمر منفي.",
+    "sourceWord": "confuse",
+    "sourcePos": "v."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Do not confuse the two addresses.",
+        "ar": "لا تخلط بين العنوانين.",
+        "context": "نهي عن الخلط بين عنوانين مختلفين.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "الجملة أمر منفي، لذلك لا تحمل زمنًا مستقلًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "Do",
+            "description": "فعل مساعد لتكوين الأمر المنفي"
+          },
+          {
+            "term": "not",
+            "description": "أداة نفي للأمر"
+          },
+          {
+            "term": "confuse",
+            "description": "تخلط بين شيئين ولا تميزهما"
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف لشيئين محددين"
+          },
+          {
+            "term": "two",
+            "description": "اثنان من الأشياء"
+          },
+          {
+            "term": "addresses",
+            "description": "العنوانان الدالان على موقعين"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Do not confuse the two addresses.",
+        "ar": "لا تخلط بين العنوانين.",
+        "context": "نهي عن عدم التمييز بين موقعين مكتوبين."
+      },
+      {
+        "id": 2,
+        "en": "People often confuse the twins.",
+        "ar": "الناس غالبًا ما يخلطون بين التوأمين.",
+        "context": "عدم تمييز متكرر بين شخصين متشابهين."
+      },
+      {
+        "id": 3,
+        "en": "I confused the two dates and missed the meeting.",
+        "ar": "أنا خلطت بين التاريخين وفاتني الاجتماع.",
+        "context": "عدم تمييز سابق بين موعدَين أدى إلى غياب المتحدث."
+      },
+      {
+        "id": 4,
+        "en": "The similar names confuse me.",
+        "ar": "الأسماء المتشابهة تربكني.",
+        "context": "أسماء متقاربة تجعل المتحدث غير قادر على التمييز بوضوح."
+      },
+      {
+        "id": 5,
+        "en": "Do not confuse price with value.",
+        "ar": "لا تخلط بين السعر والقيمة.",
+        "context": "نهي عن معاملة مفهومين مختلفين كأنهما واحد."
+      },
+      {
+        "id": 6,
+        "en": "His sudden question confused everyone.",
+        "ar": "سؤاله المفاجئ أربك الجميع.",
+        "context": "سؤال غير متوقع جعل الناس لا يفهمون الموقف بوضوح."
+      },
+      {
+        "id": 7,
+        "en": "You have confused my bag with yours.",
+        "ar": "أنت قد خلطت بين حقيبتي وحقيبتك.",
+        "context": "عدم تمييز وقع حتى الآن بين حقيبتين."
+      },
+      {
+        "id": 8,
+        "en": "Too many details can confuse readers.",
+        "ar": "التفاصيل الكثيرة جدًا قد تربك القراء.",
+        "context": "احتمال أن تعوق كثرة المعلومات فهم القراء."
+      },
+      {
+        "id": 9,
+        "en": "She always confuses east and west.",
+        "ar": "هي تخلط دائمًا بين الشرق والغرب.",
+        "context": "عدم تمييز معتاد بين اتجاهين متعاكسين."
+      },
+      {
+        "id": 10,
+        "en": "The unclear map confused the tourists.",
+        "ar": "الخريطة غير الواضحة أربكت السياح.",
+        "context": "خريطة صعبة الفهم جعلت سياحًا لا يعرفون الطريق الصحيح."
+      }
+    ]
+  }
+}
