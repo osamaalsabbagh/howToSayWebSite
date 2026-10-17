@@ -1,0 +1,111 @@
+{
+  "schemaVersion": 1,
+  "id": 3166,
+  "sentence": {
+    "en": "Can you help me with this?",
+    "ar": "هل يمكنك مساعدتي في هذا؟",
+    "context": "طلب مساعدة بشكل مباشر."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Can you help me with this?",
+        "ar": "هل يمكنك مساعدتي في هذا؟",
+        "context": "تستخدم الجملة لطلب مساعدة مباشرة في أمر قريب أو معروف في الحديث.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه صيغة طلب باستخدام الفعل المساعد can، لذلك وظيفتها طلب القدرة أو الاستعداد للمساعدة وليست زمنا خبريا مستقلا."
+        },
+        "wordMeanings": [
+          {
+            "term": "Can",
+            "description": "هل يمكنك؛ تستخدم للسؤال عن القدرة أو لطلب شيء بأدب."
+          },
+          {
+            "term": "you",
+            "description": "أنت؛ الشخص المطلوب منه المساعدة."
+          },
+          {
+            "term": "help",
+            "description": "تساعد؛ تقدم عونا أو دعما."
+          },
+          {
+            "term": "me",
+            "description": "ني أو لي؛ ضمير مفعول به يشير إلى المتكلم."
+          },
+          {
+            "term": "with",
+            "description": "في أو بخصوص؛ تربط المساعدة بالأمر المطلوب."
+          },
+          {
+            "term": "this",
+            "description": "هذا؛ شيء قريب أو معروف في السياق."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Can you help me with this?",
+        "ar": "هل يمكنك مساعدتي في هذا؟",
+        "context": "تطلب مساعدة مباشرة."
+      },
+      {
+        "id": 2,
+        "en": "Can you help me with this task?",
+        "ar": "هل يمكنك مساعدتي في هذه المهمة؟",
+        "context": "تحدد الشيء الذي تحتاج فيه إلى مساعدة."
+      },
+      {
+        "id": 3,
+        "en": "Can she help me with this?",
+        "ar": "هل يمكنها مساعدتي في هذا؟",
+        "context": "تسأل عن قدرة شخص آخر على المساعدة."
+      },
+      {
+        "id": 4,
+        "en": "Can I help you with this?",
+        "ar": "هل يمكنني مساعدتك في هذا؟",
+        "context": "تعرض أنت المساعدة."
+      },
+      {
+        "id": 5,
+        "en": "I cannot help you with this.",
+        "ar": "لا أستطيع مساعدتك في هذا.",
+        "context": "تنفي القدرة على المساعدة."
+      },
+      {
+        "id": 6,
+        "en": "Could you help me with this?",
+        "ar": "هل يمكنك مساعدتي في هذا؟",
+        "context": "تستخدم صيغة أكثر تهذيبا."
+      },
+      {
+        "id": 7,
+        "en": "You helped me with this yesterday.",
+        "ar": "ساعدتني في هذا أمس.",
+        "context": "تتحدث عن مساعدة حدثت في الماضي."
+      },
+      {
+        "id": 8,
+        "en": "You can help me with this tomorrow.",
+        "ar": "يمكنك مساعدتي في هذا غدا.",
+        "context": "تتحدث عن مساعدة ممكنة في المستقبل."
+      },
+      {
+        "id": 9,
+        "en": "Please help me with this.",
+        "ar": "من فضلك ساعدني في هذا.",
+        "context": "تطلب المساعدة بصيغة أمر مهذب."
+      },
+      {
+        "id": 10,
+        "en": "I need someone to help me with this.",
+        "ar": "أحتاج إلى شخص يساعدني في هذا.",
+        "context": "تشرح حاجتك إلى مساعدة."
+      }
+    ]
+  }
+}

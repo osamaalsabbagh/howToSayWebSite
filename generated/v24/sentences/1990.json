@@ -1,0 +1,111 @@
+{
+  "schemaVersion": 1,
+  "id": 1990,
+  "sentence": {
+    "en": "What do you mean by that?",
+    "ar": "ماذا تعني بذلك؟",
+    "context": "طلب توضيح الفكرة أو القصد من كلام شخص آخر."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "What do you mean by that?",
+        "ar": "ماذا تعني بذلك؟",
+        "context": "تُستخدم الجملة لطلب توضيح قصد المتكلم الآخر.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُخدم المضارع البسيط في سؤال مع do لأن المتكلم يسأل عن معنى أو قصد حالي من الكلام."
+        },
+        "wordMeanings": [
+          {
+            "term": "What",
+            "description": "ماذا، للسؤال عن الشيء أو المعنى"
+          },
+          {
+            "term": "do",
+            "description": "كلمة مساعدة لتكوين السؤال في الحاضر"
+          },
+          {
+            "term": "you",
+            "description": "أنت أو أنتم حسب المخاطب"
+          },
+          {
+            "term": "mean",
+            "description": "تعني أو تقصد"
+          },
+          {
+            "term": "by",
+            "description": "بـ أو من خلال"
+          },
+          {
+            "term": "that",
+            "description": "ذلك، للإشارة إلى كلام أو فكرة سابقة"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "What do you mean by this word?",
+        "ar": "ماذا تعني بهذه الكلمة؟",
+        "context": "تقال عند طلب شرح كلمة."
+      },
+      {
+        "id": 2,
+        "en": "What does he mean by that?",
+        "ar": "ماذا يقصد بذلك؟",
+        "context": "تقال عند السؤال عن قصد شخص آخر."
+      },
+      {
+        "id": 3,
+        "en": "Can you explain that?",
+        "ar": "هل يمكنك شرح ذلك؟",
+        "context": "تقال عند طلب توضيح."
+      },
+      {
+        "id": 4,
+        "en": "I do not understand your point.",
+        "ar": "أنا لا أفهم فكرتك.",
+        "context": "تقال عند عدم وضوح المقصود."
+      },
+      {
+        "id": 5,
+        "en": "What does this sentence mean?",
+        "ar": "ماذا تعني هذه الجملة؟",
+        "context": "تقال عند السؤال عن معنى جملة."
+      },
+      {
+        "id": 6,
+        "en": "Do you mean today or tomorrow?",
+        "ar": "هل تقصد اليوم أم غدًا؟",
+        "context": "تقال عند طلب تحديد المقصود."
+      },
+      {
+        "id": 7,
+        "en": "That means we are late.",
+        "ar": "ذلك يعني أننا متأخرون.",
+        "context": "تقال عند تفسير نتيجة."
+      },
+      {
+        "id": 8,
+        "en": "What do you mean by problem?",
+        "ar": "ماذا تعني بكلمة مشكلة؟",
+        "context": "تقال عند طلب تعريف كلمة."
+      },
+      {
+        "id": 9,
+        "en": "Please tell me what you mean.",
+        "ar": "رجاءً أخبرني ماذا تقصد.",
+        "context": "تقال عند طلب توضيح مباشر."
+      },
+      {
+        "id": 10,
+        "en": "I know what you mean.",
+        "ar": "أنا أعرف ما تقصد.",
+        "context": "تقال عند فهم قصد شخص."
+      }
+    ]
+  }
+}

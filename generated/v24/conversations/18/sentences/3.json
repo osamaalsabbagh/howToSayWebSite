@@ -1,0 +1,127 @@
+{
+  "schemaVersion": 1,
+  "id": 3,
+  "sentence": {
+    "en": "Yes, my favorite band will play there.",
+    "ar": "نعم، فرقتي المفضلة سوف تعزف هناك.",
+    "context": "تؤكد أنها ستحضر وتوضح أن فرقتها المفضلة ستعزف ضمن الحفل."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Yes",
+        "ar": "نعم",
+        "context": "كلمة جواب تؤكد السؤال السابق بإيجاز.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه كلمة جواب وموافقة ولا تحمل زمنا فعليا."
+        },
+        "wordMeanings": [
+          {
+            "term": "Yes",
+            "description": "تعني نعم وتؤكد الكلام السابق"
+          }
+        ]
+      },
+      {
+        "sentence": "my favorite band will play there.",
+        "ar": "فرقتي المفضلة سوف تعزف هناك.",
+        "context": "تشرح سبب الحضور المتوقع للحفل.",
+        "grammar": {
+          "tense": "المستقبل البسيط",
+          "tenseEn": "Future Simple",
+          "reason": "استخدم will قبل الفعل play للتحدث عن حدث متوقع في المستقبل."
+        },
+        "wordMeanings": [
+          {
+            "term": "my",
+            "description": "تعني خاصتي وتدل على أن الفرقة تخص المتحدثة من حيث التفضيل"
+          },
+          {
+            "term": "favorite",
+            "description": "تعني المفضل أو الأكثر حبا"
+          },
+          {
+            "term": "band",
+            "description": "تعني فرقة موسيقية"
+          },
+          {
+            "term": "will",
+            "description": "تدل على المستقبل وتأتي قبل الفعل"
+          },
+          {
+            "term": "play",
+            "description": "تعني يعزف أو يقدم موسيقى في هذا السياق"
+          },
+          {
+            "term": "there",
+            "description": "تعني هناك وتشير إلى مكان الحفل"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Yes, my friend will come there.",
+        "ar": "نعم، صديقي سوف يأتي هناك.",
+        "context": "تؤكد الحضور وتذكر شخصا آخر."
+      },
+      {
+        "id": 2,
+        "en": "Yes, the team will play tonight.",
+        "ar": "نعم، الفريق سوف يلعب الليلة.",
+        "context": "تتحدث عن حدث رياضي قريب."
+      },
+      {
+        "id": 3,
+        "en": "Yes, my teacher will speak there.",
+        "ar": "نعم، معلمي سوف يتحدث هناك.",
+        "context": "تذكر من سيشارك في فعالية."
+      },
+      {
+        "id": 4,
+        "en": "Yes, the singer will perform there.",
+        "ar": "نعم، المغني سوف يقدم عرضا هناك.",
+        "context": "تصف عرضا في مكان معين."
+      },
+      {
+        "id": 5,
+        "en": "Yes, my brother will join us.",
+        "ar": "نعم، أخي سوف ينضم إلينا.",
+        "context": "تؤكد مشاركة شخص."
+      },
+      {
+        "id": 6,
+        "en": "Yes, the shop will open tonight.",
+        "ar": "نعم، المتجر سوف يفتح الليلة.",
+        "context": "تتحدث عن موعد فتح قريب."
+      },
+      {
+        "id": 7,
+        "en": "Yes, the bus will stop there.",
+        "ar": "نعم، الحافلة سوف تتوقف هناك.",
+        "context": "توضح مسار الحافلة."
+      },
+      {
+        "id": 8,
+        "en": "Yes, our class will start there.",
+        "ar": "نعم، حصتنا سوف تبدأ هناك.",
+        "context": "تذكر مكان بداية نشاط."
+      },
+      {
+        "id": 9,
+        "en": "Yes, the movie will start soon.",
+        "ar": "نعم، الفيلم سوف يبدأ قريبا.",
+        "context": "تخبر عن حدث سيحدث بعد قليل."
+      },
+      {
+        "id": 10,
+        "en": "Yes, my favorite group will sing.",
+        "ar": "نعم، مجموعتي المفضلة سوف تغني.",
+        "context": "تتحدث عن سبب الاهتمام بالحفل."
+      }
+    ]
+  }
+}

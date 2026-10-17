@@ -1,0 +1,147 @@
+{
+  "schemaVersion": 1,
+  "id": 5,
+  "sentence": {
+    "en": "Leila, please calm down. I am in Washington now for important meetings.",
+    "ar": "ليلى، أرجوكِ اهدئي، أنا الآن في واشنطن لحضور اجتماعات مهمة.",
+    "context": "يوضح أنه بعيد في واشنطن بسبب العمل."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Leila please calm down",
+        "ar": "ليلى، أرجوك اهدئي.",
+        "context": "نداء وطلب تهدئة لشخص متوتر.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "please calm down طلب مباشر مهذب وليس خبرًا بزمن."
+        },
+        "wordMeanings": [
+          {
+            "term": "Leila",
+            "description": "اسم الشخص المخاطب"
+          },
+          {
+            "term": "please",
+            "description": "من فضلك أو أرجوك"
+          },
+          {
+            "term": "calm",
+            "description": "اهدأ أو تهدأ"
+          },
+          {
+            "term": "down",
+            "description": "تكمل معنى اهدأ في هذا التعبير"
+          }
+        ]
+      },
+      {
+        "sentence": "I am in Washington now for important meetings",
+        "ar": "أنا في واشنطن الآن من أجل اجتماعات مهمة.",
+        "context": "يشرح مكانه الحالي وسبب وجوده هناك.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "am يصف الحالة أو الموقع الحالي، و for يوضح السبب."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "أنا"
+          },
+          {
+            "term": "am",
+            "description": "صيغة تأتي مع أنا لوصف مكان أو حالة"
+          },
+          {
+            "term": "in",
+            "description": "في"
+          },
+          {
+            "term": "Washington",
+            "description": "واشنطن، اسم مكان"
+          },
+          {
+            "term": "now",
+            "description": "الآن"
+          },
+          {
+            "term": "for",
+            "description": "من أجل أو بسبب"
+          },
+          {
+            "term": "important",
+            "description": "مهم"
+          },
+          {
+            "term": "meetings",
+            "description": "اجتماعات"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Please calm down and listen",
+        "ar": "من فضلك اهدأ واستمع",
+        "context": "يقال عند محاولة تهدئة شخص"
+      },
+      {
+        "id": 2,
+        "en": "I am in the office now",
+        "ar": "أنا في المكتب الآن",
+        "context": "يقال لتوضيح المكان الحالي"
+      },
+      {
+        "id": 3,
+        "en": "Please calm down, everything is fine",
+        "ar": "من فضلك اهدأ، كل شيء بخير",
+        "context": "يقال لطمأنة شخص قلق"
+      },
+      {
+        "id": 4,
+        "en": "She is in London for meetings",
+        "ar": "هي في لندن من أجل اجتماعات",
+        "context": "يقال لتوضيح سبب السفر"
+      },
+      {
+        "id": 5,
+        "en": "I am here for an important call",
+        "ar": "أنا هنا من أجل مكالمة مهمة",
+        "context": "يقال لتفسير سبب الوجود في مكان"
+      },
+      {
+        "id": 6,
+        "en": "Please wait for me",
+        "ar": "من فضلك انتظرني",
+        "context": "يقال عند طلب الانتظار"
+      },
+      {
+        "id": 7,
+        "en": "He is in Washington now",
+        "ar": "هو في واشنطن الآن",
+        "context": "يقال للإخبار بمكان شخص"
+      },
+      {
+        "id": 8,
+        "en": "I am busy with important work",
+        "ar": "أنا مشغول بعمل مهم",
+        "context": "يقال لتفسير الانشغال"
+      },
+      {
+        "id": 9,
+        "en": "Please calm down before you drive",
+        "ar": "من فضلك اهدأ قبل أن تقود",
+        "context": "يقال عند القلق على سلامة شخص"
+      },
+      {
+        "id": 10,
+        "en": "We are in town for a meeting",
+        "ar": "نحن في المدينة من أجل اجتماع",
+        "context": "يقال عند زيارة مكان بسبب العمل"
+      }
+    ]
+  }
+}

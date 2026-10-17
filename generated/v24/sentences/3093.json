@@ -1,0 +1,119 @@
+{
+  "schemaVersion": 1,
+  "id": 3093,
+  "sentence": {
+    "en": "I remember when we met.",
+    "ar": "أنا أتذكر عندما التقينا.",
+    "context": "الإشارة إلى وقت حدث سابق."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "I remember",
+        "ar": "أنا أتذكر",
+        "context": "الجزء الأول يصف حالة ذهنية حالية: المتكلم ما زال يتذكر.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُخدم المضارع البسيط لأن remember يصف معرفة أو تذكرا موجودا الآن."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "أنا؛ المتكلم."
+          },
+          {
+            "term": "remember",
+            "description": "أتذكر؛ أستحضر شيئا من الذاكرة."
+          }
+        ]
+      },
+      {
+        "sentence": "when we met.",
+        "ar": "عندما التقينا.",
+        "context": "الجزء الثاني يشير إلى وقت لقاء حدث في الماضي.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "استُخدم الماضي البسيط لأن met يشير إلى لقاء مكتمل في الماضي."
+        },
+        "wordMeanings": [
+          {
+            "term": "when",
+            "description": "عندما؛ تربط التذكر بوقت حدوث اللقاء."
+          },
+          {
+            "term": "we",
+            "description": "نحن؛ المتكلم وشخص آخر أو مجموعة معه."
+          },
+          {
+            "term": "met",
+            "description": "التقينا؛ الماضي من meet، أي قابلنا بعضنا أول مرة أو في مناسبة معينة."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I remember when we met.",
+        "ar": "أنا أتذكر عندما التقينا.",
+        "context": "تتحدث عن ذكرى لقاء سابق."
+      },
+      {
+        "id": 2,
+        "en": "I remember when we first met.",
+        "ar": "أتذكر عندما التقينا أول مرة.",
+        "context": "تحدد أن المقصود هو أول لقاء."
+      },
+      {
+        "id": 3,
+        "en": "Do you remember when we met?",
+        "ar": "هل تتذكر عندما التقينا؟",
+        "context": "تسأل شخصا إن كان يتذكر اللقاء."
+      },
+      {
+        "id": 4,
+        "en": "She remembers when they met.",
+        "ar": "هي تتذكر عندما التقوا.",
+        "context": "تصف تذكر شخص آخر للقاء."
+      },
+      {
+        "id": 5,
+        "en": "I do not remember when we met.",
+        "ar": "لا أتذكر متى التقينا.",
+        "context": "تنفي تذكر وقت اللقاء."
+      },
+      {
+        "id": 6,
+        "en": "I remembered when we met after I saw the photo.",
+        "ar": "تذكرت عندما التقينا بعد أن رأيت الصورة.",
+        "context": "تنقل فعل التذكر إلى الماضي."
+      },
+      {
+        "id": 7,
+        "en": "I remember where we met.",
+        "ar": "أتذكر أين التقينا.",
+        "context": "تنتقل من وقت اللقاء إلى مكانه."
+      },
+      {
+        "id": 8,
+        "en": "I remember how we met.",
+        "ar": "أتذكر كيف التقينا.",
+        "context": "تتحدث عن طريقة حدوث اللقاء."
+      },
+      {
+        "id": 9,
+        "en": "We met at the train station.",
+        "ar": "التقينا في محطة القطار.",
+        "context": "تذكر مكان اللقاء مباشرة."
+      },
+      {
+        "id": 10,
+        "en": "I will always remember when we met.",
+        "ar": "سأتذكر دائما عندما التقينا.",
+        "context": "تؤكد أن الذكرى ستبقى في المستقبل."
+      }
+    ]
+  }
+}

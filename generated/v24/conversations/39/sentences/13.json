@@ -1,0 +1,159 @@
+{
+  "schemaVersion": 1,
+  "id": 13,
+  "sentence": {
+    "en": "I will give you a bag of cat food. Feed it three times a day.",
+    "ar": "سأعطيك كيسًا من طعام القطط، أطعمها ثلاث مرات في اليوم.",
+    "context": "يشرح له كيفية إطعام القطة بانتظام."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "I will give you a bag of cat food",
+        "ar": "سأعطيك كيسًا من طعام القطط.",
+        "context": "يخبره بما سيقدمه مع القطة.",
+        "grammar": {
+          "tense": "المستقبل البسيط",
+          "tenseEn": "Future Simple",
+          "reason": "will give يصف فعلًا سيقوم به البائع بعد قليل."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "أنا"
+          },
+          {
+            "term": "will",
+            "description": "سوف أو سأ"
+          },
+          {
+            "term": "give",
+            "description": "أعطي"
+          },
+          {
+            "term": "you",
+            "description": "لك أو أنت كمفعول"
+          },
+          {
+            "term": "a",
+            "description": "أداة قبل اسم مفرد"
+          },
+          {
+            "term": "bag",
+            "description": "كيس"
+          },
+          {
+            "term": "of",
+            "description": "من"
+          },
+          {
+            "term": "cat",
+            "description": "قطط أو قطة كصفة للطعام"
+          },
+          {
+            "term": "food",
+            "description": "طعام"
+          }
+        ]
+      },
+      {
+        "sentence": "Feed it three times a day",
+        "ar": "أطعمها ثلاث مرات في اليوم.",
+        "context": "تعليمة مباشرة عن عدد مرات الإطعام.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "Feed صيغة أمر لتقديم نصيحة أو تعليمات."
+        },
+        "wordMeanings": [
+          {
+            "term": "Feed",
+            "description": "أطعم"
+          },
+          {
+            "term": "it",
+            "description": "ها أو هو للقطة"
+          },
+          {
+            "term": "three",
+            "description": "ثلاث"
+          },
+          {
+            "term": "times",
+            "description": "مرات"
+          },
+          {
+            "term": "a",
+            "description": "في كل أو لكل"
+          },
+          {
+            "term": "day",
+            "description": "يوم"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I will give you a small bag",
+        "ar": "سأعطيك كيسًا صغيرًا",
+        "context": "يقال عند تقديم شيء للزبون"
+      },
+      {
+        "id": 2,
+        "en": "Feed it twice a day",
+        "ar": "أطعمه مرتين في اليوم",
+        "context": "يقال كتعليمة رعاية"
+      },
+      {
+        "id": 3,
+        "en": "Give the cat fresh food",
+        "ar": "أعط القطة طعامًا طازجًا",
+        "context": "يقال عند رعاية قطة"
+      },
+      {
+        "id": 4,
+        "en": "I will give you cat food",
+        "ar": "سأعطيك طعام قطط",
+        "context": "يقال في متجر حيوانات"
+      },
+      {
+        "id": 5,
+        "en": "Feed the dog every morning",
+        "ar": "أطعم الكلب كل صباح",
+        "context": "يقال كتعليمات يومية"
+      },
+      {
+        "id": 6,
+        "en": "The bag of food is here",
+        "ar": "كيس الطعام هنا",
+        "context": "يقال عند تسليم الطعام"
+      },
+      {
+        "id": 7,
+        "en": "Feed it at night",
+        "ar": "أطعمه في الليل",
+        "context": "يقال عند تحديد وقت الإطعام"
+      },
+      {
+        "id": 8,
+        "en": "I will give you a receipt",
+        "ar": "سأعطيك إيصالًا",
+        "context": "يقال بعد الشراء"
+      },
+      {
+        "id": 9,
+        "en": "Three times a day is enough",
+        "ar": "ثلاث مرات في اليوم تكفي",
+        "context": "يقال عن روتين متكرر"
+      },
+      {
+        "id": 10,
+        "en": "Cat food is on the shelf",
+        "ar": "طعام القطط على الرف",
+        "context": "يقال لتحديد مكان منتج"
+      }
+    ]
+  }
+}

@@ -1,0 +1,147 @@
+{
+  "schemaVersion": 1,
+  "id": 1511,
+  "sentence": {
+    "en": "What would you like to drink? We have tea, coffee, and juice.",
+    "ar": "ماذا تود أن تشرب؟ لدينا شاي وقهوة وعصير.",
+    "context": "اعرض على شخص اختيار مشروب وحدد بعض الخيارات المتاحة لتسهيل الاختيار."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "What would you like to drink?",
+        "ar": "ماذا تود أن تشرب؟",
+        "context": "هذا الجزء سؤال مهذب عن المشروب الذي يريده الشخص.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "Would you like تركيب مهذب للسؤال عن الرغبة أو العرض، وليس زمنًا مستقلًا هنا."
+        },
+        "wordMeanings": [
+          {
+            "term": "What",
+            "description": "ماذا، وتستخدم للسؤال عن اختيار."
+          },
+          {
+            "term": "would",
+            "description": "تستخدم هنا لجعل السؤال مهذبًا."
+          },
+          {
+            "term": "you",
+            "description": "ضمير للمخاطب."
+          },
+          {
+            "term": "like",
+            "description": "تود أو ترغب."
+          },
+          {
+            "term": "to",
+            "description": "تأتي قبل الفعل لتوضيح الشيء المرغوب فعله."
+          },
+          {
+            "term": "drink",
+            "description": "تشرب."
+          }
+        ]
+      },
+      {
+        "sentence": "We have tea, coffee, and juice.",
+        "ar": "لدينا شاي وقهوة وعصير.",
+        "context": "هذا الجزء يذكر الخيارات المتاحة للشخص.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُخدم المضارع البسيط لأن have يصف ما هو متوفر الآن."
+        },
+        "wordMeanings": [
+          {
+            "term": "We",
+            "description": "ضمير يعني نحن."
+          },
+          {
+            "term": "have",
+            "description": "لدينا أو نملك."
+          },
+          {
+            "term": "tea",
+            "description": "شاي."
+          },
+          {
+            "term": "coffee",
+            "description": "قهوة."
+          },
+          {
+            "term": "and",
+            "description": "و، وتربط آخر خيار بما قبله."
+          },
+          {
+            "term": "juice",
+            "description": "عصير."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "What would you like to eat? We have soup and salad.",
+        "ar": "ماذا تود أن تأكل؟ لدينا حساء وسلطة.",
+        "context": "يقال عند عرض خيارات طعام."
+      },
+      {
+        "id": 2,
+        "en": "Would you like tea or coffee?",
+        "ar": "هل تود شايًا أم قهوة؟",
+        "context": "يقال عند عرض خيارين."
+      },
+      {
+        "id": 3,
+        "en": "We have water and orange juice.",
+        "ar": "لدينا ماء وعصير برتقال.",
+        "context": "يقال عند ذكر المشروبات المتاحة."
+      },
+      {
+        "id": 4,
+        "en": "What do you want to drink?",
+        "ar": "ماذا تريد أن تشرب؟",
+        "context": "يقال بطريقة مباشرة أقل رسمية."
+      },
+      {
+        "id": 5,
+        "en": "I would like a cup of tea.",
+        "ar": "أود كوبًا من الشاي.",
+        "context": "يقال عند اختيار مشروب."
+      },
+      {
+        "id": 6,
+        "en": "She would like coffee, please.",
+        "ar": "هي تود قهوة من فضلك.",
+        "context": "يقال عند نقل طلب شخص."
+      },
+      {
+        "id": 7,
+        "en": "We have cold drinks today.",
+        "ar": "لدينا مشروبات باردة اليوم.",
+        "context": "يقال عند عرض نوع من المشروبات."
+      },
+      {
+        "id": 8,
+        "en": "Would you like some juice?",
+        "ar": "هل تود بعض العصير؟",
+        "context": "يقال عند عرض عصير."
+      },
+      {
+        "id": 9,
+        "en": "Please choose a drink.",
+        "ar": "رجاءً اختر مشروبًا.",
+        "context": "يقال عند طلب الاختيار."
+      },
+      {
+        "id": 10,
+        "en": "We have tea, but we do not have coffee.",
+        "ar": "لدينا شاي، لكن لا توجد لدينا قهوة.",
+        "context": "يقال عند توضيح المتاح وغير المتاح."
+      }
+    ]
+  }
+}

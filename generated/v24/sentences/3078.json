@@ -1,0 +1,115 @@
+{
+  "schemaVersion": 1,
+  "id": 3078,
+  "sentence": {
+    "en": "This week is very busy for me.",
+    "ar": "هذا الأسبوع مزدحم جدًا بالنسبة لي.",
+    "context": "وصف فترة زمنية قريبة."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "This week is very busy for me.",
+        "ar": "هذا الأسبوع مزدحم جدا بالنسبة لي.",
+        "context": "تصف الجملة أن جدول المتكلم في هذا الأسبوع مليء بالمهام أو المواعيد.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُخدم المضارع البسيط لأن is يصف حالة الأسبوع الحالي بالنسبة للمتكلم."
+        },
+        "wordMeanings": [
+          {
+            "term": "This",
+            "description": "هذا؛ يشير إلى الأسبوع الحالي أو القريب."
+          },
+          {
+            "term": "week",
+            "description": "أسبوع؛ مدة سبعة أيام."
+          },
+          {
+            "term": "is",
+            "description": "فعل يكون في المضارع، ويربط week بالصفة busy."
+          },
+          {
+            "term": "very",
+            "description": "جدا؛ تزيد قوة الصفة بعدها."
+          },
+          {
+            "term": "busy",
+            "description": "مزدحم أو مشغول؛ مليء بالمهام والمواعيد."
+          },
+          {
+            "term": "for",
+            "description": "بالنسبة إلى؛ توضح الشخص المتأثر بالانشغال."
+          },
+          {
+            "term": "me",
+            "description": "لي؛ تشير إلى المتكلم كمفعول أو مستفيد."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "This week is very busy for me.",
+        "ar": "هذا الأسبوع مزدحم جدا بالنسبة لي.",
+        "context": "تصف أسبوعا مليئا بالمهام."
+      },
+      {
+        "id": 2,
+        "en": "This month is very busy for me.",
+        "ar": "هذا الشهر مزدحم جدا بالنسبة لي.",
+        "context": "تغير الفترة الزمنية."
+      },
+      {
+        "id": 3,
+        "en": "This week is very quiet for me.",
+        "ar": "هذا الأسبوع هادئ جدا بالنسبة لي.",
+        "context": "تستخدم وصفا معاكسا."
+      },
+      {
+        "id": 4,
+        "en": "This week is not very busy for me.",
+        "ar": "هذا الأسبوع ليس مزدحما جدا بالنسبة لي.",
+        "context": "تنفي شدة الانشغال."
+      },
+      {
+        "id": 5,
+        "en": "Is this week very busy for you?",
+        "ar": "هل هذا الأسبوع مزدحم جدا بالنسبة لك؟",
+        "context": "تسأل شخصا عن ضغط أسبوعه."
+      },
+      {
+        "id": 6,
+        "en": "Last week was very busy for me.",
+        "ar": "كان الأسبوع الماضي مزدحما جدا بالنسبة لي.",
+        "context": "تنقل الوصف إلى الماضي."
+      },
+      {
+        "id": 7,
+        "en": "Next week will be very busy for me.",
+        "ar": "سيكون الأسبوع القادم مزدحما جدا بالنسبة لي.",
+        "context": "تنقل الوصف إلى المستقبل."
+      },
+      {
+        "id": 8,
+        "en": "This week is very busy for me at work.",
+        "ar": "هذا الأسبوع مزدحم جدا بالنسبة لي في العمل.",
+        "context": "تحدد مجال الانشغال."
+      },
+      {
+        "id": 9,
+        "en": "This week is very busy for me because I have exams.",
+        "ar": "هذا الأسبوع مزدحم جدا بالنسبة لي لأن لدي امتحانات.",
+        "context": "توضح سبب الانشغال."
+      },
+      {
+        "id": 10,
+        "en": "If this week is very busy for me, I will rest on Friday.",
+        "ar": "إذا كان هذا الأسبوع مزدحما جدا بالنسبة لي، فسأرتاح يوم الجمعة.",
+        "context": "تربط الانشغال بخطة للراحة."
+      }
+    ]
+  }
+}

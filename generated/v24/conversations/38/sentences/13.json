@@ -1,0 +1,131 @@
+{
+  "schemaVersion": 1,
+  "id": 13,
+  "sentence": {
+    "en": "Alright, let us put everything in the cart.",
+    "ar": "تمام، لنضع كل شيء في العربة.",
+    "context": "يبدأ الأب بجمع الأغراض."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Alright",
+        "ar": "تمام.",
+        "context": "كلمة قبول وبدء تنفيذ.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه كلمة انتقالية أو جوابية ولا تحمل زمنًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "Alright",
+            "description": "تمام أو حسنًا"
+          }
+        ]
+      },
+      {
+        "sentence": "let us put everything in the cart",
+        "ar": "لنضع كل شيء في العربة.",
+        "context": "اقتراح للبدء بجمع المشتريات في العربة.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "let us صيغة اقتراح جماعي، وليست زمنًا خبريًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "let",
+            "description": "دع أو لنفعل"
+          },
+          {
+            "term": "us",
+            "description": "نحن في الاقتراح"
+          },
+          {
+            "term": "put",
+            "description": "نضع"
+          },
+          {
+            "term": "everything",
+            "description": "كل شيء"
+          },
+          {
+            "term": "in",
+            "description": "في أو داخل"
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف"
+          },
+          {
+            "term": "cart",
+            "description": "عربة التسوق"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Alright, let us start",
+        "ar": "تمام، لنبدأ",
+        "context": "يقال عند بدء عمل"
+      },
+      {
+        "id": 2,
+        "en": "Let us put the bags in the car",
+        "ar": "لنضع الأكياس في السيارة",
+        "context": "يقال بعد التسوق"
+      },
+      {
+        "id": 3,
+        "en": "Put everything on the table",
+        "ar": "ضع كل شيء على الطاولة",
+        "context": "يقال عند ترتيب الأشياء"
+      },
+      {
+        "id": 4,
+        "en": "Let us put the fruit in the cart",
+        "ar": "لنضع الفاكهة في العربة",
+        "context": "يقال أثناء التسوق"
+      },
+      {
+        "id": 5,
+        "en": "Alright, we have the list",
+        "ar": "تمام، لدينا القائمة",
+        "context": "يقال بعد التأكد من الاستعداد"
+      },
+      {
+        "id": 6,
+        "en": "Let us check everything first",
+        "ar": "لنتحقق من كل شيء أولًا",
+        "context": "يقال قبل إنهاء مهمة"
+      },
+      {
+        "id": 7,
+        "en": "Put the meat in the cart",
+        "ar": "ضع اللحم في العربة",
+        "context": "يقال عند جمع غرض من السوق"
+      },
+      {
+        "id": 8,
+        "en": "Everything is in the cart",
+        "ar": "كل شيء في العربة",
+        "context": "يقال بعد جمع الأغراض"
+      },
+      {
+        "id": 9,
+        "en": "Alright, let us pay now",
+        "ar": "تمام، لندفع الآن",
+        "context": "يقال عند التوجه للدفع"
+      },
+      {
+        "id": 10,
+        "en": "Let us put this back",
+        "ar": "لنعد هذا إلى مكانه",
+        "context": "يقال عند عدم شراء غرض"
+      }
+    ]
+  }
+}

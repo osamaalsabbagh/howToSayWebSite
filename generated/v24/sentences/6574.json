@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 1,
+  "id": 6574,
+  "sentence": {
+    "en": "Warm the soup before you serve it.",
+    "ar": "سخّن الحساء قبل تقديمك له.",
+    "context": "طلب رفع حرارة حساء إلى درجة مناسبة قبل تقديمه دون تحديد طريقة حفظه أو تسخينه.",
+    "sourceWord": "warm",
+    "sourcePos": "v."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Warm the soup",
+        "ar": "سخّن الحساء",
+        "context": "طلب رفع حرارة حساء.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "صيغة أمر بلا زمن مستقل. الكلمة هنا فعل يعني جعل الشيء دافئًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "Warm",
+            "description": "سخّن؛ اجعله دافئًا."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف تشير إلى حساء معروف."
+          },
+          {
+            "term": "soup",
+            "description": "حساء."
+          }
+        ]
+      },
+      {
+        "sentence": "before you serve it.",
+        "ar": "قبل تقديمك له.",
+        "context": "تحديد تقديم الحساء حدًا زمنيًا لإنجاز التسخين.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "المضارع البسيط بعد أداة الوقت."
+        },
+        "wordMeanings": [
+          {
+            "term": "before",
+            "description": "قبل."
+          },
+          {
+            "term": "you",
+            "description": "أنت."
+          },
+          {
+            "term": "serve",
+            "description": "تقدم."
+          },
+          {
+            "term": "it",
+            "description": "ه."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Warm the soup before you serve it.",
+        "ar": "سخّن الحساء قبل تقديمك له.",
+        "context": "طلب رفع حرارة حساء إلى درجة مناسبة قبل تقديمه دون تحديد طريقة حفظه أو تسخينه."
+      },
+      {
+        "id": 2,
+        "en": "His kind words warmed my heart.",
+        "ar": "كلماته اللطيفة أدفأت قلبي.",
+        "context": "وصف مجازي سابق لشعور بالسرور أو المودة بسبب كلام لطيف دون تحديد وسيلة إيصاله."
+      },
+      {
+        "id": 3,
+        "en": "The sun warmed the stones.",
+        "ar": "الشمس دفأت الحجارة.",
+        "context": "وصف ارتفاع سابق لحرارة أجسام بفعل الإشعاع الشمسي."
+      },
+      {
+        "id": 4,
+        "en": "She warms her hands by the fire.",
+        "ar": "هي تدفئ يديها قرب النار.",
+        "context": "وصف فعل معتاد لتقليل البرودة في اليدين."
+      },
+      {
+        "id": 5,
+        "en": "We have warmed the room before the guests arrive.",
+        "ar": "نحن قد دفأنا الغرفة قبل وصول الضيوف.",
+        "context": "الإبلاغ عن تجهيز مكتمل لحرارة مكان قبل استقبال أشخاص."
+      },
+      {
+        "id": 6,
+        "en": "The audience is warming to the speaker.",
+        "ar": "الجمهور يزداد تقبلًا للمتحدث.",
+        "context": "وصف تغير جارٍ نحو إعجاب أو ألفة أكبر مع شخص."
+      },
+      {
+        "id": 7,
+        "en": "The food will warm slowly in the oven.",
+        "ar": "الطعام سيدفأ ببطء في الفرن.",
+        "context": "توقع ارتفاع تدريجي للحرارة في جهاز طبخ."
+      },
+      {
+        "id": 8,
+        "en": "The musicians warmed up before the concert.",
+        "ar": "الموسيقيون أجروا تمارين تحضيرية قبل الحفل.",
+        "context": "وصف استعداد سابق للأداء بتمارين قصيرة."
+      },
+      {
+        "id": 9,
+        "en": "Please let the engine warm up first.",
+        "ar": "من فضلك دع المحرك يسخن أولًا.",
+        "context": "طلب مهلة لارتفاع حرارة آلة قبل استخدامها على نحو آخر."
+      },
+      {
+        "id": 10,
+        "en": "The conversation warmed as they found common interests.",
+        "ar": "الحديث ازداد ودًا مع اكتشافهم اهتمامات مشتركة.",
+        "context": "وصف تطور سابق في ألفة حوار."
+      }
+    ]
+  }
+}

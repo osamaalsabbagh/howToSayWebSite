@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": 2818,
+  "sentence": {
+    "en": "I will teach you tomorrow.",
+    "ar": "أنا سأدرّسك غدًا.",
+    "context": "نية أو قرار في المستقبل."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "I will teach you tomorrow.",
+        "ar": "سأعلّمك غدا.",
+        "context": "تصف الجملة وعدا أو نية بأن يعلّم المتكلم المخاطب في اليوم التالي.",
+        "grammar": {
+          "tense": "المستقبل البسيط",
+          "tenseEn": "Future Simple",
+          "reason": "استُخدم will مع الفعل الأساسي teach للدلالة على فعل سيحدث في المستقبل، وتؤكد tomorrow هذا المعنى."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير يعني أنا، ويشير إلى المتكلم."
+          },
+          {
+            "term": "will",
+            "description": "سوف أو سأ؛ فعل مساعد يدل على المستقبل."
+          },
+          {
+            "term": "teach",
+            "description": "أعلّم أو أدرّس."
+          },
+          {
+            "term": "you",
+            "description": "ضمير يعني أنت أو أنتم حسب السياق، ويشير إلى المخاطب."
+          },
+          {
+            "term": "tomorrow",
+            "description": "غدا؛ اليوم التالي لليوم الحالي."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I will teach you tomorrow.",
+        "ar": "سأعلّمك غدا.",
+        "context": "تعد بتعليم شخص في اليوم التالي."
+      },
+      {
+        "id": 2,
+        "en": "She will teach us tomorrow.",
+        "ar": "هي ستعلّمنا غدا.",
+        "context": "تصف درسا مستقبليا مع معلمة."
+      },
+      {
+        "id": 3,
+        "en": "I will teach you this rule.",
+        "ar": "سأعلّمك هذه القاعدة.",
+        "context": "تحدد الشيء الذي سيتم تعليمه."
+      },
+      {
+        "id": 4,
+        "en": "He will teach math tomorrow.",
+        "ar": "هو سيدرّس الرياضيات غدا.",
+        "context": "تصف مادة سيدرسها شخص."
+      },
+      {
+        "id": 5,
+        "en": "We will teach the class next week.",
+        "ar": "سندرّس الصف الأسبوع القادم.",
+        "context": "تصف خطة تدريس مستقبلية."
+      },
+      {
+        "id": 6,
+        "en": "I will teach you how to cook.",
+        "ar": "سأعلّمك كيف تطبخ.",
+        "context": "تصف مهارة سيعلمها المتكلم."
+      },
+      {
+        "id": 7,
+        "en": "I will not teach tomorrow.",
+        "ar": "لن أدرّس غدا.",
+        "context": "تنفي وجود تدريس في اليوم التالي."
+      },
+      {
+        "id": 8,
+        "en": "Will you teach me tomorrow?",
+        "ar": "هل ستعلّمني غدا؟",
+        "context": "تسأل عن وعد أو ترتيب تعليمي."
+      },
+      {
+        "id": 9,
+        "en": "The coach will teach us a new move.",
+        "ar": "سيدرّبنا المدرب على حركة جديدة.",
+        "context": "تصف تعليما في سياق رياضي."
+      },
+      {
+        "id": 10,
+        "en": "I will teach you when you are ready.",
+        "ar": "سأعلّمك عندما تكون مستعدا.",
+        "context": "تربط التعليم بشرط مستقبلي."
+      }
+    ]
+  }
+}

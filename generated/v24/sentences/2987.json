@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": 2987,
+  "sentence": {
+    "en": "She studies at the university.",
+    "ar": "هي تدرس في الجامعة.",
+    "context": "مؤسسة تعليمية بعد المدرسة."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "She studies at the university.",
+        "ar": "هي تدرس في الجامعة.",
+        "context": "تصف الجملة أن امرأة أو فتاة تتلقى تعليمها في جامعة محددة.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُخدم المضارع البسيط لأن studies يصف حالة دراسية أو عادة مستمرة."
+        },
+        "wordMeanings": [
+          {
+            "term": "She",
+            "description": "ضمير يعني هي، ويشير إلى امرأة أو فتاة."
+          },
+          {
+            "term": "studies",
+            "description": "تدرس؛ صيغة المضارع البسيط مع she."
+          },
+          {
+            "term": "at",
+            "description": "في؛ تُستخدم هنا مع مكان الدراسة أو المؤسسة."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف تشير إلى جامعة محددة."
+          },
+          {
+            "term": "university",
+            "description": "جامعة؛ مؤسسة تعليمية بعد المدرسة تقدم دراسة متقدمة."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "She studies at the university.",
+        "ar": "هي تدرس في الجامعة.",
+        "context": "تصف مكان دراسة شخص."
+      },
+      {
+        "id": 2,
+        "en": "He studies at the university.",
+        "ar": "هو يدرس في الجامعة.",
+        "context": "تستخدم الجملة مع رجل أو ولد."
+      },
+      {
+        "id": 3,
+        "en": "She studies at school.",
+        "ar": "هي تدرس في المدرسة.",
+        "context": "تغير مكان الدراسة."
+      },
+      {
+        "id": 4,
+        "en": "She does not study at the university.",
+        "ar": "هي لا تدرس في الجامعة.",
+        "context": "تنفي الدراسة في الجامعة."
+      },
+      {
+        "id": 5,
+        "en": "Does she study at the university?",
+        "ar": "هل تدرس في الجامعة؟",
+        "context": "تسأل عن مكان دراستها."
+      },
+      {
+        "id": 6,
+        "en": "She studied at the university last year.",
+        "ar": "درست في الجامعة العام الماضي.",
+        "context": "تنقل الدراسة إلى الماضي."
+      },
+      {
+        "id": 7,
+        "en": "She will study at the university next year.",
+        "ar": "ستدرس في الجامعة العام القادم.",
+        "context": "تنقل الدراسة إلى المستقبل."
+      },
+      {
+        "id": 8,
+        "en": "She studies English at the university.",
+        "ar": "هي تدرس الإنجليزية في الجامعة.",
+        "context": "تحدد مادة الدراسة."
+      },
+      {
+        "id": 9,
+        "en": "She studies at the university, so she lives nearby.",
+        "ar": "هي تدرس في الجامعة، لذلك تعيش بالقرب.",
+        "context": "تربط مكان الدراسة بمكان السكن."
+      },
+      {
+        "id": 10,
+        "en": "If she studies at the university, ask her about the lesson.",
+        "ar": "إذا كانت تدرس في الجامعة، فاسألها عن الدرس.",
+        "context": "تستخدم الجملة داخل شرط."
+      }
+    ]
+  }
+}

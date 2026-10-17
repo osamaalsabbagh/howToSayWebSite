@@ -1,0 +1,131 @@
+{
+  "schemaVersion": 1,
+  "id": 6,
+  "sentence": {
+    "en": "That sounds great. Let us go there tomorrow.",
+    "ar": "يبدو ذلك عظيمًا. دعنا نذهب هناك غدًا.",
+    "context": "عظيم هنا تعبير شائع عند المتحدثين الأصليين لإظهار الحماس والموافقة بما يشابه قولنا رائع أو ممتاز، وليس بمعنى العظمة أو الضخامة."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "That sounds great.",
+        "ar": "هذا يبدو رائعا.",
+        "context": "تقال للموافقة بحماس على اقتراح.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استخدم sounds لوصف الانطباع الحالي عن الاقتراح."
+        },
+        "wordMeanings": [
+          {
+            "term": "That",
+            "description": "ذلك أو هذا، إشارة إلى الاقتراح"
+          },
+          {
+            "term": "sounds",
+            "description": "يبدو أو يعطي انطباعا"
+          },
+          {
+            "term": "great",
+            "description": "رائع أو ممتاز في هذا السياق"
+          }
+        ]
+      },
+      {
+        "sentence": "Let us go there tomorrow.",
+        "ar": "دعنا نذهب هناك غدا.",
+        "context": "يقترح تنفيذ الخطة في اليوم التالي.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "تركيب Let us يستخدم للاقتراح المشترك، وكلمة tomorrow تحدد وقت التنفيذ."
+        },
+        "wordMeanings": [
+          {
+            "term": "Let",
+            "description": "دع أو لنقم"
+          },
+          {
+            "term": "us",
+            "description": "نحن، المتكلم والمخاطب"
+          },
+          {
+            "term": "go",
+            "description": "نذهب"
+          },
+          {
+            "term": "there",
+            "description": "هناك"
+          },
+          {
+            "term": "tomorrow",
+            "description": "غدا"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "That sounds great. Let us start tomorrow.",
+        "ar": "هذا يبدو رائعا. دعنا نبدأ غدا.",
+        "context": "موافقة حماسية على خطة."
+      },
+      {
+        "id": 2,
+        "en": "That sounds good to me.",
+        "ar": "هذا يبدو جيدا لي.",
+        "context": "قبول اقتراح بطريقة طبيعية."
+      },
+      {
+        "id": 3,
+        "en": "Let us go there after lunch.",
+        "ar": "دعنا نذهب هناك بعد الغداء.",
+        "context": "اقتراح وقت للذهاب."
+      },
+      {
+        "id": 4,
+        "en": "That sounds great for the weekend.",
+        "ar": "هذا يبدو رائعا لعطلة نهاية الأسبوع.",
+        "context": "تقييم خطة لنهاية الأسبوع."
+      },
+      {
+        "id": 5,
+        "en": "Let us meet there tomorrow.",
+        "ar": "دعنا نلتقي هناك غدا.",
+        "context": "ترتيب لقاء في مكان محدد."
+      },
+      {
+        "id": 6,
+        "en": "That sounds exciting.",
+        "ar": "هذا يبدو مثيرا.",
+        "context": "إظهار حماس لفكرة."
+      },
+      {
+        "id": 7,
+        "en": "Let us go tomorrow morning.",
+        "ar": "دعنا نذهب صباح الغد.",
+        "context": "اقتراح وقت واضح للذهاب."
+      },
+      {
+        "id": 8,
+        "en": "That sounds great, but I need time.",
+        "ar": "هذا يبدو رائعا، لكنني أحتاج إلى وقت.",
+        "context": "قبول الفكرة مع طلب مهلة."
+      },
+      {
+        "id": 9,
+        "en": "Let us try that place tomorrow.",
+        "ar": "دعنا نجرب ذلك المكان غدا.",
+        "context": "اقتراح زيارة مكان جديد."
+      },
+      {
+        "id": 10,
+        "en": "That sounds great for our group.",
+        "ar": "هذا يبدو رائعا لمجموعتنا.",
+        "context": "تقييم اقتراح مناسب للجميع."
+      }
+    ]
+  }
+}

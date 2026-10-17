@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "id": 3169,
+  "sentence": {
+    "en": "This is your seat.",
+    "ar": "هذا مقعدك.",
+    "context": "الإشارة إلى شيء يخص الشخص المخاطَب."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "This is your seat.",
+        "ar": "هذا مقعدك.",
+        "context": "تستخدم الجملة لتحديد المقعد المخصص للشخص المخاطب.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُخدم المضارع البسيط مع is للإشارة إلى هوية الشيء أو تخصيصه الآن."
+        },
+        "wordMeanings": [
+          {
+            "term": "This",
+            "description": "هذا؛ تشير إلى شيء قريب من المتكلم."
+          },
+          {
+            "term": "is",
+            "description": "هو أو يكون؛ يربط this بعبارة your seat."
+          },
+          {
+            "term": "your",
+            "description": "الخاص بك؛ ضمير ملكية للمخاطب."
+          },
+          {
+            "term": "seat",
+            "description": "مقعد؛ مكان يجلس عليه الشخص."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "This is your seat.",
+        "ar": "هذا مقعدك.",
+        "context": "تدل شخصا على مكان جلوسه."
+      },
+      {
+        "id": 2,
+        "en": "This is my seat.",
+        "ar": "هذا مقعدي.",
+        "context": "تقول إن المقعد لك."
+      },
+      {
+        "id": 3,
+        "en": "That is your seat.",
+        "ar": "ذلك مقعدك.",
+        "context": "تشير إلى مقعد أبعد."
+      },
+      {
+        "id": 4,
+        "en": "Is this your seat?",
+        "ar": "هل هذا مقعدك؟",
+        "context": "تسأل عن ملكية أو تخصيص المقعد."
+      },
+      {
+        "id": 5,
+        "en": "This is not your seat.",
+        "ar": "هذا ليس مقعدك.",
+        "context": "تنفي أن المقعد مخصص له."
+      },
+      {
+        "id": 6,
+        "en": "This was your seat yesterday.",
+        "ar": "كان هذا مقعدك أمس.",
+        "context": "تتحدث عن تخصيص سابق."
+      },
+      {
+        "id": 7,
+        "en": "This will be your seat tomorrow.",
+        "ar": "سيكون هذا مقعدك غدا.",
+        "context": "تتحدث عن تخصيص مستقبلي."
+      },
+      {
+        "id": 8,
+        "en": "Please sit here; this is your seat.",
+        "ar": "من فضلك اجلس هنا؛ هذا مقعدك.",
+        "context": "تعطي توجيها بالجلوس."
+      },
+      {
+        "id": 9,
+        "en": "The ticket says this is your seat.",
+        "ar": "تقول التذكرة إن هذا مقعدك.",
+        "context": "تستند إلى التذكرة لتحديد المقعد."
+      },
+      {
+        "id": 10,
+        "en": "I think this is your seat, not mine.",
+        "ar": "أعتقد أن هذا مقعدك، وليس مقعدي.",
+        "context": "توضح الفرق بين مقعدين."
+      }
+    ]
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": 1235,
+  "sentence": {
+    "en": "Can we reschedule on Wednesday?",
+    "ar": "هل يمكننا إعادة جدولة الموعد إلى يوم الأربعاء؟",
+    "context": "تُستخدم لطلب تغيير موعد الاجتماع إلى يوم الأربعاء."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Can we reschedule on Wednesday",
+        "ar": "هل يمكننا إعادة الجدولة إلى يوم الأربعاء",
+        "context": "طلب تغيير موعد إلى يوم محدد.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه صيغة طلب باستخدام كلمة تدل على الإمكان، وليست زمنًا مستقلًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "Can",
+            "description": "تُستخدم لطلب الإمكان"
+          },
+          {
+            "term": "we",
+            "description": "نحن"
+          },
+          {
+            "term": "reschedule",
+            "description": "نعيد جدولة الموعد"
+          },
+          {
+            "term": "on",
+            "description": "إلى أو في"
+          },
+          {
+            "term": "Wednesday",
+            "description": "يوم الأربعاء"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Can we reschedule for Friday?",
+        "ar": "هل يمكننا إعادة الجدولة إلى الجمعة؟",
+        "context": "تُستخدم لتغيير موعد."
+      },
+      {
+        "id": 2,
+        "en": "I need to reschedule the meeting.",
+        "ar": "أحتاج إلى إعادة جدولة الاجتماع.",
+        "context": "تُقال عند تغيير خطة."
+      },
+      {
+        "id": 3,
+        "en": "Wednesday works better for me.",
+        "ar": "الأربعاء يناسبني أكثر.",
+        "context": "تُستخدم لتفضيل يوم."
+      },
+      {
+        "id": 4,
+        "en": "Can we move it to Wednesday?",
+        "ar": "هل يمكننا نقله إلى الأربعاء؟",
+        "context": "تُستخدم بصيغة شائعة."
+      },
+      {
+        "id": 5,
+        "en": "Let us reschedule for next week.",
+        "ar": "دعنا نعيد الجدولة للأسبوع القادم.",
+        "context": "تُستخدم لتأجيل موعد."
+      },
+      {
+        "id": 6,
+        "en": "I cannot meet today.",
+        "ar": "لا أستطيع اللقاء اليوم.",
+        "context": "تُقال كسبب للتغيير."
+      },
+      {
+        "id": 7,
+        "en": "The appointment was rescheduled.",
+        "ar": "تمت إعادة جدولة الموعد.",
+        "context": "تُستخدم للإبلاغ."
+      },
+      {
+        "id": 8,
+        "en": "Can we keep the same time?",
+        "ar": "هل يمكننا إبقاء الوقت نفسه؟",
+        "context": "تُستخدم عند تغيير اليوم فقط."
+      },
+      {
+        "id": 9,
+        "en": "Wednesday morning is open.",
+        "ar": "صباح الأربعاء متاح.",
+        "context": "تُستخدم لعرض وقت."
+      },
+      {
+        "id": 10,
+        "en": "Please confirm the new date.",
+        "ar": "يرجى تأكيد التاريخ الجديد.",
+        "context": "تُستخدم بعد إعادة الجدولة."
+      }
+    ]
+  }
+}

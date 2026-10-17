@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 1,
+  "id": 9064,
+  "sentence": {
+    "en": "I prefer tea, whereas she prefers coffee.",
+    "ar": "أنا أفضل الشاي، في حين هي تفضل القهوة.",
+    "context": "أنت وصديقتك تطلبان مشروبين مختلفين كلما جلستما في المقهى؛ قارن بين تفضيلكما المعتاد.",
+    "sourceWord": "whereas",
+    "sourcePos": "conj."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "I prefer tea",
+        "ar": "أنا أفضل الشاي",
+        "context": "أنت تشرح ما تحب شربه عادة في المقهى.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "جملة أولى في المضارع البسيط تصف تفضيل المتكلم."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "أنا؛ ضمير المتكلم"
+          },
+          {
+            "term": "prefer",
+            "description": "أفضل؛ تفضيل قائم"
+          },
+          {
+            "term": "tea",
+            "description": "شاي"
+          }
+        ]
+      },
+      {
+        "sentence": "whereas she prefers coffee.",
+        "ar": "في حين هي تفضل القهوة.",
+        "context": "أنت تقارن اختيار صديقتك المعتاد باختيارك.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "جملة مقارنة في المضارع البسيط تبدأ برابط يبين اختلاف تفضيلين؛ الفعل مفرد مع الغائبة."
+        },
+        "wordMeanings": [
+          {
+            "term": "whereas",
+            "description": "في حين؛ رابط للمقارنة وإبراز التباين"
+          },
+          {
+            "term": "she",
+            "description": "هي؛ ضمير الغائبة"
+          },
+          {
+            "term": "prefers",
+            "description": "تفضل؛ مضارع مع فاعل مفرد"
+          },
+          {
+            "term": "coffee",
+            "description": "قهوة"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I prefer tea, whereas she prefers coffee.",
+        "ar": "أنا أفضل الشاي، في حين هي تفضل القهوة.",
+        "context": "أنت وصديقتك تطلبان مشروبين مختلفين كلما جلستما في المقهى؛ قارن بين تفضيلكما المعتاد."
+      },
+      {
+        "id": 2,
+        "en": "He works at night, whereas I work during the day.",
+        "ar": "هو يعمل ليلًا، في حين أنا أعمل نهارًا.",
+        "context": "قارن بين عادة عمل رجل ليلًا وعملك نهارًا."
+      },
+      {
+        "id": 3,
+        "en": "We live near the sea, whereas they live inland.",
+        "ar": "نحن نعيش قرب البحر، في حين هم يعيشون في الداخل.",
+        "context": "قارن بين السكن قرب البحر والسكن بعيدًا عنه."
+      },
+      {
+        "id": 4,
+        "en": "I like quiet rooms, whereas he likes busy places.",
+        "ar": "أنا أحب الغرف الهادئة، في حين هو يحب الأماكن المزدحمة.",
+        "context": "قارن بين تفضيل الأماكن الهادئة والمزدحمة."
+      },
+      {
+        "id": 5,
+        "en": "She drives to work, whereas I walk.",
+        "ar": "هي تقود إلى العمل، في حين أنا أمشي.",
+        "context": "قارن بين وسيلتين معتادتين للذهاب إلى العمل."
+      },
+      {
+        "id": 6,
+        "en": "I chose the small bag, whereas he chose the large one.",
+        "ar": "أنا اخترت الحقيبة الصغيرة، في حين هو اختار الكبيرة.",
+        "context": "قارن بين اختيارين حدثا في الماضي."
+      },
+      {
+        "id": 7,
+        "en": "We arrived early, whereas they arrived late.",
+        "ar": "نحن وصلنا مبكرًا، في حين هم وصلوا متأخرين.",
+        "context": "قارن بين وصول مبكر ووصول متأخر في الماضي."
+      },
+      {
+        "id": 8,
+        "en": "This room is bright, whereas that room is dark.",
+        "ar": "هذه الغرفة مضيئة، في حين تلك الغرفة مظلمة.",
+        "context": "قارن بين إضاءة غرفتين."
+      },
+      {
+        "id": 9,
+        "en": "I need more time, whereas she needs more money.",
+        "ar": "أنا أحتاج إلى وقت أكثر، في حين هي تحتاج إلى مال أكثر.",
+        "context": "قارن بين حاجتين مختلفتين في الحاضر."
+      },
+      {
+        "id": 10,
+        "en": "I cook at home, whereas he eats out.",
+        "ar": "أنا أطبخ في المنزل، في حين هو يأكل خارج المنزل.",
+        "context": "قارن بين عادتين في تناول الطعام."
+      }
+    ]
+  }
+}

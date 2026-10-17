@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": 3256,
+  "sentence": {
+    "en": "The amount is too high.",
+    "ar": "الكمية عالية جدًا.",
+    "context": "المقصود مقدار أكبر من المطلوب، وليس ارتفاعًا مكانيًا."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "The amount is too high.",
+        "ar": "الكمية كبيرة جدًا.",
+        "context": "توضح الجملة أن المقدار أكبر من المطلوب أو المقبول.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُخدم is لوصف حالة المقدار الآن."
+        },
+        "wordMeanings": [
+          {
+            "term": "The",
+            "description": "أداة تعريف؛ تجعل amount مقدارا محددا."
+          },
+          {
+            "term": "amount",
+            "description": "كمية أو مقدار؛ حجم شيء غير معدود أو رقم إجمالي."
+          },
+          {
+            "term": "is",
+            "description": "يكون أو هو؛ فعل be مع مفرد غائب في المضارع."
+          },
+          {
+            "term": "too",
+            "description": "جدا أو أكثر من اللازم؛ تدل على زيادة غير مناسبة."
+          },
+          {
+            "term": "high",
+            "description": "مرتفع أو كبير؛ هنا تصف المقدار بأنه أعلى من المطلوب، لا ارتفاعا مكانيا."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "The amount is too high.",
+        "ar": "الكمية كبيرة جدا.",
+        "context": "تقول إن المقدار زائد."
+      },
+      {
+        "id": 2,
+        "en": "The price is too high.",
+        "ar": "السعر مرتفع جدا.",
+        "context": "تستخدم high مع السعر."
+      },
+      {
+        "id": 3,
+        "en": "The amount is too low.",
+        "ar": "الكمية قليلة جدا.",
+        "context": "تعكس المعنى إلى مقدار أقل من المطلوب."
+      },
+      {
+        "id": 4,
+        "en": "The amount is not too high.",
+        "ar": "الكمية ليست كبيرة جدا.",
+        "context": "تنفي أن المقدار زائد."
+      },
+      {
+        "id": 5,
+        "en": "Is the amount too high?",
+        "ar": "هل الكمية كبيرة جدا؟",
+        "context": "تسأل عن مناسبة المقدار."
+      },
+      {
+        "id": 6,
+        "en": "The amount was too high yesterday.",
+        "ar": "كانت الكمية كبيرة جدا أمس.",
+        "context": "تنقل الوصف إلى الماضي."
+      },
+      {
+        "id": 7,
+        "en": "The amount will be too high if we add more.",
+        "ar": "ستصبح الكمية كبيرة جدا إذا أضفنا المزيد.",
+        "context": "تتحدث عن نتيجة مستقبلية."
+      },
+      {
+        "id": 8,
+        "en": "The total amount is too high.",
+        "ar": "الكمية الإجمالية كبيرة جدا.",
+        "context": "تحدد أن الحديث عن المجموع."
+      },
+      {
+        "id": 9,
+        "en": "The amount is too high because we counted it twice.",
+        "ar": "الكمية كبيرة جدا لأننا حسبناها مرتين.",
+        "context": "تذكر سبب زيادة المقدار."
+      },
+      {
+        "id": 10,
+        "en": "The amount is too high, but we can reduce it.",
+        "ar": "الكمية كبيرة جدا، لكن يمكننا تقليلها.",
+        "context": "تضيف حلا للمشكلة."
+      }
+    ]
+  }
+}

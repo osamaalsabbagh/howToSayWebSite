@@ -1,0 +1,117 @@
+{
+  "schemaVersion": 1,
+  "id": 4553,
+  "sentence": {
+    "en": "The doctor referred me to a specialist.",
+    "ar": "الطبيب أحالني إلى مختص.",
+    "context": "وصف تحويل سابق للمتكلم إلى طبيب ذي تخصص أنسب لمتابعة حالته.",
+    "sourceWord": "refer",
+    "sourcePos": "v."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "The doctor referred me to a specialist.",
+        "ar": "الطبيب أحالني إلى مختص.",
+        "context": "وصف تحويل سابق للمتكلم إلى طبيب ذي تخصص أنسب لمتابعة حالته.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "جاء الفعل بصيغة الماضي البسيط لأن الإجراء تم في وقت مضى وانتهى. وتركيب الفعل هنا مختلف: فعل ثم المفعول به المحوَّل ثم حرف الجر ثم الجهة المحوَّل إليها، فإن حُذف حرف الجر لم تصح الجملة."
+        },
+        "wordMeanings": [
+          {
+            "term": "The",
+            "description": "أداة تعريف تدل على شيء معيَّن يعرفه الطرفان."
+          },
+          {
+            "term": "doctor",
+            "description": "المختص بعلاج المرضى."
+          },
+          {
+            "term": "referred",
+            "description": "حوّله رسميًا إلى جهة أخرى لتتابع أمره."
+          },
+          {
+            "term": "me",
+            "description": "ضمير المتكلم في موضع المفعول به."
+          },
+          {
+            "term": "to",
+            "description": "حرف جر لازم يأتي بعد المفعول به ويدخل على الجهة المحوَّل إليها، ولا تستقيم الجملة بحذفه."
+          },
+          {
+            "term": "a",
+            "description": "أداة تنكير تدل على واحد غير معيَّن."
+          },
+          {
+            "term": "specialist",
+            "description": "طبيب متعمق في فرع بعينه من الطب."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "The doctor referred me to a specialist.",
+        "ar": "الطبيب أحالني إلى مختص.",
+        "context": "وصف تحويل سابق للمتكلم إلى طبيب ذي تخصص أنسب لمتابعة حالته."
+      },
+      {
+        "id": 2,
+        "en": "We have referred to the system as a network.",
+        "ar": "نحن قد وصفنا النظام بأنه شبكة.",
+        "context": "الإبلاغ عن استخدام تسمية شبكة لوصف نظام في الحديث حتى الآن، لا تغيير مكوناته."
+      },
+      {
+        "id": 3,
+        "en": "I will refer your question to my manager.",
+        "ar": "أنا سوف أحيل سؤالك إلى مديري.",
+        "context": "عرض تحويل استفسار إلى مسؤول آخر للنظر فيه لاحقًا."
+      },
+      {
+        "id": 4,
+        "en": "Please refer to the diagram for details.",
+        "ar": "من فضلك ارجع إلى الرسم التوضيحي للتفاصيل.",
+        "context": "طلب الاستعانة بتمثيل مرئي للحصول على معلومات إضافية."
+      },
+      {
+        "id": 5,
+        "en": "The pronoun refers to the nearest noun.",
+        "ar": "الضمير يعود على أقرب اسم.",
+        "context": "وصف مرجع لفظ في نص محدد، لا قاعدة تنطبق على كل الضمائر."
+      },
+      {
+        "id": 6,
+        "en": "The manager referred to the new plan in the meeting.",
+        "ar": "المدير أشار إلى الخطة الجديدة في الاجتماع.",
+        "context": "وصف ذكر ترتيب عمل أثناء لقاء مضى، لا عرضه كاملًا بالضرورة."
+      },
+      {
+        "id": 7,
+        "en": "The complaint has been referred to an independent panel.",
+        "ar": "الشكوى قد أُحيلت إلى لجنة مستقلة.",
+        "context": "الإبلاغ عن تحويل مسألة إلى جهة مراجعة وأصبحت لديها الآن."
+      },
+      {
+        "id": 8,
+        "en": "The guide refers readers to the final chapter.",
+        "ar": "الدليل يوجّه القراء إلى الفصل الأخير.",
+        "context": "وصف إرشاد داخل كتاب نحو جزء يحوي معلومات مرتبطة."
+      },
+      {
+        "id": 9,
+        "en": "She is referring back to an earlier discussion.",
+        "ar": "هي تعود بالإشارة إلى نقاش سابق.",
+        "context": "وصف ربط جارٍ بين الكلام الحالي وحديث مضى."
+      },
+      {
+        "id": 10,
+        "en": "The case will be referred to the court.",
+        "ar": "القضية ستُحال إلى المحكمة.",
+        "context": "ذكر تحويل مرتقب لمسألة إلى جهة قضائية للنظر فيها."
+      }
+    ]
+  }
+}

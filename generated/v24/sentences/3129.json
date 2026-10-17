@@ -1,0 +1,119 @@
+{
+  "schemaVersion": 1,
+  "id": 3129,
+  "sentence": {
+    "en": "He learned a new word from the lesson.",
+    "ar": "هو تعلم كلمة جديدة من الدرس.",
+    "context": "اكتساب مفردة جديدة من مصدر تعليمي."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "He learned a new word from the lesson.",
+        "ar": "تعلم كلمة جديدة من الدرس.",
+        "context": "تصف الجملة اكتساب مفردة جديدة بعد درس تعليمي.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "استُخدم الماضي البسيط لأن learned يصف تعلما حدث واكتمل في الماضي."
+        },
+        "wordMeanings": [
+          {
+            "term": "He",
+            "description": "هو؛ رجل أو ولد نتحدث عنه."
+          },
+          {
+            "term": "learned",
+            "description": "تعلم؛ اكتسب معرفة أو مهارة جديدة."
+          },
+          {
+            "term": "a",
+            "description": "أداة تنكير قبل word لأنها كلمة واحدة غير محددة."
+          },
+          {
+            "term": "new",
+            "description": "جديدة؛ لم يكن يعرفها من قبل."
+          },
+          {
+            "term": "word",
+            "description": "كلمة؛ وحدة لغوية لها معنى."
+          },
+          {
+            "term": "from",
+            "description": "من؛ تحدد مصدر التعلم."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف قبل lesson لأن الدرس محدد."
+          },
+          {
+            "term": "lesson",
+            "description": "درس؛ جزء تعليمي يشرح موضوعا أو مهارة."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "He learned a new word from the lesson.",
+        "ar": "تعلم كلمة جديدة من الدرس.",
+        "context": "تذكر ما اكتسبه من الدرس."
+      },
+      {
+        "id": 2,
+        "en": "She learned a new word from the lesson.",
+        "ar": "تعلمت كلمة جديدة من الدرس.",
+        "context": "تغير الفاعل إلى امرأة أو فتاة."
+      },
+      {
+        "id": 3,
+        "en": "He learned a useful word from the lesson.",
+        "ar": "تعلم كلمة مفيدة من الدرس.",
+        "context": "تصف الكلمة بأنها مفيدة."
+      },
+      {
+        "id": 4,
+        "en": "Did he learn a new word from the lesson?",
+        "ar": "هل تعلم كلمة جديدة من الدرس؟",
+        "context": "تسأل عن نتيجة التعلم."
+      },
+      {
+        "id": 5,
+        "en": "He did not learn a new word from the lesson.",
+        "ar": "لم يتعلم كلمة جديدة من الدرس.",
+        "context": "تنفي حدوث تعلم كلمة جديدة."
+      },
+      {
+        "id": 6,
+        "en": "He learns a new word every day.",
+        "ar": "هو يتعلم كلمة جديدة كل يوم.",
+        "context": "تصف عادة تعلم يومية."
+      },
+      {
+        "id": 7,
+        "en": "He is learning a new word now.",
+        "ar": "هو يتعلم كلمة جديدة الآن.",
+        "context": "تصف التعلم أثناء حدوثه."
+      },
+      {
+        "id": 8,
+        "en": "He will learn a new word in the next lesson.",
+        "ar": "سيتعلم كلمة جديدة في الدرس القادم.",
+        "context": "تتحدث عن تعلم مستقبلي."
+      },
+      {
+        "id": 9,
+        "en": "He used the new word after the lesson.",
+        "ar": "استخدم الكلمة الجديدة بعد الدرس.",
+        "context": "تصف تطبيق ما تعلمه."
+      },
+      {
+        "id": 10,
+        "en": "The lesson helped him learn a new word.",
+        "ar": "ساعده الدرس على تعلم كلمة جديدة.",
+        "context": "توضح أثر الدرس."
+      }
+    ]
+  }
+}

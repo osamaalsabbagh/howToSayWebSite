@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": 3018,
+  "sentence": {
+    "en": "I will visit you tomorrow.",
+    "ar": "أنا سأزورك غدًا.",
+    "context": "خطة زيارة في المستقبل."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "I will visit you tomorrow.",
+        "ar": "سأزورك غدا.",
+        "context": "تصف الجملة خطة أو وعدا من المتكلم بزيارة المخاطب في اليوم التالي.",
+        "grammar": {
+          "tense": "المستقبل البسيط",
+          "tenseEn": "Future Simple",
+          "reason": "استُخدم المستقبل البسيط لأن will visit يدل على فعل سيحدث بعد وقت الكلام، وtomorrow يحدد أنه غدا."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير يعني أنا، ويشير إلى المتكلم."
+          },
+          {
+            "term": "will",
+            "description": "سوف أو سـ؛ علامة شائعة للمستقبل."
+          },
+          {
+            "term": "visit",
+            "description": "أزور؛ أذهب لرؤية شخص أو مكان."
+          },
+          {
+            "term": "you",
+            "description": "أنت أو أنتم؛ ضمير للمخاطب."
+          },
+          {
+            "term": "tomorrow",
+            "description": "غدا؛ اليوم التالي لليوم الحالي."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I will visit you tomorrow.",
+        "ar": "سأزورك غدا.",
+        "context": "تذكر خطة زيارة للمخاطب غدا."
+      },
+      {
+        "id": 2,
+        "en": "She will visit you tomorrow.",
+        "ar": "ستزورك غدا.",
+        "context": "تستخدم الجملة مع امرأة أو فتاة."
+      },
+      {
+        "id": 3,
+        "en": "I will call you tomorrow.",
+        "ar": "سأتصل بك غدا.",
+        "context": "تغير الفعل من زيارة إلى اتصال."
+      },
+      {
+        "id": 4,
+        "en": "I will not visit you tomorrow.",
+        "ar": "لن أزورك غدا.",
+        "context": "تنفي خطة الزيارة."
+      },
+      {
+        "id": 5,
+        "en": "Will you visit me tomorrow?",
+        "ar": "هل ستزورني غدا؟",
+        "context": "تسأل شخصا عن زيارته المستقبلية."
+      },
+      {
+        "id": 6,
+        "en": "I visit you every week.",
+        "ar": "أزورك كل أسبوع.",
+        "context": "تحول الزيارة إلى عادة."
+      },
+      {
+        "id": 7,
+        "en": "I visited you yesterday.",
+        "ar": "زرتك أمس.",
+        "context": "تنقل الزيارة إلى الماضي."
+      },
+      {
+        "id": 8,
+        "en": "I will visit you tomorrow after work.",
+        "ar": "سأزورك غدا بعد العمل.",
+        "context": "تحدد وقت الزيارة داخل الغد."
+      },
+      {
+        "id": 9,
+        "en": "I will visit you tomorrow because I miss you.",
+        "ar": "سأزورك غدا لأنني أشتاق إليك.",
+        "context": "توضح سبب الزيارة."
+      },
+      {
+        "id": 10,
+        "en": "If I finish early, I will visit you tomorrow.",
+        "ar": "إذا أنهيت مبكرا، فسأزورك غدا.",
+        "context": "تجعل الزيارة المستقبلية مشروطة."
+      }
+    ]
+  }
+}

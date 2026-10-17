@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": 3004,
+  "sentence": {
+    "en": "I usually wake up early.",
+    "ar": "أنا عادة أستيقظ مبكرًا.",
+    "context": "فعل يتكرر في أغلب الأيام."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "I usually wake up early.",
+        "ar": "عادة أستيقظ مبكرا.",
+        "context": "تصف الجملة عادة المتكلم في الاستيقاظ في وقت مبكر في أغلب الأيام.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُخدم المضارع البسيط لأن usually يدل على عادة متكررة."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير يعني أنا، ويشير إلى المتكلم."
+          },
+          {
+            "term": "usually",
+            "description": "عادة؛ تفيد أن الفعل يحدث في معظم الأوقات."
+          },
+          {
+            "term": "wake",
+            "description": "أستيقظ؛ أخرج من النوم."
+          },
+          {
+            "term": "up",
+            "description": "تكمل معنى wake up بمعنى يستيقظ."
+          },
+          {
+            "term": "early",
+            "description": "مبكرا؛ في وقت قبل المعتاد أو قبل وقت متأخر."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I usually wake up early.",
+        "ar": "عادة أستيقظ مبكرا.",
+        "context": "تصف عادة الاستيقاظ المبكر."
+      },
+      {
+        "id": 2,
+        "en": "She usually wakes up early.",
+        "ar": "عادة تستيقظ مبكرا.",
+        "context": "تستخدم الجملة مع امرأة أو فتاة."
+      },
+      {
+        "id": 3,
+        "en": "I usually wake up late.",
+        "ar": "عادة أستيقظ متأخرا.",
+        "context": "تستخدم الوقت المعاكس."
+      },
+      {
+        "id": 4,
+        "en": "I do not usually wake up early.",
+        "ar": "لا أستيقظ عادة مبكرا.",
+        "context": "تنفي أن تكون هذه عادة المتكلم."
+      },
+      {
+        "id": 5,
+        "en": "Do you usually wake up early?",
+        "ar": "هل تستيقظ عادة مبكرا؟",
+        "context": "تسأل شخصا عن عادته."
+      },
+      {
+        "id": 6,
+        "en": "I woke up early yesterday.",
+        "ar": "استيقظت مبكرا أمس.",
+        "context": "تنقل الفعل إلى الماضي."
+      },
+      {
+        "id": 7,
+        "en": "I will wake up early tomorrow.",
+        "ar": "سأستيقظ مبكرا غدا.",
+        "context": "تنقل الفعل إلى المستقبل."
+      },
+      {
+        "id": 8,
+        "en": "I usually wake up early for work.",
+        "ar": "عادة أستيقظ مبكرا من أجل العمل.",
+        "context": "توضح سبب الاستيقاظ المبكر."
+      },
+      {
+        "id": 9,
+        "en": "I usually wake up early, but today I slept late.",
+        "ar": "عادة أستيقظ مبكرا، لكنني اليوم نمت إلى وقت متأخر.",
+        "context": "تقارن العادة باستثناء اليوم."
+      },
+      {
+        "id": 10,
+        "en": "If I wake up early, I have more time.",
+        "ar": "إذا استيقظت مبكرا، يكون لدي وقت أكثر.",
+        "context": "تربط الاستيقاظ المبكر بنتيجة."
+      }
+    ]
+  }
+}

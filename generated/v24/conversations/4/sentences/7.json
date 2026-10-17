@@ -1,0 +1,115 @@
+{
+  "schemaVersion": 1,
+  "id": 7,
+  "sentence": {
+    "en": "Are you traveling today from this airport?",
+    "ar": "هل تسافر اليوم من هذا المطار؟",
+    "context": "يسأله ليتأكد إن كان على وشك السفر اليوم من هذا المطار."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Are you traveling today from this airport?",
+        "ar": "هل تسافر اليوم من هذا المطار؟",
+        "context": "يُستخدم هذا السؤال للتحقق من حالة أو معلومة في هذا الموقف.",
+        "grammar": {
+          "tense": "المضارع المستمر",
+          "tenseEn": "Present Continuous",
+          "reason": "استُعمل المضارع المستمر للسؤال عن ترتيب سفر قريب يحدث اليوم."
+        },
+        "wordMeanings": [
+          {
+            "term": "Are",
+            "description": "صيغة تبدأ سؤالًا عن فعل جارٍ أو ترتيب قريب."
+          },
+          {
+            "term": "you",
+            "description": "ضمير المخاطب."
+          },
+          {
+            "term": "traveling",
+            "description": "تعني تسافر أو في طريق السفر."
+          },
+          {
+            "term": "today",
+            "description": "هذا اليوم."
+          },
+          {
+            "term": "from",
+            "description": "حرف يوضح نقطة بداية السفر."
+          },
+          {
+            "term": "this",
+            "description": "اسم إشارة للمطار الحالي."
+          },
+          {
+            "term": "airport",
+            "description": "مطار."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Are you traveling today?",
+        "ar": "هل تسافر اليوم؟",
+        "context": "تسأل عن خطة سفر قريبة."
+      },
+      {
+        "id": 2,
+        "en": "Are you flying from this airport?",
+        "ar": "هل ستسافر بالطائرة من هذا المطار؟",
+        "context": "تتأكد من نقطة المغادرة."
+      },
+      {
+        "id": 3,
+        "en": "Are you leaving this afternoon?",
+        "ar": "هل ستغادر بعد ظهر اليوم؟",
+        "context": "تسأل عن موعد مغادرة قريب."
+      },
+      {
+        "id": 4,
+        "en": "Are you traveling alone today?",
+        "ar": "هل تسافر وحدك اليوم؟",
+        "context": "تسأل عن طريقة السفر."
+      },
+      {
+        "id": 5,
+        "en": "Are you taking a flight today?",
+        "ar": "هل ستأخذ رحلة جوية اليوم؟",
+        "context": "تسأل عن وجود رحلة في نفس اليوم."
+      },
+      {
+        "id": 6,
+        "en": "Are you traveling from Los Angeles?",
+        "ar": "هل تسافر من لوس أنجلوس؟",
+        "context": "تسأل عن مدينة المغادرة."
+      },
+      {
+        "id": 7,
+        "en": "Are you waiting for your flight?",
+        "ar": "هل تنتظر رحلتك؟",
+        "context": "تسأل شخصًا في صالة انتظار."
+      },
+      {
+        "id": 8,
+        "en": "Are you going home today?",
+        "ar": "هل ستعود إلى البيت اليوم؟",
+        "context": "تسأل عن هدف السفر."
+      },
+      {
+        "id": 9,
+        "en": "Are you traveling for work?",
+        "ar": "هل تسافر من أجل العمل؟",
+        "context": "تسأل عن سبب الرحلة."
+      },
+      {
+        "id": 10,
+        "en": "Are you leaving from this gate?",
+        "ar": "هل ستغادر من هذه البوابة؟",
+        "context": "تتأكد من بوابة السفر."
+      }
+    ]
+  }
+}

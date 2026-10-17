@@ -1,0 +1,111 @@
+{
+  "schemaVersion": 1,
+  "id": 194,
+  "sentence": {
+    "en": "One ticket to New York please.",
+    "ar": "تذكرة واحدة إلى نيويورك من فضلك.",
+    "context": "اطلب تذكرة إلى نيويورك."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "One ticket to New York please.",
+        "ar": "تذكرة واحدة إلى نيويورك من فضلك.",
+        "context": "تُستخدم كعبارة قصيرة تؤدي وظيفة واضحة في هذا الموقف.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه عبارة طلب مختصرة في موقف شراء تذكرة، وفيها حذف لكلمات مفهومة مثل أريد، لذلك لا تحمل زمنًا مستقلًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "One",
+            "description": "واحدة، وتحدد عدد التذاكر المطلوبة."
+          },
+          {
+            "term": "ticket",
+            "description": "تذكرة للسفر أو الدخول."
+          },
+          {
+            "term": "to",
+            "description": "إلى، وتربط التذكرة بالوجهة."
+          },
+          {
+            "term": "New",
+            "description": "جزء من اسم مدينة نيويورك."
+          },
+          {
+            "term": "York",
+            "description": "جزء من اسم مدينة نيويورك."
+          },
+          {
+            "term": "please",
+            "description": "من فضلك، وتجعل الطلب مهذبًا."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "One ticket to New York please.",
+        "ar": "تذكرة واحدة إلى نيويورك من فضلك.",
+        "context": "تقال عند طلب تذكرة إلى نيويورك."
+      },
+      {
+        "id": 2,
+        "en": "One ticket to Boston, please.",
+        "ar": "تذكرة واحدة إلى بوسطن، من فضلك.",
+        "context": "تقال عند شراء تذكرة إلى بوسطن."
+      },
+      {
+        "id": 3,
+        "en": "One ticket to Chicago, please.",
+        "ar": "تذكرة واحدة إلى شيكاغو، من فضلك.",
+        "context": "تقال عند تحديد وجهة التذكرة."
+      },
+      {
+        "id": 4,
+        "en": "One ticket to the airport, please.",
+        "ar": "تذكرة واحدة إلى المطار، من فضلك.",
+        "context": "تقال عند شراء تذكرة مواصلات إلى المطار."
+      },
+      {
+        "id": 5,
+        "en": "One bus ticket, please.",
+        "ar": "تذكرة حافلة واحدة، من فضلك.",
+        "context": "تقال عند طلب تذكرة حافلة."
+      },
+      {
+        "id": 6,
+        "en": "One train ticket, please.",
+        "ar": "تذكرة قطار واحدة، من فضلك.",
+        "context": "تقال عند طلب تذكرة قطار."
+      },
+      {
+        "id": 7,
+        "en": "One round trip ticket, please.",
+        "ar": "تذكرة ذهاب وعودة واحدة، من فضلك.",
+        "context": "تقال عند طلب تذكرة تشمل الرجوع."
+      },
+      {
+        "id": 8,
+        "en": "One one way ticket, please.",
+        "ar": "تذكرة ذهاب فقط واحدة، من فضلك.",
+        "context": "تقال عند طلب تذكرة باتجاه واحد."
+      },
+      {
+        "id": 9,
+        "en": "One ticket for today, please.",
+        "ar": "تذكرة واحدة لليوم، من فضلك.",
+        "context": "تقال عند تحديد يوم السفر أو الدخول."
+      },
+      {
+        "id": 10,
+        "en": "One ticket for tomorrow, please.",
+        "ar": "تذكرة واحدة للغد، من فضلك.",
+        "context": "تقال عند شراء تذكرة ليوم لاحق."
+      }
+    ]
+  }
+}

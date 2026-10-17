@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "id": 2,
+  "sentence": {
+    "en": "When you have money, the same people ask, How are you?",
+    "ar": "عندما أنت تملك مالًا، نفس الناس يسألون، كيف حالك؟",
+    "context": "المقصود أن نفس الأشخاص يغيرون سؤالهم ونبرة حديثهم عند وجود المال."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "When you have money",
+        "ar": "عندما تملك مالًا.",
+        "context": "تضع العبارة شرطًا معاكسًا: وجود المال.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استعمل have في المضارع البسيط لوصف حالة عامة."
+        },
+        "wordMeanings": [
+          {
+            "term": "When",
+            "description": "عندما."
+          },
+          {
+            "term": "you",
+            "description": "ضمير المخاطب."
+          },
+          {
+            "term": "have",
+            "description": "تملك أو لديك."
+          },
+          {
+            "term": "money",
+            "description": "مال."
+          }
+        ]
+      },
+      {
+        "sentence": "the same people ask, How are you?",
+        "ar": "يسأل الناس أنفسهم: كيف حالك؟",
+        "context": "توضح العبارة تغير سؤال الناس ونبرة اهتمامهم.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استعمل ask لوصف سلوك عام، وare في السؤال عن الحال."
+        },
+        "wordMeanings": [
+          {
+            "term": "the",
+            "description": "أداة تعريف تشير إلى شيء محدد."
+          },
+          {
+            "term": "same",
+            "description": "نفس."
+          },
+          {
+            "term": "people",
+            "description": "الناس."
+          },
+          {
+            "term": "ask",
+            "description": "يسألون."
+          },
+          {
+            "term": "How",
+            "description": "كيف."
+          },
+          {
+            "term": "are",
+            "description": "صيغة تدل على الحالة أو السؤال."
+          },
+          {
+            "term": "you",
+            "description": "ضمير المخاطب."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "When he had no money, people ignored him.",
+        "ar": "عندما لم يكن لديه مال، تجاهله الناس.",
+        "context": "تصف تغير تعامل الناس مع الفقر."
+      },
+      {
+        "id": 2,
+        "en": "When she became rich, everyone called her.",
+        "ar": "عندما أصبحت غنية، اتصل بها الجميع.",
+        "context": "توضح الاهتمام المفاجئ بعد المال."
+      },
+      {
+        "id": 3,
+        "en": "The same friends asked about his health.",
+        "ar": "سأل الأصدقاء أنفسهم عن صحته.",
+        "context": "تصف اهتمامًا مرتبطًا بالمصلحة."
+      },
+      {
+        "id": 4,
+        "en": "Before success, he felt invisible.",
+        "ar": "قبل النجاح، شعر بأنه غير مرئي.",
+        "context": "تستخدم لوصف الإهمال الاجتماعي."
+      },
+      {
+        "id": 5,
+        "en": "After success, his name became unforgettable.",
+        "ar": "بعد النجاح، أصبح اسمه لا ينسى.",
+        "context": "تصف تغير المكانة بعد النجاح."
+      },
+      {
+        "id": 6,
+        "en": "People can become attentive for the wrong reason.",
+        "ar": "يمكن أن يصبح الناس منتبهين لسبب خاطئ.",
+        "context": "تقال عن الاهتمام غير الصادق."
+      },
+      {
+        "id": 7,
+        "en": "Money changed their questions and their tone.",
+        "ar": "غيّر المال أسئلتهم ونبرة كلامهم.",
+        "context": "توضح تغير المعاملة بسبب المال."
+      },
+      {
+        "id": 8,
+        "en": "They were available only after he had power.",
+        "ar": "كانوا متاحين فقط بعد أن امتلك القوة.",
+        "context": "تصف توفرًا قائمًا على المصلحة."
+      },
+      {
+        "id": 9,
+        "en": "A poor person may be treated like a stranger.",
+        "ar": "قد يعامل الشخص الفقير كغريب.",
+        "context": "توضح قسوة الحكم الاجتماعي."
+      },
+      {
+        "id": 10,
+        "en": "Respect should not depend on wealth.",
+        "ar": "لا ينبغي أن يعتمد الاحترام على الغنى.",
+        "context": "تقرر معنى أخلاقيًا عامًا."
+      }
+    ]
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "id": 2978,
+  "sentence": {
+    "en": "My uncle lives nearby.",
+    "ar": "عمي يعيش قريبًا.",
+    "context": "رجل من العائلة من جهة الأب."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "My uncle lives nearby.",
+        "ar": "عمي يعيش بالقرب.",
+        "context": "تصف الجملة أن عم المتكلم يسكن في مكان قريب.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُخدم المضارع البسيط لأن lives يصف مكان السكن الحالي أو الدائم."
+        },
+        "wordMeanings": [
+          {
+            "term": "My",
+            "description": "خاصتي أو لي؛ تدل على أن العم من عائلة المتكلم."
+          },
+          {
+            "term": "uncle",
+            "description": "عم أو خال؛ رجل من العائلة، وقد يحدد السياق العربي هنا أنه عم."
+          },
+          {
+            "term": "lives",
+            "description": "يعيش أو يسكن؛ صيغة المضارع البسيط مع uncle."
+          },
+          {
+            "term": "nearby",
+            "description": "بالقرب؛ في مكان قريب من المتكلم أو من المكان المقصود."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "My uncle lives nearby.",
+        "ar": "عمي يعيش بالقرب.",
+        "context": "تصف مكان سكن العم."
+      },
+      {
+        "id": 2,
+        "en": "My aunt lives nearby.",
+        "ar": "عمتي تعيش بالقرب.",
+        "context": "تستخدم الجملة مع قريبة أخرى."
+      },
+      {
+        "id": 3,
+        "en": "My uncle lives far away.",
+        "ar": "عمي يعيش بعيدا.",
+        "context": "تستخدم المعنى المعاكس للقرب."
+      },
+      {
+        "id": 4,
+        "en": "My uncle does not live nearby.",
+        "ar": "عمي لا يعيش بالقرب.",
+        "context": "تنفي قرب سكن العم."
+      },
+      {
+        "id": 5,
+        "en": "Does your uncle live nearby?",
+        "ar": "هل يعيش عمك بالقرب؟",
+        "context": "تسأل عن مكان سكن العم."
+      },
+      {
+        "id": 6,
+        "en": "My uncle lived nearby before.",
+        "ar": "كان عمي يعيش بالقرب من قبل.",
+        "context": "تنقل السكن القريب إلى الماضي."
+      },
+      {
+        "id": 7,
+        "en": "My uncle will live nearby next year.",
+        "ar": "سيعيش عمي بالقرب العام القادم.",
+        "context": "تنقل السكن القريب إلى المستقبل."
+      },
+      {
+        "id": 8,
+        "en": "My uncle lives nearby, so I visit him often.",
+        "ar": "عمي يعيش بالقرب، لذلك أزوره كثيرا.",
+        "context": "تذكر نتيجة قرب السكن."
+      },
+      {
+        "id": 9,
+        "en": "Because my uncle lives nearby, he can help us.",
+        "ar": "لأن عمي يعيش بالقرب، يستطيع مساعدتنا.",
+        "context": "توضح فائدة قرب العم."
+      },
+      {
+        "id": 10,
+        "en": "If my uncle lives nearby, invite him to dinner.",
+        "ar": "إذا كان عمي يعيش بالقرب، فادعه إلى العشاء.",
+        "context": "تستخدم الجملة داخل اقتراح."
+      }
+    ]
+  }
+}

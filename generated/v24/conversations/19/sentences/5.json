@@ -1,0 +1,139 @@
+{
+  "schemaVersion": 1,
+  "id": 5,
+  "sentence": {
+    "en": "Sure. There is a nice coffee shop near my house.",
+    "ar": "بالتأكيد. هناك مقهى لطيف بالقرب من بيتي.",
+    "context": "يقترح بديلاً مناسبًا للقاء."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Sure.",
+        "ar": "بالتأكيد.",
+        "context": "تستخدم للموافقة على الاقتراح.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "كلمة جواب قصيرة للتأكيد أو الموافقة ولا تحمل زمنا مستقلا."
+        },
+        "wordMeanings": [
+          {
+            "term": "Sure",
+            "description": "بالتأكيد أو طبعا"
+          }
+        ]
+      },
+      {
+        "sentence": "There is a nice coffee shop near my house.",
+        "ar": "هناك مقهى لطيف بالقرب من بيتي.",
+        "context": "يعرض مكانا بديلا مناسبا للقاء.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "تركيب There is يستخدم لإثبات وجود شيء مفرد في مكان."
+        },
+        "wordMeanings": [
+          {
+            "term": "There",
+            "description": "تبدأ بها جملة وجود الشيء"
+          },
+          {
+            "term": "is",
+            "description": "تدل على وجود شيء مفرد"
+          },
+          {
+            "term": "a",
+            "description": "أداة تنكير قبل اسم مفرد"
+          },
+          {
+            "term": "nice",
+            "description": "لطيف أو جيد"
+          },
+          {
+            "term": "coffee",
+            "description": "قهوة، وهنا جزء من اسم المقهى"
+          },
+          {
+            "term": "shop",
+            "description": "محل أو مكان، ومع coffee تعني مقهى"
+          },
+          {
+            "term": "near",
+            "description": "بالقرب من"
+          },
+          {
+            "term": "my",
+            "description": "لي أو خاص بي"
+          },
+          {
+            "term": "house",
+            "description": "بيت أو منزل"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Sure. There is a small park near my house.",
+        "ar": "بالتأكيد. هناك حديقة صغيرة بالقرب من بيتي.",
+        "context": "اقتراح مكان قريب للذهاب إليه."
+      },
+      {
+        "id": 2,
+        "en": "There is a nice restaurant near the station.",
+        "ar": "هناك مطعم لطيف بالقرب من المحطة.",
+        "context": "وصف مكان مناسب للأكل."
+      },
+      {
+        "id": 3,
+        "en": "Sure. There is a bus stop near here.",
+        "ar": "بالتأكيد. هناك موقف حافلات بالقرب من هنا.",
+        "context": "إرشاد شخص إلى مواصلات قريبة."
+      },
+      {
+        "id": 4,
+        "en": "There is a quiet room near the office.",
+        "ar": "هناك غرفة هادئة بالقرب من المكتب.",
+        "context": "اقتراح مكان للتركيز أو الاجتماع."
+      },
+      {
+        "id": 5,
+        "en": "Sure. There is a table near the window.",
+        "ar": "بالتأكيد. هناك طاولة بالقرب من النافذة.",
+        "context": "تحديد مكان مناسب للجلوس."
+      },
+      {
+        "id": 6,
+        "en": "There is a good school near my street.",
+        "ar": "هناك مدرسة جيدة بالقرب من شارعي.",
+        "context": "وصف مرفق قريب من السكن."
+      },
+      {
+        "id": 7,
+        "en": "Sure. There is a shop near the hotel.",
+        "ar": "بالتأكيد. هناك متجر بالقرب من الفندق.",
+        "context": "إخبار شخص بمكان شراء قريب."
+      },
+      {
+        "id": 8,
+        "en": "There is a clean bathroom near the hall.",
+        "ar": "هناك حمام نظيف بالقرب من القاعة.",
+        "context": "إرشاد شخص إلى مرفق قريب."
+      },
+      {
+        "id": 9,
+        "en": "Sure. There is a cafe near the gym.",
+        "ar": "بالتأكيد. هناك مقهى بالقرب من النادي.",
+        "context": "اقتراح مكان بعد التمرين."
+      },
+      {
+        "id": 10,
+        "en": "There is a nice view near the bridge.",
+        "ar": "هناك منظر جميل بالقرب من الجسر.",
+        "context": "وصف مكان يستحق الزيارة."
+      }
+    ]
+  }
+}

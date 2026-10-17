@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "id": 1333,
+  "sentence": {
+    "en": "He is a teacher.",
+    "ar": "هو مدرس.",
+    "context": "قدّم شخصًا بذكر وظيفته باستخدام فعل be كفعل رئيسي."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "He is a teacher.",
+        "ar": "هو مدرس.",
+        "context": "تستخدم الجملة للتعريف بمهنة شخص.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "is يربط الشخص بصفته أو مهنته الحالية."
+        },
+        "wordMeanings": [
+          {
+            "term": "He",
+            "description": "هو؛ تشير إلى رجل أو ولد."
+          },
+          {
+            "term": "is",
+            "description": "تعني يكون أو هو في وصف الحالة."
+          },
+          {
+            "term": "a",
+            "description": "أداة نكرة قبل اسم مفرد."
+          },
+          {
+            "term": "teacher",
+            "description": "مدرس أو معلم."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "She is a doctor.",
+        "ar": "هي طبيبة.",
+        "context": "يقال عند التعريف بمهنة امرأة."
+      },
+      {
+        "id": 2,
+        "en": "He is a student.",
+        "ar": "هو طالب.",
+        "context": "يقال عند وصف دور شخص."
+      },
+      {
+        "id": 3,
+        "en": "My father is a teacher.",
+        "ar": "أبي مدرس.",
+        "context": "يقال عند ذكر مهنة قريب."
+      },
+      {
+        "id": 4,
+        "en": "She is an artist.",
+        "ar": "هي فنانة.",
+        "context": "يقال عند التعريف بعمل فني."
+      },
+      {
+        "id": 5,
+        "en": "He is a good teacher.",
+        "ar": "هو مدرس جيد.",
+        "context": "يقال عند مدح معلم."
+      },
+      {
+        "id": 6,
+        "en": "They are teachers.",
+        "ar": "هم مدرسون.",
+        "context": "يقال عند وصف مجموعة."
+      },
+      {
+        "id": 7,
+        "en": "I am a nurse.",
+        "ar": "أنا ممرض.",
+        "context": "يقال عند التعريف بالمهنة."
+      },
+      {
+        "id": 8,
+        "en": "He was a teacher before.",
+        "ar": "كان مدرسًا من قبل.",
+        "context": "يقال عن مهنة سابقة."
+      },
+      {
+        "id": 9,
+        "en": "She is a manager.",
+        "ar": "هي مديرة.",
+        "context": "يقال عند ذكر منصب."
+      },
+      {
+        "id": 10,
+        "en": "He is a teacher at my school.",
+        "ar": "هو مدرس في مدرستي.",
+        "context": "يقال عند تحديد مكان العمل."
+      }
+    ]
+  }
+}

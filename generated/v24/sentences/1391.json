@@ -1,0 +1,147 @@
+{
+  "schemaVersion": 1,
+  "id": 1391,
+  "sentence": {
+    "en": "I wanted to go to the party, but I was too tired.",
+    "ar": "كنت أريد الذهاب إلى الحفلة، لكنني كنت متعبًا جدًا.",
+    "context": "اربط بين رغبتين متضادتين باستخدام أداة ربط."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "I wanted to go to the party",
+        "ar": "كنت أريد الذهاب إلى الحفلة",
+        "context": "يوضح هذا الجزء رغبة المتكلم في الماضي.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "wanted في الماضي البسيط لأنه يصف رغبة كانت موجودة في وقت سابق."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "أنا؛ المتكلم."
+          },
+          {
+            "term": "wanted",
+            "description": "كنت أريد أو رغبت."
+          },
+          {
+            "term": "to",
+            "description": "تربط الرغبة بالفعل التالي."
+          },
+          {
+            "term": "go",
+            "description": "أذهب."
+          },
+          {
+            "term": "to",
+            "description": "إلى؛ تحدد اتجاه الذهاب."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف لحفلة محددة."
+          },
+          {
+            "term": "party",
+            "description": "حفلة."
+          }
+        ]
+      },
+      {
+        "sentence": "but I was too tired.",
+        "ar": "لكنني كنت متعبًا جدًا.",
+        "context": "يوضح هذا الجزء السبب الذي منع الرغبة من الحدوث.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "was يصف حالة المتكلم في الماضي، وbut تربط بين الرغبة والعائق."
+        },
+        "wordMeanings": [
+          {
+            "term": "but",
+            "description": "لكن؛ تربط بين فكرتين متضادتين."
+          },
+          {
+            "term": "I",
+            "description": "أنا؛ المتكلم."
+          },
+          {
+            "term": "was",
+            "description": "كنت؛ تصف حالة في الماضي."
+          },
+          {
+            "term": "too",
+            "description": "جدًا أو أكثر من الحد المناسب."
+          },
+          {
+            "term": "tired",
+            "description": "متعب."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I wanted to study, but I was too sleepy.",
+        "ar": "كنت أريد الدراسة، لكنني كنت نعسانًا جدًا.",
+        "context": "يقال عند وجود رغبة وعائق."
+      },
+      {
+        "id": 2,
+        "en": "She wanted to come, but she was sick.",
+        "ar": "كانت تريد المجيء، لكنها كانت مريضة.",
+        "context": "يقال عند منع المرض للخطة."
+      },
+      {
+        "id": 3,
+        "en": "He wanted to play, but he was too busy.",
+        "ar": "كان يريد اللعب، لكنه كان مشغولًا جدًا.",
+        "context": "يقال عند تعارض الرغبة مع الانشغال."
+      },
+      {
+        "id": 4,
+        "en": "I went to the party yesterday.",
+        "ar": "ذهبت إلى الحفلة أمس.",
+        "context": "يقال عن حضور حفلة في الماضي."
+      },
+      {
+        "id": 5,
+        "en": "I was too tired to cook.",
+        "ar": "كنت متعبًا جدًا لدرجة أنني لم أستطع الطبخ.",
+        "context": "يقال عند منع التعب لفعل."
+      },
+      {
+        "id": 6,
+        "en": "They wanted to leave, but the rain started.",
+        "ar": "كانوا يريدون المغادرة، لكن المطر بدأ.",
+        "context": "يقال عند تغير الخطة بسبب الطقس."
+      },
+      {
+        "id": 7,
+        "en": "I wanted to call you, but my phone died.",
+        "ar": "كنت أريد الاتصال بك، لكن هاتفي نفدت بطاريته.",
+        "context": "يقال عند وجود سبب منع الاتصال."
+      },
+      {
+        "id": 8,
+        "en": "She was tired after work.",
+        "ar": "كانت متعبة بعد العمل.",
+        "context": "يقال عند وصف سبب التعب."
+      },
+      {
+        "id": 9,
+        "en": "I wanted to go out tonight.",
+        "ar": "كنت أريد الخروج الليلة.",
+        "context": "يقال عند ذكر رغبة في الماضي."
+      },
+      {
+        "id": 10,
+        "en": "He was too tired after the trip.",
+        "ar": "كان متعبًا جدًا بعد الرحلة.",
+        "context": "يقال عند وصف تعب شديد."
+      }
+    ]
+  }
+}

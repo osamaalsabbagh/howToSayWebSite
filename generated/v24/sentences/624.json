@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "id": 624,
+  "sentence": {
+    "en": "How much is this?",
+    "ar": "كم سعر هذا؟",
+    "context": "السؤال عن سعر شيء قريب منك."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "How much is this?",
+        "ar": "كم سعر هذا؟",
+        "context": "تستخدم للسؤال عن سعر شيء قريب أو في يدك.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "السؤال عن السعر الحالي لشيء."
+        },
+        "wordMeanings": [
+          {
+            "term": "How",
+            "description": "كم، وتأتي هنا للسؤال عن السعر."
+          },
+          {
+            "term": "much",
+            "description": "مقدار أو ثمن."
+          },
+          {
+            "term": "is",
+            "description": "صيغة تربط الشيء بسعره."
+          },
+          {
+            "term": "this",
+            "description": "هذا، وتشير إلى شيء قريب."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "How much is this shirt?",
+        "ar": "كم سعر هذا القميص؟",
+        "context": "تقال عند شراء قميص."
+      },
+      {
+        "id": 2,
+        "en": "How much is that?",
+        "ar": "كم سعر ذلك؟",
+        "context": "تستخدم للسؤال عن شيء أبعد."
+      },
+      {
+        "id": 3,
+        "en": "This is five dollars.",
+        "ar": "هذا بخمسة دولارات.",
+        "context": "تقال للإجابة عن السعر."
+      },
+      {
+        "id": 4,
+        "en": "How much is this phone card?",
+        "ar": "كم سعر بطاقة الهاتف هذه؟",
+        "context": "تستخدم عند شراء بطاقة هاتف."
+      },
+      {
+        "id": 5,
+        "en": "How much are these shoes?",
+        "ar": "كم سعر هذه الأحذية؟",
+        "context": "تقال عن شيء جمع أو زوج."
+      },
+      {
+        "id": 6,
+        "en": "How much is this room?",
+        "ar": "كم سعر هذه الغرفة؟",
+        "context": "تستخدم في فندق."
+      },
+      {
+        "id": 7,
+        "en": "This is very expensive.",
+        "ar": "هذا غال جداً.",
+        "context": "تقال عند التعليق على السعر."
+      },
+      {
+        "id": 8,
+        "en": "How much does this cost?",
+        "ar": "كم يكلف هذا؟",
+        "context": "تستخدم بصيغة أخرى للسؤال عن السعر."
+      },
+      {
+        "id": 9,
+        "en": "How much is this ticket?",
+        "ar": "كم سعر هذه التذكرة؟",
+        "context": "تقال عند شراء تذكرة."
+      },
+      {
+        "id": 10,
+        "en": "This costs ten dollars.",
+        "ar": "هذا يكلف عشرة دولارات.",
+        "context": "تستخدم للإجابة بسعر محدد."
+      }
+    ]
+  }
+}

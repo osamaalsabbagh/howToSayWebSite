@@ -1,0 +1,131 @@
+{
+  "schemaVersion": 1,
+  "id": 1,
+  "sentence": {
+    "en": "Hi! Can you believe it is already August?",
+    "ar": "مرحبًا! هل يمكنك أن تصدق أنه أصبح بالفعل شهر أغسطس؟",
+    "context": "بدء مكالمة هاتفية بالتعليق على سرعة مرور الوقت"
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Hi!",
+        "ar": "مرحبًا!",
+        "context": "يفتتح بها المتحدث الكلام قبل الدخول في الفكرة الأساسية.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه تحية قصيرة وليست جملة فعلية لها زمن مستقل."
+        },
+        "wordMeanings": [
+          {
+            "term": "Hi",
+            "description": "تحية قصيرة وغير رسمية لبدء الحديث."
+          }
+        ]
+      },
+      {
+        "sentence": "Can you believe it is already August?",
+        "ar": "هل يمكنك أن تصدق أنه أصبح بالفعل شهر أغسطس؟",
+        "context": "يُستخدم هذا السؤال لطلب شيء أو المساعدة بشكل مهذب.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذا سؤال تعجبي يعتمد على can للتعبير عن صعوبة تصديق سرعة مرور الوقت، لذلك يشرح كتركيب وظيفي لا كزمن مستقل."
+        },
+        "wordMeanings": [
+          {
+            "term": "Can",
+            "description": "تبدأ سؤالًا عن القدرة أو التصديق، وتستعمل هنا للتعجب."
+          },
+          {
+            "term": "you",
+            "description": "ضمير المخاطب."
+          },
+          {
+            "term": "believe",
+            "description": "تعني تصدق أو تستوعب أن شيئًا صحيح."
+          },
+          {
+            "term": "it",
+            "description": "ضمير يعود على فكرة وصول شهر أغسطس."
+          },
+          {
+            "term": "is",
+            "description": "صيغة تربط الضمير بالحالة أو الوقت الحالي."
+          },
+          {
+            "term": "already",
+            "description": "تعني بالفعل أو بهذه السرعة قبل المتوقع."
+          },
+          {
+            "term": "August",
+            "description": "شهر أغسطس."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Can you believe it is already Friday?",
+        "ar": "هل يمكنك أن تصدق أنه أصبح بالفعل يوم الجمعة؟",
+        "context": "تتعجب من سرعة مرور الأسبوع."
+      },
+      {
+        "id": 2,
+        "en": "Can you believe it is already summer?",
+        "ar": "هل يمكنك أن تصدق أنه أصبح الصيف بالفعل؟",
+        "context": "تعلّق على سرعة تغير الموسم."
+      },
+      {
+        "id": 3,
+        "en": "Hi! Can you believe the trip is tomorrow?",
+        "ar": "مرحبًا! هل يمكنك أن تصدق أن الرحلة غدًا؟",
+        "context": "تبدأ حديثًا بحماس عن موعد قريب."
+      },
+      {
+        "id": 4,
+        "en": "Can you believe it is already noon?",
+        "ar": "هل يمكنك أن تصدق أنها أصبحت الظهيرة بالفعل؟",
+        "context": "تتعجب من مرور الوقت خلال اليوم."
+      },
+      {
+        "id": 5,
+        "en": "Can you believe August is almost over?",
+        "ar": "هل يمكنك أن تصدق أن أغسطس أوشك على الانتهاء؟",
+        "context": "تتحدث عن نهاية الشهر بسرعة."
+      },
+      {
+        "id": 6,
+        "en": "Hi! It is already August.",
+        "ar": "مرحبًا! لقد أصبح أغسطس بالفعل.",
+        "context": "تفتتح مكالمة بتعليق على الوقت."
+      },
+      {
+        "id": 7,
+        "en": "Can you believe the baby is already one?",
+        "ar": "هل يمكنك أن تصدق أن الطفل أصبح عمره سنة بالفعل؟",
+        "context": "تتعجب من سرعة نمو طفل."
+      },
+      {
+        "id": 8,
+        "en": "Can you believe it is already time to leave?",
+        "ar": "هل يمكنك أن تصدق أن وقت المغادرة حان بالفعل؟",
+        "context": "تتعجب من قرب موعد المغادرة."
+      },
+      {
+        "id": 9,
+        "en": "Can you believe next week is so close?",
+        "ar": "هل يمكنك أن تصدق أن الأسبوع القادم قريب جدًا؟",
+        "context": "تتحدث عن اقتراب موعد."
+      },
+      {
+        "id": 10,
+        "en": "Hi! Can you believe we are in August now?",
+        "ar": "مرحبًا! هل يمكنك أن تصدق أننا في أغسطس الآن؟",
+        "context": "تبدأ الحديث بملاحظة عن الشهر الحالي."
+      }
+    ]
+  }
+}

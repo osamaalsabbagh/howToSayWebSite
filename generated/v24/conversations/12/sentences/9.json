@@ -1,0 +1,163 @@
+{
+  "schemaVersion": 1,
+  "id": 9,
+  "sentence": {
+    "en": "Yes, we can send it to another address if you tell us today.",
+    "ar": "نعم، يمكننا إرساله إلى عنوان آخر إذا أخبرتنا اليوم.",
+    "context": "يؤكد إمكانية الإرسال لعنوان بديل بشرط الإبلاغ في نفس اليوم."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Yes",
+        "ar": "نعم.",
+        "context": "يعطي ردًا مباشرًا على ما قيل أو سُئل عنه قبلها.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "كلمة موافقة قصيرة وليست جملة بزمن مستقل."
+        },
+        "wordMeanings": [
+          {
+            "term": "Yes",
+            "description": "إجابة موافقة أو تأكيد."
+          }
+        ]
+      },
+      {
+        "sentence": "we can send it to another address",
+        "ar": "يمكننا إرساله إلى عنوان آخر.",
+        "context": "يبيّن ما يمكن فعله أو ترتيبه في هذا الموقف.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "تستخدم can للتعبير عن الإمكانية أو القدرة على إرسال الطرد لعنوان آخر."
+        },
+        "wordMeanings": [
+          {
+            "term": "we",
+            "description": "ضمير يشير إلى المتكلم ومن معه، مثل الشركة أو فريق الخدمة."
+          },
+          {
+            "term": "can",
+            "description": "تدل على القدرة أو الإمكانية."
+          },
+          {
+            "term": "send",
+            "description": "يرسل أو يشحن."
+          },
+          {
+            "term": "it",
+            "description": "ضمير يعود على الطلب أو الطرد."
+          },
+          {
+            "term": "to",
+            "description": "تحدد الجهة أو المكان الذي سيصل إليه الشيء."
+          },
+          {
+            "term": "another",
+            "description": "آخر أو مختلف."
+          },
+          {
+            "term": "address",
+            "description": "عنوان."
+          }
+        ]
+      },
+      {
+        "sentence": "if you tell us today",
+        "ar": "إذا أخبرتنا اليوم.",
+        "context": "يضع شرطًا يحدد متى ينطبق الكلام أو الإجراء.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "يأتي المضارع البسيط داخل شرط حقيقي يحدد ما يجب أن يحدث اليوم."
+        },
+        "wordMeanings": [
+          {
+            "term": "if",
+            "description": "تدخل شرطًا."
+          },
+          {
+            "term": "you",
+            "description": "ضمير المخاطب."
+          },
+          {
+            "term": "tell",
+            "description": "تخبر أو تبلغ."
+          },
+          {
+            "term": "us",
+            "description": "ضمير يشير إلى فريق الخدمة أو الشركة."
+          },
+          {
+            "term": "today",
+            "description": "هذا اليوم."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Yes, we can send it tomorrow if you confirm today.",
+        "ar": "نعم، يمكننا إرساله غدًا إذا أكدت اليوم.",
+        "context": "يُستخدم عند ربط الإرسال بشرط."
+      },
+      {
+        "id": 2,
+        "en": "We can deliver it to another address if you call us today.",
+        "ar": "يمكننا توصيله إلى عنوان آخر إذا اتصلت بنا اليوم.",
+        "context": "يُستخدم عند السماح بتغيير العنوان بشرط الاتصال."
+      },
+      {
+        "id": 3,
+        "en": "Yes, we can change the date if you ask now.",
+        "ar": "نعم، يمكننا تغيير التاريخ إذا طلبت الآن.",
+        "context": "يُستخدم عند تعديل موعد قبل فوات الوقت."
+      },
+      {
+        "id": 4,
+        "en": "We can send the file to another email if you give it today.",
+        "ar": "يمكننا إرسال الملف إلى بريد إلكتروني آخر إذا أعطيته اليوم.",
+        "context": "يُستخدم عند تغيير جهة إرسال."
+      },
+      {
+        "id": 5,
+        "en": "Yes, we can update your order if you tell us now.",
+        "ar": "نعم، يمكننا تحديث طلبك إذا أخبرتنا الآن.",
+        "context": "يُستخدم في خدمة العملاء عند تعديل طلب."
+      },
+      {
+        "id": 6,
+        "en": "We can call another number if you prefer.",
+        "ar": "يمكننا الاتصال برقم آخر إذا كنت تفضل.",
+        "context": "يُستخدم عند تغيير رقم التواصل."
+      },
+      {
+        "id": 7,
+        "en": "Yes, we can send it to your office.",
+        "ar": "نعم، يمكننا إرساله إلى مكتبك.",
+        "context": "يُستخدم عند اختيار مكان استلام مختلف."
+      },
+      {
+        "id": 8,
+        "en": "We can change the address if the package has not left.",
+        "ar": "يمكننا تغيير العنوان إذا لم يغادر الطرد.",
+        "context": "يُستخدم عندما يعتمد التعديل على حالة الشحنة."
+      },
+      {
+        "id": 9,
+        "en": "Yes, we can help if you send the details today.",
+        "ar": "نعم، يمكننا المساعدة إذا أرسلت التفاصيل اليوم.",
+        "context": "يُستخدم عند طلب معلومات لإتمام الخدمة."
+      },
+      {
+        "id": 10,
+        "en": "We can send it again if you need another copy.",
+        "ar": "يمكننا إرساله مرة أخرى إذا كنت تحتاج نسخة أخرى.",
+        "context": "يُستخدم عند إعادة إرسال شيء."
+      }
+    ]
+  }
+}

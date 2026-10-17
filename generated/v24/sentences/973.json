@@ -1,0 +1,111 @@
+{
+  "schemaVersion": 1,
+  "id": 973,
+  "sentence": {
+    "en": "What is the weather like today?",
+    "ar": "كيف الطقس اليوم؟",
+    "context": "تُستخدم للسؤال عن حالة الطقس الحالية."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "What is the weather like today",
+        "ar": "كيف الطقس اليوم",
+        "context": "تُستخدم للسؤال عن حالة الطقس في هذا اليوم.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "السؤال يستخدم is لوصف حالة حالية، وكلمة today تحدد الزمن باليوم الحالي."
+        },
+        "wordMeanings": [
+          {
+            "term": "What",
+            "description": "ما، وتدخل هنا في سؤال عن الوصف أو الحالة"
+          },
+          {
+            "term": "is",
+            "description": "تربط الطقس بوصفه في السؤال"
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف تشير إلى الطقس المعروف في المكان أو اليوم"
+          },
+          {
+            "term": "weather",
+            "description": "الطقس"
+          },
+          {
+            "term": "like",
+            "description": "مثل أو على أي حال، وتستخدم هنا للسؤال عن الوصف"
+          },
+          {
+            "term": "today",
+            "description": "اليوم"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "What is the weather like tomorrow?",
+        "ar": "كيف سيكون الطقس غدًا؟",
+        "context": "تُستخدم للسؤال عن طقس الغد."
+      },
+      {
+        "id": 2,
+        "en": "What is the weather like in London?",
+        "ar": "كيف الطقس في لندن؟",
+        "context": "تُستخدم للسؤال عن طقس مدينة معينة."
+      },
+      {
+        "id": 3,
+        "en": "What is the weather like outside?",
+        "ar": "كيف الطقس في الخارج؟",
+        "context": "تُستخدم قبل الخروج."
+      },
+      {
+        "id": 4,
+        "en": "The weather is nice today.",
+        "ar": "الطقس جميل اليوم.",
+        "context": "تُستخدم لوصف الطقس بإيجابية."
+      },
+      {
+        "id": 5,
+        "en": "The weather is cold today.",
+        "ar": "الطقس بارد اليوم.",
+        "context": "تُستخدم عند ملاحظة البرد."
+      },
+      {
+        "id": 6,
+        "en": "The weather is hot today.",
+        "ar": "الطقس حار اليوم.",
+        "context": "تُستخدم عند ملاحظة الحر."
+      },
+      {
+        "id": 7,
+        "en": "What is the weather like this week?",
+        "ar": "كيف الطقس هذا الأسبوع؟",
+        "context": "تُستخدم للسؤال عن فترة أطول."
+      },
+      {
+        "id": 8,
+        "en": "What is the weather like there?",
+        "ar": "كيف الطقس هناك؟",
+        "context": "تُستخدم للسؤال عن مكان بعيد."
+      },
+      {
+        "id": 9,
+        "en": "Is the weather good today?",
+        "ar": "هل الطقس جيد اليوم؟",
+        "context": "تُستخدم قبل التخطيط للخروج."
+      },
+      {
+        "id": 10,
+        "en": "What is the weather like now?",
+        "ar": "كيف الطقس الآن؟",
+        "context": "تُستخدم للسؤال عن الحالة الحالية جدًا."
+      }
+    ]
+  }
+}

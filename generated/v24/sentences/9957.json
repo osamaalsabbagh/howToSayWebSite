@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 1,
+  "id": 9957,
+  "sentence": {
+    "en": "Your answer is incorrect; please try again.",
+    "ar": "جوابك غير صحيح؛ من فضلك حاول مرة أخرى.",
+    "context": "تقييم جواب بأنه خاطئ مع طلب محاولة أخرى دون افتراض شاشة أو اختبار محدد.",
+    "sourceWord": "incorrect",
+    "sourcePos": "adj."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Your answer is incorrect;",
+        "ar": "جوابك غير صحيح؛",
+        "context": "بيان خطأ في جواب المخاطب حاليًا.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "المضارع البسيط يصف حالة. الصفة تعني خاطئًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "Your",
+            "description": "ضمير ملكية للمخاطب."
+          },
+          {
+            "term": "answer",
+            "description": "جوابك."
+          },
+          {
+            "term": "is",
+            "description": "صيغة الحاضر للكينونة."
+          },
+          {
+            "term": "incorrect",
+            "description": "غير صحيح."
+          }
+        ]
+      },
+      {
+        "sentence": "please try again.",
+        "ar": "من فضلك حاول مرة أخرى.",
+        "context": "طلب إعادة المحاولة بعد الخطأ.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "صيغة الأمر المهذبة."
+        },
+        "wordMeanings": [
+          {
+            "term": "please",
+            "description": "من فضلك."
+          },
+          {
+            "term": "try",
+            "description": "حاول."
+          },
+          {
+            "term": "again",
+            "description": "مرة أخرى."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Your answer is incorrect; please try again.",
+        "ar": "جوابك غير صحيح؛ من فضلك حاول مرة أخرى.",
+        "context": "تقييم جواب بأنه خاطئ مع طلب محاولة أخرى دون افتراض شاشة أو اختبار محدد."
+      },
+      {
+        "id": 2,
+        "en": "The newspaper printed incorrect information about the accident.",
+        "ar": "الجريدة نشرت معلومات خاطئة عن الحادث.",
+        "context": "وصف نشر سابق لمحتوى غير صحيح دون تعيين نوع الخطأ أو الزعم بأن المتكلم شاهد الحادث."
+      },
+      {
+        "id": 3,
+        "en": "The address on the parcel is incorrect.",
+        "ar": "العنوان على الطرد غير صحيح.",
+        "context": "وصف بيانات توجيه لا تطابق الوجهة المطلوبة."
+      },
+      {
+        "id": 4,
+        "en": "She corrected an incorrect assumption.",
+        "ar": "هي صححت افتراضًا غير صحيح.",
+        "context": "وصف تعديل سابق لفكرة بُنيت على أساس خاطئ."
+      },
+      {
+        "id": 5,
+        "en": "We have removed the incorrect entries.",
+        "ar": "نحن قد أزلنا المدخلات غير الصحيحة.",
+        "context": "الإبلاغ عن حذف مكتمل لعناصر بيانات خاطئة."
+      },
+      {
+        "id": 6,
+        "en": "The team is checking the incorrect totals.",
+        "ar": "الفريق يتحقق من المجاميع غير الصحيحة.",
+        "context": "وصف مراجعة جارية لنتائج حساب غير سليمة."
+      },
+      {
+        "id": 7,
+        "en": "The system will reject an incorrect password.",
+        "ar": "النظام سيرفض كلمة مرور غير صحيحة.",
+        "context": "توقع عدم قبول رمز لا يطابق المطلوب."
+      },
+      {
+        "id": 8,
+        "en": "Please mark the incorrect statements.",
+        "ar": "من فضلك علّم العبارات غير الصحيحة.",
+        "context": "طلب تمييز كلام لا يطابق الحقيقة أو المعيار المعتمد."
+      },
+      {
+        "id": 9,
+        "en": "His pronunciation of the name was incorrect.",
+        "ar": "نطقه للاسم كان غير صحيح.",
+        "context": "وصف خطأ سابق في أصوات اسم."
+      },
+      {
+        "id": 10,
+        "en": "The explanation rests on incorrect data.",
+        "ar": "التفسير يستند إلى بيانات غير صحيحة.",
+        "context": "وصف أساس خاطئ لاستنتاج دون تحديد سببه."
+      }
+    ]
+  }
+}

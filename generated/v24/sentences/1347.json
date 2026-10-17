@@ -1,0 +1,123 @@
+{
+  "schemaVersion": 1,
+  "id": 1347,
+  "sentence": {
+    "en": "I believe you can do it.",
+    "ar": "أؤمن أنك تستطيع فعلها.",
+    "context": "تعبير تشجيعي يُظهر ثقة كبيرة بقدرة شخص على إنجاز ما يطمح إليه."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "I believe",
+        "ar": "أنا أؤمن أو أثق",
+        "context": "يعبر هذا الجزء عن ثقة المتكلم.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "believe في المضارع البسيط لأنه يصف رأيًا أو شعورًا حاليًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "أنا؛ المتكلم."
+          },
+          {
+            "term": "believe",
+            "description": "أؤمن أو أثق."
+          }
+        ]
+      },
+      {
+        "sentence": "you can do it.",
+        "ar": "أنك تستطيع فعلها.",
+        "context": "يوضح هذا الجزء القدرة التي يشجع المتكلم الشخص عليها.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "can تعبر عن القدرة، وهي تركيب مساعد لا يحمل زمنًا مستقلًا هنا."
+        },
+        "wordMeanings": [
+          {
+            "term": "you",
+            "description": "أنت؛ الشخص المخاطب."
+          },
+          {
+            "term": "can",
+            "description": "تستطيع أو تقدر."
+          },
+          {
+            "term": "do",
+            "description": "تفعل أو تنجز."
+          },
+          {
+            "term": "it",
+            "description": "تشير إلى المهمة أو الهدف."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I believe you can win.",
+        "ar": "أؤمن أنك تستطيع الفوز.",
+        "context": "يقال لتشجيع شخص قبل منافسة."
+      },
+      {
+        "id": 2,
+        "en": "You can do this.",
+        "ar": "يمكنك فعل هذا.",
+        "context": "يقال لدعم شخص أمام مهمة."
+      },
+      {
+        "id": 3,
+        "en": "I believe she can pass the test.",
+        "ar": "أؤمن أنها تستطيع اجتياز الاختبار.",
+        "context": "يقال عند الثقة بقدرة شخص."
+      },
+      {
+        "id": 4,
+        "en": "He believes I can help.",
+        "ar": "هو يؤمن أنني أستطيع المساعدة.",
+        "context": "يقال عند ثقة شخص بقدرتك."
+      },
+      {
+        "id": 5,
+        "en": "You can finish the project.",
+        "ar": "يمكنك إنهاء المشروع.",
+        "context": "يقال عند تشجيع شخص على الإنجاز."
+      },
+      {
+        "id": 6,
+        "en": "I believe in your work.",
+        "ar": "أنا أؤمن بعملك.",
+        "context": "يقال عند دعم جهد شخص."
+      },
+      {
+        "id": 7,
+        "en": "She can do it alone.",
+        "ar": "هي تستطيع فعلها وحدها.",
+        "context": "يقال عند وصف قدرة مستقلة."
+      },
+      {
+        "id": 8,
+        "en": "I know you can do it.",
+        "ar": "أعرف أنك تستطيع فعلها.",
+        "context": "صيغة تشجيع قوية."
+      },
+      {
+        "id": 9,
+        "en": "They believe he can succeed.",
+        "ar": "هم يؤمنون أنه يستطيع النجاح.",
+        "context": "يقال عند دعم جماعة لشخص."
+      },
+      {
+        "id": 10,
+        "en": "You can do it if you try.",
+        "ar": "يمكنك فعلها إذا حاولت.",
+        "context": "يقال عند ربط النجاح بالمحاولة."
+      }
+    ]
+  }
+}

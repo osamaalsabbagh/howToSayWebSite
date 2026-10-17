@@ -1,0 +1,111 @@
+{
+  "schemaVersion": 1,
+  "id": 775,
+  "sentence": {
+    "en": "What did you do last night?",
+    "ar": "ماذا فعلت الليلة الماضية؟",
+    "context": "السؤال عن نشاط الليلة الماضية."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "What did you do last night?",
+        "ar": "ماذا فعلت الليلة الماضية؟",
+        "context": "سؤال عن نشاط حدث في وقت ماض محدد.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "يستخدم الماضي البسيط مع last night لأنه وقت منته في الماضي، وتأتي did لتكوين السؤال ويعود الفعل do إلى صورته الأساسية."
+        },
+        "wordMeanings": [
+          {
+            "term": "What",
+            "description": "ماذا؛ للسؤال عن الفعل أو النشاط"
+          },
+          {
+            "term": "did",
+            "description": "أداة سؤال للماضي البسيط"
+          },
+          {
+            "term": "you",
+            "description": "الشخص المخاطب"
+          },
+          {
+            "term": "do",
+            "description": "تفعل أو تقوم به"
+          },
+          {
+            "term": "last",
+            "description": "الماضية أو السابقة"
+          },
+          {
+            "term": "night",
+            "description": "ليلة"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "What did you eat last night?",
+        "ar": "ماذا أكلت الليلة الماضية؟",
+        "context": "للسؤال عن طعام سابق."
+      },
+      {
+        "id": 2,
+        "en": "What did you watch last night?",
+        "ar": "ماذا شاهدت الليلة الماضية؟",
+        "context": "للسؤال عن فيلم أو برنامج."
+      },
+      {
+        "id": 3,
+        "en": "What did you study last night?",
+        "ar": "ماذا درست الليلة الماضية؟",
+        "context": "للسؤال عن دراسة سابقة."
+      },
+      {
+        "id": 4,
+        "en": "What did they do last night?",
+        "ar": "ماذا فعلوا الليلة الماضية؟",
+        "context": "للسؤال عن نشاط مجموعة."
+      },
+      {
+        "id": 5,
+        "en": "Where did you go last night?",
+        "ar": "إلى أين ذهبت الليلة الماضية؟",
+        "context": "للسؤال عن مكان سابق."
+      },
+      {
+        "id": 6,
+        "en": "Who did you meet last night?",
+        "ar": "من قابلت الليلة الماضية؟",
+        "context": "للسؤال عن شخص تمت مقابلته."
+      },
+      {
+        "id": 7,
+        "en": "What did you buy last night?",
+        "ar": "ماذا اشتريت الليلة الماضية؟",
+        "context": "للسؤال عن شراء سابق."
+      },
+      {
+        "id": 8,
+        "en": "What did you cook last night?",
+        "ar": "ماذا طبخت الليلة الماضية؟",
+        "context": "للسؤال عن وجبة تم إعدادها."
+      },
+      {
+        "id": 9,
+        "en": "What did you read last night?",
+        "ar": "ماذا قرأت الليلة الماضية؟",
+        "context": "للسؤال عن قراءة سابقة."
+      },
+      {
+        "id": 10,
+        "en": "What did you write last night?",
+        "ar": "ماذا كتبت الليلة الماضية؟",
+        "context": "للسؤال عن كتابة سابقة."
+      }
+    ]
+  }
+}

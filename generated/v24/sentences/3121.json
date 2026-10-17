@@ -1,0 +1,115 @@
+{
+  "schemaVersion": 1,
+  "id": 3121,
+  "sentence": {
+    "en": "She wrote the message with a pen.",
+    "ar": "هي كتبت الرسالة بقلم.",
+    "context": "استخدام أداة لإنجاز فعل."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "She wrote the message with a pen.",
+        "ar": "كتبت الرسالة بقلم.",
+        "context": "تصف الجملة كتابة رسالة في الماضي وتحدد الأداة المستخدمة.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "استُخدم الماضي البسيط لأن wrote يصف فعلا مكتمل الحدوث في الماضي."
+        },
+        "wordMeanings": [
+          {
+            "term": "She",
+            "description": "هي؛ امرأة أو فتاة نتحدث عنها."
+          },
+          {
+            "term": "wrote",
+            "description": "كتبت؛ الماضي من write."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف قبل message لأن الرسالة محددة."
+          },
+          {
+            "term": "message",
+            "description": "رسالة؛ نص قصير يرسل أو يكتب لشخص."
+          },
+          {
+            "term": "with",
+            "description": "بـ؛ تستخدم هنا لذكر الأداة المستخدمة."
+          },
+          {
+            "term": "a",
+            "description": "أداة تنكير قبل pen لأنها قلم واحد غير محدد."
+          },
+          {
+            "term": "pen",
+            "description": "قلم؛ أداة للكتابة بالحبر."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "She wrote the message with a pen.",
+        "ar": "كتبت الرسالة بقلم.",
+        "context": "تذكر فعل الكتابة والأداة."
+      },
+      {
+        "id": 2,
+        "en": "He wrote the message with a pen.",
+        "ar": "كتب الرسالة بقلم.",
+        "context": "تغير الفاعل إلى رجل أو ولد."
+      },
+      {
+        "id": 3,
+        "en": "She wrote the note with a pencil.",
+        "ar": "كتبت الملاحظة بقلم رصاص.",
+        "context": "تغير النص والأداة."
+      },
+      {
+        "id": 4,
+        "en": "Did she write the message with a pen?",
+        "ar": "هل كتبت الرسالة بقلم؟",
+        "context": "تسأل عن الفعل والأداة."
+      },
+      {
+        "id": 5,
+        "en": "She did not write the message with a pen.",
+        "ar": "لم تكتب الرسالة بقلم.",
+        "context": "تنفي استخدام القلم في الكتابة."
+      },
+      {
+        "id": 6,
+        "en": "She writes messages with a pen every day.",
+        "ar": "هي تكتب الرسائل بقلم كل يوم.",
+        "context": "تصف عادة متكررة."
+      },
+      {
+        "id": 7,
+        "en": "She is writing the message with a pen now.",
+        "ar": "هي تكتب الرسالة بقلم الآن.",
+        "context": "تصف الكتابة أثناء حدوثها."
+      },
+      {
+        "id": 8,
+        "en": "She will write the message with a pen.",
+        "ar": "ستكتب الرسالة بقلم.",
+        "context": "تتحدث عن كتابة مستقبلية."
+      },
+      {
+        "id": 9,
+        "en": "I read the message she wrote with a pen.",
+        "ar": "قرأت الرسالة التي كتبتها بقلم.",
+        "context": "تربط الرسالة بفعل سابق."
+      },
+      {
+        "id": 10,
+        "en": "Please write the message with a pen.",
+        "ar": "من فضلك اكتب الرسالة بقلم.",
+        "context": "تطلب استخدام القلم في الكتابة."
+      }
+    ]
+  }
+}

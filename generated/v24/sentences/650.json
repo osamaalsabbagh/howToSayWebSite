@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "id": 650,
+  "sentence": {
+    "en": "Can you help me?",
+    "ar": "هل يمكنك مساعدتي؟",
+    "context": "طلب المساعدة من شخص ما."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Can you help me?",
+        "ar": "هل يمكنك مساعدتي؟",
+        "context": "يُستخدم هذا السؤال لطلب شيء أو المساعدة بشكل مهذب.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "السؤال يستخدم Can لطلب المساعدة بلطف، لذلك لا يُعامل كزمن مستقل."
+        },
+        "wordMeanings": [
+          {
+            "term": "Can",
+            "description": "تبدأ سؤالًا عن إمكانية المساعدة أو طلبها."
+          },
+          {
+            "term": "you",
+            "description": "الشخص الذي يُطلب منه المساعدة."
+          },
+          {
+            "term": "help",
+            "description": "يساعد أو يقدم دعمًا."
+          },
+          {
+            "term": "me",
+            "description": "ضمير يعود على المتكلم بوصفه من يحتاج المساعدة."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Can you help me now?",
+        "ar": "هل يمكنك مساعدتي الآن؟",
+        "context": "تقال عند الحاجة إلى مساعدة فورية."
+      },
+      {
+        "id": 2,
+        "en": "Can you help me with this?",
+        "ar": "هل يمكنك مساعدتي في هذا؟",
+        "context": "تقال عند الإشارة إلى مهمة أو مشكلة."
+      },
+      {
+        "id": 3,
+        "en": "Can you help me find my bag?",
+        "ar": "هل يمكنك مساعدتي في العثور على حقيبتي؟",
+        "context": "تقال عند البحث عن شيء مفقود."
+      },
+      {
+        "id": 4,
+        "en": "Can you help me understand this word?",
+        "ar": "هل يمكنك مساعدتي في فهم هذه الكلمة؟",
+        "context": "تقال في موقف تعليمي."
+      },
+      {
+        "id": 5,
+        "en": "Can you help me carry this box?",
+        "ar": "هل يمكنك مساعدتي في حمل هذا الصندوق؟",
+        "context": "تقال عند طلب مساعدة جسدية بسيطة."
+      },
+      {
+        "id": 6,
+        "en": "Can you help me check the address?",
+        "ar": "هل يمكنك مساعدتي في التحقق من العنوان؟",
+        "context": "تقال عند مراجعة معلومة."
+      },
+      {
+        "id": 7,
+        "en": "Can you help me, please?",
+        "ar": "هل يمكنك مساعدتي من فضلك؟",
+        "context": "تقال لطلب المساعدة بأدب."
+      },
+      {
+        "id": 8,
+        "en": "Can you help me call the office?",
+        "ar": "هل يمكنك مساعدتي في الاتصال بالمكتب؟",
+        "context": "تقال عند الحاجة إلى مساعدة في التواصل."
+      },
+      {
+        "id": 9,
+        "en": "Can you help me choose?",
+        "ar": "هل يمكنك مساعدتي في الاختيار؟",
+        "context": "تقال عند طلب رأي أو توجيه."
+      },
+      {
+        "id": 10,
+        "en": "Can you help me open this file?",
+        "ar": "هل يمكنك مساعدتي في فتح هذا الملف؟",
+        "context": "تقال عند وجود مشكلة تقنية بسيطة."
+      }
+    ]
+  }
+}

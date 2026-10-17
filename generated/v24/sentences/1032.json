@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "id": 1032,
+  "sentence": {
+    "en": "How does this work?",
+    "ar": "كيف يعمل هذا؟",
+    "context": "تُستخدم لطلب شرح كيفية عمل شيء ما."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "How does this work",
+        "ar": "كيف يعمل هذا",
+        "context": "تُستخدم للسؤال عن طريقة عمل جهاز أو نظام أو فكرة.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "السؤال يستخدم does مع work للسؤال عن طريقة عامة أو حالية لعمل الشيء."
+        },
+        "wordMeanings": [
+          {
+            "term": "How",
+            "description": "كيف، للسؤال عن الطريقة"
+          },
+          {
+            "term": "does",
+            "description": "تُستخدم لتكوين سؤال في المضارع مع المفرد"
+          },
+          {
+            "term": "this",
+            "description": "هذا، وتشير إلى الشيء المقصود"
+          },
+          {
+            "term": "work",
+            "description": "يعمل أو يؤدي وظيفته"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "How does this machine work?",
+        "ar": "كيف تعمل هذه الآلة؟",
+        "context": "تُستخدم عند جهاز غير مألوف."
+      },
+      {
+        "id": 2,
+        "en": "How does this app work?",
+        "ar": "كيف يعمل هذا التطبيق؟",
+        "context": "تُستخدم عند تعلم تطبيق."
+      },
+      {
+        "id": 3,
+        "en": "How does the ticket system work?",
+        "ar": "كيف يعمل نظام التذاكر؟",
+        "context": "تُستخدم لفهم نظام."
+      },
+      {
+        "id": 4,
+        "en": "Can you explain how this works?",
+        "ar": "هل يمكنك شرح كيف يعمل هذا؟",
+        "context": "تُستخدم لطلب شرح."
+      },
+      {
+        "id": 5,
+        "en": "This does not work.",
+        "ar": "هذا لا يعمل.",
+        "context": "تُستخدم عند وجود مشكلة."
+      },
+      {
+        "id": 6,
+        "en": "How does this phone work?",
+        "ar": "كيف يعمل هذا الهاتف؟",
+        "context": "تُستخدم عند استخدام هاتف جديد."
+      },
+      {
+        "id": 7,
+        "en": "How does the card work?",
+        "ar": "كيف تعمل البطاقة؟",
+        "context": "تُستخدم عند بطاقة دفع أو دخول."
+      },
+      {
+        "id": 8,
+        "en": "How does this lock work?",
+        "ar": "كيف يعمل هذا القفل؟",
+        "context": "تُستخدم عند قفل غير مألوف."
+      },
+      {
+        "id": 9,
+        "en": "Show me how this works.",
+        "ar": "أرني كيف يعمل هذا.",
+        "context": "تُستخدم لطلب عرض عملي."
+      },
+      {
+        "id": 10,
+        "en": "How does it work exactly?",
+        "ar": "كيف يعمل بالضبط؟",
+        "context": "تُستخدم عند طلب شرح أدق."
+      }
+    ]
+  }
+}

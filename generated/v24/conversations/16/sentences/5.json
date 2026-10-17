@@ -1,0 +1,135 @@
+{
+  "schemaVersion": 1,
+  "id": 5,
+  "sentence": {
+    "en": "That boy just pushed me! I am angry now!",
+    "ar": "ذلك الصبي دفعني للتو! أنا غاضب الآن!",
+    "context": "الطفل يعبر عن انزعاجه بعد احتكاك مع طفل آخر"
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "That boy just pushed me!",
+        "ar": "ذلك الصبي دفعني للتو!",
+        "context": "يخبر الطفل عن فعل حدث قبل لحظات.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "استعمل pushed لأن الدفع حدث وانتهى للتو، وjust يوضح قرب الحدث."
+        },
+        "wordMeanings": [
+          {
+            "term": "That",
+            "description": "ذلك أو أن حسب السياق."
+          },
+          {
+            "term": "boy",
+            "description": "صبي."
+          },
+          {
+            "term": "just",
+            "description": "للتو أو فقط."
+          },
+          {
+            "term": "pushed",
+            "description": "دفع في الماضي."
+          },
+          {
+            "term": "me",
+            "description": "أنا بصيغة المفعول."
+          }
+        ]
+      },
+      {
+        "sentence": "I am angry now!",
+        "ar": "أنا غاضب الآن!",
+        "context": "يعبر الطفل عن شعوره الحالي بعد الحادثة.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استعمل am لوصف حالة حالية عند المتكلم."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير المتكلم المفرد."
+          },
+          {
+            "term": "am",
+            "description": "صيغة مع المتكلم تدل على الحالة الآن."
+          },
+          {
+            "term": "angry",
+            "description": "غاضب."
+          },
+          {
+            "term": "now",
+            "description": "الآن."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Please do not run ahead.",
+        "ar": "من فضلك لا تركض إلى الأمام.",
+        "context": "تحذير طفل من الابتعاد."
+      },
+      {
+        "id": 2,
+        "en": "I am angry now.",
+        "ar": "أنا غاضب الآن.",
+        "context": "تعبير مباشر عن الغضب الحالي."
+      },
+      {
+        "id": 3,
+        "en": "Yelling will not help.",
+        "ar": "الصراخ لن يساعد.",
+        "context": "نصيحة عند التعامل مع مشكلة."
+      },
+      {
+        "id": 4,
+        "en": "I will be calm.",
+        "ar": "سأكون هادئًا.",
+        "context": "قرار بالهدوء بعد الانزعاج."
+      },
+      {
+        "id": 5,
+        "en": "Let us get some water.",
+        "ar": "دعنا نحضر بعض الماء.",
+        "context": "اقتراح بعد التعب أو المشي."
+      },
+      {
+        "id": 6,
+        "en": "Then we will go to the elephant area.",
+        "ar": "ثم سنذهب إلى منطقة الفيلة.",
+        "context": "ترتيب خطة الزيارة."
+      },
+      {
+        "id": 7,
+        "en": "He was wrong, but stay calm.",
+        "ar": "كان مخطئًا، لكن ابق هادئًا.",
+        "context": "اعتراف بالخطأ مع نصيحة بالهدوء."
+      },
+      {
+        "id": 8,
+        "en": "I still want to see the lions.",
+        "ar": "ما زلت أريد رؤية الأسود.",
+        "context": "تعبير عن رغبة مستمرة."
+      },
+      {
+        "id": 9,
+        "en": "Do not get lost in the crowd.",
+        "ar": "لا تضع في الزحام.",
+        "context": "تحذير من الابتعاد في مكان مزدحم."
+      },
+      {
+        "id": 10,
+        "en": "We will go after ice cream.",
+        "ar": "سنذهب بعد البوظة.",
+        "context": "تحديد ترتيب الأحداث."
+      }
+    ]
+  }
+}

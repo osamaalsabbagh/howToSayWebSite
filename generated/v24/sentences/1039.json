@@ -1,0 +1,111 @@
+{
+  "schemaVersion": 1,
+  "id": 1039,
+  "sentence": {
+    "en": "Is there a bank near here?",
+    "ar": "هل يوجد بنك قريب من هنا؟",
+    "context": "تُستخدم للسؤال عن مكان وجود أقرب بنك."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Is there a bank near here",
+        "ar": "هل يوجد بنك قريب من هنا",
+        "context": "تُستخدم للسؤال عن وجود بنك في المنطقة القريبة.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "السؤال يستخدم Is there للسؤال عن وجود شيء في الحاضر."
+        },
+        "wordMeanings": [
+          {
+            "term": "Is",
+            "description": "هل يوجد، وتبدأ سؤالًا عن الوجود"
+          },
+          {
+            "term": "there",
+            "description": "هناك، وتُستخدم مع السؤال عن وجود شيء"
+          },
+          {
+            "term": "a",
+            "description": "أداة تشير إلى مكان واحد غير محدد"
+          },
+          {
+            "term": "bank",
+            "description": "بنك أو مصرف"
+          },
+          {
+            "term": "near",
+            "description": "قريب من"
+          },
+          {
+            "term": "here",
+            "description": "هنا، أي في المكان الحالي"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Is there an ATM near here?",
+        "ar": "هل توجد ماكينة صراف آلي قريبة من هنا؟",
+        "context": "تُستخدم عند الحاجة إلى سحب مال."
+      },
+      {
+        "id": 2,
+        "en": "Is there a pharmacy near here?",
+        "ar": "هل توجد صيدلية قريبة من هنا؟",
+        "context": "تُستخدم عند الحاجة إلى دواء."
+      },
+      {
+        "id": 3,
+        "en": "Where is the nearest bank?",
+        "ar": "أين أقرب بنك؟",
+        "context": "تُستخدم بصيغة مباشرة."
+      },
+      {
+        "id": 4,
+        "en": "Is there a hospital near here?",
+        "ar": "هل يوجد مستشفى قريب من هنا؟",
+        "context": "تُستخدم عند الحاجة لمساعدة طبية."
+      },
+      {
+        "id": 5,
+        "en": "Is there a store near here?",
+        "ar": "هل يوجد متجر قريب من هنا؟",
+        "context": "تُستخدم عند البحث عن متجر."
+      },
+      {
+        "id": 6,
+        "en": "Is there a cafe near here?",
+        "ar": "هل يوجد مقهى قريب من هنا؟",
+        "context": "تُستخدم عند البحث عن مقهى."
+      },
+      {
+        "id": 7,
+        "en": "Do you know a bank near here?",
+        "ar": "هل تعرف بنكًا قريبًا من هنا؟",
+        "context": "تُستخدم لطلب معرفة محلية."
+      },
+      {
+        "id": 8,
+        "en": "The bank is near here.",
+        "ar": "البنك قريب من هنا.",
+        "context": "تُستخدم لإعطاء معلومة."
+      },
+      {
+        "id": 9,
+        "en": "Is there a bus stop near here?",
+        "ar": "هل يوجد موقف حافلات قريب من هنا؟",
+        "context": "تُستخدم عند البحث عن مواصلات."
+      },
+      {
+        "id": 10,
+        "en": "Is there a post office near here?",
+        "ar": "هل يوجد مكتب بريد قريب من هنا؟",
+        "context": "تُستخدم عند البحث عن خدمة بريدية."
+      }
+    ]
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "schemaVersion": 1,
+  "id": 2,
+  "sentence": {
+    "en": "Yes, I am. It got delayed an hour ago.",
+    "ar": "نعم، أنا كذلك. تم تأجيلها قبل ساعة.",
+    "context": "يُؤكد أنه ينتظر نفس الرحلة ويذكر أنها تأخرت قبل مدة قصيرة"
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Yes, I am.",
+        "ar": "نعم، أنا كذلك.",
+        "context": "يبدأ به المتحدث الفكرة الأساسية قبل إضافة التفاصيل.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُعمل المضارع البسيط لأن هذا الجزء يصف حالة أو حقيقة أو معنى حاضرًا في سياق الكلام."
+        },
+        "wordMeanings": [
+          {
+            "term": "Yes",
+            "description": "كلمة للموافقة أو التأكيد."
+          },
+          {
+            "term": "I",
+            "description": "ضمير المتكلم المفرد."
+          },
+          {
+            "term": "am",
+            "description": "صيغة تأتي مع ضمير المتكلم المفرد، وتؤكد هنا أن المتكلم ينتظر الرحلة أيضًا."
+          }
+        ]
+      },
+      {
+        "sentence": "It got delayed an hour ago.",
+        "ar": "تم تأجيلها قبل ساعة.",
+        "context": "يكمل به المتحدث المعنى أو النتيجة داخل هذا الموقف.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "استُعمل الماضي البسيط لأن هذا الجزء يتحدث عن حدث أو حالة في الماضي."
+        },
+        "wordMeanings": [
+          {
+            "term": "It",
+            "description": "ضمير يعود هنا على الرحلة المذكورة سابقًا."
+          },
+          {
+            "term": "got",
+            "description": "يدل هنا على أن شيئًا حدث للرحلة وأصبحت متأخرة."
+          },
+          {
+            "term": "delayed",
+            "description": "تعني مؤجلة أو متأخرة عن موعدها الأصلي."
+          },
+          {
+            "term": "an",
+            "description": "أداة نكرة تأتي قبل الاسم المفرد الذي يبدأ بصوت علّة."
+          },
+          {
+            "term": "hour",
+            "description": "اسم يعني ساعة، وهي مدة التأخير هنا."
+          },
+          {
+            "term": "ago",
+            "description": "تدل على أن الشيء حدث قبل الوقت الحالي."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Yes, I am. The flight got delayed an hour ago.",
+        "ar": "نعم، أنا كذلك. تم تأجيل الرحلة قبل ساعة.",
+        "context": "توضح المقصود بدل استخدام الضمير فقط."
+      },
+      {
+        "id": 2,
+        "en": "Yes, I am. It got delayed thirty minutes ago.",
+        "ar": "نعم، أنا كذلك. تم تأجيلها قبل ثلاثين دقيقة.",
+        "context": "نفس الرد مع مدة تأخير أقصر."
+      },
+      {
+        "id": 3,
+        "en": "Yes, I am. It got delayed two hours ago.",
+        "ar": "نعم، أنا كذلك. تم تأجيلها قبل ساعتين.",
+        "context": "تستخدم عندما حدث التأخير قبل مدة أطول."
+      },
+      {
+        "id": 4,
+        "en": "Yes, I am. It got delayed because of the weather.",
+        "ar": "نعم، أنا كذلك. تم تأجيلها بسبب الطقس.",
+        "context": "تضيف سبب التأخير إلى الرد."
+      },
+      {
+        "id": 5,
+        "en": "Yes, I am waiting too. It got delayed an hour ago.",
+        "ar": "نعم، أنا أنتظر أيضًا. تم تأجيلها قبل ساعة.",
+        "context": "تجعل معنى الانتظار واضحًا بدل الاكتفاء بالرد القصير."
+      },
+      {
+        "id": 6,
+        "en": "Yes, I am. Our flight got delayed an hour ago.",
+        "ar": "نعم، أنا كذلك. تم تأجيل رحلتنا قبل ساعة.",
+        "context": "تستخدم عندما يتحدث الشخصان عن الرحلة نفسها."
+      },
+      {
+        "id": 7,
+        "en": "Yes, I am. It got delayed just a few minutes ago.",
+        "ar": "نعم، أنا كذلك. تم تأجيلها قبل بضع دقائق فقط.",
+        "context": "تستخدم عندما يكون خبر التأخير حديثًا جدًا."
+      },
+      {
+        "id": 8,
+        "en": "Yes, I am. It got delayed after we arrived.",
+        "ar": "نعم، أنا كذلك. تم تأجيلها بعد أن وصلنا.",
+        "context": "توضح أن خبر التأخير جاء بعد الوصول إلى المطار."
+      },
+      {
+        "id": 9,
+        "en": "Yes, I am. It got delayed, so I am still here.",
+        "ar": "نعم، أنا كذلك. تم تأجيلها، لذلك ما زلت هنا.",
+        "context": "تربط التأخير بسبب بقاء المتكلم في المكان."
+      },
+      {
+        "id": 10,
+        "en": "Yes, I am. It got delayed, but I do not mind waiting.",
+        "ar": "نعم، أنا كذلك. تم تأجيلها، لكنني لا أمانع الانتظار.",
+        "context": "تضيف موقف المتكلم من التأخير."
+      }
+    ]
+  }
+}

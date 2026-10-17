@@ -1,0 +1,115 @@
+{
+  "schemaVersion": 1,
+  "id": 1023,
+  "sentence": {
+    "en": "Is there a good coffee shop nearby?",
+    "ar": "هل يوجد مقهى جيد قريب؟",
+    "context": "تُستخدم لطلب ترشيح لمقهى جيد قريب."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Is there a good coffee shop nearby",
+        "ar": "هل يوجد مقهى جيد قريب",
+        "context": "تُستخدم للسؤال عن وجود مقهى مناسب في المنطقة القريبة.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "السؤال يستخدم Is there للسؤال عن وجود شيء في الحاضر."
+        },
+        "wordMeanings": [
+          {
+            "term": "Is",
+            "description": "هل يوجد، وتبدأ سؤالًا عن الوجود"
+          },
+          {
+            "term": "there",
+            "description": "هناك، تُستخدم مع السؤال عن وجود شيء"
+          },
+          {
+            "term": "a",
+            "description": "أداة تشير إلى مكان واحد غير محدد"
+          },
+          {
+            "term": "good",
+            "description": "جيد أو مناسب"
+          },
+          {
+            "term": "coffee",
+            "description": "قهوة، وتصف نوع المكان هنا"
+          },
+          {
+            "term": "shop",
+            "description": "محل أو مقهى صغير"
+          },
+          {
+            "term": "nearby",
+            "description": "قريب أو في المنطقة القريبة"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Is there a good restaurant nearby?",
+        "ar": "هل يوجد مطعم جيد قريب؟",
+        "context": "تُستخدم عند البحث عن طعام."
+      },
+      {
+        "id": 2,
+        "en": "Is there a cafe nearby?",
+        "ar": "هل يوجد مقهى قريب؟",
+        "context": "تُستخدم بصيغة أبسط."
+      },
+      {
+        "id": 3,
+        "en": "Do you know a good coffee shop?",
+        "ar": "هل تعرف مقهى جيدًا؟",
+        "context": "تُستخدم لطلب توصية."
+      },
+      {
+        "id": 4,
+        "en": "Can you recommend a coffee shop?",
+        "ar": "هل يمكنك ترشيح مقهى؟",
+        "context": "تُستخدم لطلب اقتراح."
+      },
+      {
+        "id": 5,
+        "en": "Is there a quiet cafe nearby?",
+        "ar": "هل يوجد مقهى هادئ قريب؟",
+        "context": "تُستخدم عند البحث عن مكان للعمل أو الحديث."
+      },
+      {
+        "id": 6,
+        "en": "Is there a good bakery nearby?",
+        "ar": "هل يوجد مخبز جيد قريب؟",
+        "context": "تُستخدم عند البحث عن مخبز."
+      },
+      {
+        "id": 7,
+        "en": "I need a coffee shop nearby.",
+        "ar": "أحتاج إلى مقهى قريب.",
+        "context": "تُستخدم عند الحاجة لمكان قريب."
+      },
+      {
+        "id": 8,
+        "en": "Where is the nearest coffee shop?",
+        "ar": "أين أقرب مقهى؟",
+        "context": "تُستخدم للسؤال عن الموقع."
+      },
+      {
+        "id": 9,
+        "en": "Is there a coffee shop in this hotel?",
+        "ar": "هل يوجد مقهى في هذا الفندق؟",
+        "context": "تُستخدم داخل فندق."
+      },
+      {
+        "id": 10,
+        "en": "This coffee shop is good.",
+        "ar": "هذا المقهى جيد.",
+        "context": "تُستخدم لتقديم رأي إيجابي."
+      }
+    ]
+  }
+}

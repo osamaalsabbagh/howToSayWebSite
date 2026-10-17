@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "id": 507,
+  "sentence": {
+    "en": "Are you free tonight?",
+    "ar": "هل أنت متفرغ الليلة؟",
+    "context": "الاستفسار عن التفرغ الليلي لشخص ما."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Are you free tonight?",
+        "ar": "هل أنت متفرغ الليلة؟",
+        "context": "سؤال عن توفر الشخص أو عدم انشغاله هذه الليلة.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "Are يصف حالة الشخص الحالية أو المتوقعة في وقت محدد قريب."
+        },
+        "wordMeanings": [
+          {
+            "term": "Are",
+            "description": "تستخدم للسؤال عن حالة أو صفة."
+          },
+          {
+            "term": "you",
+            "description": "تشير إلى المخاطب."
+          },
+          {
+            "term": "free",
+            "description": "تعني متفرغ أو غير مشغول."
+          },
+          {
+            "term": "tonight",
+            "description": "تعني هذه الليلة."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Are you free tomorrow?",
+        "ar": "هل أنت متفرغ غدًا؟",
+        "context": "سؤال عن التفرغ في يوم آخر."
+      },
+      {
+        "id": 2,
+        "en": "I am free tonight.",
+        "ar": "أنا متفرغ الليلة.",
+        "context": "تأكيد التفرغ."
+      },
+      {
+        "id": 3,
+        "en": "She is not free tonight.",
+        "ar": "هي ليست متفرغة الليلة.",
+        "context": "نفي التفرغ."
+      },
+      {
+        "id": 4,
+        "en": "Are you busy tonight?",
+        "ar": "هل أنت مشغول الليلة؟",
+        "context": "سؤال معاكس عن الانشغال."
+      },
+      {
+        "id": 5,
+        "en": "We are free after dinner.",
+        "ar": "نحن متفرغون بعد العشاء.",
+        "context": "تحديد وقت التفرغ."
+      },
+      {
+        "id": 6,
+        "en": "He is free on Friday.",
+        "ar": "هو متفرغ يوم الجمعة.",
+        "context": "ذكر وقت متاح."
+      },
+      {
+        "id": 7,
+        "en": "Are they free now?",
+        "ar": "هل هم متفرغون الآن؟",
+        "context": "سؤال عن توفر مجموعة."
+      },
+      {
+        "id": 8,
+        "en": "I am not free this evening.",
+        "ar": "لست متفرغًا هذا المساء.",
+        "context": "رفض بسبب الانشغال."
+      },
+      {
+        "id": 9,
+        "en": "When are you free?",
+        "ar": "متى تكون متفرغًا؟",
+        "context": "سؤال عن وقت التفرغ."
+      },
+      {
+        "id": 10,
+        "en": "My friend is free tonight.",
+        "ar": "صديقي متفرغ الليلة.",
+        "context": "ذكر توفر شخص آخر."
+      }
+    ]
+  }
+}

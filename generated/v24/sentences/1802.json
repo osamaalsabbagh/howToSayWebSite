@@ -1,0 +1,123 @@
+{
+  "schemaVersion": 1,
+  "id": 1802,
+  "sentence": {
+    "en": "Be careful, the coffee is hot.",
+    "ar": "كن حذرًا، القهوة ساخنة.",
+    "context": "حذّر شخصًا من أن شيئًا قد يحرقه بسبب حرارته العالية."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Be careful",
+        "ar": "كن حذرًا",
+        "context": "أمر قصير للتنبيه والتحذير.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه صيغة أمر، والأمر لا يحمل زمنًا مستقلًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "Be",
+            "description": "كن أو تصرف بحالة معينة"
+          },
+          {
+            "term": "careful",
+            "description": "حذرًا أو منتبهًا"
+          }
+        ]
+      },
+      {
+        "sentence": "the coffee is hot.",
+        "ar": "القهوة ساخنة.",
+        "context": "يوضح سبب التحذير وهو حرارة القهوة.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استخدم is لوصف حالة القهوة الحالية."
+        },
+        "wordMeanings": [
+          {
+            "term": "the",
+            "description": "أداة تعريف لشيء محدد"
+          },
+          {
+            "term": "coffee",
+            "description": "قهوة"
+          },
+          {
+            "term": "is",
+            "description": "تربط الشيء بحالته"
+          },
+          {
+            "term": "hot",
+            "description": "ساخنة وقد تحرق"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Be careful, the soup is hot.",
+        "ar": "كن حذرًا، الحساء ساخن.",
+        "context": "يقال للتحذير من طعام ساخن."
+      },
+      {
+        "id": 2,
+        "en": "Be careful with the glass.",
+        "ar": "كن حذرًا مع الزجاج.",
+        "context": "يستخدم عند احتمال الكسر أو الأذى."
+      },
+      {
+        "id": 3,
+        "en": "The tea is very hot.",
+        "ar": "الشاي ساخن جدًا.",
+        "context": "يقال للتحذير من مشروب ساخن."
+      },
+      {
+        "id": 4,
+        "en": "Be careful on the stairs.",
+        "ar": "كن حذرًا على الدرج.",
+        "context": "يستخدم للتحذير من السقوط."
+      },
+      {
+        "id": 5,
+        "en": "The pan is hot.",
+        "ar": "المقلاة ساخنة.",
+        "context": "يقال في المطبخ لتجنب الحرق."
+      },
+      {
+        "id": 6,
+        "en": "Be careful, the floor is wet.",
+        "ar": "كن حذرًا، الأرض مبللة.",
+        "context": "يستخدم للتحذير من الانزلاق."
+      },
+      {
+        "id": 7,
+        "en": "This plate is hot.",
+        "ar": "هذا الطبق ساخن.",
+        "context": "يقال عند تقديم طعام ساخن."
+      },
+      {
+        "id": 8,
+        "en": "Be careful near the fire.",
+        "ar": "كن حذرًا قرب النار.",
+        "context": "يستخدم للتحذير من خطر النار."
+      },
+      {
+        "id": 9,
+        "en": "The coffee is too hot to drink.",
+        "ar": "القهوة ساخنة جدًا للشرب.",
+        "context": "يقال عندما تحتاج القهوة إلى أن تبرد."
+      },
+      {
+        "id": 10,
+        "en": "Please be careful today.",
+        "ar": "من فضلك كن حذرًا اليوم.",
+        "context": "يستخدم للتنبيه العام."
+      }
+    ]
+  }
+}

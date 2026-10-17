@@ -1,0 +1,131 @@
+{
+  "schemaVersion": 1,
+  "id": 3,
+  "sentence": {
+    "en": "You do not look good. Are you upset?",
+    "ar": "لا تبدو جيدًا. هل أنت منزعج؟",
+    "context": "يلحظ مظهره القَلِق ويسأله إن كان منزعجًا."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "You do not look good.",
+        "ar": "لا تبدو جيدًا.",
+        "context": "تصف الجملة أن مظهر الشخص يوحي بأنه ليس بخير.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "do not look ينفي الانطباع الحالي عن مظهر الشخص."
+        },
+        "wordMeanings": [
+          {
+            "term": "You",
+            "description": "الشخص المخاطب"
+          },
+          {
+            "term": "do",
+            "description": "تستعمل مع not لتكوين النفي في المضارع"
+          },
+          {
+            "term": "not",
+            "description": "أداة نفي"
+          },
+          {
+            "term": "look",
+            "description": "تبدو من مظهرك"
+          },
+          {
+            "term": "good",
+            "description": "بخير أو بحالة جيدة"
+          }
+        ]
+      },
+      {
+        "sentence": "Are you upset?",
+        "ar": "هل أنت منزعج؟",
+        "context": "سؤال مباشر عن شعور الشخص بعد ملاحظة مظهره.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "Are في بداية السؤال تسأل عن حالة الشخص الحالية."
+        },
+        "wordMeanings": [
+          {
+            "term": "Are",
+            "description": "تأتي في السؤال عن حالة المخاطب"
+          },
+          {
+            "term": "you",
+            "description": "الشخص المخاطب"
+          },
+          {
+            "term": "upset",
+            "description": "منزعج أو متضايق"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "You do not look happy. Are you tired?",
+        "ar": "لا تبدو سعيدًا. هل أنت متعب؟",
+        "context": "تقال عند ملاحظة تغير في وجه شخص."
+      },
+      {
+        "id": 2,
+        "en": "You look worried. Are you okay?",
+        "ar": "تبدو قلقًا. هل أنت بخير؟",
+        "context": "تقال للاطمئنان على شخص."
+      },
+      {
+        "id": 3,
+        "en": "You do not look well today.",
+        "ar": "لا تبدو بخير اليوم.",
+        "context": "تقال عند ملاحظة تعب أو مرض."
+      },
+      {
+        "id": 4,
+        "en": "Are you upset about something?",
+        "ar": "هل أنت منزعج من شيء ما؟",
+        "context": "تقال لفتح حديث عن سبب الانزعاج."
+      },
+      {
+        "id": 5,
+        "en": "You do not sound good.",
+        "ar": "لا يبدو صوتك جيدًا.",
+        "context": "تقال عند سماع صوت متعب أو حزين."
+      },
+      {
+        "id": 6,
+        "en": "Are you angry with me?",
+        "ar": "هل أنت غاضب مني؟",
+        "context": "تقال عند الشك في غضب شخص."
+      },
+      {
+        "id": 7,
+        "en": "You look upset after the call.",
+        "ar": "تبدو منزعجًا بعد المكالمة.",
+        "context": "تقال عند ربط الشعور بموقف سابق."
+      },
+      {
+        "id": 8,
+        "en": "You do not look comfortable here.",
+        "ar": "لا تبدو مرتاحًا هنا.",
+        "context": "تقال عند ملاحظة عدم راحة شخص في مكان."
+      },
+      {
+        "id": 9,
+        "en": "Are you upset because of work?",
+        "ar": "هل أنت منزعج بسبب العمل؟",
+        "context": "تقال عند تخمين سبب الانزعاج."
+      },
+      {
+        "id": 10,
+        "en": "You look serious. What happened?",
+        "ar": "تبدو جادًا. ماذا حدث؟",
+        "context": "تقال عند طلب تفسير للحالة."
+      }
+    ]
+  }
+}

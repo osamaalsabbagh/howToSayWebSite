@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": 3041,
+  "sentence": {
+    "en": "He painted the wall yesterday.",
+    "ar": "هو طلى الجدار أمس.",
+    "context": "تغيير لون جزء من المبنى في الماضي."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "He painted the wall yesterday.",
+        "ar": "طلى الجدار أمس.",
+        "context": "تصف الجملة أنه غيّر لون الجدار أو غطاه بالطلاء في اليوم السابق.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "استُخدم الماضي البسيط لأن painted يدل على فعل حدث في وقت ماض محدد بكلمة yesterday."
+        },
+        "wordMeanings": [
+          {
+            "term": "He",
+            "description": "ضمير يعني هو، ويشير إلى رجل أو ولد."
+          },
+          {
+            "term": "painted",
+            "description": "طلى أو دهن؛ التصريف الماضي من paint."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف تشير إلى جدار محدد."
+          },
+          {
+            "term": "wall",
+            "description": "جدار أو حائط؛ جزء من المبنى."
+          },
+          {
+            "term": "yesterday",
+            "description": "أمس؛ اليوم السابق لليوم الحالي."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "He painted the wall yesterday.",
+        "ar": "طلى الجدار أمس.",
+        "context": "تذكر طلاء جدار حدث أمس."
+      },
+      {
+        "id": 2,
+        "en": "She painted the wall yesterday.",
+        "ar": "طلت الجدار أمس.",
+        "context": "تستخدم الجملة مع امرأة أو فتاة."
+      },
+      {
+        "id": 3,
+        "en": "He painted the door yesterday.",
+        "ar": "طلى الباب أمس.",
+        "context": "تغير الشيء الذي تم طلاؤه."
+      },
+      {
+        "id": 4,
+        "en": "He did not paint the wall yesterday.",
+        "ar": "لم يطل الجدار أمس.",
+        "context": "تنفي حدوث الطلاء أمس."
+      },
+      {
+        "id": 5,
+        "en": "Did he paint the wall yesterday?",
+        "ar": "هل طلى الجدار أمس؟",
+        "context": "تسأل عن فعل الطلاء."
+      },
+      {
+        "id": 6,
+        "en": "He paints walls for work.",
+        "ar": "يطلي الجدران في عمله.",
+        "context": "تحول الفعل إلى عادة أو مهنة."
+      },
+      {
+        "id": 7,
+        "en": "He will paint the wall tomorrow.",
+        "ar": "سيطلي الجدار غدا.",
+        "context": "تنقل الفعل إلى المستقبل."
+      },
+      {
+        "id": 8,
+        "en": "He painted the wall yesterday in white.",
+        "ar": "طلى الجدار أمس باللون الأبيض.",
+        "context": "تحدد لون الطلاء."
+      },
+      {
+        "id": 9,
+        "en": "He painted the wall yesterday because it looked old.",
+        "ar": "طلى الجدار أمس لأنه كان يبدو قديما.",
+        "context": "توضح سبب الطلاء."
+      },
+      {
+        "id": 10,
+        "en": "After he painted the wall yesterday, the room looked clean.",
+        "ar": "بعد أن طلى الجدار أمس، بدت الغرفة نظيفة.",
+        "context": "تربط الطلاء بنتيجة."
+      }
+    ]
+  }
+}

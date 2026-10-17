@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": 3269,
+  "sentence": {
+    "en": "Is anybody there?",
+    "ar": "هل هناك أي شخص؟",
+    "context": "سؤال غير رسمي عن وجود شخص دون تحديد، يُستخدم في محادثة عادية."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Is anybody there?",
+        "ar": "هل هناك أي شخص؟",
+        "context": "تسأل الجملة بشكل عام وغير رسمي إن كان يوجد شخص في المكان.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُخدم Is في سؤال عن وجود شخص في المكان الآن."
+        },
+        "wordMeanings": [
+          {
+            "term": "Is",
+            "description": "هل يوجد أو هل يكون؛ فعل be في بداية السؤال."
+          },
+          {
+            "term": "anybody",
+            "description": "أي شخص؛ شخص غير محدد، وتستخدم غالبا في الأسئلة."
+          },
+          {
+            "term": "there",
+            "description": "هناك؛ في ذلك المكان أو في المكان المقصود."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Is anybody there?",
+        "ar": "هل هناك أي شخص؟",
+        "context": "تنادي أو تسأل عن وجود أحد."
+      },
+      {
+        "id": 2,
+        "en": "Is anyone there?",
+        "ar": "هل هناك أحد؟",
+        "context": "تستخدم anyone بمعنى قريب جدا."
+      },
+      {
+        "id": 3,
+        "en": "Is anybody home?",
+        "ar": "هل يوجد أحد في البيت؟",
+        "context": "تسأل عن وجود شخص في المنزل."
+      },
+      {
+        "id": 4,
+        "en": "There is not anybody there.",
+        "ar": "لا يوجد أي شخص هناك.",
+        "context": "تنفي وجود أحد."
+      },
+      {
+        "id": 5,
+        "en": "Was anybody there yesterday?",
+        "ar": "هل كان هناك أي شخص أمس؟",
+        "context": "تسأل عن وجود شخص في الماضي."
+      },
+      {
+        "id": 6,
+        "en": "Will anybody be there tomorrow?",
+        "ar": "هل سيكون هناك أي شخص غدا؟",
+        "context": "تسأل عن وجود شخص مستقبلا."
+      },
+      {
+        "id": 7,
+        "en": "Is anybody there to help?",
+        "ar": "هل هناك أي شخص للمساعدة؟",
+        "context": "تسأل عن وجود شخص يمكنه المساعدة."
+      },
+      {
+        "id": 8,
+        "en": "Is anybody there in the office?",
+        "ar": "هل هناك أي شخص في المكتب؟",
+        "context": "تحدد المكان."
+      },
+      {
+        "id": 9,
+        "en": "Is anybody there, or should I come later?",
+        "ar": "هل هناك أي شخص، أم يجب أن آتي لاحقا؟",
+        "context": "تربط السؤال بقرار لاحق."
+      },
+      {
+        "id": 10,
+        "en": "Is anybody there after the meeting?",
+        "ar": "هل هناك أي شخص بعد الاجتماع؟",
+        "context": "تحدد الوقت بسياق آخر."
+      }
+    ]
+  }
+}

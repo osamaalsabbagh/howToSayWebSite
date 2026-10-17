@@ -1,0 +1,123 @@
+{
+  "schemaVersion": 1,
+  "id": 3265,
+  "sentence": {
+    "en": "He hurt his ankle while running.",
+    "ar": "هو أصاب كاحله أثناء الجري.",
+    "context": "جزء من الجسم بين القدم والساق."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "He hurt his ankle",
+        "ar": "هو أصاب كاحله",
+        "context": "توضح العبارة أن الإصابة كانت في الكاحل.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "استُخدم hurt لأن الإصابة حدثت في الماضي."
+        },
+        "wordMeanings": [
+          {
+            "term": "He",
+            "description": "هو؛ رجل أو ولد نتحدث عنه."
+          },
+          {
+            "term": "hurt",
+            "description": "أصاب أو آلم؛ سبب أذى أو ألما في الماضي."
+          },
+          {
+            "term": "his",
+            "description": "خاصته؛ تبين أن ankle كاحله."
+          },
+          {
+            "term": "ankle",
+            "description": "كاحل؛ المفصل بين القدم والساق."
+          }
+        ]
+      },
+      {
+        "sentence": "while running.",
+        "ar": "أثناء الجري.",
+        "context": "توضح العبارة أن الإصابة حدثت خلال الجري.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "while running عبارة مختصرة باستخدام اسم فعل، وليست جملة فعلية كاملة بزمن مستقل."
+        },
+        "wordMeanings": [
+          {
+            "term": "while",
+            "description": "أثناء؛ تستخدم لذكر ما كان يحدث في نفس الوقت."
+          },
+          {
+            "term": "running",
+            "description": "الجري؛ الحركة بسرعة على القدمين."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "He hurt his ankle while running.",
+        "ar": "أصاب كاحله أثناء الجري.",
+        "context": "تصف إصابة حدثت خلال الجري."
+      },
+      {
+        "id": 2,
+        "en": "She hurt her ankle while running.",
+        "ar": "أصابت كاحلها أثناء الجري.",
+        "context": "تغير الفاعل إلى امرأة أو فتاة."
+      },
+      {
+        "id": 3,
+        "en": "He hurt his knee while running.",
+        "ar": "أصاب ركبته أثناء الجري.",
+        "context": "تغير موضع الإصابة."
+      },
+      {
+        "id": 4,
+        "en": "He did not hurt his ankle while running.",
+        "ar": "لم يصب كاحله أثناء الجري.",
+        "context": "تنفي حدوث الإصابة."
+      },
+      {
+        "id": 5,
+        "en": "Did he hurt his ankle while running?",
+        "ar": "هل أصاب كاحله أثناء الجري؟",
+        "context": "تسأل عن سبب أو وقت الإصابة."
+      },
+      {
+        "id": 6,
+        "en": "He hurts his ankle when he runs too fast.",
+        "ar": "هو يؤذي كاحله عندما يجري بسرعة كبيرة.",
+        "context": "تصف نمطا متكررا."
+      },
+      {
+        "id": 7,
+        "en": "He may hurt his ankle while running.",
+        "ar": "قد يصيب كاحله أثناء الجري.",
+        "context": "تتحدث عن احتمال الإصابة."
+      },
+      {
+        "id": 8,
+        "en": "He hurt his left ankle while running.",
+        "ar": "أصاب كاحله الأيسر أثناء الجري.",
+        "context": "تحدد أي كاحل أصيب."
+      },
+      {
+        "id": 9,
+        "en": "He hurt his ankle while running because the road was wet.",
+        "ar": "أصاب كاحله أثناء الجري لأن الطريق كان مبللا.",
+        "context": "تذكر سبب الإصابة."
+      },
+      {
+        "id": 10,
+        "en": "He hurt his ankle while running, but he finished the race.",
+        "ar": "أصاب كاحله أثناء الجري، لكنه أنهى السباق.",
+        "context": "تضيف أنه واصل رغم الإصابة."
+      }
+    ]
+  }
+}

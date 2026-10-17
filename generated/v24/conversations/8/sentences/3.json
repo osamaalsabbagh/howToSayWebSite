@@ -1,0 +1,135 @@
+{
+  "schemaVersion": 1,
+  "id": 3,
+  "sentence": {
+    "en": "That is awesome! How long has she been away?",
+    "ar": "ذلك رائع! منذ متى وهي بعيدة؟",
+    "context": "إبداء الحماس والسؤال عن مدة غياب العمة"
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "That is awesome!",
+        "ar": "ذلك رائع!",
+        "context": "يبدأ به المتحدث الفكرة الأساسية قبل إضافة التفاصيل.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُعمل المضارع البسيط للتعبير عن انطباع حاضر تجاه خبر الزيارة."
+        },
+        "wordMeanings": [
+          {
+            "term": "That",
+            "description": "يشير إلى خبر زيارة العمة."
+          },
+          {
+            "term": "is",
+            "description": "صيغة تربط اسم الإشارة بالوصف."
+          },
+          {
+            "term": "awesome",
+            "description": "صفة تعني رائعًا جدًا أو مفرحًا."
+          }
+        ]
+      },
+      {
+        "sentence": "How long has she been away?",
+        "ar": "منذ متى وهي بعيدة؟",
+        "context": "يوضح الفكرة أو المعلومة التابعة لما قبله.",
+        "grammar": {
+          "tense": "المضارع التام",
+          "tenseEn": "Present Perfect",
+          "reason": "استُعمل المضارع التام للسؤال عن مدة حالة بدأت في الماضي وما زالت مرتبطة بالحاضر، وهي غياب العمة."
+        },
+        "wordMeanings": [
+          {
+            "term": "How",
+            "description": "تبدأ سؤالًا عن مقدار أو مدة."
+          },
+          {
+            "term": "long",
+            "description": "تعني مدة زمنية طويلة أو قصيرة حسب السؤال."
+          },
+          {
+            "term": "has",
+            "description": "فعل مساعد في المضارع التام مع she."
+          },
+          {
+            "term": "she",
+            "description": "ضمير يعود على العمة."
+          },
+          {
+            "term": "been",
+            "description": "صيغة تأتي مع المضارع التام للدلالة على استمرار حالة."
+          },
+          {
+            "term": "away",
+            "description": "تعني بعيدة أو غير موجودة في المكان."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "How long has he been away?",
+        "ar": "منذ متى وهو بعيد؟",
+        "context": "تسأل عن مدة غياب شخص."
+      },
+      {
+        "id": 2,
+        "en": "That is awesome! When will she arrive?",
+        "ar": "هذا رائع! متى ستصل؟",
+        "context": "تفرح بخبر زيارة وتسأل عن موعدها."
+      },
+      {
+        "id": 3,
+        "en": "How long has your aunt been away?",
+        "ar": "منذ متى وعمتك بعيدة؟",
+        "context": "تسأل عن غياب قريبة."
+      },
+      {
+        "id": 4,
+        "en": "She has been away for two years.",
+        "ar": "هي بعيدة منذ سنتين.",
+        "context": "تجيب عن مدة الغياب."
+      },
+      {
+        "id": 5,
+        "en": "How long has the baby been asleep?",
+        "ar": "منذ متى والطفل نائم؟",
+        "context": "تسأل عن مدة حالة مستمرة."
+      },
+      {
+        "id": 6,
+        "en": "That is awesome news!",
+        "ar": "هذا خبر رائع!",
+        "context": "تعبّر عن فرحك بخبر."
+      },
+      {
+        "id": 7,
+        "en": "How long have they been away?",
+        "ar": "منذ متى وهم بعيدون؟",
+        "context": "تسأل عن غياب جماعة."
+      },
+      {
+        "id": 8,
+        "en": "How long has she lived there?",
+        "ar": "منذ متى وهي تعيش هناك؟",
+        "context": "تسأل عن مدة سكن مستمرة."
+      },
+      {
+        "id": 9,
+        "en": "That is awesome for your family.",
+        "ar": "هذا رائع لعائلتك.",
+        "context": "تعلّق على خبر عائلي مفرح."
+      },
+      {
+        "id": 10,
+        "en": "How long has your cousin been here?",
+        "ar": "منذ متى وابن عمك هنا؟",
+        "context": "تسأل عن مدة وجود شخص."
+      }
+    ]
+  }
+}

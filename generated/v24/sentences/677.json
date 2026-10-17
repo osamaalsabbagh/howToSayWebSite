@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": 677,
+  "sentence": {
+    "en": "Please sit down.",
+    "ar": "رجاءً إجلس",
+    "context": "دعوة شخص للجلوس بشكل مباشر."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Please sit down.",
+        "ar": "من فضلك اجلس.",
+        "context": "تستخدم لدعوة شخص إلى الجلوس بأدب.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه صيغة أمر مهذب، وليست زمناً مستقلاً."
+        },
+        "wordMeanings": [
+          {
+            "term": "Please",
+            "description": "من فضلك أو رجاءً، تجعل الطلب مهذباً."
+          },
+          {
+            "term": "sit",
+            "description": "اجلس."
+          },
+          {
+            "term": "down",
+            "description": "إلى الأسفل، وتكمل معنى الجلوس."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Please come in.",
+        "ar": "من فضلك ادخل.",
+        "context": "تقال لدعوة شخص للدخول."
+      },
+      {
+        "id": 2,
+        "en": "Sit down please.",
+        "ar": "اجلس من فضلك.",
+        "context": "تستخدم بصيغة ترتيب كلمات آخر."
+      },
+      {
+        "id": 3,
+        "en": "Please wait here.",
+        "ar": "من فضلك انتظر هنا.",
+        "context": "تقال لطلب الانتظار."
+      },
+      {
+        "id": 4,
+        "en": "Please stand up.",
+        "ar": "من فضلك قف.",
+        "context": "تستخدم للطلب المعاكس للجلوس."
+      },
+      {
+        "id": 5,
+        "en": "Can you sit down?",
+        "ar": "هل يمكنك الجلوس؟",
+        "context": "تقال بصيغة سؤال مهذب."
+      },
+      {
+        "id": 6,
+        "en": "Please sit here.",
+        "ar": "من فضلك اجلس هنا.",
+        "context": "تستخدم لتحديد مكان الجلوس."
+      },
+      {
+        "id": 7,
+        "en": "Do not sit down.",
+        "ar": "لا تجلس.",
+        "context": "تقال لمنع الجلوس."
+      },
+      {
+        "id": 8,
+        "en": "Please take a seat.",
+        "ar": "من فضلك تفضل بالجلوس.",
+        "context": "تستخدم بصيغة أكثر رسمية."
+      },
+      {
+        "id": 9,
+        "en": "The teacher asked us to sit down.",
+        "ar": "طلب منا المعلم أن نجلس.",
+        "context": "تقال لنقل طلب الجلوس."
+      },
+      {
+        "id": 10,
+        "en": "Please sit down and rest.",
+        "ar": "من فضلك اجلس واسترح.",
+        "context": "تستخدم عند دعوة شخص للراحة."
+      }
+    ]
+  }
+}

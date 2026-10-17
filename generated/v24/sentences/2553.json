@@ -1,0 +1,111 @@
+{
+  "schemaVersion": 1,
+  "id": 2553,
+  "sentence": {
+    "en": "This sentence is hard to translate.",
+    "ar": "هذه الجملة صعبة الترجمة.",
+    "context": "الحديث عن تركيب لغوي يتكوّن من كلمات وله معنى كامل."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "This sentence is hard to translate.",
+        "ar": "هذه الجملة صعبة الترجمة.",
+        "context": "تُستخدم الجملة عند وصف جملة لغوية يصعب نقل معناها إلى لغة أخرى.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "is hard تصف حالة الجملة أو صعوبتها في الحاضر."
+        },
+        "wordMeanings": [
+          {
+            "term": "This",
+            "description": "هذه أو هذا"
+          },
+          {
+            "term": "sentence",
+            "description": "جملة لغوية كاملة المعنى"
+          },
+          {
+            "term": "is",
+            "description": "هي أو يكون"
+          },
+          {
+            "term": "hard",
+            "description": "صعب"
+          },
+          {
+            "term": "to",
+            "description": "لـ، وتأتي قبل الفعل لبيان الفعل المقصود"
+          },
+          {
+            "term": "translate",
+            "description": "يترجم أو ينقل من لغة إلى أخرى"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "This sentence is hard to translate.",
+        "ar": "هذه الجملة صعبة الترجمة.",
+        "context": "تُقال عن تعبير لا ينتقل بسهولة إلى لغة أخرى."
+      },
+      {
+        "id": 2,
+        "en": "This word is hard to translate.",
+        "ar": "هذه الكلمة صعبة الترجمة.",
+        "context": "مثال يغير الشيء المراد ترجمته."
+      },
+      {
+        "id": 3,
+        "en": "That sentence is easy to translate.",
+        "ar": "تلك الجملة سهلة الترجمة.",
+        "context": "مثال معاكس للصعوبة."
+      },
+      {
+        "id": 4,
+        "en": "Is this sentence hard to translate?",
+        "ar": "هل هذه الجملة صعبة الترجمة؟",
+        "context": "سؤال عن صعوبة الترجمة."
+      },
+      {
+        "id": 5,
+        "en": "This sentence is not hard to translate.",
+        "ar": "هذه الجملة ليست صعبة الترجمة.",
+        "context": "تُستخدم لنفي الصعوبة."
+      },
+      {
+        "id": 6,
+        "en": "The meaning is hard to translate exactly.",
+        "ar": "المعنى صعب الترجمة بدقة.",
+        "context": "تُقال عندما تكون المشكلة في الدقة."
+      },
+      {
+        "id": 7,
+        "en": "I translated the sentence carefully.",
+        "ar": "ترجمت الجملة بعناية.",
+        "context": "مثال بالماضي عن فعل الترجمة."
+      },
+      {
+        "id": 8,
+        "en": "Some sentences have no direct translation.",
+        "ar": "بعض الجمل ليس لها ترجمة مباشرة.",
+        "context": "تُستخدم لتفسير صعوبة الترجمة."
+      },
+      {
+        "id": 9,
+        "en": "Please translate this sentence into Arabic.",
+        "ar": "من فضلك ترجم هذه الجملة إلى العربية.",
+        "context": "طلب مباشر للترجمة."
+      },
+      {
+        "id": 10,
+        "en": "A short sentence can still be hard to translate.",
+        "ar": "قد تكون الجملة القصيرة صعبة الترجمة أيضا.",
+        "context": "تُقال عندما لا تعتمد الصعوبة على الطول."
+      }
+    ]
+  }
+}

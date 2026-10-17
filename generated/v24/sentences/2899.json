@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "id": 2899,
+  "sentence": {
+    "en": "I bought a ticket.",
+    "ar": "أنا اشتريت تذكرة.",
+    "context": "ورقة أو إذن للدخول أو السفر."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "I bought a ticket.",
+        "ar": "اشتريت تذكرة.",
+        "context": "تصف الجملة أنك دفعت ثمن تذكرة للدخول أو السفر في الماضي.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "استُخدم الماضي البسيط لأن bought يدل على شراء مكتمل في الماضي."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير يعني أنا، ويشير إلى المتكلم."
+          },
+          {
+            "term": "bought",
+            "description": "اشتريت؛ التصريف الماضي من buy."
+          },
+          {
+            "term": "a",
+            "description": "أداة تنكير تعني تذكرة واحدة غير محددة."
+          },
+          {
+            "term": "ticket",
+            "description": "تذكرة؛ ورقة أو إذن يسمح بالدخول أو السفر أو حضور حدث."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I bought a ticket.",
+        "ar": "اشتريت تذكرة.",
+        "context": "تذكر شراء تذكرة."
+      },
+      {
+        "id": 2,
+        "en": "She bought a ticket for the movie.",
+        "ar": "اشترت تذكرة للفيلم.",
+        "context": "تحدد سبب شراء التذكرة."
+      },
+      {
+        "id": 3,
+        "en": "I bought a train ticket.",
+        "ar": "اشتريت تذكرة قطار.",
+        "context": "تستخدم ticket للسفر بالقطار."
+      },
+      {
+        "id": 4,
+        "en": "We bought two tickets online.",
+        "ar": "اشترينا تذكرتين عبر الإنترنت.",
+        "context": "تصف عدد التذاكر وطريقة الشراء."
+      },
+      {
+        "id": 5,
+        "en": "I did not buy a ticket.",
+        "ar": "لم أشتر تذكرة.",
+        "context": "تنفي شراء التذكرة."
+      },
+      {
+        "id": 6,
+        "en": "Did you buy a ticket?",
+        "ar": "هل اشتريت تذكرة؟",
+        "context": "تسأل عن شراء التذكرة."
+      },
+      {
+        "id": 7,
+        "en": "I bought a ticket at the station.",
+        "ar": "اشتريت تذكرة في المحطة.",
+        "context": "تحدد مكان شراء التذكرة."
+      },
+      {
+        "id": 8,
+        "en": "He bought a ticket before the show.",
+        "ar": "اشترى تذكرة قبل العرض.",
+        "context": "تحدد وقت شراء التذكرة."
+      },
+      {
+        "id": 9,
+        "en": "I bought a ticket, but I lost it.",
+        "ar": "اشتريت تذكرة، لكنني أضعتها.",
+        "context": "تذكر مشكلة بعد الشراء."
+      },
+      {
+        "id": 10,
+        "en": "They bought tickets for everyone.",
+        "ar": "اشتروا تذاكر للجميع.",
+        "context": "تصف شراء تذاكر لأشخاص آخرين."
+      }
+    ]
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "id": 3040,
+  "sentence": {
+    "en": "The wall is white.",
+    "ar": "الجدار أبيض.",
+    "context": "جزء من المبنى يفصل بين المساحات."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "The wall is white.",
+        "ar": "الجدار أبيض.",
+        "context": "تصف الجملة لون جدار محدد بأنه أبيض.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُخدم المضارع البسيط لأن is يصف صفة حالية للجدار."
+        },
+        "wordMeanings": [
+          {
+            "term": "The",
+            "description": "أداة تعريف تشير إلى جدار محدد."
+          },
+          {
+            "term": "wall",
+            "description": "جدار أو حائط؛ جزء من المبنى يفصل بين المساحات."
+          },
+          {
+            "term": "is",
+            "description": "فعل يكون في المضارع، ويربط wall بالصفة white."
+          },
+          {
+            "term": "white",
+            "description": "أبيض؛ لون فاتح مثل لون الثلج أو الورق الأبيض."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "The wall is white.",
+        "ar": "الجدار أبيض.",
+        "context": "تصف لون جدار محدد."
+      },
+      {
+        "id": 2,
+        "en": "The door is white.",
+        "ar": "الباب أبيض.",
+        "context": "تغير الشيء الموصوف إلى باب."
+      },
+      {
+        "id": 3,
+        "en": "The wall is blue.",
+        "ar": "الجدار أزرق.",
+        "context": "تغير لون الجدار."
+      },
+      {
+        "id": 4,
+        "en": "The wall is not white.",
+        "ar": "الجدار ليس أبيض.",
+        "context": "تنفي أن لون الجدار أبيض."
+      },
+      {
+        "id": 5,
+        "en": "Is the wall white?",
+        "ar": "هل الجدار أبيض؟",
+        "context": "تسأل عن لون الجدار."
+      },
+      {
+        "id": 6,
+        "en": "The wall was white before.",
+        "ar": "كان الجدار أبيض من قبل.",
+        "context": "تنقل الوصف إلى الماضي."
+      },
+      {
+        "id": 7,
+        "en": "The wall will be white after painting.",
+        "ar": "سيكون الجدار أبيض بعد الطلاء.",
+        "context": "تنقل الوصف إلى المستقبل."
+      },
+      {
+        "id": 8,
+        "en": "The wall is white in the living room.",
+        "ar": "الجدار أبيض في غرفة المعيشة.",
+        "context": "تحدد مكان الجدار."
+      },
+      {
+        "id": 9,
+        "en": "The wall is white because we painted it yesterday.",
+        "ar": "الجدار أبيض لأننا طليناه أمس.",
+        "context": "توضح سبب اللون."
+      },
+      {
+        "id": 10,
+        "en": "If the wall is white, the room looks brighter.",
+        "ar": "إذا كان الجدار أبيض، تبدو الغرفة أكثر إشراقا.",
+        "context": "تربط لون الجدار بنتيجة بصرية."
+      }
+    ]
+  }
+}

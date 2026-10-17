@@ -1,0 +1,111 @@
+{
+  "schemaVersion": 1,
+  "id": 139,
+  "sentence": {
+    "en": "Would you take a message please?",
+    "ar": "هل يمكنك تدوين رسالة من فضلك؟",
+    "context": "اتصلت عبر الهاتف ولم تجد الشخص المطلوب، فرد عليك شخص آخر، فتطلب منه تدوين رسالة لهذا الشخص."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Would you take a message please?",
+        "ar": "هل يمكنك تدوين رسالة من فضلك؟",
+        "context": "يُستخدم هذا السؤال لطلب شيء أو المساعدة بشكل مهذب.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه صيغة طلب مهذب باستخدام Would you لطلب تدوين رسالة لشخص غير متاح، وهي بنية طلب وليست زمنًا مستقلًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "Would",
+            "description": "تجعل الطلب مهذبًا وغير مباشر."
+          },
+          {
+            "term": "you",
+            "description": "ضمير يشير إلى الشخص الذي أتحدث معه."
+          },
+          {
+            "term": "take",
+            "description": "تدوّن أو تسجل في هذا السياق."
+          },
+          {
+            "term": "a",
+            "description": "أداة تدل على شيء واحد غير محدد."
+          },
+          {
+            "term": "message",
+            "description": "رسالة أو كلام يترك لشخص غير موجود."
+          },
+          {
+            "term": "please",
+            "description": "كلمة تجعل الطلب أكثر أدبًا."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Would you leave a message please?",
+        "ar": "هل يمكنك ترك رسالة من فضلك؟",
+        "context": "تقال عند طلب تسجيل رسالة لشخص غير موجود."
+      },
+      {
+        "id": 2,
+        "en": "Could you take a message please?",
+        "ar": "هل يمكنك تدوين رسالة من فضلك؟",
+        "context": "تقال عند طلب تدوين رسالة عبر الهاتف بأدب."
+      },
+      {
+        "id": 3,
+        "en": "Would you ask him to call me?",
+        "ar": "هل يمكنك أن تطلب منه الاتصال بي؟",
+        "context": "تقال عند ترك طلب لشخص غير موجود."
+      },
+      {
+        "id": 4,
+        "en": "Please tell her I called.",
+        "ar": "من فضلك أخبرها أنني اتصلت.",
+        "context": "تقال عند طلب نقل رسالة قصيرة."
+      },
+      {
+        "id": 5,
+        "en": "Would you write this down please?",
+        "ar": "هل يمكنك كتابة هذا من فضلك؟",
+        "context": "تقال عند طلب تدوين معلومة."
+      },
+      {
+        "id": 6,
+        "en": "Can I leave a message?",
+        "ar": "هل يمكنني ترك رسالة؟",
+        "context": "تقال عند الرغبة في ترك رسالة عبر الهاتف."
+      },
+      {
+        "id": 7,
+        "en": "Would you tell him I will call later?",
+        "ar": "هل يمكنك أن تخبره أنني سأتصل لاحقًا؟",
+        "context": "تقال عند ترك رسالة لشخص غائب."
+      },
+      {
+        "id": 8,
+        "en": "Please take my number.",
+        "ar": "من فضلك دوّن رقمي.",
+        "context": "تقال عند إعطاء رقم للرد لاحقًا."
+      },
+      {
+        "id": 9,
+        "en": "Would you give her this message?",
+        "ar": "هل يمكنك إعطاءها هذه الرسالة؟",
+        "context": "تقال عند طلب نقل رسالة لشخص."
+      },
+      {
+        "id": 10,
+        "en": "Please ask him to call back.",
+        "ar": "من فضلك اطلب منه أن يعاود الاتصال.",
+        "context": "تقال عند طلب رد اتصال من شخص غير متاح."
+      }
+    ]
+  }
+}

@@ -1,0 +1,149 @@
+{
+  "schemaVersion": 1,
+  "id": 9972,
+  "sentence": {
+    "en": "Because of inflation, my salary buys less than it did last year.",
+    "ar": "بسبب التضخم، راتبي يشتري أقل مما هو كان يشتريه العام الماضي.",
+    "context": "مقارنة القوة الشرائية الحالية للراتب بالسنة الماضية دون اشتراط ثبات مقدار الراتب نفسه.",
+    "sourceWord": "inflation",
+    "sourcePos": "n."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Because of inflation, my salary buys less",
+        "ar": "بسبب التضخم، راتبي يشتري أقل",
+        "context": "وصف القوة الشرائية الحالية للراتب مع تعيين سبب تراجعها.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "تصف buys ما يتيحه الراتب حاليًا من شراء."
+        },
+        "wordMeanings": [
+          {
+            "term": "Because",
+            "description": "بسبب."
+          },
+          {
+            "term": "of",
+            "description": "جزء من بسبب."
+          },
+          {
+            "term": "inflation",
+            "description": "التضخم."
+          },
+          {
+            "term": "my",
+            "description": "ضمير ملكية للمتكلم."
+          },
+          {
+            "term": "salary",
+            "description": "راتبي."
+          },
+          {
+            "term": "buys",
+            "description": "يشتري."
+          },
+          {
+            "term": "less",
+            "description": "أقل."
+          }
+        ]
+      },
+      {
+        "sentence": "than it did last year.",
+        "ar": "مما هو كان يشتريه العام الماضي.",
+        "context": "تحديد الراتب في العام الماضي مرجعًا للمقارنة.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "تعوض did عن bought وتقارن القدرة الشرائية بفترة ماضية محددة."
+        },
+        "wordMeanings": [
+          {
+            "term": "than",
+            "description": "مما."
+          },
+          {
+            "term": "it",
+            "description": "هو؛ يعود على الراتب."
+          },
+          {
+            "term": "did",
+            "description": "كان يفعل؛ يعوض عن الفعل."
+          },
+          {
+            "term": "last",
+            "description": "الماضي."
+          },
+          {
+            "term": "year",
+            "description": "العام."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Because of inflation, my salary buys less than it did last year.",
+        "ar": "بسبب التضخم، راتبي يشتري أقل مما هو كان يشتريه العام الماضي.",
+        "context": "مقارنة القوة الشرائية الحالية للراتب بالسنة الماضية دون اشتراط ثبات مقدار الراتب نفسه."
+      },
+      {
+        "id": 2,
+        "en": "The report tracks the rate of inflation.",
+        "ar": "التقرير يتتبع معدل التضخم.",
+        "context": "وصف متابعة وتيرة ارتفاع الأسعار العام لا سعر سلعة مفردة."
+      },
+      {
+        "id": 3,
+        "en": "She studied the effects of inflation on savings.",
+        "ar": "هي درست آثار التضخم على المدخرات.",
+        "context": "وصف بحث سابق في العلاقة بين ارتفاع الأسعار ومال محفوظ."
+      },
+      {
+        "id": 4,
+        "en": "We have discussed ways to measure inflation.",
+        "ar": "نحن قد ناقشنا طرائق قياس التضخم.",
+        "context": "الإبلاغ عن تناول وسائل حساب تغير الأسعار العام."
+      },
+      {
+        "id": 5,
+        "en": "The pump is allowing rapid inflation of the mattress.",
+        "ar": "المضخة تتيح نفخ المرتبة بسرعة.",
+        "context": "استعمال يشير إلى ملء جسم بالهواء، لا ارتفاع الأسعار."
+      },
+      {
+        "id": 6,
+        "en": "The next lecture will explain inflation and purchasing power.",
+        "ar": "المحاضرة التالية ستشرح التضخم والقوة الشرائية.",
+        "context": "توقع تناول مفهومين اقتصاديين دون تقديم توقع أسعار حالي."
+      },
+      {
+        "id": 7,
+        "en": "Please check the tire pressure after inflation.",
+        "ar": "من فضلك تحقق من ضغط الإطار بعد النفخ.",
+        "context": "استعمال يتعلق بإدخال الهواء إلى جسم مطاطي."
+      },
+      {
+        "id": 8,
+        "en": "The article separates inflation from a one-time price rise.",
+        "ar": "المقال يميز التضخم من ارتفاع سعري لمرة واحدة.",
+        "context": "تمييز اتجاه عام مستمر للأسعار من تغير منفرد."
+      },
+      {
+        "id": 9,
+        "en": "The report criticized the inflation of the figures.",
+        "ar": "التقرير انتقد تضخيم الأرقام.",
+        "context": "استعمال مجازي لتكبير قيم معروضة فوق مقدارها الحقيقي."
+      },
+      {
+        "id": 10,
+        "en": "The museum explains balloon inflation.",
+        "ar": "المتحف يشرح نفخ المناطيد.",
+        "context": "وصف ملء غلاف بالغاز في عرض تعليمي."
+      }
+    ]
+  }
+}

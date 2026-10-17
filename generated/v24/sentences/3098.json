@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": 3098,
+  "sentence": {
+    "en": "Which book are you reading?",
+    "ar": "أي كتاب تقرأ؟",
+    "context": "تحديد شيء من مجموعة محددة."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Which book are you reading?",
+        "ar": "أي كتاب تقرأ؟",
+        "context": "تسأل الجملة عن الكتاب المحدد الذي يقرأه الشخص من بين كتب معروفة.",
+        "grammar": {
+          "tense": "المضارع المستمر",
+          "tenseEn": "Present Continuous",
+          "reason": "استُخدم المضارع المستمر لأن are reading يصف فعلا جاريا الآن أو في الفترة الحالية."
+        },
+        "wordMeanings": [
+          {
+            "term": "Which",
+            "description": "أي؛ أداة سؤال للاختيار من مجموعة محددة."
+          },
+          {
+            "term": "book",
+            "description": "كتاب؛ الشيء الذي يقرأه الشخص."
+          },
+          {
+            "term": "are",
+            "description": "فعل مساعد من be يستخدم مع you في المضارع المستمر."
+          },
+          {
+            "term": "you",
+            "description": "أنت؛ الشخص المخاطب في السؤال."
+          },
+          {
+            "term": "reading",
+            "description": "تقرأ؛ صيغة read مع ing للدلالة على القراءة الجارية."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Which book are you reading?",
+        "ar": "أي كتاب تقرأ؟",
+        "context": "تسأل عن كتاب محدد من بين عدة كتب."
+      },
+      {
+        "id": 2,
+        "en": "Which chapter are you reading?",
+        "ar": "أي فصل تقرأ؟",
+        "context": "تسأل عن جزء محدد من كتاب."
+      },
+      {
+        "id": 3,
+        "en": "Which book is he reading?",
+        "ar": "أي كتاب يقرأ؟",
+        "context": "تسأل عن كتاب يقرأه رجل أو ولد."
+      },
+      {
+        "id": 4,
+        "en": "Which book are they reading in class?",
+        "ar": "أي كتاب يقرؤون في الصف؟",
+        "context": "تسأل عن كتاب تقرؤه مجموعة في الصف."
+      },
+      {
+        "id": 5,
+        "en": "Are you reading this book?",
+        "ar": "هل تقرأ هذا الكتاب؟",
+        "context": "تسأل عن كتاب معين."
+      },
+      {
+        "id": 6,
+        "en": "I am reading the red book.",
+        "ar": "أنا أقرأ الكتاب الأحمر.",
+        "context": "تجيب بتحديد كتاب من بين خيارات."
+      },
+      {
+        "id": 7,
+        "en": "She is reading the book on the desk.",
+        "ar": "هي تقرأ الكتاب الموجود على المكتب.",
+        "context": "تحدد الكتاب بمكانه."
+      },
+      {
+        "id": 8,
+        "en": "Which book were you reading last night?",
+        "ar": "أي كتاب كنت تقرأ الليلة الماضية؟",
+        "context": "تسأل عن قراءة كانت جارية في الماضي."
+      },
+      {
+        "id": 9,
+        "en": "Which book will you read next?",
+        "ar": "أي كتاب ستقرأ بعد ذلك؟",
+        "context": "تسأل عن كتاب مستقبلي."
+      },
+      {
+        "id": 10,
+        "en": "Tell me which book you are reading.",
+        "ar": "أخبرني أي كتاب تقرأ.",
+        "context": "تطلب معرفة الكتاب بصيغة غير مباشرة."
+      }
+    ]
+  }
+}

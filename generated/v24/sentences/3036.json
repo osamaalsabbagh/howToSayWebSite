@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "id": 3036,
+  "sentence": {
+    "en": "He is walking home.",
+    "ar": "هو يمشي إلى المنزل.",
+    "context": "حركة جارية أثناء الحديث."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "He is walking home.",
+        "ar": "هو يمشي إلى البيت.",
+        "context": "تصف الجملة أنه في طريقه إلى البيت مشيا الآن أو في الوقت الحالي.",
+        "grammar": {
+          "tense": "المضارع المستمر",
+          "tenseEn": "Present Continuous",
+          "reason": "استُخدم المضارع المستمر لأن is walking يدل على حركة جارية أثناء الكلام."
+        },
+        "wordMeanings": [
+          {
+            "term": "He",
+            "description": "ضمير يعني هو، ويشير إلى رجل أو ولد."
+          },
+          {
+            "term": "is",
+            "description": "فعل مساعد مع he في المضارع المستمر."
+          },
+          {
+            "term": "walking",
+            "description": "يمشي؛ صيغة walk مع ing."
+          },
+          {
+            "term": "home",
+            "description": "إلى البيت؛ هنا تدل على اتجاه الحركة نحو المنزل."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "He is walking home.",
+        "ar": "هو يمشي إلى البيت.",
+        "context": "تصف رجوعه إلى البيت مشيا الآن."
+      },
+      {
+        "id": 2,
+        "en": "She is walking home.",
+        "ar": "هي تمشي إلى البيت.",
+        "context": "تستخدم الجملة مع امرأة أو فتاة."
+      },
+      {
+        "id": 3,
+        "en": "He is driving home.",
+        "ar": "هو يقود إلى البيت.",
+        "context": "تغير وسيلة الرجوع إلى القيادة."
+      },
+      {
+        "id": 4,
+        "en": "He is not walking home.",
+        "ar": "هو لا يمشي إلى البيت.",
+        "context": "تنفي رجوعه مشيا الآن."
+      },
+      {
+        "id": 5,
+        "en": "Is he walking home?",
+        "ar": "هل هو يمشي إلى البيت؟",
+        "context": "تسأل عن حركته الحالية."
+      },
+      {
+        "id": 6,
+        "en": "He walks home every day.",
+        "ar": "يمشي إلى البيت كل يوم.",
+        "context": "تحول المشي إلى عادة."
+      },
+      {
+        "id": 7,
+        "en": "He walked home yesterday.",
+        "ar": "مشى إلى البيت أمس.",
+        "context": "تنقل الفعل إلى الماضي."
+      },
+      {
+        "id": 8,
+        "en": "He is walking home after school.",
+        "ar": "هو يمشي إلى البيت بعد المدرسة.",
+        "context": "تحدد وقت الحركة."
+      },
+      {
+        "id": 9,
+        "en": "He is walking home because the bus is late.",
+        "ar": "هو يمشي إلى البيت لأن الحافلة متأخرة.",
+        "context": "توضح سبب المشي."
+      },
+      {
+        "id": 10,
+        "en": "While he is walking home, call him.",
+        "ar": "أثناء مشيه إلى البيت، اتصل به.",
+        "context": "تستخدم الجملة داخل توجيه."
+      }
+    ]
+  }
+}

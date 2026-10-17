@@ -1,0 +1,161 @@
+{
+  "schemaVersion": 1,
+  "id": 7165,
+  "sentence": {
+    "en": "It took me an hour to figure out how the machine works.",
+    "ar": "الأمر استغرق مني ساعة لفهم كيفية عمل الآلة.",
+    "context": "وصف مدة سابقة للتوصل إلى فهم تشغيل آلة دون تعيين نوعها أو سبب صعوبة فهمها.",
+    "sourceWord": "figure",
+    "sourcePos": "v."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "It took me an hour",
+        "ar": "الأمر استغرق مني ساعة",
+        "context": "تحديد مدة احتاج إليها المتكلم سابقًا.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "تصف took مدة استغرقها عمل سابق، وIt ضمير شكلي."
+        },
+        "wordMeanings": [
+          {
+            "term": "It",
+            "description": "الأمر؛ ضمير شكلي يقدم مدة العمل."
+          },
+          {
+            "term": "took",
+            "description": "استغرق."
+          },
+          {
+            "term": "me",
+            "description": "مني؛ ضمير يحدد من احتاج إلى الوقت."
+          },
+          {
+            "term": "an",
+            "description": "أداة تنكير قبل كلمة تبدأ بصوت حرف علة."
+          },
+          {
+            "term": "hour",
+            "description": "ساعة."
+          }
+        ]
+      },
+      {
+        "sentence": "to figure out",
+        "ar": "للتوصل إلى فهم",
+        "context": "تحديد العمل الذي استغرق الوقت بأنه الفهم بعد تفكير.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "عبارة to figure out مصدر يوضح العمل المقصود ولا يحمل زمنًا مستقلًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "to",
+            "description": "لـ؛ تقدم العمل الذي استغرق الوقت."
+          },
+          {
+            "term": "figure",
+            "description": "التوصل إلى فهم؛ مع out."
+          },
+          {
+            "term": "out",
+            "description": "تكمل التعبير figure out بمعنى فهم بعد تفكير."
+          }
+        ]
+      },
+      {
+        "sentence": "how the machine works.",
+        "ar": "كيفية عمل الآلة.",
+        "context": "تحديد طريقة تشغيل الآلة بوصفها ما فهمه المتكلم.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "تصف works طريقة عمل الآلة المعتادة، لا وقتًا مستقلًا لعملية figure out."
+        },
+        "wordMeanings": [
+          {
+            "term": "how",
+            "description": "كيف."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف تأتي مع الآلة."
+          },
+          {
+            "term": "machine",
+            "description": "الآلة."
+          },
+          {
+            "term": "works",
+            "description": "تعمل."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "It took me an hour to figure out how the machine works.",
+        "ar": "الأمر استغرق مني ساعة لفهم كيفية عمل الآلة.",
+        "context": "وصف مدة سابقة للتوصل إلى فهم تشغيل آلة دون تعيين نوعها أو سبب صعوبة فهمها."
+      },
+      {
+        "id": 2,
+        "en": "She figures the costs before starting each job.",
+        "ar": "هي تحسب التكاليف قبل بدء كل عمل.",
+        "context": "وصف حساب معتاد لمبالغ، في استعمال شائع خصوصًا في الإنجليزية الأمريكية."
+      },
+      {
+        "id": 3,
+        "en": "His name figured prominently in the discussion.",
+        "ar": "اسمه ورد بصورة بارزة في النقاش.",
+        "context": "وصف حضور سابق بارز لشخص في حديث، لا حساب أرقام."
+      },
+      {
+        "id": 4,
+        "en": "We have figured out a better way to organize the files.",
+        "ar": "نحن قد توصلنا إلى طريقة أفضل لتنظيم الملفات.",
+        "context": "الإبلاغ عن حل مكتمل لمشكلة ترتيب."
+      },
+      {
+        "id": 5,
+        "en": "The team is figuring the total distance.",
+        "ar": "الفريق يحسب المسافة الإجمالية.",
+        "context": "وصف حساب جارٍ لمجموع أطوال مسار."
+      },
+      {
+        "id": 6,
+        "en": "The extra time will figure in our decision.",
+        "ar": "الوقت الإضافي سيؤثر في قرارنا.",
+        "context": "توقع دخول عامل زمني في اختيار."
+      },
+      {
+        "id": 7,
+        "en": "Please figure out which key opens the cabinet.",
+        "ar": "من فضلك اكتشف أي مفتاح يفتح الخزانة.",
+        "context": "طلب التوصل إلى حل عملي من بين بدائل."
+      },
+      {
+        "id": 8,
+        "en": "The delay did not figure in the original plan.",
+        "ar": "التأخير لم يكن ضمن حسابات الخطة الأصلية.",
+        "context": "وصف عامل سابق لم يؤخذ في الاعتبار."
+      },
+      {
+        "id": 9,
+        "en": "I figure the room is large enough.",
+        "ar": "أنا أظن أن الغرفة كبيرة بما يكفي.",
+        "context": "تعبير غير رسمي عن تقدير حالي لحجم مساحة."
+      },
+      {
+        "id": 10,
+        "en": "The character figures out the clue in the final scene.",
+        "ar": "الشخصية تفهم الدليل في المشهد الأخير.",
+        "context": "وصف حل لمسألة داخل حكاية."
+      }
+    ]
+  }
+}

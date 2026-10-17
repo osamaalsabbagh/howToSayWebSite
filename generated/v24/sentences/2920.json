@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "id": 2920,
+  "sentence": {
+    "en": "Tomorrow is a holiday.",
+    "ar": "غدًا عطلة.",
+    "context": "استخدام الكلمة كاسم ليوم قادم محدد."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Tomorrow is a holiday.",
+        "ar": "غدا عطلة.",
+        "context": "تستخدم الجملة للإخبار بأن اليوم التالي يوم عطلة لا يكون فيه عمل أو دراسة غالبا.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُخدم المضارع البسيط لأن is يصف صفة مقررة ليوم الغد في جدول أو تقويم."
+        },
+        "wordMeanings": [
+          {
+            "term": "Tomorrow",
+            "description": "غدا؛ اليوم الذي يلي اليوم الحالي."
+          },
+          {
+            "term": "is",
+            "description": "فعل يكون في المضارع، ويربط tomorrow بوصفه."
+          },
+          {
+            "term": "a",
+            "description": "أداة تنكير تعني عطلة واحدة أو يوما من نوع العطلات."
+          },
+          {
+            "term": "holiday",
+            "description": "عطلة؛ يوم راحة أو يوم لا يوجد فيه عمل أو دراسة عادة."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Tomorrow is a holiday.",
+        "ar": "غدا عطلة.",
+        "context": "تخبر بأن اليوم التالي عطلة."
+      },
+      {
+        "id": 2,
+        "en": "Today is a holiday.",
+        "ar": "اليوم عطلة.",
+        "context": "تستخدم holiday مع اليوم الحالي."
+      },
+      {
+        "id": 3,
+        "en": "Tomorrow is not a holiday.",
+        "ar": "غدا ليس عطلة.",
+        "context": "تنفي أن الغد عطلة."
+      },
+      {
+        "id": 4,
+        "en": "Is tomorrow a holiday?",
+        "ar": "هل غدا عطلة؟",
+        "context": "تسأل عن جدول الغد."
+      },
+      {
+        "id": 5,
+        "en": "Tomorrow is a national holiday.",
+        "ar": "غدا عطلة وطنية.",
+        "context": "تحدد نوع العطلة."
+      },
+      {
+        "id": 6,
+        "en": "Tomorrow is a holiday, so the office is closed.",
+        "ar": "غدا عطلة، لذلك المكتب مغلق.",
+        "context": "تذكر نتيجة العطلة."
+      },
+      {
+        "id": 7,
+        "en": "Yesterday was a holiday.",
+        "ar": "كان أمس عطلة.",
+        "context": "تنقل الفكرة إلى الماضي."
+      },
+      {
+        "id": 8,
+        "en": "I forgot tomorrow is a holiday.",
+        "ar": "نسيت أن غدا عطلة.",
+        "context": "تدخل الجملة داخل كلام أطول."
+      },
+      {
+        "id": 9,
+        "en": "Because tomorrow is a holiday, we can sleep late.",
+        "ar": "لأن غدا عطلة، يمكننا أن ننام متأخرين.",
+        "context": "توضح أثرا عمليا للعطلة."
+      },
+      {
+        "id": 10,
+        "en": "Check if tomorrow is a holiday.",
+        "ar": "تحقق مما إذا كان غدا عطلة.",
+        "context": "تستخدم الجملة داخل طلب."
+      }
+    ]
+  }
+}

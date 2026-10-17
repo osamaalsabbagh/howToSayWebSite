@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": 1225,
+  "sentence": {
+    "en": "Is there public transportation nearby?",
+    "ar": "هل توجد وسائل نقل عامة قريبة؟",
+    "context": "تُستخدم للاستفسار عن وجود وسائل نقل عام بالقرب من المكان."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Is there public transportation nearby",
+        "ar": "هل توجد وسائل نقل عامة قريبة",
+        "context": "سؤال عن توفر مواصلات عامة قرب المكان.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُخدم المضارع البسيط للسؤال عن وجود شيء حاليًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "Is",
+            "description": "تُستخدم للسؤال عن وجود شيء"
+          },
+          {
+            "term": "there",
+            "description": "هناك"
+          },
+          {
+            "term": "public",
+            "description": "عام"
+          },
+          {
+            "term": "transportation",
+            "description": "وسائل نقل"
+          },
+          {
+            "term": "nearby",
+            "description": "قريب"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Is there a bus stop nearby?",
+        "ar": "هل يوجد موقف حافلات قريب؟",
+        "context": "تُستخدم للسؤال عن الحافلة."
+      },
+      {
+        "id": 2,
+        "en": "Is there a train station nearby?",
+        "ar": "هل توجد محطة قطار قريبة؟",
+        "context": "تُستخدم للسؤال عن القطار."
+      },
+      {
+        "id": 3,
+        "en": "Public transportation is close.",
+        "ar": "وسائل النقل العامة قريبة.",
+        "context": "تُستخدم كإجابة."
+      },
+      {
+        "id": 4,
+        "en": "Can I take public transportation there?",
+        "ar": "هل يمكنني أخذ وسائل النقل العامة إلى هناك؟",
+        "context": "تُستخدم للسؤال عن وسيلة."
+      },
+      {
+        "id": 5,
+        "en": "The subway is nearby.",
+        "ar": "المترو قريب.",
+        "context": "تُقال عند وجود وسيلة قريبة."
+      },
+      {
+        "id": 6,
+        "en": "There is no public transportation here.",
+        "ar": "لا توجد وسائل نقل عامة هنا.",
+        "context": "تُستخدم لنفي التوفر."
+      },
+      {
+        "id": 7,
+        "en": "Is transportation available at night?",
+        "ar": "هل النقل متاح ليلًا؟",
+        "context": "تُستخدم للسؤال عن الوقت."
+      },
+      {
+        "id": 8,
+        "en": "The bus runs every hour.",
+        "ar": "تعمل الحافلة كل ساعة.",
+        "context": "تُستخدم لشرح الجدول."
+      },
+      {
+        "id": 9,
+        "en": "I prefer public transportation.",
+        "ar": "أفضل وسائل النقل العامة.",
+        "context": "تُقال عن تفضيل."
+      },
+      {
+        "id": 10,
+        "en": "Where is the nearest station?",
+        "ar": "أين أقرب محطة؟",
+        "context": "تُستخدم بعد السؤال عن النقل."
+      }
+    ]
+  }
+}

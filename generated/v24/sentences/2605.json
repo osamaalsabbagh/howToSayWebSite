@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": 2605,
+  "sentence": {
+    "en": "Please sit here.",
+    "ar": "من فضلك اجلس هنا.",
+    "context": "طلب مباشر لشخص أن يكون في وضع الجلوس في مكان محدد."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Please sit here.",
+        "ar": "من فضلك اجلس هنا.",
+        "context": "تستخدم الجملة كطلب مهذب من شخص أن يجلس في مكان محدد.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه صيغة أمر مهذب تبدأ بكلمة Please، وليست جملة خبرية بزمن مستقل."
+        },
+        "wordMeanings": [
+          {
+            "term": "Please",
+            "description": "من فضلك، لجعل الطلب مهذبا"
+          },
+          {
+            "term": "sit",
+            "description": "اجلس أو اتخذ وضع الجلوس"
+          },
+          {
+            "term": "here",
+            "description": "هنا، في هذا المكان"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Please sit here.",
+        "ar": "من فضلك اجلس هنا.",
+        "context": "تُقال لتوجيه شخص إلى مقعد محدد."
+      },
+      {
+        "id": 2,
+        "en": "Please sit near the window.",
+        "ar": "من فضلك اجلس قرب النافذة.",
+        "context": "طلب مهذب لاختيار مكان جلوس معين."
+      },
+      {
+        "id": 3,
+        "en": "Please sit down and wait.",
+        "ar": "من فضلك اجلس وانتظر.",
+        "context": "تُستخدم في عيادة أو مكتب عند طلب الانتظار."
+      },
+      {
+        "id": 4,
+        "en": "You can sit here.",
+        "ar": "يمكنك الجلوس هنا.",
+        "context": "تُقال لإعطاء إذن بالجلوس في مكان."
+      },
+      {
+        "id": 5,
+        "en": "Do not sit there.",
+        "ar": "لا تجلس هناك.",
+        "context": "تُستخدم لمنع الجلوس في مكان غير مناسب."
+      },
+      {
+        "id": 6,
+        "en": "Please take this seat.",
+        "ar": "من فضلك خذ هذا المقعد.",
+        "context": "طلب مهذب لاستخدام مقعد معين."
+      },
+      {
+        "id": 7,
+        "en": "Please sit with your team.",
+        "ar": "من فضلك اجلس مع فريقك.",
+        "context": "تُقال عند تنظيم أماكن الجلوس في اجتماع."
+      },
+      {
+        "id": 8,
+        "en": "May I sit here?",
+        "ar": "هل يمكنني الجلوس هنا؟",
+        "context": "سؤال مهذب لطلب إذن بالجلوس."
+      },
+      {
+        "id": 9,
+        "en": "Please sit in the front row.",
+        "ar": "من فضلك اجلس في الصف الأمامي.",
+        "context": "توجيه مهذب إلى مكان محدد في قاعة."
+      },
+      {
+        "id": 10,
+        "en": "Please stay seated until your name is called.",
+        "ar": "من فضلك ابق جالسا حتى يُنادى اسمك.",
+        "context": "تُستخدم عند تنظيم الانتظار."
+      }
+    ]
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "schemaVersion": 1,
+  "id": 3134,
+  "sentence": {
+    "en": "I will work on this task tomorrow.",
+    "ar": "أنا سأعمل على هذه المهمة غدًا.",
+    "context": "خطة للقيام بعمل في وقت قادم محدد."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "I will work on this task tomorrow.",
+        "ar": "سأعمل على هذه المهمة غدا.",
+        "context": "تخبر الجملة عن خطة للبدء أو المتابعة في مهمة محددة في اليوم التالي.",
+        "grammar": {
+          "tense": "المستقبل البسيط",
+          "tenseEn": "Future Simple",
+          "reason": "استُخدم will work للتعبير عن فعل سيحدث في المستقبل، وtomorrow يحدد وقت الخطة."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "أنا؛ المتكلم."
+          },
+          {
+            "term": "will",
+            "description": "سوف أو سـ؛ فعل مساعد يدل على المستقبل."
+          },
+          {
+            "term": "work",
+            "description": "أعمل؛ أبذل جهدا لإنجاز شيء."
+          },
+          {
+            "term": "on",
+            "description": "على؛ تستخدم مع work on بمعنى أتعامل مع مهمة أو أطورها."
+          },
+          {
+            "term": "this",
+            "description": "هذه؛ تشير إلى مهمة قريبة أو معروفة."
+          },
+          {
+            "term": "task",
+            "description": "مهمة؛ عمل محدد يجب إنجازه."
+          },
+          {
+            "term": "tomorrow",
+            "description": "غدا؛ اليوم التالي لليوم الحالي."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I will work on this task tomorrow.",
+        "ar": "سأعمل على هذه المهمة غدا.",
+        "context": "تذكر خطة عمل للغد."
+      },
+      {
+        "id": 2,
+        "en": "She will work on this task tomorrow.",
+        "ar": "ستعمل على هذه المهمة غدا.",
+        "context": "تغير الفاعل إلى امرأة أو فتاة."
+      },
+      {
+        "id": 3,
+        "en": "I will work on this project tomorrow.",
+        "ar": "سأعمل على هذا المشروع غدا.",
+        "context": "تغير الشيء الذي ستعمل عليه."
+      },
+      {
+        "id": 4,
+        "en": "Will you work on this task tomorrow?",
+        "ar": "هل ستعمل على هذه المهمة غدا؟",
+        "context": "تسأل عن الخطة المستقبلية."
+      },
+      {
+        "id": 5,
+        "en": "I will not work on this task tomorrow.",
+        "ar": "لن أعمل على هذه المهمة غدا.",
+        "context": "تنفي العمل على المهمة غدا."
+      },
+      {
+        "id": 6,
+        "en": "I worked on this task yesterday.",
+        "ar": "عملت على هذه المهمة أمس.",
+        "context": "تنقل العمل إلى الماضي."
+      },
+      {
+        "id": 7,
+        "en": "I work on this task every morning.",
+        "ar": "أعمل على هذه المهمة كل صباح.",
+        "context": "تصف عادة متكررة."
+      },
+      {
+        "id": 8,
+        "en": "I am working on this task now.",
+        "ar": "أنا أعمل على هذه المهمة الآن.",
+        "context": "تصف العمل أثناء حدوثه."
+      },
+      {
+        "id": 9,
+        "en": "I will finish this task tomorrow.",
+        "ar": "سأنهي هذه المهمة غدا.",
+        "context": "تغير الفعل من العمل إلى الإنهاء."
+      },
+      {
+        "id": 10,
+        "en": "Please remind me to work on this task tomorrow.",
+        "ar": "من فضلك ذكرني أن أعمل على هذه المهمة غدا.",
+        "context": "تطلب تذكيرا بالخطة."
+      }
+    ]
+  }
+}

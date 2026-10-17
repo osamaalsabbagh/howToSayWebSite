@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "id": 3030,
+  "sentence": {
+    "en": "She woke up late.",
+    "ar": "هي استيقظت متأخرة.",
+    "context": "استيقاظ حدث في الماضي."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "She woke up late.",
+        "ar": "استيقظت متأخرة.",
+        "context": "تصف الجملة أنها استيقظت بعد الوقت المعتاد أو المطلوب في الماضي.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "استُخدم الماضي البسيط لأن woke up يدل على استيقاظ حدث وانتهى في الماضي."
+        },
+        "wordMeanings": [
+          {
+            "term": "She",
+            "description": "ضمير يعني هي، ويشير إلى امرأة أو فتاة."
+          },
+          {
+            "term": "woke",
+            "description": "استيقظت؛ التصريف الماضي من wake."
+          },
+          {
+            "term": "up",
+            "description": "تكمل معنى woke up بمعنى استيقظ."
+          },
+          {
+            "term": "late",
+            "description": "متأخرة؛ بعد الوقت المعتاد أو المطلوب."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "She woke up late.",
+        "ar": "استيقظت متأخرة.",
+        "context": "تذكر استيقاظها في وقت متأخر."
+      },
+      {
+        "id": 2,
+        "en": "He woke up late.",
+        "ar": "استيقظ متأخرا.",
+        "context": "تستخدم الجملة مع رجل أو ولد."
+      },
+      {
+        "id": 3,
+        "en": "She woke up early.",
+        "ar": "استيقظت مبكرة.",
+        "context": "تستخدم الوقت المعاكس."
+      },
+      {
+        "id": 4,
+        "en": "She did not wake up late.",
+        "ar": "لم تستيقظ متأخرة.",
+        "context": "تنفي الاستيقاظ المتأخر."
+      },
+      {
+        "id": 5,
+        "en": "Did she wake up late?",
+        "ar": "هل استيقظت متأخرة؟",
+        "context": "تسأل عن وقت استيقاظها."
+      },
+      {
+        "id": 6,
+        "en": "She wakes up late on Sundays.",
+        "ar": "تستيقظ متأخرة أيام الأحد.",
+        "context": "تحول الفعل إلى عادة."
+      },
+      {
+        "id": 7,
+        "en": "She will wake up late tomorrow.",
+        "ar": "ستستيقظ متأخرة غدا.",
+        "context": "تنقل الفعل إلى المستقبل."
+      },
+      {
+        "id": 8,
+        "en": "She woke up late for work.",
+        "ar": "استيقظت متأخرة عن العمل.",
+        "context": "توضح الشيء الذي تأخرت عنه."
+      },
+      {
+        "id": 9,
+        "en": "She woke up late because her alarm did not ring.",
+        "ar": "استيقظت متأخرة لأن منبهها لم يرن.",
+        "context": "توضح سبب التأخر."
+      },
+      {
+        "id": 10,
+        "en": "When she woke up late, she missed the bus.",
+        "ar": "عندما استيقظت متأخرة، فاتتها الحافلة.",
+        "context": "تربط الاستيقاظ المتأخر بنتيجة."
+      }
+    ]
+  }
+}

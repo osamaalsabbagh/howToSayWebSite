@@ -1,0 +1,119 @@
+{
+  "schemaVersion": 1,
+  "id": 2169,
+  "sentence": {
+    "en": "Would you like an orange or an apple?",
+    "ar": "هل تود برتقالة أم تفاحة؟",
+    "context": "عرض خيارين من الفاكهة لشخص ليختار أحدهما."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Would you like an orange or an apple?",
+        "ar": "هل تود برتقالة أم تفاحة؟",
+        "context": "سؤال مهذب عند تقديم نوعين من الفاكهة وطلب اختيار أحدهما.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "Would you like صيغة مهذبة للعرض أو السؤال عن الرغبة، وليست خبرًا بزمن خبري مستقل."
+        },
+        "wordMeanings": [
+          {
+            "term": "Would",
+            "description": "هل تود أو صيغة مهذبة"
+          },
+          {
+            "term": "you",
+            "description": "أنت أو أنتم"
+          },
+          {
+            "term": "like",
+            "description": "يرغب أو يحب"
+          },
+          {
+            "term": "an",
+            "description": "أداة تنكير"
+          },
+          {
+            "term": "orange",
+            "description": "برتقالة؛ الفاكهة هنا"
+          },
+          {
+            "term": "or",
+            "description": "أو"
+          },
+          {
+            "term": "an",
+            "description": "أداة تنكير"
+          },
+          {
+            "term": "apple",
+            "description": "تفاحة"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Would you like an orange or an apple?",
+        "ar": "هل تود برتقالة أم تفاحة؟",
+        "context": "عرض خيارين من الفاكهة لشخص ليختار أحدهما."
+      },
+      {
+        "id": 2,
+        "en": "Would you like a banana or an apple?",
+        "ar": "هل تود موزة أم تفاحة؟",
+        "context": "عرض خيارين من الفاكهة."
+      },
+      {
+        "id": 3,
+        "en": "I would like an orange, please.",
+        "ar": "أود برتقالة، من فضلك.",
+        "context": "الرد باختيار البرتقالة."
+      },
+      {
+        "id": 4,
+        "en": "She chose an apple.",
+        "ar": "هي اختارت تفاحة.",
+        "context": "اختيار أحد الخيارين."
+      },
+      {
+        "id": 5,
+        "en": "Would you like fruit after lunch?",
+        "ar": "هل تود فاكهة بعد الغداء؟",
+        "context": "عرض فاكهة بشكل عام."
+      },
+      {
+        "id": 6,
+        "en": "Do you want an orange or an apple?",
+        "ar": "هل تريد برتقالة أم تفاحة؟",
+        "context": "صيغة مباشرة أقل رسمية."
+      },
+      {
+        "id": 7,
+        "en": "The orange is sweet.",
+        "ar": "البرتقالة حلوة.",
+        "context": "وصف أحد الخيارين."
+      },
+      {
+        "id": 8,
+        "en": "The apple is fresh.",
+        "ar": "التفاحة طازجة.",
+        "context": "وصف الخيار الآخر."
+      },
+      {
+        "id": 9,
+        "en": "No, thank you. I am not hungry.",
+        "ar": "لا، شكرًا. لست جائعًا.",
+        "context": "رفض العرض بأدب."
+      },
+      {
+        "id": 10,
+        "en": "Can I have both the orange and the apple?",
+        "ar": "هل يمكنني أخذ البرتقالة والتفاحة معًا؟",
+        "context": "طلب الخيارين معًا بدل الاختيار."
+      }
+    ]
+  }
+}

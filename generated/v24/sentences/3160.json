@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": 3160,
+  "sentence": {
+    "en": "She painted the wall yellow.",
+    "ar": "هي دهنت الجدار أصفر.",
+    "context": "استخدام اللون كاسم يدل على نتيجة التغيير في لون شيء."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "She painted the wall yellow.",
+        "ar": "دهنت الجدار باللون الأصفر.",
+        "context": "تصف الجملة تغييرا حدث في الماضي: أصبح لون الجدار أصفر بعد الدهان.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "استُخدم الماضي البسيط لأن painted يصف فعلا مكتمل الحدوث في الماضي."
+        },
+        "wordMeanings": [
+          {
+            "term": "She",
+            "description": "هي؛ امرأة أو فتاة نتحدث عنها."
+          },
+          {
+            "term": "painted",
+            "description": "دهنت أو طلت؛ غطت السطح بلون."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف قبل wall لأن الجدار محدد."
+          },
+          {
+            "term": "wall",
+            "description": "جدار؛ سطح قائم يفصل أو يحيط بغرفة أو مكان."
+          },
+          {
+            "term": "yellow",
+            "description": "أصفر؛ اللون الذي صار عليه الجدار بعد الدهان."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "She painted the wall yellow.",
+        "ar": "دهنت الجدار باللون الأصفر.",
+        "context": "تصف نتيجة تغيير لون الجدار."
+      },
+      {
+        "id": 2,
+        "en": "He painted the wall yellow.",
+        "ar": "دهن الجدار باللون الأصفر.",
+        "context": "تغير الفاعل إلى رجل أو ولد."
+      },
+      {
+        "id": 3,
+        "en": "She painted the door yellow.",
+        "ar": "دهنت الباب باللون الأصفر.",
+        "context": "تغير الشيء المطلي."
+      },
+      {
+        "id": 4,
+        "en": "Did she paint the wall yellow?",
+        "ar": "هل دهنت الجدار باللون الأصفر؟",
+        "context": "تسأل عن فعل الدهان."
+      },
+      {
+        "id": 5,
+        "en": "She did not paint the wall yellow.",
+        "ar": "لم تدهن الجدار باللون الأصفر.",
+        "context": "تنفي أن يكون اللون الأصفر هو النتيجة."
+      },
+      {
+        "id": 6,
+        "en": "She paints the wall yellow every spring.",
+        "ar": "هي تدهن الجدار باللون الأصفر كل ربيع.",
+        "context": "تصف عادة متكررة."
+      },
+      {
+        "id": 7,
+        "en": "She is painting the wall yellow now.",
+        "ar": "هي تدهن الجدار باللون الأصفر الآن.",
+        "context": "تصف الدهان أثناء حدوثه."
+      },
+      {
+        "id": 8,
+        "en": "She will paint the wall yellow tomorrow.",
+        "ar": "ستدهن الجدار باللون الأصفر غدا.",
+        "context": "تتحدث عن دهان مستقبلي."
+      },
+      {
+        "id": 9,
+        "en": "The room looked brighter after she painted the wall yellow.",
+        "ar": "بدت الغرفة أكثر إشراقا بعد أن دهنت الجدار باللون الأصفر.",
+        "context": "تذكر نتيجة الدهان."
+      },
+      {
+        "id": 10,
+        "en": "She painted the wall yellow because it matched the curtains.",
+        "ar": "دهنت الجدار باللون الأصفر لأنه ناسب الستائر.",
+        "context": "توضح سبب اختيار اللون."
+      }
+    ]
+  }
+}

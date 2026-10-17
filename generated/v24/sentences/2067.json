@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": 2067,
+  "sentence": {
+    "en": "My brother is a teacher.",
+    "ar": "أخي معلم.",
+    "context": "إخبار شخص عن صلة قرابة ومهنة أحد أفراد الأسرة."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "My brother is a teacher.",
+        "ar": "أخي معلم.",
+        "context": "تصف الجملة صلة القرابة ومهنة الأخ.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُخدم المضارع البسيط مع is لوصف مهنة أو صفة حالية."
+        },
+        "wordMeanings": [
+          {
+            "term": "My",
+            "description": "خاص بي"
+          },
+          {
+            "term": "brother",
+            "description": "أخ"
+          },
+          {
+            "term": "is",
+            "description": "صيغة تعني يكون أو هو في الحاضر"
+          },
+          {
+            "term": "a",
+            "description": "أداة تنكير لمهنة واحدة"
+          },
+          {
+            "term": "teacher",
+            "description": "معلم"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "My sister is a doctor.",
+        "ar": "أختي طبيبة.",
+        "context": "تقال عند ذكر مهنة أحد أفراد الأسرة."
+      },
+      {
+        "id": 2,
+        "en": "His brother is an engineer.",
+        "ar": "أخوه مهندس.",
+        "context": "تقال عند وصف مهنة أخ شخص."
+      },
+      {
+        "id": 3,
+        "en": "My father is a teacher.",
+        "ar": "أبي معلم.",
+        "context": "تقال عند وصف مهنة الأب."
+      },
+      {
+        "id": 4,
+        "en": "She is a teacher at my school.",
+        "ar": "هي معلمة في مدرستي.",
+        "context": "تقال عند تحديد مكان عمل المعلمة."
+      },
+      {
+        "id": 5,
+        "en": "My brother teaches math.",
+        "ar": "أخي يدرس الرياضيات.",
+        "context": "تقال عند ذكر المادة التي يدرسها."
+      },
+      {
+        "id": 6,
+        "en": "Her mother is a nurse.",
+        "ar": "والدتها ممرضة.",
+        "context": "تقال عند وصف مهنة الأم."
+      },
+      {
+        "id": 7,
+        "en": "He is not a teacher.",
+        "ar": "هو ليس معلمًا.",
+        "context": "تقال عند نفي المهنة."
+      },
+      {
+        "id": 8,
+        "en": "My brother works at a school.",
+        "ar": "أخي يعمل في مدرسة.",
+        "context": "تقال عند وصف مكان عمل الأخ."
+      },
+      {
+        "id": 9,
+        "en": "They are teachers.",
+        "ar": "هم معلمون.",
+        "context": "تقال عند وصف مهنة مجموعة."
+      },
+      {
+        "id": 10,
+        "en": "I want to be a teacher.",
+        "ar": "أريد أن أصبح معلمًا.",
+        "context": "تقال عند الحديث عن طموح مهني."
+      }
+    ]
+  }
+}

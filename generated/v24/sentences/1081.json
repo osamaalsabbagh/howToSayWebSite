@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": 1081,
+  "sentence": {
+    "en": "How has your day been?",
+    "ar": "كيف كان يومك؟",
+    "context": "تُستخدم لسؤال شخص عن يومه، وغالبًا لبدء محادثة."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "How has your day been",
+        "ar": "كيف كان يومك",
+        "context": "تُستخدم للسؤال عن يوم شخص حتى لحظة الكلام.",
+        "grammar": {
+          "tense": "المضارع التام",
+          "tenseEn": "Present Perfect",
+          "reason": "استُخدم المضارع التام لأن السؤال عن تجربة اليوم من بدايته حتى الآن."
+        },
+        "wordMeanings": [
+          {
+            "term": "How",
+            "description": "كيف، للسؤال عن الحال أو الجودة"
+          },
+          {
+            "term": "has",
+            "description": "تساعد في تكوين معنى امتداد الحالة حتى الآن"
+          },
+          {
+            "term": "your",
+            "description": "خاصتك، وتربط اليوم بالمخاطب"
+          },
+          {
+            "term": "day",
+            "description": "يوم"
+          },
+          {
+            "term": "been",
+            "description": "كان أو سار خلال الفترة"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "How was your day?",
+        "ar": "كيف كان يومك؟",
+        "context": "تُستخدم بعد انتهاء اليوم أو قرب انتهائه."
+      },
+      {
+        "id": 2,
+        "en": "How has work been?",
+        "ar": "كيف كان العمل؟",
+        "context": "تُستخدم للسؤال عن العمل مؤخرًا."
+      },
+      {
+        "id": 3,
+        "en": "My day has been good.",
+        "ar": "كان يومي جيدًا.",
+        "context": "تُستخدم للإجابة بإيجابية."
+      },
+      {
+        "id": 4,
+        "en": "My day has been busy.",
+        "ar": "كان يومي مشغولًا.",
+        "context": "تُستخدم لوصف يوم مليء."
+      },
+      {
+        "id": 5,
+        "en": "How has your week been?",
+        "ar": "كيف كان أسبوعك؟",
+        "context": "تُستخدم للسؤال عن فترة أطول."
+      },
+      {
+        "id": 6,
+        "en": "How has school been?",
+        "ar": "كيف كانت المدرسة؟",
+        "context": "تُستخدم مع طالب."
+      },
+      {
+        "id": 7,
+        "en": "It has been a long day.",
+        "ar": "لقد كان يومًا طويلًا.",
+        "context": "تُستخدم بعد تعب."
+      },
+      {
+        "id": 8,
+        "en": "How has your morning been?",
+        "ar": "كيف كان صباحك؟",
+        "context": "تُستخدم خلال اليوم."
+      },
+      {
+        "id": 9,
+        "en": "Today has been great.",
+        "ar": "كان اليوم رائعًا.",
+        "context": "تُستخدم لوصف يوم جيد حتى الآن."
+      },
+      {
+        "id": 10,
+        "en": "How have you been today?",
+        "ar": "كيف كان حالك اليوم؟",
+        "context": "تُستخدم للاطمئنان."
+      }
+    ]
+  }
+}

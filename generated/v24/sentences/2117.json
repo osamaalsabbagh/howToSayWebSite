@@ -1,0 +1,135 @@
+{
+  "schemaVersion": 1,
+  "id": 2117,
+  "sentence": {
+    "en": "This is not the book I was looking for.",
+    "ar": "هذا ليس الكتاب الذي كنت أبحث عنه.",
+    "context": "المقصود أن المتحدث وجد أو استلم كتابًا لكنه يوضح أن هذا ليس الكتاب المطلوب الذي كان يبحث عنه."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "This is not the book",
+        "ar": "هذا ليس الكتاب",
+        "context": "يوضح هذا الجزء أن الشيء الموجود ليس الكتاب المطلوب.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُخدم is not لوصف هوية الشيء الحالي ونفي أنه الكتاب المقصود."
+        },
+        "wordMeanings": [
+          {
+            "term": "This",
+            "description": "هذا، لشيء قريب أو محدد"
+          },
+          {
+            "term": "is",
+            "description": "صيغة تعني يكون أو هو في الحاضر"
+          },
+          {
+            "term": "not",
+            "description": "ليس للنفي"
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف لكتاب محدد مطلوب"
+          },
+          {
+            "term": "book",
+            "description": "كتاب"
+          }
+        ]
+      },
+      {
+        "sentence": "I was looking for.",
+        "ar": "الذي كنت أبحث عنه.",
+        "context": "يصف هذا الجزء الكتاب المطلوب الذي كان المتكلم يبحث عنه.",
+        "grammar": {
+          "tense": "الماضي المستمر",
+          "tenseEn": "Past Continuous",
+          "reason": "استُخدم was looking for لوصف بحث كان مستمرًا في الماضي عن شيء محدد."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير المتكلم المفرد"
+          },
+          {
+            "term": "was",
+            "description": "صيغة مساعدة مع أنا في الماضي"
+          },
+          {
+            "term": "looking",
+            "description": "أبحث أو كنت أحاول إيجاد"
+          },
+          {
+            "term": "for",
+            "description": "عن، وتكمل معنى البحث"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "This is not the key I need.",
+        "ar": "هذا ليس المفتاح الذي أحتاجه.",
+        "context": "تقال عند العثور على شيء غير مناسب."
+      },
+      {
+        "id": 2,
+        "en": "That is the book I was looking for.",
+        "ar": "ذلك هو الكتاب الذي كنت أبحث عنه.",
+        "context": "تقال عند إيجاد الشيء المطلوب."
+      },
+      {
+        "id": 3,
+        "en": "I was looking for my phone.",
+        "ar": "كنت أبحث عن هاتفي.",
+        "context": "تقال عند البحث عن شيء مفقود."
+      },
+      {
+        "id": 4,
+        "en": "This is not my bag.",
+        "ar": "هذه ليست حقيبتي.",
+        "context": "تقال عند نفي ملكية شيء."
+      },
+      {
+        "id": 5,
+        "en": "She found the book she wanted.",
+        "ar": "هي وجدت الكتاب الذي أرادته.",
+        "context": "تقال عند إيجاد الشيء المطلوب."
+      },
+      {
+        "id": 6,
+        "en": "He was looking for the address.",
+        "ar": "هو كان يبحث عن العنوان.",
+        "context": "تقال عند البحث عن معلومة."
+      },
+      {
+        "id": 7,
+        "en": "This is the wrong book.",
+        "ar": "هذا هو الكتاب الخطأ.",
+        "context": "تقال عند استلام كتاب غير مطلوب."
+      },
+      {
+        "id": 8,
+        "en": "I need another book.",
+        "ar": "أحتاج إلى كتاب آخر.",
+        "context": "تقال عند عدم مناسبة الكتاب الموجود."
+      },
+      {
+        "id": 9,
+        "en": "The book is on the desk.",
+        "ar": "الكتاب على المكتب.",
+        "context": "تقال عند تحديد مكان كتاب."
+      },
+      {
+        "id": 10,
+        "en": "We were looking for this page.",
+        "ar": "كنا نبحث عن هذه الصفحة.",
+        "context": "تقال عند البحث داخل كتاب أو ملف."
+      }
+    ]
+  }
+}

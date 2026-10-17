@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "id": 2857,
+  "sentence": {
+    "en": "That book is mine.",
+    "ar": "ذلك الكتاب لي.",
+    "context": "الإشارة إلى شيء بعيد نسبيًا."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "That book is mine.",
+        "ar": "ذلك الكتاب لي.",
+        "context": "تستخدم الجملة للإشارة إلى كتاب محدد وتوضيح أنه ملك المتكلم.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُخدم المضارع البسيط مع is لوصف الملكية في الوقت الحالي."
+        },
+        "wordMeanings": [
+          {
+            "term": "That",
+            "description": "ذلك؛ اسم إشارة لشيء بعيد نسبيا أو محدد في السياق."
+          },
+          {
+            "term": "book",
+            "description": "كتاب؛ شيء يُقرأ ويحتوي على صفحات."
+          },
+          {
+            "term": "is",
+            "description": "فعل يكون، وهنا يربط الكتاب بمالكه."
+          },
+          {
+            "term": "mine",
+            "description": "لي أو ملكي؛ ضمير ملكية مستقل يعود على المتكلم."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "That book is mine.",
+        "ar": "ذلك الكتاب لي.",
+        "context": "توضح ملكية كتاب محدد."
+      },
+      {
+        "id": 2,
+        "en": "This pen is mine.",
+        "ar": "هذا القلم لي.",
+        "context": "توضح ملكية شيء قريب."
+      },
+      {
+        "id": 3,
+        "en": "That bag is hers.",
+        "ar": "تلك الحقيبة لها.",
+        "context": "تصف ملكية شخص آخر."
+      },
+      {
+        "id": 4,
+        "en": "Is that book mine?",
+        "ar": "هل ذلك الكتاب لي؟",
+        "context": "تسأل عن ملكية الكتاب."
+      },
+      {
+        "id": 5,
+        "en": "That book is not mine.",
+        "ar": "ذلك الكتاب ليس لي.",
+        "context": "تنفي ملكية الكتاب."
+      },
+      {
+        "id": 6,
+        "en": "The red book is mine.",
+        "ar": "الكتاب الأحمر لي.",
+        "context": "تحدد الكتاب بلونه."
+      },
+      {
+        "id": 7,
+        "en": "That book on the table is mine.",
+        "ar": "ذلك الكتاب على الطاولة لي.",
+        "context": "تحدد مكان الكتاب."
+      },
+      {
+        "id": 8,
+        "en": "This is mine.",
+        "ar": "هذا لي.",
+        "context": "تستخدم mine وحدها بعد فعل be."
+      },
+      {
+        "id": 9,
+        "en": "That book belongs to me.",
+        "ar": "ذلك الكتاب يخصني.",
+        "context": "صياغة أخرى لمعنى الملكية."
+      },
+      {
+        "id": 10,
+        "en": "I think that book is mine.",
+        "ar": "أعتقد أن ذلك الكتاب لي.",
+        "context": "تعبّر عن ظن بشأن الملكية."
+      }
+    ]
+  }
+}

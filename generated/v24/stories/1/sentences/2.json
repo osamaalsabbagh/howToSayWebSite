@@ -1,0 +1,195 @@
+{
+  "schemaVersion": 1,
+  "id": 2,
+  "sentence": {
+    "en": "The barber whispered to his customer, \"This is the dumbest kid in the world. Watch while I prove it to you.\"",
+    "ar": "همس الحلاق لزبونه: «هذا أغبى طفل في العالم. شاهد بينما أثبت ذلك لك.»",
+    "context": "حديث الحلاق مع الزبون وتقديم خطة الاختبار."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "The barber whispered to his customer",
+        "ar": "همس الحلاق لزبونه",
+        "context": "هذا الجزء يصف فعل الحلاق وطريقة كلامه للزبون.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "استُخدم whispered لأن الفعل حدث وانتهى في سياق القصة."
+        },
+        "wordMeanings": [
+          {
+            "term": "The",
+            "description": "أداة تشير إلى الحلاق المعروف في القصة."
+          },
+          {
+            "term": "barber",
+            "description": "الحلاق."
+          },
+          {
+            "term": "whispered",
+            "description": "تحدث بصوت منخفض."
+          },
+          {
+            "term": "to",
+            "description": "إلى أو موجّهًا الكلام نحو."
+          },
+          {
+            "term": "his",
+            "description": "تدل على أن الزبون مرتبط بالحلاق في الموقف."
+          },
+          {
+            "term": "customer",
+            "description": "الزبون أو العميل."
+          }
+        ]
+      },
+      {
+        "sentence": "This is the dumbest kid in the world.",
+        "ar": "هذا أغبى طفل في العالم.",
+        "context": "هذا الجزء ينقل كلام الحلاق وحكمه القاسي على الطفل.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُخدم is لأن الحلاق يصف الطفل وكأنه يذكر حقيقة حالية في رأيه."
+        },
+        "wordMeanings": [
+          {
+            "term": "This",
+            "description": "هذا، وتشير إلى الطفل الموجود."
+          },
+          {
+            "term": "is",
+            "description": "يكون أو هو."
+          },
+          {
+            "term": "the",
+            "description": "أداة للتحديد."
+          },
+          {
+            "term": "dumbest",
+            "description": "الأكثر غباءً بحسب كلام الحلاق."
+          },
+          {
+            "term": "kid",
+            "description": "طفل."
+          },
+          {
+            "term": "in",
+            "description": "في."
+          },
+          {
+            "term": "the",
+            "description": "أداة تشير إلى العالم كله."
+          },
+          {
+            "term": "world",
+            "description": "العالم."
+          }
+        ]
+      },
+      {
+        "sentence": "Watch while I prove it to you.",
+        "ar": "شاهد بينما أثبت ذلك لك.",
+        "context": "هذا الجزء يطلب من الزبون أن يراقب الاختبار الذي سيجريه الحلاق.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "Watch صيغة أمر، وwhile I prove it يشرح ما سيحدث أثناء المشاهدة."
+        },
+        "wordMeanings": [
+          {
+            "term": "Watch",
+            "description": "راقب أو شاهد."
+          },
+          {
+            "term": "while",
+            "description": "بينما أو أثناء."
+          },
+          {
+            "term": "I",
+            "description": "ضمير يشير إلى المتكلم."
+          },
+          {
+            "term": "prove",
+            "description": "أثبت."
+          },
+          {
+            "term": "it",
+            "description": "يشير إلى كلام الحلاق عن الطفل."
+          },
+          {
+            "term": "to",
+            "description": "لـ أو أمام."
+          },
+          {
+            "term": "you",
+            "description": "الشخص المخاطب."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "The teacher whispered to her student.",
+        "ar": "همست المعلمة لطالبها.",
+        "context": "تُستخدم لوصف كلام منخفض في الماضي."
+      },
+      {
+        "id": 2,
+        "en": "This is the best answer in the class.",
+        "ar": "هذه أفضل إجابة في الصف.",
+        "context": "تُستخدم لوصف شيء بتفضيل قوي."
+      },
+      {
+        "id": 3,
+        "en": "Watch while I show you the trick.",
+        "ar": "شاهد بينما أريك الخدعة.",
+        "context": "تُستخدم قبل عرض شيء لشخص."
+      },
+      {
+        "id": 4,
+        "en": "The man whispered to his friend.",
+        "ar": "همس الرجل لصديقه.",
+        "context": "تُستخدم في موقف يريد فيه الشخص خفض صوته."
+      },
+      {
+        "id": 5,
+        "en": "This is the smallest room in the house.",
+        "ar": "هذه أصغر غرفة في البيت.",
+        "context": "تُستخدم للمقارنة داخل مجموعة."
+      },
+      {
+        "id": 6,
+        "en": "Watch while I open the box.",
+        "ar": "شاهد بينما أفتح الصندوق.",
+        "context": "تُستخدم عند طلب الانتباه لفعل يحدث الآن."
+      },
+      {
+        "id": 7,
+        "en": "The barber spoke to his customer.",
+        "ar": "تحدث الحلاق إلى زبونه.",
+        "context": "تُستخدم في موقف خدمة."
+      },
+      {
+        "id": 8,
+        "en": "I can prove it to you.",
+        "ar": "أستطيع أن أثبت ذلك لك.",
+        "context": "تُستخدم عند عرض دليل."
+      },
+      {
+        "id": 9,
+        "en": "This is the funniest story in the book.",
+        "ar": "هذه أطرف قصة في الكتاب.",
+        "context": "تُستخدم لوصف شيء بأنه الأبرز."
+      },
+      {
+        "id": 10,
+        "en": "Please watch while I explain it.",
+        "ar": "رجاءً شاهد بينما أشرح ذلك.",
+        "context": "تُستخدم عند تقديم شرح عملي."
+      }
+    ]
+  }
+}

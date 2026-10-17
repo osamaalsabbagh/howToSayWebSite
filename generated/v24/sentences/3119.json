@@ -1,0 +1,151 @@
+{
+  "schemaVersion": 1,
+  "id": 3119,
+  "sentence": {
+    "en": "We like to travel in winter to see the snow.",
+    "ar": "نحن نحب أن نسافر في الشتاء لنرى الثلج.",
+    "context": "نشاط مرتبط بفصل معين مع سبب واضح."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "We like",
+        "ar": "نحن نحب",
+        "context": "الجزء الأول يعبّر عن تفضيل أو رغبة عامة لدى المتكلمين.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُخدم المضارع البسيط لأن like يصف تفضيلا عاما أو عادة."
+        },
+        "wordMeanings": [
+          {
+            "term": "We",
+            "description": "نحن؛ المتكلم ومعه شخص أو مجموعة."
+          },
+          {
+            "term": "like",
+            "description": "نحب؛ نستمتع بشيء أو نفضله."
+          }
+        ]
+      },
+      {
+        "sentence": "to travel in winter",
+        "ar": "أن نسافر في الشتاء",
+        "context": "الجزء الثاني يذكر النشاط المفضل ووقته.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه عبارة مصدرية بعد like تذكر النشاط المحبوب، وليست زمنا مستقلا."
+        },
+        "wordMeanings": [
+          {
+            "term": "to",
+            "description": "أن؛ تدخل على الفعل travel لتكوين المصدر."
+          },
+          {
+            "term": "travel",
+            "description": "نسافر؛ ننتقل إلى مكان آخر، غالبا لمسافة بعيدة."
+          },
+          {
+            "term": "in",
+            "description": "في؛ تستخدم مع الفصول مثل winter."
+          },
+          {
+            "term": "winter",
+            "description": "الشتاء؛ فصل بارد من فصول السنة."
+          }
+        ]
+      },
+      {
+        "sentence": "to see the snow.",
+        "ar": "لنرى الثلج.",
+        "context": "الجزء الثالث يوضح سبب السفر في الشتاء.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه عبارة مصدرية للغرض تبدأ بـ to، وتبين لماذا يحبون السفر في الشتاء."
+        },
+        "wordMeanings": [
+          {
+            "term": "to",
+            "description": "لـ أو لكي؛ تستخدم هنا لبيان الهدف."
+          },
+          {
+            "term": "see",
+            "description": "نرى؛ نشاهد بالعين."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف قبل snow لأن الثلج المقصود معروف كظاهرة أو منظر."
+          },
+          {
+            "term": "snow",
+            "description": "الثلج؛ بلورات جليدية بيضاء تسقط في الطقس البارد."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "We like to travel in winter to see the snow.",
+        "ar": "نحن نحب أن نسافر في الشتاء لنرى الثلج.",
+        "context": "تذكر نشاطا مفضلا وسببه."
+      },
+      {
+        "id": 2,
+        "en": "We like to travel in summer to see the sea.",
+        "ar": "نحن نحب أن نسافر في الصيف لنرى البحر.",
+        "context": "تغير الفصل والسبب."
+      },
+      {
+        "id": 3,
+        "en": "They like to travel in winter.",
+        "ar": "هم يحبون أن يسافروا في الشتاء.",
+        "context": "تذكر النشاط دون السبب."
+      },
+      {
+        "id": 4,
+        "en": "Do you like to travel in winter?",
+        "ar": "هل تحب أن تسافر في الشتاء؟",
+        "context": "تسأل عن تفضيل السفر في الشتاء."
+      },
+      {
+        "id": 5,
+        "en": "We do not like to travel in winter.",
+        "ar": "نحن لا نحب أن نسافر في الشتاء.",
+        "context": "تنفي هذا التفضيل."
+      },
+      {
+        "id": 6,
+        "en": "We liked to travel in winter when we were children.",
+        "ar": "كنا نحب أن نسافر في الشتاء عندما كنا أطفالا.",
+        "context": "تتحدث عن تفضيل في الماضي."
+      },
+      {
+        "id": 7,
+        "en": "We will travel in winter to see the snow.",
+        "ar": "سنسافر في الشتاء لنرى الثلج.",
+        "context": "تتحدث عن خطة مستقبلية."
+      },
+      {
+        "id": 8,
+        "en": "We are traveling in winter to see the snow.",
+        "ar": "نحن نسافر في الشتاء لنرى الثلج.",
+        "context": "تصف رحلة مخططا لها أو جارية."
+      },
+      {
+        "id": 9,
+        "en": "We like to travel by train in winter.",
+        "ar": "نحن نحب أن نسافر بالقطار في الشتاء.",
+        "context": "تضيف وسيلة السفر."
+      },
+      {
+        "id": 10,
+        "en": "We visit the mountains in winter to see the snow.",
+        "ar": "نزور الجبال في الشتاء لنرى الثلج.",
+        "context": "تذكر مكانا مناسبا لرؤية الثلج."
+      }
+    ]
+  }
+}

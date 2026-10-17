@@ -1,0 +1,215 @@
+{
+  "schemaVersion": 1,
+  "id": 2,
+  "sentence": {
+    "en": "Good morning. If you want to see this apartment, we usually arrange a viewing in advance because the key is with the owner.",
+    "ar": "صباح الخير. إذا أردت رؤية هذه الشقة، فإننا عادةً نرتب معاينة مسبقًا لأن المفتاح مع المالك.",
+    "context": "الموظف يوضح للزبون أن المعاينة تتطلب عادةً تحديد موعد مسبقًا لأن المفتاح مع المالك."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Good morning.",
+        "ar": "صباح الخير.",
+        "context": "يفتتح بها المتحدث الكلام قبل الدخول في الفكرة الأساسية.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه تحية صباحية وليست جملة فعلية لها زمن مستقل."
+        },
+        "wordMeanings": [
+          {
+            "term": "Good",
+            "description": "جزء من تحية مهذبة في بداية اليوم."
+          },
+          {
+            "term": "morning",
+            "description": "الصباح، وتكمل عبارة التحية."
+          }
+        ]
+      },
+      {
+        "sentence": "If you want to see this apartment",
+        "ar": "إذا أردت رؤية هذه الشقة.",
+        "context": "يضع شرطًا يحدد متى ينطبق الكلام أو الإجراء.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُعمل المضارع البسيط داخل شرط حقيقي يتحدث عن رغبة الزبون الحالية أو المحتملة."
+        },
+        "wordMeanings": [
+          {
+            "term": "If",
+            "description": "أداة شرط تعني إذا."
+          },
+          {
+            "term": "you",
+            "description": "ضمير المخاطب."
+          },
+          {
+            "term": "want",
+            "description": "تعني تريد أو ترغب."
+          },
+          {
+            "term": "to",
+            "description": "تأتي قبل الفعل بعد want."
+          },
+          {
+            "term": "see",
+            "description": "تعني ترى أو تعاين."
+          },
+          {
+            "term": "this",
+            "description": "اسم إشارة للشقة المحددة."
+          },
+          {
+            "term": "apartment",
+            "description": "شقة سكنية."
+          }
+        ]
+      },
+      {
+        "sentence": "we usually arrange a viewing in advance",
+        "ar": "فإننا عادةً نرتب معاينة مسبقًا.",
+        "context": "يضيف به المتحدث تفصيلًا مهمًا داخل المعنى المقصود.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُعمل المضارع البسيط لأن الموظف يشرح عادة أو إجراءً متكررًا في المكتب."
+        },
+        "wordMeanings": [
+          {
+            "term": "we",
+            "description": "ضمير يشير إلى موظفي المكتب أو الشركة."
+          },
+          {
+            "term": "usually",
+            "description": "تعني عادةً أو في أغلب الحالات."
+          },
+          {
+            "term": "arrange",
+            "description": "تعني نرتب أو ننظم."
+          },
+          {
+            "term": "a",
+            "description": "أداة نكرة قبل اسم مفرد."
+          },
+          {
+            "term": "viewing",
+            "description": "معاينة للعقار."
+          },
+          {
+            "term": "in",
+            "description": "جزء من عبارة in advance التي تعني مسبقًا."
+          },
+          {
+            "term": "advance",
+            "description": "تكمل معنى مسبقًا أو قبل الوقت."
+          }
+        ]
+      },
+      {
+        "sentence": "because the key is with the owner.",
+        "ar": "لأن المفتاح مع المالك.",
+        "context": "يذكر السبب الذي يبرر ما قيل أو ما سيحدث.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُعمل المضارع البسيط لشرح سبب حالي: المفتاح موجود مع المالك الآن أو بحسب النظام المعتاد."
+        },
+        "wordMeanings": [
+          {
+            "term": "because",
+            "description": "أداة تربط الكلام بالسبب."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف لمفتاح محدد."
+          },
+          {
+            "term": "key",
+            "description": "مفتاح الشقة."
+          },
+          {
+            "term": "is",
+            "description": "صيغة تربط المفتاح بمكانه أو حالته."
+          },
+          {
+            "term": "with",
+            "description": "تعني مع أو بحوزة شخص."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف لشخص محدد."
+          },
+          {
+            "term": "owner",
+            "description": "مالك الشقة."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "If you want to see the house, we can arrange a viewing.",
+        "ar": "إذا أردت رؤية المنزل، يمكننا ترتيب معاينة.",
+        "context": "موظف عقار يشرح الخطوة التالية."
+      },
+      {
+        "id": 2,
+        "en": "We usually arrange a viewing in advance.",
+        "ar": "نحن عادةً نرتب معاينة مسبقًا.",
+        "context": "تشرح إجراء المكتب المعتاد."
+      },
+      {
+        "id": 3,
+        "en": "The key is with the owner today.",
+        "ar": "المفتاح مع المالك اليوم.",
+        "context": "توضح سبب عدم القدرة على المعاينة فورًا."
+      },
+      {
+        "id": 4,
+        "en": "If you want to rent it, we need your information.",
+        "ar": "إذا أردت استئجارها، نحتاج إلى معلوماتك.",
+        "context": "تربط الرغبة بإجراء لازم."
+      },
+      {
+        "id": 5,
+        "en": "We usually call the owner before a viewing.",
+        "ar": "نحن عادةً نتصل بالمالك قبل المعاينة.",
+        "context": "تشرح خطوة قبل زيارة الشقة."
+      },
+      {
+        "id": 6,
+        "en": "If you want to see this room, come tomorrow.",
+        "ar": "إذا أردت رؤية هذه الغرفة، تعال غدًا.",
+        "context": "تعطي موعدًا بديلًا للمعاينة."
+      },
+      {
+        "id": 7,
+        "en": "We arrange viewings in advance because the owner is busy.",
+        "ar": "نرتب المعاينات مسبقًا لأن المالك مشغول.",
+        "context": "تشرح سبب الحجز المسبق."
+      },
+      {
+        "id": 8,
+        "en": "The key is with our manager.",
+        "ar": "المفتاح مع مديرنا.",
+        "context": "تذكر الشخص الذي يملك المفتاح."
+      },
+      {
+        "id": 9,
+        "en": "If you want to see it, we can check the schedule.",
+        "ar": "إذا أردت رؤيتها، يمكننا فحص الجدول.",
+        "context": "تعرض التحقق من موعد مناسب."
+      },
+      {
+        "id": 10,
+        "en": "We usually need one day to arrange a viewing.",
+        "ar": "نحتاج عادةً إلى يوم واحد لترتيب معاينة.",
+        "context": "توضح مدة الترتيب المعتادة."
+      }
+    ]
+  }
+}

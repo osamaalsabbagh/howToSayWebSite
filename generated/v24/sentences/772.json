@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "id": 772,
+  "sentence": {
+    "en": "What are you doing?",
+    "ar": "ماذا تفعل؟",
+    "context": "السؤال عما يفعله الشخص الآن."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "What are you doing?",
+        "ar": "ماذا تفعل؟",
+        "context": "سؤال عن النشاط الجاري الآن.",
+        "grammar": {
+          "tense": "المضارع المستمر",
+          "tenseEn": "Present Continuous",
+          "reason": "يستخدم المضارع المستمر للسؤال عما يحدث الآن، وصيغته are مع فعل ينتهي بـ ing."
+        },
+        "wordMeanings": [
+          {
+            "term": "What",
+            "description": "ماذا؛ للسؤال عن الشيء أو الفعل"
+          },
+          {
+            "term": "are",
+            "description": "صيغة مساعدة مع you في المضارع المستمر"
+          },
+          {
+            "term": "you",
+            "description": "الشخص المخاطب"
+          },
+          {
+            "term": "doing",
+            "description": "تفعل أو تقوم به الآن"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "What are you reading?",
+        "ar": "ماذا تقرأ؟",
+        "context": "للسؤال عن نشاط قراءة الآن."
+      },
+      {
+        "id": 2,
+        "en": "What are you cooking?",
+        "ar": "ماذا تطبخ؟",
+        "context": "للسؤال أثناء تحضير الطعام."
+      },
+      {
+        "id": 3,
+        "en": "What are they doing?",
+        "ar": "ماذا يفعلون؟",
+        "context": "للسؤال عن نشاط مجموعة."
+      },
+      {
+        "id": 4,
+        "en": "What is she doing?",
+        "ar": "ماذا تفعل؟",
+        "context": "للسؤال عن نشاط فتاة أو امرأة."
+      },
+      {
+        "id": 5,
+        "en": "What are you writing?",
+        "ar": "ماذا تكتب؟",
+        "context": "للسؤال أثناء الكتابة."
+      },
+      {
+        "id": 6,
+        "en": "What are you watching?",
+        "ar": "ماذا تشاهد؟",
+        "context": "للسؤال عن شيء على شاشة."
+      },
+      {
+        "id": 7,
+        "en": "What are you looking for?",
+        "ar": "عم تبحث؟",
+        "context": "للسؤال أثناء البحث عن شيء."
+      },
+      {
+        "id": 8,
+        "en": "What are you planning?",
+        "ar": "ماذا تخطط؟",
+        "context": "للسؤال عن ترتيب يجري الآن."
+      },
+      {
+        "id": 9,
+        "en": "What are you fixing?",
+        "ar": "ماذا تصلح؟",
+        "context": "للسؤال أثناء إصلاح شيء."
+      },
+      {
+        "id": 10,
+        "en": "What are you making?",
+        "ar": "ماذا تصنع؟",
+        "context": "للسؤال أثناء صنع شيء."
+      }
+    ]
+  }
+}

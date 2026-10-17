@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": 3101,
+  "sentence": {
+    "en": "Who is at the door?",
+    "ar": "من عند الباب؟",
+    "context": "سؤال عن هوية شخص."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Who is at the door?",
+        "ar": "من عند الباب؟",
+        "context": "تسأل الجملة عن هوية الشخص الموجود عند الباب الآن.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُخدم المضارع البسيط مع is لوصف وجود شخص في مكان محدد الآن."
+        },
+        "wordMeanings": [
+          {
+            "term": "Who",
+            "description": "من؛ أداة سؤال عن هوية شخص."
+          },
+          {
+            "term": "is",
+            "description": "هو أو يكون؛ فعل be للمفرد في المضارع."
+          },
+          {
+            "term": "at",
+            "description": "عند؛ تستخدم لتحديد نقطة أو مكان قريب."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف قبل door لأن الباب معروف في السياق."
+          },
+          {
+            "term": "door",
+            "description": "الباب؛ مدخل الغرفة أو البيت."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Who is at the door?",
+        "ar": "من عند الباب؟",
+        "context": "تسأل عن الشخص الواقف عند الباب."
+      },
+      {
+        "id": 2,
+        "en": "Who is at the front door?",
+        "ar": "من عند الباب الأمامي؟",
+        "context": "تحدد بابا معينا."
+      },
+      {
+        "id": 3,
+        "en": "Who is outside the door?",
+        "ar": "من خارج الباب؟",
+        "context": "تسأل عن شخص خارج الغرفة أو البيت."
+      },
+      {
+        "id": 4,
+        "en": "Someone is at the door.",
+        "ar": "هناك شخص عند الباب.",
+        "context": "تخبر بوجود شخص دون معرفة هويته."
+      },
+      {
+        "id": 5,
+        "en": "Is your brother at the door?",
+        "ar": "هل أخوك عند الباب؟",
+        "context": "تسأل عن شخص محدد."
+      },
+      {
+        "id": 6,
+        "en": "No one is at the door.",
+        "ar": "لا أحد عند الباب.",
+        "context": "تنفي وجود شخص عند الباب."
+      },
+      {
+        "id": 7,
+        "en": "Who was at the door last night?",
+        "ar": "من كان عند الباب الليلة الماضية؟",
+        "context": "تسأل عن شخص كان هناك في الماضي."
+      },
+      {
+        "id": 8,
+        "en": "Who will be at the door tomorrow?",
+        "ar": "من سيكون عند الباب غدا؟",
+        "context": "تسأل عن وجود شخص في المستقبل."
+      },
+      {
+        "id": 9,
+        "en": "Ask who is at the door.",
+        "ar": "اسأل من عند الباب.",
+        "context": "تطلب من شخص آخر معرفة الهوية."
+      },
+      {
+        "id": 10,
+        "en": "I do not know who is at the door.",
+        "ar": "لا أعرف من عند الباب.",
+        "context": "تقول إنك لا تعرف هوية الشخص."
+      }
+    ]
+  }
+}

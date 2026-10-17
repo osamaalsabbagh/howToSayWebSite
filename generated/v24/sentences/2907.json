@@ -1,0 +1,111 @@
+{
+  "schemaVersion": 1,
+  "id": 2907,
+  "sentence": {
+    "en": "I am going to the store.",
+    "ar": "أنا ذاهب إلى المتجر.",
+    "context": "حركة باتجاه مكان معين."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "I am going to the store.",
+        "ar": "أنا ذاهب إلى المتجر.",
+        "context": "تصف الجملة حركة المتكلم الآن أو في وقت قريب باتجاه متجر محدد.",
+        "grammar": {
+          "tense": "المضارع المستمر",
+          "tenseEn": "Present Continuous",
+          "reason": "استُخدم المضارع المستمر لأن am going يصف حركة تحدث الآن أو خطة قريبة جدا."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير يعني أنا، ويشير إلى المتكلم."
+          },
+          {
+            "term": "am",
+            "description": "فعل مساعد مع I في المضارع المستمر."
+          },
+          {
+            "term": "going",
+            "description": "ذاهب أو متجه؛ صيغة ing من go."
+          },
+          {
+            "term": "to",
+            "description": "إلى؛ تدل على الاتجاه نحو مكان."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف تشير إلى متجر محدد."
+          },
+          {
+            "term": "store",
+            "description": "متجر أو محل؛ مكان تشتري منه الأشياء."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I am going to the store.",
+        "ar": "أنا ذاهب إلى المتجر.",
+        "context": "تصف الاتجاه إلى متجر."
+      },
+      {
+        "id": 2,
+        "en": "She is going to the store.",
+        "ar": "هي ذاهبة إلى المتجر.",
+        "context": "تستخدم الجملة مع شخص آخر."
+      },
+      {
+        "id": 3,
+        "en": "I am going to school.",
+        "ar": "أنا ذاهب إلى المدرسة.",
+        "context": "تغير الوجهة إلى المدرسة."
+      },
+      {
+        "id": 4,
+        "en": "We are going to the store now.",
+        "ar": "نحن ذاهبون إلى المتجر الآن.",
+        "context": "تؤكد أن الحركة تحدث الآن."
+      },
+      {
+        "id": 5,
+        "en": "I am not going to the store.",
+        "ar": "أنا لست ذاهبا إلى المتجر.",
+        "context": "تنفي الذهاب إلى المتجر."
+      },
+      {
+        "id": 6,
+        "en": "Are you going to the store?",
+        "ar": "هل أنت ذاهب إلى المتجر؟",
+        "context": "تسأل عن الاتجاه إلى المتجر."
+      },
+      {
+        "id": 7,
+        "en": "I am going to the store for milk.",
+        "ar": "أنا ذاهب إلى المتجر من أجل الحليب.",
+        "context": "توضح سبب الذهاب."
+      },
+      {
+        "id": 8,
+        "en": "He went to the store yesterday.",
+        "ar": "ذهب إلى المتجر أمس.",
+        "context": "تنقل الفكرة إلى الماضي."
+      },
+      {
+        "id": 9,
+        "en": "I will go to the store later.",
+        "ar": "سأذهب إلى المتجر لاحقا.",
+        "context": "تنقل الفكرة إلى المستقبل."
+      },
+      {
+        "id": 10,
+        "en": "I am going to the store before dinner.",
+        "ar": "أنا ذاهب إلى المتجر قبل العشاء.",
+        "context": "تحدد وقت الذهاب."
+      }
+    ]
+  }
+}

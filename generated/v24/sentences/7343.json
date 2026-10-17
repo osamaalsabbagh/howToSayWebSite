@@ -1,0 +1,137 @@
+{
+  "schemaVersion": 1,
+  "id": 7343,
+  "sentence": {
+    "en": "I like many sports, for instance, tennis and swimming.",
+    "ar": "أنا أحب رياضات كثيرة، على سبيل المثال، التنس والسباحة.",
+    "context": "تقديم رياضتين بوصفهما مثالين ضمن مجموعة أوسع من الرياضات المحبوبة.",
+    "sourceWord": "instance",
+    "sourcePos": "n."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "I like many sports,",
+        "ar": "أنا أحب رياضات كثيرة،",
+        "context": "وصف تفضيل عام لعدد من الأنشطة الرياضية.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "المضارع البسيط يصف حالة."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "أنا."
+          },
+          {
+            "term": "like",
+            "description": "أحب."
+          },
+          {
+            "term": "many",
+            "description": "كثيرة."
+          },
+          {
+            "term": "sports",
+            "description": "رياضات."
+          }
+        ]
+      },
+      {
+        "sentence": "for instance, tennis and swimming.",
+        "ar": "على سبيل المثال، التنس والسباحة.",
+        "context": "ذكر مثالين دون حصر الرياضات المفضلة فيهما.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "تعبير for instance يعني على سبيل المثال."
+        },
+        "wordMeanings": [
+          {
+            "term": "for",
+            "description": "على؛ جزء من على سبيل المثال."
+          },
+          {
+            "term": "instance",
+            "description": "سبيل المثال."
+          },
+          {
+            "term": "tennis",
+            "description": "التنس."
+          },
+          {
+            "term": "and",
+            "description": "و."
+          },
+          {
+            "term": "swimming",
+            "description": "السباحة."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I like many sports, for instance, tennis and swimming.",
+        "ar": "أنا أحب رياضات كثيرة، على سبيل المثال، التنس والسباحة.",
+        "context": "تقديم رياضتين بوصفهما مثالين ضمن مجموعة أوسع من الرياضات المحبوبة."
+      },
+      {
+        "id": 2,
+        "en": "In this instance, the usual rule does not apply.",
+        "ar": "في هذه الحالة، القاعدة المعتادة لا تنطبق.",
+        "context": "تخصيص حالة معينة بوصفها استثناءً من قاعدة."
+      },
+      {
+        "id": 3,
+        "en": "The report recorded a single instance of damage.",
+        "ar": "التقرير سجل حالة تلف واحدة.",
+        "context": "وصف توثيق سابق لوقوع تلف مرة واحدة."
+      },
+      {
+        "id": 4,
+        "en": "We have found several instances of the same error.",
+        "ar": "نحن قد وجدنا عدة حالات من الخطأ نفسه.",
+        "context": "الإبلاغ عن العثور على تكرارات لخلل محدد."
+      },
+      {
+        "id": 5,
+        "en": "The team is examining an unusual instance of this behavior.",
+        "ar": "الفريق يفحص حالة غير معتادة من هذا السلوك.",
+        "context": "وصف دراسة جارية لوقوع سلوك بصورة غير مألوفة."
+      },
+      {
+        "id": 6,
+        "en": "The next lesson will discuss another instance.",
+        "ar": "الدرس التالي سيناقش حالة أخرى.",
+        "context": "توقع تناول مثال إضافي على موضوع."
+      },
+      {
+        "id": 7,
+        "en": "Please contact reception in the first instance.",
+        "ar": "من فضلك اتصل بالاستقبال في المقام الأول.",
+        "context": "طلب بدء التواصل بجهة معينة قبل الانتقال إلى غيرها."
+      },
+      {
+        "id": 8,
+        "en": "This is not an isolated instance.",
+        "ar": "هذه ليست حالة منفردة.",
+        "context": "بيان أن واقعة ما لها نظائر أخرى."
+      },
+      {
+        "id": 9,
+        "en": "The software runs two instances of the application.",
+        "ar": "البرنامج يشغل نسختين عاملتين من التطبيق.",
+        "context": "استعمال تقني لحالتي تشغيل منفصلتين للتطبيق نفسه."
+      },
+      {
+        "id": 10,
+        "en": "She recalled an instance when the system failed.",
+        "ar": "هي تذكرت حالة حدث فيها إخفاق النظام.",
+        "context": "وصف تذكر سابق لواقعة محددة من تعطل نظام."
+      }
+    ]
+  }
+}

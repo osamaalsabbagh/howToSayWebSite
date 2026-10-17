@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "id": 2,
+  "sentence": {
+    "en": "Hello! Sure, I can answer your question now.",
+    "ar": "مرحبًا! بالتأكيد، أستطيع أن أجيب على سؤالك الآن.",
+    "context": "موظف خدمة العملاء يرد التحية ويوافق على تقديم الإجابة فورًا."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Hello",
+        "ar": "مرحبًا.",
+        "context": "يفتتح بها المتحدث الكلام قبل الدخول في الفكرة الأساسية.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "تحية قصيرة وليست جملة بزمن مستقل."
+        },
+        "wordMeanings": [
+          {
+            "term": "Hello",
+            "description": "تحية لبدء الرد على المكالمة."
+          }
+        ]
+      },
+      {
+        "sentence": "Sure",
+        "ar": "بالتأكيد.",
+        "context": "تعطي موافقة أو تطمينًا قبل متابعة الكلام.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "كلمة موافقة ثابتة لا تحمل زمنًا مستقلًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "Sure",
+            "description": "كلمة موافقة تعني بالتأكيد."
+          }
+        ]
+      },
+      {
+        "sentence": "I can answer your question now",
+        "ar": "أستطيع أن أجيب على سؤالك الآن.",
+        "context": "يبيّن ما يستطيع المتحدث فعله أو تقديمه هنا.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "الجملة تستخدم can للتعبير عن القدرة والاستعداد للإجابة الآن، لذلك تُفهم كتركيب قدرة لا كزمن مستقل."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير المتكلم المفرد."
+          },
+          {
+            "term": "can",
+            "description": "تدل هنا على القدرة أو الاستعداد للمساعدة."
+          },
+          {
+            "term": "answer",
+            "description": "يجيب عن سؤال."
+          },
+          {
+            "term": "your",
+            "description": "يدل على أن السؤال يخص المخاطب."
+          },
+          {
+            "term": "question",
+            "description": "سؤال أو استفسار."
+          },
+          {
+            "term": "now",
+            "description": "في هذه اللحظة."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Sure, I can help you now.",
+        "ar": "بالتأكيد، أستطيع مساعدتك الآن.",
+        "context": "يُستخدم عندما يكون الموظف جاهزًا للمساعدة."
+      },
+      {
+        "id": 2,
+        "en": "Sure, I can answer that now.",
+        "ar": "بالتأكيد، أستطيع الإجابة عن ذلك الآن.",
+        "context": "يُستخدم عند الموافقة على الإجابة فورًا."
+      },
+      {
+        "id": 3,
+        "en": "Hello, I can check your account now.",
+        "ar": "مرحبًا، أستطيع التحقق من حسابك الآن.",
+        "context": "يُستخدم في خدمة العملاء عند فتح ملف العميل."
+      },
+      {
+        "id": 4,
+        "en": "Sure, I can explain the details now.",
+        "ar": "بالتأكيد، أستطيع شرح التفاصيل الآن.",
+        "context": "يُستخدم عند تقديم شرح مباشر."
+      },
+      {
+        "id": 5,
+        "en": "Sure, I can call you now.",
+        "ar": "بالتأكيد، أستطيع الاتصال بك الآن.",
+        "context": "يُستخدم عند عرض مكالمة فورية."
+      },
+      {
+        "id": 6,
+        "en": "Hello, I can answer your message now.",
+        "ar": "مرحبًا، أستطيع الرد على رسالتك الآن.",
+        "context": "يُستخدم في تواصل كتابي أو دعم فني."
+      },
+      {
+        "id": 7,
+        "en": "Sure, I can give you the number now.",
+        "ar": "بالتأكيد، أستطيع إعطاءك الرقم الآن.",
+        "context": "يُستخدم عند تزويد شخص بمعلومة محددة."
+      },
+      {
+        "id": 8,
+        "en": "Sure, I can show you the order now.",
+        "ar": "بالتأكيد، أستطيع أن أريك الطلب الآن.",
+        "context": "يُستخدم عند عرض تفاصيل طلب."
+      },
+      {
+        "id": 9,
+        "en": "Hello, I can update your address now.",
+        "ar": "مرحبًا، أستطيع تحديث عنوانك الآن.",
+        "context": "يُستخدم عند تعديل بيانات عميل."
+      },
+      {
+        "id": 10,
+        "en": "Sure, I can send the answer now.",
+        "ar": "بالتأكيد، أستطيع إرسال الإجابة الآن.",
+        "context": "يُستخدم عند إرسال رد سريع."
+      }
+    ]
+  }
+}

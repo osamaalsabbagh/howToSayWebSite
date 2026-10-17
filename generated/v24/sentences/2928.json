@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "id": 2928,
+  "sentence": {
+    "en": "This topic is interesting.",
+    "ar": "هذا الموضوع ممتع.",
+    "context": "وصف فكرة يتم النقاش حولها."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "This topic is interesting.",
+        "ar": "هذا الموضوع ممتع.",
+        "context": "تصف الجملة موضوعا قريبا في النقاش بأنه يجذب الانتباه.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُخدم المضارع البسيط لأن is يصف صفة الموضوع الحالية أو العامة."
+        },
+        "wordMeanings": [
+          {
+            "term": "This",
+            "description": "هذا؛ تشير إلى موضوع قريب أو محدد في الكلام."
+          },
+          {
+            "term": "topic",
+            "description": "موضوع؛ فكرة يجري الحديث أو الكتابة عنها."
+          },
+          {
+            "term": "is",
+            "description": "فعل يكون في المضارع، ويربط topic بصفته."
+          },
+          {
+            "term": "interesting",
+            "description": "ممتع أو مثير للاهتمام؛ يجذب الانتباه."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "This topic is interesting.",
+        "ar": "هذا الموضوع ممتع.",
+        "context": "تصف موضوعا يجذب انتباهك."
+      },
+      {
+        "id": 2,
+        "en": "That topic is interesting.",
+        "ar": "ذلك الموضوع ممتع.",
+        "context": "تستخدم topic مع شيء أبعد."
+      },
+      {
+        "id": 3,
+        "en": "This topic is boring.",
+        "ar": "هذا الموضوع ممل.",
+        "context": "تستخدم الصفة المعاكسة."
+      },
+      {
+        "id": 4,
+        "en": "This topic is very interesting.",
+        "ar": "هذا الموضوع ممتع جدا.",
+        "context": "تقوي معنى الاهتمام."
+      },
+      {
+        "id": 5,
+        "en": "This topic is not interesting.",
+        "ar": "هذا الموضوع ليس ممتعا.",
+        "context": "تنفي جاذبية الموضوع."
+      },
+      {
+        "id": 6,
+        "en": "Is this topic interesting?",
+        "ar": "هل هذا الموضوع ممتع؟",
+        "context": "تسأل عن رأي الشخص في الموضوع."
+      },
+      {
+        "id": 7,
+        "en": "This topic was interesting yesterday.",
+        "ar": "كان هذا الموضوع ممتعا أمس.",
+        "context": "تنقل الوصف إلى الماضي."
+      },
+      {
+        "id": 8,
+        "en": "I think this topic is interesting.",
+        "ar": "أعتقد أن هذا الموضوع ممتع.",
+        "context": "تقدم رأيا شخصيا."
+      },
+      {
+        "id": 9,
+        "en": "This topic is interesting because it affects everyone.",
+        "ar": "هذا الموضوع ممتع لأنه يؤثر في الجميع.",
+        "context": "توضح سبب الاهتمام."
+      },
+      {
+        "id": 10,
+        "en": "If this topic is interesting, we can discuss it longer.",
+        "ar": "إذا كان هذا الموضوع ممتعا، يمكننا مناقشته مدة أطول.",
+        "context": "تستخدم الجملة داخل شرط."
+      }
+    ]
+  }
+}

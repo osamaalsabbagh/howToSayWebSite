@@ -1,0 +1,135 @@
+{
+  "schemaVersion": 1,
+  "id": 2,
+  "sentence": {
+    "en": "I think I know the answer. Is it water?",
+    "ar": "أعتقد أنني أعرف الإجابة. هل هي الماء؟",
+    "context": "الطالب يحاول تقديم الإجابة التي يظنها صحيحة"
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "I think I know the answer.",
+        "ar": "أعتقد أنني أعرف الإجابة.",
+        "context": "يبدأ به المتحدث الفكرة الأساسية قبل إضافة التفاصيل.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُخدم المضارع البسيط للتعبير عن اعتقاد المتكلم ومعرفته الحالية بالإجابة."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير المتكلم المفرد."
+          },
+          {
+            "term": "think",
+            "description": "أعتقد أو أظن."
+          },
+          {
+            "term": "I",
+            "description": "ضمير المتكلم المفرد مرة أخرى لأنه صاحب المعرفة أيضًا."
+          },
+          {
+            "term": "know",
+            "description": "أعرف أو لدي المعلومة."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف تشير إلى إجابة محددة ومعروفة في السياق."
+          },
+          {
+            "term": "answer",
+            "description": "الإجابة أو الحل."
+          }
+        ]
+      },
+      {
+        "sentence": "Is it water?",
+        "ar": "هل هي الماء؟",
+        "context": "يوضح الفكرة التي يراها المتحدث أو يسأل عنها.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "السؤال يستخدم صيغة حالية للتحقق من هوية الإجابة المقترحة الآن."
+        },
+        "wordMeanings": [
+          {
+            "term": "Is",
+            "description": "تبدأ سؤالًا عن هوية الشيء أو صحة التخمين."
+          },
+          {
+            "term": "it",
+            "description": "ضمير يعود على الإجابة المحتملة."
+          },
+          {
+            "term": "water",
+            "description": "ماء."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I think I know the answer. Is it fire?",
+        "ar": "أعتقد أنني أعرف الإجابة. هل هي النار؟",
+        "context": "يُستخدم عندما يقدم طالب تخمينًا في درس أو لغز."
+      },
+      {
+        "id": 2,
+        "en": "I think I know the answer. Is it the library?",
+        "ar": "أعتقد أنني أعرف الإجابة. هل هي المكتبة؟",
+        "context": "يُستخدم عند تخمين مكان."
+      },
+      {
+        "id": 3,
+        "en": "I think I know the answer. Is it Friday?",
+        "ar": "أعتقد أنني أعرف الإجابة. هل هو يوم الجمعة؟",
+        "context": "يُستخدم عند تخمين يوم أو موعد."
+      },
+      {
+        "id": 4,
+        "en": "I think I know the answer. Is it number seven?",
+        "ar": "أعتقد أنني أعرف الإجابة. هل هو الرقم سبعة؟",
+        "context": "يُستخدم عند تخمين رقم في مسألة."
+      },
+      {
+        "id": 5,
+        "en": "I think I know the answer. Is it your brother?",
+        "ar": "أعتقد أنني أعرف الإجابة. هل هو أخوك؟",
+        "context": "يُستخدم عند تخمين شخص."
+      },
+      {
+        "id": 6,
+        "en": "I think I know the answer. Is it the red button?",
+        "ar": "أعتقد أنني أعرف الإجابة. هل هو الزر الأحمر؟",
+        "context": "يُستخدم عند اختيار شيء من عدة أشياء."
+      },
+      {
+        "id": 7,
+        "en": "I think I know the answer. Is it because of the rain?",
+        "ar": "أعتقد أنني أعرف الإجابة. هل هو بسبب المطر؟",
+        "context": "يُستخدم عند تخمين سبب مشكلة أو حدث."
+      },
+      {
+        "id": 8,
+        "en": "I think I know the answer. Is it a triangle?",
+        "ar": "أعتقد أنني أعرف الإجابة. هل هو مثلث؟",
+        "context": "يُستخدم في سؤال تعليمي عن شكل."
+      },
+      {
+        "id": 9,
+        "en": "I think I know the answer. Is it in the drawer?",
+        "ar": "أعتقد أنني أعرف الإجابة. هل هو في الدرج؟",
+        "context": "يُستخدم عند تخمين مكان شيء مفقود."
+      },
+      {
+        "id": 10,
+        "en": "I think I know the answer. Is it the first choice?",
+        "ar": "أعتقد أنني أعرف الإجابة. هل هو الخيار الأول؟",
+        "context": "يُستخدم عند اختيار إجابة من قائمة."
+      }
+    ]
+  }
+}

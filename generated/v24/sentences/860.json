@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "id": 860,
+  "sentence": {
+    "en": "It is very important.",
+    "ar": "إنه مهم جدًا.",
+    "context": "لتأكيد أهمية أمر أو شيء ما."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "It is very important.",
+        "ar": "إنه مهم جدا.",
+        "context": "جملة تؤكد أهمية شيء أو أمر معين.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "الفعل is يصف صفة حالية أو عامة للشيء، وvery تقوي الصفة."
+        },
+        "wordMeanings": [
+          {
+            "term": "It",
+            "description": "الشيء أو الأمر المقصود"
+          },
+          {
+            "term": "is",
+            "description": "يكون أو هو"
+          },
+          {
+            "term": "very",
+            "description": "جدا؛ لتقوية المعنى"
+          },
+          {
+            "term": "important",
+            "description": "مهم وله قيمة أو تأثير"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "It is important.",
+        "ar": "إنه مهم.",
+        "context": "لذكر أهمية شيء."
+      },
+      {
+        "id": 2,
+        "en": "This is very important.",
+        "ar": "هذا مهم جدا.",
+        "context": "لتأكيد أهمية أمر قريب."
+      },
+      {
+        "id": 3,
+        "en": "It is very useful.",
+        "ar": "إنه مفيد جدا.",
+        "context": "لوصف فائدة شيء."
+      },
+      {
+        "id": 4,
+        "en": "It is very expensive.",
+        "ar": "إنه غالي جدا.",
+        "context": "لوصف السعر."
+      },
+      {
+        "id": 5,
+        "en": "The meeting is very important.",
+        "ar": "الاجتماع مهم جدا.",
+        "context": "للتنبيه إلى اجتماع مهم."
+      },
+      {
+        "id": 6,
+        "en": "Your health is very important.",
+        "ar": "صحتك مهمة جدا.",
+        "context": "للتأكيد على الصحة."
+      },
+      {
+        "id": 7,
+        "en": "It is very important to listen.",
+        "ar": "من المهم جدا أن تستمع.",
+        "context": "لإعطاء نصيحة."
+      },
+      {
+        "id": 8,
+        "en": "This lesson is very important.",
+        "ar": "هذا الدرس مهم جدا.",
+        "context": "للتنبيه في الدراسة."
+      },
+      {
+        "id": 9,
+        "en": "It is not important now.",
+        "ar": "إنه غير مهم الآن.",
+        "context": "لتقليل أهمية شيء مؤقتا."
+      },
+      {
+        "id": 10,
+        "en": "Is it very important?",
+        "ar": "هل هو مهم جدا؟",
+        "context": "للسؤال عن درجة الأهمية."
+      }
+    ]
+  }
+}

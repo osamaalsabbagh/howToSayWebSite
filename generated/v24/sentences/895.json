@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": 895,
+  "sentence": {
+    "en": "I am tired.",
+    "ar": "أنا متعب.",
+    "context": "تُستخدم للتعبير عن حالة من التعب الجسدي أو الذهني بشكل طبيعي."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "I am tired.",
+        "ar": "أنا متعب.",
+        "context": "جملة تصف حالة المتكلم من التعب الآن.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "الفعل am يصف حالة المتكلم الحالية، وtired صفة شعور أو حالة."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "أنا؛ المتكلم"
+          },
+          {
+            "term": "am",
+            "description": "صيغة مع أنا لوصف الحالة"
+          },
+          {
+            "term": "tired",
+            "description": "متعب"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I am very tired.",
+        "ar": "أنا متعب جدا.",
+        "context": "لتقوية معنى التعب."
+      },
+      {
+        "id": 2,
+        "en": "She is tired.",
+        "ar": "هي متعبة.",
+        "context": "لوصف حالة امرأة."
+      },
+      {
+        "id": 3,
+        "en": "Are you tired?",
+        "ar": "هل أنت متعب؟",
+        "context": "للسؤال عن حالة شخص."
+      },
+      {
+        "id": 4,
+        "en": "I am exhausted.",
+        "ar": "أنا مرهق.",
+        "context": "للتعبير عن تعب أقوى."
+      },
+      {
+        "id": 5,
+        "en": "I am tired today.",
+        "ar": "أنا متعب اليوم.",
+        "context": "لتحديد اليوم."
+      },
+      {
+        "id": 6,
+        "en": "We are tired.",
+        "ar": "نحن متعبون.",
+        "context": "للتحدث باسم مجموعة."
+      },
+      {
+        "id": 7,
+        "en": "He looks tired.",
+        "ar": "هو يبدو متعبا.",
+        "context": "لوصف مظهر شخص."
+      },
+      {
+        "id": 8,
+        "en": "I feel tired after work.",
+        "ar": "أشعر بالتعب بعد العمل.",
+        "context": "لذكر سبب أو وقت التعب."
+      },
+      {
+        "id": 9,
+        "en": "I am not tired now.",
+        "ar": "أنا لست متعبا الآن.",
+        "context": "لنفي التعب."
+      },
+      {
+        "id": 10,
+        "en": "The children are tired.",
+        "ar": "الأطفال متعبون.",
+        "context": "لوصف حالة الأطفال."
+      }
+    ]
+  }
+}

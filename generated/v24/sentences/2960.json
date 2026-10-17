@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": 2960,
+  "sentence": {
+    "en": "Turn left at the corner.",
+    "ar": "انعطف يسارًا عند الزاوية.",
+    "context": "إعطاء تعليمات بالانعطاف عند زاوية شارع محددة."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Turn left at the corner.",
+        "ar": "انعطف يسارًا عند الزاوية.",
+        "context": "تستخدم الجملة corner لتحديد زاوية شارع يتم عندها تغيير الاتجاه.",
+        "grammar": {
+          "tense": "الأمر المباشر",
+          "tenseEn": "Imperative",
+          "reason": "تبدأ الجملة بالفعل الأساسي Turn لتقديم تعليمات مباشرة."
+        },
+        "wordMeanings": [
+          {
+            "term": "Turn",
+            "description": "انعطف؛ فعل أمر يعني غيّر اتجاهك."
+          },
+          {
+            "term": "left",
+            "description": "يسارًا؛ الاتجاه المقابل لليمين."
+          },
+          {
+            "term": "at",
+            "description": "عند؛ تحدد نقطة تغيير الاتجاه."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف تشير إلى زاوية محددة."
+          },
+          {
+            "term": "corner",
+            "description": "زاوية أو ركن؛ مكان يلتقي فيه شارعان أو حافتان."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Turn left at the corner.",
+        "ar": "انعطف يسارًا عند الزاوية.",
+        "context": "تعطي تعليمات طريق."
+      },
+      {
+        "id": 2,
+        "en": "The store is on the corner.",
+        "ar": "يقع المتجر عند ناصية الشارع.",
+        "context": "تصف موقع متجر عند زاوية شارع."
+      },
+      {
+        "id": 3,
+        "en": "Wait for me at the next corner.",
+        "ar": "انتظرني عند الزاوية التالية.",
+        "context": "تحدد مكان انتظار في الطريق."
+      },
+      {
+        "id": 4,
+        "en": "There is a small cafe on the corner.",
+        "ar": "يوجد مقهى صغير عند ناصية الشارع.",
+        "context": "تصف معلمًا موجودًا عند زاوية شارع."
+      },
+      {
+        "id": 5,
+        "en": "The children played near the corner of the yard.",
+        "ar": "لعب الأطفال قرب زاوية الفناء.",
+        "context": "تستخدم corner لزاوية مساحة خارجية."
+      },
+      {
+        "id": 6,
+        "en": "Put the chair in the corner.",
+        "ar": "ضع الكرسي في الركن.",
+        "context": "تستخدم corner لركن داخل غرفة."
+      },
+      {
+        "id": 7,
+        "en": "The car stopped at the street corner.",
+        "ar": "توقفت السيارة عند زاوية الشارع.",
+        "context": "تصف مكان توقف السيارة."
+      },
+      {
+        "id": 8,
+        "en": "She lives around the corner.",
+        "ar": "تسكن بالقرب من هنا.",
+        "context": "تستخدم تعبيرًا شائعًا يعني أن المكان قريب جدًا."
+      },
+      {
+        "id": 9,
+        "en": "A lamp stood in the corner of the room.",
+        "ar": "كان هناك مصباح في ركن الغرفة.",
+        "context": "تصف موضع شيء داخل غرفة."
+      },
+      {
+        "id": 10,
+        "en": "Do not cross until you reach the corner.",
+        "ar": "لا تعبر حتى تصل إلى الزاوية.",
+        "context": "تستخدم الزاوية كنقطة محددة في الطريق."
+      }
+    ]
+  }
+}

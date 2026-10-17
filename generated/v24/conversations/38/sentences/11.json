@@ -1,0 +1,115 @@
+{
+  "schemaVersion": 1,
+  "id": 11,
+  "sentence": {
+    "en": "Do you still have the shopping list?",
+    "ar": "هل مازلت تملك قائمة المشتريات؟",
+    "context": "تملك هنا بمعنا أنها لازالت معك."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Do you still have the shopping list",
+        "ar": "هل ما زالت قائمة المشتريات معك؟",
+        "context": "سؤال للتأكد من أن القائمة لم تضيع.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "Do you have يسأل عن امتلاك أو وجود شيء مع الشخص الآن، و still تعني ما زال."
+        },
+        "wordMeanings": [
+          {
+            "term": "Do",
+            "description": "كلمة مساعدة للسؤال"
+          },
+          {
+            "term": "you",
+            "description": "أنت"
+          },
+          {
+            "term": "still",
+            "description": "ما زال أو لا يزال"
+          },
+          {
+            "term": "have",
+            "description": "تملك أو معك"
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف"
+          },
+          {
+            "term": "shopping",
+            "description": "تسوق أو مشتريات"
+          },
+          {
+            "term": "list",
+            "description": "قائمة"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Do you still have the tickets",
+        "ar": "هل ما زالت التذاكر معك؟",
+        "context": "يقال للتأكد من عدم ضياع شيء"
+      },
+      {
+        "id": 2,
+        "en": "Do you still have my phone",
+        "ar": "هل ما زال هاتفي معك؟",
+        "context": "يقال عند استرجاع شيء"
+      },
+      {
+        "id": 3,
+        "en": "I still have the list",
+        "ar": "ما زالت القائمة معي",
+        "context": "يقال لطمأنة شخص"
+      },
+      {
+        "id": 4,
+        "en": "Do they still have the keys",
+        "ar": "هل ما زالت المفاتيح معهم؟",
+        "context": "يقال عند التحقق من مفاتيح"
+      },
+      {
+        "id": 5,
+        "en": "Do you have the shopping bag",
+        "ar": "هل معك كيس التسوق؟",
+        "context": "يقال قبل دخول متجر"
+      },
+      {
+        "id": 6,
+        "en": "She still has the receipt",
+        "ar": "ما زال الإيصال معها",
+        "context": "يقال عند الحاجة لإرجاع شيء"
+      },
+      {
+        "id": 7,
+        "en": "Do you still need this list",
+        "ar": "هل ما زلت تحتاج إلى هذه القائمة؟",
+        "context": "يقال بعد الانتهاء من مهمة"
+      },
+      {
+        "id": 8,
+        "en": "We still have enough time",
+        "ar": "ما زال لدينا وقت كاف",
+        "context": "يقال لطمأنة شخص"
+      },
+      {
+        "id": 9,
+        "en": "Do you have the market list",
+        "ar": "هل معك قائمة السوق؟",
+        "context": "يقال قبل بدء التسوق"
+      },
+      {
+        "id": 10,
+        "en": "He still has the card",
+        "ar": "ما زالت البطاقة معه",
+        "context": "يقال عند متابعة شيء مع شخص"
+      }
+    ]
+  }
+}

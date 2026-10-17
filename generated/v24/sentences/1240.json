@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": 1240,
+  "sentence": {
+    "en": "The temperature is below zero.",
+    "ar": "درجة الحرارة أقل من الصفر.",
+    "context": "إشارة إلى أن شيئًا ما يقع في مستوى أقل من شيء آخر، لكن ليس بالضرورة تحته مباشرة أو ملامسًا له."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "The temperature is below zero.",
+        "ar": "درجة الحرارة أقل من الصفر.",
+        "context": "يعرض به المتحدث الفكرة الأساسية التي يريد قولها في هذا الموقف.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "تستخدم is لوصف مستوى درجة الحرارة الحالي، وتستخدم below عندما يكون الشيء أقل من مستوى أو رقم معين."
+        },
+        "wordMeanings": [
+          {
+            "term": "The",
+            "description": "أداة تشير إلى درجة حرارة محددة في السياق."
+          },
+          {
+            "term": "temperature",
+            "description": "درجة الحرارة."
+          },
+          {
+            "term": "is",
+            "description": "صيغة تربط الشيء بوصفه أو مستواه الحالي."
+          },
+          {
+            "term": "below",
+            "description": "أقل من مستوى أو رقم معين، وليس بالضرورة تحته مباشرة."
+          },
+          {
+            "term": "zero",
+            "description": "الصفر."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "The price is below ten dollars.",
+        "ar": "السعر أقل من عشرة دولارات.",
+        "context": "تقال عند وصف سعر دون مستوى معين."
+      },
+      {
+        "id": 2,
+        "en": "The city is below sea level.",
+        "ar": "المدينة تحت مستوى سطح البحر.",
+        "context": "تقال عند وصف مستوى جغرافي أقل من البحر."
+      },
+      {
+        "id": 3,
+        "en": "The score is below average.",
+        "ar": "النتيجة أقل من المتوسط.",
+        "context": "تقال عند تقييم نتيجة منخفضة."
+      },
+      {
+        "id": 4,
+        "en": "The number is below five.",
+        "ar": "الرقم أقل من خمسة.",
+        "context": "تقال عند مقارنة رقم بحد معين."
+      },
+      {
+        "id": 5,
+        "en": "The shelf is below the window.",
+        "ar": "الرف أسفل النافذة.",
+        "context": "تقال عند وصف موضع عام أقل من النافذة."
+      },
+      {
+        "id": 6,
+        "en": "The temperature is below freezing.",
+        "ar": "درجة الحرارة أقل من درجة التجمد.",
+        "context": "تقال عند وصف طقس شديد البرودة."
+      },
+      {
+        "id": 7,
+        "en": "The answer is below the picture.",
+        "ar": "الإجابة أسفل الصورة.",
+        "context": "تقال عند تحديد مكان نص في صفحة."
+      },
+      {
+        "id": 8,
+        "en": "His name is below mine.",
+        "ar": "اسمه أسفل اسمي.",
+        "context": "تقال عند وصف ترتيب في قائمة."
+      },
+      {
+        "id": 9,
+        "en": "The room is below the office.",
+        "ar": "الغرفة أسفل المكتب.",
+        "context": "تقال عند وصف طابق أو مستوى أقل."
+      },
+      {
+        "id": 10,
+        "en": "The value is below the limit.",
+        "ar": "القيمة أقل من الحد.",
+        "context": "تقال عند مقارنة قيمة بحد مسموح."
+      }
+    ]
+  }
+}

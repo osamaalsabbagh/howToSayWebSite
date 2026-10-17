@@ -1,0 +1,155 @@
+{
+  "schemaVersion": 1,
+  "id": 3267,
+  "sentence": {
+    "en": "Do you have any questions about the project we discussed earlier?",
+    "ar": "هل لديك أي أسئلة حول المشروع الذي ناقشناه سابقًا؟",
+    "context": "سؤال عن وجود أسئلة تخص موضوع تم التحدث عنه من قبل دون تحديد عدد."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Do you have any questions",
+        "ar": "هل لديك أي أسئلة",
+        "context": "تسأل العبارة إن كان لدى المخاطب أسئلة غير محددة العدد.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُخدم Do في بداية السؤال لأن have فعل أساسي في المضارع البسيط."
+        },
+        "wordMeanings": [
+          {
+            "term": "Do",
+            "description": "فعل مساعد يستخدم لتكوين سؤال في المضارع البسيط."
+          },
+          {
+            "term": "you",
+            "description": "أنت؛ الشخص المخاطب."
+          },
+          {
+            "term": "have",
+            "description": "لديك أو تملك؛ هنا تعني وجود أسئلة عند الشخص."
+          },
+          {
+            "term": "any",
+            "description": "أي؛ تستخدم في السؤال دون تحديد عدد الأسئلة."
+          },
+          {
+            "term": "questions",
+            "description": "أسئلة؛ أمور يريد الشخص معرفة إجاباتها."
+          }
+        ]
+      },
+      {
+        "sentence": "about the project",
+        "ar": "حول المشروع",
+        "context": "تحدد العبارة موضوع الأسئلة.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "about the project عبارة جر تحدد الموضوع، ولا تحتوي فعلا بزمن."
+        },
+        "wordMeanings": [
+          {
+            "term": "about",
+            "description": "حول أو عن؛ تستخدم لذكر موضوع الكلام أو السؤال."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف؛ تجعل project مشروعا محددا."
+          },
+          {
+            "term": "project",
+            "description": "مشروع؛ عمل منظم له هدف محدد."
+          }
+        ]
+      },
+      {
+        "sentence": "we discussed earlier?",
+        "ar": "الذي ناقشناه سابقًا؟",
+        "context": "تصف العبارة المشروع بأنه موضوع نوقش من قبل.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "استُخدم discussed لأن النقاش حدث في وقت سابق وانتهى."
+        },
+        "wordMeanings": [
+          {
+            "term": "we",
+            "description": "نحن؛ المتكلم ومعه شخص أو أكثر."
+          },
+          {
+            "term": "discussed",
+            "description": "ناقشنا؛ تحدثنا عن موضوع بالتفصيل في الماضي."
+          },
+          {
+            "term": "earlier",
+            "description": "سابقا أو في وقت مضى؛ قبل لحظة الكلام."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Do you have any questions about the project we discussed earlier?",
+        "ar": "هل لديك أي أسئلة حول المشروع الذي ناقشناه سابقا؟",
+        "context": "تسأل عن أسئلة تخص مشروعا سبق الحديث عنه."
+      },
+      {
+        "id": 2,
+        "en": "Do you have any questions about the report we discussed earlier?",
+        "ar": "هل لديك أي أسئلة حول التقرير الذي ناقشناه سابقا؟",
+        "context": "تغير موضوع الأسئلة إلى تقرير."
+      },
+      {
+        "id": 3,
+        "en": "Do they have any questions about the project we discussed earlier?",
+        "ar": "هل لديهم أي أسئلة حول المشروع الذي ناقشناه سابقا؟",
+        "context": "تسأل عن أسئلة مجموعة أخرى."
+      },
+      {
+        "id": 4,
+        "en": "You do not have any questions about the project we discussed earlier.",
+        "ar": "ليست لديك أي أسئلة حول المشروع الذي ناقشناه سابقا.",
+        "context": "تنفي وجود أسئلة."
+      },
+      {
+        "id": 5,
+        "en": "Do you have many questions about the project we discussed earlier?",
+        "ar": "هل لديك أسئلة كثيرة حول المشروع الذي ناقشناه سابقا؟",
+        "context": "تسأل عن عدد أكبر من الأسئلة."
+      },
+      {
+        "id": 6,
+        "en": "Did you have any questions about the project we discussed earlier?",
+        "ar": "هل كانت لديك أي أسئلة حول المشروع الذي ناقشناه سابقا؟",
+        "context": "تنقل السؤال عن وجود الأسئلة إلى الماضي."
+      },
+      {
+        "id": 7,
+        "en": "Will you have any questions about the project we discussed earlier?",
+        "ar": "هل ستكون لديك أي أسئلة حول المشروع الذي ناقشناه سابقا؟",
+        "context": "تسأل عن احتمال وجود أسئلة لاحقا."
+      },
+      {
+        "id": 8,
+        "en": "Do you have any questions about the project we discussed this morning?",
+        "ar": "هل لديك أي أسئلة حول المشروع الذي ناقشناه هذا الصباح؟",
+        "context": "تحدد وقت النقاش السابق."
+      },
+      {
+        "id": 9,
+        "en": "Do you have any questions about the project we discussed earlier before we decide?",
+        "ar": "هل لديك أي أسئلة حول المشروع الذي ناقشناه سابقا قبل أن نقرر؟",
+        "context": "تسأل قبل اتخاذ قرار."
+      },
+      {
+        "id": 10,
+        "en": "Do you have any questions about the project we discussed earlier, or is everything clear?",
+        "ar": "هل لديك أي أسئلة حول المشروع الذي ناقشناه سابقا، أم أن كل شيء واضح؟",
+        "context": "تجمع بين السؤال والتأكد من الوضوح."
+      }
+    ]
+  }
+}

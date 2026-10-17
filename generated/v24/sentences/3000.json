@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": 3000,
+  "sentence": {
+    "en": "They have used it before.",
+    "ar": "هم استخدموه من قبل.",
+    "context": "تجربة سابقة دون تحديد وقت، ومعناها أنهم يعرفون استخدامه الآن أو لديهم خبرة به."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "They have used it before.",
+        "ar": "استخدموه من قبل.",
+        "context": "تصف الجملة تجربة سابقة غير محددة الوقت، أي أن لديهم خبرة باستعمال الشيء.",
+        "grammar": {
+          "tense": "المضارع التام",
+          "tenseEn": "Present Perfect",
+          "reason": "استُخدم المضارع التام لأن have used يربط تجربة حدثت سابقا بالمعرفة أو الخبرة الحالية."
+        },
+        "wordMeanings": [
+          {
+            "term": "They",
+            "description": "ضمير يعني هم أو هن، ويشير إلى أكثر من شخص."
+          },
+          {
+            "term": "have",
+            "description": "فعل مساعد يُستخدم مع التصريف الثالث في المضارع التام."
+          },
+          {
+            "term": "used",
+            "description": "استخدموا؛ التصريف الثالث من use هنا."
+          },
+          {
+            "term": "it",
+            "description": "هو أو هي لغير العاقل؛ يشير إلى شيء سبق ذكره."
+          },
+          {
+            "term": "before",
+            "description": "من قبل؛ في وقت سابق غير محدد."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "They have used it before.",
+        "ar": "استخدموه من قبل.",
+        "context": "تذكر أن لديهم تجربة سابقة مع الشيء."
+      },
+      {
+        "id": 2,
+        "en": "She has used it before.",
+        "ar": "استخدمته من قبل.",
+        "context": "تستخدم الجملة مع امرأة أو فتاة واحدة."
+      },
+      {
+        "id": 3,
+        "en": "They have used this tool before.",
+        "ar": "استخدموا هذه الأداة من قبل.",
+        "context": "توضح الشيء المقصود بدلا من الضمير it."
+      },
+      {
+        "id": 4,
+        "en": "They have not used it before.",
+        "ar": "لم يستخدموه من قبل.",
+        "context": "تنفي وجود تجربة سابقة."
+      },
+      {
+        "id": 5,
+        "en": "Have they used it before?",
+        "ar": "هل استخدموه من قبل؟",
+        "context": "تسأل عن خبرتهم السابقة."
+      },
+      {
+        "id": 6,
+        "en": "They used it yesterday.",
+        "ar": "استخدموه أمس.",
+        "context": "تذكر وقتا محددا في الماضي."
+      },
+      {
+        "id": 7,
+        "en": "They will use it later.",
+        "ar": "سيستخدمونه لاحقا.",
+        "context": "تنقل الاستعمال إلى المستقبل."
+      },
+      {
+        "id": 8,
+        "en": "They have used it before, so they can help.",
+        "ar": "استخدموه من قبل، لذلك يمكنهم المساعدة.",
+        "context": "تربط الخبرة السابقة بنتيجة حالية."
+      },
+      {
+        "id": 9,
+        "en": "They have used it before at school.",
+        "ar": "استخدموه من قبل في المدرسة.",
+        "context": "تضيف مكان التجربة السابقة."
+      },
+      {
+        "id": 10,
+        "en": "If they have used it before, ask them to show you.",
+        "ar": "إذا كانوا قد استخدموه من قبل، فاطلب منهم أن يروك الطريقة.",
+        "context": "تستخدم الجملة داخل نصيحة عملية."
+      }
+    ]
+  }
+}

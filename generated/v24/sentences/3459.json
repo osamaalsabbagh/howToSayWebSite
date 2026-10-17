@@ -1,0 +1,131 @@
+{
+  "schemaVersion": 1,
+  "id": 3459,
+  "sentence": {
+    "en": "Press the green button to start the machine.",
+    "ar": "اضغط على الزر الأخضر لتشغيل الآلة.",
+    "context": "الإشارة إلى جزء تضغطه لتشغيل جهاز، لا إلى قطعة ملابس."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Press the green button",
+        "ar": "اضغط على الزر الأخضر",
+        "context": "أمر مباشر بالضغط على جزء محدد.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه صيغة أمر، لذلك لا تُشرح كزمن مستقل."
+        },
+        "wordMeanings": [
+          {
+            "term": "Press",
+            "description": "اضغط؛ ادفع شيئًا بإصبعك أو يدك."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف؛ تجعل الزر محددًا."
+          },
+          {
+            "term": "green",
+            "description": "أخضر؛ لون الزر المطلوب."
+          },
+          {
+            "term": "button",
+            "description": "زر؛ جزء يُضغط لتشغيل أو التحكم في جهاز."
+          }
+        ]
+      },
+      {
+        "sentence": "to start the machine",
+        "ar": "لتشغيل الآلة",
+        "context": "توضح الغرض من الضغط على الزر.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه عبارة غرض تبدأ بـ to ولا تحمل زمنًا مستقلًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "to",
+            "description": "لـ؛ تبين الغرض من الفعل."
+          },
+          {
+            "term": "start",
+            "description": "تشغيل؛ جعل الآلة تبدأ بالعمل."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف؛ تجعل الآلة محددة."
+          },
+          {
+            "term": "machine",
+            "description": "آلة؛ جهاز يعمل لأداء مهمة."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Press the green button to start the machine.",
+        "ar": "اضغط على الزر الأخضر لتشغيل الآلة.",
+        "context": "تعطي تعليمات لتشغيل جهاز."
+      },
+      {
+        "id": 2,
+        "en": "Press this button to open the door.",
+        "ar": "اضغط على هذا الزر لفتح الباب.",
+        "context": "تصف زرًا يتحكم بباب."
+      },
+      {
+        "id": 3,
+        "en": "The red button stops the machine.",
+        "ar": "الزر الأحمر يوقف الآلة.",
+        "context": "تصف وظيفة زر تحكم."
+      },
+      {
+        "id": 4,
+        "en": "Do not touch that button.",
+        "ar": "لا تلمس ذلك الزر.",
+        "context": "تحذر من زر معين."
+      },
+      {
+        "id": 5,
+        "en": "Which button turns on the light?",
+        "ar": "أي زر يشغل الضوء؟",
+        "context": "تسأل عن زر مسؤول عن تشغيل ضوء."
+      },
+      {
+        "id": 6,
+        "en": "The button is next to the screen.",
+        "ar": "الزر بجانب الشاشة.",
+        "context": "تحدد مكان زر في جهاز."
+      },
+      {
+        "id": 7,
+        "en": "Hold the button for five seconds.",
+        "ar": "اضغط على الزر باستمرار لمدة خمس ثوانٍ.",
+        "context": "تعطي تعليمات مدة الضغط."
+      },
+      {
+        "id": 8,
+        "en": "The button does not work.",
+        "ar": "الزر لا يعمل.",
+        "context": "تصف زرًا معطلًا في جهاز."
+      },
+      {
+        "id": 9,
+        "en": "She pushed the wrong button.",
+        "ar": "ضغطت على الزر الخطأ.",
+        "context": "تصف ضغط زر غير صحيح."
+      },
+      {
+        "id": 10,
+        "en": "A small button controls the fan.",
+        "ar": "زر صغير يتحكم في المروحة.",
+        "context": "تصف زرًا يتحكم بجهاز."
+      }
+    ]
+  }
+}

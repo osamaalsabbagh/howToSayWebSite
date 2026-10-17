@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": 3242,
+  "sentence": {
+    "en": "I almost finished the task.",
+    "ar": "أنا كدت أنهي المهمة.",
+    "context": "لم يكتمل الفعل لكنه كان قريبًا من الاكتمال."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "I almost finished the task.",
+        "ar": "كدت أنهي المهمة.",
+        "context": "توضح الجملة أن المتكلم كان قريبا جدا من إنهاء المهمة، لكنها لم تكتمل في ذلك السياق.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "استُخدم finished لأن الحديث عن محاولة أو تقدم حدث في الماضي، وalmost يبين أن الاكتمال لم يحدث تماما."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "أنا؛ المتكلم."
+          },
+          {
+            "term": "almost",
+            "description": "كدت أو تقريبا؛ قريب جدا من حدوث الفعل لكن ليس كاملا."
+          },
+          {
+            "term": "finished",
+            "description": "أنهيت؛ أكملت شيئا في الماضي، وهنا يأتي بعد almost للدلالة على قرب الإنهاء."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف؛ تجعل task مهمة محددة."
+          },
+          {
+            "term": "task",
+            "description": "مهمة؛ عمل محدد يجب إنجازه."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I almost finished the task.",
+        "ar": "كدت أنهي المهمة.",
+        "context": "تقول إنك كنت قريبا من الإنهاء."
+      },
+      {
+        "id": 2,
+        "en": "She almost finished the task.",
+        "ar": "هي كادت تنهي المهمة.",
+        "context": "تتحدث عن شخص آخر."
+      },
+      {
+        "id": 3,
+        "en": "I almost finished the report.",
+        "ar": "كدت أنهي التقرير.",
+        "context": "تغير الشيء الذي كاد يكتمل."
+      },
+      {
+        "id": 4,
+        "en": "I did not almost finish the task.",
+        "ar": "لم أكن قريبا من إنهاء المهمة.",
+        "context": "تنفي أنك اقتربت من الإنهاء."
+      },
+      {
+        "id": 5,
+        "en": "Did you almost finish the task?",
+        "ar": "هل كدت تنهي المهمة؟",
+        "context": "تسأل عن مدى التقدم."
+      },
+      {
+        "id": 6,
+        "en": "I almost finish the task every time.",
+        "ar": "أكاد أنهي المهمة كل مرة.",
+        "context": "تصف نمطا متكررا من الاقتراب دون الاكتمال."
+      },
+      {
+        "id": 7,
+        "en": "I will almost finish the task before lunch.",
+        "ar": "سأكاد أنهي المهمة قبل الغداء.",
+        "context": "تتحدث عن قرب الاكتمال مستقبلا."
+      },
+      {
+        "id": 8,
+        "en": "I almost finished the task before the meeting.",
+        "ar": "كدت أنهي المهمة قبل الاجتماع.",
+        "context": "تحدد وقت الاقتراب من الإنهاء."
+      },
+      {
+        "id": 9,
+        "en": "I almost finished the task, but the system stopped.",
+        "ar": "كدت أنهي المهمة، لكن النظام توقف.",
+        "context": "تذكر سبب عدم الاكتمال."
+      },
+      {
+        "id": 10,
+        "en": "I almost finished the task, so only one step remains.",
+        "ar": "كدت أنهي المهمة، لذلك لم تبق إلا خطوة واحدة.",
+        "context": "توضح مقدار ما تبقى."
+      }
+    ]
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "schemaVersion": 1,
+  "id": 5082,
+  "sentence": {
+    "en": "This unit has three lessons.",
+    "ar": "هذه الوحدة تحتوي على ثلاثة دروس.",
+    "context": "وصف قسم تعليمي من كتاب أو دورة يضم ثلاثة دروس مترابطة.",
+    "sourceWord": "unit",
+    "sourcePos": "n."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "This unit has three lessons.",
+        "ar": "هذه الوحدة تحتوي على ثلاثة دروس.",
+        "context": "وصف قسم تعليمي من كتاب أو دورة يضم ثلاثة دروس مترابطة.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "تصف الجملة حقيقة أو حالة عامة، لذلك جاءت بصيغة المضارع البسيط."
+        },
+        "wordMeanings": [
+          {
+            "term": "This",
+            "description": "اسم إشارة لشيء قريب أو حاضر في الكلام"
+          },
+          {
+            "term": "unit",
+            "description": "وحدة أو جزء من كتاب أو دورة"
+          },
+          {
+            "term": "has",
+            "description": "يملك أو يحتوي مع المفرد الغائب"
+          },
+          {
+            "term": "three",
+            "description": "العدد ثلاثة"
+          },
+          {
+            "term": "lessons",
+            "description": "دروس أو وحدات تعليمية صغيرة"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "This unit has three lessons.",
+        "ar": "هذه الوحدة تحتوي على ثلاثة دروس.",
+        "context": "وصف قسم تعليمي من كتاب أو دورة يضم ثلاثة دروس مترابطة."
+      },
+      {
+        "id": 2,
+        "en": "A meter is a unit of length.",
+        "ar": "المتر وحدة لقياس الطول.",
+        "context": "تعريف مقدار معياري يستخدم للتعبير عن المسافات والأبعاد."
+      },
+      {
+        "id": 3,
+        "en": "The company sold five hundred units in a week.",
+        "ar": "الشركة باعت خمسمئة وحدة في أسبوع.",
+        "context": "وصف عدد سابق من منتجات متطابقة أو متشابهة بيعت."
+      },
+      {
+        "id": 4,
+        "en": "Please place the storage unit beside the desk.",
+        "ar": "من فضلك ضع وحدة التخزين بجانب المكتب.",
+        "context": "طلب ترتيب قطعة أثاث مستقلة لحفظ أغراض."
+      },
+      {
+        "id": 5,
+        "en": "We have opened a new research unit.",
+        "ar": "نحن قد افتتحنا وحدة بحث جديدة.",
+        "context": "الإبلاغ عن إنشاء مجموعة عمل متخصصة ضمن مؤسسة أكبر."
+      },
+      {
+        "id": 6,
+        "en": "The family worked as a single unit during the move.",
+        "ar": "العائلة عملت كوحدة واحدة أثناء الانتقال.",
+        "context": "وصف تعاون سابق مترابط جعل أفرادًا يتصرفون كجماعة منسجمة."
+      },
+      {
+        "id": 7,
+        "en": "The housing unit has a small balcony.",
+        "ar": "الوحدة السكنية لها شرفة صغيرة.",
+        "context": "وصف مكان إقامة مستقل ضمن مبنى أو مشروع."
+      },
+      {
+        "id": 8,
+        "en": "The technicians are testing the cooling unit.",
+        "ar": "الفنيون يختبرون وحدة التبريد.",
+        "context": "وصف فحص جارٍ لجهاز أو جزء متكامل يخفض الحرارة."
+      },
+      {
+        "id": 9,
+        "en": "The next unit will cover navigation.",
+        "ar": "الوحدة التالية ستغطي الملاحة.",
+        "context": "وصف قسم تعليمي مرتقب عن تحديد الاتجاهات والتنقل."
+      },
+      {
+        "id": 10,
+        "en": "The rescue unit reached the village before dark.",
+        "ar": "وحدة الإنقاذ وصلت إلى القرية قبل الظلام.",
+        "context": "وصف وصول سابق لفريق متخصص ضمن خدمة منظمة."
+      }
+    ]
+  }
+}

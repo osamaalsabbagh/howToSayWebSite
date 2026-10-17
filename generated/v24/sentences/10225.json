@@ -1,0 +1,113 @@
+{
+  "schemaVersion": 1,
+  "id": 10225,
+  "sentence": {
+    "en": "I opened a packet of seeds.",
+    "ar": "أنا فتحت كيس بذور.",
+    "context": "وصف فتح سابق لعبوة صغيرة، لا وحدة بيانات رقمية.",
+    "sourceWord": "packet",
+    "sourcePos": "n."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "I opened a packet of seeds.",
+        "ar": "أنا فتحت كيس بذور.",
+        "context": "وصف فتح سابق لعبوة صغيرة، لا وحدة بيانات رقمية.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "تصف opened فتح عبوة سابقًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "أنا؛ ضمير المتكلم المفرد"
+          },
+          {
+            "term": "opened",
+            "description": "فتحت؛ أزلت ما يغلق شيئًا."
+          },
+          {
+            "term": "a",
+            "description": "أداة نكرة لكيس"
+          },
+          {
+            "term": "packet",
+            "description": "عبوة أو كيس صغير هنا."
+          },
+          {
+            "term": "of",
+            "description": "من"
+          },
+          {
+            "term": "seeds",
+            "description": "بذور"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I opened a packet of seeds.",
+        "ar": "أنا فتحت كيس بذور.",
+        "context": "وصف فتح سابق لعبوة صغيرة، لا وحدة بيانات رقمية."
+      },
+      {
+        "id": 2,
+        "en": "I send a data packet across the network.",
+        "ar": "أنا أرسل حزمة بيانات عبر الشبكة.",
+        "context": "وصف إجراء معتاد لنقل وحدة من معلومات رقمية."
+      },
+      {
+        "id": 3,
+        "en": "She added a packet of yeast to the flour.",
+        "ar": "هي أضافت كيسًا صغيرًا من الخميرة إلى الدقيق.",
+        "context": "وصف استخدام سابق لمحتوى عبوة في تحضير طعام."
+      },
+      {
+        "id": 4,
+        "en": "The router checks each packet's destination.",
+        "ar": "الموجه يفحص وجهة كل حزمة.",
+        "context": "وصف وظيفة شبكة تتعلق بمعلومات مجزأة للنقل."
+      },
+      {
+        "id": 5,
+        "en": "We have prepared a packet of documents for each applicant.",
+        "ar": "نحن قد جهزنا حزمة مستندات لكل متقدم.",
+        "context": "الإبلاغ عن تجميع مكتمل لأوراق تُسلّم معًا."
+      },
+      {
+        "id": 6,
+        "en": "The children are opening packets of colored paper.",
+        "ar": "الأطفال يفتحون رزمًا من الورق الملون.",
+        "context": "وصف فتح جارٍ لعبوات مواد لأعمال يدوية."
+      },
+      {
+        "id": 7,
+        "en": "The missing packet will be sent again.",
+        "ar": "الحزمة المفقودة ستُرسل مجددًا.",
+        "context": "توقع إعادة نقل وحدة بيانات لم تصل."
+      },
+      {
+        "id": 8,
+        "en": "Please seal the packet before posting it.",
+        "ar": "من فضلك أغلق الطرد بإحكام قبل إرساله بالبريد.",
+        "context": "طلب تجهيز رزمة صغيرة للإرسال."
+      },
+      {
+        "id": 9,
+        "en": "The packet contained assembly instructions.",
+        "ar": "العبوة احتوت على تعليمات التركيب.",
+        "context": "وصف محتوى سابق لرزمة أوراق أو مواد."
+      },
+      {
+        "id": 10,
+        "en": "The program records packet loss.",
+        "ar": "البرنامج يسجل فقدان حزم البيانات.",
+        "context": "وصف متابعة وحدات معلومات لا تصل عبر شبكة."
+      }
+    ]
+  }
+}

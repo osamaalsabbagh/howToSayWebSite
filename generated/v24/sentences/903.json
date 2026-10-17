@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "id": 903,
+  "sentence": {
+    "en": "Is this Mr. Smith?",
+    "ar": "هل هذا السيد سميث؟",
+    "context": "تُستخدم للتأكد من هوية شخص، غالبًا عبر الهاتف."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Is this Mr. Smith?",
+        "ar": "هل هذا السيد سميث؟",
+        "context": "سؤال للتأكد من هوية الشخص في الهاتف أو موقف رسمي.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "الفعل is يسأل عن هوية الشخص الحالي، وthis يستخدم للشخص الذي تتحدث معه أو تشير إليه."
+        },
+        "wordMeanings": [
+          {
+            "term": "Is",
+            "description": "هل يكون أو هل هذا"
+          },
+          {
+            "term": "this",
+            "description": "هذا الشخص أو المتحدث"
+          },
+          {
+            "term": "Mr",
+            "description": "لقب رسمي للرجل بمعنى السيد"
+          },
+          {
+            "term": "Smith",
+            "description": "اسم عائلة"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Is this Mrs. Smith?",
+        "ar": "هل هذه السيدة سميث؟",
+        "context": "للتأكد من هوية امرأة."
+      },
+      {
+        "id": 2,
+        "en": "Is this John?",
+        "ar": "هل هذا جون؟",
+        "context": "في مكالمة هاتفية."
+      },
+      {
+        "id": 3,
+        "en": "Are you Mr. Smith?",
+        "ar": "هل أنت السيد سميث؟",
+        "context": "للتأكد من هوية مباشرة."
+      },
+      {
+        "id": 4,
+        "en": "This is Mr. Smith.",
+        "ar": "هذا السيد سميث.",
+        "context": "للتعريف بشخص."
+      },
+      {
+        "id": 5,
+        "en": "May I speak to Mr. Smith?",
+        "ar": "هل يمكنني التحدث إلى السيد سميث؟",
+        "context": "طلب هاتفي رسمي."
+      },
+      {
+        "id": 6,
+        "en": "Is Mr. Smith there?",
+        "ar": "هل السيد سميث موجود؟",
+        "context": "للسؤال عن وجوده."
+      },
+      {
+        "id": 7,
+        "en": "Is this your office?",
+        "ar": "هل هذا مكتبك؟",
+        "context": "للتأكد من شيء قريب."
+      },
+      {
+        "id": 8,
+        "en": "Is this the doctor?",
+        "ar": "هل هذا الطبيب؟",
+        "context": "للتأكد من هوية مهنية."
+      },
+      {
+        "id": 9,
+        "en": "Is this Smith's house?",
+        "ar": "هل هذا بيت سميث؟",
+        "context": "للتأكد من مكان."
+      },
+      {
+        "id": 10,
+        "en": "Hello, is this Mr. Smith?",
+        "ar": "مرحبا، هل هذا السيد سميث؟",
+        "context": "بداية مكالمة رسمية."
+      }
+    ]
+  }
+}

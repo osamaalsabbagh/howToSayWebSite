@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": 3316,
+  "sentence": {
+    "en": "The assistant helped the manager.",
+    "ar": "المساعد ساعد المدير.",
+    "context": "شخص يساعد في العمل."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "The assistant helped the manager.",
+        "ar": "المساعد ساعد المدير.",
+        "context": "تخبر الجملة أن الشخص المسؤول عن الدعم قدم مساعدة للمدير.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "استُخدم helped لأن فعل المساعدة حدث وانتهى في الماضي."
+        },
+        "wordMeanings": [
+          {
+            "term": "The",
+            "description": "أداة تعريف؛ تجعل assistant مساعدا محددا."
+          },
+          {
+            "term": "assistant",
+            "description": "مساعد؛ شخص يقدم الدعم في العمل أو المهام."
+          },
+          {
+            "term": "helped",
+            "description": "ساعد؛ قدم عونا أو دعما في الماضي."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف؛ تجعل manager مديرا محددا."
+          },
+          {
+            "term": "manager",
+            "description": "مدير؛ شخص مسؤول عن فريق أو عمل."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "The assistant helped the manager.",
+        "ar": "المساعد ساعد المدير.",
+        "context": "تصف مساعدة في العمل."
+      },
+      {
+        "id": 2,
+        "en": "The assistant helped the teacher.",
+        "ar": "المساعد ساعد المعلم.",
+        "context": "تغير الشخص الذي تلقى المساعدة."
+      },
+      {
+        "id": 3,
+        "en": "The manager helped the assistant.",
+        "ar": "المدير ساعد المساعد.",
+        "context": "تعكس من ساعد من."
+      },
+      {
+        "id": 4,
+        "en": "The assistant did not help the manager.",
+        "ar": "المساعد لم يساعد المدير.",
+        "context": "تنفي حدوث المساعدة."
+      },
+      {
+        "id": 5,
+        "en": "Did the assistant help the manager?",
+        "ar": "هل ساعد المساعد المدير؟",
+        "context": "تسأل عن فعل المساعدة."
+      },
+      {
+        "id": 6,
+        "en": "The assistant helps the manager every day.",
+        "ar": "المساعد يساعد المدير كل يوم.",
+        "context": "تصف عادة يومية."
+      },
+      {
+        "id": 7,
+        "en": "The assistant will help the manager tomorrow.",
+        "ar": "سيساعد المساعد المدير غدا.",
+        "context": "تتحدث عن مساعدة مستقبلية."
+      },
+      {
+        "id": 8,
+        "en": "The new assistant helped the manager.",
+        "ar": "المساعد الجديد ساعد المدير.",
+        "context": "تصف المساعد بأنه جديد."
+      },
+      {
+        "id": 9,
+        "en": "The assistant helped the manager because the meeting was busy.",
+        "ar": "المساعد ساعد المدير لأن الاجتماع كان مزدحما.",
+        "context": "تذكر سبب الحاجة للمساعدة."
+      },
+      {
+        "id": 10,
+        "en": "The assistant helped the manager, but the work was still difficult.",
+        "ar": "المساعد ساعد المدير، لكن العمل كان ما زال صعبا.",
+        "context": "توضح أن المساعدة لم تزل كل الصعوبة."
+      }
+    ]
+  }
+}

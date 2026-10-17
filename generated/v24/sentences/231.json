@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": 231,
+  "sentence": {
+    "en": "How much does this cost?",
+    "ar": "كم سعر هذا؟",
+    "context": "اسأل عن ثمن شيء ما."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "How much does this cost?",
+        "ar": "كم سعر هذا؟",
+        "context": "يوضح المعلومة أو الفكرة التابعة لما قبله.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "يستخدم المضارع البسيط للسؤال عن السعر الحالي لشيء معروض أو محدد."
+        },
+        "wordMeanings": [
+          {
+            "term": "How",
+            "description": "تبدأ سؤالًا عن السعر."
+          },
+          {
+            "term": "much",
+            "description": "كم، وتستخدم مع المال والتكلفة."
+          },
+          {
+            "term": "does",
+            "description": "تأتي في السؤال مع المفرد لتكوين سؤال في الحاضر."
+          },
+          {
+            "term": "this",
+            "description": "هذا، وتشير إلى شيء قريب أو مشار إليه."
+          },
+          {
+            "term": "cost",
+            "description": "يكلف أو يبلغ ثمنه."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "How much does this cost?",
+        "ar": "كم سعر هذا؟",
+        "context": "تقال عند السؤال عن ثمن شيء ما."
+      },
+      {
+        "id": 2,
+        "en": "How much does that cost?",
+        "ar": "كم سعر ذلك؟",
+        "context": "تقال عند الإشارة إلى شيء أبعد."
+      },
+      {
+        "id": 3,
+        "en": "How much does this shirt cost?",
+        "ar": "كم سعر هذا القميص؟",
+        "context": "تقال عند التسوق للملابس."
+      },
+      {
+        "id": 4,
+        "en": "How much does this ticket cost?",
+        "ar": "كم سعر هذه التذكرة؟",
+        "context": "تقال عند شراء تذكرة."
+      },
+      {
+        "id": 5,
+        "en": "How much does this meal cost?",
+        "ar": "كم سعر هذه الوجبة؟",
+        "context": "تقال عند السؤال عن سعر وجبة."
+      },
+      {
+        "id": 6,
+        "en": "How much does this bag cost?",
+        "ar": "كم سعر هذه الحقيبة؟",
+        "context": "تقال عند التسوق لحقائب."
+      },
+      {
+        "id": 7,
+        "en": "This costs 20 dollars.",
+        "ar": "هذا يكلف ٢٠ دولارًا.",
+        "context": "تقال عند إعطاء سعر شيء."
+      },
+      {
+        "id": 8,
+        "en": "Does this cost extra?",
+        "ar": "هل يكلف هذا مبلغًا إضافيًا؟",
+        "context": "تقال عند السؤال عن رسوم إضافية."
+      },
+      {
+        "id": 9,
+        "en": "How much does this cost with tax?",
+        "ar": "كم يكلف هذا مع الضريبة؟",
+        "context": "تقال عند السؤال عن السعر النهائي."
+      },
+      {
+        "id": 10,
+        "en": "How much does this cost after the discount?",
+        "ar": "كم يكلف هذا بعد الخصم؟",
+        "context": "تقال عند السؤال عن سعر مخفض."
+      }
+    ]
+  }
+}

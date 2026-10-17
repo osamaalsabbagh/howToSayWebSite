@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": 856,
+  "sentence": {
+    "en": "It is north of here.",
+    "ar": "إنه شمال هذا المكان.",
+    "context": "لتحديد الاتجاه نسبةً للموقع الحالي."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "It is north of here.",
+        "ar": "إنه شمال هذا المكان.",
+        "context": "جملة تحدد الاتجاه نسبة إلى مكان المتكلم.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "الفعل is يصف موقعا جغرافيا حاليا، وnorth of تحدد الاتجاه بالنسبة إلى هنا."
+        },
+        "wordMeanings": [
+          {
+            "term": "It",
+            "description": "المكان أو الشيء المقصود"
+          },
+          {
+            "term": "is",
+            "description": "يكون أو يقع"
+          },
+          {
+            "term": "north",
+            "description": "شمال"
+          },
+          {
+            "term": "of",
+            "description": "من أو بالنسبة إلى"
+          },
+          {
+            "term": "here",
+            "description": "هنا؛ المكان الحالي"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "It is south of here.",
+        "ar": "إنه جنوب هذا المكان.",
+        "context": "لتحديد اتجاه الجنوب."
+      },
+      {
+        "id": 2,
+        "en": "It is east of here.",
+        "ar": "إنه شرق هذا المكان.",
+        "context": "لتحديد اتجاه الشرق."
+      },
+      {
+        "id": 3,
+        "en": "It is west of here.",
+        "ar": "إنه غرب هذا المكان.",
+        "context": "لتحديد اتجاه الغرب."
+      },
+      {
+        "id": 4,
+        "en": "The hotel is north of here.",
+        "ar": "الفندق شمال هذا المكان.",
+        "context": "لإرشاد شخص إلى فندق."
+      },
+      {
+        "id": 5,
+        "en": "Is it north of here?",
+        "ar": "هل هو شمال هذا المكان؟",
+        "context": "للسؤال عن اتجاه."
+      },
+      {
+        "id": 6,
+        "en": "It is near here.",
+        "ar": "إنه قريب من هنا.",
+        "context": "لوصف قرب مكان."
+      },
+      {
+        "id": 7,
+        "en": "The city is north of the river.",
+        "ar": "المدينة شمال النهر.",
+        "context": "لوصف موقع جغرافي."
+      },
+      {
+        "id": 8,
+        "en": "It is north of the airport.",
+        "ar": "إنه شمال المطار.",
+        "context": "لتحديد مكان بالنسبة إلى المطار."
+      },
+      {
+        "id": 9,
+        "en": "Go north from here.",
+        "ar": "اذهب شمالا من هنا.",
+        "context": "لإعطاء اتجاه حركة."
+      },
+      {
+        "id": 10,
+        "en": "It is just north of here.",
+        "ar": "إنه شمال هذا المكان مباشرة.",
+        "context": "لتحديد اتجاه قريب."
+      }
+    ]
+  }
+}

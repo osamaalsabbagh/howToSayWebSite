@@ -1,0 +1,115 @@
+{
+  "schemaVersion": 1,
+  "id": 2172,
+  "sentence": {
+    "en": "Can I order a pizza for dinner?",
+    "ar": "هل يمكنني طلب بيتزا للعشاء؟",
+    "context": "سؤال عن إمكانية طلب وجبة بيتزا من مطعم لتناولها في وجبة العشاء."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Can I order a pizza for dinner?",
+        "ar": "هل يمكنني طلب بيتزا للعشاء؟",
+        "context": "سؤال يطلب الإذن أو الموافقة على طلب بيتزا لتناولها على العشاء.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "Can I صيغة سؤال عن الإذن أو الإمكانية، لذلك لا تصف حدثًا خبريًا بزمن محدد."
+        },
+        "wordMeanings": [
+          {
+            "term": "Can",
+            "description": "هل يمكن أو هل أستطيع"
+          },
+          {
+            "term": "I",
+            "description": "أنا"
+          },
+          {
+            "term": "order",
+            "description": "أطلب؛ أي أطلب من مطعم"
+          },
+          {
+            "term": "a",
+            "description": "أداة تنكير"
+          },
+          {
+            "term": "pizza",
+            "description": "بيتزا"
+          },
+          {
+            "term": "for",
+            "description": "لـ؛ لتحديد وجبة العشاء"
+          },
+          {
+            "term": "dinner",
+            "description": "عشاء"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Can I order a pizza for dinner?",
+        "ar": "هل يمكنني طلب بيتزا للعشاء؟",
+        "context": "سؤال عن إمكانية طلب وجبة بيتزا من مطعم لتناولها في وجبة العشاء."
+      },
+      {
+        "id": 2,
+        "en": "Can I order pasta for dinner?",
+        "ar": "هل يمكنني طلب معكرونة للعشاء؟",
+        "context": "تغيير نوع الطعام مع بقاء المعنى."
+      },
+      {
+        "id": 3,
+        "en": "Let us order a pizza tonight.",
+        "ar": "دعنا نطلب بيتزا الليلة.",
+        "context": "اقتراح طلب البيتزا."
+      },
+      {
+        "id": 4,
+        "en": "I ordered a pizza for lunch.",
+        "ar": "طلبت بيتزا للغداء.",
+        "context": "طلب بيتزا لوجبة مختلفة."
+      },
+      {
+        "id": 5,
+        "en": "Can we order dinner now?",
+        "ar": "هل يمكننا طلب العشاء الآن؟",
+        "context": "سؤال عام عن طلب العشاء."
+      },
+      {
+        "id": 6,
+        "en": "The pizza will arrive in thirty minutes.",
+        "ar": "ستصل البيتزا خلال ثلاثين دقيقة.",
+        "context": "ما يحدث بعد الطلب."
+      },
+      {
+        "id": 7,
+        "en": "Do you want pizza for dinner?",
+        "ar": "هل تريد بيتزا للعشاء؟",
+        "context": "سؤال عن الرغبة في البيتزا."
+      },
+      {
+        "id": 8,
+        "en": "I cannot order food from this app.",
+        "ar": "لا أستطيع طلب الطعام من هذا التطبيق.",
+        "context": "نفي القدرة على الطلب."
+      },
+      {
+        "id": 9,
+        "en": "We ordered two pizzas for the family.",
+        "ar": "طلبنا بيتزتين للعائلة.",
+        "context": "طلب كمية أكبر."
+      },
+      {
+        "id": 10,
+        "en": "Dinner is easier if we order pizza.",
+        "ar": "سيكون العشاء أسهل إذا طلبنا بيتزا.",
+        "context": "سبب اختيار طلب البيتزا."
+      }
+    ]
+  }
+}

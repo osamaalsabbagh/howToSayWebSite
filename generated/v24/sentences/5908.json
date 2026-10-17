@@ -1,0 +1,125 @@
+{
+  "schemaVersion": 1,
+  "id": 5908,
+  "sentence": {
+    "en": "He cannot swim. Neither can I.",
+    "ar": "هو لا يستطيع السباحة. ولا أنا أستطيع.",
+    "context": "بيان أن المتكلم وشخصًا آخر يفتقران إلى مهارة السباحة معًا.",
+    "sourceWord": "neither",
+    "sourcePos": "adv."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "He cannot swim.",
+        "ar": "هو لا يستطيع السباحة.",
+        "context": "نفي قدرة رجل على السباحة.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "تركيب مساعد بلا زمن مستقل. الفعل المساعد الذي يدل على القدرة يأتي متصلًا بأداة النفي، ثم الفعل الأصلي."
+        },
+        "wordMeanings": [
+          {
+            "term": "He",
+            "description": "هو؛ ضمير الفاعل للمفرد المذكر الغائب."
+          },
+          {
+            "term": "cannot",
+            "description": "لا يستطيع؛ نفي القدرة."
+          },
+          {
+            "term": "swim",
+            "description": "يسبح؛ يتحرك في الماء."
+          }
+        ]
+      },
+      {
+        "sentence": "Neither can I.",
+        "ar": "ولا أنا أستطيع.",
+        "context": "بيان أن المتكلم أيضًا لا يعرف السباحة.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "تركيب مساعد بلا زمن مستقل. بعد الظرف المنفي يتقدم الفعل المساعد على الفاعل، ولا نكرر الفعل الأصلي."
+        },
+        "wordMeanings": [
+          {
+            "term": "Neither",
+            "description": "ولا؛ تنفي الأمر عن المتكلم كما نُفي عن غيره."
+          },
+          {
+            "term": "can",
+            "description": "أستطيع؛ يشير هنا إلى القدرة على السباحة التي نفاها المتكلم عن نفسه."
+          },
+          {
+            "term": "I",
+            "description": "أنا؛ ضمير المتكلم المفرد."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "He cannot swim. Neither can I.",
+        "ar": "هو لا يستطيع السباحة. ولا أنا أستطيع.",
+        "context": "بيان أن المتكلم وشخصًا آخر يفتقران إلى مهارة السباحة معًا."
+      },
+      {
+        "id": 2,
+        "en": "I will not attend, and neither will my brother.",
+        "ar": "أنا لن أحضر، ولا أخي أيضًا.",
+        "context": "إخبار عن قرار مستقبلي مشترك بعدم المشاركة."
+      },
+      {
+        "id": 3,
+        "en": "The printer does not work. Neither does the scanner.",
+        "ar": "الطابعة لا تعمل. ولا الماسح الضوئي أيضًا.",
+        "context": "وصف تعطل جهازين يشتركان في الحالة نفسها."
+      },
+      {
+        "id": 4,
+        "en": "We were not ready, and neither were they.",
+        "ar": "نحن لم نكن مستعدين، ولا هم أيضًا.",
+        "context": "وصف عدم استعداد مجموعتين في وقت مضى."
+      },
+      {
+        "id": 5,
+        "en": "The answer is not clear. Neither is the question.",
+        "ar": "الإجابة ليست واضحة. ولا السؤال أيضًا.",
+        "context": "بيان غموض السؤال وجوابه معًا."
+      },
+      {
+        "id": 6,
+        "en": "You should not rush, and neither should I.",
+        "ar": "أنت ينبغي ألا تتعجل، ولا أنا أيضًا.",
+        "context": "توجيه توصية مشتركة إلى المخاطب والمتكلم بتجنب الاستعجال."
+      },
+      {
+        "id": 7,
+        "en": "The first attempt did not succeed. Neither did the second.",
+        "ar": "المحاولة الأولى لم تنجح. ولا الثانية أيضًا.",
+        "context": "وصف محاولتين انتهتا دون الوصول إلى النجاح."
+      },
+      {
+        "id": 8,
+        "en": "The guests have not arrived, and neither has the host.",
+        "ar": "الضيوف لم يصلوا، ولا المضيف أيضًا.",
+        "context": "بيان استمرار غياب المضيف والمدعوين حتى الآن."
+      },
+      {
+        "id": 9,
+        "en": "The old plan was not practical. Neither is the new one.",
+        "ar": "الخطة القديمة لم تكن عملية. ولا الجديدة كذلك.",
+        "context": "مقارنة عيب سابق في خطة بعيب ما زال قائمًا في بديلها."
+      },
+      {
+        "id": 10,
+        "en": "I do not like coffee, and neither does my wife.",
+        "ar": "أنا لا أحب القهوة، ولا زوجتي أيضًا.",
+        "context": "بيان اشتراك المتكلم وزوجته في عدم حب القهوة."
+      }
+    ]
+  }
+}

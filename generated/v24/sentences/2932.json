@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "id": 2932,
+  "sentence": {
+    "en": "This town is quiet.",
+    "ar": "هذه البلدة هادئة.",
+    "context": "وصف مكان سكني صغير."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "This town is quiet.",
+        "ar": "هذه البلدة هادئة.",
+        "context": "تصف الجملة بلدة محددة بأنها قليلة الضجيج والحركة.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُخدم المضارع البسيط لأن is يصف صفة حالية أو عامة للبلدة."
+        },
+        "wordMeanings": [
+          {
+            "term": "This",
+            "description": "هذه؛ تشير إلى بلدة قريبة أو محددة في الكلام."
+          },
+          {
+            "term": "town",
+            "description": "بلدة؛ مكان سكني أصغر عادة من المدينة."
+          },
+          {
+            "term": "is",
+            "description": "فعل يكون في المضارع، ويربط town بصفته."
+          },
+          {
+            "term": "quiet",
+            "description": "هادئ؛ قليل الصوت أو الحركة أو الإزعاج."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "This town is quiet.",
+        "ar": "هذه البلدة هادئة.",
+        "context": "تصف هدوء بلدة معينة."
+      },
+      {
+        "id": 2,
+        "en": "This city is quiet.",
+        "ar": "هذه المدينة هادئة.",
+        "context": "تستخدم quiet مع مدينة."
+      },
+      {
+        "id": 3,
+        "en": "This town is noisy.",
+        "ar": "هذه البلدة صاخبة.",
+        "context": "تستخدم الصفة المعاكسة."
+      },
+      {
+        "id": 4,
+        "en": "This town is very quiet at night.",
+        "ar": "هذه البلدة هادئة جدا في الليل.",
+        "context": "تحدد وقت الهدوء."
+      },
+      {
+        "id": 5,
+        "en": "This town is not quiet.",
+        "ar": "هذه البلدة ليست هادئة.",
+        "context": "تنفي هدوء البلدة."
+      },
+      {
+        "id": 6,
+        "en": "Is this town quiet?",
+        "ar": "هل هذه البلدة هادئة؟",
+        "context": "تسأل عن صفة البلدة."
+      },
+      {
+        "id": 7,
+        "en": "This town was quiet years ago.",
+        "ar": "كانت هذه البلدة هادئة قبل سنوات.",
+        "context": "تنقل الوصف إلى الماضي."
+      },
+      {
+        "id": 8,
+        "en": "I like this town because it is quiet.",
+        "ar": "أحب هذه البلدة لأنها هادئة.",
+        "context": "توضح سبب الإعجاب بالبلدة."
+      },
+      {
+        "id": 9,
+        "en": "This town is quiet, but it is not boring.",
+        "ar": "هذه البلدة هادئة، لكنها ليست مملة.",
+        "context": "توازن بين صفتين."
+      },
+      {
+        "id": 10,
+        "en": "If this town is quiet, we can sleep well.",
+        "ar": "إذا كانت هذه البلدة هادئة، يمكننا النوم جيدا.",
+        "context": "تذكر نتيجة الهدوء."
+      }
+    ]
+  }
+}

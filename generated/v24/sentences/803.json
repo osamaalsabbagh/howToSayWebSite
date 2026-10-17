@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": 803,
+  "sentence": {
+    "en": "Who is calling?",
+    "ar": "من يتصل؟",
+    "context": "الاستفسار عن هوية الشخص الذي يجري المكالمة."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Who is calling?",
+        "ar": "من يتصل؟",
+        "context": "سؤال عن هوية الشخص الذي يجري المكالمة الآن.",
+        "grammar": {
+          "tense": "المضارع المستمر",
+          "tenseEn": "Present Continuous",
+          "reason": "يستخدم المضارع المستمر لأن فعل الاتصال يحدث الآن، وWho تسأل عن الشخص الفاعل."
+        },
+        "wordMeanings": [
+          {
+            "term": "Who",
+            "description": "من؛ للسؤال عن الشخص"
+          },
+          {
+            "term": "is",
+            "description": "صيغة مساعدة مع المفرد في المضارع المستمر"
+          },
+          {
+            "term": "calling",
+            "description": "يتصل أو يجري مكالمة"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Who is speaking?",
+        "ar": "من يتحدث؟",
+        "context": "في مكالمة أو غرفة صوتية."
+      },
+      {
+        "id": 2,
+        "en": "Who is knocking?",
+        "ar": "من يطرق؟",
+        "context": "عند سماع طرق الباب."
+      },
+      {
+        "id": 3,
+        "en": "Who is waiting?",
+        "ar": "من ينتظر؟",
+        "context": "للسؤال عن شخص ينتظر الآن."
+      },
+      {
+        "id": 4,
+        "en": "Who is coming?",
+        "ar": "من سيأتي؟",
+        "context": "للسؤال عن الحضور."
+      },
+      {
+        "id": 5,
+        "en": "Who is calling me?",
+        "ar": "من يتصل بي؟",
+        "context": "عند رؤية مكالمة واردة."
+      },
+      {
+        "id": 6,
+        "en": "Who is calling the office?",
+        "ar": "من يتصل بالمكتب؟",
+        "context": "في مكان عمل."
+      },
+      {
+        "id": 7,
+        "en": "Who called yesterday?",
+        "ar": "من اتصل أمس؟",
+        "context": "للسؤال عن مكالمة ماضية."
+      },
+      {
+        "id": 8,
+        "en": "Who is texting you?",
+        "ar": "من يراسلك؟",
+        "context": "للسؤال عن رسالة حالية."
+      },
+      {
+        "id": 9,
+        "en": "Who is asking?",
+        "ar": "من يسأل؟",
+        "context": "للسؤال عن صاحب السؤال."
+      },
+      {
+        "id": 10,
+        "en": "Who is using the phone?",
+        "ar": "من يستخدم الهاتف؟",
+        "context": "للسؤال عن مستخدم الهاتف الآن."
+      }
+    ]
+  }
+}

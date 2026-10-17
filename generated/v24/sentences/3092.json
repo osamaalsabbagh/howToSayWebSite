@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "id": 3092,
+  "sentence": {
+    "en": "When did you arrive?",
+    "ar": "متى وصلت؟",
+    "context": "سؤال عن وقت في الماضي."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "When did you arrive?",
+        "ar": "متى وصلت؟",
+        "context": "تسأل الجملة عن وقت وصول حدث وانتهى في الماضي.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "استُخدم الماضي البسيط مع did لأن السؤال عن وقت وصول مكتمل في الماضي."
+        },
+        "wordMeanings": [
+          {
+            "term": "When",
+            "description": "متى؛ أداة سؤال عن الوقت."
+          },
+          {
+            "term": "did",
+            "description": "فعل مساعد يستخدم لتكوين سؤال في الماضي البسيط."
+          },
+          {
+            "term": "you",
+            "description": "أنت؛ الشخص المخاطب في السؤال."
+          },
+          {
+            "term": "arrive",
+            "description": "تصل؛ تصل إلى مكان بعد رحلة أو انتقال."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "When did you arrive?",
+        "ar": "متى وصلت؟",
+        "context": "تسأل عن وقت وصول شخص."
+      },
+      {
+        "id": 2,
+        "en": "When did they arrive?",
+        "ar": "متى وصلوا؟",
+        "context": "تسأل عن وقت وصول مجموعة."
+      },
+      {
+        "id": 3,
+        "en": "When did your flight arrive?",
+        "ar": "متى وصلت رحلتك؟",
+        "context": "تسأل عن وقت وصول رحلة طيران."
+      },
+      {
+        "id": 4,
+        "en": "I arrived at eight o'clock.",
+        "ar": "وصلت في الساعة الثامنة.",
+        "context": "تجيب بوقت محدد."
+      },
+      {
+        "id": 5,
+        "en": "She arrived late last night.",
+        "ar": "وصلت في وقت متأخر من الليلة الماضية.",
+        "context": "تصف وقت وصول في الماضي."
+      },
+      {
+        "id": 6,
+        "en": "Did you arrive before noon?",
+        "ar": "هل وصلت قبل الظهر؟",
+        "context": "تسأل بنعم أو لا عن وقت الوصول."
+      },
+      {
+        "id": 7,
+        "en": "Why did you arrive so early?",
+        "ar": "لماذا وصلت مبكرا جدا؟",
+        "context": "تسأل عن سبب الوصول المبكر."
+      },
+      {
+        "id": 8,
+        "en": "When will you arrive?",
+        "ar": "متى ستصل؟",
+        "context": "تسأل عن وقت وصول في المستقبل."
+      },
+      {
+        "id": 9,
+        "en": "Please call me when you arrive.",
+        "ar": "من فضلك اتصل بي عندما تصل.",
+        "context": "تربط الاتصال بوقت الوصول."
+      },
+      {
+        "id": 10,
+        "en": "I asked when you arrived.",
+        "ar": "سألت متى وصلت.",
+        "context": "تنقل السؤال بطريقة غير مباشرة."
+      }
+    ]
+  }
+}

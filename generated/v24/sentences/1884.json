@@ -1,0 +1,159 @@
+{
+  "schemaVersion": 1,
+  "id": 1884,
+  "sentence": {
+    "en": "What kind of music do you like? Do you have a favorite singer or band?",
+    "ar": "ما نوع الموسيقى التي تحبها؟ هل لديك مغنٍ أو فرقة مفضلة؟",
+    "context": "ابدأ بسؤال عن نوع الموسيقى المفضل ثم تابع بالسؤال عن المغني أو الفرقة المفضلة لتشجيع الحوار."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "What kind of music do you like?",
+        "ar": "ما نوع الموسيقى التي تحبها؟",
+        "context": "يسأل هذا الجزء عن نوع الموسيقى المفضل.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استخدم do لتكوين سؤال في المضارع البسيط عن تفضيل عام."
+        },
+        "wordMeanings": [
+          {
+            "term": "What",
+            "description": "ما، للسؤال عن الشيء أو النوع"
+          },
+          {
+            "term": "kind",
+            "description": "نوع"
+          },
+          {
+            "term": "of",
+            "description": "من، تربط النوع بالمجال"
+          },
+          {
+            "term": "music",
+            "description": "موسيقى"
+          },
+          {
+            "term": "do",
+            "description": "كلمة مساعدة لتكوين السؤال"
+          },
+          {
+            "term": "you",
+            "description": "أنت أو أنتِ، المخاطب"
+          },
+          {
+            "term": "like",
+            "description": "تحب أو تفضل"
+          }
+        ]
+      },
+      {
+        "sentence": "Do you have a favorite singer or band?",
+        "ar": "هل لديك مغنٍ أو فرقة مفضلة؟",
+        "context": "يتابع هذا الجزء بسؤال عن شخص أو مجموعة موسيقية مفضلة.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استخدم Do you have للسؤال عن امتلاك تفضيل أو اختيار عام."
+        },
+        "wordMeanings": [
+          {
+            "term": "Do",
+            "description": "كلمة مساعدة لتكوين السؤال"
+          },
+          {
+            "term": "you",
+            "description": "أنت أو أنتِ، المخاطب"
+          },
+          {
+            "term": "have",
+            "description": "لديك أو عندك"
+          },
+          {
+            "term": "a",
+            "description": "أداة لشيء واحد غير محدد"
+          },
+          {
+            "term": "favorite",
+            "description": "مفضل"
+          },
+          {
+            "term": "singer",
+            "description": "مغنٍ"
+          },
+          {
+            "term": "or",
+            "description": "أو، للاختيار بين شيئين"
+          },
+          {
+            "term": "band",
+            "description": "فرقة موسيقية"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "What kind of food do you like?",
+        "ar": "ما نوع الطعام الذي تحبه؟",
+        "context": "سؤال عن تفضيل الطعام."
+      },
+      {
+        "id": 2,
+        "en": "Do you have a favorite song?",
+        "ar": "هل لديك أغنية مفضلة؟",
+        "context": "يستخدم لمتابعة الحديث عن الموسيقى."
+      },
+      {
+        "id": 3,
+        "en": "What kind of movies do you watch?",
+        "ar": "ما نوع الأفلام التي تشاهدها؟",
+        "context": "سؤال عن تفضيل ترفيهي."
+      },
+      {
+        "id": 4,
+        "en": "Do you like pop music?",
+        "ar": "هل تحب موسيقى البوب؟",
+        "context": "سؤال عن نوع موسيقى محدد."
+      },
+      {
+        "id": 5,
+        "en": "Who is your favorite singer?",
+        "ar": "من مغنيك المفضل؟",
+        "context": "سؤال مباشر عن مغنٍ مفضل."
+      },
+      {
+        "id": 6,
+        "en": "I like quiet music.",
+        "ar": "أحب الموسيقى الهادئة.",
+        "context": "إجابة عن نوع مفضل."
+      },
+      {
+        "id": 7,
+        "en": "What band do you listen to?",
+        "ar": "إلى أي فرقة تستمع؟",
+        "context": "سؤال عن فرقة موسيقية."
+      },
+      {
+        "id": 8,
+        "en": "Do you have a favorite album?",
+        "ar": "هل لديك ألبوم مفضل؟",
+        "context": "متابعة في حوار موسيقي."
+      },
+      {
+        "id": 9,
+        "en": "What kind of books do you read?",
+        "ar": "ما نوع الكتب التي تقرؤها؟",
+        "context": "نمط مشابه عن القراءة."
+      },
+      {
+        "id": 10,
+        "en": "She likes this singer and that band.",
+        "ar": "هي تحب هذا المغني وتلك الفرقة.",
+        "context": "يستخدم عند ذكر أكثر من تفضيل."
+      }
+    ]
+  }
+}

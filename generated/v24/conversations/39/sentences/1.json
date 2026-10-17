@@ -1,0 +1,127 @@
+{
+  "schemaVersion": 1,
+  "id": 1,
+  "sentence": {
+    "en": "Hi there, do you sell cats here?",
+    "ar": "مرحبًا، هل تبيعون قططًا هنا؟",
+    "context": "يُلقي تحية ودّية خفيفة عند دخوله المتجر، ثم يسأل إذا كانوا يبيعون قططًا."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Hi there",
+        "ar": "مرحبًا.",
+        "context": "تحية ودية خفيفة عند دخول مكان.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه تحية ثابتة ولا تحمل زمنًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "Hi",
+            "description": "مرحبًا"
+          },
+          {
+            "term": "there",
+            "description": "تضيف ودية للتحية هنا"
+          }
+        ]
+      },
+      {
+        "sentence": "do you sell cats here",
+        "ar": "هل تبيعون قططًا هنا؟",
+        "context": "سؤال للبائع عن توفر شيء في المتجر.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "do you sell يستخدم للسؤال عن خدمة أو شيء يبيعه المتجر عادة."
+        },
+        "wordMeanings": [
+          {
+            "term": "do",
+            "description": "كلمة مساعدة للسؤال"
+          },
+          {
+            "term": "you",
+            "description": "أنتم أو أنت حسب المخاطب"
+          },
+          {
+            "term": "sell",
+            "description": "تبيعون"
+          },
+          {
+            "term": "cats",
+            "description": "قطط"
+          },
+          {
+            "term": "here",
+            "description": "هنا"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Hi there, do you sell coffee here",
+        "ar": "مرحبًا، هل تبيعون القهوة هنا؟",
+        "context": "يقال عند السؤال في متجر"
+      },
+      {
+        "id": 2,
+        "en": "Do you sell pet food here",
+        "ar": "هل تبيعون طعام الحيوانات الأليفة هنا؟",
+        "context": "يقال عند البحث عن منتج"
+      },
+      {
+        "id": 3,
+        "en": "Hi there, is this shop open",
+        "ar": "مرحبًا، هل هذا المتجر مفتوح؟",
+        "context": "يقال عند دخول متجر"
+      },
+      {
+        "id": 4,
+        "en": "Do you sell cards here",
+        "ar": "هل تبيعون بطاقات هنا؟",
+        "context": "يقال للسؤال عن سلعة"
+      },
+      {
+        "id": 5,
+        "en": "Do you sell dogs here",
+        "ar": "هل تبيعون كلابًا هنا؟",
+        "context": "يقال في متجر حيوانات عند السؤال عن نوع"
+      },
+      {
+        "id": 6,
+        "en": "Hi there, I need help",
+        "ar": "مرحبًا، أحتاج إلى مساعدة",
+        "context": "يقال لبدء الحديث مع موظف"
+      },
+      {
+        "id": 7,
+        "en": "Do you sell this breed",
+        "ar": "هل تبيعون هذه السلالة؟",
+        "context": "يقال عند البحث عن نوع محدد"
+      },
+      {
+        "id": 8,
+        "en": "Do you work here",
+        "ar": "هل تعمل هنا؟",
+        "context": "يقال للتأكد من أن الشخص موظف"
+      },
+      {
+        "id": 9,
+        "en": "Hi there, can I ask a question",
+        "ar": "مرحبًا، هل يمكنني أن أسأل سؤالًا؟",
+        "context": "يقال قبل طلب معلومات"
+      },
+      {
+        "id": 10,
+        "en": "Do you sell small cats",
+        "ar": "هل تبيعون قططًا صغيرة؟",
+        "context": "يقال عند السؤال عن عمر أو حجم الحيوان"
+      }
+    ]
+  }
+}

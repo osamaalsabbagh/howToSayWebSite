@@ -1,0 +1,135 @@
+{
+  "schemaVersion": 1,
+  "id": 3081,
+  "sentence": {
+    "en": "You are welcome, I am happy to help you.",
+    "ar": "أنت مرحب بك، أنا سعيد أن أساعدك.",
+    "context": "رد مهذب على الشكر مع التعبير عن شعور إيجابي تجاه تقديم المساعدة."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "You are welcome",
+        "ar": "على الرحب والسعة.",
+        "context": "هذا رد مهذب على الشكر.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه عبارة ثابتة للرد على الشكر، ولا تحتاج إلى تصنيف زمني مستقل."
+        },
+        "wordMeanings": [
+          {
+            "term": "You",
+            "description": "أنت أو أنتم؛ ضمير للمخاطب."
+          },
+          {
+            "term": "are",
+            "description": "تأتي هنا داخل عبارة ترحيب ثابتة."
+          },
+          {
+            "term": "welcome",
+            "description": "مرحب بك؛ تفيد القبول واللطف في الرد على الشكر."
+          }
+        ]
+      },
+      {
+        "sentence": "I am happy to help you.",
+        "ar": "أنا سعيد بمساعدتك.",
+        "context": "يوضح هذا الجزء أن المتكلم يشعر بالرضا لأنه قدم المساعدة.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُخدم المضارع البسيط لأن am يصف شعور المتكلم الحالي."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير يعني أنا، ويشير إلى المتكلم."
+          },
+          {
+            "term": "am",
+            "description": "صيغة تأتي مع ضمير المتكلم المفرد وتعني أكون."
+          },
+          {
+            "term": "happy",
+            "description": "سعيد؛ يشعر بالفرح أو الرضا."
+          },
+          {
+            "term": "to",
+            "description": "أن؛ تأتي قبل help لتوضيح سبب السعادة."
+          },
+          {
+            "term": "help",
+            "description": "أساعد؛ أقدم العون."
+          },
+          {
+            "term": "you",
+            "description": "أنت أو أنتم؛ الشخص الذي يتلقى المساعدة."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "You are welcome, I am happy to help you.",
+        "ar": "على الرحب والسعة، أنا سعيد بمساعدتك.",
+        "context": "تستخدم بعد أن يشكرك شخص على المساعدة."
+      },
+      {
+        "id": 2,
+        "en": "You are welcome, I am glad to help.",
+        "ar": "على الرحب والسعة، أنا مسرور بالمساعدة.",
+        "context": "رد مهذب مختصر بعد الشكر."
+      },
+      {
+        "id": 3,
+        "en": "You are welcome, we are happy to help you.",
+        "ar": "على الرحب والسعة، نحن سعداء بمساعدتك.",
+        "context": "تستخدم عندما يتحدث أكثر من شخص."
+      },
+      {
+        "id": 4,
+        "en": "You are welcome, but I cannot help you today.",
+        "ar": "على الرحب والسعة، لكن لا يمكنني مساعدتك اليوم.",
+        "context": "رد لطيف مع توضيح عدم القدرة على المساعدة."
+      },
+      {
+        "id": 5,
+        "en": "Are you happy to help me?",
+        "ar": "هل أنت سعيد بمساعدتي؟",
+        "context": "تسأل عن شعور شخص تجاه المساعدة."
+      },
+      {
+        "id": 6,
+        "en": "You were welcome, and I was happy to help you.",
+        "ar": "كنت مرحبا بك، وكنت سعيدا بمساعدتك.",
+        "context": "تنقل المعنى إلى الماضي."
+      },
+      {
+        "id": 7,
+        "en": "I will be happy to help you tomorrow.",
+        "ar": "سأكون سعيدا بمساعدتك غدا.",
+        "context": "تنقل الاستعداد للمساعدة إلى المستقبل."
+      },
+      {
+        "id": 8,
+        "en": "You are welcome, I am happy to help you with the form.",
+        "ar": "على الرحب والسعة، أنا سعيد بمساعدتك في الاستمارة.",
+        "context": "تحدد نوع المساعدة."
+      },
+      {
+        "id": 9,
+        "en": "You are welcome, I am happy to help you because you asked politely.",
+        "ar": "على الرحب والسعة، أنا سعيد بمساعدتك لأنك طلبت بأدب.",
+        "context": "توضح سبب الشعور الإيجابي."
+      },
+      {
+        "id": 10,
+        "en": "If you need more support, I am happy to help you.",
+        "ar": "إذا احتجت إلى دعم إضافي، فأنا سعيد بمساعدتك.",
+        "context": "تعرض الاستمرار في المساعدة عند الحاجة."
+      }
+    ]
+  }
+}

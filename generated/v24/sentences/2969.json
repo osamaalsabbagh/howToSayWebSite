@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": 2969,
+  "sentence": {
+    "en": "The room has twenty chairs.",
+    "ar": "الغرفة فيها عشرون كرسيًا.",
+    "context": "عدد أشياء داخل مكان."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "The room has twenty chairs.",
+        "ar": "الغرفة فيها عشرون كرسيا.",
+        "context": "تصف الجملة عدد الكراسي الموجودة في غرفة محددة.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُخدم المضارع البسيط لأن has يصف ما تحتويه الغرفة الآن أو عادة."
+        },
+        "wordMeanings": [
+          {
+            "term": "The",
+            "description": "أداة تعريف تشير إلى غرفة محددة."
+          },
+          {
+            "term": "room",
+            "description": "غرفة؛ مكان داخل مبنى."
+          },
+          {
+            "term": "has",
+            "description": "فيها أو تحتوي على؛ صيغة المضارع البسيط مع room."
+          },
+          {
+            "term": "twenty",
+            "description": "عشرون؛ العدد 20."
+          },
+          {
+            "term": "chairs",
+            "description": "كراس؛ جمع chair، وهي مقاعد للجلوس."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "The room has twenty chairs.",
+        "ar": "الغرفة فيها عشرون كرسيا.",
+        "context": "تذكر عدد الكراسي في غرفة."
+      },
+      {
+        "id": 2,
+        "en": "The room has ten chairs.",
+        "ar": "الغرفة فيها عشرة كراس.",
+        "context": "تغير عدد الكراسي."
+      },
+      {
+        "id": 3,
+        "en": "The hall has twenty chairs.",
+        "ar": "القاعة فيها عشرون كرسيا.",
+        "context": "تغير المكان."
+      },
+      {
+        "id": 4,
+        "en": "The room does not have twenty chairs.",
+        "ar": "الغرفة لا تحتوي على عشرين كرسيا.",
+        "context": "تنفي وجود هذا العدد."
+      },
+      {
+        "id": 5,
+        "en": "Does the room have twenty chairs?",
+        "ar": "هل الغرفة فيها عشرون كرسيا؟",
+        "context": "تسأل عن عدد الكراسي."
+      },
+      {
+        "id": 6,
+        "en": "The room had twenty chairs yesterday.",
+        "ar": "كانت الغرفة فيها عشرون كرسيا أمس.",
+        "context": "تنقل العدد إلى الماضي."
+      },
+      {
+        "id": 7,
+        "en": "The room needs twenty chairs.",
+        "ar": "الغرفة تحتاج إلى عشرين كرسيا.",
+        "context": "تصف العدد المطلوب لا الموجود."
+      },
+      {
+        "id": 8,
+        "en": "The room has twenty chairs for the meeting.",
+        "ar": "الغرفة فيها عشرون كرسيا للاجتماع.",
+        "context": "توضح الغرض من الكراسي."
+      },
+      {
+        "id": 9,
+        "en": "The room has twenty chairs, so everyone can sit.",
+        "ar": "الغرفة فيها عشرون كرسيا، لذلك يستطيع الجميع الجلوس.",
+        "context": "تذكر نتيجة توفر الكراسي."
+      },
+      {
+        "id": 10,
+        "en": "If the room has twenty chairs, it is big enough.",
+        "ar": "إذا كانت الغرفة فيها عشرون كرسيا، فهي كبيرة بما يكفي.",
+        "context": "تستخدم الجملة داخل شرط."
+      }
+    ]
+  }
+}

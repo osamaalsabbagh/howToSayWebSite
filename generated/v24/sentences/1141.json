@@ -1,0 +1,111 @@
+{
+  "schemaVersion": 1,
+  "id": 1141,
+  "sentence": {
+    "en": "When is the project's due date?",
+    "ar": "متى موعد استحقاق المشروع للتسليم؟",
+    "context": "تُستخدم للسؤال عن تاريخ تسليم مشروع دراسي أو عملي."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "When is the project's due date",
+        "ar": "متى موعد تسليم المشروع",
+        "context": "سؤال عن الموعد النهائي لمشروع.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُخدم المضارع البسيط للسؤال عن موعد مقرر."
+        },
+        "wordMeanings": [
+          {
+            "term": "When",
+            "description": "متى، للسؤال عن الوقت"
+          },
+          {
+            "term": "is",
+            "description": "تدل هنا على موعد"
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف"
+          },
+          {
+            "term": "project's",
+            "description": "خاص بالمشروع أو تابع له"
+          },
+          {
+            "term": "due",
+            "description": "مستحق التسليم"
+          },
+          {
+            "term": "date",
+            "description": "تاريخ أو موعد"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "When is the report due?",
+        "ar": "متى موعد تسليم التقرير؟",
+        "context": "تُستخدم للسؤال عن تقرير."
+      },
+      {
+        "id": 2,
+        "en": "What is the due date?",
+        "ar": "ما موعد التسليم؟",
+        "context": "تُستخدم لسؤال عام عن الموعد النهائي."
+      },
+      {
+        "id": 3,
+        "en": "When is the assignment due?",
+        "ar": "متى موعد تسليم الواجب؟",
+        "context": "تُقال في الدراسة."
+      },
+      {
+        "id": 4,
+        "en": "The project is due on Friday.",
+        "ar": "المشروع مستحق التسليم يوم الجمعة.",
+        "context": "تُستخدم للإجابة عن موعد مشروع."
+      },
+      {
+        "id": 5,
+        "en": "When is the final draft due?",
+        "ar": "متى موعد تسليم المسودة النهائية؟",
+        "context": "تُقال عن نسخة نهائية."
+      },
+      {
+        "id": 6,
+        "en": "Do we have a due date yet?",
+        "ar": "هل لدينا موعد تسليم بعد؟",
+        "context": "تُستخدم عند عدم تحديد الموعد."
+      },
+      {
+        "id": 7,
+        "en": "The due date is next week.",
+        "ar": "موعد التسليم الأسبوع المقبل.",
+        "context": "تُستخدم لتحديد إطار زمني."
+      },
+      {
+        "id": 8,
+        "en": "When should we submit the project?",
+        "ar": "متى يجب أن نسلم المشروع؟",
+        "context": "تُستخدم بصيغة أخرى للسؤال عن التسليم."
+      },
+      {
+        "id": 9,
+        "en": "Please check the project's deadline.",
+        "ar": "يرجى التحقق من الموعد النهائي للمشروع.",
+        "context": "تُستخدم عند طلب مراجعة الموعد."
+      },
+      {
+        "id": 10,
+        "en": "The project deadline is tomorrow.",
+        "ar": "الموعد النهائي للمشروع غدًا.",
+        "context": "تُقال عند اقتراب التسليم."
+      }
+    ]
+  }
+}

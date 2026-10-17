@@ -1,0 +1,111 @@
+{
+  "schemaVersion": 1,
+  "id": 3218,
+  "sentence": {
+    "en": "The changes have affected the system.",
+    "ar": "التغييرات أثرت على النظام.",
+    "context": "تأثير حدث وله نتيجة مستمرة."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "The changes have affected the system.",
+        "ar": "التغييرات أثرت على النظام.",
+        "context": "توضح الجملة أن تغييرات سابقة تركت أثرا ما زال واضحا في النظام.",
+        "grammar": {
+          "tense": "المضارع التام",
+          "tenseEn": "Present Perfect",
+          "reason": "استُخدم have affected لأن التركيز على نتيجة التغييرات حتى الآن لا على وقت حدوثها."
+        },
+        "wordMeanings": [
+          {
+            "term": "The",
+            "description": "أداة تعريف؛ تجعل changes تغييرات محددة."
+          },
+          {
+            "term": "changes",
+            "description": "تغييرات؛ تعديلات أو اختلافات عن الحالة السابقة."
+          },
+          {
+            "term": "have",
+            "description": "فعل مساعد مع الجمع في المضارع التام."
+          },
+          {
+            "term": "affected",
+            "description": "أثرت؛ التصريف الثالث من affect في هذه الجملة."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف؛ تجعل system نظاما محددا."
+          },
+          {
+            "term": "system",
+            "description": "نظام؛ مجموعة أجزاء أو قواعد تعمل معا."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "The changes have affected the system.",
+        "ar": "التغييرات أثرت على النظام.",
+        "context": "تصف أثرا مستمرا لتغييرات سابقة."
+      },
+      {
+        "id": 2,
+        "en": "The updates have affected the system.",
+        "ar": "التحديثات أثرت على النظام.",
+        "context": "تغير سبب التأثير إلى تحديثات."
+      },
+      {
+        "id": 3,
+        "en": "The changes have affected the team.",
+        "ar": "التغييرات أثرت على الفريق.",
+        "context": "تغير الشيء المتأثر."
+      },
+      {
+        "id": 4,
+        "en": "The changes have not affected the system.",
+        "ar": "التغييرات لم تؤثر على النظام.",
+        "context": "تنفي وجود أثر حتى الآن."
+      },
+      {
+        "id": 5,
+        "en": "Have the changes affected the system?",
+        "ar": "هل أثرت التغييرات على النظام؟",
+        "context": "تسأل عن نتيجة التغييرات."
+      },
+      {
+        "id": 6,
+        "en": "The changes affected the system last week.",
+        "ar": "أثرت التغييرات على النظام الأسبوع الماضي.",
+        "context": "تستخدم الماضي البسيط مع وقت محدد."
+      },
+      {
+        "id": 7,
+        "en": "The changes are affecting the system now.",
+        "ar": "التغييرات تؤثر على النظام الآن.",
+        "context": "تصف تأثيرا جاريا."
+      },
+      {
+        "id": 8,
+        "en": "The recent changes have affected the system.",
+        "ar": "التغييرات الأخيرة أثرت على النظام.",
+        "context": "تصف التغييرات بأنها حديثة."
+      },
+      {
+        "id": 9,
+        "en": "The changes have affected the system, so we need tests.",
+        "ar": "أثرت التغييرات على النظام، لذلك نحتاج إلى اختبارات.",
+        "context": "تذكر نتيجة عملية للتأثير."
+      },
+      {
+        "id": 10,
+        "en": "The changes have affected the system, but it still works.",
+        "ar": "أثرت التغييرات على النظام، لكنه ما زال يعمل.",
+        "context": "توضح أن الأثر لم يوقف النظام."
+      }
+    ]
+  }
+}

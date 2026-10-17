@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": 2882,
+  "sentence": {
+    "en": "This is the third time.",
+    "ar": "هذه هي المرة الثالثة.",
+    "context": "عدد مرات حدوث شيء."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "This is the third time.",
+        "ar": "هذه هي المرة الثالثة.",
+        "context": "تستخدم الجملة لقول إن شيئا حدث أو يحدث للمرة الثالثة.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُخدم المضارع البسيط مع is لتحديد رقم المرة الحالية."
+        },
+        "wordMeanings": [
+          {
+            "term": "This",
+            "description": "هذه؛ تشير إلى الحالة أو المحاولة الحالية."
+          },
+          {
+            "term": "is",
+            "description": "فعل يكون، وهنا يربط الحالة بترتيبها."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف تستخدم مع الترتيب المحدد."
+          },
+          {
+            "term": "third",
+            "description": "الثالثة؛ رقم الترتيب بعد الأولى والثانية."
+          },
+          {
+            "term": "time",
+            "description": "مرة؛ هنا لا تعني الوقت بل عدد مرات حدوث الشيء."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "This is the third time.",
+        "ar": "هذه هي المرة الثالثة.",
+        "context": "تصف تكرار شيء للمرة الثالثة."
+      },
+      {
+        "id": 2,
+        "en": "This is the first time.",
+        "ar": "هذه هي المرة الأولى.",
+        "context": "تصف حدوث شيء لأول مرة."
+      },
+      {
+        "id": 3,
+        "en": "This is the second time today.",
+        "ar": "هذه هي المرة الثانية اليوم.",
+        "context": "تحدد عدد مرات الحدوث اليوم."
+      },
+      {
+        "id": 4,
+        "en": "This is the third time I have called.",
+        "ar": "هذه هي المرة الثالثة التي أتصل فيها.",
+        "context": "توضح الفعل المتكرر."
+      },
+      {
+        "id": 5,
+        "en": "This is not the third time.",
+        "ar": "هذه ليست المرة الثالثة.",
+        "context": "تنفي رقم المرة."
+      },
+      {
+        "id": 6,
+        "en": "Is this the third time?",
+        "ar": "هل هذه هي المرة الثالثة؟",
+        "context": "تسأل عن عدد مرات الحدوث."
+      },
+      {
+        "id": 7,
+        "en": "This is the third time this week.",
+        "ar": "هذه هي المرة الثالثة هذا الأسبوع.",
+        "context": "تحدد الفترة الزمنية للتكرار."
+      },
+      {
+        "id": 8,
+        "en": "This is the third time we have met.",
+        "ar": "هذه هي المرة الثالثة التي نلتقي فيها.",
+        "context": "تصف عدد مرات اللقاء."
+      },
+      {
+        "id": 9,
+        "en": "This was the third time yesterday.",
+        "ar": "كانت هذه المرة الثالثة أمس.",
+        "context": "تصف التكرار في الماضي."
+      },
+      {
+        "id": 10,
+        "en": "This is the third time, so please be careful.",
+        "ar": "هذه هي المرة الثالثة، لذلك من فضلك كن حذرا.",
+        "context": "تربط التكرار بطلب الانتباه."
+      }
+    ]
+  }
+}

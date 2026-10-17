@@ -1,0 +1,119 @@
+{
+  "schemaVersion": 1,
+  "id": 6,
+  "sentence": {
+    "en": "Me and my friend went to the store.",
+    "ar": "أنا وصديقي ذهبنا إلى المتجر.",
+    "context": "مثال على خطأ شائع في ترتيب الضمائر."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Me and my friend went to the store.",
+        "ar": "أنا وصديقي ذهبنا إلى المتجر",
+        "context": "يعرض صيغة شائعة لكنها غير معيارية في ترتيب الضمائر.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "went فعل ماض يصف الذهاب إلى المتجر، مع أن بداية الجملة مقصودة كمثال على خطأ شائع."
+        },
+        "wordMeanings": [
+          {
+            "term": "Me",
+            "description": "أنا بصيغة مفعول بها لكنها مستخدمة هنا في موضع فاعل"
+          },
+          {
+            "term": "and",
+            "description": "و"
+          },
+          {
+            "term": "my",
+            "description": "الخاص بي"
+          },
+          {
+            "term": "friend",
+            "description": "صديق"
+          },
+          {
+            "term": "went",
+            "description": "ذهب"
+          },
+          {
+            "term": "to",
+            "description": "إلى"
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف للمتجر المقصود"
+          },
+          {
+            "term": "store",
+            "description": "متجر"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Even careful speakers make mistakes.",
+        "ar": "حتى المتحدثون الحذرون يرتكبون أخطاء.",
+        "context": "يقال لتخفيف الخوف من الخطأ."
+      },
+      {
+        "id": 2,
+        "en": "People use this phrase every single day.",
+        "ar": "يستخدم الناس هذه العبارة كل يوم بلا استثناء.",
+        "context": "تأكيد على تكرار الاستعمال."
+      },
+      {
+        "id": 3,
+        "en": "Guess what happened after the meeting.",
+        "ar": "احزر ماذا حدث بعد الاجتماع.",
+        "context": "عبارة لجذب انتباه المستمع."
+      },
+      {
+        "id": 4,
+        "en": "Some habits are so common they feel normal.",
+        "ar": "بعض العادات شائعة جدًا حتى تبدو طبيعية.",
+        "context": "شرح أثر التكرار."
+      },
+      {
+        "id": 5,
+        "en": "Listen when people say a sentence quickly.",
+        "ar": "استمع عندما يقول الناس جملة بسرعة.",
+        "context": "توجيه لملاحظة الكلام الطبيعي."
+      },
+      {
+        "id": 6,
+        "en": "My friend and I went to the market.",
+        "ar": "ذهبت أنا وصديقي إلى السوق.",
+        "context": "مثال على ترتيب صحيح للضمائر."
+      },
+      {
+        "id": 7,
+        "en": "That answer is wrong.",
+        "ar": "تلك الإجابة خطأ.",
+        "context": "تصحيح مباشر لشيء غير صحيح."
+      },
+      {
+        "id": 8,
+        "en": "It should be simple and clear.",
+        "ar": "يجب أن يكون بسيطًا وواضحًا.",
+        "context": "بيان الصيغة المناسبة."
+      },
+      {
+        "id": 9,
+        "en": "Native speakers often sound natural.",
+        "ar": "غالبًا يبدو المتحدثون الأصليون طبيعيين.",
+        "context": "وصف عادة عامة في الكلام."
+      },
+      {
+        "id": 10,
+        "en": "A common mistake can sound normal.",
+        "ar": "يمكن لخطأ شائع أن يبدو طبيعيًا.",
+        "context": "شرح كيف يؤثر الانتشار على الإحساس باللغة."
+      }
+    ]
+  }
+}

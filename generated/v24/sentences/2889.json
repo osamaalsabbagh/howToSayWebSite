@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "id": 2889,
+  "sentence": {
+    "en": "This book is new.",
+    "ar": "هذا الكتاب جديد.",
+    "context": "الإشارة إلى شيء قريب."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "This book is new.",
+        "ar": "هذا الكتاب جديد.",
+        "context": "تصف الجملة كتابا قريبا أو محددا بأنه جديد.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُخدم المضارع البسيط مع is لوصف صفة حالية للكتاب."
+        },
+        "wordMeanings": [
+          {
+            "term": "This",
+            "description": "هذا؛ اسم إشارة لشيء قريب أو محدد."
+          },
+          {
+            "term": "book",
+            "description": "كتاب؛ شيء يُقرأ ويحتوي على صفحات."
+          },
+          {
+            "term": "is",
+            "description": "فعل يكون، وهنا يربط الكتاب بصفته."
+          },
+          {
+            "term": "new",
+            "description": "جديد؛ لم يُستخدم كثيرا أو صدر حديثا."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "This book is new.",
+        "ar": "هذا الكتاب جديد.",
+        "context": "تصف كتابا جديدا."
+      },
+      {
+        "id": 2,
+        "en": "That book is old.",
+        "ar": "ذلك الكتاب قديم.",
+        "context": "تصف كتابا آخر بصفة معاكسة."
+      },
+      {
+        "id": 3,
+        "en": "This book is mine.",
+        "ar": "هذا الكتاب لي.",
+        "context": "تصف ملكية الكتاب."
+      },
+      {
+        "id": 4,
+        "en": "This book is not new.",
+        "ar": "هذا الكتاب ليس جديدا.",
+        "context": "تنفي صفة الجدة."
+      },
+      {
+        "id": 5,
+        "en": "Is this book new?",
+        "ar": "هل هذا الكتاب جديد؟",
+        "context": "تسأل عن صفة الكتاب."
+      },
+      {
+        "id": 6,
+        "en": "This new book is interesting.",
+        "ar": "هذا الكتاب الجديد ممتع.",
+        "context": "تضيف صفة أخرى للكتاب."
+      },
+      {
+        "id": 7,
+        "en": "The teacher gave me this new book.",
+        "ar": "أعطاني المعلم هذا الكتاب الجديد.",
+        "context": "تصف كيف حصل المتكلم على الكتاب."
+      },
+      {
+        "id": 8,
+        "en": "This book looks new.",
+        "ar": "يبدو هذا الكتاب جديدا.",
+        "context": "تصف مظهر الكتاب."
+      },
+      {
+        "id": 9,
+        "en": "I bought this book yesterday.",
+        "ar": "اشتريت هذا الكتاب أمس.",
+        "context": "تصف شراء الكتاب حديثا."
+      },
+      {
+        "id": 10,
+        "en": "This book is new, so keep it clean.",
+        "ar": "هذا الكتاب جديد، لذلك أبقه نظيفا.",
+        "context": "تربط صفة الكتاب بطلب العناية به."
+      }
+    ]
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "id": 2911,
+  "sentence": {
+    "en": "I am busy today.",
+    "ar": "أنا مشغول اليوم.",
+    "context": "الإشارة إلى هذا اليوم تحديدًا."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "I am busy today.",
+        "ar": "أنا مشغول اليوم.",
+        "context": "تستخدم الجملة لتقول إن لديك أعمالا أو التزامات خلال هذا اليوم.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُخدم am لوصف حالة المتكلم الحالية في هذا اليوم."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير يعني أنا، ويشير إلى المتكلم."
+          },
+          {
+            "term": "am",
+            "description": "فعل يكون مع I في المضارع، ويستخدم هنا لوصف الحالة."
+          },
+          {
+            "term": "busy",
+            "description": "مشغول؛ لديه أعمال أو التزامات ولا يملك وقتا كافيا."
+          },
+          {
+            "term": "today",
+            "description": "اليوم؛ هذا اليوم الحالي وليس أمس أو غدا."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I am busy today.",
+        "ar": "أنا مشغول اليوم.",
+        "context": "توضح انشغالك في هذا اليوم."
+      },
+      {
+        "id": 2,
+        "en": "She is busy today.",
+        "ar": "هي مشغولة اليوم.",
+        "context": "تصف انشغال شخص آخر."
+      },
+      {
+        "id": 3,
+        "en": "I am free today.",
+        "ar": "أنا متفرغ اليوم.",
+        "context": "تعطي المعنى المعاكس لكلمة busy."
+      },
+      {
+        "id": 4,
+        "en": "I am very busy today.",
+        "ar": "أنا مشغول جدا اليوم.",
+        "context": "تقوي معنى الانشغال."
+      },
+      {
+        "id": 5,
+        "en": "I am not busy today.",
+        "ar": "أنا لست مشغولا اليوم.",
+        "context": "تنفي الانشغال اليوم."
+      },
+      {
+        "id": 6,
+        "en": "Are you busy today?",
+        "ar": "هل أنت مشغول اليوم؟",
+        "context": "تسأل عن توفر شخص اليوم."
+      },
+      {
+        "id": 7,
+        "en": "I was busy yesterday.",
+        "ar": "كنت مشغولا أمس.",
+        "context": "تنقل الانشغال إلى الماضي."
+      },
+      {
+        "id": 8,
+        "en": "I will be busy tomorrow.",
+        "ar": "سأكون مشغولا غدا.",
+        "context": "تنقل الانشغال إلى المستقبل."
+      },
+      {
+        "id": 9,
+        "en": "I am busy today because I have meetings.",
+        "ar": "أنا مشغول اليوم لأن لدي اجتماعات.",
+        "context": "توضح سبب الانشغال."
+      },
+      {
+        "id": 10,
+        "en": "If I am busy today, call me tomorrow.",
+        "ar": "إذا كنت مشغولا اليوم، فاتصل بي غدا.",
+        "context": "تستخدم الجملة داخل شرط."
+      }
+    ]
+  }
+}

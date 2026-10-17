@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": 3015,
+  "sentence": {
+    "en": "She visited the museum yesterday.",
+    "ar": "هي زارت المتحف أمس.",
+    "context": "زيارة مكان في الماضي."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "She visited the museum yesterday.",
+        "ar": "زارت المتحف أمس.",
+        "context": "تصف الجملة زيارة امرأة أو فتاة لمتحف محدد في اليوم السابق.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "استُخدم الماضي البسيط لأن visited يدل على زيارة حدثت في وقت ماض محدد بكلمة yesterday."
+        },
+        "wordMeanings": [
+          {
+            "term": "She",
+            "description": "ضمير يعني هي، ويشير إلى امرأة أو فتاة."
+          },
+          {
+            "term": "visited",
+            "description": "زارت؛ التصريف الماضي من visit."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف تشير إلى متحف محدد."
+          },
+          {
+            "term": "museum",
+            "description": "متحف؛ مكان تُعرض فيه آثار أو أعمال فنية أو أشياء تعليمية."
+          },
+          {
+            "term": "yesterday",
+            "description": "أمس؛ اليوم السابق لليوم الحالي."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "She visited the museum yesterday.",
+        "ar": "زارت المتحف أمس.",
+        "context": "تذكر زيارة متحف حدثت أمس."
+      },
+      {
+        "id": 2,
+        "en": "He visited the museum yesterday.",
+        "ar": "زار المتحف أمس.",
+        "context": "تستخدم الجملة مع رجل أو ولد."
+      },
+      {
+        "id": 3,
+        "en": "She visited the library yesterday.",
+        "ar": "زارت المكتبة أمس.",
+        "context": "تغير المكان المزور."
+      },
+      {
+        "id": 4,
+        "en": "She did not visit the museum yesterday.",
+        "ar": "لم تزر المتحف أمس.",
+        "context": "تنفي حدوث الزيارة أمس."
+      },
+      {
+        "id": 5,
+        "en": "Did she visit the museum yesterday?",
+        "ar": "هل زارت المتحف أمس؟",
+        "context": "تسأل عن الزيارة."
+      },
+      {
+        "id": 6,
+        "en": "She visits the museum every month.",
+        "ar": "تزور المتحف كل شهر.",
+        "context": "تحول الزيارة إلى عادة."
+      },
+      {
+        "id": 7,
+        "en": "She will visit the museum tomorrow.",
+        "ar": "ستزور المتحف غدا.",
+        "context": "تنقل الزيارة إلى المستقبل."
+      },
+      {
+        "id": 8,
+        "en": "She visited the museum yesterday with her class.",
+        "ar": "زارت المتحف أمس مع صفها.",
+        "context": "توضح من رافقها في الزيارة."
+      },
+      {
+        "id": 9,
+        "en": "She visited the museum yesterday to see old paintings.",
+        "ar": "زارت المتحف أمس لترى لوحات قديمة.",
+        "context": "توضح سبب الزيارة."
+      },
+      {
+        "id": 10,
+        "en": "After she visited the museum yesterday, she told us about it.",
+        "ar": "بعد أن زارت المتحف أمس، أخبرتنا عنه.",
+        "context": "تربط الزيارة بحدث لاحق."
+      }
+    ]
+  }
+}

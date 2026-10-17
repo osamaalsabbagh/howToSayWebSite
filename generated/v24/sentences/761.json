@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "id": 761,
+  "sentence": {
+    "en": "Is it cold outside?",
+    "ar": "هل الجو بارد في الخارج؟",
+    "context": "السؤال عن حالة الطقس بالخارج."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Is it cold outside?",
+        "ar": "هل الجو بارد في الخارج؟",
+        "context": "سؤال عن درجة البرودة خارج المكان.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "الفعل is يصف حالة الطقس الحالية، وit يستخدم كفاعل للحديث عن الجو."
+        },
+        "wordMeanings": [
+          {
+            "term": "Is",
+            "description": "هل يكون أو هل الحالة الآن"
+          },
+          {
+            "term": "it",
+            "description": "تستخدم هنا للحديث عن الجو"
+          },
+          {
+            "term": "cold",
+            "description": "بارد"
+          },
+          {
+            "term": "outside",
+            "description": "في الخارج"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Is it warm outside?",
+        "ar": "هل الجو دافئ في الخارج؟",
+        "context": "للسؤال عن الدفء."
+      },
+      {
+        "id": 2,
+        "en": "Is it windy outside?",
+        "ar": "هل الجو عاصف في الخارج؟",
+        "context": "للسؤال عن الرياح."
+      },
+      {
+        "id": 3,
+        "en": "Is it sunny outside?",
+        "ar": "هل الجو مشمس في الخارج؟",
+        "context": "للسؤال عن الشمس."
+      },
+      {
+        "id": 4,
+        "en": "Is it dark outside?",
+        "ar": "هل الظلام في الخارج؟",
+        "context": "للسؤال عن الإضاءة خارجا."
+      },
+      {
+        "id": 5,
+        "en": "Is the room cold?",
+        "ar": "هل الغرفة باردة؟",
+        "context": "للسؤال عن حرارة غرفة."
+      },
+      {
+        "id": 6,
+        "en": "Is it cold in the car?",
+        "ar": "هل الجو بارد في السيارة؟",
+        "context": "للسؤال عن حرارة داخل سيارة."
+      },
+      {
+        "id": 7,
+        "en": "Is it cold today?",
+        "ar": "هل الجو بارد اليوم؟",
+        "context": "للسؤال عن طقس اليوم."
+      },
+      {
+        "id": 8,
+        "en": "Is it cold at night?",
+        "ar": "هل الجو بارد في الليل؟",
+        "context": "للسؤال عن الطقس ليلا."
+      },
+      {
+        "id": 9,
+        "en": "Is it cold there?",
+        "ar": "هل الجو بارد هناك؟",
+        "context": "للسؤال عن طقس مكان آخر."
+      },
+      {
+        "id": 10,
+        "en": "Is it cold in winter?",
+        "ar": "هل الجو بارد في الشتاء؟",
+        "context": "للسؤال عن طقس موسم."
+      }
+    ]
+  }
+}

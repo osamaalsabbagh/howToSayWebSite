@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "id": 12,
+  "sentence": {
+    "en": "True. Even his blond hair has turned darker from the rain.",
+    "ar": "صحيح. حتى شعره الأشقر أصبح أغمق من المطر.",
+    "context": "يعلق على تغير لون شعر الرجل الأشقر بفعل البلل."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "True.",
+        "ar": "صحيح.",
+        "context": "تؤكد الموافقة على الملاحظة السابقة.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "كلمة تأكيد قصيرة بلا فعل."
+        },
+        "wordMeanings": [
+          {
+            "term": "True",
+            "description": "صحيح"
+          }
+        ]
+      },
+      {
+        "sentence": "Even his blond hair has turned darker from the rain.",
+        "ar": "حتى شعره الأشقر أصبح أغمق بسبب المطر.",
+        "context": "تصف تغير لون الشعر بسبب البلل.",
+        "grammar": {
+          "tense": "المضارع التام",
+          "tenseEn": "Present Perfect",
+          "reason": "has turned يصف تغيرًا حدث وله نتيجة واضحة الآن."
+        },
+        "wordMeanings": [
+          {
+            "term": "Even",
+            "description": "حتى، للتأكيد على شيء ملفت"
+          },
+          {
+            "term": "his",
+            "description": "خاص به"
+          },
+          {
+            "term": "blond",
+            "description": "أشقر اللون"
+          },
+          {
+            "term": "hair",
+            "description": "شعر"
+          },
+          {
+            "term": "has",
+            "description": "تساعد على تكوين المضارع التام"
+          },
+          {
+            "term": "turned",
+            "description": "أصبح أو تحول"
+          },
+          {
+            "term": "darker",
+            "description": "أغمق لونًا"
+          },
+          {
+            "term": "from",
+            "description": "بسبب أو من أثر"
+          },
+          {
+            "term": "the",
+            "description": "تحدد المطر الحالي"
+          },
+          {
+            "term": "rain",
+            "description": "المطر"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "True. His coat is wet from the rain.",
+        "ar": "صحيح. معطفه مبتل من المطر.",
+        "context": "تقال عند ملاحظة أثر المطر."
+      },
+      {
+        "id": 2,
+        "en": "Her hair has turned darker from the water.",
+        "ar": "أصبح شعرها أغمق من الماء.",
+        "context": "تقال عند وصف البلل."
+      },
+      {
+        "id": 3,
+        "en": "Even his shoes are wet.",
+        "ar": "حتى حذاؤه مبتل.",
+        "context": "تقال عند التأكيد على شدة المطر."
+      },
+      {
+        "id": 4,
+        "en": "The sky has turned darker.",
+        "ar": "أصبحت السماء أغمق.",
+        "context": "تقال عند تغير الطقس."
+      },
+      {
+        "id": 5,
+        "en": "True, the rain is heavy.",
+        "ar": "صحيح، المطر غزير.",
+        "context": "تقال للموافقة على وصف الطقس."
+      },
+      {
+        "id": 6,
+        "en": "His blond hair looks wet.",
+        "ar": "شعره الأشقر يبدو مبتلًا.",
+        "context": "تقال عند وصف مظهر شخص."
+      },
+      {
+        "id": 7,
+        "en": "The street has turned darker from the rain.",
+        "ar": "أصبح الشارع أغمق بسبب المطر.",
+        "context": "تقال عند وصف شارع مبلل."
+      },
+      {
+        "id": 8,
+        "en": "Even the bridge is hard to see.",
+        "ar": "حتى الجسر يصعب رؤيته.",
+        "context": "تقال عند سوء الرؤية."
+      },
+      {
+        "id": 9,
+        "en": "The rain has made his hair wet.",
+        "ar": "جعل المطر شعره مبتلًا.",
+        "context": "تقال عن أثر المطر المباشر."
+      },
+      {
+        "id": 10,
+        "en": "True, he does not seem worried.",
+        "ar": "صحيح، لا يبدو قلقًا.",
+        "context": "تقال عند تأكيد ملاحظة عن شخص."
+      }
+    ]
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "schemaVersion": 1,
+  "id": 7322,
+  "sentence": {
+    "en": "Please inform us if you change your address.",
+    "ar": "من فضلك أبلغنا إذا أنت غيرت عنوانك.",
+    "context": "طلب إبلاغ رسمي عند تغير العنوان، دون تحديد الجهة المتلقية.",
+    "sourceWord": "inform",
+    "sourcePos": "v."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Please inform us",
+        "ar": "من فضلك أبلغنا",
+        "context": "طلب نقل معلومة بصياغة رسمية مهذبة.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "صيغة الأمر المهذبة. الفعل يعني يخبر رسميًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "Please",
+            "description": "من فضلك."
+          },
+          {
+            "term": "inform",
+            "description": "أبلغ."
+          },
+          {
+            "term": "us",
+            "description": "نا؛ ضمير المفعول للمتكلمين."
+          }
+        ]
+      },
+      {
+        "sentence": "if you change your address.",
+        "ar": "إذا أنت غيرت عنوانك.",
+        "context": "ربط طلب الإبلاغ باحتمال تغير عنوان المخاطب.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "المضارع البسيط بعد if يعبر عن شرط ممكن."
+        },
+        "wordMeanings": [
+          {
+            "term": "if",
+            "description": "إذا."
+          },
+          {
+            "term": "you",
+            "description": "أنت."
+          },
+          {
+            "term": "change",
+            "description": "غيرت."
+          },
+          {
+            "term": "your",
+            "description": "ضمير ملكية للمخاطب."
+          },
+          {
+            "term": "address",
+            "description": "عنوانك."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Please inform us if you change your address.",
+        "ar": "من فضلك أبلغنا إذا أنت غيرت عنوانك.",
+        "context": "طلب إبلاغ رسمي عند تغير العنوان، دون تحديد الجهة المتلقية."
+      },
+      {
+        "id": 2,
+        "en": "The airline informed us that the flight was canceled.",
+        "ar": "شركة الطيران أبلغتنا أن الرحلة أُلغيت.",
+        "context": "وصف إخطار سابق من شركة طيران بإلغاء رحلة دون تعيين وسيلة الإخطار."
+      },
+      {
+        "id": 3,
+        "en": "Research informs the design of our courses.",
+        "ar": "البحث يوجه تصميم دوراتنا.",
+        "context": "استعمال المعرفة أساسًا لتطوير محتوى، لا مجرد إرسال خبر لشخص."
+      },
+      {
+        "id": 4,
+        "en": "She informed the committee of her decision.",
+        "ar": "هي أبلغت اللجنة بقرارها.",
+        "context": "وصف نقل سابق لقرار إلى جهة رسمية."
+      },
+      {
+        "id": 5,
+        "en": "We have informed all applicants of the result.",
+        "ar": "نحن قد أبلغنا جميع المتقدمين بالنتيجة.",
+        "context": "تأكيد إتمام إخطار مجموعة بشأن طلباتهم."
+      },
+      {
+        "id": 6,
+        "en": "The guide is informing visitors about the safety rules.",
+        "ar": "الدليل يبلغ الزوار بقواعد السلامة.",
+        "context": "وصف شرح جارٍ لمعلومات لازمة للزوار."
+      },
+      {
+        "id": 7,
+        "en": "The school will inform parents of any changes.",
+        "ar": "المدرسة ستبلغ أولياء الأمور بأي تغييرات.",
+        "context": "إعلان نية إخطار المسؤولين عن الطلاب بالتعديلات."
+      },
+      {
+        "id": 8,
+        "en": "Please keep me informed about the repairs.",
+        "ar": "من فضلك أبقني على اطلاع بشأن الإصلاحات.",
+        "context": "طلب استمرار وصول المستجدات عن عمل."
+      },
+      {
+        "id": 9,
+        "en": "Local experience informed their approach to the problem.",
+        "ar": "الخبرة المحلية وجهت نهجهم في التعامل مع المشكلة.",
+        "context": "وصف أثر سابق للخبرة في طريقة معالجة أمر."
+      },
+      {
+        "id": 10,
+        "en": "The sign informs drivers of the road closure.",
+        "ar": "اللافتة تبلغ السائقين بإغلاق الطريق.",
+        "context": "وصف وظيفة رسالة عامة بجانب طريق."
+      }
+    ]
+  }
+}

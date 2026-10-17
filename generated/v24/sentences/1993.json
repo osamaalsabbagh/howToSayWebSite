@@ -1,0 +1,119 @@
+{
+  "schemaVersion": 1,
+  "id": 1993,
+  "sentence": {
+    "en": "Can you explain the meaning of this sentence?",
+    "ar": "هل يمكنك شرح المعنى الخاص بهذه الجملة؟",
+    "context": "اطلب من شخص أن يوضح لك ماذا تعني جملة معينة تقوم بالإشارة إليها."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Can you explain the meaning of this sentence?",
+        "ar": "هل يمكنك شرح معنى هذه الجملة؟",
+        "context": "تُستخدم الجملة لطلب توضيح معنى جملة معينة.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه بنية طلب مهذب باستخدام Can للسؤال عن القدرة أو الاستعداد للمساعدة، وليست زمنًا مستقلًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "Can",
+            "description": "هل يمكنك أو هل تستطيع"
+          },
+          {
+            "term": "you",
+            "description": "أنت أو أنتم حسب المخاطب"
+          },
+          {
+            "term": "explain",
+            "description": "تشرح أو توضح"
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف لمعنى محدد"
+          },
+          {
+            "term": "meaning",
+            "description": "معنى"
+          },
+          {
+            "term": "of",
+            "description": "لـ أو الخاص بـ"
+          },
+          {
+            "term": "this",
+            "description": "هذه، لشيء قريب أو محدد"
+          },
+          {
+            "term": "sentence",
+            "description": "جملة"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Can you explain this word?",
+        "ar": "هل يمكنك شرح هذه الكلمة؟",
+        "context": "تقال عند طلب معنى كلمة."
+      },
+      {
+        "id": 2,
+        "en": "Can you explain the rule?",
+        "ar": "هل يمكنك شرح القاعدة؟",
+        "context": "تقال عند طلب توضيح قاعدة."
+      },
+      {
+        "id": 3,
+        "en": "What does this sentence mean?",
+        "ar": "ماذا تعني هذه الجملة؟",
+        "context": "تقال للسؤال المباشر عن المعنى."
+      },
+      {
+        "id": 4,
+        "en": "Please explain the meaning.",
+        "ar": "رجاءً اشرح المعنى.",
+        "context": "تقال كطلب مباشر ومهذب."
+      },
+      {
+        "id": 5,
+        "en": "Can she explain the answer?",
+        "ar": "هل يمكنها شرح الإجابة؟",
+        "context": "تقال للسؤال عن قدرة شخص آخر."
+      },
+      {
+        "id": 6,
+        "en": "I can explain this sentence.",
+        "ar": "يمكنني شرح هذه الجملة.",
+        "context": "تقال عند عرض المساعدة."
+      },
+      {
+        "id": 7,
+        "en": "The teacher explained the meaning.",
+        "ar": "المعلم شرح المعنى.",
+        "context": "تقال عند ذكر شرح حدث سابقًا."
+      },
+      {
+        "id": 8,
+        "en": "Can you translate this sentence?",
+        "ar": "هل يمكنك ترجمة هذه الجملة؟",
+        "context": "تقال عند طلب ترجمة."
+      },
+      {
+        "id": 9,
+        "en": "This sentence is hard to understand.",
+        "ar": "هذه الجملة صعبة الفهم.",
+        "context": "تقال عند صعوبة معنى جملة."
+      },
+      {
+        "id": 10,
+        "en": "Can you give me an example?",
+        "ar": "هل يمكنك إعطائي مثالًا؟",
+        "context": "تقال عند طلب توضيح بمثال."
+      }
+    ]
+  }
+}

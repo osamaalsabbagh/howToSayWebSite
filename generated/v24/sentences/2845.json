@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": 2845,
+  "sentence": {
+    "en": "She tested the new feature.",
+    "ar": "هي اختبرت الميزة الجديدة.",
+    "context": "فعل تم في الماضي للتحقق من شيء."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "She tested the new feature.",
+        "ar": "هي اختبرت الميزة الجديدة.",
+        "context": "تصف الجملة أنها جرّبت ميزة جديدة للتحقق من عملها في الماضي.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "استُخدم الماضي البسيط لأن tested يدل على فعل اختبار مكتمل في الماضي."
+        },
+        "wordMeanings": [
+          {
+            "term": "She",
+            "description": "ضمير يعني هي، ويشير إلى امرأة أو فتاة."
+          },
+          {
+            "term": "tested",
+            "description": "اختبرت أو جرّبت؛ التصريف الماضي من test."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف تشير إلى ميزة محددة."
+          },
+          {
+            "term": "new",
+            "description": "جديد؛ لم يكن موجودا أو مستخدما من قبل."
+          },
+          {
+            "term": "feature",
+            "description": "ميزة؛ خاصية أو وظيفة في منتج أو برنامج."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "She tested the new feature.",
+        "ar": "هي اختبرت الميزة الجديدة.",
+        "context": "تصف اختبار خاصية جديدة في الماضي."
+      },
+      {
+        "id": 2,
+        "en": "He tested the new app.",
+        "ar": "هو اختبر التطبيق الجديد.",
+        "context": "تصف اختبار منتج رقمي."
+      },
+      {
+        "id": 3,
+        "en": "We tested the feature yesterday.",
+        "ar": "اختبرنا الميزة أمس.",
+        "context": "تحدد وقت الاختبار."
+      },
+      {
+        "id": 4,
+        "en": "The team tested the new feature carefully.",
+        "ar": "اختبر الفريق الميزة الجديدة بعناية.",
+        "context": "تصف طريقة الاختبار."
+      },
+      {
+        "id": 5,
+        "en": "She tested the feature on her phone.",
+        "ar": "هي اختبرت الميزة على هاتفها.",
+        "context": "تحدد الجهاز المستخدم."
+      },
+      {
+        "id": 6,
+        "en": "She did not test the old feature.",
+        "ar": "هي لم تختبر الميزة القديمة.",
+        "context": "تنفي اختبار ميزة أخرى."
+      },
+      {
+        "id": 7,
+        "en": "Did she test the new feature?",
+        "ar": "هل اختبرت الميزة الجديدة؟",
+        "context": "تسأل عن حدوث الاختبار."
+      },
+      {
+        "id": 8,
+        "en": "She tested the new feature before release.",
+        "ar": "هي اختبرت الميزة الجديدة قبل الإصدار.",
+        "context": "تصف اختبارا قبل الإطلاق."
+      },
+      {
+        "id": 9,
+        "en": "The developer tested the new feature twice.",
+        "ar": "اختبر المطور الميزة الجديدة مرتين.",
+        "context": "تذكر عدد مرات الاختبار."
+      },
+      {
+        "id": 10,
+        "en": "She tested the new feature and found a bug.",
+        "ar": "هي اختبرت الميزة الجديدة ووجدت خطأ.",
+        "context": "تصف نتيجة الاختبار."
+      }
+    ]
+  }
+}

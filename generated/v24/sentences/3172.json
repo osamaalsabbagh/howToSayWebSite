@@ -1,0 +1,111 @@
+{
+  "schemaVersion": 1,
+  "id": 3172,
+  "sentence": {
+    "en": "Did you fix the problem yourself?",
+    "ar": "هل أصلحت المشكلة بنفسك؟",
+    "context": "السؤال عن القيام بالفعل دون مساعدة من الآخرين."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Did you fix the problem yourself?",
+        "ar": "هل أصلحت المشكلة بنفسك؟",
+        "context": "تسأل الجملة عما إذا كان الشخص أصلح المشكلة في الماضي من دون مساعدة.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "استُخدم did لتكوين سؤال في الماضي البسيط عن فعل مكتمل وهو fix."
+        },
+        "wordMeanings": [
+          {
+            "term": "Did",
+            "description": "فعل مساعد يستخدم لتكوين سؤال في الماضي البسيط."
+          },
+          {
+            "term": "you",
+            "description": "أنت؛ الشخص المخاطب."
+          },
+          {
+            "term": "fix",
+            "description": "تصلح؛ تعالج خللا أو مشكلة."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف قبل problem لأنها مشكلة محددة."
+          },
+          {
+            "term": "problem",
+            "description": "مشكلة؛ خلل أو أمر صعب يحتاج إلى حل."
+          },
+          {
+            "term": "yourself",
+            "description": "بنفسك؛ من دون مساعدة من الآخرين."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Did you fix the problem yourself?",
+        "ar": "هل أصلحت المشكلة بنفسك؟",
+        "context": "تسأل عن إصلاح مستقل في الماضي."
+      },
+      {
+        "id": 2,
+        "en": "Did she fix the problem herself?",
+        "ar": "هل أصلحت المشكلة بنفسها؟",
+        "context": "تسأل عن امرأة أو فتاة."
+      },
+      {
+        "id": 3,
+        "en": "Did you solve the problem yourself?",
+        "ar": "هل حللت المشكلة بنفسك؟",
+        "context": "تستخدم solve بدلا من fix."
+      },
+      {
+        "id": 4,
+        "en": "You fixed the problem yourself.",
+        "ar": "أصلحت المشكلة بنفسك.",
+        "context": "تؤكد حدوث الإصلاح."
+      },
+      {
+        "id": 5,
+        "en": "You did not fix the problem yourself.",
+        "ar": "لم تصلح المشكلة بنفسك.",
+        "context": "تنفي الاعتماد على النفس في الإصلاح."
+      },
+      {
+        "id": 6,
+        "en": "Do you fix problems yourself?",
+        "ar": "هل تصلح المشكلات بنفسك؟",
+        "context": "تسأل عن عادة عامة."
+      },
+      {
+        "id": 7,
+        "en": "Are you fixing the problem yourself now?",
+        "ar": "هل تصلح المشكلة بنفسك الآن؟",
+        "context": "تسأل عن فعل جار الآن."
+      },
+      {
+        "id": 8,
+        "en": "Will you fix the problem yourself tomorrow?",
+        "ar": "هل ستصلح المشكلة بنفسك غدا؟",
+        "context": "تسأل عن خطة مستقبلية."
+      },
+      {
+        "id": 9,
+        "en": "I was surprised that you fixed the problem yourself.",
+        "ar": "تفاجأت بأنك أصلحت المشكلة بنفسك.",
+        "context": "تذكر رد فعل على الإصلاح."
+      },
+      {
+        "id": 10,
+        "en": "Tell me how you fixed the problem yourself.",
+        "ar": "أخبرني كيف أصلحت المشكلة بنفسك.",
+        "context": "تطلب شرح طريقة الإصلاح."
+      }
+    ]
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "id": 656,
+  "sentence": {
+    "en": "Do you believe that?",
+    "ar": "هل تصدق ذلك؟",
+    "context": "الاستفهام عن مدى تصديق الشخص لمعلومة معينة."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Do you believe that?",
+        "ar": "هل تصدق ذلك؟",
+        "context": "تستخدم للسؤال إن كان المخاطب يصدق معلومة أو كلاماً معيناً.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "السؤال عن اعتقاد أو موقف حالي لدى الشخص."
+        },
+        "wordMeanings": [
+          {
+            "term": "Do",
+            "description": "كلمة مساعدة لتكوين سؤال في المضارع البسيط."
+          },
+          {
+            "term": "you",
+            "description": "أنت أو أنتم حسب السياق."
+          },
+          {
+            "term": "believe",
+            "description": "تصدق أو تؤمن بصحة شيء."
+          },
+          {
+            "term": "that",
+            "description": "ذلك، وتشير إلى المعلومة أو الكلام."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Do you believe me?",
+        "ar": "هل تصدقني؟",
+        "context": "تقال للسؤال عن الثقة بكلام المتكلم."
+      },
+      {
+        "id": 2,
+        "en": "I believe that.",
+        "ar": "أنا أصدق ذلك.",
+        "context": "تستخدم لتأكيد التصديق."
+      },
+      {
+        "id": 3,
+        "en": "She does not believe that.",
+        "ar": "هي لا تصدق ذلك.",
+        "context": "تقال لنفي التصديق عند امرأة."
+      },
+      {
+        "id": 4,
+        "en": "Do they believe the story?",
+        "ar": "هل يصدقون القصة؟",
+        "context": "تستخدم للسؤال عن مجموعة."
+      },
+      {
+        "id": 5,
+        "en": "I cannot believe that.",
+        "ar": "لا أستطيع تصديق ذلك.",
+        "context": "تقال عند الدهشة أو عدم التصديق."
+      },
+      {
+        "id": 6,
+        "en": "Do you believe her?",
+        "ar": "هل تصدقها؟",
+        "context": "تستخدم للسؤال عن تصديق امرأة."
+      },
+      {
+        "id": 7,
+        "en": "He believes everything.",
+        "ar": "هو يصدق كل شيء.",
+        "context": "تقال لوصف شخص سريع التصديق."
+      },
+      {
+        "id": 8,
+        "en": "We believe this is true.",
+        "ar": "نعتقد أن هذا صحيح.",
+        "context": "تستخدم للتعبير عن اعتقاد جماعي."
+      },
+      {
+        "id": 9,
+        "en": "Do you believe the teacher?",
+        "ar": "هل تصدق المعلم؟",
+        "context": "تقال للسؤال عن الثقة بكلام المعلم."
+      },
+      {
+        "id": 10,
+        "en": "Nobody believes that.",
+        "ar": "لا أحد يصدق ذلك.",
+        "context": "تستخدم لنفي التصديق عن الجميع."
+      }
+    ]
+  }
+}

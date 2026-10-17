@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": 725,
+  "sentence": {
+    "en": "Are you married?",
+    "ar": "هل أنت متزوج؟",
+    "context": "السؤال عن الحالة الاجتماعية لشخص ما."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Are you married?",
+        "ar": "هل أنت متزوج؟",
+        "context": "سؤال مباشر عن الحالة الاجتماعية.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "يستخدم المضارع البسيط مع صفة لوصف حالة حالية أو عامة للشخص."
+        },
+        "wordMeanings": [
+          {
+            "term": "Are",
+            "description": "صيغة سؤال مع ضمير المخاطب"
+          },
+          {
+            "term": "you",
+            "description": "ضمير يشير إلى الشخص المخاطب"
+          },
+          {
+            "term": "married",
+            "description": "متزوج أو في علاقة زواج"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Are you single?",
+        "ar": "هل أنت أعزب؟",
+        "context": "يستخدم للسؤال عن الحالة الاجتماعية."
+      },
+      {
+        "id": 2,
+        "en": "Is she married?",
+        "ar": "هل هي متزوجة؟",
+        "context": "يستخدم للسؤال عن حالة امرأة اجتماعية."
+      },
+      {
+        "id": 3,
+        "en": "Is he married?",
+        "ar": "هل هو متزوج؟",
+        "context": "يستخدم للسؤال عن حالة رجل اجتماعية."
+      },
+      {
+        "id": 4,
+        "en": "Are they married?",
+        "ar": "هل هما متزوجان؟",
+        "context": "يستخدم للسؤال عن علاقة شخصين."
+      },
+      {
+        "id": 5,
+        "en": "Are you engaged?",
+        "ar": "هل أنت مخطوب؟",
+        "context": "يستخدم للسؤال عن الخطوبة."
+      },
+      {
+        "id": 6,
+        "en": "Are you married now?",
+        "ar": "هل أنت متزوج الآن؟",
+        "context": "يستخدم لمعرفة الحالة الحالية."
+      },
+      {
+        "id": 7,
+        "en": "My sister is married.",
+        "ar": "أختي متزوجة.",
+        "context": "يستخدم لإعطاء معلومة عن فرد من العائلة."
+      },
+      {
+        "id": 8,
+        "en": "He is not married.",
+        "ar": "هو غير متزوج.",
+        "context": "يستخدم لنفي الحالة الاجتماعية."
+      },
+      {
+        "id": 9,
+        "en": "They are happily married.",
+        "ar": "هما متزوجان بسعادة.",
+        "context": "يستخدم لوصف علاقة زوجية جيدة."
+      },
+      {
+        "id": 10,
+        "en": "Are your parents married?",
+        "ar": "هل والداك متزوجان؟",
+        "context": "يستخدم للسؤال عن حالة الوالدين."
+      }
+    ]
+  }
+}

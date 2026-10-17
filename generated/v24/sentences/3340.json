@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": 3340,
+  "sentence": {
+    "en": "This is an average score.",
+    "ar": "هذا معدل عادي.",
+    "context": "قيمة ليست عالية ولا منخفضة."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "This is an average score.",
+        "ar": "هذه نتيجة متوسطة.",
+        "context": "تصف الجملة درجة أو نتيجة بأنها عادية: ليست ممتازة وليست ضعيفة.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُخدم is لربط this بوصف ثابت أو تقييم حالي للنتيجة."
+        },
+        "wordMeanings": [
+          {
+            "term": "This",
+            "description": "هذا؛ تشير إلى الدرجة أو النتيجة التي يجري تقييمها."
+          },
+          {
+            "term": "is",
+            "description": "يكون أو هو؛ فعل ربط في المضارع."
+          },
+          {
+            "term": "an",
+            "description": "أداة تنكير قبل كلمة تبدأ بصوت متحرك؛ تجعل score نتيجة واحدة غير محددة."
+          },
+          {
+            "term": "average",
+            "description": "متوسط أو عادي؛ وصف لشيء يقع في المستوى المعتاد."
+          },
+          {
+            "term": "score",
+            "description": "درجة أو نتيجة؛ رقم أو تقييم في اختبار أو لعبة أو مقياس."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "This is an average score.",
+        "ar": "هذه نتيجة متوسطة.",
+        "context": "تصف درجة بأنها ليست مرتفعة ولا منخفضة."
+      },
+      {
+        "id": 2,
+        "en": "This is a high score.",
+        "ar": "هذه نتيجة عالية.",
+        "context": "تستبدل الوصف بدرجة قوية."
+      },
+      {
+        "id": 3,
+        "en": "This is a low score.",
+        "ar": "هذه نتيجة منخفضة.",
+        "context": "تستبدل الوصف بدرجة ضعيفة."
+      },
+      {
+        "id": 4,
+        "en": "That is an average score for this test.",
+        "ar": "تلك نتيجة متوسطة في هذا الاختبار.",
+        "context": "تربط الحكم باختبار محدد."
+      },
+      {
+        "id": 5,
+        "en": "This is an average score, but it is enough to pass.",
+        "ar": "هذه نتيجة متوسطة، لكنها كافية للنجاح.",
+        "context": "تضيف نتيجة عملية للتقييم."
+      },
+      {
+        "id": 6,
+        "en": "Is this an average score?",
+        "ar": "هل هذه نتيجة متوسطة؟",
+        "context": "تسأل عن مستوى النتيجة."
+      },
+      {
+        "id": 7,
+        "en": "This was an average score last season.",
+        "ar": "كانت هذه نتيجة متوسطة في الموسم الماضي.",
+        "context": "تنقل التقييم إلى الماضي."
+      },
+      {
+        "id": 8,
+        "en": "This is not an average score for her.",
+        "ar": "هذه ليست نتيجة متوسطة بالنسبة إليها.",
+        "context": "تنفي أن النتيجة عادية مقارنة بمستواها."
+      },
+      {
+        "id": 9,
+        "en": "A seventy is an average score in this class.",
+        "ar": "درجة السبعين نتيجة متوسطة في هذا الصف.",
+        "context": "تعطي رقما يعد متوسطا في سياق معين."
+      },
+      {
+        "id": 10,
+        "en": "This is an average score, so I want to improve it.",
+        "ar": "هذه نتيجة متوسطة، لذلك أريد تحسينها.",
+        "context": "تربط التقييم بالرغبة في التحسن."
+      }
+    ]
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "schemaVersion": 1,
+  "id": 6161,
+  "sentence": {
+    "en": "Keep the receipt in case you need to return it.",
+    "ar": "احتفظ بالإيصال تحسبًا لأنك قد تحتاج إلى إرجاعه.",
+    "context": "طلب حفظ وثيقة الشراء لاحتمال إرجاع الشيء المشترى؛ المقصود إرجاع الشيء لا الإيصال.",
+    "sourceWord": "receipt",
+    "sourcePos": "n."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Keep the receipt",
+        "ar": "احتفظ بالإيصال",
+        "context": "طلب حفظ وثيقة تثبت الشراء.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "صيغة أمر بلا زمن مستقل."
+        },
+        "wordMeanings": [
+          {
+            "term": "Keep",
+            "description": "احتفظ بـ."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف تشير إلى إيصال معروف."
+          },
+          {
+            "term": "receipt",
+            "description": "إيصال؛ ورقة تثبت الدفع."
+          }
+        ]
+      },
+      {
+        "sentence": "in case you need to return it.",
+        "ar": "تحسبًا لأنك قد تحتاج إلى إرجاعه.",
+        "context": "الاحتفاظ احتياط لاحتمال الحاجة إلى إعادة الشيء المشترى إلى البائع.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "تصف need حاجة قد تنشأ لاحقًا، وتأتي بعد in case التي تبين الغرض الاحتياطي لحفظ الإيصال."
+        },
+        "wordMeanings": [
+          {
+            "term": "in",
+            "description": "في؛ جزء من تعبير يعني في حال."
+          },
+          {
+            "term": "case",
+            "description": "حال؛ مع الكلمة السابقة تعني تحسبًا."
+          },
+          {
+            "term": "you",
+            "description": "أنت."
+          },
+          {
+            "term": "need",
+            "description": "تحتاج."
+          },
+          {
+            "term": "to",
+            "description": "أن؛ حرف المصدر."
+          },
+          {
+            "term": "return",
+            "description": "ترجع؛ تعيد إلى المتجر."
+          },
+          {
+            "term": "it",
+            "description": "ه؛ يشير إلى الشيء المشترى لا إلى الإيصال."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Keep the receipt in case you need to return it.",
+        "ar": "احتفظ بالإيصال تحسبًا لأنك قد تحتاج إلى إرجاعه.",
+        "context": "طلب حفظ وثيقة الشراء لاحتمال إرجاع الشيء المشترى؛ المقصود إرجاع الشيء لا الإيصال."
+      },
+      {
+        "id": 2,
+        "en": "Please confirm receipt of this letter.",
+        "ar": "من فضلك أكد استلام هذه الرسالة.",
+        "context": "طلب رسمي للإقرار بوصول رسالة إلى المخاطب."
+      },
+      {
+        "id": 3,
+        "en": "The receipt shows the date and the total amount.",
+        "ar": "الإيصال يوضح التاريخ والمبلغ الإجمالي.",
+        "context": "وصف معلومات مسجلة في وثيقة تثبت دفعًا."
+      },
+      {
+        "id": 4,
+        "en": "The clerk issued a receipt for the deposit.",
+        "ar": "الموظف أصدر إيصالًا للدفعة المقدمة.",
+        "context": "وصف توثيق سابق لاستلام مبلغ يدفع مقدمًا."
+      },
+      {
+        "id": 5,
+        "en": "We have acknowledged receipt of the application.",
+        "ar": "نحن قد أقررنا باستلام الطلب.",
+        "context": "الإبلاغ عن تأكيد مكتمل لوصول مستند مقدم إلى جهة."
+      },
+      {
+        "id": 6,
+        "en": "The assistant is checking the receipts against the expense report.",
+        "ar": "المساعد يراجع الإيصالات بمقارنتها بتقرير المصاريف.",
+        "context": "وصف تحقق جارٍ من توافق وثائق دفع مع سجل للنفقات."
+      },
+      {
+        "id": 7,
+        "en": "The store will send an electronic receipt.",
+        "ar": "المتجر سيرسل إيصالًا إلكترونيًا.",
+        "context": "توقع توفير إثبات دفع في صورة رقمية."
+      },
+      {
+        "id": 8,
+        "en": "Payment is required on receipt of the goods.",
+        "ar": "الدفع مطلوب عند استلام البضائع.",
+        "context": "وصف ترتيب يربط تسديد مبلغ بوصول أشياء مشتراة."
+      },
+      {
+        "id": 9,
+        "en": "The damaged receipt was still readable.",
+        "ar": "الإيصال التالف كان لا يزال مقروءًا.",
+        "context": "وصف بقاء سابق لوضوح وثيقة رغم تضررها."
+      },
+      {
+        "id": 10,
+        "en": "The museum records the receipt of donated objects.",
+        "ar": "المتحف يسجل استلام القطع المتبرع بها.",
+        "context": "وصف توثيق وصول مقتنيات إلى جهة عرض."
+      }
+    ]
+  }
+}

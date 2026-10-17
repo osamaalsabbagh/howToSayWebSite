@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": 543,
+  "sentence": {
+    "en": "I bought a shirt yesterday.",
+    "ar": "اشتريت قميصًا أمس.",
+    "context": "الإشارة إلى شراء تم في اليوم السابق."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "I bought a shirt yesterday.",
+        "ar": "اشتريت قميصًا أمس.",
+        "context": "إخبار عن شراء قميص في اليوم السابق.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "bought يدل على فعل شراء اكتمل في الماضي، وyesterday يحدد الوقت."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "تشير إلى المتكلم."
+          },
+          {
+            "term": "bought",
+            "description": "تعني اشتريت."
+          },
+          {
+            "term": "a",
+            "description": "تدل على شيء واحد غير محدد."
+          },
+          {
+            "term": "shirt",
+            "description": "قميص."
+          },
+          {
+            "term": "yesterday",
+            "description": "أمس."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I bought shoes yesterday.",
+        "ar": "اشتريت حذاء أمس.",
+        "context": "ذكر شراء سابق."
+      },
+      {
+        "id": 2,
+        "en": "She bought a dress.",
+        "ar": "اشترت فستانًا.",
+        "context": "إخبار عن شراء."
+      },
+      {
+        "id": 3,
+        "en": "Did you buy a shirt?",
+        "ar": "هل اشتريت قميصًا؟",
+        "context": "سؤال عن الشراء."
+      },
+      {
+        "id": 4,
+        "en": "I bought it last week.",
+        "ar": "اشتريته الأسبوع الماضي.",
+        "context": "ذكر وقت شراء سابق."
+      },
+      {
+        "id": 5,
+        "en": "The shirt was cheap.",
+        "ar": "كان القميص رخيصًا.",
+        "context": "وصف القميص."
+      },
+      {
+        "id": 6,
+        "en": "He bought a new coat.",
+        "ar": "اشترى معطفًا جديدًا.",
+        "context": "ذكر شراء ملابس."
+      },
+      {
+        "id": 7,
+        "en": "We bought food yesterday.",
+        "ar": "اشترينا طعامًا أمس.",
+        "context": "ذكر شراء جماعي."
+      },
+      {
+        "id": 8,
+        "en": "I did not buy anything.",
+        "ar": "لم أشتر أي شيء.",
+        "context": "نفي الشراء."
+      },
+      {
+        "id": 9,
+        "en": "The store sells shirts.",
+        "ar": "المتجر يبيع قمصانًا.",
+        "context": "ذكر بضاعة المتجر."
+      },
+      {
+        "id": 10,
+        "en": "I need a shirt.",
+        "ar": "أحتاج إلى قميص.",
+        "context": "التعبير عن حاجة للشراء."
+      }
+    ]
+  }
+}

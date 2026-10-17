@@ -1,0 +1,135 @@
+{
+  "schemaVersion": 1,
+  "id": 1811,
+  "sentence": {
+    "en": "The weather was cold. However, we enjoyed the trip.",
+    "ar": "كان الطقس باردًا. ومع ذلك، استمتعنا بالرحلة.",
+    "context": "صف أن تجربة ما كانت ممتعة رغم أن الظروف الجوية لم تكن مناسبة."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "The weather was cold.",
+        "ar": "كان الطقس باردًا.",
+        "context": "يمهد هذا الجزء لظرف غير مناسب في الرحلة.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "استخدم was لوصف حالة الطقس في الماضي."
+        },
+        "wordMeanings": [
+          {
+            "term": "The",
+            "description": "أداة تعريف لشيء معروف"
+          },
+          {
+            "term": "weather",
+            "description": "الطقس أو حالة الجو"
+          },
+          {
+            "term": "was",
+            "description": "كان، صيغة ماضية لوصف الحالة"
+          },
+          {
+            "term": "cold",
+            "description": "بارد"
+          }
+        ]
+      },
+      {
+        "sentence": "However, we enjoyed the trip.",
+        "ar": "ومع ذلك، استمتعنا بالرحلة.",
+        "context": "يوضح هذا الجزء نتيجة إيجابية رغم الطقس البارد.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "استخدم enjoyed لأن الاستمتاع حدث في الماضي، و However تربط الجملة بتباين مع الجملة السابقة."
+        },
+        "wordMeanings": [
+          {
+            "term": "However",
+            "description": "مع ذلك أو رغم ذلك"
+          },
+          {
+            "term": "we",
+            "description": "نحن، المتكلم مع آخرين"
+          },
+          {
+            "term": "enjoyed",
+            "description": "استمتعنا"
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف لشيء محدد"
+          },
+          {
+            "term": "trip",
+            "description": "رحلة"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "The room was small. However, it was clean.",
+        "ar": "كانت الغرفة صغيرة. ومع ذلك، كانت نظيفة.",
+        "context": "يستخدم لإظهار جانب جيد رغم عيب."
+      },
+      {
+        "id": 2,
+        "en": "It was raining. However, we played outside.",
+        "ar": "كان المطر يهطل. ومع ذلك، لعبنا في الخارج.",
+        "context": "يقال عند فعل شيء رغم الطقس."
+      },
+      {
+        "id": 3,
+        "en": "The test was hard. However, she passed.",
+        "ar": "كان الاختبار صعبًا. ومع ذلك، نجحت.",
+        "context": "يستخدم للتعبير عن نجاح رغم صعوبة."
+      },
+      {
+        "id": 4,
+        "en": "He was tired. However, he kept working.",
+        "ar": "كان متعبًا. ومع ذلك، استمر في العمل.",
+        "context": "يقال عن استمرار الجهد رغم التعب."
+      },
+      {
+        "id": 5,
+        "en": "The food was cold. However, it tasted good.",
+        "ar": "كان الطعام باردًا. ومع ذلك، كان طعمه جيدًا.",
+        "context": "يستخدم لإظهار تباين في الرأي."
+      },
+      {
+        "id": 6,
+        "en": "The trip was long. However, we enjoyed it.",
+        "ar": "كانت الرحلة طويلة. ومع ذلك، استمتعنا بها.",
+        "context": "يقال عن تجربة ممتعة رغم طولها."
+      },
+      {
+        "id": 7,
+        "en": "It was late. However, they stayed.",
+        "ar": "كان الوقت متأخرًا. ومع ذلك، بقوا.",
+        "context": "يستخدم عند البقاء رغم الوقت."
+      },
+      {
+        "id": 8,
+        "en": "The road was busy. However, we arrived on time.",
+        "ar": "كان الطريق مزدحمًا. ومع ذلك، وصلنا في الوقت المحدد.",
+        "context": "يقال عن الوصول رغم الزحام."
+      },
+      {
+        "id": 9,
+        "en": "The hotel was old. However, the service was good.",
+        "ar": "كان الفندق قديمًا. ومع ذلك، كانت الخدمة جيدة.",
+        "context": "يستخدم عند تقييم مكان بإيجابية رغم عيب."
+      },
+      {
+        "id": 10,
+        "en": "She was nervous. However, she spoke clearly.",
+        "ar": "كانت متوترة. ومع ذلك، تحدثت بوضوح.",
+        "context": "يقال عن أداء جيد رغم التوتر."
+      }
+    ]
+  }
+}

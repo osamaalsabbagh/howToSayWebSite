@@ -1,0 +1,123 @@
+{
+  "schemaVersion": 1,
+  "id": 571,
+  "sentence": {
+    "en": "No, this is the first time.",
+    "ar": "لا، هذه هي المرة الأولى.",
+    "context": "الإشارة إلى أنها أول مرة تقوم بشيء معين."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "No,",
+        "ar": "لا،",
+        "context": "تستخدم للنفي قبل توضيح أن التجربة تحدث لأول مرة.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه كلمة جواب قصيرة وليست جملة ذات زمن."
+        },
+        "wordMeanings": [
+          {
+            "term": "No",
+            "description": "لا، وتستخدم لنفي سؤال أو افتراض."
+          }
+        ]
+      },
+      {
+        "sentence": "this is the first time.",
+        "ar": "هذه هي المرة الأولى.",
+        "context": "توضح أن الموقف أو التجربة يحدث لأول مرة.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "الجملة تصف حقيقة حالية عن التجربة الحالية."
+        },
+        "wordMeanings": [
+          {
+            "term": "this",
+            "description": "هذه أو هذا، وتشير إلى الموقف الحالي."
+          },
+          {
+            "term": "is",
+            "description": "صيغة تربط الموقف بوصفه."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف تشير إلى شيء محدد."
+          },
+          {
+            "term": "first",
+            "description": "الأول، أي لا يوجد شيء قبله."
+          },
+          {
+            "term": "time",
+            "description": "مرة أو مناسبة."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "No, this is my first visit.",
+        "ar": "لا، هذه زيارتي الأولى.",
+        "context": "تقال عند نفي زيارة سابقة."
+      },
+      {
+        "id": 2,
+        "en": "No, this is the first lesson.",
+        "ar": "لا، هذا هو الدرس الأول.",
+        "context": "تستخدم لتوضيح بداية شيء."
+      },
+      {
+        "id": 3,
+        "en": "This is the first time for me.",
+        "ar": "هذه هي المرة الأولى لي.",
+        "context": "تقال عند تجربة شيء لأول مرة."
+      },
+      {
+        "id": 4,
+        "en": "No, this is our first meeting.",
+        "ar": "لا، هذا اجتماعنا الأول.",
+        "context": "تستخدم عند نفي لقاء سابق."
+      },
+      {
+        "id": 5,
+        "en": "This is the first day.",
+        "ar": "هذا هو اليوم الأول.",
+        "context": "تقال عند بداية فترة أو عمل."
+      },
+      {
+        "id": 6,
+        "en": "No, it is my first time.",
+        "ar": "لا، إنها المرة الأولى لي.",
+        "context": "تستخدم عند الرد على سؤال عن تجربة سابقة."
+      },
+      {
+        "id": 7,
+        "en": "This is the first question.",
+        "ar": "هذا هو السؤال الأول.",
+        "context": "تقال عند ترتيب الأسئلة."
+      },
+      {
+        "id": 8,
+        "en": "No, this is the first trip.",
+        "ar": "لا، هذه هي الرحلة الأولى.",
+        "context": "تستخدم لتوضيح عدم وجود رحلات سابقة."
+      },
+      {
+        "id": 9,
+        "en": "This is the first month.",
+        "ar": "هذا هو الشهر الأول.",
+        "context": "تقال في بداية مدة زمنية."
+      },
+      {
+        "id": 10,
+        "en": "No, this is the first class.",
+        "ar": "لا، هذا هو الصف الأول.",
+        "context": "تستخدم عند توضيح ترتيب صف أو درس."
+      }
+    ]
+  }
+}

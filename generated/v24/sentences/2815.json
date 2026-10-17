@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": 2815,
+  "sentence": {
+    "en": "He taught me this lesson.",
+    "ar": "هو درّسني هذا الدرس.",
+    "context": "حدث انتهى في الماضي."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "He taught me this lesson.",
+        "ar": "هو علّمني هذا الدرس.",
+        "context": "تصف الجملة أن شخصا علّم المتكلم درسا محددا في الماضي.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "استُخدم الماضي البسيط لأن taught يدل على فعل تعليم مكتمل في الماضي."
+        },
+        "wordMeanings": [
+          {
+            "term": "He",
+            "description": "ضمير يعني هو، ويشير إلى رجل أو ولد."
+          },
+          {
+            "term": "taught",
+            "description": "علّم أو درّس؛ التصريف الماضي من teach."
+          },
+          {
+            "term": "me",
+            "description": "ضمير مفعول به يعني إياي أو لي، ويشير إلى المتكلم."
+          },
+          {
+            "term": "this",
+            "description": "هذا؛ اسم إشارة لشيء قريب أو محدد."
+          },
+          {
+            "term": "lesson",
+            "description": "درس؛ موضوع تعليمي أو تجربة يتعلم منها الشخص."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "He taught me this lesson.",
+        "ar": "هو علّمني هذا الدرس.",
+        "context": "تصف تعلما حدث في الماضي."
+      },
+      {
+        "id": 2,
+        "en": "She taught me English.",
+        "ar": "هي علّمتني الإنجليزية.",
+        "context": "تذكر مادة تعلمها المتكلم من شخص."
+      },
+      {
+        "id": 3,
+        "en": "My father taught me how to drive.",
+        "ar": "أبي علّمني كيف أقود.",
+        "context": "تصف مهارة تعلمها المتكلم."
+      },
+      {
+        "id": 4,
+        "en": "The teacher taught us a new rule.",
+        "ar": "علّمنا المعلم قاعدة جديدة.",
+        "context": "تصف ما قدمه المعلم للطلاب."
+      },
+      {
+        "id": 5,
+        "en": "He taught me an important lesson.",
+        "ar": "هو علّمني درسا مهما.",
+        "context": "تصف درسا ذا قيمة."
+      },
+      {
+        "id": 6,
+        "en": "They taught me many useful words.",
+        "ar": "هم علّموني كلمات مفيدة كثيرة.",
+        "context": "تذكر شيئا تعلمه المتكلم."
+      },
+      {
+        "id": 7,
+        "en": "He did not teach me this lesson.",
+        "ar": "هو لم يعلّمني هذا الدرس.",
+        "context": "تنفي حدوث التعليم."
+      },
+      {
+        "id": 8,
+        "en": "Did he teach you this lesson?",
+        "ar": "هل علّمك هذا الدرس؟",
+        "context": "تسأل عمن قدم الدرس."
+      },
+      {
+        "id": 9,
+        "en": "She taught the children patiently.",
+        "ar": "هي علّمت الأطفال بصبر.",
+        "context": "تصف طريقة التعليم."
+      },
+      {
+        "id": 10,
+        "en": "This mistake taught me a lesson.",
+        "ar": "علّمني هذا الخطأ درسا.",
+        "context": "تستخدم lesson بمعنى خبرة مستفادة."
+      }
+    ]
+  }
+}

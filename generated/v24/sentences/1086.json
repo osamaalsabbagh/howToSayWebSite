@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "id": 1086,
+  "sentence": {
+    "en": "How is school going?",
+    "ar": "كيف تسير المدرسة؟",
+    "context": "تُستخدم لسؤال طالب عن تجربته الدراسية أو مستواه في المدرسة."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "How is school going",
+        "ar": "كيف تسير المدرسة",
+        "context": "تُستخدم للسؤال عن تجربة الدراسة في الفترة الحالية.",
+        "grammar": {
+          "tense": "المضارع المستمر",
+          "tenseEn": "Present Continuous",
+          "reason": "استُخدم المضارع المستمر للسؤال عن سير أمر مستمر حاليًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "How",
+            "description": "كيف، للسؤال عن الحال"
+          },
+          {
+            "term": "is",
+            "description": "تساعد في بناء الفعل الجاري"
+          },
+          {
+            "term": "school",
+            "description": "المدرسة أو الدراسة"
+          },
+          {
+            "term": "going",
+            "description": "تسير أو تمضي"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "How is work going?",
+        "ar": "كيف يسير العمل؟",
+        "context": "تُستخدم للسؤال عن العمل."
+      },
+      {
+        "id": 2,
+        "en": "How is your class going?",
+        "ar": "كيف تسير حصتك؟",
+        "context": "تُستخدم للسؤال عن درس."
+      },
+      {
+        "id": 3,
+        "en": "School is going well.",
+        "ar": "المدرسة تسير جيدًا.",
+        "context": "تُستخدم للإجابة بإيجابية."
+      },
+      {
+        "id": 4,
+        "en": "School is going okay.",
+        "ar": "المدرسة تسير بشكل مقبول.",
+        "context": "تُستخدم لإجابة معتدلة."
+      },
+      {
+        "id": 5,
+        "en": "How are your studies going?",
+        "ar": "كيف تسير دراستك؟",
+        "context": "تُستخدم للسؤال عن الدراسة."
+      },
+      {
+        "id": 6,
+        "en": "How is everything going?",
+        "ar": "كيف يسير كل شيء؟",
+        "context": "تُستخدم كسؤال عام."
+      },
+      {
+        "id": 7,
+        "en": "Is school going well?",
+        "ar": "هل المدرسة تسير جيدًا؟",
+        "context": "تُستخدم للاطمئنان."
+      },
+      {
+        "id": 8,
+        "en": "My school is going well.",
+        "ar": "مدرستي تسير جيدًا.",
+        "context": "تُستخدم للإجابة."
+      },
+      {
+        "id": 9,
+        "en": "How is your new school going?",
+        "ar": "كيف تسير مدرستك الجديدة؟",
+        "context": "تُستخدم بعد انتقال طالب."
+      },
+      {
+        "id": 10,
+        "en": "How is the semester going?",
+        "ar": "كيف يسير الفصل الدراسي؟",
+        "context": "تُستخدم في الدراسة."
+      }
+    ]
+  }
+}

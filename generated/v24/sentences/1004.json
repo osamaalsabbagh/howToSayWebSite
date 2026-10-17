@@ -1,0 +1,111 @@
+{
+  "schemaVersion": 1,
+  "id": 1004,
+  "sentence": {
+    "en": "Can I charge my phone here?",
+    "ar": "هل يمكنني شحن هاتفي هنا؟",
+    "context": "تُستخدم للاستفسار عن إمكانية شحن الهاتف في مكان معين."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Can I charge my phone here",
+        "ar": "هل يمكنني شحن هاتفي هنا",
+        "context": "تُستخدم لطلب الإذن بشحن الهاتف في هذا المكان.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "السؤال يستخدم Can I لطلب الإذن أو الإمكانية، وليس للتعبير عن زمن مستقل."
+        },
+        "wordMeanings": [
+          {
+            "term": "Can",
+            "description": "هل يمكن، للسؤال عن إذن أو إمكانية"
+          },
+          {
+            "term": "I",
+            "description": "ضمير يشير إلى المتكلم"
+          },
+          {
+            "term": "charge",
+            "description": "أشحن أو أملأ البطارية بالطاقة"
+          },
+          {
+            "term": "my",
+            "description": "خاصتي، وتدل على أن الهاتف للمتكلم"
+          },
+          {
+            "term": "phone",
+            "description": "هاتف"
+          },
+          {
+            "term": "here",
+            "description": "هنا، أي في هذا المكان"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Can I charge my laptop here?",
+        "ar": "هل يمكنني شحن حاسوبي المحمول هنا؟",
+        "context": "تُستخدم عند الحاجة إلى كهرباء."
+      },
+      {
+        "id": 2,
+        "en": "Can I use this outlet?",
+        "ar": "هل يمكنني استخدام هذا المقبس؟",
+        "context": "تُستخدم قبل توصيل الشاحن."
+      },
+      {
+        "id": 3,
+        "en": "Can I plug in my phone?",
+        "ar": "هل يمكنني توصيل هاتفي بالكهرباء؟",
+        "context": "تُستخدم لطلب الشحن."
+      },
+      {
+        "id": 4,
+        "en": "My phone needs charging.",
+        "ar": "هاتفي يحتاج إلى شحن.",
+        "context": "تُستخدم عند انخفاض البطارية."
+      },
+      {
+        "id": 5,
+        "en": "Can I charge my phone at your desk?",
+        "ar": "هل يمكنني شحن هاتفي عند مكتبك؟",
+        "context": "تُستخدم في مكتب أو استقبال."
+      },
+      {
+        "id": 6,
+        "en": "Is there a charger here?",
+        "ar": "هل يوجد شاحن هنا؟",
+        "context": "تُستخدم عند عدم وجود شاحن معك."
+      },
+      {
+        "id": 7,
+        "en": "Can I charge it for ten minutes?",
+        "ar": "هل يمكنني شحنه لعشر دقائق؟",
+        "context": "تُستخدم عند الحاجة لشحن قصير."
+      },
+      {
+        "id": 8,
+        "en": "Can I charge my phone in the cafe?",
+        "ar": "هل يمكنني شحن هاتفي في المقهى؟",
+        "context": "تُستخدم في مكان عام."
+      },
+      {
+        "id": 9,
+        "en": "I need to charge my phone.",
+        "ar": "أحتاج إلى شحن هاتفي.",
+        "context": "تُستخدم عند نفاد البطارية."
+      },
+      {
+        "id": 10,
+        "en": "Can I borrow a charger?",
+        "ar": "هل يمكنني استعارة شاحن؟",
+        "context": "تُستخدم عند الحاجة إلى شاحن."
+      }
+    ]
+  }
+}

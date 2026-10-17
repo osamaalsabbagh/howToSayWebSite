@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "id": 3,
+  "sentence": {
+    "en": "Yes, we went there.",
+    "ar": "نعم، ذهبنا إلى هناك.",
+    "context": "يؤكد ذهابهما إلى السوق."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Yes, we went there.",
+        "ar": "نعم، ذهبنا إلى هناك.",
+        "context": "تؤكد الجملة أنهم ذهبوا إلى المكان المذكور.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "went يدل على فعل ذهاب مكتمل في الماضي."
+        },
+        "wordMeanings": [
+          {
+            "term": "Yes",
+            "description": "نعم أو تأكيد"
+          },
+          {
+            "term": "we",
+            "description": "نحن"
+          },
+          {
+            "term": "went",
+            "description": "ذهبنا في الماضي"
+          },
+          {
+            "term": "there",
+            "description": "إلى ذلك المكان"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Yes, we went there yesterday.",
+        "ar": "نعم، ذهبنا إلى هناك أمس.",
+        "context": "تقال لتأكيد زيارة في الماضي."
+      },
+      {
+        "id": 2,
+        "en": "Yes, I went there with my father.",
+        "ar": "نعم، ذهبت إلى هناك مع والدي.",
+        "context": "تقال عند ذكر المرافق."
+      },
+      {
+        "id": 3,
+        "en": "Yes, they went to the market.",
+        "ar": "نعم، ذهبوا إلى السوق.",
+        "context": "تقال لتأكيد مكان ذهاب مجموعة."
+      },
+      {
+        "id": 4,
+        "en": "We went there after lunch.",
+        "ar": "ذهبنا إلى هناك بعد الغداء.",
+        "context": "تقال عند تحديد وقت الذهاب."
+      },
+      {
+        "id": 5,
+        "en": "Yes, we bought the bikes there.",
+        "ar": "نعم، اشترينا الدراجات هناك.",
+        "context": "تقال لتأكيد مكان الشراء."
+      },
+      {
+        "id": 6,
+        "en": "No, we went to another market.",
+        "ar": "لا، ذهبنا إلى سوق آخر.",
+        "context": "تقال عند تصحيح مكان الزيارة."
+      },
+      {
+        "id": 7,
+        "en": "Yes, we went there together.",
+        "ar": "نعم، ذهبنا إلى هناك معًا.",
+        "context": "تقال لتأكيد الذهاب المشترك."
+      },
+      {
+        "id": 8,
+        "en": "I went there last week.",
+        "ar": "ذهبت إلى هناك الأسبوع الماضي.",
+        "context": "تقال عند الحديث عن زيارة سابقة."
+      },
+      {
+        "id": 9,
+        "en": "We went there to compare prices.",
+        "ar": "ذهبنا إلى هناك لمقارنة الأسعار.",
+        "context": "تقال عند توضيح سبب الذهاب."
+      },
+      {
+        "id": 10,
+        "en": "Yes, we went there and found good bikes.",
+        "ar": "نعم، ذهبنا إلى هناك ووجدنا دراجات جيدة.",
+        "context": "تقال عند تلخيص نتيجة زيارة السوق."
+      }
+    ]
+  }
+}

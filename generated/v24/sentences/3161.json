@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": 3161,
+  "sentence": {
+    "en": "Yes, I understand the problem.",
+    "ar": "نعم، أنا أفهم المشكلة.",
+    "context": "موافقة أو تأكيد رسمي نسبيًا."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Yes, I understand the problem.",
+        "ar": "نعم، أنا أفهم المشكلة.",
+        "context": "تستخدم الجملة لتأكيد أنك فهمت المشكلة التي يتحدث عنها شخص آخر.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُخدم المضارع البسيط لأن understand يصف حالة فهم موجودة الآن."
+        },
+        "wordMeanings": [
+          {
+            "term": "Yes",
+            "description": "نعم؛ كلمة تأكيد أو موافقة."
+          },
+          {
+            "term": "I",
+            "description": "أنا؛ المتكلم."
+          },
+          {
+            "term": "understand",
+            "description": "أفهم؛ أدرك المعنى أو طبيعة المشكلة."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف قبل problem لأنها مشكلة محددة."
+          },
+          {
+            "term": "problem",
+            "description": "مشكلة؛ أمر صعب أو خلل يحتاج إلى حل."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Yes, I understand the problem.",
+        "ar": "نعم، أنا أفهم المشكلة.",
+        "context": "تؤكد أنك فهمت المشكلة."
+      },
+      {
+        "id": 2,
+        "en": "Yes, I understand your problem.",
+        "ar": "نعم، أنا أفهم مشكلتك.",
+        "context": "تربط المشكلة بالشخص المخاطب."
+      },
+      {
+        "id": 3,
+        "en": "Yes, she understands the problem.",
+        "ar": "نعم، هي تفهم المشكلة.",
+        "context": "تؤكد فهم شخص آخر."
+      },
+      {
+        "id": 4,
+        "en": "Do you understand the problem?",
+        "ar": "هل تفهم المشكلة؟",
+        "context": "تسأل شخصا عن فهمه."
+      },
+      {
+        "id": 5,
+        "en": "No, I do not understand the problem.",
+        "ar": "لا، أنا لا أفهم المشكلة.",
+        "context": "تنفي فهم المشكلة."
+      },
+      {
+        "id": 6,
+        "en": "I understood the problem after you explained it.",
+        "ar": "فهمت المشكلة بعد أن شرحتها.",
+        "context": "تتحدث عن فهم حدث في الماضي."
+      },
+      {
+        "id": 7,
+        "en": "I will understand the problem if you show me an example.",
+        "ar": "سأفهم المشكلة إذا أريتني مثالا.",
+        "context": "تجعل الفهم المستقبلي مشروطا."
+      },
+      {
+        "id": 8,
+        "en": "Yes, I understand the problem clearly.",
+        "ar": "نعم، أنا أفهم المشكلة بوضوح.",
+        "context": "تؤكد قوة الفهم."
+      },
+      {
+        "id": 9,
+        "en": "I think I understand the problem now.",
+        "ar": "أعتقد أنني أفهم المشكلة الآن.",
+        "context": "تقدم تأكيدا أقل جزما."
+      },
+      {
+        "id": 10,
+        "en": "Yes, I understand the problem and can help.",
+        "ar": "نعم، أفهم المشكلة ويمكنني المساعدة.",
+        "context": "تربط الفهم بالاستعداد للمساعدة."
+      }
+    ]
+  }
+}

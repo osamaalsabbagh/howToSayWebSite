@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": 4632,
+  "sentence": {
+    "en": "The students reviewed the lesson before the exam.",
+    "ar": "الطلاب راجعوا الدرس قبل الامتحان.",
+    "context": "وصف عودة سابقة إلى مادة تعلموها لتثبيتها قبل اختبار، لا تعلمها لأول مرة.",
+    "sourceWord": "review",
+    "sourcePos": "v."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "The students reviewed the lesson before the exam.",
+        "ar": "الطلاب راجعوا الدرس قبل الامتحان.",
+        "context": "وصف عودة سابقة إلى مادة تعلموها لتثبيتها قبل اختبار، لا تعلمها لأول مرة.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "الحدث وقع وانتهى في وقت مضى قبل موعد معروف، وهذا موضع الماضي البسيط، فتلحق الفعل لاحقة الماضي."
+        },
+        "wordMeanings": [
+          {
+            "term": "The",
+            "description": "أداة تعريف تدل على جماعة معروفة للطرفين."
+          },
+          {
+            "term": "students",
+            "description": "دارسون في مرحلة متقدمة."
+          },
+          {
+            "term": "reviewed",
+            "description": "أعادوا النظر بعناية في شيء سبق شرحه ليثبت في الذهن."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف تدل على درس معروف بعينه."
+          },
+          {
+            "term": "lesson",
+            "description": "حصة دراسية واحدة بما فيها من مادة."
+          },
+          {
+            "term": "before",
+            "description": "قبل، تبيّن أن الحدث سبق موعدًا آخر."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف تدل على امتحان معروف بعينه."
+          },
+          {
+            "term": "exam",
+            "description": "اختبار رسمي مهم يقيس تحصيل الدارس."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "The students reviewed the lesson before the exam.",
+        "ar": "الطلاب راجعوا الدرس قبل الامتحان.",
+        "context": "وصف عودة سابقة إلى مادة تعلموها لتثبيتها قبل اختبار، لا تعلمها لأول مرة."
+      },
+      {
+        "id": 2,
+        "en": "Please review your answers before submitting the form.",
+        "ar": "من فضلك راجع إجاباتك قبل إرسال الاستمارة.",
+        "context": "طلب فحص ما كُتب للتأكد من ملاءمته قبل التسليم."
+      },
+      {
+        "id": 3,
+        "en": "The newspaper reviews local restaurants.",
+        "ar": "الصحيفة تقيّم المطاعم المحلية.",
+        "context": "وصف خدمة إعلامية معتادة تعرض رأيًا في تجارب الطعام."
+      },
+      {
+        "id": 4,
+        "en": "I have reviewed the budget twice.",
+        "ar": "أنا قد راجعت الميزانية مرتين.",
+        "context": "الإبلاغ عن فحصين لخطة مالية خلال فترة ممتدة حتى الآن."
+      },
+      {
+        "id": 5,
+        "en": "The historian reviewed the events leading to the agreement.",
+        "ar": "المؤرخ استعرض الأحداث التي قادت إلى الاتفاق.",
+        "context": "وصف عرض تحليلي سابق لتسلسل وقائع."
+      },
+      {
+        "id": 6,
+        "en": "The team is reviewing its safety procedures.",
+        "ar": "الفريق يراجع إجراءات السلامة الخاصة به.",
+        "context": "وصف فحص جارٍ لخطوات عمل بهدف تقييمها أو تحسينها."
+      },
+      {
+        "id": 7,
+        "en": "We will review the plan next week.",
+        "ar": "نحن سنراجع الخطة الأسبوع القادم.",
+        "context": "ذكر موعد مرتقب لإعادة النظر في ترتيب عمل."
+      },
+      {
+        "id": 8,
+        "en": "The teacher reviewed the key vocabulary with the class.",
+        "ar": "المعلم راجع المفردات الأساسية مع الصف.",
+        "context": "وصف تذكير سابق بكلمات شُرحت من قبل."
+      },
+      {
+        "id": 9,
+        "en": "The board has reviewed the complaint independently.",
+        "ar": "مجلس الإدارة قد راجع الشكوى باستقلالية.",
+        "context": "الإبلاغ عن فحص اعتراض دون الاعتماد على تقييم صاحبه وحده."
+      },
+      {
+        "id": 10,
+        "en": "She reviews a novel on the radio each week.",
+        "ar": "هي تقيّم رواية عبر الإذاعة كل أسبوع.",
+        "context": "وصف تقييم أدبي منتظم يُقدّم للمستمعين."
+      }
+    ]
+  }
+}

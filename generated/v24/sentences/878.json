@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "id": 878,
+  "sentence": {
+    "en": "How are your parents?",
+    "ar": "كيف حال والديك؟",
+    "context": "تُستخدم للسؤال عن حالة والدي شخص ما."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "How are your parents?",
+        "ar": "كيف حال والديك؟",
+        "context": "سؤال للاطمئنان على حالة والدي الشخص.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "الفعل are يصف حالة الوالدين الحالية، وHow تسأل عن الحال."
+        },
+        "wordMeanings": [
+          {
+            "term": "How",
+            "description": "كيف؛ للسؤال عن الحال"
+          },
+          {
+            "term": "are",
+            "description": "صيغة مع الجمع للسؤال عن الحالة"
+          },
+          {
+            "term": "your",
+            "description": "الخاص بك"
+          },
+          {
+            "term": "parents",
+            "description": "الوالدان؛ الأب والأم"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "How is your mother?",
+        "ar": "كيف حال والدتك؟",
+        "context": "للاطمئنان على الأم."
+      },
+      {
+        "id": 2,
+        "en": "How is your father?",
+        "ar": "كيف حال والدك؟",
+        "context": "للاطمئنان على الأب."
+      },
+      {
+        "id": 3,
+        "en": "How are your children?",
+        "ar": "كيف حال أطفالك؟",
+        "context": "للسؤال عن الأبناء."
+      },
+      {
+        "id": 4,
+        "en": "How are your parents doing?",
+        "ar": "كيف حال والديك؟",
+        "context": "صيغة ودية للاطمئنان."
+      },
+      {
+        "id": 5,
+        "en": "Are your parents well?",
+        "ar": "هل والداك بخير؟",
+        "context": "للاطمئنان على الصحة."
+      },
+      {
+        "id": 6,
+        "en": "How is your family?",
+        "ar": "كيف حال عائلتك؟",
+        "context": "للسؤال عن العائلة عامة."
+      },
+      {
+        "id": 7,
+        "en": "My parents are fine.",
+        "ar": "والداي بخير.",
+        "context": "للإجابة عن السؤال."
+      },
+      {
+        "id": 8,
+        "en": "How are your friends?",
+        "ar": "كيف حال أصدقائك؟",
+        "context": "للاطمئنان على الأصدقاء."
+      },
+      {
+        "id": 9,
+        "en": "How are they?",
+        "ar": "كيف حالهم؟",
+        "context": "للسؤال عن مجموعة معروفة."
+      },
+      {
+        "id": 10,
+        "en": "Are your parents at home?",
+        "ar": "هل والداك في البيت؟",
+        "context": "للسؤال عن مكان الوالدين."
+      }
+    ]
+  }
+}

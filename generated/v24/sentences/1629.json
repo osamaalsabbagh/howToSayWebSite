@@ -1,0 +1,111 @@
+{
+  "schemaVersion": 1,
+  "id": 1629,
+  "sentence": {
+    "en": "I cannot find my keys anywhere.",
+    "ar": "أنا لا أستطيع أن أجد مفاتيحي في أي مكان.",
+    "context": "اشرح أنك بحثت في كل مكان ولم تعثر على شيء معين."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "I cannot find my keys anywhere.",
+        "ar": "لا أستطيع أن أجد مفاتيحي في أي مكان.",
+        "context": "تستخدم الجملة للتعبير عن عدم القدرة على العثور على المفاتيح رغم البحث.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه بنية قدرة منفية باستخدام cannot، لذلك تُشرح كبنية Modal وليست زمنًا مستقلًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير يعني أنا."
+          },
+          {
+            "term": "cannot",
+            "description": "لا أستطيع أو غير قادر."
+          },
+          {
+            "term": "find",
+            "description": "أجد أو أعثر على."
+          },
+          {
+            "term": "my",
+            "description": "خاص بي."
+          },
+          {
+            "term": "keys",
+            "description": "مفاتيح."
+          },
+          {
+            "term": "anywhere",
+            "description": "في أي مكان، وتستخدم مع النفي لتعميم البحث."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I cannot find my phone anywhere.",
+        "ar": "لا أستطيع أن أجد هاتفي في أي مكان.",
+        "context": "يقال عند فقدان الهاتف."
+      },
+      {
+        "id": 2,
+        "en": "She cannot find her bag.",
+        "ar": "لا تستطيع أن تجد حقيبتها.",
+        "context": "يقال عند البحث عن غرض مفقود."
+      },
+      {
+        "id": 3,
+        "en": "I looked everywhere for my keys.",
+        "ar": "بحثت في كل مكان عن مفاتيحي.",
+        "context": "يقال لتأكيد شدة البحث."
+      },
+      {
+        "id": 4,
+        "en": "The keys are not on the table.",
+        "ar": "المفاتيح ليست على الطاولة.",
+        "context": "يقال عند نفي مكان محتمل."
+      },
+      {
+        "id": 5,
+        "en": "He found his keys under the chair.",
+        "ar": "وجد مفاتيحه تحت الكرسي.",
+        "context": "يقال عند العثور على شيء مفقود."
+      },
+      {
+        "id": 6,
+        "en": "I cannot see it anywhere.",
+        "ar": "لا أستطيع رؤيته في أي مكان.",
+        "context": "يقال عند عدم العثور على شيء بالعين."
+      },
+      {
+        "id": 7,
+        "en": "Where are my keys?",
+        "ar": "أين مفاتيحي؟",
+        "context": "يقال عند البحث عن المفاتيح."
+      },
+      {
+        "id": 8,
+        "en": "We cannot find the address.",
+        "ar": "لا نستطيع العثور على العنوان.",
+        "context": "يقال عند عدم الوصول إلى معلومة."
+      },
+      {
+        "id": 9,
+        "en": "My keys disappeared this morning.",
+        "ar": "اختفت مفاتيحي هذا الصباح.",
+        "context": "يقال عند فقدان شيء فجأة."
+      },
+      {
+        "id": 10,
+        "en": "I found nothing anywhere.",
+        "ar": "لم أجد شيئًا في أي مكان.",
+        "context": "يقال بعد بحث غير ناجح."
+      }
+    ]
+  }
+}

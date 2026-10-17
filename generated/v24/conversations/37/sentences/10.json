@@ -1,0 +1,167 @@
+{
+  "schemaVersion": 1,
+  "id": 10,
+  "sentence": {
+    "en": "Fine, but do not blame me if your son keeps asking where you are.",
+    "ar": "طيب، لكن لا تلمني إن واصل ابنك سؤاله أين أنت.",
+    "context": "تنهي المكالمة بنبرة عتاب تُظهر خيبة أملها."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Fine",
+        "ar": "حسنًا.",
+        "context": "قبول غير راض أو استسلام للموقف.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه كلمة رد مختصرة ولا تحمل زمنًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "Fine",
+            "description": "حسنًا أو لا بأس"
+          }
+        ]
+      },
+      {
+        "sentence": "but do not blame me",
+        "ar": "لكن لا تلمني.",
+        "context": "تحذير من تحميلها المسؤولية لاحقًا.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "do not blame صيغة نهي أو طلب بعدم فعل شيء."
+        },
+        "wordMeanings": [
+          {
+            "term": "but",
+            "description": "لكن"
+          },
+          {
+            "term": "do",
+            "description": "تأتي مع not لتكوين النهي"
+          },
+          {
+            "term": "not",
+            "description": "لا للنفي"
+          },
+          {
+            "term": "blame",
+            "description": "تلوم"
+          },
+          {
+            "term": "me",
+            "description": "أنا كمفعول، أي تلومني"
+          }
+        ]
+      },
+      {
+        "sentence": "if your son keeps asking where you are",
+        "ar": "إذا واصل ابنك السؤال أين أنت.",
+        "context": "يصف موقفًا محتملًا يسبب العتاب.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "keeps asking يصف استمرار الفعل، و where you are سؤال غير مباشر داخل الجملة."
+        },
+        "wordMeanings": [
+          {
+            "term": "if",
+            "description": "إذا أو إن"
+          },
+          {
+            "term": "your",
+            "description": "الخاص بك"
+          },
+          {
+            "term": "son",
+            "description": "ابن"
+          },
+          {
+            "term": "keeps",
+            "description": "يواصل أو يستمر"
+          },
+          {
+            "term": "asking",
+            "description": "يسأل"
+          },
+          {
+            "term": "where",
+            "description": "أين"
+          },
+          {
+            "term": "you",
+            "description": "أنت"
+          },
+          {
+            "term": "are",
+            "description": "تكون أو موجود"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Fine, but do not blame me later",
+        "ar": "حسنًا، لكن لا تلمني لاحقًا",
+        "context": "يقال عند قبول قرار مع تحذير"
+      },
+      {
+        "id": 2,
+        "en": "Do not blame her for the delay",
+        "ar": "لا تلمها على التأخير",
+        "context": "يقال للدفاع عن شخص"
+      },
+      {
+        "id": 3,
+        "en": "He keeps asking where you are",
+        "ar": "هو يواصل السؤال أين أنت",
+        "context": "يقال عن شخص ينتظر حضور أحد"
+      },
+      {
+        "id": 4,
+        "en": "Do not blame me if it rains",
+        "ar": "لا تلمني إذا هطل المطر",
+        "context": "يقال عندما لا تتحكم في النتيجة"
+      },
+      {
+        "id": 5,
+        "en": "She keeps calling your phone",
+        "ar": "هي تواصل الاتصال بهاتفك",
+        "context": "يقال عن فعل يتكرر بإلحاح"
+      },
+      {
+        "id": 6,
+        "en": "Fine, I will go now",
+        "ar": "حسنًا، سأذهب الآن",
+        "context": "يقال عند قبول أمر على مضض"
+      },
+      {
+        "id": 7,
+        "en": "Do not blame the child",
+        "ar": "لا تلم الطفل",
+        "context": "يقال عند طلب عدم معاقبة طفل"
+      },
+      {
+        "id": 8,
+        "en": "If he keeps crying, call me",
+        "ar": "إذا واصل البكاء، اتصل بي",
+        "context": "يقال عند إعطاء تعليمات لحالة محتملة"
+      },
+      {
+        "id": 9,
+        "en": "Where are you now",
+        "ar": "أين أنت الآن؟",
+        "context": "يقال عند البحث عن شخص"
+      },
+      {
+        "id": 10,
+        "en": "Your son keeps asking about you",
+        "ar": "ابنك يواصل السؤال عنك",
+        "context": "يقال لإبلاغ أب عن انتظار ابنه"
+      }
+    ]
+  }
+}

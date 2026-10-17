@@ -1,0 +1,139 @@
+{
+  "schemaVersion": 1,
+  "id": 1241,
+  "sentence": {
+    "en": "I have a question I would like to ask you.",
+    "ar": "لدي سؤال أود أن أطرحه عليك.",
+    "context": "طلب رسمي للسؤال."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "I have a question",
+        "ar": "لدي سؤال.",
+        "context": "يمهّد لطرح سؤال سيأتي بعده.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "يستخدم المضارع البسيط للتعبير عن حالة حالية لدى المتكلم، وهي وجود سؤال لديه."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "أنا، وتشير إلى المتكلم."
+          },
+          {
+            "term": "have",
+            "description": "لدي أو أملك."
+          },
+          {
+            "term": "a",
+            "description": "أداة تدل على شيء واحد غير محدد."
+          },
+          {
+            "term": "question",
+            "description": "سؤال."
+          }
+        ]
+      },
+      {
+        "sentence": "I would like to ask you",
+        "ar": "أود أن أطرحه عليك.",
+        "context": "يوضح السؤال الذي يريد المتحدث طرحه.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذا تركيب مهذب ورسمي للتعبير عن الرغبة في طرح سؤال، ولا يشرح كزمن مستقل لأن كلمة التهذيب تغيّر وظيفة العبارة إلى طلب لطيف."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "أنا، وتشير مرة أخرى إلى المتكلم."
+          },
+          {
+            "term": "would",
+            "description": "تجعل الطلب أكثر تهذيبًا ورسمية."
+          },
+          {
+            "term": "like",
+            "description": "أود أو أرغب."
+          },
+          {
+            "term": "to",
+            "description": "تربط الرغبة بالفعل بعدها."
+          },
+          {
+            "term": "ask",
+            "description": "أطرح سؤالًا أو أسأل."
+          },
+          {
+            "term": "you",
+            "description": "أنت أو عليك، وتشير إلى الشخص المخاطب."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I have a question I would like to ask you.",
+        "ar": "لدي سؤال أود أن أطرحه عليك.",
+        "context": "تقال عند طلب رسمي للسؤال."
+      },
+      {
+        "id": 2,
+        "en": "I have something I would like to ask you.",
+        "ar": "لدي شيء أود أن أسألك عنه.",
+        "context": "تقال قبل سؤال مهذب أو حساس."
+      },
+      {
+        "id": 3,
+        "en": "I would like to ask you a question.",
+        "ar": "أود أن أطرح عليك سؤالًا.",
+        "context": "تقال بصيغة رسمية قبل السؤال."
+      },
+      {
+        "id": 4,
+        "en": "I have a question I would like to discuss.",
+        "ar": "لدي سؤال أود مناقشته.",
+        "context": "تقال عند فتح موضوع يحتاج إلى توضيح."
+      },
+      {
+        "id": 5,
+        "en": "I have a question about your service.",
+        "ar": "لدي سؤال عن خدمتكم.",
+        "context": "تقال عند التواصل مع خدمة عملاء."
+      },
+      {
+        "id": 6,
+        "en": "I would like to ask about the price.",
+        "ar": "أود أن أسأل عن السعر.",
+        "context": "تقال عند الاستفسار بطريقة مهذبة."
+      },
+      {
+        "id": 7,
+        "en": "I would like to ask about the schedule.",
+        "ar": "أود أن أسأل عن الجدول.",
+        "context": "تقال عند الاستفسار عن مواعيد."
+      },
+      {
+        "id": 8,
+        "en": "I have a question about this appointment.",
+        "ar": "لدي سؤال عن هذا الموعد.",
+        "context": "تقال عند توضيح تفاصيل موعد."
+      },
+      {
+        "id": 9,
+        "en": "I have a question I would like to send by email.",
+        "ar": "لدي سؤال أود إرساله بالبريد الإلكتروني.",
+        "context": "تقال عند طلب إرسال استفسار كتابة."
+      },
+      {
+        "id": 10,
+        "en": "I would like to ask you about the reservation.",
+        "ar": "أود أن أسألك عن الحجز.",
+        "context": "تقال عند الاستفسار عن حجز بطريقة رسمية."
+      }
+    ]
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "schemaVersion": 1,
+  "id": 1504,
+  "sentence": {
+    "en": "Please close the door when you leave.",
+    "ar": "رجاءً أغلق الباب عندما تغادر.",
+    "context": "اطلب من شخص أن يغلق الباب عند خروجه."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Please close the door",
+        "ar": "رجاءً أغلق الباب",
+        "context": "هذا الجزء طلب مهذب لإغلاق الباب.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه صيغة طلب مهذب تبدأ بـ Please ويتبعها الفعل الأساسي close."
+        },
+        "wordMeanings": [
+          {
+            "term": "Please",
+            "description": "رجاءً أو من فضلك."
+          },
+          {
+            "term": "close",
+            "description": "أغلق."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف تشير إلى باب محدد."
+          },
+          {
+            "term": "door",
+            "description": "باب."
+          }
+        ]
+      },
+      {
+        "sentence": "when you leave",
+        "ar": "عندما تغادر",
+        "context": "هذا الجزء يحدد وقت تنفيذ الطلب.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُخدم المضارع البسيط بعد when للحديث عن حدث مستقبلي في جملة زمنية."
+        },
+        "wordMeanings": [
+          {
+            "term": "when",
+            "description": "عندما."
+          },
+          {
+            "term": "you",
+            "description": "ضمير للمخاطب."
+          },
+          {
+            "term": "leave",
+            "description": "تغادر أو تخرج."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Please turn off the light when you leave.",
+        "ar": "رجاءً أطفئ الضوء عندما تغادر.",
+        "context": "يقال عند طلب فعل قبل الخروج."
+      },
+      {
+        "id": 2,
+        "en": "Close the window when you leave.",
+        "ar": "أغلق النافذة عندما تغادر.",
+        "context": "يقال عند الحفاظ على المكان."
+      },
+      {
+        "id": 3,
+        "en": "Please close the door quietly.",
+        "ar": "رجاءً أغلق الباب بهدوء.",
+        "context": "يقال عند طلب الهدوء."
+      },
+      {
+        "id": 4,
+        "en": "Lock the door when you leave.",
+        "ar": "اقفل الباب عندما تغادر.",
+        "context": "يقال للحفاظ على الأمان."
+      },
+      {
+        "id": 5,
+        "en": "Please call me when you leave.",
+        "ar": "رجاءً اتصل بي عندما تغادر.",
+        "context": "يقال لمعرفة وقت خروج شخص."
+      },
+      {
+        "id": 6,
+        "en": "He closed the door before leaving.",
+        "ar": "أغلق الباب قبل المغادرة.",
+        "context": "يقال عن فعل حدث في الماضي."
+      },
+      {
+        "id": 7,
+        "en": "Please leave the door open.",
+        "ar": "رجاءً اترك الباب مفتوحًا.",
+        "context": "يقال عند طلب عكس الإغلاق."
+      },
+      {
+        "id": 8,
+        "en": "The door closes slowly.",
+        "ar": "الباب يُغلق ببطء.",
+        "context": "يقال عند وصف طريقة عمل الباب."
+      },
+      {
+        "id": 9,
+        "en": "Please check the room when you leave.",
+        "ar": "رجاءً تحقق من الغرفة عندما تغادر.",
+        "context": "يقال للتأكد من عدم نسيان شيء."
+      },
+      {
+        "id": 10,
+        "en": "Do not forget to close the door.",
+        "ar": "لا تنس إغلاق الباب.",
+        "context": "يقال كتذكير مباشر."
+      }
+    ]
+  }
+}

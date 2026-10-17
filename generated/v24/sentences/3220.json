@@ -1,0 +1,123 @@
+{
+  "schemaVersion": 1,
+  "id": 3220,
+  "sentence": {
+    "en": "Finish your work after you eat.",
+    "ar": "أنه عملك بعد أن تأكل.",
+    "context": "ربط حدثين حيث يأتي الفعل الثاني لاحقًا للأول باستخدام أداة ربط."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Finish your work",
+        "ar": "أنهِ عملك",
+        "context": "هذا أمر مباشر يطلب من الشخص إكمال عمله.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه صيغة أمر، لذلك لا تعامل كزمن خبري مثل المضارع أو الماضي."
+        },
+        "wordMeanings": [
+          {
+            "term": "Finish",
+            "description": "أنهِ أو أكمل؛ اجعل العمل منتهيا."
+          },
+          {
+            "term": "your",
+            "description": "خاصتك؛ تبين أن العمل يعود إلى المخاطب."
+          },
+          {
+            "term": "work",
+            "description": "عمل؛ مهمة أو واجب يجب إنجازه."
+          }
+        ]
+      },
+      {
+        "sentence": "after you eat.",
+        "ar": "بعد أن تأكل.",
+        "context": "تحدد العبارة أن إكمال العمل يأتي بعد الأكل.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُخدم eat في المضارع البسيط داخل جملة زمنية بعد after للإشارة إلى حدث مستقبلي مرتب زمنيا."
+        },
+        "wordMeanings": [
+          {
+            "term": "after",
+            "description": "بعد؛ تربط حدثا بحدث آخر يأتي قبله."
+          },
+          {
+            "term": "you",
+            "description": "أنت؛ الشخص المخاطب."
+          },
+          {
+            "term": "eat",
+            "description": "تأكل؛ تتناول الطعام."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Finish your work after you eat.",
+        "ar": "أنهِ عملك بعد أن تأكل.",
+        "context": "تطلب إنهاء العمل بعد الطعام."
+      },
+      {
+        "id": 2,
+        "en": "Finish your homework after you eat.",
+        "ar": "أنهِ واجبك بعد أن تأكل.",
+        "context": "تغير نوع العمل."
+      },
+      {
+        "id": 3,
+        "en": "Finish your work after you rest.",
+        "ar": "أنهِ عملك بعد أن ترتاح.",
+        "context": "تغير الحدث الذي يأتي أولا."
+      },
+      {
+        "id": 4,
+        "en": "Do not finish your work before you eat.",
+        "ar": "لا تُنهِ عملك قبل أن تأكل.",
+        "context": "تعطي أمرا منفيا بترتيب مختلف."
+      },
+      {
+        "id": 5,
+        "en": "Can you finish your work after you eat?",
+        "ar": "هل يمكنك إنهاء عملك بعد أن تأكل؟",
+        "context": "تطلب الشيء بصيغة سؤال مهذب."
+      },
+      {
+        "id": 6,
+        "en": "You finished your work after you ate.",
+        "ar": "أنهيت عملك بعد أن أكلت.",
+        "context": "تنقل الحدثين إلى الماضي."
+      },
+      {
+        "id": 7,
+        "en": "You will finish your work after you eat.",
+        "ar": "ستنهي عملك بعد أن تأكل.",
+        "context": "تتحدث عن ترتيب مستقبلي."
+      },
+      {
+        "id": 8,
+        "en": "Finish your work after you eat dinner.",
+        "ar": "أنهِ عملك بعد أن تأكل العشاء.",
+        "context": "تحدد نوع الطعام."
+      },
+      {
+        "id": 9,
+        "en": "Finish your work after you eat, so you can focus.",
+        "ar": "أنهِ عملك بعد أن تأكل حتى تستطيع التركيز.",
+        "context": "تذكر سبب هذا الترتيب."
+      },
+      {
+        "id": 10,
+        "en": "Finish your work after you eat, but do not stay up late.",
+        "ar": "أنهِ عملك بعد أن تأكل، لكن لا تسهر كثيرا.",
+        "context": "تضيف تنبيها بعد الأمر."
+      }
+    ]
+  }
+}

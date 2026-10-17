@@ -1,0 +1,127 @@
+{
+  "schemaVersion": 1,
+  "id": 50,
+  "sentence": {
+    "en": "I am coming to pick you up.",
+    "ar": "أنا قادم لأوصلك.",
+    "context": "قل أنك قادم لتوصيل شخص."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "I am coming",
+        "ar": "أنا قادم.",
+        "context": "يبدأ به المتحدث الفكرة الأساسية قبل إضافة التفاصيل.",
+        "grammar": {
+          "tense": "المضارع المستمر",
+          "tenseEn": "Present Continuous",
+          "reason": "تستخدم am مع الفعل المنتهي ب ing للتعبير عن حركة تحدث الآن أو ترتيب قريب، وهو أن المتكلم في طريقه."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير المتكلم ويشير إلى الشخص الذي يتحدث."
+          },
+          {
+            "term": "am",
+            "description": "صيغة تأتي مع ضمير المتكلم المفرد وتساعد على وصف حركة تحدث الآن أو قريبًا."
+          },
+          {
+            "term": "coming",
+            "description": "قادم أو في طريقي نحو مكان المخاطب."
+          }
+        ]
+      },
+      {
+        "sentence": "to pick you up",
+        "ar": "لأوصلك.",
+        "context": "يوضح الغرض أو الفعل المقصود بعد العبارة السابقة.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذا جزء يوضح الغرض من القدوم، والتعبير pick you up يعني اصطحابك أو أخذك من مكانك، ولا يحمل زمنًا مستقلًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "to",
+            "description": "تأتي قبل الفعل لتوضح الغرض من القدوم."
+          },
+          {
+            "term": "pick",
+            "description": "جزء من تعبير يعني آتي لأخذ شخص من مكانه."
+          },
+          {
+            "term": "you",
+            "description": "ضمير يشير إلى الشخص الذي أتحدث معه."
+          },
+          {
+            "term": "up",
+            "description": "جزء من التعبير الذي يعني اصطحاب شخص أو توصيله من مكانه."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I am coming to help you.",
+        "ar": "أنا قادم لمساعدتك.",
+        "context": "تقال عند التحرك نحو شخص لتقديم المساعدة."
+      },
+      {
+        "id": 2,
+        "en": "She is coming to pick me up.",
+        "ar": "هي قادمة لتأخذني.",
+        "context": "تقال عند انتظار شخص سيأتي لاصطحاب المتكلم."
+      },
+      {
+        "id": 3,
+        "en": "We are coming to visit you.",
+        "ar": "نحن قادمون لزيارتك.",
+        "context": "تقال عند إبلاغ شخص بزيارة قريبة."
+      },
+      {
+        "id": 4,
+        "en": "He is coming to take us home.",
+        "ar": "هو قادم ليأخذنا إلى البيت.",
+        "context": "تقال عند انتظار من سيصطحب المجموعة."
+      },
+      {
+        "id": 5,
+        "en": "I am coming to the station now.",
+        "ar": "أنا قادم إلى المحطة الآن.",
+        "context": "تقال أثناء التوجه إلى محطة."
+      },
+      {
+        "id": 6,
+        "en": "They are coming to meet us.",
+        "ar": "هم قادمون لمقابلتنا.",
+        "context": "تقال عند ترتيب لقاء قريب."
+      },
+      {
+        "id": 7,
+        "en": "My brother is coming to pick up the children.",
+        "ar": "أخي قادم ليأخذ الأطفال.",
+        "context": "تقال عند إبلاغ شخص بمن سيصطحب الأطفال."
+      },
+      {
+        "id": 8,
+        "en": "I am coming to get you after work.",
+        "ar": "أنا قادم لأخذك بعد العمل.",
+        "context": "تقال عند ترتيب اصطحاب شخص بعد الدوام."
+      },
+      {
+        "id": 9,
+        "en": "The driver is coming to pick you up.",
+        "ar": "السائق قادم ليأخذك.",
+        "context": "تقال عند إبلاغ شخص بوصول سيارة أو سائق."
+      },
+      {
+        "id": 10,
+        "en": "I am coming to take you to school.",
+        "ar": "أنا قادم لأوصلك إلى المدرسة.",
+        "context": "تقال عند عرض توصيل شخص إلى المدرسة."
+      }
+    ]
+  }
+}

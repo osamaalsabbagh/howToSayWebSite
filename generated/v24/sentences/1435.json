@@ -1,0 +1,139 @@
+{
+  "schemaVersion": 1,
+  "id": 1435,
+  "sentence": {
+    "en": "He is wearing a warm coat because it is snowing.",
+    "ar": "هو يرتدي معطفًا دافئًا لأنها تثلج.",
+    "context": "صف ملابس شخص تحميه من الطقس البارد أثناء تساقط الثلوج."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "He is wearing a warm coat",
+        "ar": "هو يرتدي معطفًا دافئًا",
+        "context": "هذا الجزء يصف ما يلبسه الشخص الآن للحماية من البرد.",
+        "grammar": {
+          "tense": "المضارع المستمر",
+          "tenseEn": "Present Continuous",
+          "reason": "استُخدم is wearing لأن اللبس حالة تحدث الآن في هذا الموقف."
+        },
+        "wordMeanings": [
+          {
+            "term": "He",
+            "description": "ضمير يشير إلى رجل أو ولد."
+          },
+          {
+            "term": "is",
+            "description": "صيغة تأتي مع المفرد وتساعد في تكوين الفعل المستمر."
+          },
+          {
+            "term": "wearing",
+            "description": "يرتدي أو يلبس."
+          },
+          {
+            "term": "a",
+            "description": "أداة تدل على شيء واحد غير محدد."
+          },
+          {
+            "term": "warm",
+            "description": "دافئ."
+          },
+          {
+            "term": "coat",
+            "description": "معطف."
+          }
+        ]
+      },
+      {
+        "sentence": "because it is snowing",
+        "ar": "لأنها تثلج",
+        "context": "هذا الجزء يوضح سبب ارتداء المعطف وهو تساقط الثلج.",
+        "grammar": {
+          "tense": "المضارع المستمر",
+          "tenseEn": "Present Continuous",
+          "reason": "استُخدم is snowing لأن تساقط الثلج يحدث الآن أو في وقت الكلام."
+        },
+        "wordMeanings": [
+          {
+            "term": "because",
+            "description": "لأن، وتوضح السبب."
+          },
+          {
+            "term": "it",
+            "description": "ضمير يستخدم للطقس أو الحالة العامة."
+          },
+          {
+            "term": "is",
+            "description": "صيغة تساعد في تكوين الفعل المستمر مع حالة الطقس."
+          },
+          {
+            "term": "snowing",
+            "description": "يتساقط الثلج."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "She is wearing a coat because it is cold.",
+        "ar": "هي ترتدي معطفًا لأن الجو بارد.",
+        "context": "يقال عند ربط الملابس بالطقس."
+      },
+      {
+        "id": 2,
+        "en": "He is wearing boots because it is raining.",
+        "ar": "هو يرتدي حذاءً طويلًا لأنها تمطر.",
+        "context": "يقال عند اختيار ملابس مناسبة للمطر."
+      },
+      {
+        "id": 3,
+        "en": "They are wearing warm clothes today.",
+        "ar": "هم يرتدون ملابس دافئة اليوم.",
+        "context": "يقال عند وصف ملابس في يوم بارد."
+      },
+      {
+        "id": 4,
+        "en": "It is snowing outside now.",
+        "ar": "الثلج يتساقط في الخارج الآن.",
+        "context": "يقال عند وصف الطقس الحالي."
+      },
+      {
+        "id": 5,
+        "en": "He wore a warm coat yesterday.",
+        "ar": "ارتدى معطفًا دافئًا أمس.",
+        "context": "يقال عن لبس حدث في الماضي."
+      },
+      {
+        "id": 6,
+        "en": "She is carrying an umbrella because it is raining.",
+        "ar": "هي تحمل مظلة لأنها تمطر.",
+        "context": "يقال عند توضيح سبب استخدام المظلة."
+      },
+      {
+        "id": 7,
+        "en": "He is wearing a hat because it is sunny.",
+        "ar": "هو يرتدي قبعة لأن الجو مشمس.",
+        "context": "يقال عند الحماية من الشمس."
+      },
+      {
+        "id": 8,
+        "en": "The child is wearing gloves.",
+        "ar": "الطفل يرتدي قفازات.",
+        "context": "يقال عند وصف ملابس دافئة."
+      },
+      {
+        "id": 9,
+        "en": "I am wearing a jacket because it is windy.",
+        "ar": "أنا أرتدي سترة لأن الجو عاصف.",
+        "context": "يقال عند اختيار ملابس للهواء البارد."
+      },
+      {
+        "id": 10,
+        "en": "He is staying inside because it is snowing.",
+        "ar": "هو يبقى في الداخل لأنها تثلج.",
+        "context": "يقال عند ربط البقاء في البيت بالثلج."
+      }
+    ]
+  }
+}

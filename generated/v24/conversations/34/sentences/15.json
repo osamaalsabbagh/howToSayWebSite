@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": 15,
+  "sentence": {
+    "en": "Are you serious?",
+    "ar": "هل أنت جاد؟",
+    "context": "تسأله بنبرة استغراب بعد مزاحه."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Are you serious",
+        "ar": "هل أنت جاد؟",
+        "context": "سؤال قصير للتعبير عن الاستغراب أو التحقق.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "Are you يستخدم للسؤال عن حالة أو صفة حالية."
+        },
+        "wordMeanings": [
+          {
+            "term": "Are",
+            "description": "صيغة سؤال مع أنت أو أنتم"
+          },
+          {
+            "term": "you",
+            "description": "أنت"
+          },
+          {
+            "term": "serious",
+            "description": "جاد أو تتكلم بجدية"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Are you ready",
+        "ar": "هل أنت جاهز؟",
+        "context": "يقال للتحقق من الاستعداد"
+      },
+      {
+        "id": 2,
+        "en": "Are you sure",
+        "ar": "هل أنت متأكد؟",
+        "context": "يقال عند طلب تأكيد"
+      },
+      {
+        "id": 3,
+        "en": "Are you busy now",
+        "ar": "هل أنت مشغول الآن؟",
+        "context": "يقال قبل طلب شيء من شخص"
+      },
+      {
+        "id": 4,
+        "en": "Are you joking",
+        "ar": "هل تمزح؟",
+        "context": "يقال عند الاستغراب من كلام شخص"
+      },
+      {
+        "id": 5,
+        "en": "Are you happy with it",
+        "ar": "هل أنت سعيد به؟",
+        "context": "يقال للسؤال عن الرضا"
+      },
+      {
+        "id": 6,
+        "en": "Are you tired",
+        "ar": "هل أنت متعب؟",
+        "context": "يقال للاطمئنان على حالة شخص"
+      },
+      {
+        "id": 7,
+        "en": "Are you in the office",
+        "ar": "هل أنت في المكتب؟",
+        "context": "يقال للتحقق من مكان شخص"
+      },
+      {
+        "id": 8,
+        "en": "Are you free tonight",
+        "ar": "هل أنت متفرغ الليلة؟",
+        "context": "يقال قبل اقتراح موعد"
+      },
+      {
+        "id": 9,
+        "en": "Are you angry",
+        "ar": "هل أنت غاضب؟",
+        "context": "يقال عند ملاحظة انزعاج"
+      },
+      {
+        "id": 10,
+        "en": "Are you serious about this plan",
+        "ar": "هل أنت جاد بشأن هذه الخطة؟",
+        "context": "يقال للتحقق من جدية قرار"
+      }
+    ]
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": 750,
+  "sentence": {
+    "en": "Do you understand?",
+    "ar": "هل تفهم؟",
+    "context": "التحقق مما إذا كان الشخص قد فهم ما قيل."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Do you understand?",
+        "ar": "هل تفهم؟",
+        "context": "سؤال للتأكد من وصول الفكرة.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "يستخدم المضارع البسيط مع understand للسؤال عن الفهم الحالي أو العام."
+        },
+        "wordMeanings": [
+          {
+            "term": "Do",
+            "description": "أداة سؤال في المضارع البسيط"
+          },
+          {
+            "term": "you",
+            "description": "الشخص المخاطب"
+          },
+          {
+            "term": "understand",
+            "description": "تفهم أو تستوعب المعنى"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Do you understand the lesson?",
+        "ar": "هل تفهم الدرس؟",
+        "context": "للتأكد من فهم درس."
+      },
+      {
+        "id": 2,
+        "en": "Do you understand me?",
+        "ar": "هل تفهمني؟",
+        "context": "للتأكد من وضوح الكلام."
+      },
+      {
+        "id": 3,
+        "en": "Do you understand the question?",
+        "ar": "هل تفهم السؤال؟",
+        "context": "قبل الإجابة عن سؤال."
+      },
+      {
+        "id": 4,
+        "en": "Do they understand the rules?",
+        "ar": "هل يفهمون القواعد؟",
+        "context": "للتأكد من فهم مجموعة للتعليمات."
+      },
+      {
+        "id": 5,
+        "en": "Do you understand this word?",
+        "ar": "هل تفهم هذه الكلمة؟",
+        "context": "عند تعلم كلمة جديدة."
+      },
+      {
+        "id": 6,
+        "en": "Do you understand the problem?",
+        "ar": "هل تفهم المشكلة؟",
+        "context": "قبل محاولة حل مشكلة."
+      },
+      {
+        "id": 7,
+        "en": "Do you understand the map?",
+        "ar": "هل تفهم الخريطة؟",
+        "context": "للتأكد من قراءة خريطة."
+      },
+      {
+        "id": 8,
+        "en": "Do you understand the message?",
+        "ar": "هل تفهم الرسالة؟",
+        "context": "بعد قراءة رسالة."
+      },
+      {
+        "id": 9,
+        "en": "Do you understand why?",
+        "ar": "هل تفهم لماذا؟",
+        "context": "للسؤال عن فهم السبب."
+      },
+      {
+        "id": 10,
+        "en": "Do you understand now?",
+        "ar": "هل تفهم الآن؟",
+        "context": "بعد شرح أو توضيح."
+      }
+    ]
+  }
+}

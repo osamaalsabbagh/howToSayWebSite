@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": 10660,
+  "sentence": {
+    "en": "I attended a subsequent meeting with the client.",
+    "ar": "أنا حضرت اجتماعًا لاحقًا مع العميل.",
+    "context": "أنت تناقش حضور اجتماع مع عميل بعد اجتماع سابق. أنت تروي ما حصل بشأن الاجتماع اللاحق أمس.",
+    "sourceWord": "subsequent",
+    "sourcePos": "adj."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "I attended a subsequent meeting with the client.",
+        "ar": "أنا حضرت اجتماعًا لاحقًا مع العميل.",
+        "context": "أنت تناقش حضور اجتماع مع عميل بعد اجتماع سابق. أنت تروي ما حصل بشأن الاجتماع اللاحق أمس.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "أخبر عن حدث أو حالة في وقت ماضٍ انتهى، بالماضي البسيط. التصريف الماضي يصف حدثًا منتهيًا. لاحق لحدث سابق."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "أنا؛ ضمير المتكلم المفرد"
+          },
+          {
+            "term": "attended",
+            "description": "حضرت؛ لاحق لحدث سابق. التصريف الماضي للفعل."
+          },
+          {
+            "term": "a",
+            "description": "أداة نكرة لاجتماع"
+          },
+          {
+            "term": "subsequent",
+            "description": "لاحق"
+          },
+          {
+            "term": "meeting",
+            "description": "اجتماع"
+          },
+          {
+            "term": "with",
+            "description": "مع"
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف للعميل"
+          },
+          {
+            "term": "client",
+            "description": "عميل"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I attended a subsequent meeting with the client.",
+        "ar": "أنا حضرت اجتماعًا لاحقًا مع العميل.",
+        "context": "أنت تناقش حضور اجتماع مع عميل بعد اجتماع سابق. أنت تروي ما حصل بشأن الاجتماع اللاحق أمس."
+      },
+      {
+        "id": 2,
+        "en": "I attend a subsequent meeting with the client.",
+        "ar": "أنا أحضر اجتماعًا لاحقًا مع العميل.",
+        "context": "أنت تناقش حضور اجتماع مع عميل بعد اجتماع سابق. أنت تشرح عادتك أو وضعك الحالي فيما يخص الاجتماع اللاحق."
+      },
+      {
+        "id": 3,
+        "en": "I do not attend a subsequent meeting with the client.",
+        "ar": "أنا لا أحضر اجتماعًا لاحقًا مع العميل.",
+        "context": "أنت تناقش حضور اجتماع مع عميل بعد اجتماع سابق. أنت توضح أن هذا ليس من عادتك أو وصفًا لوضعك الحالي."
+      },
+      {
+        "id": 4,
+        "en": "I am attending a subsequent meeting with the client.",
+        "ar": "أنا أحضر اجتماعًا لاحقًا مع العميل.",
+        "context": "أنت تناقش حضور اجتماع مع عميل بعد اجتماع سابق. أنت في أثناء التعامل مع الاجتماع اللاحق الآن."
+      },
+      {
+        "id": 5,
+        "en": "I am not attending a subsequent meeting with the client.",
+        "ar": "أنا لا أحضر اجتماعًا لاحقًا مع العميل.",
+        "context": "أنت تناقش حضور اجتماع مع عميل بعد اجتماع سابق. أنت تصحح توقعًا بشأن ما تفعله الآن وتوضح أن هذا النشاط لا يجري."
+      },
+      {
+        "id": 6,
+        "en": "I did not attend a subsequent meeting with the client.",
+        "ar": "أنا لم أحضر اجتماعًا لاحقًا مع العميل.",
+        "context": "أنت تناقش حضور اجتماع مع عميل بعد اجتماع سابق. أنت تصحح رواية عن أحداث أمس وتوضح أن هذا الأمر لم يحصل."
+      },
+      {
+        "id": 7,
+        "en": "I have attended a subsequent meeting with the client.",
+        "ar": "أنا قد حضرت اجتماعًا لاحقًا مع العميل.",
+        "context": "أنت تناقش حضور اجتماع مع عميل بعد اجتماع سابق. أنت تناقش ما أنجزته أو خبرتك السابقة بشأن الاجتماع اللاحق، لأن ذلك مهم لموقفك الآن."
+      },
+      {
+        "id": 8,
+        "en": "I have not attended a subsequent meeting with the client.",
+        "ar": "أنا لم أحضر اجتماعًا لاحقًا مع العميل.",
+        "context": "أنت تناقش حضور اجتماع مع عميل بعد اجتماع سابق. أنت تناقش ما تم حتى الآن وتوضح أن هذا الأمر لم يتم بعد."
+      },
+      {
+        "id": 9,
+        "en": "I will attend a subsequent meeting with the client.",
+        "ar": "أنا سأحضر اجتماعًا لاحقًا مع العميل.",
+        "context": "أنت تناقش حضور اجتماع مع عميل بعد اجتماع سابق. أنت تتحدث عن خططك أو توقعاتك بشأن الاجتماع اللاحق غدًا."
+      },
+      {
+        "id": 10,
+        "en": "I will not attend a subsequent meeting with the client.",
+        "ar": "أنا لن أحضر اجتماعًا لاحقًا مع العميل.",
+        "context": "أنت تناقش حضور اجتماع مع عميل بعد اجتماع سابق. أنت تناقش خطط الغد وتوضح أن هذا الأمر لن يحدث."
+      }
+    ]
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "schemaVersion": 1,
+  "id": 1911,
+  "sentence": {
+    "en": "The first lesson starts at 9 a.m.",
+    "ar": "الدرس الأول يبدأ في الساعة التاسعة صباحًا.",
+    "context": "الإشارة إلى بداية حصة تعليمية مجدولة في الصباح."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "The first lesson starts at 9 a.m.",
+        "ar": "يبدأ الدرس الأول عند الساعة التاسعة صباحًا.",
+        "context": "تحدد الجملة موعد بداية حصة تعليمية في الصباح.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استخدم starts لوصف موعد مجدول، و at 9 a.m. يحدد وقت البداية."
+        },
+        "wordMeanings": [
+          {
+            "term": "The",
+            "description": "أداة تعريف لشيء محدد"
+          },
+          {
+            "term": "first",
+            "description": "الأول في الترتيب"
+          },
+          {
+            "term": "lesson",
+            "description": "درس أو حصة تعليمية"
+          },
+          {
+            "term": "starts",
+            "description": "يبدأ"
+          },
+          {
+            "term": "at",
+            "description": "عند، تستخدم مع الوقت المحدد"
+          },
+          {
+            "term": "9",
+            "description": "الساعة التاسعة"
+          },
+          {
+            "term": "a",
+            "description": "جزء من اختصار يدل على وقت الصباح"
+          },
+          {
+            "term": "m",
+            "description": "يكمل اختصار الوقت الصباحي"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "The class starts at 8 a.m.",
+        "ar": "يبدأ الصف عند الثامنة صباحًا.",
+        "context": "يقال عن موعد حصة."
+      },
+      {
+        "id": 2,
+        "en": "The meeting starts at 9 a.m.",
+        "ar": "يبدأ الاجتماع عند التاسعة صباحًا.",
+        "context": "موعد صباحي رسمي."
+      },
+      {
+        "id": 3,
+        "en": "The first bus leaves at seven.",
+        "ar": "تغادر أول حافلة عند السابعة.",
+        "context": "يستخدم عن أول موعد في جدول."
+      },
+      {
+        "id": 4,
+        "en": "The lesson starts after breakfast.",
+        "ar": "يبدأ الدرس بعد الإفطار.",
+        "context": "تحديد بداية بوقت نسبي."
+      },
+      {
+        "id": 5,
+        "en": "School starts at nine.",
+        "ar": "تبدأ المدرسة عند التاسعة.",
+        "context": "يقال عن جدول دراسي."
+      },
+      {
+        "id": 6,
+        "en": "The last lesson ends at noon.",
+        "ar": "ينتهي الدرس الأخير عند الظهر.",
+        "context": "يستخدم عن نهاية حصة."
+      },
+      {
+        "id": 7,
+        "en": "The first lesson is easy.",
+        "ar": "الدرس الأول سهل.",
+        "context": "وصف درس في الترتيب."
+      },
+      {
+        "id": 8,
+        "en": "We arrive before 9 a.m.",
+        "ar": "نصل قبل التاسعة صباحًا.",
+        "context": "يقال عن الوصول قبل موعد."
+      },
+      {
+        "id": 9,
+        "en": "The course starts tomorrow.",
+        "ar": "تبدأ الدورة غدًا.",
+        "context": "موعد بداية قريب."
+      },
+      {
+        "id": 10,
+        "en": "The lesson starts on time.",
+        "ar": "يبدأ الدرس في الوقت المحدد.",
+        "context": "يستخدم عن الالتزام بالجدول."
+      }
+    ]
+  }
+}

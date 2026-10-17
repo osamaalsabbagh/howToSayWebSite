@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "id": 514,
+  "sentence": {
+    "en": "Did it snow yesterday?",
+    "ar": "هل تساقط الثلج أمس؟",
+    "context": "السؤال عن أحوال الطقس في اليوم السابق."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Did it snow yesterday?",
+        "ar": "هل تساقط الثلج أمس؟",
+        "context": "سؤال عن حدوث تساقط الثلج في اليوم السابق.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "Did يستخدم لتكوين سؤال عن فعل حدث أو لم يحدث في الماضي، وyesterday يحدد الماضي."
+        },
+        "wordMeanings": [
+          {
+            "term": "Did",
+            "description": "تساعد في تكوين سؤال عن الماضي."
+          },
+          {
+            "term": "it",
+            "description": "ضمير يستخدم مع الطقس."
+          },
+          {
+            "term": "snow",
+            "description": "تعني يتساقط الثلج."
+          },
+          {
+            "term": "yesterday",
+            "description": "تعني أمس."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Did it rain yesterday?",
+        "ar": "هل أمطرت أمس؟",
+        "context": "سؤال عن طقس الأمس."
+      },
+      {
+        "id": 2,
+        "en": "It snowed yesterday.",
+        "ar": "تساقط الثلج أمس.",
+        "context": "إخبار عن طقس سابق."
+      },
+      {
+        "id": 3,
+        "en": "Did it snow last night?",
+        "ar": "هل تساقط الثلج الليلة الماضية؟",
+        "context": "سؤال عن وقت سابق محدد."
+      },
+      {
+        "id": 4,
+        "en": "It did not snow yesterday.",
+        "ar": "لم يتساقط الثلج أمس.",
+        "context": "نفي حدوث الثلج."
+      },
+      {
+        "id": 5,
+        "en": "Was it cold yesterday?",
+        "ar": "هل كان الجو باردًا أمس؟",
+        "context": "سؤال عن حالة الطقس."
+      },
+      {
+        "id": 6,
+        "en": "Did the weather change yesterday?",
+        "ar": "هل تغير الطقس أمس؟",
+        "context": "سؤال عن تغير الطقس."
+      },
+      {
+        "id": 7,
+        "en": "It rained all day yesterday.",
+        "ar": "أمطرت طوال اليوم أمس.",
+        "context": "وصف طقس سابق."
+      },
+      {
+        "id": 8,
+        "en": "Did it snow in the city?",
+        "ar": "هل تساقط الثلج في المدينة؟",
+        "context": "سؤال عن مكان محدد."
+      },
+      {
+        "id": 9,
+        "en": "The snow started yesterday.",
+        "ar": "بدأ الثلج أمس.",
+        "context": "ذكر بداية حدث طقسي."
+      },
+      {
+        "id": 10,
+        "en": "Did you see the snow yesterday?",
+        "ar": "هل رأيت الثلج أمس؟",
+        "context": "سؤال عن رؤية الثلج."
+      }
+    ]
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "schemaVersion": 1,
+  "id": 5,
+  "sentence": {
+    "en": "Good choice. The beginning of the evening should be light.",
+    "ar": "خيار جيد. بداية المساء يجب أن تكون خفيفة.",
+    "context": "يصف أول جزء من السهرة بأنه من الأفضل أن يكون خفيفًا."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Good choice.",
+        "ar": "خيار جيد.",
+        "context": "تستعمل لمدح القرار أو الطلب الذي اختاره الشخص.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه عبارة قصيرة بلا فعل ظاهر، لذلك تشرح كتركيب وصفي لا كزمن."
+        },
+        "wordMeanings": [
+          {
+            "term": "Good",
+            "description": "جيد أو مناسب"
+          },
+          {
+            "term": "choice",
+            "description": "اختيار أو قرار بين بدائل"
+          }
+        ]
+      },
+      {
+        "sentence": "The beginning of the evening should be light.",
+        "ar": "بداية المساء يجب أن تكون خفيفة.",
+        "context": "توضح رأيًا بأن أول السهرة أو الوجبة لا ينبغي أن يكون ثقيلًا.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "should be يعبر عن نصيحة أو توقع مناسب، وليس زمنًا مستقلًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "The",
+            "description": "تحدد بداية معروفة في السياق"
+          },
+          {
+            "term": "beginning",
+            "description": "البداية أو أول جزء"
+          },
+          {
+            "term": "of",
+            "description": "تربط البداية بالمساء"
+          },
+          {
+            "term": "the",
+            "description": "تحدد مساءً معينًا"
+          },
+          {
+            "term": "evening",
+            "description": "المساء أو وقت السهرة"
+          },
+          {
+            "term": "should",
+            "description": "تدل على ما هو مناسب أو مفضل"
+          },
+          {
+            "term": "be",
+            "description": "تأتي بعد should لوصف الحالة المطلوبة"
+          },
+          {
+            "term": "light",
+            "description": "خفيف وغير ثقيل"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Good choice. The soup should be light.",
+        "ar": "خيار جيد. يجب أن يكون الحساء خفيفًا.",
+        "context": "تقال عند تأييد اختيار طعام خفيف."
+      },
+      {
+        "id": 2,
+        "en": "Good choice. The first course should be simple.",
+        "ar": "خيار جيد. يجب أن يكون الطبق الأول بسيطًا.",
+        "context": "تقال عند الحديث عن بداية وجبة."
+      },
+      {
+        "id": 3,
+        "en": "The beginning of the meeting should be short.",
+        "ar": "يجب أن تكون بداية الاجتماع قصيرة.",
+        "context": "تقال عند تنظيم اجتماع دون إطالة."
+      },
+      {
+        "id": 4,
+        "en": "The beginning of the day should be calm.",
+        "ar": "يجب أن تكون بداية اليوم هادئة.",
+        "context": "تقال عند تفضيل بداية هادئة."
+      },
+      {
+        "id": 5,
+        "en": "Good choice. This salad is light.",
+        "ar": "خيار جيد. هذه السلطة خفيفة.",
+        "context": "تقال عند مدح اختيار سلطة."
+      },
+      {
+        "id": 6,
+        "en": "The meal should be light tonight.",
+        "ar": "يجب أن تكون الوجبة خفيفة الليلة.",
+        "context": "تقال عند عدم الرغبة في طعام ثقيل."
+      },
+      {
+        "id": 7,
+        "en": "The beginning of the trip should be easy.",
+        "ar": "يجب أن تكون بداية الرحلة سهلة.",
+        "context": "تقال عند التخطيط لرحلة مريحة."
+      },
+      {
+        "id": 8,
+        "en": "Good choice. The plan should be clear.",
+        "ar": "خيار جيد. يجب أن تكون الخطة واضحة.",
+        "context": "تقال عند تأييد خطة منظمة."
+      },
+      {
+        "id": 9,
+        "en": "The evening should be quiet.",
+        "ar": "يجب أن يكون المساء هادئًا.",
+        "context": "تقال عند الرغبة في سهرة هادئة."
+      },
+      {
+        "id": 10,
+        "en": "Good choice. Let us keep it light.",
+        "ar": "خيار جيد. لنجعله خفيفًا.",
+        "context": "تقال عند الاتفاق على عدم المبالغة في الطلب."
+      }
+    ]
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "schemaVersion": 1,
+  "id": 3252,
+  "sentence": {
+    "en": "Although it was raining, we went out.",
+    "ar": "على الرغم من أنه كان يمطر، نحن خرجنا.",
+    "context": "حدوث فعل رغم وجود سبب يمنع ذلك."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Although it was raining,",
+        "ar": "على الرغم من أنه كان يمطر،",
+        "context": "تعرض العبارة حالة المطر كسبب كان يمكن أن يمنع الخروج.",
+        "grammar": {
+          "tense": "الماضي المستمر",
+          "tenseEn": "Past Continuous",
+          "reason": "استُخدم was raining لوصف حالة مستمرة في الماضي كانت موجودة وقت القرار بالخروج."
+        },
+        "wordMeanings": [
+          {
+            "term": "Although",
+            "description": "على الرغم من؛ تربط بين مانع أو صعوبة ونتيجة حدثت رغم ذلك."
+          },
+          {
+            "term": "it",
+            "description": "ضمير يستخدم مع الطقس في الإنجليزية."
+          },
+          {
+            "term": "was",
+            "description": "فعل مساعد للماضي المستمر مع it."
+          },
+          {
+            "term": "raining",
+            "description": "يمطر؛ نزول المطر، بصيغة ing."
+          }
+        ]
+      },
+      {
+        "sentence": "we went out.",
+        "ar": "خرجنا.",
+        "context": "تذكر الجملة الرئيسية الفعل الذي حدث رغم المطر.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "استُخدم went out لأن الخروج حدث وانتهى في الماضي."
+        },
+        "wordMeanings": [
+          {
+            "term": "we",
+            "description": "نحن؛ المتكلم ومعه شخص أو أكثر."
+          },
+          {
+            "term": "went",
+            "description": "ذهبنا؛ الماضي من go."
+          },
+          {
+            "term": "out",
+            "description": "إلى الخارج؛ خارج البيت أو المكان الموجودين فيه."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Although it was raining, we went out.",
+        "ar": "على الرغم من أنه كان يمطر، خرجنا.",
+        "context": "تصف فعلا حدث رغم المطر."
+      },
+      {
+        "id": 2,
+        "en": "Although it was snowing, we went out.",
+        "ar": "على الرغم من أنه كان يثلج، خرجنا.",
+        "context": "تغير حالة الطقس."
+      },
+      {
+        "id": 3,
+        "en": "Although it was raining, they went out.",
+        "ar": "على الرغم من أنه كان يمطر، خرجوا.",
+        "context": "تغير الفاعل في الجملة الرئيسية."
+      },
+      {
+        "id": 4,
+        "en": "Although it was raining, we did not go out.",
+        "ar": "على الرغم من أنه كان يمطر، لم نخرج.",
+        "context": "تنفي الخروج رغم وجود although."
+      },
+      {
+        "id": 5,
+        "en": "Did we go out although it was raining?",
+        "ar": "هل خرجنا على الرغم من أنه كان يمطر؟",
+        "context": "تسأل عن حدوث الفعل رغم المطر."
+      },
+      {
+        "id": 6,
+        "en": "Although it is raining, we are going out.",
+        "ar": "على الرغم من أنه يمطر، نحن نخرج.",
+        "context": "تنقل الموقف إلى الحاضر."
+      },
+      {
+        "id": 7,
+        "en": "Although it may rain, we will go out.",
+        "ar": "على الرغم من أنه قد يمطر، سنخرج.",
+        "context": "تتحدث عن احتمال مستقبلي."
+      },
+      {
+        "id": 8,
+        "en": "Although it was raining hard, we went out.",
+        "ar": "على الرغم من أنه كان يمطر بغزارة، خرجنا.",
+        "context": "تصف شدة المطر."
+      },
+      {
+        "id": 9,
+        "en": "Although it was raining, we went out because we had tickets.",
+        "ar": "على الرغم من أنه كان يمطر، خرجنا لأن لدينا تذاكر.",
+        "context": "تذكر سبب الخروج."
+      },
+      {
+        "id": 10,
+        "en": "Although it was raining, we went out, but we came back early.",
+        "ar": "على الرغم من أنه كان يمطر، خرجنا، لكننا عدنا مبكرا.",
+        "context": "تضيف نتيجة لاحقة للطقس."
+      }
+    ]
+  }
+}

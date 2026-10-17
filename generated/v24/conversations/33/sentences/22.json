@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "id": 22,
+  "sentence": {
+    "en": "Life outside the box may look free. But it is unsafe.",
+    "ar": "الحياة خارج العلبة قد تبدو حرية. لكنها غير آمنة.",
+    "context": "يُمهّد الأب للعبرة موضحًا أن العلاقات غير الرسمية تبدو حرة لكنها بلا حماية."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Life outside the box may look free",
+        "ar": "الحياة خارج العلبة قد تبدو حرة.",
+        "context": "يصف انطباعا محتملا عن الحياة خارج الحماية.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "may مع look يعبر عن احتمال أو مظهر، وليس زمنا مستقلا."
+        },
+        "wordMeanings": [
+          {
+            "term": "Life",
+            "description": "الحياة"
+          },
+          {
+            "term": "outside",
+            "description": "في الخارج"
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف لشيء محدد"
+          },
+          {
+            "term": "box",
+            "description": "علبة أو صندوق"
+          },
+          {
+            "term": "may",
+            "description": "قد أو ربما"
+          },
+          {
+            "term": "look",
+            "description": "تبدو أو ينظر"
+          },
+          {
+            "term": "free",
+            "description": "حر أو حرة"
+          }
+        ]
+      },
+      {
+        "sentence": "But it is unsafe",
+        "ar": "لكنها غير آمنة.",
+        "context": "تصحيح للانطباع السابق بإظهار الخطر.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "تستخدم is لوصف حالة حالية، و But تضيف معنى التعارض."
+        },
+        "wordMeanings": [
+          {
+            "term": "But",
+            "description": "لكن"
+          },
+          {
+            "term": "it",
+            "description": "هو أو هي للشيء المذكور"
+          },
+          {
+            "term": "is",
+            "description": "يكون أو يدل على الحالة"
+          },
+          {
+            "term": "unsafe",
+            "description": "غير آمن"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "The road may look clear",
+        "ar": "قد يبدو الطريق خاليا",
+        "context": "يقال عندما يكون المظهر غير كاف للحكم"
+      },
+      {
+        "id": 2,
+        "en": "Please put it here",
+        "ar": "من فضلك ضعه هنا",
+        "context": "يقال عند طلب وضع شيء في مكان قريب"
+      },
+      {
+        "id": 3,
+        "en": "This is clear now",
+        "ar": "هذا واضح الآن",
+        "context": "يقال بعد فهم شرح أو مثال"
+      },
+      {
+        "id": 4,
+        "en": "There are two cups on the table",
+        "ar": "يوجد كوبان على الطاولة",
+        "context": "يقال لوصف أشياء في مكان محدد"
+      },
+      {
+        "id": 5,
+        "en": "I can help you now",
+        "ar": "يمكنني مساعدتك الآن",
+        "context": "يقال عند عرض المساعدة"
+      },
+      {
+        "id": 6,
+        "en": "It is safe inside",
+        "ar": "إنه آمن في الداخل",
+        "context": "يقال لوصف مكان محمي"
+      },
+      {
+        "id": 7,
+        "en": "They are ready outside",
+        "ar": "هم جاهزون في الخارج",
+        "context": "يقال لوصف الاستعداد في مكان خارجي"
+      },
+      {
+        "id": 8,
+        "en": "Now close the box tightly",
+        "ar": "الآن أغلق العلبة بإحكام",
+        "context": "يقال عند إعطاء تعليمات لحماية شيء"
+      },
+      {
+        "id": 9,
+        "en": "I understand the idea",
+        "ar": "أنا أفهم الفكرة",
+        "context": "يقال عندما تصبح الفكرة واضحة"
+      },
+      {
+        "id": 10,
+        "en": "That makes sense",
+        "ar": "ذلك منطقي",
+        "context": "يقال عندما يبدو الكلام معقولا"
+      }
+    ]
+  }
+}

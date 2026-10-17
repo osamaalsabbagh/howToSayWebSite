@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": 2812,
+  "sentence": {
+    "en": "I drink tea every morning.",
+    "ar": "أنا أشرب شاي كل صباح.",
+    "context": "عادة يومية متكررة."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "I drink tea every morning.",
+        "ar": "أنا أشرب الشاي كل صباح.",
+        "context": "تصف الجملة عادة يومية يقوم بها المتكلم في الصباح.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُخدم المضارع البسيط لأن every morning يدل على عادة متكررة."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير يعني أنا، ويشير إلى المتكلم."
+          },
+          {
+            "term": "drink",
+            "description": "أشرب؛ أتناول سائلا."
+          },
+          {
+            "term": "tea",
+            "description": "شاي؛ مشروب ساخن معروف."
+          },
+          {
+            "term": "every",
+            "description": "كل؛ تدل على التكرار مع كلمات الوقت."
+          },
+          {
+            "term": "morning",
+            "description": "صباح؛ أول جزء من اليوم."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I drink tea every morning.",
+        "ar": "أنا أشرب الشاي كل صباح.",
+        "context": "تصف عادة صباحية ثابتة."
+      },
+      {
+        "id": 2,
+        "en": "I drink coffee every morning.",
+        "ar": "أنا أشرب القهوة كل صباح.",
+        "context": "تصف مشروبا صباحيا آخر."
+      },
+      {
+        "id": 3,
+        "en": "She drinks tea after breakfast.",
+        "ar": "هي تشرب الشاي بعد الفطور.",
+        "context": "تحدد وقت شرب الشاي."
+      },
+      {
+        "id": 4,
+        "en": "We drink tea in the evening.",
+        "ar": "نحن نشرب الشاي في المساء.",
+        "context": "تصف عادة في وقت مختلف."
+      },
+      {
+        "id": 5,
+        "en": "He drinks green tea every day.",
+        "ar": "هو يشرب الشاي الأخضر كل يوم.",
+        "context": "تحدد نوع الشاي."
+      },
+      {
+        "id": 6,
+        "en": "I do not drink tea at night.",
+        "ar": "أنا لا أشرب الشاي في الليل.",
+        "context": "تنفي عادة في وقت محدد."
+      },
+      {
+        "id": 7,
+        "en": "Do you drink tea every morning?",
+        "ar": "هل تشرب الشاي كل صباح؟",
+        "context": "تسأل عن عادة صباحية."
+      },
+      {
+        "id": 8,
+        "en": "My father drinks tea without sugar.",
+        "ar": "أبي يشرب الشاي من دون سكر.",
+        "context": "تصف طريقة شرب الشاي."
+      },
+      {
+        "id": 9,
+        "en": "They drink tea before work.",
+        "ar": "هم يشربون الشاي قبل العمل.",
+        "context": "تربط العادة بوقت قبل العمل."
+      },
+      {
+        "id": 10,
+        "en": "I drink hot tea when it is cold.",
+        "ar": "أنا أشرب شايا ساخنا عندما يكون الجو باردا.",
+        "context": "تصف عادة مرتبطة بالطقس."
+      }
+    ]
+  }
+}

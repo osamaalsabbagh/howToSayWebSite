@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "id": 3103,
+  "sentence": {
+    "en": "Why are you late?",
+    "ar": "لماذا أنت متأخر؟",
+    "context": "سؤال عن سبب."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Why are you late?",
+        "ar": "لماذا أنت متأخر؟",
+        "context": "تسأل الجملة عن سبب تأخر الشخص عن موعد أو حدث.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُخدم المضارع البسيط مع are لوصف حالة الشخص الحالية: أنه متأخر الآن."
+        },
+        "wordMeanings": [
+          {
+            "term": "Why",
+            "description": "لماذا؛ أداة سؤال عن السبب."
+          },
+          {
+            "term": "are",
+            "description": "تكون أو أنت؛ فعل be في المضارع مع you."
+          },
+          {
+            "term": "you",
+            "description": "أنت؛ الشخص المخاطب في السؤال."
+          },
+          {
+            "term": "late",
+            "description": "متأخر؛ لم يصل أو يبدأ في الوقت المتوقع."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Why are you late?",
+        "ar": "لماذا أنت متأخر؟",
+        "context": "تسأل عن سبب التأخر."
+      },
+      {
+        "id": 2,
+        "en": "Why is she late?",
+        "ar": "لماذا هي متأخرة؟",
+        "context": "تسأل عن سبب تأخر امرأة أو فتاة."
+      },
+      {
+        "id": 3,
+        "en": "Why are they late for class?",
+        "ar": "لماذا هم متأخرون عن الصف؟",
+        "context": "تسأل عن تأخر مجموعة عن درس."
+      },
+      {
+        "id": 4,
+        "en": "Are you late because of traffic?",
+        "ar": "هل أنت متأخر بسبب الزحام؟",
+        "context": "تسأل عن سبب محتمل للتأخر."
+      },
+      {
+        "id": 5,
+        "en": "I am late because the bus was slow.",
+        "ar": "أنا متأخر لأن الحافلة كانت بطيئة.",
+        "context": "تقدم سببا للتأخر."
+      },
+      {
+        "id": 6,
+        "en": "You are not late.",
+        "ar": "أنت لست متأخرا.",
+        "context": "تنفي حالة التأخر."
+      },
+      {
+        "id": 7,
+        "en": "Why were you late yesterday?",
+        "ar": "لماذا كنت متأخرا أمس؟",
+        "context": "تسأل عن تأخر حدث في الماضي."
+      },
+      {
+        "id": 8,
+        "en": "Why will you be late tomorrow?",
+        "ar": "لماذا ستكون متأخرا غدا؟",
+        "context": "تسأل عن تأخر متوقع في المستقبل."
+      },
+      {
+        "id": 9,
+        "en": "Tell me why you are late.",
+        "ar": "أخبرني لماذا أنت متأخر.",
+        "context": "تطلب معرفة السبب بصيغة غير مباشرة."
+      },
+      {
+        "id": 10,
+        "en": "Please explain why you are late.",
+        "ar": "من فضلك اشرح لماذا أنت متأخر.",
+        "context": "تطلب توضيح سبب التأخر."
+      }
+    ]
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "schemaVersion": 1,
+  "id": 1785,
+  "sentence": {
+    "en": "This is his jacket, not mine.",
+    "ar": "هذه سترته، ليست خاصتي.",
+    "context": "حدد ملكية شيء معين تعود لذكر وأضف أنها ليست لك."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "This is his jacket, not mine.",
+        "ar": "هذه سترته، وليست سترتي.",
+        "context": "توضح الجملة أن السترة تخص ذكرًا ولا تخص المتكلم.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استخدم is لوصف الملكية الحالية، و not mine لنفي ملكية المتكلم."
+        },
+        "wordMeanings": [
+          {
+            "term": "This",
+            "description": "هذا أو هذه، تشير إلى شيء قريب"
+          },
+          {
+            "term": "is",
+            "description": "يربط الشيء بصاحبه"
+          },
+          {
+            "term": "his",
+            "description": "خاص به، يعود إلى ذكر"
+          },
+          {
+            "term": "jacket",
+            "description": "سترة"
+          },
+          {
+            "term": "not",
+            "description": "ليست أو ليس، للنفي"
+          },
+          {
+            "term": "mine",
+            "description": "ملكي أو خاصتي"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "This is her bag, not mine.",
+        "ar": "هذه حقيبتها، وليست حقيبتي.",
+        "context": "يقال لنفي ملكية حقيبة."
+      },
+      {
+        "id": 2,
+        "en": "That is his phone.",
+        "ar": "ذلك هاتفه.",
+        "context": "يستخدم لتحديد ملكية شيء لذكر."
+      },
+      {
+        "id": 3,
+        "en": "This book is mine.",
+        "ar": "هذا الكتاب لي.",
+        "context": "يقال لإثبات الملكية."
+      },
+      {
+        "id": 4,
+        "en": "This is my coat, not his.",
+        "ar": "هذا معطفي، وليس معطفه.",
+        "context": "يستخدم عند تصحيح الملكية."
+      },
+      {
+        "id": 5,
+        "en": "The jacket is not mine.",
+        "ar": "السترة ليست لي.",
+        "context": "يقال عند نفي امتلاك شيء."
+      },
+      {
+        "id": 6,
+        "en": "This is his seat.",
+        "ar": "هذا مقعده.",
+        "context": "يستخدم لتحديد مكان يخص شخصًا."
+      },
+      {
+        "id": 7,
+        "en": "These are her keys.",
+        "ar": "هذه مفاتيحها.",
+        "context": "يقال عند معرفة صاحب المفاتيح."
+      },
+      {
+        "id": 8,
+        "en": "That bag is yours, not mine.",
+        "ar": "تلك الحقيبة لك، وليست لي.",
+        "context": "يستخدم عند تصحيح ملكية."
+      },
+      {
+        "id": 9,
+        "en": "This is his idea.",
+        "ar": "هذه فكرته.",
+        "context": "يقال لإسناد فكرة لشخص."
+      },
+      {
+        "id": 10,
+        "en": "The blue jacket is mine.",
+        "ar": "السترة الزرقاء لي.",
+        "context": "يستخدم لتحديد شيء يملكه المتكلم."
+      }
+    ]
+  }
+}

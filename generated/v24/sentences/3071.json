@@ -1,0 +1,139 @@
+{
+  "schemaVersion": 1,
+  "id": 3071,
+  "sentence": {
+    "en": "The weather is nice today, so we can go out.",
+    "ar": "الطقس جميل اليوم، لذلك يمكننا الخروج.",
+    "context": "وصف حالة الجو وتأثيرها على القرار."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "The weather is nice today",
+        "ar": "الطقس جميل اليوم.",
+        "context": "يصف هذا الجزء حالة الجو في اليوم الحالي.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُخدم المضارع البسيط لأن is يصف حالة الطقس الحالية."
+        },
+        "wordMeanings": [
+          {
+            "term": "The",
+            "description": "أداة تعريف تشير إلى الطقس المقصود."
+          },
+          {
+            "term": "weather",
+            "description": "الطقس؛ حالة الجو من حرارة ومطر ورياح."
+          },
+          {
+            "term": "is",
+            "description": "فعل يكون في المضارع، ويربط weather بالصفة nice."
+          },
+          {
+            "term": "nice",
+            "description": "جميل أو لطيف؛ مناسب ومريح."
+          },
+          {
+            "term": "today",
+            "description": "اليوم؛ في هذا اليوم الحالي."
+          }
+        ]
+      },
+      {
+        "sentence": "so we can go out.",
+        "ar": "لذلك يمكننا الخروج.",
+        "context": "يوضح هذا الجزء النتيجة العملية لحالة الجو الجميلة.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذا جزء سببي فيه can للتعبير عن الإمكانية، وليس زمنا مستقلا."
+        },
+        "wordMeanings": [
+          {
+            "term": "so",
+            "description": "لذلك؛ تربط السبب بالنتيجة."
+          },
+          {
+            "term": "we",
+            "description": "نحن؛ المتكلم ومعه شخص أو أكثر."
+          },
+          {
+            "term": "can",
+            "description": "يمكننا؛ تدل على القدرة أو الإمكانية."
+          },
+          {
+            "term": "go",
+            "description": "نذهب؛ نتحرك إلى مكان آخر."
+          },
+          {
+            "term": "out",
+            "description": "إلى الخارج؛ خارج البيت أو المكان."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "The weather is nice today, so we can go out.",
+        "ar": "الطقس جميل اليوم، لذلك يمكننا الخروج.",
+        "context": "تربط الجو الجميل بقرار الخروج."
+      },
+      {
+        "id": 2,
+        "en": "The weather is bad today, so we should stay home.",
+        "ar": "الطقس سيئ اليوم، لذلك يجب أن نبقى في البيت.",
+        "context": "تستخدم حالة جو مختلفة ونتيجة معاكسة."
+      },
+      {
+        "id": 3,
+        "en": "The weather is nice today, so the children can play outside.",
+        "ar": "الطقس جميل اليوم، لذلك يمكن للأطفال اللعب في الخارج.",
+        "context": "توضح نتيجة مناسبة للأطفال."
+      },
+      {
+        "id": 4,
+        "en": "The weather is not nice today, so we cannot go out.",
+        "ar": "الطقس ليس جميلا اليوم، لذلك لا يمكننا الخروج.",
+        "context": "تنفي جودة الطقس وتغير القرار."
+      },
+      {
+        "id": 5,
+        "en": "Is the weather nice today?",
+        "ar": "هل الطقس جميل اليوم؟",
+        "context": "تسأل عن حالة الجو اليوم."
+      },
+      {
+        "id": 6,
+        "en": "The weather was nice yesterday, so we went out.",
+        "ar": "كان الطقس جميلا أمس، لذلك خرجنا.",
+        "context": "تنقل السبب والنتيجة إلى الماضي."
+      },
+      {
+        "id": 7,
+        "en": "The weather will be nice tomorrow, so we can go out.",
+        "ar": "سيكون الطقس جميلا غدا، لذلك يمكننا الخروج.",
+        "context": "تنقل الخطة إلى المستقبل."
+      },
+      {
+        "id": 8,
+        "en": "The weather is nice today, so we can go out after lunch.",
+        "ar": "الطقس جميل اليوم، لذلك يمكننا الخروج بعد الغداء.",
+        "context": "تحدد وقت الخروج."
+      },
+      {
+        "id": 9,
+        "en": "The weather is nice today, so we can go out for a walk.",
+        "ar": "الطقس جميل اليوم، لذلك يمكننا الخروج في نزهة مشي.",
+        "context": "توضح نوع النشاط خارج البيت."
+      },
+      {
+        "id": 10,
+        "en": "If the weather is nice today, we can go out.",
+        "ar": "إذا كان الطقس جميلا اليوم، يمكننا الخروج.",
+        "context": "تعبر عن نفس العلاقة بصيغة شرطية."
+      }
+    ]
+  }
+}

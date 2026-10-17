@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": 1037,
+  "sentence": {
+    "en": "Is breakfast included?",
+    "ar": "هل الإفطار مشمول؟",
+    "context": "تُستخدم للسؤال عما إذا كان الإفطار مشمولًا في الخدمة أو السعر."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Is breakfast included",
+        "ar": "هل الإفطار مشمول",
+        "context": "تُستخدم في فندق أو حجز للسؤال إن كان الإفطار ضمن السعر.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "السؤال يصف حالة حالية للخدمة باستخدام is، وincluded تعني أنها ضمن العرض أو السعر."
+        },
+        "wordMeanings": [
+          {
+            "term": "Is",
+            "description": "هل يكون أو هل هو، وتبدأ سؤالًا عن الحالة"
+          },
+          {
+            "term": "breakfast",
+            "description": "إفطار"
+          },
+          {
+            "term": "included",
+            "description": "مشمول أو داخل السعر والخدمة"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Is dinner included?",
+        "ar": "هل العشاء مشمول؟",
+        "context": "تُستخدم للسؤال عن وجبة أخرى."
+      },
+      {
+        "id": 2,
+        "en": "Is lunch included?",
+        "ar": "هل الغداء مشمول؟",
+        "context": "تُستخدم عند حجز أو رحلة."
+      },
+      {
+        "id": 3,
+        "en": "Is Wi-Fi included?",
+        "ar": "هل الواي فاي مشمول؟",
+        "context": "تُستخدم للسؤال عن خدمة الإنترنت."
+      },
+      {
+        "id": 4,
+        "en": "Is parking included?",
+        "ar": "هل موقف السيارات مشمول؟",
+        "context": "تُستخدم عند حجز فندق."
+      },
+      {
+        "id": 5,
+        "en": "Breakfast is included.",
+        "ar": "الإفطار مشمول.",
+        "context": "تُستخدم لتأكيد الخدمة."
+      },
+      {
+        "id": 6,
+        "en": "Breakfast is not included.",
+        "ar": "الإفطار غير مشمول.",
+        "context": "تُستخدم لتوضيح أنه ليس ضمن السعر."
+      },
+      {
+        "id": 7,
+        "en": "Is service included?",
+        "ar": "هل الخدمة مشمولة؟",
+        "context": "تُستخدم في مطعم أو فندق."
+      },
+      {
+        "id": 8,
+        "en": "Is the tax included?",
+        "ar": "هل الضريبة مشمولة؟",
+        "context": "تُستخدم عند السؤال عن السعر."
+      },
+      {
+        "id": 9,
+        "en": "Is the ticket included?",
+        "ar": "هل التذكرة مشمولة؟",
+        "context": "تُستخدم في رحلة أو عرض."
+      },
+      {
+        "id": 10,
+        "en": "What is included?",
+        "ar": "ما المشمول؟",
+        "context": "تُستخدم لطلب تفاصيل العرض."
+      }
+    ]
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "schemaVersion": 1,
+  "id": 3094,
+  "sentence": {
+    "en": "Call me when you arrive.",
+    "ar": "اتصل بي عندما تصل.",
+    "context": "ربط حدثين حيث الأول يعتمد على الثاني."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Call me",
+        "ar": "اتصل بي",
+        "context": "الجزء الأول يعطي طلبا مباشرا بالاتصال.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه صيغة أمر أو طلب مباشر، وليست زمنا خبريا مثل الماضي أو المضارع."
+        },
+        "wordMeanings": [
+          {
+            "term": "Call",
+            "description": "اتصل؛ اطلب مكالمة هاتفية أو تواصل بالصوت."
+          },
+          {
+            "term": "me",
+            "description": "بي؛ ضمير مفعول به يشير إلى المتكلم."
+          }
+        ]
+      },
+      {
+        "sentence": "when you arrive.",
+        "ar": "عندما تصل.",
+        "context": "الجزء الثاني يحدد وقت تنفيذ الطلب: بعد الوصول.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُخدم المضارع البسيط بعد when للإشارة إلى حدث مستقبلي في جملة زمنية."
+        },
+        "wordMeanings": [
+          {
+            "term": "when",
+            "description": "عندما؛ تربط الاتصال بوقت الوصول."
+          },
+          {
+            "term": "you",
+            "description": "أنت؛ الشخص الذي سيصل."
+          },
+          {
+            "term": "arrive",
+            "description": "تصل؛ تبلغ المكان المقصود بعد الطريق أو السفر."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Call me when you arrive.",
+        "ar": "اتصل بي عندما تصل.",
+        "context": "تطلب اتصالا بعد وصول الشخص."
+      },
+      {
+        "id": 2,
+        "en": "Text me when you arrive.",
+        "ar": "أرسل لي رسالة عندما تصل.",
+        "context": "تطلب رسالة بدلا من مكالمة."
+      },
+      {
+        "id": 3,
+        "en": "Call your mother when you arrive.",
+        "ar": "اتصل بوالدتك عندما تصل.",
+        "context": "تطلب من شخص الاتصال بآخر."
+      },
+      {
+        "id": 4,
+        "en": "Please call me when you arrive.",
+        "ar": "من فضلك اتصل بي عندما تصل.",
+        "context": "تجعل الطلب أكثر تهذيبا."
+      },
+      {
+        "id": 5,
+        "en": "Call me when you get home.",
+        "ar": "اتصل بي عندما تصل إلى المنزل.",
+        "context": "تحدد الوصول إلى البيت."
+      },
+      {
+        "id": 6,
+        "en": "Call me before you leave.",
+        "ar": "اتصل بي قبل أن تغادر.",
+        "context": "تغير وقت الاتصال إلى ما قبل المغادرة."
+      },
+      {
+        "id": 7,
+        "en": "Do not call me when you arrive.",
+        "ar": "لا تتصل بي عندما تصل.",
+        "context": "تنفي الطلب أو تمنع الاتصال."
+      },
+      {
+        "id": 8,
+        "en": "I called you when I arrived.",
+        "ar": "اتصلت بك عندما وصلت.",
+        "context": "تصف تنفيذ الفعل في الماضي."
+      },
+      {
+        "id": 9,
+        "en": "I will call you when I arrive.",
+        "ar": "سأتصل بك عندما أصل.",
+        "context": "تعد بالاتصال بعد الوصول."
+      },
+      {
+        "id": 10,
+        "en": "She asked me to call her when I arrived.",
+        "ar": "طلبت مني أن أتصل بها عندما وصلت.",
+        "context": "تنقل الطلب بصيغة غير مباشرة في الماضي."
+      }
+    ]
+  }
+}

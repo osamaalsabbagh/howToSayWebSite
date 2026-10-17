@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": 522,
+  "sentence": {
+    "en": "Do you like the book?",
+    "ar": "هل يعجبك الكتاب؟",
+    "context": "الاستفسار عن رأي شخص في كتاب معين."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Do you like the book?",
+        "ar": "هل يعجبك الكتاب؟",
+        "context": "سؤال عن رأي الشخص في كتاب محدد.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "like في المضارع البسيط يستخدم للتعبير عن الرأي أو التفضيل."
+        },
+        "wordMeanings": [
+          {
+            "term": "Do",
+            "description": "تساعد في تكوين السؤال."
+          },
+          {
+            "term": "you",
+            "description": "تشير إلى المخاطب."
+          },
+          {
+            "term": "like",
+            "description": "تعني يعجبك أو تحب."
+          },
+          {
+            "term": "the",
+            "description": "تدل على شيء محدد معروف."
+          },
+          {
+            "term": "book",
+            "description": "كتاب."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Do you like this book?",
+        "ar": "هل يعجبك هذا الكتاب؟",
+        "context": "سؤال عن كتاب محدد."
+      },
+      {
+        "id": 2,
+        "en": "I like the book.",
+        "ar": "يعجبني الكتاب.",
+        "context": "رأي إيجابي في كتاب."
+      },
+      {
+        "id": 3,
+        "en": "She does not like the book.",
+        "ar": "لا يعجبها الكتاب.",
+        "context": "رأي سلبي في كتاب."
+      },
+      {
+        "id": 4,
+        "en": "The book is interesting.",
+        "ar": "الكتاب ممتع.",
+        "context": "وصف كتاب."
+      },
+      {
+        "id": 5,
+        "en": "Do they like reading?",
+        "ar": "هل يحبون القراءة؟",
+        "context": "سؤال عن عادة القراءة."
+      },
+      {
+        "id": 6,
+        "en": "He likes the story.",
+        "ar": "يعجبه القصة.",
+        "context": "رأي في جزء من الكتاب."
+      },
+      {
+        "id": 7,
+        "en": "I do not like the ending.",
+        "ar": "لا يعجبني النهاية.",
+        "context": "رأي في نهاية الكتاب."
+      },
+      {
+        "id": 8,
+        "en": "Do you want the book?",
+        "ar": "هل تريد الكتاب؟",
+        "context": "سؤال عن الرغبة في الكتاب."
+      },
+      {
+        "id": 9,
+        "en": "This book is easy.",
+        "ar": "هذا الكتاب سهل.",
+        "context": "وصف مستوى الكتاب."
+      },
+      {
+        "id": 10,
+        "en": "We like books about travel.",
+        "ar": "نحب الكتب عن السفر.",
+        "context": "ذكر نوع كتب مفضل."
+      }
+    ]
+  }
+}

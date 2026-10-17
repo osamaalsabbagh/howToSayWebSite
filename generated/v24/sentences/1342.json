@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": 1342,
+  "sentence": {
+    "en": "Wash your hands before dinner.",
+    "ar": "اغسل يديك قبل العشاء.",
+    "context": "قدّم تعليمات أو نصيحة للقيام بشيء قبل حدث معين."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Wash your hands before dinner.",
+        "ar": "اغسل يديك قبل العشاء.",
+        "context": "تستخدم الجملة كتعليم أو نصيحة قبل تناول الطعام.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "الجملة أمر مباشر بالفعل Wash، لذلك لا تحمل زمنًا مستقلًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "Wash",
+            "description": "اغسل أو نظف بالماء."
+          },
+          {
+            "term": "your",
+            "description": "تشير إلى أن اليدين تخصان المخاطب."
+          },
+          {
+            "term": "hands",
+            "description": "يدان."
+          },
+          {
+            "term": "before",
+            "description": "قبل."
+          },
+          {
+            "term": "dinner",
+            "description": "العشاء."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Wash your face before bed.",
+        "ar": "اغسل وجهك قبل النوم.",
+        "context": "يقال كنصيحة نظافة."
+      },
+      {
+        "id": 2,
+        "en": "Wash your hands after work.",
+        "ar": "اغسل يديك بعد العمل.",
+        "context": "يقال عند الحاجة إلى النظافة بعد نشاط."
+      },
+      {
+        "id": 3,
+        "en": "Brush your teeth before bed.",
+        "ar": "نظف أسنانك قبل النوم.",
+        "context": "يقال كتعليم يومي."
+      },
+      {
+        "id": 4,
+        "en": "Call me before dinner.",
+        "ar": "اتصل بي قبل العشاء.",
+        "context": "يقال عند تحديد وقت اتصال."
+      },
+      {
+        "id": 5,
+        "en": "Clean the table before dinner.",
+        "ar": "نظف الطاولة قبل العشاء.",
+        "context": "يقال عند التحضير للوجبة."
+      },
+      {
+        "id": 6,
+        "en": "Please wash your hands.",
+        "ar": "من فضلك اغسل يديك.",
+        "context": "صيغة مهذبة للتعليم."
+      },
+      {
+        "id": 7,
+        "en": "Wash the apples before eating.",
+        "ar": "اغسل التفاح قبل الأكل.",
+        "context": "يقال للحفاظ على النظافة."
+      },
+      {
+        "id": 8,
+        "en": "Finish your work before dinner.",
+        "ar": "أنه عملك قبل العشاء.",
+        "context": "يقال عند طلب إنجاز شيء قبل وقت محدد."
+      },
+      {
+        "id": 9,
+        "en": "Wash your hands with soap.",
+        "ar": "اغسل يديك بالصابون.",
+        "context": "يقال لتوضيح طريقة الغسل."
+      },
+      {
+        "id": 10,
+        "en": "Come home before dinner.",
+        "ar": "تعال إلى المنزل قبل العشاء.",
+        "context": "يقال عند تحديد موعد عودة."
+      }
+    ]
+  }
+}

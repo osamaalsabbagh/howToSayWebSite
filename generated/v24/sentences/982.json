@@ -1,0 +1,111 @@
+{
+  "schemaVersion": 1,
+  "id": 982,
+  "sentence": {
+    "en": "What is the Wi-Fi password?",
+    "ar": "ما كلمة مرور الواي فاي؟",
+    "context": "تُستخدم لطلب كلمة مرور الشبكة اللاسلكية."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "What is the Wi-Fi password",
+        "ar": "ما كلمة مرور الواي فاي",
+        "context": "تُستخدم لطلب كلمة مرور الشبكة في بيت أو فندق أو مقهى.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "السؤال يستخدم is لطلب معلومة حالية محددة."
+        },
+        "wordMeanings": [
+          {
+            "term": "What",
+            "description": "ما، للسؤال عن معلومة"
+          },
+          {
+            "term": "is",
+            "description": "تربط السؤال بالمعلومة المطلوبة"
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف تشير إلى كلمة المرور المعروفة للمكان"
+          },
+          {
+            "term": "Wi",
+            "description": "جزء من اسم الشبكة اللاسلكية في النص"
+          },
+          {
+            "term": "Fi",
+            "description": "جزء من اسم الشبكة اللاسلكية في النص"
+          },
+          {
+            "term": "password",
+            "description": "كلمة مرور أو رمز دخول"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "What is the password?",
+        "ar": "ما كلمة المرور؟",
+        "context": "تُستخدم لطلب رمز دخول عام."
+      },
+      {
+        "id": 2,
+        "en": "What is the network name?",
+        "ar": "ما اسم الشبكة؟",
+        "context": "تُستخدم قبل الاتصال بالإنترنت."
+      },
+      {
+        "id": 3,
+        "en": "Can I have the Wi-Fi password?",
+        "ar": "هل يمكنني الحصول على كلمة مرور الواي فاي؟",
+        "context": "تُستخدم كطلب مهذب في مكان عام."
+      },
+      {
+        "id": 4,
+        "en": "Is there Wi-Fi here?",
+        "ar": "هل يوجد واي فاي هنا؟",
+        "context": "تُستخدم للسؤال عن توفر الإنترنت."
+      },
+      {
+        "id": 5,
+        "en": "The Wi-Fi password is on the wall.",
+        "ar": "كلمة مرور الواي فاي على الحائط.",
+        "context": "تُستخدم لإخبار شخص بمكان الرمز."
+      },
+      {
+        "id": 6,
+        "en": "What is the hotel password?",
+        "ar": "ما كلمة مرور الفندق؟",
+        "context": "تُستخدم في فندق."
+      },
+      {
+        "id": 7,
+        "en": "What is the cafe password?",
+        "ar": "ما كلمة مرور المقهى؟",
+        "context": "تُستخدم في مقهى."
+      },
+      {
+        "id": 8,
+        "en": "I need the Wi-Fi password.",
+        "ar": "أحتاج إلى كلمة مرور الواي فاي.",
+        "context": "تُستخدم عند الحاجة للاتصال بالإنترنت."
+      },
+      {
+        "id": 9,
+        "en": "Can you write the password for me?",
+        "ar": "هل يمكنك كتابة كلمة المرور لي؟",
+        "context": "تُستخدم لتجنب الخطأ في الرمز."
+      },
+      {
+        "id": 10,
+        "en": "The password is not working.",
+        "ar": "كلمة المرور لا تعمل.",
+        "context": "تُستخدم عند فشل الاتصال."
+      }
+    ]
+  }
+}

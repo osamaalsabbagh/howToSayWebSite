@@ -1,0 +1,159 @@
+{
+  "schemaVersion": 1,
+  "id": 10,
+  "sentence": {
+    "en": "I do not know what to say. I have to stay here for my job.",
+    "ar": "لا أعرف ما أقول، علي البقاء هنا بسبب وظيفتي.",
+    "context": "يبين أنه أيضًا يعيش في المكان مجبرًا بسبب عمله."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "I do not know what to say.",
+        "ar": "لا أعرف ماذا أقول.",
+        "context": "تُستخدم هذه الجملة عندما لا يعرف المتكلم كيف يرد على كلام الطرف الآخر.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُخدم المضارع البسيط مع النفي للتعبير عن حالة ذهنية حالية."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير للمتكلم المفرد ويعني أنا"
+          },
+          {
+            "term": "do",
+            "description": "كلمة مساعدة تُستخدم لتكوين النفي في المضارع"
+          },
+          {
+            "term": "not",
+            "description": "أداة نفي معناها لا"
+          },
+          {
+            "term": "know",
+            "description": "أعرف أو أدري"
+          },
+          {
+            "term": "what",
+            "description": "ماذا أو ما"
+          },
+          {
+            "term": "to",
+            "description": "تأتي قبل الفعل لبيان ما يمكن فعله"
+          },
+          {
+            "term": "say",
+            "description": "أقول أو أنطق"
+          }
+        ]
+      },
+      {
+        "sentence": "I have to stay here for my job.",
+        "ar": "يجب أن أبقى هنا بسبب عملي.",
+        "context": "يوضح هذا الجزء أن البقاء في المكان ليس اختيارًا حرًا بل مرتبط بالعمل.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "الجملة تستخدم تركيب have to للدلالة على الإلزام أو الضرورة، لذلك التركيز على البنية وليس على زمن مستقل."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير للمتكلم المفرد ويعني أنا"
+          },
+          {
+            "term": "have",
+            "description": "جزء من تعبير يدل على الاضطرار أو الوجوب"
+          },
+          {
+            "term": "to",
+            "description": "تكمل تعبير الوجوب قبل الفعل"
+          },
+          {
+            "term": "stay",
+            "description": "أبقى"
+          },
+          {
+            "term": "here",
+            "description": "في هذا المكان"
+          },
+          {
+            "term": "for",
+            "description": "بسبب أو من أجل"
+          },
+          {
+            "term": "my",
+            "description": "ضمير ملكية يعني الخاص بي"
+          },
+          {
+            "term": "job",
+            "description": "عمل أو وظيفة"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I do not know what to do.",
+        "ar": "لا أعرف ماذا أفعل.",
+        "context": "تُقال عند الحيرة."
+      },
+      {
+        "id": 2,
+        "en": "She does not know what to say.",
+        "ar": "هي لا تعرف ماذا تقول.",
+        "context": "تُستخدم عند عجز شخص عن الرد."
+      },
+      {
+        "id": 3,
+        "en": "I have to leave early.",
+        "ar": "يجب أن أغادر مبكرًا.",
+        "context": "تُقال عند وجود التزام."
+      },
+      {
+        "id": 4,
+        "en": "We have to stay home tonight.",
+        "ar": "يجب أن نبقى في المنزل الليلة.",
+        "context": "تُستخدم عند وجود سبب يمنع الخروج."
+      },
+      {
+        "id": 5,
+        "en": "He does not know where to go.",
+        "ar": "هو لا يعرف إلى أين يذهب.",
+        "context": "تُقال عند عدم معرفة الوجهة."
+      },
+      {
+        "id": 6,
+        "en": "I have to work tomorrow.",
+        "ar": "يجب أن أعمل غدًا.",
+        "context": "تُستخدم عند شرح سبب الانشغال."
+      },
+      {
+        "id": 7,
+        "en": "They have to wait here.",
+        "ar": "يجب أن ينتظروا هنا.",
+        "context": "تُقال عند توجيه أشخاص للبقاء."
+      },
+      {
+        "id": 8,
+        "en": "I do not know how to answer.",
+        "ar": "لا أعرف كيف أجيب.",
+        "context": "تُستخدم عند صعوبة الرد."
+      },
+      {
+        "id": 9,
+        "en": "She has to stay for her children.",
+        "ar": "يجب أن تبقى من أجل أطفالها.",
+        "context": "تُقال عند شرح سبب شخصي للبقاء."
+      },
+      {
+        "id": 10,
+        "en": "We do not know what to expect.",
+        "ar": "لا نعرف ماذا نتوقع.",
+        "context": "تُستخدم عند الغموض قبل حدث."
+      }
+    ]
+  }
+}

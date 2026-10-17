@@ -1,0 +1,161 @@
+{
+  "schemaVersion": 1,
+  "id": 9768,
+  "sentence": {
+    "en": "The teacher usually does not accept late homework, but she made an exception for me.",
+    "ar": "المعلمة عادة لا تقبل الواجب المتأخر، لكنها منحتني استثناءً.",
+    "context": "كنت مريضًا الأسبوع الماضي وسلمت واجبك بعد الموعد، والمعلمة تفهمت ظرفك.",
+    "sourceWord": "exception",
+    "sourcePos": "n."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "The teacher usually does not accept late homework,",
+        "ar": "المعلمة عادة لا تقبل الواجب المتأخر،",
+        "context": "قاعدة المعلمة المعتادة.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "المضارع البسيط في النفي يصف عادة."
+        },
+        "wordMeanings": [
+          {
+            "term": "The",
+            "description": "أداة تعريف تأتي مع المعلمة."
+          },
+          {
+            "term": "teacher",
+            "description": "المعلمة."
+          },
+          {
+            "term": "usually",
+            "description": "عادة."
+          },
+          {
+            "term": "does",
+            "description": "مساعد النفي في المضارع البسيط."
+          },
+          {
+            "term": "not",
+            "description": "لا."
+          },
+          {
+            "term": "accept",
+            "description": "تقبل."
+          },
+          {
+            "term": "late",
+            "description": "المتأخر."
+          },
+          {
+            "term": "homework",
+            "description": "الواجب."
+          }
+        ]
+      },
+      {
+        "sentence": "but she made an exception for me.",
+        "ar": "لكنها منحتني استثناءً.",
+        "context": "كنت مريضًا الأسبوع الماضي.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "الماضي البسيط يصف حدثًا انتهى."
+        },
+        "wordMeanings": [
+          {
+            "term": "but",
+            "description": "لكن."
+          },
+          {
+            "term": "she",
+            "description": "هي."
+          },
+          {
+            "term": "made",
+            "description": "قامت بـ."
+          },
+          {
+            "term": "an",
+            "description": "أداة تنكير قبل كلمة تبدأ بصوت حرف علة."
+          },
+          {
+            "term": "exception",
+            "description": "استثناء."
+          },
+          {
+            "term": "for",
+            "description": "من أجل."
+          },
+          {
+            "term": "me",
+            "description": "ي؛ ضمير المتكلم."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "The teacher usually does not accept late homework, but she made an exception for me.",
+        "ar": "المعلمة عادة لا تقبل الواجب المتأخر، لكنها منحتني استثناءً.",
+        "context": "كنت مريضًا الأسبوع الماضي وسلمت واجبك بعد الموعد، والمعلمة تفهمت ظرفك."
+      },
+      {
+        "id": 2,
+        "en": "The rule has one important exception.",
+        "ar": "القاعدة لها استثناء مهم واحد.",
+        "context": "أنت تشرح أن حالة معينة لا تخضع للإجراء المتبع في بقية الحالات."
+      },
+      {
+        "id": 3,
+        "en": "She took exception to the suggestion that her work was careless.",
+        "ar": "هي اعترضت على الإيحاء بأن عملها كان مهملًا.",
+        "context": "أنت تصف انزعاج امرأة من تعليق رأت أنه يسيء إلى دقتها المهنية."
+      },
+      {
+        "id": 4,
+        "en": "We all enjoyed the trip without exception.",
+        "ar": "نحن جميعًا استمتعنا بالرحلة دون استثناء.",
+        "context": "أنت تؤكد أن كل أفراد المجموعة أعجبوا بالرحلة."
+      },
+      {
+        "id": 5,
+        "en": "The museum allows no exception to its photography policy.",
+        "ar": "المتحف لا يسمح بأي استثناء من سياسته بشأن التصوير.",
+        "context": "أنت تشرح لزائر أن قواعد التصوير تنطبق على جميع الحاضرين."
+      },
+      {
+        "id": 6,
+        "en": "His punctual arrival was the exception rather than the rule.",
+        "ar": "وصوله في الموعد كان الاستثناء لا القاعدة.",
+        "context": "أنت تعلق على شخص يتأخر عادة لكنه وصل مرة دون تأخير."
+      },
+      {
+        "id": 7,
+        "en": "The editor approved an exception to the word limit.",
+        "ar": "المحرر وافق على استثناء من الحد الأقصى للكلمات.",
+        "context": "أنت تروي السماح بمقال أطول من المعتاد لأن موضوعه يحتاج إلى شرح إضافي."
+      },
+      {
+        "id": 8,
+        "en": "The software reports an exception when the file is missing.",
+        "ar": "البرنامج يبلغ عن حالة استثنائية عند فقدان الملف.",
+        "context": "أنت تصف رسالة خطأ تظهر عندما لا يجد البرنامج ملفًا مطلوبًا."
+      },
+      {
+        "id": 9,
+        "en": "I requested an exception because of the travel delay.",
+        "ar": "أنا طلبت استثناءً بسبب تأخر السفر.",
+        "context": "أنت تروي طلب تمديد موعد تسليم بعدما تعذر وصولك في الوقت المحدد."
+      },
+      {
+        "id": 10,
+        "en": "The last chapter is a notable exception to the book's quiet tone.",
+        "ar": "الفصل الأخير استثناء لافت من نبرة الكتاب الهادئة.",
+        "context": "أنت تقارن نهاية مليئة بالأحداث ببقية كتاب يسير بإيقاع بطيء."
+      }
+    ]
+  }
+}

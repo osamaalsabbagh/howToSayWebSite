@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": 979,
+  "sentence": {
+    "en": "What is your favorite color?",
+    "ar": "ما لونك المفضل؟",
+    "context": "تُستخدم لسؤال شخص عن اللون الذي يفضله."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "What is your favorite color",
+        "ar": "ما لونك المفضل",
+        "context": "تُستخدم للسؤال عن تفضيل شخص في الألوان.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "السؤال يستخدم is للسؤال عن معلومة عامة أو تفضيل ثابت نسبيًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "What",
+            "description": "ما، وتُستخدم للسؤال عن معلومة"
+          },
+          {
+            "term": "is",
+            "description": "تربط السؤال بالمعلومة المطلوبة"
+          },
+          {
+            "term": "your",
+            "description": "خاصتك، وتربط التفضيل بالمخاطب"
+          },
+          {
+            "term": "favorite",
+            "description": "المفضل أو الأكثر حبًا"
+          },
+          {
+            "term": "color",
+            "description": "لون"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "What is your favorite food?",
+        "ar": "ما طعامك المفضل؟",
+        "context": "تُستخدم للسؤال عن الطعام المفضل."
+      },
+      {
+        "id": 2,
+        "en": "What is your favorite song?",
+        "ar": "ما أغنيتك المفضلة؟",
+        "context": "تُستخدم للسؤال عن أغنية يحبها الشخص."
+      },
+      {
+        "id": 3,
+        "en": "What is your favorite movie?",
+        "ar": "ما فيلمك المفضل؟",
+        "context": "تُستخدم في حديث ودي عن الأفلام."
+      },
+      {
+        "id": 4,
+        "en": "What is your favorite book?",
+        "ar": "ما كتابك المفضل؟",
+        "context": "تُستخدم عند الحديث عن القراءة."
+      },
+      {
+        "id": 5,
+        "en": "What is her favorite color?",
+        "ar": "ما لونها المفضل؟",
+        "context": "تُستخدم للسؤال عن تفضيل فتاة أو امرأة."
+      },
+      {
+        "id": 6,
+        "en": "My favorite color is blue.",
+        "ar": "لوني المفضل هو الأزرق.",
+        "context": "تُستخدم للإجابة عن سؤال اللون المفضل."
+      },
+      {
+        "id": 7,
+        "en": "His favorite color is green.",
+        "ar": "لونه المفضل هو الأخضر.",
+        "context": "تُستخدم لوصف تفضيل شخص آخر."
+      },
+      {
+        "id": 8,
+        "en": "What is your favorite place?",
+        "ar": "ما مكانك المفضل؟",
+        "context": "تُستخدم للسؤال عن مكان يحبه الشخص."
+      },
+      {
+        "id": 9,
+        "en": "What is your favorite class?",
+        "ar": "ما حصتك المفضلة؟",
+        "context": "تُستخدم في المدرسة."
+      },
+      {
+        "id": 10,
+        "en": "What is your favorite sport?",
+        "ar": "ما رياضتك المفضلة؟",
+        "context": "تُستخدم عند الحديث عن الرياضة."
+      }
+    ]
+  }
+}

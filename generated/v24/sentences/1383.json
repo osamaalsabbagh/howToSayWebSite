@@ -1,0 +1,111 @@
+{
+  "schemaVersion": 1,
+  "id": 1383,
+  "sentence": {
+    "en": "My brother is older than me.",
+    "ar": "أخي أكبر مني.",
+    "context": "صف علاقة عائلية مع شخص يكبرك سنًا."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "My brother is older than me.",
+        "ar": "أخي أكبر مني.",
+        "context": "تستخدم الجملة للمقارنة في العمر بين المتكلم وأخيه.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "is older than يصف مقارنة حالية وثابتة في العمر."
+        },
+        "wordMeanings": [
+          {
+            "term": "My",
+            "description": "تشير إلى أن الأخ يخص المتكلم."
+          },
+          {
+            "term": "brother",
+            "description": "أخ."
+          },
+          {
+            "term": "is",
+            "description": "تربط الأخ بصفة المقارنة."
+          },
+          {
+            "term": "older",
+            "description": "أكبر سنًا."
+          },
+          {
+            "term": "than",
+            "description": "من؛ تستخدم في المقارنة."
+          },
+          {
+            "term": "me",
+            "description": "أنا في موقع المفعول أو المقارنة."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "My sister is younger than me.",
+        "ar": "أختي أصغر مني.",
+        "context": "يقال عند المقارنة في العمر."
+      },
+      {
+        "id": 2,
+        "en": "He is older than his friend.",
+        "ar": "هو أكبر من صديقه.",
+        "context": "يقال عند مقارنة شخصين."
+      },
+      {
+        "id": 3,
+        "en": "My brother is taller than me.",
+        "ar": "أخي أطول مني.",
+        "context": "يقال عند مقارنة الطول."
+      },
+      {
+        "id": 4,
+        "en": "She is older than her cousin.",
+        "ar": "هي أكبر من ابنة عمها.",
+        "context": "يقال في سياق العائلة."
+      },
+      {
+        "id": 5,
+        "en": "I am younger than my brother.",
+        "ar": "أنا أصغر من أخي.",
+        "context": "صيغة عكسية للمعنى."
+      },
+      {
+        "id": 6,
+        "en": "My father is older than my mother.",
+        "ar": "أبي أكبر من أمي.",
+        "context": "يقال عند مقارنة عمر الوالدين."
+      },
+      {
+        "id": 7,
+        "en": "He was older than me at school.",
+        "ar": "كان أكبر مني في المدرسة.",
+        "context": "يقال عن مقارنة في الماضي."
+      },
+      {
+        "id": 8,
+        "en": "My brother is very kind.",
+        "ar": "أخي لطيف جدًا.",
+        "context": "يقال عند وصف الأخ."
+      },
+      {
+        "id": 9,
+        "en": "She is two years older than me.",
+        "ar": "هي أكبر مني بسنتين.",
+        "context": "يقال عند تحديد فرق العمر."
+      },
+      {
+        "id": 10,
+        "en": "My cousin is older than my brother.",
+        "ar": "ابن عمي أكبر من أخي.",
+        "context": "يقال عند مقارنة أفراد العائلة."
+      }
+    ]
+  }
+}

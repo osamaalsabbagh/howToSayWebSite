@@ -1,0 +1,111 @@
+{
+  "schemaVersion": 1,
+  "id": 1910,
+  "sentence": {
+    "en": "We learned an important lesson today.",
+    "ar": "نحن تعلمنا درسًا مهمًا اليوم.",
+    "context": "كلمة درس يمكن أن تعني درسًا مدرسيًا، لكن الاستعمال الأكثر شيوعًا في مثل هذه الجملة هو العبرة أو التجربة المهمة."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "We learned an important lesson today.",
+        "ar": "تعلمنا عبرة مهمة اليوم.",
+        "context": "تصف الجملة اكتساب فهم أو عبرة من تجربة حدثت اليوم.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "استخدم learned لأن التعلم حدث في وقت سابق من اليوم وانتهى."
+        },
+        "wordMeanings": [
+          {
+            "term": "We",
+            "description": "نحن، المتكلم مع آخرين"
+          },
+          {
+            "term": "learned",
+            "description": "تعلمنا أو أدركنا"
+          },
+          {
+            "term": "an",
+            "description": "أداة قبل شيء واحد غير محدد يبدأ بصوت مناسب"
+          },
+          {
+            "term": "important",
+            "description": "مهم"
+          },
+          {
+            "term": "lesson",
+            "description": "عبرة أو درس مستفاد هنا"
+          },
+          {
+            "term": "today",
+            "description": "اليوم"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I learned an important lesson yesterday.",
+        "ar": "تعلمت عبرة مهمة أمس.",
+        "context": "يقال عن تجربة مفيدة."
+      },
+      {
+        "id": 2,
+        "en": "She learned a lesson from her mistake.",
+        "ar": "هي تعلمت درسًا من خطئها.",
+        "context": "اكتساب عبرة من خطأ."
+      },
+      {
+        "id": 3,
+        "en": "We learned a lot today.",
+        "ar": "تعلمنا الكثير اليوم.",
+        "context": "يستخدم بعد يوم مفيد."
+      },
+      {
+        "id": 4,
+        "en": "The lesson was important.",
+        "ar": "كان الدرس مهمًا.",
+        "context": "وصف أهمية درس."
+      },
+      {
+        "id": 5,
+        "en": "They learned from the experience.",
+        "ar": "هم تعلموا من التجربة.",
+        "context": "يقال عن تعلم عملي."
+      },
+      {
+        "id": 6,
+        "en": "This mistake taught us a lesson.",
+        "ar": "هذا الخطأ علمنا درسًا.",
+        "context": "يستخدم عن عبرة من خطأ."
+      },
+      {
+        "id": 7,
+        "en": "He learned an important fact.",
+        "ar": "هو تعلم حقيقة مهمة.",
+        "context": "اكتساب معلومة مهمة."
+      },
+      {
+        "id": 8,
+        "en": "We had a lesson today.",
+        "ar": "كان لدينا درس اليوم.",
+        "context": "معنى دراسي مباشر."
+      },
+      {
+        "id": 9,
+        "en": "The trip taught us patience.",
+        "ar": "الرحلة علمتنا الصبر.",
+        "context": "عبرة من تجربة."
+      },
+      {
+        "id": 10,
+        "en": "I will remember this lesson.",
+        "ar": "سأتذكر هذا الدرس.",
+        "context": "يقال عن عبرة لا تنسى."
+      }
+    ]
+  }
+}

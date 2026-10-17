@@ -1,0 +1,135 @@
+{
+  "schemaVersion": 1,
+  "id": 2053,
+  "sentence": {
+    "en": "Please move your car, it is blocking the way.",
+    "ar": "رجاءً حرّك سيارتك، إنها تسد الطريق.",
+    "context": "اطلب من شخص أن ينقل سيارته لأنها تسد الطريق وتمنع المرور."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Please move your car",
+        "ar": "رجاءً حرّك سيارتك",
+        "context": "هذا الجزء هو الطلب المهذب من صاحب السيارة.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه صيغة أمر مهذبة تبدأ بكلمة Please، والفعل move يطلب من المخاطب نقل السيارة."
+        },
+        "wordMeanings": [
+          {
+            "term": "Please",
+            "description": "رجاءً، لجعل الطلب مهذبًا"
+          },
+          {
+            "term": "move",
+            "description": "حرّك أو انقل"
+          },
+          {
+            "term": "your",
+            "description": "خاص بك"
+          },
+          {
+            "term": "car",
+            "description": "سيارة"
+          }
+        ]
+      },
+      {
+        "sentence": "it is blocking the way.",
+        "ar": "إنها تسد الطريق.",
+        "context": "هذا الجزء يشرح سبب طلب تحريك السيارة.",
+        "grammar": {
+          "tense": "المضارع المستمر",
+          "tenseEn": "Present Continuous",
+          "reason": "استُخدم المضارع المستمر لأن السيارة تسبب عائقًا في الوقت الحالي."
+        },
+        "wordMeanings": [
+          {
+            "term": "it",
+            "description": "ضمير يعود على السيارة"
+          },
+          {
+            "term": "is",
+            "description": "صيغة مساعدة مع المفرد في الحاضر"
+          },
+          {
+            "term": "blocking",
+            "description": "تسد أو تمنع المرور"
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف لطريق محدد"
+          },
+          {
+            "term": "way",
+            "description": "طريق أو ممر"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Please move your bike.",
+        "ar": "رجاءً حرّك دراجتك.",
+        "context": "تقال عند وجود دراجة في الطريق."
+      },
+      {
+        "id": 2,
+        "en": "Your car is blocking the gate.",
+        "ar": "سيارتك تسد البوابة.",
+        "context": "تقال عند منع الدخول أو الخروج."
+      },
+      {
+        "id": 3,
+        "en": "Please park your car outside.",
+        "ar": "رجاءً أوقف سيارتك في الخارج.",
+        "context": "تقال عند طلب تغيير مكان السيارة."
+      },
+      {
+        "id": 4,
+        "en": "The truck is blocking the road.",
+        "ar": "الشاحنة تسد الطريق.",
+        "context": "تقال عند وجود عائق مروري."
+      },
+      {
+        "id": 5,
+        "en": "Can you move your car?",
+        "ar": "هل يمكنك تحريك سيارتك؟",
+        "context": "تقال بصيغة سؤال مهذب."
+      },
+      {
+        "id": 6,
+        "en": "Please move this chair.",
+        "ar": "رجاءً حرّك هذا الكرسي.",
+        "context": "تقال عند وجود شيء في المكان الخطأ."
+      },
+      {
+        "id": 7,
+        "en": "The way is clear now.",
+        "ar": "الطريق واضح الآن.",
+        "context": "تقال بعد إزالة العائق."
+      },
+      {
+        "id": 8,
+        "en": "His car blocked the entrance.",
+        "ar": "سيارته سدت المدخل.",
+        "context": "تقال عند وصف عائق حدث في الماضي."
+      },
+      {
+        "id": 9,
+        "en": "Move the car slowly, please.",
+        "ar": "حرّك السيارة ببطء رجاءً.",
+        "context": "تقال عند طلب الحذر أثناء التحريك."
+      },
+      {
+        "id": 10,
+        "en": "The car is parked in the way.",
+        "ar": "السيارة مركونة في الطريق.",
+        "context": "تقال عند شرح سبب الانزعاج."
+      }
+    ]
+  }
+}

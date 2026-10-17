@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "id": 3275,
+  "sentence": {
+    "en": "You can sit anywhere.",
+    "ar": "يمكنك الجلوس في أي مكان.",
+    "context": "عدم تقييد المكان بموقع محدد."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "You can sit anywhere.",
+        "ar": "يمكنك الجلوس في أي مكان.",
+        "context": "توضح الجملة أن المخاطب حر في اختيار مكان الجلوس دون تحديد مكان معين.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه بنية فعل modal باستخدام can للتعبير عن الإذن، ولا تصنف كزمن مستقل."
+        },
+        "wordMeanings": [
+          {
+            "term": "You",
+            "description": "أنت؛ الشخص المخاطب."
+          },
+          {
+            "term": "can",
+            "description": "يمكنك؛ تدل على الإذن أو القدرة."
+          },
+          {
+            "term": "sit",
+            "description": "تجلس؛ تضع جسمك على كرسي أو مكان للجلوس."
+          },
+          {
+            "term": "anywhere",
+            "description": "في أي مكان؛ دون تحديد مكان معين."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "You can sit anywhere.",
+        "ar": "يمكنك الجلوس في أي مكان.",
+        "context": "تعطي حرية اختيار مكان الجلوس."
+      },
+      {
+        "id": 2,
+        "en": "She can sit anywhere.",
+        "ar": "يمكنها الجلوس في أي مكان.",
+        "context": "تتحدث عن إذن لشخص آخر."
+      },
+      {
+        "id": 3,
+        "en": "You can wait anywhere.",
+        "ar": "يمكنك الانتظار في أي مكان.",
+        "context": "تغير الفعل مع بقاء حرية المكان."
+      },
+      {
+        "id": 4,
+        "en": "You cannot sit anywhere.",
+        "ar": "لا يمكنك الجلوس في أي مكان.",
+        "context": "تنفي حرية اختيار المكان."
+      },
+      {
+        "id": 5,
+        "en": "Can you sit anywhere?",
+        "ar": "هل يمكنك الجلوس في أي مكان؟",
+        "context": "تسأل عن الإذن أو الإمكانية."
+      },
+      {
+        "id": 6,
+        "en": "You could sit anywhere before.",
+        "ar": "كان يمكنك الجلوس في أي مكان من قبل.",
+        "context": "تنقل الإذن إلى الماضي."
+      },
+      {
+        "id": 7,
+        "en": "You will be able to sit anywhere after the room opens.",
+        "ar": "ستتمكن من الجلوس في أي مكان بعد فتح الغرفة.",
+        "context": "تتحدث عن إمكانية مستقبلية."
+      },
+      {
+        "id": 8,
+        "en": "You can sit anywhere in this room.",
+        "ar": "يمكنك الجلوس في أي مكان في هذه الغرفة.",
+        "context": "تحدد نطاق الأماكن المتاحة."
+      },
+      {
+        "id": 9,
+        "en": "You can sit anywhere because the seats are free.",
+        "ar": "يمكنك الجلوس في أي مكان لأن المقاعد متاحة.",
+        "context": "تذكر سبب حرية الجلوس."
+      },
+      {
+        "id": 10,
+        "en": "You can sit anywhere, but keep the door clear.",
+        "ar": "يمكنك الجلوس في أي مكان، لكن أبق الباب خاليا.",
+        "context": "تضيف شرطا بسيطا."
+      }
+    ]
+  }
+}

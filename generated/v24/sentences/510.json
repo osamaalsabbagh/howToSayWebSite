@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": 510,
+  "sentence": {
+    "en": "Are you sure?",
+    "ar": "هل أنت متأكد؟",
+    "context": "طلب تَأْكِيدًا على صحة أو يقين شيء ما."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Are you sure?",
+        "ar": "هل أنت متأكد؟",
+        "context": "سؤال للتأكد من ثقة الشخص بكلامه أو قراره.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "Are يصف حالة اليقين الحالية عند المخاطب."
+        },
+        "wordMeanings": [
+          {
+            "term": "Are",
+            "description": "تستخدم للسؤال عن حالة أو صفة."
+          },
+          {
+            "term": "you",
+            "description": "تشير إلى المخاطب."
+          },
+          {
+            "term": "sure",
+            "description": "تعني متأكد أو واثق."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I am sure.",
+        "ar": "أنا متأكد.",
+        "context": "تأكيد الثقة."
+      },
+      {
+        "id": 2,
+        "en": "Are you sure about that?",
+        "ar": "هل أنت متأكد من ذلك؟",
+        "context": "طلب تأكيد أكثر تحديدًا."
+      },
+      {
+        "id": 3,
+        "en": "She is not sure.",
+        "ar": "هي ليست متأكدة.",
+        "context": "وصف عدم اليقين."
+      },
+      {
+        "id": 4,
+        "en": "We are sure it is correct.",
+        "ar": "نحن متأكدون أنه صحيح.",
+        "context": "تأكيد صحة شيء."
+      },
+      {
+        "id": 5,
+        "en": "Are they sure?",
+        "ar": "هل هم متأكدون؟",
+        "context": "سؤال عن يقين مجموعة."
+      },
+      {
+        "id": 6,
+        "en": "I am not sure yet.",
+        "ar": "لست متأكدًا بعد.",
+        "context": "إظهار تردد."
+      },
+      {
+        "id": 7,
+        "en": "He is sure of the answer.",
+        "ar": "هو متأكد من الإجابة.",
+        "context": "ثقة في إجابة."
+      },
+      {
+        "id": 8,
+        "en": "Are you sure you can come?",
+        "ar": "هل أنت متأكد أنك تستطيع الحضور؟",
+        "context": "تأكيد خطة حضور."
+      },
+      {
+        "id": 9,
+        "en": "Please be sure before you answer.",
+        "ar": "من فضلك كن متأكدًا قبل أن تجيب.",
+        "context": "طلب التحقق قبل الرد."
+      },
+      {
+        "id": 10,
+        "en": "This answer is not sure.",
+        "ar": "هذه الإجابة غير مؤكدة.",
+        "context": "وصف إجابة غير موثوقة."
+      }
+    ]
+  }
+}

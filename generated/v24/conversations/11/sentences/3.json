@@ -1,0 +1,119 @@
+{
+  "schemaVersion": 1,
+  "id": 3,
+  "sentence": {
+    "en": "That is correct! Good job.",
+    "ar": "هذا صحيح! عمل جيد.",
+    "context": "المعلم يؤكد صحة الإجابة ويشجع الطالب"
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "That is correct!",
+        "ar": "هذا صحيح!",
+        "context": "يبدأ به المتحدث الفكرة الأساسية قبل إضافة التفاصيل.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "الجملة تصف صحة الإجابة في لحظة الحديث بوصفها حقيقة حالية."
+        },
+        "wordMeanings": [
+          {
+            "term": "That",
+            "description": "يشير إلى الإجابة أو الفكرة التي قيلت قبل قليل."
+          },
+          {
+            "term": "is",
+            "description": "تربط الشيء المشار إليه بوصفه صحيحًا."
+          },
+          {
+            "term": "correct",
+            "description": "صحيح أو مطابق للحقيقة."
+          }
+        ]
+      },
+      {
+        "sentence": "Good job.",
+        "ar": "عمل جيد.",
+        "context": "تكمل المعنى المرتبط بالجزء السابق.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه عبارة تشجيع قصيرة وليست جملة فعلية لها زمن مستقل."
+        },
+        "wordMeanings": [
+          {
+            "term": "Good",
+            "description": "جيد أو ممتاز في سياق التشجيع."
+          },
+          {
+            "term": "job",
+            "description": "عمل أو إنجاز قام به الشخص."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "That is correct. Good work.",
+        "ar": "هذا صحيح. عمل جيد.",
+        "context": "يُستخدم لتأكيد إجابة وتشجيع صاحبها."
+      },
+      {
+        "id": 2,
+        "en": "That is right. Good job.",
+        "ar": "هذا صحيح. عمل جيد.",
+        "context": "يُستخدم بعد إجابة صحيحة في الصف."
+      },
+      {
+        "id": 3,
+        "en": "That is correct. Well done.",
+        "ar": "هذا صحيح. أحسنت.",
+        "context": "يُستخدم لتقديم مدح مباشر بعد إنجاز."
+      },
+      {
+        "id": 4,
+        "en": "Your answer is correct. Good job.",
+        "ar": "إجابتك صحيحة. عمل جيد.",
+        "context": "يُستخدم عندما يريد المعلم توضيح أن الإجابة صحيحة."
+      },
+      {
+        "id": 5,
+        "en": "That is correct. You solved it.",
+        "ar": "هذا صحيح. لقد حللته.",
+        "context": "يُستخدم بعد نجاح شخص في حل سؤال."
+      },
+      {
+        "id": 6,
+        "en": "That is correct. Keep going.",
+        "ar": "هذا صحيح. استمر.",
+        "context": "يُستخدم لتشجيع شخص على متابعة العمل."
+      },
+      {
+        "id": 7,
+        "en": "The number is correct. Good job.",
+        "ar": "الرقم صحيح. عمل جيد.",
+        "context": "يُستخدم عند التأكد من إجابة عددية."
+      },
+      {
+        "id": 8,
+        "en": "That is correct. Nice answer.",
+        "ar": "هذا صحيح. إجابة جيدة.",
+        "context": "يُستخدم لتقدير إجابة واضحة."
+      },
+      {
+        "id": 9,
+        "en": "That is correct. Good effort.",
+        "ar": "هذا صحيح. جهد جيد.",
+        "context": "يُستخدم لتشجيع الشخص على جهده."
+      },
+      {
+        "id": 10,
+        "en": "Your idea is correct. Good job.",
+        "ar": "فكرتك صحيحة. عمل جيد.",
+        "context": "يُستخدم عند قبول فكرة أو حل."
+      }
+    ]
+  }
+}

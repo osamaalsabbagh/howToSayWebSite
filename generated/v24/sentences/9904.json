@@ -1,0 +1,141 @@
+{
+  "schemaVersion": 1,
+  "id": 9904,
+  "sentence": {
+    "en": "Our relationship has healed, so we can talk openly again.",
+    "ar": "علاقتنا قد تعافت، لذلك نحن نستطيع التحدث بصراحة مرة أخرى.",
+    "context": "أنت تصف تحسن العلاقة بعد فترة خلاف، وأصبح الحوار بينكما ممكنًا الآن.",
+    "sourceWord": "heal",
+    "sourcePos": "v."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Our relationship has healed,",
+        "ar": "علاقتنا قد تعافت،",
+        "context": "الخلاف السابق انتهى والعلاقة أفضل الآن.",
+        "grammar": {
+          "tense": "المضارع التام",
+          "tenseEn": "Present Perfect",
+          "reason": "التعافي حدث بعد فترة خلاف، ونتيجته ظاهرة الآن في تحسن العلاقة."
+        },
+        "wordMeanings": [
+          {
+            "term": "Our",
+            "description": "ضمير ملكية للمتكلمين؛ علاقتنا."
+          },
+          {
+            "term": "relationship",
+            "description": "علاقة تربط شخصين."
+          },
+          {
+            "term": "has",
+            "description": "فعل مساعد يربط التعافي السابق بنتيجته الحالية."
+          },
+          {
+            "term": "healed",
+            "description": "تعافت؛ تحسنت بعد خلاف أو أذى عاطفي."
+          }
+        ]
+      },
+      {
+        "sentence": "so we can talk openly again.",
+        "ar": "لذلك نحن نستطيع التحدث بصراحة مرة أخرى.",
+        "context": "تحسن العلاقة يسمح الآن بإجراء حوار صريح.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "أداة القدرة يليها أصل الفعل، والجزء يبين ما أصبح ممكنًا نتيجة تحسن العلاقة."
+        },
+        "wordMeanings": [
+          {
+            "term": "so",
+            "description": "لذلك؛ يربط النتيجة بالسبب."
+          },
+          {
+            "term": "we",
+            "description": "نحن."
+          },
+          {
+            "term": "can",
+            "description": "نستطيع؛ تعبر عن القدرة."
+          },
+          {
+            "term": "talk",
+            "description": "التحدث."
+          },
+          {
+            "term": "openly",
+            "description": "بصراحة ودون إخفاء المشاعر."
+          },
+          {
+            "term": "again",
+            "description": "مرة أخرى."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Our relationship has healed, so we can talk openly again.",
+        "ar": "علاقتنا قد تعافت، لذلك نحن نستطيع التحدث بصراحة مرة أخرى.",
+        "context": "أنت تصف تحسن العلاقة بعد فترة خلاف، وأصبح الحوار بينكما ممكنًا الآن."
+      },
+      {
+        "id": 2,
+        "en": "The burn is healing slowly.",
+        "ar": "الحرق يلتئم ببطء.",
+        "context": "أنت تصف تحسن موضع الحرق يومًا بعد يوم خلال فترة التعافي الحالية."
+      },
+      {
+        "id": 3,
+        "en": "The counselor helped the family heal after the loss.",
+        "ar": "المستشار ساعد الأسرة على التعافي بعد الفقد.",
+        "context": "أنت تروي الدعم الذي تلقته الأسرة خلال فترة حزن سابقة."
+      },
+      {
+        "id": 4,
+        "en": "The apology did not heal the rift between the brothers.",
+        "ar": "الاعتذار لم يعالج الخلاف بين الأخوين.",
+        "context": "أنت تصف خلافًا استمر رغم اعتذار أحد الأخوين الأسبوع الماضي."
+      },
+      {
+        "id": 5,
+        "en": "The old injury has finally healed.",
+        "ar": "الإصابة القديمة قد شفيت أخيرًا.",
+        "context": "أنت تعلن انتهاء فترة التعافي الطويلة وعودة الحركة المريحة الآن."
+      },
+      {
+        "id": 6,
+        "en": "The community is healing after years of conflict.",
+        "ar": "المجتمع يتعافى بعد سنوات من الصراع.",
+        "context": "أنت تلاحظ تعاون السكان من جديد مع استمرار جهود المصالحة الحالية."
+      },
+      {
+        "id": 7,
+        "en": "The doctor checked the healing wound.",
+        "ar": "الطبيب فحص الجرح الذي يلتئم.",
+        "context": "أنت تروي ما راجعه الطبيب خلال زيارة متابعة انتهت أمس."
+      },
+      {
+        "id": 8,
+        "en": "Her kind words helped heal my wounded pride.",
+        "ar": "كلماتها اللطيفة ساعدت على مداواة كبريائي المجروح.",
+        "context": "أنت تروي كيف خففت صديقتك أثر إحراج تعرضت له في اجتماع سابق."
+      },
+      {
+        "id": 9,
+        "en": "We hope to heal the divisions within the team.",
+        "ar": "نحن نأمل في معالجة الانقسامات داخل الفريق.",
+        "context": "أنت تعرض هدفًا مشتركًا بعد اختلاف الأعضاء حول طريقة العمل."
+      },
+      {
+        "id": 10,
+        "en": "The scar remained even after the wound healed.",
+        "ar": "الندبة بقيت حتى بعد التئام الجرح.",
+        "context": "أنت تصف أثر إصابة قديمة انتهى تعافيها منذ فترة."
+      }
+    ]
+  }
+}

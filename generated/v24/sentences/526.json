@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "id": 526,
+  "sentence": {
+    "en": "Do you study English?",
+    "ar": "هل تدرس الإنجليزية؟",
+    "context": "السؤال عمّا إذا كان الشخص يتعلم اللغة الإنجليزية بشكل عام أو يدرسها كعادة أو مادة دراسية."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Do you study English?",
+        "ar": "هل تدرس الإنجليزية؟",
+        "context": "سؤال عن تعلم الإنجليزية أو دراستها كعادة.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "study في المضارع البسيط يسأل عن عادة أو نشاط دراسي عام."
+        },
+        "wordMeanings": [
+          {
+            "term": "Do",
+            "description": "تساعد في تكوين السؤال."
+          },
+          {
+            "term": "you",
+            "description": "تشير إلى المخاطب."
+          },
+          {
+            "term": "study",
+            "description": "تعني تدرس أو تتعلم."
+          },
+          {
+            "term": "English",
+            "description": "اللغة الإنجليزية."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I study English every day.",
+        "ar": "أدرس الإنجليزية كل يوم.",
+        "context": "ذكر عادة دراسية."
+      },
+      {
+        "id": 2,
+        "en": "Do you study Arabic?",
+        "ar": "هل تدرس العربية؟",
+        "context": "سؤال عن لغة أخرى."
+      },
+      {
+        "id": 3,
+        "en": "She studies English at school.",
+        "ar": "هي تدرس الإنجليزية في المدرسة.",
+        "context": "ذكر مكان الدراسة."
+      },
+      {
+        "id": 4,
+        "en": "They do not study English.",
+        "ar": "هم لا يدرسون الإنجليزية.",
+        "context": "نفي الدراسة."
+      },
+      {
+        "id": 5,
+        "en": "We study together.",
+        "ar": "ندرس معًا.",
+        "context": "ذكر طريقة الدراسة."
+      },
+      {
+        "id": 6,
+        "en": "Do you speak English?",
+        "ar": "هل تتحدث الإنجليزية؟",
+        "context": "سؤال عن القدرة اللغوية."
+      },
+      {
+        "id": 7,
+        "en": "He studies at night.",
+        "ar": "هو يدرس ليلًا.",
+        "context": "ذكر وقت الدراسة."
+      },
+      {
+        "id": 8,
+        "en": "English is useful.",
+        "ar": "الإنجليزية مفيدة.",
+        "context": "وصف اللغة."
+      },
+      {
+        "id": 9,
+        "en": "I want to study English.",
+        "ar": "أريد أن أدرس الإنجليزية.",
+        "context": "التعبير عن رغبة في التعلم."
+      },
+      {
+        "id": 10,
+        "en": "Do the children study English?",
+        "ar": "هل الأطفال يدرسون الإنجليزية؟",
+        "context": "سؤال عن دراسة الأطفال."
+      }
+    ]
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "schemaVersion": 1,
+  "id": 3005,
+  "sentence": {
+    "en": "She usually drinks coffee in the morning.",
+    "ar": "هي عادة تشرب قهوة في الصباح.",
+    "context": "عادة متكررة في وقت محدد."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "She usually drinks coffee in the morning.",
+        "ar": "عادة تشرب القهوة في الصباح.",
+        "context": "تصف الجملة عادة صباحية متكررة: أنها تشرب القهوة في الصباح غالبا.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُخدم المضارع البسيط لأن usually يدل على عادة، وin the morning يحدد وقتها المتكرر."
+        },
+        "wordMeanings": [
+          {
+            "term": "She",
+            "description": "ضمير يعني هي، ويشير إلى امرأة أو فتاة."
+          },
+          {
+            "term": "usually",
+            "description": "عادة؛ في أغلب الأوقات."
+          },
+          {
+            "term": "drinks",
+            "description": "تشرب؛ فعل مضارع مع she ويأخذ s."
+          },
+          {
+            "term": "coffee",
+            "description": "قهوة؛ مشروب معروف يحتوي غالبا على الكافيين."
+          },
+          {
+            "term": "in",
+            "description": "في؛ حرف جر يستخدم مع فترات اليوم مثل الصباح."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف ضمن التعبير الثابت in the morning."
+          },
+          {
+            "term": "morning",
+            "description": "الصباح؛ الجزء الأول من اليوم."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "She usually drinks coffee in the morning.",
+        "ar": "عادة تشرب القهوة في الصباح.",
+        "context": "تصف عادة شرب القهوة صباحا."
+      },
+      {
+        "id": 2,
+        "en": "He usually drinks coffee in the morning.",
+        "ar": "عادة يشرب القهوة في الصباح.",
+        "context": "تستخدم الجملة مع رجل أو ولد."
+      },
+      {
+        "id": 3,
+        "en": "She usually drinks tea in the morning.",
+        "ar": "عادة تشرب الشاي في الصباح.",
+        "context": "تغير المشروب إلى الشاي."
+      },
+      {
+        "id": 4,
+        "en": "She does not usually drink coffee in the morning.",
+        "ar": "هي لا تشرب القهوة عادة في الصباح.",
+        "context": "تنفي أن تكون هذه عادتها."
+      },
+      {
+        "id": 5,
+        "en": "Does she usually drink coffee in the morning?",
+        "ar": "هل تشرب القهوة عادة في الصباح؟",
+        "context": "تسأل عن عادة صباحية."
+      },
+      {
+        "id": 6,
+        "en": "She drank coffee this morning.",
+        "ar": "شربت القهوة هذا الصباح.",
+        "context": "تنقل الفعل إلى حدث ماض قريب."
+      },
+      {
+        "id": 7,
+        "en": "She will drink coffee in the morning.",
+        "ar": "ستشرب القهوة في الصباح.",
+        "context": "تنقل الفعل إلى المستقبل."
+      },
+      {
+        "id": 8,
+        "en": "She usually drinks coffee in the morning before work.",
+        "ar": "عادة تشرب القهوة في الصباح قبل العمل.",
+        "context": "تحدد وقتا أدق داخل الصباح."
+      },
+      {
+        "id": 9,
+        "en": "She usually drinks coffee in the morning because it helps her wake up.",
+        "ar": "عادة تشرب القهوة في الصباح لأنها تساعدها على الاستيقاظ.",
+        "context": "توضح سبب العادة."
+      },
+      {
+        "id": 10,
+        "en": "If she drinks coffee in the morning, she feels more awake.",
+        "ar": "إذا شربت القهوة في الصباح، تشعر بنشاط أكبر.",
+        "context": "تربط العادة بنتيجة."
+      }
+    ]
+  }
+}

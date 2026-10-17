@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "id": 2874,
+  "sentence": {
+    "en": "This thing is important.",
+    "ar": "هذا الشيء مهم.",
+    "context": "الإشارة إلى أمر عام دون تحديد دقيق."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "This thing is important.",
+        "ar": "هذا الشيء مهم.",
+        "context": "تصف الجملة شيئا أو أمرا محددا بأنه مهم، حتى لو لم يُذكر اسمه بدقة.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُخدم المضارع البسيط مع is لوصف أهمية شيء في الحاضر."
+        },
+        "wordMeanings": [
+          {
+            "term": "This",
+            "description": "هذا؛ اسم إشارة لشيء قريب أو موضوع محدد."
+          },
+          {
+            "term": "thing",
+            "description": "شيء أو أمر؛ كلمة عامة عندما لا نذكر الاسم المحدد."
+          },
+          {
+            "term": "is",
+            "description": "فعل يكون، وهنا يربط الشيء بصفته."
+          },
+          {
+            "term": "important",
+            "description": "مهم؛ له قيمة أو تأثير ويجب الانتباه إليه."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "This thing is important.",
+        "ar": "هذا الشيء مهم.",
+        "context": "تصف أهمية أمر عام."
+      },
+      {
+        "id": 2,
+        "en": "This task is important.",
+        "ar": "هذه المهمة مهمة.",
+        "context": "تحدد الشيء بأنه مهمة."
+      },
+      {
+        "id": 3,
+        "en": "That thing is not important.",
+        "ar": "ذلك الشيء ليس مهما.",
+        "context": "تنفي أهمية شيء آخر."
+      },
+      {
+        "id": 4,
+        "en": "Is this thing important?",
+        "ar": "هل هذا الشيء مهم؟",
+        "context": "تسأل عن أهمية شيء."
+      },
+      {
+        "id": 5,
+        "en": "This thing is very important to me.",
+        "ar": "هذا الشيء مهم جدا بالنسبة إلي.",
+        "context": "تصف أهمية شخصية."
+      },
+      {
+        "id": 6,
+        "en": "This meeting is important.",
+        "ar": "هذا الاجتماع مهم.",
+        "context": "تستخدم صفة important مع اسم محدد."
+      },
+      {
+        "id": 7,
+        "en": "Please remember this important thing.",
+        "ar": "من فضلك تذكر هذا الشيء المهم.",
+        "context": "تطلب الانتباه إلى أمر مهم."
+      },
+      {
+        "id": 8,
+        "en": "This thing became important later.",
+        "ar": "أصبح هذا الشيء مهما لاحقا.",
+        "context": "تصف تغير الأهمية مع الزمن."
+      },
+      {
+        "id": 9,
+        "en": "I know this thing is important.",
+        "ar": "أعلم أن هذا الشيء مهم.",
+        "context": "تربط المعرفة بالأهمية."
+      },
+      {
+        "id": 10,
+        "en": "This thing is important, so do not lose it.",
+        "ar": "هذا الشيء مهم، لذلك لا تفقده.",
+        "context": "توضح نتيجة أهمية الشيء."
+      }
+    ]
+  }
+}

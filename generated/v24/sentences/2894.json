@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "id": 2894,
+  "sentence": {
+    "en": "Three cars are outside.",
+    "ar": "ثلاث سيارات خارجًا.",
+    "context": "عدد محدد من الأشياء."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Three cars are outside.",
+        "ar": "ثلاث سيارات في الخارج.",
+        "context": "تحدد الجملة عدد السيارات الموجودة خارج المكان الحالي.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُخدم المضارع البسيط مع are لوصف موقع أشياء في الوقت الحالي."
+        },
+        "wordMeanings": [
+          {
+            "term": "Three",
+            "description": "ثلاث؛ العدد 3."
+          },
+          {
+            "term": "cars",
+            "description": "سيارات؛ جمع سيارة."
+          },
+          {
+            "term": "are",
+            "description": "فعل يكون مع الجمع، وهنا يربط السيارات بمكانها."
+          },
+          {
+            "term": "outside",
+            "description": "في الخارج؛ خارج المبنى أو المكان الحالي."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Three cars are outside.",
+        "ar": "ثلاث سيارات في الخارج.",
+        "context": "تصف عدد السيارات الموجودة خارجا."
+      },
+      {
+        "id": 2,
+        "en": "Two cars are outside.",
+        "ar": "سيارتان في الخارج.",
+        "context": "تستخدم عددا مختلفا."
+      },
+      {
+        "id": 3,
+        "en": "Three cars are in the garage.",
+        "ar": "ثلاث سيارات في المرأب.",
+        "context": "تصف مكانا مختلفا للسيارات."
+      },
+      {
+        "id": 4,
+        "en": "Three cars are waiting outside.",
+        "ar": "ثلاث سيارات تنتظر في الخارج.",
+        "context": "تضيف حالة انتظار."
+      },
+      {
+        "id": 5,
+        "en": "Three cars are not outside now.",
+        "ar": "ثلاث سيارات ليست في الخارج الآن.",
+        "context": "تنفي وجود السيارات خارجا."
+      },
+      {
+        "id": 6,
+        "en": "Are three cars outside?",
+        "ar": "هل توجد ثلاث سيارات في الخارج؟",
+        "context": "تسأل عن عدد السيارات ومكانها."
+      },
+      {
+        "id": 7,
+        "en": "Their three cars are outside.",
+        "ar": "سياراتهم الثلاث في الخارج.",
+        "context": "تصف ملكية السيارات ومكانها."
+      },
+      {
+        "id": 8,
+        "en": "I saw three cars outside.",
+        "ar": "رأيت ثلاث سيارات في الخارج.",
+        "context": "تصف رؤية السيارات في الماضي."
+      },
+      {
+        "id": 9,
+        "en": "Three cars are outside the hotel.",
+        "ar": "ثلاث سيارات خارج الفندق.",
+        "context": "تحدد المكان بدقة أكبر."
+      },
+      {
+        "id": 10,
+        "en": "Only three cars are outside.",
+        "ar": "ثلاث سيارات فقط في الخارج.",
+        "context": "تؤكد أن العدد قليل أو محدود."
+      }
+    ]
+  }
+}

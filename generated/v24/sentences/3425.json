@@ -1,0 +1,123 @@
+{
+  "schemaVersion": 1,
+  "id": 3425,
+  "sentence": {
+    "en": "Borrow my umbrella if it rains.",
+    "ar": "استعر مظلتي إذا أمطرت.",
+    "context": "عرض أو سماح لشخص بأخذ المظلة مؤقتًا عند حدوث المطر."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Borrow my umbrella",
+        "ar": "استعر مظلتي",
+        "context": "هذا الجزء يعطي سماحا أو عرضا باستعارة المظلة.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه صيغة أمر أو عرض، لذلك لا تحمل زمنا مستقلا."
+        },
+        "wordMeanings": [
+          {
+            "term": "Borrow",
+            "description": "استعر؛ خذ شيئا مؤقتا ثم أعده."
+          },
+          {
+            "term": "my",
+            "description": "خاصتي؛ تعود على المتكلم."
+          },
+          {
+            "term": "umbrella",
+            "description": "مظلة؛ أداة للحماية من المطر."
+          }
+        ]
+      },
+      {
+        "sentence": "if it rains",
+        "ar": "إذا أمطرت",
+        "context": "هذا الجزء يذكر الشرط الذي يجعل الاستعارة مناسبة.",
+        "grammar": {
+          "tense": "المضارع البسيط في جملة شرطية",
+          "tenseEn": "Present Simple in a Conditional Clause",
+          "reason": "استُخدم المضارع البسيط بعد إذا للتعبير عن شرط محتمل."
+        },
+        "wordMeanings": [
+          {
+            "term": "if",
+            "description": "إذا؛ تقدم شرطا."
+          },
+          {
+            "term": "it",
+            "description": "تستخدم مع حالة الطقس دون أن تشير إلى شيء محدد."
+          },
+          {
+            "term": "rains",
+            "description": "تمطر؛ ينزل المطر."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Borrow my umbrella if it rains.",
+        "ar": "استعر مظلتي إذا أمطرت.",
+        "context": "تعرض استعارة المظلة عند الحاجة."
+      },
+      {
+        "id": 2,
+        "en": "Borrow my coat if you feel cold.",
+        "ar": "استعر معطفي إذا شعرت بالبرد.",
+        "context": "تعرض استعارة لباس عند الحاجة."
+      },
+      {
+        "id": 3,
+        "en": "Do not borrow my umbrella today.",
+        "ar": "لا تستعر مظلتي اليوم.",
+        "context": "تمنع استعارة شيء في يوم معين."
+      },
+      {
+        "id": 4,
+        "en": "Did you borrow my umbrella?",
+        "ar": "هل استعرت مظلتي؟",
+        "context": "تسأل هل أخذ شخص المظلة مؤقتا."
+      },
+      {
+        "id": 5,
+        "en": "She borrowed my umbrella yesterday.",
+        "ar": "هي استعارت مظلتي أمس.",
+        "context": "تنقل الاستعارة إلى الماضي."
+      },
+      {
+        "id": 6,
+        "en": "He is borrowing my umbrella now.",
+        "ar": "هو يستعير مظلتي الآن.",
+        "context": "تصف الاستعارة أثناء حدوثها."
+      },
+      {
+        "id": 7,
+        "en": "You can borrow my umbrella for the walk.",
+        "ar": "يمكنك استعارة مظلتي للمشي.",
+        "context": "تمنح السماح بالاستعارة لغرض محدد."
+      },
+      {
+        "id": 8,
+        "en": "Borrow my bag if yours is full.",
+        "ar": "استعر حقيبتي إذا كانت حقيبتك ممتلئة.",
+        "context": "تعرض استعارة شيء عند وجود مشكلة."
+      },
+      {
+        "id": 9,
+        "en": "You can borrow my umbrella and return it tonight.",
+        "ar": "يمكنك استعارة مظلتي وإعادتها الليلة.",
+        "context": "توضح أن الاستعارة مؤقتة."
+      },
+      {
+        "id": 10,
+        "en": "Borrow this umbrella before you leave.",
+        "ar": "استعر هذه المظلة قبل أن تغادر.",
+        "context": "تعطي عرضا قبل خروج شخص."
+      }
+    ]
+  }
+}

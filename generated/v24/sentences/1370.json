@@ -1,0 +1,139 @@
+{
+  "schemaVersion": 1,
+  "id": 1370,
+  "sentence": {
+    "en": "The lecture was so boring that I almost fell asleep.",
+    "ar": "كانت المحاضرة مملة جدًا لدرجة أنني كدت أنام.",
+    "context": "صف نشاطًا أو حدثًا يجعلك تشعر بالملل."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "The lecture was so boring",
+        "ar": "كانت المحاضرة مملة جدًا",
+        "context": "يصف هذا الجزء المحاضرة بأنها شديدة الملل في الماضي.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "was يصف حالة المحاضرة في الماضي، وso يبرز شدة الوصف."
+        },
+        "wordMeanings": [
+          {
+            "term": "The",
+            "description": "أداة تعريف لمحاضرة محددة."
+          },
+          {
+            "term": "lecture",
+            "description": "محاضرة."
+          },
+          {
+            "term": "was",
+            "description": "كانت؛ تصف حالة في الماضي."
+          },
+          {
+            "term": "so",
+            "description": "جدًا أو بدرجة كبيرة."
+          },
+          {
+            "term": "boring",
+            "description": "مملة أو تسبب الضجر."
+          }
+        ]
+      },
+      {
+        "sentence": "that I almost fell asleep.",
+        "ar": "لدرجة أنني كدت أنام.",
+        "context": "يوضح هذا الجزء نتيجة شدة الملل.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "fell asleep في الماضي البسيط لأنه يصف ما كاد يحدث في ذلك الموقف، وthat تربط النتيجة بالسبب."
+        },
+        "wordMeanings": [
+          {
+            "term": "that",
+            "description": "تربط شدة الوصف بالنتيجة."
+          },
+          {
+            "term": "I",
+            "description": "أنا؛ المتكلم."
+          },
+          {
+            "term": "almost",
+            "description": "كاد أو تقريبًا."
+          },
+          {
+            "term": "fell",
+            "description": "وقع أو دخل في حالة، هنا مع النوم."
+          },
+          {
+            "term": "asleep",
+            "description": "نائم."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "The movie was so boring that I left early.",
+        "ar": "كان الفيلم مملًا جدًا لدرجة أنني غادرت مبكرًا.",
+        "context": "يقال عند ترك شيء بسبب الملل."
+      },
+      {
+        "id": 2,
+        "en": "The class was so long that I got tired.",
+        "ar": "كان الدرس طويلًا جدًا لدرجة أنني تعبت.",
+        "context": "يقال عند ربط الطول بالتعب."
+      },
+      {
+        "id": 3,
+        "en": "I almost fell asleep during the lecture.",
+        "ar": "كدت أنام أثناء المحاضرة.",
+        "context": "يقال عند شدة الملل أو التعب."
+      },
+      {
+        "id": 4,
+        "en": "The lecture was interesting today.",
+        "ar": "كانت المحاضرة ممتعة اليوم.",
+        "context": "يقال عند عكس معنى الملل."
+      },
+      {
+        "id": 5,
+        "en": "The book was so boring that I stopped reading.",
+        "ar": "كان الكتاب مملًا جدًا لدرجة أنني توقفت عن القراءة.",
+        "context": "يقال عند ترك كتاب بسبب الملل."
+      },
+      {
+        "id": 6,
+        "en": "She was so tired that she fell asleep.",
+        "ar": "كانت متعبة جدًا لدرجة أنها نامت.",
+        "context": "يقال عند نتيجة التعب."
+      },
+      {
+        "id": 7,
+        "en": "The meeting was boring.",
+        "ar": "كان الاجتماع مملًا.",
+        "context": "يقال عند تقييم اجتماع."
+      },
+      {
+        "id": 8,
+        "en": "I fell asleep on the sofa.",
+        "ar": "نمت على الأريكة.",
+        "context": "يقال عند ذكر مكان النوم."
+      },
+      {
+        "id": 9,
+        "en": "The talk was so slow that everyone got bored.",
+        "ar": "كان الحديث بطيئًا جدًا لدرجة أن الجميع شعروا بالملل.",
+        "context": "يقال عند وصف حديث غير ممتع."
+      },
+      {
+        "id": 10,
+        "en": "He almost missed the end of the lecture.",
+        "ar": "كاد يفوّت نهاية المحاضرة.",
+        "context": "يقال عند اقتراب حدوث شيء."
+      }
+    ]
+  }
+}

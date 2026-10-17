@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "id": 2918,
+  "sentence": {
+    "en": "This tomato is fresh.",
+    "ar": "هذه الطماطم طازجة.",
+    "context": "الإشارة إلى ثمرة واحدة محددة قريبة."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "This tomato is fresh.",
+        "ar": "هذه الطماطم طازجة.",
+        "context": "تصف الجملة ثمرة طماطم قريبة بأنها جديدة وغير فاسدة.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُخدم المضارع البسيط لأن is يصف حالة هذه الطماطم الآن."
+        },
+        "wordMeanings": [
+          {
+            "term": "This",
+            "description": "هذه؛ تشير إلى شيء مفرد قريب من المتكلم."
+          },
+          {
+            "term": "tomato",
+            "description": "طماطم؛ ثمرة مفردة تستخدم في الطعام."
+          },
+          {
+            "term": "is",
+            "description": "فعل يكون في المضارع، ويربط tomato بصفته."
+          },
+          {
+            "term": "fresh",
+            "description": "طازج؛ جديد أو بحالة جيدة ولم يفسد."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "This tomato is fresh.",
+        "ar": "هذه الطماطم طازجة.",
+        "context": "تصف ثمرة طماطم واحدة."
+      },
+      {
+        "id": 2,
+        "en": "These tomatoes are fresh.",
+        "ar": "هذه الطماطم طازجة.",
+        "context": "تستخدم الجمع بدلا من المفرد."
+      },
+      {
+        "id": 3,
+        "en": "This tomato is not fresh.",
+        "ar": "هذه الطماطم ليست طازجة.",
+        "context": "تنفي الطزاجة."
+      },
+      {
+        "id": 4,
+        "en": "Is this tomato fresh?",
+        "ar": "هل هذه الطماطم طازجة؟",
+        "context": "تسأل عن حالة الطماطم."
+      },
+      {
+        "id": 5,
+        "en": "This tomato looks fresh.",
+        "ar": "تبدو هذه الطماطم طازجة.",
+        "context": "تصف الانطباع من شكلها."
+      },
+      {
+        "id": 6,
+        "en": "This tomato is fresh and red.",
+        "ar": "هذه الطماطم طازجة وحمراء.",
+        "context": "تضيف صفة أخرى للطماطم."
+      },
+      {
+        "id": 7,
+        "en": "That tomato was fresh yesterday.",
+        "ar": "كانت تلك الطماطم طازجة أمس.",
+        "context": "تنقل الوصف إلى الماضي."
+      },
+      {
+        "id": 8,
+        "en": "I chose this tomato because it is fresh.",
+        "ar": "اخترت هذه الطماطم لأنها طازجة.",
+        "context": "توضح سبب اختيارها."
+      },
+      {
+        "id": 9,
+        "en": "Use this fresh tomato in the salad.",
+        "ar": "استخدم هذه الطماطم الطازجة في السلطة.",
+        "context": "تستخدم الوصف داخل طلب."
+      },
+      {
+        "id": 10,
+        "en": "This tomato is fresh, but it is small.",
+        "ar": "هذه الطماطم طازجة، لكنها صغيرة.",
+        "context": "توازن بين صفتين للطماطم."
+      }
+    ]
+  }
+}

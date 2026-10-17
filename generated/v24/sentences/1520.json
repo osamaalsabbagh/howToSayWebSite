@@ -1,0 +1,139 @@
+{
+  "schemaVersion": 1,
+  "id": 1520,
+  "sentence": {
+    "en": "I have an earache and need to see a doctor.",
+    "ar": "أعاني من ألم في الأذن وأحتاج إلى رؤية طبيب.",
+    "context": "صف حالة ألم في جزء معين من الجسم تستدعي زيارة الطبيب."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "I have an earache",
+        "ar": "لدي ألم في الأذن",
+        "context": "هذا الجزء يصف المشكلة الصحية الحالية.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُخدم المضارع البسيط لأن have يصف حالة صحية موجودة الآن."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير المتكلم ويعني أنا."
+          },
+          {
+            "term": "have",
+            "description": "لدي أو أعاني من في هذا السياق."
+          },
+          {
+            "term": "an",
+            "description": "أداة تدل على شيء واحد غير محدد قبل صوت متحرك."
+          },
+          {
+            "term": "earache",
+            "description": "ألم في الأذن."
+          }
+        ]
+      },
+      {
+        "sentence": "and need to see a doctor",
+        "ar": "وأحتاج إلى مراجعة طبيب",
+        "context": "هذا الجزء يوضح الإجراء المطلوب بسبب الألم.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُخدم المضارع البسيط لأن need يعبّر عن حاجة حالية، وto see يوضح الإجراء المطلوب."
+        },
+        "wordMeanings": [
+          {
+            "term": "and",
+            "description": "و، وتربط بين حالتين."
+          },
+          {
+            "term": "need",
+            "description": "أحتاج أو يلزمني."
+          },
+          {
+            "term": "to",
+            "description": "تأتي قبل الفعل لتوضيح المطلوب."
+          },
+          {
+            "term": "see",
+            "description": "أراجع أو أقابل في هذا السياق."
+          },
+          {
+            "term": "a",
+            "description": "أداة تدل على شخص واحد غير محدد."
+          },
+          {
+            "term": "doctor",
+            "description": "طبيب."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I have a headache and need to rest.",
+        "ar": "لدي صداع وأحتاج إلى الراحة.",
+        "context": "يقال عند وصف ألم وحاجة."
+      },
+      {
+        "id": 2,
+        "en": "She has an earache today.",
+        "ar": "لديها ألم في الأذن اليوم.",
+        "context": "يقال عند وصف مشكلة صحية."
+      },
+      {
+        "id": 3,
+        "en": "I need to see a doctor soon.",
+        "ar": "أحتاج إلى مراجعة طبيب قريبًا.",
+        "context": "يقال عند الحاجة إلى استشارة."
+      },
+      {
+        "id": 4,
+        "en": "He had an earache last night.",
+        "ar": "كان لديه ألم في الأذن الليلة الماضية.",
+        "context": "يقال عن ألم حدث في الماضي."
+      },
+      {
+        "id": 5,
+        "en": "The doctor checked my ear.",
+        "ar": "فحص الطبيب أذني.",
+        "context": "يقال في زيارة طبية."
+      },
+      {
+        "id": 6,
+        "en": "My ear hurts a lot.",
+        "ar": "أذني تؤلمني كثيرًا.",
+        "context": "يقال عند وصف الألم مباشرة."
+      },
+      {
+        "id": 7,
+        "en": "You should see a doctor for the pain.",
+        "ar": "ينبغي أن تراجع طبيبًا بسبب الألم.",
+        "context": "يقال كنصيحة صحية."
+      },
+      {
+        "id": 8,
+        "en": "She needs medicine for her earache.",
+        "ar": "تحتاج إلى دواء لألم أذنها.",
+        "context": "يقال عند طلب علاج."
+      },
+      {
+        "id": 9,
+        "en": "I cannot sleep because of the earache.",
+        "ar": "لا أستطيع النوم بسبب ألم الأذن.",
+        "context": "يقال عند بيان أثر الألم."
+      },
+      {
+        "id": 10,
+        "en": "The earache started this morning.",
+        "ar": "بدأ ألم الأذن هذا الصباح.",
+        "context": "يقال عند ذكر بداية المشكلة."
+      }
+    ]
+  }
+}

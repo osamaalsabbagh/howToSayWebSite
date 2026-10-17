@@ -1,0 +1,119 @@
+{
+  "schemaVersion": 1,
+  "id": 3359,
+  "sentence": {
+    "en": "She arrived before I did.",
+    "ar": "هي وصلت قبل أن أفعل.",
+    "context": "المقارنة في الوصول بين شخصين، حيث كلاهما قام بالفعل نفسه، ووصولها حدث أولًا."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "She arrived",
+        "ar": "هي وصلت",
+        "context": "تذكر أن وصولها حدث في الماضي.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "استُخدم arrived لأن الوصول حدث واكتمل في الماضي."
+        },
+        "wordMeanings": [
+          {
+            "term": "She",
+            "description": "هي؛ ضمير يشير إلى امرأة أو فتاة."
+          },
+          {
+            "term": "arrived",
+            "description": "وصلت؛ جاءت إلى المكان المقصود."
+          }
+        ]
+      },
+      {
+        "sentence": "before I did",
+        "ar": "قبل أن أصل أنا",
+        "context": "تقارن وقت وصولها بوقت وصول المتكلم، وتوضح أنها وصلت أولا.",
+        "grammar": {
+          "tense": "الماضي البسيط المختصر",
+          "tenseEn": "Elliptical Past Simple",
+          "reason": "استُخدم did بدلا من تكرار arrived، أي before I arrived."
+        },
+        "wordMeanings": [
+          {
+            "term": "before",
+            "description": "قبل؛ تدل على أن حدثا سبق حدثا آخر."
+          },
+          {
+            "term": "I",
+            "description": "أنا؛ المتكلم."
+          },
+          {
+            "term": "did",
+            "description": "فعل مساعد في الماضي يحل محل arrived لتجنب تكرار الفعل."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "She arrived before I did.",
+        "ar": "هي وصلت قبلي.",
+        "context": "تقول إنها وصلت أولا."
+      },
+      {
+        "id": 2,
+        "en": "He arrived before I did.",
+        "ar": "هو وصل قبلي.",
+        "context": "تغير الفاعل إلى رجل أو ولد."
+      },
+      {
+        "id": 3,
+        "en": "She arrived after I did.",
+        "ar": "هي وصلت بعدي.",
+        "context": "تعكس ترتيب الوصول."
+      },
+      {
+        "id": 4,
+        "en": "She did not arrive before I did.",
+        "ar": "هي لم تصل قبلي.",
+        "context": "تنفي أنها وصلت أولا."
+      },
+      {
+        "id": 5,
+        "en": "Did she arrive before I did?",
+        "ar": "هل وصلت قبلي؟",
+        "context": "تسأل عن ترتيب الوصول."
+      },
+      {
+        "id": 6,
+        "en": "She usually arrives before I do.",
+        "ar": "هي عادة تصل قبلي.",
+        "context": "تصف عادة في الحاضر بدلا من حدث ماض."
+      },
+      {
+        "id": 7,
+        "en": "She arrived before I did because her train was early.",
+        "ar": "هي وصلت قبلي لأن قطارها كان مبكرا.",
+        "context": "تذكر سبب وصولها أولا."
+      },
+      {
+        "id": 8,
+        "en": "She arrived before I did at the restaurant.",
+        "ar": "هي وصلت قبلي إلى المطعم.",
+        "context": "تحدد مكان الوصول."
+      },
+      {
+        "id": 9,
+        "en": "She arrived before I did, but she waited outside.",
+        "ar": "هي وصلت قبلي، لكنها انتظرت في الخارج.",
+        "context": "تضيف ما حدث بعد وصولها."
+      },
+      {
+        "id": 10,
+        "en": "My sister arrived before I did.",
+        "ar": "أختي وصلت قبلي.",
+        "context": "تستبدل الضمير باسم شخص محدد."
+      }
+    ]
+  }
+}

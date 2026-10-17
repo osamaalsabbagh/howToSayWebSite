@@ -1,0 +1,141 @@
+{
+  "schemaVersion": 1,
+  "id": 4806,
+  "sentence": {
+    "en": "Since the road is closed, we will take the train.",
+    "ar": "بما أن الطريق مغلق، نحن سنستقل القطار.",
+    "context": "تفسير اختيار وسيلة نقل بديلة بسبب عدم إتاحة طريق، لا تحديد وقت بدء الرحلة.",
+    "sourceWord": "since",
+    "sourcePos": "conj."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Since the road is closed,",
+        "ar": "بما أن الطريق مغلق،",
+        "context": "عرض حالة إغلاق طريق بوصفها سببًا لاختيار وسيلة تنقل أخرى.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "إغلاق الطريق حالة قائمة تفسر القرار اللاحق، وsince هنا سببية."
+        },
+        "wordMeanings": [
+          {
+            "term": "Since",
+            "description": "بما أن؛ تقدم السبب هنا"
+          },
+          {
+            "term": "the",
+            "description": "الـ؛ تشير إلى الطريق المقصود"
+          },
+          {
+            "term": "road",
+            "description": "طريق"
+          },
+          {
+            "term": "is",
+            "description": "يكون؛ يربط الطريق بحالته"
+          },
+          {
+            "term": "closed",
+            "description": "مغلق؛ غير متاح للمرور"
+          }
+        ]
+      },
+      {
+        "sentence": "we will take the train.",
+        "ar": "نحن سنستقل القطار.",
+        "context": "ذكر قرار نقل مرتقب نتيجة تعذر استخدام الطريق.",
+        "grammar": {
+          "tense": "المستقبل البسيط",
+          "tenseEn": "Future Simple",
+          "reason": "المتكلم يعلن قرار استخدام القطار في وقت لاحق."
+        },
+        "wordMeanings": [
+          {
+            "term": "we",
+            "description": "نحن"
+          },
+          {
+            "term": "will",
+            "description": "سـ؛ تشير إلى فعل لاحق"
+          },
+          {
+            "term": "take",
+            "description": "نستقل؛ نستخدم وسيلة نقل"
+          },
+          {
+            "term": "the",
+            "description": "الـ؛ تشير إلى القطار المقصود"
+          },
+          {
+            "term": "train",
+            "description": "قطار"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Since the road is closed, we will take the train.",
+        "ar": "بما أن الطريق مغلق، نحن سنستقل القطار.",
+        "context": "تفسير اختيار وسيلة نقل بديلة بسبب عدم إتاحة طريق، لا تحديد وقت بدء الرحلة."
+      },
+      {
+        "id": 2,
+        "en": "Since you are here, please check the map.",
+        "ar": "بما أنك هنا، من فضلك افحص الخريطة.",
+        "context": "تقديم حضور المخاطب بوصفه سببًا لطلب عمل منه الآن."
+      },
+      {
+        "id": 3,
+        "en": "The garden has flourished since the rain returned.",
+        "ar": "الحديقة قد ازدهرت منذ عودة المطر.",
+        "context": "وصف نمو ممتد بدأ بعد تغير سابق في الطقس."
+      },
+      {
+        "id": 4,
+        "en": "We will wait inside since the weather is cold.",
+        "ar": "نحن سننتظر في الداخل بما أن الطقس بارد.",
+        "context": "تفسير قرار مرتقب بعامل جوي قائم، لا بيان نقطة بداية الانتظار."
+      },
+      {
+        "id": 5,
+        "en": "The book has been popular since it was published.",
+        "ar": "الكتاب قد حظي بشعبية منذ نشره.",
+        "context": "وصف اهتمام استمر من إتاحة عمل مكتوب إلى الحاضر."
+      },
+      {
+        "id": 6,
+        "en": "Since the task is urgent, the team will start today.",
+        "ar": "بما أن المهمة عاجلة، الفريق سيبدأ اليوم.",
+        "context": "تقديم حاجة زمنية سببًا لتعجيل بداية عمل."
+      },
+      {
+        "id": 7,
+        "en": "The town has expanded since the railway opened.",
+        "ar": "البلدة قد توسعت منذ افتتاح السكة الحديدية.",
+        "context": "وصف نمو متراكم بدأ بعد انطلاق خدمة نقل في الماضي."
+      },
+      {
+        "id": 8,
+        "en": "Please use the side entrance since the main door is locked.",
+        "ar": "من فضلك استخدم المدخل الجانبي بما أن الباب الرئيسي مقفل.",
+        "context": "تفسير اختيار مدخل بديل بسبب حالة إغلاق قائمة."
+      },
+      {
+        "id": 9,
+        "en": "The club has met every week since the project began.",
+        "ar": "النادي قد اجتمع كل أسبوع منذ بداية المشروع.",
+        "context": "وصف لقاءات دورية مستمرة بدأت مع انطلاق عمل منظم."
+      },
+      {
+        "id": 10,
+        "en": "Since the figures agree, the calculation seems correct.",
+        "ar": "بما أن الأرقام متفقة، الحساب يبدو صحيحًا.",
+        "context": "تقديم توافق بيانات بوصفه دليلًا لاستنتاج، لا وقتًا في الماضي."
+      }
+    ]
+  }
+}

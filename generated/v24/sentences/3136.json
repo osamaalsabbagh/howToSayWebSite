@@ -1,0 +1,111 @@
+{
+  "schemaVersion": 1,
+  "id": 3136,
+  "sentence": {
+    "en": "The worker finished the job early.",
+    "ar": "العامل أنهى العمل مبكرًا.",
+    "context": "شخص يقوم بعمل مهني."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "The worker finished the job early.",
+        "ar": "أنهى العامل العمل مبكرا.",
+        "context": "تصف الجملة أن عاملا أكمل العمل قبل الوقت المتوقع.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "استُخدم الماضي البسيط لأن finished يصف إنجازا اكتمل في الماضي."
+        },
+        "wordMeanings": [
+          {
+            "term": "The",
+            "description": "أداة تعريف تشير إلى عامل محدد."
+          },
+          {
+            "term": "worker",
+            "description": "عامل؛ شخص يقوم بعمل مهني أو يدوي."
+          },
+          {
+            "term": "finished",
+            "description": "أنهى؛ أكمل العمل حتى النهاية."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف قبل job لأن العمل محدد."
+          },
+          {
+            "term": "job",
+            "description": "عمل أو مهمة؛ شيء يجب إنجازه."
+          },
+          {
+            "term": "early",
+            "description": "مبكرا؛ قبل الوقت المتوقع أو المعتاد."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "The worker finished the job early.",
+        "ar": "أنهى العامل العمل مبكرا.",
+        "context": "تصف إنجاز العمل قبل الموعد."
+      },
+      {
+        "id": 2,
+        "en": "The worker finished the repair early.",
+        "ar": "أنهى العامل الإصلاح مبكرا.",
+        "context": "تحدد نوع العمل."
+      },
+      {
+        "id": 3,
+        "en": "The team finished the job early.",
+        "ar": "أنهى الفريق العمل مبكرا.",
+        "context": "تغير الفاعل إلى فريق."
+      },
+      {
+        "id": 4,
+        "en": "Did the worker finish the job early?",
+        "ar": "هل أنهى العامل العمل مبكرا؟",
+        "context": "تسأل عن سرعة الإنجاز."
+      },
+      {
+        "id": 5,
+        "en": "The worker did not finish the job early.",
+        "ar": "لم ينه العامل العمل مبكرا.",
+        "context": "تنفي الإنجاز المبكر."
+      },
+      {
+        "id": 6,
+        "en": "The worker finishes the job early every Friday.",
+        "ar": "ينهي العامل العمل مبكرا كل يوم جمعة.",
+        "context": "تصف عادة متكررة."
+      },
+      {
+        "id": 7,
+        "en": "The worker is finishing the job now.",
+        "ar": "العامل ينهي العمل الآن.",
+        "context": "تصف العمل أثناء اكتماله."
+      },
+      {
+        "id": 8,
+        "en": "The worker will finish the job early tomorrow.",
+        "ar": "سينهي العامل العمل مبكرا غدا.",
+        "context": "تتحدث عن إنجاز مستقبلي."
+      },
+      {
+        "id": 9,
+        "en": "The worker finished the job early because he was prepared.",
+        "ar": "أنهى العامل العمل مبكرا لأنه كان مستعدا.",
+        "context": "تذكر سبب الإنجاز المبكر."
+      },
+      {
+        "id": 10,
+        "en": "I paid the worker after he finished the job.",
+        "ar": "دفعت للعامل بعد أن أنهى العمل.",
+        "context": "تذكر ما حدث بعد إنهاء العمل."
+      }
+    ]
+  }
+}

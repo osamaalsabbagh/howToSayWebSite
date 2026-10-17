@@ -1,0 +1,125 @@
+{
+  "schemaVersion": 1,
+  "id": 10018,
+  "sentence": {
+    "en": "Working from home can isolate people from their colleagues.",
+    "ar": "العمل من البيت قد يعزل الناس عن زملائهم.",
+    "context": "بيان احتمال ضعف التواصل الاجتماعي في العمل عن بُعد دون تقديمه نتيجة حتمية.",
+    "sourceWord": "isolate",
+    "sourcePos": "v."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Working from home can isolate people from their colleagues.",
+        "ar": "العمل من البيت قد يعزل الناس عن زملائهم.",
+        "context": "بيان احتمال ضعف التواصل الاجتماعي في العمل عن بُعد دون تقديمه نتيجة حتمية.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "تركيب can isolate يصف احتمالًا؛ تُترك حقول الزمن فارغة مع الفعل الناقص can."
+        },
+        "wordMeanings": [
+          {
+            "term": "Working",
+            "description": "العمل."
+          },
+          {
+            "term": "from",
+            "description": "من."
+          },
+          {
+            "term": "home",
+            "description": "البيت."
+          },
+          {
+            "term": "can",
+            "description": "قد؛ يستطيع."
+          },
+          {
+            "term": "isolate",
+            "description": "يعزل."
+          },
+          {
+            "term": "people",
+            "description": "الناس."
+          },
+          {
+            "term": "from",
+            "description": "عن."
+          },
+          {
+            "term": "their",
+            "description": "ضمير ملكية للجمع الغائب."
+          },
+          {
+            "term": "colleagues",
+            "description": "زملائهم."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Working from home can isolate people from their colleagues.",
+        "ar": "العمل من البيت قد يعزل الناس عن زملائهم.",
+        "context": "بيان احتمال ضعف التواصل الاجتماعي في العمل عن بُعد دون تقديمه نتيجة حتمية."
+      },
+      {
+        "id": 2,
+        "en": "The technician isolates each circuit before testing it.",
+        "ar": "الفني يعزل كل دائرة قبل اختبارها.",
+        "context": "وصف فصل مكونات فنيًا لفحصها على حدة."
+      },
+      {
+        "id": 3,
+        "en": "The storm isolated the village.",
+        "ar": "العاصفة عزلت القرية.",
+        "context": "وصف انقطاع سابق للاتصال أو الوصول إلى مكان."
+      },
+      {
+        "id": 4,
+        "en": "We have isolated the cause of the fault.",
+        "ar": "نحن قد حددنا سبب الخلل وفصلناه عن الاحتمالات الأخرى.",
+        "context": "استعمال تحليلي لتعيين عامل بعينه بين عوامل محتملة."
+      },
+      {
+        "id": 5,
+        "en": "The researchers are isolating a compound from the mixture.",
+        "ar": "الباحثون يعزلون مركبًا من الخليط.",
+        "context": "وصف فصل جارٍ لمادة واحدة عن مواد أخرى."
+      },
+      {
+        "id": 6,
+        "en": "The new wall will isolate the noisy equipment.",
+        "ar": "الجدار الجديد سيعزل المعدات الصاخبة.",
+        "context": "توقع فصل مصدر ضوضاء عن محيطه."
+      },
+      {
+        "id": 7,
+        "en": "Please isolate the damaged files.",
+        "ar": "من فضلك اعزل الملفات التالفة.",
+        "context": "طلب فصل عناصر رقمية عن مجموعة سليمة."
+      },
+      {
+        "id": 8,
+        "en": "She isolated herself from the debate.",
+        "ar": "هي عزلت نفسها عن النقاش.",
+        "context": "وصف انسحاب سابق من مشاركة في حوار."
+      },
+      {
+        "id": 9,
+        "en": "The experiment isolates one variable.",
+        "ar": "التجربة تعزل متغيرًا واحدًا.",
+        "context": "وصف تنظيم بحث لفحص عامل مستقل عن بقية العوامل."
+      },
+      {
+        "id": 10,
+        "en": "The software isolates different users' data.",
+        "ar": "البرنامج يعزل بيانات المستخدمين المختلفين.",
+        "context": "وصف فصل معلومات تخص حسابات مختلفة."
+      }
+    ]
+  }
+}

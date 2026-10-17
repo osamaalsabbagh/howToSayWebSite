@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "id": 3,
+  "sentence": {
+    "en": "Take an umbrella. Which color do you want, blue or black?",
+    "ar": "خذ مظلة. أي لون تريد، الأزرق أم الأسود؟",
+    "context": "الأزرق يُستعمل اسماً للون المطلوب."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Take an umbrella.",
+        "ar": "خذ مظلة.",
+        "context": "تقدم نصيحة مباشرة بسبب المطر.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "Take صيغة أمر مباشرة، لذلك لا تحمل زمنًا مستقلًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "Take",
+            "description": "خذ أو احمل معك"
+          },
+          {
+            "term": "an",
+            "description": "أداة لشيء واحد غير محدد"
+          },
+          {
+            "term": "umbrella",
+            "description": "مظلة"
+          }
+        ]
+      },
+      {
+        "sentence": "Which color do you want, blue or black?",
+        "ar": "أي لون تريد، الأزرق أم الأسود؟",
+        "context": "يسأل عن اختيار لون المظلة.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "do you want يسأل عن رغبة أو اختيار حالي."
+        },
+        "wordMeanings": [
+          {
+            "term": "Which",
+            "description": "أي، للاختيار من خيارات محددة"
+          },
+          {
+            "term": "color",
+            "description": "لون"
+          },
+          {
+            "term": "do",
+            "description": "أداة سؤال في المضارع"
+          },
+          {
+            "term": "you",
+            "description": "الشخص المخاطب"
+          },
+          {
+            "term": "want",
+            "description": "تريد"
+          },
+          {
+            "term": "blue",
+            "description": "اللون الأزرق"
+          },
+          {
+            "term": "or",
+            "description": "أم، للاختيار"
+          },
+          {
+            "term": "black",
+            "description": "اللون الأسود"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Take a coat. Which one do you want?",
+        "ar": "خذ معطفًا. أي واحد تريد؟",
+        "context": "تقال عند عرض اختيار ملابس."
+      },
+      {
+        "id": 2,
+        "en": "Which color do you like, red or blue?",
+        "ar": "أي لون تحب، الأحمر أم الأزرق؟",
+        "context": "تقال عند السؤال عن تفضيل لون."
+      },
+      {
+        "id": 3,
+        "en": "Take an umbrella before you leave.",
+        "ar": "خذ مظلة قبل أن تغادر.",
+        "context": "تقال قبل الخروج في المطر."
+      },
+      {
+        "id": 4,
+        "en": "Do you want the black umbrella?",
+        "ar": "هل تريد المظلة السوداء؟",
+        "context": "تقال عند عرض خيار محدد."
+      },
+      {
+        "id": 5,
+        "en": "Which bag do you want?",
+        "ar": "أي حقيبة تريد؟",
+        "context": "تقال عند الاختيار بين أشياء."
+      },
+      {
+        "id": 6,
+        "en": "Blue is easier to see.",
+        "ar": "الأزرق أسهل في الرؤية.",
+        "context": "تقال عند اختيار لون واضح."
+      },
+      {
+        "id": 7,
+        "en": "Take this umbrella with you.",
+        "ar": "خذ هذه المظلة معك.",
+        "context": "تقال لحماية شخص من المطر."
+      },
+      {
+        "id": 8,
+        "en": "Do you want blue or green?",
+        "ar": "هل تريد الأزرق أم الأخضر؟",
+        "context": "تقال عند عرض لونين."
+      },
+      {
+        "id": 9,
+        "en": "Which color is yours?",
+        "ar": "أي لون هو لونك؟",
+        "context": "تقال عند تمييز شيء بين أشياء."
+      },
+      {
+        "id": 10,
+        "en": "Black looks good in the rain.",
+        "ar": "الأسود يبدو جيدًا في المطر.",
+        "context": "تقال عند الحديث عن لون مناسب."
+      }
+    ]
+  }
+}

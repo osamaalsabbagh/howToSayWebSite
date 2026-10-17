@@ -1,0 +1,135 @@
+{
+  "schemaVersion": 1,
+  "id": 15,
+  "sentence": {
+    "en": "Let us walk faster before my whole body freezes.",
+    "ar": "دعنا نمشِ بسرعة أكبر قبل أن يتجمد كامل جسمي.",
+    "context": "تشعر بالبرد الشديد أثناء السير وتريد الإسراع أكثر."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Let us walk faster",
+        "ar": "دعنا نمشي بسرعة أكبر",
+        "context": "تقترح الإسراع بسبب البرد.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "Let us صيغة اقتراح جماعي بلا زمن مستقل."
+        },
+        "wordMeanings": [
+          {
+            "term": "Let",
+            "description": "تستعمل لاقتراح فعل مشترك"
+          },
+          {
+            "term": "us",
+            "description": "نحن"
+          },
+          {
+            "term": "walk",
+            "description": "نمشي"
+          },
+          {
+            "term": "faster",
+            "description": "بسرعة أكبر"
+          }
+        ]
+      },
+      {
+        "sentence": "before my whole body freezes.",
+        "ar": "قبل أن يتجمد جسمي كله.",
+        "context": "تبالغ في وصف شدة البرد الذي تشعر به.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "بعد before يستعمل المضارع البسيط للدلالة على حدث مستقبلي محتمل."
+        },
+        "wordMeanings": [
+          {
+            "term": "before",
+            "description": "قبل أن"
+          },
+          {
+            "term": "my",
+            "description": "خاص بي"
+          },
+          {
+            "term": "whole",
+            "description": "كامل أو كله"
+          },
+          {
+            "term": "body",
+            "description": "الجسم"
+          },
+          {
+            "term": "freezes",
+            "description": "يتجمد أو يصبح شديد البرودة"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Let us walk faster before we get wet.",
+        "ar": "دعنا نمشي أسرع قبل أن نبتل.",
+        "context": "تقال في المطر."
+      },
+      {
+        "id": 2,
+        "en": "My hands are freezing.",
+        "ar": "يداي تتجمدان.",
+        "context": "تقال عند الشعور ببرد شديد."
+      },
+      {
+        "id": 3,
+        "en": "Let us hurry before the rain gets worse.",
+        "ar": "دعنا نسرع قبل أن يشتد المطر.",
+        "context": "تقال عند استعجال الطريق."
+      },
+      {
+        "id": 4,
+        "en": "My whole body feels cold.",
+        "ar": "جسمي كله يشعر بالبرد.",
+        "context": "تقال عند شدة البرد."
+      },
+      {
+        "id": 5,
+        "en": "Walk faster to stay warm.",
+        "ar": "امش أسرع لتبقى دافئًا.",
+        "context": "تقال كنصيحة في البرد."
+      },
+      {
+        "id": 6,
+        "en": "Let us enter before we freeze.",
+        "ar": "دعنا ندخل قبل أن نتجمد.",
+        "context": "تقال قرب مكان دافئ."
+      },
+      {
+        "id": 7,
+        "en": "The cold makes my body shake.",
+        "ar": "البرد يجعل جسمي يرتجف.",
+        "context": "تقال عند وصف أثر البرد."
+      },
+      {
+        "id": 8,
+        "en": "Let us reach the cafe quickly.",
+        "ar": "دعنا نصل إلى المقهى بسرعة.",
+        "context": "تقال عند الرغبة في الدفء."
+      },
+      {
+        "id": 9,
+        "en": "Before my feet freeze, I need warm boots.",
+        "ar": "قبل أن تتجمد قدماي، أحتاج إلى جزمة دافئة.",
+        "context": "تقال عند الحاجة لملابس دافئة."
+      },
+      {
+        "id": 10,
+        "en": "Let us walk faster together.",
+        "ar": "دعنا نمشي أسرع معًا.",
+        "context": "تقال عند الاتفاق على الإسراع."
+      }
+    ]
+  }
+}

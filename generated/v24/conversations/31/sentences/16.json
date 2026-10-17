@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 1,
+  "id": 16,
+  "sentence": {
+    "en": "That is the cafe. We have arrived. Let us go in, sit by the window, and warm up.",
+    "ar": "ذلك هو المقهى. لقد وصلنا. دعنا ندخل ونجلس بجانب النافذة ونتدفأ.",
+    "context": "يشير إلى المقهى بعد وصولهما ويقترح الدخول والجلوس بجانب النافذة."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "That is the cafe.",
+        "ar": "ذلك هو المقهى.",
+        "context": "يشير إلى الوجهة التي وصلا إليها.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "is يحدد هوية المكان الحالي."
+        },
+        "wordMeanings": [
+          {
+            "term": "That",
+            "description": "ذلك المكان المشار إليه"
+          },
+          {
+            "term": "is",
+            "description": "يربط الإشارة بالمكان"
+          },
+          {
+            "term": "the",
+            "description": "تحدد المقهى المقصود"
+          },
+          {
+            "term": "cafe",
+            "description": "مقهى"
+          }
+        ]
+      },
+      {
+        "sentence": "We have arrived.",
+        "ar": "لقد وصلنا.",
+        "context": "تؤكد اكتمال الوصول إلى المقهى.",
+        "grammar": {
+          "tense": "المضارع التام",
+          "tenseEn": "Present Perfect",
+          "reason": "have arrived يصف وصولًا حدث للتو وله نتيجة الآن."
+        },
+        "wordMeanings": [
+          {
+            "term": "We",
+            "description": "نحن"
+          },
+          {
+            "term": "have",
+            "description": "تساعد على تكوين المضارع التام"
+          },
+          {
+            "term": "arrived",
+            "description": "وصلنا"
+          }
+        ]
+      },
+      {
+        "sentence": "Let us go in, sit by the window, and warm up.",
+        "ar": "دعنا ندخل ونجلس بجانب النافذة ونتدفأ.",
+        "context": "يقترح خطوات بعد الوصول للهروب من البرد.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "Let us صيغة اقتراح، والأفعال بعدها أوامر مشتركة مقترحة."
+        },
+        "wordMeanings": [
+          {
+            "term": "Let",
+            "description": "تستعمل لاقتراح فعل مشترك"
+          },
+          {
+            "term": "us",
+            "description": "نحن"
+          },
+          {
+            "term": "go",
+            "description": "نذهب أو ندخل في هذا السياق"
+          },
+          {
+            "term": "in",
+            "description": "إلى الداخل"
+          },
+          {
+            "term": "sit",
+            "description": "نجلس"
+          },
+          {
+            "term": "by",
+            "description": "بجانب أو قرب"
+          },
+          {
+            "term": "the",
+            "description": "تحدد النافذة المقصودة"
+          },
+          {
+            "term": "window",
+            "description": "نافذة"
+          },
+          {
+            "term": "and",
+            "description": "تربط بين الأفعال"
+          },
+          {
+            "term": "warm",
+            "description": "ندفئ أو نصير دافئين"
+          },
+          {
+            "term": "up",
+            "description": "تكمل معنى warm لتدل على التدفئة"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "That is the restaurant. We have arrived.",
+        "ar": "ذلك هو المطعم. لقد وصلنا.",
+        "context": "تقال عند الوصول إلى وجهة."
+      },
+      {
+        "id": 2,
+        "en": "Let us go in and warm up.",
+        "ar": "دعنا ندخل ونتدفأ.",
+        "context": "تقال بعد البقاء في البرد."
+      },
+      {
+        "id": 3,
+        "en": "We have arrived at the cafe.",
+        "ar": "لقد وصلنا إلى المقهى.",
+        "context": "تقال عند نهاية الطريق."
+      },
+      {
+        "id": 4,
+        "en": "Let us sit by the window.",
+        "ar": "دعنا نجلس بجانب النافذة.",
+        "context": "تقال عند اختيار مكان جلوس."
+      },
+      {
+        "id": 5,
+        "en": "That is the bridge near the cafe.",
+        "ar": "ذلك هو الجسر قرب المقهى.",
+        "context": "تقال عند الإشارة إلى معلم."
+      },
+      {
+        "id": 6,
+        "en": "Come in and warm up.",
+        "ar": "ادخل وتدفأ.",
+        "context": "تقال لشخص قادم من البرد."
+      },
+      {
+        "id": 7,
+        "en": "We can sit inside by the window.",
+        "ar": "يمكننا الجلوس في الداخل بجانب النافذة.",
+        "context": "تقال عند اختيار مكان دافئ."
+      },
+      {
+        "id": 8,
+        "en": "That is the place I told you about.",
+        "ar": "ذلك هو المكان الذي أخبرتك عنه.",
+        "context": "تقال عند الإشارة إلى وجهة معروفة."
+      },
+      {
+        "id": 9,
+        "en": "We have finally arrived.",
+        "ar": "لقد وصلنا أخيرًا.",
+        "context": "تقال بعد طريق متعب."
+      },
+      {
+        "id": 10,
+        "en": "Let us order a hot drink and warm up.",
+        "ar": "دعنا نطلب مشروبًا ساخنًا ونتدفأ.",
+        "context": "تقال بعد دخول مقهى."
+      }
+    ]
+  }
+}

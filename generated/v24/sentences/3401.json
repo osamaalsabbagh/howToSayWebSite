@@ -1,0 +1,139 @@
+{
+  "schemaVersion": 1,
+  "id": 3401,
+  "sentence": {
+    "en": "The gas tank will blow up if it catches fire.",
+    "ar": "خزان الغاز سينفجر إذا اشتعلت فيه النار.",
+    "context": "تحذير من انفجار جسم يحتوي على غاز في المستقبل عند وصول النار إليه."
+  },
+  "lesson": {
+    "parts": [
+      {
+            "sentence": "The gas tank will blow up",
+            "ar": "خزان الغاز سينفجر",
+            "context": "هذا الجزء يذكر نتيجة خطرة متوقعة في المستقبل.",
+        "grammar": {
+          "tense": "المستقبل البسيط",
+          "tenseEn": "Future Simple",
+          "reason": "استُخدم will blow up لأن الجملة تتوقع نتيجة في المستقبل."
+        },
+        "wordMeanings": [
+              {
+                "term": "The",
+                "description": "أداة تعريف؛ تجعل الخزان محددا."
+              },
+              {
+                "term": "gas",
+                "description": "غاز؛ مادة قابلة للاشتعال هنا."
+              },
+              {
+                "term": "tank",
+                "description": "خزان؛ وعاء كبير يحفظ مادة."
+              },
+          {
+            "term": "will",
+            "description": "سوف أو سـ؛ علامة على المستقبل."
+          },
+          {
+            "term": "blow",
+            "description": "ينفجر؛ مع الكلمة التالية يعطي معنى الانفجار."
+          },
+          {
+            "term": "up",
+            "description": "جزء من التعبير؛ يكمل معنى الانفجار هنا."
+          }
+        ]
+      },
+      {
+            "sentence": "if it catches fire",
+            "ar": "إذا اشتعلت فيه النار",
+            "context": "هذا الجزء يذكر الشرط الذي يؤدي إلى الانفجار.",
+        "grammar": {
+          "tense": "المضارع البسيط في جملة شرطية",
+          "tenseEn": "Present Simple in a Conditional Clause",
+          "reason": "استُخدم المضارع البسيط بعد إذا للتعبير عن شرط حقيقي يؤدي إلى نتيجة مستقبلية."
+        },
+        "wordMeanings": [
+          {
+            "term": "if",
+            "description": "إذا؛ تقدم شرطا."
+          },
+          {
+                "term": "it",
+                "description": "هو؛ يعود على خزان الغاز."
+              },
+              {
+                "term": "catches",
+                "description": "تشتعل؛ تبدأ النار فيه ضمن التعبير."
+              },
+              {
+                "term": "fire",
+                "description": "نار؛ لهب يسبب الاشتعال."
+              }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+            "en": "The gas tank will blow up if it catches fire.",
+            "ar": "خزان الغاز سينفجر إذا اشتعلت فيه النار.",
+            "context": "تحذر من انفجار بسبب النار."
+      },
+      {
+        "id": 2,
+        "en": "The gas can may blow up in the heat.",
+        "ar": "قد تنفجر عبوة الغاز في الحرارة.",
+        "context": "تصف خطر انفجار عبوة بسبب الحرارة."
+      },
+      {
+        "id": 3,
+            "en": "Do not let the tank blow up.",
+            "ar": "لا تدع الخزان ينفجر.",
+            "context": "تطلب منع انفجار الخزان."
+      },
+      {
+        "id": 4,
+            "en": "Will the tank blow up soon?",
+            "ar": "هل سينفجر الخزان قريبا؟",
+            "context": "تسأل عن احتمال انفجار قريب."
+      },
+      {
+        "id": 5,
+            "en": "The tank did not blow up.",
+            "ar": "الخزان لم ينفجر.",
+            "context": "تنفي حدوث الانفجار."
+      },
+      {
+        "id": 6,
+        "en": "The old gas tank blew up near the road.",
+        "ar": "خزان الغاز القديم انفجر قرب الطريق.",
+        "context": "تصف انفجار خزان في الماضي."
+      },
+      {
+        "id": 7,
+        "en": "This battery will blow up if it gets too hot.",
+        "ar": "هذه البطارية ستنفجر إذا صارت ساخنة جدا.",
+        "context": "تربط انفجار البطارية بشرط حراري."
+      },
+      {
+        "id": 8,
+        "en": "The bottle can blow up under pressure.",
+        "ar": "الزجاجة يمكن أن تنفجر تحت الضغط.",
+        "context": "تصف خطرا بسبب الضغط."
+      },
+      {
+        "id": 9,
+            "en": "The tank is going to blow up.",
+            "ar": "الخزان على وشك أن ينفجر.",
+            "context": "تصف نتيجة قريبة جدا."
+      },
+      {
+        "id": 10,
+        "en": "The device will not blow up if you use it correctly.",
+        "ar": "الجهاز لن ينفجر إذا استخدمته بشكل صحيح.",
+        "context": "تنفي الخطر بشرط الاستخدام الصحيح."
+      }
+    ]
+  }
+}

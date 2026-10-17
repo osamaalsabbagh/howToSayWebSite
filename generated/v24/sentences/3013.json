@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "id": 3013,
+  "sentence": {
+    "en": "This video is funny.",
+    "ar": "هذا الفيديو مضحك.",
+    "context": "الإشارة إلى محتوى مرئي محدد."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "This video is funny.",
+        "ar": "هذا الفيديو مضحك.",
+        "context": "تصف الجملة فيديو محددا بأنه يضحك أو يسبب الضحك.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُخدم المضارع البسيط لأن is يصف صفة حالية للفيديو."
+        },
+        "wordMeanings": [
+          {
+            "term": "This",
+            "description": "هذا؛ تشير إلى فيديو قريب أو محدد في الكلام."
+          },
+          {
+            "term": "video",
+            "description": "فيديو أو مقطع مرئي؛ محتوى يُشاهد بالصورة."
+          },
+          {
+            "term": "is",
+            "description": "فعل يكون في المضارع، ويربط video بالصفة funny."
+          },
+          {
+            "term": "funny",
+            "description": "مضحك؛ يسبب الضحك أو التسلية."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "This video is funny.",
+        "ar": "هذا الفيديو مضحك.",
+        "context": "تصف فيديو محددا بأنه مضحك."
+      },
+      {
+        "id": 2,
+        "en": "This story is funny.",
+        "ar": "هذه القصة مضحكة.",
+        "context": "تغير الشيء الموصوف إلى قصة."
+      },
+      {
+        "id": 3,
+        "en": "That video is funny.",
+        "ar": "ذلك الفيديو مضحك.",
+        "context": "تشير إلى فيديو أبعد أو سبق ذكره."
+      },
+      {
+        "id": 4,
+        "en": "This video is not funny.",
+        "ar": "هذا الفيديو ليس مضحكا.",
+        "context": "تنفي أن الفيديو يسبب الضحك."
+      },
+      {
+        "id": 5,
+        "en": "Is this video funny?",
+        "ar": "هل هذا الفيديو مضحك؟",
+        "context": "تسأل عن رأي شخص في الفيديو."
+      },
+      {
+        "id": 6,
+        "en": "This video was funny.",
+        "ar": "كان هذا الفيديو مضحكا.",
+        "context": "تنقل الوصف إلى الماضي."
+      },
+      {
+        "id": 7,
+        "en": "This video will be funny.",
+        "ar": "سيكون هذا الفيديو مضحكا.",
+        "context": "تنقل الوصف إلى المستقبل."
+      },
+      {
+        "id": 8,
+        "en": "This video is funny for children.",
+        "ar": "هذا الفيديو مضحك للأطفال.",
+        "context": "تحدد من يستمتع بالفيديو."
+      },
+      {
+        "id": 9,
+        "en": "This video is funny because the ending is surprising.",
+        "ar": "هذا الفيديو مضحك لأن نهايته مفاجئة.",
+        "context": "توضح سبب كونه مضحكا."
+      },
+      {
+        "id": 10,
+        "en": "If this video is funny, send it to me.",
+        "ar": "إذا كان هذا الفيديو مضحكا، فأرسله إلي.",
+        "context": "تستخدم الجملة داخل طلب."
+      }
+    ]
+  }
+}

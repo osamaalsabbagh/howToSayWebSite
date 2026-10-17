@@ -1,0 +1,111 @@
+{
+  "schemaVersion": 1,
+  "id": 3116,
+  "sentence": {
+    "en": "He ordered a glass of wine.",
+    "ar": "هو طلب كأس نبيذ.",
+    "context": "مشروب مصنوع من العنب."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "He ordered a glass of wine.",
+        "ar": "طلب كأس نبيذ.",
+        "context": "تصف الجملة طلب مشروب محدد في مطعم أو مقهى.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "استُخدم الماضي البسيط لأن ordered يصف طلبا حدث وانتهى في الماضي."
+        },
+        "wordMeanings": [
+          {
+            "term": "He",
+            "description": "هو؛ رجل أو ولد نتحدث عنه."
+          },
+          {
+            "term": "ordered",
+            "description": "طلب؛ اختار شيئا من قائمة أو من نادل."
+          },
+          {
+            "term": "a",
+            "description": "أداة تنكير قبل glass لأنها كأس واحدة غير محددة."
+          },
+          {
+            "term": "glass",
+            "description": "كأس؛ وعاء للشرب، ويستخدم هنا كوحدة لكمية المشروب."
+          },
+          {
+            "term": "of",
+            "description": "من؛ تربط الكأس بالمشروب الموجود فيها."
+          },
+          {
+            "term": "wine",
+            "description": "نبيذ؛ مشروب مصنوع من العنب."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "He ordered a glass of wine.",
+        "ar": "طلب كأس نبيذ.",
+        "context": "تصف طلب مشروب في مطعم."
+      },
+      {
+        "id": 2,
+        "en": "She ordered a glass of wine.",
+        "ar": "طلبت كأس نبيذ.",
+        "context": "تغير الفاعل إلى امرأة أو فتاة."
+      },
+      {
+        "id": 3,
+        "en": "He ordered a bottle of water.",
+        "ar": "طلب زجاجة ماء.",
+        "context": "تغير نوع المشروب والكمية."
+      },
+      {
+        "id": 4,
+        "en": "Did he order a glass of wine?",
+        "ar": "هل طلب كأس نبيذ؟",
+        "context": "تسأل عن الطلب في الماضي."
+      },
+      {
+        "id": 5,
+        "en": "He did not order a glass of wine.",
+        "ar": "لم يطلب كأس نبيذ.",
+        "context": "تنفي أنه طلب هذا المشروب."
+      },
+      {
+        "id": 6,
+        "en": "He orders a glass of wine with dinner.",
+        "ar": "هو يطلب كأس نبيذ مع العشاء.",
+        "context": "تصف عادة متكررة."
+      },
+      {
+        "id": 7,
+        "en": "He is ordering a glass of wine now.",
+        "ar": "هو يطلب كأس نبيذ الآن.",
+        "context": "تصف الطلب أثناء حدوثه."
+      },
+      {
+        "id": 8,
+        "en": "He will order a glass of wine later.",
+        "ar": "سيطلب كأس نبيذ لاحقا.",
+        "context": "تتحدث عن طلب مستقبلي."
+      },
+      {
+        "id": 9,
+        "en": "The waiter brought him a glass of wine.",
+        "ar": "أحضر له النادل كأس نبيذ.",
+        "context": "تصف ما حدث بعد الطلب."
+      },
+      {
+        "id": 10,
+        "en": "He ordered a small glass of wine.",
+        "ar": "طلب كأسا صغيرة من النبيذ.",
+        "context": "تحدد حجم الكأس."
+      }
+    ]
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "schemaVersion": 1,
+  "id": 5,
+  "sentence": {
+    "en": "I agree. I feel the same way.",
+    "ar": "أنا أوافق. أشعر بنفس الطريقة.",
+    "context": "أشعر بنفس الطريقة أي بنفس الشعور'."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "I agree.",
+        "ar": "أنا أوافق.",
+        "context": "تستعمل لإظهار الموافقة على كلام الشخص الآخر.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "الفعل agree يصف موقف المتكلم الحالي أو رأيه."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "المتكلم نفسه"
+          },
+          {
+            "term": "agree",
+            "description": "أوافق أو أرى الشيء نفسه"
+          }
+        ]
+      },
+      {
+        "sentence": "I feel the same way.",
+        "ar": "أشعر بنفس الشعور.",
+        "context": "توضح أن المتكلم يشارك الشخص الآخر الإحساس نفسه.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "الفعل feel يصف إحساسًا موجودًا الآن."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "المتكلم نفسه"
+          },
+          {
+            "term": "feel",
+            "description": "أحس أو أشعر"
+          },
+          {
+            "term": "the",
+            "description": "تحدد شعورًا معروفًا من الكلام السابق"
+          },
+          {
+            "term": "same",
+            "description": "نفس الشيء دون اختلاف"
+          },
+          {
+            "term": "way",
+            "description": "طريقة أو شعور في هذا التعبير"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I agree. I feel the same way about this place.",
+        "ar": "أنا أوافق. أشعر بنفس الشعور تجاه هذا المكان.",
+        "context": "تقال عند مشاركة رأي عن مكان."
+      },
+      {
+        "id": 2,
+        "en": "I agree. I think the plan is good.",
+        "ar": "أنا أوافق. أعتقد أن الخطة جيدة.",
+        "context": "تقال عند قبول اقتراح."
+      },
+      {
+        "id": 3,
+        "en": "I feel the same way about quiet mornings.",
+        "ar": "أشعر بنفس الشعور تجاه الصباح الهادئ.",
+        "context": "تقال عند مشاركة إحساس إيجابي."
+      },
+      {
+        "id": 4,
+        "en": "I agree with you.",
+        "ar": "أنا أوافقك.",
+        "context": "تقال مباشرة لإظهار الاتفاق مع شخص."
+      },
+      {
+        "id": 5,
+        "en": "I feel the same way when I visit the beach.",
+        "ar": "أشعر بنفس الشعور عندما أزور الشاطئ.",
+        "context": "تقال عند ربط الإحساس بتجربة محددة."
+      },
+      {
+        "id": 6,
+        "en": "I agree. This room is peaceful.",
+        "ar": "أنا أوافق. هذه الغرفة هادئة.",
+        "context": "تقال عند تأكيد وصف لمكان."
+      },
+      {
+        "id": 7,
+        "en": "I feel the same way after a long walk.",
+        "ar": "أشعر بنفس الشعور بعد مشي طويل.",
+        "context": "تقال عند مشاركة شعور بعد نشاط."
+      },
+      {
+        "id": 8,
+        "en": "I agree. We need more time here.",
+        "ar": "أنا أوافق. نحتاج إلى وقت أكثر هنا.",
+        "context": "تقال عند الاتفاق على البقاء مدة أطول."
+      },
+      {
+        "id": 9,
+        "en": "I feel the same way about simple days.",
+        "ar": "أشعر بنفس الشعور تجاه الأيام البسيطة.",
+        "context": "تقال عند مشاركة تقدير لنمط حياة هادئ."
+      },
+      {
+        "id": 10,
+        "en": "I agree. It feels better here.",
+        "ar": "أنا أوافق. يبدو الأمر أفضل هنا.",
+        "context": "تقال عند تأكيد أن مكانًا ما مريح أكثر."
+      }
+    ]
+  }
+}

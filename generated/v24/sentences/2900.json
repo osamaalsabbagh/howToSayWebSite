@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "id": 2900,
+  "sentence": {
+    "en": "Show me your ticket.",
+    "ar": "أرني تذكرتك.",
+    "context": "طلب رؤية إذن الدخول."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Show me your ticket.",
+        "ar": "أرني تذكرتك.",
+        "context": "تستخدم الجملة عندما يطلب شخص مسؤول رؤية تذكرتك للتأكد من إذن الدخول أو السفر.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "الجملة أمر أو طلب مباشر، لذلك لا تُعامل كجملة خبرية بزمن محدد."
+        },
+        "wordMeanings": [
+          {
+            "term": "Show",
+            "description": "أرِ أو اعرض؛ فعل أمر لطلب جعل شيء مرئيا."
+          },
+          {
+            "term": "me",
+            "description": "لي أو إياي؛ ضمير يعود على المتكلم بوصفه الشخص الذي سيرى التذكرة."
+          },
+          {
+            "term": "your",
+            "description": "تخصك أو الخاص بك؛ تدل على ملكية المخاطب."
+          },
+          {
+            "term": "ticket",
+            "description": "تذكرة؛ إذن دخول أو سفر يحتاج الشخص إلى إظهاره."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Show me your ticket.",
+        "ar": "أرني تذكرتك.",
+        "context": "طلب رؤية التذكرة."
+      },
+      {
+        "id": 2,
+        "en": "Please show me your ticket.",
+        "ar": "من فضلك أرني تذكرتك.",
+        "context": "صيغة أكثر تهذيبا للطلب نفسه."
+      },
+      {
+        "id": 3,
+        "en": "Show the guard your ticket.",
+        "ar": "أرِ الحارس تذكرتك.",
+        "context": "تحدد الشخص الذي يجب أن يرى التذكرة."
+      },
+      {
+        "id": 4,
+        "en": "Show me your bus ticket.",
+        "ar": "أرني تذكرة الحافلة الخاصة بك.",
+        "context": "تحدد نوع التذكرة."
+      },
+      {
+        "id": 5,
+        "en": "Do not show me the wrong ticket.",
+        "ar": "لا ترني التذكرة الخاطئة.",
+        "context": "تنهى عن عرض تذكرة غير صحيحة."
+      },
+      {
+        "id": 6,
+        "en": "Can you show me your ticket?",
+        "ar": "هل يمكنك أن تريني تذكرتك؟",
+        "context": "تحول الأمر إلى سؤال مهذب."
+      },
+      {
+        "id": 7,
+        "en": "Show me your ticket at the door.",
+        "ar": "أرني تذكرتك عند الباب.",
+        "context": "تحدد مكان إظهار التذكرة."
+      },
+      {
+        "id": 8,
+        "en": "The driver said, \"Show me your ticket.\"",
+        "ar": "قال السائق: \"أرني تذكرتك.\"",
+        "context": "تنقل الطلب على لسان شخص آخر."
+      },
+      {
+        "id": 9,
+        "en": "Show me your ticket before you enter.",
+        "ar": "أرني تذكرتك قبل أن تدخل.",
+        "context": "تحدد وقت إظهار التذكرة."
+      },
+      {
+        "id": 10,
+        "en": "Show me your ticket and sit down.",
+        "ar": "أرني تذكرتك واجلس.",
+        "context": "تجمع بين طلبين متتابعين."
+      }
+    ]
+  }
+}

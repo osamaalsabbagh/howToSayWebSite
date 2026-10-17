@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": 1036,
+  "sentence": {
+    "en": "What time is check-out?",
+    "ar": "في أي وقت يكون تسجيل الخروج؟",
+    "context": "تُستخدم للسؤال عن وقت مغادرة غرفة الفندق."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "What time is check-out",
+        "ar": "في أي وقت يكون تسجيل الخروج",
+        "context": "تُستخدم في الفندق للسؤال عن موعد مغادرة الغرفة.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "السؤال يستخدم is للسؤال عن وقت ثابت أو محدد في نظام الفندق."
+        },
+        "wordMeanings": [
+          {
+            "term": "What",
+            "description": "ما أو أي، وتبدأ سؤالًا عن الوقت هنا"
+          },
+          {
+            "term": "time",
+            "description": "وقت أو ساعة"
+          },
+          {
+            "term": "is",
+            "description": "تربط السؤال بالوقت المطلوب"
+          },
+          {
+            "term": "check",
+            "description": "جزء من تعبير تسجيل الخروج من الفندق"
+          },
+          {
+            "term": "out",
+            "description": "جزء من تعبير يعني مغادرة الغرفة وإنهاء الإقامة"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "What time is check-in?",
+        "ar": "في أي وقت يكون تسجيل الدخول؟",
+        "context": "تُستخدم للسؤال عن وقت دخول الفندق."
+      },
+      {
+        "id": 2,
+        "en": "What time do I need to check out?",
+        "ar": "في أي وقت أحتاج إلى تسجيل الخروج؟",
+        "context": "تُستخدم بصيغة أوضح."
+      },
+      {
+        "id": 3,
+        "en": "Check-out is at eleven.",
+        "ar": "تسجيل الخروج في الساعة الحادية عشرة.",
+        "context": "تُستخدم لإعطاء وقت المغادرة."
+      },
+      {
+        "id": 4,
+        "en": "Can I check out late?",
+        "ar": "هل يمكنني تسجيل الخروج متأخرًا؟",
+        "context": "تُستخدم لطلب تمديد."
+      },
+      {
+        "id": 5,
+        "en": "What time is breakfast?",
+        "ar": "في أي وقت الإفطار؟",
+        "context": "تُستخدم في الفندق."
+      },
+      {
+        "id": 6,
+        "en": "What time is the meeting?",
+        "ar": "في أي وقت الاجتماع؟",
+        "context": "تُستخدم للسؤال عن موعد."
+      },
+      {
+        "id": 7,
+        "en": "I need to check out now.",
+        "ar": "أحتاج إلى تسجيل الخروج الآن.",
+        "context": "تُستخدم عند المغادرة."
+      },
+      {
+        "id": 8,
+        "en": "Where do I check out?",
+        "ar": "أين أسجل الخروج؟",
+        "context": "تُستخدم للسؤال عن مكتب الفندق."
+      },
+      {
+        "id": 9,
+        "en": "Can I leave my bags after check-out?",
+        "ar": "هل يمكنني ترك حقائبي بعد تسجيل الخروج؟",
+        "context": "تُستخدم عند السفر لاحقًا."
+      },
+      {
+        "id": 10,
+        "en": "What time is room service?",
+        "ar": "في أي وقت خدمة الغرف؟",
+        "context": "تُستخدم للسؤال عن خدمة في الفندق."
+      }
+    ]
+  }
+}

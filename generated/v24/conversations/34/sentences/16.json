@@ -1,0 +1,119 @@
+{
+  "schemaVersion": 1,
+  "id": 16,
+  "sentence": {
+    "en": "No, I am just kidding.",
+    "ar": "لا، أنا أمزح فقط.",
+    "context": "يوضح أنه كان يمزح في كلامه السابق."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "No",
+        "ar": "لا.",
+        "context": "نفي قصير للمعنى السابق.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه كلمة جوابية للنفي ولا تحمل زمنًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "No",
+            "description": "لا، للنفي أو الرفض"
+          }
+        ]
+      },
+      {
+        "sentence": "I am just kidding",
+        "ar": "أنا أمزح فقط.",
+        "context": "توضيح أن الكلام السابق لم يكن جادًا.",
+        "grammar": {
+          "tense": "المضارع المستمر",
+          "tenseEn": "Present Continuous",
+          "reason": "am kidding يصف تصرفًا جاريا في لحظة الكلام، و just تخفف المعنى."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "أنا"
+          },
+          {
+            "term": "am",
+            "description": "صيغة تأتي مع أنا لتكوين وصف حالي أو مستمر"
+          },
+          {
+            "term": "just",
+            "description": "فقط أو ليس إلا"
+          },
+          {
+            "term": "kidding",
+            "description": "أمزح"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "No, I am just joking",
+        "ar": "لا، أنا أمزح فقط",
+        "context": "يقال لتوضيح أن الكلام ليس جديًا"
+      },
+      {
+        "id": 2,
+        "en": "I am just asking",
+        "ar": "أنا أسأل فقط",
+        "context": "يقال لتخفيف سؤال قد يبدو مباشرًا"
+      },
+      {
+        "id": 3,
+        "en": "No, I am not angry",
+        "ar": "لا، أنا لست غاضبًا",
+        "context": "يقال لنفي انطباع عن شعورك"
+      },
+      {
+        "id": 4,
+        "en": "I am just checking",
+        "ar": "أنا أتحقق فقط",
+        "context": "يقال عند مراجعة شيء بسرعة"
+      },
+      {
+        "id": 5,
+        "en": "No, we are just waiting",
+        "ar": "لا، نحن ننتظر فقط",
+        "context": "يقال لتوضيح ما يحدث الآن"
+      },
+      {
+        "id": 6,
+        "en": "I am just looking",
+        "ar": "أنا أنظر فقط",
+        "context": "يقال في متجر عند عدم الرغبة في شراء فوري"
+      },
+      {
+        "id": 7,
+        "en": "No, she is just tired",
+        "ar": "لا، هي متعبة فقط",
+        "context": "يقال لتفسير حالة شخص"
+      },
+      {
+        "id": 8,
+        "en": "I am just helping my friend",
+        "ar": "أنا أساعد صديقي فقط",
+        "context": "يقال لتوضيح سبب وجودك أو فعلك"
+      },
+      {
+        "id": 9,
+        "en": "No, this is just a test",
+        "ar": "لا، هذا مجرد اختبار",
+        "context": "يقال لطمأنة شخص حول شيء تجريبي"
+      },
+      {
+        "id": 10,
+        "en": "I am just kidding about the color",
+        "ar": "أنا أمزح فقط بشأن اللون",
+        "context": "يقال بعد دعابة عن اختيار لون"
+      }
+    ]
+  }
+}

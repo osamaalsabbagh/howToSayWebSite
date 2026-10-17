@@ -1,0 +1,131 @@
+{
+  "schemaVersion": 1,
+  "id": 2,
+  "sentence": {
+    "en": "Sure, I will warm it up for you.",
+    "ar": "بالتأكيد، سوف أدفئه لك.",
+    "context": "يوافق على تسخين الخبز لها."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Sure",
+        "ar": "بالتأكيد.",
+        "context": "رد قصير يدل على الموافقة.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "تعبير ثابت أو تركيب لا يحتاج إلى زمن مستقل."
+        },
+        "wordMeanings": [
+          {
+            "term": "Sure",
+            "description": "بالتأكيد"
+          }
+        ]
+      },
+      {
+        "sentence": "I will warm it up for you",
+        "ar": "سوف أدفئه لك.",
+        "context": "وعد بتنفيذ الطلب للشخص الآخر.",
+        "grammar": {
+          "tense": "المستقبل البسيط",
+          "tenseEn": "Future Simple",
+          "reason": "will مع الفعل الأساسي warm يعبر عن قرار أو وعد بالمستقبل القريب."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "أنا"
+          },
+          {
+            "term": "will",
+            "description": "سوف أو سأ"
+          },
+          {
+            "term": "warm",
+            "description": "يدفئ أو دافئ حسب السياق"
+          },
+          {
+            "term": "it",
+            "description": "هو أو هي للشيء المذكور"
+          },
+          {
+            "term": "up",
+            "description": "تكمل معنى الفعل المركب"
+          },
+          {
+            "term": "for",
+            "description": "لأجل أو في مناسبة"
+          },
+          {
+            "term": "you",
+            "description": "أنت أو لك حسب السياق"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Sure I will open it for you",
+        "ar": "بالتأكيد سوف أفتحه لك",
+        "context": "يقال عند الموافقة على مساعدة شخص"
+      },
+      {
+        "id": 2,
+        "en": "Please put it here",
+        "ar": "من فضلك ضعه هنا",
+        "context": "يقال عند طلب وضع شيء في مكان قريب"
+      },
+      {
+        "id": 3,
+        "en": "This is clear now",
+        "ar": "هذا واضح الآن",
+        "context": "يقال بعد فهم شرح أو مثال"
+      },
+      {
+        "id": 4,
+        "en": "There are two cups on the table",
+        "ar": "يوجد كوبان على الطاولة",
+        "context": "يقال لوصف أشياء في مكان محدد"
+      },
+      {
+        "id": 5,
+        "en": "I can help you now",
+        "ar": "يمكنني مساعدتك الآن",
+        "context": "يقال عند عرض المساعدة"
+      },
+      {
+        "id": 6,
+        "en": "It is safe inside",
+        "ar": "إنه آمن في الداخل",
+        "context": "يقال لوصف مكان محمي"
+      },
+      {
+        "id": 7,
+        "en": "They are ready outside",
+        "ar": "هم جاهزون في الخارج",
+        "context": "يقال لوصف الاستعداد في مكان خارجي"
+      },
+      {
+        "id": 8,
+        "en": "Now close the box tightly",
+        "ar": "الآن أغلق العلبة بإحكام",
+        "context": "يقال عند إعطاء تعليمات لحماية شيء"
+      },
+      {
+        "id": 9,
+        "en": "I understand the idea",
+        "ar": "أنا أفهم الفكرة",
+        "context": "يقال عندما تصبح الفكرة واضحة"
+      },
+      {
+        "id": 10,
+        "en": "That makes sense",
+        "ar": "ذلك منطقي",
+        "context": "يقال عندما يبدو الكلام معقولا"
+      }
+    ]
+  }
+}

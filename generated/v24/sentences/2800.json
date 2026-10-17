@@ -1,0 +1,111 @@
+{
+  "schemaVersion": 1,
+  "id": 2800,
+  "sentence": {
+    "en": "He is taking a photo now.",
+    "ar": "هو يأخذ صورة الآن.",
+    "context": "حدث يحدث الآن."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "He is taking a photo now.",
+        "ar": "هو يلتقط صورة الآن.",
+        "context": "تصف الجملة فعلا يحدث في هذه اللحظة: شخص يلتقط صورة.",
+        "grammar": {
+          "tense": "المضارع المستمر",
+          "tenseEn": "Present Continuous",
+          "reason": "استُخدم المضارع المستمر لأن is taking مع now يدل على فعل يحدث الآن."
+        },
+        "wordMeanings": [
+          {
+            "term": "He",
+            "description": "ضمير يعني هو، ويشير إلى رجل أو ولد."
+          },
+          {
+            "term": "is",
+            "description": "فعل مساعد في المضارع المستمر مع الضمير he."
+          },
+          {
+            "term": "taking",
+            "description": "يلتقط أو يأخذ؛ هنا تعني التقاط صورة."
+          },
+          {
+            "term": "a",
+            "description": "أداة تنكير تعني واحدا غير محدد."
+          },
+          {
+            "term": "photo",
+            "description": "صورة؛ لقطة بالكاميرا أو الهاتف."
+          },
+          {
+            "term": "now",
+            "description": "الآن؛ في هذه اللحظة."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "He is taking a photo now.",
+        "ar": "هو يلتقط صورة الآن.",
+        "context": "تصف فعلا يحدث في اللحظة الحالية."
+      },
+      {
+        "id": 2,
+        "en": "She is taking a photo of the garden.",
+        "ar": "هي تلتقط صورة للحديقة.",
+        "context": "تصف ما تصوره شخص ما الآن."
+      },
+      {
+        "id": 3,
+        "en": "They are taking photos at the party.",
+        "ar": "هم يلتقطون صورا في الحفلة.",
+        "context": "تصف نشاطا جاريا في مناسبة."
+      },
+      {
+        "id": 4,
+        "en": "I am taking a photo of my meal.",
+        "ar": "أنا ألتقط صورة لوجبتي.",
+        "context": "تصف فعلا يقوم به المتكلم الآن."
+      },
+      {
+        "id": 5,
+        "en": "He is taking a photo with his phone.",
+        "ar": "هو يلتقط صورة بهاتفه.",
+        "context": "توضح الأداة المستخدمة للتصوير."
+      },
+      {
+        "id": 6,
+        "en": "We are taking a group photo.",
+        "ar": "نحن نلتقط صورة جماعية.",
+        "context": "تصف صورة لعدة أشخاص."
+      },
+      {
+        "id": 7,
+        "en": "The tourist is taking a photo of the street.",
+        "ar": "السائح يلتقط صورة للشارع.",
+        "context": "تصف تصوير مكان أثناء الزيارة."
+      },
+      {
+        "id": 8,
+        "en": "He is not taking a video now.",
+        "ar": "هو لا يصور فيديو الآن.",
+        "context": "تنفي فعلا جاريا وتفرق بين صورة وفيديو."
+      },
+      {
+        "id": 9,
+        "en": "Are you taking a photo now?",
+        "ar": "هل تلتقط صورة الآن؟",
+        "context": "تسأل عن فعل يحدث في اللحظة الحالية."
+      },
+      {
+        "id": 10,
+        "en": "She is taking a photo before sunset.",
+        "ar": "هي تلتقط صورة قبل غروب الشمس.",
+        "context": "تصف توقيت التقاط الصورة."
+      }
+    ]
+  }
+}

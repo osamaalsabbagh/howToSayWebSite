@@ -1,0 +1,145 @@
+{
+  "schemaVersion": 1,
+  "id": 9990,
+  "sentence": {
+    "en": "I inserted a footnote, but the editor did not keep it.",
+    "ar": "أنا أدرجت حاشية، لكن المحرر لم يحتفظ بها.",
+    "context": "وصف إضافة سابقة إلى نص ثم عدم إبقائها في التحرير.",
+    "sourceWord": "insert",
+    "sourcePos": "v."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "I inserted a footnote,",
+        "ar": "أنا أدرجت حاشية،",
+        "context": "وصف إضافة سابقة لملاحظة تكميلية إلى نص.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "تصف الجملة حدثًا وقع في وقت سابق."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "أنا"
+          },
+          {
+            "term": "inserted",
+            "description": "أدرجت؛ أضفت في موضع من النص"
+          },
+          {
+            "term": "a",
+            "description": "أداة نكرة لحاشية"
+          },
+          {
+            "term": "footnote",
+            "description": "حاشية؛ ملاحظة تكميلية"
+          }
+        ]
+      },
+      {
+        "sentence": "but the editor did not keep it.",
+        "ar": "لكن المحرر لم يحتفظ بها.",
+        "context": "بيان أن المحرر لم يُبقِ الملاحظة في النص.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "تصف الجملة حدثًا وقع في وقت سابق."
+        },
+        "wordMeanings": [
+          {
+            "term": "but",
+            "description": "لكن"
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف للمحرر"
+          },
+          {
+            "term": "editor",
+            "description": "المحرر"
+          },
+          {
+            "term": "did",
+            "description": "مساعد النفي الماضي"
+          },
+          {
+            "term": "not",
+            "description": "لم"
+          },
+          {
+            "term": "keep",
+            "description": "يحتفظ بـ"
+          },
+          {
+            "term": "it",
+            "description": "ها؛ تعود على الحاشية"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I inserted a footnote, but the editor did not keep it.",
+        "ar": "أنا أدرجت حاشية، لكن المحرر لم يحتفظ بها.",
+        "context": "وصف إضافة سابقة إلى نص ثم عدم إبقائها في التحرير."
+      },
+      {
+        "id": 2,
+        "en": "The technician inserts the probe into the opening.",
+        "ar": "الفني يدخل المسبار في الفتحة.",
+        "context": "وصف وضع أداة فحص داخل حيز مخصص."
+      },
+      {
+        "id": 3,
+        "en": "She inserted a photograph between the pages.",
+        "ar": "هي وضعت صورة بين الصفحات.",
+        "context": "وصف إدخال سابق لغرض مسطح في كتاب."
+      },
+      {
+        "id": 4,
+        "en": "We have inserted a new row in the table.",
+        "ar": "نحن قد أدرجنا صفًا جديدًا في الجدول.",
+        "context": "الإبلاغ عن إضافة مكتملة إلى تنظيم بيانات."
+      },
+      {
+        "id": 5,
+        "en": "The editor is inserting a missing paragraph.",
+        "ar": "المحرر يدرج فقرة ناقصة.",
+        "context": "وصف استكمال جارٍ لمحتوى مكتوب."
+      },
+      {
+        "id": 6,
+        "en": "The software will insert the date automatically.",
+        "ar": "البرنامج سيدرج التاريخ تلقائيًا.",
+        "context": "توقع إضافة معلومة زمنية دون كتابة يدوية."
+      },
+      {
+        "id": 7,
+        "en": "Please insert the key gently.",
+        "ar": "من فضلك أدخل المفتاح برفق.",
+        "context": "طلب وضع غرض في موضع ضيق بحركة متأنية."
+      },
+      {
+        "id": 8,
+        "en": "I inserted the USB stick, but the computer did not recognize it.",
+        "ar": "أنا أدخلت ذاكرة الفلاش، لكن الحاسوب لم يتعرف عليها.",
+        "context": "وصف محاولة توصيل سابقة لم يكتشف فيها الجهاز وحدة التخزين."
+      },
+      {
+        "id": 9,
+        "en": "The guide explains how to insert page numbers.",
+        "ar": "الدليل يشرح كيفية إدراج أرقام الصفحات.",
+        "context": "وصف إضافة علامات ترتيب إلى وثيقة."
+      },
+      {
+        "id": 10,
+        "en": "He inserted a brief pause before the final sentence.",
+        "ar": "هو أدرج وقفة قصيرة قبل العبارة الأخيرة.",
+        "context": "وصف إضافة سابقة في إلقاء كلام، لا وضع جسم في جهاز."
+      }
+    ]
+  }
+}

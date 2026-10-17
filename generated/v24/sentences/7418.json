@@ -1,0 +1,133 @@
+{
+  "schemaVersion": 1,
+  "id": 7418,
+  "sentence": {
+    "en": "Please lower your voice; the baby is sleeping.",
+    "ar": "من فضلك اخفض صوتك؛ الرضيع نائم.",
+    "context": "طلب كلام أقل ارتفاعًا لوجود رضيع نائم حاليًا دون تعيين صلته بالمتحدثين.",
+    "sourceWord": "lower",
+    "sourcePos": "v."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Please lower your voice;",
+        "ar": "من فضلك اخفض صوتك؛",
+        "context": "طلب تقليل ارتفاع صوت المخاطب.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "صيغة الأمر المهذبة. الفعل يعني يخفض أو ينزل شيئًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "Please",
+            "description": "من فضلك."
+          },
+          {
+            "term": "lower",
+            "description": "اخفض."
+          },
+          {
+            "term": "your",
+            "description": "ضمير ملكية للمخاطب."
+          },
+          {
+            "term": "voice",
+            "description": "صوتك."
+          }
+        ]
+      },
+      {
+        "sentence": "the baby is sleeping.",
+        "ar": "الرضيع نائم.",
+        "context": "بيان نوم جارٍ لدى رضيع يفسر طلب الهدوء.",
+        "grammar": {
+          "tense": "المضارع المستمر",
+          "tenseEn": "Present Continuous",
+          "reason": "المضارع المستمر يصف ما يحدث الآن."
+        },
+        "wordMeanings": [
+          {
+            "term": "the",
+            "description": "أداة تعريف تأتي مع الرضيع."
+          },
+          {
+            "term": "baby",
+            "description": "الرضيع."
+          },
+          {
+            "term": "is",
+            "description": "مساعد المضارع المستمر."
+          },
+          {
+            "term": "sleeping",
+            "description": "نائم."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Please lower your voice; the baby is sleeping.",
+        "ar": "من فضلك اخفض صوتك؛ الرضيع نائم.",
+        "context": "طلب كلام أقل ارتفاعًا لوجود رضيع نائم حاليًا دون تعيين صلته بالمتحدثين."
+      },
+      {
+        "id": 2,
+        "en": "The government lowered the tax on food.",
+        "ar": "الحكومة خفضت الضريبة على الطعام.",
+        "context": "وصف تقليل سابق للضريبة المفروضة على مواد غذائية دون تقرير مقدار تغير أسعارها."
+      },
+      {
+        "id": 3,
+        "en": "The crane lowers materials into the pit.",
+        "ar": "الرافعة تنزل المواد إلى الحفرة.",
+        "context": "وصف حركة معتادة لحمولة من مستوى أعلى إلى أدنى."
+      },
+      {
+        "id": 4,
+        "en": "She lowered her eyes.",
+        "ar": "هي خفضت عينيها.",
+        "context": "وصف توجيه سابق للنظر إلى الأسفل دون افتراض شعور معين."
+      },
+      {
+        "id": 5,
+        "en": "We have lowered our expectations.",
+        "ar": "نحن قد خفضنا توقعاتنا.",
+        "context": "الإبلاغ عن تقليل مستوى النتائج المنتظرة."
+      },
+      {
+        "id": 6,
+        "en": "The workers are lowering the flag.",
+        "ar": "العمال ينزلون العلم.",
+        "context": "وصف حركة جارية لقماش مرفوع نحو مستوى أدنى."
+      },
+      {
+        "id": 7,
+        "en": "The shop will lower its prices next week.",
+        "ar": "المحل سيخفض أسعاره الأسبوع القادم.",
+        "context": "توقع تقليل مبالغ البيع في موعد محدد."
+      },
+      {
+        "id": 8,
+        "en": "Please lower the chair slightly.",
+        "ar": "من فضلك اخفض الكرسي قليلًا.",
+        "context": "طلب تقليل ارتفاع مقعد بمقدار صغير."
+      },
+      {
+        "id": 9,
+        "en": "The cold wind lowered the temperature.",
+        "ar": "الرياح الباردة خفضت درجة الحرارة.",
+        "context": "وصف سبب سابق لانخفاض قيمة حرارية."
+      },
+      {
+        "id": 10,
+        "en": "The manager lowered the target.",
+        "ar": "المدير خفض الهدف.",
+        "context": "وصف تقليل سابق للمستوى المطلوب بلوغه."
+      }
+    ]
+  }
+}

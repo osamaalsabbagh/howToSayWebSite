@@ -1,0 +1,171 @@
+{
+  "schemaVersion": 1,
+  "id": 9,
+  "sentence": {
+    "en": "For example, in science fresh water means it is not salty.",
+    "ar": "على سبيل المثال، في العلوم الماء العذب يعني أنه غير مالح.",
+    "context": "المعلم يوضح المعنى في السياق العلمي"
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "For example",
+        "ar": "على سبيل المثال.",
+        "context": "يقدّم مثالًا يوضح الفكرة المقصودة.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذا تعبير تمهيدي لتقديم مثال وليس جملة بزمن مستقل."
+        },
+        "wordMeanings": [
+          {
+            "term": "For",
+            "description": "جزء من تعبير يستخدم لتقديم مثال."
+          },
+          {
+            "term": "example",
+            "description": "مثال يوضح الفكرة."
+          }
+        ]
+      },
+      {
+        "sentence": "in science fresh water means it is not salty",
+        "ar": "في العلوم، الماء العذب يعني أنه غير مالح.",
+        "context": "يضيف تحديدًا للمكان أو الإطار الذي يقع فيه الكلام.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُخدم المضارع البسيط لتعريف معنى عام في السياق العلمي."
+        },
+        "wordMeanings": [
+          {
+            "term": "in",
+            "description": "داخل مجال أو سياق معين."
+          },
+          {
+            "term": "science",
+            "description": "العلم أو المجال العلمي."
+          },
+          {
+            "term": "fresh",
+            "description": "عذب أو غير مالح عندما يصف الماء علميًا."
+          },
+          {
+            "term": "water",
+            "description": "ماء."
+          },
+          {
+            "term": "means",
+            "description": "يعني أو يدل على معنى معين."
+          },
+          {
+            "term": "it",
+            "description": "ضمير يعود على الماء العذب."
+          },
+          {
+            "term": "is",
+            "description": "تربط الضمير بوصفه أو حالته."
+          },
+          {
+            "term": "not",
+            "description": "أداة نفي."
+          },
+          {
+            "term": "salty",
+            "description": "مالح أو يحتوي على ملح."
+          }
+        ]
+      },
+      {
+        "sentence": "it is not salty",
+        "ar": "أنه غير مالح.",
+        "context": "يكمل به المتحدث المعنى أو النتيجة داخل هذا الموقف.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "هذا الجزء يشرح الصفة العامة للماء المقصود بأنه غير مالح."
+        },
+        "wordMeanings": [
+          {
+            "term": "it",
+            "description": "ضمير يعود على الماء العذب."
+          },
+          {
+            "term": "is",
+            "description": "تربط الضمير بوصفه أو حالته."
+          },
+          {
+            "term": "not",
+            "description": "أداة نفي."
+          },
+          {
+            "term": "salty",
+            "description": "مالح أو يحتوي على ملح."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "For example, in science ice means frozen water.",
+        "ar": "على سبيل المثال، في العلوم الجليد يعني ماءً متجمدًا.",
+        "context": "يُستخدم لتعريف مصطلح علمي بسيط."
+      },
+      {
+        "id": 2,
+        "en": "For example, fresh water means it has very little salt.",
+        "ar": "على سبيل المثال، الماء العذب يعني أنه يحتوي على قليل جدًا من الملح.",
+        "context": "يُستخدم لتوضيح معنى الماء العذب."
+      },
+      {
+        "id": 3,
+        "en": "In science, salt water means it contains salt.",
+        "ar": "في العلوم، الماء المالح يعني أنه يحتوي على ملح.",
+        "context": "يُستخدم لتعريف عكس الماء العذب."
+      },
+      {
+        "id": 4,
+        "en": "For example, clean air means it is safe to breathe.",
+        "ar": "على سبيل المثال، الهواء النظيف يعني أنه آمن للتنفس.",
+        "context": "يُستخدم لربط صفة السلامة بشيء طبيعي."
+      },
+      {
+        "id": 5,
+        "en": "In science, a solid means it keeps its shape.",
+        "ar": "في العلوم، الجسم الصلب يعني أنه يحتفظ بشكله.",
+        "context": "يُستخدم عند شرح حالة من حالات المادة."
+      },
+      {
+        "id": 6,
+        "en": "For example, a liquid means it can flow.",
+        "ar": "على سبيل المثال، السائل يعني أنه يمكن أن يتدفق.",
+        "context": "يُستخدم في درس عن المواد."
+      },
+      {
+        "id": 7,
+        "en": "In science, pure water means it has no extra substances.",
+        "ar": "في العلوم، الماء النقي يعني أنه لا يحتوي على مواد إضافية.",
+        "context": "يُستخدم لتوضيح معنى النقاء علميًا."
+      },
+      {
+        "id": 8,
+        "en": "For example, cold water means it has a low temperature.",
+        "ar": "على سبيل المثال، الماء البارد يعني أن حرارته منخفضة.",
+        "context": "يُستخدم لتعريف وصف متعلق بالحرارة."
+      },
+      {
+        "id": 9,
+        "en": "In science, clean water means it has no harmful pollution.",
+        "ar": "في العلوم، الماء النظيف يعني أنه لا يحتوي على تلوث ضار.",
+        "context": "يُستخدم لتوضيح معنى النظافة في سياق علمي."
+      },
+      {
+        "id": 10,
+        "en": "For example, safe water means people can drink it.",
+        "ar": "على سبيل المثال، الماء الآمن يعني أن الناس يمكنهم شربه.",
+        "context": "يُستخدم لشرح معنى السلامة في الماء."
+      }
+    ]
+  }
+}

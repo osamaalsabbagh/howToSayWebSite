@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": 3144,
+  "sentence": {
+    "en": "He wrote the answer yesterday.",
+    "ar": "هو كتب الإجابة أمس.",
+    "context": "حدث انتهى في الماضي."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "He wrote the answer yesterday.",
+        "ar": "كتب الإجابة أمس.",
+        "context": "تصف الجملة كتابة إجابة محددة في اليوم السابق.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "استُخدم الماضي البسيط لأن wrote يصف فعلا مكتمل الحدوث في وقت ماض محدد: yesterday."
+        },
+        "wordMeanings": [
+          {
+            "term": "He",
+            "description": "هو؛ رجل أو ولد نتحدث عنه."
+          },
+          {
+            "term": "wrote",
+            "description": "كتب؛ الماضي من write."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف قبل answer لأنها إجابة محددة."
+          },
+          {
+            "term": "answer",
+            "description": "إجابة؛ رد على سؤال أو حل لسؤال."
+          },
+          {
+            "term": "yesterday",
+            "description": "أمس؛ اليوم السابق لليوم الحالي."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "He wrote the answer yesterday.",
+        "ar": "كتب الإجابة أمس.",
+        "context": "تذكر فعل كتابة في الماضي."
+      },
+      {
+        "id": 2,
+        "en": "She wrote the answer yesterday.",
+        "ar": "كتبت الإجابة أمس.",
+        "context": "تغير الفاعل إلى امرأة أو فتاة."
+      },
+      {
+        "id": 3,
+        "en": "He wrote the question yesterday.",
+        "ar": "كتب السؤال أمس.",
+        "context": "تغير الشيء المكتوب."
+      },
+      {
+        "id": 4,
+        "en": "Did he write the answer yesterday?",
+        "ar": "هل كتب الإجابة أمس؟",
+        "context": "تسأل عن الفعل في الماضي."
+      },
+      {
+        "id": 5,
+        "en": "He did not write the answer yesterday.",
+        "ar": "لم يكتب الإجابة أمس.",
+        "context": "تنفي كتابة الإجابة."
+      },
+      {
+        "id": 6,
+        "en": "He writes the answer carefully.",
+        "ar": "هو يكتب الإجابة بعناية.",
+        "context": "تصف طريقة معتادة أو عامة."
+      },
+      {
+        "id": 7,
+        "en": "He is writing the answer now.",
+        "ar": "هو يكتب الإجابة الآن.",
+        "context": "تصف الكتابة أثناء حدوثها."
+      },
+      {
+        "id": 8,
+        "en": "He will write the answer tomorrow.",
+        "ar": "سيكتب الإجابة غدا.",
+        "context": "تتحدث عن كتابة مستقبلية."
+      },
+      {
+        "id": 9,
+        "en": "The teacher checked the answer he wrote yesterday.",
+        "ar": "راجع المعلم الإجابة التي كتبها أمس.",
+        "context": "تربط الإجابة بمراجعة لاحقة."
+      },
+      {
+        "id": 10,
+        "en": "He wrote the answer yesterday, but it was wrong.",
+        "ar": "كتب الإجابة أمس، لكنها كانت خاطئة.",
+        "context": "تضيف نتيجة أو تقييم للإجابة."
+      }
+    ]
+  }
+}

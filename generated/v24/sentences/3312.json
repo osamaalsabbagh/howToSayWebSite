@@ -1,0 +1,119 @@
+{
+  "schemaVersion": 1,
+  "id": 3312,
+  "sentence": {
+    "en": "I left as he arrived.",
+    "ar": "غادرت، فوصل هو.",
+    "context": "حدوث فعلين في نفس اللحظة تقريبًا، حيث يأتي الثاني مباشرة مع الأول."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "I left",
+        "ar": "غادرت",
+        "context": "تذكر العبارة فعل المغادرة في الماضي.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "استُخدم left لأن المغادرة حدثت وانتهت في الماضي."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "أنا؛ المتكلم."
+          },
+          {
+            "term": "left",
+            "description": "غادرت؛ الماضي من leave."
+          }
+        ]
+      },
+      {
+        "sentence": "as he arrived.",
+        "ar": "عندما وصل هو.",
+        "context": "توضح العبارة أن وصوله حدث في نفس وقت مغادرة المتكلم تقريبا.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "استُخدم arrived لأن الوصول حدث في الماضي، وas تربطه زمنيا بفعل المغادرة."
+        },
+        "wordMeanings": [
+          {
+            "term": "as",
+            "description": "عندما أو بينما؛ تربط حدثين وقعا في نفس الوقت تقريبا."
+          },
+          {
+            "term": "he",
+            "description": "هو؛ رجل أو ولد نتحدث عنه."
+          },
+          {
+            "term": "arrived",
+            "description": "وصل؛ جاء إلى المكان في الماضي."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I left as he arrived.",
+        "ar": "غادرت عندما وصل.",
+        "context": "تصف حدثين متزامنين تقريبا."
+      },
+      {
+        "id": 2,
+        "en": "She left as he arrived.",
+        "ar": "هي غادرت عندما وصل.",
+        "context": "تغير الفاعل في فعل المغادرة."
+      },
+      {
+        "id": 3,
+        "en": "I left as she arrived.",
+        "ar": "غادرت عندما وصلت هي.",
+        "context": "تغير الشخص الذي وصل."
+      },
+      {
+        "id": 4,
+        "en": "I did not leave as he arrived.",
+        "ar": "لم أغادر عندما وصل.",
+        "context": "تنفي حدوث المغادرة في تلك اللحظة."
+      },
+      {
+        "id": 5,
+        "en": "Did you leave as he arrived?",
+        "ar": "هل غادرت عندما وصل؟",
+        "context": "تسأل عن تزامن الحدثين."
+      },
+      {
+        "id": 6,
+        "en": "I leave as he arrives every morning.",
+        "ar": "أغادر عندما يصل كل صباح.",
+        "context": "تصف عادة متكررة."
+      },
+      {
+        "id": 7,
+        "en": "I will leave as he arrives tomorrow.",
+        "ar": "سأغادر عندما يصل غدا.",
+        "context": "تتحدث عن ترتيب مستقبلي."
+      },
+      {
+        "id": 8,
+        "en": "I left just as he arrived.",
+        "ar": "غادرت تماما عندما وصل.",
+        "context": "تؤكد دقة التزامن."
+      },
+      {
+        "id": 9,
+        "en": "I left as he arrived because I had another meeting.",
+        "ar": "غادرت عندما وصل لأن لدي اجتماعا آخر.",
+        "context": "تذكر سبب المغادرة."
+      },
+      {
+        "id": 10,
+        "en": "I left as he arrived, but we talked later.",
+        "ar": "غادرت عندما وصل، لكننا تحدثنا لاحقا.",
+        "context": "توضح أن عدم اللقاء لم يمنع الحديث لاحقا."
+      }
+    ]
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": 5,
+  "sentence": {
+    "en": "Do not worry.",
+    "ar": "لا تقلق.",
+    "context": "طمئن شخصًا."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Do not worry.",
+        "ar": "لا تقلق.",
+        "context": "تُستخدم لتوجيه طلب أو تعليم مباشر في هذا الموقف.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "الجملة نهي أو طمأنة بصيغة الأمر المنفي، وليست زمنًا مستقلًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "Do",
+            "description": "تبدأ هنا صيغة نهي مع not."
+          },
+          {
+            "term": "not",
+            "description": "أداة نفي."
+          },
+          {
+            "term": "worry",
+            "description": "تقلق أو تشعر بالخوف من شيء."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Do not worry about it.",
+        "ar": "لا تقلق بشأن ذلك.",
+        "context": "تقال لطمأنة شخص."
+      },
+      {
+        "id": 2,
+        "en": "Do not worry, I can help.",
+        "ar": "لا تقلق، أستطيع المساعدة.",
+        "context": "تقال عند عرض المساعدة."
+      },
+      {
+        "id": 3,
+        "en": "Do not worry about the time.",
+        "ar": "لا تقلق بشأن الوقت.",
+        "context": "تقال عندما لا يكون التأخير مشكلة."
+      },
+      {
+        "id": 4,
+        "en": "Please do not worry.",
+        "ar": "من فضلك لا تقلق.",
+        "context": "صيغة ألطف لطمأنة شخص."
+      },
+      {
+        "id": 5,
+        "en": "Do not worry about the test.",
+        "ar": "لا تقلق بشأن الاختبار.",
+        "context": "تقال لتهدئة شخص قبل امتحان."
+      },
+      {
+        "id": 6,
+        "en": "Do not worry, everything is okay.",
+        "ar": "لا تقلق، كل شيء على ما يرام.",
+        "context": "تقال عندما يكون الوضع مطمئنًا."
+      },
+      {
+        "id": 7,
+        "en": "Do not worry about me.",
+        "ar": "لا تقلق علي.",
+        "context": "تقال لطمأنة شخص يهتم بك."
+      },
+      {
+        "id": 8,
+        "en": "Do not worry if you make a mistake.",
+        "ar": "لا تقلق إذا ارتكبت خطأ.",
+        "context": "تقال لتشجيع المتعلم."
+      },
+      {
+        "id": 9,
+        "en": "Do not worry about the money.",
+        "ar": "لا تقلق بشأن المال.",
+        "context": "تقال عندما لا تكون التكلفة مشكلة."
+      },
+      {
+        "id": 10,
+        "en": "Do not worry, we have time.",
+        "ar": "لا تقلق، لدينا وقت.",
+        "context": "تقال لتخفيف الاستعجال."
+      }
+    ]
+  }
+}

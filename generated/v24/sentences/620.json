@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "id": 620,
+  "sentence": {
+    "en": "Do you play basketball?",
+    "ar": "هل تلعب كرة السلة؟",
+    "context": "السؤال عن ممارسة كرة السلة."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Do you play basketball?",
+        "ar": "هل تلعب كرة السلة؟",
+        "context": "تستخدم للسؤال عن ممارسة الشخص لهذه الرياضة عادة.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "السؤال عن عادة أو نشاط يمارسه الشخص بشكل عام."
+        },
+        "wordMeanings": [
+          {
+            "term": "Do",
+            "description": "كلمة مساعدة لتكوين سؤال في المضارع البسيط."
+          },
+          {
+            "term": "you",
+            "description": "أنت أو أنتم حسب السياق."
+          },
+          {
+            "term": "play",
+            "description": "تلعب أو تمارس رياضة."
+          },
+          {
+            "term": "basketball",
+            "description": "كرة السلة."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Do you play football?",
+        "ar": "هل تلعب كرة القدم؟",
+        "context": "تقال للسؤال عن رياضة أخرى."
+      },
+      {
+        "id": 2,
+        "en": "I play basketball every week.",
+        "ar": "ألعب كرة السلة كل أسبوع.",
+        "context": "تستخدم لوصف عادة رياضية."
+      },
+      {
+        "id": 3,
+        "en": "She plays basketball at school.",
+        "ar": "هي تلعب كرة السلة في المدرسة.",
+        "context": "تقال عند ذكر مكان ممارسة الرياضة."
+      },
+      {
+        "id": 4,
+        "en": "Do they play basketball?",
+        "ar": "هل يلعبون كرة السلة؟",
+        "context": "تستخدم للسؤال عن مجموعة."
+      },
+      {
+        "id": 5,
+        "en": "He does not play basketball.",
+        "ar": "هو لا يلعب كرة السلة.",
+        "context": "تقال لنفي ممارسة الرياضة."
+      },
+      {
+        "id": 6,
+        "en": "Do you watch basketball?",
+        "ar": "هل تشاهد كرة السلة؟",
+        "context": "تستخدم للسؤال عن مشاهدة الرياضة."
+      },
+      {
+        "id": 7,
+        "en": "My son plays basketball.",
+        "ar": "ابني يلعب كرة السلة.",
+        "context": "تقال عن نشاط الابن."
+      },
+      {
+        "id": 8,
+        "en": "We play basketball after school.",
+        "ar": "نلعب كرة السلة بعد المدرسة.",
+        "context": "تستخدم لوصف وقت النشاط."
+      },
+      {
+        "id": 9,
+        "en": "Do you play any sports?",
+        "ar": "هل تمارس أي رياضات؟",
+        "context": "تقال كسؤال عام عن الرياضة."
+      },
+      {
+        "id": 10,
+        "en": "They play basketball very well.",
+        "ar": "هم يلعبون كرة السلة جيداً جداً.",
+        "context": "تستخدم لمدح مهارة مجموعة."
+      }
+    ]
+  }
+}

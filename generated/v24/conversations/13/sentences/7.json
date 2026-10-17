@@ -1,0 +1,135 @@
+{
+  "schemaVersion": 1,
+  "id": 7,
+  "sentence": {
+    "en": "Good idea. Maybe they found something near the entrance.",
+    "ar": "فكرة جيدة. ربما وجدوا شيئًا قرب المدخل.",
+    "context": "يرجح أنهم ربما وجدوا شيئًا يتعلق بالمفاتيح قرب المدخل."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Good idea.",
+        "ar": "فكرة جيدة.",
+        "context": "تُستخدم للموافقة على اقتراح شخص آخر.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه عبارة اسمية قصيرة للتقييم والموافقة ولا تحتوي على فعل بزمن واضح."
+        },
+        "wordMeanings": [
+          {
+            "term": "Good",
+            "description": "جيد أو مناسب."
+          },
+          {
+            "term": "idea",
+            "description": "فكرة أو اقتراح."
+          }
+        ]
+      },
+      {
+        "sentence": "Maybe they found something near the entrance.",
+        "ar": "ربما وجدوا شيئًا قرب المدخل.",
+        "context": "تُستخدم لاقتراح احتمال حول مكان العثور على شيء.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "استُخدم found للتحدث عن احتمال حدوث فعل في الماضي، أي أنهم ربما وجدوا شيئًا سابقًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "Maybe",
+            "description": "ربما أو من المحتمل."
+          },
+          {
+            "term": "they",
+            "description": "هم، ويشير إلى أشخاص آخرين."
+          },
+          {
+            "term": "found",
+            "description": "وجدوا أو عثروا على."
+          },
+          {
+            "term": "something",
+            "description": "شيئًا ما."
+          },
+          {
+            "term": "near",
+            "description": "قريبًا من."
+          },
+          {
+            "term": "the",
+            "description": "أداة تشير إلى مدخل معروف."
+          },
+          {
+            "term": "entrance",
+            "description": "المدخل."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Good idea.",
+        "ar": "فكرة جيدة.",
+        "context": "تُستخدم عند الموافقة على اقتراح."
+      },
+      {
+        "id": 2,
+        "en": "Maybe they found the keys outside.",
+        "ar": "ربما وجدوا المفاتيح في الخارج.",
+        "context": "تُستخدم عند تخمين مكان العثور على شيء."
+      },
+      {
+        "id": 3,
+        "en": "Maybe someone found your bag.",
+        "ar": "ربما وجد شخص ما حقيبتك.",
+        "context": "تُستخدم عند طمأنة شخص يبحث عن حقيبة."
+      },
+      {
+        "id": 4,
+        "en": "That is a good idea.",
+        "ar": "هذه فكرة جيدة.",
+        "context": "تُستخدم للتعبير عن موافقة أو تقدير."
+      },
+      {
+        "id": 5,
+        "en": "Maybe they left it at the desk.",
+        "ar": "ربما تركوه عند المكتب.",
+        "context": "تُستخدم عند تخمين مكان شيء."
+      },
+      {
+        "id": 6,
+        "en": "Maybe the guard saw something.",
+        "ar": "ربما رأى الحارس شيئًا.",
+        "context": "تُستخدم عند اقتراح شخص لديه معلومات."
+      },
+      {
+        "id": 7,
+        "en": "Good idea, let us check there.",
+        "ar": "فكرة جيدة، دعنا نتحقق هناك.",
+        "context": "تُستخدم للموافقة ثم اتخاذ إجراء."
+      },
+      {
+        "id": 8,
+        "en": "Maybe they found something near the door.",
+        "ar": "ربما وجدوا شيئًا قرب الباب.",
+        "context": "تُستخدم في سياق البحث عن مفقود."
+      },
+      {
+        "id": 9,
+        "en": "Maybe someone called security.",
+        "ar": "ربما اتصل شخص ما بالأمن.",
+        "context": "تُستخدم عند توقع خطوة حدثت سابقًا."
+      },
+      {
+        "id": 10,
+        "en": "Good idea, we should ask them.",
+        "ar": "فكرة جيدة، ينبغي أن نسألهم.",
+        "context": "تُستخدم عند قبول اقتراح سؤال أشخاص."
+      }
+    ]
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "id": 2915,
+  "sentence": {
+    "en": "The toilet is clean.",
+    "ar": "المرحاض نظيف.",
+    "context": "مكان مخصص لقضاء الحاجة."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "The toilet is clean.",
+        "ar": "المرحاض نظيف.",
+        "context": "تصف الجملة حالة المرحاض بأنه غير متسخ ويمكن استخدامه.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُخدم المضارع البسيط لأن is يصف الحالة الحالية للمرحاض."
+        },
+        "wordMeanings": [
+          {
+            "term": "The",
+            "description": "أداة تعريف تشير إلى مرحاض محدد معروف من السياق."
+          },
+          {
+            "term": "toilet",
+            "description": "مرحاض؛ مكان أو أداة مخصصة لقضاء الحاجة."
+          },
+          {
+            "term": "is",
+            "description": "فعل يكون في المضارع، ويربط المرحاض بصفته."
+          },
+          {
+            "term": "clean",
+            "description": "نظيف؛ غير متسخ أو مناسب للاستخدام."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "The toilet is clean.",
+        "ar": "المرحاض نظيف.",
+        "context": "تصف نظافة المرحاض."
+      },
+      {
+        "id": 2,
+        "en": "The bathroom is clean.",
+        "ar": "الحمام نظيف.",
+        "context": "تستخدم clean مع مكان أوسع."
+      },
+      {
+        "id": 3,
+        "en": "The toilet is dirty.",
+        "ar": "المرحاض متسخ.",
+        "context": "تستخدم الصفة المعاكسة."
+      },
+      {
+        "id": 4,
+        "en": "The toilet is very clean.",
+        "ar": "المرحاض نظيف جدا.",
+        "context": "تقوي معنى النظافة."
+      },
+      {
+        "id": 5,
+        "en": "The toilet is not clean.",
+        "ar": "المرحاض ليس نظيفا.",
+        "context": "تنفي نظافة المرحاض."
+      },
+      {
+        "id": 6,
+        "en": "Is the toilet clean?",
+        "ar": "هل المرحاض نظيف؟",
+        "context": "تسأل عن نظافة المرحاض."
+      },
+      {
+        "id": 7,
+        "en": "Please keep the toilet clean.",
+        "ar": "من فضلك أبق المرحاض نظيفا.",
+        "context": "تطلب المحافظة على النظافة."
+      },
+      {
+        "id": 8,
+        "en": "The toilet was clean yesterday.",
+        "ar": "كان المرحاض نظيفا أمس.",
+        "context": "تنقل الوصف إلى الماضي."
+      },
+      {
+        "id": 9,
+        "en": "The toilet is clean, so you can use it.",
+        "ar": "المرحاض نظيف، لذلك يمكنك استخدامه.",
+        "context": "تربط النظافة بإمكانية الاستخدام."
+      },
+      {
+        "id": 10,
+        "en": "The public toilet is clean.",
+        "ar": "المرحاض العام نظيف.",
+        "context": "تحدد نوع المرحاض."
+      }
+    ]
+  }
+}

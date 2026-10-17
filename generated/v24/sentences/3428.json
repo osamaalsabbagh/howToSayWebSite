@@ -1,0 +1,135 @@
+{
+  "schemaVersion": 1,
+  "id": 3428,
+  "sentence": {
+    "en": "Sign your name at the bottom of the page.",
+    "ar": "وقّع اسمك في أسفل الصفحة.",
+    "context": "تعليمات لوضع التوقيع في الجزء السفلي من صفحة، وليس في أعلاها."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Sign your name",
+        "ar": "وقّع اسمك",
+        "context": "هذا الجزء يعطي أمرا بكتابة التوقيع أو الاسم.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه صيغة أمر، لذلك لا تحمل زمنا مستقلا."
+        },
+        "wordMeanings": [
+          {
+            "term": "Sign",
+            "description": "وقّع؛ اكتب توقيعك أو اسمك للتأكيد."
+          },
+          {
+            "term": "your",
+            "description": "خاصتك؛ تعود على الشخص المخاطب."
+          },
+          {
+            "term": "name",
+            "description": "اسم؛ ما يكتب للتعريف بالشخص."
+          }
+        ]
+      },
+      {
+        "sentence": "at the bottom of the page",
+        "ar": "في أسفل الصفحة",
+        "context": "هذا الجزء يحدد مكان التوقيع في الجزء السفلي.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه عبارة مكانية وليست جملة فعلية مستقلة."
+        },
+        "wordMeanings": [
+          {
+            "term": "at",
+            "description": "في؛ تحدد موضعا معينا."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف؛ تجعل الجزء السفلي محددا."
+          },
+          {
+            "term": "bottom",
+            "description": "أسفل؛ الجزء السفلي من الصفحة."
+          },
+          {
+            "term": "of",
+            "description": "من؛ تربط الجزء بالصفحة."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف؛ تجعل الصفحة محددة."
+          },
+          {
+            "term": "page",
+            "description": "صفحة؛ ورقة أو جزء من مستند."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Sign your name at the bottom of the page.",
+        "ar": "وقّع اسمك في أسفل الصفحة.",
+        "context": "تعطي تعليمات لمكان التوقيع."
+      },
+      {
+        "id": 2,
+        "en": "Write the date at the bottom of the page.",
+        "ar": "اكتب التاريخ في أسفل الصفحة.",
+        "context": "تحدد مكان كتابة التاريخ."
+      },
+      {
+        "id": 3,
+        "en": "The number is at the bottom of the page.",
+        "ar": "الرقم في أسفل الصفحة.",
+        "context": "تصف موضع رقم في مستند."
+      },
+      {
+        "id": 4,
+        "en": "Do not sign at the bottom yet.",
+        "ar": "لا توقّع في الأسفل بعد.",
+        "context": "تطلب تأجيل التوقيع."
+      },
+      {
+        "id": 5,
+        "en": "Did you sign at the bottom?",
+        "ar": "هل وقّعت في الأسفل؟",
+        "context": "تسأل هل تم التوقيع في الموضع المطلوب."
+      },
+      {
+        "id": 6,
+        "en": "She signed her name at the bottom.",
+        "ar": "هي وقّعت اسمها في الأسفل.",
+        "context": "تنقل التوقيع إلى الماضي."
+      },
+      {
+        "id": 7,
+        "en": "He will sign at the bottom tomorrow.",
+        "ar": "هو سيوقّع في الأسفل غدًا.",
+        "context": "تتحدث عن توقيع مستقبلي."
+      },
+      {
+        "id": 8,
+        "en": "The address appears at the bottom of the letter.",
+        "ar": "العنوان يظهر في أسفل الرسالة.",
+        "context": "تصف موضع معلومة في رسالة."
+      },
+      {
+        "id": 9,
+        "en": "There is a note at the bottom.",
+        "ar": "توجد ملاحظة في الأسفل.",
+        "context": "تصف وجود نص في الجزء السفلي."
+      },
+      {
+        "id": 10,
+        "en": "Please read the line at the bottom.",
+        "ar": "من فضلك اقرأ السطر في الأسفل.",
+        "context": "تطلب قراءة سطر في موضع سفلي."
+      }
+    ]
+  }
+}

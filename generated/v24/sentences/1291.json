@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "id": 1291,
+  "sentence": {
+    "en": "I wanted to go out, and she wanted to stay home.",
+    "ar": "كنت أريد الخروج وهي كانت تريد البقاء في المنزل.",
+    "context": "اربط بين فكرتين متكاملتين باستخدام أداة ربط."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "I wanted to go out",
+        "ar": "كنت أريد الخروج",
+        "context": "يعرض هذا الجزء رغبة المتكلم في الماضي.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "الفعل wanted في الماضي البسيط لأنه يصف رغبة كانت موجودة في وقت سابق."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "أنا؛ المتكلم."
+          },
+          {
+            "term": "wanted",
+            "description": "كنت أريد أو رغبت."
+          },
+          {
+            "term": "to",
+            "description": "تربط الرغبة بالفعل المطلوب."
+          },
+          {
+            "term": "go",
+            "description": "أذهب أو أتحرك إلى مكان آخر."
+          },
+          {
+            "term": "out",
+            "description": "إلى الخارج أو خارج البيت."
+          }
+        ]
+      },
+      {
+        "sentence": "and she wanted to stay home",
+        "ar": "وهي كانت تريد البقاء في المنزل",
+        "context": "يربط هذا الجزء رغبة شخص آخر مختلفة برغبة المتكلم.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "and تربط فكرتين، وwanted في الماضي البسيط يصف رغبة الشخص الآخر في الماضي."
+        },
+        "wordMeanings": [
+          {
+            "term": "and",
+            "description": "واو العطف؛ تربط بين فكرتين."
+          },
+          {
+            "term": "she",
+            "description": "هي؛ تشير إلى امرأة أو فتاة."
+          },
+          {
+            "term": "wanted",
+            "description": "كانت تريد أو رغبت."
+          },
+          {
+            "term": "to",
+            "description": "تربط الرغبة بالفعل التالي."
+          },
+          {
+            "term": "stay",
+            "description": "تبقى أو لا تغادر."
+          },
+          {
+            "term": "home",
+            "description": "في المنزل أو البيت."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I wanted to eat, and she wanted to sleep.",
+        "ar": "كنت أريد أن آكل، وهي كانت تريد أن تنام.",
+        "context": "يقال عند اختلاف رغبتين في الماضي."
+      },
+      {
+        "id": 2,
+        "en": "He wanted to walk, and I wanted to drive.",
+        "ar": "كان يريد المشي، وكنت أريد القيادة.",
+        "context": "يقال عند اختلاف طريقة التنقل."
+      },
+      {
+        "id": 3,
+        "en": "I wanted to study, and my brother wanted to play.",
+        "ar": "كنت أريد الدراسة، وكان أخي يريد اللعب.",
+        "context": "يقال عند اختلاف نشاطين في البيت."
+      },
+      {
+        "id": 4,
+        "en": "She wanted to leave, and he wanted to stay.",
+        "ar": "كانت تريد المغادرة، وكان يريد البقاء.",
+        "context": "يقال عند اختلاف قرارين."
+      },
+      {
+        "id": 5,
+        "en": "We wanted to watch a movie, and they wanted to talk.",
+        "ar": "كنا نريد مشاهدة فيلم، وكانوا يريدون التحدث.",
+        "context": "يقال عند اختلاف خطط مجموعة."
+      },
+      {
+        "id": 6,
+        "en": "I wanted coffee, and she wanted tea.",
+        "ar": "كنت أريد قهوة، وكانت تريد شايًا.",
+        "context": "يقال عند اختلاف اختيارين."
+      },
+      {
+        "id": 7,
+        "en": "He wanted to go home, and I wanted to stay outside.",
+        "ar": "كان يريد الذهاب إلى المنزل، وكنت أريد البقاء في الخارج.",
+        "context": "يقال عند اختلاف الرغبة في المكان."
+      },
+      {
+        "id": 8,
+        "en": "I wanted to call, and she wanted to text.",
+        "ar": "كنت أريد الاتصال، وكانت تريد إرسال رسالة.",
+        "context": "يقال عند اختلاف طريقة التواصل."
+      },
+      {
+        "id": 9,
+        "en": "They wanted to start early, and we wanted to wait.",
+        "ar": "كانوا يريدون البدء مبكرًا، وكنا نريد الانتظار.",
+        "context": "يقال عند اختلاف توقيت القرار."
+      },
+      {
+        "id": 10,
+        "en": "I wanted to sit inside, and she wanted to sit outside.",
+        "ar": "كنت أريد الجلوس في الداخل، وكانت تريد الجلوس في الخارج.",
+        "context": "يقال عند اختلاف مكان الجلوس."
+      }
+    ]
+  }
+}

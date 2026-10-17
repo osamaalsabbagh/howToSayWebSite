@@ -1,0 +1,139 @@
+{
+  "schemaVersion": 1,
+  "id": 8,
+  "sentence": {
+    "en": "That is good news. Can I change the delivery address?",
+    "ar": "تلك أخبار جيدة. هل يمكنني تغيير عنوان التسليم؟",
+    "context": "العميل يسأل عن إمكانية تغيير عنوان التسليم."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "That is good news.",
+        "ar": "تلك أخبار جيدة.",
+        "context": "يبدأ به المتحدث الفكرة الأساسية قبل إضافة التفاصيل.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "الجملة تصف الخبر الحالي بأنه جيد."
+        },
+        "wordMeanings": [
+          {
+            "term": "That",
+            "description": "يشير إلى الخبر الذي سمعه المتكلم."
+          },
+          {
+            "term": "is",
+            "description": "تربط الخبر بوصفه جيدًا."
+          },
+          {
+            "term": "good",
+            "description": "جيد أو مفرح."
+          },
+          {
+            "term": "news",
+            "description": "خبر أو معلومة جديدة."
+          }
+        ]
+      },
+      {
+        "sentence": "Can I change the delivery address?",
+        "ar": "هل يمكنني تغيير عنوان التسليم؟",
+        "context": "يُستخدم هذا السؤال لطلب شيء أو المساعدة بشكل مهذب.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "السؤال يستخدم Can للسؤال عن إمكانية أو إذن تغيير العنوان، لذلك لا يُعامل كزمن مستقل."
+        },
+        "wordMeanings": [
+          {
+            "term": "Can",
+            "description": "تبدأ سؤالًا عن الإمكانية أو السماح."
+          },
+          {
+            "term": "I",
+            "description": "ضمير المتكلم المفرد."
+          },
+          {
+            "term": "change",
+            "description": "يغيّر أو يعدّل."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف لعنوان تسليم محدد."
+          },
+          {
+            "term": "delivery",
+            "description": "التسليم أو إيصال الطلب."
+          },
+          {
+            "term": "address",
+            "description": "العنوان الذي سيصل إليه الطلب."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "That is good news. Can I change the time?",
+        "ar": "هذه أخبار جيدة. هل يمكنني تغيير الوقت؟",
+        "context": "يُستخدم بعد سماع خبر جيد ثم طلب تعديل."
+      },
+      {
+        "id": 2,
+        "en": "That is good news. Can I update my address?",
+        "ar": "هذه أخبار جيدة. هل يمكنني تحديث عنواني؟",
+        "context": "يُستخدم عند طلب تعديل عنوان."
+      },
+      {
+        "id": 3,
+        "en": "Can I change the delivery date?",
+        "ar": "هل يمكنني تغيير تاريخ التسليم؟",
+        "context": "يُستخدم عند طلب موعد تسليم مختلف."
+      },
+      {
+        "id": 4,
+        "en": "Can I change the phone number?",
+        "ar": "هل يمكنني تغيير رقم الهاتف؟",
+        "context": "يُستخدم عند تعديل بيانات اتصال."
+      },
+      {
+        "id": 5,
+        "en": "That is good news. Can I tell my family?",
+        "ar": "هذه أخبار جيدة. هل يمكنني إخبار عائلتي؟",
+        "context": "يُستخدم بعد تلقي خبر مفرح."
+      },
+      {
+        "id": 6,
+        "en": "Can I change the order now?",
+        "ar": "هل يمكنني تغيير الطلب الآن؟",
+        "context": "يُستخدم عند طلب تعديل طلب قبل إرساله."
+      },
+      {
+        "id": 7,
+        "en": "That is good news. Can I pay today?",
+        "ar": "هذه أخبار جيدة. هل يمكنني الدفع اليوم؟",
+        "context": "يُستخدم عند الانتقال من خبر جيد إلى إجراء."
+      },
+      {
+        "id": 8,
+        "en": "Can I change the address before Monday?",
+        "ar": "هل يمكنني تغيير العنوان قبل يوم الإثنين؟",
+        "context": "يُستخدم عند وجود موعد نهائي للتعديل."
+      },
+      {
+        "id": 9,
+        "en": "That is good news. Can I receive it at work?",
+        "ar": "هذه أخبار جيدة. هل يمكنني استلامه في العمل؟",
+        "context": "يُستخدم عند طلب مكان استلام مختلف."
+      },
+      {
+        "id": 10,
+        "en": "Can I change the delivery address today?",
+        "ar": "هل يمكنني تغيير عنوان التسليم اليوم؟",
+        "context": "يُستخدم عند طلب تعديل عاجل للعنوان."
+      }
+    ]
+  }
+}

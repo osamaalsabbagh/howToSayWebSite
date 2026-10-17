@@ -1,0 +1,131 @@
+{
+  "schemaVersion": 1,
+  "id": 3184,
+  "sentence": {
+    "en": "According to the report, the results are correct.",
+    "ar": "حسب التقرير، النتائج صحيحة.",
+    "context": "بناءً على مصدر معلومات."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "According to the report,",
+        "ar": "حسب التقرير،",
+        "context": "تحدد العبارة مصدر المعلومة التي تعتمد عليها الجملة.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "According to the report عبارة جر ثابتة تشير إلى المصدر، وليست فعلا بزمن."
+        },
+        "wordMeanings": [
+          {
+            "term": "According",
+            "description": "ضمن عبارة according to؛ تعني حسب أو بناء على."
+          },
+          {
+            "term": "to",
+            "description": "إلى؛ جزء ثابت من التعبير according to."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف؛ تجعل report تقريرا محددا."
+          },
+          {
+            "term": "report",
+            "description": "تقرير؛ وثيقة أو بيان يقدم معلومات أو نتائج."
+          }
+        ]
+      },
+      {
+        "sentence": "the results are correct.",
+        "ar": "النتائج صحيحة.",
+        "context": "تعرض الجملة الرئيسية الحكم المذكور في التقرير.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُخدم are في المضارع البسيط لوصف حالة النتائج الآن: أنها صحيحة."
+        },
+        "wordMeanings": [
+          {
+            "term": "the",
+            "description": "أداة تعريف؛ تجعل results نتائج محددة سبق ذكرها أو معروفة."
+          },
+          {
+            "term": "results",
+            "description": "نتائج؛ المعلومات أو الأرقام التي ظهرت بعد فحص أو تجربة."
+          },
+          {
+            "term": "are",
+            "description": "تكون أو هي؛ فعل be مع الجمع في المضارع."
+          },
+          {
+            "term": "correct",
+            "description": "صحيحة؛ خالية من الخطأ أو مطابقة للحقيقة."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "According to the report, the results are correct.",
+        "ar": "حسب التقرير، النتائج صحيحة.",
+        "context": "تنسب الحكم إلى تقرير معين."
+      },
+      {
+        "id": 2,
+        "en": "According to the report, the numbers are accurate.",
+        "ar": "حسب التقرير، الأرقام دقيقة.",
+        "context": "تستخدم المصدر نفسه مع وصف مشابه."
+      },
+      {
+        "id": 3,
+        "en": "According to the data, the results are correct.",
+        "ar": "حسب البيانات، النتائج صحيحة.",
+        "context": "تغير مصدر المعلومة إلى بيانات."
+      },
+      {
+        "id": 4,
+        "en": "According to the report, the result is correct.",
+        "ar": "حسب التقرير، النتيجة صحيحة.",
+        "context": "تتحدث عن نتيجة واحدة."
+      },
+      {
+        "id": 5,
+        "en": "The results are correct according to the report.",
+        "ar": "النتائج صحيحة حسب التقرير.",
+        "context": "تضع عبارة المصدر في نهاية الجملة."
+      },
+      {
+        "id": 6,
+        "en": "According to the report, the results are not correct.",
+        "ar": "حسب التقرير، النتائج غير صحيحة.",
+        "context": "تنفي صحة النتائج."
+      },
+      {
+        "id": 7,
+        "en": "Are the results correct according to the report?",
+        "ar": "هل النتائج صحيحة حسب التقرير؟",
+        "context": "تسأل عن صحة النتائج بناء على التقرير."
+      },
+      {
+        "id": 8,
+        "en": "According to the first report, the results are correct.",
+        "ar": "حسب التقرير الأول، النتائج صحيحة.",
+        "context": "تحدد أي تقرير تقصد."
+      },
+      {
+        "id": 9,
+        "en": "According to the report, the results were correct yesterday.",
+        "ar": "حسب التقرير، كانت النتائج صحيحة أمس.",
+        "context": "تنقل الحكم إلى الماضي."
+      },
+      {
+        "id": 10,
+        "en": "According to the report, these results are correct.",
+        "ar": "حسب التقرير، هذه النتائج صحيحة.",
+        "context": "تشير إلى نتائج قريبة أو معروضة أمامك."
+      }
+    ]
+  }
+}
