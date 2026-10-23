@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": 505,
+  "sentence": {
+    "en": "Are you American?",
+    "ar": "هل أنت أمريكي؟",
+    "context": "السؤال عن جنسية الشخص."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Are you American?",
+        "ar": "هل أنت أمريكي؟",
+        "context": "سؤال عن جنسية الشخص أو أصله.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "Are يصف حالة أو هوية حالية للشخص."
+        },
+        "wordMeanings": [
+          {
+            "term": "Are",
+            "description": "تستخدم للسؤال عن حالة أو صفة مع المخاطب."
+          },
+          {
+            "term": "you",
+            "description": "تشير إلى الشخص المخاطب."
+          },
+          {
+            "term": "American",
+            "description": "تعني أمريكي أو من أمريكا."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Are you Canadian?",
+        "ar": "هل أنت كندي؟",
+        "context": "سؤال عن جنسية أخرى."
+      },
+      {
+        "id": 2,
+        "en": "I am American.",
+        "ar": "أنا أمريكي.",
+        "context": "إجابة عن الجنسية."
+      },
+      {
+        "id": 3,
+        "en": "She is American.",
+        "ar": "هي أمريكية.",
+        "context": "ذكر جنسية شخص."
+      },
+      {
+        "id": 4,
+        "en": "Are they American?",
+        "ar": "هل هم أمريكيون؟",
+        "context": "سؤال عن جنسية مجموعة."
+      },
+      {
+        "id": 5,
+        "en": "He is not American.",
+        "ar": "هو ليس أمريكيًا.",
+        "context": "نفي جنسية."
+      },
+      {
+        "id": 6,
+        "en": "Where are you from?",
+        "ar": "من أين أنت؟",
+        "context": "سؤال عن الأصل."
+      },
+      {
+        "id": 7,
+        "en": "Are you from America?",
+        "ar": "هل أنت من أمريكا؟",
+        "context": "صيغة أخرى للسؤال."
+      },
+      {
+        "id": 8,
+        "en": "We are American tourists.",
+        "ar": "نحن سياح أمريكيون.",
+        "context": "وصف مجموعة."
+      },
+      {
+        "id": 9,
+        "en": "Is your friend American?",
+        "ar": "هل صديقك أمريكي؟",
+        "context": "سؤال عن جنسية صديق."
+      },
+      {
+        "id": 10,
+        "en": "I am from America.",
+        "ar": "أنا من أمريكا.",
+        "context": "ذكر بلد الأصل."
+      }
+    ]
+  }
+}

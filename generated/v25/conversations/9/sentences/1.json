@@ -1,0 +1,131 @@
+{
+  "schemaVersion": 1,
+  "id": 1,
+  "sentence": {
+    "en": "Good morning! Do you have fresh apples today?",
+    "ar": "صباح الخير! هل لديك تفاح طازج اليوم؟",
+    "context": "زبون يسأل البائع في السوق عن التفاح"
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Good morning!",
+        "ar": "صباح الخير!",
+        "context": "يفتتح بها المتحدث الكلام قبل الدخول في الفكرة الأساسية.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه تحية صباحية وليست جملة فعلية لها زمن مستقل."
+        },
+        "wordMeanings": [
+          {
+            "term": "Good",
+            "description": "جزء من تحية مهذبة في بداية اليوم."
+          },
+          {
+            "term": "morning",
+            "description": "الصباح، وتكمل عبارة التحية."
+          }
+        ]
+      },
+      {
+        "sentence": "Do you have fresh apples today?",
+        "ar": "هل لديك تفاح طازج اليوم؟",
+        "context": "يُستخدم هذا السؤال لطلب المعلومة المقصودة في هذا الموقف.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُعمل المضارع البسيط للسؤال عن توفر التفاح الطازج عند البائع اليوم."
+        },
+        "wordMeanings": [
+          {
+            "term": "Do",
+            "description": "فعل مساعد يبدأ سؤالًا في المضارع البسيط."
+          },
+          {
+            "term": "you",
+            "description": "ضمير المخاطب، ويشير إلى البائع."
+          },
+          {
+            "term": "have",
+            "description": "تعني لديك أو تبيع في هذا السياق."
+          },
+          {
+            "term": "fresh",
+            "description": "طازج أو جديد وغير قديم."
+          },
+          {
+            "term": "apples",
+            "description": "تفاح، بصيغة الجمع."
+          },
+          {
+            "term": "today",
+            "description": "هذا اليوم."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Do you have fresh oranges today?",
+        "ar": "هل لديك برتقال طازج اليوم؟",
+        "context": "تسأل بائعًا عن فاكهة متوفرة."
+      },
+      {
+        "id": 2,
+        "en": "Good morning! Do you have fresh bread?",
+        "ar": "صباح الخير! هل لديك خبز طازج؟",
+        "context": "تسأل في مخبز أو سوق."
+      },
+      {
+        "id": 3,
+        "en": "Do you have red apples today?",
+        "ar": "هل لديك تفاح أحمر اليوم؟",
+        "context": "تسأل عن نوع محدد من التفاح."
+      },
+      {
+        "id": 4,
+        "en": "Do you have fresh fruit this morning?",
+        "ar": "هل لديك فاكهة طازجة هذا الصباح؟",
+        "context": "تسأل عن الفاكهة بشكل عام."
+      },
+      {
+        "id": 5,
+        "en": "Good morning! Are these apples fresh?",
+        "ar": "صباح الخير! هل هذا التفاح طازج؟",
+        "context": "تسأل عن جودة التفاح الموجود."
+      },
+      {
+        "id": 6,
+        "en": "Do you have fresh apples for sale?",
+        "ar": "هل لديك تفاح طازج للبيع؟",
+        "context": "تسأل عن توفر الشراء."
+      },
+      {
+        "id": 7,
+        "en": "Do you have any green apples today?",
+        "ar": "هل لديك أي تفاح أخضر اليوم؟",
+        "context": "تسأل عن لون محدد."
+      },
+      {
+        "id": 8,
+        "en": "Good morning! I need fresh apples.",
+        "ar": "صباح الخير! أحتاج إلى تفاح طازج.",
+        "context": "تبدأ طلبك مباشرة في السوق."
+      },
+      {
+        "id": 9,
+        "en": "Do you have fresh vegetables today?",
+        "ar": "هل لديك خضروات طازجة اليوم؟",
+        "context": "تستخدم نفس السؤال مع الخضروات."
+      },
+      {
+        "id": 10,
+        "en": "Do you have apples from the local farm?",
+        "ar": "هل لديك تفاح من المزرعة المحلية؟",
+        "context": "تسأل عن مصدر التفاح."
+      }
+    ]
+  }
+}

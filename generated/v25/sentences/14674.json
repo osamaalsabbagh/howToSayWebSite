@@ -1,0 +1,113 @@
+{
+  "schemaVersion": 1,
+  "id": 14674,
+  "sentence": {
+    "en": "The teacher is counting the students.",
+    "ar": "المعلمة تعد الطلاب.",
+    "context": "رحلة مدرسية تحصي فيها المعلمة الطلاب في الحافلة واحدًا واحدًا لتعرف عددهم.",
+    "sourceWord": "count",
+    "sourcePos": "v."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "The teacher is counting the students.",
+        "ar": "المعلمة تعد الطلاب.",
+        "context": "رحلة مدرسية تتأكد فيها المعلمة من وجود الجميع في الحافلة.",
+        "grammar": {
+          "tense": "المضارع المستمر",
+          "tenseEn": "Present Continuous",
+          "reason": "المضارع المستمر يصف فعلًا جاريًا الآن."
+        },
+        "wordMeanings": [
+          {
+            "term": "The",
+            "description": "أداة تعريف"
+          },
+          {
+            "term": "teacher",
+            "description": "المعلمة"
+          },
+          {
+            "term": "is",
+            "description": "فعل مساعد مع المفرد يدل على فعل جارٍ"
+          },
+          {
+            "term": "counting",
+            "description": "تعد؛ تحسب العدد"
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف"
+          },
+          {
+            "term": "students",
+            "description": "الطلاب"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "The teacher is counting the students.",
+        "ar": "المعلمة تعد الطلاب.",
+        "context": "رحلة مدرسية تتأكد فيها المعلمة من وجود الجميع في الحافلة."
+      },
+      {
+        "id": 2,
+        "en": "Can your son count to ten?",
+        "ar": "هل يستطيع ابنك العد حتى عشرة؟",
+        "context": "طفولة."
+      },
+      {
+        "id": 3,
+        "en": "I counted the money twice.",
+        "ar": "أنا عددت المال مرتين.",
+        "context": "مال."
+      },
+      {
+        "id": 4,
+        "en": "Every vote counts.",
+        "ar": "كل صوت مهم.",
+        "context": "انتخابات."
+      },
+      {
+        "id": 5,
+        "en": "You can count on me.",
+        "ar": "أنت تستطيع الاعتماد عليّ.",
+        "context": "صداقة."
+      },
+      {
+        "id": 6,
+        "en": "She is counting the days until the trip.",
+        "ar": "هي تعد الأيام حتى الرحلة.",
+        "context": "انتظار."
+      },
+      {
+        "id": 7,
+        "en": "That goal did not count.",
+        "ar": "ذلك الهدف لم يُحتسب.",
+        "context": "رياضة."
+      },
+      {
+        "id": 8,
+        "en": "Count the chairs before the guests arrive.",
+        "ar": "عدّ الكراسي قبل وصول الضيوف.",
+        "context": "حفلة."
+      },
+      {
+        "id": 9,
+        "en": "He counts calories carefully.",
+        "ar": "هو يحسب السعرات الحرارية بعناية.",
+        "context": "حمية."
+      },
+      {
+        "id": 10,
+        "en": "We counted twenty birds on the lake.",
+        "ar": "نحن عددنا عشرين طائرًا على البحيرة.",
+        "context": "طبيعة."
+      }
+    ]
+  }
+}

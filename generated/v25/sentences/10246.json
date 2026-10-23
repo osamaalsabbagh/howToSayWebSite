@@ -1,0 +1,117 @@
+{
+  "schemaVersion": 1,
+  "id": 10246,
+  "sentence": {
+    "en": "I forgot the password for the tablet.",
+    "ar": "أنا نسيت كلمة مرور الجهاز اللوحي.",
+    "context": "وصف عدم تذكر سابق لرمز يتيح استخدام جهاز دون افتراض ملكيته.",
+    "sourceWord": "password",
+    "sourcePos": "n."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "I forgot the password for the tablet.",
+        "ar": "أنا نسيت كلمة مرور الجهاز اللوحي.",
+        "context": "وصف عدم تذكر سابق لرمز يتيح استخدام جهاز دون افتراض ملكيته.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "تصف forgot نسيانًا حدث سابقًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "أنا؛ ضمير المتكلم المفرد"
+          },
+          {
+            "term": "forgot",
+            "description": "نسيت؛ لم أعد أتذكر."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف للكلمة"
+          },
+          {
+            "term": "password",
+            "description": "كلمة مرور؛ رمز يتيح الدخول إلى جهاز هنا."
+          },
+          {
+            "term": "for",
+            "description": "لـ"
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف للجهاز"
+          },
+          {
+            "term": "tablet",
+            "description": "جهاز لوحي"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I forgot the password for the tablet.",
+        "ar": "أنا نسيت كلمة مرور الجهاز اللوحي.",
+        "context": "وصف عدم تذكر سابق لرمز يتيح استخدام جهاز دون افتراض ملكيته."
+      },
+      {
+        "id": 2,
+        "en": "The website asks for a password.",
+        "ar": "الموقع يطلب كلمة مرور.",
+        "context": "وصف خطوة للتحقق من صلاحية دخول."
+      },
+      {
+        "id": 3,
+        "en": "She typed the password into the wrong field.",
+        "ar": "هي كتبت كلمة المرور في الخانة الخطأ.",
+        "context": "وصف إدخال سابق لمعلومة في موضع غير مخصص لها."
+      },
+      {
+        "id": 4,
+        "en": "We have reset the account password.",
+        "ar": "نحن قد أعدنا تعيين كلمة مرور الحساب.",
+        "context": "الإبلاغ عن تغيير مكتمل لرمز دخول."
+      },
+      {
+        "id": 5,
+        "en": "The administrator is configuring the password policy.",
+        "ar": "مسؤول النظام يضبط سياسة كلمات المرور.",
+        "context": "وصف عمل تقني جارٍ لتحديد قواعد قبول رموز الدخول."
+      },
+      {
+        "id": 6,
+        "en": "The system will request a password at startup.",
+        "ar": "النظام سيطلب كلمة مرور عند بدء التشغيل.",
+        "context": "توقع إجراء تحقق عند تشغيل جهاز."
+      },
+      {
+        "id": 7,
+        "en": "Please enter the temporary password.",
+        "ar": "من فضلك أدخل كلمة المرور المؤقتة.",
+        "context": "طلب استخدام رمز دخول صالح بصورة غير دائمة."
+      },
+      {
+        "id": 8,
+        "en": "The password field hides the characters.",
+        "ar": "خانة كلمة المرور تخفي المحارف.",
+        "context": "وصف عرض إدخال لا يظهر الرموز المكتوبة مباشرة."
+      },
+      {
+        "id": 9,
+        "en": "The message contained a password reset link.",
+        "ar": "الرسالة احتوت على رابط لإعادة تعيين كلمة المرور.",
+        "context": "وصف محتوى سابق لرسالة دون الحكم على موثوقيتها."
+      },
+      {
+        "id": 10,
+        "en": "The app supports password managers.",
+        "ar": "التطبيق يدعم برامج إدارة كلمات المرور.",
+        "context": "وصف توافق تقني مع أدوات لحفظ بيانات الدخول."
+      }
+    ]
+  }
+}

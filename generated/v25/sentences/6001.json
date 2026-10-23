@@ -1,0 +1,109 @@
+{
+  "schemaVersion": 1,
+  "id": 6001,
+  "sentence": {
+    "en": "He studied photography in college.",
+    "ar": "هو درس التصوير الفوتوغرافي في الكلية.",
+    "context": "وصف دراسة سابقة لمجال التقاط الصور في مؤسسة تعليم عالٍ.",
+    "sourceWord": "photography",
+    "sourcePos": "n."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "He studied photography in college.",
+        "ar": "هو درس التصوير الفوتوغرافي في الكلية.",
+        "context": "وصف دراسة سابقة لمجال التقاط الصور في مؤسسة تعليم عالٍ.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "تصف studied دراسة حدثت سابقًا، ولا تحدد الجملة ما إذا كان التصوير تخصص الرجل الرئيسي."
+        },
+        "wordMeanings": [
+          {
+            "term": "He",
+            "description": "هو؛ ضمير الفاعل للمفرد المذكر الغائب."
+          },
+          {
+            "term": "studied",
+            "description": "درس."
+          },
+          {
+            "term": "photography",
+            "description": "التصوير الفوتوغرافي؛ فن التقاط الصور."
+          },
+          {
+            "term": "in",
+            "description": "في؛ تدل على المكان."
+          },
+          {
+            "term": "college",
+            "description": "الكلية؛ مؤسسة أو مرحلة من التعليم العالي بعد الثانوية هنا."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "He studied photography in college.",
+        "ar": "هو درس التصوير الفوتوغرافي في الكلية.",
+        "context": "وصف دراسة سابقة لمجال التقاط الصور في مؤسسة تعليم عالٍ."
+      },
+      {
+        "id": 2,
+        "en": "Photography is her hobby.",
+        "ar": "التصوير الفوتوغرافي هو هوايتها.",
+        "context": "وصف التقاط الصور بوصفه نشاطًا تمارسه امرأة للمتعة."
+      },
+      {
+        "id": 3,
+        "en": "The museum opened an exhibition of street photography.",
+        "ar": "المتحف افتتح معرضًا للتصوير الفوتوغرافي في الشوارع.",
+        "context": "وصف عرض سابق لصور ترصد الحياة في الأماكن العامة."
+      },
+      {
+        "id": 4,
+        "en": "The course covers the basics of digital photography.",
+        "ar": "المقرر يغطي أساسيات التصوير الفوتوغرافي الرقمي.",
+        "context": "وصف تعلم مبادئ إنتاج صور باستخدام تقنية رقمية."
+      },
+      {
+        "id": 5,
+        "en": "We have used aerial photography to document the site.",
+        "ar": "نحن قد استخدمنا التصوير الجوي لتوثيق الموقع.",
+        "context": "الإبلاغ عن تسجيل مكتمل لمكان بواسطة صور ملتقطة من أعلى."
+      },
+      {
+        "id": 6,
+        "en": "The team is experimenting with underwater photography.",
+        "ar": "الفريق يجرب التصوير الفوتوغرافي تحت الماء.",
+        "context": "وصف تجربة جارية لالتقاط صور في بيئة مغمورة."
+      },
+      {
+        "id": 7,
+        "en": "The magazine will feature wildlife photography.",
+        "ar": "المجلة ستعرض تصويرًا فوتوغرافيًا للحياة البرية.",
+        "context": "توقع نشر صور لحيوانات أو كائنات في الطبيعة."
+      },
+      {
+        "id": 8,
+        "en": "Photography is not allowed inside the archive.",
+        "ar": "التصوير الفوتوغرافي غير مسموح داخل الأرشيف.",
+        "context": "وصف قاعدة تمنع التقاط الصور في مكان لحفظ الوثائق."
+      },
+      {
+        "id": 9,
+        "en": "The lighting changed my approach to portrait photography.",
+        "ar": "الإضاءة غيرت أسلوبي في التصوير الشخصي.",
+        "context": "وصف أثر سابق للضوء في طريقة تصوير المتكلم للأشخاص."
+      },
+      {
+        "id": 10,
+        "en": "The studio specializes in food photography.",
+        "ar": "الاستوديو متخصص في تصوير الطعام.",
+        "context": "وصف مجال عمل يعتمد على عرض مأكولات في صور."
+      }
+    ]
+  }
+}

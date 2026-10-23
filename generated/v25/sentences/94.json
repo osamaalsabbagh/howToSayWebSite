@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": 94,
+  "sentence": {
+    "en": "Please fill out this form.",
+    "ar": "يرجى تعبئة هذا النموذج.",
+    "context": "اطلب تعبئة نموذج."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Please fill out this form.",
+        "ar": "يرجى تعبئة هذا النموذج.",
+        "context": "تُستخدم لتوجيه طلب أو تعليم مباشر في هذا الموقف.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه صيغة طلب مهذب، والتعبير fill out يعني تعبئة النموذج بالمعلومات، ولا تحمل الجملة زمنًا مستقلًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "Please",
+            "description": "كلمة تجعل الطلب مهذبًا."
+          },
+          {
+            "term": "fill",
+            "description": "جزء من تعبير يعني تعبئة الخانات بالمعلومات."
+          },
+          {
+            "term": "out",
+            "description": "جزء من التعبير الذي يعني إكمال نموذج بالمعلومات."
+          },
+          {
+            "term": "this",
+            "description": "هذا، وتشير إلى شيء قريب أو مقدم للمخاطب."
+          },
+          {
+            "term": "form",
+            "description": "نموذج أو ورقة تحتوي على خانات للمعلومات."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Please fill out this application.",
+        "ar": "يرجى تعبئة هذا الطلب.",
+        "context": "تقال عند طلب إكمال طلب رسمي."
+      },
+      {
+        "id": 2,
+        "en": "Please write your name here.",
+        "ar": "يرجى كتابة اسمك هنا.",
+        "context": "تقال عند توجيه شخص لكتابة اسمه."
+      },
+      {
+        "id": 3,
+        "en": "Please fill in this box.",
+        "ar": "يرجى تعبئة هذا المربع.",
+        "context": "تقال عند طلب كتابة معلومة في خانة محددة."
+      },
+      {
+        "id": 4,
+        "en": "Please complete the form.",
+        "ar": "يرجى إكمال النموذج.",
+        "context": "تقال عند طلب إنهاء نموذج ناقص."
+      },
+      {
+        "id": 5,
+        "en": "Please sign this form.",
+        "ar": "يرجى توقيع هذا النموذج.",
+        "context": "تقال عند طلب توقيع ورقة رسمية."
+      },
+      {
+        "id": 6,
+        "en": "Please fill out the form before noon.",
+        "ar": "يرجى تعبئة النموذج قبل الظهر.",
+        "context": "تقال عند تحديد موعد لتسليم النموذج."
+      },
+      {
+        "id": 7,
+        "en": "Please add your address.",
+        "ar": "يرجى إضافة عنوانك.",
+        "context": "تقال عند نقص معلومة في نموذج."
+      },
+      {
+        "id": 8,
+        "en": "Please answer every question.",
+        "ar": "يرجى الإجابة عن كل سؤال.",
+        "context": "تقال عند شرح طريقة إكمال نموذج."
+      },
+      {
+        "id": 9,
+        "en": "Please print your phone number.",
+        "ar": "يرجى كتابة رقم هاتفك بوضوح.",
+        "context": "تقال عند طلب كتابة رقم واضح."
+      },
+      {
+        "id": 10,
+        "en": "Please give the form to the clerk.",
+        "ar": "يرجى إعطاء النموذج للموظف.",
+        "context": "تقال بعد إكمال النموذج."
+      }
+    ]
+  }
+}

@@ -1,0 +1,147 @@
+{
+  "schemaVersion": 1,
+  "id": 19,
+  "sentence": {
+    "en": "Right, I forgot. These days, nothing surprises me anymore.",
+    "ar": "صحيح، أنا نسيت. هذه الأيام لاشيء يدهشني بعد الآن.",
+    "context": "يعلق ساخرًا على غرابة هذا العصر."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Right",
+        "ar": "صحيح.",
+        "context": "اعتراف ساخر أو موافقة قصيرة.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "كلمة جوابية ولا تحمل زمنًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "Right",
+            "description": "صحيح أو نعم"
+          }
+        ]
+      },
+      {
+        "sentence": "I forgot",
+        "ar": "نسيت.",
+        "context": "يقولها مازحًا كأنه نسي طبيعة العصر الحديث.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "forgot فعل ماض يصف نسيانًا حدث قبل التعليق."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "أنا"
+          },
+          {
+            "term": "forgot",
+            "description": "نسيت"
+          }
+        ]
+      },
+      {
+        "sentence": "These days nothing surprises me anymore",
+        "ar": "هذه الأيام لا شيء يدهشني بعد الآن.",
+        "context": "تعليق ساخر بأن الأشياء الغريبة أصبحت عادية.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "surprises يصف شعورًا عامًا متكررًا في هذه الأيام."
+        },
+        "wordMeanings": [
+          {
+            "term": "These",
+            "description": "هذه"
+          },
+          {
+            "term": "days",
+            "description": "أيام"
+          },
+          {
+            "term": "nothing",
+            "description": "لا شيء"
+          },
+          {
+            "term": "surprises",
+            "description": "يدهش أو يفاجئ"
+          },
+          {
+            "term": "me",
+            "description": "ني أو أنا كمفعول"
+          },
+          {
+            "term": "anymore",
+            "description": "بعد الآن"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Right, I forgot the list",
+        "ar": "صحيح، نسيت القائمة",
+        "context": "يقال عند تذكر شيء منسي"
+      },
+      {
+        "id": 2,
+        "en": "These days, everything changes fast",
+        "ar": "هذه الأيام، كل شيء يتغير بسرعة",
+        "context": "يقال عن العصر الحديث"
+      },
+      {
+        "id": 3,
+        "en": "Nothing surprises me now",
+        "ar": "لا شيء يدهشني الآن",
+        "context": "يقال بعد رؤية أشياء غريبة كثيرة"
+      },
+      {
+        "id": 4,
+        "en": "I forgot about the CD",
+        "ar": "نسيت أمر القرص",
+        "context": "يقال عند تذكر تفصيل"
+      },
+      {
+        "id": 5,
+        "en": "These days cats have music",
+        "ar": "هذه الأيام لدى القطط موسيقى",
+        "context": "يقال على سبيل المزاح"
+      },
+      {
+        "id": 6,
+        "en": "That does not surprise me anymore",
+        "ar": "ذلك لا يدهشني بعد الآن",
+        "context": "يقال عند الاعتياد على شيء غريب"
+      },
+      {
+        "id": 7,
+        "en": "Right, that makes sense",
+        "ar": "صحيح، هذا منطقي",
+        "context": "يقال عند فهم تفسير"
+      },
+      {
+        "id": 8,
+        "en": "I forgot how modern stores are",
+        "ar": "نسيت كم أصبحت المتاجر حديثة",
+        "context": "يقال بتعجب"
+      },
+      {
+        "id": 9,
+        "en": "Nothing feels strange anymore",
+        "ar": "لا شيء يبدو غريبًا بعد الآن",
+        "context": "يقال بسخرية عن كثرة الغرائب"
+      },
+      {
+        "id": 10,
+        "en": "These days, pets get everything",
+        "ar": "هذه الأيام تحصل الحيوانات الأليفة على كل شيء",
+        "context": "يقال مازحًا عن منتجات الحيوانات"
+      }
+    ]
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "schemaVersion": 1,
+  "id": 10539,
+  "sentence": {
+    "en": "I test the temperature sensor.",
+    "ar": "أنا أختبر مستشعر درجة الحرارة.",
+    "context": "وصف مهمة معتادة للتحقق من جهاز يقيس الحرارة.",
+    "sourceWord": "sensor",
+    "sourcePos": "n."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "I test the temperature sensor.",
+        "ar": "أنا أختبر مستشعر درجة الحرارة.",
+        "context": "وصف مهمة معتادة للتحقق من جهاز يقيس الحرارة.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "تصف test مهمة اختبار معتادة."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "أنا؛ ضمير المتكلم المفرد"
+          },
+          {
+            "term": "test",
+            "description": "أختبر؛ أتحقق من الأداء."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف للمستشعر"
+          },
+          {
+            "term": "temperature",
+            "description": "درجة حرارة؛ ما يقاس"
+          },
+          {
+            "term": "sensor",
+            "description": "مستشعر؛ جهاز لقياس الحرارة هنا."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I test the temperature sensor.",
+        "ar": "أنا أختبر مستشعر درجة الحرارة.",
+        "context": "وصف مهمة معتادة للتحقق من جهاز يقيس الحرارة."
+      },
+      {
+        "id": 2,
+        "en": "The sensor detects changes in light.",
+        "ar": "المستشعر يرصد تغيرات الضوء.",
+        "context": "وصف وظيفة أداة تستجيب لمقدار في البيئة."
+      },
+      {
+        "id": 3,
+        "en": "She replaced a faulty sensor.",
+        "ar": "هي استبدلت مستشعرًا معطلًا.",
+        "context": "وصف تغيير سابق لجزء لا يعمل كما ينبغي."
+      },
+      {
+        "id": 4,
+        "en": "We have calibrated the pressure sensor.",
+        "ar": "نحن قد عايرنا مستشعر الضغط.",
+        "context": "تأكيد ضبط مكتمل لدقة أداة قياس."
+      },
+      {
+        "id": 5,
+        "en": "The engineer is connecting the sensor to the controller.",
+        "ar": "المهندس يوصل المستشعر بوحدة التحكم.",
+        "context": "وصف ربط جارٍ بين قياس وتحكم."
+      },
+      {
+        "id": 6,
+        "en": "The sensor will transmit data every minute.",
+        "ar": "المستشعر سيرسل بيانات كل دقيقة.",
+        "context": "توقع طريقة دورية لنقل قياسات."
+      },
+      {
+        "id": 7,
+        "en": "Please record the sensor readings.",
+        "ar": "من فضلك سجل قراءات المستشعر.",
+        "context": "طلب توثيق بيانات من جهاز."
+      },
+      {
+        "id": 8,
+        "en": "The camera uses a large image sensor.",
+        "ar": "الكاميرا تستخدم مستشعر صورة كبيرًا.",
+        "context": "وصف مكون يحول الضوء إلى بيانات صورة."
+      },
+      {
+        "id": 9,
+        "en": "The sensor triggered an alarm.",
+        "ar": "المستشعر أطلق إنذارًا.",
+        "context": "وصف استجابة سابقة لنظام رصد دون افتراض خطر مؤكد."
+      },
+      {
+        "id": 10,
+        "en": "The robot relies on several sensors to avoid obstacles.",
+        "ar": "الروبوت يعتمد على عدة مستشعرات لتجنب العوائق.",
+        "context": "وصف استخدام قياسات لتوجيه حركة آلة."
+      }
+    ]
+  }
+}

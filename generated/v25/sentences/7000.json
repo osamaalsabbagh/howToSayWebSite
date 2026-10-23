@@ -1,0 +1,137 @@
+{
+  "schemaVersion": 1,
+  "id": 7000,
+  "sentence": {
+    "en": "He has felt depressed since he lost his job.",
+    "ar": "هو يشعر بالاكتئاب منذ أن هو فقد وظيفته.",
+    "context": "وصف شعور بالحزن وانخفاض المعنويات بدأ عند فقد الوظيفة وما زال مستمرًا، دون تحديد سبب فقد العمل.",
+    "sourceWord": "depressed",
+    "sourcePos": "adj."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "He has felt depressed",
+        "ar": "هو يشعر بالاكتئاب",
+        "context": "وصف شعور بدأ سابقًا وما زال قائمًا.",
+        "grammar": {
+          "tense": "المضارع التام",
+          "tenseEn": "Present Perfect",
+          "reason": "تصف has felt شعورًا بدأ في الماضي واستمر حتى الآن؛ وتحدد عبارة since نقطة بدايته."
+        },
+        "wordMeanings": [
+          {
+            "term": "He",
+            "description": "هو."
+          },
+          {
+            "term": "has",
+            "description": "مساعد المضارع التام مع المفرد."
+          },
+          {
+            "term": "felt",
+            "description": "يشعر؛ التصريف الثالث لفعل شعر."
+          },
+          {
+            "term": "depressed",
+            "description": "مكتئبًا؛ في حالة حزن وانخفاض في المعنويات."
+          }
+        ]
+      },
+      {
+        "sentence": "since he lost his job.",
+        "ar": "منذ أن هو فقد وظيفته.",
+        "context": "تحديد فقد الوظيفة بوصفه بداية الفترة المذكورة.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "الماضي البسيط يصف حدثًا انتهى."
+        },
+        "wordMeanings": [
+          {
+            "term": "since",
+            "description": "منذ أن."
+          },
+          {
+            "term": "he",
+            "description": "هو."
+          },
+          {
+            "term": "lost",
+            "description": "فقد."
+          },
+          {
+            "term": "his",
+            "description": "ضمير ملكية للمفرد المذكر الغائب."
+          },
+          {
+            "term": "job",
+            "description": "وظيفته."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "He has felt depressed since he lost his job.",
+        "ar": "هو يشعر بالاكتئاب منذ أن هو فقد وظيفته.",
+        "context": "وصف شعور بالحزن وانخفاض المعنويات بدأ عند فقد الوظيفة وما زال مستمرًا، دون تحديد سبب فقد العمل."
+      },
+      {
+        "id": 2,
+        "en": "The housing market was depressed for months.",
+        "ar": "سوق الإسكان كانت راكدة لأشهر.",
+        "context": "وصف فترة سابقة من ضعف النشاط في بيع المساكن وشرائها، لا حالة نفسية لشخص."
+      },
+      {
+        "id": 3,
+        "en": "She felt depressed after reading the letter.",
+        "ar": "هي شعرت بالاكتئاب بعد قراءة الرسالة.",
+        "context": "وصف أثر عاطفي سابق لمراسلة دون تحديد مضمونها."
+      },
+      {
+        "id": 4,
+        "en": "The character seems depressed in this scene.",
+        "ar": "الشخصية تبدو مكتئبة في هذا المشهد.",
+        "context": "وصف انطباع عن مزاج شخصية في عمل فني."
+      },
+      {
+        "id": 5,
+        "en": "We have noticed depressed prices in the fictional market.",
+        "ar": "نحن قد لاحظنا أسعارًا منخفضة في السوق الخيالية.",
+        "context": "وصف أسعار ضعيفة في حالة اقتصادية متخيلة."
+      },
+      {
+        "id": 6,
+        "en": "The depressed button sits below the surface.",
+        "ar": "الزر المضغوط يقع تحت مستوى السطح.",
+        "context": "وصف موضع زر دُفع إلى الداخل، لا شعور نفسي."
+      },
+      {
+        "id": 7,
+        "en": "The town had a depressed economy in the story.",
+        "ar": "البلدة كان لديها اقتصاد راكد في القصة.",
+        "context": "وصف ضعف نشاط اقتصادي ضمن حكاية."
+      },
+      {
+        "id": 8,
+        "en": "He looked depressed after the interview.",
+        "ar": "هو بدا مكتئبًا بعد المقابلة.",
+        "context": "وصف مظهر سابق يوحي بانخفاض المعنويات دون افتراض نتيجة المقابلة."
+      },
+      {
+        "id": 9,
+        "en": "Please keep the pedal depressed.",
+        "ar": "من فضلك أبقِ الدواسة مضغوطة.",
+        "context": "طلب استمرار الضغط على جزء يُشغّل بالقدم."
+      },
+      {
+        "id": 10,
+        "en": "The sketch shows a depressed area in the center.",
+        "ar": "الرسم التخطيطي يظهر منطقة منخفضة في الوسط.",
+        "context": "وصف انخفاض في سطح مقارنة بما حوله."
+      }
+    ]
+  }
+}

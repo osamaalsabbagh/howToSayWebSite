@@ -1,0 +1,115 @@
+{
+  "schemaVersion": 1,
+  "id": 1030,
+  "sentence": {
+    "en": "Can I book a room for tonight?",
+    "ar": "هل يمكنني حجز غرفة لليلة؟",
+    "context": "تُستخدم عند طلب حجز غرفة لليلة نفسها."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Can I book a room for tonight",
+        "ar": "هل يمكنني حجز غرفة لليلة",
+        "context": "تُستخدم في فندق للسؤال عن إمكانية حجز غرفة لهذه الليلة.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "السؤال يستخدم Can I لطلب الإذن أو الإمكانية، وليس للتعبير عن زمن مستقل."
+        },
+        "wordMeanings": [
+          {
+            "term": "Can",
+            "description": "هل يمكن، للسؤال عن إمكانية"
+          },
+          {
+            "term": "I",
+            "description": "ضمير يشير إلى المتكلم"
+          },
+          {
+            "term": "book",
+            "description": "أحجز"
+          },
+          {
+            "term": "a",
+            "description": "أداة تشير إلى غرفة واحدة غير محددة"
+          },
+          {
+            "term": "room",
+            "description": "غرفة"
+          },
+          {
+            "term": "for",
+            "description": "لـ، وتبين وقت الحجز"
+          },
+          {
+            "term": "tonight",
+            "description": "هذه الليلة"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Can I book a room for two nights?",
+        "ar": "هل يمكنني حجز غرفة لليلتين؟",
+        "context": "تُستخدم لتحديد مدة الحجز."
+      },
+      {
+        "id": 2,
+        "en": "Can I book a single room?",
+        "ar": "هل يمكنني حجز غرفة مفردة؟",
+        "context": "تُستخدم في فندق."
+      },
+      {
+        "id": 3,
+        "en": "Can I book a room for tomorrow?",
+        "ar": "هل يمكنني حجز غرفة للغد؟",
+        "context": "تُستخدم لحجز مسبق."
+      },
+      {
+        "id": 4,
+        "en": "Do you have a room for tonight?",
+        "ar": "هل لديكم غرفة لهذه الليلة؟",
+        "context": "تُستخدم للسؤال عن التوفر."
+      },
+      {
+        "id": 5,
+        "en": "I would like to book a room.",
+        "ar": "أود حجز غرفة.",
+        "context": "تُستخدم كطلب مهذب."
+      },
+      {
+        "id": 6,
+        "en": "Can I reserve a room?",
+        "ar": "هل يمكنني حجز غرفة؟",
+        "context": "تُستخدم بصيغة مشابهة."
+      },
+      {
+        "id": 7,
+        "en": "How much is a room for tonight?",
+        "ar": "كم سعر غرفة لهذه الليلة؟",
+        "context": "تُستخدم للسؤال عن السعر."
+      },
+      {
+        "id": 8,
+        "en": "Can I book a double room?",
+        "ar": "هل يمكنني حجز غرفة مزدوجة؟",
+        "context": "تُستخدم لاختيار نوع الغرفة."
+      },
+      {
+        "id": 9,
+        "en": "I need a room for tonight.",
+        "ar": "أحتاج إلى غرفة لهذه الليلة.",
+        "context": "تُستخدم عند الوصول دون حجز."
+      },
+      {
+        "id": 10,
+        "en": "Can I check in tonight?",
+        "ar": "هل يمكنني تسجيل الدخول الليلة؟",
+        "context": "تُستخدم عند ترتيب الإقامة."
+      }
+    ]
+  }
+}

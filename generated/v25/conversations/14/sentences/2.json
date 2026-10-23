@@ -1,0 +1,147 @@
+{
+  "schemaVersion": 1,
+  "id": 2,
+  "sentence": {
+    "en": "No, I do not have any. We need to buy new ones.",
+    "ar": "لا، ليس لدي أي منها. نحتاج أن نشتري واحدات جديدة.",
+    "context": "المقصود بواحدات جديدة هنا الخرائط، دون إعادة ذكرها صراحة."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "No, I do not have any.",
+        "ar": "لا، ليس لدي أي منها.",
+        "context": "تُستخدم لنفي وجود أي خرائط لدى المتكلم.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُخدم do not have لنفي الامتلاك في الوقت الحالي."
+        },
+        "wordMeanings": [
+          {
+            "term": "No",
+            "description": "لا، جواب نفي."
+          },
+          {
+            "term": "I",
+            "description": "ضمير يشير إلى المتكلم."
+          },
+          {
+            "term": "do",
+            "description": "تُستخدم مع النفي في المضارع البسيط."
+          },
+          {
+            "term": "not",
+            "description": "أداة نفي."
+          },
+          {
+            "term": "have",
+            "description": "أملك أو لدي."
+          },
+          {
+            "term": "any",
+            "description": "أي منها أو أي كمية."
+          }
+        ]
+      },
+      {
+        "sentence": "We need to buy new ones.",
+        "ar": "نحتاج أن نشتري واحدات جديدة.",
+        "context": "توضح الجملة الحل المقترح بعد عدم وجود الخرائط القديمة.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُخدم need للتعبير عن حاجة حالية، ثم to buy لبيان الفعل المطلوب."
+        },
+        "wordMeanings": [
+          {
+            "term": "We",
+            "description": "نحن."
+          },
+          {
+            "term": "need",
+            "description": "نحتاج."
+          },
+          {
+            "term": "to",
+            "description": "تربط الحاجة بالفعل المطلوب."
+          },
+          {
+            "term": "buy",
+            "description": "نشتري."
+          },
+          {
+            "term": "new",
+            "description": "جديدة."
+          },
+          {
+            "term": "ones",
+            "description": "أشياء بديلة من النوع نفسه، أي خرائط."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "No, I do not have any.",
+        "ar": "لا، ليس لدي أي منها.",
+        "context": "تُستخدم للرد على سؤال عن وجود شيء."
+      },
+      {
+        "id": 2,
+        "en": "We need to buy new tickets.",
+        "ar": "نحتاج إلى شراء تذاكر جديدة.",
+        "context": "تُستخدم عند عدم توفر التذاكر."
+      },
+      {
+        "id": 3,
+        "en": "We need to get new maps.",
+        "ar": "نحتاج إلى الحصول على خرائط جديدة.",
+        "context": "تُستخدم عند التخطيط لرحلة."
+      },
+      {
+        "id": 4,
+        "en": "No, I do not have any copies.",
+        "ar": "لا، ليس لدي أي نسخ.",
+        "context": "تُستخدم عند السؤال عن نسخ إضافية."
+      },
+      {
+        "id": 5,
+        "en": "We need to buy new batteries.",
+        "ar": "نحتاج إلى شراء بطاريات جديدة.",
+        "context": "تُستخدم عند نفاد البطاريات."
+      },
+      {
+        "id": 6,
+        "en": "No, I do not have any information.",
+        "ar": "لا، ليست لدي أي معلومات.",
+        "context": "تُستخدم لنفي وجود معلومات."
+      },
+      {
+        "id": 7,
+        "en": "We need to print new forms.",
+        "ar": "نحتاج إلى طباعة نماذج جديدة.",
+        "context": "تُستخدم عند عدم توفر النماذج."
+      },
+      {
+        "id": 8,
+        "en": "No, I do not have any left.",
+        "ar": "لا، لم يتبقَ لدي أي منها.",
+        "context": "تُستخدم عند انتهاء الكمية."
+      },
+      {
+        "id": 9,
+        "en": "We need to find new ones.",
+        "ar": "نحتاج إلى إيجاد أشياء جديدة بدلًا منها.",
+        "context": "تُستخدم عند فقدان أشياء قديمة."
+      },
+      {
+        "id": 10,
+        "en": "We need to buy a new guide.",
+        "ar": "نحتاج إلى شراء دليل جديد.",
+        "context": "تُستخدم في سياق السفر أو التخطيط."
+      }
+    ]
+  }
+}

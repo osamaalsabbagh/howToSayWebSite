@@ -1,0 +1,135 @@
+{
+  "schemaVersion": 1,
+  "id": 20,
+  "sentence": {
+    "en": "What about a cup of coffee before we leave?",
+    "ar": "ماذا عن فنجان قهوة قبل أن نغادر؟",
+    "context": "اقتراح شيء كخيار"
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "What about a cup of coffee",
+        "ar": "ماذا عن فنجان قهوة",
+        "context": "جزء يقدم اقتراحا بسيطا قبل الانتقال إلى الشرط الزمني.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "What about تعبير ثابت للاقتراح، ويتبعه اسم هنا وهو a cup of coffee."
+        },
+        "wordMeanings": [
+          {
+            "term": "What",
+            "description": "تأتي هنا ضمن تعبير اقتراح بمعنى ماذا عن."
+          },
+          {
+            "term": "about",
+            "description": "عن؛ تكمل تعبير الاقتراح."
+          },
+          {
+            "term": "a",
+            "description": "أداة نكرة تعني واحدا غير محدد."
+          },
+          {
+            "term": "cup",
+            "description": "فنجان أو كوب."
+          },
+          {
+            "term": "of",
+            "description": "تربط الفنجان بما يحتويه."
+          },
+          {
+            "term": "coffee",
+            "description": "قهوة؛ المشروب المقترح."
+          }
+        ]
+      },
+      {
+        "sentence": "before we leave?",
+        "ar": "قبل أن نغادر؟",
+        "context": "يحدد وقت الاقتراح بأنه قبل المغادرة.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "بعد before نستخدم المضارع البسيط للتحدث عن حدث مستقبلي في جملة زمنية."
+        },
+        "wordMeanings": [
+          {
+            "term": "before",
+            "description": "قبل حدوث شيء آخر."
+          },
+          {
+            "term": "we",
+            "description": "ضمير المتكلمين؛ يعني نحن."
+          },
+          {
+            "term": "leave",
+            "description": "نغادر أو نترك المكان."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "What about tea before we start?",
+        "ar": "ماذا عن الشاي قبل أن نبدأ؟",
+        "context": "اقتراح مشروب قبل نشاط."
+      },
+      {
+        "id": 2,
+        "en": "What about lunch before we go?",
+        "ar": "ماذا عن الغداء قبل أن نذهب؟",
+        "context": "اقتراح تناول الطعام قبل المغادرة."
+      },
+      {
+        "id": 3,
+        "en": "What about a short break before class?",
+        "ar": "ماذا عن استراحة قصيرة قبل الصف؟",
+        "context": "اقتراح راحة قبل الدرس."
+      },
+      {
+        "id": 4,
+        "en": "What about some water before the trip?",
+        "ar": "ماذا عن بعض الماء قبل الرحلة؟",
+        "context": "اقتراح شيء مفيد قبل السفر."
+      },
+      {
+        "id": 5,
+        "en": "What about a photo before we leave?",
+        "ar": "ماذا عن صورة قبل أن نغادر؟",
+        "context": "اقتراح التقاط صورة قبل الخروج."
+      },
+      {
+        "id": 6,
+        "en": "What about dessert after dinner?",
+        "ar": "ماذا عن الحلوى بعد العشاء؟",
+        "context": "اقتراح خيار إضافي بعد وجبة."
+      },
+      {
+        "id": 7,
+        "en": "What about a taxi before it rains?",
+        "ar": "ماذا عن سيارة أجرة قبل أن تمطر؟",
+        "context": "اقتراح عملي قبل تغير الجو."
+      },
+      {
+        "id": 8,
+        "en": "What about coffee after the meeting?",
+        "ar": "ماذا عن القهوة بعد الاجتماع؟",
+        "context": "اقتراح لقاء قصير بعد عمل."
+      },
+      {
+        "id": 9,
+        "en": "What about a call before you travel?",
+        "ar": "ماذا عن اتصال قبل أن تسافر؟",
+        "context": "اقتراح تواصل قبل السفر."
+      },
+      {
+        "id": 10,
+        "en": "What about breakfast before school?",
+        "ar": "ماذا عن الفطور قبل المدرسة؟",
+        "context": "اقتراح تناول شيء قبل الذهاب."
+      }
+    ]
+  }
+}

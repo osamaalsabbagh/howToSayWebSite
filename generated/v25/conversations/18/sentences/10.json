@@ -1,0 +1,127 @@
+{
+  "schemaVersion": 1,
+  "id": 10,
+  "sentence": {
+    "en": "If you want, we can go together.",
+    "ar": "إذا تريدين، يمكننا أن نذهب معًا.",
+    "context": "تقترح أن تذهبا معًا."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "If you want",
+        "ar": "إذا تريدين",
+        "context": "هذا الجزء يفتح الاقتراح بشرط لطيف يعتمد على رغبة المخاطبة.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "بعد if يستخدم المضارع البسيط للتعبير عن شرط حقيقي أو ممكن."
+        },
+        "wordMeanings": [
+          {
+            "term": "If",
+            "description": "تعني إذا وتقدم شرطا"
+          },
+          {
+            "term": "you",
+            "description": "ضمير المخاطب ويعني أنت"
+          },
+          {
+            "term": "want",
+            "description": "تعني تريد أو ترغب"
+          }
+        ]
+      },
+      {
+        "sentence": "we can go together.",
+        "ar": "يمكننا أن نذهب معا.",
+        "context": "هذا الجزء يقدم الاقتراح العملي بعد الشرط.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "can تعبر عن الإمكانية أو العرض، لذلك لا تحتاج إلى زمن مستقل مثل الأزمنة العادية."
+        },
+        "wordMeanings": [
+          {
+            "term": "we",
+            "description": "ضمير يعني نحن"
+          },
+          {
+            "term": "can",
+            "description": "تعني نستطيع أو يمكننا"
+          },
+          {
+            "term": "go",
+            "description": "تعني نذهب"
+          },
+          {
+            "term": "together",
+            "description": "تعني معا"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "If you want, we can eat together.",
+        "ar": "إذا تريد، يمكننا أن نأكل معا.",
+        "context": "تقترح مشاركة الطعام بلطف."
+      },
+      {
+        "id": 2,
+        "en": "If you want, we can study together.",
+        "ar": "إذا تريد، يمكننا أن ندرس معا.",
+        "context": "تعرض المساعدة أو المشاركة في الدراسة."
+      },
+      {
+        "id": 3,
+        "en": "If you want, we can wait here.",
+        "ar": "إذا تريد، يمكننا أن ننتظر هنا.",
+        "context": "تعطي خيارا للمخاطب."
+      },
+      {
+        "id": 4,
+        "en": "If you want, we can call him.",
+        "ar": "إذا تريد، يمكننا أن نتصل به.",
+        "context": "تقترح خطوة مشتركة."
+      },
+      {
+        "id": 5,
+        "en": "If you want, we can leave now.",
+        "ar": "إذا تريد، يمكننا أن نغادر الآن.",
+        "context": "تعرض قرارا مشتركا."
+      },
+      {
+        "id": 6,
+        "en": "If you want, we can meet later.",
+        "ar": "إذا تريد، يمكننا أن نلتقي لاحقا.",
+        "context": "تقترح وقتا آخر للقاء."
+      },
+      {
+        "id": 7,
+        "en": "If you want, we can buy tickets.",
+        "ar": "إذا تريد، يمكننا أن نشتري تذاكر.",
+        "context": "تعرض شراء شيء معا."
+      },
+      {
+        "id": 8,
+        "en": "If you want, we can take a taxi.",
+        "ar": "إذا تريد، يمكننا أن نأخذ سيارة أجرة.",
+        "context": "تقترح وسيلة نقل."
+      },
+      {
+        "id": 9,
+        "en": "If you want, we can ask Sara.",
+        "ar": "إذا تريد، يمكننا أن نسأل سارة.",
+        "context": "تقترح طلب رأي شخص."
+      },
+      {
+        "id": 10,
+        "en": "If you want, we can go tomorrow.",
+        "ar": "إذا تريد، يمكننا أن نذهب غدا.",
+        "context": "تعطي خيارا لوقت لاحق."
+      }
+    ]
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "schemaVersion": 1,
+  "id": 745,
+  "sentence": {
+    "en": "Do you know what this means?",
+    "ar": "هل تعرف ماذا يعني هذا؟",
+    "context": "السؤال عما إذا كان الشخص يعرف معنى شيء ما."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Do you know",
+        "ar": "هل تعرف",
+        "context": "بداية سؤال عن معرفة الشخص.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "يستخدم المضارع البسيط مع know للسؤال عن معرفة أو فهم موجود الآن."
+        },
+        "wordMeanings": [
+          {
+            "term": "Do",
+            "description": "أداة سؤال في المضارع البسيط"
+          },
+          {
+            "term": "you",
+            "description": "الشخص المخاطب"
+          },
+          {
+            "term": "know",
+            "description": "تعرف أو تفهم"
+          }
+        ]
+      },
+      {
+        "sentence": "what this means",
+        "ar": "ماذا يعني هذا",
+        "context": "جزء يحدد أن المطلوب هو معنى شيء معين.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "الفعل means في المضارع البسيط لأنه يصف معنى ثابتا أو عاما لشيء."
+        },
+        "wordMeanings": [
+          {
+            "term": "what",
+            "description": "ماذا؛ للسؤال عن الشيء أو المعنى"
+          },
+          {
+            "term": "this",
+            "description": "هذا الشيء القريب أو المشار إليه"
+          },
+          {
+            "term": "means",
+            "description": "يعني أو يدل على"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Do you know what this word means?",
+        "ar": "هل تعرف ماذا تعني هذه الكلمة؟",
+        "context": "للسؤال عن معنى كلمة."
+      },
+      {
+        "id": 2,
+        "en": "Do you know what this sign means?",
+        "ar": "هل تعرف ماذا تعني هذه اللافتة؟",
+        "context": "عند رؤية لافتة غير واضحة."
+      },
+      {
+        "id": 3,
+        "en": "Do you know what his answer means?",
+        "ar": "هل تعرف ماذا تعني إجابته؟",
+        "context": "للسؤال عن تفسير رد شخص."
+      },
+      {
+        "id": 4,
+        "en": "Do you know what this symbol means?",
+        "ar": "هل تعرف ماذا يعني هذا الرمز؟",
+        "context": "للسؤال عن رمز أو علامة."
+      },
+      {
+        "id": 5,
+        "en": "Do you know what the message means?",
+        "ar": "هل تعرف ماذا تعني الرسالة؟",
+        "context": "عند محاولة فهم رسالة."
+      },
+      {
+        "id": 6,
+        "en": "Do you know what this rule means?",
+        "ar": "هل تعرف ماذا تعني هذه القاعدة؟",
+        "context": "للسؤال عن معنى قاعدة."
+      },
+      {
+        "id": 7,
+        "en": "Do you know what this number means?",
+        "ar": "هل تعرف ماذا يعني هذا الرقم؟",
+        "context": "عند تفسير رقم في نموذج."
+      },
+      {
+        "id": 8,
+        "en": "Do you know what her look means?",
+        "ar": "هل تعرف ماذا تعني نظرتها؟",
+        "context": "للسؤال عن إشارة غير كلامية."
+      },
+      {
+        "id": 9,
+        "en": "Do you know what this sound means?",
+        "ar": "هل تعرف ماذا يعني هذا الصوت؟",
+        "context": "عند سماع تنبيه أو صوت غريب."
+      },
+      {
+        "id": 10,
+        "en": "Do you know what this name means?",
+        "ar": "هل تعرف ماذا يعني هذا الاسم؟",
+        "context": "للسؤال عن معنى اسم."
+      }
+    ]
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "schemaVersion": 1,
+  "id": 1,
+  "sentence": {
+    "en": "Oh no, the bus just left!",
+    "ar": "أوه، لا، غادرت الحافلة للتو!",
+    "context": "يتفاجأ لأن الحافلة غادرت قبل أن يصلا."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Oh no",
+        "ar": "أوه لا.",
+        "context": "تعبير مفاجأة أو انزعاج.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه صيحة تعجب ولا تحمل زمنًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "Oh",
+            "description": "أوه، للتعجب أو المفاجأة"
+          },
+          {
+            "term": "no",
+            "description": "لا، للتعبير عن الانزعاج هنا"
+          }
+        ]
+      },
+      {
+        "sentence": "the bus just left",
+        "ar": "غادرت الحافلة للتو.",
+        "context": "يشرح سبب المفاجأة: حدث قريب جدًا.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "left فعل ماض، و just يوضح أن المغادرة حدثت قبل لحظة قصيرة."
+        },
+        "wordMeanings": [
+          {
+            "term": "the",
+            "description": "أداة تعريف"
+          },
+          {
+            "term": "bus",
+            "description": "الحافلة"
+          },
+          {
+            "term": "just",
+            "description": "للتو أو قبل لحظة"
+          },
+          {
+            "term": "left",
+            "description": "غادرت"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Oh no, the train just left",
+        "ar": "أوه لا، غادر القطار للتو",
+        "context": "يقال عند فوات القطار"
+      },
+      {
+        "id": 2,
+        "en": "The meeting just started",
+        "ar": "بدأ الاجتماع للتو",
+        "context": "يقال عن حدث بدأ قبل لحظة"
+      },
+      {
+        "id": 3,
+        "en": "She just called me",
+        "ar": "اتصلت بي للتو",
+        "context": "يقال عن اتصال حديث جدًا"
+      },
+      {
+        "id": 4,
+        "en": "Oh no, I forgot my keys",
+        "ar": "أوه لا، نسيت مفاتيحي",
+        "context": "يقال عند اكتشاف مشكلة مفاجئة"
+      },
+      {
+        "id": 5,
+        "en": "The shop just closed",
+        "ar": "أغلق المتجر للتو",
+        "context": "يقال عند الوصول بعد الإغلاق مباشرة"
+      },
+      {
+        "id": 6,
+        "en": "He just arrived",
+        "ar": "وصل للتو",
+        "context": "يقال عن وصول حديث"
+      },
+      {
+        "id": 7,
+        "en": "Oh no, the coffee spilled",
+        "ar": "أوه لا، انسكبت القهوة",
+        "context": "يقال عند حدوث خطأ مفاجئ"
+      },
+      {
+        "id": 8,
+        "en": "The class just ended",
+        "ar": "انتهى الصف للتو",
+        "context": "يقال عن انتهاء حدث قبل لحظة"
+      },
+      {
+        "id": 9,
+        "en": "They just left the office",
+        "ar": "غادروا المكتب للتو",
+        "context": "يقال عن مغادرة حديثة"
+      },
+      {
+        "id": 10,
+        "en": "Oh no, we missed the bus",
+        "ar": "أوه لا، فاتتنا الحافلة",
+        "context": "يقال عند عدم اللحاق بالحافلة"
+      }
+    ]
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "schemaVersion": 1,
+  "id": 6597,
+  "sentence": {
+    "en": "I do not know whether he will come.",
+    "ar": "أنا لا أعرف ما إذا كان هو سيأتي.",
+    "context": "تعبير عن عدم معرفة بحدوث حضور مستقبلي أو عدمه دون تعيين المناسبة.",
+    "sourceWord": "whether",
+    "sourcePos": "conj."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "I do not know",
+        "ar": "أنا لا أعرف",
+        "context": "إقرار بغياب معرفة حالية.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "المضارع البسيط المنفي يصف حالة حالية."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "أنا."
+          },
+          {
+            "term": "do",
+            "description": "فعل مساعد للنفي."
+          },
+          {
+            "term": "not",
+            "description": "أداة نفي."
+          },
+          {
+            "term": "know",
+            "description": "أعرف."
+          }
+        ]
+      },
+      {
+        "sentence": "whether he will come.",
+        "ar": "ما إذا كان هو سيأتي.",
+        "context": "تحديد الحضور المستقبلي بوصفه الأمر غير المحسوم.",
+        "grammar": {
+          "tense": "المستقبل البسيط",
+          "tenseEn": "Future Simple",
+          "reason": "المستقبل البسيط في جملة تابعة. الأداة تعني إن كان أم لا."
+        },
+        "wordMeanings": [
+          {
+            "term": "whether",
+            "description": "ما إذا؛ إن كان أم لا."
+          },
+          {
+            "term": "he",
+            "description": "هو."
+          },
+          {
+            "term": "will",
+            "description": "فعل مساعد للمستقبل."
+          },
+          {
+            "term": "come",
+            "description": "يأتي."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I do not know whether he will come.",
+        "ar": "أنا لا أعرف ما إذا كان هو سيأتي.",
+        "context": "تعبير عن عدم معرفة بحدوث حضور مستقبلي أو عدمه دون تعيين المناسبة."
+      },
+      {
+        "id": 2,
+        "en": "Whether you like it or not, you must go.",
+        "ar": "سواء أنت أحببت ذلك أم لا، أنت يجب أن تذهب.",
+        "context": "تأكيد لزوم الذهاب بصرف النظر عن رغبة المخاطب دون تحديد الوجهة أو صاحب السلطة."
+      },
+      {
+        "id": 3,
+        "en": "She asked whether the room was available.",
+        "ar": "هي سألت إن كانت الغرفة متاحة.",
+        "context": "وصف سؤال سابق غير مباشر عن إمكان استخدام مكان."
+      },
+      {
+        "id": 4,
+        "en": "The result depends on whether the test succeeds.",
+        "ar": "النتيجة تعتمد على نجاح الاختبار من عدمه.",
+        "context": "وصف ارتباط مآل بأحد احتمالين في اختبار."
+      },
+      {
+        "id": 5,
+        "en": "We have not decided whether to stay or leave.",
+        "ar": "نحن لم نقرر البقاء أو المغادرة.",
+        "context": "الإبلاغ عن تردد مستمر بين خيارين حتى الآن."
+      },
+      {
+        "id": 6,
+        "en": "The team is checking whether the figures match.",
+        "ar": "الفريق يتحقق من تطابق الأرقام من عدمه.",
+        "context": "وصف فحص جارٍ لواحد من احتمالين."
+      },
+      {
+        "id": 7,
+        "en": "The report will show whether the plan worked.",
+        "ar": "التقرير سيبين نجاح الخطة من عدمه.",
+        "context": "توقع حسم سؤال عن نتيجة عمل سابق."
+      },
+      {
+        "id": 8,
+        "en": "Please tell me whether you need a copy.",
+        "ar": "من فضلك أخبرني بحاجتك إلى نسخة من عدمها.",
+        "context": "طلب توضيح إذا كانت نسخة مطلوبة أم غير مطلوبة."
+      },
+      {
+        "id": 9,
+        "en": "Whether at home or abroad, she keeps a diary.",
+        "ar": "سواء في الوطن أم خارجه، هي تحتفظ بمفكرة.",
+        "context": "وصف عادة ثابتة رغم اختلاف المكان."
+      },
+      {
+        "id": 10,
+        "en": "He wondered whether anyone had noticed.",
+        "ar": "هو تساءل إن كان أحد قد لاحظ.",
+        "context": "وصف شك سابق بشأن انتباه الآخرين إلى أمر قبل ذلك."
+      }
+    ]
+  }
+}

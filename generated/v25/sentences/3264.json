@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 1,
+  "id": 3264,
+  "sentence": {
+    "en": "This building is ancient.",
+    "ar": "هذا المبنى عتيق.",
+    "context": "شيء من زمن بعيد جدًا في التاريخ، دون الإشارة إلى حالته الحالية أو استخدامه.",
+    "sourceWord": "ancient",
+    "sourcePos": "adj."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "This building is ancient.",
+        "ar": "هذا المبنى عتيق.",
+        "context": "تصف الجملة مبنى من زمن بعيد جدًا في التاريخ.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُخدم is لوصف صفة حالية للمبنى."
+        },
+        "wordMeanings": [
+          {
+            "term": "This",
+            "description": "هذا؛ يشير إلى مبنى محدد قريب في الحديث."
+          },
+          {
+            "term": "building",
+            "description": "مبنى؛ بناء مثل بيت أو برج أو مؤسسة."
+          },
+          {
+            "term": "is",
+            "description": "يكون أو هو؛ فعل be مع مفرد غائب في المضارع."
+          },
+          {
+            "term": "ancient",
+            "description": "عتيق؛ من زمن بعيد جدًا في التاريخ."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "This building is ancient.",
+        "ar": "هذا المبنى عتيق.",
+        "context": "تصف عمر المبنى التاريخي."
+      },
+      {
+        "id": 2,
+        "en": "That building is ancient.",
+        "ar": "ذلك المبنى عتيق.",
+        "context": "تشير إلى مبنى آخر."
+      },
+      {
+        "id": 3,
+        "en": "This wall is ancient.",
+        "ar": "هذا الجدار عتيق.",
+        "context": "تغير الشيء الموصوف."
+      },
+      {
+        "id": 4,
+        "en": "This building is not ancient.",
+        "ar": "هذا المبنى ليس عتيقًا.",
+        "context": "تنفي الصفة التاريخية."
+      },
+      {
+        "id": 5,
+        "en": "Is this building ancient?",
+        "ar": "هل هذا المبنى عتيق؟",
+        "context": "تسأل عن عمر المبنى."
+      },
+      {
+        "id": 6,
+        "en": "This building was ancient even then.",
+        "ar": "كان هذا المبنى عتيقًا حتى آنذاك.",
+        "context": "تنقل الوصف إلى الماضي."
+      },
+      {
+        "id": 7,
+        "en": "This building will look ancient after restoration.",
+        "ar": "سيبدو هذا المبنى عتيقًا بعد الترميم.",
+        "context": "تتحدث عن مظهر مستقبلي."
+      },
+      {
+        "id": 8,
+        "en": "This stone building is ancient.",
+        "ar": "هذا المبنى الحجري عتيق.",
+        "context": "تصف مادة المبنى."
+      },
+      {
+        "id": 9,
+        "en": "This building is ancient because it was built centuries ago.",
+        "ar": "هذا المبنى عتيق لأنه بُني قبل قرون.",
+        "context": "تذكر سبب الوصف."
+      },
+      {
+        "id": 10,
+        "en": "This building is ancient, but it is still strong.",
+        "ar": "هذا المبنى عتيق، لكنه ما زال قويًا.",
+        "context": "تجمع بين القدم والمتانة."
+      }
+    ]
+  }
+}

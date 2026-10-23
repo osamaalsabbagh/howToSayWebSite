@@ -1,0 +1,117 @@
+{
+  "schemaVersion": 1,
+  "id": 11022,
+  "sentence": {
+    "en": "I apply for admission to the university.",
+    "ar": "أنا أتقدم بطلب للقبول في الجامعة.",
+    "context": "أنت ترسل طلبًا للالتحاق بجامعة. أنت تشرح عادتك أو وضعك الحالي فيما يخص القبول الجامعي.",
+    "sourceWord": "admission",
+    "sourcePos": "n."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "I apply for admission to the university.",
+        "ar": "أنا أتقدم بطلب للقبول في الجامعة.",
+        "context": "أنت ترسل طلبًا للالتحاق بجامعة. أنت تشرح عادتك أو وضعك الحالي فيما يخص القبول الجامعي.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "صف حالة أو عادة قائمة بالمضارع البسيط. صيغة المضارع تصف عادة أو حقيقة قائمة. السماح بالالتحاق بمؤسسة"
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "أنا؛ ضمير المتكلم المفرد"
+          },
+          {
+            "term": "apply",
+            "description": "أتقدم بطلب؛ السماح بالالتحاق بمؤسسة صيغة المضارع للفعل."
+          },
+          {
+            "term": "for",
+            "description": "لـ"
+          },
+          {
+            "term": "admission",
+            "description": "القبول"
+          },
+          {
+            "term": "to",
+            "description": "في"
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف"
+          },
+          {
+            "term": "university",
+            "description": "الجامعة"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I apply for admission to the university.",
+        "ar": "أنا أتقدم بطلب للقبول في الجامعة.",
+        "context": "أنت ترسل طلبًا للالتحاق بجامعة. أنت تشرح عادتك أو وضعك الحالي فيما يخص القبول الجامعي."
+      },
+      {
+        "id": 2,
+        "en": "I do not apply for admission to the university.",
+        "ar": "أنا لا أتقدم بطلب للقبول في الجامعة.",
+        "context": "أنت ترسل طلبًا للالتحاق بجامعة. أنت توضح أن هذا ليس من عادتك أو وصفًا لوضعك الحالي."
+      },
+      {
+        "id": 3,
+        "en": "I am applying for admission to the university.",
+        "ar": "أنا أتقدم بطلب للقبول في الجامعة.",
+        "context": "أنت ترسل طلبًا للالتحاق بجامعة. أنت في أثناء التعامل مع القبول الجامعي الآن."
+      },
+      {
+        "id": 4,
+        "en": "I am not applying for admission to the university.",
+        "ar": "أنا لا أتقدم بطلب للقبول في الجامعة.",
+        "context": "أنت ترسل طلبًا للالتحاق بجامعة. أنت تصحح توقعًا بشأن ما تفعله الآن وتوضح أن هذا النشاط لا يجري."
+      },
+      {
+        "id": 5,
+        "en": "I applied for admission to the university.",
+        "ar": "أنا تقدمت بطلب للقبول في الجامعة.",
+        "context": "أنت ترسل طلبًا للالتحاق بجامعة. أنت تروي ما حصل بشأن القبول الجامعي أمس."
+      },
+      {
+        "id": 6,
+        "en": "I did not apply for admission to the university.",
+        "ar": "أنا لم أتقدم بطلب للقبول في الجامعة.",
+        "context": "أنت ترسل طلبًا للالتحاق بجامعة. أنت تصحح رواية عن أحداث أمس وتوضح أن هذا الأمر لم يحصل."
+      },
+      {
+        "id": 7,
+        "en": "I have applied for admission to the university.",
+        "ar": "أنا قد تقدمت بطلب للقبول في الجامعة.",
+        "context": "أنت ترسل طلبًا للالتحاق بجامعة. أنت تناقش ما أنجزته أو خبرتك السابقة بشأن القبول الجامعي، لأن ذلك مهم لموقفك الآن."
+      },
+      {
+        "id": 8,
+        "en": "I have not applied for admission to the university.",
+        "ar": "أنا لم أتقدم بطلب للقبول في الجامعة.",
+        "context": "أنت ترسل طلبًا للالتحاق بجامعة. أنت تناقش ما تم حتى الآن وتوضح أن هذا الأمر لم يتم بعد."
+      },
+      {
+        "id": 9,
+        "en": "I will apply for admission to the university.",
+        "ar": "أنا سأتقدم بطلب للقبول في الجامعة.",
+        "context": "أنت ترسل طلبًا للالتحاق بجامعة. أنت تتحدث عن خططك أو توقعاتك بشأن القبول الجامعي غدًا."
+      },
+      {
+        "id": 10,
+        "en": "I will not apply for admission to the university.",
+        "ar": "أنا لن أتقدم بطلب للقبول في الجامعة.",
+        "context": "أنت ترسل طلبًا للالتحاق بجامعة. أنت تناقش خطط الغد وتوضح أن هذا الأمر لن يحدث."
+      }
+    ]
+  }
+}

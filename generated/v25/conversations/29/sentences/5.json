@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "id": 5,
+  "sentence": {
+    "en": "What happened?",
+    "ar": "ماذا حدث؟",
+    "context": "يسأل ليستوضح السبب."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "What happened?",
+        "ar": "ماذا حدث؟",
+        "context": "تستعمل للسؤال عن سبب المشكلة أو الحدث السابق.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "happened يسأل عن حدث وقع قبل لحظة الكلام."
+        },
+        "wordMeanings": [
+          {
+            "term": "What",
+            "description": "ماذا، للسؤال عن الحدث"
+          },
+          {
+            "term": "happened",
+            "description": "حدث أو وقع في الماضي"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "What happened today?",
+        "ar": "ماذا حدث اليوم؟",
+        "context": "تقال للسؤال عن سبب تغير حال شخص."
+      },
+      {
+        "id": 2,
+        "en": "What happened at home?",
+        "ar": "ماذا حدث في البيت؟",
+        "context": "تقال عند السؤال عن موقف عائلي."
+      },
+      {
+        "id": 3,
+        "en": "What happened after the call?",
+        "ar": "ماذا حدث بعد المكالمة؟",
+        "context": "تقال لمتابعة تسلسل أحداث."
+      },
+      {
+        "id": 4,
+        "en": "Tell me what happened.",
+        "ar": "أخبرني ماذا حدث.",
+        "context": "تقال لطلب شرح القصة."
+      },
+      {
+        "id": 5,
+        "en": "What happened with your wife?",
+        "ar": "ماذا حدث مع زوجتك؟",
+        "context": "تقال للسؤال عن خلاف عائلي."
+      },
+      {
+        "id": 6,
+        "en": "What happened at work?",
+        "ar": "ماذا حدث في العمل؟",
+        "context": "تقال عند السؤال عن مشكلة عمل."
+      },
+      {
+        "id": 7,
+        "en": "What happened to your plan?",
+        "ar": "ماذا حدث لخطتك؟",
+        "context": "تقال عند تعطل خطة."
+      },
+      {
+        "id": 8,
+        "en": "What happened yesterday?",
+        "ar": "ماذا حدث أمس؟",
+        "context": "تقال للسؤال عن حدث ماض."
+      },
+      {
+        "id": 9,
+        "en": "What happened between you two?",
+        "ar": "ماذا حدث بينكما؟",
+        "context": "تقال عند السؤال عن خلاف بين شخصين."
+      },
+      {
+        "id": 10,
+        "en": "What happened before you came here?",
+        "ar": "ماذا حدث قبل أن تأتي إلى هنا؟",
+        "context": "تقال لمعرفة خلفية المشكلة."
+      }
+    ]
+  }
+}

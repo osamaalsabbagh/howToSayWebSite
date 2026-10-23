@@ -1,0 +1,127 @@
+{
+  "schemaVersion": 1,
+  "id": 747,
+  "sentence": {
+    "en": "Do you know where my glasses are?",
+    "ar": "هل تعرف أين نظاراتي؟",
+    "context": "السؤال عن مكان وجود النظارات الشخصية."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Do you know",
+        "ar": "هل تعرف",
+        "context": "بداية سؤال لمعرفة إن كان الشخص لديه معلومة.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "يستخدم المضارع البسيط مع know للسؤال عن معرفة حالية."
+        },
+        "wordMeanings": [
+          {
+            "term": "Do",
+            "description": "أداة سؤال في المضارع البسيط"
+          },
+          {
+            "term": "you",
+            "description": "الشخص المخاطب"
+          },
+          {
+            "term": "know",
+            "description": "تعرف أو تعلم"
+          }
+        ]
+      },
+      {
+        "sentence": "where my glasses are",
+        "ar": "أين نظاراتي",
+        "context": "جزء يحدد الشيء المفقود ومكانه المطلوب.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "الفعل are يدل على الحالة أو المكان الحالي للنظارات."
+        },
+        "wordMeanings": [
+          {
+            "term": "where",
+            "description": "أين؛ للسؤال عن المكان"
+          },
+          {
+            "term": "my",
+            "description": "خاصتي أو يخصني"
+          },
+          {
+            "term": "glasses",
+            "description": "نظارات"
+          },
+          {
+            "term": "are",
+            "description": "تدل على وجود الشيء أو مكانه مع الجمع"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Do you know where my keys are?",
+        "ar": "هل تعرف أين مفاتيحي؟",
+        "context": "للسؤال عن شيء مفقود."
+      },
+      {
+        "id": 2,
+        "en": "Do you know where my phone is?",
+        "ar": "هل تعرف أين هاتفي؟",
+        "context": "للسؤال عن مكان الهاتف."
+      },
+      {
+        "id": 3,
+        "en": "Do you know where the tickets are?",
+        "ar": "هل تعرف أين التذاكر؟",
+        "context": "للبحث عن تذاكر قبل الخروج."
+      },
+      {
+        "id": 4,
+        "en": "Do you know where my bag is?",
+        "ar": "هل تعرف أين حقيبتي؟",
+        "context": "للسؤال عن حقيبة مفقودة."
+      },
+      {
+        "id": 5,
+        "en": "Do you know where the children are?",
+        "ar": "هل تعرف أين الأطفال؟",
+        "context": "للسؤال عن مكان أشخاص."
+      },
+      {
+        "id": 6,
+        "en": "Do you know where my shoes are?",
+        "ar": "هل تعرف أين حذائي؟",
+        "context": "للبحث عن شيء قبل المغادرة."
+      },
+      {
+        "id": 7,
+        "en": "Do you know where the bathroom is?",
+        "ar": "هل تعرف أين الحمام؟",
+        "context": "للسؤال عن مكان في مبنى."
+      },
+      {
+        "id": 8,
+        "en": "Do you know where my notes are?",
+        "ar": "هل تعرف أين ملاحظاتي؟",
+        "context": "للبحث عن أوراق أو ملاحظات."
+      },
+      {
+        "id": 9,
+        "en": "Do you know where the cups are?",
+        "ar": "هل تعرف أين الأكواب؟",
+        "context": "في مطبخ أو مكان ضيافة."
+      },
+      {
+        "id": 10,
+        "en": "Do you know where my wallet is?",
+        "ar": "هل تعرف أين محفظتي؟",
+        "context": "للسؤال عن شيء شخصي مهم."
+      }
+    ]
+  }
+}

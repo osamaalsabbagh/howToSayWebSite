@@ -1,0 +1,127 @@
+{
+  "schemaVersion": 1,
+  "id": 871,
+  "sentence": {
+    "en": "He said this is a nice place.",
+    "ar": "قال إن هذا مكان جميل.",
+    "context": "اقتباس من شخص أبدى رأيًا إيجابيًا عن مكان ما."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "He said",
+        "ar": "قال",
+        "context": "جزء ينقل كلام شخص في الماضي.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "said هو ماضي say ويستخدم لأن فعل القول حدث قبل الآن."
+        },
+        "wordMeanings": [
+          {
+            "term": "He",
+            "description": "هو؛ رجل أو ولد"
+          },
+          {
+            "term": "said",
+            "description": "قال في الماضي"
+          }
+        ]
+      },
+      {
+        "sentence": "this is a nice place",
+        "ar": "إن هذا مكان جميل",
+        "context": "هذا الجزء هو الرأي الذي نقله المتكلم عن المكان.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "is يصف المكان بأنه جميل كحالة أو رأي عام داخل الكلام المنقول."
+        },
+        "wordMeanings": [
+          {
+            "term": "this",
+            "description": "هذا الشيء أو المكان القريب في الحديث"
+          },
+          {
+            "term": "is",
+            "description": "يكون أو هو"
+          },
+          {
+            "term": "a",
+            "description": "أداة نكرة لشيء واحد"
+          },
+          {
+            "term": "nice",
+            "description": "جميل أو لطيف"
+          },
+          {
+            "term": "place",
+            "description": "مكان"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "He said this is a good idea.",
+        "ar": "قال إن هذه فكرة جيدة.",
+        "context": "لنقل رأي إيجابي."
+      },
+      {
+        "id": 2,
+        "en": "She said this is a nice room.",
+        "ar": "قالت إن هذه غرفة جميلة.",
+        "context": "لنقل رأي امرأة."
+      },
+      {
+        "id": 3,
+        "en": "He said the food is good.",
+        "ar": "قال إن الطعام جيد.",
+        "context": "لنقل رأي عن طعام."
+      },
+      {
+        "id": 4,
+        "en": "They said this is a safe place.",
+        "ar": "قالوا إن هذا مكان آمن.",
+        "context": "لنقل رأي مجموعة."
+      },
+      {
+        "id": 5,
+        "en": "He said it is important.",
+        "ar": "قال إنه مهم.",
+        "context": "لنقل تأكيد شخص."
+      },
+      {
+        "id": 6,
+        "en": "She said he is a teacher.",
+        "ar": "قالت إنه معلم.",
+        "context": "لنقل معلومة عن مهنة."
+      },
+      {
+        "id": 7,
+        "en": "He said this is not easy.",
+        "ar": "قال إن هذا ليس سهلا.",
+        "context": "لنقل تقييم صعوبة."
+      },
+      {
+        "id": 8,
+        "en": "I said this is my house.",
+        "ar": "قلت إن هذا بيتي.",
+        "context": "لنقل كلام المتكلم."
+      },
+      {
+        "id": 9,
+        "en": "He said the hotel is nice.",
+        "ar": "قال إن الفندق جميل.",
+        "context": "لنقل رأي عن فندق."
+      },
+      {
+        "id": 10,
+        "en": "He said this place is quiet.",
+        "ar": "قال إن هذا المكان هادئ.",
+        "context": "لنقل وصف مكان."
+      }
+    ]
+  }
+}

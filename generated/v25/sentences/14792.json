@@ -1,0 +1,113 @@
+{
+  "schemaVersion": 1,
+  "id": 14792,
+  "sentence": {
+    "en": "The school term starts in September.",
+    "ar": "الفصل الدراسي يبدأ في سبتمبر.",
+    "context": "أم تجهز أدوات المدرسة لأطفالها قبل نهاية العطلة، والمقصود أحد أقسام السنة الدراسية لا السنة كلها.",
+    "sourceWord": "term",
+    "sourcePos": "n."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "The school term starts in September.",
+        "ar": "الفصل الدراسي يبدأ في سبتمبر.",
+        "context": "أم تجهز أدوات المدرسة لأطفالها قبل نهاية العطلة.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "المضارع البسيط يعرض موعدًا ثابتًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "The",
+            "description": "أداة تعريف"
+          },
+          {
+            "term": "school",
+            "description": "الدراسي"
+          },
+          {
+            "term": "term",
+            "description": "الفصل؛ فترة من السنة الدراسية"
+          },
+          {
+            "term": "starts",
+            "description": "يبدأ"
+          },
+          {
+            "term": "in",
+            "description": "في"
+          },
+          {
+            "term": "September",
+            "description": "سبتمبر"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "The school term starts in September.",
+        "ar": "الفصل الدراسي يبدأ في سبتمبر.",
+        "context": "أم تجهز أدوات المدرسة لأطفالها قبل نهاية العطلة."
+      },
+      {
+        "id": 2,
+        "en": "What does this term mean?",
+        "ar": "ماذا يعني هذا المصطلح؟",
+        "context": "لغة."
+      },
+      {
+        "id": 3,
+        "en": "Read the terms of the contract.",
+        "ar": "اقرأ شروط العقد.",
+        "context": "قانون."
+      },
+      {
+        "id": 4,
+        "en": "The president served two terms.",
+        "ar": "الرئيس خدم ولايتين.",
+        "context": "سياسة."
+      },
+      {
+        "id": 5,
+        "en": "We are on good terms with our neighbors.",
+        "ar": "نحن على علاقة جيدة مع جيراننا.",
+        "context": "جيران."
+      },
+      {
+        "id": 6,
+        "en": "In the long term, it will save money.",
+        "ar": "على المدى الطويل، سيوفر المال.",
+        "context": "مال."
+      },
+      {
+        "id": 7,
+        "en": "The last term was very busy.",
+        "ar": "الفصل الأخير كان مزدحمًا جدًا.",
+        "context": "مدرسة."
+      },
+      {
+        "id": 8,
+        "en": "This is a medical term.",
+        "ar": "هذا مصطلح طبي.",
+        "context": "طب."
+      },
+      {
+        "id": 9,
+        "en": "They agreed to our terms.",
+        "ar": "هم وافقوا على شروطنا.",
+        "context": "تفاوض."
+      },
+      {
+        "id": 10,
+        "en": "She came to terms with the loss.",
+        "ar": "هي تقبلت الخسارة.",
+        "context": "حزن."
+      }
+    ]
+  }
+}

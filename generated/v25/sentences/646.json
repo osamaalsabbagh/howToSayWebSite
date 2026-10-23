@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": 646,
+  "sentence": {
+    "en": "Where are you?",
+    "ar": "أين أنت؟",
+    "context": "الاستفسار عن موقع الشخص حاليًا."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Where are you?",
+        "ar": "أين أنت؟",
+        "context": "تستخدم للسؤال عن موقع الشخص الحالي.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "السؤال عن مكان أو حالة وجود في الوقت الحالي."
+        },
+        "wordMeanings": [
+          {
+            "term": "Where",
+            "description": "أين، وتستخدم للسؤال عن المكان."
+          },
+          {
+            "term": "are",
+            "description": "صيغة تربط المخاطب بمكانه في السؤال."
+          },
+          {
+            "term": "you",
+            "description": "أنت أو أنتم حسب السياق."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Where is she?",
+        "ar": "أين هي؟",
+        "context": "تقال للسؤال عن مكان امرأة."
+      },
+      {
+        "id": 2,
+        "en": "I am at home.",
+        "ar": "أنا في البيت.",
+        "context": "تستخدم للإجابة عن المكان."
+      },
+      {
+        "id": 3,
+        "en": "Where are they?",
+        "ar": "أين هم؟",
+        "context": "تقال للسؤال عن مكان مجموعة."
+      },
+      {
+        "id": 4,
+        "en": "Where are you now?",
+        "ar": "أين أنت الآن؟",
+        "context": "تستخدم للتأكيد على الموقع الحالي."
+      },
+      {
+        "id": 5,
+        "en": "We are near the bank.",
+        "ar": "نحن قرب البنك.",
+        "context": "تقال لتحديد موقع تقريبي."
+      },
+      {
+        "id": 6,
+        "en": "Are you at work?",
+        "ar": "هل أنت في العمل؟",
+        "context": "تستخدم للسؤال عن مكان محدد."
+      },
+      {
+        "id": 7,
+        "en": "Where is your hotel?",
+        "ar": "أين فندقك؟",
+        "context": "تقال للسؤال عن مكان فندق."
+      },
+      {
+        "id": 8,
+        "en": "I am here.",
+        "ar": "أنا هنا.",
+        "context": "تستخدم لتحديد الوجود في المكان."
+      },
+      {
+        "id": 9,
+        "en": "Where are your children?",
+        "ar": "أين أطفالك؟",
+        "context": "تقال للسؤال عن مكان الأطفال."
+      },
+      {
+        "id": 10,
+        "en": "Are you in the store?",
+        "ar": "هل أنت في المتجر؟",
+        "context": "تستخدم للسؤال عن وجود شخص في متجر."
+      }
+    ]
+  }
+}

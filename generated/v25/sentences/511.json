@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "id": 511,
+  "sentence": {
+    "en": "Are you working Tomorrow?",
+    "ar": "هل ستعمل غدًا؟",
+    "context": "السؤال إن كان الشخص سيعمل غدًا."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Are you working Tomorrow?",
+        "ar": "هل ستعمل غدًا؟",
+        "context": "سؤال عن جدول العمل أو خطة العمل في الغد.",
+        "grammar": {
+          "tense": "المضارع المستمر",
+          "tenseEn": "Present Continuous",
+          "reason": "Are working يستخدم هنا لخطة مستقبلية قريبة مرتبطة بوقت محدد."
+        },
+        "wordMeanings": [
+          {
+            "term": "Are",
+            "description": "تساعد في تكوين المضارع المستمر مع المخاطب."
+          },
+          {
+            "term": "you",
+            "description": "تشير إلى المخاطب."
+          },
+          {
+            "term": "working",
+            "description": "تعني تعمل."
+          },
+          {
+            "term": "Tomorrow",
+            "description": "تعني غدًا."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Are you working tomorrow?",
+        "ar": "هل ستعمل غدًا؟",
+        "context": "سؤال عن العمل في اليوم التالي."
+      },
+      {
+        "id": 2,
+        "en": "I am working tomorrow.",
+        "ar": "سأعمل غدًا.",
+        "context": "تأكيد جدول العمل."
+      },
+      {
+        "id": 3,
+        "en": "She is working tonight.",
+        "ar": "هي ستعمل الليلة.",
+        "context": "ذكر وقت عمل قريب."
+      },
+      {
+        "id": 4,
+        "en": "Are they working this weekend?",
+        "ar": "هل سيعملون في نهاية هذا الأسبوع؟",
+        "context": "سؤال عن جدول مجموعة."
+      },
+      {
+        "id": 5,
+        "en": "We are not working tomorrow.",
+        "ar": "لن نعمل غدًا.",
+        "context": "نفي العمل في الغد."
+      },
+      {
+        "id": 6,
+        "en": "He is working at the office.",
+        "ar": "هو يعمل في المكتب.",
+        "context": "وصف عمل حالي أو مقرر."
+      },
+      {
+        "id": 7,
+        "en": "Are you free tomorrow?",
+        "ar": "هل أنت متفرغ غدًا؟",
+        "context": "سؤال مرتبط بالجدول."
+      },
+      {
+        "id": 8,
+        "en": "I am working early tomorrow.",
+        "ar": "سأعمل مبكرًا غدًا.",
+        "context": "تحديد وقت العمل."
+      },
+      {
+        "id": 9,
+        "en": "The shop is working tomorrow.",
+        "ar": "المتجر يعمل غدًا.",
+        "context": "ذكر فتح مكان للعمل."
+      },
+      {
+        "id": 10,
+        "en": "Are you coming after work?",
+        "ar": "هل ستأتي بعد العمل؟",
+        "context": "سؤال عن خطة بعد العمل."
+      }
+    ]
+  }
+}

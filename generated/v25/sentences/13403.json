@@ -1,0 +1,109 @@
+{
+  "schemaVersion": 1,
+  "id": 13403,
+  "sentence": {
+    "en": "This course has six modules.",
+    "ar": "هذه الدورة لديها ست وحدات.",
+    "context": "وصف برنامج دراسي مقسم إلى أجزاء مستقلة يدرسها الطالب واحدًا بعد الآخر.",
+    "sourceWord": "module",
+    "sourcePos": "n."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "This course has six modules.",
+        "ar": "هذه الدورة لديها ست وحدات.",
+        "context": "وصف برنامج دراسي مقسم إلى أجزاء مستقلة يدرسها الطالب واحدًا بعد الآخر.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "المضارع البسيط يصف معلومة ثابتة."
+        },
+        "wordMeanings": [
+          {
+            "term": "This",
+            "description": "هذه"
+          },
+          {
+            "term": "course",
+            "description": "الدورة"
+          },
+          {
+            "term": "has",
+            "description": "لديها"
+          },
+          {
+            "term": "six",
+            "description": "ست"
+          },
+          {
+            "term": "modules",
+            "description": "وحدات؛ أجزاء مستقلة من برنامج دراسي أو نظام"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "This course has six modules.",
+        "ar": "هذه الدورة لديها ست وحدات.",
+        "context": "وصف برنامج دراسي مقسم إلى أجزاء مستقلة يدرسها الطالب واحدًا بعد الآخر."
+      },
+      {
+        "id": 2,
+        "en": "I passed the first module.",
+        "ar": "أنا نجحت في الوحدة الأولى.",
+        "context": "دراسة."
+      },
+      {
+        "id": 3,
+        "en": "Each module ends with a test.",
+        "ar": "كل وحدة تنتهي باختبار.",
+        "context": "نظام تقييم."
+      },
+      {
+        "id": 4,
+        "en": "The math module is the hardest.",
+        "ar": "وحدة الرياضيات هي الأصعب.",
+        "context": "رأي طالب."
+      },
+      {
+        "id": 5,
+        "en": "You can choose two optional modules.",
+        "ar": "أنت تستطيع اختيار وحدتين اختياريتين.",
+        "context": "جامعة."
+      },
+      {
+        "id": 6,
+        "en": "The online module takes three hours.",
+        "ar": "الوحدة أونلاين تستغرق ثلاث ساعات.",
+        "context": "تدريب."
+      },
+      {
+        "id": 7,
+        "en": "She teaches the history module.",
+        "ar": "هي تدرّس وحدة التاريخ.",
+        "context": "معلمة."
+      },
+      {
+        "id": 8,
+        "en": "The training has a safety module.",
+        "ar": "التدريب لديه وحدة سلامة.",
+        "context": "عمل."
+      },
+      {
+        "id": 9,
+        "en": "The module covers basic grammar.",
+        "ar": "الوحدة تغطي القواعد الأساسية.",
+        "context": "لغة."
+      },
+      {
+        "id": 10,
+        "en": "I failed one module last term.",
+        "ar": "أنا رسبت في وحدة واحدة الفصل الماضي.",
+        "context": "دراسة."
+      }
+    ]
+  }
+}

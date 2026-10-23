@@ -1,0 +1,123 @@
+{
+  "schemaVersion": 1,
+  "id": 975,
+  "sentence": {
+    "en": "I would like a coffee, please.",
+    "ar": "أود قهوة، من فضلك.",
+    "context": "تُستخدم لطلب فنجان قهوة بطريقة مهذبة."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "I would like a coffee",
+        "ar": "أود قهوة",
+        "context": "هذا الجزء يطلب قهوة بطريقة مهذبة.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "would like تعبير مهذب عن الرغبة أو الطلب، وليس زمنًا مستقلًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير يشير إلى المتكلم"
+          },
+          {
+            "term": "would",
+            "description": "تُستخدم هنا لجعل الطلب مهذبًا"
+          },
+          {
+            "term": "like",
+            "description": "أود أو أرغب في هذا السياق"
+          },
+          {
+            "term": "a",
+            "description": "أداة تشير إلى واحد من الشيء المطلوب"
+          },
+          {
+            "term": "coffee",
+            "description": "قهوة"
+          }
+        ]
+      },
+      {
+        "sentence": "please",
+        "ar": "من فضلك",
+        "context": "كلمة أدب تزيد لطف الطلب.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "كلمة أدب ثابتة لا تحمل زمنًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "please",
+            "description": "من فضلك، وتُستخدم لتلطيف الطلب"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I would like a tea, please.",
+        "ar": "أود شايًا، من فضلك.",
+        "context": "تُستخدم لطلب شاي بأدب."
+      },
+      {
+        "id": 2,
+        "en": "I would like a sandwich, please.",
+        "ar": "أود شطيرة، من فضلك.",
+        "context": "تُستخدم لطلب طعام بسيط."
+      },
+      {
+        "id": 3,
+        "en": "I would like some water, please.",
+        "ar": "أود بعض الماء، من فضلك.",
+        "context": "تُستخدم لطلب ماء بأدب."
+      },
+      {
+        "id": 4,
+        "en": "I would like the menu, please.",
+        "ar": "أود قائمة الطعام، من فضلك.",
+        "context": "تُستخدم في مطعم قبل الطلب."
+      },
+      {
+        "id": 5,
+        "en": "I would like a room, please.",
+        "ar": "أود غرفة، من فضلك.",
+        "context": "تُستخدم في فندق."
+      },
+      {
+        "id": 6,
+        "en": "I would like a ticket, please.",
+        "ar": "أود تذكرة، من فضلك.",
+        "context": "تُستخدم عند شراء تذكرة."
+      },
+      {
+        "id": 7,
+        "en": "I would like a receipt, please.",
+        "ar": "أود إيصالًا، من فضلك.",
+        "context": "تُستخدم بعد الدفع."
+      },
+      {
+        "id": 8,
+        "en": "I would like a small coffee, please.",
+        "ar": "أود قهوة صغيرة، من فضلك.",
+        "context": "تُستخدم لتحديد حجم الطلب."
+      },
+      {
+        "id": 9,
+        "en": "I would like a table, please.",
+        "ar": "أود طاولة، من فضلك.",
+        "context": "تُستخدم عند دخول مطعم."
+      },
+      {
+        "id": 10,
+        "en": "I would like this one, please.",
+        "ar": "أود هذا، من فضلك.",
+        "context": "تُستخدم عند اختيار شيء للشراء."
+      }
+    ]
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": 678,
+  "sentence": {
+    "en": "Please speak English.",
+    "ar": "من فضلك تحدث بالإنجليزية.",
+    "context": "طلب استخدام اللغة الإنجليزية في الحديث."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Please speak English.",
+        "ar": "من فضلك تحدث بالإنجليزية.",
+        "context": "تستخدم لطلب أن يكون الحديث باللغة الإنجليزية.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه صيغة أمر مهذب وليست زمناً مستقلاً."
+        },
+        "wordMeanings": [
+          {
+            "term": "Please",
+            "description": "من فضلك، تجعل الطلب مهذباً."
+          },
+          {
+            "term": "speak",
+            "description": "تحدث أو تكلم."
+          },
+          {
+            "term": "English",
+            "description": "اللغة الإنجليزية."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Please speak slowly.",
+        "ar": "من فضلك تحدث ببطء.",
+        "context": "تقال عند الحاجة إلى فهم أوضح."
+      },
+      {
+        "id": 2,
+        "en": "Please speak Arabic.",
+        "ar": "من فضلك تحدث بالعربية.",
+        "context": "تستخدم لطلب لغة أخرى."
+      },
+      {
+        "id": 3,
+        "en": "Can you speak English?",
+        "ar": "هل يمكنك التحدث بالإنجليزية؟",
+        "context": "تقال للسؤال عن القدرة."
+      },
+      {
+        "id": 4,
+        "en": "Please use English.",
+        "ar": "من فضلك استخدم الإنجليزية.",
+        "context": "تستخدم لطلب لغة الحديث."
+      },
+      {
+        "id": 5,
+        "en": "Speak English with me.",
+        "ar": "تحدث بالإنجليزية معي.",
+        "context": "تقال للتدريب على اللغة."
+      },
+      {
+        "id": 6,
+        "en": "Please speak more clearly.",
+        "ar": "من فضلك تحدث بوضوح أكثر.",
+        "context": "تستخدم عند عدم وضوح الكلام."
+      },
+      {
+        "id": 7,
+        "en": "Do you speak English?",
+        "ar": "هل تتحدث الإنجليزية؟",
+        "context": "تقال للسؤال عن معرفة اللغة."
+      },
+      {
+        "id": 8,
+        "en": "Please speak English in class.",
+        "ar": "من فضلك تحدث بالإنجليزية في الصف.",
+        "context": "تستخدم في درس لغة."
+      },
+      {
+        "id": 9,
+        "en": "I speak English a little.",
+        "ar": "أتحدث الإنجليزية قليلاً.",
+        "context": "تقال لتوضيح مستوى محدود."
+      },
+      {
+        "id": 10,
+        "en": "Please do not speak too fast.",
+        "ar": "من فضلك لا تتحدث بسرعة كبيرة.",
+        "context": "تستخدم عند صعوبة المتابعة."
+      }
+    ]
+  }
+}

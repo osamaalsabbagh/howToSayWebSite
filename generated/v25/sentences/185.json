@@ -1,0 +1,115 @@
+{
+  "schemaVersion": 1,
+  "id": 185,
+  "sentence": {
+    "en": "I would like to make a reservation.",
+    "ar": "أود أن أحجز.",
+    "context": "تُستخدم لطلب حجز، غالبًا في مطعم أو فندق."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "I would like to make a reservation.",
+        "ar": "أود أن أحجز.",
+        "context": "يعرض به المتحدث الفكرة الأساسية التي يريد قولها في هذا الموقف.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه صيغة مهذبة لطلب حجز، وفيها تركيب يدل على الرغبة يتبعه فعل بصيغة المصدر، لذلك لا يشرح كزمن مستقل."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "أنا، وتشير إلى المتكلم."
+          },
+          {
+            "term": "would",
+            "description": "تجعل الطلب أكثر تهذيبًا ولطفًا."
+          },
+          {
+            "term": "like",
+            "description": "أرغب أو أود."
+          },
+          {
+            "term": "to",
+            "description": "تربط الرغبة بالفعل المطلوب بعدها."
+          },
+          {
+            "term": "make",
+            "description": "أجري أو أرتب، وتستخدم هنا مع الحجز."
+          },
+          {
+            "term": "a",
+            "description": "أداة تدل على شيء واحد غير محدد."
+          },
+          {
+            "term": "reservation",
+            "description": "حجز مسبق في مطعم أو فندق أو خدمة."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I would like to make a reservation.",
+        "ar": "أود أن أحجز.",
+        "context": "تقال عند طلب حجز في مطعم أو فندق."
+      },
+      {
+        "id": 2,
+        "en": "I would like to make a dinner reservation.",
+        "ar": "أود حجز عشاء.",
+        "context": "تقال عند حجز طاولة للعشاء."
+      },
+      {
+        "id": 3,
+        "en": "I would like to make a hotel reservation.",
+        "ar": "أود حجز فندق.",
+        "context": "تقال عند حجز إقامة."
+      },
+      {
+        "id": 4,
+        "en": "I would like to make a reservation for two.",
+        "ar": "أود حجزًا لشخصين.",
+        "context": "تقال عند تحديد عدد الأشخاص."
+      },
+      {
+        "id": 5,
+        "en": "I would like to make a reservation for tonight.",
+        "ar": "أود حجزًا لهذه الليلة.",
+        "context": "تقال عند طلب حجز في الليلة نفسها."
+      },
+      {
+        "id": 6,
+        "en": "I would like to reserve a table.",
+        "ar": "أود حجز طاولة.",
+        "context": "تقال في مطعم."
+      },
+      {
+        "id": 7,
+        "en": "I would like to reserve a room.",
+        "ar": "أود حجز غرفة.",
+        "context": "تقال في فندق."
+      },
+      {
+        "id": 8,
+        "en": "I would like to make a reservation online.",
+        "ar": "أود إجراء حجز عبر الإنترنت.",
+        "context": "تقال عند السؤال عن طريقة الحجز."
+      },
+      {
+        "id": 9,
+        "en": "I would like to make a reservation for Friday.",
+        "ar": "أود إجراء حجز ليوم الجمعة.",
+        "context": "تقال عند تحديد يوم الحجز."
+      },
+      {
+        "id": 10,
+        "en": "I would like to change my reservation.",
+        "ar": "أود تغيير حجزي.",
+        "context": "تقال عند تعديل حجز سابق."
+      }
+    ]
+  }
+}

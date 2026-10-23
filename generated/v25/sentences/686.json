@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": 686,
+  "sentence": {
+    "en": "What does this word mean?",
+    "ar": "ما معنى هذه الكلمة؟",
+    "context": "طلب معرفة معنى كلمة معينة."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "What does this word mean?",
+        "ar": "ما معنى هذه الكلمة؟",
+        "context": "تستخدم للسؤال عن معنى كلمة محددة أمامك أو مذكورة.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "السؤال عن معنى ثابت أو عام لكلمة."
+        },
+        "wordMeanings": [
+          {
+            "term": "What",
+            "description": "ماذا أو ما، وتستخدم للسؤال عن المعنى."
+          },
+          {
+            "term": "does",
+            "description": "كلمة مساعدة للسؤال مع مفرد."
+          },
+          {
+            "term": "this",
+            "description": "هذه أو هذا، وتشير إلى شيء قريب."
+          },
+          {
+            "term": "word",
+            "description": "كلمة."
+          },
+          {
+            "term": "mean",
+            "description": "تعني أو تدل على."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "What does that word mean?",
+        "ar": "ماذا تعني تلك الكلمة؟",
+        "context": "تقال عن كلمة أبعد أو سبق ذكرها."
+      },
+      {
+        "id": 2,
+        "en": "This word means friend.",
+        "ar": "هذه الكلمة تعني صديق.",
+        "context": "تستخدم للإجابة عن معنى كلمة."
+      },
+      {
+        "id": 3,
+        "en": "What does this sentence mean?",
+        "ar": "ماذا تعني هذه الجملة؟",
+        "context": "تقال عن معنى جملة كاملة."
+      },
+      {
+        "id": 4,
+        "en": "I do not know what this word means.",
+        "ar": "لا أعرف ماذا تعني هذه الكلمة.",
+        "context": "تستخدم عند عدم معرفة معنى."
+      },
+      {
+        "id": 5,
+        "en": "Can you explain this word?",
+        "ar": "هل يمكنك شرح هذه الكلمة؟",
+        "context": "تقال لطلب شرح أوسع."
+      },
+      {
+        "id": 6,
+        "en": "What does this name mean?",
+        "ar": "ماذا يعني هذا الاسم؟",
+        "context": "تستخدم للسؤال عن معنى اسم."
+      },
+      {
+        "id": 7,
+        "en": "Does this word mean yes?",
+        "ar": "هل تعني هذه الكلمة نعم؟",
+        "context": "تقال للتأكد من معنى محتمل."
+      },
+      {
+        "id": 8,
+        "en": "The word means water.",
+        "ar": "الكلمة تعني ماء.",
+        "context": "تستخدم لتوضيح معنى بسيط."
+      },
+      {
+        "id": 9,
+        "en": "What does this word say?",
+        "ar": "ماذا تقول هذه الكلمة؟",
+        "context": "تقال عند السؤال عن قراءة كلمة."
+      },
+      {
+        "id": 10,
+        "en": "Please tell me what this word means.",
+        "ar": "من فضلك أخبرني ماذا تعني هذه الكلمة.",
+        "context": "تستخدم لطلب معنى بأدب."
+      }
+    ]
+  }
+}

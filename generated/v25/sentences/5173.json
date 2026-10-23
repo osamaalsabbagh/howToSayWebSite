@@ -1,0 +1,113 @@
+{
+  "schemaVersion": 1,
+  "id": 5173,
+  "sentence": {
+    "en": "The temperature fell to zero overnight.",
+    "ar": "درجة الحرارة انخفضت إلى الصفر خلال الليل.",
+    "context": "وصف وصول سابق لدرجة حرارة إلى الصفر بعد انخفاضها أثناء الليل.",
+    "sourceWord": "zero",
+    "sourcePos": "number"
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "The temperature fell to zero overnight.",
+        "ar": "درجة الحرارة انخفضت إلى الصفر خلال الليل.",
+        "context": "وصف وصول سابق لدرجة حرارة إلى الصفر بعد انخفاضها أثناء الليل.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "الانخفاض إلى الصفر وقع خلال ليلة سابقة."
+        },
+        "wordMeanings": [
+          {
+            "term": "The",
+            "description": "الـ؛ تشير إلى درجة الحرارة المقصودة"
+          },
+          {
+            "term": "temperature",
+            "description": "درجة حرارة؛ قياس السخونة أو البرودة"
+          },
+          {
+            "term": "fell",
+            "description": "انخفضت؛ أصبحت أقل قيمة"
+          },
+          {
+            "term": "to",
+            "description": "إلى؛ تحدد القيمة النهائية"
+          },
+          {
+            "term": "zero",
+            "description": "صفر؛ العدد الذي وصلت إليه القراءة"
+          },
+          {
+            "term": "overnight",
+            "description": "خلال الليل"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "The temperature fell to zero overnight.",
+        "ar": "درجة الحرارة انخفضت إلى الصفر خلال الليل.",
+        "context": "وصف وصول سابق لدرجة حرارة إلى الصفر بعد انخفاضها أثناء الليل."
+      },
+      {
+        "id": 2,
+        "en": "The counter starts at zero.",
+        "ar": "العداد يبدأ عند الصفر.",
+        "context": "وصف قيمة ابتدائية قبل تسجيل أي زيادة."
+      },
+      {
+        "id": 3,
+        "en": "Please write zero if no items remain.",
+        "ar": "من فضلك اكتب صفرًا عند عدم بقاء أي عناصر.",
+        "context": "طلب تمثيل انعدام كمية بعدّ عددي."
+      },
+      {
+        "id": 4,
+        "en": "We have reduced the number of missing files to zero.",
+        "ar": "نحن قد خفضنا عدد الملفات المفقودة إلى الصفر.",
+        "context": "الإبلاغ عن زوال جميع حالات نقص ملفات كانت محل متابعة."
+      },
+      {
+        "id": 5,
+        "en": "The score was zero.",
+        "ar": "النتيجة كانت صفرًا.",
+        "context": "وصف تقييم سابق لم يسجل نقاطًا."
+      },
+      {
+        "id": 6,
+        "en": "Adding zero leaves the total unchanged.",
+        "ar": "إضافة الصفر تترك المجموع دون تغيير.",
+        "context": "عرض علاقة حسابية لا تؤثر فيها إضافة هذا العدد في القيمة."
+      },
+      {
+        "id": 7,
+        "en": "The display is showing zero minutes remaining.",
+        "ar": "الشاشة تُظهر بقاء صفر دقيقة.",
+        "context": "وصف انتهاء مدة محسوبة على عداد وقت جارٍ."
+      },
+      {
+        "id": 8,
+        "en": "The new meter will reset to zero after each test.",
+        "ar": "العداد الجديد سيعود إلى الصفر بعد كل اختبار.",
+        "context": "وصف وظيفة مرتقبة تعيد قياسًا إلى قيمة بداية."
+      },
+      {
+        "id": 9,
+        "en": "The survey recorded zero responses on the first day.",
+        "ar": "الاستطلاع سجل صفر إجابات في اليوم الأول.",
+        "context": "وصف غياب سابق لأي مشاركة مكتوبة في جمع آراء."
+      },
+      {
+        "id": 10,
+        "en": "The number ends in zero.",
+        "ar": "العدد ينتهي بصفر.",
+        "context": "وصف رقم يشغل الخانة الأخيرة في كتابة عدد."
+      }
+    ]
+  }
+}

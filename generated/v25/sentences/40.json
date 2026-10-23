@@ -1,0 +1,127 @@
+{
+  "schemaVersion": 1,
+  "id": 40,
+  "sentence": {
+    "en": "I will call you when I leave.",
+    "ar": "سأتصل بك عندما أغادر.",
+    "context": "وعد بالاتصال بعد المغادرة."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "I will call you",
+        "ar": "سأتصل بك.",
+        "context": "يبدأ به المتحدث الفكرة الأساسية قبل إضافة التفاصيل.",
+        "grammar": {
+          "tense": "المستقبل البسيط",
+          "tenseEn": "Future Simple",
+          "reason": "تستخدم will مع الفعل الأساسي للتعبير عن وعد أو قرار بالاتصال في وقت لاحق."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير المتكلم ويشير إلى الشخص الذي يتحدث."
+          },
+          {
+            "term": "will",
+            "description": "كلمة تدل على أن الفعل سيحدث في المستقبل أو كتعهد من المتكلم."
+          },
+          {
+            "term": "call",
+            "description": "أتصل هاتفيًا أو أتواصل عبر مكالمة."
+          },
+          {
+            "term": "you",
+            "description": "ضمير يشير إلى الشخص الذي أتحدث معه."
+          }
+        ]
+      },
+      {
+        "sentence": "when I leave",
+        "ar": "عندما أغادر.",
+        "context": "يوضح الفكرة أو المعلومة التابعة لما قبله.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "بعد when يستخدم المضارع البسيط للحديث عن حدث مستقبلي يحدد وقت الفعل الآخر، وهو المغادرة هنا."
+        },
+        "wordMeanings": [
+          {
+            "term": "when",
+            "description": "عندما، وتربط الفعل بوقت حدوث فعل آخر."
+          },
+          {
+            "term": "I",
+            "description": "ضمير المتكلم ويشير إلى الشخص الذي يتحدث."
+          },
+          {
+            "term": "leave",
+            "description": "أغادر أو أترك المكان."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I will text you when I arrive.",
+        "ar": "سأرسل لك رسالة عندما أصل.",
+        "context": "تقال عند وعد شخص بإبلاغه بعد الوصول."
+      },
+      {
+        "id": 2,
+        "en": "She will call me when she gets home.",
+        "ar": "ستتصل بي عندما تصل إلى البيت.",
+        "context": "تقال عند انتظار اتصال بعد الوصول للمنزل."
+      },
+      {
+        "id": 3,
+        "en": "We will start when the teacher comes.",
+        "ar": "سنبدأ عندما يأتي المعلم.",
+        "context": "تقال عند ربط بداية العمل بوصول شخص."
+      },
+      {
+        "id": 4,
+        "en": "I will tell you when I know.",
+        "ar": "سأخبرك عندما أعرف.",
+        "context": "تقال عند انتظار الحصول على معلومة."
+      },
+      {
+        "id": 5,
+        "en": "He will pay when the food arrives.",
+        "ar": "سيدفع عندما يصل الطعام.",
+        "context": "تقال عند ربط الدفع بوصول الطلب."
+      },
+      {
+        "id": 6,
+        "en": "I will visit you when I have time.",
+        "ar": "سأزورك عندما يكون لدي وقت.",
+        "context": "تقال عند وعد بزيارة مشروطة بتوفر الوقت."
+      },
+      {
+        "id": 7,
+        "en": "They will leave when the rain stops.",
+        "ar": "سيغادرون عندما يتوقف المطر.",
+        "context": "تقال عند انتظار تحسن الطقس قبل المغادرة."
+      },
+      {
+        "id": 8,
+        "en": "I will send the file when I finish.",
+        "ar": "سأرسل الملف عندما أنتهي.",
+        "context": "تقال عند وعد بإرسال شيء بعد إنجازه."
+      },
+      {
+        "id": 9,
+        "en": "My father will come when work ends.",
+        "ar": "سيأتي أبي عندما ينتهي العمل.",
+        "context": "تقال عند ربط قدوم شخص بانتهاء العمل."
+      },
+      {
+        "id": 10,
+        "en": "I will answer when I am ready.",
+        "ar": "سأجيب عندما أكون مستعدًا.",
+        "context": "تقال عند تأجيل الرد إلى وقت مناسب."
+      }
+    ]
+  }
+}

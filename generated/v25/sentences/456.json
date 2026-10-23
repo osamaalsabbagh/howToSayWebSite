@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "id": 456,
+  "sentence": {
+    "en": "Have you eaten yet?",
+    "ar": "هل أكلت حتى الآن؟",
+    "context": "الاستفسار عن ما إذا كان الشخص قد تناول الطعام."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Have you eaten yet?",
+        "ar": "هل أكلت حتى الآن؟",
+        "context": "سؤال عن اكتمال الأكل حتى هذه اللحظة.",
+        "grammar": {
+          "tense": "المضارع التام",
+          "tenseEn": "Present Perfect",
+          "reason": "استخدم المضارع التام مع yet للسؤال هل حدث الفعل قبل الآن أم لا."
+        },
+        "wordMeanings": [
+          {
+            "term": "Have",
+            "description": "تبدأ سؤالًا عن فعل مكتمل أو غير مكتمل حتى الآن."
+          },
+          {
+            "term": "you",
+            "description": "تشير إلى الشخص المخاطب."
+          },
+          {
+            "term": "eaten",
+            "description": "تعني أكلت أو تناولت الطعام."
+          },
+          {
+            "term": "yet",
+            "description": "تعني حتى الآن في السؤال أو النفي."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Have you finished yet?",
+        "ar": "هل انتهيت حتى الآن؟",
+        "context": "سؤال عن اكتمال فعل."
+      },
+      {
+        "id": 2,
+        "en": "Have you eaten breakfast yet?",
+        "ar": "هل أكلت الفطور حتى الآن؟",
+        "context": "سؤال عن تناول الفطور."
+      },
+      {
+        "id": 3,
+        "en": "I have not eaten yet.",
+        "ar": "لم آكل حتى الآن.",
+        "context": "نفي حدوث الأكل حتى اللحظة."
+      },
+      {
+        "id": 4,
+        "en": "Has she arrived yet?",
+        "ar": "هل وصلت حتى الآن؟",
+        "context": "سؤال عن الوصول."
+      },
+      {
+        "id": 5,
+        "en": "Have they called yet?",
+        "ar": "هل اتصلوا حتى الآن؟",
+        "context": "سؤال عن حدوث اتصال."
+      },
+      {
+        "id": 6,
+        "en": "We have eaten already.",
+        "ar": "لقد أكلنا بالفعل.",
+        "context": "إخبار أن الأكل تم."
+      },
+      {
+        "id": 7,
+        "en": "Have you paid yet?",
+        "ar": "هل دفعت حتى الآن؟",
+        "context": "سؤال عن إتمام الدفع."
+      },
+      {
+        "id": 8,
+        "en": "He has not ordered yet.",
+        "ar": "لم يطلب حتى الآن.",
+        "context": "نفي حدوث الطلب."
+      },
+      {
+        "id": 9,
+        "en": "Have you tried it yet?",
+        "ar": "هل جربته حتى الآن؟",
+        "context": "سؤال عن تجربة شيء."
+      },
+      {
+        "id": 10,
+        "en": "The food has not arrived yet.",
+        "ar": "لم يصل الطعام حتى الآن.",
+        "context": "نفي وصول الطعام حتى اللحظة."
+      }
+    ]
+  }
+}

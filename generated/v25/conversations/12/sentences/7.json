@@ -1,0 +1,175 @@
+{
+  "schemaVersion": 1,
+  "id": 7,
+  "sentence": {
+    "en": "I can see that your package has been shipped today, and it will arrive on Monday.",
+    "ar": "أستطيع أن أرى أن طردك قد تم شحنه اليوم، وهو سوف يصل يوم الإثنين.",
+    "context": "الموظف يخبر العميل بعد التحقق أن الطرد قد شُحن اليوم ويذكر موعد الوصول المتوقع."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "I can see that",
+        "ar": "أستطيع أن أرى أن",
+        "context": "يمهّد لذكر المعلومة التي تظهر أمام المتحدث الآن.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذا تركيب قدرة مع can يوضح أن المتكلم يستطيع رؤية المعلومة في النظام."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير المتكلم المفرد."
+          },
+          {
+            "term": "can",
+            "description": "تدل هنا على القدرة على رؤية المعلومة في النظام."
+          },
+          {
+            "term": "see",
+            "description": "أرى أو ألاحظ في البيانات."
+          },
+          {
+            "term": "that",
+            "description": "تدخل معلومة أو جملة يراها المتكلم."
+          }
+        ]
+      },
+      {
+        "sentence": "your package has been shipped today",
+        "ar": "طردك قد تم شحنه اليوم.",
+        "context": "يضيف به المتحدث تفصيلًا مهمًا داخل المعنى المقصود.",
+        "grammar": {
+          "tense": "المضارع التام",
+          "tenseEn": "Present Perfect",
+          "reason": "استُخدم للتعبير عن أن الشحن تم اليوم وأن نتيجته مهمة الآن، مع صيغة مبنية للمجهول لأن التركيز على الطرد لا على من شحنه."
+        },
+        "wordMeanings": [
+          {
+            "term": "your",
+            "description": "يدل على أن الطرد يخص المخاطب."
+          },
+          {
+            "term": "package",
+            "description": "طرد أو شحنة."
+          },
+          {
+            "term": "has",
+            "description": "تساعد هنا في تكوين معنى أن الشحن اكتمل وله نتيجة الآن."
+          },
+          {
+            "term": "been",
+            "description": "جزء من تركيب يوضح أن الطرد وقع عليه فعل الشحن."
+          },
+          {
+            "term": "shipped",
+            "description": "تم شحنه أو إرساله."
+          },
+          {
+            "term": "today",
+            "description": "هذا اليوم."
+          }
+        ]
+      },
+      {
+        "sentence": "and it will arrive on Monday",
+        "ar": "وسوف يصل يوم الإثنين.",
+        "context": "يضيف معلومة مكملة لما قبله.",
+        "grammar": {
+          "tense": "المستقبل البسيط",
+          "tenseEn": "Future Simple",
+          "reason": "استُخدم will للتحدث عن موعد وصول متوقع في المستقبل."
+        },
+        "wordMeanings": [
+          {
+            "term": "and",
+            "description": "تربط بين معلومة الشحن ومعلومة الوصول."
+          },
+          {
+            "term": "it",
+            "description": "ضمير يعود على الطرد."
+          },
+          {
+            "term": "will",
+            "description": "تدل على توقع أو معلومة عن المستقبل."
+          },
+          {
+            "term": "arrive",
+            "description": "يصل."
+          },
+          {
+            "term": "on",
+            "description": "تستخدم مع يوم محدد."
+          },
+          {
+            "term": "Monday",
+            "description": "يوم الإثنين."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I can see that your order has been confirmed today.",
+        "ar": "أستطيع أن أرى أن طلبك قد تم تأكيده اليوم.",
+        "context": "يُستخدم عند قراءة حالة طلب في النظام."
+      },
+      {
+        "id": 2,
+        "en": "Your package has been shipped, and it will arrive tomorrow.",
+        "ar": "تم شحن طردك، وسيصل غدًا.",
+        "context": "يُستخدم لإبلاغ عميل بحالة الشحنة."
+      },
+      {
+        "id": 3,
+        "en": "I can see that the payment has been received.",
+        "ar": "أستطيع أن أرى أن الدفع قد تم استلامه.",
+        "context": "يُستخدم عند تأكيد وصول دفعة."
+      },
+      {
+        "id": 4,
+        "en": "The ticket has been booked, and it will arrive by email.",
+        "ar": "تم حجز التذكرة، وستصل عبر البريد الإلكتروني.",
+        "context": "يُستخدم بعد إتمام حجز."
+      },
+      {
+        "id": 5,
+        "en": "I can see that your address has been updated.",
+        "ar": "أستطيع أن أرى أن عنوانك قد تم تحديثه.",
+        "context": "يُستخدم بعد تعديل بيانات عميل."
+      },
+      {
+        "id": 6,
+        "en": "The package has been delayed, and it will arrive on Friday.",
+        "ar": "تم تأخير الطرد، وسيصل يوم الجمعة.",
+        "context": "يُستخدم عند شرح تأخر شحنة."
+      },
+      {
+        "id": 7,
+        "en": "I can see that your request has been approved today.",
+        "ar": "أستطيع أن أرى أن طلبك قد تمت الموافقة عليه اليوم.",
+        "context": "يُستخدم عند إبلاغ شخص بنتيجة طلب."
+      },
+      {
+        "id": 8,
+        "en": "The order has been prepared, and it will leave tonight.",
+        "ar": "تم تجهيز الطلب، وسيغادر الليلة.",
+        "context": "يُستخدم عند تحديث حالة طلب."
+      },
+      {
+        "id": 9,
+        "en": "I can see that the package has arrived at the office.",
+        "ar": "أستطيع أن أرى أن الطرد قد وصل إلى المكتب.",
+        "context": "يُستخدم عند تتبع مكان شحنة."
+      },
+      {
+        "id": 10,
+        "en": "Your file has been reviewed, and we will call you on Monday.",
+        "ar": "تمت مراجعة ملفك، وسنتصل بك يوم الإثنين.",
+        "context": "يُستخدم لإبلاغ شخص بتحديث وخطوة مستقبلية."
+      }
+    ]
+  }
+}

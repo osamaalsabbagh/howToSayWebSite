@@ -1,0 +1,135 @@
+{
+  "schemaVersion": 1,
+  "id": 847,
+  "sentence": {
+    "en": "Do you think it is going to rain tomorrow?",
+    "ar": "هل تظن أنه ستمطر غدًا؟",
+    "context": "للسؤال عن توقعات الطقس ليوم غد."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Do you think",
+        "ar": "هل تظن",
+        "context": "بداية سؤال عن توقع أو رأي.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "يستخدم المضارع البسيط مع think لطلب رأي الشخص الآن."
+        },
+        "wordMeanings": [
+          {
+            "term": "Do",
+            "description": "أداة سؤال في المضارع البسيط"
+          },
+          {
+            "term": "you",
+            "description": "الشخص المخاطب"
+          },
+          {
+            "term": "think",
+            "description": "تظن أو تعتقد"
+          }
+        ]
+      },
+      {
+        "sentence": "it is going to rain tomorrow",
+        "ar": "أنه ستمطر غدا",
+        "context": "جزء يوضح توقعا مستقبليا عن طقس الغد.",
+        "grammar": {
+          "tense": "المستقبل القريب",
+          "tenseEn": "Future Simple",
+          "reason": "be going to يستخدم للتوقع أو النية المستقبلية، وهنا يتوقع المطر غدا."
+        },
+        "wordMeanings": [
+          {
+            "term": "it",
+            "description": "تستخدم للحديث عن الطقس"
+          },
+          {
+            "term": "is",
+            "description": "جزء من تركيب going to مع it"
+          },
+          {
+            "term": "going",
+            "description": "جزء من تركيب يدل على المستقبل"
+          },
+          {
+            "term": "to",
+            "description": "تكمل تركيب المستقبل going to"
+          },
+          {
+            "term": "rain",
+            "description": "تمطر"
+          },
+          {
+            "term": "tomorrow",
+            "description": "غدا"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Do you think it is going to snow tomorrow?",
+        "ar": "هل تظن أنه سيتساقط الثلج غدا؟",
+        "context": "للسؤال عن توقع الثلج."
+      },
+      {
+        "id": 2,
+        "en": "I think it is going to rain.",
+        "ar": "أظن أنها ستمطر.",
+        "context": "للتعبير عن توقع المطر."
+      },
+      {
+        "id": 3,
+        "en": "Do you think it is going to be hot?",
+        "ar": "هل تظن أن الجو سيكون حارا؟",
+        "context": "للسؤال عن توقع الحرارة."
+      },
+      {
+        "id": 4,
+        "en": "Do you think he is going to call?",
+        "ar": "هل تظن أنه سيتصل؟",
+        "context": "للسؤال عن توقع اتصال."
+      },
+      {
+        "id": 5,
+        "en": "Do you think we are going to be late?",
+        "ar": "هل تظن أننا سنتأخر؟",
+        "context": "للسؤال عن توقع التأخر."
+      },
+      {
+        "id": 6,
+        "en": "Do you think it will rain tomorrow?",
+        "ar": "هل تظن أنه ستمطر غدا؟",
+        "context": "صيغة أخرى للتوقع."
+      },
+      {
+        "id": 7,
+        "en": "Do you think they are going to arrive?",
+        "ar": "هل تظن أنهم سيصلون؟",
+        "context": "للسؤال عن توقع وصول."
+      },
+      {
+        "id": 8,
+        "en": "Do you think it is going to work?",
+        "ar": "هل تظن أنه سينجح؟",
+        "context": "للسؤال عن توقع نجاح."
+      },
+      {
+        "id": 9,
+        "en": "Do you think she is going to come?",
+        "ar": "هل تظن أنها ستأتي؟",
+        "context": "للسؤال عن توقع حضور."
+      },
+      {
+        "id": 10,
+        "en": "Do you think it is going to be sunny?",
+        "ar": "هل تظن أن الجو سيكون مشمسا؟",
+        "context": "للسؤال عن توقع الشمس."
+      }
+    ]
+  }
+}

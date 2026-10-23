@@ -1,0 +1,139 @@
+{
+  "schemaVersion": 1,
+  "id": 1248,
+  "sentence": {
+    "en": "Please take a seat, the doctor will see you soon.",
+    "ar": "رجاءً تفضل بالجلوس، سيراك الطبيب قريبًا.",
+    "context": "طريقة لبقة أو مهذبة لدعوة شخص للجلوس، وغالبًا تُستخدم في المكاتب أو المقابلات أو الأماكن الرسمية."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Please take a seat,",
+        "ar": "رجاءً تفضل بالجلوس،",
+        "context": "هذا الجزء دعوة مهذبة للجلوس في مكان رسمي أو مكتب.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه صيغة أمر مهذب وليست زمناً مستقلاً."
+        },
+        "wordMeanings": [
+          {
+            "term": "Please",
+            "description": "رجاءً أو من فضلك، تجعل الطلب مهذباً."
+          },
+          {
+            "term": "take",
+            "description": "خذ أو تفضل، وتأتي هنا بمعنى اجلس."
+          },
+          {
+            "term": "a",
+            "description": "أداة تأتي قبل اسم مفرد غير محدد."
+          },
+          {
+            "term": "seat",
+            "description": "مقعد أو مكان للجلوس."
+          }
+        ]
+      },
+      {
+        "sentence": "the doctor will see you soon.",
+        "ar": "سيراك الطبيب قريباً.",
+        "context": "هذا الجزء يطمئن الشخص أن الطبيب سيقابله بعد قليل.",
+        "grammar": {
+          "tense": "المستقبل البسيط",
+          "tenseEn": "Future Simple",
+          "reason": "استُخدم المستقبل البسيط لأن رؤية الطبيب ستحدث بعد وقت قصير."
+        },
+        "wordMeanings": [
+          {
+            "term": "the",
+            "description": "أداة تعريف تشير إلى طبيب معروف في المكان."
+          },
+          {
+            "term": "doctor",
+            "description": "طبيب."
+          },
+          {
+            "term": "will",
+            "description": "سوف أو سـ، وتدل على المستقبل."
+          },
+          {
+            "term": "see",
+            "description": "يرى أو يقابل في هذا السياق."
+          },
+          {
+            "term": "you",
+            "description": "أنت أو إياك حسب السياق."
+          },
+          {
+            "term": "soon",
+            "description": "قريباً أو بعد وقت قصير."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Please take a seat, the manager will see you soon.",
+        "ar": "رجاءً تفضل بالجلوس، سيراك المدير قريباً.",
+        "context": "تقال في مكتب عند انتظار مقابلة."
+      },
+      {
+        "id": 2,
+        "en": "Please sit down, the teacher will come soon.",
+        "ar": "من فضلك اجلس، سيأتي المعلم قريباً.",
+        "context": "تستخدم في صف أو مكتب."
+      },
+      {
+        "id": 3,
+        "en": "The doctor will call you soon.",
+        "ar": "سيناديك الطبيب قريباً.",
+        "context": "تقال لمريض ينتظر دوره."
+      },
+      {
+        "id": 4,
+        "en": "Please wait here, she will see you soon.",
+        "ar": "من فضلك انتظر هنا، ستراك قريباً.",
+        "context": "تستخدم عند استقبال زائر."
+      },
+      {
+        "id": 5,
+        "en": "Please take a seat in the office.",
+        "ar": "رجاءً تفضل بالجلوس في المكتب.",
+        "context": "تقال لدعوة شخص للجلوس في مكان رسمي."
+      },
+      {
+        "id": 6,
+        "en": "The doctor will be here soon.",
+        "ar": "سيكون الطبيب هنا قريباً.",
+        "context": "تقال لطمأنة المنتظر."
+      },
+      {
+        "id": 7,
+        "en": "Please take a seat and wait.",
+        "ar": "رجاءً تفضل بالجلوس وانتظر.",
+        "context": "تستخدم في صالة انتظار."
+      },
+      {
+        "id": 8,
+        "en": "The nurse will help you soon.",
+        "ar": "ستساعدك الممرضة قريباً.",
+        "context": "تقال في عيادة أو مستشفى."
+      },
+      {
+        "id": 9,
+        "en": "Please come in, the doctor is ready.",
+        "ar": "رجاءً ادخل، الطبيب جاهز.",
+        "context": "تقال عندما يحين دور المريض."
+      },
+      {
+        "id": 10,
+        "en": "Please take a seat near the door.",
+        "ar": "رجاءً تفضل بالجلوس قرب الباب.",
+        "context": "تستخدم لتحديد مكان الجلوس."
+      }
+    ]
+  }
+}

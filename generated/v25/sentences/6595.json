@@ -1,0 +1,125 @@
+{
+  "schemaVersion": 1,
+  "id": 6595,
+  "sentence": {
+    "en": "Call me whenever you need help.",
+    "ar": "اتصل بي متى ما أنت احتجت إلى مساعدة.",
+    "context": "دعوة إلى الاتصال في أي وقت توجد فيه حاجة إلى مساعدة دون تحديد موقف أو مكان.",
+    "sourceWord": "whenever",
+    "sourcePos": "conj."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Call me",
+        "ar": "اتصل بي",
+        "context": "دعوة إلى التواصل بالاتصال.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "صيغة أمر بلا زمن مستقل."
+        },
+        "wordMeanings": [
+          {
+            "term": "Call",
+            "description": "اتصل بـ."
+          },
+          {
+            "term": "me",
+            "description": "ي."
+          }
+        ]
+      },
+      {
+        "sentence": "whenever you need help.",
+        "ar": "متى ما أنت احتجت إلى مساعدة.",
+        "context": "إتاحة الاتصال في أي وقت توجد فيه حاجة إلى مساعدة.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "المضارع البسيط بعد أداة الربط التي تعني في أي وقت."
+        },
+        "wordMeanings": [
+          {
+            "term": "whenever",
+            "description": "متى ما؛ في أي وقت."
+          },
+          {
+            "term": "you",
+            "description": "أنت."
+          },
+          {
+            "term": "need",
+            "description": "تحتاج إلى."
+          },
+          {
+            "term": "help",
+            "description": "مساعدة."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Call me whenever you need help.",
+        "ar": "اتصل بي متى ما أنت احتجت إلى مساعدة.",
+        "context": "دعوة إلى الاتصال في أي وقت توجد فيه حاجة إلى مساعدة دون تحديد موقف أو مكان."
+      },
+      {
+        "id": 2,
+        "en": "Whenever he travels, he brings us gifts.",
+        "ar": "كلما هو سافر، هو يحضر لنا هدايا.",
+        "context": "وصف هدايا تتكرر مع كل سفر لشخص دون تحديد صلته بالمتكلمين أو سبب السفر."
+      },
+      {
+        "id": 3,
+        "en": "The door squeaks whenever someone opens it.",
+        "ar": "الباب يصر كلما شخص فتحه.",
+        "context": "وصف صوت يتكرر عند فتح باب."
+      },
+      {
+        "id": 4,
+        "en": "She smiled whenever she remembered the trip.",
+        "ar": "هي ابتسمت كلما هي تذكرت الرحلة.",
+        "context": "وصف استجابة سابقة تكررت مع استحضار ذكرى."
+      },
+      {
+        "id": 5,
+        "en": "We have saved copies whenever the file has changed.",
+        "ar": "نحن قد حفظنا نسخًا كلما الملف تغير.",
+        "context": "الإبلاغ عن حفظ متكرر مرتبط بتعديلات حتى الآن."
+      },
+      {
+        "id": 6,
+        "en": "The team is taking notes whenever a new issue arises.",
+        "ar": "الفريق يدون ملاحظات كلما مسألة جديدة ظهرت.",
+        "context": "وصف إجراء جارٍ يتكرر عند حدوث أمر جديد."
+      },
+      {
+        "id": 7,
+        "en": "The guide will be available whenever you need it.",
+        "ar": "الدليل سيكون متاحًا متى ما أنت احتجت إليه.",
+        "context": "توقع إتاحة مورد عند أي حاجة مستقبلية."
+      },
+      {
+        "id": 8,
+        "en": "Please visit whenever it suits you.",
+        "ar": "من فضلك زرنا في أي وقت يناسبك.",
+        "context": "دعوة مرنة لا تفرض وقتًا محددًا للزيارة."
+      },
+      {
+        "id": 9,
+        "en": "Whenever possible, the class meets outdoors.",
+        "ar": "كلما أمكن، الصف يلتقي في الخارج.",
+        "context": "وصف تفضيل معتاد مشروط بتوافر الإمكان."
+      },
+      {
+        "id": 10,
+        "en": "He checked the map whenever the path divided.",
+        "ar": "هو راجع الخريطة كلما المسار تفرع.",
+        "context": "وصف إجراء سابق تكرر عند نقاط اختيار اتجاه."
+      }
+    ]
+  }
+}

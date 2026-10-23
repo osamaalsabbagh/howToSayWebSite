@@ -1,0 +1,125 @@
+{
+  "schemaVersion": 1,
+  "id": 6593,
+  "sentence": {
+    "en": "You can eat whatever you want.",
+    "ar": "أنت تستطيع أن تأكل أيًّا كان ما تريده.",
+    "context": "إذن بالأكل دون أي قيد على اختيار الطعام.",
+    "sourceWord": "whatever",
+    "sourcePos": "det./pron."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "You can eat",
+        "ar": "أنت تستطيع أن تأكل",
+        "context": "منح إذن بتناول طعام.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "تعبر can عن الإذن، ولا يحمل هذا الجزء زمنًا مستقلًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "You",
+            "description": "أنت."
+          },
+          {
+            "term": "can",
+            "description": "تستطيع."
+          },
+          {
+            "term": "eat",
+            "description": "تأكل."
+          }
+        ]
+      },
+      {
+        "sentence": "whatever you want.",
+        "ar": "أيًّا كان ما تريده.",
+        "context": "ترك اختيار الطعام مفتوحًا لرغبة المخاطب.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "تصف want رغبة المخاطب الحالية، وتفتح whatever الاختيار لأي طعام مقصود."
+        },
+        "wordMeanings": [
+          {
+            "term": "whatever",
+            "description": "أيًّا كان ما؛ أي شيء دون تحديد."
+          },
+          {
+            "term": "you",
+            "description": "أنت."
+          },
+          {
+            "term": "want",
+            "description": "تريد."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "You can eat whatever you want.",
+        "ar": "أنت تستطيع أن تأكل أيًّا كان ما تريده.",
+        "context": "إتاحة اختيار الطعام دون تقييد بنوع معين داخل الموقف المقصود دون تعيين من يمنح الإذن."
+      },
+      {
+        "id": 2,
+        "en": "Whatever money I have is yours.",
+        "ar": "أي مال أنا لدي هو لك.",
+        "context": "عرض المال المتاح للمتكلم كله للمخاطب مهما كان مقداره دون تحديد العلاقة بينهما."
+      },
+      {
+        "id": 3,
+        "en": "Take whatever books you need.",
+        "ar": "خذ أي كتب أنت تحتاج إليها.",
+        "context": "طلب اختيار الكتب وفق الحاجة دون حصرها في عناوين معينة."
+      },
+      {
+        "id": 4,
+        "en": "Whatever happens, we will stay together.",
+        "ar": "مهما يحدث، نحن سنبقى معًا.",
+        "context": "تأكيد استمرار علاقة أو جماعة بصرف النظر عن الأحداث القادمة."
+      },
+      {
+        "id": 5,
+        "en": "We have used whatever materials were available.",
+        "ar": "نحن قد استخدمنا أي مواد كانت متاحة.",
+        "context": "الإبلاغ عن إنجاز بموارد متوافرة دون اشتراط نوع محدد."
+      },
+      {
+        "id": 6,
+        "en": "The artist is making shapes from whatever she finds.",
+        "ar": "الفنانة تصنع أشكالًا من أي شيء هي تجده.",
+        "context": "وصف ابتكار جارٍ يعتمد على مواد يصادفها الشخص."
+      },
+      {
+        "id": 7,
+        "en": "The team will accept whatever decision you make.",
+        "ar": "الفريق سيقبل أي قرار أنت تتخذه.",
+        "context": "توقع قبول نتيجة اختيار دون تقييد مضمونها."
+      },
+      {
+        "id": 8,
+        "en": "She wore whatever was clean.",
+        "ar": "هي ارتدت أي شيء كان نظيفًا.",
+        "context": "وصف اختيار سابق للملابس على أساس شرط واحد."
+      },
+      {
+        "id": 9,
+        "en": "Please write down whatever you remember.",
+        "ar": "من فضلك دوّن أي شيء أنت تتذكره.",
+        "context": "طلب تسجيل كل معلومة متاحة في الذاكرة."
+      },
+      {
+        "id": 10,
+        "en": "Whatever route we choose, the journey is long.",
+        "ar": "أيًا يكن مسارنا المختار، الرحلة طويلة.",
+        "context": "وصف طول ثابت للرحلة مع اختلاف البدائل المتاحة."
+      }
+    ]
+  }
+}

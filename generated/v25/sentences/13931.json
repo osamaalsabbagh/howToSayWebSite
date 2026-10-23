@@ -1,0 +1,109 @@
+{
+  "schemaVersion": 1,
+  "id": 13931,
+  "sentence": {
+    "en": "Put the car in reverse.",
+    "ar": "ضع السيارة على الرجوع للخلف.",
+    "context": "تعليمات قيادة لاختيار الوضع الذي يجعل السيارة تتحرك إلى الوراء.",
+    "sourceWord": "reverse",
+    "sourcePos": "n."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Put the car in reverse.",
+        "ar": "ضع السيارة على الرجوع للخلف.",
+        "context": "تعليمات قيادة لاختيار الوضع الذي يجعل السيارة تتحرك إلى الوراء.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "جملة أمر تطلب من المخاطب القيام بشيء؛ لا يوجد فاعل ظاهر ولا زمن مستقل."
+        },
+        "wordMeanings": [
+          {
+            "term": "Put",
+            "description": "ضع"
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف"
+          },
+          {
+            "term": "car",
+            "description": "السيارة"
+          },
+          {
+            "term": "in",
+            "description": "على"
+          },
+          {
+            "term": "reverse",
+            "description": "الرجوع للخلف؛ وضع القيادة إلى الوراء"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Put the car in reverse.",
+        "ar": "ضع السيارة على الرجوع للخلف.",
+        "context": "تعليمات قيادة لاختيار الوضع الذي يجعل السيارة تتحرك إلى الوراء."
+      },
+      {
+        "id": 2,
+        "en": "The truck went into reverse.",
+        "ar": "الشاحنة دخلت وضع الرجوع للخلف.",
+        "context": "قيادة."
+      },
+      {
+        "id": 3,
+        "en": "Actually, the reverse is true.",
+        "ar": "في الواقع، العكس هو الصحيح.",
+        "context": "نقاش."
+      },
+      {
+        "id": 4,
+        "en": "The process works in reverse.",
+        "ar": "العملية تعمل بالعكس.",
+        "context": "شرح."
+      },
+      {
+        "id": 5,
+        "en": "Read the list in reverse.",
+        "ar": "اقرأ القائمة بالعكس.",
+        "context": "لعبة."
+      },
+      {
+        "id": 6,
+        "en": "The army suffered a reverse.",
+        "ar": "الجيش عانى انتكاسة.",
+        "context": "حرب."
+      },
+      {
+        "id": 7,
+        "en": "Prices went into reverse.",
+        "ar": "الأسعار انعكست.",
+        "context": "اقتصاد."
+      },
+      {
+        "id": 8,
+        "en": "Do the steps in reverse to undo them.",
+        "ar": "قم بالخطوات بالعكس لتلغيها.",
+        "context": "تعليمات."
+      },
+      {
+        "id": 9,
+        "en": "The design is on the reverse of the coin.",
+        "ar": "التصميم على الوجه الخلفي للعملة.",
+        "context": "عملات."
+      },
+      {
+        "id": 10,
+        "en": "She did the reverse of what I asked.",
+        "ar": "هي فعلت عكس ما طلبته.",
+        "context": "سلوك."
+      }
+    ]
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "schemaVersion": 1,
+  "id": 440,
+  "sentence": {
+    "en": "Is there a store near here?",
+    "ar": "هل يوجد متجر قريب من هنا؟",
+    "context": "سائح في مدينة أمريكية يسأل عن متجر قريب من مكانه."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Is there a store near here?",
+        "ar": "هل يوجد متجر قريب من هنا؟",
+        "context": "سؤال عن وجود متجر قريب من مكان المتكلم.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "يستخدم المضارع البسيط للسؤال عن حالة أو توفر أو معلومة حالية."
+        },
+        "wordMeanings": [
+          {
+            "term": "Is",
+            "description": "صيغة سؤال عن وجود شيء أو حالته"
+          },
+          {
+            "term": "there",
+            "description": "تستخدم مع is للسؤال عن وجود شيء"
+          },
+          {
+            "term": "a",
+            "description": "أداة قبل اسم مفرد غير محدد"
+          },
+          {
+            "term": "store",
+            "description": "متجر أو محل"
+          },
+          {
+            "term": "near",
+            "description": "قريب من مكان"
+          },
+          {
+            "term": "here",
+            "description": "هنا أو في هذا المكان"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Is there a store near here?",
+        "ar": "هل يوجد متجر قريب من هنا؟",
+        "context": "سؤال عن وجود متجر قريب، بالكلمة الأمريكية."
+      },
+      {
+        "id": 2,
+        "en": "Is there a pharmacy near here?",
+        "ar": "هل توجد صيدلية قريبة من هنا؟",
+        "context": "سؤال عن وجود صيدلية قريبة."
+      },
+      {
+        "id": 3,
+        "en": "Is there a restaurant near here?",
+        "ar": "هل يوجد مطعم قريب من هنا؟",
+        "context": "سؤال عن وجود مطعم قريب."
+      },
+      {
+        "id": 4,
+        "en": "Is there a bathroom near here?",
+        "ar": "هل يوجد حمام قريب من هنا؟",
+        "context": "سؤال عن وجود حمام قريب."
+      },
+      {
+        "id": 5,
+        "en": "Is there a bus stop near here?",
+        "ar": "هل يوجد موقف حافلات قريب من هنا؟",
+        "context": "سؤال عن وجود موقف حافلات قريب."
+      },
+      {
+        "id": 6,
+        "en": "Is there a hotel near here?",
+        "ar": "هل يوجد فندق قريب من هنا؟",
+        "context": "سؤال عن وجود فندق قريب."
+      },
+      {
+        "id": 7,
+        "en": "Is there a market near here?",
+        "ar": "هل يوجد سوق قريب من هنا؟",
+        "context": "سؤال عن وجود سوق قريب."
+      },
+      {
+        "id": 8,
+        "en": "Is there a hospital near here?",
+        "ar": "هل يوجد مستشفى قريب من هنا؟",
+        "context": "سؤال عن وجود مستشفى قريب."
+      },
+      {
+        "id": 9,
+        "en": "Is there a cafe near here?",
+        "ar": "هل يوجد مقهى قريب من هنا؟",
+        "context": "سؤال عن وجود مقهى قريب، بكلمة واحدة."
+      },
+      {
+        "id": 10,
+        "en": "Is there a taxi stand near here?",
+        "ar": "هل يوجد موقف سيارات أجرة قريب من هنا؟",
+        "context": "سؤال عن وجود موقف سيارات أجرة قريب."
+      }
+    ]
+  }
+}

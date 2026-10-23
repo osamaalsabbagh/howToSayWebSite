@@ -1,0 +1,125 @@
+{
+  "schemaVersion": 1,
+  "id": 6905,
+  "sentence": {
+    "en": "Metal contracts when it gets cold.",
+    "ar": "المعدن ينكمش عندما هو يبرد.",
+    "context": "وصف انخفاض في حجم معدن مع انخفاض حرارته في الحالة المعتادة المقصودة.",
+    "sourceWord": "contract",
+    "sourcePos": "v."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Metal contracts",
+        "ar": "المعدن ينكمش",
+        "context": "وصف انخفاض معتاد في حجم معدن.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "المضارع البسيط يعبر عن حقيقة علمية. الفعل يعني يصغر حجمه."
+        },
+        "wordMeanings": [
+          {
+            "term": "Metal",
+            "description": "المعدن."
+          },
+          {
+            "term": "contracts",
+            "description": "ينكمش."
+          }
+        ]
+      },
+      {
+        "sentence": "when it gets cold.",
+        "ar": "عندما هو يبرد.",
+        "context": "ربط الانكماش بانخفاض حرارة المعدن.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "المضارع البسيط يعبر عن حقيقة عامة."
+        },
+        "wordMeanings": [
+          {
+            "term": "when",
+            "description": "عندما."
+          },
+          {
+            "term": "it",
+            "description": "هو؛ ضمير لغير العاقل."
+          },
+          {
+            "term": "gets",
+            "description": "يصبح."
+          },
+          {
+            "term": "cold",
+            "description": "باردًا."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Metal contracts when it gets cold.",
+        "ar": "المعدن ينكمش عندما هو يبرد.",
+        "context": "وصف انخفاض في حجم معدن مع انخفاض حرارته في الحالة المعتادة المقصودة."
+      },
+      {
+        "id": 2,
+        "en": "The company contracts local teams for repairs.",
+        "ar": "الشركة تتعاقد مع فرق محلية للإصلاحات.",
+        "context": "وصف إسناد معتاد لمهام إلى جهات خارجية."
+      },
+      {
+        "id": 3,
+        "en": "We have contracted with a supplier for the equipment.",
+        "ar": "نحن قد تعاقدنا مع مورد لتوفير المعدات.",
+        "context": "الإبلاغ عن إبرام مكتمل لاتفاق تجاري."
+      },
+      {
+        "id": 4,
+        "en": "The muscle is contracting.",
+        "ar": "العضلة تنقبض.",
+        "context": "وصف تغير جسدي جارٍ في طول نسيج عضلي."
+      },
+      {
+        "id": 5,
+        "en": "The new process will contract the material slightly.",
+        "ar": "العملية الجديدة ستقلص المادة قليلًا.",
+        "context": "توقع انخفاض محدود في حجم مادة نتيجة إجراء."
+      },
+      {
+        "id": 6,
+        "en": "He contracted an illness during the journey.",
+        "ar": "هو أصيب بمرض أثناء الرحلة.",
+        "context": "وصف وقوع سابق لمرض في سياق سفر دون تحديد السبب أو النوع."
+      },
+      {
+        "id": 7,
+        "en": "Please observe how the shape contracts in the model.",
+        "ar": "من فضلك لاحظ كيفية انكماش الشكل في النموذج.",
+        "context": "طلب مشاهدة تغير حجم في تمثيل تعليمي."
+      },
+      {
+        "id": 8,
+        "en": "The market contracted in the fictional economy.",
+        "ar": "السوق انكمشت في الاقتصاد المتخيل.",
+        "context": "وصف تراجع سابق في حجم نشاط ضمن مثال غير واقعي محدد."
+      },
+      {
+        "id": 9,
+        "en": "The task was contracted out to a specialist.",
+        "ar": "المهمة أُسندت بالتعاقد إلى مختص.",
+        "context": "وصف ترتيب سابق لتنفيذ عمل بواسطة جهة خارجية."
+      },
+      {
+        "id": 10,
+        "en": "The fabric contracted after washing.",
+        "ar": "القماش انكمش بعد الغسل.",
+        "context": "وصف صغر سابق في أبعاد نسيج."
+      }
+    ]
+  }
+}

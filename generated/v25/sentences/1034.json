@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "id": 1034,
+  "sentence": {
+    "en": "I forgot my password.",
+    "ar": "نسيت كلمة المرور خاصتي.",
+    "context": "تُستخدم لإخبار شخص أنك لا تستطيع تذكر بيانات الدخول الخاصة بك."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "I forgot my password",
+        "ar": "نسيت كلمة المرور خاصتي",
+        "context": "تُستخدم عند عدم القدرة على تذكر كلمة الدخول.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "استُخدم الماضي البسيط لأن نسيان كلمة المرور حدث قبل وقت الكلام وما زالت نتيجته واضحة."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير يشير إلى المتكلم"
+          },
+          {
+            "term": "forgot",
+            "description": "نسيت"
+          },
+          {
+            "term": "my",
+            "description": "خاصتي، وتدل على أن كلمة المرور للمتكلم"
+          },
+          {
+            "term": "password",
+            "description": "كلمة مرور أو رمز دخول"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I forgot my username.",
+        "ar": "نسيت اسم المستخدم الخاص بي.",
+        "context": "تُستخدم عند مشكلة تسجيل الدخول."
+      },
+      {
+        "id": 2,
+        "en": "I forgot my email password.",
+        "ar": "نسيت كلمة مرور بريدي الإلكتروني.",
+        "context": "تُستخدم مع حساب بريد."
+      },
+      {
+        "id": 3,
+        "en": "Can I reset my password?",
+        "ar": "هل يمكنني إعادة تعيين كلمة المرور؟",
+        "context": "تُستخدم لطلب حل."
+      },
+      {
+        "id": 4,
+        "en": "I cannot log in.",
+        "ar": "لا أستطيع تسجيل الدخول.",
+        "context": "تُستخدم عند فشل الدخول."
+      },
+      {
+        "id": 5,
+        "en": "My password is not working.",
+        "ar": "كلمة مروري لا تعمل.",
+        "context": "تُستخدم عند رفض النظام للكلمة."
+      },
+      {
+        "id": 6,
+        "en": "I need a new password.",
+        "ar": "أحتاج إلى كلمة مرور جديدة.",
+        "context": "تُستخدم عند تغيير بيانات الدخول."
+      },
+      {
+        "id": 7,
+        "en": "I forgot my account number.",
+        "ar": "نسيت رقم حسابي.",
+        "context": "تُستخدم عند نسيان معلومة حساب."
+      },
+      {
+        "id": 8,
+        "en": "She forgot her password.",
+        "ar": "هي نسيت كلمة مرورها.",
+        "context": "تُستخدم عن شخص آخر."
+      },
+      {
+        "id": 9,
+        "en": "Please help me reset my password.",
+        "ar": "من فضلك ساعدني في إعادة تعيين كلمة المرور.",
+        "context": "تُستخدم مع خدمة العملاء."
+      },
+      {
+        "id": 10,
+        "en": "I forgot the code.",
+        "ar": "نسيت الرمز.",
+        "context": "تُستخدم عند نسيان رمز دخول."
+      }
+    ]
+  }
+}

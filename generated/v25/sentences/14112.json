@@ -1,0 +1,113 @@
+{
+  "schemaVersion": 1,
+  "id": 14112,
+  "sentence": {
+    "en": "Can you spare a few minutes?",
+    "ar": "هل أنت تستطيع أن تمنحني بضع دقائق؟",
+    "context": "طلب مهذب من شخص مشغول أن يعطي القليل من وقته.",
+    "sourceWord": "spare",
+    "sourcePos": "v."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Can you spare a few minutes?",
+        "ar": "هل أنت تستطيع أن تمنحني بضع دقائق؟",
+        "context": "طلب مهذب من شخص مشغول أن يعطي القليل من وقته.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "الفعل الناقص «can» في السؤال يطلب شيئًا بأدب، ويليه الفعل في صيغته الأساسية؛ لذلك لا يوجد زمن مستقل."
+        },
+        "wordMeanings": [
+          {
+            "term": "Can",
+            "description": "هل تستطيع"
+          },
+          {
+            "term": "you",
+            "description": "أنت"
+          },
+          {
+            "term": "spare",
+            "description": "أن تمنح؛ تعطي شيئًا يمكن الاستغناء عنه"
+          },
+          {
+            "term": "a",
+            "description": "أداة تنكير؛ مع الكلمة التالية تعني بضع"
+          },
+          {
+            "term": "few",
+            "description": "بضع"
+          },
+          {
+            "term": "minutes",
+            "description": "دقائق"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Can you spare a few minutes?",
+        "ar": "هل أنت تستطيع أن تمنحني بضع دقائق؟",
+        "context": "طلب مهذب من شخص مشغول أن يعطي القليل من وقته."
+      },
+      {
+        "id": 2,
+        "en": "Can you spare some change?",
+        "ar": "هل تستطيع أن تعطي بعض الفكة؟",
+        "context": "شارع."
+      },
+      {
+        "id": 3,
+        "en": "I cannot spare the time.",
+        "ar": "أنا لا أستطيع توفير الوقت.",
+        "context": "انشغال."
+      },
+      {
+        "id": 4,
+        "en": "We have no money to spare.",
+        "ar": "نحن ليس لدينا مال زائد.",
+        "context": "مال."
+      },
+      {
+        "id": 5,
+        "en": "Spare me the details.",
+        "ar": "وفّر علي التفاصيل.",
+        "context": "ملل."
+      },
+      {
+        "id": 6,
+        "en": "We arrived with time to spare.",
+        "ar": "نحن وصلنا بوقت فائض.",
+        "context": "سفر."
+      },
+      {
+        "id": 7,
+        "en": "Can you spare a pen?",
+        "ar": "هل تستطيع أن تعطيني قلمًا؟",
+        "context": "مدرسة."
+      },
+      {
+        "id": 8,
+        "en": "They spared no expense on the wedding.",
+        "ar": "هم لم يبخلوا بأي مال على الزفاف.",
+        "context": "زفاف."
+      },
+      {
+        "id": 9,
+        "en": "I can spare one chair.",
+        "ar": "أنا أستطيع الاستغناء عن كرسي واحد.",
+        "context": "مساعدة."
+      },
+      {
+        "id": 10,
+        "en": "Spare a thought for the workers.",
+        "ar": "فكر قليلًا في العمال.",
+        "context": "تعاطف."
+      }
+    ]
+  }
+}

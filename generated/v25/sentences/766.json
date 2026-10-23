@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "id": 766,
+  "sentence": {
+    "en": "Is your son here?",
+    "ar": "هل ابنك هنا؟",
+    "context": "السؤال عن وجود ابن الشخص."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Is your son here?",
+        "ar": "هل ابنك هنا؟",
+        "context": "سؤال عن وجود الابن في المكان الحالي.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "الفعل is يصف مكان الشخص الآن، وتقديمه في البداية يحول الجملة إلى سؤال."
+        },
+        "wordMeanings": [
+          {
+            "term": "Is",
+            "description": "هل يكون أو هل يوجد الآن"
+          },
+          {
+            "term": "your",
+            "description": "الخاص بك أو التابع لك"
+          },
+          {
+            "term": "son",
+            "description": "ابن"
+          },
+          {
+            "term": "here",
+            "description": "في هذا المكان"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Is your daughter here?",
+        "ar": "هل ابنتك هنا؟",
+        "context": "للسؤال عن وجود الابنة."
+      },
+      {
+        "id": 2,
+        "en": "Is your father here?",
+        "ar": "هل والدك هنا؟",
+        "context": "للسؤال عن وجود الأب."
+      },
+      {
+        "id": 3,
+        "en": "Is your mother here?",
+        "ar": "هل والدتك هنا؟",
+        "context": "للسؤال عن وجود الأم."
+      },
+      {
+        "id": 4,
+        "en": "Is your friend here?",
+        "ar": "هل صديقك هنا؟",
+        "context": "للسؤال عن وجود صديق."
+      },
+      {
+        "id": 5,
+        "en": "Is your son at school?",
+        "ar": "هل ابنك في المدرسة؟",
+        "context": "للسؤال عن مكان الابن."
+      },
+      {
+        "id": 6,
+        "en": "Is he here now?",
+        "ar": "هل هو هنا الآن؟",
+        "context": "للتأكد من وجود شخص حاليا."
+      },
+      {
+        "id": 7,
+        "en": "Is your child here?",
+        "ar": "هل طفلك هنا؟",
+        "context": "للسؤال عن طفل بشكل عام."
+      },
+      {
+        "id": 8,
+        "en": "Is your son with you?",
+        "ar": "هل ابنك معك؟",
+        "context": "للسؤال عن مرافقة الابن."
+      },
+      {
+        "id": 9,
+        "en": "Is the teacher here?",
+        "ar": "هل المعلم هنا؟",
+        "context": "في صف أو موعد."
+      },
+      {
+        "id": 10,
+        "en": "Is your family here?",
+        "ar": "هل عائلتك هنا؟",
+        "context": "للسؤال عن وجود العائلة."
+      }
+    ]
+  }
+}

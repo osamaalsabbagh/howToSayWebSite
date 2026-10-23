@@ -1,0 +1,131 @@
+{
+  "schemaVersion": 1,
+  "id": 630,
+  "sentence": {
+    "en": "If you like it I can buy more.",
+    "ar": "إذا أعجبك يمكنني شراء المزيد.",
+    "context": "اقتراح شراء المزيد إذا أعجب الآخر بالشيء."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "If you like it",
+        "ar": "إذا أعجبك ذلك",
+        "context": "هذا الجزء يضع شرطاً: إعجاب المخاطب بالشيء.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "يُستخدم المضارع البسيط بعد الشرط للتعبير عن احتمال حقيقي في الحاضر أو المستقبل."
+        },
+        "wordMeanings": [
+          {
+            "term": "If",
+            "description": "إذا، وتبدأ شرطاً."
+          },
+          {
+            "term": "you",
+            "description": "أنت أو أنتم حسب السياق."
+          },
+          {
+            "term": "like",
+            "description": "يعجبك أو تحب."
+          },
+          {
+            "term": "it",
+            "description": "ذلك الشيء أو هذا الشيء."
+          }
+        ]
+      },
+      {
+        "sentence": "I can buy more.",
+        "ar": "يمكنني شراء المزيد.",
+        "context": "هذا الجزء يوضح النتيجة المقترحة إذا تحقق الشرط.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه بنية قدرة أو إمكانية باستخدام فعل مساعد، وليست زمناً مستقلاً."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير يعني أنا."
+          },
+          {
+            "term": "can",
+            "description": "يمكنني أو أستطيع."
+          },
+          {
+            "term": "buy",
+            "description": "أشتري."
+          },
+          {
+            "term": "more",
+            "description": "المزيد أو كمية إضافية."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "If you like it I can make more.",
+        "ar": "إذا أعجبك يمكنني صنع المزيد.",
+        "context": "تقال عند عرض تكرار شيء أعجب الشخص."
+      },
+      {
+        "id": 2,
+        "en": "If you want it I can buy it.",
+        "ar": "إذا أردته يمكنني شراءه.",
+        "context": "تستخدم عند عرض شراء شيء لشخص."
+      },
+      {
+        "id": 3,
+        "en": "If she likes it we can buy more.",
+        "ar": "إذا أعجبها يمكننا شراء المزيد.",
+        "context": "تقال عند انتظار رأي امرأة."
+      },
+      {
+        "id": 4,
+        "en": "I can buy more tomorrow.",
+        "ar": "يمكنني شراء المزيد غداً.",
+        "context": "تستخدم لتحديد وقت شراء إضافي."
+      },
+      {
+        "id": 5,
+        "en": "If you need it I can help.",
+        "ar": "إذا احتجت إليه يمكنني المساعدة.",
+        "context": "تقال لعرض المساعدة بشرط الحاجة."
+      },
+      {
+        "id": 6,
+        "en": "If you like this food I can cook more.",
+        "ar": "إذا أعجبك هذا الطعام يمكنني طبخ المزيد.",
+        "context": "تستخدم عند عرض طعام إضافي."
+      },
+      {
+        "id": 7,
+        "en": "If they like it I can order more.",
+        "ar": "إذا أعجبهم يمكنني طلب المزيد.",
+        "context": "تقال عن قرار يعتمد على رأي مجموعة."
+      },
+      {
+        "id": 8,
+        "en": "You can buy more if you need more.",
+        "ar": "يمكنك شراء المزيد إذا احتجت إلى المزيد.",
+        "context": "تستخدم لإعطاء خيار لشخص."
+      },
+      {
+        "id": 9,
+        "en": "If you like the shirt I can buy it.",
+        "ar": "إذا أعجبك القميص يمكنني شراءه.",
+        "context": "تقال عند التسوق للملابس."
+      },
+      {
+        "id": 10,
+        "en": "If you do not like it I can return it.",
+        "ar": "إذا لم يعجبك يمكنني إرجاعه.",
+        "context": "تستخدم لطمأنة شخص قبل الشراء."
+      }
+    ]
+  }
+}

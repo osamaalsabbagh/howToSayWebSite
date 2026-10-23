@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 1,
+  "id": 7302,
+  "sentence": {
+    "en": "Are you implying that I am lying?",
+    "ar": "هل أنت تلمح إلى أنني أكذب؟",
+    "context": "سؤال يواجه المخاطب بدلالة غير مباشرة في كلامه على عدم صدق المتكلم دون افتراض علاقة عمل.",
+    "sourceWord": "imply",
+    "sourcePos": "v."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Are you implying",
+        "ar": "هل أنت تلمح",
+        "context": "سؤال عن دلالة غير مباشرة في كلام المخاطب الآن.",
+        "grammar": {
+          "tense": "المضارع المستمر",
+          "tenseEn": "Present Continuous",
+          "reason": "المضارع المستمر في السؤال. الفعل يعني يقول شيئًا بشكل غير مباشر."
+        },
+        "wordMeanings": [
+          {
+            "term": "Are",
+            "description": "هل؛ مساعد المضارع المستمر."
+          },
+          {
+            "term": "you",
+            "description": "أنت."
+          },
+          {
+            "term": "implying",
+            "description": "تلمح."
+          }
+        ]
+      },
+      {
+        "sentence": "that I am lying?",
+        "ar": "إلى أنني أكذب؟",
+        "context": "تحديد الدلالة المفترضة بأنها اتهام المتكلم بعدم الصدق.",
+        "grammar": {
+          "tense": "المضارع المستمر",
+          "tenseEn": "Present Continuous",
+          "reason": "تصف am lying الاتهام المفترض في السؤال بحالة جارية، ولا تؤكد الجملة أن المتكلم يكذب فعلًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "that",
+            "description": "إلى أن."
+          },
+          {
+            "term": "I",
+            "description": "أنا؛ ني."
+          },
+          {
+            "term": "am",
+            "description": "مساعد المضارع المستمر."
+          },
+          {
+            "term": "lying",
+            "description": "أكذب."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Are you implying that I am lying?",
+        "ar": "هل أنت تلمح إلى أنني أكذب؟",
+        "context": "سؤال يواجه المخاطب بدلالة غير مباشرة في كلامه على عدم صدق المتكلم دون افتراض علاقة عمل."
+      },
+      {
+        "id": 2,
+        "en": "The evidence implied a connection between the two events.",
+        "ar": "الأدلة أشارت ضمنًا إلى صلة بين الحدثين.",
+        "context": "استنتاج صلة من دلالات أدلة في موقف سابق، لا تلميح شخص بالكلام أو إثبات علاقة سببية."
+      },
+      {
+        "id": 3,
+        "en": "The manager implied that we might lose our jobs.",
+        "ar": "المدير ألمح إلى أننا قد نفقد وظائفنا.",
+        "context": "وصف تلميح سابق لاحتمال فقد العمل دون افتراض اجتماع أو قرار فصل نهائي."
+      },
+      {
+        "id": 4,
+        "en": "A larger size does not imply better quality.",
+        "ar": "الحجم الأكبر لا يعني بالضرورة جودة أفضل.",
+        "context": "نفي استنتاج التفوق في الجودة من الحجم وحده."
+      },
+      {
+        "id": 5,
+        "en": "We have never implied approval of the method.",
+        "ar": "نحن لم نلمح قط إلى الموافقة على الطريقة.",
+        "context": "نفي صدور دلالة ضمنية على التأييد حتى الآن."
+      },
+      {
+        "id": 6,
+        "en": "The speaker is implying a change of direction.",
+        "ar": "المتحدث يلمح إلى تغيير في الاتجاه.",
+        "context": "وصف دلالة جارية في كلام على تعديل مسار عمل."
+      },
+      {
+        "id": 7,
+        "en": "The final scene will imply a possible reunion.",
+        "ar": "المشهد الأخير سيوحي بإمكان لقاء مجدد.",
+        "context": "توقع نهاية قصصية تترك دلالة غير مصرح بها."
+      },
+      {
+        "id": 8,
+        "en": "Please do not imply that the choice is easy.",
+        "ar": "من فضلك لا توحِ بأن الاختيار سهل.",
+        "context": "طلب تجنب دلالة تقلل من صعوبة قرار."
+      },
+      {
+        "id": 9,
+        "en": "Her silence implied hesitation to the listener.",
+        "ar": "صمتها أوحى بالتردد لدى المستمع.",
+        "context": "وصف تفسير سابق للصمت دون الجزم بنية صاحبته."
+      },
+      {
+        "id": 10,
+        "en": "The report implies a need for further study.",
+        "ar": "التقرير يوحي بحاجة إلى مزيد من الدراسة.",
+        "context": "وصف نتيجة تُفهم من نص دون تصريح مباشر بها."
+      }
+    ]
+  }
+}

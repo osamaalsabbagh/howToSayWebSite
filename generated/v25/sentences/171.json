@@ -1,0 +1,139 @@
+{
+  "schemaVersion": 1,
+  "id": 171,
+  "sentence": {
+    "en": "Do you want me to come and pick you up?",
+    "ar": "هل تريدني أن آتي وأوصلك؟",
+    "context": "اعرض توصيل شخص."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Do you want me",
+        "ar": "هل تريدني",
+        "context": "يبدأ بسؤال عن رغبة السامع قبل ذكر الفعل المقترح.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "هذا جزء السؤال الرئيسي، ويستخدم المضارع البسيط للسؤال عن رغبة الشخص الآن."
+        },
+        "wordMeanings": [
+          {
+            "term": "Do",
+            "description": "تأتي في بداية السؤال مع المخاطب لتكوين سؤال في الحاضر."
+          },
+          {
+            "term": "you",
+            "description": "أنت، وتشير إلى الشخص المخاطب."
+          },
+          {
+            "term": "want",
+            "description": "تريد أو ترغب."
+          },
+          {
+            "term": "me",
+            "description": "إياي أو مني، وتشير إلى المتكلم."
+          }
+        ]
+      },
+      {
+        "sentence": "to come and pick you up",
+        "ar": "أن آتي وأوصلك؟",
+        "context": "يوضح الغرض أو الفعل المقصود بعد العبارة السابقة.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذا جزء تابع يشرح الفعل المطلوب بعد الرغبة، ويستخدم صيغة المصدر مع فعلين مرتبطين، والتعبير الأخير يعني اصطحابك من مكانك."
+        },
+        "wordMeanings": [
+          {
+            "term": "to",
+            "description": "تربط الرغبة بالفعل المطلوب بعدها."
+          },
+          {
+            "term": "come",
+            "description": "آتي أو أحضر إلى مكان."
+          },
+          {
+            "term": "and",
+            "description": "تربط فعلين معًا في المعنى."
+          },
+          {
+            "term": "pick",
+            "description": "جزء من تعبير يعني هنا الذهاب لإحضار شخص بالسيارة أو وسيلة نقل."
+          },
+          {
+            "term": "you",
+            "description": "إياك، وتشير إلى الشخص الذي سيجري توصيله."
+          },
+          {
+            "term": "up",
+            "description": "جزء من تعبير يدل هنا على اصطحاب شخص من مكانه."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Do you want me to come and pick you up?",
+        "ar": "هل تريدني أن آتي وأوصلك؟",
+        "context": "تقال عند عرض توصيل شخص من مكانه."
+      },
+      {
+        "id": 2,
+        "en": "Do you want me to pick you up?",
+        "ar": "هل تريدني أن أوصلك؟",
+        "context": "تقال عند عرض اصطحاب شخص بالسيارة."
+      },
+      {
+        "id": 3,
+        "en": "Do you want me to come now?",
+        "ar": "هل تريدني أن آتي الآن؟",
+        "context": "تقال عند السؤال عن رغبة الشخص في حضورك."
+      },
+      {
+        "id": 4,
+        "en": "Do you want me to drive you home?",
+        "ar": "هل تريدني أن أوصلك بالسيارة إلى البيت؟",
+        "context": "تقال عند عرض التوصيل إلى المنزل."
+      },
+      {
+        "id": 5,
+        "en": "Do you want me to wait for you?",
+        "ar": "هل تريدني أن أنتظرك؟",
+        "context": "تقال عند عرض الانتظار."
+      },
+      {
+        "id": 6,
+        "en": "Do you want me to call a taxi?",
+        "ar": "هل تريدني أن أطلب سيارة أجرة؟",
+        "context": "تقال عند عرض المساعدة في المواصلات."
+      },
+      {
+        "id": 7,
+        "en": "Do you want me to meet you there?",
+        "ar": "هل تريدني أن ألقاك هناك؟",
+        "context": "تقال عند ترتيب مكان لقاء."
+      },
+      {
+        "id": 8,
+        "en": "Do you want me to come with you?",
+        "ar": "هل تريدني أن آتي معك؟",
+        "context": "تقال عند عرض المرافقة."
+      },
+      {
+        "id": 9,
+        "en": "Do you want me to pick up your bag?",
+        "ar": "هل تريدني أن آخذ حقيبتك؟",
+        "context": "تقال عند عرض أخذ شيء من مكان."
+      },
+      {
+        "id": 10,
+        "en": "Do you want me to pick you up at six?",
+        "ar": "هل تريدني أن أوصلك في السادسة؟",
+        "context": "تقال عند عرض توصيل في وقت محدد."
+      }
+    ]
+  }
+}

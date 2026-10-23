@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": 200,
+  "sentence": {
+    "en": "They arrived yesterday.",
+    "ar": "وصلوا أمس.",
+    "context": "أخبر عن موعد وصول أشخاص."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "They arrived yesterday.",
+        "ar": "وصلوا أمس.",
+        "context": "يعرض به المتحدث الفكرة الأساسية التي يريد قولها في هذا الموقف.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "يستخدم الماضي البسيط لأن الوصول حدث وانتهى في وقت محدد في الماضي، وهو أمس."
+        },
+        "wordMeanings": [
+          {
+            "term": "They",
+            "description": "هم أو هن، وتشير إلى مجموعة أشخاص."
+          },
+          {
+            "term": "arrived",
+            "description": "وصلوا إلى المكان المقصود."
+          },
+          {
+            "term": "yesterday",
+            "description": "أمس، أي اليوم السابق لليوم الحالي."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "They arrived yesterday.",
+        "ar": "وصلوا أمس.",
+        "context": "تقال عند الإخبار عن موعد وصول مجموعة."
+      },
+      {
+        "id": 2,
+        "en": "They arrived this morning.",
+        "ar": "وصلوا هذا الصباح.",
+        "context": "تقال عند ذكر وقت وصول في صباح اليوم."
+      },
+      {
+        "id": 3,
+        "en": "They arrived last night.",
+        "ar": "وصلوا الليلة الماضية.",
+        "context": "تقال عند وصف وصول حدث في الليل."
+      },
+      {
+        "id": 4,
+        "en": "They arrived at noon.",
+        "ar": "وصلوا عند الظهر.",
+        "context": "تقال عند تحديد ساعة تقريبية للوصول."
+      },
+      {
+        "id": 5,
+        "en": "They arrived at the hotel.",
+        "ar": "وصلوا إلى الفندق.",
+        "context": "تقال عند الإخبار بوصول مجموعة إلى فندق."
+      },
+      {
+        "id": 6,
+        "en": "They arrived in Boston yesterday.",
+        "ar": "وصلوا إلى بوسطن أمس.",
+        "context": "تقال عند ذكر مدينة الوصول ووقته."
+      },
+      {
+        "id": 7,
+        "en": "She arrived yesterday.",
+        "ar": "وصلت أمس.",
+        "context": "تقال عند الإخبار عن وصول امرأة."
+      },
+      {
+        "id": 8,
+        "en": "He arrived yesterday.",
+        "ar": "وصل أمس.",
+        "context": "تقال عند الإخبار عن وصول رجل."
+      },
+      {
+        "id": 9,
+        "en": "We arrived yesterday.",
+        "ar": "وصلنا أمس.",
+        "context": "تقال عند الحديث عن وصول المتكلم مع آخرين."
+      },
+      {
+        "id": 10,
+        "en": "The guests arrived yesterday.",
+        "ar": "وصل الضيوف أمس.",
+        "context": "تقال عند الإخبار عن وصول ضيوف."
+      }
+    ]
+  }
+}

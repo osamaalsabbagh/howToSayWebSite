@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "id": 238,
+  "sentence": {
+    "en": "I have a reservation.",
+    "ar": "لدي حجز.",
+    "context": "أبلغ عن وجود حجز مسبق."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "I have a reservation.",
+        "ar": "لدي حجز.",
+        "context": "يعرض به المتحدث الفكرة الأساسية التي يريد قولها في هذا الموقف.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "يستخدم المضارع البسيط للتعبير عن حالة حالية، وهي أن لدى المتكلم حجزًا موجودًا الآن."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "أنا، وتشير إلى المتكلم."
+          },
+          {
+            "term": "have",
+            "description": "لدي أو أملك."
+          },
+          {
+            "term": "a",
+            "description": "أداة تدل على شيء واحد غير محدد."
+          },
+          {
+            "term": "reservation",
+            "description": "حجز مسبق في مطعم أو فندق أو خدمة."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I have a reservation.",
+        "ar": "لدي حجز.",
+        "context": "تقال عند إبلاغ الموظف بوجود حجز مسبق."
+      },
+      {
+        "id": 2,
+        "en": "I have a hotel reservation.",
+        "ar": "لدي حجز فندق.",
+        "context": "تقال عند الوصول إلى فندق."
+      },
+      {
+        "id": 3,
+        "en": "I have a dinner reservation.",
+        "ar": "لدي حجز عشاء.",
+        "context": "تقال عند الوصول إلى مطعم."
+      },
+      {
+        "id": 4,
+        "en": "I have a reservation for two.",
+        "ar": "لدي حجز لشخصين.",
+        "context": "تقال عند تحديد عدد الأشخاص في الحجز."
+      },
+      {
+        "id": 5,
+        "en": "I have a reservation for tonight.",
+        "ar": "لدي حجز لهذه الليلة.",
+        "context": "تقال عند توضيح موعد الحجز."
+      },
+      {
+        "id": 6,
+        "en": "Do you have a reservation?",
+        "ar": "هل لديك حجز؟",
+        "context": "يسألها الموظف عند استقبال زائر أو ضيف."
+      },
+      {
+        "id": 7,
+        "en": "We have a reservation.",
+        "ar": "لدينا حجز.",
+        "context": "تقال عند الوصول مع مجموعة."
+      },
+      {
+        "id": 8,
+        "en": "I do not have a reservation.",
+        "ar": "ليس لدي حجز.",
+        "context": "تقال عند عدم وجود حجز مسبق."
+      },
+      {
+        "id": 9,
+        "en": "I have a reservation under my name.",
+        "ar": "لدي حجز باسمي.",
+        "context": "تقال عند البحث عن الحجز بالاسم."
+      },
+      {
+        "id": 10,
+        "en": "I have a reservation at seven.",
+        "ar": "لدي حجز في السابعة.",
+        "context": "تقال عند ذكر وقت الحجز."
+      }
+    ]
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": 657,
+  "sentence": {
+    "en": "Do you have a pencil?",
+    "ar": "هل لديك قلم رصاص؟",
+    "context": "السؤال عن توفر قلم رصاص."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Do you have a pencil?",
+        "ar": "هل لديك قلم رصاص؟",
+        "context": "تستخدم للسؤال إن كان لدى الشخص قلم رصاص يمكن استخدامه.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "السؤال عن امتلاك أو توفر شيء في الوقت الحالي."
+        },
+        "wordMeanings": [
+          {
+            "term": "Do",
+            "description": "كلمة مساعدة لتكوين سؤال في المضارع البسيط."
+          },
+          {
+            "term": "you",
+            "description": "أنت أو أنتم حسب السياق."
+          },
+          {
+            "term": "have",
+            "description": "لديك أو تملك."
+          },
+          {
+            "term": "a",
+            "description": "أداة تأتي قبل اسم مفرد غير محدد."
+          },
+          {
+            "term": "pencil",
+            "description": "قلم رصاص."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Do you have a pen?",
+        "ar": "هل لديك قلم؟",
+        "context": "تقال عند طلب أداة كتابة."
+      },
+      {
+        "id": 2,
+        "en": "I have a pencil.",
+        "ar": "لدي قلم رصاص.",
+        "context": "تستخدم لتأكيد توفر القلم."
+      },
+      {
+        "id": 3,
+        "en": "Do you have paper?",
+        "ar": "هل لديك ورق؟",
+        "context": "تقال عند الحاجة للكتابة."
+      },
+      {
+        "id": 4,
+        "en": "She has a pencil.",
+        "ar": "لديها قلم رصاص.",
+        "context": "تستخدم عند الحديث عن امرأة."
+      },
+      {
+        "id": 5,
+        "en": "Do they have pencils?",
+        "ar": "هل لديهم أقلام رصاص؟",
+        "context": "تقال للسؤال عن مجموعة."
+      },
+      {
+        "id": 6,
+        "en": "Can I borrow a pencil?",
+        "ar": "هل يمكنني استعارة قلم رصاص؟",
+        "context": "تستخدم لطلب القلم مؤقتاً."
+      },
+      {
+        "id": 7,
+        "en": "I do not have a pencil.",
+        "ar": "ليس لدي قلم رصاص.",
+        "context": "تقال لنفي توفر القلم."
+      },
+      {
+        "id": 8,
+        "en": "Do you have an extra pencil?",
+        "ar": "هل لديك قلم رصاص إضافي؟",
+        "context": "تستخدم عند طلب قلم زائد."
+      },
+      {
+        "id": 9,
+        "en": "My son needs a pencil.",
+        "ar": "ابني يحتاج إلى قلم رصاص.",
+        "context": "تقال عند الحاجة لأداة مدرسية."
+      },
+      {
+        "id": 10,
+        "en": "Do you have a pencil for me?",
+        "ar": "هل لديك قلم رصاص لي؟",
+        "context": "تستخدم عند طلب القلم لنفسك."
+      }
+    ]
+  }
+}

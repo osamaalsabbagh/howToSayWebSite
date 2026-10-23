@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": 521,
+  "sentence": {
+    "en": "Do you like it here?",
+    "ar": "هل يعجبك المكان هنا؟",
+    "context": "السؤال عن رأي شخص في المكان الذي يتواجد فيه."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Do you like it here?",
+        "ar": "هل يعجبك المكان هنا؟",
+        "context": "سؤال عن رأي الشخص في المكان الحالي.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "like في المضارع البسيط يعبر عن رأي أو تفضيل حالي."
+        },
+        "wordMeanings": [
+          {
+            "term": "Do",
+            "description": "تساعد في تكوين السؤال."
+          },
+          {
+            "term": "you",
+            "description": "تشير إلى المخاطب."
+          },
+          {
+            "term": "like",
+            "description": "تعني يعجبك أو تحب."
+          },
+          {
+            "term": "it",
+            "description": "تشير إلى المكان أو التجربة الحالية."
+          },
+          {
+            "term": "here",
+            "description": "تعني هنا في هذا المكان."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Do you like this place?",
+        "ar": "هل يعجبك هذا المكان؟",
+        "context": "سؤال عن رأي في مكان."
+      },
+      {
+        "id": 2,
+        "en": "I like it here.",
+        "ar": "يعجبني المكان هنا.",
+        "context": "إبداء رأي إيجابي."
+      },
+      {
+        "id": 3,
+        "en": "She does not like it here.",
+        "ar": "لا يعجبها المكان هنا.",
+        "context": "إبداء رأي سلبي."
+      },
+      {
+        "id": 4,
+        "en": "Do they like the hotel?",
+        "ar": "هل يعجبهم الفندق؟",
+        "context": "سؤال عن رأي مجموعة."
+      },
+      {
+        "id": 5,
+        "en": "It is nice here.",
+        "ar": "إنه جميل هنا.",
+        "context": "وصف المكان بإيجابية."
+      },
+      {
+        "id": 6,
+        "en": "We like this city.",
+        "ar": "نحن نحب هذه المدينة.",
+        "context": "رأي في مدينة."
+      },
+      {
+        "id": 7,
+        "en": "Do you feel comfortable here?",
+        "ar": "هل تشعر بالراحة هنا؟",
+        "context": "سؤال عن الإحساس في المكان."
+      },
+      {
+        "id": 8,
+        "en": "He likes it there.",
+        "ar": "يعجبه المكان هناك.",
+        "context": "رأي في مكان آخر."
+      },
+      {
+        "id": 9,
+        "en": "I do not like it here.",
+        "ar": "لا يعجبني المكان هنا.",
+        "context": "رفض أو عدم ارتياح."
+      },
+      {
+        "id": 10,
+        "en": "The weather is good here.",
+        "ar": "الطقس جيد هنا.",
+        "context": "سبب محتمل للإعجاب بالمكان."
+      }
+    ]
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "id": 872,
+  "sentence": {
+    "en": "He is an American.",
+    "ar": "هو أمريكي.",
+    "context": "تُستخدم لوصف جنسية الشخص."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "He is an American.",
+        "ar": "هو أمريكي.",
+        "context": "جملة تعرف جنسية شخص.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "الفعل is يربط الضمير he بالجنسية أو الهوية الحالية."
+        },
+        "wordMeanings": [
+          {
+            "term": "He",
+            "description": "هو؛ رجل أو ولد"
+          },
+          {
+            "term": "is",
+            "description": "يكون أو هو"
+          },
+          {
+            "term": "an",
+            "description": "أداة نكرة قبل كلمة تبدأ بصوت متحرك"
+          },
+          {
+            "term": "American",
+            "description": "أمريكي"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "She is an American.",
+        "ar": "هي أمريكية.",
+        "context": "لوصف جنسية امرأة."
+      },
+      {
+        "id": 2,
+        "en": "He is Turkish.",
+        "ar": "هو تركي.",
+        "context": "لذكر جنسية أخرى."
+      },
+      {
+        "id": 3,
+        "en": "They are American.",
+        "ar": "هم أمريكيون.",
+        "context": "لوصف جنسية مجموعة."
+      },
+      {
+        "id": 4,
+        "en": "Is he an American?",
+        "ar": "هل هو أمريكي؟",
+        "context": "للسؤال عن الجنسية."
+      },
+      {
+        "id": 5,
+        "en": "He is an engineer.",
+        "ar": "هو مهندس.",
+        "context": "للتعريف بالمهنة."
+      },
+      {
+        "id": 6,
+        "en": "My friend is an American.",
+        "ar": "صديقي أمريكي.",
+        "context": "للتحدث عن صديق."
+      },
+      {
+        "id": 7,
+        "en": "He is from America.",
+        "ar": "هو من أمريكا.",
+        "context": "صيغة أخرى للأصل."
+      },
+      {
+        "id": 8,
+        "en": "She is from the US.",
+        "ar": "هي من الولايات المتحدة.",
+        "context": "لذكر بلد الأصل."
+      },
+      {
+        "id": 9,
+        "en": "He is not American.",
+        "ar": "هو ليس أمريكيا.",
+        "context": "لنفي الجنسية."
+      },
+      {
+        "id": 10,
+        "en": "The teacher is an American.",
+        "ar": "المعلم أمريكي.",
+        "context": "للتعريف بجنسية شخص معروف."
+      }
+    ]
+  }
+}

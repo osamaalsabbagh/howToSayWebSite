@@ -1,0 +1,111 @@
+{
+  "schemaVersion": 1,
+  "id": 917,
+  "sentence": {
+    "en": "I want to show you something.",
+    "ar": "أريد أن أريك شيئًا.",
+    "context": "تُستخدم للتعبير عن رغبة المتكلم في عرض شيء ما على الآخر."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "I want to show you something.",
+        "ar": "أريد أن أريك شيئا.",
+        "context": "جملة تمهد لعرض شيء على الشخص المخاطب.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "يستخدم المضارع البسيط للتعبير عن رغبة حالية، وto show يوضح الفعل المرغوب."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "أنا؛ المتكلم"
+          },
+          {
+            "term": "want",
+            "description": "أريد"
+          },
+          {
+            "term": "to",
+            "description": "تأتي قبل الفعل المرغوب"
+          },
+          {
+            "term": "show",
+            "description": "أعرض أو أريك"
+          },
+          {
+            "term": "you",
+            "description": "الشخص المخاطب"
+          },
+          {
+            "term": "something",
+            "description": "شيء ما"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I want to tell you something.",
+        "ar": "أريد أن أخبرك شيئا.",
+        "context": "لتمهيد خبر أو معلومة."
+      },
+      {
+        "id": 2,
+        "en": "I need to show you something.",
+        "ar": "أحتاج أن أريك شيئا.",
+        "context": "للتعبير عن حاجة للعرض."
+      },
+      {
+        "id": 3,
+        "en": "Can I show you something?",
+        "ar": "هل يمكنني أن أريك شيئا؟",
+        "context": "لطلب إذن قبل العرض."
+      },
+      {
+        "id": 4,
+        "en": "She wants to show me something.",
+        "ar": "هي تريد أن تريني شيئا.",
+        "context": "للتحدث عن شخص آخر."
+      },
+      {
+        "id": 5,
+        "en": "I want to show you my room.",
+        "ar": "أريد أن أريك غرفتي.",
+        "context": "لتحديد الشيء المعروض."
+      },
+      {
+        "id": 6,
+        "en": "I want to show you this picture.",
+        "ar": "أريد أن أريك هذه الصورة.",
+        "context": "لعرض صورة."
+      },
+      {
+        "id": 7,
+        "en": "Do you want to see something?",
+        "ar": "هل تريد أن ترى شيئا؟",
+        "context": "للسؤال قبل العرض."
+      },
+      {
+        "id": 8,
+        "en": "I will show you later.",
+        "ar": "سأريك لاحقا.",
+        "context": "لتأجيل العرض."
+      },
+      {
+        "id": 9,
+        "en": "I want to show them something.",
+        "ar": "أريد أن أريهم شيئا.",
+        "context": "للتحدث عن عرض لمجموعة."
+      },
+      {
+        "id": 10,
+        "en": "Please show me something new.",
+        "ar": "من فضلك أرني شيئا جديدا.",
+        "context": "لطلب مشاهدة شيء."
+      }
+    ]
+  }
+}

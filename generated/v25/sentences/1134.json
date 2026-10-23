@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 1,
+  "id": 1134,
+  "sentence": {
+    "en": "I generally work part-time, but a colleague is on maternity leave, so I am covering her shift.",
+    "ar": "أنا بشكل عام أعمل بدوام جزئي، لكن أحد الزميلات في إجازة أمومة، لذا أُغطي ورديتها.",
+    "context": "تُستخدم لشرح تغيير مؤقت في جدول العمل بسبب غياب زميلة."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "I generally work part-time",
+        "ar": "أنا بشكل عام أعمل بدوام جزئي",
+        "context": "تصف نمط العمل المعتاد للمتكلم.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُخدم المضارع البسيط لوصف عادة أو ترتيب عمل عام."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير يشير إلى المتكلم"
+          },
+          {
+            "term": "generally",
+            "description": "عادة أو بشكل عام"
+          },
+          {
+            "term": "work",
+            "description": "أعمل"
+          },
+          {
+            "term": "part",
+            "description": "جزء، وتدخل هنا في معنى الدوام الجزئي"
+          },
+          {
+            "term": "time",
+            "description": "وقت، وتكمل معنى الدوام الجزئي"
+          }
+        ]
+      },
+      {
+        "sentence": "but a colleague is on maternity leave",
+        "ar": "لكن زميلة في إجازة أمومة",
+        "context": "توضح سبب التغيير المؤقت في العمل.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُخدم المضارع البسيط لوصف حالة حالية للزميلة."
+        },
+        "wordMeanings": [
+          {
+            "term": "but",
+            "description": "لكن، وتدل على تعارض أو سبب مختلف"
+          },
+          {
+            "term": "a",
+            "description": "أداة تدل على شيء واحد غير محدد"
+          },
+          {
+            "term": "colleague",
+            "description": "زميلة أو زميل في العمل"
+          },
+          {
+            "term": "is",
+            "description": "تدل على الحالة الحالية"
+          },
+          {
+            "term": "on",
+            "description": "تُستخدم هنا مع الإجازة بمعنى في حالة إجازة"
+          },
+          {
+            "term": "maternity",
+            "description": "متعلق بالأمومة"
+          },
+          {
+            "term": "leave",
+            "description": "إجازة"
+          }
+        ]
+      },
+      {
+        "sentence": "so I am covering her shift",
+        "ar": "لذا أُغطي ورديتها",
+        "context": "توضح نتيجة غياب الزميلة والعمل المؤقت بدلًا منها.",
+        "grammar": {
+          "tense": "المضارع المستمر",
+          "tenseEn": "Present Continuous",
+          "reason": "استُخدم المضارع المستمر لوصف ترتيب مؤقت يحدث في هذه الفترة."
+        },
+        "wordMeanings": [
+          {
+            "term": "so",
+            "description": "لذلك أو لذا"
+          },
+          {
+            "term": "I",
+            "description": "ضمير يشير إلى المتكلم"
+          },
+          {
+            "term": "am",
+            "description": "صيغة تأتي مع ضمير المتكلم المفرد في الحالة المستمرة"
+          },
+          {
+            "term": "covering",
+            "description": "أغطي أو أعمل بدل شخص آخر"
+          },
+          {
+            "term": "her",
+            "description": "خاص بها أو يعود إليها"
+          },
+          {
+            "term": "shift",
+            "description": "وردية عمل"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I usually work mornings, but I am covering the evening shift.",
+        "ar": "عادة أعمل صباحًا، لكنني أغطي وردية المساء.",
+        "context": "تُستخدم لوصف تغيير مؤقت في الوردية."
+      },
+      {
+        "id": 2,
+        "en": "My colleague is on leave, so I am doing her tasks.",
+        "ar": "زميلتي في إجازة، لذلك أقوم بمهامها.",
+        "context": "تُقال عند شرح سبب زيادة العمل."
+      },
+      {
+        "id": 3,
+        "en": "I work part-time during the week.",
+        "ar": "أعمل بدوام جزئي خلال الأسبوع.",
+        "context": "تُستخدم لوصف جدول عمل معتاد."
+      },
+      {
+        "id": 4,
+        "en": "She is on maternity leave this month.",
+        "ar": "هي في إجازة أمومة هذا الشهر.",
+        "context": "تُستخدم لوصف غياب مؤقت."
+      },
+      {
+        "id": 5,
+        "en": "I am covering for a coworker today.",
+        "ar": "أغطي عمل زميل اليوم.",
+        "context": "تُقال عند العمل بدل شخص."
+      },
+      {
+        "id": 6,
+        "en": "He usually works nights, but he is working days now.",
+        "ar": "هو عادة يعمل ليلًا، لكنه يعمل نهارًا الآن.",
+        "context": "تُستخدم لمقارنة عادة بتغيير مؤقت."
+      },
+      {
+        "id": 7,
+        "en": "We are short-staffed, so I am taking extra hours.",
+        "ar": "لدينا نقص في الموظفين، لذلك آخذ ساعات إضافية.",
+        "context": "تُقال عند زيادة العمل بسبب نقص."
+      },
+      {
+        "id": 8,
+        "en": "I generally work three days a week.",
+        "ar": "أعمل عمومًا ثلاثة أيام في الأسبوع.",
+        "context": "تُستخدم لوصف جدول عادي."
+      },
+      {
+        "id": 9,
+        "en": "A colleague is sick, so I am helping today.",
+        "ar": "زميل مريض، لذلك أساعد اليوم.",
+        "context": "تُستخدم عند شرح مساعدة مؤقتة."
+      },
+      {
+        "id": 10,
+        "en": "I am working her shift until she returns.",
+        "ar": "أعمل ورديتها حتى تعود.",
+        "context": "تُستخدم عند تغطية غياب زميلة."
+      }
+    ]
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "schemaVersion": 1,
+  "id": 7357,
+  "sentence": {
+    "en": "My cousin interpreted for us when we visited China.",
+    "ar": "ابن عمي ترجم لنا شفهيًا عندما نحن زرنا الصين.",
+    "context": "وصف مساعدة لغوية شفهية سابقة أثناء زيارة بلد، دون تحديد اللغة المستعملة.",
+    "sourceWord": "interpret",
+    "sourcePos": "v."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "My cousin interpreted for us",
+        "ar": "ابن عمي ترجم لنا شفهيًا",
+        "context": "وصف نقل سابق لكلام مسموع من لغة إلى أخرى.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "الماضي البسيط يصف حدثًا انتهى. الفعل هنا يعني يترجم شفهيًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "My",
+            "description": "ضمير ملكية للمتكلم."
+          },
+          {
+            "term": "cousin",
+            "description": "ابن عمي."
+          },
+          {
+            "term": "interpreted",
+            "description": "ترجم شفهيًا؛ نقل معنى كلام مسموع إلى لغة أخرى."
+          },
+          {
+            "term": "for",
+            "description": "لـ."
+          },
+          {
+            "term": "us",
+            "description": "نا؛ ضمير المفعول للمتكلمين."
+          }
+        ]
+      },
+      {
+        "sentence": "when we visited China.",
+        "ar": "عندما نحن زرنا الصين.",
+        "context": "تحديد الزيارة السابقة التي جرت خلالها المساعدة اللغوية.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "الماضي البسيط يصف حدثًا انتهى."
+        },
+        "wordMeanings": [
+          {
+            "term": "when",
+            "description": "عندما."
+          },
+          {
+            "term": "we",
+            "description": "نحن."
+          },
+          {
+            "term": "visited",
+            "description": "زرنا."
+          },
+          {
+            "term": "China",
+            "description": "الصين."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "My cousin interpreted for us when we visited China.",
+        "ar": "ابن عمي ترجم لنا شفهيًا عندما نحن زرنا الصين.",
+        "context": "وصف مساعدة لغوية شفهية سابقة أثناء زيارة بلد، دون تحديد اللغة المستعملة."
+      },
+      {
+        "id": 2,
+        "en": "The software interprets the sensor data.",
+        "ar": "البرنامج يفسر بيانات المستشعر.",
+        "context": "وصف استخلاص معنى من قراءات جهاز."
+      },
+      {
+        "id": 3,
+        "en": "She interpreted his silence as agreement.",
+        "ar": "هي فسرت صمته على أنه موافقة.",
+        "context": "وصف فهم سابق لسلوك دون الجزم بأن هذا الفهم صحيح."
+      },
+      {
+        "id": 4,
+        "en": "We have interpreted the results cautiously.",
+        "ar": "نحن قد فسرنا النتائج بحذر.",
+        "context": "الإبلاغ عن تحليل مكتمل دون التسرع في الاستنتاج."
+      },
+      {
+        "id": 5,
+        "en": "The pianist is interpreting the piece in a new way.",
+        "ar": "عازف البيانو يؤدي المقطوعة برؤية جديدة.",
+        "context": "وصف أداء موسيقي جارٍ يعكس فهم الفنان للعمل."
+      },
+      {
+        "id": 6,
+        "en": "The guide will interpret for the visitors.",
+        "ar": "الدليل سيترجم شفهيًا للزوار.",
+        "context": "توقع نقل كلام مسموع بين لغات لمجموعة زائرة."
+      },
+      {
+        "id": 7,
+        "en": "Please interpret the figures in their proper context.",
+        "ar": "من فضلك فسر الأرقام في سياقها الصحيح.",
+        "context": "طلب فهم بيانات في ضوء الظروف المتعلقة بها."
+      },
+      {
+        "id": 8,
+        "en": "The audience interpreted the ending differently.",
+        "ar": "الجمهور فسر النهاية بطريقة مختلفة.",
+        "context": "وصف فهم سابق لخاتمة عمل دون افتراض معنى واحد متفق عليه."
+      },
+      {
+        "id": 9,
+        "en": "The actor interprets the role with restraint.",
+        "ar": "الممثل يؤدي الدور بتحفظ.",
+        "context": "وصف معالجة فنية هادئة لشخصية دون مبالغة في الأداء."
+      },
+      {
+        "id": 10,
+        "en": "He interpreted the warning as a threat.",
+        "ar": "هو فسر التحذير على أنه تهديد.",
+        "context": "وصف قراءة سابقة لمعنى كلام دون تأكيد نية قائله."
+      }
+    ]
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "schemaVersion": 1,
+  "id": 540,
+  "sentence": {
+    "en": "How much sugar would you like in your tea?",
+    "ar": "كم تود من السكر في شايك؟",
+    "context": "السؤال عن الكمية المطلوبة من شيء ما غير معدود."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "How much sugar would you like in your tea?",
+        "ar": "كم تود من السكر في شايك؟",
+        "context": "سؤال مهذب عن كمية السكر المطلوبة في الشاي.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "would like صيغة مهذبة للسؤال عن رغبة أو طلب، وmuch تستخدم مع الكمية غير المعدودة."
+        },
+        "wordMeanings": [
+          {
+            "term": "How",
+            "description": "تدخل في سؤال عن الكمية."
+          },
+          {
+            "term": "much",
+            "description": "تعني كم كمية وتستخدم مع غير المعدود."
+          },
+          {
+            "term": "sugar",
+            "description": "سكر."
+          },
+          {
+            "term": "would",
+            "description": "تجعل السؤال مهذبًا."
+          },
+          {
+            "term": "you",
+            "description": "تشير إلى المخاطب."
+          },
+          {
+            "term": "like",
+            "description": "تعني ترغب في هذا السياق."
+          },
+          {
+            "term": "in",
+            "description": "تعني داخل أو في."
+          },
+          {
+            "term": "your",
+            "description": "تعني الخاص بك."
+          },
+          {
+            "term": "tea",
+            "description": "شاي."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "How much milk would you like?",
+        "ar": "كم تود من الحليب؟",
+        "context": "سؤال عن كمية غير معدودة."
+      },
+      {
+        "id": 2,
+        "en": "I would like one spoon of sugar.",
+        "ar": "أود ملعقة واحدة من السكر.",
+        "context": "إجابة عن كمية السكر."
+      },
+      {
+        "id": 3,
+        "en": "Would you like sugar in your coffee?",
+        "ar": "هل تود سكرًا في قهوتك؟",
+        "context": "عرض إضافة السكر."
+      },
+      {
+        "id": 4,
+        "en": "How much tea do you want?",
+        "ar": "كم تريد من الشاي؟",
+        "context": "سؤال عن كمية مشروب."
+      },
+      {
+        "id": 5,
+        "en": "She does not like sugar in tea.",
+        "ar": "هي لا تحب السكر في الشاي.",
+        "context": "ذكر تفضيل."
+      },
+      {
+        "id": 6,
+        "en": "Please put sugar in my tea.",
+        "ar": "من فضلك ضع سكرًا في شايي.",
+        "context": "طلب إضافة السكر."
+      },
+      {
+        "id": 7,
+        "en": "I like my tea without sugar.",
+        "ar": "أحب شايي بدون سكر.",
+        "context": "ذكر تفضيل للشاي."
+      },
+      {
+        "id": 8,
+        "en": "How much water do you need?",
+        "ar": "كم تحتاج من الماء؟",
+        "context": "سؤال عن كمية غير معدودة."
+      },
+      {
+        "id": 9,
+        "en": "Two spoons of sugar are enough.",
+        "ar": "ملعقتان من السكر تكفيان.",
+        "context": "تحديد كمية."
+      },
+      {
+        "id": 10,
+        "en": "Your tea is on the table.",
+        "ar": "شايك على الطاولة.",
+        "context": "تحديد مكان الشاي."
+      }
+    ]
+  }
+}

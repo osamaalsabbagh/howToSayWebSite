@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "id": 721,
+  "sentence": {
+    "en": "Anything else?",
+    "ar": "هل من شيء آخر؟",
+    "context": "الاستفسار عما إذا كان هناك طلب إضافي."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Anything else?",
+        "ar": "هل من شيء آخر؟",
+        "context": "عبارة مختصرة تستخدم لمعرفة إن كان الشخص يريد إضافة شيء.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه عبارة سؤال مختصرة لا تحتوي على فعل ظاهر، وتعتمد على سياق الخدمة أو الطلب."
+        },
+        "wordMeanings": [
+          {
+            "term": "Anything",
+            "description": "أي شيء أو طلب"
+          },
+          {
+            "term": "else",
+            "description": "آخر أو إضافي"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Do you need anything else?",
+        "ar": "هل تحتاج إلى أي شيء آخر؟",
+        "context": "يستخدم عند عرض المساعدة."
+      },
+      {
+        "id": 2,
+        "en": "Would you like anything else?",
+        "ar": "هل ترغب في أي شيء آخر؟",
+        "context": "يستخدمه النادل بعد أخذ الطلب."
+      },
+      {
+        "id": 3,
+        "en": "Is there anything else?",
+        "ar": "هل هناك أي شيء آخر؟",
+        "context": "يستخدم للتأكد من عدم وجود أمر إضافي."
+      },
+      {
+        "id": 4,
+        "en": "Anything else for today?",
+        "ar": "أي شيء آخر لهذا اليوم؟",
+        "context": "يستخدم في نهاية خدمة أو موعد."
+      },
+      {
+        "id": 5,
+        "en": "Please tell me if you need anything else.",
+        "ar": "من فضلك أخبرني إذا احتجت إلى أي شيء آخر.",
+        "context": "يستخدم لتقديم مساعدة مستمرة."
+      },
+      {
+        "id": 6,
+        "en": "I do not need anything else.",
+        "ar": "لا أحتاج إلى أي شيء آخر.",
+        "context": "يستخدم لإنهاء الطلب بوضوح."
+      },
+      {
+        "id": 7,
+        "en": "She asked for anything else.",
+        "ar": "سألت عن أي شيء آخر.",
+        "context": "يستخدم لوصف سؤال موظفة أو مضيفة."
+      },
+      {
+        "id": 8,
+        "en": "Can I get you anything else?",
+        "ar": "هل يمكنني أن أحضر لك أي شيء آخر؟",
+        "context": "يستخدم عند خدمة ضيف أو زبون."
+      },
+      {
+        "id": 9,
+        "en": "Nothing else, thank you.",
+        "ar": "لا شيء آخر، شكرًا لك.",
+        "context": "يستخدم للرد على عرض إضافة طلب."
+      },
+      {
+        "id": 10,
+        "en": "We have time for anything else.",
+        "ar": "لدينا وقت لأي شيء آخر.",
+        "context": "يستخدم عند وجود وقت لموضوع إضافي."
+      }
+    ]
+  }
+}

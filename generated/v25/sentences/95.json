@@ -1,0 +1,111 @@
+{
+  "schemaVersion": 1,
+  "id": 95,
+  "sentence": {
+    "en": "Please take me to this address.",
+    "ar": "يرجى أخذي إلى هذا العنوان.",
+    "context": "اطلب من سائق الذهاب لمكان معين."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Please take me to this address.",
+        "ar": "يرجى أخذي إلى هذا العنوان.",
+        "context": "تُستخدم لتوجيه طلب أو تعليم مباشر في هذا الموقف.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه صيغة طلب مهذب من شخص أن يوصلك إلى مكان محدد، وهي أقرب إلى الأمر المهذب ولا تحمل زمنًا مستقلًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "Please",
+            "description": "كلمة تجعل الطلب مهذبًا."
+          },
+          {
+            "term": "take",
+            "description": "أوصل أو خذ شخصًا إلى مكان."
+          },
+          {
+            "term": "me",
+            "description": "ضمير يشير إلى المتكلم عندما يكون متلقيًا للفعل."
+          },
+          {
+            "term": "to",
+            "description": "إلى، وتدل على الاتجاه أو المكان المقصود."
+          },
+          {
+            "term": "this",
+            "description": "هذا، وتشير إلى شيء قريب أو معروض."
+          },
+          {
+            "term": "address",
+            "description": "عنوان أو مكان محدد للوصول إليه."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Please take me to the airport.",
+        "ar": "يرجى أخذي إلى المطار.",
+        "context": "تقال لسائق عند طلب الذهاب إلى المطار."
+      },
+      {
+        "id": 2,
+        "en": "Please take me to the hotel.",
+        "ar": "يرجى أخذي إلى الفندق.",
+        "context": "تقال عند ركوب سيارة أجرة إلى فندق."
+      },
+      {
+        "id": 3,
+        "en": "Please take us to the station.",
+        "ar": "يرجى أخذنا إلى المحطة.",
+        "context": "تقال عندما تطلب مجموعة الذهاب إلى محطة."
+      },
+      {
+        "id": 4,
+        "en": "Please drive me to this street.",
+        "ar": "يرجى إيصالِي إلى هذا الشارع.",
+        "context": "تقال عند تحديد شارع للسائق."
+      },
+      {
+        "id": 5,
+        "en": "Please take me home.",
+        "ar": "يرجى أخذي إلى البيت.",
+        "context": "تقال عند طلب العودة إلى المنزل."
+      },
+      {
+        "id": 6,
+        "en": "Please take me to the bus stop.",
+        "ar": "يرجى أخذي إلى موقف الحافلات.",
+        "context": "تقال عند طلب الوصول إلى موقف حافلات."
+      },
+      {
+        "id": 7,
+        "en": "Please take her to the doctor.",
+        "ar": "يرجى أخذها إلى الطبيب.",
+        "context": "تقال عند طلب توصيل شخص إلى موعد طبي."
+      },
+      {
+        "id": 8,
+        "en": "Please take me to this building.",
+        "ar": "يرجى أخذي إلى هذا المبنى.",
+        "context": "تقال عند الإشارة إلى مبنى محدد."
+      },
+      {
+        "id": 9,
+        "en": "Please take the children to school.",
+        "ar": "يرجى أخذ الأطفال إلى المدرسة.",
+        "context": "تقال عند طلب توصيل الأطفال."
+      },
+      {
+        "id": 10,
+        "en": "Please take me there quickly.",
+        "ar": "يرجى أخذي إلى هناك بسرعة.",
+        "context": "تقال عند الحاجة إلى الوصول بسرعة."
+      }
+    ]
+  }
+}

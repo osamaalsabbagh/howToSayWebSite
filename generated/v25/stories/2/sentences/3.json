@@ -1,0 +1,159 @@
+{
+  "schemaVersion": 1,
+  "id": 3,
+  "sentence": {
+    "en": "The man replied politely, \"These are my penguins. They belong to me.\"",
+    "ar": "ردّ الرجل بأدب: «هذه بطاريقي، إنّها ملك لي.»",
+    "context": "إجابة الرجل حول ملكيته للبطاريق."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "The man replied politely",
+        "ar": "ردّ الرجل بأدب",
+        "context": "تصف طريقة جواب الرجل على سؤال الشرطي.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "استُخدم replied لأنه فعل مكتمل في القصة."
+        },
+        "wordMeanings": [
+          {
+            "term": "The",
+            "description": "أداة تعريف للرجل المعروف."
+          },
+          {
+            "term": "man",
+            "description": "الرجل."
+          },
+          {
+            "term": "replied",
+            "description": "رد أو أجاب."
+          },
+          {
+            "term": "politely",
+            "description": "بأدب."
+          }
+        ]
+      },
+      {
+        "sentence": "These are my penguins.",
+        "ar": "هذه بطاريقي.",
+        "context": "توضح ما يشير إليه الرجل أمام الشرطي.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُخدم are لوصف هوية البطاريق في الحاضر."
+        },
+        "wordMeanings": [
+          {
+            "term": "These",
+            "description": "هذه أو هؤلاء للأشياء القريبة."
+          },
+          {
+            "term": "are",
+            "description": "يكونون أو هم."
+          },
+          {
+            "term": "my",
+            "description": "الخاصة بي."
+          },
+          {
+            "term": "penguins",
+            "description": "بطاريق."
+          }
+        ]
+      },
+      {
+        "sentence": "They belong to me.",
+        "ar": "إنها ملك لي.",
+        "context": "تؤكد ملكية الرجل للبطاريق.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُخدم belong للتعبير عن علاقة ملكية ثابتة في الحاضر."
+        },
+        "wordMeanings": [
+          {
+            "term": "They",
+            "description": "هم أو هي للجمع غير العاقل هنا."
+          },
+          {
+            "term": "belong",
+            "description": "تخص أو تعود ملكيتها."
+          },
+          {
+            "term": "to",
+            "description": "إلى أو لـ."
+          },
+          {
+            "term": "me",
+            "description": "لي."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "A woman was walking home when the rain started.",
+        "ar": "كانت امرأة تمشي إلى البيت عندما بدأ المطر.",
+        "context": "تقال لبدء مشهد فيه حدث قطع حدثًا مستمرًا."
+      },
+      {
+        "id": 2,
+        "en": "The guard looked inside the bag and asked a question.",
+        "ar": "نظر الحارس داخل الحقيبة وسأل سؤالًا.",
+        "context": "تقال عند سرد فعلين متتابعين في الماضي."
+      },
+      {
+        "id": 3,
+        "en": "The driver replied politely to the officer.",
+        "ar": "رد السائق بأدب على الضابط.",
+        "context": "تقال عند وصف طريقة الرد."
+      },
+      {
+        "id": 4,
+        "en": "You need to take the files to the office.",
+        "ar": "يلزمك أن تأخذ الملفات إلى المكتب.",
+        "context": "تقال لإعطاء توجيه واضح."
+      },
+      {
+        "id": 5,
+        "en": "The next day, the teacher saw the student again.",
+        "ar": "في اليوم التالي، رأت المعلمة الطالب مرة أخرى.",
+        "context": "تقال عند متابعة قصة في اليوم التالي."
+      },
+      {
+        "id": 6,
+        "en": "He pulled the car over and checked the papers.",
+        "ar": "أوقف السيارة جانبًا وفحص الأوراق.",
+        "context": "تقال عند وصف إجراء على الطريق."
+      },
+      {
+        "id": 7,
+        "en": "I thought I told you to call early.",
+        "ar": "ظننت أنني قلت لك أن تتصل مبكرًا.",
+        "context": "تقال عند تذكير شخص بتعليمات سابقة."
+      },
+      {
+        "id": 8,
+        "en": "She smiled and explained the mistake.",
+        "ar": "ابتسمت وشرحت الخطأ.",
+        "context": "تقال عند وصف رد هادئ بعد سوء فهم."
+      },
+      {
+        "id": 9,
+        "en": "The man was carrying a box when the door opened.",
+        "ar": "كان الرجل يحمل صندوقًا عندما فُتح الباب.",
+        "context": "تقال لوصف حدث مستمر قطعه حدث آخر."
+      },
+      {
+        "id": 10,
+        "en": "The officer looked confused after the answer.",
+        "ar": "بدا الضابط حائرًا بعد الإجابة.",
+        "context": "تقال عند وصف رد فعل على جواب مفاجئ."
+      }
+    ]
+  }
+}

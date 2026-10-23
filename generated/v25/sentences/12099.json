@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": 12099,
+  "sentence": {
+    "en": "I reviewed the diagnosis of the engine problem.",
+    "ar": "أنا راجعت تشخيص مشكلة المحرك.",
+    "context": "أنت تراجع تقريرًا فنيًا يحدد سبب مشكلة في محرك. أنت تروي ما حصل بشأن تشخيص المشكلة أمس.",
+    "sourceWord": "diagnosis",
+    "sourcePos": "n."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "I reviewed the diagnosis of the engine problem.",
+        "ar": "أنا راجعت تشخيص مشكلة المحرك.",
+        "context": "أنت تراجع تقريرًا فنيًا يحدد سبب مشكلة في محرك. أنت تروي ما حصل بشأن تشخيص المشكلة أمس.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "أخبر عن حدث أو حالة في وقت ماضٍ انتهى، بالماضي البسيط. التصريف الماضي يصف حدثًا منتهيًا. تحديد طبيعة مشكلة وسببها"
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "أنا؛ ضمير المتكلم المفرد"
+          },
+          {
+            "term": "reviewed",
+            "description": "راجعت؛ تحديد طبيعة مشكلة وسببها التصريف الماضي للفعل."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف"
+          },
+          {
+            "term": "diagnosis",
+            "description": "تشخيص"
+          },
+          {
+            "term": "of",
+            "description": "حرف يربط التشخيص بالمشكلة"
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف"
+          },
+          {
+            "term": "engine",
+            "description": "المحرك"
+          },
+          {
+            "term": "problem",
+            "description": "المشكلة"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I reviewed the diagnosis of the engine problem.",
+        "ar": "أنا راجعت تشخيص مشكلة المحرك.",
+        "context": "أنت تراجع تقريرًا فنيًا يحدد سبب مشكلة في محرك. أنت تروي ما حصل بشأن تشخيص المشكلة أمس."
+      },
+      {
+        "id": 2,
+        "en": "I review the diagnosis of the engine problem.",
+        "ar": "أنا أراجع تشخيص مشكلة المحرك.",
+        "context": "أنت تراجع تقريرًا فنيًا يحدد سبب مشكلة في محرك. أنت تشرح عادتك أو وضعك الحالي فيما يخص تشخيص المشكلة."
+      },
+      {
+        "id": 3,
+        "en": "I do not review the diagnosis of the engine problem.",
+        "ar": "أنا لا أراجع تشخيص مشكلة المحرك.",
+        "context": "أنت تراجع تقريرًا فنيًا يحدد سبب مشكلة في محرك. أنت توضح أن هذا ليس من عادتك أو وصفًا لوضعك الحالي."
+      },
+      {
+        "id": 4,
+        "en": "I am reviewing the diagnosis of the engine problem.",
+        "ar": "أنا أراجع تشخيص مشكلة المحرك.",
+        "context": "أنت تراجع تقريرًا فنيًا يحدد سبب مشكلة في محرك. أنت في أثناء التعامل مع تشخيص المشكلة الآن."
+      },
+      {
+        "id": 5,
+        "en": "I am not reviewing the diagnosis of the engine problem.",
+        "ar": "أنا لا أراجع تشخيص مشكلة المحرك.",
+        "context": "أنت تراجع تقريرًا فنيًا يحدد سبب مشكلة في محرك. أنت تصحح توقعًا بشأن ما تفعله الآن وتوضح أن هذا النشاط لا يجري."
+      },
+      {
+        "id": 6,
+        "en": "I did not review the diagnosis of the engine problem.",
+        "ar": "أنا لم أراجع تشخيص مشكلة المحرك.",
+        "context": "أنت تراجع تقريرًا فنيًا يحدد سبب مشكلة في محرك. أنت تصحح رواية عن أحداث أمس وتوضح أن هذا الأمر لم يحصل."
+      },
+      {
+        "id": 7,
+        "en": "I have reviewed the diagnosis of the engine problem.",
+        "ar": "أنا قد راجعت تشخيص مشكلة المحرك.",
+        "context": "أنت تراجع تقريرًا فنيًا يحدد سبب مشكلة في محرك. أنت تناقش ما أنجزته أو خبرتك السابقة بشأن تشخيص المشكلة، لأن ذلك مهم لموقفك الآن."
+      },
+      {
+        "id": 8,
+        "en": "I have not reviewed the diagnosis of the engine problem.",
+        "ar": "أنا لم أراجع تشخيص مشكلة المحرك.",
+        "context": "أنت تراجع تقريرًا فنيًا يحدد سبب مشكلة في محرك. أنت تناقش ما تم حتى الآن وتوضح أن هذا الأمر لم يتم بعد."
+      },
+      {
+        "id": 9,
+        "en": "I will review the diagnosis of the engine problem.",
+        "ar": "أنا سأراجع تشخيص مشكلة المحرك.",
+        "context": "أنت تراجع تقريرًا فنيًا يحدد سبب مشكلة في محرك. أنت تتحدث عن خططك أو توقعاتك بشأن تشخيص المشكلة غدًا."
+      },
+      {
+        "id": 10,
+        "en": "I will not review the diagnosis of the engine problem.",
+        "ar": "أنا لن أراجع تشخيص مشكلة المحرك.",
+        "context": "أنت تراجع تقريرًا فنيًا يحدد سبب مشكلة في محرك. أنت تناقش خطط الغد وتوضح أن هذا الأمر لن يحدث."
+      }
+    ]
+  }
+}

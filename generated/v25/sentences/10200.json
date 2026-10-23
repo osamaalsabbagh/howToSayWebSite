@@ -1,0 +1,109 @@
+{
+  "schemaVersion": 1,
+  "id": 10200,
+  "sentence": {
+    "en": "I contacted the tour operator.",
+    "ar": "أنا اتصلت بمنظم الرحلات.",
+    "context": "وصف اتصال سابق بجهة تنظم برامج سفر دون افتراض حجز رحلة بعينها.",
+    "sourceWord": "operator",
+    "sourcePos": "n."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "I contacted the tour operator.",
+        "ar": "أنا اتصلت بمنظم الرحلات.",
+        "context": "وصف اتصال سابق بجهة تنظم برامج سفر دون افتراض حجز رحلة بعينها.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "تصف contacted اتصالًا وقع سابقًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "أنا؛ ضمير المتكلم المفرد"
+          },
+          {
+            "term": "contacted",
+            "description": "اتصلت بـ؛ تواصلت مع شخص أو جهة."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف للمنظم"
+          },
+          {
+            "term": "tour",
+            "description": "رحلة؛ مجال التنظيم"
+          },
+          {
+            "term": "operator",
+            "description": "منظم أو مشغل خدمة؛ جهة تنظم الرحلات هنا."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I contacted the tour operator.",
+        "ar": "أنا اتصلت بمنظم الرحلات.",
+        "context": "وصف اتصال سابق بجهة تنظم برامج سفر دون افتراض حجز رحلة بعينها."
+      },
+      {
+        "id": 2,
+        "en": "The operator connected the call.",
+        "ar": "موظف الهاتف وصل المكالمة.",
+        "context": "وصف عمل سابق لشخص يتولى تحويل الاتصالات."
+      },
+      {
+        "id": 3,
+        "en": "She works for a ferry operator.",
+        "ar": "هي تعمل لدى مشغل عبّارات.",
+        "context": "وصف جهة عمل تدير خدمة نقل مائي."
+      },
+      {
+        "id": 4,
+        "en": "We have selected a new network operator.",
+        "ar": "نحن قد اخترنا مشغل شبكة جديدًا.",
+        "context": "الإبلاغ عن اختيار مكتمل لجهة تدير خدمة اتصالات."
+      },
+      {
+        "id": 5,
+        "en": "The crane operator is lifting a container.",
+        "ar": "مشغل الرافعة يرفع حاوية.",
+        "context": "وصف عمل جارٍ لشخص يتحكم في آلة رفع."
+      },
+      {
+        "id": 6,
+        "en": "The bus operator will add an evening service.",
+        "ar": "مشغل الحافلات سيضيف خدمة مسائية.",
+        "context": "توقع توسيع جدول نقل تديره جهة."
+      },
+      {
+        "id": 7,
+        "en": "Please ask the operator for assistance.",
+        "ar": "من فضلك اطلب المساعدة من المشغل.",
+        "context": "طلب الرجوع إلى الشخص المسؤول عن تشغيل النظام المعني."
+      },
+      {
+        "id": 8,
+        "en": "The hotel operator signed a long lease.",
+        "ar": "مشغل الفندق وقع عقد إيجار طويل الأجل.",
+        "context": "وصف ترتيب سابق لجهة تدير منشأة ضيافة."
+      },
+      {
+        "id": 9,
+        "en": "The plus sign is an arithmetic operator.",
+        "ar": "علامة الجمع عامل حسابي.",
+        "context": "استعمال رياضي لرمز يحدد عملية على قيم."
+      },
+      {
+        "id": 10,
+        "en": "The camera operator adjusted the focus.",
+        "ar": "مشغل الكاميرا ضبط التركيز البؤري.",
+        "context": "وصف عمل سابق لشخص مسؤول عن جهاز تصوير."
+      }
+    ]
+  }
+}

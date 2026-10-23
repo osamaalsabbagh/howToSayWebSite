@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": 783,
+  "sentence": {
+    "en": "What is that?",
+    "ar": "ما ذاك؟",
+    "context": "السؤال عن شيء بعيد غير واضح."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "What is that?",
+        "ar": "ما ذاك؟",
+        "context": "سؤال عن شيء تشير إليه ويبدو أبعد أو غير واضح.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "الفعل is يربط اسم الإشارة that بهوية الشيء في الحاضر."
+        },
+        "wordMeanings": [
+          {
+            "term": "What",
+            "description": "ما أو ماذا"
+          },
+          {
+            "term": "is",
+            "description": "يكون أو هو في السؤال"
+          },
+          {
+            "term": "that",
+            "description": "ذلك؛ شيء أبعد أو مشار إليه"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "What is this?",
+        "ar": "ما هذا؟",
+        "context": "للسؤال عن شيء قريب."
+      },
+      {
+        "id": 2,
+        "en": "What is that noise?",
+        "ar": "ما ذلك الصوت؟",
+        "context": "عند سماع صوت غير معروف."
+      },
+      {
+        "id": 3,
+        "en": "What is that smell?",
+        "ar": "ما تلك الرائحة؟",
+        "context": "عند ملاحظة رائحة."
+      },
+      {
+        "id": 4,
+        "en": "What is that building?",
+        "ar": "ما ذلك المبنى؟",
+        "context": "عند رؤية مبنى بعيد."
+      },
+      {
+        "id": 5,
+        "en": "What is that in the sky?",
+        "ar": "ما ذلك في السماء؟",
+        "context": "للسؤال عن شيء مرئي فوق."
+      },
+      {
+        "id": 6,
+        "en": "What is that on the table?",
+        "ar": "ما ذلك على الطاولة؟",
+        "context": "للسؤال عن شيء موضوع."
+      },
+      {
+        "id": 7,
+        "en": "What is that sound?",
+        "ar": "ما ذلك الصوت؟",
+        "context": "لسؤال عن صوت محدد."
+      },
+      {
+        "id": 8,
+        "en": "What is that place?",
+        "ar": "ما ذلك المكان؟",
+        "context": "للسؤال عن مكان غير معروف."
+      },
+      {
+        "id": 9,
+        "en": "What is that word?",
+        "ar": "ما تلك الكلمة؟",
+        "context": "للسؤال عن كلمة غير مفهومة."
+      },
+      {
+        "id": 10,
+        "en": "What is that light?",
+        "ar": "ما ذلك الضوء؟",
+        "context": "عند رؤية ضوء غير واضح."
+      }
+    ]
+  }
+}

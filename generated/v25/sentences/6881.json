@@ -1,0 +1,137 @@
+{
+  "schemaVersion": 1,
+  "id": 6881,
+  "sentence": {
+    "en": "The teacher's explanation was confusing, so I asked again.",
+    "ar": "شرح المعلم كان مربكًا، لذلك أنا سألت مرة أخرى.",
+    "context": "ربط سؤال سابق متكرر بصعوبة فهم شرح دون تحديد المادة أو وقت الدرس.",
+    "sourceWord": "confusing",
+    "sourcePos": "adj."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "The teacher's explanation was confusing,",
+        "ar": "شرح المعلم كان مربكًا،",
+        "context": "وصف شرح سابق صعب الفهم.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "الماضي البسيط يصف حالة انتهت."
+        },
+        "wordMeanings": [
+          {
+            "term": "The",
+            "description": "أداة تعريف تأتي مع المعلم."
+          },
+          {
+            "term": "teacher's",
+            "description": "المعلم؛ صيغة الملكية."
+          },
+          {
+            "term": "explanation",
+            "description": "شرح."
+          },
+          {
+            "term": "was",
+            "description": "كان."
+          },
+          {
+            "term": "confusing",
+            "description": "مربكًا."
+          }
+        ]
+      },
+      {
+        "sentence": "so I asked again.",
+        "ar": "لذلك أنا سألت مرة أخرى.",
+        "context": "عرض إعادة السؤال نتيجة لذلك الإرباك.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "الماضي البسيط يصف حدثًا انتهى."
+        },
+        "wordMeanings": [
+          {
+            "term": "so",
+            "description": "لذلك."
+          },
+          {
+            "term": "I",
+            "description": "أنا."
+          },
+          {
+            "term": "asked",
+            "description": "سألت."
+          },
+          {
+            "term": "again",
+            "description": "مرة أخرى."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "The teacher's explanation was confusing, so I asked again.",
+        "ar": "شرح المعلم كان مربكًا، لذلك أنا سألت مرة أخرى.",
+        "context": "ربط سؤال سابق متكرر بصعوبة فهم شرح دون تحديد المادة أو وقت الدرس."
+      },
+      {
+        "id": 2,
+        "en": "The map uses confusing colors.",
+        "ar": "الخريطة تستخدم ألوانًا مربكة.",
+        "context": "وصف ترميز بصري يصعب تمييز معانيه."
+      },
+      {
+        "id": 3,
+        "en": "She found the first chapter confusing.",
+        "ar": "هي وجدت الفصل الأول مربكًا.",
+        "context": "وصف حكم سابق على صعوبة متابعة محتوى."
+      },
+      {
+        "id": 4,
+        "en": "We have removed the most confusing instructions.",
+        "ar": "نحن قد حذفنا أكثر التعليمات إرباكًا.",
+        "context": "الإبلاغ عن تبسيط مكتمل لإرشادات."
+      },
+      {
+        "id": 5,
+        "en": "The editor is simplifying a confusing sentence.",
+        "ar": "المحرر يبسط جملة مربكة.",
+        "context": "وصف تعديل جارٍ في صياغة يصعب فهمها."
+      },
+      {
+        "id": 6,
+        "en": "The new layout will be less confusing.",
+        "ar": "التخطيط الجديد سيكون أقل إرباكًا.",
+        "context": "توقع تحسن في وضوح تنظيم بصري."
+      },
+      {
+        "id": 7,
+        "en": "The two similar names made the conversation confusing.",
+        "ar": "الاسمان المتشابهان جعلا الحديث مربكًا.",
+        "context": "وصف سبب سابق لاختلاط المقصود في حوار."
+      },
+      {
+        "id": 8,
+        "en": "Please point out any confusing parts.",
+        "ar": "من فضلك أشر إلى أي أجزاء مربكة.",
+        "context": "طلب تحديد مواضع تستدعي توضيحًا."
+      },
+      {
+        "id": 9,
+        "en": "The report contains a confusing mixture of dates.",
+        "ar": "التقرير يحتوي على خليط مربك من التواريخ.",
+        "context": "وصف معلومات زمنية يصعب تنظيمها ذهنيًا."
+      },
+      {
+        "id": 10,
+        "en": "The ending was deliberately confusing.",
+        "ar": "النهاية كانت مربكة عمدًا.",
+        "context": "وصف اختيار فني سابق يترك الجمهور في حيرة."
+      }
+    ]
+  }
+}

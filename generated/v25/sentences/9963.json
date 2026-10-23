@@ -1,0 +1,137 @@
+{
+  "schemaVersion": 1,
+  "id": 9963,
+  "sentence": {
+    "en": "There is no indication that the weather will improve.",
+    "ar": "لا يوجد أي مؤشر على أن الطقس سيتحسن.",
+    "context": "نفي وجود علامة على تحسن قادم دون الجزم باستحالة التحسن أو إضافة رحلة بحرية.",
+    "sourceWord": "indication",
+    "sourcePos": "n."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "There is no indication",
+        "ar": "لا يوجد أي مؤشر",
+        "context": "نفي وجود علامات دالة حاليًا.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "المضارع البسيط مع there is في النفي. الاسم يعني علامة أو دليلًا على شيء."
+        },
+        "wordMeanings": [
+          {
+            "term": "There",
+            "description": "هناك؛ جزء من لا يوجد."
+          },
+          {
+            "term": "is",
+            "description": "يوجد."
+          },
+          {
+            "term": "no",
+            "description": "لا؛ أي."
+          },
+          {
+            "term": "indication",
+            "description": "مؤشر."
+          }
+        ]
+      },
+      {
+        "sentence": "that the weather will improve.",
+        "ar": "على أن الطقس سيتحسن.",
+        "context": "تحديد التحسن المستقبلي الذي لا تدعمه علامة واضحة.",
+        "grammar": {
+          "tense": "المستقبل البسيط",
+          "tenseEn": "Future Simple",
+          "reason": "المستقبل البسيط يصف توقعًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "that",
+            "description": "على أن."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف تأتي مع الطقس."
+          },
+          {
+            "term": "weather",
+            "description": "الطقس."
+          },
+          {
+            "term": "will",
+            "description": "سـ؛ مساعد المستقبل."
+          },
+          {
+            "term": "improve",
+            "description": "يتحسن."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "There is no indication that the weather will improve.",
+        "ar": "لا يوجد أي مؤشر على أن الطقس سيتحسن.",
+        "context": "نفي وجود علامة على تحسن قادم دون الجزم باستحالة التحسن أو إضافة رحلة بحرية."
+      },
+      {
+        "id": 2,
+        "en": "The doctor said the pain was an indication of a serious problem.",
+        "ar": "الطبيب قال إن الألم كان علامة على مشكلة خطيرة.",
+        "context": "نقل تقييم طبي سابق لألم بوصفه علامة دون تحديد موضع الألم أو المريض أو الفحوص."
+      },
+      {
+        "id": 3,
+        "en": "The figures give an indication of the scale of the project.",
+        "ar": "الأرقام تعطي مؤشرًا على حجم المشروع.",
+        "context": "وصف بيانات تساعد على تقدير مقدار دون إحاطة كاملة بكل التفاصيل."
+      },
+      {
+        "id": 4,
+        "en": "She gave no indication of her intentions.",
+        "ar": "هي لم تُبدِ أي إشارة إلى نواياها.",
+        "context": "وصف غياب سابق لما يكشف ما يريده شخص."
+      },
+      {
+        "id": 5,
+        "en": "We have found an indication of earlier settlement.",
+        "ar": "نحن قد وجدنا مؤشرًا على استيطان أسبق.",
+        "context": "الإبلاغ عن شاهد يدعم احتمال وجود سكان سابقين دون اعتباره برهانًا نهائيًا وحده."
+      },
+      {
+        "id": 6,
+        "en": "The team is looking for indications of wear.",
+        "ar": "الفريق يبحث عن علامات تآكل.",
+        "context": "وصف فحص جارٍ لمظاهر استعمال أو تلف."
+      },
+      {
+        "id": 7,
+        "en": "The next report will provide a clearer indication.",
+        "ar": "التقرير التالي سيوفر مؤشرًا أوضح.",
+        "context": "توقع معلومات تساعد على فهم وضع بدرجة أكبر."
+      },
+      {
+        "id": 8,
+        "en": "Please give an indication of the expected cost.",
+        "ar": "من فضلك أعطِ تقديرًا تقريبيًا للتكلفة المتوقعة.",
+        "context": "طلب فكرة عامة عن مبلغ، لا عرض سعر نهائي ملزم."
+      },
+      {
+        "id": 9,
+        "en": "His smile was an indication of relief.",
+        "ar": "ابتسامته كانت علامة ارتياح.",
+        "context": "وصف استدلال سابق على شعور من ملامح وجه."
+      },
+      {
+        "id": 10,
+        "en": "The map offers an indication of the route.",
+        "ar": "الخريطة تتيح تصورًا عامًا للمسار.",
+        "context": "وصف توجيه تقريبي يساعد على فهم طريق."
+      }
+    ]
+  }
+}

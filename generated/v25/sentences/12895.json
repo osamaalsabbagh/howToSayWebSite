@@ -1,0 +1,125 @@
+{
+  "schemaVersion": 1,
+  "id": 12895,
+  "sentence": {
+    "en": "I explained the machine's inability to process the file.",
+    "ar": "أنا شرحت عجز الآلة عن معالجة الملف.",
+    "context": "أنت تناقش سبب تعذر معالجة ملف باستخدام آلة. أنت تروي ما حصل بشأن عجز الآلة أمس.",
+    "sourceWord": "inability",
+    "sourcePos": "n."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "I explained the machine's inability to process the file.",
+        "ar": "أنا شرحت عجز الآلة عن معالجة الملف.",
+        "context": "أنت تناقش سبب تعذر معالجة ملف باستخدام آلة. أنت تروي ما حصل بشأن عجز الآلة أمس.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "أخبر عن حدث أو حالة في وقت ماضٍ انتهى، بالماضي البسيط. التصريف الماضي يصف حدثًا منتهيًا. عدم القدرة على أداء وظيفة"
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "أنا؛ ضمير المتكلم المفرد"
+          },
+          {
+            "term": "explained",
+            "description": "شرحت؛ عدم القدرة على أداء وظيفة التصريف الماضي للفعل."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف"
+          },
+          {
+            "term": "machine's",
+            "description": "الآلة مع دلالة الملكية"
+          },
+          {
+            "term": "inability",
+            "description": "عجز"
+          },
+          {
+            "term": "to",
+            "description": "حرف يربط العجز بالفعل"
+          },
+          {
+            "term": "process",
+            "description": "يعالج"
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف"
+          },
+          {
+            "term": "file",
+            "description": "ملف"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I explained the machine's inability to process the file.",
+        "ar": "أنا شرحت عجز الآلة عن معالجة الملف.",
+        "context": "أنت تناقش سبب تعذر معالجة ملف باستخدام آلة. أنت تروي ما حصل بشأن عجز الآلة أمس."
+      },
+      {
+        "id": 2,
+        "en": "I explain the machine's inability to process the file.",
+        "ar": "أنا أشرح عجز الآلة عن معالجة الملف.",
+        "context": "أنت تناقش سبب تعذر معالجة ملف باستخدام آلة. أنت تشرح عادتك أو وضعك الحالي فيما يخص عجز الآلة."
+      },
+      {
+        "id": 3,
+        "en": "I do not explain the machine's inability to process the file.",
+        "ar": "أنا لا أشرح عجز الآلة عن معالجة الملف.",
+        "context": "أنت تناقش سبب تعذر معالجة ملف باستخدام آلة. أنت توضح أن هذا ليس من عادتك أو وصفًا لوضعك الحالي."
+      },
+      {
+        "id": 4,
+        "en": "I am explaining the machine's inability to process the file.",
+        "ar": "أنا أشرح عجز الآلة عن معالجة الملف.",
+        "context": "أنت تناقش سبب تعذر معالجة ملف باستخدام آلة. أنت في أثناء التعامل مع عجز الآلة الآن."
+      },
+      {
+        "id": 5,
+        "en": "I am not explaining the machine's inability to process the file.",
+        "ar": "أنا لا أشرح عجز الآلة عن معالجة الملف.",
+        "context": "أنت تناقش سبب تعذر معالجة ملف باستخدام آلة. أنت تصحح توقعًا بشأن ما تفعله الآن وتوضح أن هذا النشاط لا يجري."
+      },
+      {
+        "id": 6,
+        "en": "I did not explain the machine's inability to process the file.",
+        "ar": "أنا لم أشرح عجز الآلة عن معالجة الملف.",
+        "context": "أنت تناقش سبب تعذر معالجة ملف باستخدام آلة. أنت تصحح رواية عن أحداث أمس وتوضح أن هذا الأمر لم يحصل."
+      },
+      {
+        "id": 7,
+        "en": "I have explained the machine's inability to process the file.",
+        "ar": "أنا قد شرحت عجز الآلة عن معالجة الملف.",
+        "context": "أنت تناقش سبب تعذر معالجة ملف باستخدام آلة. أنت تناقش ما أنجزته أو خبرتك السابقة بشأن عجز الآلة، لأن ذلك مهم لموقفك الآن."
+      },
+      {
+        "id": 8,
+        "en": "I have not explained the machine's inability to process the file.",
+        "ar": "أنا لم أشرح عجز الآلة عن معالجة الملف.",
+        "context": "أنت تناقش سبب تعذر معالجة ملف باستخدام آلة. أنت تناقش ما تم حتى الآن وتوضح أن هذا الأمر لم يتم بعد."
+      },
+      {
+        "id": 9,
+        "en": "I will explain the machine's inability to process the file.",
+        "ar": "أنا سأشرح عجز الآلة عن معالجة الملف.",
+        "context": "أنت تناقش سبب تعذر معالجة ملف باستخدام آلة. أنت تتحدث عن خططك أو توقعاتك بشأن عجز الآلة غدًا."
+      },
+      {
+        "id": 10,
+        "en": "I will not explain the machine's inability to process the file.",
+        "ar": "أنا لن أشرح عجز الآلة عن معالجة الملف.",
+        "context": "أنت تناقش سبب تعذر معالجة ملف باستخدام آلة. أنت تناقش خطط الغد وتوضح أن هذا الأمر لن يحدث."
+      }
+    ]
+  }
+}

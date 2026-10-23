@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "id": 305,
+  "sentence": {
+    "en": "What is the address?",
+    "ar": "ما هو العنوان؟",
+    "context": "السؤال عن عنوان مكان أو شخص."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "What is the address?",
+        "ar": "ما هو العنوان؟",
+        "context": "يوضح المعلومة أو الفكرة التابعة لما قبله.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "يستخدم السؤال فعل الربط في الحاضر لطلب معلومة محددة عن العنوان."
+        },
+        "wordMeanings": [
+          {
+            "term": "What",
+            "description": "أداة سؤال عن الشيء أو المعلومة المطلوبة."
+          },
+          {
+            "term": "is",
+            "description": "تستخدم في السؤال لطلب تعريف أو تحديد شيء."
+          },
+          {
+            "term": "the",
+            "description": "أداة تشير إلى عنوان محدد في السياق."
+          },
+          {
+            "term": "address",
+            "description": "العنوان، أي معلومات مكان شخص أو مبنى."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "What is the address?",
+        "ar": "ما هو العنوان؟",
+        "context": "تقال عند السؤال عن عنوان مكان أو شخص."
+      },
+      {
+        "id": 2,
+        "en": "What is your address?",
+        "ar": "ما عنوانك؟",
+        "context": "تستخدم للسؤال عن عنوان شخص."
+      },
+      {
+        "id": 3,
+        "en": "What is the hotel address?",
+        "ar": "ما عنوان الفندق؟",
+        "context": "تقال عند طلب عنوان فندق."
+      },
+      {
+        "id": 4,
+        "en": "Can you give me the address?",
+        "ar": "هل يمكنك أن تعطيني العنوان؟",
+        "context": "تقال عند طلب العنوان بطريقة مهذبة."
+      },
+      {
+        "id": 5,
+        "en": "Do you know the address?",
+        "ar": "هل تعرف العنوان؟",
+        "context": "تستخدم للسؤال عن معرفة شخص بالعنوان."
+      },
+      {
+        "id": 6,
+        "en": "Please write the address.",
+        "ar": "من فضلك اكتب العنوان.",
+        "context": "تقال عند طلب كتابة العنوان."
+      },
+      {
+        "id": 7,
+        "en": "What is the address of the restaurant?",
+        "ar": "ما عنوان المطعم؟",
+        "context": "تقال عند البحث عن موقع مطعم."
+      },
+      {
+        "id": 8,
+        "en": "I need the address.",
+        "ar": "أحتاج إلى العنوان.",
+        "context": "تقال عند توضيح المعلومة المطلوبة."
+      },
+      {
+        "id": 9,
+        "en": "Is this the correct address?",
+        "ar": "هل هذا هو العنوان الصحيح؟",
+        "context": "تستخدم للتأكد من صحة عنوان."
+      },
+      {
+        "id": 10,
+        "en": "The address is on this paper.",
+        "ar": "العنوان على هذه الورقة.",
+        "context": "تقال عند إخبار شخص بمكان العنوان المكتوب."
+      }
+    ]
+  }
+}

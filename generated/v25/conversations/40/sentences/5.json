@@ -1,0 +1,119 @@
+{
+  "schemaVersion": 1,
+  "id": 5,
+  "sentence": {
+    "en": "Really? What about the bananas?",
+    "ar": "حقًا؟ وماذا عن الموز؟",
+    "context": "تلاحظ أنه نسي أحد الأصناف الأساسية."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Really",
+        "ar": "حقًا؟",
+        "context": "تعبير استغراب أو شك خفيف.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "كلمة استفهامية قصيرة للتعجب ولا تحمل زمنًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "Really",
+            "description": "حقًا أو بجد"
+          }
+        ]
+      },
+      {
+        "sentence": "What about the bananas",
+        "ar": "وماذا عن الموز؟",
+        "context": "تسأل عن الغرض الذي يبدو أنه نُسي.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "What about عبارة سؤال عن شيء مذكور أو متوقع، ولا تحتوي فعلًا بزمن مستقل."
+        },
+        "wordMeanings": [
+          {
+            "term": "What",
+            "description": "ماذا أو ما"
+          },
+          {
+            "term": "about",
+            "description": "عن أو بخصوص"
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف"
+          },
+          {
+            "term": "bananas",
+            "description": "موز"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Really? What about the milk",
+        "ar": "حقًا؟ وماذا عن الحليب؟",
+        "context": "يقال عند تذكر غرض منسي"
+      },
+      {
+        "id": 2,
+        "en": "What about the bread",
+        "ar": "وماذا عن الخبز؟",
+        "context": "يقال عند السؤال عن غرض في القائمة"
+      },
+      {
+        "id": 3,
+        "en": "Really? You got everything",
+        "ar": "حقًا؟ جلبت كل شيء؟",
+        "context": "يقال عند الشك أو المفاجأة"
+      },
+      {
+        "id": 4,
+        "en": "What about the chicken",
+        "ar": "وماذا عن الدجاج؟",
+        "context": "يقال للتحقق من غرض"
+      },
+      {
+        "id": 5,
+        "en": "Really? That is surprising",
+        "ar": "حقًا؟ هذا مفاجئ",
+        "context": "يقال عند سماع شيء غير متوقع"
+      },
+      {
+        "id": 6,
+        "en": "What about dinner tonight",
+        "ar": "وماذا عن عشاء الليلة؟",
+        "context": "يقال للتذكير بموضوع"
+      },
+      {
+        "id": 7,
+        "en": "What about the shopping list",
+        "ar": "وماذا عن قائمة المشتريات؟",
+        "context": "يقال عند تذكر القائمة"
+      },
+      {
+        "id": 8,
+        "en": "Really? I forgot the bananas",
+        "ar": "حقًا؟ نسيت الموز",
+        "context": "يقال عند اكتشاف نسيان"
+      },
+      {
+        "id": 9,
+        "en": "What about the chocolate",
+        "ar": "وماذا عن الشوكولاتة؟",
+        "context": "يقال للسؤال عن غرض آخر"
+      },
+      {
+        "id": 10,
+        "en": "The bananas are important",
+        "ar": "الموز مهم",
+        "context": "يقال عند التشديد على غرض مطلوب"
+      }
+    ]
+  }
+}

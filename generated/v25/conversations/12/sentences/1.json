@@ -1,0 +1,135 @@
+{
+  "schemaVersion": 1,
+  "id": 1,
+  "sentence": {
+    "en": "Hello, I am calling to ask about my order.",
+    "ar": "مرحبًا، أنا أتصل للسؤال عن طلبي.",
+    "context": "عميل يتصل بخدمة العملاء للسؤال عن طلبه."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Hello",
+        "ar": "مرحبًا.",
+        "context": "يفتتح بها المتحدث الكلام قبل الدخول في الفكرة الأساسية.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "تحية قصيرة لبدء المكالمة وليست جملة بزمن مستقل."
+        },
+        "wordMeanings": [
+          {
+            "term": "Hello",
+            "description": "تحية تُستخدم في بداية المكالمة أو الحديث."
+          }
+        ]
+      },
+      {
+        "sentence": "I am calling to ask about my order",
+        "ar": "أنا أتصل للسؤال عن طلبي.",
+        "context": "يكمل به المتحدث المعنى أو النتيجة داخل هذا الموقف.",
+        "grammar": {
+          "tense": "المضارع المستمر",
+          "tenseEn": "Present Continuous",
+          "reason": "يصف فعلًا يحدث أثناء المكالمة الآن، مع توضيح الغرض منه باستخدام to ask."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير المتكلم المفرد."
+          },
+          {
+            "term": "am",
+            "description": "تأتي مع المتكلم المفرد لتكوين الفعل المستمر هنا."
+          },
+          {
+            "term": "calling",
+            "description": "أتصل هاتفيًا في هذه اللحظة."
+          },
+          {
+            "term": "to",
+            "description": "توضح الغرض من الاتصال."
+          },
+          {
+            "term": "ask",
+            "description": "يسأل أو يطلب معلومة."
+          },
+          {
+            "term": "about",
+            "description": "بخصوص أو حول."
+          },
+          {
+            "term": "my",
+            "description": "يدل على أن الطلب يخص المتكلم."
+          },
+          {
+            "term": "order",
+            "description": "طلب شراء أو حجز."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Hello, I am calling to ask about my ticket.",
+        "ar": "مرحبًا، أنا أتصل للسؤال عن تذكرتي.",
+        "context": "يُستخدم عند الاتصال بخدمة حجز أو سفر."
+      },
+      {
+        "id": 2,
+        "en": "Hello, I am calling to ask about my bill.",
+        "ar": "مرحبًا، أنا أتصل للسؤال عن فاتورتي.",
+        "context": "يُستخدم عند الاستفسار عن مبلغ أو حساب."
+      },
+      {
+        "id": 3,
+        "en": "Hello, I am calling to ask about my appointment.",
+        "ar": "مرحبًا، أنا أتصل للسؤال عن موعدي.",
+        "context": "يُستخدم عند التأكد من موعد سابق."
+      },
+      {
+        "id": 4,
+        "en": "Hello, I am calling to check my order.",
+        "ar": "مرحبًا، أنا أتصل للتحقق من طلبي.",
+        "context": "يُستخدم لمتابعة حالة طلب."
+      },
+      {
+        "id": 5,
+        "en": "Hello, I am calling to ask about delivery.",
+        "ar": "مرحبًا، أنا أتصل للسؤال عن التوصيل.",
+        "context": "يُستخدم عند الاستفسار عن خدمة التوصيل."
+      },
+      {
+        "id": 6,
+        "en": "Hello, I am calling to ask about the price.",
+        "ar": "مرحبًا، أنا أتصل للسؤال عن السعر.",
+        "context": "يُستخدم عند طلب معرفة سعر."
+      },
+      {
+        "id": 7,
+        "en": "Hello, I am calling to ask about the course.",
+        "ar": "مرحبًا، أنا أتصل للسؤال عن الدورة.",
+        "context": "يُستخدم عند الاتصال بمركز تعليمي."
+      },
+      {
+        "id": 8,
+        "en": "Hello, I am calling to ask about my package.",
+        "ar": "مرحبًا، أنا أتصل للسؤال عن طردي.",
+        "context": "يُستخدم لمتابعة شحنة."
+      },
+      {
+        "id": 9,
+        "en": "Hello, I am calling to ask about the address.",
+        "ar": "مرحبًا، أنا أتصل للسؤال عن العنوان.",
+        "context": "يُستخدم عند طلب تأكيد عنوان."
+      },
+      {
+        "id": 10,
+        "en": "Hello, I am calling to ask about my account.",
+        "ar": "مرحبًا، أنا أتصل للسؤال عن حسابي.",
+        "context": "يُستخدم عند التواصل مع دعم الحسابات."
+      }
+    ]
+  }
+}

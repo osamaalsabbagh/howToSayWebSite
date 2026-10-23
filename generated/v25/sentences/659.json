@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "id": 659,
+  "sentence": {
+    "en": "Do you speak English?",
+    "ar": "هل تتحدث الإنجليزية؟",
+    "context": "السؤال عن قدرة الشخص على التحدث بالإنجليزية."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Do you speak English?",
+        "ar": "هل تتحدث الإنجليزية؟",
+        "context": "تستخدم للسؤال عن قدرة شخص على التحدث باللغة الإنجليزية.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "السؤال عن قدرة أو معرفة عامة، لذلك استُخدم المضارع البسيط."
+        },
+        "wordMeanings": [
+          {
+            "term": "Do",
+            "description": "كلمة مساعدة لتكوين سؤال في المضارع البسيط."
+          },
+          {
+            "term": "you",
+            "description": "أنت أو أنتم حسب السياق."
+          },
+          {
+            "term": "speak",
+            "description": "تتحدث أو تتكلم."
+          },
+          {
+            "term": "English",
+            "description": "اللغة الإنجليزية."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Do you speak Arabic?",
+        "ar": "هل تتحدث العربية؟",
+        "context": "تقال للسؤال عن لغة أخرى."
+      },
+      {
+        "id": 2,
+        "en": "I speak English.",
+        "ar": "أتحدث الإنجليزية.",
+        "context": "تستخدم للإجابة بتأكيد القدرة."
+      },
+      {
+        "id": 3,
+        "en": "She speaks English well.",
+        "ar": "هي تتحدث الإنجليزية جيداً.",
+        "context": "تقال لوصف مهارة امرأة."
+      },
+      {
+        "id": 4,
+        "en": "Do they speak English?",
+        "ar": "هل يتحدثون الإنجليزية؟",
+        "context": "تستخدم للسؤال عن مجموعة."
+      },
+      {
+        "id": 5,
+        "en": "I do not speak English very well.",
+        "ar": "لا أتحدث الإنجليزية جيداً جداً.",
+        "context": "تقال لتوضيح مستوى محدود."
+      },
+      {
+        "id": 6,
+        "en": "Does anyone here speak English?",
+        "ar": "هل يتحدث أي شخص هنا الإنجليزية؟",
+        "context": "تستخدم عند البحث عن متحدث بالإنجليزية."
+      },
+      {
+        "id": 7,
+        "en": "My son speaks English.",
+        "ar": "ابني يتحدث الإنجليزية.",
+        "context": "تقال عن قدرة الابن."
+      },
+      {
+        "id": 8,
+        "en": "Do you understand English?",
+        "ar": "هل تفهم الإنجليزية؟",
+        "context": "تستخدم للسؤال عن الفهم."
+      },
+      {
+        "id": 9,
+        "en": "We speak two languages.",
+        "ar": "نحن نتحدث لغتين.",
+        "context": "تقال عن قدرة لغوية عامة."
+      },
+      {
+        "id": 10,
+        "en": "Can you speak English slowly?",
+        "ar": "هل يمكنك التحدث بالإنجليزية ببطء؟",
+        "context": "تستخدم لطلب كلام أوضح."
+      }
+    ]
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "schemaVersion": 1,
+  "id": 6598,
+  "sentence": {
+    "en": "Whether you like it or not, you must go.",
+    "ar": "سواء أنت أحببت ذلك أم لا، أنت يجب أن تذهب.",
+    "context": "تأكيد لزوم الذهاب بصرف النظر عن رغبة المخاطب دون تحديد الوجهة أو صاحب السلطة.",
+    "sourceWord": "whether",
+    "sourcePos": "conj."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Whether you like it or not,",
+        "ar": "سواء أنت أحببت ذلك أم لا،",
+        "context": "استبعاد أثر رغبة المخاطب في لزوم الفعل.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "المضارع البسيط في جملة تابعة. التعبير مع أداة العطف المنفية يعني في كل الأحوال."
+        },
+        "wordMeanings": [
+          {
+            "term": "Whether",
+            "description": "سواء."
+          },
+          {
+            "term": "you",
+            "description": "أنت."
+          },
+          {
+            "term": "like",
+            "description": "تحب."
+          },
+          {
+            "term": "it",
+            "description": "ه؛ ذلك."
+          },
+          {
+            "term": "or",
+            "description": "أم."
+          },
+          {
+            "term": "not",
+            "description": "لا."
+          }
+        ]
+      },
+      {
+        "sentence": "you must go.",
+        "ar": "أنت يجب أن تذهب.",
+        "context": "تأكيد إلزام المخاطب بالذهاب.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "تركيب مساعد بلا زمن مستقل يعبر عن الإلزام."
+        },
+        "wordMeanings": [
+          {
+            "term": "you",
+            "description": "أنت."
+          },
+          {
+            "term": "must",
+            "description": "يجب."
+          },
+          {
+            "term": "go",
+            "description": "تذهب."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Whether you like it or not, you must go.",
+        "ar": "سواء أنت أحببت ذلك أم لا، أنت يجب أن تذهب.",
+        "context": "تأكيد لزوم الذهاب بصرف النظر عن رغبة المخاطب دون تحديد الوجهة أو صاحب السلطة."
+      },
+      {
+        "id": 2,
+        "en": "She asked whether the room was available.",
+        "ar": "هي سألت إن كانت الغرفة متاحة.",
+        "context": "وصف سؤال سابق غير مباشر عن إمكان استخدام مكان."
+      },
+      {
+        "id": 3,
+        "en": "The result depends on whether the test succeeds.",
+        "ar": "النتيجة تعتمد على نجاح الاختبار من عدمه.",
+        "context": "وصف ارتباط مآل بأحد احتمالين في اختبار."
+      },
+      {
+        "id": 4,
+        "en": "We have not decided whether to stay or leave.",
+        "ar": "نحن لم نقرر البقاء أو المغادرة.",
+        "context": "الإبلاغ عن تردد مستمر بين خيارين حتى الآن."
+      },
+      {
+        "id": 5,
+        "en": "The team is checking whether the figures match.",
+        "ar": "الفريق يتحقق من تطابق الأرقام من عدمه.",
+        "context": "وصف فحص جارٍ لواحد من احتمالين."
+      },
+      {
+        "id": 6,
+        "en": "The report will show whether the plan worked.",
+        "ar": "التقرير سيبين نجاح الخطة من عدمه.",
+        "context": "توقع حسم سؤال عن نتيجة عمل سابق."
+      },
+      {
+        "id": 7,
+        "en": "Please tell me whether you need a copy.",
+        "ar": "من فضلك أخبرني بحاجتك إلى نسخة من عدمها.",
+        "context": "طلب توضيح إذا كانت نسخة مطلوبة أم غير مطلوبة."
+      },
+      {
+        "id": 8,
+        "en": "Whether at home or abroad, she keeps a diary.",
+        "ar": "سواء في الوطن أم خارجه، هي تحتفظ بمفكرة.",
+        "context": "وصف عادة ثابتة رغم اختلاف المكان."
+      },
+      {
+        "id": 9,
+        "en": "He wondered whether anyone had noticed.",
+        "ar": "هو تساءل إن كان أحد قد لاحظ.",
+        "context": "وصف شك سابق بشأن انتباه الآخرين إلى أمر قبل ذلك."
+      },
+      {
+        "id": 10,
+        "en": "The guide explains whether each path is suitable for bicycles.",
+        "ar": "الدليل يوضح ملاءمة كل مسار للدراجات من عدمها.",
+        "context": "وصف معلومات تساعد على الاختيار بين طرق بحسب خاصية."
+      }
+    ]
+  }
+}

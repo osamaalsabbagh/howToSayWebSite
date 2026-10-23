@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "id": 751,
+  "sentence": {
+    "en": "Give me the pen.",
+    "ar": "أعطني القلم.",
+    "context": "طلب إعطاء القلم لشخص ما."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Give me the pen.",
+        "ar": "أعطني القلم.",
+        "context": "أمر مباشر لطلب شيء محدد.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه صيغة أمر؛ تبدأ بالفعل الأساسي Give ويكون الفاعل المفهوم هو الشخص المخاطب."
+        },
+        "wordMeanings": [
+          {
+            "term": "Give",
+            "description": "أعط أو سلم شيئا لشخص"
+          },
+          {
+            "term": "me",
+            "description": "لي أو إياي"
+          },
+          {
+            "term": "the",
+            "description": "تحدد أن القلم معروف"
+          },
+          {
+            "term": "pen",
+            "description": "قلم للكتابة"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Give me the book.",
+        "ar": "أعطني الكتاب.",
+        "context": "لطلب كتاب محدد."
+      },
+      {
+        "id": 2,
+        "en": "Give me the key.",
+        "ar": "أعطني المفتاح.",
+        "context": "لطلب مفتاح معروف."
+      },
+      {
+        "id": 3,
+        "en": "Give me your hand.",
+        "ar": "أعطني يدك.",
+        "context": "لطلب مساعدة أو تواصل جسدي."
+      },
+      {
+        "id": 4,
+        "en": "Give me a minute.",
+        "ar": "أعطني دقيقة.",
+        "context": "لطلب وقت قصير."
+      },
+      {
+        "id": 5,
+        "en": "Give him the bag.",
+        "ar": "أعطه الحقيبة.",
+        "context": "لإخبار شخص أن يسلم الحقيبة لآخر."
+      },
+      {
+        "id": 6,
+        "en": "Give her the phone.",
+        "ar": "أعطها الهاتف.",
+        "context": "لطلب تسليم الهاتف لفتاة أو امرأة."
+      },
+      {
+        "id": 7,
+        "en": "Give me the address.",
+        "ar": "أعطني العنوان.",
+        "context": "لطلب معلومة مكتوبة أو منطوقة."
+      },
+      {
+        "id": 8,
+        "en": "Give me the receipt.",
+        "ar": "أعطني الإيصال.",
+        "context": "بعد عملية دفع."
+      },
+      {
+        "id": 9,
+        "en": "Give me some water.",
+        "ar": "أعطني بعض الماء.",
+        "context": "لطلب ماء بطريقة مباشرة."
+      },
+      {
+        "id": 10,
+        "en": "Give me the paper.",
+        "ar": "أعطني الورقة.",
+        "context": "لطلب ورقة محددة."
+      }
+    ]
+  }
+}

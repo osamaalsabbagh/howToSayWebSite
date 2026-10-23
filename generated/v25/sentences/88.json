@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": 88,
+  "sentence": {
+    "en": "No, thank you.",
+    "ar": "لا، شكرًا لك.",
+    "context": "ارفض بأدب."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "No, thank you.",
+        "ar": "لا، شكرًا لك.",
+        "context": "يعرض به المتحدث الفكرة الأساسية التي يريد قولها في هذا الموقف.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذا تعبير ثابت للرفض بأدب مع الشكر، ولا يحمل زمنًا مستقلًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "No",
+            "description": "لا، وتستخدم هنا للرفض."
+          },
+          {
+            "term": "thank",
+            "description": "جزء من تعبير شكر مهذب عند الرفض."
+          },
+          {
+            "term": "you",
+            "description": "ضمير يشير إلى الشخص الذي أتحدث معه."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "No, thank you, I am full.",
+        "ar": "لا، شكرًا لك، أنا شبعان.",
+        "context": "تقال عند رفض المزيد من الطعام بأدب."
+      },
+      {
+        "id": 2,
+        "en": "No, thank you, I do not need help.",
+        "ar": "لا، شكرًا لك، لا أحتاج إلى مساعدة.",
+        "context": "تقال عند رفض المساعدة بأدب."
+      },
+      {
+        "id": 3,
+        "en": "No, thank you, I have one.",
+        "ar": "لا، شكرًا لك، لدي واحد.",
+        "context": "تقال عند رفض شيء لأنك تملكه بالفعل."
+      },
+      {
+        "id": 4,
+        "en": "No, thanks.",
+        "ar": "لا، شكرًا.",
+        "context": "تقال في رفض قصير وغير رسمي."
+      },
+      {
+        "id": 5,
+        "en": "Thank you, but no.",
+        "ar": "شكرًا لك، لكن لا.",
+        "context": "تقال عند الرفض مع الحفاظ على الأدب."
+      },
+      {
+        "id": 6,
+        "en": "No, thank you, maybe later.",
+        "ar": "لا، شكرًا لك، ربما لاحقًا.",
+        "context": "تقال عند تأجيل قبول عرض."
+      },
+      {
+        "id": 7,
+        "en": "No, thank you, I am okay.",
+        "ar": "لا، شكرًا لك، أنا بخير.",
+        "context": "تقال عند رفض عرض لأنك لا تحتاجه."
+      },
+      {
+        "id": 8,
+        "en": "No, thank you, I will wait.",
+        "ar": "لا، شكرًا لك، سأنتظر.",
+        "context": "تقال عند رفض بديل أو مساعدة."
+      },
+      {
+        "id": 9,
+        "en": "No, thank you, I do not want coffee.",
+        "ar": "لا، شكرًا لك، لا أريد قهوة.",
+        "context": "تقال عند رفض مشروب بأدب."
+      },
+      {
+        "id": 10,
+        "en": "No, thank you, that is enough.",
+        "ar": "لا، شكرًا لك، هذا يكفي.",
+        "context": "تقال عند رفض كمية إضافية."
+      }
+    ]
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "schemaVersion": 1,
+  "id": 6462,
+  "sentence": {
+    "en": "Though it was raining, we went for a walk.",
+    "ar": "رغم هطول المطر، نحن ذهبنا للمشي.",
+    "context": "وصف مشي سابق حدث مع استمرار المطر الذي قد يكون عائقًا له.",
+    "sourceWord": "though",
+    "sourcePos": "conj."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Though it was raining,",
+        "ar": "رغم هطول المطر،",
+        "context": "ذكر مطر كان جاريًا بوصفه عائقًا محتملًا.",
+        "grammar": {
+          "tense": "الماضي المستمر",
+          "tenseEn": "Past Continuous",
+          "reason": "الماضي المستمر يصف حالة الطقس في وقت ماض. الكلمة هنا أداة ربط تعني رغم أن."
+        },
+        "wordMeanings": [
+          {
+            "term": "Though",
+            "description": "رغم أن؛ أداة ربط."
+          },
+          {
+            "term": "it",
+            "description": "ضمير شكلي يستعمل مع الطقس."
+          },
+          {
+            "term": "was",
+            "description": "كانت؛ تساعد في الماضي المستمر."
+          },
+          {
+            "term": "raining",
+            "description": "تمطر."
+          }
+        ]
+      },
+      {
+        "sentence": "we went for a walk.",
+        "ar": "نحن ذهبنا للمشي.",
+        "context": "وصف مشي سابق حدث مع ذلك المطر.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "الماضي البسيط يصف حدثًا انتهى."
+        },
+        "wordMeanings": [
+          {
+            "term": "we",
+            "description": "نحن."
+          },
+          {
+            "term": "went",
+            "description": "ذهبنا."
+          },
+          {
+            "term": "for",
+            "description": "لـ."
+          },
+          {
+            "term": "a",
+            "description": "أداة تنكير قبل اسم مفرد."
+          },
+          {
+            "term": "walk",
+            "description": "مشي؛ نزهة على الأقدام."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Though it was raining, we went for a walk.",
+        "ar": "رغم هطول المطر، نحن ذهبنا للمشي.",
+        "context": "وصف مشي سابق حدث مع استمرار المطر الذي قد يكون عائقًا له."
+      },
+      {
+        "id": 2,
+        "en": "Though the box was heavy, she carried it alone.",
+        "ar": "رغم أن الصندوق كان ثقيلًا، هي حملته وحدها.",
+        "context": "وصف حمل سابق دون مساعدة رغم صعوبة متوقعة من الوزن."
+      },
+      {
+        "id": 3,
+        "en": "He smiled though he was worried.",
+        "ar": "هو ابتسم رغم أنه كان قلقًا.",
+        "context": "وصف تعبير سابق لا يعكس الشعور الداخلي المتوقع."
+      },
+      {
+        "id": 4,
+        "en": "Though we have finished, we can still improve the design.",
+        "ar": "رغم أننا قد انتهينا، نحن لا نزال نستطيع تحسين التصميم.",
+        "context": "وصف إمكان مراجعة عمل بعد إتمامه."
+      },
+      {
+        "id": 5,
+        "en": "Though the team is growing, the room is large enough.",
+        "ar": "رغم أن الفريق يتوسع، الغرفة كبيرة بما يكفي.",
+        "context": "وصف سعة مكان كافية مع نمو جارٍ في عدد المستخدمين."
+      },
+      {
+        "id": 6,
+        "en": "Though the journey will be long, the view will be worth it.",
+        "ar": "رغم أن الرحلة ستكون طويلة، المنظر سيستحق العناء.",
+        "context": "توقع فائدة تعوض طول سفر مرتقب."
+      },
+      {
+        "id": 7,
+        "en": "She kept the letter though the ink had faded.",
+        "ar": "هي احتفظت بالرسالة رغم أن الحبر كان قد بهت.",
+        "context": "وصف احتفاظ سابق بوثيقة مع تراجع وضوح كتابتها قبل ذلك."
+      },
+      {
+        "id": 8,
+        "en": "Though small, the kitchen has plenty of storage.",
+        "ar": "رغم صغر المطبخ، هو يحتوي على مساحة تخزين وفيرة.",
+        "context": "وصف ميزة قائمة رغم محدودية مساحة المكان."
+      },
+      {
+        "id": 9,
+        "en": "The lesson was useful though it was brief.",
+        "ar": "الدرس كان مفيدًا رغم أنه كان قصيرًا.",
+        "context": "تقييم سابق إيجابي رغم قلة مدة الشرح."
+      },
+      {
+        "id": 10,
+        "en": "Though tired, they continued the rehearsal.",
+        "ar": "رغم تعبهم، هم واصلوا التدريب.",
+        "context": "وصف استمرار سابق في تمرين مع وجود إرهاق."
+      }
+    ]
+  }
+}

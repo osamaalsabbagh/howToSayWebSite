@@ -1,0 +1,111 @@
+{
+  "schemaVersion": 1,
+  "id": 825,
+  "sentence": {
+    "en": "How much money do you have?",
+    "ar": "كم معك من المال؟",
+    "context": "السؤال عن كمية المال التي بحوزة الشخص حاليًا."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "How much money do you have?",
+        "ar": "كم معك من المال؟",
+        "context": "سؤال عن مقدار المال الموجود مع الشخص الآن.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "يستخدم المضارع البسيط للسؤال عن امتلاك حالي، وHow much يستخدم مع الكميات غير المعدودة مثل المال."
+        },
+        "wordMeanings": [
+          {
+            "term": "How",
+            "description": "كم ضمن سؤال الكمية"
+          },
+          {
+            "term": "much",
+            "description": "مقدار أو كمية"
+          },
+          {
+            "term": "money",
+            "description": "مال أو نقود"
+          },
+          {
+            "term": "do",
+            "description": "أداة سؤال في المضارع البسيط"
+          },
+          {
+            "term": "you",
+            "description": "الشخص المخاطب"
+          },
+          {
+            "term": "have",
+            "description": "لديك أو معك"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "How much time do you have?",
+        "ar": "كم لديك من الوقت؟",
+        "context": "للسؤال عن الوقت المتاح."
+      },
+      {
+        "id": 2,
+        "en": "How much water do you need?",
+        "ar": "كم تحتاج من الماء؟",
+        "context": "للسؤال عن كمية ماء."
+      },
+      {
+        "id": 3,
+        "en": "How much money does he have?",
+        "ar": "كم معه من المال؟",
+        "context": "للسؤال عن مال شخص آخر."
+      },
+      {
+        "id": 4,
+        "en": "Do you have enough money?",
+        "ar": "هل لديك مال كاف؟",
+        "context": "للتأكد من القدرة على الدفع."
+      },
+      {
+        "id": 5,
+        "en": "How much cash do you have?",
+        "ar": "كم معك من النقد؟",
+        "context": "للسؤال عن المال النقدي."
+      },
+      {
+        "id": 6,
+        "en": "How much money do we need?",
+        "ar": "كم نحتاج من المال؟",
+        "context": "لتقدير تكلفة."
+      },
+      {
+        "id": 7,
+        "en": "How much money is in your wallet?",
+        "ar": "كم من المال في محفظتك؟",
+        "context": "للسؤال عن محتوى المحفظة."
+      },
+      {
+        "id": 8,
+        "en": "How much money do they want?",
+        "ar": "كم يريدون من المال؟",
+        "context": "للسؤال عن مبلغ مطلوب."
+      },
+      {
+        "id": 9,
+        "en": "How much money did you spend?",
+        "ar": "كم أنفقت من المال؟",
+        "context": "للسؤال عن إنفاق سابق."
+      },
+      {
+        "id": 10,
+        "en": "How much money can you pay?",
+        "ar": "كم تستطيع أن تدفع من المال؟",
+        "context": "للسؤال عن قدرة دفع."
+      }
+    ]
+  }
+}

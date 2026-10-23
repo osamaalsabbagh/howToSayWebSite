@@ -1,0 +1,117 @@
+{
+  "schemaVersion": 1,
+  "id": 4036,
+  "sentence": {
+    "en": "Lina lectures at the university every Monday.",
+    "ar": "لينا تحاضر في الجامعة كل يوم اثنين.",
+    "context": "وصف عمل أو عادة متكررة للينا، فهي تقدم محاضرات في الجامعة كل يوم اثنين.",
+    "sourceWord": "lecture",
+    "sourcePos": "v."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Lina lectures at the university every Monday.",
+        "ar": "لينا تحاضر في الجامعة كل يوم اثنين.",
+        "context": "وصف عمل أو عادة متكررة للينا، فهي تقدم محاضرات في الجامعة كل يوم اثنين.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استخدم المضارع البسيط لأن الفعل عادة متكررة تحدث كل يوم اثنين."
+        },
+        "wordMeanings": [
+          {
+            "term": "Lina",
+            "description": "لينا؛ اسم الشخص الذي يقوم بالفعل."
+          },
+          {
+            "term": "lectures",
+            "description": "تحاضر؛ تقدم محاضرات تعليمية أو رسمية."
+          },
+          {
+            "term": "at",
+            "description": "في؛ تبين مكان تقديم المحاضرات."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف تشير إلى جامعة محددة."
+          },
+          {
+            "term": "university",
+            "description": "جامعة؛ مؤسسة للتعليم العالي."
+          },
+          {
+            "term": "every",
+            "description": "كل؛ تدل على التكرار دون استثناء في السياق."
+          },
+          {
+            "term": "Monday",
+            "description": "يوم الاثنين؛ اليوم الذي تتكرر فيه المحاضرات."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Lina lectures at the university every Monday.",
+        "ar": "لينا تحاضر في الجامعة كل يوم اثنين.",
+        "context": "وصف عمل أو عادة متكررة للينا، فهي تقدم محاضرات في الجامعة كل يوم اثنين."
+      },
+      {
+        "id": 2,
+        "en": "The scientist lectured without notes yesterday.",
+        "ar": "العالم حاضر دون ملاحظات أمس.",
+        "context": "وصف عالم قدّم أمس محاضرة دون الاستعانة بملاحظات مكتوبة."
+      },
+      {
+        "id": 3,
+        "en": "A doctor will lecture about healthy sleep tomorrow.",
+        "ar": "طبيب سيحاضر عن النوم الصحي غدًا.",
+        "context": "وصف طبيب سيقدم محاضرة في اليوم التالي عن النوم الصحي."
+      },
+      {
+        "id": 4,
+        "en": "Please do not lecture me about manners.",
+        "ar": "من فضلك لا توبخني مطولًا بشأن آداب السلوك.",
+        "context": "طلب الكف عن كلام انتقادي طويل؛ المقصود توبيخ شخص لا تعليمه في قاعة درس."
+      },
+      {
+        "id": 5,
+        "en": "She has lectured widely on architecture.",
+        "ar": "هي قد حاضرت على نطاق واسع عن العمارة.",
+        "context": "وصف خبرة اكتسبتها امرأة بتقديم محاضرات عن العمارة في أماكن متعددة حتى الآن."
+      },
+      {
+        "id": 6,
+        "en": "The historian lectures to large audiences.",
+        "ar": "المؤرخ يحاضر أمام جماهير كبيرة.",
+        "context": "وصف الحجم المعتاد للجمهور الذي يحضر أحاديث مؤرخ تعليمية."
+      },
+      {
+        "id": 7,
+        "en": "The visiting expert is lecturing online this week.",
+        "ar": "الخبير الزائر يحاضر عبر الإنترنت هذا الأسبوع.",
+        "context": "وصف نشاط مؤقت يقدمه خبير عبر الشبكة خلال الأسبوع الجاري."
+      },
+      {
+        "id": 8,
+        "en": "We were lectured on the importance of teamwork.",
+        "ar": "نحن وُبخنا مطولًا بشأن أهمية العمل الجماعي.",
+        "context": "وصف كلام انتقادي طويل وُجه إلينا في موقف انتهى."
+      },
+      {
+        "id": 9,
+        "en": "The professor agreed to lecture without payment.",
+        "ar": "الأستاذ وافق على تقديم محاضرة دون مقابل.",
+        "context": "وصف موافقة أستاذ في وقت مضى على التحدث دون أجر."
+      },
+      {
+        "id": 10,
+        "en": "The coach lectured the players after the defeat.",
+        "ar": "المدرب وبخ اللاعبين مطولًا بعد الهزيمة.",
+        "context": "وصف انتقاد طويل وجّهه مدرب إلى لاعبيه بعد مباراة خاسرة انتهت."
+      }
+    ]
+  }
+}

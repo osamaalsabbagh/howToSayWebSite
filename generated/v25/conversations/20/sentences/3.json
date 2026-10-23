@@ -1,0 +1,127 @@
+{
+  "schemaVersion": 1,
+  "id": 3,
+  "sentence": {
+    "en": "Baseball is fun, but I prefer basketball.",
+    "ar": "البيسبول ممتعة، لكنني أفضل كرة السلة.",
+    "context": "يُظهر تفضيلًا بين رياضتين."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Baseball is fun,",
+        "ar": "البيسبول ممتع،",
+        "context": "يعترف بأن الرياضة الأولى ممتعة.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استخدم is لوصف حقيقة أو رأي عام عن البيسبول."
+        },
+        "wordMeanings": [
+          {
+            "term": "Baseball",
+            "description": "رياضة البيسبول"
+          },
+          {
+            "term": "is",
+            "description": "يكون أو هو"
+          },
+          {
+            "term": "fun",
+            "description": "ممتع"
+          }
+        ]
+      },
+      {
+        "sentence": "but I prefer basketball.",
+        "ar": "لكنني أفضل كرة السلة.",
+        "context": "يوضح التفضيل الشخصي رغم قبول الرياضة الأولى.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استخدم prefer للتعبير عن تفضيل عام ثابت نسبيا."
+        },
+        "wordMeanings": [
+          {
+            "term": "but",
+            "description": "لكن"
+          },
+          {
+            "term": "I",
+            "description": "أنا"
+          },
+          {
+            "term": "prefer",
+            "description": "أفضل"
+          },
+          {
+            "term": "basketball",
+            "description": "كرة السلة"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Soccer is fun, but I prefer tennis.",
+        "ar": "كرة القدم ممتعة، لكنني أفضل التنس.",
+        "context": "مقارنة بين رياضتين."
+      },
+      {
+        "id": 2,
+        "en": "Tea is good, but I prefer coffee.",
+        "ar": "الشاي جيد، لكنني أفضل القهوة.",
+        "context": "تعبير عن تفضيل مشروب."
+      },
+      {
+        "id": 3,
+        "en": "This game is fun.",
+        "ar": "هذه اللعبة ممتعة.",
+        "context": "وصف نشاط ممتع."
+      },
+      {
+        "id": 4,
+        "en": "I prefer quiet places.",
+        "ar": "أنا أفضل الأماكن الهادئة.",
+        "context": "تعبير عن تفضيل عام."
+      },
+      {
+        "id": 5,
+        "en": "Movies are fun, but I prefer books.",
+        "ar": "الأفلام ممتعة، لكنني أفضل الكتب.",
+        "context": "مقارنة بين نشاطين."
+      },
+      {
+        "id": 6,
+        "en": "Basketball is fast and fun.",
+        "ar": "كرة السلة سريعة وممتعة.",
+        "context": "وصف رياضة بشكل إيجابي."
+      },
+      {
+        "id": 7,
+        "en": "I prefer basketball after school.",
+        "ar": "أنا أفضل كرة السلة بعد المدرسة.",
+        "context": "ذكر نشاط مفضل في وقت معين."
+      },
+      {
+        "id": 8,
+        "en": "The park is nice, but I prefer the beach.",
+        "ar": "الحديقة لطيفة، لكنني أفضل الشاطئ.",
+        "context": "اختيار مكان مفضل."
+      },
+      {
+        "id": 9,
+        "en": "Running is hard, but it is fun.",
+        "ar": "الجري صعب، لكنه ممتع.",
+        "context": "توازن بين صعوبة النشاط ومتعه."
+      },
+      {
+        "id": 10,
+        "en": "I prefer this team.",
+        "ar": "أنا أفضل هذا الفريق.",
+        "context": "تعبير عن انحياز رياضي."
+      }
+    ]
+  }
+}

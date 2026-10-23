@@ -1,0 +1,141 @@
+{
+  "schemaVersion": 1,
+  "id": 7260,
+  "sentence": {
+    "en": "If you need help, do not hesitate to call me.",
+    "ar": "إذا أنت احتجت إلى مساعدة، لا تتردد في الاتصال بي.",
+    "context": "عرض مساعدة يشجع المخاطب على الاتصال دون حرج أو تردد عند الحاجة، لا ضمان توافر دائم في كل وقت.",
+    "sourceWord": "hesitate",
+    "sourcePos": "v."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "If you need help,",
+        "ar": "إذا أنت احتجت إلى مساعدة،",
+        "context": "تحديد الحاجة إلى المساعدة ظرفًا يدعو إلى الاتصال.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "تصف need شرطًا ممكنًا بعد If، ولا تتطلب will في هذا الشرط."
+        },
+        "wordMeanings": [
+          {
+            "term": "If",
+            "description": "إذا؛ تقدم الشرط."
+          },
+          {
+            "term": "you",
+            "description": "أنت."
+          },
+          {
+            "term": "need",
+            "description": "تحتاج إلى."
+          },
+          {
+            "term": "help",
+            "description": "مساعدة."
+          }
+        ]
+      },
+      {
+        "sentence": "do not hesitate to call me.",
+        "ar": "لا تتردد في الاتصال بي.",
+        "context": "تشجيع المخاطب على المبادرة بالاتصال دون حرج.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "يقدم do not hesitate نهيًا لطيفًا عن التردد، ولا يحمل الأمر زمنًا مستقلًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "do",
+            "description": "مساعد لصياغة النهي."
+          },
+          {
+            "term": "not",
+            "description": "لا؛ أداة نفي."
+          },
+          {
+            "term": "hesitate",
+            "description": "تتردد؛ تؤخر الفعل بسبب عدم الحسم أو الحرج."
+          },
+          {
+            "term": "to",
+            "description": "في؛ تقدم ما يُشجع المخاطب على فعله."
+          },
+          {
+            "term": "call",
+            "description": "الاتصال."
+          },
+          {
+            "term": "me",
+            "description": "بي؛ ضمير يعود إلى المتكلم."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "If you need help, do not hesitate to call me.",
+        "ar": "إذا أنت احتجت إلى مساعدة، لا تتردد في الاتصال بي.",
+        "context": "عرض مساعدة يشجع المخاطب على الاتصال دون حرج أو تردد عند الحاجة، لا ضمان توافر دائم في كل وقت."
+      },
+      {
+        "id": 2,
+        "en": "He hesitated for a moment before jumping into the water.",
+        "ar": "هو تردد لحظة قبل القفز في الماء.",
+        "context": "وصف توقف قصير سابق بسبب عدم الحسم قبل القفز دون افتراض لوح مرتفع أو سبب للخوف."
+      },
+      {
+        "id": 3,
+        "en": "She hesitates between the two designs.",
+        "ar": "هي تتردد بين التصميمين.",
+        "context": "وصف عدم حسم اختيار بين بديلين."
+      },
+      {
+        "id": 4,
+        "en": "The speaker hesitated over the unfamiliar name.",
+        "ar": "المتحدث تردد عند الاسم غير المألوف.",
+        "context": "وصف توقف سابق قصير عند قول اسم لعدم التأكد منه."
+      },
+      {
+        "id": 5,
+        "en": "We have hesitated to make the announcement.",
+        "ar": "نحن قد ترددنا في إصدار الإعلان.",
+        "context": "الإبلاغ عن تحفظ أو تأخر في قرار حتى الآن."
+      },
+      {
+        "id": 6,
+        "en": "The visitor is hesitating at the doorway.",
+        "ar": "الزائر يتردد عند المدخل.",
+        "context": "وصف توقف جارٍ قبل الدخول مع عدم الحسم."
+      },
+      {
+        "id": 7,
+        "en": "The character will hesitate at the final choice.",
+        "ar": "الشخصية ستتردد عند الاختيار الأخير.",
+        "context": "توقع لحظة عدم حسم ضمن حكاية."
+      },
+      {
+        "id": 8,
+        "en": "Please do not hesitate to correct me.",
+        "ar": "من فضلك لا تتردد في تصحيحي.",
+        "context": "تشجيع مهذب على بيان خطأ دون خجل."
+      },
+      {
+        "id": 9,
+        "en": "I hesitate to call the attempt a success.",
+        "ar": "أنا أتردد في وصف المحاولة بالنجاح.",
+        "context": "تعبير عن تحفظ في تقييم نتيجة، لا عن توقف جسدي قبل حركة."
+      },
+      {
+        "id": 10,
+        "en": "Her hand hesitated above the button.",
+        "ar": "يدها توقفت مترددة فوق الزر.",
+        "context": "وصف مجازي لتوقف سابق في حركة اليد عند لحظة قرار."
+      }
+    ]
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "schemaVersion": 1,
+  "id": 639,
+  "sentence": {
+    "en": "Sorry, we do not have any.",
+    "ar": "عذرًا، لا يوجد لدينا.",
+    "context": "الاعتذار عن عدم توفر أي كمية من شيء ما."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Sorry,",
+        "ar": "عذراً،",
+        "context": "تستخدم لبدء الرد باعتذار لطيف.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه كلمة اعتذار وليست جملة ذات زمن."
+        },
+        "wordMeanings": [
+          {
+            "term": "Sorry",
+            "description": "عذراً أو آسف، وتستخدم للاعتذار."
+          }
+        ]
+      },
+      {
+        "sentence": "we do not have any.",
+        "ar": "لا يوجد لدينا أي منها.",
+        "context": "توضح أن الشيء المطلوب غير متوفر لدى المتكلمين.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "الجملة تنفي توفر شيء في الوقت الحالي."
+        },
+        "wordMeanings": [
+          {
+            "term": "we",
+            "description": "نحن."
+          },
+          {
+            "term": "do",
+            "description": "كلمة مساعدة تُستخدم هنا مع النفي."
+          },
+          {
+            "term": "not",
+            "description": "أداة نفي."
+          },
+          {
+            "term": "have",
+            "description": "لدينا أو نملك."
+          },
+          {
+            "term": "any",
+            "description": "أي كمية أو أي واحد."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Sorry, we do not have rooms.",
+        "ar": "عذراً، ليست لدينا غرف.",
+        "context": "تقال في فندق عند عدم توفر غرف."
+      },
+      {
+        "id": 2,
+        "en": "Sorry, we do not have tickets.",
+        "ar": "عذراً، ليست لدينا تذاكر.",
+        "context": "تستخدم عند نفاد التذاكر."
+      },
+      {
+        "id": 3,
+        "en": "We do not have any water.",
+        "ar": "ليس لدينا أي ماء.",
+        "context": "تقال عند عدم توفر الماء."
+      },
+      {
+        "id": 4,
+        "en": "Sorry, we are full.",
+        "ar": "عذراً، نحن ممتلئون.",
+        "context": "تستخدم في مطعم أو فندق ممتلئ."
+      },
+      {
+        "id": 5,
+        "en": "I do not have any.",
+        "ar": "ليس لدي أي منها.",
+        "context": "تقال عن عدم توفر الشيء عند المتكلم."
+      },
+      {
+        "id": 6,
+        "en": "They do not have any coffee.",
+        "ar": "ليس لديهم أي قهوة.",
+        "context": "تستخدم لنفي توفر القهوة."
+      },
+      {
+        "id": 7,
+        "en": "Sorry, we do not sell that.",
+        "ar": "عذراً، نحن لا نبيع ذلك.",
+        "context": "تقال في متجر عند عدم بيع منتج."
+      },
+      {
+        "id": 8,
+        "en": "We do not have any vacancies.",
+        "ar": "ليست لدينا أي غرف شاغرة.",
+        "context": "تستخدم في فندق ممتلئ."
+      },
+      {
+        "id": 9,
+        "en": "Sorry, I do not know.",
+        "ar": "عذراً، لا أعرف.",
+        "context": "تقال عند عدم معرفة الجواب."
+      },
+      {
+        "id": 10,
+        "en": "Sorry, we do not have that size.",
+        "ar": "عذراً، ليس لدينا ذلك المقاس.",
+        "context": "تستخدم في متجر ملابس."
+      }
+    ]
+  }
+}

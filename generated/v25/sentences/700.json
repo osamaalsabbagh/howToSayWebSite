@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "id": 700,
+  "sentence": {
+    "en": "I have a cold.",
+    "ar": "أعاني من نزلة برد.",
+    "context": "الإشارة إلى الإصابة بالبرد أو الزكام."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "I have a cold.",
+        "ar": "لدي نزلة برد.",
+        "context": "تستخدم لإخبار شخص أنك مصاب بالزكام أو البرد.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "الجملة تصف حالة صحية حالية."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير يعني أنا."
+          },
+          {
+            "term": "have",
+            "description": "لدي أو أعاني من في هذا السياق."
+          },
+          {
+            "term": "a",
+            "description": "أداة تأتي قبل اسم مفرد."
+          },
+          {
+            "term": "cold",
+            "description": "نزلة برد أو زكام."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "She has a cold.",
+        "ar": "لديها نزلة برد.",
+        "context": "تستخدم عن مرض امرأة."
+      },
+      {
+        "id": 2,
+        "en": "I have a sore throat.",
+        "ar": "لدي ألم في الحلق.",
+        "context": "تقال عن عرض صحي."
+      },
+      {
+        "id": 3,
+        "en": "Do you have a cold?",
+        "ar": "هل لديك نزلة برد؟",
+        "context": "تقال للسؤال عن المرض."
+      },
+      {
+        "id": 4,
+        "en": "He does not have a cold.",
+        "ar": "ليس لديه نزلة برد.",
+        "context": "تستخدم لنفي المرض."
+      },
+      {
+        "id": 5,
+        "en": "I have a fever.",
+        "ar": "لدي حمى.",
+        "context": "تقال عند عرض صحي آخر."
+      },
+      {
+        "id": 6,
+        "en": "My son has a cold.",
+        "ar": "لدى ابني نزلة برد.",
+        "context": "تستخدم عن مرض الابن."
+      },
+      {
+        "id": 7,
+        "en": "I think I have a cold.",
+        "ar": "أعتقد أن لدي نزلة برد.",
+        "context": "تقال عند الشك في المرض."
+      },
+      {
+        "id": 8,
+        "en": "We all have colds.",
+        "ar": "لدينا جميعاً نزلات برد.",
+        "context": "تستخدم عندما تمرض مجموعة."
+      },
+      {
+        "id": 9,
+        "en": "I have a cold today.",
+        "ar": "لدي نزلة برد اليوم.",
+        "context": "تستخدم لتحديد الحالة اليوم."
+      },
+      {
+        "id": 10,
+        "en": "Take medicine if you have a cold.",
+        "ar": "خذ دواء إذا كان لديك نزلة برد.",
+        "context": "تقال كنصيحة صحية."
+      }
+    ]
+  }
+}

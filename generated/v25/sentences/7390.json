@@ -1,0 +1,141 @@
+{
+  "schemaVersion": 1,
+  "id": 7390,
+  "sentence": {
+    "en": "Do not lean on the door; it is not locked.",
+    "ar": "لا تتكئ على الباب؛ هو ليس مقفلًا.",
+    "context": "نهي عن إسناد الجسم إلى باب مع بيان أن قفله غير محكم، دون افتراض سقوط وقع بالفعل.",
+    "sourceWord": "lean",
+    "sourcePos": "v."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Do not lean on the door;",
+        "ar": "لا تتكئ على الباب؛",
+        "context": "طلب عدم إسناد الجسم إلى باب.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "صيغة النهي. الفعل يعني يميل أو يسند جسمه على شيء."
+        },
+        "wordMeanings": [
+          {
+            "term": "Do",
+            "description": "مساعد النهي."
+          },
+          {
+            "term": "not",
+            "description": "لا."
+          },
+          {
+            "term": "lean",
+            "description": "تتكئ."
+          },
+          {
+            "term": "on",
+            "description": "على."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف تأتي مع الباب."
+          },
+          {
+            "term": "door",
+            "description": "الباب."
+          }
+        ]
+      },
+      {
+        "sentence": "it is not locked.",
+        "ar": "هو ليس مقفلًا.",
+        "context": "بيان حالة القفل التي تفسر الطلب.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "المضارع البسيط في النفي يصف حالة."
+        },
+        "wordMeanings": [
+          {
+            "term": "it",
+            "description": "هو؛ يعود على الباب."
+          },
+          {
+            "term": "is",
+            "description": "صيغة الحاضر للكينونة."
+          },
+          {
+            "term": "not",
+            "description": "ليس."
+          },
+          {
+            "term": "locked",
+            "description": "مقفلًا."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Do not lean on the door; it is not locked.",
+        "ar": "لا تتكئ على الباب؛ هو ليس مقفلًا.",
+        "context": "نهي عن إسناد الجسم إلى باب مع بيان أن قفله غير محكم، دون افتراض سقوط وقع بالفعل."
+      },
+      {
+        "id": 2,
+        "en": "The old man leaned forward as he examined the map.",
+        "ar": "الرجل العجوز انحنى إلى الأمام أثناء تفحصه الخريطة.",
+        "context": "وصف ميل سابق بجسم رجل إلى الأمام عند النظر في خريطة، لا الاتكاء على دعامة."
+      },
+      {
+        "id": 3,
+        "en": "The old man leaned on his stick as he walked.",
+        "ar": "الرجل العجوز اتكأ على عصاه أثناء مشيه.",
+        "context": "وصف استعمال سابق لعصا لحمل بعض وزن الجسم أثناء السير."
+      },
+      {
+        "id": 4,
+        "en": "The ladder leans against the wall.",
+        "ar": "السلم يستند إلى الجدار.",
+        "context": "وصف وضع جسم طويل بميل مع دعامة خلفه."
+      },
+      {
+        "id": 5,
+        "en": "We have leaned heavily on their experience.",
+        "ar": "نحن قد اعتمدنا كثيرًا على خبرتهم.",
+        "context": "استعمال مجازي للاعتماد على معرفة الآخرين."
+      },
+      {
+        "id": 6,
+        "en": "She is leaning out of the window.",
+        "ar": "هي تميل إلى خارج النافذة.",
+        "context": "وصف امتداد جارٍ بجزء من الجسم خارج فتحة."
+      },
+      {
+        "id": 7,
+        "en": "The new shelf will lean slightly to the left.",
+        "ar": "الرف الجديد سيميل قليلًا إلى اليسار.",
+        "context": "توقع اتجاه ميل في وضع غرض."
+      },
+      {
+        "id": 8,
+        "en": "Please lean the board against the fence.",
+        "ar": "من فضلك أسند اللوح إلى السياج.",
+        "context": "طلب وضع غرض بميل إلى دعامة."
+      },
+      {
+        "id": 9,
+        "en": "The committee leans toward the cheaper option.",
+        "ar": "اللجنة تميل إلى الخيار الأرخص.",
+        "context": "وصف تفضيل أولي دون تقرير قرار نهائي."
+      },
+      {
+        "id": 10,
+        "en": "He leaned back in his chair.",
+        "ar": "هو مال إلى الخلف في كرسيه.",
+        "context": "وصف حركة سابقة باتجاه خلف الجسم أثناء الجلوس."
+      }
+    ]
+  }
+}

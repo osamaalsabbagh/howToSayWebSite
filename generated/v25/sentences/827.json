@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "id": 827,
+  "sentence": {
+    "en": "How was the trip?",
+    "ar": "كيف كانت الرحلة؟",
+    "context": "السؤال عن انطباع الشخص عن الرحلة الأخيرة."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "How was the trip?",
+        "ar": "كيف كانت الرحلة؟",
+        "context": "سؤال عن تقييم أو انطباع بعد رحلة انتهت.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "تستخدم was لأن الرحلة حدثت في الماضي وانتهت، وHow تسأل عن الحال أو التجربة."
+        },
+        "wordMeanings": [
+          {
+            "term": "How",
+            "description": "كيف؛ للسؤال عن الحال أو التقييم"
+          },
+          {
+            "term": "was",
+            "description": "كان أو كانت في الماضي"
+          },
+          {
+            "term": "the",
+            "description": "تحدد رحلة معروفة"
+          },
+          {
+            "term": "trip",
+            "description": "رحلة"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "How was the movie?",
+        "ar": "كيف كان الفيلم؟",
+        "context": "بعد مشاهدة فيلم."
+      },
+      {
+        "id": 2,
+        "en": "How was the food?",
+        "ar": "كيف كان الطعام؟",
+        "context": "بعد تناول وجبة."
+      },
+      {
+        "id": 3,
+        "en": "How was your day?",
+        "ar": "كيف كان يومك؟",
+        "context": "للسؤال عن اليوم بعد انتهائه."
+      },
+      {
+        "id": 4,
+        "en": "How was your flight?",
+        "ar": "كيف كانت رحلتك الجوية؟",
+        "context": "بعد سفر بالطائرة."
+      },
+      {
+        "id": 5,
+        "en": "How was the meeting?",
+        "ar": "كيف كان الاجتماع؟",
+        "context": "بعد اجتماع."
+      },
+      {
+        "id": 6,
+        "en": "How was school?",
+        "ar": "كيف كانت المدرسة؟",
+        "context": "بعد يوم دراسي."
+      },
+      {
+        "id": 7,
+        "en": "How was work?",
+        "ar": "كيف كان العمل؟",
+        "context": "بعد يوم عمل."
+      },
+      {
+        "id": 8,
+        "en": "How was the hotel?",
+        "ar": "كيف كان الفندق؟",
+        "context": "بعد إقامة."
+      },
+      {
+        "id": 9,
+        "en": "How was the weather?",
+        "ar": "كيف كان الطقس؟",
+        "context": "بعد رحلة أو يوم سابق."
+      },
+      {
+        "id": 10,
+        "en": "How was your vacation?",
+        "ar": "كيف كانت إجازتك؟",
+        "context": "بعد عودة من إجازة."
+      }
+    ]
+  }
+}

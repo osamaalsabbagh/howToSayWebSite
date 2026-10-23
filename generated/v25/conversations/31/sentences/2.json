@@ -1,0 +1,167 @@
+{
+  "schemaVersion": 1,
+  "id": 2,
+  "sentence": {
+    "en": "Yes. I got my boots and scarf ready. Let us leave in ten minutes.",
+    "ar": "نعم، جهزت جزمتي ووشاحي. دعنا نخرج خلال عشر دقائق.",
+    "context": "يُوضح أنه أعدّ ملابسه للارتداء استعدادًا للخروج في طقس ممطر."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Yes.",
+        "ar": "نعم.",
+        "context": "تؤكد الموافقة على الخروج.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "كلمة جواب قصيرة لا تحمل زمنًا مستقلًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "Yes",
+            "description": "نعم أو موافقة"
+          }
+        ]
+      },
+      {
+        "sentence": "I got my boots and scarf ready.",
+        "ar": "جهزت جزمتي ووشاحي.",
+        "context": "يوضح أنه أعد أشياءه المناسبة للمطر والبرد.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "got ready يدل على تجهيز تم قبل لحظة الكلام."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "المتكلم نفسه"
+          },
+          {
+            "term": "got",
+            "description": "جعلت أو صارت في حالة معينة هنا"
+          },
+          {
+            "term": "my",
+            "description": "خاص بي"
+          },
+          {
+            "term": "boots",
+            "description": "جزمة أو أحذية طويلة للمطر"
+          },
+          {
+            "term": "and",
+            "description": "تربط بين شيئين"
+          },
+          {
+            "term": "scarf",
+            "description": "وشاح"
+          },
+          {
+            "term": "ready",
+            "description": "جاهز"
+          }
+        ]
+      },
+      {
+        "sentence": "Let us leave in ten minutes.",
+        "ar": "دعنا نغادر خلال عشر دقائق.",
+        "context": "يقترح وقت المغادرة القريب.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "Let us صيغة اقتراح، وin ten minutes تحدد وقتًا قريبًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "Let",
+            "description": "تستعمل لاقتراح فعل مشترك"
+          },
+          {
+            "term": "us",
+            "description": "نحن"
+          },
+          {
+            "term": "leave",
+            "description": "نغادر"
+          },
+          {
+            "term": "in",
+            "description": "بعد مرور مدة"
+          },
+          {
+            "term": "ten",
+            "description": "عشر"
+          },
+          {
+            "term": "minutes",
+            "description": "دقائق"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Yes. I got my coat ready.",
+        "ar": "نعم. جهزت معطفي.",
+        "context": "تقال عند الاستعداد للخروج."
+      },
+      {
+        "id": 2,
+        "en": "Let us leave in five minutes.",
+        "ar": "دعنا نغادر خلال خمس دقائق.",
+        "context": "تقال لتحديد وقت قريب."
+      },
+      {
+        "id": 3,
+        "en": "I got my umbrella ready.",
+        "ar": "جهزت مظلتي.",
+        "context": "تقال قبل الخروج في المطر."
+      },
+      {
+        "id": 4,
+        "en": "My boots are ready by the door.",
+        "ar": "جزمتي جاهزة بجانب الباب.",
+        "context": "تقال عن الاستعداد العملي."
+      },
+      {
+        "id": 5,
+        "en": "Let us go in ten minutes.",
+        "ar": "دعنا نذهب خلال عشر دقائق.",
+        "context": "تقال عند الاتفاق على موعد."
+      },
+      {
+        "id": 6,
+        "en": "I got my bag ready.",
+        "ar": "جهزت حقيبتي.",
+        "context": "تقال قبل مغادرة البيت."
+      },
+      {
+        "id": 7,
+        "en": "Yes. I am ready to leave.",
+        "ar": "نعم. أنا جاهز للمغادرة.",
+        "context": "تقال عند الاستعداد الكامل."
+      },
+      {
+        "id": 8,
+        "en": "She got her scarf ready.",
+        "ar": "جهزت وشاحها.",
+        "context": "تقال عن الاستعداد للبرد."
+      },
+      {
+        "id": 9,
+        "en": "Let us leave before the rain gets worse.",
+        "ar": "دعنا نغادر قبل أن يشتد المطر.",
+        "context": "تقال عند استعجال الخروج."
+      },
+      {
+        "id": 10,
+        "en": "I got everything ready.",
+        "ar": "جهزت كل شيء.",
+        "context": "تقال عند إتمام التحضير."
+      }
+    ]
+  }
+}

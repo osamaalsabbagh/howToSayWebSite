@@ -1,0 +1,159 @@
+{
+  "schemaVersion": 1,
+  "id": 6,
+  "sentence": {
+    "en": "I saw that. He was wrong. But yelling will not solve it.",
+    "ar": "رأيت ذلك. كان مخطئًا. لكن الصراخ لن يحله.",
+    "context": "الأب يقر بخطأ الطفل الآخر ويعلّم ابنه أن الصراخ ليس الحل."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "I saw that.",
+        "ar": "رأيت ذلك.",
+        "context": "يؤكد الأب أنه شاهد ما حدث.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "استعمل saw لأن الرؤية حدثت في الماضي القريب."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير المتكلم المفرد."
+          },
+          {
+            "term": "saw",
+            "description": "رأيت في الماضي."
+          },
+          {
+            "term": "that",
+            "description": "ذلك أو أن حسب السياق."
+          }
+        ]
+      },
+      {
+        "sentence": "He was wrong.",
+        "ar": "كان مخطئًا.",
+        "context": "يعترف الأب بأن الطفل الآخر أخطأ.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "استعمل was لوصف حالة الطفل الآخر في ذلك الموقف الماضي."
+        },
+        "wordMeanings": [
+          {
+            "term": "He",
+            "description": "ضمير يشير إلى ذكر."
+          },
+          {
+            "term": "was",
+            "description": "كان."
+          },
+          {
+            "term": "wrong",
+            "description": "مخطئ."
+          }
+        ]
+      },
+      {
+        "sentence": "But yelling will not solve it.",
+        "ar": "لكن الصراخ لن يحل المشكلة.",
+        "context": "يعلم الأب ابنه أن الصراخ ليس حلًا.",
+        "grammar": {
+          "tense": "المستقبل البسيط",
+          "tenseEn": "Future Simple",
+          "reason": "استعمل will not solve لنفي أن الصراخ سيعطي نتيجة نافعة."
+        },
+        "wordMeanings": [
+          {
+            "term": "But",
+            "description": "لكن."
+          },
+          {
+            "term": "yelling",
+            "description": "الصراخ."
+          },
+          {
+            "term": "will",
+            "description": "سوف."
+          },
+          {
+            "term": "not",
+            "description": "أداة نفي."
+          },
+          {
+            "term": "solve",
+            "description": "يحل."
+          },
+          {
+            "term": "it",
+            "description": "ضمير يعود على الشيء المذكور."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Please do not run ahead.",
+        "ar": "من فضلك لا تركض إلى الأمام.",
+        "context": "تحذير طفل من الابتعاد."
+      },
+      {
+        "id": 2,
+        "en": "I am angry now.",
+        "ar": "أنا غاضب الآن.",
+        "context": "تعبير مباشر عن الغضب الحالي."
+      },
+      {
+        "id": 3,
+        "en": "Yelling will not help.",
+        "ar": "الصراخ لن يساعد.",
+        "context": "نصيحة عند التعامل مع مشكلة."
+      },
+      {
+        "id": 4,
+        "en": "I will be calm.",
+        "ar": "سأكون هادئًا.",
+        "context": "قرار بالهدوء بعد الانزعاج."
+      },
+      {
+        "id": 5,
+        "en": "Let us get some water.",
+        "ar": "دعنا نحضر بعض الماء.",
+        "context": "اقتراح بعد التعب أو المشي."
+      },
+      {
+        "id": 6,
+        "en": "Then we will go to the elephant area.",
+        "ar": "ثم سنذهب إلى منطقة الفيلة.",
+        "context": "ترتيب خطة الزيارة."
+      },
+      {
+        "id": 7,
+        "en": "He was wrong, but stay calm.",
+        "ar": "كان مخطئًا، لكن ابق هادئًا.",
+        "context": "اعتراف بالخطأ مع نصيحة بالهدوء."
+      },
+      {
+        "id": 8,
+        "en": "I still want to see the lions.",
+        "ar": "ما زلت أريد رؤية الأسود.",
+        "context": "تعبير عن رغبة مستمرة."
+      },
+      {
+        "id": 9,
+        "en": "Do not get lost in the crowd.",
+        "ar": "لا تضع في الزحام.",
+        "context": "تحذير من الابتعاد في مكان مزدحم."
+      },
+      {
+        "id": 10,
+        "en": "We will go after ice cream.",
+        "ar": "سنذهب بعد البوظة.",
+        "context": "تحديد ترتيب الأحداث."
+      }
+    ]
+  }
+}

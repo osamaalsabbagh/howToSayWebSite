@@ -1,0 +1,141 @@
+{
+  "schemaVersion": 1,
+  "id": 5923,
+  "sentence": {
+    "en": "Now that she has a car, she drives to work.",
+    "ar": "بما أنها تملك سيارة الآن، هي تقود إلى العمل.",
+    "context": "امتلاك امرأة سيارة في وضعها الحالي يفسر انتقالها إلى عملها بالقيادة.",
+    "sourceWord": "now",
+    "sourcePos": "conj."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Now that she has a car,",
+        "ar": "بما أنها تملك سيارة الآن،",
+        "context": "وصف امتلاك امرأة سيارة في وضعها الحالي.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "المضارع البسيط يصف حالة ملكية حاضرة. أداة الربط المكونة من كلمتين تعني أن هذا التغير أصبح سببًا لما بعده."
+        },
+        "wordMeanings": [
+          {
+            "term": "Now",
+            "description": "بما أنّ الآن؛ أداة ربط تعني أن حالة جديدة حدثت."
+          },
+          {
+            "term": "that",
+            "description": "أنّ؛ تكمل أداة الربط."
+          },
+          {
+            "term": "she",
+            "description": "هي؛ ضمير الفاعل للمفردة الغائبة."
+          },
+          {
+            "term": "has",
+            "description": "لديها؛ تملك."
+          },
+          {
+            "term": "a",
+            "description": "أداة تنكير قبل اسم مفرد."
+          },
+          {
+            "term": "car",
+            "description": "سيارة."
+          }
+        ]
+      },
+      {
+        "sentence": "she drives to work.",
+        "ar": "هي تقود إلى العمل.",
+        "context": "وصف انتقالها المعتاد إلى العمل بالقيادة.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "المضارع البسيط يصف عادة حالية متكررة."
+        },
+        "wordMeanings": [
+          {
+            "term": "she",
+            "description": "هي؛ ضمير الفاعل للمفردة الغائبة."
+          },
+          {
+            "term": "drives",
+            "description": "تقود السيارة."
+          },
+          {
+            "term": "to",
+            "description": "إلى؛ تدل على الوجهة."
+          },
+          {
+            "term": "work",
+            "description": "العمل؛ مكان العمل."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Now that she has a car, she drives to work.",
+        "ar": "بما أنها تملك سيارة الآن، هي تقود إلى العمل.",
+        "context": "امتلاك امرأة سيارة في وضعها الحالي يفسر انتقالها إلى عملها بالقيادة."
+      },
+      {
+        "id": 2,
+        "en": "Now that the rain has stopped, the children are playing outside.",
+        "ar": "بما أن المطر قد توقف الآن، الأطفال يلعبون في الخارج.",
+        "context": "ربط نشاط جارٍ في الهواء الطلق بتوقف مكتمل للهطول."
+      },
+      {
+        "id": 3,
+        "en": "We can compare the results now that both tests are complete.",
+        "ar": "نحن نستطيع مقارنة النتائج بما أن الاختبارين مكتملان الآن.",
+        "context": "إمكان المقارنة حاليًا مرتبط بانتهاء اختبارين معًا."
+      },
+      {
+        "id": 4,
+        "en": "Now that the hall is empty, the crew is cleaning it.",
+        "ar": "بما أن القاعة فارغة الآن، الطاقم ينظفها.",
+        "context": "ربط تنظيف جارٍ بكون مكان العرض خاليًا من الموجودين فيه."
+      },
+      {
+        "id": 5,
+        "en": "The shop will extend its hours now that demand has increased.",
+        "ar": "المتجر سيمدد ساعات عمله بما أن الطلب قد ازداد الآن.",
+        "context": "توقع تغيير في ساعات العمل بسبب ارتفاع تحقق في الطلب."
+      },
+      {
+        "id": 6,
+        "en": "Now that I understand the question, I can answer it.",
+        "ar": "بما أنني أفهم السؤال الآن، أنا أستطيع الإجابة عنه.",
+        "context": "ربط قدرة حالية على الرد بتحقق فهم المقصود."
+      },
+      {
+        "id": 7,
+        "en": "The team is revising the plan now that the budget is smaller.",
+        "ar": "الفريق يراجع الخطة بما أن الميزانية أصغر الآن.",
+        "context": "ربط تعديل جارٍ بانخفاض الأموال المتاحة في الوضع الحالي."
+      },
+      {
+        "id": 8,
+        "en": "Now that the bridge is open, buses use the shorter route.",
+        "ar": "بما أن الجسر مفتوح الآن، الحافلات تستخدم المسار الأقصر.",
+        "context": "تفسير اختيار متكرر لطريق أقصر بإتاحة معبر في الوضع الحالي."
+      },
+      {
+        "id": 9,
+        "en": "Now that the files have arrived, the editor can begin.",
+        "ar": "بما أن الملفات قد وصلت الآن، المحرر يستطيع البدء.",
+        "context": "ربط إمكان بدء عمل بوصول مكتمل لمواد مطلوبة."
+      },
+      {
+        "id": 10,
+        "en": "We have more space now that the old furniture is gone.",
+        "ar": "نحن لدينا مساحة أكبر بما أن الأثاث القديم لم يعد موجودًا الآن.",
+        "context": "وصف اتساع حالي مرتبط بزوال قطع كانت تشغل المكان."
+      }
+    ]
+  }
+}

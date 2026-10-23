@@ -1,0 +1,139 @@
+{
+  "schemaVersion": 1,
+  "id": 4,
+  "sentence": {
+    "en": "Sure. Can you give me your full address and age?",
+    "ar": "بالتأكيد. هل يمكنك أن تعطيني عنوانك الكامل وعمرك؟",
+    "context": "تطلب معلوماته الأساسية لاستكمال التسجيل"
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Sure.",
+        "ar": "بالتأكيد.",
+        "context": "تعطي موافقة أو تطمينًا قبل متابعة الكلام.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه كلمة موافقة قصيرة وليست جملة فعلية لها زمن مستقل."
+        },
+        "wordMeanings": [
+          {
+            "term": "Sure",
+            "description": "كلمة موافقة تعني بالتأكيد أو لا مشكلة."
+          }
+        ]
+      },
+      {
+        "sentence": "Can you give me your full address and age?",
+        "ar": "هل يمكنك أن تعطيني عنوانك الكامل وعمرك؟",
+        "context": "يُستخدم هذا السؤال لطلب شيء أو المساعدة بشكل مهذب.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذا سؤال طلب يعتمد على can لطلب معلومات التسجيل بطريقة مباشرة ومقبولة، لذلك يشرح كتركيب طلب لا كزمن مستقل."
+        },
+        "wordMeanings": [
+          {
+            "term": "Can",
+            "description": "تبدأ طلبًا مهذبًا عن قدرة الشخص أو استعداده لفعل شيء."
+          },
+          {
+            "term": "you",
+            "description": "ضمير المخاطب، ويشير إلى الشخص الذي يُطلب منه شيء."
+          },
+          {
+            "term": "give",
+            "description": "تعني تعطي أو تقدم معلومة."
+          },
+          {
+            "term": "me",
+            "description": "ضمير يعود على المتكلم بوصفه متلقي المعلومة."
+          },
+          {
+            "term": "your",
+            "description": "صفة ملكية تعني الخاص بك."
+          },
+          {
+            "term": "full",
+            "description": "تعني كاملًا أو غير مختصر."
+          },
+          {
+            "term": "address",
+            "description": "مكان السكن أو العنوان الكامل."
+          },
+          {
+            "term": "and",
+            "description": "حرف عطف يربط بين معلومتين مطلوبتين."
+          },
+          {
+            "term": "age",
+            "description": "العمر أو عدد سنوات الشخص."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Can you give me your phone number?",
+        "ar": "هل يمكنك أن تعطيني رقم هاتفك؟",
+        "context": "تطلب معلومة للتواصل."
+      },
+      {
+        "id": 2,
+        "en": "Can you give me your email address?",
+        "ar": "هل يمكنك أن تعطيني عنوان بريدك الإلكتروني؟",
+        "context": "تطلب بريدًا لإرسال التفاصيل."
+      },
+      {
+        "id": 3,
+        "en": "Sure. Can you write your full name here?",
+        "ar": "بالتأكيد. هل يمكنك كتابة اسمك الكامل هنا؟",
+        "context": "تطلب استكمال نموذج."
+      },
+      {
+        "id": 4,
+        "en": "Can you give me your address, please?",
+        "ar": "هل يمكنك أن تعطيني عنوانك من فضلك؟",
+        "context": "تجعل الطلب أكثر لطفًا بإضافة please."
+      },
+      {
+        "id": 5,
+        "en": "Can you give me your age for the form?",
+        "ar": "هل يمكنك أن تعطيني عمرك للنموذج؟",
+        "context": "توضح سبب طلب العمر."
+      },
+      {
+        "id": 6,
+        "en": "Sure. Can you confirm your address?",
+        "ar": "بالتأكيد. هل يمكنك تأكيد عنوانك؟",
+        "context": "تتحقق من معلومة مسجلة."
+      },
+      {
+        "id": 7,
+        "en": "Can you give me the class name?",
+        "ar": "هل يمكنك أن تعطيني اسم الحصة؟",
+        "context": "تطلب معلومة عن نشاط معين."
+      },
+      {
+        "id": 8,
+        "en": "Can you give me your full address before we continue?",
+        "ar": "هل يمكنك أن تعطيني عنوانك الكامل قبل أن نكمل؟",
+        "context": "تحتاج معلومة أساسية قبل متابعة التسجيل."
+      },
+      {
+        "id": 9,
+        "en": "Can you tell me your age?",
+        "ar": "هل يمكنك أن تخبرني بعمرك؟",
+        "context": "صيغة أخرى لطلب العمر."
+      },
+      {
+        "id": 10,
+        "en": "Sure. Can you give me one more detail?",
+        "ar": "بالتأكيد. هل يمكنك أن تعطيني تفصيلًا آخر؟",
+        "context": "تطلب معلومة إضافية بلطف."
+      }
+    ]
+  }
+}

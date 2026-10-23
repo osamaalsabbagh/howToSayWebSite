@@ -1,0 +1,123 @@
+{
+  "schemaVersion": 1,
+  "id": 1,
+  "sentence": {
+    "en": "Dad, what does capital city mean?",
+    "ar": "أبي، ماذا تعني مدينة عاصمة؟",
+    "context": "يسأل الابن عن معنى عبارة مدينة عاصمة أثناء الطريق."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Dad",
+        "ar": "أبي.",
+        "context": "نداء للأب قبل السؤال.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه كلمة نداء وليست جملة بزمن."
+        },
+        "wordMeanings": [
+          {
+            "term": "Dad",
+            "description": "أبي أو بابا"
+          }
+        ]
+      },
+      {
+        "sentence": "what does capital city mean",
+        "ar": "ماذا تعني مدينة عاصمة؟",
+        "context": "سؤال عن معنى عبارة.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "does mean يستخدم للسؤال عن معنى ثابت أو تعريف عام."
+        },
+        "wordMeanings": [
+          {
+            "term": "what",
+            "description": "ماذا"
+          },
+          {
+            "term": "does",
+            "description": "كلمة مساعدة للسؤال مع المفرد"
+          },
+          {
+            "term": "capital",
+            "description": "عاصمة أو رئيسي في هذا السياق"
+          },
+          {
+            "term": "city",
+            "description": "مدينة"
+          },
+          {
+            "term": "mean",
+            "description": "يعني"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "What does this word mean",
+        "ar": "ماذا تعني هذه الكلمة؟",
+        "context": "يقال عند السؤال عن معنى كلمة"
+      },
+      {
+        "id": 2,
+        "en": "Dad, what does this sign mean",
+        "ar": "أبي، ماذا تعني هذه اللافتة؟",
+        "context": "يقال عندما يسأل طفل عن علامة"
+      },
+      {
+        "id": 3,
+        "en": "What does capital mean",
+        "ar": "ماذا تعني عاصمة؟",
+        "context": "يقال عند طلب تعريف كلمة"
+      },
+      {
+        "id": 4,
+        "en": "What does main city mean",
+        "ar": "ماذا تعني مدينة رئيسية؟",
+        "context": "يقال عند توضيح عبارة جغرافية"
+      },
+      {
+        "id": 5,
+        "en": "Mom, what does government mean",
+        "ar": "أمي، ماذا تعني حكومة؟",
+        "context": "يقال عندما يسأل طفل عن مفهوم"
+      },
+      {
+        "id": 6,
+        "en": "What does this sentence mean",
+        "ar": "ماذا تعني هذه الجملة؟",
+        "context": "يقال عند تعلم لغة"
+      },
+      {
+        "id": 7,
+        "en": "What does country mean",
+        "ar": "ماذا تعني دولة؟",
+        "context": "يقال عند طلب شرح كلمة"
+      },
+      {
+        "id": 8,
+        "en": "Dad, what does downtown mean",
+        "ar": "أبي، ماذا يعني وسط المدينة؟",
+        "context": "يقال عند السؤال عن مكان أو مصطلح"
+      },
+      {
+        "id": 9,
+        "en": "What does old school mean",
+        "ar": "ماذا تعني مدرسة قديمة؟",
+        "context": "يقال عند طلب معنى عبارة"
+      },
+      {
+        "id": 10,
+        "en": "What does this name mean",
+        "ar": "ماذا يعني هذا الاسم؟",
+        "context": "يقال عند السؤال عن معنى اسم"
+      }
+    ]
+  }
+}

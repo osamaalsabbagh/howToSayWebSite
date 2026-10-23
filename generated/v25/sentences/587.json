@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "id": 587,
+  "sentence": {
+    "en": "What is your name?",
+    "ar": "ما اسمك؟",
+    "context": "السؤال عن اسم الشخص للتعريف."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "What is your name?",
+        "ar": "ما اسمك؟",
+        "context": "تستخدم للتعرف على اسم شخص.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "السؤال يطلب معلومة تعريفية ثابتة في الحاضر."
+        },
+        "wordMeanings": [
+          {
+            "term": "What",
+            "description": "ما، وتستخدم للسؤال عن معلومة."
+          },
+          {
+            "term": "is",
+            "description": "صيغة تربط السؤال بالمعلومة المطلوبة."
+          },
+          {
+            "term": "your",
+            "description": "الخاص بك أو التابع لك."
+          },
+          {
+            "term": "name",
+            "description": "اسم."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "My name is John.",
+        "ar": "اسمي جون.",
+        "context": "تقال للإجابة عن الاسم."
+      },
+      {
+        "id": 2,
+        "en": "What is her name?",
+        "ar": "ما اسمها؟",
+        "context": "تستخدم للسؤال عن اسم امرأة."
+      },
+      {
+        "id": 3,
+        "en": "What is his name?",
+        "ar": "ما اسمه؟",
+        "context": "تقال للسؤال عن اسم رجل."
+      },
+      {
+        "id": 4,
+        "en": "Her name is Sarah.",
+        "ar": "اسمها سارة.",
+        "context": "تستخدم لذكر اسم امرأة."
+      },
+      {
+        "id": 5,
+        "en": "His name is David.",
+        "ar": "اسمه ديفيد.",
+        "context": "تقال لذكر اسم رجل."
+      },
+      {
+        "id": 6,
+        "en": "What is your full name?",
+        "ar": "ما اسمك الكامل؟",
+        "context": "تستخدم عند الحاجة إلى الاسم الكامل."
+      },
+      {
+        "id": 7,
+        "en": "My name is on the list.",
+        "ar": "اسمي على القائمة.",
+        "context": "تقال عند وجود الاسم في قائمة."
+      },
+      {
+        "id": 8,
+        "en": "What is the name of this place?",
+        "ar": "ما اسم هذا المكان؟",
+        "context": "تستخدم للسؤال عن اسم مكان."
+      },
+      {
+        "id": 9,
+        "en": "Your name is beautiful.",
+        "ar": "اسمك جميل.",
+        "context": "تقال لمدح اسم شخص."
+      },
+      {
+        "id": 10,
+        "en": "Please tell me your name.",
+        "ar": "من فضلك أخبرني باسمك.",
+        "context": "تستخدم لطلب الاسم بأدب."
+      }
+    ]
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "schemaVersion": 1,
+  "id": 1143,
+  "sentence": {
+    "en": "Can you give me some feedback?",
+    "ar": "هل يمكنك إعطائي بعض الملاحظات؟",
+    "context": "تُستخدم عند طلب تقييم أو ملاحظات بناءة حول أداء أو عمل معين."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Can you give me some feedback",
+        "ar": "هل يمكنك إعطائي بعض الملاحظات",
+        "context": "طلب ملاحظات أو تقييم بطريقة مباشرة.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه صيغة طلب باستخدام كلمة تدل على القدرة، وليست زمنًا مستقلًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "Can",
+            "description": "تُستخدم لطلب شيء أو السؤال عن القدرة"
+          },
+          {
+            "term": "you",
+            "description": "ضمير للمخاطب"
+          },
+          {
+            "term": "give",
+            "description": "يعطي أو يقدم"
+          },
+          {
+            "term": "me",
+            "description": "ضمير يشير إلى المتكلم كمفعول به"
+          },
+          {
+            "term": "some",
+            "description": "بعض"
+          },
+          {
+            "term": "feedback",
+            "description": "ملاحظات أو تقييم بنّاء"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Can you give me your opinion?",
+        "ar": "هل يمكنك إعطائي رأيك؟",
+        "context": "تُستخدم لطلب رأي."
+      },
+      {
+        "id": 2,
+        "en": "Could you give me feedback on my work?",
+        "ar": "هل يمكنك إعطائي ملاحظات على عملي؟",
+        "context": "تُستخدم بصيغة مهذبة."
+      },
+      {
+        "id": 3,
+        "en": "I need some feedback.",
+        "ar": "أحتاج إلى بعض الملاحظات.",
+        "context": "تُقال عند طلب تقييم."
+      },
+      {
+        "id": 4,
+        "en": "Can you review this for me?",
+        "ar": "هل يمكنك مراجعة هذا لي؟",
+        "context": "تُستخدم قبل الحصول على ملاحظات."
+      },
+      {
+        "id": 5,
+        "en": "Please give me honest feedback.",
+        "ar": "يرجى إعطائي ملاحظات صادقة.",
+        "context": "تُقال عند طلب تقييم واضح."
+      },
+      {
+        "id": 6,
+        "en": "Can you tell me what to improve?",
+        "ar": "هل يمكنك إخباري بما يجب تحسينه؟",
+        "context": "تُستخدم لطلب ملاحظات عملية."
+      },
+      {
+        "id": 7,
+        "en": "She gave me helpful feedback.",
+        "ar": "أعطتني ملاحظات مفيدة.",
+        "context": "تُقال بعد تلقي تقييم."
+      },
+      {
+        "id": 8,
+        "en": "Can I get feedback after the presentation?",
+        "ar": "هل يمكنني الحصول على ملاحظات بعد العرض؟",
+        "context": "تُستخدم في موقف عرض."
+      },
+      {
+        "id": 9,
+        "en": "Your feedback helped me improve.",
+        "ar": "ساعدتني ملاحظاتك على التحسن.",
+        "context": "تُقال لشكر شخص."
+      },
+      {
+        "id": 10,
+        "en": "Can you give me feedback today?",
+        "ar": "هل يمكنك إعطائي ملاحظات اليوم؟",
+        "context": "تُستخدم عند تحديد وقت."
+      }
+    ]
+  }
+}

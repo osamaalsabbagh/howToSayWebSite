@@ -1,0 +1,137 @@
+{
+  "schemaVersion": 1,
+  "id": 9982,
+  "sentence": {
+    "en": "The letter was sealed after the ink had dried.",
+    "ar": "الرسالة خُتمت بعد أن الحبر قد جف.",
+    "context": "وصف ختم سابق لرسالة أعقب اكتمال جفاف الحبر، لا مجرد حدثين متزامنين.",
+    "sourceWord": "ink",
+    "sourcePos": "n."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "The letter was sealed",
+        "ar": "الرسالة خُتمت",
+        "context": "وصف إجراء سابق أُجري على رسالة.",
+        "grammar": {
+          "tense": "الماضي البسيط المبني للمجهول",
+          "tenseEn": "Past Simple Passive",
+          "reason": "تصف was sealed ختم الرسالة سابقًا دون تعيين من ختمها."
+        },
+        "wordMeanings": [
+          {
+            "term": "The",
+            "description": "أداة تعريف للرسالة"
+          },
+          {
+            "term": "letter",
+            "description": "الرسالة"
+          },
+          {
+            "term": "was",
+            "description": "مساعد المبني للمجهول الماضي"
+          },
+          {
+            "term": "sealed",
+            "description": "خُتمت؛ أُغلقت بختم"
+          }
+        ]
+      },
+      {
+        "sentence": "after the ink had dried.",
+        "ar": "بعد أن الحبر قد جف.",
+        "context": "تحديد جفاف الحبر حدثًا مكتملًا قبل الختم.",
+        "grammar": {
+          "tense": "الماضي التام",
+          "tenseEn": "Past Perfect",
+          "reason": "تصف had dried جفافًا اكتمل قبل ختم الرسالة في الماضي."
+        },
+        "wordMeanings": [
+          {
+            "term": "after",
+            "description": "بعد أن"
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف للحبر"
+          },
+          {
+            "term": "ink",
+            "description": "الحبر"
+          },
+          {
+            "term": "had",
+            "description": "مساعد الماضي التام"
+          },
+          {
+            "term": "dried",
+            "description": "جف؛ زالت رطوبته"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "The letter was sealed after the ink had dried.",
+        "ar": "الرسالة خُتمت بعد أن الحبر قد جف.",
+        "context": "وصف ختم سابق لرسالة أعقب اكتمال جفاف الحبر، لا مجرد حدثين متزامنين."
+      },
+      {
+        "id": 2,
+        "en": "The old letter was written in brown ink.",
+        "ar": "الرسالة القديمة كُتبت بحبر بني.",
+        "context": "وصف مادة كتابة ملونة في وثيقة قديمة دون تحديد عمرها."
+      },
+      {
+        "id": 3,
+        "en": "She spilled ink on the table.",
+        "ar": "هي سكبت حبرًا على الطاولة.",
+        "context": "وصف انسكاب سابق لمادة كتابة سائلة."
+      },
+      {
+        "id": 4,
+        "en": "We have replaced the printer ink.",
+        "ar": "نحن قد استبدلنا حبر الطابعة.",
+        "context": "الإبلاغ عن تغيير مكتمل لمادة تستخدم في طباعة."
+      },
+      {
+        "id": 5,
+        "en": "The artist is mixing two inks.",
+        "ar": "الفنان يمزج نوعين من الحبر.",
+        "context": "وصف إعداد جارٍ لمادة رسم أو كتابة."
+      },
+      {
+        "id": 6,
+        "en": "The new cartridge will contain black ink.",
+        "ar": "الخرطوشة الجديدة ستحتوي حبرًا أسود.",
+        "context": "توقع لون مادة مستهلكة داخل قطعة طباعة."
+      },
+      {
+        "id": 7,
+        "en": "Please sign the form in ink.",
+        "ar": "من فضلك وقع الاستمارة بالحبر.",
+        "context": "طلب كتابة ثابتة بالحبر بدل قلم رصاص."
+      },
+      {
+        "id": 8,
+        "en": "The page bears an ink stain.",
+        "ar": "الصفحة تحمل بقعة حبر.",
+        "context": "وصف أثر مادة ملونة على ورق."
+      },
+      {
+        "id": 9,
+        "en": "The label lists the ink color.",
+        "ar": "الملصق يذكر لون الحبر.",
+        "context": "وصف معلومة تعرف مادة كتابة أو طباعة."
+      },
+      {
+        "id": 10,
+        "en": "The drawing uses only a few strokes of ink.",
+        "ar": "الرسم يستخدم بضع ضربات حبر فقط.",
+        "context": "وصف عمل فني مقتصد في العلامات المرسومة."
+      }
+    ]
+  }
+}

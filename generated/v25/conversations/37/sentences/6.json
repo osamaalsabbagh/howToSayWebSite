@@ -1,0 +1,159 @@
+{
+  "schemaVersion": 1,
+  "id": 6,
+  "sentence": {
+    "en": "You always say that! Your meetings can wait, but your son cannot.",
+    "ar": "أنت دائمًا تقول هذا! اجتماعاتك يمكن أن تنتظر، لكن ابنك لا يستطيع.",
+    "context": "تعبر عن استيائها لأن العمل أصبح أهم من العائلة."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "You always say that",
+        "ar": "أنت تقول ذلك دائمًا.",
+        "context": "لوم على تكرار نفس الكلام.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "say مع always تصف عادة متكررة يشتكي منها المتكلم."
+        },
+        "wordMeanings": [
+          {
+            "term": "You",
+            "description": "أنت"
+          },
+          {
+            "term": "always",
+            "description": "دائمًا"
+          },
+          {
+            "term": "say",
+            "description": "تقول"
+          },
+          {
+            "term": "that",
+            "description": "ذلك أو هذا الكلام"
+          }
+        ]
+      },
+      {
+        "sentence": "Your meetings can wait",
+        "ar": "اجتماعاتك يمكن أن تنتظر.",
+        "context": "تقول إن العمل ليس عاجلًا مثل المشكلة العائلية.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "can wait تركيب إمكانية يدل أن التأجيل ممكن، وليس زمنًا مستقلًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "Your",
+            "description": "الخاص بك"
+          },
+          {
+            "term": "meetings",
+            "description": "اجتماعات"
+          },
+          {
+            "term": "can",
+            "description": "يمكن أو تستطيع"
+          },
+          {
+            "term": "wait",
+            "description": "تنتظر أو تؤجل"
+          }
+        ]
+      },
+      {
+        "sentence": "but your son cannot",
+        "ar": "لكن ابنك لا يستطيع.",
+        "context": "تؤكد أن حالة الابن لا تحتمل الانتظار.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "cannot هنا ينفي القدرة على الانتظار المفهومة من الجملة السابقة."
+        },
+        "wordMeanings": [
+          {
+            "term": "but",
+            "description": "لكن"
+          },
+          {
+            "term": "your",
+            "description": "الخاص بك"
+          },
+          {
+            "term": "son",
+            "description": "ابن"
+          },
+          {
+            "term": "cannot",
+            "description": "لا يستطيع أو لا يمكنه"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "You always say you are busy",
+        "ar": "أنت تقول دائمًا إنك مشغول",
+        "context": "يقال عند لوم شخص على تكرار عذر"
+      },
+      {
+        "id": 2,
+        "en": "Your work can wait",
+        "ar": "يمكن لعملك أن ينتظر",
+        "context": "يقال عندما يكون شيء آخر أهم"
+      },
+      {
+        "id": 3,
+        "en": "The meeting can wait, but she cannot",
+        "ar": "يمكن للاجتماع أن ينتظر، لكنها لا تستطيع",
+        "context": "يقال عند مقارنة أولوية العمل بشخص محتاج"
+      },
+      {
+        "id": 4,
+        "en": "You always forget the time",
+        "ar": "أنت تنسى الوقت دائمًا",
+        "context": "يقال عند الشكوى من عادة متكررة"
+      },
+      {
+        "id": 5,
+        "en": "Your phone can wait",
+        "ar": "يمكن لهاتفك أن ينتظر",
+        "context": "يقال عند طلب ترك الهاتف مؤقتًا"
+      },
+      {
+        "id": 6,
+        "en": "My son cannot wait any longer",
+        "ar": "لا يستطيع ابني الانتظار أكثر",
+        "context": "يقال عند وجود حاجة عاجلة"
+      },
+      {
+        "id": 7,
+        "en": "You always choose work first",
+        "ar": "أنت تختار العمل أولًا دائمًا",
+        "context": "يقال بنبرة عتاب"
+      },
+      {
+        "id": 8,
+        "en": "This problem cannot wait",
+        "ar": "هذه المشكلة لا يمكن أن تنتظر",
+        "context": "يقال عن أمر عاجل"
+      },
+      {
+        "id": 9,
+        "en": "Your plans can change",
+        "ar": "يمكن أن تتغير خططك",
+        "context": "يقال عند طلب المرونة"
+      },
+      {
+        "id": 10,
+        "en": "The car can wait, but the child cannot",
+        "ar": "يمكن للسيارة أن تنتظر، لكن الطفل لا يستطيع",
+        "context": "يقال عند ترتيب الأولويات"
+      }
+    ]
+  }
+}

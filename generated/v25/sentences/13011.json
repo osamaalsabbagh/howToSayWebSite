@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": 13011,
+  "sentence": {
+    "en": "I instructed the workers to check the equipment.",
+    "ar": "أنا وجهت العمال إلى فحص المعدات.",
+    "context": "أنت تناقش إعطاء العمال تعليمات بتفقد المعدات. أنت تروي ما حصل بشأن توجيه العمال أمس.",
+    "sourceWord": "instruct",
+    "sourcePos": "v."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "I instructed the workers to check the equipment.",
+        "ar": "أنا وجهت العمال إلى فحص المعدات.",
+        "context": "أنت تناقش إعطاء العمال تعليمات بتفقد المعدات. أنت تروي ما حصل بشأن توجيه العمال أمس.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "أخبر عن حدث أو حالة في وقت ماضٍ انتهى، بالماضي البسيط. التصريف الماضي يصف حدثًا منتهيًا. يعطي تعليمات لفعل شيء"
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "أنا؛ ضمير المتكلم المفرد"
+          },
+          {
+            "term": "instructed",
+            "description": "وجهت؛ يعطي تعليمات لفعل شيء التصريف الماضي للفعل."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف"
+          },
+          {
+            "term": "workers",
+            "description": "عمال"
+          },
+          {
+            "term": "to",
+            "description": "حرف يربط التوجيه بالفعل"
+          },
+          {
+            "term": "check",
+            "description": "يفحص"
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف"
+          },
+          {
+            "term": "equipment",
+            "description": "معدات"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I instructed the workers to check the equipment.",
+        "ar": "أنا وجهت العمال إلى فحص المعدات.",
+        "context": "أنت تناقش إعطاء العمال تعليمات بتفقد المعدات. أنت تروي ما حصل بشأن توجيه العمال أمس."
+      },
+      {
+        "id": 2,
+        "en": "I instruct the workers to check the equipment.",
+        "ar": "أنا أوجه العمال إلى فحص المعدات.",
+        "context": "أنت تناقش إعطاء العمال تعليمات بتفقد المعدات. أنت تشرح عادتك أو وضعك الحالي فيما يخص توجيه العمال."
+      },
+      {
+        "id": 3,
+        "en": "I do not instruct the workers to check the equipment.",
+        "ar": "أنا لا أوجه العمال إلى فحص المعدات.",
+        "context": "أنت تناقش إعطاء العمال تعليمات بتفقد المعدات. أنت توضح أن هذا ليس من عادتك أو وصفًا لوضعك الحالي."
+      },
+      {
+        "id": 4,
+        "en": "I am instructing the workers to check the equipment.",
+        "ar": "أنا أوجه العمال إلى فحص المعدات.",
+        "context": "أنت تناقش إعطاء العمال تعليمات بتفقد المعدات. أنت في أثناء التعامل مع توجيه العمال الآن."
+      },
+      {
+        "id": 5,
+        "en": "I am not instructing the workers to check the equipment.",
+        "ar": "أنا لا أوجه العمال إلى فحص المعدات.",
+        "context": "أنت تناقش إعطاء العمال تعليمات بتفقد المعدات. أنت تصحح توقعًا بشأن ما تفعله الآن وتوضح أن هذا النشاط لا يجري."
+      },
+      {
+        "id": 6,
+        "en": "I did not instruct the workers to check the equipment.",
+        "ar": "أنا لم أوجه العمال إلى فحص المعدات.",
+        "context": "أنت تناقش إعطاء العمال تعليمات بتفقد المعدات. أنت تصحح رواية عن أحداث أمس وتوضح أن هذا الأمر لم يحصل."
+      },
+      {
+        "id": 7,
+        "en": "I have instructed the workers to check the equipment.",
+        "ar": "أنا قد وجهت العمال إلى فحص المعدات.",
+        "context": "أنت تناقش إعطاء العمال تعليمات بتفقد المعدات. أنت تناقش ما أنجزته أو خبرتك السابقة بشأن توجيه العمال، لأن ذلك مهم لموقفك الآن."
+      },
+      {
+        "id": 8,
+        "en": "I have not instructed the workers to check the equipment.",
+        "ar": "أنا لم أوجه العمال إلى فحص المعدات.",
+        "context": "أنت تناقش إعطاء العمال تعليمات بتفقد المعدات. أنت تناقش ما تم حتى الآن وتوضح أن هذا الأمر لم يتم بعد."
+      },
+      {
+        "id": 9,
+        "en": "I will instruct the workers to check the equipment.",
+        "ar": "أنا سأوجه العمال إلى فحص المعدات.",
+        "context": "أنت تناقش إعطاء العمال تعليمات بتفقد المعدات. أنت تتحدث عن خططك أو توقعاتك بشأن توجيه العمال غدًا."
+      },
+      {
+        "id": 10,
+        "en": "I will not instruct the workers to check the equipment.",
+        "ar": "أنا لن أوجه العمال إلى فحص المعدات.",
+        "context": "أنت تناقش إعطاء العمال تعليمات بتفقد المعدات. أنت تناقش خطط الغد وتوضح أن هذا الأمر لن يحدث."
+      }
+    ]
+  }
+}

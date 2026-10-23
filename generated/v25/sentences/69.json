@@ -1,0 +1,119 @@
+{
+  "schemaVersion": 1,
+  "id": 69,
+  "sentence": {
+    "en": "I think it tastes good.",
+    "ar": "أعتقد أن طعمه جيد.",
+    "context": "علق على الطعم."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "I think",
+        "ar": "أعتقد.",
+        "context": "يمهّد لرأي شخصي قبل ذكر الفكرة نفسها.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "تستخدم think في المضارع البسيط للتعبير عن رأي المتكلم الحالي."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير المتكلم ويشير إلى الشخص الذي يتحدث."
+          },
+          {
+            "term": "think",
+            "description": "أعتقد أو أرى برأيي."
+          }
+        ]
+      },
+      {
+        "sentence": "it tastes good",
+        "ar": "أن طعمه جيد.",
+        "context": "يوضح الفكرة التي يراها المتحدث أو يسأل عنها.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "تستخدم tastes في المضارع البسيط لوصف طعم الشيء كحالة أو انطباع عام، وتضاف s لأن الفاعل مفرد."
+        },
+        "wordMeanings": [
+          {
+            "term": "it",
+            "description": "ضمير يشير إلى الطعام أو الشراب المقصود في السياق."
+          },
+          {
+            "term": "tastes",
+            "description": "طعمه يبدو أو يكون عند التذوق."
+          },
+          {
+            "term": "good",
+            "description": "جيد أو لذيذ في سياق الطعم."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I think it smells good.",
+        "ar": "أعتقد أن رائحته جيدة.",
+        "context": "تقال عند إبداء رأي إيجابي في الرائحة."
+      },
+      {
+        "id": 2,
+        "en": "She thinks the soup tastes good.",
+        "ar": "هي تعتقد أن الشوربة طعمها جيد.",
+        "context": "تقال عند نقل رأي شخص في طعام."
+      },
+      {
+        "id": 3,
+        "en": "I think this tea tastes sweet.",
+        "ar": "أعتقد أن هذا الشاي طعمه حلو.",
+        "context": "تقال عند وصف طعم مشروب."
+      },
+      {
+        "id": 4,
+        "en": "He thinks the cake tastes fresh.",
+        "ar": "هو يعتقد أن الكعكة طعمها طازج.",
+        "context": "تقال عند تقييم حلوى."
+      },
+      {
+        "id": 5,
+        "en": "I think the coffee tastes strong.",
+        "ar": "أعتقد أن القهوة طعمها قوي.",
+        "context": "تقال عند وصف قوة طعم القهوة."
+      },
+      {
+        "id": 6,
+        "en": "We think the sauce tastes spicy.",
+        "ar": "نعتقد أن الصلصة طعمها حار.",
+        "context": "تقال عند مشاركة رأي عن طعم صلصة."
+      },
+      {
+        "id": 7,
+        "en": "I think it looks good.",
+        "ar": "أعتقد أنه يبدو جيدًا.",
+        "context": "تقال عند إبداء رأي إيجابي في الشكل."
+      },
+      {
+        "id": 8,
+        "en": "They think the bread tastes better today.",
+        "ar": "هم يعتقدون أن الخبز طعمه أفضل اليوم.",
+        "context": "تقال عند مقارنة طعم الطعام بيوم آخر."
+      },
+      {
+        "id": 9,
+        "en": "My mother thinks the rice tastes perfect.",
+        "ar": "أمي تعتقد أن الأرز طعمه مثالي.",
+        "context": "تقال عند مدح طعم طعام مطبوخ."
+      },
+      {
+        "id": 10,
+        "en": "I think this juice tastes fresh.",
+        "ar": "أعتقد أن هذا العصير طعمه طازج.",
+        "context": "تقال عند التعليق على مشروب."
+      }
+    ]
+  }
+}

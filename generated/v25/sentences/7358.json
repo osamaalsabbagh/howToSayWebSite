@@ -1,0 +1,137 @@
+{
+  "schemaVersion": 1,
+  "id": 7358,
+  "sentence": {
+    "en": "Please do not interrupt me while I am talking.",
+    "ar": "من فضلك لا تقاطعني بينما أنا أتكلم.",
+    "context": "طلب ترك المتكلم يكمل كلامه الجاري دون مقاطعة.",
+    "sourceWord": "interrupt",
+    "sourcePos": "v."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Please do not interrupt me",
+        "ar": "من فضلك لا تقاطعني",
+        "context": "طلب مهذب بعدم قطع كلام المتحدث.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "صيغة النهي المهذبة. الفعل يعني يقطع كلام شخص أو عملًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "Please",
+            "description": "من فضلك."
+          },
+          {
+            "term": "do",
+            "description": "مساعد النهي."
+          },
+          {
+            "term": "not",
+            "description": "لا."
+          },
+          {
+            "term": "interrupt",
+            "description": "تقاطع."
+          },
+          {
+            "term": "me",
+            "description": "ني؛ ضمير المفعول للمتكلم."
+          }
+        ]
+      },
+      {
+        "sentence": "while I am talking.",
+        "ar": "بينما أنا أتكلم.",
+        "context": "تحديد فترة الكلام التي ما زالت جارية.",
+        "grammar": {
+          "tense": "المضارع المستمر",
+          "tenseEn": "Present Continuous",
+          "reason": "المضارع المستمر يصف فعلًا يحدث الآن."
+        },
+        "wordMeanings": [
+          {
+            "term": "while",
+            "description": "بينما."
+          },
+          {
+            "term": "I",
+            "description": "أنا."
+          },
+          {
+            "term": "am",
+            "description": "مساعد المضارع المستمر."
+          },
+          {
+            "term": "talking",
+            "description": "أتكلم."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Please do not interrupt me while I am talking.",
+        "ar": "من فضلك لا تقاطعني بينما أنا أتكلم.",
+        "context": "طلب ترك المتكلم يكمل كلامه الجاري دون مقاطعة."
+      },
+      {
+        "id": 2,
+        "en": "A loud noise interrupted the meeting.",
+        "ar": "صوت عالٍ قطع الاجتماع.",
+        "context": "وصف توقف سابق لسير اجتماع بسبب ضوضاء دون تعيين مصدرها."
+      },
+      {
+        "id": 3,
+        "en": "Calls often interrupt her work.",
+        "ar": "المكالمات تقاطع عملها كثيرًا.",
+        "context": "وصف تشتيت متكرر يقطع نشاطًا."
+      },
+      {
+        "id": 4,
+        "en": "A fallen tree interrupted the power supply.",
+        "ar": "شجرة ساقطة قطعت إمداد الكهرباء.",
+        "context": "وصف انقطاع سابق في خدمة بسبب عائق مادي."
+      },
+      {
+        "id": 5,
+        "en": "We have interrupted the broadcast for an announcement.",
+        "ar": "نحن قد قطعنا البث لإعلان.",
+        "context": "الإبلاغ عن إيقاف برنامج من أجل رسالة."
+      },
+      {
+        "id": 6,
+        "en": "The children are interrupting the rehearsal.",
+        "ar": "الأطفال يقاطعون التدريب.",
+        "context": "وصف تدخل جارٍ يقطع سير استعداد لعرض."
+      },
+      {
+        "id": 7,
+        "en": "The repairs will interrupt traffic on the bridge.",
+        "ar": "الإصلاحات ستقطع حركة المرور على الجسر.",
+        "context": "توقع توقف في انسياب المركبات أثناء أعمال."
+      },
+      {
+        "id": 8,
+        "en": "Please interrupt if anything is unclear.",
+        "ar": "من فضلك قاطع إذا كان أي شيء غير واضح.",
+        "context": "دعوة إلى إيقاف الشرح للسؤال عند الحاجة إلى فهم."
+      },
+      {
+        "id": 9,
+        "en": "A brief shower interrupted our walk.",
+        "ar": "زخة مطر قصيرة قطعت نزهتنا.",
+        "context": "وصف توقف سابق لنشاط بسبب مطر محدود."
+      },
+      {
+        "id": 10,
+        "en": "The line of trees is interrupted by a gate.",
+        "ar": "صف الأشجار تتخلله بوابة.",
+        "context": "وصف فجوة في امتداد مكاني منتظم."
+      }
+    ]
+  }
+}

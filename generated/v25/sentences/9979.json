@@ -1,0 +1,109 @@
+{
+  "schemaVersion": 1,
+  "id": 9979,
+  "sentence": {
+    "en": "She inherited her grandmother's house.",
+    "ar": "هي ورثت بيت جدتها.",
+    "context": "وصف انتقال ملكية بيت بالميراث دون إضافة محام أو وصية أو صلة بالمتكلم.",
+    "sourceWord": "inherit",
+    "sourcePos": "v."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "She inherited her grandmother's house.",
+        "ar": "هي ورثت بيت جدتها.",
+        "context": "وصف انتقال ملكية بيت بالميراث دون إضافة محام أو وصية أو صلة بالمتكلم.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "الماضي البسيط يصف حدثًا انتهى. الفعل يعني يرث مالًا أو صفة من شخص."
+        },
+        "wordMeanings": [
+          {
+            "term": "She",
+            "description": "هي."
+          },
+          {
+            "term": "inherited",
+            "description": "ورثت."
+          },
+          {
+            "term": "her",
+            "description": "ضمير ملكية للمفردة المؤنثة الغائبة."
+          },
+          {
+            "term": "grandmother's",
+            "description": "جدتها؛ صيغة الملكية."
+          },
+          {
+            "term": "house",
+            "description": "بيت."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "She inherited her grandmother's house.",
+        "ar": "هي ورثت بيت جدتها.",
+        "context": "وصف انتقال ملكية بيت بالميراث دون إضافة محام أو وصية أو صلة بالمتكلم."
+      },
+      {
+        "id": 2,
+        "en": "My brother inherited our father's sense of humor.",
+        "ar": "أخي ورث حس الفكاهة من أبينا.",
+        "context": "استعمال لانتقال صفة بين جيلين، لا انتقال ملكية بعد وفاة."
+      },
+      {
+        "id": 3,
+        "en": "The new manager inherits a difficult situation.",
+        "ar": "المدير الجديد يرث وضعًا صعبًا.",
+        "context": "استعمال مجازي لتولي مسؤولية مع مشكلات تركها السابقون."
+      },
+      {
+        "id": 4,
+        "en": "She inherited a collection of old books.",
+        "ar": "هي ورثت مجموعة من الكتب القديمة.",
+        "context": "وصف حصول سابق على ممتلكات ضمن ميراث."
+      },
+      {
+        "id": 5,
+        "en": "We have inherited a responsibility to protect the archive.",
+        "ar": "نحن قد ورثنا مسؤولية حماية الأرشيف.",
+        "context": "الإبلاغ عن انتقال واجب من أشخاص سابقين إلى المتكلمين."
+      },
+      {
+        "id": 6,
+        "en": "The developer is checking which settings the new profile inherits.",
+        "ar": "المطور يتحقق من الإعدادات التي ملف التعريف الجديد يرثها.",
+        "context": "استعمال تقني لإعدادات تنتقل من مستوى سابق إلى ملف جديد."
+      },
+      {
+        "id": 7,
+        "en": "The next generation will inherit these problems.",
+        "ar": "الجيل التالي سيرث هذه المشكلات.",
+        "context": "توقع انتقال تحديات قائمة إلى من يأتون لاحقًا."
+      },
+      {
+        "id": 8,
+        "en": "Please explain which features the subclass inherits.",
+        "ar": "من فضلك اشرح السمات التي الفئة الفرعية ترثها.",
+        "context": "استعمال برمجي لسمات تنتقل من فئة أصلية إلى فئة مشتقة."
+      },
+      {
+        "id": 9,
+        "en": "He inherited his mother's blue eyes.",
+        "ar": "هو ورث عيني أمه الزرقاوين.",
+        "context": "وصف انتقال صفة جسدية من أحد الوالدين دون ربطها بوفاة."
+      },
+      {
+        "id": 10,
+        "en": "The company inherited an outdated filing system.",
+        "ar": "الشركة ورثت نظام حفظ ملفات متقادمًا.",
+        "context": "وصف استلام سابق لترتيب عمل موجود من قبل."
+      }
+    ]
+  }
+}

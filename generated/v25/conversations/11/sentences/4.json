@@ -1,0 +1,119 @@
+{
+  "schemaVersion": 1,
+  "id": 4,
+  "sentence": {
+    "en": "Can I ask another question about the topic?",
+    "ar": "هل يمكنني أن أطرح سؤالًا آخر حول الموضوع؟",
+    "context": "الطالب يطلب أن يسأل سؤالًا إضافيًا"
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Can I ask another question about the topic?",
+        "ar": "هل يمكنني أن أطرح سؤالًا آخر حول الموضوع؟",
+        "context": "يُستخدم هذا السؤال لطلب شيء أو المساعدة بشكل مهذب.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "الجملة سؤال طلب إذن باستخدام Can، لذلك تُفهم بوظيفتها في طلب السماح وليست زمنًا مستقلًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "Can",
+            "description": "تبدأ سؤالًا عن الإمكانية أو الإذن، وتستعمل هنا لطلب السماح بلطف."
+          },
+          {
+            "term": "I",
+            "description": "ضمير المتكلم المفرد."
+          },
+          {
+            "term": "ask",
+            "description": "يطرح سؤالًا أو يستفسر."
+          },
+          {
+            "term": "another",
+            "description": "واحد إضافي غير السؤال السابق."
+          },
+          {
+            "term": "question",
+            "description": "سؤال أو استفسار."
+          },
+          {
+            "term": "about",
+            "description": "حول أو بخصوص."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف تشير إلى موضوع معروف في الحديث."
+          },
+          {
+            "term": "topic",
+            "description": "الموضوع الذي يجري الكلام عنه."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Can I ask a quick question?",
+        "ar": "هل يمكنني أن أطرح سؤالًا سريعًا؟",
+        "context": "يُستخدم عندما تريد الاستفسار دون مقاطعة طويلة."
+      },
+      {
+        "id": 2,
+        "en": "Can I ask about the homework?",
+        "ar": "هل يمكنني أن أسأل عن الواجب؟",
+        "context": "يُستخدم في الصف عند طلب توضيح عن واجب."
+      },
+      {
+        "id": 3,
+        "en": "Can I ask another question after class?",
+        "ar": "هل يمكنني أن أطرح سؤالًا آخر بعد الصف؟",
+        "context": "يُستخدم عندما يريد الطالب المتابعة بعد انتهاء الدرس."
+      },
+      {
+        "id": 4,
+        "en": "Can I ask you something about the lesson?",
+        "ar": "هل يمكنني أن أسألك شيئًا عن الدرس؟",
+        "context": "يُستخدم لطلب توضيح مرتبط بالدرس."
+      },
+      {
+        "id": 5,
+        "en": "Can I ask one more question?",
+        "ar": "هل يمكنني أن أطرح سؤالًا آخر؟",
+        "context": "يُستخدم قبل إضافة سؤال جديد."
+      },
+      {
+        "id": 6,
+        "en": "Can I ask about this word?",
+        "ar": "هل يمكنني أن أسأل عن هذه الكلمة؟",
+        "context": "يُستخدم عندما لا يفهم المتعلم كلمة معينة."
+      },
+      {
+        "id": 7,
+        "en": "Can I ask the teacher now?",
+        "ar": "هل يمكنني أن أسأل المعلم الآن؟",
+        "context": "يُستخدم عند طلب الإذن بالكلام مع المعلم."
+      },
+      {
+        "id": 8,
+        "en": "Can I ask about the next topic?",
+        "ar": "هل يمكنني أن أسأل عن الموضوع التالي؟",
+        "context": "يُستخدم عند الانتقال إلى موضوع آخر."
+      },
+      {
+        "id": 9,
+        "en": "Can I ask for more details?",
+        "ar": "هل يمكنني أن أطلب مزيدًا من التفاصيل؟",
+        "context": "يُستخدم عندما يريد المتكلم شرحًا أوسع."
+      },
+      {
+        "id": 10,
+        "en": "Can I ask a question before we continue?",
+        "ar": "هل يمكنني أن أطرح سؤالًا قبل أن نتابع؟",
+        "context": "يُستخدم لإيقاف الحديث لحظة وطلب توضيح."
+      }
+    ]
+  }
+}

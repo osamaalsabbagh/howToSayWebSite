@@ -1,0 +1,113 @@
+{
+  "schemaVersion": 1,
+  "id": 4011,
+  "sentence": {
+    "en": "The lecture lasted nearly two hours.",
+    "ar": "المحاضرة استمرت قرابة ساعتين.",
+    "context": "وصف مدة محاضرة اقتربت من ساعتين دون أن تبلغهما، بكلمة مأخوذة من معنى القرب.",
+    "sourceWord": "last1 (taking time)",
+    "sourcePos": "v."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "The lecture lasted nearly two hours.",
+        "ar": "المحاضرة استمرت قرابة ساعتين.",
+        "context": "وصف مدة محاضرة اقتربت من ساعتين دون أن تبلغهما، بكلمة مأخوذة من معنى القرب.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "استخدم الماضي البسيط لأن مدة المحاضرة حدثت وانتهت في وقت سابق."
+        },
+        "wordMeanings": [
+          {
+            "term": "The",
+            "description": "أداة تعريف تشير إلى محاضرة محددة معروفة في السياق."
+          },
+          {
+            "term": "lecture",
+            "description": "المحاضرة؛ درس أو حديث تعليمي أمام مستمعين."
+          },
+          {
+            "term": "lasted",
+            "description": "استمرت؛ بقيت جارية لمدة معينة في الماضي."
+          },
+          {
+            "term": "nearly",
+            "description": "قرابة؛ تعني أن المدة قريبة من الرقم المذكور وليست مساوية له تمامًا."
+          },
+          {
+            "term": "two",
+            "description": "اثنان؛ عدد الساعات."
+          },
+          {
+            "term": "hours",
+            "description": "ساعات؛ وحدات زمنية لقياس مدة المحاضرة."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "The lecture lasted nearly two hours.",
+        "ar": "المحاضرة استمرت قرابة ساعتين.",
+        "context": "أنت تصف طول المحاضرة التي حضرتها أمس."
+      },
+      {
+        "id": 2,
+        "en": "These boots last for years.",
+        "ar": "هذه الأحذية تدوم لسنوات.",
+        "context": "أنت تشرح لماذا تفضل شراء أحذية متينة."
+      },
+      {
+        "id": 3,
+        "en": "The rain has lasted since morning.",
+        "ar": "المطر قد استمر منذ الصباح.",
+        "context": "أنت تنظر من النافذة بعد الظهر ولا تزال السماء تمطر."
+      },
+      {
+        "id": 4,
+        "en": "The celebration lasted well into the night.",
+        "ar": "الاحتفال استمر حتى وقت متأخر من الليل.",
+        "context": "أنت تتذكر حفلة حضرتموها أمس."
+      },
+      {
+        "id": 5,
+        "en": "The paint will last longer indoors.",
+        "ar": "الطلاء سيدوم مدة أطول في الداخل.",
+        "context": "أنت تناقش مكان وضع قطعة أثاث مطلية حديثًا."
+      },
+      {
+        "id": 6,
+        "en": "I cannot last another hour without a break.",
+        "ar": "أنا لا أستطيع الاستمرار ساعة أخرى دون استراحة.",
+        "context": "أنت تخبر زميلك بتعبك بعد عمل طويل."
+      },
+      {
+        "id": 7,
+        "en": "The good weather did not last.",
+        "ar": "الطقس الجميل لم يستمر.",
+        "context": "أنت تصف تبدل الجو خلال رحلة الأمس."
+      },
+      {
+        "id": 8,
+        "en": "We made the candles last through the evening.",
+        "ar": "نحن جعلنا الشموع تدوم طوال المساء.",
+        "context": "أنت تتذكر كيفية توفير الإضاءة خلال انقطاع الكهرباء."
+      },
+      {
+        "id": 9,
+        "en": "His enthusiasm lasted only a week.",
+        "ar": "حماسه استمر أسبوعًا واحدًا فقط.",
+        "context": "أنت تتحدث عن هواية بدأها صديق ثم تركها سريعًا."
+      },
+      {
+        "id": 10,
+        "en": "The repaired chair has lasted ten more years.",
+        "ar": "الكرسي الذي أُصلح قد دام عشر سنوات أخرى.",
+        "context": "أنت تنظر إلى كرسي ما زال صالحًا بعد إصلاح قديم."
+      }
+    ]
+  }
+}

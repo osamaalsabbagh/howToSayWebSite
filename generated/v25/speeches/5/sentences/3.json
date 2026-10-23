@@ -1,0 +1,203 @@
+{
+  "schemaVersion": 1,
+  "id": 3,
+  "sentence": {
+    "en": "A signal that tells the algorithm: This is valuable. Let more people see it. And show me more like this.",
+    "ar": "إشارة تخبر الخوارزمية: هذا قيّم. دع المزيد من الناس يرونه. وأرني المزيد مما يشبه هذا.",
+    "context": "شرح كيف تفهم الخوارزمية تفاعل المستخدم."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "A signal that tells the algorithm",
+        "ar": "إشارة تخبر الخوارزمية",
+        "context": "تشرح معنى التفاعل كرسالة موجهة للخوارزمية.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "tells يصف وظيفة عامة للإشارة في كل مرة يحدث فيها التفاعل."
+        },
+        "wordMeanings": [
+          {
+            "term": "A",
+            "description": "أداة لشيء واحد غير محدد"
+          },
+          {
+            "term": "signal",
+            "description": "إشارة"
+          },
+          {
+            "term": "that",
+            "description": "التي أو الذي"
+          },
+          {
+            "term": "tells",
+            "description": "تخبر"
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف لخوارزمية معروفة"
+          },
+          {
+            "term": "algorithm",
+            "description": "الخوارزمية"
+          }
+        ]
+      },
+      {
+        "sentence": "This is valuable.",
+        "ar": "هذا قيّم.",
+        "context": "تمثل الرسالة الأولى التي يفهمها النظام من التفاعل.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "is يصف حكمًا مباشرًا على المحتوى بأنه ذو قيمة."
+        },
+        "wordMeanings": [
+          {
+            "term": "This",
+            "description": "هذا"
+          },
+          {
+            "term": "is",
+            "description": "يكون أو هو"
+          },
+          {
+            "term": "valuable",
+            "description": "قيّم أو مهم"
+          }
+        ]
+      },
+      {
+        "sentence": "Let more people see it.",
+        "ar": "دع المزيد من الناس يرونه.",
+        "context": "تمثل طلبًا ضمنيًا بتوسيع انتشار المحتوى.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "Let هنا صيغة أمر أو طلب، لذلك لا تحمل زمنًا مستقلًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "Let",
+            "description": "دع أو اسمح"
+          },
+          {
+            "term": "more",
+            "description": "المزيد من"
+          },
+          {
+            "term": "people",
+            "description": "الناس"
+          },
+          {
+            "term": "see",
+            "description": "يرون"
+          },
+          {
+            "term": "it",
+            "description": "إياه أو هذا المحتوى"
+          }
+        ]
+      },
+      {
+        "sentence": "And show me more like this.",
+        "ar": "وأرني المزيد مما يشبه هذا.",
+        "context": "تمثل طلبًا ضمنيًا بأن يعرض النظام محتوى مشابهًا للمستخدم.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "show صيغة أمر مرتبطة بما قبلها، وAnd تصلها بالطلب السابق."
+        },
+        "wordMeanings": [
+          {
+            "term": "And",
+            "description": "و، تربط بطلب سابق"
+          },
+          {
+            "term": "show",
+            "description": "أرني أو اعرض"
+          },
+          {
+            "term": "me",
+            "description": "لي"
+          },
+          {
+            "term": "more",
+            "description": "المزيد"
+          },
+          {
+            "term": "like",
+            "description": "مثل أو شبيه بـ"
+          },
+          {
+            "term": "this",
+            "description": "هذا"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Every choice online sends a message.",
+        "ar": "كل اختيار على الإنترنت يرسل رسالة.",
+        "context": "توضيح أثر السلوك الرقمي."
+      },
+      {
+        "id": 2,
+        "en": "A small action can change what people see.",
+        "ar": "يمكن لفعل صغير أن يغير ما يراه الناس.",
+        "context": "بيان تأثير الأفعال الصغيرة."
+      },
+      {
+        "id": 3,
+        "en": "When you support good work, you help it grow.",
+        "ar": "عندما تدعم عملًا جيدًا، تساعده على النمو.",
+        "context": "تشجيع دعم المحتوى المفيد."
+      },
+      {
+        "id": 4,
+        "en": "Do not reward harmful content.",
+        "ar": "لا تكافئ المحتوى الضار.",
+        "context": "نصيحة لتجنب دعم المحتوى السيئ."
+      },
+      {
+        "id": 5,
+        "en": "Choose what you share with care.",
+        "ar": "اختر ما تشاركه بعناية.",
+        "context": "دعوة للتفكير قبل النشر."
+      },
+      {
+        "id": 6,
+        "en": "Your attention gives power to content.",
+        "ar": "انتباهك يمنح القوة للمحتوى.",
+        "context": "شرح أثر المشاهدة والتفاعل."
+      },
+      {
+        "id": 7,
+        "en": "Like posts that teach something useful.",
+        "ar": "أعجب بالمنشورات التي تعلم شيئًا مفيدًا.",
+        "context": "توجيه لاستخدام الإعجاب بوعي."
+      },
+      {
+        "id": 8,
+        "en": "Follow people who respect your values.",
+        "ar": "تابع أشخاصًا يحترمون قيمك.",
+        "context": "توجيه لاختيار المتابعة بوعي."
+      },
+      {
+        "id": 9,
+        "en": "Share information that helps people.",
+        "ar": "شارك معلومات تساعد الناس.",
+        "context": "حث على نشر محتوى نافع."
+      },
+      {
+        "id": 10,
+        "en": "Build a cleaner internet with your choices.",
+        "ar": "ابن إنترنت أنظف باختياراتك.",
+        "context": "دعوة لتحمل مسؤولية رقمية."
+      }
+    ]
+  }
+}

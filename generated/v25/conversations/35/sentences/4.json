@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "id": 4,
+  "sentence": {
+    "en": "It is fine. The manager usually starts ten minutes late anyway.",
+    "ar": "لا بأس، المدير عادة يبدأ متأخرًا عشر دقائق على أي حال.",
+    "context": "يخفف قلقه بالإشارة إلى تأخر المدير المعتاد."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "It is fine",
+        "ar": "لا بأس.",
+        "context": "عبارة طمأنة لتخفيف القلق.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "is يصف الحالة الحالية بأنها مقبولة أو غير مشكلة."
+        },
+        "wordMeanings": [
+          {
+            "term": "It",
+            "description": "الأمر أو الوضع"
+          },
+          {
+            "term": "is",
+            "description": "يكون أو هو لوصف حالة"
+          },
+          {
+            "term": "fine",
+            "description": "جيد أو لا بأس به"
+          }
+        ]
+      },
+      {
+        "sentence": "The manager usually starts ten minutes late anyway",
+        "ar": "المدير عادة يبدأ متأخرًا عشر دقائق على أي حال.",
+        "context": "يعطي سببًا عمليًا لعدم القلق من التأخير.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "starts مع usually يصف عادة متكررة للمدير."
+        },
+        "wordMeanings": [
+          {
+            "term": "The",
+            "description": "أداة تعريف"
+          },
+          {
+            "term": "manager",
+            "description": "المدير"
+          },
+          {
+            "term": "usually",
+            "description": "عادة"
+          },
+          {
+            "term": "starts",
+            "description": "يبدأ"
+          },
+          {
+            "term": "ten",
+            "description": "عشر"
+          },
+          {
+            "term": "minutes",
+            "description": "دقائق"
+          },
+          {
+            "term": "late",
+            "description": "متأخرًا"
+          },
+          {
+            "term": "anyway",
+            "description": "على أي حال أو بغض النظر"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "It is fine. We still have time",
+        "ar": "لا بأس. ما زال لدينا وقت",
+        "context": "يقال لطمأنة شخص قلق"
+      },
+      {
+        "id": 2,
+        "en": "The teacher usually starts five minutes late",
+        "ar": "المعلم عادة يبدأ متأخرًا خمس دقائق",
+        "context": "يقال لوصف عادة في بداية الدرس"
+      },
+      {
+        "id": 3,
+        "en": "The meeting usually starts at nine",
+        "ar": "الاجتماع عادة يبدأ عند التاسعة",
+        "context": "يقال عن موعد متكرر"
+      },
+      {
+        "id": 4,
+        "en": "It is fine. The bus comes every hour",
+        "ar": "لا بأس. تأتي الحافلة كل ساعة",
+        "context": "يقال عند طمأنة شخص فاته موعد"
+      },
+      {
+        "id": 5,
+        "en": "My brother usually arrives late anyway",
+        "ar": "أخي عادة يصل متأخرًا على أي حال",
+        "context": "يقال عند توقع تأخر معتاد"
+      },
+      {
+        "id": 6,
+        "en": "The office usually opens ten minutes early",
+        "ar": "المكتب عادة يفتح مبكرًا عشر دقائق",
+        "context": "يقال لوصف عادة في مكان عمل"
+      },
+      {
+        "id": 7,
+        "en": "It is fine. I can wait",
+        "ar": "لا بأس. أستطيع الانتظار",
+        "context": "يقال لتخفيف الضغط عن شخص"
+      },
+      {
+        "id": 8,
+        "en": "She usually calls before lunch",
+        "ar": "هي عادة تتصل قبل الغداء",
+        "context": "يقال عن عادة تواصل"
+      },
+      {
+        "id": 9,
+        "en": "The train usually leaves late anyway",
+        "ar": "القطار عادة يغادر متأخرًا على أي حال",
+        "context": "يقال عندما يكون التأخير متوقعًا"
+      },
+      {
+        "id": 10,
+        "en": "It is fine. The place is close",
+        "ar": "لا بأس. المكان قريب",
+        "context": "يقال لطمأنة شخص بشأن الوقت أو المسافة"
+      }
+    ]
+  }
+}
