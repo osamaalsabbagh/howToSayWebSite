@@ -1,0 +1,109 @@
+{
+  "schemaVersion": 1,
+  "id": 5966,
+  "sentence": {
+    "en": "We booked a travel package.",
+    "ar": "نحن حجزنا باقة سفر.",
+    "context": "رواية عن حجز عرض يجمع خدمات سفر ضمن باقة واحدة.",
+    "sourceWord": "package",
+    "sourcePos": "n."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "We booked a travel package.",
+        "ar": "نحن حجزنا باقة سفر.",
+        "context": "رواية عن حجز عرض يجمع خدمات سفر ضمن باقة واحدة.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "الماضي البسيط يصف فعلًا انتهى. الاسم هنا يعني مجموعة خدمات تباع معًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "We",
+            "description": "نحن؛ ضمير الفاعل للمتكلمين."
+          },
+          {
+            "term": "booked",
+            "description": "حجزنا."
+          },
+          {
+            "term": "a",
+            "description": "أداة تنكير قبل اسم مفرد."
+          },
+          {
+            "term": "travel",
+            "description": "سفر؛ هنا يصف نوع الباقة."
+          },
+          {
+            "term": "package",
+            "description": "باقة؛ مجموعة خدمات تباع معًا بسعر واحد."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "en": "We booked a travel package.",
+        "ar": "نحن حجزنا باقة سفر.",
+        "context": "رواية عن حجز عرض يجمع خدمات سفر ضمن باقة واحدة.",
+        "id": 1
+      },
+      {
+        "id": 2,
+        "en": "The package includes breakfast.",
+        "ar": "الباقة تشمل الفطور.",
+        "context": "وصف وجبة صباحية مشمولة في عرض خدمات واحد."
+      },
+      {
+        "id": 3,
+        "en": "This phone package is cheap.",
+        "ar": "باقة الهاتف هذه رخيصة.",
+        "context": "تقييم تكلفة مجموعة خدمات هاتف تقدم معًا."
+      },
+      {
+        "id": 4,
+        "en": "They offered him a good salary package.",
+        "ar": "هم عرضوا عليه حزمة راتب ومزايا جيدة.",
+        "context": "رواية عن عرض أجر ومزايا مرتبطة بوظيفة."
+      },
+      {
+        "en": "The severance package includes six months of pay.",
+        "ar": "حزمة التعويض عن إنهاء الخدمة تشمل أجر ستة أشهر.",
+        "context": "وصف مبلغ مشمول في عرض محدد عند إنهاء علاقة العمل، دون تعميمه على غيره.",
+        "id": 5
+      },
+      {
+        "id": 6,
+        "en": "We chose the family package.",
+        "ar": "نحن اخترنا باقة العائلة.",
+        "context": "رواية عن اختيار عرض مخصص لاستخدام أفراد الأسرة."
+      },
+      {
+        "id": 7,
+        "en": "The software package has five programs.",
+        "ar": "حزمة البرامج فيها خمسة برامج.",
+        "context": "وصف عدد البرامج داخل حزمة برمجية واحدة."
+      },
+      {
+        "en": "The emergency package combines grants with temporary loans.",
+        "ar": "حزمة الطوارئ تجمع منحًا وقروضًا مؤقتة.",
+        "context": "وصف دعم طارئ يضم نوعين مختلفين من المساعدة المالية.",
+        "id": 8
+      },
+      {
+        "id": 9,
+        "en": "The wedding package includes music and food.",
+        "ar": "باقة الزفاف تشمل الموسيقى والطعام.",
+        "context": "وصف خدمات موسيقية وطعام مشمولة في عرض لتنظيم زفاف."
+      },
+      {
+        "id": 10,
+        "en": "They sell internet and TV in one package.",
+        "ar": "هم يبيعون خدمات الإنترنت والتلفزيون في باقة واحدة.",
+        "context": "وصف بيع خدمتي اتصال وترفيه مرئي معًا ضمن عرض واحد."
+      }
+    ]
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": 533,
+  "sentence": {
+    "en": "Have you done this before?",
+    "ar": "هل فعلت هذا من قبل؟",
+    "context": "السؤال عن وجود تجربة سابقة مع أمر ما."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Have you done this before?",
+        "ar": "هل فعلت هذا من قبل؟",
+        "context": "سؤال عن تجربة الشخص السابقة مع هذا الفعل.",
+        "grammar": {
+          "tense": "المضارع التام",
+          "tenseEn": "Present Perfect",
+          "reason": "يستخدم المضارع التام للسؤال عن تجربة سابقة مرتبطة بالحاضر."
+        },
+        "wordMeanings": [
+          {
+            "term": "Have",
+            "description": "تساعد في تكوين المضارع التام."
+          },
+          {
+            "term": "you",
+            "description": "تشير إلى المخاطب."
+          },
+          {
+            "term": "done",
+            "description": "تعني فعلت أو أنجزت."
+          },
+          {
+            "term": "this",
+            "description": "تشير إلى الأمر أو النشاط المقصود."
+          },
+          {
+            "term": "before",
+            "description": "تعني من قبل أو سابقًا."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Have you tried this before?",
+        "ar": "هل جربت هذا من قبل؟",
+        "context": "سؤال عن تجربة."
+      },
+      {
+        "id": 2,
+        "en": "I have done this before.",
+        "ar": "لقد فعلت هذا من قبل.",
+        "context": "تأكيد وجود خبرة."
+      },
+      {
+        "id": 3,
+        "en": "She has not done this before.",
+        "ar": "هي لم تفعل هذا من قبل.",
+        "context": "نفي الخبرة السابقة."
+      },
+      {
+        "id": 4,
+        "en": "Have they used this before?",
+        "ar": "هل استخدموا هذا من قبل؟",
+        "context": "سؤال عن استخدام سابق."
+      },
+      {
+        "id": 5,
+        "en": "We have been here before.",
+        "ar": "لقد كنا هنا من قبل.",
+        "context": "ذكر زيارة سابقة."
+      },
+      {
+        "id": 6,
+        "en": "He did this yesterday.",
+        "ar": "فعل هذا أمس.",
+        "context": "ذكر فعل في وقت محدد."
+      },
+      {
+        "id": 7,
+        "en": "Have you cooked before?",
+        "ar": "هل طبخت من قبل؟",
+        "context": "سؤال عن مهارة أو تجربة."
+      },
+      {
+        "id": 8,
+        "en": "This is new for me.",
+        "ar": "هذا جديد بالنسبة لي.",
+        "context": "إظهار عدم الخبرة."
+      },
+      {
+        "id": 9,
+        "en": "I have never done this.",
+        "ar": "لم أفعل هذا أبدًا.",
+        "context": "نفي قوي للتجربة."
+      },
+      {
+        "id": 10,
+        "en": "Have you seen this before?",
+        "ar": "هل رأيت هذا من قبل؟",
+        "context": "سؤال عن رؤية سابقة."
+      }
+    ]
+  }
+}

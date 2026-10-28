@@ -1,0 +1,139 @@
+{
+  "schemaVersion": 1,
+  "id": 1,
+  "sentence": {
+    "en": "Come in, I want to show you my new bedroom.",
+    "ar": "ادخلي، أريد أن أريك غرفة نومي الجديدة.",
+    "context": "تدعوها لتدخل الغرفة المخصصة للنوم."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Come in",
+        "ar": "ادخل",
+        "context": "تستعمل كدعوة مباشرة للدخول إلى المكان.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه صيغة أمر، لذلك لا تحمل زمنًا مستقلًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "Come",
+            "description": "تعال أو ادخل باتجاه المتكلم"
+          },
+          {
+            "term": "in",
+            "description": "إلى الداخل"
+          }
+        ]
+      },
+      {
+        "sentence": "I want to show you my new bedroom.",
+        "ar": "أريد أن أريك غرفة نومي الجديدة.",
+        "context": "توضح سبب دعوة الشخص للدخول.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "الفعل want يصف رغبة حالية لدى المتكلم."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "المتكلم نفسه"
+          },
+          {
+            "term": "want",
+            "description": "أريد أو أرغب"
+          },
+          {
+            "term": "to",
+            "description": "تأتي قبل الفعل لتكوين معنى أن أفعل"
+          },
+          {
+            "term": "show",
+            "description": "أعرض أو أري شخصًا شيئًا"
+          },
+          {
+            "term": "you",
+            "description": "الشخص المخاطب"
+          },
+          {
+            "term": "my",
+            "description": "خاص بي أو يخصني"
+          },
+          {
+            "term": "new",
+            "description": "جديد أو حديث"
+          },
+          {
+            "term": "bedroom",
+            "description": "غرفة النوم"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Come in, I want to show you my kitchen.",
+        "ar": "ادخل، أريد أن أريك مطبخي.",
+        "context": "تقال عند دعوة شخص لرؤية جزء من البيت."
+      },
+      {
+        "id": 2,
+        "en": "Come in, I want to show you my new desk.",
+        "ar": "ادخل، أريد أن أريك مكتبي الجديد.",
+        "context": "تقال عند عرض شيء جديد في الغرفة."
+      },
+      {
+        "id": 3,
+        "en": "Come here, I want to show you a picture.",
+        "ar": "تعال هنا، أريد أن أريك صورة.",
+        "context": "تقال لجذب انتباه شخص إلى شيء."
+      },
+      {
+        "id": 4,
+        "en": "Come in, I want to show you the living room.",
+        "ar": "ادخل، أريد أن أريك غرفة المعيشة.",
+        "context": "تقال عند استقبال ضيف في البيت."
+      },
+      {
+        "id": 5,
+        "en": "Come in, I want to show you my new chair.",
+        "ar": "ادخل، أريد أن أريك كرسيي الجديد.",
+        "context": "تقال عند مشاركة شراء جديد."
+      },
+      {
+        "id": 6,
+        "en": "Come inside, I want to show you something.",
+        "ar": "ادخل إلى الداخل، أريد أن أريك شيئًا.",
+        "context": "تقال عندما تريد عرض شيء داخل المكان."
+      },
+      {
+        "id": 7,
+        "en": "Come in, I want to show you my room.",
+        "ar": "ادخل، أريد أن أريك غرفتي.",
+        "context": "تقال عند دعوة شخص لرؤية غرفة شخصية."
+      },
+      {
+        "id": 8,
+        "en": "I want to show you my new phone.",
+        "ar": "أريد أن أريك هاتفي الجديد.",
+        "context": "تقال عند مشاركة جهاز جديد."
+      },
+      {
+        "id": 9,
+        "en": "I want to show you where I study.",
+        "ar": "أريد أن أريك أين أدرس.",
+        "context": "تقال عند تعريف شخص بمكان الدراسة."
+      },
+      {
+        "id": 10,
+        "en": "Come in, I want to show you the balcony.",
+        "ar": "ادخل، أريد أن أريك الشرفة.",
+        "context": "تقال عند دعوة شخص لرؤية جزء من المنزل."
+      }
+    ]
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "schemaVersion": 1,
+  "id": 10032,
+  "sentence": {
+    "en": "My brother forgot his sports kit, so he could not play.",
+    "ar": "أخي نسي عدته الرياضية، لذلك هو لم يستطع اللعب.",
+    "context": "وصف نسيان سابق لتجهيزات لازمة للمشاركة في رياضة دون تعيين حذاء أو قميص أو مباراة مدرسية.",
+    "sourceWord": "kit",
+    "sourcePos": "n."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "My brother forgot his sports kit,",
+        "ar": "أخي نسي عدته الرياضية،",
+        "context": "وصف نسيان سابق لتجهيزات رياضة.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "الماضي البسيط يصف حدثًا انتهى. الاسم هنا يعني ملابس وأدوات رياضة."
+        },
+        "wordMeanings": [
+          {
+            "term": "My",
+            "description": "ضمير ملكية للمتكلم."
+          },
+          {
+            "term": "brother",
+            "description": "أخي."
+          },
+          {
+            "term": "forgot",
+            "description": "نسي."
+          },
+          {
+            "term": "his",
+            "description": "ضمير ملكية للمفرد المذكر الغائب."
+          },
+          {
+            "term": "sports",
+            "description": "الرياضية."
+          },
+          {
+            "term": "kit",
+            "description": "عدته؛ ملابس ومعدات لازمة للمشاركة في رياضة."
+          }
+        ]
+      },
+      {
+        "sentence": "so he could not play.",
+        "ar": "لذلك هو لم يستطع اللعب.",
+        "context": "بيان عدم القدرة على المشاركة نتيجة النسيان.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "تركيب could not play يعبر عن عدم قدرة في موقف سابق؛ تُترك حقول الزمن فارغة مع الفعل الناقص."
+        },
+        "wordMeanings": [
+          {
+            "term": "so",
+            "description": "لذلك."
+          },
+          {
+            "term": "he",
+            "description": "هو."
+          },
+          {
+            "term": "could",
+            "description": "استطاع."
+          },
+          {
+            "term": "not",
+            "description": "لم."
+          },
+          {
+            "term": "play",
+            "description": "اللعب."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "My brother forgot his sports kit, so he could not play.",
+        "ar": "أخي نسي عدته الرياضية، لذلك هو لم يستطع اللعب.",
+        "context": "وصف نسيان سابق لتجهيزات لازمة للمشاركة في رياضة دون تعيين حذاء أو قميص أو مباراة مدرسية."
+      },
+      {
+        "id": 2,
+        "en": "The model comes as a kit.",
+        "ar": "النموذج يأتي في صورة مجموعة قطع للتركيب.",
+        "context": "استعمال لأجزاء تُجمع لصنع غرض، لا غرض جاهز كاملًا."
+      },
+      {
+        "id": 3,
+        "en": "She bought a sewing kit.",
+        "ar": "هي اشترت عدة خياطة.",
+        "context": "وصف مجموعة أدوات لغرض حرفي في شراء سابق."
+      },
+      {
+        "id": 4,
+        "en": "We have packed a repair kit for the trip.",
+        "ar": "نحن قد حزمنا عدة إصلاح للرحلة.",
+        "context": "الإبلاغ عن تجهيز مكتمل لمجموعة أدوات للاستخدام عند الحاجة."
+      },
+      {
+        "id": 5,
+        "en": "The drummer is setting up the drum kit.",
+        "ar": "عازف الطبول يجهز طقم الطبول.",
+        "context": "استعمال موسيقي لمجموعة آلات إيقاع."
+      },
+      {
+        "id": 6,
+        "en": "The kit will include all the necessary parts.",
+        "ar": "العدة ستتضمن جميع القطع اللازمة.",
+        "context": "توقع محتويات مجموعة تُستخدم لغرض محدد."
+      },
+      {
+        "id": 7,
+        "en": "Please return the tool kit to the cupboard.",
+        "ar": "من فضلك أعد صندوق الأدوات إلى الخزانة.",
+        "context": "طلب حفظ مجموعة معدات في موضعها."
+      },
+      {
+        "id": 8,
+        "en": "The players wore the new team kit.",
+        "ar": "اللاعبون ارتدوا الزي الجديد للفريق.",
+        "context": "استعمال رياضي للملابس الموحدة في موقف سابق."
+      },
+      {
+        "id": 9,
+        "en": "The science kit contains magnets and wires.",
+        "ar": "عدة العلوم تحتوي مغناطيسات وأسلاكًا.",
+        "context": "وصف مكونات مجموعة تجارب تعليمية."
+      },
+      {
+        "id": 10,
+        "en": "The photographer carried a lightweight kit.",
+        "ar": "المصور حمل عدة خفيفة الوزن.",
+        "context": "وصف تجهيزات مهنية منقولة في موقف سابق."
+      }
+    ]
+  }
+}

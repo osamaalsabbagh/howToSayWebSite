@@ -1,0 +1,175 @@
+{
+  "schemaVersion": 1,
+  "id": 1,
+  "sentence": {
+    "en": "Good morning. Can I see the apartment listed on the front of your office for 900 dollars per month?",
+    "ar": "صباح الخير. هل يمكنني رؤية الشقة المُعلَن عنها على واجهة مكتبكم بسعر 900 دولار في الشهر؟",
+    "context": "الزبون يطلب بشكل مباشر رؤية الشقة دون استخدام صيغة تهذيب إضافية."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Good morning.",
+        "ar": "صباح الخير.",
+        "context": "يفتتح بها المتحدث الكلام قبل الدخول في الفكرة الأساسية.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه تحية صباحية وليست جملة فعلية لها زمن مستقل."
+        },
+        "wordMeanings": [
+          {
+            "term": "Good",
+            "description": "جزء من تحية مهذبة في بداية اليوم."
+          },
+          {
+            "term": "morning",
+            "description": "الصباح، وتكمل عبارة التحية."
+          }
+        ]
+      },
+      {
+        "sentence": "Can I see the apartment listed on the front of your office for 900 dollars per month?",
+        "ar": "هل يمكنني رؤية الشقة المُعلَن عنها على واجهة مكتبكم بسعر 900 دولار في الشهر؟",
+        "context": "يُستخدم هذا السؤال لطلب شيء أو المساعدة بشكل مهذب.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذا طلب مباشر باستخدام can للسؤال عن إمكانية معاينة الشقة. لذلك يشرح كتركيب طلب لا كزمن مستقل."
+        },
+        "wordMeanings": [
+          {
+            "term": "Can",
+            "description": "تبدأ طلبًا عن إمكانية فعل شيء."
+          },
+          {
+            "term": "I",
+            "description": "ضمير المتكلم المفرد."
+          },
+          {
+            "term": "see",
+            "description": "تعني أرى أو أعاين في هذا السياق."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف لشقة محددة معروفة من الإعلان."
+          },
+          {
+            "term": "apartment",
+            "description": "شقة سكنية."
+          },
+          {
+            "term": "listed",
+            "description": "معروضة أو مُعلَن عنها."
+          },
+          {
+            "term": "on",
+            "description": "حرف يحدد مكان ظهور الإعلان."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف لموضع محدد في المكتب."
+          },
+          {
+            "term": "front",
+            "description": "الواجهة أو الجزء الأمامي."
+          },
+          {
+            "term": "of",
+            "description": "يربط الواجهة بالمكتب."
+          },
+          {
+            "term": "your",
+            "description": "صفة ملكية تعني الخاص بكم."
+          },
+          {
+            "term": "office",
+            "description": "مكتب أو مقر عمل."
+          },
+          {
+            "term": "for",
+            "description": "تستخدم هنا لذكر السعر المطلوب."
+          },
+          {
+            "term": "900",
+            "description": "الرقم تسعمئة."
+          },
+          {
+            "term": "dollars",
+            "description": "دولارات، وهي العملة المذكورة في السعر."
+          },
+          {
+            "term": "per",
+            "description": "تعني لكل أو في كل، وتستخدم مع الأسعار الدورية."
+          },
+          {
+            "term": "month",
+            "description": "شهر."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Good morning. Can I see the apartment listed online?",
+        "ar": "صباح الخير. هل يمكنني رؤية الشقة المُعلَن عنها على الإنترنت؟",
+        "context": "تطلب معاينة شقة رأيتها في إعلان."
+      },
+      {
+        "id": 2,
+        "en": "Can I see the room listed on your website?",
+        "ar": "هل يمكنني رؤية الغرفة المُعلَن عنها على موقعكم؟",
+        "context": "تسأل عن عقار معروض إلكترونيًا."
+      },
+      {
+        "id": 3,
+        "en": "Can I see the apartment for 900 dollars per month?",
+        "ar": "هل يمكنني رؤية الشقة بسعر 900 دولار في الشهر؟",
+        "context": "تحدد الشقة بحسب السعر."
+      },
+      {
+        "id": 4,
+        "en": "Good morning. Can I ask about the apartment?",
+        "ar": "صباح الخير. هل يمكنني السؤال عن الشقة؟",
+        "context": "تبدأ حديثًا في مكتب عقار."
+      },
+      {
+        "id": 5,
+        "en": "Can I see the apartment on the front page?",
+        "ar": "هل يمكنني رؤية الشقة الموجودة في الصفحة الأولى؟",
+        "context": "تسأل عن إعلان ظاهر في موضع بارز."
+      },
+      {
+        "id": 6,
+        "en": "Can I see the house listed for rent?",
+        "ar": "هل يمكنني رؤية المنزل المعروض للإيجار؟",
+        "context": "تطلب معاينة منزل لا شقة."
+      },
+      {
+        "id": 7,
+        "en": "Good morning. Can I see it today?",
+        "ar": "صباح الخير. هل يمكنني رؤيتها اليوم؟",
+        "context": "تسأل عن إمكانية المعاينة في نفس اليوم."
+      },
+      {
+        "id": 8,
+        "en": "Can I see the office listed for 900 dollars?",
+        "ar": "هل يمكنني رؤية المكتب المعروض بسعر 900 دولار؟",
+        "context": "تستخدم نفس الصيغة مع نوع عقار آخر."
+      },
+      {
+        "id": 9,
+        "en": "Can I see the apartment near the station?",
+        "ar": "هل يمكنني رؤية الشقة القريبة من المحطة؟",
+        "context": "تحدد الشقة بحسب موقعها."
+      },
+      {
+        "id": 10,
+        "en": "Good morning. Can I see the listing?",
+        "ar": "صباح الخير. هل يمكنني رؤية الإعلان؟",
+        "context": "تطلب الاطلاع على الإعلان نفسه."
+      }
+    ]
+  }
+}

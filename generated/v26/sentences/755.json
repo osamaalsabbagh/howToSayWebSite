@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "id": 755,
+  "sentence": {
+    "en": "How many?",
+    "ar": "كم عددهم؟",
+    "context": "طلب عدد أو كمية شيء ما."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "How many?",
+        "ar": "كم عددهم؟",
+        "context": "سؤال مختصر عن العدد عندما يكون الشيء معروفا من السياق.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذا تعبير استفهامي مختصر لا يحتوي فعلا كاملا، ويستخدم للسؤال عن عدد أشياء معدودة."
+        },
+        "wordMeanings": [
+          {
+            "term": "How",
+            "description": "كم في هذا التعبير"
+          },
+          {
+            "term": "many",
+            "description": "كثير أو عدد من أشياء معدودة"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "How many people?",
+        "ar": "كم شخصا؟",
+        "context": "للسؤال عن عدد الأشخاص."
+      },
+      {
+        "id": 2,
+        "en": "How many tickets?",
+        "ar": "كم تذكرة؟",
+        "context": "عند شراء تذاكر."
+      },
+      {
+        "id": 3,
+        "en": "How many rooms?",
+        "ar": "كم غرفة؟",
+        "context": "للسؤال عن عدد الغرف."
+      },
+      {
+        "id": 4,
+        "en": "How many bags?",
+        "ar": "كم حقيبة؟",
+        "context": "في السفر أو التسوق."
+      },
+      {
+        "id": 5,
+        "en": "How many students?",
+        "ar": "كم طالبا؟",
+        "context": "للسؤال عن عدد الطلاب."
+      },
+      {
+        "id": 6,
+        "en": "How many chairs?",
+        "ar": "كم كرسيا؟",
+        "context": "لترتيب مكان جلوس."
+      },
+      {
+        "id": 7,
+        "en": "How many days?",
+        "ar": "كم يوما؟",
+        "context": "للسؤال عن مدة بالأيام."
+      },
+      {
+        "id": 8,
+        "en": "How many hours?",
+        "ar": "كم ساعة؟",
+        "context": "للسؤال عن مدة بالساعات."
+      },
+      {
+        "id": 9,
+        "en": "How many apples?",
+        "ar": "كم تفاحة؟",
+        "context": "عند شراء أو عد التفاح."
+      },
+      {
+        "id": 10,
+        "en": "How many children?",
+        "ar": "كم طفلا؟",
+        "context": "للسؤال عن عدد الأطفال."
+      }
+    ]
+  }
+}

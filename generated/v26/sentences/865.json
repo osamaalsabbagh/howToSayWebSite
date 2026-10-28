@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "id": 865,
+  "sentence": {
+    "en": "Amy is John's girlfriend.",
+    "ar": "إيمي هي صديقة جون.",
+    "context": "تُستخدم لوصف العلاقة بين شخصين."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Amy is John's girlfriend.",
+        "ar": "إيمي هي صديقة جون.",
+        "context": "جملة تعرف العلاقة العاطفية بين شخصين.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "الفعل is يربط Amy بوصف العلاقة الحالية، وJohn's يدل على الانتماء أو العلاقة مع جون."
+        },
+        "wordMeanings": [
+          {
+            "term": "Amy",
+            "description": "اسم شخص"
+          },
+          {
+            "term": "is",
+            "description": "تكون أو هي"
+          },
+          {
+            "term": "John's",
+            "description": "الخاصة بجون أو المرتبطة بجون"
+          },
+          {
+            "term": "girlfriend",
+            "description": "صديقة في علاقة عاطفية"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Sara is Ali's sister.",
+        "ar": "سارة هي أخت علي.",
+        "context": "لوصف علاقة عائلية."
+      },
+      {
+        "id": 2,
+        "en": "Amy is John's friend.",
+        "ar": "إيمي صديقة جون.",
+        "context": "لوصف صداقة."
+      },
+      {
+        "id": 3,
+        "en": "He is Mary's boyfriend.",
+        "ar": "هو صديق ماري.",
+        "context": "لوصف علاقة عاطفية."
+      },
+      {
+        "id": 4,
+        "en": "This is John's car.",
+        "ar": "هذه سيارة جون.",
+        "context": "للدلالة على الملكية."
+      },
+      {
+        "id": 5,
+        "en": "She is my girlfriend.",
+        "ar": "هي صديقتي.",
+        "context": "للتعريف بالعلاقة."
+      },
+      {
+        "id": 6,
+        "en": "John is Amy's boyfriend.",
+        "ar": "جون هو صديق إيمي.",
+        "context": "لوصف العلاقة من الجهة الأخرى."
+      },
+      {
+        "id": 7,
+        "en": "Amy is a student.",
+        "ar": "إيمي طالبة.",
+        "context": "للتعريف بشخص."
+      },
+      {
+        "id": 8,
+        "en": "That is John's house.",
+        "ar": "ذلك بيت جون.",
+        "context": "للدلالة على الملكية."
+      },
+      {
+        "id": 9,
+        "en": "Lisa is Tom's wife.",
+        "ar": "ليزا زوجة توم.",
+        "context": "لوصف علاقة زواج."
+      },
+      {
+        "id": 10,
+        "en": "Amy is John's classmate.",
+        "ar": "إيمي زميلة جون في الصف.",
+        "context": "لوصف علاقة دراسية."
+      }
+    ]
+  }
+}

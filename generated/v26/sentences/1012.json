@@ -1,0 +1,131 @@
+{
+  "schemaVersion": 1,
+  "id": 1012,
+  "sentence": {
+    "en": "Do you know where I can buy this?",
+    "ar": "هل تعرف أين يمكنني شراء هذا؟",
+    "context": "تُستخدم لطلب المساعدة في إيجاد مكان لشراء شيء ما."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Do you know",
+        "ar": "هل تعرف",
+        "context": "هذا الجزء يبدأ السؤال بطريقة مهذبة عن معرفة الشخص.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "السؤال يستخدم Do مع know للسؤال عن معرفة حالية."
+        },
+        "wordMeanings": [
+          {
+            "term": "Do",
+            "description": "تُستخدم لتكوين سؤال في المضارع"
+          },
+          {
+            "term": "you",
+            "description": "أنت أو أنتم حسب المخاطب"
+          },
+          {
+            "term": "know",
+            "description": "تعرف أو لديك معلومة"
+          }
+        ]
+      },
+      {
+        "sentence": "where I can buy this",
+        "ar": "أين يمكنني شراء هذا",
+        "context": "هذا الجزء يوضح المعلومة المطلوبة وهي مكان الشراء.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "can هنا تسأل عن إمكانية الشراء ومكانه، ولا تحمل زمنًا مستقلًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "where",
+            "description": "أين، للسؤال عن المكان"
+          },
+          {
+            "term": "I",
+            "description": "ضمير يشير إلى المتكلم"
+          },
+          {
+            "term": "can",
+            "description": "يمكن، للسؤال عن الإمكانية"
+          },
+          {
+            "term": "buy",
+            "description": "أشتري"
+          },
+          {
+            "term": "this",
+            "description": "هذا، وتشير إلى الشيء المطلوب شراؤه"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Do you know where I can find this?",
+        "ar": "هل تعرف أين يمكنني أن أجد هذا؟",
+        "context": "تُستخدم عند البحث عن شيء."
+      },
+      {
+        "id": 2,
+        "en": "Do you know where I can buy tickets?",
+        "ar": "هل تعرف أين يمكنني شراء التذاكر؟",
+        "context": "تُستخدم عند البحث عن التذاكر."
+      },
+      {
+        "id": 3,
+        "en": "Do you know where the store is?",
+        "ar": "هل تعرف أين المتجر؟",
+        "context": "تُستخدم للسؤال عن موقع متجر."
+      },
+      {
+        "id": 4,
+        "en": "Where can I buy this?",
+        "ar": "أين يمكنني شراء هذا؟",
+        "context": "تُستخدم بصيغة مباشرة."
+      },
+      {
+        "id": 5,
+        "en": "Do you know a place that sells this?",
+        "ar": "هل تعرف مكانًا يبيع هذا؟",
+        "context": "تُستخدم عند البحث عن منتج محدد."
+      },
+      {
+        "id": 6,
+        "en": "Do you know where I can get food?",
+        "ar": "هل تعرف أين يمكنني الحصول على طعام؟",
+        "context": "تُستخدم عند الجوع أو السفر."
+      },
+      {
+        "id": 7,
+        "en": "Do you know where I can buy medicine?",
+        "ar": "هل تعرف أين يمكنني شراء دواء؟",
+        "context": "تُستخدم عند الحاجة إلى صيدلية."
+      },
+      {
+        "id": 8,
+        "en": "Do you know where I can pay?",
+        "ar": "هل تعرف أين يمكنني الدفع؟",
+        "context": "تُستخدم في متجر أو مكتب."
+      },
+      {
+        "id": 9,
+        "en": "Do you know where I can rent a car?",
+        "ar": "هل تعرف أين يمكنني استئجار سيارة؟",
+        "context": "تُستخدم أثناء السفر."
+      },
+      {
+        "id": 10,
+        "en": "Do you know where I can ask?",
+        "ar": "هل تعرف أين يمكنني أن أسأل؟",
+        "context": "تُستخدم عند البحث عن مكتب معلومات."
+      }
+    ]
+  }
+}

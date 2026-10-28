@@ -1,0 +1,137 @@
+{
+  "schemaVersion": 1,
+  "id": 10122,
+  "sentence": {
+    "en": "Do not interrupt while the committee discusses the motion.",
+    "ar": "لا تقاطع أثناء مناقشة اللجنة للمقترح.",
+    "context": "طلب الانتظار عند مناقشة مقترح رسمي في اجتماع، لا وصف حركة مادية.",
+    "sourceWord": "motion",
+    "sourcePos": "n."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Do not interrupt",
+        "ar": "لا تقاطع",
+        "context": "طلب عدم قطع حديث أو إجراء.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "Do not interrupt نهي بلا زمن مستقل."
+        },
+        "wordMeanings": [
+          {
+            "term": "Do",
+            "description": "مساعد النهي"
+          },
+          {
+            "term": "not",
+            "description": "لا"
+          },
+          {
+            "term": "interrupt",
+            "description": "تقاطع"
+          }
+        ]
+      },
+      {
+        "sentence": "while the committee discusses the motion.",
+        "ar": "أثناء مناقشة اللجنة للمقترح.",
+        "context": "تحديد مناقشة مقترح رسمي وقتًا ينطبق عليه الطلب.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "تصف discusses إجراءً في عبارة زمنية تحدد وقت الالتزام بالنهي."
+        },
+        "wordMeanings": [
+          {
+            "term": "while",
+            "description": "أثناء"
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف للجنة"
+          },
+          {
+            "term": "committee",
+            "description": "اللجنة"
+          },
+          {
+            "term": "discusses",
+            "description": "تناقش؛ تبحث أمرًا"
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف للمقترح"
+          },
+          {
+            "term": "motion",
+            "description": "المقترح الرسمي المعروض للقرار"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Do not interrupt while the committee discusses the motion.",
+        "ar": "لا تقاطع أثناء مناقشة اللجنة للمقترح.",
+        "context": "طلب الانتظار عند مناقشة مقترح رسمي في اجتماع، لا وصف حركة مادية."
+      },
+      {
+        "id": 2,
+        "en": "Do not stand up while the bus is in motion.",
+        "ar": "لا تنهض بينما الحافلة متحركة.",
+        "context": "طلب عدم ترك المقعد أثناء حركة مركبة دون تعيين طفل أو سائق."
+      },
+      {
+        "id": 3,
+        "en": "The sensor detects motion in the room.",
+        "ar": "المستشعر يكشف الحركة في الغرفة.",
+        "context": "وصف وظيفة ترصد تغير مواضع أجسام."
+      },
+      {
+        "id": 4,
+        "en": "We have set the plan in motion.",
+        "ar": "نحن قد وضعنا الخطة موضع التنفيذ.",
+        "context": "تعبير مجازي عن بدء عمل فعلي بعد التخطيط."
+      },
+      {
+        "id": 5,
+        "en": "The members are debating a motion to extend the opening hours.",
+        "ar": "الأعضاء يناقشون مقترحًا لتمديد ساعات العمل.",
+        "context": "استعمال رسمي لفكرة معروضة لاتخاذ قرار جماعي."
+      },
+      {
+        "id": 6,
+        "en": "The camera will record the movement in slow motion.",
+        "ar": "الكاميرا ستسجل الحركة بالتصوير البطيء.",
+        "context": "وصف عرض يجعل تغير الموضع أبطأ في المشاهدة."
+      },
+      {
+        "id": 7,
+        "en": "Please describe the circular motion of the wheel.",
+        "ar": "من فضلك صف الحركة الدائرية للعجلة.",
+        "context": "طلب شرح مسار جسم يدور."
+      },
+      {
+        "id": 8,
+        "en": "She made a motion with her hand.",
+        "ar": "هي قامت بإشارة بيدها.",
+        "context": "استعمال لحركة جسدية تحمل دلالة في موقف سابق."
+      },
+      {
+        "id": 9,
+        "en": "The committee passed the motion.",
+        "ar": "اللجنة أقرت المقترح.",
+        "context": "وصف قبول سابق لفكرة رسمية في اجتماع."
+      },
+      {
+        "id": 10,
+        "en": "The dancer's motion was fluid.",
+        "ar": "حركة الراقص كانت انسيابية.",
+        "context": "تقييم سابق لجودة انتقالات جسم في أداء فني."
+      }
+    ]
+  }
+}

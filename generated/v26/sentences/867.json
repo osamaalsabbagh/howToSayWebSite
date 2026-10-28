@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "id": 867,
+  "sentence": {
+    "en": "He broke the window.",
+    "ar": "هو كسر النافذة.",
+    "context": "تُستخدم لوصف حادث أو كسر تسبب به شخص ما."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "He broke the window.",
+        "ar": "هو كسر النافذة.",
+        "context": "جملة تصف فعلا حدث وانتهى في الماضي.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "الفعل broke هو الماضي من break ويستخدم لوصف حدث مكتمل في الماضي."
+        },
+        "wordMeanings": [
+          {
+            "term": "He",
+            "description": "هو؛ رجل أو ولد"
+          },
+          {
+            "term": "broke",
+            "description": "كسر في الماضي"
+          },
+          {
+            "term": "the",
+            "description": "تحدد نافذة معروفة"
+          },
+          {
+            "term": "window",
+            "description": "نافذة"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "She broke the glass.",
+        "ar": "هي كسرت الكأس.",
+        "context": "لوصف حادث كسر."
+      },
+      {
+        "id": 2,
+        "en": "He broke my phone.",
+        "ar": "هو كسر هاتفي.",
+        "context": "للتحدث عن تلف جهاز."
+      },
+      {
+        "id": 3,
+        "en": "The child broke the toy.",
+        "ar": "الطفل كسر اللعبة.",
+        "context": "لوصف فعل طفل."
+      },
+      {
+        "id": 4,
+        "en": "Did he break the window?",
+        "ar": "هل كسر النافذة؟",
+        "context": "للسؤال عن الفاعل."
+      },
+      {
+        "id": 5,
+        "en": "He opened the window.",
+        "ar": "هو فتح النافذة.",
+        "context": "لفعل ماض آخر."
+      },
+      {
+        "id": 6,
+        "en": "They broke the door.",
+        "ar": "هم كسروا الباب.",
+        "context": "لوصف تلف باب."
+      },
+      {
+        "id": 7,
+        "en": "He broke it yesterday.",
+        "ar": "هو كسره أمس.",
+        "context": "لتحديد وقت الكسر."
+      },
+      {
+        "id": 8,
+        "en": "The wind broke the window.",
+        "ar": "الرياح كسرت النافذة.",
+        "context": "لذكر سبب غير بشري."
+      },
+      {
+        "id": 9,
+        "en": "He fixed the window.",
+        "ar": "هو أصلح النافذة.",
+        "context": "لعكس معنى الكسر."
+      },
+      {
+        "id": 10,
+        "en": "I broke the plate.",
+        "ar": "أنا كسرت الطبق.",
+        "context": "للاعتراف بحادث."
+      }
+    ]
+  }
+}

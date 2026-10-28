@@ -1,0 +1,135 @@
+{
+  "schemaVersion": 1,
+  "id": 3,
+  "sentence": {
+    "en": "Great. What are the main features of the apartment?",
+    "ar": "رائع. ما هي المزايا الرئيسية للشقة؟",
+    "context": "يسأل عن أبرز مواصفات الشقة قبل المعاينة."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Great.",
+        "ar": "رائع.",
+        "context": "تُظهر قبولًا أو استحسانًا لما قيل قبلها.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه كلمة رد قصيرة تعبر عن الرضا وليست جملة فعلية لها زمن مستقل."
+        },
+        "wordMeanings": [
+          {
+            "term": "Great",
+            "description": "كلمة تعبر عن الرضا أو الحماس."
+          }
+        ]
+      },
+      {
+        "sentence": "What are the main features of the apartment?",
+        "ar": "ما هي المزايا الرئيسية للشقة؟",
+        "context": "يوضح الفكرة أو المعلومة التابعة لما قبله.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُعمل المضارع البسيط للسؤال عن صفات الشقة الحالية أو الثابتة."
+        },
+        "wordMeanings": [
+          {
+            "term": "What",
+            "description": "أداة سؤال عن الشيء أو المعلومات."
+          },
+          {
+            "term": "are",
+            "description": "صيغة سؤال تربط الجمع بالوصف أو الهوية."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف لمزايا محددة في الشقة."
+          },
+          {
+            "term": "main",
+            "description": "تعني الأساسية أو الأهم."
+          },
+          {
+            "term": "features",
+            "description": "مزايا أو صفات مهمة."
+          },
+          {
+            "term": "of",
+            "description": "يربط المزايا بالشقة."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف للشقة المحددة."
+          },
+          {
+            "term": "apartment",
+            "description": "شقة سكنية."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "What are the main features of the house?",
+        "ar": "ما هي المزايا الرئيسية للمنزل؟",
+        "context": "تسأل عن مواصفات منزل."
+      },
+      {
+        "id": 2,
+        "en": "What are the best features of this room?",
+        "ar": "ما هي أفضل مزايا هذه الغرفة؟",
+        "context": "تسأل عن نقاط القوة في غرفة."
+      },
+      {
+        "id": 3,
+        "en": "Great. What is included in the rent?",
+        "ar": "رائع. ما الذي يشمله الإيجار؟",
+        "context": "تسأل عن تفاصيل مالية."
+      },
+      {
+        "id": 4,
+        "en": "What are the main problems with the apartment?",
+        "ar": "ما هي المشكلات الرئيسية في الشقة؟",
+        "context": "تسأل عن العيوب المحتملة."
+      },
+      {
+        "id": 5,
+        "en": "What are the main features of the kitchen?",
+        "ar": "ما هي المزايا الرئيسية للمطبخ؟",
+        "context": "تسأل عن جزء محدد من الشقة."
+      },
+      {
+        "id": 6,
+        "en": "Great. What can I see first?",
+        "ar": "رائع. ماذا يمكنني أن أرى أولًا؟",
+        "context": "تبدأ المعاينة بسؤال عن الخطوة التالية."
+      },
+      {
+        "id": 7,
+        "en": "What are the main features of this area?",
+        "ar": "ما هي المزايا الرئيسية لهذه المنطقة؟",
+        "context": "تسأل عن الحي المحيط."
+      },
+      {
+        "id": 8,
+        "en": "What are the main costs?",
+        "ar": "ما هي التكاليف الرئيسية؟",
+        "context": "تسأل عن المصاريف الأساسية."
+      },
+      {
+        "id": 9,
+        "en": "Great. What makes this apartment special?",
+        "ar": "رائع. ما الذي يجعل هذه الشقة مميزة؟",
+        "context": "تطلب شرحًا للمزايا."
+      },
+      {
+        "id": 10,
+        "en": "What are the main rules for tenants?",
+        "ar": "ما هي القواعد الرئيسية للمستأجرين؟",
+        "context": "تسأل عن شروط السكن."
+      }
+    ]
+  }
+}

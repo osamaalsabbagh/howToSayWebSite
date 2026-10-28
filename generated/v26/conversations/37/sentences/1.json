@@ -1,0 +1,171 @@
+{
+  "schemaVersion": 1,
+  "id": 1,
+  "sentence": {
+    "en": "I am really busy right now, my love. Can I give you a call later?",
+    "ar": "أنا حقًا مشغول حاليًا يا حبيبتي، هل يمكنني أن أجري لكِ مكالمة لاحقًا؟",
+    "context": "يعتذر لانشغاله في واشنطن ويقترح تأجيل الحديث."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "I am really busy right now",
+        "ar": "أنا مشغول جدًا حاليًا.",
+        "context": "يوضح سبب عدم القدرة على الحديث الآن.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "am يصف حالة حالية مؤقتة وهي الانشغال الآن."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "أنا"
+          },
+          {
+            "term": "am",
+            "description": "صيغة تأتي مع أنا لوصف حالة حالية"
+          },
+          {
+            "term": "really",
+            "description": "حقًا أو جدًا للتأكيد"
+          },
+          {
+            "term": "busy",
+            "description": "مشغول"
+          },
+          {
+            "term": "right",
+            "description": "تمامًا أو مباشرة في عبارة الآن"
+          },
+          {
+            "term": "now",
+            "description": "الآن"
+          }
+        ]
+      },
+      {
+        "sentence": "my love",
+        "ar": "يا حبيبتي.",
+        "context": "نداء عاطفي للمخاطبة.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه عبارة نداء وليست جملة بزمن."
+        },
+        "wordMeanings": [
+          {
+            "term": "my",
+            "description": "خاص بي"
+          },
+          {
+            "term": "love",
+            "description": "حبي أو حبيبتي كنداء عاطفي"
+          }
+        ]
+      },
+      {
+        "sentence": "Can I give you a call later",
+        "ar": "هل يمكنني أن أتصل بك لاحقًا؟",
+        "context": "طلب مهذب لتأجيل المكالمة.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "Can I صيغة طلب إذن أو اقتراح، و later يحدد أن الفعل سيكون لاحقًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "Can",
+            "description": "هل يمكن أو هل أستطيع"
+          },
+          {
+            "term": "I",
+            "description": "أنا"
+          },
+          {
+            "term": "give",
+            "description": "أعطي، وتأتي هنا ضمن تعبير يعني أتصل"
+          },
+          {
+            "term": "you",
+            "description": "لك أو بك"
+          },
+          {
+            "term": "a",
+            "description": "أداة قبل اسم مفرد غير محدد"
+          },
+          {
+            "term": "call",
+            "description": "مكالمة"
+          },
+          {
+            "term": "later",
+            "description": "لاحقًا"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I am busy right now",
+        "ar": "أنا مشغول حاليًا",
+        "context": "يقال عند عدم القدرة على التحدث"
+      },
+      {
+        "id": 2,
+        "en": "Can I call you later",
+        "ar": "هل يمكنني الاتصال بك لاحقًا؟",
+        "context": "يقال لطلب تأجيل الحديث"
+      },
+      {
+        "id": 3,
+        "en": "I am really tired now",
+        "ar": "أنا متعب جدًا الآن",
+        "context": "يقال لوصف حالة حالية مؤكدة"
+      },
+      {
+        "id": 4,
+        "en": "Can I give you an answer tomorrow",
+        "ar": "هل يمكنني أن أعطيك إجابة غدًا؟",
+        "context": "يقال عند الحاجة إلى وقت للتفكير"
+      },
+      {
+        "id": 5,
+        "en": "I am in a meeting right now",
+        "ar": "أنا في اجتماع الآن",
+        "context": "يقال لتفسير عدم الرد"
+      },
+      {
+        "id": 6,
+        "en": "Can I talk to you later",
+        "ar": "هل يمكنني التحدث إليك لاحقًا؟",
+        "context": "يقال عند طلب وقت آخر للكلام"
+      },
+      {
+        "id": 7,
+        "en": "My love, please wait a minute",
+        "ar": "يا حبيبتي، من فضلك انتظري دقيقة",
+        "context": "يقال بلطف لشخص قريب"
+      },
+      {
+        "id": 8,
+        "en": "I am really sorry",
+        "ar": "أنا آسف حقًا",
+        "context": "يقال عند الاعتذار بجدية"
+      },
+      {
+        "id": 9,
+        "en": "Can I send you a message later",
+        "ar": "هل يمكنني إرسال رسالة لك لاحقًا؟",
+        "context": "يقال عند تأجيل التواصل"
+      },
+      {
+        "id": 10,
+        "en": "I am not free right now",
+        "ar": "أنا لست متفرغًا الآن",
+        "context": "يقال عند الانشغال في اللحظة الحالية"
+      }
+    ]
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "id": 10,
+  "sentence": {
+    "en": "Days later, the lion was caught in a hunter’s net.",
+    "ar": "بعد أيام، عُلِق الأسد في شبكة صيّاد.",
+    "context": "حدث وقع لاحقًا وغير مرتبط مباشرة بالمشهد الأول."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Days later",
+        "ar": "بعد أيام",
+        "context": "ينقل القصة إلى وقت لاحق.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "عبارة زمنية بلا فعل مستقل."
+        },
+        "wordMeanings": [
+          {
+            "term": "Days",
+            "description": "أيام"
+          },
+          {
+            "term": "later",
+            "description": "لاحقًا أو بعد ذلك"
+          }
+        ]
+      },
+      {
+        "sentence": "the lion was caught in a hunter’s net.",
+        "ar": "عُلِق الأسد في شبكة صياد",
+        "context": "يصف وقوع الأسد في مشكلة جديدة.",
+        "grammar": {
+          "tense": "الماضي البسيط المبني للمجهول",
+          "tenseEn": "Past Simple",
+          "reason": "was caught يستخدم لوصف أن الأسد وقع عليه الفعل في الماضي، وليس أنه قام به."
+        },
+        "wordMeanings": [
+          {
+            "term": "the",
+            "description": "أداة تعريف للأسد المعروف"
+          },
+          {
+            "term": "lion",
+            "description": "الأسد"
+          },
+          {
+            "term": "was",
+            "description": "كان أو تم في الماضي"
+          },
+          {
+            "term": "caught",
+            "description": "أُمسك أو عُلِق"
+          },
+          {
+            "term": "in",
+            "description": "في"
+          },
+          {
+            "term": "a",
+            "description": "أداة لشيء غير محدد"
+          },
+          {
+            "term": "hunter",
+            "description": "صياد"
+          },
+          {
+            "term": "s",
+            "description": "علامة ملكية تعني أن الشبكة تخص الصياد"
+          },
+          {
+            "term": "net",
+            "description": "شبكة"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "He begged for another chance.",
+        "ar": "توسل من أجل فرصة أخرى.",
+        "context": "يقال عندما يطلب شخص الرحمة أو السماح."
+      },
+      {
+        "id": 2,
+        "en": "Please let me explain the problem.",
+        "ar": "من فضلك دعني أشرح المشكلة.",
+        "context": "طلب مهذب قبل التوضيح."
+      },
+      {
+        "id": 3,
+        "en": "Maybe I can help you tomorrow.",
+        "ar": "ربما أستطيع مساعدتك غدًا.",
+        "context": "وعد محتمل بالمساعدة في المستقبل."
+      },
+      {
+        "id": 4,
+        "en": "She laughed at the strange idea.",
+        "ar": "ضحكت من الفكرة الغريبة.",
+        "context": "وصف عدم أخذ فكرة بجدية."
+      },
+      {
+        "id": 5,
+        "en": "He decided to leave early.",
+        "ar": "قرر أن يغادر مبكرًا.",
+        "context": "وصف قرار بعد تفكير."
+      },
+      {
+        "id": 6,
+        "en": "The door became harder to open.",
+        "ar": "أصبح الباب أصعب في الفتح.",
+        "context": "وصف تغير الحالة إلى الأصعب."
+      },
+      {
+        "id": 7,
+        "en": "They heard cries for help.",
+        "ar": "سمعوا صرخات طلبًا للمساعدة.",
+        "context": "وصف سماع استغاثة."
+      },
+      {
+        "id": 8,
+        "en": "She hurried to answer the call.",
+        "ar": "أسرعت لتجيب على المكالمة.",
+        "context": "وصف فعل سريع بلا تأخير."
+      },
+      {
+        "id": 9,
+        "en": "He kept working until the job was done.",
+        "ar": "واصل العمل حتى انتهت المهمة.",
+        "context": "وصف الاستمرار حتى تحقق النتيجة."
+      },
+      {
+        "id": 10,
+        "en": "Even a small act can change everything.",
+        "ar": "حتى فعل صغير يمكن أن يغير كل شيء.",
+        "context": "يقال لاستخلاص عبرة من موقف."
+      }
+    ]
+  }
+}

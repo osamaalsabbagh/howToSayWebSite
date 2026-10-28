@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "id": 59,
+  "sentence": {
+    "en": "I am not sure.",
+    "ar": "لست متأكدًا.",
+    "context": "عبّر عن عدم التأكد."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "I am not sure.",
+        "ar": "لست متأكدًا.",
+        "context": "يعرض به المتحدث الفكرة الأساسية التي يريد قولها في هذا الموقف.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "تستخدم الجملة am not مع صفة لنفي حالة المتكلم الحالية، وهي التأكد أو الثقة بالمعلومة."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير المتكلم ويشير إلى الشخص الذي يتحدث."
+          },
+          {
+            "term": "am",
+            "description": "صيغة تأتي مع ضمير المتكلم المفرد وتربط الشخص بحالته."
+          },
+          {
+            "term": "not",
+            "description": "كلمة نفي تجعل المعنى لست."
+          },
+          {
+            "term": "sure",
+            "description": "متأكد أو واثق من المعلومة."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I am not sure about the address.",
+        "ar": "لست متأكدًا من العنوان.",
+        "context": "تقال عند الشك في صحة عنوان."
+      },
+      {
+        "id": 2,
+        "en": "She is not sure yet.",
+        "ar": "هي ليست متأكدة بعد.",
+        "context": "تقال عندما لم تتخذ شخص قرارها."
+      },
+      {
+        "id": 3,
+        "en": "I am sure now.",
+        "ar": "أنا متأكد الآن.",
+        "context": "تقال بعد زوال الشك."
+      },
+      {
+        "id": 4,
+        "en": "He is not sure about the time.",
+        "ar": "هو ليس متأكدًا من الوقت.",
+        "context": "تقال عند عدم معرفة الموعد بدقة."
+      },
+      {
+        "id": 5,
+        "en": "We are not sure what happened.",
+        "ar": "لسنا متأكدين مما حدث.",
+        "context": "تقال عند عدم وضوح تفاصيل موقف."
+      },
+      {
+        "id": 6,
+        "en": "I am not sure this is correct.",
+        "ar": "لست متأكدًا أن هذا صحيح.",
+        "context": "تقال عند الشك في صحة شيء."
+      },
+      {
+        "id": 7,
+        "en": "They are sure about the plan.",
+        "ar": "هم متأكدون من الخطة.",
+        "context": "تقال عند وجود ثقة في خطة."
+      },
+      {
+        "id": 8,
+        "en": "My brother is not sure about his answer.",
+        "ar": "أخي ليس متأكدًا من إجابته.",
+        "context": "تقال عند تردد شخص في إجابة."
+      },
+      {
+        "id": 9,
+        "en": "I am not sure where to go.",
+        "ar": "لست متأكدًا إلى أين أذهب.",
+        "context": "تقال عند الحيرة في اختيار المكان."
+      },
+      {
+        "id": 10,
+        "en": "The teacher is sure about the result.",
+        "ar": "المعلم متأكد من النتيجة.",
+        "context": "تقال عند ثقة شخص بنتيجة معينة."
+      }
+    ]
+  }
+}

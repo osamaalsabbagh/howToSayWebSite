@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "id": 29,
+  "sentence": {
+    "en": "I do not understand.",
+    "ar": "لا أفهم.",
+    "context": "قل أنك لا تفهم."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "I do not understand.",
+        "ar": "لا أفهم.",
+        "context": "يعرض به المتحدث الفكرة الأساسية التي يريد قولها في هذا الموقف.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "الجملة تنفي فهم المتكلم في الوقت الحالي باستخدام do not قبل الفعل."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير المتكلم المفرد."
+          },
+          {
+            "term": "do",
+            "description": "تساعد هنا في تكوين النفي مع الفعل."
+          },
+          {
+            "term": "not",
+            "description": "أداة نفي."
+          },
+          {
+            "term": "understand",
+            "description": "أفهم أو أدرك المعنى."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I do not understand this word.",
+        "ar": "لا أفهم هذه الكلمة.",
+        "context": "تقال عند صعوبة فهم كلمة."
+      },
+      {
+        "id": 2,
+        "en": "I do not understand the question.",
+        "ar": "لا أفهم السؤال.",
+        "context": "تقال عند عدم فهم المطلوب."
+      },
+      {
+        "id": 3,
+        "en": "I do not understand you.",
+        "ar": "لا أفهمك.",
+        "context": "تقال عندما لا يكون كلام الشخص واضحًا."
+      },
+      {
+        "id": 4,
+        "en": "She does not understand the lesson.",
+        "ar": "هي لا تفهم الدرس.",
+        "context": "تصف عدم فهم شخص آخر."
+      },
+      {
+        "id": 5,
+        "en": "We do not understand the rule.",
+        "ar": "لا نفهم القاعدة.",
+        "context": "تقال عند عدم فهم قاعدة."
+      },
+      {
+        "id": 6,
+        "en": "I do not understand why.",
+        "ar": "لا أفهم لماذا.",
+        "context": "تقال عند عدم فهم السبب."
+      },
+      {
+        "id": 7,
+        "en": "He does not understand English yet.",
+        "ar": "هو لا يفهم الإنجليزية بعد.",
+        "context": "تصف مرحلة تعلم مبكرة."
+      },
+      {
+        "id": 8,
+        "en": "I do not understand the answer.",
+        "ar": "لا أفهم الإجابة.",
+        "context": "تقال عند الحاجة إلى شرح للإجابة."
+      },
+      {
+        "id": 9,
+        "en": "They do not understand the problem.",
+        "ar": "هم لا يفهمون المشكلة.",
+        "context": "تصف عدم إدراك مجموعة للمشكلة."
+      },
+      {
+        "id": 10,
+        "en": "I do not understand what you mean.",
+        "ar": "لا أفهم ما تقصد.",
+        "context": "تقال عند عدم فهم قصد المتحدث."
+      }
+    ]
+  }
+}

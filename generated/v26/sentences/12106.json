@@ -1,0 +1,113 @@
+{
+  "schemaVersion": 1,
+  "id": 12106,
+  "sentence": {
+    "en": "The weather dictates our travel plans.",
+    "ar": "الطقس يحدد خطط سفرنا.",
+    "context": "أنت تناقش أثر الطقس في خطط رحلة. أنت تشرح عادتك أو وضعك الحالي فيما يخص تحديد الخطط.",
+    "sourceWord": "dictate",
+    "sourcePos": "v."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "The weather dictates our travel plans.",
+        "ar": "الطقس يحدد خطط سفرنا.",
+        "context": "أنت تناقش أثر الطقس في خطط رحلة. أنت تشرح عادتك أو وضعك الحالي فيما يخص تحديد الخطط.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "صف حالة أو عادة قائمة بالمضارع البسيط. صيغة المضارع تصف عادة أو حقيقة قائمة. يحدد ما يمكن فعله"
+        },
+        "wordMeanings": [
+          {
+            "term": "The",
+            "description": "أداة تعريف"
+          },
+          {
+            "term": "weather",
+            "description": "الطقس"
+          },
+          {
+            "term": "dictates",
+            "description": "يحدد؛ يحدد ما يمكن فعله صيغة المضارع للفعل."
+          },
+          {
+            "term": "our",
+            "description": "ملكية الجماعة"
+          },
+          {
+            "term": "travel",
+            "description": "السفر"
+          },
+          {
+            "term": "plans",
+            "description": "خطط"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "The weather dictates our travel plans.",
+        "ar": "الطقس يحدد خطط سفرنا.",
+        "context": "أنت تناقش أثر الطقس في خطط رحلة. أنت تشرح عادتك أو وضعك الحالي فيما يخص تحديد الخطط."
+      },
+      {
+        "id": 2,
+        "en": "The weather does not dictate our travel plans.",
+        "ar": "الطقس لا يحدد خطط سفرنا.",
+        "context": "أنت تناقش أثر الطقس في خطط رحلة. أنت توضح أن هذا ليس من عادتك أو وصفًا لوضعك الحالي."
+      },
+      {
+        "id": 3,
+        "en": "The weather dictated our travel plans.",
+        "ar": "الطقس حدد خطط سفرنا.",
+        "context": "أنت تناقش أثر الطقس في خطط رحلة. أنت تروي ما حصل بشأن تحديد الخطط أمس."
+      },
+      {
+        "id": 4,
+        "en": "The weather did not dictate our travel plans.",
+        "ar": "الطقس لم يحدد خطط سفرنا.",
+        "context": "أنت تناقش أثر الطقس في خطط رحلة. أنت تصحح رواية عن أحداث أمس وتوضح أن هذا الأمر لم يحصل."
+      },
+      {
+        "id": 5,
+        "en": "The weather has dictated our travel plans.",
+        "ar": "الطقس قد حدد خطط سفرنا.",
+        "context": "أنت تناقش أثر الطقس في خطط رحلة. أنت تناقش ما أنجزته أو خبرتك السابقة بشأن تحديد الخطط، لأن ذلك مهم لموقفك الآن."
+      },
+      {
+        "id": 6,
+        "en": "The weather has not dictated our travel plans.",
+        "ar": "الطقس لم يحدد خطط سفرنا.",
+        "context": "أنت تناقش أثر الطقس في خطط رحلة. أنت تناقش ما تم حتى الآن وتوضح أن هذا الأمر لم يتم بعد."
+      },
+      {
+        "id": 7,
+        "en": "The weather will dictate our travel plans.",
+        "ar": "الطقس سيحدد خطط سفرنا.",
+        "context": "أنت تناقش أثر الطقس في خطط رحلة. أنت تتحدث عن خططك أو توقعاتك بشأن تحديد الخطط غدًا."
+      },
+      {
+        "id": 8,
+        "en": "The weather will not dictate our travel plans.",
+        "ar": "الطقس لن يحدد خطط سفرنا.",
+        "context": "أنت تناقش أثر الطقس في خطط رحلة. أنت تناقش خطط الغد وتوضح أن هذا الأمر لن يحدث."
+      },
+      {
+        "id": 9,
+        "en": "Does the weather dictate our travel plans?",
+        "ar": "هل الطقس يحدد خطط سفرنا؟",
+        "context": "أنت تناقش أثر الطقس في خطط رحلة. أنت تسأل لتتأكد من عادة أو وضع قائم."
+      },
+      {
+        "id": 10,
+        "en": "Did the weather dictate our travel plans?",
+        "ar": "هل الطقس حدد خطط سفرنا؟",
+        "context": "أنت تناقش أثر الطقس في خطط رحلة. أنت تسأل لتعرف إن كان هذا الأمر قد حصل أمس."
+      }
+    ]
+  }
+}

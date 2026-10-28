@@ -1,0 +1,131 @@
+{
+  "schemaVersion": 1,
+  "id": 5,
+  "sentence": {
+    "en": "Yes, it is. I cleaned it this morning.",
+    "ar": "نعم، هو كذلك. أنا نظفته هذا الصباح.",
+    "context": "تؤكد نظافة الحمام باستخدام فعل الكينونة."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Yes, it is.",
+        "ar": "نعم، هو كذلك.",
+        "context": "إجابة قصيرة تؤكد أن الحمام نظيف.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استخدم is في الجواب لأنه يطابق سؤال Is it clean ويؤكد الحالة الحالية."
+        },
+        "wordMeanings": [
+          {
+            "term": "Yes",
+            "description": "نعم"
+          },
+          {
+            "term": "it",
+            "description": "هو أو هي لشيء غير عاقل مذكور سابقا"
+          },
+          {
+            "term": "is",
+            "description": "يكون أو هو، وتؤكد الصفة المذكورة في السؤال"
+          }
+        ]
+      },
+      {
+        "sentence": "I cleaned it this morning.",
+        "ar": "نظفته هذا الصباح.",
+        "context": "يقدم سبب التأكيد بأنه قام بالتنظيف في وقت سابق اليوم.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "استخدم cleaned لأن فعل التنظيف اكتمل في وقت محدد في الماضي وهو هذا الصباح."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "أنا"
+          },
+          {
+            "term": "cleaned",
+            "description": "نظفت"
+          },
+          {
+            "term": "it",
+            "description": "إياه، الشيء أو المكان المقصود"
+          },
+          {
+            "term": "this",
+            "description": "هذا"
+          },
+          {
+            "term": "morning",
+            "description": "الصباح"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Yes, it is. I checked it today.",
+        "ar": "نعم، هو كذلك. تحققت منه اليوم.",
+        "context": "تأكيد حالة شيء مع ذكر سبب."
+      },
+      {
+        "id": 2,
+        "en": "I cleaned the room this morning.",
+        "ar": "نظفت الغرفة هذا الصباح.",
+        "context": "ذكر فعل تنظيف مكتمل في وقت محدد."
+      },
+      {
+        "id": 3,
+        "en": "Yes, it is clean now.",
+        "ar": "نعم، هو نظيف الآن.",
+        "context": "تأكيد مباشر لحالة النظافة."
+      },
+      {
+        "id": 4,
+        "en": "I washed it this morning.",
+        "ar": "غسلته هذا الصباح.",
+        "context": "ذكر فعل مكتمل في الصباح."
+      },
+      {
+        "id": 5,
+        "en": "Yes, it is ready.",
+        "ar": "نعم، هو جاهز.",
+        "context": "إجابة قصيرة عن جاهزية شيء."
+      },
+      {
+        "id": 6,
+        "en": "I opened it this morning.",
+        "ar": "فتحته هذا الصباح.",
+        "context": "ذكر فعل حدث في وقت ماض محدد."
+      },
+      {
+        "id": 7,
+        "en": "Yes, it is safe.",
+        "ar": "نعم، هو آمن.",
+        "context": "تأكيد سلامة شيء."
+      },
+      {
+        "id": 8,
+        "en": "I fixed it this morning.",
+        "ar": "أصلحته هذا الصباح.",
+        "context": "ذكر إصلاح اكتمل قبل الآن."
+      },
+      {
+        "id": 9,
+        "en": "Yes, it is empty.",
+        "ar": "نعم، هو فارغ.",
+        "context": "تأكيد توفر مكان أو وعاء."
+      },
+      {
+        "id": 10,
+        "en": "I called him this morning.",
+        "ar": "اتصلت به هذا الصباح.",
+        "context": "فعل ماض مرتبط بوقت محدد."
+      }
+    ]
+  }
+}

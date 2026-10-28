@@ -1,0 +1,159 @@
+{
+  "schemaVersion": 1,
+  "id": 5,
+  "sentence": {
+    "en": "I was born in a busy city, and I cannot stand quiet places for long.",
+    "ar": "لقد وُلدتُ في مدينة مزدحمة، ولا أستطيع تحمل الأماكن الهادئة طويلًا.",
+    "context": "توضح أن طبيعتها نشيطة لأنها نشأت في مدينة مزدحمة."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "I was born in a busy city",
+        "ar": "وُلدت في مدينة مزدحمة",
+        "context": "يمهد هذا الجزء لشرح خلفية المتكلمة ونوع البيئة التي اعتادت عليها.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "استُخدم الماضي البسيط المبني للمجهول للحديث عن حدث الولادة في وقت منتهٍ في الماضي."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير للمتكلم المفرد ويعني أنا"
+          },
+          {
+            "term": "was",
+            "description": "صيغة ماضية تُستخدم مع أنا أو المفرد في هذا التركيب"
+          },
+          {
+            "term": "born",
+            "description": "مولود أو وُلد"
+          },
+          {
+            "term": "in",
+            "description": "في داخل مكان أو مدينة"
+          },
+          {
+            "term": "a",
+            "description": "أداة تدل على شيء واحد غير محدد"
+          },
+          {
+            "term": "busy",
+            "description": "مزدحم أو كثير الحركة"
+          },
+          {
+            "term": "city",
+            "description": "مدينة"
+          }
+        ]
+      },
+      {
+        "sentence": "and I cannot stand quiet places for long.",
+        "ar": "ولا أستطيع تحمل الأماكن الهادئة طويلًا.",
+        "context": "يوضح هذا الجزء نتيجة طبيعتها الحالية تجاه الأماكن الهادئة.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "الجزء يستخدم تركيب قدرة منفية بكلمة cannot للتعبير عن عدم التحمل، وليس زمنًا مستقلًا واضحًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "and",
+            "description": "حرف عطف يربط بين فكرتين"
+          },
+          {
+            "term": "I",
+            "description": "ضمير للمتكلم المفرد ويعني أنا"
+          },
+          {
+            "term": "cannot",
+            "description": "لا أستطيع أو لا أقدر"
+          },
+          {
+            "term": "stand",
+            "description": "أتحمل في هذا السياق"
+          },
+          {
+            "term": "quiet",
+            "description": "هادئ أو قليل الضجيج"
+          },
+          {
+            "term": "places",
+            "description": "أماكن"
+          },
+          {
+            "term": "for",
+            "description": "لمدة"
+          },
+          {
+            "term": "long",
+            "description": "وقت طويل"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I was born in a small town.",
+        "ar": "وُلدت في بلدة صغيرة.",
+        "context": "تُقال عند ذكر مكان الولادة."
+      },
+      {
+        "id": 2,
+        "en": "She was born in a quiet village.",
+        "ar": "وُلدت في قرية هادئة.",
+        "context": "تُستخدم لوصف خلفية شخص."
+      },
+      {
+        "id": 3,
+        "en": "I cannot stand loud music.",
+        "ar": "لا أستطيع تحمل الموسيقى الصاخبة.",
+        "context": "تُقال عند التعبير عن شيء مزعج."
+      },
+      {
+        "id": 4,
+        "en": "He cannot stand cold weather.",
+        "ar": "لا يستطيع تحمل الطقس البارد.",
+        "context": "تُستخدم لوصف عدم تحمل شخص لظرف معين."
+      },
+      {
+        "id": 5,
+        "en": "We were born in the same city.",
+        "ar": "وُلدنا في المدينة نفسها.",
+        "context": "تُقال عند الحديث عن أصل مشترك."
+      },
+      {
+        "id": 6,
+        "en": "They were born in Canada.",
+        "ar": "وُلدوا في كندا.",
+        "context": "تُستخدم لذكر بلد الولادة."
+      },
+      {
+        "id": 7,
+        "en": "I cannot stay here for long.",
+        "ar": "لا أستطيع البقاء هنا طويلًا.",
+        "context": "تُقال عند عدم القدرة على البقاء في مكان."
+      },
+      {
+        "id": 8,
+        "en": "She cannot stand boring meetings.",
+        "ar": "لا تستطيع تحمل الاجتماعات المملة.",
+        "context": "تُستخدم عند وصف نفور من موقف متكرر."
+      },
+      {
+        "id": 9,
+        "en": "He was born in a busy neighborhood.",
+        "ar": "وُلد في حي مزدحم.",
+        "context": "تُقال لوصف بيئة نشأة شخص."
+      },
+      {
+        "id": 10,
+        "en": "I cannot stand this noise.",
+        "ar": "لا أستطيع تحمل هذا الضجيج.",
+        "context": "تُستخدم عند الانزعاج من صوت قوي."
+      }
+    ]
+  }
+}

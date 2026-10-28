@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": 516,
+  "sentence": {
+    "en": "Did you take your medicine?",
+    "ar": "هل أخذت دواءك؟",
+    "context": "الاستفسار عمّا إذا كان الشخص قد تناول دواءه فعليًا، كأن يكون شربه أو ابتلعه."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Did you take your medicine?",
+        "ar": "هل أخذت دواءك؟",
+        "context": "سؤال للتأكد من أن الشخص تناول دواءه.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "Did يستخدم للسؤال عن فعل كان يجب أن يحدث قبل الآن."
+        },
+        "wordMeanings": [
+          {
+            "term": "Did",
+            "description": "تساعد في تكوين سؤال عن الماضي."
+          },
+          {
+            "term": "you",
+            "description": "تشير إلى المخاطب."
+          },
+          {
+            "term": "take",
+            "description": "تعني تأخذ أو تتناول في سياق الدواء."
+          },
+          {
+            "term": "your",
+            "description": "تعني الخاص بك."
+          },
+          {
+            "term": "medicine",
+            "description": "دواء أو علاج."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Did you take your pills?",
+        "ar": "هل أخذت حبوبك؟",
+        "context": "سؤال عن تناول الحبوب."
+      },
+      {
+        "id": 2,
+        "en": "I took my medicine.",
+        "ar": "أخذت دوائي.",
+        "context": "تأكيد تناول الدواء."
+      },
+      {
+        "id": 3,
+        "en": "She did not take her medicine.",
+        "ar": "هي لم تأخذ دواءها.",
+        "context": "نفي تناول الدواء."
+      },
+      {
+        "id": 4,
+        "en": "Take your medicine after food.",
+        "ar": "خذ دواءك بعد الطعام.",
+        "context": "تعليمات لتناول الدواء."
+      },
+      {
+        "id": 5,
+        "en": "Did he take the medicine today?",
+        "ar": "هل أخذ الدواء اليوم؟",
+        "context": "سؤال عن شخص آخر."
+      },
+      {
+        "id": 6,
+        "en": "Please take your medicine now.",
+        "ar": "من فضلك خذ دواءك الآن.",
+        "context": "طلب تناول الدواء."
+      },
+      {
+        "id": 7,
+        "en": "I need to take my medicine.",
+        "ar": "أحتاج إلى أخذ دوائي.",
+        "context": "التعبير عن الحاجة للدواء."
+      },
+      {
+        "id": 8,
+        "en": "Did you drink the medicine?",
+        "ar": "هل شربت الدواء؟",
+        "context": "سؤال عن دواء سائل."
+      },
+      {
+        "id": 9,
+        "en": "The medicine is on the table.",
+        "ar": "الدواء على الطاولة.",
+        "context": "تحديد مكان الدواء."
+      },
+      {
+        "id": 10,
+        "en": "He takes medicine every morning.",
+        "ar": "هو يأخذ الدواء كل صباح.",
+        "context": "ذكر عادة علاجية."
+      }
+    ]
+  }
+}

@@ -1,0 +1,149 @@
+{
+  "schemaVersion": 1,
+  "id": 3222,
+  "sentence": {
+    "en": "I have a meeting now, but I will talk to you after.",
+    "ar": "لدي اجتماع الآن، لكن سأتحدث معك بعد.",
+    "context": "شخص مشغول باجتماع ويعد بالحديث عند انتهائه، دون إضافة ذلك أو لاحقًا.",
+    "sourceWord": "after",
+    "sourcePos": "adv."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "I have a meeting now,",
+        "ar": "لدي اجتماع الآن،",
+        "context": "يوضح الجزء الأول أن المتكلم مشغول باجتماع في هذه اللحظة.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُخدم have لوصف ارتباط قائم لدى المتكلم في الوقت الحالي."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "أنا؛ المتكلم."
+          },
+          {
+            "term": "have",
+            "description": "لدي؛ يدل هنا على أن عند المتكلم ارتباطًا أو موعدًا."
+          },
+          {
+            "term": "a",
+            "description": "أداة تنكير قبل اسم مفرد."
+          },
+          {
+            "term": "meeting",
+            "description": "اجتماع؛ لقاء لمناقشة موضوع أو عمل."
+          },
+          {
+            "term": "now",
+            "description": "الآن؛ في هذه اللحظة."
+          }
+        ]
+      },
+      {
+        "sentence": "but I will talk to you after.",
+        "ar": "لكن سأتحدث معك بعد.",
+        "context": "يعد الجزء الثاني بالحديث مع المخاطب عند انتهاء الاجتماع.",
+        "grammar": {
+          "tense": "المستقبل البسيط",
+          "tenseEn": "Future Simple",
+          "reason": "استُخدم will talk لوعد بحديث سيحدث بعد انتهاء الاجتماع."
+        },
+        "wordMeanings": [
+          {
+            "term": "but",
+            "description": "لكن؛ تربط بين الانشغال الآن والوعد بالحديث لاحقًا."
+          },
+          {
+            "term": "I",
+            "description": "أنا؛ المتكلم."
+          },
+          {
+            "term": "will",
+            "description": "سوف أو سـ؛ فعل مساعد للتعبير عن المستقبل."
+          },
+          {
+            "term": "talk",
+            "description": "أتحدث؛ أتكلم مع شخص."
+          },
+          {
+            "term": "to",
+            "description": "مع؛ تأتي بعد talk لذكر الشخص الذي نكلمه."
+          },
+          {
+            "term": "you",
+            "description": "أنت؛ الشخص المخاطب."
+          },
+          {
+            "term": "after",
+            "description": "بعد؛ تأتي هنا وحدها في آخر الجملة، والمقصود بعد الاجتماع المذكور."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I have a meeting now, but I will talk to you after.",
+        "ar": "لدي اجتماع الآن، لكن سأتحدث معك بعد.",
+        "context": "تأجيل الحديث إلى ما بعد اجتماع جارٍ."
+      },
+      {
+        "id": 2,
+        "en": "Let us eat first and talk after.",
+        "ar": "دعنا نأكل أولًا ونتحدث بعد.",
+        "context": "اقتراح تأجيل الحديث إلى ما بعد الطعام."
+      },
+      {
+        "id": 3,
+        "en": "She went to the gym and had lunch after.",
+        "ar": "هي ذهبت إلى النادي الرياضي وتناولت الغداء بعد.",
+        "context": "ترتيب نشاطين حدثا في يوم واحد."
+      },
+      {
+        "id": 4,
+        "en": "We watched the film and talked about it after.",
+        "ar": "نحن شاهدنا الفيلم وتحدثنا عنه بعد.",
+        "context": "نقاش جرى عقب مشاهدة فيلم."
+      },
+      {
+        "id": 5,
+        "en": "Finish your homework, and you can play after.",
+        "ar": "أنهِ واجبك، ويمكنك أن تلعب بعد.",
+        "context": "شرط يضعه أحد الوالدين قبل اللعب."
+      },
+      {
+        "id": 6,
+        "en": "He left the party early and called me after.",
+        "ar": "هو غادر الحفلة مبكرًا واتصل بي بعد.",
+        "context": "اتصال جاء عقب المغادرة."
+      },
+      {
+        "id": 7,
+        "en": "The rain stopped, and the sun came out soon after.",
+        "ar": "المطر توقف، والشمس ظهرت بعد قليل.",
+        "context": "حدث تلا حدثًا آخر بفترة قصيرة."
+      },
+      {
+        "id": 8,
+        "en": "I will clean the kitchen, and we can relax after.",
+        "ar": "أنا سأنظف المطبخ، ونحن يمكننا أن نرتاح بعد.",
+        "context": "تنظيم عمل منزلي قبل وقت الراحة."
+      },
+      {
+        "id": 9,
+        "en": "They signed the contract and celebrated after.",
+        "ar": "هم وقّعوا العقد واحتفلوا بعد.",
+        "context": "احتفال عقب إتمام اتفاق عمل."
+      },
+      {
+        "id": 10,
+        "en": "Can we discuss it after?",
+        "ar": "هل يمكننا أن نناقشه بعد؟",
+        "context": "طلب تأجيل نقاش إلى ما بعد أمر معروف للطرفين."
+      }
+    ]
+  }
+}

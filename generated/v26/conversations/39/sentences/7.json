@@ -1,0 +1,139 @@
+{
+  "schemaVersion": 1,
+  "id": 7,
+  "sentence": {
+    "en": "Here they are! What do you think of these cats?",
+    "ar": "ها هم! ما رأيك بهذه القطط؟",
+    "context": "يسأل البائع المشتري بعد جلب القطط عن انطباعه المباشر عندما رآها."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Here they are",
+        "ar": "ها هي.",
+        "context": "يقال عند إحضار الأشياء المطلوبة وعرضها.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "are يصف وجود القطط أمام الزبون الآن."
+        },
+        "wordMeanings": [
+          {
+            "term": "Here",
+            "description": "هنا أو ها"
+          },
+          {
+            "term": "they",
+            "description": "هم أو هي للجمع"
+          },
+          {
+            "term": "are",
+            "description": "موجودة أو تكون للجمع"
+          }
+        ]
+      },
+      {
+        "sentence": "What do you think of these cats",
+        "ar": "ما رأيك بهذه القطط؟",
+        "context": "يسأل عن انطباع الزبون بعد رؤيتها.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "do you think يستخدم للسؤال عن رأي حالي."
+        },
+        "wordMeanings": [
+          {
+            "term": "What",
+            "description": "ما أو ماذا"
+          },
+          {
+            "term": "do",
+            "description": "كلمة مساعدة للسؤال"
+          },
+          {
+            "term": "you",
+            "description": "أنت"
+          },
+          {
+            "term": "think",
+            "description": "تظن أو ترى"
+          },
+          {
+            "term": "of",
+            "description": "عن أو في تركيب ما رأيك بـ"
+          },
+          {
+            "term": "these",
+            "description": "هذه للجمع القريب"
+          },
+          {
+            "term": "cats",
+            "description": "قطط"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Here they are, the small cats",
+        "ar": "ها هي القطط الصغيرة",
+        "context": "يقال عند عرض القطط"
+      },
+      {
+        "id": 2,
+        "en": "What do you think of this one",
+        "ar": "ما رأيك بهذه الواحدة؟",
+        "context": "يقال عند طلب رأي في خيار"
+      },
+      {
+        "id": 3,
+        "en": "What do you think of these shoes",
+        "ar": "ما رأيك بهذه الأحذية؟",
+        "context": "يقال في متجر عند الاختيار"
+      },
+      {
+        "id": 4,
+        "en": "Here are the papers",
+        "ar": "ها هي الأوراق",
+        "context": "يقال عند تسليم شيء"
+      },
+      {
+        "id": 5,
+        "en": "I think these cats are cute",
+        "ar": "أعتقد أن هذه القطط لطيفة",
+        "context": "يقال لإعطاء رأي"
+      },
+      {
+        "id": 6,
+        "en": "What do you think of the color",
+        "ar": "ما رأيك في اللون؟",
+        "context": "يقال عند تقييم شكل شيء"
+      },
+      {
+        "id": 7,
+        "en": "Here they are for you",
+        "ar": "ها هي لك",
+        "context": "يقال بعد إحضار طلب"
+      },
+      {
+        "id": 8,
+        "en": "These cats look friendly",
+        "ar": "هذه القطط تبدو ودودة",
+        "context": "يقال عند وصف انطباع"
+      },
+      {
+        "id": 9,
+        "en": "What do you think of our store",
+        "ar": "ما رأيك بمتجرنا؟",
+        "context": "يقال لطلب رأي زبون"
+      },
+      {
+        "id": 10,
+        "en": "Here is the cat food",
+        "ar": "ها هو طعام القطط",
+        "context": "يقال عند تقديم غرض"
+      }
+    ]
+  }
+}

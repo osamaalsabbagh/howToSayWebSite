@@ -1,0 +1,113 @@
+{
+  "schemaVersion": 1,
+  "id": 4102,
+  "sentence": {
+    "en": "I will mail the form tomorrow.",
+    "ar": "أنا سأرسل النموذج بالبريد غدًا.",
+    "context": "وصف نية إرسال نموذج ورقي عبر خدمة البريد في اليوم التالي.",
+    "sourceWord": "mail",
+    "sourcePos": "v."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "I will mail the form tomorrow.",
+        "ar": "أنا سأرسل النموذج بالبريد غدًا.",
+        "context": "وصف نية إرسال نموذج ورقي عبر خدمة البريد في اليوم التالي.",
+        "grammar": {
+          "tense": "المستقبل البسيط",
+          "tenseEn": "Future Simple",
+          "reason": "استخدم will قبل الفعل الأساسي للتحدث عن فعل سيحدث في المستقبل."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير يشير إلى المتكلم."
+          },
+          {
+            "term": "will",
+            "description": "فعل مساعد يدل على المستقبل."
+          },
+          {
+            "term": "mail",
+            "description": "يرسل بالبريد؛ يضع شيئًا في نظام البريد ليصل إلى شخص أو مكان."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف تشير إلى نموذج محدد."
+          },
+          {
+            "term": "form",
+            "description": "نموذج؛ ورقة أو مستند يحتوي على معلومات مطلوبة."
+          },
+          {
+            "term": "tomorrow",
+            "description": "غدًا؛ اليوم الذي يلي اليوم الحالي."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I will mail the form tomorrow.",
+        "ar": "أنا سأرسل النموذج بالبريد غدًا.",
+        "context": "وصف نية إرسال نموذج ورقي عبر خدمة البريد في اليوم التالي."
+      },
+      {
+        "id": 2,
+        "en": "Please mail me the completed application.",
+        "ar": "من فضلك أرسل لي الطلب المكتمل بالبريد.",
+        "context": "طلب إرسال استمارة مستوفاة إلى المتحدث عبر الخدمة البريدية."
+      },
+      {
+        "id": 3,
+        "en": "We have mailed the invitations already.",
+        "ar": "نحن قد أرسلنا الدعوات بالبريد بالفعل.",
+        "context": "الإبلاغ عن اكتمال إرسال الدعوات قبل الآن."
+      },
+      {
+        "id": 4,
+        "en": "The charity mails a newsletter every month.",
+        "ar": "المؤسسة الخيرية ترسل نشرة إخبارية بالبريد كل شهر.",
+        "context": "وصف إرسال دوري لمعلومات مكتوبة إلى المتابعين."
+      },
+      {
+        "id": 5,
+        "en": "He is mailing the signed contract now.",
+        "ar": "هو يرسل العقد الموقع بالبريد الآن.",
+        "context": "وصف إجراء جارٍ الآن لإرسال نسخة عقد تحمل توقيعًا."
+      },
+      {
+        "id": 6,
+        "en": "The tickets were mailed to the wrong address.",
+        "ar": "التذاكر أُرسلت بالبريد إلى عنوان خاطئ.",
+        "context": "وصف خطأ حدث في جهة توصيل تذاكر سبق إرسالها."
+      },
+      {
+        "id": 7,
+        "en": "They will mail the results separately.",
+        "ar": "هم سيرسلون النتائج بالبريد على حدة.",
+        "context": "ذكر إرسال مرتقب للنتائج في مراسلة مستقلة عن غيرها."
+      },
+      {
+        "id": 8,
+        "en": "The publisher mailed review copies to journalists.",
+        "ar": "الناشر أرسل نسخًا للمراجعة بالبريد إلى الصحفيين.",
+        "context": "وصف توزيع نسخ مخصصة للتقييم في عملية إرسال انتهت."
+      },
+      {
+        "id": 9,
+        "en": "I mailed the letter before the collection time.",
+        "ar": "أنا أرسلت الرسالة بالبريد قبل موعد الجمع.",
+        "context": "وصف وضع رسالة ضمن البريد قبل الوقت المحدد لجمعه في يوم مضى."
+      },
+      {
+        "id": 10,
+        "en": "The company can mail replacement parts directly.",
+        "ar": "الشركة يمكنها إرسال قطع بديلة بالبريد مباشرة.",
+        "context": "بيان إمكان توصيل أجزاء بديلة إلى المستفيد عبر البريد دون وسيط آخر."
+      }
+    ]
+  }
+}

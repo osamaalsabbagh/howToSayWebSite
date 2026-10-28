@@ -1,0 +1,135 @@
+{
+  "schemaVersion": 1,
+  "id": 1022,
+  "sentence": {
+    "en": "Could you tell me where the nearest ATM is?",
+    "ar": "هل يمكنك أن تخبرني أين أقرب ماكينة صراف آلي؟",
+    "context": "تُستخدم لطلب المساعدة في إيجاد أقرب ماكينة صراف آلي."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Could you tell me",
+        "ar": "هل يمكنك أن تخبرني",
+        "context": "هذا الجزء يطلب معلومة بطريقة مهذبة.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "Could you بنية طلب مهذب وليست زمنًا مستقلًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "Could",
+            "description": "هل يمكنك، لجعل الطلب أكثر أدبًا"
+          },
+          {
+            "term": "you",
+            "description": "أنت أو أنتم حسب المخاطب"
+          },
+          {
+            "term": "tell",
+            "description": "تخبر أو تعطي معلومة"
+          },
+          {
+            "term": "me",
+            "description": "لي، أي للمتكلم"
+          }
+        ]
+      },
+      {
+        "sentence": "where the nearest ATM is",
+        "ar": "أين أقرب ماكينة صراف آلي",
+        "context": "هذا الجزء يحدد المعلومة المطلوبة وهي مكان أقرب صراف آلي.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "is تُستخدم للسؤال عن موقع حالي لمكان أو جهاز."
+        },
+        "wordMeanings": [
+          {
+            "term": "where",
+            "description": "أين، للسؤال عن المكان"
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف تشير إلى الأقرب في المنطقة"
+          },
+          {
+            "term": "nearest",
+            "description": "الأقرب من حيث المسافة"
+          },
+          {
+            "term": "ATM",
+            "description": "ماكينة صراف آلي لسحب المال"
+          },
+          {
+            "term": "is",
+            "description": "يوجد أو يكون في مكان"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Where is the nearest ATM?",
+        "ar": "أين أقرب ماكينة صراف آلي؟",
+        "context": "تُستخدم بصيغة مباشرة."
+      },
+      {
+        "id": 2,
+        "en": "Could you tell me where the bank is?",
+        "ar": "هل يمكنك إخباري أين البنك؟",
+        "context": "تُستخدم للسؤال عن بنك."
+      },
+      {
+        "id": 3,
+        "en": "Could you tell me where the restroom is?",
+        "ar": "هل يمكنك إخباري أين دورة المياه؟",
+        "context": "تُستخدم في مكان عام."
+      },
+      {
+        "id": 4,
+        "en": "Is there an ATM nearby?",
+        "ar": "هل توجد ماكينة صراف آلي قريبة؟",
+        "context": "تُستخدم عند الحاجة إلى نقد."
+      },
+      {
+        "id": 5,
+        "en": "I need to find an ATM.",
+        "ar": "أحتاج إلى العثور على ماكينة صراف آلي.",
+        "context": "تُستخدم عند الحاجة لسحب المال."
+      },
+      {
+        "id": 6,
+        "en": "Could you show me the nearest ATM?",
+        "ar": "هل يمكنك أن تريني أقرب ماكينة صراف آلي؟",
+        "context": "تُستخدم لطلب إرشاد."
+      },
+      {
+        "id": 7,
+        "en": "Where can I withdraw money?",
+        "ar": "أين يمكنني سحب المال؟",
+        "context": "تُستخدم للسؤال عن مكان السحب."
+      },
+      {
+        "id": 8,
+        "en": "Is the ATM working?",
+        "ar": "هل ماكينة الصراف الآلي تعمل؟",
+        "context": "تُستخدم قبل استخدام الجهاز."
+      },
+      {
+        "id": 9,
+        "en": "Could you tell me where the nearest bank is?",
+        "ar": "هل يمكنك إخباري أين أقرب بنك؟",
+        "context": "تُستخدم عند البحث عن بنك قريب."
+      },
+      {
+        "id": 10,
+        "en": "The ATM is near the entrance.",
+        "ar": "ماكينة الصراف الآلي قرب المدخل.",
+        "context": "تُستخدم لتقديم اتجاه بسيط."
+      }
+    ]
+  }
+}

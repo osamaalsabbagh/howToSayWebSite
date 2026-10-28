@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": 435,
+  "sentence": {
+    "en": "I would like a room.",
+    "ar": "أود غرفة.",
+    "context": "طلب حجز غرفة فندقية."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "I would like a room.",
+        "ar": "أود غرفة.",
+        "context": "طلب غرفة عند مكتب استقبال الفندق.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "تركيب would like يستخدم لطلب مهذب أو رغبة لطيفة، ولا يشرح كزمن مستقل."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير المتكلم ويشير إلى الشخص الذي يتحدث"
+          },
+          {
+            "term": "would",
+            "description": "تجعل الطلب مهذبا ولطيفا"
+          },
+          {
+            "term": "like",
+            "description": "مع would تعني أود أو أرغب"
+          },
+          {
+            "term": "a",
+            "description": "أداة قبل اسم مفرد غير محدد"
+          },
+          {
+            "term": "room",
+            "description": "غرفة وخاصة غرفة فندق في هذا السياق"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I would like a room.",
+        "ar": "أود غرفة.",
+        "context": "طلب غرفة في فندق دون تحديد نوعها."
+      },
+      {
+        "id": 2,
+        "en": "I would like a double room.",
+        "ar": "أود غرفة مزدوجة.",
+        "context": "طلب غرفة مزدوجة في فندق."
+      },
+      {
+        "id": 3,
+        "en": "I would like a room for tonight.",
+        "ar": "أود غرفة لهذه الليلة.",
+        "context": "طلب غرفة لهذه الليلة."
+      },
+      {
+        "id": 4,
+        "en": "I would like a quiet room.",
+        "ar": "أود غرفة هادئة.",
+        "context": "طلب غرفة هادئة."
+      },
+      {
+        "id": 5,
+        "en": "I would like a room upstairs.",
+        "ar": "أود غرفة في الطابق العلوي.",
+        "context": "طلب غرفة في الأعلى، بكلمة واحدة."
+      },
+      {
+        "id": 6,
+        "en": "I would like a clean room.",
+        "ar": "أود غرفة نظيفة.",
+        "context": "طلب غرفة نظيفة."
+      },
+      {
+        "id": 7,
+        "en": "I would like a room with a view.",
+        "ar": "أود غرفة بإطلالة.",
+        "context": "طلب غرفة تطل على منظر."
+      },
+      {
+        "id": 8,
+        "en": "I would like a room near the elevator.",
+        "ar": "أود غرفة قرب المصعد.",
+        "context": "طلب غرفة قريبة من المصعد."
+      },
+      {
+        "id": 9,
+        "en": "I would like a room for two people.",
+        "ar": "أود غرفة لشخصين.",
+        "context": "طلب غرفة تتسع لشخصين."
+      },
+      {
+        "id": 10,
+        "en": "I would like a room please.",
+        "ar": "أود غرفة من فضلك.",
+        "context": "طلب غرفة بصيغة مهذبة."
+      }
+    ]
+  }
+}

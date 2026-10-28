@@ -1,0 +1,113 @@
+{
+  "schemaVersion": 1,
+  "id": 5839,
+  "sentence": {
+    "en": "This sensor measures the water temperature.",
+    "ar": "هذا المستشعر يقيس درجة حرارة الماء.",
+    "context": "وصف وظيفة جهاز يرصد مقدار سخونة الماء أو برودته.",
+    "sourceWord": "measure",
+    "sourcePos": "v."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "This sensor measures the water temperature.",
+        "ar": "هذا المستشعر يقيس درجة حرارة الماء.",
+        "context": "وصف وظيفة جهاز يرصد مقدار سخونة الماء أو برودته.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "المضارع البسيط يصف وظيفة الجهاز المعتادة. الفاعل مفرد، ولذلك يحمل الفعل علامة المفرد الغائب. اسم الماء يحدد الشيء الذي تقاس حرارته."
+        },
+        "wordMeanings": [
+          {
+            "term": "This",
+            "description": "هذا؛ إشارة إلى الجهاز المقصود."
+          },
+          {
+            "term": "sensor",
+            "description": "مستشعر؛ جهاز يرصد تغيرا أو كمية معينة."
+          },
+          {
+            "term": "measures",
+            "description": "يقيس؛ يحدد القيمة باستخدام أداة."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف تحدد درجة الحرارة المقصودة."
+          },
+          {
+            "term": "water",
+            "description": "الماء؛ السائل الذي ترصد حرارته."
+          },
+          {
+            "term": "temperature",
+            "description": "درجة الحرارة؛ مقدار سخونة الماء أو برودته."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "en": "This sensor measures the water temperature.",
+        "ar": "هذا المستشعر يقيس درجة حرارة الماء.",
+        "context": "وصف وظيفة جهاز يرصد مقدار سخونة الماء أو برودته.",
+        "id": 1
+      },
+      {
+        "id": 2,
+        "en": "She is measuring the width of the doorway.",
+        "ar": "هي تقيس عرض المدخل.",
+        "context": "وصف قياس جارٍ للمسافة بين جانبي مدخل."
+      },
+      {
+        "id": 3,
+        "en": "The new design will measure up to the required standard.",
+        "ar": "التصميم الجديد سيرقى إلى المستوى المطلوب.",
+        "context": "توقع أن يفي تصميم جديد بمستوى الجودة أو الكفاءة المطلوب."
+      },
+      {
+        "id": 4,
+        "en": "The tailor measured him for a suit.",
+        "ar": "الخياط أخذ مقاساته لبدلة.",
+        "context": "وصف تحديد سابق لأبعاد جسم شخص لصنع ملابس تناسبه."
+      },
+      {
+        "id": 5,
+        "en": "He measured his words before answering the sensitive question.",
+        "ar": "هو انتقى كلماته بعناية قبل الإجابة عن السؤال الحساس.",
+        "context": "وصف تأنٍّ سابق في الكلام بدل استعمال أداة قياس مادية."
+      },
+      {
+        "en": "The student measured herself against more experienced players.",
+        "ar": "الطالبة قارنت قدراتها بقدرات لاعبين أكثر خبرة.",
+        "context": "رواية عن تقييم طالبة لمستواها في مواجهة لاعبين ذوي خبرة أكبر.",
+        "id": 6
+      },
+      {
+        "en": "The chart measures distance in kilometers.",
+        "ar": "المخطط يقيس المسافة بالكيلومترات.",
+        "context": "وصف وحدة مستخدمة لتمثيل المسافات على مخطط.",
+        "id": 7
+      },
+      {
+        "en": "The carpenter measured off a space for the cupboard.",
+        "ar": "النجار حدّد بالقياس مساحة للخزانة.",
+        "context": "رواية عن تعيين مساحة محددة الأبعاد لتركيب خزانة.",
+        "id": 8
+      },
+      {
+        "en": "The teacher measured reading speed with a timed passage.",
+        "ar": "المعلم قاس سرعة القراءة بنص محدد الزمن.",
+        "context": "رواية عن تقييم سرعة القراءة من خلال الوقت المستغرق في قراءة نص.",
+        "id": 9
+      },
+      {
+        "en": "The software measures how long each page takes to load.",
+        "ar": "البرنامج يقيس مدة تحميل كل صفحة.",
+        "context": "وصف وظيفة تقنية لحساب الوقت اللازم لعرض صفحات.",
+        "id": 10
+      }
+    ]
+  }
+}

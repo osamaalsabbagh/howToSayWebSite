@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "id": 7,
+  "sentence": {
+    "en": "How many buildings have you built since you joined the company?",
+    "ar": "كم مبنى قد بنيتم منذ أن إنضممت للشركة؟",
+    "context": "تسأله عن عدد المشاريع التي شارك فيها في عمله."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "How many buildings have you built",
+        "ar": "كم مبنى بنيتم؟",
+        "context": "سؤال عن عدد الإنجازات حتى الآن.",
+        "grammar": {
+          "tense": "المضارع التام",
+          "tenseEn": "Present Perfect",
+          "reason": "have built يربط إنجازات الماضي بالنتيجة الحالية وهي عدد المباني حتى الآن."
+        },
+        "wordMeanings": [
+          {
+            "term": "How",
+            "description": "كيف أو كم في تركيب السؤال"
+          },
+          {
+            "term": "many",
+            "description": "عدد، وتأتي مع الأشياء المعدودة"
+          },
+          {
+            "term": "buildings",
+            "description": "مبان أو عمارات"
+          },
+          {
+            "term": "have",
+            "description": "كلمة مساعدة لتكوين المضارع التام"
+          },
+          {
+            "term": "you",
+            "description": "أنتم أو أنت حسب السياق"
+          },
+          {
+            "term": "built",
+            "description": "بنيت أو أنجزت بناء"
+          }
+        ]
+      },
+      {
+        "sentence": "since you joined the company",
+        "ar": "منذ أن انضممت إلى الشركة",
+        "context": "يحدد بداية الفترة التي يتم حساب الإنجازات منها.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "joined فعل ماض لأنه يصف حدث الانضمام الذي وقع في وقت سابق محدد كبداية للفترة."
+        },
+        "wordMeanings": [
+          {
+            "term": "since",
+            "description": "منذ، لبداية مدة زمنية"
+          },
+          {
+            "term": "you",
+            "description": "أنت"
+          },
+          {
+            "term": "joined",
+            "description": "انضممت"
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف"
+          },
+          {
+            "term": "company",
+            "description": "الشركة"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "How many projects have you finished since January",
+        "ar": "كم مشروعًا أنهيت منذ يناير؟",
+        "context": "يقال للسؤال عن إنجازات خلال فترة بدأت في يناير"
+      },
+      {
+        "id": 2,
+        "en": "How many reports have they written this month",
+        "ar": "كم تقريرًا كتبوا هذا الشهر؟",
+        "context": "يقال للسؤال عن عدد مكتمل حتى الآن"
+      },
+      {
+        "id": 3,
+        "en": "How many houses has he built",
+        "ar": "كم بيتًا بنى؟",
+        "context": "يقال للسؤال عن خبرة أو إنجاز"
+      },
+      {
+        "id": 4,
+        "en": "How many times have you visited this office",
+        "ar": "كم مرة زرت هذا المكتب؟",
+        "context": "يقال للسؤال عن تكرار حدث حتى الآن"
+      },
+      {
+        "id": 5,
+        "en": "She has learned a lot since she joined us",
+        "ar": "لقد تعلمت كثيرًا منذ أن انضمت إلينا",
+        "context": "يقال لربط الماضي بالتطور الحالي"
+      },
+      {
+        "id": 6,
+        "en": "We have opened two stores since last year",
+        "ar": "افتتحنا متجرين منذ العام الماضي",
+        "context": "يقال عن إنجازات بدأت من وقت سابق"
+      },
+      {
+        "id": 7,
+        "en": "How many calls have you made today",
+        "ar": "كم مكالمة أجريت اليوم؟",
+        "context": "يقال للسؤال عن عدد أعمال اليوم"
+      },
+      {
+        "id": 8,
+        "en": "They have repaired five rooms so far",
+        "ar": "لقد أصلحوا خمس غرف حتى الآن",
+        "context": "يقال لذكر نتيجة العمل الحالية"
+      },
+      {
+        "id": 9,
+        "en": "How many lessons have you completed",
+        "ar": "كم درسًا أكملت؟",
+        "context": "يقال للسؤال عن تقدم شخص"
+      },
+      {
+        "id": 10,
+        "en": "I have met many people since I moved here",
+        "ar": "قابلت كثيرًا من الناس منذ انتقلت إلى هنا",
+        "context": "يقال لوصف خبرات منذ بداية فترة"
+      }
+    ]
+  }
+}

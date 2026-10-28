@@ -1,0 +1,151 @@
+{
+  "schemaVersion": 1,
+  "id": 10,
+  "sentence": {
+    "en": "He never answers when he is at work. Call him after five o'clock.",
+    "ar": "هو لا يجيب أبدًا عندما يكون في العمل. اتصل به بعد الساعة الخامسة.",
+    "context": "يوضح أن توم لا يجيب عادة أثناء العمل ويقترح الاتصال به بعد الخامسة."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "He never answers when he is at work.",
+        "ar": "هو لا يجيب أبدًا عندما يكون في العمل.",
+        "context": "تصف الجملة عادة توم أثناء وجوده في العمل.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استعمل answers وis لوصف عادة وحالة عامة في الحاضر."
+        },
+        "wordMeanings": [
+          {
+            "term": "He",
+            "description": "ضمير يشير إلى ذكر."
+          },
+          {
+            "term": "never",
+            "description": "أبدًا."
+          },
+          {
+            "term": "answers",
+            "description": "يجيب."
+          },
+          {
+            "term": "when",
+            "description": "عندما."
+          },
+          {
+            "term": "he",
+            "description": "ضمير يشير إلى ذكر."
+          },
+          {
+            "term": "is",
+            "description": "يدل على حالة أو وصف في الحاضر."
+          },
+          {
+            "term": "at",
+            "description": "في أو عند."
+          },
+          {
+            "term": "work",
+            "description": "العمل."
+          }
+        ]
+      },
+      {
+        "sentence": "Call him after five o'clock.",
+        "ar": "اتصل به بعد الساعة الخامسة.",
+        "context": "تعطي الجملة توجيهًا بوقت الاتصال المناسب. ",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "Call فعل أمر مباشر، لذلك لا يحمل زمنًا مستقلًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "Call",
+            "description": "أتصل أو اتصل."
+          },
+          {
+            "term": "him",
+            "description": "هو بصيغة المفعول."
+          },
+          {
+            "term": "after",
+            "description": "بعد."
+          },
+          {
+            "term": "five",
+            "description": "الرقم خمسة."
+          },
+          {
+            "term": "o'clock",
+            "description": "تستعمل مع الساعة للدلالة على وقت كامل."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I cannot find the keys.",
+        "ar": "لا أستطيع أن أجد المفاتيح.",
+        "context": "تقال عند البحث عن شيء مفقود."
+      },
+      {
+        "id": 2,
+        "en": "Do you think they are in the car?",
+        "ar": "هل تعتقد أنها في السيارة؟",
+        "context": "سؤال عن مكان شيء مفقود."
+      },
+      {
+        "id": 3,
+        "en": "The answer will come from Sarah.",
+        "ar": "سيأتي الجواب من سارة.",
+        "context": "تقال عندما يعرف شخص معين الإجابة."
+      },
+      {
+        "id": 4,
+        "en": "I tried to call him, but he did not answer.",
+        "ar": "حاولت الاتصال به، لكنه لم يرد.",
+        "context": "تصف محاولة اتصال فاشلة."
+      },
+      {
+        "id": 5,
+        "en": "He never answers during work.",
+        "ar": "هو لا يجيب أبدًا أثناء العمل.",
+        "context": "تصف عادة متكررة."
+      },
+      {
+        "id": 6,
+        "en": "Call her after six o’clock.",
+        "ar": "اتصل بها بعد الساعة السادسة.",
+        "context": "توجيه لوقت اتصال مناسب."
+      },
+      {
+        "id": 7,
+        "en": "We have another problem.",
+        "ar": "لدينا مشكلة أخرى.",
+        "context": "تمهيد لعرض مشكلة جديدة."
+      },
+      {
+        "id": 8,
+        "en": "I cannot find the map.",
+        "ar": "لا أستطيع أن أجد الخريطة.",
+        "context": "تقال عند فقدان شيء مهم في رحلة."
+      },
+      {
+        "id": 9,
+        "en": "The best help will come from the guide.",
+        "ar": "أفضل مساعدة ستأتي من الدليل.",
+        "context": "توضح أن شخصًا معينًا هو الأقدر على المساعدة."
+      },
+      {
+        "id": 10,
+        "en": "Try again after the meeting.",
+        "ar": "حاول مرة أخرى بعد الاجتماع.",
+        "context": "نصيحة بتأجيل المحاولة لوقت مناسب."
+      }
+    ]
+  }
+}

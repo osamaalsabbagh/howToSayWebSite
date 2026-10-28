@@ -1,0 +1,131 @@
+{
+  "schemaVersion": 1,
+  "id": 1200,
+  "sentence": {
+    "en": "Take an umbrella. It is beginning to sprinkle.",
+    "ar": "خذ مظلة. يبدأ المطر بالتساقط خفيفًا.",
+    "context": "تُستخدم لنصيحة شخص بأخذ مظلة لأن المطر بدأ يتساقط خفيفًا."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Take an umbrella",
+        "ar": "خذ مظلة",
+        "context": "نصيحة مباشرة للاستعداد للمطر.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه صيغة أمر أو نصيحة مباشرة، لذلك لا تحمل زمنًا مستقلًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "Take",
+            "description": "خذ أو احمل معك"
+          },
+          {
+            "term": "an",
+            "description": "أداة تدل على شيء واحد غير محدد"
+          },
+          {
+            "term": "umbrella",
+            "description": "مظلة"
+          }
+        ]
+      },
+      {
+        "sentence": "It is beginning to sprinkle",
+        "ar": "بدأ المطر يتساقط خفيفًا",
+        "context": "تشرح سبب أخذ المظلة.",
+        "grammar": {
+          "tense": "المضارع المستمر",
+          "tenseEn": "Present Continuous",
+          "reason": "استُخدم المضارع المستمر لوصف تغير في الطقس بدأ الآن."
+        },
+        "wordMeanings": [
+          {
+            "term": "It",
+            "description": "تُستخدم هنا مع حالة الطقس"
+          },
+          {
+            "term": "is",
+            "description": "تدخل مع الفعل التالي لوصف حدث مستمر"
+          },
+          {
+            "term": "beginning",
+            "description": "يبدأ"
+          },
+          {
+            "term": "to",
+            "description": "تأتي قبل الفعل لبيان ما بدأ"
+          },
+          {
+            "term": "sprinkle",
+            "description": "يمطر بخفة"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Take a jacket.",
+        "ar": "خذ سترة.",
+        "context": "تُستخدم كنصيحة للطقس."
+      },
+      {
+        "id": 2,
+        "en": "It is starting to rain.",
+        "ar": "بدأ المطر يتساقط.",
+        "context": "تُستخدم عند بداية المطر."
+      },
+      {
+        "id": 3,
+        "en": "Bring an umbrella today.",
+        "ar": "أحضر مظلة اليوم.",
+        "context": "تُقال قبل الخروج."
+      },
+      {
+        "id": 4,
+        "en": "It is only sprinkling now.",
+        "ar": "المطر خفيف فقط الآن.",
+        "context": "تُستخدم لوصف مطر خفيف."
+      },
+      {
+        "id": 5,
+        "en": "Do not forget your umbrella.",
+        "ar": "لا تنس مظلتك.",
+        "context": "تُقال كتذكير."
+      },
+      {
+        "id": 6,
+        "en": "The rain is getting stronger.",
+        "ar": "المطر يزداد قوة.",
+        "context": "تُستخدم عند تغير المطر."
+      },
+      {
+        "id": 7,
+        "en": "Take an umbrella just in case.",
+        "ar": "خذ مظلة احتياطًا.",
+        "context": "تُقال عند احتمال المطر."
+      },
+      {
+        "id": 8,
+        "en": "It began to sprinkle after lunch.",
+        "ar": "بدأ المطر الخفيف بعد الغداء.",
+        "context": "تُستخدم عن وقت سابق."
+      },
+      {
+        "id": 9,
+        "en": "We need an umbrella.",
+        "ar": "نحتاج إلى مظلة.",
+        "context": "تُقال عند هطول المطر."
+      },
+      {
+        "id": 10,
+        "en": "The weather is turning rainy.",
+        "ar": "الطقس يتحول إلى ممطر.",
+        "context": "تُستخدم لوصف تغير الطقس."
+      }
+    ]
+  }
+}

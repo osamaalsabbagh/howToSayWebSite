@@ -1,0 +1,123 @@
+{
+  "schemaVersion": 1,
+  "id": 5,
+  "sentence": {
+    "en": "Please give me two kilos of the red apples.",
+    "ar": "من فضلك، أعطني كيلوَين من التفاح الأحمر.",
+    "context": "الزبون يحدد كمية ونوع التفاح المطلوب"
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Please give me two kilos of the red apples.",
+        "ar": "من فضلك، أعطني كيلوَين من التفاح الأحمر.",
+        "context": "تُستخدم لتوجيه طلب أو تعليم مباشر في هذا الموقف.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه صيغة طلب مباشرة ومهذبة باستخدام please، لذلك لا نعاملها كزمن فعلي مستقل."
+        },
+        "wordMeanings": [
+          {
+            "term": "Please",
+            "description": "كلمة تجعل الطلب مهذبًا."
+          },
+          {
+            "term": "give",
+            "description": "تعني أعطِ أو قدم شيئًا لشخص."
+          },
+          {
+            "term": "me",
+            "description": "ضمير يعود على المتكلم بوصفه الشخص الذي سيأخذ التفاح."
+          },
+          {
+            "term": "two",
+            "description": "العدد اثنان."
+          },
+          {
+            "term": "kilos",
+            "description": "كيلوغرامات، وهي وحدة وزن."
+          },
+          {
+            "term": "of",
+            "description": "يربط الكمية بالشيء المطلوب."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف لنوع محدد من التفاح."
+          },
+          {
+            "term": "red",
+            "description": "صفة تعني أحمر اللون."
+          },
+          {
+            "term": "apples",
+            "description": "تفاح بصيغة الجمع."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Please give me one kilo of green apples.",
+        "ar": "من فضلك أعطني كيلوًا واحدًا من التفاح الأخضر.",
+        "context": "زبون يطلب كمية ونوعًا محددين."
+      },
+      {
+        "id": 2,
+        "en": "Please give me two kilos of oranges.",
+        "ar": "من فضلك أعطني كيلوَين من البرتقال.",
+        "context": "تستخدم نفس الطلب مع فاكهة أخرى."
+      },
+      {
+        "id": 3,
+        "en": "Give me three kilos of apples, please.",
+        "ar": "أعطني ثلاثة كيلوات من التفاح من فضلك.",
+        "context": "صيغة طلب مهذبة مع please في النهاية."
+      },
+      {
+        "id": 4,
+        "en": "Please give me the fresh apples.",
+        "ar": "من فضلك أعطني التفاح الطازج.",
+        "context": "تطلب النوع الطازج تحديدًا."
+      },
+      {
+        "id": 5,
+        "en": "Please give me half a kilo of grapes.",
+        "ar": "من فضلك أعطني نصف كيلو من العنب.",
+        "context": "تطلب كمية صغيرة."
+      },
+      {
+        "id": 6,
+        "en": "Please give me two bags of apples.",
+        "ar": "من فضلك أعطني كيسين من التفاح.",
+        "context": "تطلب الكمية بالأكياس بدل الوزن."
+      },
+      {
+        "id": 7,
+        "en": "Please give me some red apples.",
+        "ar": "من فضلك أعطني بعض التفاح الأحمر.",
+        "context": "تطلب كمية غير محددة بدقة."
+      },
+      {
+        "id": 8,
+        "en": "Please give me two kilos for my family.",
+        "ar": "من فضلك أعطني كيلوَين لعائلتي.",
+        "context": "تذكر سبب الكمية المطلوبة."
+      },
+      {
+        "id": 9,
+        "en": "Please give me the apples from that farm.",
+        "ar": "من فضلك أعطني التفاح من تلك المزرعة.",
+        "context": "تحدد التفاح حسب مصدره."
+      },
+      {
+        "id": 10,
+        "en": "Please give me two kilos today.",
+        "ar": "من فضلك أعطني كيلوَين اليوم.",
+        "context": "تطلب كمية دون تكرار اسم المنتج."
+      }
+    ]
+  }
+}

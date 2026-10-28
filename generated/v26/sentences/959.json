@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": 959,
+  "sentence": {
+    "en": "Which road should I take?",
+    "ar": "أي طريق يجب أن أسلك؟",
+    "context": "تُستخدم للسؤال عن الطريق الأنسب أو الأفضل الذي يجب أن تسلكه."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Which road should I take",
+        "ar": "أي طريق يجب أن أسلك",
+        "context": "تُستخدم لطلب نصيحة عن الطريق المناسب.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "الجملة سؤال بنصيحة باستخدام should، وهي بنية دلالتها الاقتراح أو الواجب وليست زمنًا مستقلًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "Which",
+            "description": "أي، وتُستخدم للاختيار بين بدائل"
+          },
+          {
+            "term": "road",
+            "description": "طريق"
+          },
+          {
+            "term": "should",
+            "description": "ينبغي أو يجب، وتُستخدم لطلب نصيحة أو أفضل خيار"
+          },
+          {
+            "term": "I",
+            "description": "ضمير يشير إلى المتكلم"
+          },
+          {
+            "term": "take",
+            "description": "أسلك أو أختار، وتعني هنا اختيار طريق للسير فيه"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Which bus should I take?",
+        "ar": "أي حافلة يجب أن أستقل؟",
+        "context": "تُستخدم عند طلب نصيحة في المواصلات."
+      },
+      {
+        "id": 2,
+        "en": "Which train should I take?",
+        "ar": "أي قطار يجب أن أستقل؟",
+        "context": "تُستخدم داخل محطة القطار."
+      },
+      {
+        "id": 3,
+        "en": "Which exit should I take?",
+        "ar": "أي مخرج يجب أن أسلك؟",
+        "context": "تُستخدم داخل طريق سريع أو مبنى."
+      },
+      {
+        "id": 4,
+        "en": "Which street should I use?",
+        "ar": "أي شارع يجب أن أستخدم؟",
+        "context": "تُستخدم عند اختيار طريق داخل المدينة."
+      },
+      {
+        "id": 5,
+        "en": "Which way should we go?",
+        "ar": "أي طريق يجب أن نذهب؟",
+        "context": "تُستخدم عندما تكون هناك أكثر من جهة."
+      },
+      {
+        "id": 6,
+        "en": "Which door should I open?",
+        "ar": "أي باب يجب أن أفتح؟",
+        "context": "تُستخدم عند وجود عدة أبواب."
+      },
+      {
+        "id": 7,
+        "en": "Which line should I stand in?",
+        "ar": "في أي طابور يجب أن أقف؟",
+        "context": "تُستخدم في الأماكن المزدحمة أو الرسمية."
+      },
+      {
+        "id": 8,
+        "en": "Which form should I fill out?",
+        "ar": "أي نموذج يجب أن أملأ؟",
+        "context": "تُستخدم عند التعامل مع أوراق أو طلبات."
+      },
+      {
+        "id": 9,
+        "en": "Which number should I call?",
+        "ar": "أي رقم يجب أن أتصل به؟",
+        "context": "تُستخدم عند وجود أكثر من رقم."
+      },
+      {
+        "id": 10,
+        "en": "Which address should I write?",
+        "ar": "أي عنوان يجب أن أكتب؟",
+        "context": "تُستخدم عند ملء معلومات أو إرسال شيء."
+      }
+    ]
+  }
+}

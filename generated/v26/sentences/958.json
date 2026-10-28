@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": 958,
+  "sentence": {
+    "en": "Where is the bus station?",
+    "ar": "أين محطة الحافلات؟",
+    "context": "تُستخدم للسؤال عن اتجاه محطة الحافلات."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Where is the bus station",
+        "ar": "أين محطة الحافلات",
+        "context": "تُستخدم كسؤال مباشر لمعرفة موقع محطة الحافلات.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "السؤال يستخدم is للسؤال عن موقع حالي أو ثابت لمكان معروف."
+        },
+        "wordMeanings": [
+          {
+            "term": "Where",
+            "description": "أين، وتُستخدم للسؤال عن المكان"
+          },
+          {
+            "term": "is",
+            "description": "تعني يوجد أو يكون، وتأتي هنا للسؤال عن الموقع"
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف تشير إلى محطة محددة أو معروفة"
+          },
+          {
+            "term": "bus",
+            "description": "حافلة، وتصف نوع المحطة هنا"
+          },
+          {
+            "term": "station",
+            "description": "محطة، مكان تنطلق منه وسائل النقل أو تصل إليه"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Where is the train station?",
+        "ar": "أين محطة القطار؟",
+        "context": "تُستخدم للسؤال عن موقع محطة القطار."
+      },
+      {
+        "id": 2,
+        "en": "Where is the nearest station?",
+        "ar": "أين أقرب محطة؟",
+        "context": "تُستخدم عند البحث عن أقرب محطة نقل."
+      },
+      {
+        "id": 3,
+        "en": "Where is the taxi stand?",
+        "ar": "أين موقف سيارات الأجرة؟",
+        "context": "تُستخدم عند الحاجة إلى سيارة أجرة."
+      },
+      {
+        "id": 4,
+        "en": "Where is the ticket office?",
+        "ar": "أين مكتب التذاكر؟",
+        "context": "تُستخدم داخل محطة أو مكان سفر."
+      },
+      {
+        "id": 5,
+        "en": "Where is the bus stop?",
+        "ar": "أين موقف الحافلة؟",
+        "context": "تُستخدم للسؤال عن مكان انتظار الحافلة."
+      },
+      {
+        "id": 6,
+        "en": "Where is the main entrance?",
+        "ar": "أين المدخل الرئيسي؟",
+        "context": "تُستخدم عند الوصول إلى مبنى كبير."
+      },
+      {
+        "id": 7,
+        "en": "Where is the airport?",
+        "ar": "أين المطار؟",
+        "context": "تُستخدم للسؤال عن موقع المطار."
+      },
+      {
+        "id": 8,
+        "en": "Where is the information desk?",
+        "ar": "أين مكتب المعلومات؟",
+        "context": "تُستخدم عند الحاجة إلى مساعدة في مكان عام."
+      },
+      {
+        "id": 9,
+        "en": "Where is the parking lot?",
+        "ar": "أين موقف السيارات؟",
+        "context": "تُستخدم عند البحث عن مكان للسيارة."
+      },
+      {
+        "id": 10,
+        "en": "Where is the next stop?",
+        "ar": "أين المحطة التالية؟",
+        "context": "تُستخدم أثناء التنقل بالحافلة أو القطار."
+      }
+    ]
+  }
+}

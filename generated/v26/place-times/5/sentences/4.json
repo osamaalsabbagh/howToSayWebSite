@@ -1,0 +1,111 @@
+{
+  "schemaVersion": 1,
+  "id": 4,
+  "sentence": {
+    "en": "Do you know your results yet?",
+    "ar": "هل تعرف نتائجك حتى الآن؟",
+    "context": "السؤال عمّا إذا كانت نتائج الامتحان قد ظهرت وأصبح الشخص على علم بها."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Do you know your results yet?",
+        "ar": "هل تعرف نتائجك حتى الآن؟",
+        "context": "سؤال مباشر لمعرفة هل ظهرت النتائج وعرفها الشخص أم لا.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "يبدأ السؤال بـ Do لأن الفعل know في المضارع البسيط مع you، وكلمة yet تسأل عن شيء متوقع حدوثه حتى الآن."
+        },
+        "wordMeanings": [
+          {
+            "term": "Do",
+            "description": "كلمة مساعدة لبدء السؤال في المضارع البسيط."
+          },
+          {
+            "term": "you",
+            "description": "ضمير المخاطب؛ الشخص الذي نوجه إليه السؤال."
+          },
+          {
+            "term": "know",
+            "description": "يعرف أو لديه علم بشيء."
+          },
+          {
+            "term": "your",
+            "description": "تدل على أن النتائج تخص المخاطب."
+          },
+          {
+            "term": "results",
+            "description": "الدرجات أو نتيجة الامتحان."
+          },
+          {
+            "term": "yet",
+            "description": "حتى الآن؛ تستخدم مع شيء ننتظر حدوثه."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Do you know your grade yet?",
+        "ar": "هل تعرف درجتك حتى الآن؟",
+        "context": "سؤال بعد انتظار ظهور الدرجة."
+      },
+      {
+        "id": 2,
+        "en": "Do you know the exam date yet?",
+        "ar": "هل تعرف موعد الامتحان حتى الآن؟",
+        "context": "يستخدم عندما يكون الموعد متوقعا."
+      },
+      {
+        "id": 3,
+        "en": "Do you know your seat number yet?",
+        "ar": "هل تعرف رقم جلوسك حتى الآن؟",
+        "context": "سؤال عن معلومة دراسية مهمة."
+      },
+      {
+        "id": 4,
+        "en": "Does she know her results yet?",
+        "ar": "هل تعرف نتائجها حتى الآن؟",
+        "context": "يقال للسؤال عن طالبة أخرى."
+      },
+      {
+        "id": 5,
+        "en": "Do they know the results yet?",
+        "ar": "هل يعرفون النتائج حتى الآن؟",
+        "context": "سؤال عن مجموعة تنتظر النتائج."
+      },
+      {
+        "id": 6,
+        "en": "Do you know the answer yet?",
+        "ar": "هل تعرف الإجابة حتى الآن؟",
+        "context": "يقال عند انتظار جواب."
+      },
+      {
+        "id": 7,
+        "en": "Do you know your score yet?",
+        "ar": "هل تعرف درجتك حتى الآن؟",
+        "context": "سؤال عن درجة اختبار."
+      },
+      {
+        "id": 8,
+        "en": "Do you know if you passed yet?",
+        "ar": "هل تعرف إن كنت نجحت حتى الآن؟",
+        "context": "سؤال عن نتيجة النجاح أو الرسوب."
+      },
+      {
+        "id": 9,
+        "en": "Do you know the news yet?",
+        "ar": "هل تعرف الخبر حتى الآن؟",
+        "context": "يستخدم عند توقع وصول خبر."
+      },
+      {
+        "id": 10,
+        "en": "Do you know your final mark yet?",
+        "ar": "هل تعرف علامتك النهائية حتى الآن؟",
+        "context": "سؤال عن العلامة النهائية."
+      }
+    ]
+  }
+}

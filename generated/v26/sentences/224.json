@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": 224,
+  "sentence": {
+    "en": "Do you have any coffee?",
+    "ar": "هل لديك أي قهوة؟",
+    "context": "اسأل عن توفر القهوة."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Do you have any coffee?",
+        "ar": "هل لديك أي قهوة؟",
+        "context": "يُستخدم هذا السؤال لطلب المعلومة المقصودة في هذا الموقف.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "يستخدم المضارع البسيط للسؤال عن توفر القهوة الآن أو بشكل عام، وكلمة أي تناسب السؤال عن وجود كمية غير محددة."
+        },
+        "wordMeanings": [
+          {
+            "term": "Do",
+            "description": "تأتي في بداية السؤال مع المخاطب لتكوين سؤال في الحاضر."
+          },
+          {
+            "term": "you",
+            "description": "أنت أو أنتم، وتشير إلى الشخص أو المكان المسؤول عن الشيء."
+          },
+          {
+            "term": "have",
+            "description": "لديك أو يتوفر عندك."
+          },
+          {
+            "term": "any",
+            "description": "أي كمية، وتستخدم غالبًا في السؤال عن وجود شيء."
+          },
+          {
+            "term": "coffee",
+            "description": "قهوة."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Do you have any coffee?",
+        "ar": "هل لديك أي قهوة؟",
+        "context": "تقال عند السؤال عن توفر القهوة."
+      },
+      {
+        "id": 2,
+        "en": "Do you have any tea?",
+        "ar": "هل لديك أي شاي؟",
+        "context": "تقال عند السؤال عن توفر الشاي."
+      },
+      {
+        "id": 3,
+        "en": "Do you have any water?",
+        "ar": "هل لديك أي ماء؟",
+        "context": "تقال عند طلب معرفة توفر الماء."
+      },
+      {
+        "id": 4,
+        "en": "Do you have any sugar?",
+        "ar": "هل لديك أي سكر؟",
+        "context": "تقال عند الحاجة إلى سكر."
+      },
+      {
+        "id": 5,
+        "en": "Do you have any milk?",
+        "ar": "هل لديك أي حليب؟",
+        "context": "تقال عند السؤال عن توفر الحليب."
+      },
+      {
+        "id": 6,
+        "en": "Do you have any decaf coffee?",
+        "ar": "هل لديك أي قهوة منزوعة الكافيين؟",
+        "context": "تقال عند طلب نوع محدد من القهوة."
+      },
+      {
+        "id": 7,
+        "en": "Do you have any hot coffee?",
+        "ar": "هل لديك أي قهوة ساخنة؟",
+        "context": "تقال عند السؤال عن قهوة جاهزة."
+      },
+      {
+        "id": 8,
+        "en": "Do you have any coffee left?",
+        "ar": "هل بقي لديك أي قهوة؟",
+        "context": "تقال عند احتمال نفاد القهوة."
+      },
+      {
+        "id": 9,
+        "en": "Do you have any coffee in the room?",
+        "ar": "هل لديك أي قهوة في الغرفة؟",
+        "context": "تقال عند السؤال عن توفر القهوة في مكان محدد."
+      },
+      {
+        "id": 10,
+        "en": "Do you have any coffee for guests?",
+        "ar": "هل لديك أي قهوة للضيوف؟",
+        "context": "تقال عند تجهيز ضيافة."
+      }
+    ]
+  }
+}

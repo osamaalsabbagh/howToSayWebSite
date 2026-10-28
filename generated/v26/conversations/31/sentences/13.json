@@ -1,0 +1,131 @@
+{
+  "schemaVersion": 1,
+  "id": 13,
+  "sentence": {
+    "en": "Right. Does he not worry about getting sick?",
+    "ar": "فعلاً. ألا يخاف أن يمرض؟",
+    "context": "تستغرب قيامه بالجري تحت المطر."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Right.",
+        "ar": "فعلاً.",
+        "context": "تؤكد الاتفاق مع الملاحظة السابقة.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "كلمة موافقة أو تأكيد بلا فعل."
+        },
+        "wordMeanings": [
+          {
+            "term": "Right",
+            "description": "صحيح أو فعلًا"
+          }
+        ]
+      },
+      {
+        "sentence": "Does he not worry about getting sick?",
+        "ar": "ألا يقلق من أن يمرض؟",
+        "context": "تسأل باستغراب عن عدم خوفه من المرض.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "Does he not worry سؤال في المضارع البسيط عن عادة أو موقف عام."
+        },
+        "wordMeanings": [
+          {
+            "term": "Does",
+            "description": "أداة سؤال مع he في المضارع"
+          },
+          {
+            "term": "he",
+            "description": "هو، أي الرجل"
+          },
+          {
+            "term": "not",
+            "description": "أداة نفي"
+          },
+          {
+            "term": "worry",
+            "description": "يقلق"
+          },
+          {
+            "term": "about",
+            "description": "بشأن أو من"
+          },
+          {
+            "term": "getting",
+            "description": "أن يصبح في حالة"
+          },
+          {
+            "term": "sick",
+            "description": "مريض"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Does she not worry about the rain?",
+        "ar": "ألا تقلق من المطر؟",
+        "context": "تقال عند الاستغراب من تصرف شخص."
+      },
+      {
+        "id": 2,
+        "en": "He might get sick in this cold.",
+        "ar": "قد يمرض في هذا البرد.",
+        "context": "تقال عند التحذير من الطقس."
+      },
+      {
+        "id": 3,
+        "en": "Right. That is strange.",
+        "ar": "فعلاً. هذا غريب.",
+        "context": "تقال عند الموافقة على استغراب."
+      },
+      {
+        "id": 4,
+        "en": "Do you worry about getting sick?",
+        "ar": "هل تقلق من أن تمرض؟",
+        "context": "تقال للسؤال عن خوف صحي."
+      },
+      {
+        "id": 5,
+        "en": "She worries about walking in the rain.",
+        "ar": "هي تقلق من المشي تحت المطر.",
+        "context": "تقال عن شخص حذر."
+      },
+      {
+        "id": 6,
+        "en": "Does he not feel cold?",
+        "ar": "ألا يشعر بالبرد؟",
+        "context": "تقال عند رؤية شخص في برد شديد."
+      },
+      {
+        "id": 7,
+        "en": "I worry about getting wet.",
+        "ar": "أقلق من أن أبتل.",
+        "context": "تقال في يوم ممطر."
+      },
+      {
+        "id": 8,
+        "en": "Right, he should wear a coat.",
+        "ar": "صحيح، ينبغي أن يرتدي معطفًا.",
+        "context": "تقال كنصيحة لشخص في البرد."
+      },
+      {
+        "id": 9,
+        "en": "Getting sick in winter is easy.",
+        "ar": "المرض في الشتاء سهل.",
+        "context": "تقال للتحذير من البرد."
+      },
+      {
+        "id": 10,
+        "en": "Does he not care about his health?",
+        "ar": "ألا يهتم بصحته؟",
+        "context": "تقال عند استغراب تصرف غير صحي."
+      }
+    ]
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "schemaVersion": 1,
+  "id": 6800,
+  "sentence": {
+    "en": "Can you calculate the total cost?",
+    "ar": "هل أنت تستطيع أن تحسب التكلفة الإجمالية؟",
+    "context": "طلب إيجاد مجموع تكلفة باستخدام حساب دون تحديد مشتريات أو مناسبة.",
+    "sourceWord": "calculate",
+    "sourcePos": "v."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Can you calculate the total cost?",
+        "ar": "هل أنت تستطيع أن تحسب التكلفة الإجمالية؟",
+        "context": "طلب إيجاد مجموع تكلفة باستخدام حساب دون تحديد مشتريات أو مناسبة.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "تركيب سؤال مساعد بلا زمن مستقل. الفعل يعني يجد رقمًا باستعمال الحساب."
+        },
+        "wordMeanings": [
+          {
+            "term": "Can",
+            "description": "تستطيع؛ يتقدم في السؤال."
+          },
+          {
+            "term": "you",
+            "description": "أنت."
+          },
+          {
+            "term": "calculate",
+            "description": "تحسب."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف تأتي مع التكلفة."
+          },
+          {
+            "term": "total",
+            "description": "الإجمالية."
+          },
+          {
+            "term": "cost",
+            "description": "تكلفة."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Can you calculate the total cost?",
+        "ar": "هل أنت تستطيع أن تحسب التكلفة الإجمالية؟",
+        "context": "طلب إيجاد مجموع تكلفة باستخدام حساب دون تحديد مشتريات أو مناسبة."
+      },
+      {
+        "id": 2,
+        "en": "The team calculated the time needed for the repairs.",
+        "ar": "الفريق قدّر الوقت اللازم للإصلاحات.",
+        "context": "وصف تقدير سابق لمدة عمل استنادًا إلى معلومات دون تقديمها كمدة مؤكدة."
+      },
+      {
+        "id": 3,
+        "en": "The program calculates the average automatically.",
+        "ar": "البرنامج يحسب المتوسط تلقائيًا.",
+        "context": "وصف إيجاد قيمة عددية بعملية آلية."
+      },
+      {
+        "id": 4,
+        "en": "She calculated the distance on the map.",
+        "ar": "هي حسبت المسافة على الخريطة.",
+        "context": "وصف استخدام سابق لتمثيل مكاني لاستخراج طول."
+      },
+      {
+        "id": 5,
+        "en": "We have calculated the weight of the whole shipment.",
+        "ar": "نحن قد حسبنا وزن الشحنة كلها.",
+        "context": "الإبلاغ عن نتيجة مكتملة لمجموع أوزان."
+      },
+      {
+        "id": 6,
+        "en": "The students are calculating the area of the room.",
+        "ar": "الطلاب يحسبون مساحة الغرفة.",
+        "context": "وصف إجراء جارٍ لإيجاد قياس سطح."
+      },
+      {
+        "id": 7,
+        "en": "The new tool will calculate the difference between the prices.",
+        "ar": "الأداة الجديدة ستحسب الفرق بين السعرين.",
+        "context": "توقع عملية عددية تقارن مبلغين."
+      },
+      {
+        "id": 8,
+        "en": "The engineer calculated how much material was necessary.",
+        "ar": "المهندس حسب مقدار المادة اللازم.",
+        "context": "وصف تقدير سابق لمورد في عمل."
+      },
+      {
+        "id": 9,
+        "en": "Please calculate each part before adding the totals.",
+        "ar": "من فضلك احسب كل جزء قبل جمع المجاميع.",
+        "context": "طلب تسلسل في حل عملية متعددة الأجزاء."
+      },
+      {
+        "id": 10,
+        "en": "The organizer calculated on a small audience.",
+        "ar": "المنظم بنى حسابه على جمهور صغير.",
+        "context": "وصف توقع سابق استُخدم أساسًا لترتيب."
+      }
+    ]
+  }
+}

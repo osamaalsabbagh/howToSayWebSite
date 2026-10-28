@@ -1,0 +1,135 @@
+{
+  "schemaVersion": 1,
+  "id": 746,
+  "sentence": {
+    "en": "Do you know where I can get a taxi?",
+    "ar": "هل تعرف أين يمكنني أن أحصل على سيارة أجرة؟",
+    "context": "طلب المساعدة في العثور على سيارة أجرة قريبة."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Do you know",
+        "ar": "هل تعرف",
+        "context": "افتتاح مهذب لطلب معلومة.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "يستخدم المضارع البسيط للسؤال عن معرفة الشخص الحالية."
+        },
+        "wordMeanings": [
+          {
+            "term": "Do",
+            "description": "أداة سؤال في المضارع البسيط"
+          },
+          {
+            "term": "you",
+            "description": "الشخص المخاطب"
+          },
+          {
+            "term": "know",
+            "description": "تعرف أو لديك معلومة"
+          }
+        ]
+      },
+      {
+        "sentence": "where I can get a taxi",
+        "ar": "أين يمكنني أن أحصل على سيارة أجرة",
+        "context": "جزء يحدد المعلومة المطلوبة وهي مكان الحصول على سيارة أجرة.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذا سؤال غير مباشر يحتوي can للدلالة على الإمكانية، ولا يحتاج إلى زمن مستقل."
+        },
+        "wordMeanings": [
+          {
+            "term": "where",
+            "description": "أين؛ للسؤال عن المكان"
+          },
+          {
+            "term": "I",
+            "description": "أنا؛ المتكلم"
+          },
+          {
+            "term": "can",
+            "description": "أستطيع أو يمكنني"
+          },
+          {
+            "term": "get",
+            "description": "أحصل على أو أجد في هذا السياق"
+          },
+          {
+            "term": "a",
+            "description": "واحدة غير محددة"
+          },
+          {
+            "term": "taxi",
+            "description": "سيارة أجرة"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Do you know where I can buy water?",
+        "ar": "هل تعرف أين يمكنني شراء الماء؟",
+        "context": "لطلب مكان شراء شيء ضروري."
+      },
+      {
+        "id": 2,
+        "en": "Do you know where I can find a bus?",
+        "ar": "هل تعرف أين يمكنني العثور على حافلة؟",
+        "context": "للسؤال عن المواصلات."
+      },
+      {
+        "id": 3,
+        "en": "Do you know where I can park?",
+        "ar": "هل تعرف أين يمكنني الوقوف؟",
+        "context": "للسؤال عن مكان ركن السيارة."
+      },
+      {
+        "id": 4,
+        "en": "Do you know where I can get help?",
+        "ar": "هل تعرف أين يمكنني الحصول على مساعدة؟",
+        "context": "عند الحاجة إلى مساعدة في مكان عام."
+      },
+      {
+        "id": 5,
+        "en": "Do you know where I can exchange money?",
+        "ar": "هل تعرف أين يمكنني تبديل المال؟",
+        "context": "للسؤال عن مكان صرافة."
+      },
+      {
+        "id": 6,
+        "en": "Do you know where I can wait?",
+        "ar": "هل تعرف أين يمكنني الانتظار؟",
+        "context": "للسؤال عن مكان مناسب للانتظار."
+      },
+      {
+        "id": 7,
+        "en": "Do you know where I can eat?",
+        "ar": "هل تعرف أين يمكنني الأكل؟",
+        "context": "للسؤال عن مطعم قريب."
+      },
+      {
+        "id": 8,
+        "en": "Do you know where I can print this?",
+        "ar": "هل تعرف أين يمكنني طباعة هذا؟",
+        "context": "للسؤال عن خدمة طباعة."
+      },
+      {
+        "id": 9,
+        "en": "Do you know where I can charge my phone?",
+        "ar": "هل تعرف أين يمكنني شحن هاتفي؟",
+        "context": "للسؤال عن مقبس أو مكان شحن."
+      },
+      {
+        "id": 10,
+        "en": "Do you know where I can meet the driver?",
+        "ar": "هل تعرف أين يمكنني مقابلة السائق؟",
+        "context": "لترتيب نقطة لقاء."
+      }
+    ]
+  }
+}

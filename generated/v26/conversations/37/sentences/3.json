@@ -1,0 +1,111 @@
+{
+  "schemaVersion": 1,
+  "id": 3,
+  "sentence": {
+    "en": "Why? What happened?",
+    "ar": "لماذا؟ ماذا حدث؟",
+    "context": "يسأل عن سبب الإلحاح."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Why",
+        "ar": "لماذا؟",
+        "context": "سؤال قصير عن السبب.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه أداة سؤال مفردة ولا تحمل زمنًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "Why",
+            "description": "لماذا، للسؤال عن السبب"
+          }
+        ]
+      },
+      {
+        "sentence": "What happened",
+        "ar": "ماذا حدث؟",
+        "context": "سؤال عن الحدث أو المشكلة.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "happened يطلب معرفة شيء وقع قبل لحظة السؤال."
+        },
+        "wordMeanings": [
+          {
+            "term": "What",
+            "description": "ماذا"
+          },
+          {
+            "term": "happened",
+            "description": "حدث أو وقع"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Why did you call",
+        "ar": "لماذا اتصلت؟",
+        "context": "يقال للسؤال عن سبب الاتصال"
+      },
+      {
+        "id": 2,
+        "en": "What happened at home",
+        "ar": "ماذا حدث في البيت؟",
+        "context": "يقال عند السؤال عن مشكلة في البيت"
+      },
+      {
+        "id": 3,
+        "en": "Why are you upset",
+        "ar": "لماذا أنت منزعج؟",
+        "context": "يقال عند ملاحظة انزعاج شخص"
+      },
+      {
+        "id": 4,
+        "en": "What happened to the car",
+        "ar": "ماذا حدث للسيارة؟",
+        "context": "يقال عند وجود مشكلة في السيارة"
+      },
+      {
+        "id": 5,
+        "en": "Why is he late",
+        "ar": "لماذا هو متأخر؟",
+        "context": "يقال للسؤال عن سبب تأخر شخص"
+      },
+      {
+        "id": 6,
+        "en": "What happened after the meeting",
+        "ar": "ماذا حدث بعد الاجتماع؟",
+        "context": "يقال للسؤال عن تطورات لاحقة"
+      },
+      {
+        "id": 7,
+        "en": "Why do you need help",
+        "ar": "لماذا تحتاج إلى مساعدة؟",
+        "context": "يقال لفهم سبب طلب المساعدة"
+      },
+      {
+        "id": 8,
+        "en": "What happened this morning",
+        "ar": "ماذا حدث هذا الصباح؟",
+        "context": "يقال للسؤال عن حدث حديث"
+      },
+      {
+        "id": 9,
+        "en": "Why cannot you wait",
+        "ar": "لماذا لا يمكنك الانتظار؟",
+        "context": "يقال عند الاستغراب من الاستعجال"
+      },
+      {
+        "id": 10,
+        "en": "What happened with Alex",
+        "ar": "ماذا حدث مع أليكس؟",
+        "context": "يقال للسؤال عن حالة شخص محدد"
+      }
+    ]
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "schemaVersion": 1,
+  "id": 7443,
+  "sentence": {
+    "en": "The room can hold a maximum of fifty people.",
+    "ar": "الغرفة تتسع لخمسين شخصًا كحد أقصى.",
+    "context": "بيان أعلى عدد من الناس تستوعبه غرفة واقفين وجالسين معًا، لا عدد المقاعد فيها.",
+    "sourceWord": "maximum",
+    "sourcePos": "n."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "The room can hold a maximum of fifty people.",
+        "ar": "الغرفة تتسع لخمسين شخصًا كحد أقصى.",
+        "context": "بيان أعلى عدد من الناس تستوعبه غرفة واقفين وجالسين معًا، لا عدد المقاعد فيها.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "تركيب can hold يصف سعة ممكنة؛ تُترك حقول الزمن فارغة مع الفعل الناقص can."
+        },
+        "wordMeanings": [
+          {
+            "term": "The",
+            "description": "أداة تعريف تأتي مع الغرفة."
+          },
+          {
+            "term": "room",
+            "description": "الغرفة."
+          },
+          {
+            "term": "can",
+            "description": "تستطيع."
+          },
+          {
+            "term": "hold",
+            "description": "تتسع لـ."
+          },
+          {
+            "term": "a",
+            "description": "أداة تنكير قبل اسم مفرد."
+          },
+          {
+            "term": "maximum",
+            "description": "حد أقصى."
+          },
+          {
+            "term": "of",
+            "description": "من."
+          },
+          {
+            "term": "fifty",
+            "description": "خمسين."
+          },
+          {
+            "term": "people",
+            "description": "شخصًا."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "The room can hold a maximum of fifty people.",
+        "ar": "الغرفة تتسع لخمسين شخصًا كحد أقصى.",
+        "context": "بيان أعلى عدد تتسع له غرفة دون افتراض وجوده فيها حاليًا."
+      },
+      {
+        "id": 2,
+        "en": "The maximum applies to each order.",
+        "ar": "الحد الأقصى ينطبق على كل طلبية.",
+        "context": "بيان نطاق تطبيق سقف للكمية."
+      },
+      {
+        "id": 3,
+        "en": "We have raised the maximum.",
+        "ar": "نحن قد رفعنا الحد الأقصى.",
+        "context": "الإبلاغ عن زيادة مكتملة في سقف محدد."
+      },
+      {
+        "id": 4,
+        "en": "The meter is approaching its maximum.",
+        "ar": "العداد يقترب من حده الأقصى.",
+        "context": "وصف قراءة جارية تتجه نحو أعلى قيمة على مقياس."
+      },
+      {
+        "id": 5,
+        "en": "The maximum will increase next year.",
+        "ar": "الحد الأقصى سيزداد العام القادم.",
+        "context": "توقع رفع قيمة حد في موعد قادم."
+      },
+      {
+        "id": 6,
+        "en": "Please stay below the maximum.",
+        "ar": "من فضلك ابقَ دون الحد الأقصى.",
+        "context": "طلب عدم بلوغ سقف مقيد في نشاط."
+      },
+      {
+        "id": 7,
+        "en": "The price is a maximum, not a fixed charge.",
+        "ar": "السعر حد أقصى، لا رسم ثابت.",
+        "context": "تمييز سقف مبلغ من مبلغ يجب دفعه كاملًا في كل حالة."
+      },
+      {
+        "id": 8,
+        "en": "The graph shows a local maximum.",
+        "ar": "الرسم البياني يبين قيمة عظمى محلية.",
+        "context": "استعمال رياضي لقمة بالنسبة إلى القيم القريبة منها."
+      },
+      {
+        "id": 9,
+        "en": "The machine operated at its maximum for an hour.",
+        "ar": "الآلة عملت عند حدها الأقصى لساعة.",
+        "context": "وصف تشغيل سابق عند أعلى أداء متاح."
+      },
+      {
+        "id": 10,
+        "en": "The temperature rose to a maximum of thirty degrees.",
+        "ar": "درجة الحرارة ارتفعت إلى حد أقصى قدره ثلاثون درجة.",
+        "context": "وصف أعلى قيمة حرارية في فترة سابقة معينة."
+      }
+    ]
+  }
+}

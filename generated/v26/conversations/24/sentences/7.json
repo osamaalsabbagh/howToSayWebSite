@@ -1,0 +1,163 @@
+{
+  "schemaVersion": 1,
+  "id": 7,
+  "sentence": {
+    "en": "Yes, it is him. He seems to be working here as a waiter after his shift.",
+    "ar": "نعم، إنه هو. يبدو أنه يعمل هنا كنادل بعد دوامه.",
+    "context": "يبدو هنا تعبر عن إستنتاج عام نتيجة الطريقة التي يتصرف بها أو ما يرتديه."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Yes, it is him.",
+        "ar": "نعم، إنه هو.",
+        "context": "تؤكد الجملة أن الشخص الذي رأوه هو نفس الشخص المقصود.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "is يربط الضمير بهوية الشخص في اللحظة الحالية."
+        },
+        "wordMeanings": [
+          {
+            "term": "Yes",
+            "description": "نعم أو تأكيد"
+          },
+          {
+            "term": "it",
+            "description": "يشير إلى الشخص الذي ينظران إليه"
+          },
+          {
+            "term": "is",
+            "description": "يربط الإشارة بهوية الشخص"
+          },
+          {
+            "term": "him",
+            "description": "هو، أي ذلك الرجل"
+          }
+        ]
+      },
+      {
+        "sentence": "He seems to be working here as a waiter after his shift.",
+        "ar": "يبدو أنه يعمل هنا كنادل بعد دوامه.",
+        "context": "تعبر عن استنتاج مبني على مظهره أو ما يفعله.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "seems يصف انطباعًا حاليًا، وto be working يصف نشاطًا جاريًا يبدو أنه يحدث الآن."
+        },
+        "wordMeanings": [
+          {
+            "term": "He",
+            "description": "ذلك الرجل"
+          },
+          {
+            "term": "seems",
+            "description": "يبدو أو يظهر من القرائن"
+          },
+          {
+            "term": "to",
+            "description": "تربط seems بالفعل التالي"
+          },
+          {
+            "term": "be",
+            "description": "تأتي قبل الفعل المستمر لوصف حالة جارية"
+          },
+          {
+            "term": "working",
+            "description": "يعمل في هذه اللحظة أو خلال هذه الفترة"
+          },
+          {
+            "term": "here",
+            "description": "في هذا المكان"
+          },
+          {
+            "term": "as",
+            "description": "بصفة أو في دور"
+          },
+          {
+            "term": "a",
+            "description": "واحد غير محدد"
+          },
+          {
+            "term": "waiter",
+            "description": "نادل يقدم الطعام والشراب"
+          },
+          {
+            "term": "after",
+            "description": "بعد"
+          },
+          {
+            "term": "his",
+            "description": "خاص به"
+          },
+          {
+            "term": "shift",
+            "description": "دوام أو فترة عمل"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Yes, it is her. She seems to be waiting outside.",
+        "ar": "نعم، إنها هي. يبدو أنها تنتظر في الخارج.",
+        "context": "تقال عند تأكيد هوية شخص ثم وصف ما يبدو أنه يفعله."
+      },
+      {
+        "id": 2,
+        "en": "He seems to be working late tonight.",
+        "ar": "يبدو أنه يعمل لوقت متأخر الليلة.",
+        "context": "تقال عند استنتاج ذلك من وجوده في العمل."
+      },
+      {
+        "id": 3,
+        "en": "She seems to be helping the customers.",
+        "ar": "يبدو أنها تساعد الزبائن.",
+        "context": "تقال عند رؤية شخص يقوم بدور خدمة."
+      },
+      {
+        "id": 4,
+        "en": "Yes, it is him. He works with us.",
+        "ar": "نعم، إنه هو. يعمل معنا.",
+        "context": "تقال عند تأكيد أن الشخص زميل."
+      },
+      {
+        "id": 5,
+        "en": "He seems to be tired after his shift.",
+        "ar": "يبدو أنه متعب بعد دوامه.",
+        "context": "تقال عند ملاحظة علامات التعب."
+      },
+      {
+        "id": 6,
+        "en": "She seems to be working here today.",
+        "ar": "يبدو أنها تعمل هنا اليوم.",
+        "context": "تقال عند استنتاج مكان عمل مؤقت."
+      },
+      {
+        "id": 7,
+        "en": "He seems to be happy with his job.",
+        "ar": "يبدو أنه سعيد بعمله.",
+        "context": "تقال عند ملاحظة ارتياح شخص في العمل."
+      },
+      {
+        "id": 8,
+        "en": "Yes, it is him. He is wearing the uniform.",
+        "ar": "نعم، إنه هو. إنه يرتدي الزي.",
+        "context": "تقال عند تأكيد الهوية من الملابس."
+      },
+      {
+        "id": 9,
+        "en": "He seems to be serving that table.",
+        "ar": "يبدو أنه يخدم تلك الطاولة.",
+        "context": "تقال عند رؤية نادل يعمل."
+      },
+      {
+        "id": 10,
+        "en": "She seems to be busy after work.",
+        "ar": "يبدو أنها مشغولة بعد العمل.",
+        "context": "تقال عند استنتاج الانشغال من التصرفات."
+      }
+    ]
+  }
+}

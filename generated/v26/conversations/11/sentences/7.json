@@ -1,0 +1,139 @@
+{
+  "schemaVersion": 1,
+  "id": 7,
+  "sentence": {
+    "en": "That is a great question. The answer depends on context.",
+    "ar": "ذلك سؤال عظيم. الإجابة تعتمد على السياق.",
+    "context": "المعلم يمدح السؤال ويقصد أنه سؤال رائع يستحق التقدير"
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "That is a great question.",
+        "ar": "ذلك سؤال عظيم.",
+        "context": "يبدأ به المتحدث الفكرة الأساسية قبل إضافة التفاصيل.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "تصف الجملة السؤال في لحظة الحديث بأنه رائع أو مناسب."
+        },
+        "wordMeanings": [
+          {
+            "term": "That",
+            "description": "يشير إلى السؤال الذي طرحه الطالب."
+          },
+          {
+            "term": "is",
+            "description": "تربط الشيء المشار إليه بوصفه رائعًا."
+          },
+          {
+            "term": "a",
+            "description": "أداة نكرة تأتي قبل اسم مفرد."
+          },
+          {
+            "term": "great",
+            "description": "رائع أو ممتاز."
+          },
+          {
+            "term": "question",
+            "description": "سؤال أو استفسار."
+          }
+        ]
+      },
+      {
+        "sentence": "The answer depends on context.",
+        "ar": "الإجابة تعتمد على السياق.",
+        "context": "يكمل به المتحدث المعنى أو النتيجة داخل هذا الموقف.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "تقدم الجملة حقيقة عامة: الإجابة تتغير حسب السياق."
+        },
+        "wordMeanings": [
+          {
+            "term": "The",
+            "description": "أداة تعريف تشير إلى إجابة محددة للسؤال."
+          },
+          {
+            "term": "answer",
+            "description": "الإجابة أو الحل."
+          },
+          {
+            "term": "depends",
+            "description": "يعتمد أو يتغير بحسب شيء آخر."
+          },
+          {
+            "term": "on",
+            "description": "تأتي مع depends لتوضيح الشيء الذي يعتمد عليه المعنى."
+          },
+          {
+            "term": "context",
+            "description": "السياق أو الظروف التي تحدد المعنى."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "That is a good question. The answer depends on the situation.",
+        "ar": "هذا سؤال جيد. الإجابة تعتمد على الموقف.",
+        "context": "يُستخدم عندما لا توجد إجابة واحدة ثابتة."
+      },
+      {
+        "id": 2,
+        "en": "That is an important question. The answer depends on the rules.",
+        "ar": "هذا سؤال مهم. الإجابة تعتمد على القواعد.",
+        "context": "يُستخدم عندما تحدد القواعد الإجابة."
+      },
+      {
+        "id": 3,
+        "en": "That is a useful question. The answer depends on your goal.",
+        "ar": "هذا سؤال مفيد. الإجابة تعتمد على هدفك.",
+        "context": "يُستخدم عند ربط الإجابة بما يريده الشخص."
+      },
+      {
+        "id": 4,
+        "en": "That is a great question. The price depends on the size.",
+        "ar": "هذا سؤال رائع. السعر يعتمد على الحجم.",
+        "context": "يُستخدم عند شرح سبب اختلاف السعر."
+      },
+      {
+        "id": 5,
+        "en": "That is a fair question. The time depends on traffic.",
+        "ar": "هذا سؤال عادل. الوقت يعتمد على حركة المرور.",
+        "context": "يُستخدم عند تقدير مدة تتغير حسب الطريق."
+      },
+      {
+        "id": 6,
+        "en": "That is a smart question. The meaning depends on context.",
+        "ar": "هذا سؤال ذكي. المعنى يعتمد على السياق.",
+        "context": "يُستخدم عند شرح أن الكلمة قد تختلف حسب الاستعمال."
+      },
+      {
+        "id": 7,
+        "en": "That is a hard question. The answer depends on the details.",
+        "ar": "هذا سؤال صعب. الإجابة تعتمد على التفاصيل.",
+        "context": "يُستخدم عندما تحتاج الإجابة إلى معلومات إضافية."
+      },
+      {
+        "id": 8,
+        "en": "That is a clear question. The answer depends on the example.",
+        "ar": "هذا سؤال واضح. الإجابة تعتمد على المثال.",
+        "context": "يُستخدم في شرح تعليمي يحتاج إلى مثال محدد."
+      },
+      {
+        "id": 9,
+        "en": "That is a great question. The choice depends on your needs.",
+        "ar": "هذا سؤال رائع. الاختيار يعتمد على احتياجاتك.",
+        "context": "يُستخدم عند مساعدة شخص على اختيار مناسب."
+      },
+      {
+        "id": 10,
+        "en": "That is a good question. The result depends on practice.",
+        "ar": "هذا سؤال جيد. النتيجة تعتمد على التدريب.",
+        "context": "يُستخدم عند الحديث عن التحسن بالتدريب."
+      }
+    ]
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "schemaVersion": 1,
+  "id": 13771,
+  "sentence": {
+    "en": "If you have any queries, please call us.",
+    "ar": "إذا كان لديك أي استفسارات، من فضلك اتصل بنا.",
+    "context": "عبارة رسمية في رسالة شركة تدعو العملاء للسؤال عن أي شيء غير واضح.",
+    "sourceWord": "query",
+    "sourcePos": "n."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "If you have any queries",
+        "ar": "إذا كان لديك أي استفسارات",
+        "context": "شرط يصف حالة وجود أسئلة لدى القارئ.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "المضارع البسيط بعد «If» يصف شرطًا عامًا قد يتحقق."
+        },
+        "wordMeanings": [
+          {
+            "term": "If",
+            "description": "إذا"
+          },
+          {
+            "term": "you",
+            "description": "أنت؛ لديك"
+          },
+          {
+            "term": "have",
+            "description": "كان لديك"
+          },
+          {
+            "term": "any",
+            "description": "أي"
+          },
+          {
+            "term": "queries",
+            "description": "استفسارات؛ أسئلة رسمية لطلب معلومات"
+          }
+        ]
+      },
+      {
+        "sentence": "please call us",
+        "ar": "من فضلك اتصل بنا",
+        "context": "جواب الشرط وهو طلب مهذب.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "جملة أمر مهذبة تطلب من المخاطب فعل شيء؛ لا يوجد زمن مستقل."
+        },
+        "wordMeanings": [
+          {
+            "term": "please",
+            "description": "من فضلك"
+          },
+          {
+            "term": "call",
+            "description": "اتصل"
+          },
+          {
+            "term": "us",
+            "description": "بنا"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "If you have any queries, please call us.",
+        "ar": "إذا كان لديك أي استفسارات، من فضلك اتصل بنا.",
+        "context": "عبارة رسمية في رسالة شركة تدعو العملاء للسؤال عن أي شيء غير واضح."
+      },
+      {
+        "id": 2,
+        "en": "The help desk answers queries all day.",
+        "ar": "مكتب المساعدة يجيب عن الاستفسارات طوال اليوم.",
+        "context": "خدمة."
+      },
+      {
+        "id": 3,
+        "en": "I have a query about my bill.",
+        "ar": "أنا لدي استفسار بشأن فاتورتي.",
+        "context": "بنك."
+      },
+      {
+        "id": 4,
+        "en": "Send your queries by email.",
+        "ar": "أرسل استفساراتك بالبريد الإلكتروني.",
+        "context": "تواصل."
+      },
+      {
+        "id": 5,
+        "en": "The teacher answered every query.",
+        "ar": "المعلم أجاب عن كل استفسار.",
+        "context": "صف."
+      },
+      {
+        "id": 6,
+        "en": "Queries about tickets go to this office.",
+        "ar": "الاستفسارات عن التذاكر تذهب إلى هذا المكتب.",
+        "context": "إرشاد."
+      },
+      {
+        "id": 7,
+        "en": "Her query was never answered.",
+        "ar": "استفسارها أبدًا لم يُجب عنه.",
+        "context": "شكوى."
+      },
+      {
+        "id": 8,
+        "en": "We received many queries after the ad.",
+        "ar": "نحن تلقينا استفسارات كثيرة بعد الإعلان.",
+        "context": "تسويق."
+      },
+      {
+        "id": 9,
+        "en": "A database query returns results quickly.",
+        "ar": "استعلام قاعدة البيانات يعيد النتائج بسرعة.",
+        "context": "برمجة."
+      },
+      {
+        "id": 10,
+        "en": "If you have a query, raise your hand.",
+        "ar": "إذا كان لديك استفسار، ارفع يدك.",
+        "context": "محاضرة."
+      }
+    ]
+  }
+}

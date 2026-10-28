@@ -1,0 +1,111 @@
+{
+  "schemaVersion": 1,
+  "id": 1002,
+  "sentence": {
+    "en": "Can you lend me a pen?",
+    "ar": "هل يمكنك إعارتي قلمًا؟",
+    "context": "تُستخدم لطلب استعارة قلم."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Can you lend me a pen",
+        "ar": "هل يمكنك إعارتي قلمًا",
+        "context": "تُستخدم لطلب قلم مؤقتًا من شخص.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "السؤال يستخدم Can you لطلب خدمة بأدب، وليس له زمن مستقل."
+        },
+        "wordMeanings": [
+          {
+            "term": "Can",
+            "description": "هل يمكنك، لطلب خدمة"
+          },
+          {
+            "term": "you",
+            "description": "أنت أو أنتم حسب المخاطب"
+          },
+          {
+            "term": "lend",
+            "description": "تعير أو تعطي مؤقتًا"
+          },
+          {
+            "term": "me",
+            "description": "لي، أي للمتكلم"
+          },
+          {
+            "term": "a",
+            "description": "أداة تشير إلى شيء واحد غير محدد"
+          },
+          {
+            "term": "pen",
+            "description": "قلم"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Can you lend me a pencil?",
+        "ar": "هل يمكنك إعارتي قلم رصاص؟",
+        "context": "تُستخدم في الصف أو المكتب."
+      },
+      {
+        "id": 2,
+        "en": "Can you lend me your phone?",
+        "ar": "هل يمكنك إعارتي هاتفك؟",
+        "context": "تُستخدم عند الحاجة إلى مكالمة."
+      },
+      {
+        "id": 3,
+        "en": "Can you lend me some money?",
+        "ar": "هل يمكنك إعارتي بعض المال؟",
+        "context": "تُستخدم عند الحاجة إلى مال مؤقت."
+      },
+      {
+        "id": 4,
+        "en": "Can I borrow a pen?",
+        "ar": "هل يمكنني استعارة قلم؟",
+        "context": "تُستخدم بصيغة أخرى لطلب قلم."
+      },
+      {
+        "id": 5,
+        "en": "Can you lend me a book?",
+        "ar": "هل يمكنك إعارتي كتابًا؟",
+        "context": "تُستخدم لاستعارة كتاب."
+      },
+      {
+        "id": 6,
+        "en": "Can you lend me your notes?",
+        "ar": "هل يمكنك إعارتي ملاحظاتك؟",
+        "context": "تُستخدم في الدراسة."
+      },
+      {
+        "id": 7,
+        "en": "Can you lend me a charger?",
+        "ar": "هل يمكنك إعارتي شاحنًا؟",
+        "context": "تُستخدم عند نفاد بطارية الهاتف."
+      },
+      {
+        "id": 8,
+        "en": "Please lend me a pen.",
+        "ar": "من فضلك أعرني قلمًا.",
+        "context": "تُستخدم كطلب مباشر مهذب."
+      },
+      {
+        "id": 9,
+        "en": "Can you lend me this chair?",
+        "ar": "هل يمكنك إعارتي هذا الكرسي؟",
+        "context": "تُستخدم عند الحاجة إلى مقعد."
+      },
+      {
+        "id": 10,
+        "en": "Can you lend me your bag?",
+        "ar": "هل يمكنك إعارتي حقيبتك؟",
+        "context": "تُستخدم لاستعارة حقيبة مؤقتًا."
+      }
+    ]
+  }
+}

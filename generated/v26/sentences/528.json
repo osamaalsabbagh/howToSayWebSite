@@ -1,0 +1,115 @@
+{
+  "schemaVersion": 1,
+  "id": 528,
+  "sentence": {
+    "en": "Do you want to go with me?",
+    "ar": "هل تريد أن تذهب معي؟",
+    "context": "عرض مرافقة شخص إلى مكان معين."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Do you want to go with me?",
+        "ar": "هل تريد أن تذهب معي؟",
+        "context": "سؤال عن رغبة المخاطب في الذهاب مع المتكلم.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "want في المضارع البسيط يسأل عن رغبة حالية، وto go يوضح الفعل المطلوب."
+        },
+        "wordMeanings": [
+          {
+            "term": "Do",
+            "description": "تساعد في تكوين السؤال."
+          },
+          {
+            "term": "you",
+            "description": "تشير إلى المخاطب."
+          },
+          {
+            "term": "want",
+            "description": "تعني تريد."
+          },
+          {
+            "term": "to",
+            "description": "تربط الرغبة بالفعل."
+          },
+          {
+            "term": "go",
+            "description": "تعني تذهب."
+          },
+          {
+            "term": "with",
+            "description": "تعني مع."
+          },
+          {
+            "term": "me",
+            "description": "تشير إلى المتكلم."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Do you want to come with me?",
+        "ar": "هل تريد أن تأتي معي؟",
+        "context": "دعوة مشابهة للمرافقة."
+      },
+      {
+        "id": 2,
+        "en": "I want to go with you.",
+        "ar": "أريد أن أذهب معك.",
+        "context": "قبول المرافقة."
+      },
+      {
+        "id": 3,
+        "en": "She wants to go with her friend.",
+        "ar": "هي تريد أن تذهب مع صديقتها.",
+        "context": "ذكر رغبة شخص."
+      },
+      {
+        "id": 4,
+        "en": "Do you want to go now?",
+        "ar": "هل تريد أن تذهب الآن؟",
+        "context": "سؤال عن وقت الذهاب."
+      },
+      {
+        "id": 5,
+        "en": "We can go together.",
+        "ar": "يمكننا أن نذهب معًا.",
+        "context": "اقتراح مرافقة."
+      },
+      {
+        "id": 6,
+        "en": "He does not want to go.",
+        "ar": "هو لا يريد أن يذهب.",
+        "context": "رفض الذهاب."
+      },
+      {
+        "id": 7,
+        "en": "Can I go with you?",
+        "ar": "هل يمكنني الذهاب معك؟",
+        "context": "طلب مرافقة."
+      },
+      {
+        "id": 8,
+        "en": "Do they want to go with us?",
+        "ar": "هل يريدون الذهاب معنا؟",
+        "context": "دعوة مجموعة."
+      },
+      {
+        "id": 9,
+        "en": "I do not want to go alone.",
+        "ar": "لا أريد أن أذهب وحدي.",
+        "context": "توضيح سبب المرافقة."
+      },
+      {
+        "id": 10,
+        "en": "Go with me to the store.",
+        "ar": "اذهب معي إلى المتجر.",
+        "context": "طلب مباشر للمرافقة."
+      }
+    ]
+  }
+}

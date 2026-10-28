@@ -1,0 +1,123 @@
+{
+  "schemaVersion": 1,
+  "id": 3,
+  "sentence": {
+    "en": "I am looking for a light-colored Siamese cat.",
+    "ar": "أبحث عن قطة سيامية فاتحة اللون.",
+    "context": "يذكر نوع القطة التي يريدها ولونها."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "I am looking for a light-colored Siamese cat",
+        "ar": "أبحث عن قطة سيامية فاتحة اللون.",
+        "context": "يحدد الزبون النوع واللون الذي يريده.",
+        "grammar": {
+          "tense": "المضارع المستمر",
+          "tenseEn": "Present Continuous",
+          "reason": "am looking for يصف ما يبحث عنه الشخص الآن في المتجر."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "أنا"
+          },
+          {
+            "term": "am",
+            "description": "صيغة تأتي مع أنا لتكوين وصف جار"
+          },
+          {
+            "term": "looking",
+            "description": "أبحث أو أنظر"
+          },
+          {
+            "term": "for",
+            "description": "عن"
+          },
+          {
+            "term": "a",
+            "description": "أداة قبل اسم مفرد غير محدد"
+          },
+          {
+            "term": "light",
+            "description": "فاتح اللون"
+          },
+          {
+            "term": "colored",
+            "description": "ملون أو ذو لون"
+          },
+          {
+            "term": "Siamese",
+            "description": "سيامي، اسم سلالة"
+          },
+          {
+            "term": "cat",
+            "description": "قطة"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I am looking for a black cat",
+        "ar": "أبحث عن قطة سوداء",
+        "context": "يقال عند تحديد لون حيوان أليف"
+      },
+      {
+        "id": 2,
+        "en": "She is looking for a small dog",
+        "ar": "هي تبحث عن كلب صغير",
+        "context": "يقال عند وصف طلب زبون"
+      },
+      {
+        "id": 3,
+        "en": "I am looking for a specific breed",
+        "ar": "أبحث عن سلالة معينة",
+        "context": "يقال في متجر حيوانات"
+      },
+      {
+        "id": 4,
+        "en": "They are looking for a light-colored sofa",
+        "ar": "هم يبحثون عن أريكة فاتحة اللون",
+        "context": "يقال عند التسوق لشيء بلون محدد"
+      },
+      {
+        "id": 5,
+        "en": "I want a Siamese cat",
+        "ar": "أريد قطة سيامية",
+        "context": "يقال عند ذكر نوع مطلوب"
+      },
+      {
+        "id": 6,
+        "en": "Are you looking for a kitten",
+        "ar": "هل تبحث عن قطة صغيرة؟",
+        "context": "يقال للسؤال عن عمر الحيوان"
+      },
+      {
+        "id": 7,
+        "en": "I am looking for a calm pet",
+        "ar": "أبحث عن حيوان أليف هادئ",
+        "context": "يقال عند وصف صفة مطلوبة"
+      },
+      {
+        "id": 8,
+        "en": "He is looking for a new phone",
+        "ar": "هو يبحث عن هاتف جديد",
+        "context": "يقال عند التسوق لمنتج"
+      },
+      {
+        "id": 9,
+        "en": "I am looking for a white shirt",
+        "ar": "أبحث عن قميص أبيض",
+        "context": "يقال عند تحديد لون في متجر"
+      },
+      {
+        "id": 10,
+        "en": "We are looking for a friendly cat",
+        "ar": "نحن نبحث عن قطة ودودة",
+        "context": "يقال عند اختيار حيوان أليف"
+      }
+    ]
+  }
+}

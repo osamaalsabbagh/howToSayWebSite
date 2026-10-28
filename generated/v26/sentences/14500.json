@@ -1,0 +1,109 @@
+{
+  "schemaVersion": 1,
+  "id": 14500,
+  "sentence": {
+    "en": "Please verify your email address.",
+    "ar": "من فضلك تحقق من عنوان بريدك الإلكتروني.",
+    "context": "رسالة من موقع يطلب تأكيد الحساب بعد التسجيل.",
+    "sourceWord": "verify",
+    "sourcePos": "v."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Please verify your email address.",
+        "ar": "من فضلك تحقق من عنوان بريدك الإلكتروني.",
+        "context": "رسالة من موقع يطلب تأكيد الحساب بعد التسجيل.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "صيغة الأمر تعطي طلبًا مهذبًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "Please",
+            "description": "من فضلك"
+          },
+          {
+            "term": "verify",
+            "description": "تحقق من؛ تأكد من صحة شيء"
+          },
+          {
+            "term": "your",
+            "description": "ضمير الملكية للمخاطب"
+          },
+          {
+            "term": "email",
+            "description": "البريد الإلكتروني"
+          },
+          {
+            "term": "address",
+            "description": "عنوان"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Please verify your email address.",
+        "ar": "من فضلك تحقق من عنوان بريدك الإلكتروني.",
+        "context": "رسالة من موقع يطلب تأكيد الحساب بعد التسجيل."
+      },
+      {
+        "id": 2,
+        "en": "We need to verify your identity.",
+        "ar": "نحن نحتاج إلى التحقق من هويتك.",
+        "context": "بنك."
+      },
+      {
+        "id": 3,
+        "en": "Can you verify the facts?",
+        "ar": "هل تستطيع التحقق من الحقائق؟",
+        "context": "إعلام."
+      },
+      {
+        "id": 4,
+        "en": "The bank verifies every payment.",
+        "ar": "البنك يتحقق من كل دفعة.",
+        "context": "مال."
+      },
+      {
+        "id": 5,
+        "en": "Verify the numbers before you send.",
+        "ar": "تحقق من الأرقام قبل أن ترسل.",
+        "context": "عمل."
+      },
+      {
+        "id": 6,
+        "en": "The police verified his story.",
+        "ar": "الشرطة تحققت من قصته.",
+        "context": "تحقيق."
+      },
+      {
+        "id": 7,
+        "en": "Scientists must verify the results.",
+        "ar": "العلماء يجب أن يتحققوا من النتائج.",
+        "context": "بحث."
+      },
+      {
+        "id": 8,
+        "en": "The app verifies your age.",
+        "ar": "التطبيق يتحقق من عمرك.",
+        "context": "تقنية."
+      },
+      {
+        "id": 9,
+        "en": "I could not verify the source.",
+        "ar": "أنا لم أستطع التحقق من المصدر.",
+        "context": "صحافة."
+      },
+      {
+        "id": 10,
+        "en": "The guard verified our tickets.",
+        "ar": "الحارس تحقق من تذاكرنا.",
+        "context": "دخول."
+      }
+    ]
+  }
+}

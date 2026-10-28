@@ -1,0 +1,111 @@
+{
+  "schemaVersion": 1,
+  "id": 1224,
+  "sentence": {
+    "en": "Can you share the address pin?",
+    "ar": "هل يمكنك مشاركة الموقع على الخريطة؟",
+    "context": "تُستخدم لطلب إرسال الموقع الجغرافي عبر تطبيقات الرسائل."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Can you share the address pin",
+        "ar": "هل يمكنك مشاركة دبوس العنوان",
+        "context": "طلب إرسال موقع جغرافي عبر تطبيق.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه صيغة طلب باستخدام كلمة تدل على القدرة، وليست زمنًا مستقلًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "Can",
+            "description": "تُستخدم لطلب شيء بأدب"
+          },
+          {
+            "term": "you",
+            "description": "ضمير للمخاطب"
+          },
+          {
+            "term": "share",
+            "description": "تشارك أو ترسل"
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف"
+          },
+          {
+            "term": "address",
+            "description": "عنوان"
+          },
+          {
+            "term": "pin",
+            "description": "علامة موقع على الخريطة"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Can you send the location?",
+        "ar": "هل يمكنك إرسال الموقع؟",
+        "context": "تُستخدم لطلب موقع."
+      },
+      {
+        "id": 2,
+        "en": "Please share your address.",
+        "ar": "يرجى مشاركة عنوانك.",
+        "context": "تُستخدم لتحديد مكان."
+      },
+      {
+        "id": 3,
+        "en": "Send me the map pin.",
+        "ar": "أرسل لي دبوس الخريطة.",
+        "context": "تُستخدم في تطبيق خرائط."
+      },
+      {
+        "id": 4,
+        "en": "Can you share the hotel location?",
+        "ar": "هل يمكنك مشاركة موقع الفندق؟",
+        "context": "تُستخدم في السفر."
+      },
+      {
+        "id": 5,
+        "en": "The address pin is incorrect.",
+        "ar": "دبوس العنوان غير صحيح.",
+        "context": "تُقال عند خطأ الموقع."
+      },
+      {
+        "id": 6,
+        "en": "I will send the location now.",
+        "ar": "سأرسل الموقع الآن.",
+        "context": "تُستخدم للإجابة."
+      },
+      {
+        "id": 7,
+        "en": "Can you drop a pin here?",
+        "ar": "هل يمكنك وضع دبوس موقع هنا؟",
+        "context": "تُستخدم لطلب تحديد مكان."
+      },
+      {
+        "id": 8,
+        "en": "The pin shows the meeting place.",
+        "ar": "يُظهر الدبوس مكان اللقاء.",
+        "context": "تُستخدم لشرح الخريطة."
+      },
+      {
+        "id": 9,
+        "en": "Share the address in the chat.",
+        "ar": "شارك العنوان في الدردشة.",
+        "context": "تُستخدم كتعليمات."
+      },
+      {
+        "id": 10,
+        "en": "I cannot find the address pin.",
+        "ar": "لا أستطيع العثور على دبوس العنوان.",
+        "context": "تُقال عند مشكلة في الخريطة."
+      }
+    ]
+  }
+}

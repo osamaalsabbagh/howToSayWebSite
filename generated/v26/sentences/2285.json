@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "id": 2285,
+  "sentence": {
+    "en": "I am learning English.",
+    "ar": "أنا أتعلم الإنجليزية.",
+    "context": "تخبر أنك تتعلم اللغة."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "I am learning English.",
+        "ar": "أنا أتعلم الإنجليزية.",
+        "context": "يعرض به المتحدث الفكرة الأساسية التي يريد قولها في هذا الموقف.",
+        "grammar": {
+          "tense": "المضارع المستمر",
+          "tenseEn": "Present Continuous",
+          "reason": "الجملة تصف عملية تعلم مستمرة حول الفترة الحالية، وليست فعلًا لحظيًا فقط."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير المتكلم المفرد."
+          },
+          {
+            "term": "am",
+            "description": "تساعد هنا في تكوين الفعل المستمر."
+          },
+          {
+            "term": "learning",
+            "description": "أتعلم أو أكتسب معرفة تدريجيًا."
+          },
+          {
+            "term": "English",
+            "description": "اللغة الإنجليزية."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I am learning English now.",
+        "ar": "أنا أتعلم الإنجليزية الآن.",
+        "context": "تقال عند الحديث عن تعلم حالي."
+      },
+      {
+        "id": 2,
+        "en": "She is learning Arabic.",
+        "ar": "هي تتعلم العربية.",
+        "context": "تصف تعلم شخص آخر للغة."
+      },
+      {
+        "id": 3,
+        "en": "We are learning new words.",
+        "ar": "نحن نتعلم كلمات جديدة.",
+        "context": "تقال في موقف دراسة."
+      },
+      {
+        "id": 4,
+        "en": "I am learning to speak slowly.",
+        "ar": "أنا أتعلم أن أتحدث ببطء.",
+        "context": "تقال عند التدريب على مهارة كلام."
+      },
+      {
+        "id": 5,
+        "en": "He is learning English at school.",
+        "ar": "هو يتعلم الإنجليزية في المدرسة.",
+        "context": "تصف مكان التعلم."
+      },
+      {
+        "id": 6,
+        "en": "I am learning with my teacher.",
+        "ar": "أنا أتعلم مع معلمي.",
+        "context": "تقال عند ذكر من يساعدك في التعلم."
+      },
+      {
+        "id": 7,
+        "en": "They are learning together.",
+        "ar": "هم يتعلمون معًا.",
+        "context": "تصف تعلم مجموعة."
+      },
+      {
+        "id": 8,
+        "en": "I am learning every day.",
+        "ar": "أنا أتعلم كل يوم.",
+        "context": "تقال للتعبير عن عادة مستمرة."
+      },
+      {
+        "id": 9,
+        "en": "Are you learning English?",
+        "ar": "هل تتعلم الإنجليزية؟",
+        "context": "تُستخدم للسؤال عن تعلم شخص."
+      },
+      {
+        "id": 10,
+        "en": "I am learning simple sentences.",
+        "ar": "أنا أتعلم جملًا بسيطة.",
+        "context": "تقال عند وصف نوع المادة التي تتعلمها."
+      }
+    ]
+  }
+}

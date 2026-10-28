@@ -1,0 +1,147 @@
+{
+  "schemaVersion": 1,
+  "id": 3,
+  "sentence": {
+    "en": "I do not like our neighbors here. We have nothing in common.",
+    "ar": "لا أحب جيراننا هنا. لدينا لاشيء مشترك.",
+    "context": "لدينا لاشيء مشترك بمعنى أنه لا يوجد شيء مشترك بيننا."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "I do not like our neighbors here.",
+        "ar": "أنا لا أحب جيراننا هنا.",
+        "context": "توضح هذه الجملة شعور المتكلم السلبي تجاه الجيران في هذا المكان.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُخدم المضارع البسيط مع النفي للتعبير عن شعور أو رأي ثابت في الوقت الحالي."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير للمتكلم المفرد ويعني أنا"
+          },
+          {
+            "term": "do",
+            "description": "كلمة مساعدة تُستخدم هنا لتكوين النفي في المضارع"
+          },
+          {
+            "term": "not",
+            "description": "أداة نفي معناها لا"
+          },
+          {
+            "term": "like",
+            "description": "أحب أو أرتاح إلى الشيء"
+          },
+          {
+            "term": "our",
+            "description": "ضمير ملكية يعني الخاص بنا"
+          },
+          {
+            "term": "neighbors",
+            "description": "الأشخاص الذين يسكنون بالقرب منا"
+          },
+          {
+            "term": "here",
+            "description": "في هذا المكان"
+          }
+        ]
+      },
+      {
+        "sentence": "We have nothing in common.",
+        "ar": "ليس لدينا أي شيء مشترك.",
+        "context": "تشرح هذه الجملة سبب عدم الارتياح للجيران، وهو غياب الاهتمامات أو الصفات المشتركة.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُخدم المضارع البسيط لوصف حالة عامة مستمرة بين المتكلمين والجيران."
+        },
+        "wordMeanings": [
+          {
+            "term": "We",
+            "description": "ضمير للجمع ويعني نحن"
+          },
+          {
+            "term": "have",
+            "description": "نملك أو يوجد لدينا"
+          },
+          {
+            "term": "nothing",
+            "description": "لا شيء"
+          },
+          {
+            "term": "in",
+            "description": "حرف جر يُستخدم هنا ضمن تعبير يعني وجود شيء مشترك"
+          },
+          {
+            "term": "common",
+            "description": "مشترك بين أشخاص أو أشياء"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I do not like this noisy street.",
+        "ar": "لا أحب هذا الشارع المزعج.",
+        "context": "تُقال عند التعبير عن عدم الارتياح لمكان."
+      },
+      {
+        "id": 2,
+        "en": "We have nothing in common with them.",
+        "ar": "ليس لدينا أي شيء مشترك معهم.",
+        "context": "تُستخدم لوصف اختلاف كبير بين مجموعتين."
+      },
+      {
+        "id": 3,
+        "en": "I do not like cold coffee.",
+        "ar": "لا أحب القهوة الباردة.",
+        "context": "تُقال عند ذكر تفضيل شخصي."
+      },
+      {
+        "id": 4,
+        "en": "They have many things in common.",
+        "ar": "لديهم أشياء كثيرة مشتركة.",
+        "context": "تُستخدم عند الحديث عن تشابه بين أشخاص."
+      },
+      {
+        "id": 5,
+        "en": "I do not like his rude words.",
+        "ar": "لا أحب كلماته الوقحة.",
+        "context": "تُقال عند الاعتراض على طريقة كلام شخص."
+      },
+      {
+        "id": 6,
+        "en": "We do not like this apartment.",
+        "ar": "لا نحب هذه الشقة.",
+        "context": "تُستخدم عند رفض مكان للسكن."
+      },
+      {
+        "id": 7,
+        "en": "You have nothing to worry about.",
+        "ar": "ليس لديك ما تقلق بشأنه.",
+        "context": "تُقال لطمأنة شخص."
+      },
+      {
+        "id": 8,
+        "en": "I do not like working late.",
+        "ar": "لا أحب العمل في وقت متأخر.",
+        "context": "تُستخدم للتعبير عن عدم تفضيل عادة معينة."
+      },
+      {
+        "id": 9,
+        "en": "The two brothers have a lot in common.",
+        "ar": "لدى الأخوين الكثير من الأشياء المشتركة.",
+        "context": "تُقال عند وصف تشابه واضح بين شخصين."
+      },
+      {
+        "id": 10,
+        "en": "We do not have common interests.",
+        "ar": "ليست لدينا اهتمامات مشتركة.",
+        "context": "تُستخدم عند شرح ضعف العلاقة بين أشخاص."
+      }
+    ]
+  }
+}

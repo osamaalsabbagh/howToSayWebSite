@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 1,
+  "id": 9127,
+  "sentence": {
+    "en": "I was tired, yet I kept working.",
+    "ar": "أنا كنت متعبًا، ومع ذلك أنا واصلت العمل.",
+    "context": "رواية عن مواصلة العمل رغم شعور المتكلم بالتعب.",
+    "sourceWord": "yet",
+    "sourcePos": "conj."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "I was tired",
+        "ar": "أنا كنت متعبًا",
+        "context": "وصف شعور المتكلم بالتعب في وقت مضى.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "الماضي البسيط يصف حالة التعب في وقت مواصلة العمل، ولا يحدد إن كانت هذه الحالة قد زالت لاحقًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "أنا؛ ضمير المتكلم"
+          },
+          {
+            "term": "was",
+            "description": "كنت؛ فعل ربط في الماضي"
+          },
+          {
+            "term": "tired",
+            "description": "متعب"
+          }
+        ]
+      },
+      {
+        "sentence": "yet I kept working.",
+        "ar": "ومع ذلك أنا واصلت العمل.",
+        "context": "رواية عن استمرار المتكلم في العمل رغم التعب.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "رابط الاستدراك يبين استمرار العمل خلاف المتوقع من التعب؛ فعل الاستمرار ماض بسيط ويتبعه الفعل بصيغة تدل على النشاط."
+        },
+        "wordMeanings": [
+          {
+            "term": "yet",
+            "description": "ومع ذلك؛ رابط استدراك"
+          },
+          {
+            "term": "I",
+            "description": "أنا؛ ضمير المتكلم"
+          },
+          {
+            "term": "kept",
+            "description": "واصلت؛ صيغة ماضية لفعل الاستمرار"
+          },
+          {
+            "term": "working",
+            "description": "العمل؛ نشاط مستمر بعد فعل المواصلة"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I was tired, yet I kept working.",
+        "ar": "أنا كنت متعبًا، ومع ذلك أنا واصلت العمل.",
+        "context": "رواية عن مواصلة العمل رغم شعور المتكلم بالتعب."
+      },
+      {
+        "id": 2,
+        "en": "I work hard, yet I earn little.",
+        "ar": "أنا أعمل بجد، ومع ذلك أنا أكسب القليل.",
+        "context": "وصف مفارقة بين العمل بجد وقلة الكسب."
+      },
+      {
+        "id": 3,
+        "en": "The trip was expensive, yet it was worth the cost.",
+        "ar": "الرحلة كانت مكلفة، ومع ذلك هي كانت تستحق التكلفة.",
+        "context": "تقييم رحلة مكلفة بأنها استحقت ما دُفع فيها."
+      },
+      {
+        "id": 4,
+        "en": "They are neighbors, yet they rarely speak.",
+        "ar": "هم جيران، ومع ذلك هم نادرًا ما يتحدثون.",
+        "context": "صف قلة الحديث بين أشخاص رغم كونهم جيرانًا."
+      },
+      {
+        "id": 5,
+        "en": "I paid in advance, yet I received no ticket.",
+        "ar": "أنا دفعت مقدمًا، ومع ذلك أنا لم أتلق أي تذكرة.",
+        "context": "رواية عن عدم تلقي تذكرة رغم دفع ثمنها مسبقًا."
+      },
+      {
+        "id": 6,
+        "en": "I wanted to leave, yet I stayed.",
+        "ar": "أنا أردت المغادرة، ومع ذلك أنا بقيت.",
+        "context": "رواية عن البقاء رغم الرغبة في المغادرة."
+      },
+      {
+        "id": 7,
+        "en": "The road was narrow yet surprisingly quiet.",
+        "ar": "الطريق كان ضيقًا ومع ذلك هادئًا على نحو مفاجئ.",
+        "context": "وصف طريق ضيق خالف توقع الزحام أو الضجيج."
+      },
+      {
+        "id": 8,
+        "en": "She had never met him, yet she recognized his voice.",
+        "ar": "هي لم تكن قد التقت به قط، ومع ذلك هي تعرفت على صوته.",
+        "context": "رواية عن تعرف امرأة على صوت رجل رغم عدم لقائه سابقًا."
+      },
+      {
+        "id": 9,
+        "en": "The deadline was close, yet the office remained calm.",
+        "ar": "الموعد النهائي كان قريبًا، ومع ذلك المكتب ظل هادئًا.",
+        "context": "رواية عن هدوء مكان عمل رغم اقتراب مهلة."
+      },
+      {
+        "id": 10,
+        "en": "The instructions looked clear, yet the machine would not start.",
+        "ar": "التعليمات بدت واضحة، ومع ذلك الآلة لم تكن تعمل عند محاولة تشغيلها.",
+        "context": "رواية عن تعذر تشغيل آلة رغم وضوح تعليماتها الظاهر."
+      }
+    ]
+  }
+}

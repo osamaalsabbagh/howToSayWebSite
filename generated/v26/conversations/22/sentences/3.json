@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "id": 3,
+  "sentence": {
+    "en": "I like to come here often because it helps me relax.",
+    "ar": "أحب أن آتي إلى هنا كثيرًا لأن ذلك يساعدني على الاسترخاء.",
+    "context": "يوضح السبب وراء قدومه المتكرر إلى الشاطئ."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "I like to come here often",
+        "ar": "أحب أن آتي إلى هنا كثيرًا",
+        "context": "توضح الجزء الأول عادة أو تفضيلًا متكررًا.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "الفعل like في المضارع البسيط يعبر عن تفضيل عام ومتكرر."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "المتكلم نفسه"
+          },
+          {
+            "term": "like",
+            "description": "أحب أو أفضّل"
+          },
+          {
+            "term": "to",
+            "description": "تأتي قبل الفعل لتكوين معنى أن أفعل"
+          },
+          {
+            "term": "come",
+            "description": "آتي أو أحضر إلى مكان"
+          },
+          {
+            "term": "here",
+            "description": "إلى هذا المكان"
+          },
+          {
+            "term": "often",
+            "description": "كثيرًا أو بشكل متكرر"
+          }
+        ]
+      },
+      {
+        "sentence": "because it helps me relax.",
+        "ar": "لأن ذلك يساعدني على الاسترخاء.",
+        "context": "تعطي سبب التفضيل والقدوم المتكرر.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "الفعل helps يصف تأثيرًا عامًّا يتكرر كلما جاء إلى المكان."
+        },
+        "wordMeanings": [
+          {
+            "term": "because",
+            "description": "تقدم السبب"
+          },
+          {
+            "term": "it",
+            "description": "يشير إلى المجيء إلى هذا المكان"
+          },
+          {
+            "term": "helps",
+            "description": "يساعد أو يجعل الأمر أسهل"
+          },
+          {
+            "term": "me",
+            "description": "المتكلم بوصفه متلقي المساعدة"
+          },
+          {
+            "term": "relax",
+            "description": "أرتاح وأهدأ"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I like to walk here often because it helps me think.",
+        "ar": "أحب أن أمشي هنا كثيرًا لأن ذلك يساعدني على التفكير.",
+        "context": "تقال عند ربط عادة بسبب مفيد."
+      },
+      {
+        "id": 2,
+        "en": "I like to sit outside because it helps me relax.",
+        "ar": "أحب أن أجلس في الخارج لأن ذلك يساعدني على الاسترخاء.",
+        "context": "تقال عند شرح سبب الجلوس في مكان مفتوح."
+      },
+      {
+        "id": 3,
+        "en": "I like to read at night because it helps me sleep.",
+        "ar": "أحب أن أقرأ ليلًا لأن ذلك يساعدني على النوم.",
+        "context": "تقال عند وصف عادة قبل النوم."
+      },
+      {
+        "id": 4,
+        "en": "I like to drink tea because it helps me feel calm.",
+        "ar": "أحب أن أشرب الشاي لأن ذلك يساعدني على الشعور بالهدوء.",
+        "context": "تقال عند تفسير اختيار مشروب مريح."
+      },
+      {
+        "id": 5,
+        "en": "I like to come early because it helps me prepare.",
+        "ar": "أحب أن آتي مبكرًا لأن ذلك يساعدني على الاستعداد.",
+        "context": "تقال عند شرح فائدة الوصول المبكر."
+      },
+      {
+        "id": 6,
+        "en": "I like to study here because it helps me focus.",
+        "ar": "أحب أن أدرس هنا لأن ذلك يساعدني على التركيز.",
+        "context": "تقال عند اختيار مكان مناسب للدراسة."
+      },
+      {
+        "id": 7,
+        "en": "I like to call my family often because it helps me feel close.",
+        "ar": "أحب أن أتصل بعائلتي كثيرًا لأن ذلك يساعدني على الشعور بالقرب.",
+        "context": "تقال عند وصف عادة اجتماعية مهمة."
+      },
+      {
+        "id": 8,
+        "en": "I like to clean my desk because it helps me work.",
+        "ar": "أحب أن أنظف مكتبي لأن ذلك يساعدني على العمل.",
+        "context": "تقال عند ربط النظام بالإنتاجية."
+      },
+      {
+        "id": 9,
+        "en": "I like to listen to music because it helps me relax.",
+        "ar": "أحب أن أستمع إلى الموسيقى لأن ذلك يساعدني على الاسترخاء.",
+        "context": "تقال عند شرح أثر الموسيقى على المزاج."
+      },
+      {
+        "id": 10,
+        "en": "I like to visit this place because it helps me feel better.",
+        "ar": "أحب أن أزور هذا المكان لأن ذلك يساعدني على الشعور بتحسن.",
+        "context": "تقال عند وصف مكان يحسن الحالة النفسية."
+      }
+    ]
+  }
+}

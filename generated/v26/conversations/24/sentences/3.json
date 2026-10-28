@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "id": 3,
+  "sentence": {
+    "en": "Should we order something to eat before we begin our talk?",
+    "ar": "هل ينبغي أن نطلب شيئًا للأكل قبل أن نبدأ حديثنا؟",
+    "context": "يقترح أن يطلبا الطعام أولًا ثم يبدآ الحديث."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Should we order something to eat",
+        "ar": "هل ينبغي أن نطلب شيئًا للأكل",
+        "context": "تستعمل لاقتراح طلب الطعام بطريقة تشاركية.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "Should مع الفعل الأساسي يعبر عن اقتراح أو طلب رأي، وليس زمنًا مستقلًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "Should",
+            "description": "تستعمل للسؤال عن الأنسب أو للاقتراح"
+          },
+          {
+            "term": "we",
+            "description": "نحن، أي المتكلم والمخاطب"
+          },
+          {
+            "term": "order",
+            "description": "نطلب طعامًا أو شرابًا"
+          },
+          {
+            "term": "something",
+            "description": "شيئًا غير محدد"
+          },
+          {
+            "term": "to",
+            "description": "تأتي قبل الفعل لتوضيح الغرض"
+          },
+          {
+            "term": "eat",
+            "description": "نأكل"
+          }
+        ]
+      },
+      {
+        "sentence": "before we begin our talk?",
+        "ar": "قبل أن نبدأ حديثنا؟",
+        "context": "تحدد أن الطعام سيكون قبل بدء الحديث.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "بعد before يستعمل المضارع البسيط للإشارة إلى حدث مستقبلي مرتب."
+        },
+        "wordMeanings": [
+          {
+            "term": "before",
+            "description": "قبل حدوث شيء"
+          },
+          {
+            "term": "we",
+            "description": "نحن"
+          },
+          {
+            "term": "begin",
+            "description": "نبدأ"
+          },
+          {
+            "term": "our",
+            "description": "خاص بنا"
+          },
+          {
+            "term": "talk",
+            "description": "حديث أو نقاش"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Should we order coffee before we begin the meeting?",
+        "ar": "هل ينبغي أن نطلب القهوة قبل أن نبدأ الاجتماع؟",
+        "context": "تقال عند اقتراح شيء قبل اجتماع."
+      },
+      {
+        "id": 2,
+        "en": "Should we eat something before we leave?",
+        "ar": "هل ينبغي أن نأكل شيئًا قبل أن نغادر؟",
+        "context": "تقال قبل الخروج عندما قد يطول الوقت."
+      },
+      {
+        "id": 3,
+        "en": "Should we begin our talk now?",
+        "ar": "هل ينبغي أن نبدأ حديثنا الآن؟",
+        "context": "تقال عند الاستعداد لبدء نقاش."
+      },
+      {
+        "id": 4,
+        "en": "Should we order a small salad?",
+        "ar": "هل ينبغي أن نطلب سلطة صغيرة؟",
+        "context": "تقال عند اقتراح طبق خفيف."
+      },
+      {
+        "id": 5,
+        "en": "Should we drink tea before we start?",
+        "ar": "هل ينبغي أن نشرب الشاي قبل أن نبدأ؟",
+        "context": "تقال عند اقتراح مشروب قبل نشاط."
+      },
+      {
+        "id": 6,
+        "en": "Should we choose a table before we order?",
+        "ar": "هل ينبغي أن نختار طاولة قبل أن نطلب؟",
+        "context": "تقال في مطعم عند تنظيم الخطوات."
+      },
+      {
+        "id": 7,
+        "en": "Should we wait before we begin?",
+        "ar": "هل ينبغي أن ننتظر قبل أن نبدأ؟",
+        "context": "تقال عند عدم التأكد من الوقت المناسب للبدء."
+      },
+      {
+        "id": 8,
+        "en": "Should we order something for the table?",
+        "ar": "هل ينبغي أن نطلب شيئًا للطاولة؟",
+        "context": "تقال عند اقتراح طبق مشترك."
+      },
+      {
+        "id": 9,
+        "en": "Should we talk before we decide?",
+        "ar": "هل ينبغي أن نتحدث قبل أن نقرر؟",
+        "context": "تقال عند الحاجة إلى نقاش قبل قرار."
+      },
+      {
+        "id": 10,
+        "en": "Should we begin after the food arrives?",
+        "ar": "هل ينبغي أن نبدأ بعد أن يصل الطعام؟",
+        "context": "تقال عند ربط بداية الحديث بوصول الطعام."
+      }
+    ]
+  }
+}

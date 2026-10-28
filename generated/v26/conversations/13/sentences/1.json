@@ -1,0 +1,119 @@
+{
+  "schemaVersion": 1,
+  "id": 1,
+  "sentence": {
+    "en": "I have lost the keys to my apartment.",
+    "ar": "لقد فقدت المفاتيح لشقتي.",
+    "context": "يخبر أنه فقد مفاتيح شقته."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "I have lost the keys to my apartment.",
+        "ar": "لقد فقدت المفاتيح لشقتي.",
+        "context": "تُستخدم الجملة لإبلاغ الآخرين أن فقدان المفاتيح حدث وله أثر الآن.",
+        "grammar": {
+          "tense": "المضارع التام",
+          "tenseEn": "Present Perfect",
+          "reason": "استُخدم have lost لأن الفقدان حدث في الماضي لكن نتيجته مهمة الآن: المتكلم لا يملك المفاتيح."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير يشير إلى المتكلم."
+          },
+          {
+            "term": "have",
+            "description": "تُستخدم مع الفعل لإظهار أن الحدث مرتبط بالحاضر."
+          },
+          {
+            "term": "lost",
+            "description": "فقدت أو أضعت."
+          },
+          {
+            "term": "the",
+            "description": "أداة تشير إلى مفاتيح معروفة."
+          },
+          {
+            "term": "keys",
+            "description": "المفاتيح التي تفتح الباب."
+          },
+          {
+            "term": "to",
+            "description": "تدل على العلاقة بين المفاتيح والشقة."
+          },
+          {
+            "term": "my",
+            "description": "تدل على الملكية للمتكلم."
+          },
+          {
+            "term": "apartment",
+            "description": "الشقة أو المسكن."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I have lost my phone.",
+        "ar": "لقد فقدت هاتفي.",
+        "context": "تُستخدم عندما لا يزال الهاتف مفقودًا."
+      },
+      {
+        "id": 2,
+        "en": "I have lost the receipt.",
+        "ar": "لقد فقدت الإيصال.",
+        "context": "تُستخدم عند الحاجة إلى الإيصال الآن."
+      },
+      {
+        "id": 3,
+        "en": "She has lost her bag.",
+        "ar": "لقد فقدت حقيبتها.",
+        "context": "تُستخدم عندما تكون الحقيبة غير موجودة الآن."
+      },
+      {
+        "id": 4,
+        "en": "We have lost the tickets.",
+        "ar": "لقد فقدنا التذاكر.",
+        "context": "تُستخدم عند وجود مشكلة حالية بسبب فقدان التذاكر."
+      },
+      {
+        "id": 5,
+        "en": "I have lost my apartment key.",
+        "ar": "لقد فقدت مفتاح شقتي.",
+        "context": "تُستخدم عند عدم القدرة على فتح الشقة."
+      },
+      {
+        "id": 6,
+        "en": "He has lost the address.",
+        "ar": "لقد فقد العنوان.",
+        "context": "تُستخدم عندما لا يعرف المكان الآن."
+      },
+      {
+        "id": 7,
+        "en": "They have lost the document.",
+        "ar": "لقد فقدوا المستند.",
+        "context": "تُستخدم عندما يؤثر الفقدان في العمل الحالي."
+      },
+      {
+        "id": 8,
+        "en": "I have lost access to my account.",
+        "ar": "لقد فقدت الوصول إلى حسابي.",
+        "context": "تُستخدم عند مشكلة دخول حالية."
+      },
+      {
+        "id": 9,
+        "en": "We have lost the room card.",
+        "ar": "لقد فقدنا بطاقة الغرفة.",
+        "context": "تُستخدم في فندق عند عدم القدرة على دخول الغرفة."
+      },
+      {
+        "id": 10,
+        "en": "She has lost the office keys.",
+        "ar": "لقد فقدت مفاتيح المكتب.",
+        "context": "تُستخدم عند مشكلة دخول إلى المكتب."
+      }
+    ]
+  }
+}

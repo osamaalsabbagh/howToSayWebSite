@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": 5989,
+  "sentence": {
+    "en": "What percentage of your salary do you save?",
+    "ar": "أي نسبة مئوية من راتبك أنت تدخر؟",
+    "context": "سؤال عن الجزء الذي يحتفظ به المخاطب من راتبه عادة، مع التعبير عنه من كل مئة.",
+    "sourceWord": "percentage",
+    "sourcePos": "n."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "What percentage of your salary do you save?",
+        "ar": "أي نسبة مئوية من راتبك أنت تدخر؟",
+        "context": "سؤال عن الجزء الذي يحتفظ به المخاطب من راتبه عادة، مع التعبير عنه من كل مئة.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "المضارع البسيط في سؤال عن عادة متكررة. أداة السؤال مع الاسم في أول الجملة، ثم الفعل المساعد قبل الفاعل."
+        },
+        "wordMeanings": [
+          {
+            "term": "What",
+            "description": "أي؛ أداة سؤال تأتي قبل الاسم."
+          },
+          {
+            "term": "percentage",
+            "description": "نسبة؛ جزء محسوب من مئة."
+          },
+          {
+            "term": "of",
+            "description": "من؛ تربط النسبة بالمبلغ."
+          },
+          {
+            "term": "your",
+            "description": "ضمير ملكية للمخاطب؛ الخاص بك."
+          },
+          {
+            "term": "salary",
+            "description": "راتب."
+          },
+          {
+            "term": "do",
+            "description": "فعل مساعد للسؤال في المضارع."
+          },
+          {
+            "term": "you",
+            "description": "أنت؛ ضمير المخاطب."
+          },
+          {
+            "term": "save",
+            "description": "تدخر؛ تحتفظ بالمال للمستقبل."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "What percentage of your salary do you save?",
+        "ar": "أي نسبة مئوية من راتبك أنت تدخر؟",
+        "context": "سؤال عن الجزء الذي يحتفظ به المخاطب من راتبه عادة، مع التعبير عنه من كل مئة."
+      },
+      {
+        "id": 2,
+        "en": "The chart shows the percentage of recycled material.",
+        "ar": "الرسم البياني يوضح النسبة المئوية للمواد المعاد تدويرها.",
+        "context": "وصف عرض لحصة مواد استخدمت من جديد مقارنة بإجمالي المواد."
+      },
+      {
+        "id": 3,
+        "en": "The percentage of empty seats fell during the evening.",
+        "ar": "النسبة المئوية للمقاعد الفارغة انخفضت خلال المساء.",
+        "context": "وصف تغير سابق قل فيه جزء المقاعد غير المشغولة من مجموعها."
+      },
+      {
+        "id": 4,
+        "en": "The small sample made the reported percentage unreliable.",
+        "ar": "العينة الصغيرة جعلت النسبة المئوية المذكورة غير موثوقة.",
+        "context": "رواية عن تأثير قلة البيانات في موثوقية نتيجة معينة."
+      },
+      {
+        "id": 5,
+        "en": "The students are converting fractions into percentages.",
+        "ar": "الطلاب يحولون الكسور إلى نسب مئوية.",
+        "context": "وصف تمرين جارٍ للتعبير عن أجزاء من الكل على أساس مئة."
+      },
+      {
+        "id": 6,
+        "en": "The percentages overlap because some people chose both options.",
+        "ar": "النسب المئوية تتداخل لأن بعض الأشخاص اختاروا الخيارين معًا.",
+        "context": "وصف بيانات تتيح للشخص اختيار أكثر من إجابة."
+      },
+      {
+        "id": 7,
+        "en": "The percentages were rounded to the nearest whole number.",
+        "ar": "النسب المئوية قُرّبت إلى أقرب عدد صحيح.",
+        "context": "رواية عن عرض قيم تقريبية بدل الكسور العشرية."
+      },
+      {
+        "id": 8,
+        "en": "The agent received a percentage of the sales.",
+        "ar": "الوكيل استلم نسبة مئوية من المبيعات.",
+        "context": "وصف مقابل سابق حُسب بوصفه جزءًا من قيمة صفقات."
+      },
+      {
+        "id": 9,
+        "en": "The report distinguishes percentages from percentage points.",
+        "ar": "التقرير يميز النسب المئوية من النقاط المئوية.",
+        "context": "وصف فرق بين حصة محسوبة من مئة والفارق العددي بين نسبتين مئويتين."
+      },
+      {
+        "id": 10,
+        "en": "The battery display gives the remaining charge as a percentage.",
+        "ar": "شاشة البطارية تعرض الشحنة المتبقية كنسبة مئوية.",
+        "context": "وصف مؤشر يقارن الطاقة الباقية بسعة كاملة على أساس مئة."
+      }
+    ]
+  }
+}

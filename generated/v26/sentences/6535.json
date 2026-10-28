@@ -1,0 +1,137 @@
+{
+  "schemaVersion": 1,
+  "id": 6535,
+  "sentence": {
+    "en": "I never drink coffee unless I am very tired.",
+    "ar": "أنا لا أشرب القهوة أبدًا إلا إذا أنا كنت متعبًا جدًا.",
+    "context": "وصف عادة تستثني حالة التعب الشديد دون القول إن القهوة تُشرب في كل مرة يحدث فيها التعب.",
+    "sourceWord": "unless",
+    "sourcePos": "conj."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "I never drink coffee",
+        "ar": "أنا لا أشرب القهوة أبدًا",
+        "context": "وصف امتناع معتاد عن شرب القهوة.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "المضارع البسيط مع ظرف التكرار المنفي يصف عادة."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "أنا."
+          },
+          {
+            "term": "never",
+            "description": "أبدًا؛ لا في أي وقت."
+          },
+          {
+            "term": "drink",
+            "description": "أشرب."
+          },
+          {
+            "term": "coffee",
+            "description": "القهوة."
+          }
+        ]
+      },
+      {
+        "sentence": "unless I am very tired.",
+        "ar": "إلا إذا أنا كنت متعبًا جدًا.",
+        "context": "استثناء حالة تعب شديد من الامتناع المعتاد.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "المضارع البسيط بعد أداة الشرط التي تعني إلا إذا."
+        },
+        "wordMeanings": [
+          {
+            "term": "unless",
+            "description": "إلا إذا."
+          },
+          {
+            "term": "I",
+            "description": "أنا."
+          },
+          {
+            "term": "am",
+            "description": "صيغة الحاضر للكينونة مع المتكلم."
+          },
+          {
+            "term": "very",
+            "description": "جدًا."
+          },
+          {
+            "term": "tired",
+            "description": "متعبًا."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I never drink coffee unless I am very tired.",
+        "ar": "أنا لا أشرب القهوة أبدًا إلا إذا أنا كنت متعبًا جدًا.",
+        "context": "وصف عادة تستثني حالة التعب الشديد دون القول إن القهوة تُشرب في كل مرة يحدث فيها التعب."
+      },
+      {
+        "id": 2,
+        "en": "The shop closes at six unless there is a special event.",
+        "ar": "المتجر يغلق في السادسة إلا عند وجود فعالية خاصة.",
+        "context": "وصف موعد معتاد مع حالة قد تستثنى منه."
+      },
+      {
+        "id": 3,
+        "en": "She refused to leave unless her friend came too.",
+        "ar": "هي رفضت المغادرة إلا إذا صديقتها جاءت أيضًا.",
+        "context": "وصف شرط سابق يتعلق بمرافقة شخص آخر."
+      },
+      {
+        "id": 4,
+        "en": "We have kept the files unchanged unless a correction was necessary.",
+        "ar": "نحن قد أبقينا الملفات دون تغيير إلا عند ضرورة التصحيح.",
+        "context": "وصف نهج مستمر يسمح بالتعديل في حالة محددة."
+      },
+      {
+        "id": 5,
+        "en": "The team is waiting unless the manager says otherwise.",
+        "ar": "الفريق ينتظر إلا إذا المدير قال غير ذلك.",
+        "context": "وصف انتظار جارٍ مع إمكان تغييره بتوجيه مخالف."
+      },
+      {
+        "id": 6,
+        "en": "The trip will go ahead unless the weather gets worse.",
+        "ar": "الرحلة ستتم إلا إذا الطقس ازداد سوءًا.",
+        "context": "توقع استمرار خطة مع استثناء متعلق بتدهور الطقس."
+      },
+      {
+        "id": 7,
+        "en": "Please do not open the package unless you need it.",
+        "ar": "من فضلك لا تفتح الطرد إلا عند حاجتك إليه.",
+        "context": "طلب إبقاء عبوة مغلقة ما لم توجد حاجة لاستخدامها."
+      },
+      {
+        "id": 8,
+        "en": "The offer is unavailable unless you register first.",
+        "ar": "العرض غير متاح إلا بعد تسجيلك أولًا.",
+        "context": "وصف شرط مسبق للاستفادة من عرض."
+      },
+      {
+        "id": 9,
+        "en": "He could not finish unless someone helped him.",
+        "ar": "هو لم يكن يستطيع الإكمال إلا بمساعدة شخص له.",
+        "context": "وصف احتياج سابق إلى مساندة لإنجاز مهمة."
+      },
+      {
+        "id": 10,
+        "en": "The rule applies unless an exception is stated.",
+        "ar": "القاعدة تسري ما لم يُذكر استثناء.",
+        "context": "وصف نطاق عام قابل للتقييد باستثناء صريح."
+      }
+    ]
+  }
+}

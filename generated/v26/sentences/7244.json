@@ -1,0 +1,141 @@
+{
+  "schemaVersion": 1,
+  "id": 7244,
+  "sentence": {
+    "en": "I cannot guarantee that the train will be on time.",
+    "ar": "أنا لا أستطيع أن أضمن أن القطار سيكون في موعده.",
+    "context": "تعبير عن عدم القدرة على تقديم وعد مؤكد بدقة موعد قطار دون افتراض صيانة أو تأخر فعلي.",
+    "sourceWord": "guarantee",
+    "sourcePos": "v."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "I cannot guarantee",
+        "ar": "أنا لا أستطيع أن أضمن",
+        "context": "نفي القدرة على إعطاء وعد مؤكد.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "تستعمل cannot مع guarantee لنفي القدرة على تقديم تأكيد، دون زمن مستقل لهذه البنية."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "أنا."
+          },
+          {
+            "term": "cannot",
+            "description": "لا أستطيع."
+          },
+          {
+            "term": "guarantee",
+            "description": "أضمن."
+          }
+        ]
+      },
+      {
+        "sentence": "that the train will be on time.",
+        "ar": "أن القطار سيكون في موعده.",
+        "context": "تحديد الالتزام بموعد القطار بوصفه ما لا يستطيع المتكلم ضمانه.",
+        "grammar": {
+          "tense": "المستقبل البسيط",
+          "tenseEn": "Future Simple",
+          "reason": "المستقبل البسيط يصف توقعًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "that",
+            "description": "أن."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف تأتي مع القطار."
+          },
+          {
+            "term": "train",
+            "description": "القطار."
+          },
+          {
+            "term": "will",
+            "description": "سـ؛ مساعد المستقبل."
+          },
+          {
+            "term": "be",
+            "description": "يكون."
+          },
+          {
+            "term": "on",
+            "description": "في."
+          },
+          {
+            "term": "time",
+            "description": "الموعد؛ في on time بمعنى في الموعد المحدد."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I cannot guarantee that the train will be on time.",
+        "ar": "أنا لا أستطيع أن أضمن أن القطار سيكون في موعده.",
+        "context": "تعبير عن عدم القدرة على تقديم وعد مؤكد بدقة موعد قطار دون افتراض صيانة أو تأخر فعلي."
+      },
+      {
+        "id": 2,
+        "en": "The organizer guarantees a seat for every registered guest.",
+        "ar": "المنظم يضمن مقعدًا لكل ضيف مسجل.",
+        "context": "وصف تعهد محدد بإتاحة مكان ضمن فعالية معينة."
+      },
+      {
+        "id": 3,
+        "en": "She guaranteed the accuracy of the translation.",
+        "ar": "هي ضمنت دقة الترجمة.",
+        "context": "وصف تأكيد سابق قوي على صحة نقل نص."
+      },
+      {
+        "id": 4,
+        "en": "We have guaranteed equal time for all speakers.",
+        "ar": "نحن قد ضمنا وقتًا متساويًا لجميع المتحدثين.",
+        "context": "الإبلاغ عن ترتيب مكتمل يساوي مدة فرص الكلام."
+      },
+      {
+        "id": 5,
+        "en": "The team is guaranteeing access during the move.",
+        "ar": "الفريق يضمن الوصول أثناء الانتقال.",
+        "context": "وصف عمل جارٍ للحفاظ على إمكانية استعمال مورد."
+      },
+      {
+        "id": 6,
+        "en": "The agreement will guarantee a place for the exhibition.",
+        "ar": "الاتفاق سيضمن مكانًا للمعرض.",
+        "context": "توقع ترتيب محدد يتيح موقع عرض."
+      },
+      {
+        "id": 7,
+        "en": "Please do not guarantee a result before checking the details.",
+        "ar": "من فضلك لا تضمن نتيجة قبل التحقق من التفاصيل.",
+        "context": "طلب تجنب وعد جازم في موقف يحتاج إلى فحص."
+      },
+      {
+        "id": 8,
+        "en": "The company guaranteed delivery by Friday in the example.",
+        "ar": "الشركة ضمنت التسليم بحلول الجمعة في المثال.",
+        "context": "وصف تعهد سابق بموعد ضمن حالة توضيحية."
+      },
+      {
+        "id": 9,
+        "en": "A good start does not guarantee success.",
+        "ar": "البداية الجيدة لا تضمن النجاح.",
+        "context": "بيان أن انطلاقة إيجابية لا تجعل النتيجة النهائية مؤكدة."
+      },
+      {
+        "id": 10,
+        "en": "The host guaranteed complete privacy for the interview.",
+        "ar": "المضيف ضمن خصوصية كاملة للمقابلة.",
+        "context": "وصف تعهد سابق بكتمان لقاء أو محتواه في الحالة المعنية."
+      }
+    ]
+  }
+}

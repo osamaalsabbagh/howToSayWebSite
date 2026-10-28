@@ -1,0 +1,119 @@
+{
+  "schemaVersion": 1,
+  "id": 1,
+  "sentence": {
+    "en": "Hello, I am here for the job interview.",
+    "ar": "مرحبًا، أنا هنا لمقابلة العمل.",
+    "context": "المتقدم يبدأ الحديث"
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Hello, I am here for the job interview.",
+        "ar": "مرحبًا، أنا هنا لمقابلة العمل.",
+        "context": "تُستخدم لبدء الحديث بطريقة مهذبة في هذا الموقف.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُعمل المضارع البسيط لأن الجملة تصف حالة حالية مباشرة: المتقدم موجود الآن في مكان المقابلة ولغرض محدد."
+        },
+        "wordMeanings": [
+          {
+            "term": "Hello",
+            "description": "تحية مهذبة تصلح لبدء الكلام في موقف رسمي مثل مقابلة عمل."
+          },
+          {
+            "term": "I",
+            "description": "ضمير المتكلم المفرد، ويشير هنا إلى المتقدم نفسه."
+          },
+          {
+            "term": "am",
+            "description": "صيغة تأتي مع ضمير المتكلم المفرد وتعني أكون أو أوجد، وتوضح هنا أن المتقدم موجود الآن."
+          },
+          {
+            "term": "here",
+            "description": "ظرف مكان يعني أن المتكلم موجود في هذا المكان الآن."
+          },
+          {
+            "term": "for",
+            "description": "حرف جر يوضح سبب وجود الشخص أو الغرض من حضوره."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف تشير إلى أن المقابلة محددة ومعروفة في هذا السياق."
+          },
+          {
+            "term": "job",
+            "description": "اسم يعني عمل أو وظيفة، ويصف هنا نوع المقابلة."
+          },
+          {
+            "term": "interview",
+            "description": "اسم يعني مقابلة رسمية، وهنا المقصود مقابلة للحصول على وظيفة."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Good morning, I am here for the job interview.",
+        "ar": "صباح الخير، أنا هنا لمقابلة العمل.",
+        "context": "بداية أكثر رسمية عند الوصول صباحًا إلى مكتب الاستقبال."
+      },
+      {
+        "id": 2,
+        "en": "Hello, I am here for the interview at ten.",
+        "ar": "مرحبًا، أنا هنا للمقابلة في العاشرة.",
+        "context": "تضيف وقت الموعد لتسهيل التحقق من الحجز."
+      },
+      {
+        "id": 3,
+        "en": "Hello, I am here for the marketing job interview.",
+        "ar": "مرحبًا، أنا هنا لمقابلة وظيفة التسويق.",
+        "context": "تحدد نوع الوظيفة عندما تكون هناك أكثر من مقابلة."
+      },
+      {
+        "id": 4,
+        "en": "Hello, I am here for my scheduled job interview.",
+        "ar": "مرحبًا، أنا هنا لمقابلة العمل المجدولة لي.",
+        "context": "توضح أن المقابلة مرتبة مسبقًا وليست زيارة عشوائية."
+      },
+      {
+        "id": 5,
+        "en": "Hi, I am here for the job interview with Ms. Ahmed.",
+        "ar": "مرحبًا، أنا هنا لمقابلة العمل مع السيدة أحمد.",
+        "context": "تذكر اسم الشخص المسؤول عن المقابلة."
+      },
+      {
+        "id": 6,
+        "en": "Hello, I am here for the job interview. My name is Omar.",
+        "ar": "مرحبًا، أنا هنا لمقابلة العمل. اسمي عمر.",
+        "context": "تضيف الاسم بعد شرح سبب الحضور."
+      },
+      {
+        "id": 7,
+        "en": "Hello, I am here for the software developer interview.",
+        "ar": "مرحبًا، أنا هنا لمقابلة مطور البرمجيات.",
+        "context": "تستخدم اسم المنصب بدل العبارة العامة."
+      },
+      {
+        "id": 8,
+        "en": "Excuse me, I am here for the job interview.",
+        "ar": "عذرًا، أنا هنا لمقابلة العمل.",
+        "context": "صيغة لطيفة إذا كنت تقاطع موظف الاستقبال."
+      },
+      {
+        "id": 9,
+        "en": "Hello, I am here for the job interview, but I am a few minutes early.",
+        "ar": "مرحبًا، أنا هنا لمقابلة العمل، لكنني وصلت مبكرًا ببضع دقائق.",
+        "context": "توضح أنك وصلت قبل الموعد ولا تريد الضغط عليهم."
+      },
+      {
+        "id": 10,
+        "en": "Hello, I am here for the job interview. Should I wait here?",
+        "ar": "مرحبًا، أنا هنا لمقابلة العمل. هل أنتظر هنا؟",
+        "context": "تطلب توجيهًا بعد التعريف بسبب وجودك."
+      }
+    ]
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "schemaVersion": 1,
+  "id": 8,
+  "sentence": {
+    "en": "Son, we already live in Washington. It is the capital!",
+    "ar": "بني، نحن أصلًا نعيش في واشنطن، هي العاصمة!",
+    "context": "يرد الأب مازحًا ليذكر ابنه بأنهما يعيشان أصلًا في العاصمة الأمريكية."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Son",
+        "ar": "يا بني.",
+        "context": "نداء لطيف للابن.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه كلمة نداء ولا تحمل زمنًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "Son",
+            "description": "ابني أو يا بني"
+          }
+        ]
+      },
+      {
+        "sentence": "we already live in Washington",
+        "ar": "نحن أصلًا نعيش في واشنطن.",
+        "context": "يصوّب المعلومة بأنهم يسكنون بالفعل في العاصمة.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "live يصف مكان السكن الحالي كحقيقة مستمرة."
+        },
+        "wordMeanings": [
+          {
+            "term": "we",
+            "description": "نحن"
+          },
+          {
+            "term": "already",
+            "description": "بالفعل أو أصلًا"
+          },
+          {
+            "term": "live",
+            "description": "نعيش أو نسكن"
+          },
+          {
+            "term": "in",
+            "description": "في"
+          },
+          {
+            "term": "Washington",
+            "description": "واشنطن، اسم مدينة"
+          }
+        ]
+      },
+      {
+        "sentence": "It is the capital",
+        "ar": "إنها العاصمة.",
+        "context": "يوضح أن واشنطن هي العاصمة المقصودة.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "is يصف حقيقة عامة عن المدينة."
+        },
+        "wordMeanings": [
+          {
+            "term": "It",
+            "description": "هي أو هو للشيء المذكور"
+          },
+          {
+            "term": "is",
+            "description": "تكون أو هي"
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف"
+          },
+          {
+            "term": "capital",
+            "description": "العاصمة"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "We already live in the city",
+        "ar": "نحن نعيش أصلًا في المدينة",
+        "context": "يقال لتصحيح معلومة"
+      },
+      {
+        "id": 2,
+        "en": "It is the capital of our country",
+        "ar": "إنها عاصمة بلدنا",
+        "context": "يقال للتعريف بمدينة"
+      },
+      {
+        "id": 3,
+        "en": "Son, you already know this",
+        "ar": "يا بني، أنت تعرف هذا أصلًا",
+        "context": "يقال بلطف لتذكير طفل"
+      },
+      {
+        "id": 4,
+        "en": "We live in Washington now",
+        "ar": "نحن نعيش في واشنطن الآن",
+        "context": "يقال لتحديد مكان السكن"
+      },
+      {
+        "id": 5,
+        "en": "This city is the capital",
+        "ar": "هذه المدينة هي العاصمة",
+        "context": "يقال لتحديد وضع المدينة"
+      },
+      {
+        "id": 6,
+        "en": "They already work downtown",
+        "ar": "هم يعملون أصلًا في وسط المدينة",
+        "context": "يقال لتصحيح افتراض"
+      },
+      {
+        "id": 7,
+        "en": "We already have a good home",
+        "ar": "لدينا أصلًا بيت جيد",
+        "context": "يقال لتذكير شخص بما لديه"
+      },
+      {
+        "id": 8,
+        "en": "It is a very important city",
+        "ar": "إنها مدينة مهمة جدًا",
+        "context": "يقال لوصف مكان"
+      },
+      {
+        "id": 9,
+        "en": "Son, the market is close",
+        "ar": "يا بني، السوق قريب",
+        "context": "يقال لإخبار الابن بمكان"
+      },
+      {
+        "id": 10,
+        "en": "We live near the capital",
+        "ar": "نحن نعيش قرب العاصمة",
+        "context": "يقال لوصف موقع السكن"
+      }
+    ]
+  }
+}

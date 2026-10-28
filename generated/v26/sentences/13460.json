@@ -1,0 +1,109 @@
+{
+  "schemaVersion": 1,
+  "id": 13460,
+  "sentence": {
+    "en": "Have you notified your employer?",
+    "ar": "هل أنت قد أبلغت صاحب عملك؟",
+    "context": "سؤال لشخص سيغيب أو انتقل، للتأكد من أنه أخبر مكان عمله حتى الآن.",
+    "sourceWord": "notify",
+    "sourcePos": "v."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Have you notified your employer?",
+        "ar": "هل أنت قد أبلغت صاحب عملك؟",
+        "context": "سؤال لشخص سيغيب أو انتقل، للتأكد من أنه أخبر مكان عمله حتى الآن.",
+        "grammar": {
+          "tense": "المضارع التام",
+          "tenseEn": "Present Perfect",
+          "reason": "المضارع التام في سؤال يسأل عن فعل قد يكون تم حتى الآن."
+        },
+        "wordMeanings": [
+          {
+            "term": "Have",
+            "description": "فعل مساعد للسؤال في المضارع التام"
+          },
+          {
+            "term": "you",
+            "description": "أنت"
+          },
+          {
+            "term": "notified",
+            "description": "أبلغت"
+          },
+          {
+            "term": "your",
+            "description": "ضمير الملكية للمخاطب"
+          },
+          {
+            "term": "employer",
+            "description": "صاحب عملك"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Have you notified your employer?",
+        "ar": "هل أنت قد أبلغت صاحب عملك؟",
+        "context": "سؤال لشخص سيغيب أو انتقل، للتأكد من أنه أخبر مكان عمله حتى الآن."
+      },
+      {
+        "id": 2,
+        "en": "I have notified everyone.",
+        "ar": "أنا قد أبلغت الجميع.",
+        "context": "تنظيم."
+      },
+      {
+        "id": 3,
+        "en": "The police have notified the next of kin.",
+        "ar": "الشرطة قد أبلغت أقرب الأقارب.",
+        "context": "خبر حزين."
+      },
+      {
+        "id": 4,
+        "en": "Has anyone notified the insurance company?",
+        "ar": "هل أي أحد قد أبلغ شركة التأمين؟",
+        "context": "حادث."
+      },
+      {
+        "id": 5,
+        "en": "We have not notified the guests yet.",
+        "ar": "نحن لم نبلغ الضيوف بعد.",
+        "context": "حفل."
+      },
+      {
+        "id": 6,
+        "en": "She has notified the school of her absence.",
+        "ar": "هي قد أبلغت المدرسة بغيابها.",
+        "context": "مرض."
+      },
+      {
+        "id": 7,
+        "en": "They have notified us of the price change.",
+        "ar": "هم قد أبلغونا بتغيير السعر.",
+        "context": "خدمة."
+      },
+      {
+        "id": 8,
+        "en": "The bank has notified me twice.",
+        "ar": "البنك قد أبلغني مرتين.",
+        "context": "تذكير."
+      },
+      {
+        "id": 9,
+        "en": "Have the authorities been notified?",
+        "ar": "هل السلطات قد أُبلغت؟",
+        "context": "طوارئ."
+      },
+      {
+        "id": 10,
+        "en": "He has already notified his lawyer.",
+        "ar": "هو قد أبلغ محاميه بالفعل.",
+        "context": "قضية."
+      }
+    ]
+  }
+}

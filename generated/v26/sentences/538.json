@@ -1,0 +1,111 @@
+{
+  "schemaVersion": 1,
+  "id": 538,
+  "sentence": {
+    "en": "How many languages do you speak?",
+    "ar": "كم لغة تتحدث؟",
+    "context": "السؤال عن عدد اللغات التي يتقنها الشخص."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "How many languages do you speak?",
+        "ar": "كم لغة تتحدث؟",
+        "context": "سؤال عن عدد اللغات التي يعرفها الشخص أو يتحدثها.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "يستخدم speak في المضارع البسيط للسؤال عن قدرة أو عادة عامة."
+        },
+        "wordMeanings": [
+          {
+            "term": "How",
+            "description": "تدخل في سؤال عن العدد."
+          },
+          {
+            "term": "many",
+            "description": "تعني كم عدد."
+          },
+          {
+            "term": "languages",
+            "description": "لغات بصيغة الجمع."
+          },
+          {
+            "term": "do",
+            "description": "تساعد في تكوين السؤال."
+          },
+          {
+            "term": "you",
+            "description": "تشير إلى المخاطب."
+          },
+          {
+            "term": "speak",
+            "description": "تعني تتحدث."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I speak two languages.",
+        "ar": "أتحدث لغتين.",
+        "context": "إجابة عن عدد اللغات."
+      },
+      {
+        "id": 2,
+        "en": "Do you speak English?",
+        "ar": "هل تتحدث الإنجليزية؟",
+        "context": "سؤال عن لغة محددة."
+      },
+      {
+        "id": 3,
+        "en": "She speaks three languages.",
+        "ar": "هي تتحدث ثلاث لغات.",
+        "context": "ذكر قدرة شخص."
+      },
+      {
+        "id": 4,
+        "en": "How many languages does he know?",
+        "ar": "كم لغة يعرف؟",
+        "context": "سؤال عن شخص آخر."
+      },
+      {
+        "id": 5,
+        "en": "We speak Arabic and English.",
+        "ar": "نتحدث العربية والإنجليزية.",
+        "context": "ذكر لغتين."
+      },
+      {
+        "id": 6,
+        "en": "They do not speak many languages.",
+        "ar": "هم لا يتحدثون لغات كثيرة.",
+        "context": "نفي كثرة اللغات."
+      },
+      {
+        "id": 7,
+        "en": "Can you speak French?",
+        "ar": "هل تستطيع التحدث بالفرنسية؟",
+        "context": "سؤال عن القدرة على لغة."
+      },
+      {
+        "id": 8,
+        "en": "I study English.",
+        "ar": "أدرس الإنجليزية.",
+        "context": "ذكر تعلم لغة."
+      },
+      {
+        "id": 9,
+        "en": "Language learning takes time.",
+        "ar": "تعلم اللغة يستغرق وقتًا.",
+        "context": "تعليق عن تعلم اللغات."
+      },
+      {
+        "id": 10,
+        "en": "He speaks clearly.",
+        "ar": "هو يتحدث بوضوح.",
+        "context": "وصف طريقة الكلام."
+      }
+    ]
+  }
+}

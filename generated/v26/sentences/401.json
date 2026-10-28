@@ -1,0 +1,159 @@
+{
+  "schemaVersion": 1,
+  "id": 401,
+  "sentence": {
+    "en": "Sometimes I go to sleep at 11 p.m.; sometimes at 11:30 p.m.",
+    "ar": "أحيانًا أنام في الساعة ١١ مساءً، وأحيانًا في ١١:٣٠ مساءً.",
+    "context": "الإشارة إلى أوقات نوم متفاوتة."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Sometimes I go to sleep at 11 p.m.",
+        "ar": "أحيانا أنام في الساعة ١١ مساء",
+        "context": "هذا الجزء يذكر وقتا معتادا يحدث أحيانا للنوم.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "يستخدم المضارع البسيط لوصف عادة متكررة لكنها ليست ثابتة كل يوم."
+        },
+        "wordMeanings": [
+          {
+            "term": "Sometimes",
+            "description": "تعني أحيانا وتدل على عدم الانتظام الكامل"
+          },
+          {
+            "term": "I",
+            "description": "ضمير المتكلم ويشير إلى الشخص الذي يتحدث"
+          },
+          {
+            "term": "go",
+            "description": "يعني أذهب أو أدخل في حالة النوم مع التعبير الكامل"
+          },
+          {
+            "term": "to",
+            "description": "تدل هنا على الوقت المتبقي قبل الساعة التالية أو تربط الفعل بما بعده"
+          },
+          {
+            "term": "sleep",
+            "description": "يعني النوم"
+          },
+          {
+            "term": "at",
+            "description": "تحدد وقتا معينا"
+          },
+          {
+            "term": "11",
+            "description": "رقم يحدد الساعة الحادية عشرة"
+          },
+          {
+            "term": "p",
+            "description": "جزء من اختصار يدل على وقت المساء"
+          },
+          {
+            "term": "m",
+            "description": "جزء من اختصار وقت الصباح أو المساء"
+          }
+        ]
+      },
+      {
+        "sentence": "sometimes at 11:30 p.m.",
+        "ar": "وأحيانا في الساعة ١١:٣٠ مساء",
+        "context": "هذا الجزء يضيف وقتا بديلا يحدث أحيانا أيضا.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذا الجزء عبارة زمنية مختصرة تكمل المعنى السابق ولا تحتوي على فعل مستقل."
+        },
+        "wordMeanings": [
+          {
+            "term": "sometimes",
+            "description": "تعني أحيانا وتدل على خيار أو وقت آخر"
+          },
+          {
+            "term": "at",
+            "description": "تحدد وقتا معينا"
+          },
+          {
+            "term": "11",
+            "description": "رقم يحدد الساعة الحادية عشرة"
+          },
+          {
+            "term": "30",
+            "description": "رقم يحدد ثلاثين دقيقة"
+          },
+          {
+            "term": "p",
+            "description": "جزء من اختصار يدل على وقت المساء"
+          },
+          {
+            "term": "m",
+            "description": "جزء من اختصار وقت الصباح أو المساء"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Sometimes I wake up at six; sometimes at seven.",
+        "ar": "أحيانا أستيقظ في السادسة، وأحيانا في السابعة.",
+        "context": "يستخدم لوصف أوقات غير ثابتة للاستيقاظ."
+      },
+      {
+        "id": 2,
+        "en": "Sometimes we eat at home; sometimes outside.",
+        "ar": "أحيانا نأكل في البيت، وأحيانا في الخارج.",
+        "context": "يناسب وصف عادتين متناوبتين."
+      },
+      {
+        "id": 3,
+        "en": "Sometimes I study at night; sometimes in the morning.",
+        "ar": "أحيانا أدرس ليلا، وأحيانا في الصباح.",
+        "context": "يقال عند اختلاف وقت الدراسة."
+      },
+      {
+        "id": 4,
+        "en": "Sometimes she works late; sometimes she leaves early.",
+        "ar": "أحيانا تعمل حتى وقت متأخر، وأحيانا تغادر مبكرا.",
+        "context": "يستخدم لوصف جدول غير ثابت."
+      },
+      {
+        "id": 5,
+        "en": "Sometimes they travel by bus; sometimes by train.",
+        "ar": "أحيانا يسافرون بالحافلة، وأحيانا بالقطار.",
+        "context": "يناسب ذكر طريقتين للتنقل."
+      },
+      {
+        "id": 6,
+        "en": "Sometimes I drink tea; sometimes coffee.",
+        "ar": "أحيانا أشرب الشاي، وأحيانا القهوة.",
+        "context": "يقال عند اختلاف الاختيار."
+      },
+      {
+        "id": 7,
+        "en": "Sometimes he calls at noon; sometimes in the evening.",
+        "ar": "أحيانا يتصل ظهرا، وأحيانا في المساء.",
+        "context": "يستخدم لوصف أوقات اتصال مختلفة."
+      },
+      {
+        "id": 8,
+        "en": "Sometimes we meet on Friday; sometimes on Saturday.",
+        "ar": "أحيانا نلتقي يوم الجمعة، وأحيانا يوم السبت.",
+        "context": "يناسب اختلاف موعد اللقاء."
+      },
+      {
+        "id": 9,
+        "en": "Sometimes I walk to work; sometimes I take the bus.",
+        "ar": "أحيانا أمشي إلى العمل، وأحيانا أركب الحافلة.",
+        "context": "يستخدم لوصف روتين متغير."
+      },
+      {
+        "id": 10,
+        "en": "Sometimes dinner starts at eight; sometimes at nine.",
+        "ar": "أحيانا يبدأ العشاء في الثامنة، وأحيانا في التاسعة.",
+        "context": "يقال عند تغير وقت العشاء."
+      }
+    ]
+  }
+}

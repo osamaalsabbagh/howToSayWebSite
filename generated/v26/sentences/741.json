@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": 741,
+  "sentence": {
+    "en": "Do you have an appointment?",
+    "ar": "هل لديك موعد؟",
+    "context": "الاستفسار عما إذا كان لدى الشخص موعد محدد."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Do you have an appointment?",
+        "ar": "هل لديك موعد؟",
+        "context": "سؤال يستخدم عند الاستقبال أو الدخول إلى مكتب.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "السؤال عن ترتيب موجود الآن، لذلك يستخدم المضارع البسيط مع Do قبل الضمير you."
+        },
+        "wordMeanings": [
+          {
+            "term": "Do",
+            "description": "أداة سؤال في المضارع البسيط"
+          },
+          {
+            "term": "you",
+            "description": "الشخص المخاطب"
+          },
+          {
+            "term": "have",
+            "description": "لديك"
+          },
+          {
+            "term": "an",
+            "description": "أداة نكرة قبل كلمة تبدأ بصوت متحرك"
+          },
+          {
+            "term": "appointment",
+            "description": "موعد محدد مسبقا"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Do you have an interview?",
+        "ar": "هل لديك مقابلة؟",
+        "context": "عند السؤال عن موعد مقابلة عمل."
+      },
+      {
+        "id": 2,
+        "en": "Do you have an account?",
+        "ar": "هل لديك حساب؟",
+        "context": "عند التسجيل أو طلب خدمة."
+      },
+      {
+        "id": 3,
+        "en": "Do you have an idea?",
+        "ar": "هل لديك فكرة؟",
+        "context": "لطلب اقتراح من شخص."
+      },
+      {
+        "id": 4,
+        "en": "Do you have an address?",
+        "ar": "هل لديك عنوان؟",
+        "context": "للسؤال عن مكان أو معلومات إرسال."
+      },
+      {
+        "id": 5,
+        "en": "Do you have an answer?",
+        "ar": "هل لديك إجابة؟",
+        "context": "للسؤال عن توفر رد."
+      },
+      {
+        "id": 6,
+        "en": "Do they have an appointment?",
+        "ar": "هل لديهم موعد؟",
+        "context": "للسؤال عن موعد أشخاص آخرين."
+      },
+      {
+        "id": 7,
+        "en": "Do you have a reservation?",
+        "ar": "هل لديك حجز؟",
+        "context": "في فندق أو مطعم."
+      },
+      {
+        "id": 8,
+        "en": "Do you have a ticket?",
+        "ar": "هل لديك تذكرة؟",
+        "context": "عند الدخول إلى فعالية أو محطة."
+      },
+      {
+        "id": 9,
+        "en": "Do you have a doctor today?",
+        "ar": "هل لديك طبيب اليوم؟",
+        "context": "للسؤال غير الرسمي عن موعد طبي."
+      },
+      {
+        "id": 10,
+        "en": "Do you have a meeting now?",
+        "ar": "هل لديك اجتماع الآن؟",
+        "context": "للسؤال عن انشغال شخص حاليا."
+      }
+    ]
+  }
+}

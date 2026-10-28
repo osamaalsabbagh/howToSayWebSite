@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": 1,
+  "sentence": {
+    "en": "Are you learning individual words?",
+    "ar": "هل تتعلم كلمات مفردة؟",
+    "context": "سؤال افتتاحي لجذب الانتباه وفتح الموضوع."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Are you learning individual words?",
+        "ar": "هل تتعلم كلمات مفردة؟",
+        "context": "تُستخدم كسؤال افتتاحي لجذب انتباه المتعلم إلى طريقة دراسته.",
+        "grammar": {
+          "tense": "المضارع المستمر",
+          "tenseEn": "Present Continuous",
+          "reason": "استُخدم Are you learning للسؤال عن نشاط يحدث في الفترة الحالية أو عادة دراسية جارية الآن."
+        },
+        "wordMeanings": [
+          {
+            "term": "Are",
+            "description": "تُستخدم مع المخاطب لتكوين سؤال عن فعل جارٍ."
+          },
+          {
+            "term": "you",
+            "description": "الشخص المخاطب."
+          },
+          {
+            "term": "learning",
+            "description": "تتعلم."
+          },
+          {
+            "term": "individual",
+            "description": "مفردة أو منفصلة."
+          },
+          {
+            "term": "words",
+            "description": "كلمات."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Are you learning English now?",
+        "ar": "هل تتعلم الإنجليزية الآن؟",
+        "context": "تُستخدم للسؤال عن نشاط تعلّم حالي."
+      },
+      {
+        "id": 2,
+        "en": "Are you studying new words?",
+        "ar": "هل تدرس كلمات جديدة؟",
+        "context": "تُستخدم عند الحديث عن طريقة الدراسة."
+      },
+      {
+        "id": 3,
+        "en": "Are you practicing full sentences?",
+        "ar": "هل تتدرب على جمل كاملة؟",
+        "context": "تُستخدم للسؤال عن تدريب لغوي."
+      },
+      {
+        "id": 4,
+        "en": "Are you writing individual words?",
+        "ar": "هل تكتب كلمات مفردة؟",
+        "context": "تُستخدم عند مراجعة أسلوب التعلم."
+      },
+      {
+        "id": 5,
+        "en": "Are you learning at home?",
+        "ar": "هل تتعلم في المنزل؟",
+        "context": "تُستخدم للسؤال عن مكان الدراسة."
+      },
+      {
+        "id": 6,
+        "en": "Are you using a notebook?",
+        "ar": "هل تستخدم دفترًا؟",
+        "context": "تُستخدم للسؤال عن أداة تعلم."
+      },
+      {
+        "id": 7,
+        "en": "Are you reading short sentences?",
+        "ar": "هل تقرأ جملًا قصيرة؟",
+        "context": "تُستخدم عند متابعة مستوى المتعلم."
+      },
+      {
+        "id": 8,
+        "en": "Are you memorizing words only?",
+        "ar": "هل تحفظ الكلمات فقط؟",
+        "context": "تُستخدم للتنبيه إلى طريقة محدودة."
+      },
+      {
+        "id": 9,
+        "en": "Are you listening every day?",
+        "ar": "هل تستمع كل يوم؟",
+        "context": "تُستخدم للسؤال عن عادة مستمرة."
+      },
+      {
+        "id": 10,
+        "en": "Are you learning useful phrases?",
+        "ar": "هل تتعلم عبارات مفيدة؟",
+        "context": "تُستخدم عند الحديث عن تعلم عملي."
+      }
+    ]
+  }
+}

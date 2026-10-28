@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": 11928,
+  "sentence": {
+    "en": "I explained a cryptocurrency transaction to the students.",
+    "ar": "أنا شرحت معاملة بعملة مشفرة للطلاب.",
+    "context": "أنت تشرح للطلاب مثالًا تقنيًا على نقل عملة رقمية. أنت تروي ما حصل بشأن شرح المعاملة أمس.",
+    "sourceWord": "cryptocurrency",
+    "sourcePos": "n."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "I explained a cryptocurrency transaction to the students.",
+        "ar": "أنا شرحت معاملة بعملة مشفرة للطلاب.",
+        "context": "أنت تشرح للطلاب مثالًا تقنيًا على نقل عملة رقمية. أنت تروي ما حصل بشأن شرح المعاملة أمس.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "أخبر عن حدث أو حالة في وقت ماضٍ انتهى، بالماضي البسيط. التصريف الماضي يصف حدثًا منتهيًا. عملة رقمية تعاملاتها إلكترونية"
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "أنا؛ ضمير المتكلم المفرد"
+          },
+          {
+            "term": "explained",
+            "description": "شرحت؛ عملة رقمية تعاملاتها إلكترونية التصريف الماضي للفعل."
+          },
+          {
+            "term": "a",
+            "description": "أداة تنكير"
+          },
+          {
+            "term": "cryptocurrency",
+            "description": "عملة مشفرة"
+          },
+          {
+            "term": "transaction",
+            "description": "معاملة"
+          },
+          {
+            "term": "to",
+            "description": "لـ"
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف"
+          },
+          {
+            "term": "students",
+            "description": "الطلاب"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I explained a cryptocurrency transaction to the students.",
+        "ar": "أنا شرحت معاملة بعملة مشفرة للطلاب.",
+        "context": "أنت تشرح للطلاب مثالًا تقنيًا على نقل عملة رقمية. أنت تروي ما حصل بشأن شرح المعاملة أمس."
+      },
+      {
+        "id": 2,
+        "en": "I explain a cryptocurrency transaction to the students.",
+        "ar": "أنا أشرح معاملة بعملة مشفرة للطلاب.",
+        "context": "أنت تشرح للطلاب مثالًا تقنيًا على نقل عملة رقمية. أنت تشرح عادتك أو وضعك الحالي فيما يخص شرح المعاملة."
+      },
+      {
+        "id": 3,
+        "en": "I do not explain a cryptocurrency transaction to the students.",
+        "ar": "أنا لا أشرح معاملة بعملة مشفرة للطلاب.",
+        "context": "أنت تشرح للطلاب مثالًا تقنيًا على نقل عملة رقمية. أنت توضح أن هذا ليس من عادتك أو وصفًا لوضعك الحالي."
+      },
+      {
+        "id": 4,
+        "en": "I am explaining a cryptocurrency transaction to the students.",
+        "ar": "أنا أشرح معاملة بعملة مشفرة للطلاب.",
+        "context": "أنت تشرح للطلاب مثالًا تقنيًا على نقل عملة رقمية. أنت في أثناء التعامل مع شرح المعاملة الآن."
+      },
+      {
+        "id": 5,
+        "en": "I am not explaining a cryptocurrency transaction to the students.",
+        "ar": "أنا لا أشرح معاملة بعملة مشفرة للطلاب.",
+        "context": "أنت تشرح للطلاب مثالًا تقنيًا على نقل عملة رقمية. أنت تصحح توقعًا بشأن ما تفعله الآن وتوضح أن هذا النشاط لا يجري."
+      },
+      {
+        "id": 6,
+        "en": "I did not explain a cryptocurrency transaction to the students.",
+        "ar": "أنا لم أشرح معاملة بعملة مشفرة للطلاب.",
+        "context": "أنت تشرح للطلاب مثالًا تقنيًا على نقل عملة رقمية. أنت تصحح رواية عن أحداث أمس وتوضح أن هذا الأمر لم يحصل."
+      },
+      {
+        "id": 7,
+        "en": "I have explained a cryptocurrency transaction to the students.",
+        "ar": "أنا قد شرحت معاملة بعملة مشفرة للطلاب.",
+        "context": "أنت تشرح للطلاب مثالًا تقنيًا على نقل عملة رقمية. أنت تناقش ما أنجزته أو خبرتك السابقة بشأن شرح المعاملة، لأن ذلك مهم لموقفك الآن."
+      },
+      {
+        "id": 8,
+        "en": "I have not explained a cryptocurrency transaction to the students.",
+        "ar": "أنا لم أشرح معاملة بعملة مشفرة للطلاب.",
+        "context": "أنت تشرح للطلاب مثالًا تقنيًا على نقل عملة رقمية. أنت تناقش ما تم حتى الآن وتوضح أن هذا الأمر لم يتم بعد."
+      },
+      {
+        "id": 9,
+        "en": "I will explain a cryptocurrency transaction to the students.",
+        "ar": "أنا سأشرح معاملة بعملة مشفرة للطلاب.",
+        "context": "أنت تشرح للطلاب مثالًا تقنيًا على نقل عملة رقمية. أنت تتحدث عن خططك أو توقعاتك بشأن شرح المعاملة غدًا."
+      },
+      {
+        "id": 10,
+        "en": "I will not explain a cryptocurrency transaction to the students.",
+        "ar": "أنا لن أشرح معاملة بعملة مشفرة للطلاب.",
+        "context": "أنت تشرح للطلاب مثالًا تقنيًا على نقل عملة رقمية. أنت تناقش خطط الغد وتوضح أن هذا الأمر لن يحدث."
+      }
+    ]
+  }
+}

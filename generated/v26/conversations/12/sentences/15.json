@@ -1,0 +1,123 @@
+{
+  "schemaVersion": 1,
+  "id": 15,
+  "sentence": {
+    "en": "No, that is all. Thank you.",
+    "ar": "لا، هذا كل شيء. شكرًا لك.",
+    "context": "العميل يؤكد عدم وجود أسئلة إضافية ويشكر الموظف."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "No, that is all.",
+        "ar": "لا، هذا كل شيء.",
+        "context": "تُستخدم لنفي وجود طلبات أو أسئلة إضافية.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُخدم is لوصف الحالة الحالية، أي أن كل ما يحتاجه المتكلم قد انتهى."
+        },
+        "wordMeanings": [
+          {
+            "term": "No",
+            "description": "لا، جواب نفي."
+          },
+          {
+            "term": "that",
+            "description": "ذلك أو هذا الأمر المذكور."
+          },
+          {
+            "term": "is",
+            "description": "يعني يكون أو هو في الحالة الحالية."
+          },
+          {
+            "term": "all",
+            "description": "كل شيء أو لا يوجد المزيد."
+          }
+        ]
+      },
+      {
+        "sentence": "Thank you.",
+        "ar": "شكرًا لك.",
+        "context": "تُستخدم لإنهاء الكلام بامتنان.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه عبارة شكر ثابتة وليست جملة بزمن واضح."
+        },
+        "wordMeanings": [
+          {
+            "term": "Thank",
+            "description": "أشكر أو أعبّر عن الامتنان."
+          },
+          {
+            "term": "you",
+            "description": "ضمير يشير إلى المخاطب."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "No, that is everything.",
+        "ar": "لا، هذا كل شيء.",
+        "context": "تُستخدم عند عدم وجود طلبات أخرى."
+      },
+      {
+        "id": 2,
+        "en": "No, that is all for today.",
+        "ar": "لا، هذا كل شيء لهذا اليوم.",
+        "context": "تُستخدم لإنهاء اجتماع أو خدمة."
+      },
+      {
+        "id": 3,
+        "en": "Thank you for your help.",
+        "ar": "شكرًا لك على مساعدتك.",
+        "context": "تُستخدم بعد تلقي دعم."
+      },
+      {
+        "id": 4,
+        "en": "No, I do not need anything else.",
+        "ar": "لا، لا أحتاج أي شيء آخر.",
+        "context": "تُستخدم للرد على عرض مساعدة."
+      },
+      {
+        "id": 5,
+        "en": "That is all I need.",
+        "ar": "هذا كل ما أحتاجه.",
+        "context": "تُستخدم لتوضيح اكتمال الطلب."
+      },
+      {
+        "id": 6,
+        "en": "Thank you, that is clear.",
+        "ar": "شكرًا لك، هذا واضح.",
+        "context": "تُستخدم بعد شرح مفهوم."
+      },
+      {
+        "id": 7,
+        "en": "No, that is all for now.",
+        "ar": "لا، هذا كل شيء الآن.",
+        "context": "تُستخدم عند تأجيل أي طلبات أخرى."
+      },
+      {
+        "id": 8,
+        "en": "Thank you for the information.",
+        "ar": "شكرًا لك على المعلومات.",
+        "context": "تُستخدم بعد تلقي تفاصيل مفيدة."
+      },
+      {
+        "id": 9,
+        "en": "No, I am finished.",
+        "ar": "لا، لقد انتهيت.",
+        "context": "تُستخدم عند إكمال مهمة أو طلب."
+      },
+      {
+        "id": 10,
+        "en": "That is all, thank you.",
+        "ar": "هذا كل شيء، شكرًا لك.",
+        "context": "تُستخدم كخاتمة مختصرة."
+      }
+    ]
+  }
+}

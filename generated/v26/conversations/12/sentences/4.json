@@ -1,0 +1,155 @@
+{
+  "schemaVersion": 1,
+  "id": 4,
+  "sentence": {
+    "en": "Are you calling from the number registered with your order?",
+    "ar": "هل تتصل من الرقم المسجل في طلبك؟",
+    "context": "الموظف يتحقق من أن رقم الهاتف الحالي هو نفسه المسجل في الطلب."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Are you calling from the number registered with your order?",
+        "ar": "هل تتصل من الرقم المسجل في طلبك؟",
+        "context": "يُستخدم هذا السؤال للتحقق من حالة أو معلومة في هذا الموقف.",
+        "grammar": {
+          "tense": "المضارع المستمر",
+          "tenseEn": "Present Continuous",
+          "reason": "السؤال يتحقق من الفعل الجاري الآن، وهو الاتصال من رقم معين."
+        },
+        "wordMeanings": [
+          {
+            "term": "Are",
+            "description": "تبدأ سؤالًا عن فعل يحدث الآن مع المخاطب."
+          },
+          {
+            "term": "you",
+            "description": "ضمير المخاطب."
+          },
+          {
+            "term": "calling",
+            "description": "تتصل هاتفيًا الآن."
+          },
+          {
+            "term": "from",
+            "description": "من أو باستخدام مصدر معين."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف تشير إلى رقم محدد."
+          },
+          {
+            "term": "number",
+            "description": "رقم هاتف."
+          },
+          {
+            "term": "registered",
+            "description": "مسجل في النظام أو محفوظ مسبقًا."
+          },
+          {
+            "term": "with",
+            "description": "مرتبط بـ أو مع."
+          },
+          {
+            "term": "your",
+            "description": "يدل على أن الطلب يخص المخاطب."
+          },
+          {
+            "term": "order",
+            "description": "طلب شراء أو شحنة."
+          }
+        ]
+      },
+      {
+        "sentence": "registered with your order",
+        "ar": "المسجل في طلبك.",
+        "context": "يصف المقصود بدقة داخل هذا السؤال أو التوضيح.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذا وصف مختصر للرقم بأنه محفوظ أو مرتبط بالطلب، وليس جملة بزمن مستقل."
+        },
+        "wordMeanings": [
+          {
+            "term": "registered",
+            "description": "مسجل في النظام أو محفوظ مسبقًا."
+          },
+          {
+            "term": "with",
+            "description": "مرتبط بـ أو مع."
+          },
+          {
+            "term": "your",
+            "description": "يدل على أن الطلب يخص المخاطب."
+          },
+          {
+            "term": "order",
+            "description": "طلب شراء أو شحنة."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Are you calling from your mobile number?",
+        "ar": "هل تتصل من رقم هاتفك المحمول؟",
+        "context": "يُستخدم للتحقق من مصدر المكالمة."
+      },
+      {
+        "id": 2,
+        "en": "Are you calling from the number on your account?",
+        "ar": "هل تتصل من الرقم الموجود في حسابك؟",
+        "context": "يُستخدم في خدمة العملاء للتحقق من الهوية."
+      },
+      {
+        "id": 3,
+        "en": "Are you calling about your order?",
+        "ar": "هل تتصل بخصوص طلبك؟",
+        "context": "يُستخدم لتحديد سبب المكالمة."
+      },
+      {
+        "id": 4,
+        "en": "Are you calling from the office?",
+        "ar": "هل تتصل من المكتب؟",
+        "context": "يُستخدم للسؤال عن مكان الاتصال."
+      },
+      {
+        "id": 5,
+        "en": "Are you calling from the registered phone?",
+        "ar": "هل تتصل من الهاتف المسجل؟",
+        "context": "يُستخدم عند التحقق من بيانات العميل."
+      },
+      {
+        "id": 6,
+        "en": "Are you calling about the shipping date?",
+        "ar": "هل تتصل بخصوص تاريخ الشحن؟",
+        "context": "يُستخدم لتأكيد موضوع الاستفسار."
+      },
+      {
+        "id": 7,
+        "en": "Are you using the number registered with the account?",
+        "ar": "هل تستخدم الرقم المسجل في الحساب؟",
+        "context": "يُستخدم للتحقق من رقم الحساب."
+      },
+      {
+        "id": 8,
+        "en": "Are you calling from another number?",
+        "ar": "هل تتصل من رقم آخر؟",
+        "context": "يُستخدم عند اختلاف رقم الاتصال."
+      },
+      {
+        "id": 9,
+        "en": "Are you calling to update your order?",
+        "ar": "هل تتصل لتحديث طلبك؟",
+        "context": "يُستخدم لمعرفة رغبة العميل في تعديل الطلب."
+      },
+      {
+        "id": 10,
+        "en": "Are you calling from the same phone?",
+        "ar": "هل تتصل من الهاتف نفسه؟",
+        "context": "يُستخدم للتأكد من أن الرقم لم يتغير."
+      }
+    ]
+  }
+}

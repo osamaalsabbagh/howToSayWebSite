@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 1,
+  "id": 8,
+  "sentence": {
+    "en": "Good to know. Please bring a water bottle and wear light clothes. There is not much air inside.",
+    "ar": "جيد أن نعرف. من فضلك أحضر زجاجة ماء وارتدِ ملابس خفيفة. لا يوجد هواء كثير في الداخل.",
+    "context": "تقدم له نصائح بشأن التهوية وضرورة ارتداء الملابس المناسبة"
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Good to know.",
+        "ar": "جيد أن نعرف.",
+        "context": "يبدأ به المتحدث الفكرة الأساسية قبل إضافة التفاصيل.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه عبارة رد قصيرة تعني أن المعلومة مفيدة، وليست جملة فعلية كاملة لها زمن مستقل."
+        },
+        "wordMeanings": [
+          {
+            "term": "Good",
+            "description": "تعني جيد، وتأتي هنا ضمن عبارة تعني من المفيد معرفة ذلك."
+          },
+          {
+            "term": "to",
+            "description": "تأتي قبل الفعل لتكوين عبارة قصيرة."
+          },
+          {
+            "term": "know",
+            "description": "تعني معرفة أو إدراك معلومة."
+          }
+        ]
+      },
+      {
+        "sentence": "Please bring a water bottle and wear light clothes.",
+        "ar": "من فضلك أحضر زجاجة ماء وارتدِ ملابس خفيفة.",
+        "context": "تُستخدم لطلب خطوة أو فعل مرتبط بما قبله.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذا طلب أو توجيه مباشر، لذلك لا نعامله كزمن فعلي مستقل."
+        },
+        "wordMeanings": [
+          {
+            "term": "Please",
+            "description": "كلمة تجعل الطلب مهذبًا."
+          },
+          {
+            "term": "bring",
+            "description": "تعني أحضر شيئًا معك."
+          },
+          {
+            "term": "a",
+            "description": "أداة نكرة قبل اسم مفرد."
+          },
+          {
+            "term": "water",
+            "description": "ماء."
+          },
+          {
+            "term": "bottle",
+            "description": "زجاجة أو عبوة."
+          },
+          {
+            "term": "and",
+            "description": "حرف عطف يربط بين طلبين."
+          },
+          {
+            "term": "wear",
+            "description": "تعني ارتدِ ملابس أو شيئًا على الجسم."
+          },
+          {
+            "term": "light",
+            "description": "تعني خفيفًا، والمقصود ملابس غير ثقيلة."
+          },
+          {
+            "term": "clothes",
+            "description": "ملابس."
+          }
+        ]
+      },
+      {
+        "sentence": "There is not much air inside.",
+        "ar": "لا يوجد هواء كثير في الداخل.",
+        "context": "يكمل به المتحدث المعنى أو النتيجة داخل هذا الموقف.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُعمل المضارع البسيط لوصف حالة المكان الحالية من حيث التهوية."
+        },
+        "wordMeanings": [
+          {
+            "term": "There",
+            "description": "تبدأ تركيبًا يدل على وجود شيء."
+          },
+          {
+            "term": "is",
+            "description": "صيغة تدل على وجود شيء مفرد أو كمية غير معدودة."
+          },
+          {
+            "term": "not",
+            "description": "أداة نفي."
+          },
+          {
+            "term": "much",
+            "description": "تعني كثيرًا وتستعمل مع الأشياء غير المعدودة."
+          },
+          {
+            "term": "air",
+            "description": "هواء أو تهوية."
+          },
+          {
+            "term": "inside",
+            "description": "في الداخل."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Please bring a towel and wear comfortable shoes.",
+        "ar": "من فضلك أحضر منشفة وارتدِ حذاءً مريحًا.",
+        "context": "تعطي تعليمات قبل تمرين."
+      },
+      {
+        "id": 2,
+        "en": "There is not much space inside.",
+        "ar": "لا توجد مساحة كبيرة في الداخل.",
+        "context": "تصف ضيق المكان."
+      },
+      {
+        "id": 3,
+        "en": "Good to know. I will bring water.",
+        "ar": "من الجيد معرفة ذلك. سأحضر ماءً.",
+        "context": "ترد على نصيحة مفيدة."
+      },
+      {
+        "id": 4,
+        "en": "Please wear light clothes for the class.",
+        "ar": "من فضلك ارتدِ ملابس خفيفة للحصة.",
+        "context": "تقدم نصيحة عن الملابس."
+      },
+      {
+        "id": 5,
+        "en": "There is not much air in this room.",
+        "ar": "لا يوجد هواء كثير في هذه الغرفة.",
+        "context": "تصف سوء التهوية."
+      },
+      {
+        "id": 6,
+        "en": "Please bring your own bottle.",
+        "ar": "من فضلك أحضر زجاجتك الخاصة.",
+        "context": "تطلب من المشاركين إحضار أداة شخصية."
+      },
+      {
+        "id": 7,
+        "en": "Wear light clothes because the room gets warm.",
+        "ar": "ارتدِ ملابس خفيفة لأن الغرفة تصبح دافئة.",
+        "context": "تشرح سبب النصيحة."
+      },
+      {
+        "id": 8,
+        "en": "Good to know. I will come prepared.",
+        "ar": "من الجيد معرفة ذلك. سأحضر مستعدًا.",
+        "context": "تؤكد أنك ستتبع الإرشادات."
+      },
+      {
+        "id": 9,
+        "en": "Please bring a small bag.",
+        "ar": "من فضلك أحضر حقيبة صغيرة.",
+        "context": "تعطي طلبًا بسيطًا قبل النشاط."
+      },
+      {
+        "id": 10,
+        "en": "There is not much time before class.",
+        "ar": "لا يوجد وقت كثير قبل الحصة.",
+        "context": "توضح قرب موعد البداية."
+      }
+    ]
+  }
+}

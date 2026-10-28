@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": 841,
+  "sentence": {
+    "en": "Where did you put it?",
+    "ar": "أين وضعتها؟",
+    "context": "للسؤال عن مكان وضع شيء ما."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Where did you put it?",
+        "ar": "أين وضعتها؟",
+        "context": "سؤال عن المكان الذي وضع فيه الشخص شيئا في الماضي.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "تستخدم did للسؤال عن فعل وقع في الماضي، ويبقى put بصورته الأساسية لأنه لا يتغير بعد did."
+        },
+        "wordMeanings": [
+          {
+            "term": "Where",
+            "description": "أين؛ للسؤال عن المكان"
+          },
+          {
+            "term": "did",
+            "description": "أداة سؤال في الماضي البسيط"
+          },
+          {
+            "term": "you",
+            "description": "الشخص المخاطب"
+          },
+          {
+            "term": "put",
+            "description": "تضع أو وضعت"
+          },
+          {
+            "term": "it",
+            "description": "ذلك الشيء"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Where did you put my keys?",
+        "ar": "أين وضعت مفاتيحي؟",
+        "context": "عند البحث عن المفاتيح."
+      },
+      {
+        "id": 2,
+        "en": "Where did she put it?",
+        "ar": "أين وضعته؟",
+        "context": "للسؤال عن شخص آخر."
+      },
+      {
+        "id": 3,
+        "en": "Where did you put the bag?",
+        "ar": "أين وضعت الحقيبة؟",
+        "context": "عند البحث عن حقيبة."
+      },
+      {
+        "id": 4,
+        "en": "Where did they put the car?",
+        "ar": "أين وضعوا السيارة؟",
+        "context": "للسؤال عن مكان ركن السيارة."
+      },
+      {
+        "id": 5,
+        "en": "Did you put it here?",
+        "ar": "هل وضعته هنا؟",
+        "context": "للتأكد من مكان شيء."
+      },
+      {
+        "id": 6,
+        "en": "Where did you leave it?",
+        "ar": "أين تركته؟",
+        "context": "صيغة قريبة عند فقدان شيء."
+      },
+      {
+        "id": 7,
+        "en": "Where did you put the phone?",
+        "ar": "أين وضعت الهاتف؟",
+        "context": "عند البحث عن هاتف."
+      },
+      {
+        "id": 8,
+        "en": "Where did you put the receipt?",
+        "ar": "أين وضعت الإيصال؟",
+        "context": "للبحث عن ورقة مهمة."
+      },
+      {
+        "id": 9,
+        "en": "Where did you put my coat?",
+        "ar": "أين وضعت معطفي؟",
+        "context": "قبل الخروج."
+      },
+      {
+        "id": 10,
+        "en": "Where did you put the food?",
+        "ar": "أين وضعت الطعام؟",
+        "context": "في المطبخ أو البيت."
+      }
+    ]
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 1,
+  "id": 6123,
+  "sentence": {
+    "en": "The test proved that he was innocent.",
+    "ar": "الفحص أثبت أنه كان بريئًا.",
+    "context": "وصف فحص سابق أكد أن رجلًا لم يكن مذنبًا بالأمر المقصود.",
+    "sourceWord": "prove",
+    "sourcePos": "v."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "The test proved",
+        "ar": "الفحص أثبت",
+        "context": "وصف فحص سابق قدم دليلًا حاسمًا.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "الماضي البسيط يصف حدثًا انتهى."
+        },
+        "wordMeanings": [
+          {
+            "term": "The",
+            "description": "أداة تعريف تشير إلى فحص معروف."
+          },
+          {
+            "term": "test",
+            "description": "فحص؛ إجراء للتحقق من حقيقة أو خاصية."
+          },
+          {
+            "term": "proved",
+            "description": "أثبت؛ أظهر بالدليل."
+          }
+        ]
+      },
+      {
+        "sentence": "that he was innocent.",
+        "ar": "أنه كان بريئًا.",
+        "context": "الحقيقة التي ثبتت هي عدم ذنب الرجل بالأمر المقصود.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "تصف was innocent حالة الرجل المتعلقة بما أثبته الفحص السابق."
+        },
+        "wordMeanings": [
+          {
+            "term": "that",
+            "description": "أنّ؛ أداة ربط."
+          },
+          {
+            "term": "he",
+            "description": "هو."
+          },
+          {
+            "term": "was",
+            "description": "كان."
+          },
+          {
+            "term": "innocent",
+            "description": "بريئًا؛ غير مذنب بالأمر المقصود."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "The test proved that he was innocent.",
+        "ar": "الفحص أثبت أنه كان بريئًا.",
+        "context": "وصف فحص سابق أكد أن رجلًا لم يكن مذنبًا بالأمر المقصود."
+      },
+      {
+        "id": 2,
+        "en": "The new method proves useful in small spaces.",
+        "ar": "الطريقة الجديدة تثبت فائدتها في الأماكن الصغيرة.",
+        "context": "وصف ما يكشفه التطبيق من نفع لأسلوب ضمن حيز محدود."
+      },
+      {
+        "id": 3,
+        "en": "The journey proved more difficult than expected.",
+        "ar": "الرحلة اتضح أنها أصعب من المتوقع.",
+        "context": "وصف نتيجة تجربة سابقة كشفت صعوبة أكبر من التقدير الأول."
+      },
+      {
+        "id": 4,
+        "en": "We have proved the result through a logical argument.",
+        "ar": "نحن قد أثبتنا النتيجة بحجة منطقية.",
+        "context": "الإبلاغ عن إتمام برهان قائم على استدلال يثبت نتيجة."
+      },
+      {
+        "id": 5,
+        "en": "The engineer is proving the reliability of the design.",
+        "ar": "المهندس يثبت موثوقية التصميم.",
+        "context": "وصف تحقق جارٍ يهدف إلى إظهار إمكان الاعتماد على فكرة هندسية."
+      },
+      {
+        "id": 6,
+        "en": "The next experiment will prove whether the theory works.",
+        "ar": "التجربة التالية ستثبت ما إذا كانت النظرية تعمل.",
+        "context": "توقع اختبار يحسم صلاحية تفسير مقترح في الحالة المدروسة."
+      },
+      {
+        "id": 7,
+        "en": "The candidate has nothing left to prove.",
+        "ar": "المرشح لم يبق لديه شيء ليثبته.",
+        "context": "وصف كفاية ما أظهره شخص من قدرات أو استحقاق حتى الآن."
+      },
+      {
+        "id": 8,
+        "en": "The documents proved her claim to ownership.",
+        "ar": "المستندات أثبتت ادعاءها بالملكية.",
+        "context": "وصف دعم سابق حاسم لحق تطالب به امرأة في شيء."
+      },
+      {
+        "id": 9,
+        "en": "The repair proved a temporary solution.",
+        "ar": "الإصلاح اتضح أنه حل مؤقت.",
+        "context": "وصف نتيجة سابقة كشفت محدودية مدة فائدة معالجة."
+      },
+      {
+        "id": 10,
+        "en": "The team proved itself under pressure.",
+        "ar": "الفريق أثبت نفسه تحت الضغط.",
+        "context": "وصف نجاح سابق أظهر كفاءة جماعة في ظروف صعبة."
+      }
+    ]
+  }
+}

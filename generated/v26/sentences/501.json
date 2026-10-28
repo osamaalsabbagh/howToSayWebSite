@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": 501,
+  "sentence": {
+    "en": "Would you like some water?",
+    "ar": "هل تود بعض الماء؟",
+    "context": "سؤال مهذب عما إذا كان الشخص يرغب في الماء."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Would you like some water?",
+        "ar": "هل تود بعض الماء؟",
+        "context": "سؤال مهذب لعرض الماء.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه صيغة مهذبة أو تركيب مساعد للتعبير عن عرض أو رغبة أو طلب، وليست زمنًا مستقلًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "Would",
+            "description": "تجعل السؤال مهذبًا."
+          },
+          {
+            "term": "you",
+            "description": "تشير إلى المخاطب."
+          },
+          {
+            "term": "like",
+            "description": "تعني ترغب."
+          },
+          {
+            "term": "some",
+            "description": "تعني بعض وتدل على كمية غير محددة."
+          },
+          {
+            "term": "water",
+            "description": "ماء."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Would you like some tea?",
+        "ar": "هل تود بعض الشاي؟",
+        "context": "عرض الشاي."
+      },
+      {
+        "id": 2,
+        "en": "Would you like a glass of water?",
+        "ar": "هل تود كوب ماء؟",
+        "context": "عرض ماء بكمية محددة."
+      },
+      {
+        "id": 3,
+        "en": "I would like some water.",
+        "ar": "أود بعض الماء.",
+        "context": "طلب ماء."
+      },
+      {
+        "id": 4,
+        "en": "She would like some juice.",
+        "ar": "هي تود بعض العصير.",
+        "context": "ذكر رغبة في مشروب."
+      },
+      {
+        "id": 5,
+        "en": "Do you need some water?",
+        "ar": "هل تحتاج إلى بعض الماء؟",
+        "context": "سؤال عن الحاجة للماء."
+      },
+      {
+        "id": 6,
+        "en": "We would like some coffee.",
+        "ar": "نود بعض القهوة.",
+        "context": "طلب قهوة."
+      },
+      {
+        "id": 7,
+        "en": "Please have some water.",
+        "ar": "من فضلك خذ بعض الماء.",
+        "context": "عرض الماء بلطف."
+      },
+      {
+        "id": 8,
+        "en": "There is some water here.",
+        "ar": "هناك بعض الماء هنا.",
+        "context": "ذكر وجود الماء."
+      },
+      {
+        "id": 9,
+        "en": "Would you like some food?",
+        "ar": "هل تود بعض الطعام؟",
+        "context": "عرض طعام."
+      },
+      {
+        "id": 10,
+        "en": "He would like water after dinner.",
+        "ar": "هو يود ماء بعد العشاء.",
+        "context": "ذكر رغبة في وقت معين."
+      }
+    ]
+  }
+}

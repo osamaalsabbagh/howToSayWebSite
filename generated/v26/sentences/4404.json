@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": 4404,
+  "sentence": {
+    "en": "The professor published a new study last year.",
+    "ar": "الأستاذ نشر دراسة جديدة العام الماضي.",
+    "context": "وصف أستاذ جامعي أتاح بحثًا مكتوبًا للقراء في السنة السابقة، لا مجرد مذاكرة مادة.",
+    "sourceWord": "professor",
+    "sourcePos": "n."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "The professor published a new study last year.",
+        "ar": "الأستاذ نشر دراسة جديدة العام الماضي.",
+        "context": "وصف أستاذ جامعي أتاح بحثًا مكتوبًا للقراء في السنة السابقة، لا مجرد مذاكرة مادة.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "الحدث وقع وانتهى في زمن ماضٍ محدد يدل عليه ذكر العام الماضي، ولذلك جاء الفعل في صيغة الماضي البسيط بإضافة النهاية المعتادة للأفعال القياسية."
+        },
+        "wordMeanings": [
+          {
+            "term": "The",
+            "description": "أداة تعريف تشير إلى شخص محدد ومعروف لدى المتكلم والسامع."
+          },
+          {
+            "term": "professor",
+            "description": "أستاذ جامعي؛ شخص يعمل بالتدريس أو البحث في مؤسسة جامعية."
+          },
+          {
+            "term": "published",
+            "description": "نشر، أي أصدر عملًا مكتوبًا وأتاحه للناس، بصيغة الماضي."
+          },
+          {
+            "term": "a",
+            "description": "أداة تنكير تسبق اسمًا مفردًا يُذكر لأول مرة."
+          },
+          {
+            "term": "new",
+            "description": "جديدة، أي لم تصدر من قبل."
+          },
+          {
+            "term": "study",
+            "description": "دراسة بحثية مكتوبة تعرض نتائج بحث، لا فعل المذاكرة."
+          },
+          {
+            "term": "last",
+            "description": "الماضي، ويدل هنا على السنة التي سبقت السنة الحالية مباشرة."
+          },
+          {
+            "term": "year",
+            "description": "سنة، وهي مدة اثني عشر شهرًا."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "The professor published a new study last year.",
+        "ar": "الأستاذ نشر دراسة جديدة العام الماضي.",
+        "context": "وصف أستاذ جامعي أتاح بحثًا مكتوبًا للقراء في السنة السابقة، لا مجرد مذاكرة مادة."
+      },
+      {
+        "id": 2,
+        "en": "A visiting professor will give the opening lecture.",
+        "ar": "أستاذ زائر سيلقي المحاضرة الافتتاحية.",
+        "context": "ذكر مشاركة مرتقبة لأكاديمي يعمل في مؤسسة أخرى ويزور الجامعة لفترة."
+      },
+      {
+        "id": 3,
+        "en": "The professor is examining a rare manuscript.",
+        "ar": "الأستاذ يفحص مخطوطة نادرة.",
+        "context": "وصف فحص جارٍ الآن لوثيقة مكتوبة قديمة على يد أكاديمي."
+      },
+      {
+        "id": 4,
+        "en": "Please ask the professor about office hours.",
+        "ar": "من فضلك اسأل الأستاذ عن ساعات الاستقبال.",
+        "context": "طلب معرفة الأوقات المخصصة لأسئلة الطلاب خارج المحاضرة."
+      },
+      {
+        "id": 5,
+        "en": "Our professor has received a research grant.",
+        "ar": "أستاذنا قد حصل على منحة بحثية.",
+        "context": "الإبلاغ عن تمويل حصل عليه أكاديمي وأصبح متاحًا لبحثه الآن."
+      },
+      {
+        "id": 6,
+        "en": "The professor of physics designed the experiment.",
+        "ar": "أستاذ الفيزياء صمّم التجربة.",
+        "context": "وصف إعداد تجربة على يد أكاديمي متخصص في دراسة المادة والطاقة."
+      },
+      {
+        "id": 7,
+        "en": "I met a retired professor at the library.",
+        "ar": "أنا قابلت أستاذًا متقاعدًا في المكتبة.",
+        "context": "وصف لقاء سابق مع شخص أنهى عمله الجامعي المعتاد."
+      },
+      {
+        "id": 8,
+        "en": "The professor invited questions after the lecture.",
+        "ar": "الأستاذ دعا إلى طرح أسئلة بعد المحاضرة.",
+        "context": "وصف إتاحة المجال للاستفسار بعد انتهاء شرح أكاديمي."
+      },
+      {
+        "id": 9,
+        "en": "Two professors are reviewing the thesis.",
+        "ar": "أستاذان يراجعان الرسالة العلمية.",
+        "context": "وصف تقييم جارٍ الآن لبحث أكاديمي مطول."
+      },
+      {
+        "id": 10,
+        "en": "The professor uses maps to explain ancient trade.",
+        "ar": "الأستاذ يستخدم خرائط لشرح التجارة القديمة.",
+        "context": "وصف وسيلة تدريس معتادة لدى أكاديمي."
+      }
+    ]
+  }
+}

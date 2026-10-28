@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "id": 523,
+  "sentence": {
+    "en": "Do you need anything?",
+    "ar": "هل تحتاج إلى أي شيء؟",
+    "context": "عرض المساعدة أو الاستفسار عن حاجة الشخص لشيء ما."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Do you need anything?",
+        "ar": "هل تحتاج إلى أي شيء؟",
+        "context": "سؤال لعرض المساعدة أو معرفة احتياج الشخص.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "need في المضارع البسيط يصف حاجة حالية محتملة."
+        },
+        "wordMeanings": [
+          {
+            "term": "Do",
+            "description": "تساعد في تكوين السؤال."
+          },
+          {
+            "term": "you",
+            "description": "تشير إلى المخاطب."
+          },
+          {
+            "term": "need",
+            "description": "تعني تحتاج."
+          },
+          {
+            "term": "anything",
+            "description": "تعني أي شيء غير محدد."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Do you need help?",
+        "ar": "هل تحتاج إلى مساعدة؟",
+        "context": "عرض مساعدة."
+      },
+      {
+        "id": 2,
+        "en": "I need something to drink.",
+        "ar": "أحتاج إلى شيء للشرب.",
+        "context": "ذكر حاجة عامة."
+      },
+      {
+        "id": 3,
+        "en": "She does not need anything.",
+        "ar": "هي لا تحتاج إلى أي شيء.",
+        "context": "نفي الحاجة."
+      },
+      {
+        "id": 4,
+        "en": "Do they need more time?",
+        "ar": "هل يحتاجون إلى وقت أكثر؟",
+        "context": "سؤال عن احتياج وقت."
+      },
+      {
+        "id": 5,
+        "en": "Please tell me if you need anything.",
+        "ar": "من فضلك أخبرني إذا احتجت إلى أي شيء.",
+        "context": "عرض مساعدة مهذب."
+      },
+      {
+        "id": 6,
+        "en": "We need a doctor.",
+        "ar": "نحتاج إلى طبيب.",
+        "context": "حاجة طبية."
+      },
+      {
+        "id": 7,
+        "en": "Do you need a towel?",
+        "ar": "هل تحتاج إلى منشفة؟",
+        "context": "سؤال عن شيء محدد."
+      },
+      {
+        "id": 8,
+        "en": "I do not need anything now.",
+        "ar": "لا أحتاج إلى أي شيء الآن.",
+        "context": "رفض المساعدة بلطف."
+      },
+      {
+        "id": 9,
+        "en": "He needs medicine.",
+        "ar": "هو يحتاج إلى دواء.",
+        "context": "ذكر حاجة شخص."
+      },
+      {
+        "id": 10,
+        "en": "Anything is okay.",
+        "ar": "أي شيء مناسب.",
+        "context": "قبول خيار غير محدد."
+      }
+    ]
+  }
+}

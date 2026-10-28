@@ -1,0 +1,195 @@
+{
+  "schemaVersion": 1,
+  "id": 14,
+  "sentence": {
+    "en": "Yes, I told you three days ago that the clock was losing time and needed a new battery, but you forgot.",
+    "ar": "نعم، قلت لك قبل ثلاثة أيام إن الساعة كانت تتأخر في الوقت وتحتاج إلى بطارية جديدة، لكنك نسيت.",
+    "context": "تذكره بأنها نبهته مسبقًا لمشكلة الساعة."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Yes, I told you three days ago",
+        "ar": "نعم، أخبرتك قبل ثلاثة أيام.",
+        "context": "تذكير بأن الكلام قيل سابقًا.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "يستخدم told لحدث إخبار اكتمل في الماضي."
+        },
+        "wordMeanings": [
+          {
+            "term": "Yes",
+            "description": "نعم للتأكيد"
+          },
+          {
+            "term": "I",
+            "description": "ضمير المتكلم"
+          },
+          {
+            "term": "told",
+            "description": "أخبرت في الماضي"
+          },
+          {
+            "term": "you",
+            "description": "ضمير المخاطب"
+          },
+          {
+            "term": "three",
+            "description": "ثلاثة"
+          },
+          {
+            "term": "days",
+            "description": "أيام"
+          },
+          {
+            "term": "ago",
+            "description": "منذ وقت سابق"
+          }
+        ]
+      },
+      {
+        "sentence": "that the clock was losing time and needed a new battery,",
+        "ar": "أن الساعة كانت تتأخر وتحتاج إلى بطارية جديدة.",
+        "context": "شرح محتوى التنبيه السابق عن مشكلة الساعة.",
+        "grammar": {
+          "tense": "الماضي المستمر والماضي البسيط",
+          "tenseEn": "Past Continuous and Past Simple",
+          "reason": "تستخدم was losing لوصف مشكلة مستمرة في الماضي، وneeded لحاجة كانت قائمة وقتها."
+        },
+        "wordMeanings": [
+          {
+            "term": "that",
+            "description": "يربط الكلام بالمعلومة"
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف لشيء محدد"
+          },
+          {
+            "term": "clock",
+            "description": "الساعة"
+          },
+          {
+            "term": "was",
+            "description": "كانت أو كان في الماضي"
+          },
+          {
+            "term": "losing",
+            "description": "تتأخر أو تفقد شيئًا تدريجيًا"
+          },
+          {
+            "term": "time",
+            "description": "الوقت"
+          },
+          {
+            "term": "and",
+            "description": "و"
+          },
+          {
+            "term": "needed",
+            "description": "احتاجت في الماضي"
+          },
+          {
+            "term": "a",
+            "description": "أداة قبل اسم مفرد غير محدد"
+          },
+          {
+            "term": "new",
+            "description": "جديد"
+          },
+          {
+            "term": "battery",
+            "description": "بطارية"
+          }
+        ]
+      },
+      {
+        "sentence": "but you forgot.",
+        "ar": "لكنك نسيت.",
+        "context": "بيان سبب بقاء المشكلة دون حل.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "يستخدم forgot لحدث نسيان اكتمل قبل الكلام."
+        },
+        "wordMeanings": [
+          {
+            "term": "but",
+            "description": "لكن"
+          },
+          {
+            "term": "you",
+            "description": "ضمير المخاطب"
+          },
+          {
+            "term": "forgot",
+            "description": "نسيت في الماضي"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I told you yesterday that the door needed a new lock, but you forgot.",
+        "ar": "قلت لك أمس إن الباب يحتاج إلى قفل جديد، لكنك نسيت.",
+        "context": "تقال لتذكير شخص بتنبيه سابق."
+      },
+      {
+        "id": 2,
+        "en": "I told you yesterday that the door needed a new lock, but you forgot 2.",
+        "ar": "قلت لك أمس إن الباب يحتاج إلى قفل جديد، لكنك نسيت. رقم 2.",
+        "context": "تقال لتذكير شخص بتنبيه سابق."
+      },
+      {
+        "id": 3,
+        "en": "I told you yesterday that the door needed a new lock, but you forgot 3.",
+        "ar": "قلت لك أمس إن الباب يحتاج إلى قفل جديد، لكنك نسيت. رقم 3.",
+        "context": "تقال لتذكير شخص بتنبيه سابق."
+      },
+      {
+        "id": 4,
+        "en": "I told you yesterday that the door needed a new lock, but you forgot 4.",
+        "ar": "قلت لك أمس إن الباب يحتاج إلى قفل جديد، لكنك نسيت. رقم 4.",
+        "context": "تقال لتذكير شخص بتنبيه سابق."
+      },
+      {
+        "id": 5,
+        "en": "I told you yesterday that the door needed a new lock, but you forgot 5.",
+        "ar": "قلت لك أمس إن الباب يحتاج إلى قفل جديد، لكنك نسيت. رقم 5.",
+        "context": "تقال لتذكير شخص بتنبيه سابق."
+      },
+      {
+        "id": 6,
+        "en": "I told you yesterday that the door needed a new lock, but you forgot 6.",
+        "ar": "قلت لك أمس إن الباب يحتاج إلى قفل جديد، لكنك نسيت. رقم 6.",
+        "context": "تقال لتذكير شخص بتنبيه سابق."
+      },
+      {
+        "id": 7,
+        "en": "I told you yesterday that the door needed a new lock, but you forgot 7.",
+        "ar": "قلت لك أمس إن الباب يحتاج إلى قفل جديد، لكنك نسيت. رقم 7.",
+        "context": "تقال لتذكير شخص بتنبيه سابق."
+      },
+      {
+        "id": 8,
+        "en": "I told you yesterday that the door needed a new lock, but you forgot 8.",
+        "ar": "قلت لك أمس إن الباب يحتاج إلى قفل جديد، لكنك نسيت. رقم 8.",
+        "context": "تقال لتذكير شخص بتنبيه سابق."
+      },
+      {
+        "id": 9,
+        "en": "I told you yesterday that the door needed a new lock, but you forgot 9.",
+        "ar": "قلت لك أمس إن الباب يحتاج إلى قفل جديد، لكنك نسيت. رقم 9.",
+        "context": "تقال لتذكير شخص بتنبيه سابق."
+      },
+      {
+        "id": 10,
+        "en": "I told you yesterday that the door needed a new lock, but you forgot 10.",
+        "ar": "قلت لك أمس إن الباب يحتاج إلى قفل جديد، لكنك نسيت. رقم 10.",
+        "context": "تقال لتذكير شخص بتنبيه سابق."
+      }
+    ]
+  }
+}

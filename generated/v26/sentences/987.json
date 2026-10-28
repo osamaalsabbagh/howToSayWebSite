@@ -1,0 +1,119 @@
+{
+  "schemaVersion": 1,
+  "id": 987,
+  "sentence": {
+    "en": "I need some help, please.",
+    "ar": "أحتاج إلى بعض المساعدة، من فضلك.",
+    "context": "تُستخدم لطلب المساعدة بلطف."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "I need some help",
+        "ar": "أحتاج إلى بعض المساعدة",
+        "context": "هذا الجزء يوضح حاجة المتكلم إلى مساعدة.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُخدم المضارع البسيط للتعبير عن حاجة حالية."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير يشير إلى المتكلم"
+          },
+          {
+            "term": "need",
+            "description": "أحتاج"
+          },
+          {
+            "term": "some",
+            "description": "بعض، وتدل على مقدار غير محدد"
+          },
+          {
+            "term": "help",
+            "description": "مساعدة أو عون"
+          }
+        ]
+      },
+      {
+        "sentence": "please",
+        "ar": "من فضلك",
+        "context": "كلمة تجعل طلب المساعدة أكثر أدبًا.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "كلمة أدب ثابتة ولا تحمل زمنًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "please",
+            "description": "من فضلك، لتلطيف الطلب"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I need help, please.",
+        "ar": "أحتاج إلى مساعدة، من فضلك.",
+        "context": "تُستخدم لطلب مساعدة مباشرة."
+      },
+      {
+        "id": 2,
+        "en": "I need some water, please.",
+        "ar": "أحتاج إلى بعض الماء، من فضلك.",
+        "context": "تُستخدم عند طلب ماء بأدب."
+      },
+      {
+        "id": 3,
+        "en": "I need some time, please.",
+        "ar": "أحتاج إلى بعض الوقت، من فضلك.",
+        "context": "تُستخدم عند طلب مهلة."
+      },
+      {
+        "id": 4,
+        "en": "I need your help.",
+        "ar": "أحتاج إلى مساعدتك.",
+        "context": "تُستخدم عند طلب مساعدة من شخص محدد."
+      },
+      {
+        "id": 5,
+        "en": "We need some help, please.",
+        "ar": "نحتاج إلى بعض المساعدة، من فضلك.",
+        "context": "تُستخدم عندما تتحدث باسم مجموعة."
+      },
+      {
+        "id": 6,
+        "en": "I need help with this bag.",
+        "ar": "أحتاج إلى مساعدة في هذه الحقيبة.",
+        "context": "تُستخدم عند حمل شيء صعب."
+      },
+      {
+        "id": 7,
+        "en": "I need help with the address.",
+        "ar": "أحتاج إلى مساعدة في العنوان.",
+        "context": "تُستخدم عند صعوبة العثور على مكان."
+      },
+      {
+        "id": 8,
+        "en": "I need some advice, please.",
+        "ar": "أحتاج إلى بعض النصيحة، من فضلك.",
+        "context": "تُستخدم عند طلب رأي."
+      },
+      {
+        "id": 9,
+        "en": "I need a little help.",
+        "ar": "أحتاج إلى قليل من المساعدة.",
+        "context": "تُستخدم لطلب مساعدة بسيطة."
+      },
+      {
+        "id": 10,
+        "en": "I need help right now.",
+        "ar": "أحتاج إلى مساعدة الآن.",
+        "context": "تُستخدم في موقف عاجل."
+      }
+    ]
+  }
+}

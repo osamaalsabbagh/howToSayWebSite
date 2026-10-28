@@ -1,0 +1,119 @@
+{
+  "schemaVersion": 1,
+  "id": 13,
+  "sentence": {
+    "en": "Now I understand, thank you.",
+    "ar": "الآن أنا أفهم، شكرًا لك.",
+    "context": "الطالب يوضح أنه يفهم الفرق في الوقت الحالي ويشكر المعلم"
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Now I understand",
+        "ar": "الآن أنا أفهم.",
+        "context": "يبين أن المتحدث فهم التوضيح الآن.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "الجملة تصف حالة فهم المتكلم في الوقت الحالي بعد الشرح."
+        },
+        "wordMeanings": [
+          {
+            "term": "Now",
+            "description": "في هذه اللحظة أو بعد الشرح مباشرة."
+          },
+          {
+            "term": "I",
+            "description": "ضمير المتكلم المفرد."
+          },
+          {
+            "term": "understand",
+            "description": "أفهم أو أدرك المعنى."
+          }
+        ]
+      },
+      {
+        "sentence": "thank you",
+        "ar": "شكرًا لك.",
+        "context": "تُستخدم للتعبير عن الشكر داخل هذا الموقف.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذا تعبير شكر ثابت وليس جملة بزمن مستقل."
+        },
+        "wordMeanings": [
+          {
+            "term": "thank",
+            "description": "أشكر أو أعبّر عن الامتنان."
+          },
+          {
+            "term": "you",
+            "description": "الشخص الذي يوجه إليه الشكر."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Now I understand the rule, thank you.",
+        "ar": "الآن أفهم القاعدة، شكرًا لك.",
+        "context": "يُستخدم بعد شرح قاعدة بوضوح."
+      },
+      {
+        "id": 2,
+        "en": "Now I understand the answer, thank you.",
+        "ar": "الآن أفهم الإجابة، شكرًا لك.",
+        "context": "يُستخدم بعد أن يوضح شخص إجابة."
+      },
+      {
+        "id": 3,
+        "en": "Now I understand the difference, thank you.",
+        "ar": "الآن أفهم الفرق، شكرًا لك.",
+        "context": "يُستخدم بعد شرح الفرق بين شيئين."
+      },
+      {
+        "id": 4,
+        "en": "Now I understand your point, thank you.",
+        "ar": "الآن أفهم وجهة نظرك، شكرًا لك.",
+        "context": "يُستخدم بعد فهم رأي شخص."
+      },
+      {
+        "id": 5,
+        "en": "Now I understand the example, thank you.",
+        "ar": "الآن أفهم المثال، شكرًا لك.",
+        "context": "يُستخدم عندما يساعد المثال في التوضيح."
+      },
+      {
+        "id": 6,
+        "en": "Now I understand the question, thank you.",
+        "ar": "الآن أفهم السؤال، شكرًا لك.",
+        "context": "يُستخدم بعد توضيح المطلوب في سؤال."
+      },
+      {
+        "id": 7,
+        "en": "Now I understand how it works, thank you.",
+        "ar": "الآن أفهم كيف يعمل، شكرًا لك.",
+        "context": "يُستخدم بعد شرح طريقة عمل شيء."
+      },
+      {
+        "id": 8,
+        "en": "Now I understand the lesson, thank you.",
+        "ar": "الآن أفهم الدرس، شكرًا لك.",
+        "context": "يُستخدم عند شكر المعلم بعد الشرح."
+      },
+      {
+        "id": 9,
+        "en": "Now I understand why it changed, thank you.",
+        "ar": "الآن أفهم لماذا تغيّر، شكرًا لك.",
+        "context": "يُستخدم بعد فهم سبب التغيير."
+      },
+      {
+        "id": 10,
+        "en": "Now I understand the meaning, thank you.",
+        "ar": "الآن أفهم المعنى، شكرًا لك.",
+        "context": "يُستخدم بعد توضيح معنى كلمة أو فكرة."
+      }
+    ]
+  }
+}

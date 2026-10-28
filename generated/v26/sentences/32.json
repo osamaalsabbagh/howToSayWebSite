@@ -1,0 +1,127 @@
+{
+  "schemaVersion": 1,
+  "id": 32,
+  "sentence": {
+    "en": "I do not want to bother you.",
+    "ar": "لا أريد أن أزعجك.",
+    "context": "تجنب إزعاج شخص."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "I do not want",
+        "ar": "لا أريد.",
+        "context": "يبدأ به المتحدث الفكرة الأساسية قبل إضافة التفاصيل.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "تستخدم الجملة المضارع البسيط لنفي رغبة المتكلم في الموقف الحالي، ويأتي do not لتكوين النفي."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير المتكلم ويشير إلى الشخص الذي يتحدث."
+          },
+          {
+            "term": "do",
+            "description": "تساعد هنا على تكوين النفي في المضارع مع I."
+          },
+          {
+            "term": "not",
+            "description": "كلمة نفي تجعل المعنى لا أريد."
+          },
+          {
+            "term": "want",
+            "description": "أريد أو أرغب في فعل شيء."
+          }
+        ]
+      },
+      {
+        "sentence": "to bother you",
+        "ar": "أن أزعجك.",
+        "context": "يوضح الغرض أو الفعل المقصود بعد العبارة السابقة.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذا جزء يوضح الفعل الذي لا يريد المتكلم فعله، وهو إزعاج المخاطب، ولا يحمل زمنًا مستقلًا لأنه يبدأ بـ to قبل الفعل."
+        },
+        "wordMeanings": [
+          {
+            "term": "to",
+            "description": "تأتي قبل الفعل لتربط الرغبة بالفعل المقصود."
+          },
+          {
+            "term": "bother",
+            "description": "أزعج أو أسبب إرباكًا لشخص."
+          },
+          {
+            "term": "you",
+            "description": "ضمير يشير إلى الشخص الذي أتحدث معه."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I do not want to disturb you.",
+        "ar": "لا أريد أن أزعجك.",
+        "context": "تقال عند تجنب مقاطعة شخص."
+      },
+      {
+        "id": 2,
+        "en": "I do not want to waste your time.",
+        "ar": "لا أريد أن أضيع وقتك.",
+        "context": "تقال عند احترام وقت شخص آخر."
+      },
+      {
+        "id": 3,
+        "en": "She does not want to bother her teacher.",
+        "ar": "هي لا تريد أن تزعج معلمها.",
+        "context": "تقال عند تردد شخص في طلب شيء من معلمه."
+      },
+      {
+        "id": 4,
+        "en": "We do not want to make noise.",
+        "ar": "لا نريد أن نحدث ضجيجًا.",
+        "context": "تقال عند محاولة الحفاظ على الهدوء."
+      },
+      {
+        "id": 5,
+        "en": "He does not want to ask again.",
+        "ar": "هو لا يريد أن يسأل مرة أخرى.",
+        "context": "تقال عند تجنب تكرار سؤال."
+      },
+      {
+        "id": 6,
+        "en": "I do not want to call too late.",
+        "ar": "لا أريد أن أتصل في وقت متأخر جدًا.",
+        "context": "تقال عند مراعاة وقت الشخص الآخر."
+      },
+      {
+        "id": 7,
+        "en": "They do not want to cause a problem.",
+        "ar": "هم لا يريدون أن يسببوا مشكلة.",
+        "context": "تقال عند محاولة تجنب الخلاف."
+      },
+      {
+        "id": 8,
+        "en": "I do not want to interrupt the meeting.",
+        "ar": "لا أريد أن أقاطع الاجتماع.",
+        "context": "تقال عند احترام سير اجتماع."
+      },
+      {
+        "id": 9,
+        "en": "My brother does not want to bother anyone.",
+        "ar": "أخي لا يريد أن يزعج أحدًا.",
+        "context": "تقال عند وصف شخص يحاول عدم إزعاج الآخرين."
+      },
+      {
+        "id": 10,
+        "en": "I do not want to be rude.",
+        "ar": "لا أريد أن أكون فظًا.",
+        "context": "تقال عند محاولة الكلام بأدب."
+      }
+    ]
+  }
+}

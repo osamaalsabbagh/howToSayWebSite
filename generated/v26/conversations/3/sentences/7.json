@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "id": 7,
+  "sentence": {
+    "en": "Just me. I work across the street, so it is convenient.",
+    "ar": "أنا فقط. أعمل في الجهة المقابلة من الشارع، لذا فهو مناسب.",
+    "context": "يذكر قرب موقع عمله من مكان النشاط لبيان سهولة الوصول"
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Just me.",
+        "ar": "أنا فقط.",
+        "context": "تمهّد لما سيأتي بعده في الكلام.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه عبارة قصيرة تعني أن المتكلم وحده، وليست جملة فعلية بزمن مستقل."
+        },
+        "wordMeanings": [
+          {
+            "term": "Just",
+            "description": "تعني فقط، وتحدد أن المتكلم وحده."
+          },
+          {
+            "term": "me",
+            "description": "ضمير يعود على المتكلم، ومعنى العبارة: أنا فقط."
+          }
+        ]
+      },
+      {
+        "sentence": "I work across the street, so it is convenient.",
+        "ar": "أعمل في الجهة المقابلة من الشارع، لذا فهو مناسب.",
+        "context": "يكمل به المتحدث المعنى أو النتيجة داخل هذا الموقف.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُعمل المضارع البسيط لأن المتكلم يذكر مكان عمله وحقيقة حالية تجعل النشاط مناسبًا له."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير المتكلم المفرد."
+          },
+          {
+            "term": "work",
+            "description": "تعني أعمل أو لدي وظيفة."
+          },
+          {
+            "term": "across",
+            "description": "تعني في الجهة المقابلة عند استعمالها مع from."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف لشيء معروف في السياق."
+          },
+          {
+            "term": "street",
+            "description": "شارع أو طريق داخل المدينة."
+          },
+          {
+            "term": "so",
+            "description": "تربط السبب بالنتيجة، بمعنى لذلك."
+          },
+          {
+            "term": "it",
+            "description": "ضمير يعود على المكان أو الانضمام إلى النشاط."
+          },
+          {
+            "term": "is",
+            "description": "صيغة تربط الضمير بالوصف الذي بعده."
+          },
+          {
+            "term": "convenient",
+            "description": "صفة تعني مناسبًا وسهلًا من ناحية الوقت أو المكان."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Just me. I live nearby, so it is easy.",
+        "ar": "أنا فقط. أسكن بالقرب من هنا، لذلك الأمر سهل.",
+        "context": "توضح سبب سهولة الحضور."
+      },
+      {
+        "id": 2,
+        "en": "I work across the street.",
+        "ar": "أعمل في الجهة المقابلة من الشارع.",
+        "context": "تذكر قرب مكان العمل."
+      },
+      {
+        "id": 3,
+        "en": "It is convenient because I live close by.",
+        "ar": "إنه مناسب لأنني أسكن قريبًا.",
+        "context": "تشرح سبب ملاءمة المكان."
+      },
+      {
+        "id": 4,
+        "en": "Just me. My friend cannot come today.",
+        "ar": "أنا فقط. صديقي لا يستطيع الحضور اليوم.",
+        "context": "توضح أنك لن تأتي مع شخص آخر."
+      },
+      {
+        "id": 5,
+        "en": "I study across the street, so this class is convenient.",
+        "ar": "أدرس في الجهة المقابلة من الشارع، لذلك هذه الحصة مناسبة.",
+        "context": "تربط موقع الدراسة بسهولة الحضور."
+      },
+      {
+        "id": 6,
+        "en": "The gym is close, so it is convenient.",
+        "ar": "النادي قريب، لذلك هو مناسب.",
+        "context": "تصف ميزة الموقع."
+      },
+      {
+        "id": 7,
+        "en": "I work nearby, so I can come after work.",
+        "ar": "أعمل بالقرب من هنا، لذلك أستطيع الحضور بعد العمل.",
+        "context": "تشرح إمكانية الحضور بعد الدوام."
+      },
+      {
+        "id": 8,
+        "en": "Just me today.",
+        "ar": "أنا فقط اليوم.",
+        "context": "رد قصير عند السؤال عن عدد الحاضرين."
+      },
+      {
+        "id": 9,
+        "en": "I live across the street from the school.",
+        "ar": "أسكن في الجهة المقابلة من المدرسة.",
+        "context": "تحدد موقع السكن بالنسبة لمكان معروف."
+      },
+      {
+        "id": 10,
+        "en": "It is convenient for my schedule.",
+        "ar": "إنه مناسب لجدولي.",
+        "context": "تقول إن الموعد يناسب وقتك."
+      }
+    ]
+  }
+}

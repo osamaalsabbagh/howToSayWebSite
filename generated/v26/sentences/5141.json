@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": 5141,
+  "sentence": {
+    "en": "The woman whose car is red lives upstairs.",
+    "ar": "المرأة التي سيارتها حمراء تعيش في الطابق العلوي.",
+    "context": "التعريف بامرأة من خلال لون سيارتها وذكر أن مسكنها في طابق أعلى.",
+    "sourceWord": "whose",
+    "sourcePos": "det./pron."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "The woman whose car is red lives upstairs.",
+        "ar": "المرأة التي سيارتها حمراء تعيش في الطابق العلوي.",
+        "context": "التعريف بامرأة من خلال لون سيارتها وذكر أن مسكنها في طابق أعلى.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "الجملة تصف مكان سكن قائمًا ولون سيارة يعرّف بصاحبتها."
+        },
+        "wordMeanings": [
+          {
+            "term": "The",
+            "description": "الـ؛ تشير إلى المرأة المقصودة"
+          },
+          {
+            "term": "woman",
+            "description": "امرأة"
+          },
+          {
+            "term": "whose",
+            "description": "التي لها؛ تربط المرأة بسيارتها"
+          },
+          {
+            "term": "car",
+            "description": "سيارة"
+          },
+          {
+            "term": "is",
+            "description": "تكون؛ تربط السيارة بلونها"
+          },
+          {
+            "term": "red",
+            "description": "حمراء"
+          },
+          {
+            "term": "lives",
+            "description": "تعيش؛ تقيم بانتظام"
+          },
+          {
+            "term": "upstairs",
+            "description": "في الطابق العلوي"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "The woman whose car is red lives upstairs.",
+        "ar": "المرأة التي سيارتها حمراء تعيش في الطابق العلوي.",
+        "context": "التعريف بامرأة من خلال لون سيارتها وذكر أن مسكنها في طابق أعلى."
+      },
+      {
+        "id": 2,
+        "en": "Whose is the blue notebook?",
+        "ar": "لمن الدفتر الأزرق؟",
+        "context": "سؤال عن صاحب غرض محدد بلونه دون معرفة هويته."
+      },
+      {
+        "id": 3,
+        "en": "Please contact the person whose name appears on the receipt.",
+        "ar": "من فضلك تواصل مع الشخص الذي اسمه يظهر على الإيصال.",
+        "context": "طلب الرجوع إلى صاحب اسم مكتوب على وثيقة شراء."
+      },
+      {
+        "id": 4,
+        "en": "We have met the author whose book inspired the exhibition.",
+        "ar": "نحن قد قابلنا المؤلف الذي كتابه ألهم المعرض.",
+        "context": "الإبلاغ عن لقاء صاحب عمل أدبي أثّر في فكرة عرض فني."
+      },
+      {
+        "id": 5,
+        "en": "Whose responsibility is the final check?",
+        "ar": "الفحص الأخير مسؤولية من؟",
+        "context": "سؤال عن الشخص المكلف بالتحقق الختامي من عمل."
+      },
+      {
+        "id": 6,
+        "en": "The hotel whose rooms overlook the sea is fully booked.",
+        "ar": "الفندق الذي غرفه تطل على البحر محجوز بالكامل.",
+        "context": "التعريف بمكان إقامة بميزة غرفه ثم بيان نفاد الإتاحة فيه."
+      },
+      {
+        "id": 7,
+        "en": "The students are comparing maps whose scales differ.",
+        "ar": "الطلاب يقارنون خرائط مقاييسها تختلف.",
+        "context": "وصف عمل جارٍ على وثائق تختلف علاقة أحجامها بالمسافات الحقيقية."
+      },
+      {
+        "id": 8,
+        "en": "The guide will introduce the artist whose work is on display.",
+        "ar": "الدليل سيقدم الفنان الذي عمله معروض.",
+        "context": "وصف تعريف مرتقب بصاحب عمل يراه الجمهور."
+      },
+      {
+        "id": 9,
+        "en": "Whose idea was the garden project?",
+        "ar": "مشروع الحديقة كان فكرة مَن؟",
+        "context": "سؤال عن الشخص الذي طرح مشروعًا في وقت سابق."
+      },
+      {
+        "id": 10,
+        "en": "She repaired a chair whose leg was loose.",
+        "ar": "هي أصلحت كرسيًا ساقه كانت غير ثابتة.",
+        "context": "وصف إصلاح سابق لغرض محدد بعيب في جزء تابع له."
+      }
+    ]
+  }
+}

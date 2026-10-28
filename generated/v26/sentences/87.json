@@ -1,0 +1,127 @@
+{
+  "schemaVersion": 1,
+  "id": 87,
+  "sentence": {
+    "en": "This is nonsense and you know it.",
+    "ar": "هذا هراء وأنت تعرف ذلك.",
+    "context": "ارفض شيئًا على أنه سخيف أو لا معنى له، وأشر إلى أن الطرف الآخر يدرك ذلك."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "This is nonsense",
+        "ar": "هذا هراء.",
+        "context": "يبدأ به المتحدث الفكرة الأساسية قبل إضافة التفاصيل.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "تستخدم is لوصف الكلام أو الفكرة في اللحظة الحالية بأنها غير منطقية."
+        },
+        "wordMeanings": [
+          {
+            "term": "This",
+            "description": "هذا الشيء أو الكلام القريب في النقاش."
+          },
+          {
+            "term": "is",
+            "description": "صيغة تربط الشيء بوصفه الحالي."
+          },
+          {
+            "term": "nonsense",
+            "description": "كلام سخيف أو غير منطقي."
+          }
+        ]
+      },
+      {
+        "sentence": "and you know it",
+        "ar": "وأنت تعرف ذلك.",
+        "context": "يضيف معلومة مكملة لما قبله.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "تستخدم know في المضارع البسيط لتأكيد أن المخاطب يدرك الحقيقة أو يعرف أن الكلام غير مقبول."
+        },
+        "wordMeanings": [
+          {
+            "term": "and",
+            "description": "تربط بين الحكم على الكلام وتأكيد معرفة المخاطب بذلك."
+          },
+          {
+            "term": "you",
+            "description": "ضمير يشير إلى الشخص الذي أتحدث معه."
+          },
+          {
+            "term": "know",
+            "description": "تعرف أو تدرك المعلومة."
+          },
+          {
+            "term": "it",
+            "description": "ضمير يشير إلى أن الكلام سخيف أو غير منطقي."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "This is wrong, and you know it.",
+        "ar": "هذا خطأ، وأنت تعرف ذلك.",
+        "context": "تقال عند مواجهة شخص بحقيقة واضحة."
+      },
+      {
+        "id": 2,
+        "en": "That is not true, and you know it.",
+        "ar": "ذلك ليس صحيحًا، وأنت تعرف ذلك.",
+        "context": "تقال عند رفض كلام غير صحيح."
+      },
+      {
+        "id": 3,
+        "en": "This idea is nonsense.",
+        "ar": "هذه الفكرة هراء.",
+        "context": "تقال عند رفض فكرة غير منطقية."
+      },
+      {
+        "id": 4,
+        "en": "You know this is unfair.",
+        "ar": "أنت تعرف أن هذا غير عادل.",
+        "context": "تقال عند الاعتراض على تصرف ظالم."
+      },
+      {
+        "id": 5,
+        "en": "This answer makes no sense.",
+        "ar": "هذه الإجابة لا معنى لها.",
+        "context": "تقال عند رفض جواب غير منطقي."
+      },
+      {
+        "id": 6,
+        "en": "He knows the plan is bad.",
+        "ar": "هو يعرف أن الخطة سيئة.",
+        "context": "تقال عند تأكيد إدراك شخص لمشكلة في خطة."
+      },
+      {
+        "id": 7,
+        "en": "This excuse is nonsense.",
+        "ar": "هذا العذر هراء.",
+        "context": "تقال عند رفض عذر غير مقنع."
+      },
+      {
+        "id": 8,
+        "en": "You know it is not possible.",
+        "ar": "أنت تعرف أن ذلك غير ممكن.",
+        "context": "تقال عند مواجهة شخص بطلب غير واقعي."
+      },
+      {
+        "id": 9,
+        "en": "This story is not believable.",
+        "ar": "هذه القصة غير قابلة للتصديق.",
+        "context": "تقال عند الشك في قصة أو رواية."
+      },
+      {
+        "id": 10,
+        "en": "They know the price is too high.",
+        "ar": "هم يعرفون أن السعر مرتفع جدًا.",
+        "context": "تقال عند تأكيد معرفة طرف بمشكلة السعر."
+      }
+    ]
+  }
+}

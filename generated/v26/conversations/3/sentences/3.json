@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "id": 3,
+  "sentence": {
+    "en": "Great! I would like to add my name to the list.",
+    "ar": "رائع! أود أن أُضيف اسمي إلى القائمة.",
+    "context": "يرغب في تسجيل اسمه ضمن المشاركين في النشاط"
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Great!",
+        "ar": "رائع!",
+        "context": "تُظهر قبولًا أو استحسانًا لما قيل قبلها.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه كلمة تعبير عن الرضا والحماس وليست جملة فعلية لها زمن مستقل."
+        },
+        "wordMeanings": [
+          {
+            "term": "Great",
+            "description": "كلمة تعبر عن الرضا أو الحماس."
+          }
+        ]
+      },
+      {
+        "sentence": "I would like to add my name to the list.",
+        "ar": "أود أن أُضيف اسمي إلى القائمة.",
+        "context": "يكمل به المتحدث المعنى أو النتيجة داخل هذا الموقف.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذا تركيب مهذب للتعبير عن الرغبة في التسجيل، ويعتمد على would لتلطيف الطلب لا على زمن مستقل واضح."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير المتكلم المفرد."
+          },
+          {
+            "term": "would",
+            "description": "تجعل الطلب أو الرغبة ألطف وأكثر تهذيبًا."
+          },
+          {
+            "term": "like",
+            "description": "تعني أرغب في هذا السياق."
+          },
+          {
+            "term": "to",
+            "description": "تأتي قبل الفعل لتكوين معنى الرغبة في فعل شيء."
+          },
+          {
+            "term": "add",
+            "description": "تعني أضيف أو أضع شيئًا ضمن قائمة."
+          },
+          {
+            "term": "my",
+            "description": "صفة ملكية تعني الخاص بي."
+          },
+          {
+            "term": "name",
+            "description": "الاسم الشخصي."
+          },
+          {
+            "term": "to",
+            "description": "حرف يوضح الاتجاه نحو القائمة أو الإضافة إليها."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف لقائمة معروفة من السياق."
+          },
+          {
+            "term": "list",
+            "description": "قائمة أسماء أو مشاركين."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Great! I would like to join the class.",
+        "ar": "رائع! أود الانضمام إلى الحصة.",
+        "context": "تقولها عندما تقرر المشاركة."
+      },
+      {
+        "id": 2,
+        "en": "I would like to add my email to the list.",
+        "ar": "أود إضافة بريدي الإلكتروني إلى القائمة.",
+        "context": "تطلب إدخال بريدك للتواصل."
+      },
+      {
+        "id": 3,
+        "en": "I would like to register for tomorrow.",
+        "ar": "أود التسجيل ليوم غد.",
+        "context": "تطلب حجز موعد قادم."
+      },
+      {
+        "id": 4,
+        "en": "Great! I would like to start today.",
+        "ar": "رائع! أود أن أبدأ اليوم.",
+        "context": "تعبر عن حماسك للبداية فورًا."
+      },
+      {
+        "id": 5,
+        "en": "I would like to add my brother to the list.",
+        "ar": "أود إضافة أخي إلى القائمة.",
+        "context": "تطلب تسجيل شخص آخر."
+      },
+      {
+        "id": 6,
+        "en": "I would like to try the beginner class.",
+        "ar": "أود تجربة حصة المبتدئين.",
+        "context": "تختار مستوى مناسبًا لك."
+      },
+      {
+        "id": 7,
+        "en": "Great! Please add my name.",
+        "ar": "رائع! من فضلك أضف اسمي.",
+        "context": "تطلب التسجيل بطريقة مباشرة."
+      },
+      {
+        "id": 8,
+        "en": "I would like to be on the waiting list.",
+        "ar": "أود أن أكون على قائمة الانتظار.",
+        "context": "تقبل الانتظار إذا كانت الأماكن ممتلئة."
+      },
+      {
+        "id": 9,
+        "en": "I would like to add my phone number.",
+        "ar": "أود إضافة رقم هاتفي.",
+        "context": "تقدم معلومة للتسجيل."
+      },
+      {
+        "id": 10,
+        "en": "Great! I would like to come this week.",
+        "ar": "رائع! أود الحضور هذا الأسبوع.",
+        "context": "تحدد وقت المشاركة المتوقع."
+      }
+    ]
+  }
+}

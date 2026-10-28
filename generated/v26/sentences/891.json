@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "id": 891,
+  "sentence": {
+    "en": "I made a mistake.",
+    "ar": "ارتكبت خطأً.",
+    "context": "تُستخدم للاعتراف بارتكاب خطأ."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "I made a mistake.",
+        "ar": "ارتكبت خطأ.",
+        "context": "جملة للاعتراف بخطأ حدث في الماضي.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "made هو ماضي make ويستخدم لأن الخطأ حدث وانتهى قبل الآن."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "أنا؛ المتكلم"
+          },
+          {
+            "term": "made",
+            "description": "ارتكبت أو قمت بـ في الماضي"
+          },
+          {
+            "term": "a",
+            "description": "أداة نكرة لشيء واحد"
+          },
+          {
+            "term": "mistake",
+            "description": "خطأ"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I made a small mistake.",
+        "ar": "ارتكبت خطأ صغيرا.",
+        "context": "للاعتراف بخطأ بسيط."
+      },
+      {
+        "id": 2,
+        "en": "She made a mistake.",
+        "ar": "هي ارتكبت خطأ.",
+        "context": "للتحدث عن شخص آخر."
+      },
+      {
+        "id": 3,
+        "en": "We made a mistake.",
+        "ar": "ارتكبنا خطأ.",
+        "context": "للاعتراف باسم مجموعة."
+      },
+      {
+        "id": 4,
+        "en": "Did I make a mistake?",
+        "ar": "هل ارتكبت خطأ؟",
+        "context": "للسؤال عن صحة فعل."
+      },
+      {
+        "id": 5,
+        "en": "I made a mistake in the report.",
+        "ar": "ارتكبت خطأ في التقرير.",
+        "context": "لتحديد مكان الخطأ."
+      },
+      {
+        "id": 6,
+        "en": "He made the same mistake.",
+        "ar": "هو ارتكب الخطأ نفسه.",
+        "context": "للتحدث عن تكرار خطأ."
+      },
+      {
+        "id": 7,
+        "en": "I am sorry, I made a mistake.",
+        "ar": "أنا آسف، ارتكبت خطأ.",
+        "context": "للاعتذار."
+      },
+      {
+        "id": 8,
+        "en": "Everyone makes mistakes.",
+        "ar": "الجميع يرتكبون أخطاء.",
+        "context": "للتخفيف عن شخص."
+      },
+      {
+        "id": 9,
+        "en": "I made a mistake with the address.",
+        "ar": "ارتكبت خطأ في العنوان.",
+        "context": "لتحديد نوع الخطأ."
+      },
+      {
+        "id": 10,
+        "en": "Please fix the mistake.",
+        "ar": "من فضلك أصلح الخطأ.",
+        "context": "لطلب تصحيح."
+      }
+    ]
+  }
+}

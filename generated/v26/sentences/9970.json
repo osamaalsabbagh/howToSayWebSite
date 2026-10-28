@@ -1,0 +1,157 @@
+{
+  "schemaVersion": 1,
+  "id": 9970,
+  "sentence": {
+    "en": "The teacher asked us to infer the meaning of the word from the sentence.",
+    "ar": "المعلم طلب منا أن نستنتج معنى الكلمة من الجملة.",
+    "context": "وصف طلب سابق لفهم كلمة من سياقها دون الزعم بأن المعلم رفض شرحها.",
+    "sourceWord": "infer",
+    "sourcePos": "v."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "The teacher asked us",
+        "ar": "المعلم طلب منا",
+        "context": "وصف طلب سابق من المعلم إلى المجموعة.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "الماضي البسيط يصف حدثًا انتهى."
+        },
+        "wordMeanings": [
+          {
+            "term": "The",
+            "description": "أداة تعريف تأتي مع المعلم."
+          },
+          {
+            "term": "teacher",
+            "description": "المعلم."
+          },
+          {
+            "term": "asked",
+            "description": "طلب من."
+          },
+          {
+            "term": "us",
+            "description": "نا؛ ضمير المفعول للمتكلمين."
+          }
+        ]
+      },
+      {
+        "sentence": "to infer the meaning of the word from the sentence.",
+        "ar": "أن نستنتج معنى الكلمة من الجملة.",
+        "context": "تحديد الاستدلال على معنى كلمة من محيطها النصي.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "حرف المصدر مع الفعل يعبر عن المطلوب."
+        },
+        "wordMeanings": [
+          {
+            "term": "to",
+            "description": "أن؛ حرف المصدر."
+          },
+          {
+            "term": "infer",
+            "description": "نستنتج."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف تأتي مع المعنى."
+          },
+          {
+            "term": "meaning",
+            "description": "معنى."
+          },
+          {
+            "term": "of",
+            "description": "تربط المعنى بالكلمة."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف تأتي مع الكلمة."
+          },
+          {
+            "term": "word",
+            "description": "الكلمة."
+          },
+          {
+            "term": "from",
+            "description": "من."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف تأتي مع الجملة."
+          },
+          {
+            "term": "sentence",
+            "description": "الجملة."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "The teacher asked us to infer the meaning of the word from the sentence.",
+        "ar": "المعلم طلب منا أن نستنتج معنى الكلمة من الجملة.",
+        "context": "وصف طلب سابق لفهم كلمة من سياقها دون الزعم بأن المعلم رفض شرحها."
+      },
+      {
+        "id": 2,
+        "en": "The reader infers the character's fear from her actions.",
+        "ar": "القارئ يستنتج خوف الشخصية من أفعالها.",
+        "context": "وصف فهم شعور اعتمادًا على شواهد في سلوك، لا تصريح مباشر."
+      },
+      {
+        "id": 3,
+        "en": "She inferred a link between the two events.",
+        "ar": "هي استنتجت صلة بين الحدثين.",
+        "context": "وصف توصل سابق إلى علاقة محتملة من معلومات."
+      },
+      {
+        "id": 4,
+        "en": "We have inferred the route from the tracks.",
+        "ar": "نحن قد استنتجنا المسار من الآثار.",
+        "context": "الإبلاغ عن فهم طريق سلوك بالاعتماد على علامات متبقية."
+      },
+      {
+        "id": 5,
+        "en": "The researchers are inferring past conditions from the samples.",
+        "ar": "الباحثون يستنتجون الظروف الماضية من العينات.",
+        "context": "وصف استدلال جارٍ على ما لم يُشاهد مباشرة."
+      },
+      {
+        "id": 6,
+        "en": "The team will infer the missing values from nearby measurements.",
+        "ar": "الفريق سيستنتج القيم الناقصة من القياسات القريبة.",
+        "context": "توقع تقدير معلومات غائبة باستخدام بيانات ذات صلة."
+      },
+      {
+        "id": 7,
+        "en": "Please infer the speaker's purpose from the final sentence.",
+        "ar": "من فضلك استنتج غرض المتحدث من العبارة الأخيرة.",
+        "context": "طلب فهم نية من قرينة نصية."
+      },
+      {
+        "id": 8,
+        "en": "His silence led me to infer disagreement.",
+        "ar": "صمته دفعني إلى استنتاج عدم الموافقة.",
+        "context": "وصف تفسير سابق لسلوك دون الجزم بصحة التفسير."
+      },
+      {
+        "id": 9,
+        "en": "The diagram helps students infer the rule.",
+        "ar": "المخطط يساعد الطلاب على استنتاج القاعدة.",
+        "context": "وصف أداة تعرض أمثلة تسمح باكتشاف نمط."
+      },
+      {
+        "id": 10,
+        "en": "The detective inferred the time of departure.",
+        "ar": "المحقق استنتج وقت المغادرة.",
+        "context": "وصف تحديد سابق لوقت من أدلة لا من مشاهدة مباشرة بالضرورة."
+      }
+    ]
+  }
+}

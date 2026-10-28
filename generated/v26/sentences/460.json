@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "id": 460,
+  "sentence": {
+    "en": "Here is your order.",
+    "ar": "هذا طلبك.",
+    "context": "تُقال عند تقديم الطلب في مطعم."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Here is your order.",
+        "ar": "هذا طلبك.",
+        "context": "تقال عند تسليم الطلب للزبون.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استخدمت Here is لتقديم شيء موجود الآن أمام المخاطب."
+        },
+        "wordMeanings": [
+          {
+            "term": "Here",
+            "description": "تدل على أن الشيء يقدم هنا والآن."
+          },
+          {
+            "term": "is",
+            "description": "تربط بين المكان والشيء المقدم."
+          },
+          {
+            "term": "your",
+            "description": "تعني الخاص بك أو لك."
+          },
+          {
+            "term": "order",
+            "description": "الطعام أو الشيء الذي طلبه الشخص."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Here is your food.",
+        "ar": "هذا طعامك.",
+        "context": "تقال عند تقديم الطعام."
+      },
+      {
+        "id": 2,
+        "en": "Here is your drink.",
+        "ar": "هذا مشروبك.",
+        "context": "تقال عند تقديم المشروب."
+      },
+      {
+        "id": 3,
+        "en": "Your order is ready.",
+        "ar": "طلبك جاهز.",
+        "context": "إخبار الزبون بجاهزية الطلب."
+      },
+      {
+        "id": 4,
+        "en": "Here is the bill.",
+        "ar": "ها هي الفاتورة.",
+        "context": "تقال عند تقديم الفاتورة."
+      },
+      {
+        "id": 5,
+        "en": "Here is your bag.",
+        "ar": "هذه حقيبتك.",
+        "context": "تقال عند تسليم حقيبة."
+      },
+      {
+        "id": 6,
+        "en": "The order is on the table.",
+        "ar": "الطلب على الطاولة.",
+        "context": "تحديد مكان الطلب."
+      },
+      {
+        "id": 7,
+        "en": "Here is your tea.",
+        "ar": "هذا شايك.",
+        "context": "تقال عند تقديم الشاي."
+      },
+      {
+        "id": 8,
+        "en": "This is your order number.",
+        "ar": "هذا رقم طلبك.",
+        "context": "تقديم رقم الطلب."
+      },
+      {
+        "id": 9,
+        "en": "Here is your change.",
+        "ar": "هذا باقي نقودك.",
+        "context": "تقال عند رد باقي المال."
+      },
+      {
+        "id": 10,
+        "en": "Your order looks good.",
+        "ar": "طلبك يبدو جيدًا.",
+        "context": "تعليق على الطلب."
+      }
+    ]
+  }
+}

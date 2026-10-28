@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "id": 592,
+  "sentence": {
+    "en": "Where do you live?",
+    "ar": "أين تعيش؟",
+    "context": "السؤال عن مكان سكن الشخص."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Where do you live?",
+        "ar": "أين تعيش؟",
+        "context": "تستخدم للسؤال عن مكان سكن الشخص الحالي.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "السؤال عن مكان إقامة عام أو ثابت في الحاضر."
+        },
+        "wordMeanings": [
+          {
+            "term": "Where",
+            "description": "أين، وتستخدم للسؤال عن المكان."
+          },
+          {
+            "term": "do",
+            "description": "كلمة مساعدة لتكوين سؤال في المضارع البسيط."
+          },
+          {
+            "term": "you",
+            "description": "أنت أو أنتم حسب السياق."
+          },
+          {
+            "term": "live",
+            "description": "تعيش أو تسكن."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Where does she live?",
+        "ar": "أين تعيش؟",
+        "context": "تقال للسؤال عن مكان سكن امرأة."
+      },
+      {
+        "id": 2,
+        "en": "I live in Boston.",
+        "ar": "أعيش في بوسطن.",
+        "context": "تستخدم للإجابة عن مكان السكن."
+      },
+      {
+        "id": 3,
+        "en": "Where do your parents live?",
+        "ar": "أين يعيش والداك؟",
+        "context": "تقال للسؤال عن سكن الوالدين."
+      },
+      {
+        "id": 4,
+        "en": "They live in America.",
+        "ar": "هم يعيشون في أمريكا.",
+        "context": "تستخدم لذكر بلد السكن."
+      },
+      {
+        "id": 5,
+        "en": "Do you live here?",
+        "ar": "هل تعيش هنا؟",
+        "context": "تقال للسؤال إن كان الشخص من المكان نفسه."
+      },
+      {
+        "id": 6,
+        "en": "My mother lives with us.",
+        "ar": "أمي تعيش معنا.",
+        "context": "تستخدم لذكر من يسكن معك."
+      },
+      {
+        "id": 7,
+        "en": "Where do they live now?",
+        "ar": "أين يعيشون الآن؟",
+        "context": "تقال للسؤال عن مكان سكن حالي."
+      },
+      {
+        "id": 8,
+        "en": "He lives near the school.",
+        "ar": "هو يعيش قرب المدرسة.",
+        "context": "تستخدم لتحديد مكان السكن تقريباً."
+      },
+      {
+        "id": 9,
+        "en": "We live in a small house.",
+        "ar": "نعيش في بيت صغير.",
+        "context": "تقال لوصف نوع السكن."
+      },
+      {
+        "id": 10,
+        "en": "Where do you live in this city?",
+        "ar": "أين تعيش في هذه المدينة؟",
+        "context": "تستخدم للسؤال عن منطقة داخل مدينة."
+      }
+    ]
+  }
+}

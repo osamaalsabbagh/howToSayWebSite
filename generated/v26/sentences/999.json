@@ -1,0 +1,115 @@
+{
+  "schemaVersion": 1,
+  "id": 999,
+  "sentence": {
+    "en": "What is the purpose of your visit?",
+    "ar": "ما هو سبب زيارتك؟",
+    "context": "سؤال شائع في إجراءات السفر أو الهجرة."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "What is the purpose of your visit",
+        "ar": "ما هو سبب زيارتك",
+        "context": "يُستخدم كسؤال رسمي لمعرفة سبب دخول أو زيارة شخص.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "السؤال يستخدم is لطلب معلومة حالية عن سبب الزيارة."
+        },
+        "wordMeanings": [
+          {
+            "term": "What",
+            "description": "ما، للسؤال عن معلومة"
+          },
+          {
+            "term": "is",
+            "description": "تربط السؤال بالمعلومة المطلوبة"
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف تشير إلى السبب المحدد"
+          },
+          {
+            "term": "purpose",
+            "description": "غرض أو سبب"
+          },
+          {
+            "term": "of",
+            "description": "لـ أو خاص بـ، وتربط السبب بالزيارة"
+          },
+          {
+            "term": "your",
+            "description": "خاصتك، وتربط الزيارة بالمخاطب"
+          },
+          {
+            "term": "visit",
+            "description": "زيارة"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "What is the reason for your visit?",
+        "ar": "ما سبب زيارتك؟",
+        "context": "تُستخدم بصيغة رسمية مشابهة."
+      },
+      {
+        "id": 2,
+        "en": "What is the purpose of your trip?",
+        "ar": "ما غرض رحلتك؟",
+        "context": "تُستخدم في السفر أو الهجرة."
+      },
+      {
+        "id": 3,
+        "en": "I am here for business.",
+        "ar": "أنا هنا للعمل.",
+        "context": "تُستخدم للإجابة عن سبب الزيارة."
+      },
+      {
+        "id": 4,
+        "en": "I am here for tourism.",
+        "ar": "أنا هنا للسياحة.",
+        "context": "تُستخدم عند زيارة بلد للسياحة."
+      },
+      {
+        "id": 5,
+        "en": "I am visiting my family.",
+        "ar": "أنا أزور عائلتي.",
+        "context": "تُستخدم لتوضيح سبب شخصي."
+      },
+      {
+        "id": 6,
+        "en": "What is the purpose of this meeting?",
+        "ar": "ما غرض هذا الاجتماع؟",
+        "context": "تُستخدم في العمل."
+      },
+      {
+        "id": 7,
+        "en": "What is the purpose of this form?",
+        "ar": "ما غرض هذا النموذج؟",
+        "context": "تُستخدم عند السؤال عن ورقة رسمية."
+      },
+      {
+        "id": 8,
+        "en": "What is the purpose of your call?",
+        "ar": "ما غرض مكالمتك؟",
+        "context": "تُستخدم في خدمة العملاء."
+      },
+      {
+        "id": 9,
+        "en": "My visit is for study.",
+        "ar": "زيارتي للدراسة.",
+        "context": "تُستخدم كإجابة في سياق رسمي."
+      },
+      {
+        "id": 10,
+        "en": "The purpose is medical treatment.",
+        "ar": "الغرض هو العلاج الطبي.",
+        "context": "تُستخدم لتوضيح سبب صحي."
+      }
+    ]
+  }
+}

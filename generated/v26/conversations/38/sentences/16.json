@@ -1,0 +1,123 @@
+{
+  "schemaVersion": 1,
+  "id": 16,
+  "sentence": {
+    "en": "Can I carry the card and pay this time?",
+    "ar": "هل يمكنني أن أحمل البطاقة وأدفع هذه المرة؟",
+    "context": "يطلب الابن أن يجرب الدفع بنفسه."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Can I carry the card and pay this time",
+        "ar": "هل يمكنني حمل البطاقة والدفع هذه المرة؟",
+        "context": "طلب إذن لتجربة الدفع بالبطاقة.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "Can I صيغة طلب إذن، و carry و pay هما الفعلان المطلوبان."
+        },
+        "wordMeanings": [
+          {
+            "term": "Can",
+            "description": "هل يمكن أو هل أستطيع"
+          },
+          {
+            "term": "I",
+            "description": "أنا"
+          },
+          {
+            "term": "carry",
+            "description": "أحمل"
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف"
+          },
+          {
+            "term": "card",
+            "description": "البطاقة"
+          },
+          {
+            "term": "and",
+            "description": "و"
+          },
+          {
+            "term": "pay",
+            "description": "أدفع"
+          },
+          {
+            "term": "this",
+            "description": "هذه أو هذا"
+          },
+          {
+            "term": "time",
+            "description": "مرة"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Can I pay this time",
+        "ar": "هل يمكنني الدفع هذه المرة؟",
+        "context": "يقال عند طلب تجربة الدفع"
+      },
+      {
+        "id": 2,
+        "en": "Can I carry the bag",
+        "ar": "هل يمكنني حمل الحقيبة؟",
+        "context": "يقال عند عرض المساعدة"
+      },
+      {
+        "id": 3,
+        "en": "Can I use the card",
+        "ar": "هل يمكنني استخدام البطاقة؟",
+        "context": "يقال عند طلب إذن للدفع"
+      },
+      {
+        "id": 4,
+        "en": "Can I choose this time",
+        "ar": "هل يمكنني الاختيار هذه المرة؟",
+        "context": "يقال عند طلب دور في القرار"
+      },
+      {
+        "id": 5,
+        "en": "I can carry the list",
+        "ar": "أستطيع حمل القائمة",
+        "context": "يقال عند المساعدة في التسوق"
+      },
+      {
+        "id": 6,
+        "en": "Can she pay with cash",
+        "ar": "هل يمكنها الدفع نقدًا؟",
+        "context": "يقال للسؤال عن طريقة دفع"
+      },
+      {
+        "id": 7,
+        "en": "Can I hold it for you",
+        "ar": "هل يمكنني حمله لك؟",
+        "context": "يقال عند عرض المساعدة"
+      },
+      {
+        "id": 8,
+        "en": "Can we pay at the counter",
+        "ar": "هل يمكننا الدفع عند الصندوق؟",
+        "context": "يقال داخل متجر"
+      },
+      {
+        "id": 9,
+        "en": "Can I try it myself",
+        "ar": "هل يمكنني تجربته بنفسي؟",
+        "context": "يقال عند الرغبة في التعلم"
+      },
+      {
+        "id": 10,
+        "en": "Can I carry the card carefully",
+        "ar": "هل يمكنني حمل البطاقة بحذر؟",
+        "context": "يقال عند طلب الثقة في حمل شيء"
+      }
+    ]
+  }
+}

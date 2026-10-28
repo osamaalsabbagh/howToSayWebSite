@@ -1,0 +1,133 @@
+{
+  "schemaVersion": 1,
+  "id": 14754,
+  "sentence": {
+    "en": "Please feed the cat while we are away.",
+    "ar": "من فضلك أطعم القطة بينما نحن غائبون.",
+    "context": "طلب مهذب لإطعام القطة خلال الفترة التي يكون فيها المتكلم ومن معه بعيدين عن البيت.",
+    "sourceWord": "feed",
+    "sourcePos": "v."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Please feed the cat",
+        "ar": "من فضلك أطعم القطة",
+        "context": "طلب مهذب لتقديم طعام لقطة.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "صيغة الأمر تعطي طلبًا مهذبًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "Please",
+            "description": "من فضلك"
+          },
+          {
+            "term": "feed",
+            "description": "أطعم؛ قدم الطعام"
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف"
+          },
+          {
+            "term": "cat",
+            "description": "القطة"
+          }
+        ]
+      },
+      {
+        "sentence": "while we are away.",
+        "ar": "بينما نحن غائبون.",
+        "context": "تحديد فترة غياب المتكلم ومن معه بوصفها وقت تقديم الطعام.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "المضارع البسيط يحدد حالة الغياب في عبارة زمنية مرتبطة بالطلب."
+        },
+        "wordMeanings": [
+          {
+            "term": "while",
+            "description": "بينما؛ خلال الفترة التي."
+          },
+          {
+            "term": "we",
+            "description": "نحن؛ المتكلم ومن معه."
+          },
+          {
+            "term": "are",
+            "description": "فعل كينونة يربط المتكلمين بحالة الغياب."
+          },
+          {
+            "term": "away",
+            "description": "غائبون عن المكان؛ لا يشترط أن يكون الغياب سفرًا."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Please feed the cat while we are away.",
+        "ar": "من فضلك أطعم القطة بينما نحن غائبون.",
+        "context": "طلب مهذب لإطعام القطة خلال الفترة التي يكون فيها المتكلم ومن معه بعيدين عن البيت."
+      },
+      {
+        "id": 2,
+        "en": "How do you feed a family of six?",
+        "ar": "كيف أنت تطعم عائلة من ستة أفراد؟",
+        "context": "سؤال عن كيفية توفير الطعام لعائلة يبلغ عدد أفرادها ستة."
+      },
+      {
+        "id": 3,
+        "en": "Do not feed the animals.",
+        "ar": "لا تطعم الحيوانات.",
+        "context": "طلب الامتناع عن تقديم الطعام للحيوانات."
+      },
+      {
+        "id": 4,
+        "en": "She feeds the baby every three hours.",
+        "ar": "هي تطعم الرضيع كل ثلاث ساعات.",
+        "context": "وصف تقديم الطعام لرضيع على فترات تفصل بينها ثلاث ساعات."
+      },
+      {
+        "id": 5,
+        "en": "Cows feed on grass.",
+        "ar": "الأبقار تتغذى على العشب.",
+        "context": "وصف اعتماد الأبقار على العشب في غذائها."
+      },
+      {
+        "id": 6,
+        "en": "The river feeds the lake.",
+        "ar": "النهر يغذي البحيرة.",
+        "context": "وصف نهر يمد بحيرة بالماء."
+      },
+      {
+        "id": 7,
+        "en": "Feed the paper into the printer.",
+        "ar": "أدخل الورق في الطابعة.",
+        "context": "طلب إدخال أوراق إلى الطابعة."
+      },
+      {
+        "id": 8,
+        "en": "The farmer feeds his chickens at dawn.",
+        "ar": "المزارع يطعم دجاجه عند الفجر.",
+        "context": "وصف عادة مزارع يقدم طعام الدجاج عند بداية النهار."
+      },
+      {
+        "id": 9,
+        "en": "This meal can feed four people.",
+        "ar": "هذه الوجبة تكفي أربعة أشخاص.",
+        "context": "وصف كمية طعام يمكن أن تكفي أربعة أشخاص."
+      },
+      {
+        "id": 10,
+        "en": "The charity feeds the homeless.",
+        "ar": "الجمعية الخيرية تطعم المشردين.",
+        "context": "وصف نشاط جمعية خيرية تقدم الطعام لمن لا مأوى لهم."
+      }
+    ]
+  }
+}

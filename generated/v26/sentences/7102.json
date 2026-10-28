@@ -1,0 +1,137 @@
+{
+  "schemaVersion": 1,
+  "id": 7102,
+  "sentence": {
+    "en": "We estimate that the trip will take three hours.",
+    "ar": "نحن نقدر أن الرحلة ستستغرق ثلاث ساعات.",
+    "context": "تقديم حساب تقريبي حالي لمدة رحلة مرتقبة دون افتراض خريطة أو وسيلة نقل.",
+    "sourceWord": "estimate",
+    "sourcePos": "v."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "We estimate",
+        "ar": "نحن نقدر",
+        "context": "تقديم تقدير تقريبي في وقت الكلام.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "المضارع البسيط يصف رأيًا حاليًا. الفعل يعني يحسب أو يخمن رقمًا تقريبيًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "We",
+            "description": "نحن."
+          },
+          {
+            "term": "estimate",
+            "description": "نقدر."
+          }
+        ]
+      },
+      {
+        "sentence": "that the trip will take three hours.",
+        "ar": "أن الرحلة ستستغرق ثلاث ساعات.",
+        "context": "تحديد المدة المتوقعة لرحلة لم تكتمل بعد.",
+        "grammar": {
+          "tense": "المستقبل البسيط",
+          "tenseEn": "Future Simple",
+          "reason": "المستقبل البسيط يصف توقعًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "that",
+            "description": "أن."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف تأتي مع الرحلة."
+          },
+          {
+            "term": "trip",
+            "description": "الرحلة."
+          },
+          {
+            "term": "will",
+            "description": "سـ؛ مساعد المستقبل."
+          },
+          {
+            "term": "take",
+            "description": "تستغرق."
+          },
+          {
+            "term": "three",
+            "description": "ثلاث."
+          },
+          {
+            "term": "hours",
+            "description": "ساعات."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "We estimate that the trip will take three hours.",
+        "ar": "نحن نقدر أن الرحلة ستستغرق ثلاث ساعات.",
+        "context": "تقديم حساب تقريبي حالي لمدة رحلة مرتقبة دون افتراض خريطة أو وسيلة نقل."
+      },
+      {
+        "id": 2,
+        "en": "She estimated the distance by eye.",
+        "ar": "هي قدرت المسافة بالنظر.",
+        "context": "وصف حساب سابق تقريبي دون أداة قياس."
+      },
+      {
+        "id": 3,
+        "en": "The software estimates the remaining download time.",
+        "ar": "البرنامج يقدر وقت التنزيل المتبقي.",
+        "context": "وصف حساب آلي تقريبي لمدة إكمال نقل بيانات."
+      },
+      {
+        "id": 4,
+        "en": "We have estimated the amount of paint needed.",
+        "ar": "نحن قد قدرنا كمية الطلاء اللازمة.",
+        "context": "الإبلاغ عن حساب مكتمل لمواد عمل متوقع."
+      },
+      {
+        "id": 5,
+        "en": "The team is estimating the crowd size.",
+        "ar": "الفريق يقدر حجم الحشد.",
+        "context": "وصف محاولة جارية لحساب عدد أشخاص تقريبًا."
+      },
+      {
+        "id": 6,
+        "en": "The next survey will estimate the height of the trees.",
+        "ar": "المسح التالي سيقدر ارتفاع الأشجار.",
+        "context": "توقع حساب تقريبي لبعد رأسي في فحص ميداني."
+      },
+      {
+        "id": 7,
+        "en": "Please estimate the cost before choosing the materials.",
+        "ar": "من فضلك قدر التكلفة قبل اختيار المواد.",
+        "context": "طلب حساب تقريبي لمصروفات قرار شراء."
+      },
+      {
+        "id": 8,
+        "en": "The researchers estimated the age of the wooden object.",
+        "ar": "الباحثون قدروا عمر القطعة الخشبية.",
+        "context": "وصف حساب سابق تقريبي للمدة منذ صنع غرض."
+      },
+      {
+        "id": 9,
+        "en": "He estimated the weight of the parcel.",
+        "ar": "هو قدر وزن الطرد.",
+        "context": "وصف حكم سابق تقريبي على كتلة شيء معد للإرسال."
+      },
+      {
+        "id": 10,
+        "en": "The model estimates energy use for each room.",
+        "ar": "النموذج يقدر استهلاك الطاقة لكل غرفة.",
+        "context": "وصف حساب تقريبي لمقدار مورد يستخدمه حيز معين."
+      }
+    ]
+  }
+}

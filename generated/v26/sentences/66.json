@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": 66,
+  "sentence": {
+    "en": "Is Mr. Smith an American?",
+    "ar": "هل السيد سميث أمريكي؟",
+    "context": "اسأل عن جنسية شخص."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Is Mr. Smith an American?",
+        "ar": "هل السيد سميث أمريكي؟",
+        "context": "يُستخدم هذا السؤال للتحقق من حالة أو معلومة في هذا الموقف.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "يبدأ السؤال بـ Is للسؤال عن هوية أو جنسية شخص مفرد في الوقت الحالي."
+        },
+        "wordMeanings": [
+          {
+            "term": "Is",
+            "description": "تأتي في بداية السؤال للسؤال عن صفة أو هوية شخص مفرد."
+          },
+          {
+            "term": "Mr",
+            "description": "لقب احترام يوضع قبل اسم رجل."
+          },
+          {
+            "term": "Smith",
+            "description": "اسم عائلة للشخص المقصود في السؤال."
+          },
+          {
+            "term": "an",
+            "description": "أداة تأتي قبل اسم مفرد يبدأ بصوت متحرك."
+          },
+          {
+            "term": "American",
+            "description": "شخص أمريكي أو صاحب جنسية أمريكية."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Is she a teacher?",
+        "ar": "هل هي معلمة؟",
+        "context": "تقال عند السؤال عن مهنة امرأة أو فتاة."
+      },
+      {
+        "id": 2,
+        "en": "Is he an engineer?",
+        "ar": "هل هو مهندس؟",
+        "context": "تقال عند السؤال عن مهنة رجل."
+      },
+      {
+        "id": 3,
+        "en": "Is your friend American?",
+        "ar": "هل صديقك أمريكي؟",
+        "context": "تقال عند السؤال عن جنسية صديق."
+      },
+      {
+        "id": 4,
+        "en": "Is the doctor Canadian?",
+        "ar": "هل الطبيب كندي؟",
+        "context": "تقال عند السؤال عن جنسية شخص."
+      },
+      {
+        "id": 5,
+        "en": "Is Mr. Brown at home?",
+        "ar": "هل السيد براون في البيت؟",
+        "context": "تقال عند السؤال عن وجود شخص في مكان."
+      },
+      {
+        "id": 6,
+        "en": "Is this man a visitor?",
+        "ar": "هل هذا الرجل زائر؟",
+        "context": "تقال عند السؤال عن هوية شخص."
+      },
+      {
+        "id": 7,
+        "en": "Is your father Turkish?",
+        "ar": "هل والدك تركي؟",
+        "context": "تقال عند السؤال عن جنسية الأب."
+      },
+      {
+        "id": 8,
+        "en": "Is Ms. Green a manager?",
+        "ar": "هل السيدة غرين مديرة؟",
+        "context": "تقال عند السؤال عن منصب امرأة."
+      },
+      {
+        "id": 9,
+        "en": "Is that student from Egypt?",
+        "ar": "هل ذلك الطالب من مصر؟",
+        "context": "تقال عند السؤال عن بلد شخص."
+      },
+      {
+        "id": 10,
+        "en": "Is your brother a doctor?",
+        "ar": "هل أخوك طبيب؟",
+        "context": "تقال عند السؤال عن مهنة الأخ."
+      }
+    ]
+  }
+}

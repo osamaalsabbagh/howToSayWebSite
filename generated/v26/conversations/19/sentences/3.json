@@ -1,0 +1,159 @@
+{
+  "schemaVersion": 1,
+  "id": 3,
+  "sentence": {
+    "en": "I understand. But sometimes a bar is also a place with food and live music.",
+    "ar": "أنا أفهم. لكن أحيانًا تكون الحانة أيضًا مكانًا مع الطعام والموسيقى الحية.",
+    "context": "يوضح أن كلمة حانة قد تعني أيضًا مطعمًا أو مكانًا للترفيه، وليس الكحول فقط وكلمة مع هنا بمعنى يقدم."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "I understand.",
+        "ar": "أنا أفهم.",
+        "context": "تقال لإظهار احترام موقف الشخص الآخر.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استخدم المضارع البسيط للتعبير عن فهم حاضر ومباشر."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "أنا"
+          },
+          {
+            "term": "understand",
+            "description": "أفهم أو أستوعب"
+          }
+        ]
+      },
+      {
+        "sentence": "But sometimes a bar is also a place with food and live music.",
+        "ar": "لكن أحيانا تكون الحانة أيضا مكانا يقدم طعاما وموسيقى حية.",
+        "context": "يوضح معنى آخر لكلمة الحانة في بعض السياقات.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استخدم is لوصف حقيقة عامة أو معنى ممكن للمكان، وsometimes يبين أنها ليست دائما."
+        },
+        "wordMeanings": [
+          {
+            "term": "But",
+            "description": "لكن، لإضافة توضيح مختلف"
+          },
+          {
+            "term": "sometimes",
+            "description": "أحيانا"
+          },
+          {
+            "term": "a",
+            "description": "أداة تنكير قبل اسم مفرد"
+          },
+          {
+            "term": "bar",
+            "description": "حانة أو مكان يقدم طعاما وترفيها حسب السياق"
+          },
+          {
+            "term": "is",
+            "description": "يكون أو هو"
+          },
+          {
+            "term": "also",
+            "description": "أيضا"
+          },
+          {
+            "term": "a",
+            "description": "أداة تنكير"
+          },
+          {
+            "term": "place",
+            "description": "مكان"
+          },
+          {
+            "term": "with",
+            "description": "مع، وهنا بمعنى يحتوي على أو يقدم"
+          },
+          {
+            "term": "food",
+            "description": "طعام"
+          },
+          {
+            "term": "and",
+            "description": "و، للربط"
+          },
+          {
+            "term": "live",
+            "description": "حي أو مباشر أمام الناس"
+          },
+          {
+            "term": "music",
+            "description": "موسيقى"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I understand. But sometimes this cafe is very quiet.",
+        "ar": "أنا أفهم. لكن أحيانا يكون هذا المقهى هادئا جدا.",
+        "context": "توضيح استثناء بعد فهم الرأي الآخر."
+      },
+      {
+        "id": 2,
+        "en": "Sometimes a shop is also a meeting place.",
+        "ar": "أحيانا يكون المتجر أيضا مكانا للقاء.",
+        "context": "شرح استخدام مختلف لمكان مألوف."
+      },
+      {
+        "id": 3,
+        "en": "This place has food and live music.",
+        "ar": "هذا المكان فيه طعام وموسيقى حية.",
+        "context": "وصف مزايا مكان للزيارة."
+      },
+      {
+        "id": 4,
+        "en": "I understand your point.",
+        "ar": "أنا أفهم وجهة نظرك.",
+        "context": "تقال في نقاش هادئ."
+      },
+      {
+        "id": 5,
+        "en": "Sometimes a hotel is also a good restaurant.",
+        "ar": "أحيانا يكون الفندق أيضا مطعما جيدا.",
+        "context": "توضيح أن المكان قد يخدم غرضا إضافيا."
+      },
+      {
+        "id": 6,
+        "en": "But sometimes the park has live music.",
+        "ar": "لكن أحيانا تكون في الحديقة موسيقى حية.",
+        "context": "وصف نشاط يحدث أحيانا في مكان عام."
+      },
+      {
+        "id": 7,
+        "en": "A library is also a quiet place to study.",
+        "ar": "المكتبة أيضا مكان هادئ للدراسة.",
+        "context": "شرح وظيفة إضافية للمكان."
+      },
+      {
+        "id": 8,
+        "en": "I understand, but this place is different.",
+        "ar": "أنا أفهم، لكن هذا المكان مختلف.",
+        "context": "تقال عند محاولة توضيح استثناء."
+      },
+      {
+        "id": 9,
+        "en": "Sometimes a restaurant has music outside.",
+        "ar": "أحيانا يكون في المطعم موسيقى في الخارج.",
+        "context": "وصف أجواء مطعم."
+      },
+      {
+        "id": 10,
+        "en": "This hall is also a place for family events.",
+        "ar": "هذه القاعة أيضا مكان للمناسبات العائلية.",
+        "context": "شرح استخدام آخر لقاعة."
+      }
+    ]
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "schemaVersion": 1,
+  "id": 1021,
+  "sentence": {
+    "en": "I would like to buy a ticket, please.",
+    "ar": "أود شراء تذكرة، من فضلك.",
+    "context": "تُستخدم عند طلب شراء تذكرة، مثلًا للمواصلات أو لفعالية."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "I would like to buy a ticket",
+        "ar": "أود شراء تذكرة",
+        "context": "هذا الجزء يطلب شراء تذكرة بطريقة مهذبة.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "would like تعبير مهذب عن الرغبة والطلب، وليس زمنًا مستقلًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير يشير إلى المتكلم"
+          },
+          {
+            "term": "would",
+            "description": "تُستخدم لجعل الطلب مهذبًا"
+          },
+          {
+            "term": "like",
+            "description": "أود أو أرغب في هذا السياق"
+          },
+          {
+            "term": "to",
+            "description": "تأتي قبل الفعل لتوضيح المطلوب"
+          },
+          {
+            "term": "buy",
+            "description": "أشتري"
+          },
+          {
+            "term": "a",
+            "description": "أداة تشير إلى تذكرة واحدة غير محددة"
+          },
+          {
+            "term": "ticket",
+            "description": "تذكرة"
+          }
+        ]
+      },
+      {
+        "sentence": "please",
+        "ar": "من فضلك",
+        "context": "تجعل الطلب ألطف وأكثر تهذيبًا.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "كلمة أدب ثابتة لا تحمل زمنًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "please",
+            "description": "من فضلك، لتلطيف الطلب"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I would like to buy two tickets, please.",
+        "ar": "أود شراء تذكرتين، من فضلك.",
+        "context": "تُستخدم عند شراء أكثر من تذكرة."
+      },
+      {
+        "id": 2,
+        "en": "I would like a bus ticket, please.",
+        "ar": "أود تذكرة حافلة، من فضلك.",
+        "context": "تُستخدم في محطة حافلات."
+      },
+      {
+        "id": 3,
+        "en": "I would like a train ticket, please.",
+        "ar": "أود تذكرة قطار، من فضلك.",
+        "context": "تُستخدم في محطة القطار."
+      },
+      {
+        "id": 4,
+        "en": "Can I buy a ticket here?",
+        "ar": "هل يمكنني شراء تذكرة هنا؟",
+        "context": "تُستخدم للسؤال عن مكان الشراء."
+      },
+      {
+        "id": 5,
+        "en": "Where can I buy a ticket?",
+        "ar": "أين يمكنني شراء تذكرة؟",
+        "context": "تُستخدم عند البحث عن شباك التذاكر."
+      },
+      {
+        "id": 6,
+        "en": "I need a ticket for today.",
+        "ar": "أحتاج إلى تذكرة لليوم.",
+        "context": "تُستخدم لتحديد تاريخ التذكرة."
+      },
+      {
+        "id": 7,
+        "en": "I would like to pay for a ticket.",
+        "ar": "أود دفع ثمن تذكرة.",
+        "context": "تُستخدم عند الدفع."
+      },
+      {
+        "id": 8,
+        "en": "I would like a one-way ticket.",
+        "ar": "أود تذكرة ذهاب فقط.",
+        "context": "تُستخدم في المواصلات."
+      },
+      {
+        "id": 9,
+        "en": "I would like a return ticket.",
+        "ar": "أود تذكرة ذهاب وعودة.",
+        "context": "تُستخدم عند السفر والعودة."
+      },
+      {
+        "id": 10,
+        "en": "Could I buy a ticket, please?",
+        "ar": "هل يمكنني شراء تذكرة، من فضلك؟",
+        "context": "تُستخدم بصيغة مهذبة."
+      }
+    ]
+  }
+}

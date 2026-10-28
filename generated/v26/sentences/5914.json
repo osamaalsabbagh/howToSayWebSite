@@ -1,0 +1,133 @@
+{
+  "schemaVersion": 1,
+  "id": 5914,
+  "sentence": {
+    "en": "He did not eat, nor did he sleep.",
+    "ar": "هو لم يأكل، وهو لم ينم كذلك.",
+    "context": "وصف غياب الأكل والنوم معًا لدى رجل في فترة سابقة.",
+    "sourceWord": "nor",
+    "sourcePos": "conj./adv."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "He did not eat,",
+        "ar": "هو لم يأكل،",
+        "context": "وصف امتناع سابق عن تناول الطعام أو عدم حدوثه.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "تنفي did not eat تناول الطعام في فترة سابقة."
+        },
+        "wordMeanings": [
+          {
+            "term": "He",
+            "description": "هو؛ الرجل المقصود"
+          },
+          {
+            "term": "did",
+            "description": "فعل مساعد لبناء النفي في الماضي"
+          },
+          {
+            "term": "not",
+            "description": "لم؛ تنفي وقوع الفعل"
+          },
+          {
+            "term": "eat",
+            "description": "يأكل؛ يتناول الطعام"
+          }
+        ]
+      },
+      {
+        "sentence": "nor did he sleep.",
+        "ar": "وهو لم ينم كذلك.",
+        "context": "إضافة أن النوم لم يحدث له أيضًا في الفترة السابقة.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "تضيف nor did he sleep نفي النوم، ويتقدم did على الفاعل بعد nor."
+        },
+        "wordMeanings": [
+          {
+            "term": "nor",
+            "description": "ولا؛ تضيف نفيًا إلى نفي سابق"
+          },
+          {
+            "term": "did",
+            "description": "فعل مساعد للماضي يسبق الفاعل بعد nor"
+          },
+          {
+            "term": "he",
+            "description": "هو؛ الرجل نفسه"
+          },
+          {
+            "term": "sleep",
+            "description": "ينام؛ يدخل في حالة النوم"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "He did not eat, nor did he sleep.",
+        "ar": "هو لم يأكل، وهو لم ينم كذلك.",
+        "context": "وصف غياب الأكل والنوم معًا لدى رجل في فترة سابقة."
+      },
+      {
+        "id": 2,
+        "en": "The room has neither windows nor a fan.",
+        "ar": "الغرفة لا تحتوي على نوافذ ولا مروحة.",
+        "context": "وصف مكان يفتقر إلى نوعين مختلفين من التجهيزات."
+      },
+      {
+        "id": 3,
+        "en": "Neither the map nor the guide mentioned the bridge.",
+        "ar": "لا الخريطة ولا الدليل ذكرا الجسر.",
+        "context": "وصف غياب إشارة سابقة إلى معبر في مصدري معلومات."
+      },
+      {
+        "id": 4,
+        "en": "We have neither confirmed nor rejected the proposal.",
+        "ar": "نحن لم نؤكد الاقتراح ولم نرفضه.",
+        "context": "وصف موقف لم يصدر فيه حتى الآن قبول مؤكد أو رفض لفكرة معروضة."
+      },
+      {
+        "id": 5,
+        "en": "The device is neither heavy nor expensive.",
+        "ar": "الجهاز ليس ثقيلًا ولا باهظ الثمن.",
+        "context": "نفي صفتين غير مرغوبتين عن أداة."
+      },
+      {
+        "id": 6,
+        "en": "The service will neither store nor share the recording.",
+        "ar": "الخدمة لن تخزن التسجيل ولن تشاركه.",
+        "context": "وصف عدم القيام مستقبلًا بأي من إجراءين على مادة مسجلة."
+      },
+      {
+        "id": 7,
+        "en": "The door is not locked, nor is it difficult to open.",
+        "ar": "الباب ليس مقفلًا، وهو ليس صعب الفتح كذلك.",
+        "context": "وصف غياب قفل الباب وصعوبة فتحه في الوقت الحالي."
+      },
+      {
+        "id": 8,
+        "en": "The author chose neither a happy ending nor a tragic one.",
+        "ar": "المؤلف لم يختر نهاية سعيدة ولا نهاية مأساوية.",
+        "context": "وصف اختيار سابق لخاتمة لا تنتمي إلى أي من طرفين متقابلين."
+      },
+      {
+        "id": 9,
+        "en": "The audience neither laughed nor applauded.",
+        "ar": "الجمهور لم يضحك ولم يصفق.",
+        "context": "وصف غياب ردي فعل سابقين لدى الحاضرين."
+      },
+      {
+        "id": 10,
+        "en": "The file is neither missing nor damaged.",
+        "ar": "الملف ليس مفقودًا ولا تالفًا.",
+        "context": "نفي فقدان مادة محفوظة أو إصابتها بخلل."
+      }
+    ]
+  }
+}

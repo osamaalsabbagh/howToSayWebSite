@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": 5609,
+  "sentence": {
+    "en": "Maya received the highest grade in the class.",
+    "ar": "مايا حصلت على أعلى درجة في الصف.",
+    "context": "طالبة نالت أعلى علامة تقييم بين طلاب صفها.",
+    "sourceWord": "grade",
+    "sourcePos": "n."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Maya received the highest grade in the class.",
+        "ar": "مايا حصلت على أعلى درجة في الصف.",
+        "context": "طالبة نالت أعلى علامة تقييم بين طلاب صفها.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "تصف الجملة حصول مايا على علامة في موقف سابق باستخدام received."
+        },
+        "wordMeanings": [
+          {
+            "term": "Maya",
+            "description": "مايا؛ اسم علم"
+          },
+          {
+            "term": "received",
+            "description": "حصلت على أو نالت"
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف تسبق صيغة التفضيل"
+          },
+          {
+            "term": "highest",
+            "description": "الأعلى؛ الأفضل أو الأكبر بين مجموعة"
+          },
+          {
+            "term": "grade",
+            "description": "درجة أو علامة تبيّن مستوى الأداء الدراسي"
+          },
+          {
+            "term": "in",
+            "description": "في نطاق مجموعة"
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف لصف محدد"
+          },
+          {
+            "term": "class",
+            "description": "الصف؛ مجموعة الطلاب الذين يدرسون معًا"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Maya received the highest grade in the class.",
+        "ar": "مايا حصلت على أعلى درجة في الصف.",
+        "context": "طالبة نالت أعلى علامة تقييم بين طلاب صفها."
+      },
+      {
+        "id": 2,
+        "en": "The road climbs at a steep grade.",
+        "ar": "الطريق يصعد بانحدار شديد.",
+        "context": "وصف ميل سطح طريق، لا علامة دراسية."
+      },
+      {
+        "id": 3,
+        "en": "The factory uses a high grade of steel.",
+        "ar": "المصنع يستخدم صنفًا عالي الجودة من الفولاذ.",
+        "context": "وصف فئة من مادة بحسب مستوى جودتها."
+      },
+      {
+        "id": 4,
+        "en": "We have enrolled the twins in the third grade.",
+        "ar": "نحن قد سجلنا التوأمين في الصف الثالث.",
+        "context": "الإبلاغ عن إلحاق مكتمل لطفلين بمستوى تعليمي محدد."
+      },
+      {
+        "id": 5,
+        "en": "The report compares pay grades across departments.",
+        "ar": "التقرير يقارن الدرجات الوظيفية من حيث الأجر بين الأقسام.",
+        "context": "وصف مستويات مرتبطة بتدرج الرواتب داخل مؤسسة."
+      },
+      {
+        "id": 6,
+        "en": "The trail received a difficult grade in the guidebook.",
+        "ar": "المسار حصل على تصنيف صعب في الدليل.",
+        "context": "وصف تقييم سابق لطريق بحسب مقدار الجهد أو المهارة المطلوبة."
+      },
+      {
+        "id": 7,
+        "en": "The teacher is entering the final grades into the system.",
+        "ar": "المعلم يدخل العلامات النهائية في النظام.",
+        "context": "وصف تسجيل جارٍ لنتائج تقييم الطلاب."
+      },
+      {
+        "id": 8,
+        "en": "The new scale will distinguish finer grades of quality.",
+        "ar": "المقياس الجديد سيميز درجات أدق من الجودة.",
+        "context": "توقع تصنيف أكثر تفصيلًا للفروق بين المنتجات."
+      },
+      {
+        "id": 9,
+        "en": "The candidate did not make the grade.",
+        "ar": "المرشح لم يبلغ المستوى المطلوب.",
+        "context": "وصف إخفاق سابق في تحقيق معيار قبول، دون اشتراط امتحان دراسي."
+      },
+      {
+        "id": 10,
+        "en": "She skipped a grade because she was far ahead in reading.",
+        "ar": "هي تخطّت صفًا دراسيًا لأنها كانت متقدمة جدًا في القراءة.",
+        "context": "وصف انتقال دراسي تجاوز صفًا بسبب تقدم المستوى في القراءة."
+      }
+    ]
+  }
+}

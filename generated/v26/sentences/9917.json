@@ -1,0 +1,133 @@
+{
+  "schemaVersion": 1,
+  "id": 9917,
+  "sentence": {
+    "en": "My grandmother broke her hip when she fell.",
+    "ar": "جدتي كسرت وركها عندما هي وقعت.",
+    "context": "وصف إصابة سابقة عند سقوط الجدة دون تحديد مكان السقوط أو وسيلة نقلها.",
+    "sourceWord": "hip",
+    "sourcePos": "n."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "My grandmother broke her hip",
+        "ar": "جدتي كسرت وركها",
+        "context": "وصف كسر سابق في منطقة الورك عند الجدة.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "الماضي البسيط يصف حدثًا انتهى. الاسم يعني الورك، جانب الجسم بين الخصر والفخذ."
+        },
+        "wordMeanings": [
+          {
+            "term": "My",
+            "description": "ضمير ملكية للمتكلم."
+          },
+          {
+            "term": "grandmother",
+            "description": "جدتي."
+          },
+          {
+            "term": "broke",
+            "description": "كسرت."
+          },
+          {
+            "term": "her",
+            "description": "ضمير ملكية للمفردة المؤنثة الغائبة."
+          },
+          {
+            "term": "hip",
+            "description": "وركها."
+          }
+        ]
+      },
+      {
+        "sentence": "when she fell.",
+        "ar": "عندما هي وقعت.",
+        "context": "تحديد السقوط السابق المرتبط بالإصابة.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "الماضي البسيط يصف حدثًا انتهى."
+        },
+        "wordMeanings": [
+          {
+            "term": "when",
+            "description": "عندما."
+          },
+          {
+            "term": "she",
+            "description": "هي."
+          },
+          {
+            "term": "fell",
+            "description": "وقعت."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "My grandmother broke her hip when she fell.",
+        "ar": "جدتي كسرت وركها عندما هي وقعت.",
+        "context": "وصف إصابة سابقة عند سقوط الجدة دون تحديد مكان السقوط أو وسيلة نقلها."
+      },
+      {
+        "id": 2,
+        "en": "The dancer moves her hips to the rhythm.",
+        "ar": "الراقصة تحرك وركيها مع الإيقاع.",
+        "context": "وصف حركة جانبي الجسم أسفل الخصر في أداء راقص، لا حالة مرضية."
+      },
+      {
+        "id": 3,
+        "en": "The doctor said my father needs surgery on his hip.",
+        "ar": "الطبيب قال إن أبي يحتاج إلى عملية في وركه.",
+        "context": "نقل قول طبي سابق عن حاجة حالية إلى جراحة دون تعيين الفحوص أو السبب."
+      },
+      {
+        "id": 4,
+        "en": "She stood with her hands on her hips.",
+        "ar": "هي وقفت ويداها على وركيها.",
+        "context": "وصف هيئة سابقة لليدين عند جانبي الجسم دون استنتاج شعور معين."
+      },
+      {
+        "id": 5,
+        "en": "We have marked the hip line on the pattern.",
+        "ar": "نحن قد حددنا خط الورك على الباترون.",
+        "context": "استعمال في الخياطة لتحديد موضع قياس على تصميم لباس."
+      },
+      {
+        "id": 6,
+        "en": "The tailor is measuring her hips.",
+        "ar": "الخياط يقيس وركيها.",
+        "context": "وصف قياس جارٍ لأبعاد جسم لإعداد لباس."
+      },
+      {
+        "id": 7,
+        "en": "The next diagram will show the hip joint.",
+        "ar": "الرسم التالي سيبين مفصل الورك.",
+        "context": "توقع عرض تشريحي لموضع اتصال في الجسم."
+      },
+      {
+        "id": 8,
+        "en": "Please label the hip on the model.",
+        "ar": "من فضلك ضع تسمية للورك على النموذج.",
+        "context": "طلب تحديد منطقة تشريحية في مجسم."
+      },
+      {
+        "id": 9,
+        "en": "The bag rested against his hip.",
+        "ar": "الحقيبة استندت إلى وركه.",
+        "context": "وصف موضع سابق لغرض ملاصق لجانب الجسم."
+      },
+      {
+        "id": 10,
+        "en": "The jacket ends just below the hips.",
+        "ar": "السترة تنتهي أسفل الوركين مباشرة.",
+        "context": "وصف طول لباس نسبة إلى جزء من الجسم."
+      }
+    ]
+  }
+}

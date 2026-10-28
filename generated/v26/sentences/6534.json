@@ -1,0 +1,125 @@
+{
+  "schemaVersion": 1,
+  "id": 6534,
+  "sentence": {
+    "en": "You will fail unless you study.",
+    "ar": "أنت سترسب إلا إذا أنت درست.",
+    "context": "تحذير من رسوب متوقع مع تقديم الدراسة سبيلًا لتجنب النتيجة، دون الجزم بأنها وحدها تضمن النجاح.",
+    "sourceWord": "unless",
+    "sourcePos": "conj."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "You will fail",
+        "ar": "أنت سترسب",
+        "context": "توقع رسوب للمخاطب.",
+        "grammar": {
+          "tense": "المستقبل البسيط",
+          "tenseEn": "Future Simple",
+          "reason": "المستقبل البسيط يصف نتيجة متوقعة."
+        },
+        "wordMeanings": [
+          {
+            "term": "You",
+            "description": "أنت."
+          },
+          {
+            "term": "will",
+            "description": "فعل مساعد للمستقبل."
+          },
+          {
+            "term": "fail",
+            "description": "ترسب."
+          }
+        ]
+      },
+      {
+        "sentence": "unless you study.",
+        "ar": "إلا إذا أنت درست.",
+        "context": "تقديم الدراسة شرطًا لازمًا لتجنب النتيجة المتوقعة.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "المضارع البسيط بعد أداة الشرط حتى عند الحديث عن المستقبل. الأداة تعني إلا إذا."
+        },
+        "wordMeanings": [
+          {
+            "term": "unless",
+            "description": "ما لم؛ إلا إذا."
+          },
+          {
+            "term": "you",
+            "description": "أنت."
+          },
+          {
+            "term": "study",
+            "description": "تدرس."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "You will fail unless you study.",
+        "ar": "أنت سترسب إلا إذا أنت درست.",
+        "context": "تحذير من رسوب متوقع مع تقديم الدراسة سبيلًا لتجنب النتيجة، دون الجزم بأنها وحدها تضمن النجاح."
+      },
+      {
+        "id": 2,
+        "en": "I never drink coffee unless I am very tired.",
+        "ar": "أنا لا أشرب القهوة أبدًا إلا إذا أنا كنت متعبًا جدًا.",
+        "context": "وصف عادة تستثني حالة التعب الشديد دون القول إن القهوة تُشرب في كل مرة يحدث فيها التعب."
+      },
+      {
+        "id": 3,
+        "en": "The shop closes at six unless there is a special event.",
+        "ar": "المتجر يغلق في السادسة إلا عند وجود فعالية خاصة.",
+        "context": "وصف موعد معتاد مع حالة قد تستثنى منه."
+      },
+      {
+        "id": 4,
+        "en": "She refused to leave unless her friend came too.",
+        "ar": "هي رفضت المغادرة إلا إذا صديقتها جاءت أيضًا.",
+        "context": "وصف شرط سابق يتعلق بمرافقة شخص آخر."
+      },
+      {
+        "id": 5,
+        "en": "We have kept the files unchanged unless a correction was necessary.",
+        "ar": "نحن قد أبقينا الملفات دون تغيير إلا عند ضرورة التصحيح.",
+        "context": "وصف نهج مستمر يسمح بالتعديل في حالة محددة."
+      },
+      {
+        "id": 6,
+        "en": "The team is waiting unless the manager says otherwise.",
+        "ar": "الفريق ينتظر إلا إذا المدير قال غير ذلك.",
+        "context": "وصف انتظار جارٍ مع إمكان تغييره بتوجيه مخالف."
+      },
+      {
+        "id": 7,
+        "en": "The trip will go ahead unless the weather gets worse.",
+        "ar": "الرحلة ستتم إلا إذا الطقس ازداد سوءًا.",
+        "context": "توقع استمرار خطة مع استثناء متعلق بتدهور الطقس."
+      },
+      {
+        "id": 8,
+        "en": "Please do not open the package unless you need it.",
+        "ar": "من فضلك لا تفتح الطرد إلا عند حاجتك إليه.",
+        "context": "طلب إبقاء عبوة مغلقة ما لم توجد حاجة لاستخدامها."
+      },
+      {
+        "id": 9,
+        "en": "The offer is unavailable unless you register first.",
+        "ar": "العرض غير متاح إلا بعد تسجيلك أولًا.",
+        "context": "وصف شرط مسبق للاستفادة من عرض."
+      },
+      {
+        "id": 10,
+        "en": "He could not finish unless someone helped him.",
+        "ar": "هو لم يكن يستطيع الإكمال إلا بمساعدة شخص له.",
+        "context": "وصف احتياج سابق إلى مساندة لإنجاز مهمة."
+      }
+    ]
+  }
+}

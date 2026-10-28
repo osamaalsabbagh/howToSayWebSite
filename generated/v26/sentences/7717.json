@@ -1,0 +1,125 @@
+{
+  "schemaVersion": 1,
+  "id": 7717,
+  "sentence": {
+    "en": "He has packaged all the samples for the exhibition.",
+    "ar": "هو قد غلف جميع العينات للمعرض.",
+    "context": "الإبلاغ عن اكتمال تغليف جميع العينات المخصصة لمعرض.",
+    "sourceWord": "package",
+    "sourcePos": "v."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "He has packaged all the samples for the exhibition.",
+        "ar": "هو قد غلف جميع العينات للمعرض.",
+        "context": "الإبلاغ عن اكتمال تغليف جميع العينات المخصصة لمعرض.",
+        "grammar": {
+          "tense": "الحاضر التام",
+          "tenseEn": "Present Perfect",
+          "reason": "المضارع التام يبين اكتمال تغليف جميع العينات حتى الآن. يأتي التصريف الثالث بعد الفعل المساعد، وتوضح كلمة الشمول أنه لم تُستثنَ عينة."
+        },
+        "wordMeanings": [
+          {
+            "term": "He",
+            "description": "هو؛ من غلف العينات."
+          },
+          {
+            "term": "has",
+            "description": "فعل مساعد يربط العمل المكتمل بالحاضر."
+          },
+          {
+            "term": "packaged",
+            "description": "غلّف؛ وضع العينات في عبوات."
+          },
+          {
+            "term": "all",
+            "description": "جميع؛ دون استثناء."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف للعينات المقصودة."
+          },
+          {
+            "term": "samples",
+            "description": "عينات؛ نماذج تمثل مواد أو منتجات."
+          },
+          {
+            "term": "for",
+            "description": "لـ؛ تبين الغرض من التجهيز."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف للمعرض المقصود."
+          },
+          {
+            "term": "exhibition",
+            "description": "معرض؛ مناسبة لعرض أشياء أو منتجات."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "en": "He has packaged all the samples for the exhibition.",
+        "ar": "هو قد غلف جميع العينات للمعرض.",
+        "context": "الإبلاغ عن اكتمال تغليف جميع العينات المخصصة لمعرض.",
+        "id": 1
+      },
+      {
+        "id": 2,
+        "en": "We package flights and accommodation together.",
+        "ar": "نحن نجمع الرحلات الجوية والإقامة معًا في باقة.",
+        "context": "وصف عرض الرحلات الجوية والإقامة معًا ضمن باقة واحدة بصورة معتادة."
+      },
+      {
+        "id": 3,
+        "en": "You can package the mugs with recycled cardboard.",
+        "ar": "أنت تستطيع تغليف الأكواب بورق مقوى معاد تدويره.",
+        "context": "وصف إمكانية تغليف أكواب باستخدام ورق مقوى معاد تدويره."
+      },
+      {
+        "id": 4,
+        "en": "They packaged the software with a printed guide.",
+        "ar": "هم قدموا البرنامج في حزمة مع دليل مطبوع.",
+        "context": "رواية عن تقديم برنامج ودليل ورقي معًا في حزمة."
+      },
+      {
+        "id": 5,
+        "en": "We are packaging the spare parts for export.",
+        "ar": "نحن نغلف قطع الغيار للتصدير.",
+        "context": "وصف تغليف جارٍ لقطع غيار بغرض تصديرها إلى بلد آخر."
+      },
+      {
+        "en": "The publisher packaged the old stories for a younger audience.",
+        "ar": "الناشر قدّم القصص القديمة في صورة تناسب جمهورًا أصغر سنًا.",
+        "context": "رواية عن إعادة تقديم محتوى قصصي ليلائم فئة عمرية أصغر.",
+        "id": 6
+      },
+      {
+        "en": "The technician packaged the code for installation.",
+        "ar": "الفني جمع الشيفرة في حزمة للتثبيت.",
+        "context": "رواية عن تجهيز مكونات برمجية في حزمة قابلة للتثبيت.",
+        "id": 7
+      },
+      {
+        "en": "The factory packages its products in returnable containers.",
+        "ar": "المصنع يعبّئ منتجاته في حاويات قابلة للإرجاع.",
+        "context": "وصف نظام تغليف يعتمد حاويات يمكن إعادتها.",
+        "id": 8
+      },
+      {
+        "en": "The museum packaged the exhibition as a virtual tour.",
+        "ar": "المتحف قدّم المعرض في صورة جولة افتراضية.",
+        "context": "رواية عن تحويل طريقة تقديم معرض إلى تجربة رقمية.",
+        "id": 9
+      },
+      {
+        "en": "The supplier packages the parts by weight rather than by number.",
+        "ar": "المورّد يعبّئ القطع بحسب الوزن بدلًا من العدد.",
+        "context": "وصف اختيار الوزن أساسًا لتجميع قطع في عبوات.",
+        "id": 10
+      }
+    ]
+  }
+}

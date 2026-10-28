@@ -1,0 +1,123 @@
+{
+  "schemaVersion": 1,
+  "id": 170,
+  "sentence": {
+    "en": "Do you know what this says?",
+    "ar": "هل تعرف ماذا يقول هذا؟",
+    "context": "اسأل إن كان شخص يستطيع قراءة هذا."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Do you know",
+        "ar": "هل تعرف",
+        "context": "يمهّد لسؤال عن معلومة يريد المتحدث معرفتها.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "هذا جزء السؤال الرئيسي، ويستخدم المضارع البسيط للسؤال عن معرفة الشخص الآن أو عمومًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "Do",
+            "description": "تأتي في بداية السؤال مع المخاطب لتكوين سؤال في الحاضر."
+          },
+          {
+            "term": "you",
+            "description": "أنت، وتشير إلى الشخص المخاطب."
+          },
+          {
+            "term": "know",
+            "description": "تعرف أو تفهم."
+          }
+        ]
+      },
+      {
+        "sentence": "what this says",
+        "ar": "ماذا يقول هذا؟",
+        "context": "يوضح المعلومة التي لا يعرفها المتحدث أو يسأل عنها.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "هذا جزء داخلي يشرح الشيء المعروف أو غير المعروف، وترتيب كلماته يشبه الجملة الخبرية داخل السؤال لأن السؤال الحقيقي في بدايته."
+        },
+        "wordMeanings": [
+          {
+            "term": "what",
+            "description": "ماذا، وتستخدم هنا للسؤال عن محتوى الكلام أو الكتابة."
+          },
+          {
+            "term": "this",
+            "description": "هذا، وتشير إلى الشيء القريب أو النص المقصود."
+          },
+          {
+            "term": "says",
+            "description": "يقول أو مكتوب فيه، وتستخدم هنا عن معنى النص."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Do you know what this says?",
+        "ar": "هل تعرف ماذا يقول هذا؟",
+        "context": "تقال عندما تحتاج إلى قراءة أو فهم نص."
+      },
+      {
+        "id": 2,
+        "en": "Do you know what this means?",
+        "ar": "هل تعرف ماذا يعني هذا؟",
+        "context": "تقال عند السؤال عن معنى شيء."
+      },
+      {
+        "id": 3,
+        "en": "Do you know what this word says?",
+        "ar": "هل تعرف ماذا تقول هذه الكلمة؟",
+        "context": "تقال عند السؤال عن كلمة مكتوبة."
+      },
+      {
+        "id": 4,
+        "en": "Do you know what the sign says?",
+        "ar": "هل تعرف ماذا تقول اللافتة؟",
+        "context": "تقال عند محاولة فهم لافتة."
+      },
+      {
+        "id": 5,
+        "en": "Do you know what the letter says?",
+        "ar": "هل تعرف ماذا تقول الرسالة؟",
+        "context": "تقال عند السؤال عن محتوى رسالة مكتوبة."
+      },
+      {
+        "id": 6,
+        "en": "Do you know what this message says?",
+        "ar": "هل تعرف ماذا تقول هذه الرسالة؟",
+        "context": "تقال عند طلب فهم رسالة."
+      },
+      {
+        "id": 7,
+        "en": "Do you know what this note says?",
+        "ar": "هل تعرف ماذا تقول هذه الملاحظة؟",
+        "context": "تقال عند قراءة ملاحظة قصيرة."
+      },
+      {
+        "id": 8,
+        "en": "Do you know what this button does?",
+        "ar": "هل تعرف ماذا يفعل هذا الزر؟",
+        "context": "تقال عند السؤال عن وظيفة زر."
+      },
+      {
+        "id": 9,
+        "en": "Do you know what this paper says?",
+        "ar": "هل تعرف ماذا تقول هذه الورقة؟",
+        "context": "تقال عند طلب قراءة ورقة أو وثيقة."
+      },
+      {
+        "id": 10,
+        "en": "Do you know what this sentence means?",
+        "ar": "هل تعرف ماذا تعني هذه الجملة؟",
+        "context": "تقال عند السؤال عن معنى جملة."
+      }
+    ]
+  }
+}

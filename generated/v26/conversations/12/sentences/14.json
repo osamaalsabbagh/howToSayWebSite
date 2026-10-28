@@ -1,0 +1,151 @@
+{
+  "schemaVersion": 1,
+  "id": 14,
+  "sentence": {
+    "en": "You are welcome. Is there anything else I can help you with today?",
+    "ar": "على الرحب والسعة. هل هناك أي شيء آخر يمكنني مساعدتك به اليوم؟",
+    "context": "الموظف يرد على الشكر ثم يستفسر إن كان لدى العميل أي طلب آخر."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "You are welcome.",
+        "ar": "على الرحب والسعة.",
+        "context": "تُستخدم للرد المهذب على الشكر.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه عبارة ثابتة للرد على الشكر، لذلك لا تُعامل كزمن مستقل للتعلم."
+        },
+        "wordMeanings": [
+          {
+            "term": "You",
+            "description": "ضمير يشير إلى المخاطب."
+          },
+          {
+            "term": "are",
+            "description": "تربط المخاطب بحالة الترحيب في العبارة الثابتة."
+          },
+          {
+            "term": "welcome",
+            "description": "مرحب بك أو لا شكر على واجب."
+          }
+        ]
+      },
+      {
+        "sentence": "Is there anything else I can help you with today?",
+        "ar": "هل هناك أي شيء آخر يمكنني مساعدتك به اليوم؟",
+        "context": "تُستخدم للسؤال إن كان العميل يحتاج خدمة إضافية قبل إنهاء المحادثة.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُخدم السؤال Is there للسؤال عن وجود شيء في الوقت الحالي، ومع can للتعبير عن القدرة على المساعدة."
+        },
+        "wordMeanings": [
+          {
+            "term": "Is",
+            "description": "تُستخدم لبدء سؤال عن وجود شيء أو حالته."
+          },
+          {
+            "term": "there",
+            "description": "تُستخدم مع الفعل للسؤال عن وجود شيء."
+          },
+          {
+            "term": "anything",
+            "description": "أي شيء."
+          },
+          {
+            "term": "else",
+            "description": "آخر أو إضافي."
+          },
+          {
+            "term": "I",
+            "description": "ضمير يشير إلى المتكلم."
+          },
+          {
+            "term": "can",
+            "description": "أستطيع أو يمكنني."
+          },
+          {
+            "term": "help",
+            "description": "أساعد."
+          },
+          {
+            "term": "you",
+            "description": "الشخص المخاطب."
+          },
+          {
+            "term": "with",
+            "description": "في أو بخصوص."
+          },
+          {
+            "term": "today",
+            "description": "هذا اليوم."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "You are welcome.",
+        "ar": "على الرحب والسعة.",
+        "context": "تُستخدم كرد قصير على الشكر."
+      },
+      {
+        "id": 2,
+        "en": "Is there anything else you need?",
+        "ar": "هل هناك أي شيء آخر تحتاجه؟",
+        "context": "تُستخدم قبل إنهاء خدمة أو محادثة."
+      },
+      {
+        "id": 3,
+        "en": "Is there anything I can do today?",
+        "ar": "هل هناك أي شيء يمكنني فعله اليوم؟",
+        "context": "تُستخدم لعرض المساعدة."
+      },
+      {
+        "id": 4,
+        "en": "You are welcome, and have a nice day.",
+        "ar": "على الرحب والسعة، وأتمنى لك يومًا جميلًا.",
+        "context": "تُستخدم في ختام مهذب."
+      },
+      {
+        "id": 5,
+        "en": "Can I help you with anything else?",
+        "ar": "هل يمكنني مساعدتك في أي شيء آخر؟",
+        "context": "تُستخدم في خدمة العملاء."
+      },
+      {
+        "id": 6,
+        "en": "Is there another problem with the account?",
+        "ar": "هل توجد مشكلة أخرى في الحساب؟",
+        "context": "تُستخدم عند التحقق من مشاكل إضافية."
+      },
+      {
+        "id": 7,
+        "en": "I can help you with the form today.",
+        "ar": "يمكنني مساعدتك في النموذج اليوم.",
+        "context": "تُستخدم عند عرض مساعدة محددة."
+      },
+      {
+        "id": 8,
+        "en": "Is there anything else on your order?",
+        "ar": "هل هناك أي شيء آخر في طلبك؟",
+        "context": "تُستخدم عند مراجعة طلب شراء."
+      },
+      {
+        "id": 9,
+        "en": "You are welcome, I am happy to help.",
+        "ar": "على الرحب والسعة، يسعدني أن أساعد.",
+        "context": "تُستخدم كرد ودي بعد الشكر."
+      },
+      {
+        "id": 10,
+        "en": "Is there anything else before we finish?",
+        "ar": "هل هناك أي شيء آخر قبل أن ننتهي؟",
+        "context": "تُستخدم قبل إغلاق مكالمة أو اجتماع."
+      }
+    ]
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "schemaVersion": 1,
+  "id": 1255,
+  "sentence": {
+    "en": "I cannot eat any more, I am full.",
+    "ar": "لا أستطيع أن آكل أي مزيد، أنا شبعان.",
+    "context": "تُقال هذه العبارة عند رفض المزيد من الطعام بطريقة مهذبة، والمقصود بـ (أي مزيد) هنا هو أي كمية إضافية على ما تم تناوله، وليست مجرد الزيادة بشكل عام."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "I cannot eat any more",
+        "ar": "لا أستطيع أن آكل المزيد",
+        "context": "تُستخدم لرفض كمية إضافية من الطعام.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "الجملة تستخدم تركيب قدرة منفيًا، لذلك لا تُشرح كزمن مستقل."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير يشير إلى المتكلم"
+          },
+          {
+            "term": "cannot",
+            "description": "لا أستطيع"
+          },
+          {
+            "term": "eat",
+            "description": "آكل"
+          },
+          {
+            "term": "any",
+            "description": "أي"
+          },
+          {
+            "term": "more",
+            "description": "مزيد أو كمية إضافية"
+          }
+        ]
+      },
+      {
+        "sentence": "I am full",
+        "ar": "أنا شبعان",
+        "context": "توضح سبب رفض المزيد من الطعام.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُخدم المضارع البسيط لوصف حالة حالية."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير يشير إلى المتكلم"
+          },
+          {
+            "term": "am",
+            "description": "صيغة تأتي مع ضمير المتكلم المفرد وتصف الحالة"
+          },
+          {
+            "term": "full",
+            "description": "شبعان أو ممتلئ"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I am full, thank you.",
+        "ar": "أنا شبعان، شكرًا.",
+        "context": "تُستخدم لرفض المزيد بأدب."
+      },
+      {
+        "id": 2,
+        "en": "I cannot eat another bite.",
+        "ar": "لا أستطيع أكل لقمة أخرى.",
+        "context": "تُقال عند الشبع الشديد."
+      },
+      {
+        "id": 3,
+        "en": "No more food for me.",
+        "ar": "لا مزيد من الطعام لي.",
+        "context": "تُستخدم بشكل غير رسمي."
+      },
+      {
+        "id": 4,
+        "en": "I have had enough.",
+        "ar": "لقد اكتفيت.",
+        "context": "تُقال بعد تناول كفايتك."
+      },
+      {
+        "id": 5,
+        "en": "The meal was very filling.",
+        "ar": "كانت الوجبة مشبعة جدًا.",
+        "context": "تُستخدم لوصف الطعام."
+      },
+      {
+        "id": 6,
+        "en": "I do not need dessert.",
+        "ar": "لا أحتاج إلى حلوى.",
+        "context": "تُقال عند رفض الحلوى."
+      },
+      {
+        "id": 7,
+        "en": "I am too full to eat.",
+        "ar": "أنا شبعان جدًا لدرجة لا أستطيع الأكل.",
+        "context": "تُستخدم عند الامتلاء."
+      },
+      {
+        "id": 8,
+        "en": "Thank you, but I am full.",
+        "ar": "شكرًا، لكنني شبعان.",
+        "context": "تُستخدم بأدب."
+      },
+      {
+        "id": 9,
+        "en": "I ate too much.",
+        "ar": "أكلت كثيرًا جدًا.",
+        "context": "تُقال بعد وجبة كبيرة."
+      },
+      {
+        "id": 10,
+        "en": "I cannot finish this plate.",
+        "ar": "لا أستطيع إنهاء هذا الطبق.",
+        "context": "تُستخدم عند بقاء طعام."
+      }
+    ]
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": 586,
+  "sentence": {
+    "en": "What is your last name?",
+    "ar": "ما هو اسم عائلتك؟",
+    "context": "الاستفسار عن اسم العائلة."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "What is your last name?",
+        "ar": "ما هو اسم عائلتك؟",
+        "context": "تستخدم للسؤال عن اسم العائلة في التعارف أو التسجيل.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "السؤال يطلب معلومة تعريفية ثابتة عن الشخص."
+        },
+        "wordMeanings": [
+          {
+            "term": "What",
+            "description": "ما، وتستخدم للسؤال عن معلومة."
+          },
+          {
+            "term": "is",
+            "description": "صيغة تربط السؤال بالمعلومة المطلوبة."
+          },
+          {
+            "term": "your",
+            "description": "الخاص بك أو التابع لك."
+          },
+          {
+            "term": "last",
+            "description": "الأخير، ويقصد به هنا جزء العائلة من الاسم."
+          },
+          {
+            "term": "name",
+            "description": "اسم."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "What is your first name?",
+        "ar": "ما هو اسمك الأول؟",
+        "context": "تقال للسؤال عن الاسم الشخصي."
+      },
+      {
+        "id": 2,
+        "en": "My last name is Smith.",
+        "ar": "اسم عائلتي سميث.",
+        "context": "تستخدم للإجابة عن اسم العائلة."
+      },
+      {
+        "id": 3,
+        "en": "What is her last name?",
+        "ar": "ما هو اسم عائلتها؟",
+        "context": "تقال للسؤال عن اسم عائلة امرأة."
+      },
+      {
+        "id": 4,
+        "en": "His last name is Brown.",
+        "ar": "اسم عائلته براون.",
+        "context": "تستخدم لذكر اسم عائلة رجل."
+      },
+      {
+        "id": 5,
+        "en": "What is your full name?",
+        "ar": "ما هو اسمك الكامل؟",
+        "context": "تقال عند طلب الاسم الكامل."
+      },
+      {
+        "id": 6,
+        "en": "My first name is John.",
+        "ar": "اسمي الأول جون.",
+        "context": "تستخدم لتوضيح الاسم الشخصي."
+      },
+      {
+        "id": 7,
+        "en": "Please write your last name.",
+        "ar": "من فضلك اكتب اسم عائلتك.",
+        "context": "تقال في نموذج أو تسجيل."
+      },
+      {
+        "id": 8,
+        "en": "What is your family name?",
+        "ar": "ما هو اسم عائلتك؟",
+        "context": "تستخدم بصيغة أخرى للسؤال نفسه."
+      },
+      {
+        "id": 9,
+        "en": "Her last name is Lee.",
+        "ar": "اسم عائلتها لي.",
+        "context": "تقال عند تعريف اسم عائلة امرأة."
+      },
+      {
+        "id": 10,
+        "en": "What is the last name on the card?",
+        "ar": "ما اسم العائلة الموجود على البطاقة؟",
+        "context": "تستخدم عند قراءة معلومات مكتوبة."
+      }
+    ]
+  }
+}

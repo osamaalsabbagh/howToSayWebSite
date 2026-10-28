@@ -1,0 +1,171 @@
+{
+  "schemaVersion": 1,
+  "id": 1,
+  "sentence": {
+    "en": "Hi! I saw a sign about a new fitness activity. Is this the right place?",
+    "ar": "مرحبًا! رأيت إعلانًا عن نشاط لياقة جديد. هل هذا هو المكان الصحيح؟",
+    "context": "يسأل عن مكان النشاط الرياضي الذي شاهده في إعلان مكتوب"
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Hi!",
+        "ar": "مرحبًا!",
+        "context": "يفتتح بها المتحدث الكلام قبل الدخول في الفكرة الأساسية.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه تحية قصيرة لبدء الكلام ولا تحمل زمنًا فعليًا مستقلًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "Hi",
+            "description": "تحية قصيرة وغير رسمية لبدء الحديث."
+          }
+        ]
+      },
+      {
+        "sentence": "I saw a sign about a new fitness activity.",
+        "ar": "رأيت إعلانًا عن نشاط لياقة جديد.",
+        "context": "يضيف به المتحدث تفصيلًا مهمًا داخل المعنى المقصود.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "استُعمل الماضي البسيط لأن رؤية الإعلان حدثت قبل لحظة السؤال."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير المتكلم المفرد."
+          },
+          {
+            "term": "saw",
+            "description": "صيغة ماضية تعني رأيت أو لاحظت بعيني."
+          },
+          {
+            "term": "a",
+            "description": "أداة نكرة تأتي قبل اسم مفرد غير محدد."
+          },
+          {
+            "term": "sign",
+            "description": "إعلان أو لوحة مكتوبة تعطي معلومة."
+          },
+          {
+            "term": "about",
+            "description": "حرف يوضح موضوع الإعلان أو الكلام."
+          },
+          {
+            "term": "a",
+            "description": "أداة نكرة تأتي قبل اسم مفرد غير محدد."
+          },
+          {
+            "term": "new",
+            "description": "صفة تعني جديدًا أو لم يكن موجودًا من قبل."
+          },
+          {
+            "term": "fitness",
+            "description": "اللياقة البدنية أو التمارين المرتبطة بالصحة والحركة."
+          },
+          {
+            "term": "activity",
+            "description": "نشاط أو فعالية يشارك فيها الناس."
+          }
+        ]
+      },
+      {
+        "sentence": "Is this the right place?",
+        "ar": "هل هذا هو المكان الصحيح؟",
+        "context": "يُستخدم هذا السؤال للتحقق من حالة أو معلومة في هذا الموقف.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُعمل المضارع البسيط في سؤال عن حالة المكان الحالي: هل هو المكان الصحيح الآن؟"
+        },
+        "wordMeanings": [
+          {
+            "term": "Is",
+            "description": "صيغة سؤال تربط الشيء بالوصف أو المكان المقصود."
+          },
+          {
+            "term": "this",
+            "description": "اسم إشارة يشير إلى المكان الحالي."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف تشير إلى مكان محدد معروف من السياق."
+          },
+          {
+            "term": "right",
+            "description": "صفة تعني الصحيح أو المناسب."
+          },
+          {
+            "term": "place",
+            "description": "مكان أو موقع."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Hi! I saw a notice about a yoga class. Is this the right room?",
+        "ar": "مرحبًا! رأيت إعلانًا عن حصة يوغا. هل هذه هي الغرفة الصحيحة؟",
+        "context": "تسأل عند الوصول إلى مكان نشاط جديد."
+      },
+      {
+        "id": 2,
+        "en": "I saw a sign about a music lesson.",
+        "ar": "رأيت إعلانًا عن درس موسيقى.",
+        "context": "تذكر سبب حضورك إلى المكان."
+      },
+      {
+        "id": 3,
+        "en": "Is this the right place for the meeting?",
+        "ar": "هل هذا هو المكان الصحيح للاجتماع؟",
+        "context": "تتأكد من موقع اجتماع."
+      },
+      {
+        "id": 4,
+        "en": "Hi! I saw a poster about a cooking class.",
+        "ar": "مرحبًا! رأيت ملصقًا عن حصة طبخ.",
+        "context": "تبدأ حديثًا مع موظف استقبال."
+      },
+      {
+        "id": 5,
+        "en": "I saw a sign outside the building.",
+        "ar": "رأيت لوحة خارج المبنى.",
+        "context": "توضح مصدر المعلومة التي جعلتك تدخل."
+      },
+      {
+        "id": 6,
+        "en": "Is this the right place to register?",
+        "ar": "هل هذا هو المكان الصحيح للتسجيل؟",
+        "context": "تسأل عن مكان التسجيل."
+      },
+      {
+        "id": 7,
+        "en": "I saw a new fitness activity online.",
+        "ar": "رأيت نشاط لياقة جديدًا على الإنترنت.",
+        "context": "تذكر أنك عرفت النشاط من إعلان رقمي."
+      },
+      {
+        "id": 8,
+        "en": "Hi! Is this the right place for beginners?",
+        "ar": "مرحبًا! هل هذا هو المكان الصحيح للمبتدئين؟",
+        "context": "تسأل إن كان المكان مناسبًا لمستواك."
+      },
+      {
+        "id": 9,
+        "en": "I saw an ad about a dance class.",
+        "ar": "رأيت إعلانًا عن حصة رقص.",
+        "context": "تشرح سبب اهتمامك بالنشاط."
+      },
+      {
+        "id": 10,
+        "en": "Is this the right place to ask about the class?",
+        "ar": "هل هذا هو المكان الصحيح للسؤال عن الحصة؟",
+        "context": "تتأكد من أنك تتحدث مع الجهة المناسبة."
+      }
+    ]
+  }
+}

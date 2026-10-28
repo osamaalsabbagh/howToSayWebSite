@@ -1,0 +1,123 @@
+{
+  "schemaVersion": 1,
+  "id": 896,
+  "sentence": {
+    "en": "I am very well, thank you.",
+    "ar": "أنا بخير جدًا، شكرًا لك.",
+    "context": "تُستخدم كرد على تحية لتوضيح أنك بخير."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "I am very well",
+        "ar": "أنا بخير جدا",
+        "context": "جزء يجيب عن سؤال الحال بإجابة إيجابية.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "الفعل am يصف حالة المتكلم الحالية، وvery تقوي معنى well."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "أنا؛ المتكلم"
+          },
+          {
+            "term": "am",
+            "description": "صيغة مع أنا لوصف الحالة"
+          },
+          {
+            "term": "very",
+            "description": "جدا"
+          },
+          {
+            "term": "well",
+            "description": "بخير أو بصحة جيدة"
+          }
+        ]
+      },
+      {
+        "sentence": "thank you",
+        "ar": "شكرا لك",
+        "context": "جزء مهذب للشكر بعد الإجابة.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذا تعبير شكر ثابت لا يحمل زمنا مستقلا."
+        },
+        "wordMeanings": [
+          {
+            "term": "thank",
+            "description": "أشكر أو شكرا ضمن التعبير"
+          },
+          {
+            "term": "you",
+            "description": "لك أو الشخص المخاطب"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I am fine, thank you.",
+        "ar": "أنا بخير، شكرا لك.",
+        "context": "رد شائع على التحية."
+      },
+      {
+        "id": 2,
+        "en": "I am good, thank you.",
+        "ar": "أنا جيد، شكرا لك.",
+        "context": "رد بسيط ومهذب."
+      },
+      {
+        "id": 3,
+        "en": "I am very good.",
+        "ar": "أنا جيد جدا.",
+        "context": "للتعبير عن حال ممتاز."
+      },
+      {
+        "id": 4,
+        "en": "I am well.",
+        "ar": "أنا بخير.",
+        "context": "رد قصير على سؤال الحال."
+      },
+      {
+        "id": 5,
+        "en": "How are you?",
+        "ar": "كيف حالك؟",
+        "context": "السؤال الذي ترد عليه هذه الجملة."
+      },
+      {
+        "id": 6,
+        "en": "She is very well.",
+        "ar": "هي بخير جدا.",
+        "context": "للتحدث عن حال شخص آخر."
+      },
+      {
+        "id": 7,
+        "en": "We are very well, thank you.",
+        "ar": "نحن بخير جدا، شكرا لك.",
+        "context": "رد باسم مجموعة."
+      },
+      {
+        "id": 8,
+        "en": "I feel very well today.",
+        "ar": "أشعر أنني بخير جدا اليوم.",
+        "context": "لتحديد اليوم."
+      },
+      {
+        "id": 9,
+        "en": "I am okay, thank you.",
+        "ar": "أنا بخير، شكرا لك.",
+        "context": "رد هادئ ومهذب."
+      },
+      {
+        "id": 10,
+        "en": "Thank you for asking.",
+        "ar": "شكرا لسؤالك.",
+        "context": "لإظهار الامتنان بعد الاطمئنان."
+      }
+    ]
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": 782,
+  "sentence": {
+    "en": "What is it?",
+    "ar": "ما هذا؟",
+    "context": "السؤال عن شيء ما."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "What is it?",
+        "ar": "ما هذا؟",
+        "context": "سؤال عن هوية شيء غير معروف.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "الفعل is يربط الضمير it بالشيء المطلوب معرفته في الحاضر."
+        },
+        "wordMeanings": [
+          {
+            "term": "What",
+            "description": "ما أو ماذا"
+          },
+          {
+            "term": "is",
+            "description": "يكون أو هو في هذا السؤال"
+          },
+          {
+            "term": "it",
+            "description": "هو أو هي لشيء غير معروف"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "What is this?",
+        "ar": "ما هذا؟",
+        "context": "للسؤال عن شيء قريب."
+      },
+      {
+        "id": 2,
+        "en": "What is that?",
+        "ar": "ما ذاك؟",
+        "context": "للسؤال عن شيء أبعد."
+      },
+      {
+        "id": 3,
+        "en": "What is it called?",
+        "ar": "ماذا يسمى؟",
+        "context": "للسؤال عن اسم شيء."
+      },
+      {
+        "id": 4,
+        "en": "What is it for?",
+        "ar": "لماذا يستخدم؟",
+        "context": "للسؤال عن وظيفة شيء."
+      },
+      {
+        "id": 5,
+        "en": "What is it made of?",
+        "ar": "مم هو مصنوع؟",
+        "context": "للسؤال عن المادة."
+      },
+      {
+        "id": 6,
+        "en": "What is it about?",
+        "ar": "عن ماذا هو؟",
+        "context": "للسؤال عن موضوع كتاب أو فيلم."
+      },
+      {
+        "id": 7,
+        "en": "What is the problem?",
+        "ar": "ما المشكلة؟",
+        "context": "للسؤال عن سبب صعوبة."
+      },
+      {
+        "id": 8,
+        "en": "What is your name?",
+        "ar": "ما اسمك؟",
+        "context": "للسؤال عن اسم شخص."
+      },
+      {
+        "id": 9,
+        "en": "What is the answer?",
+        "ar": "ما الإجابة؟",
+        "context": "للسؤال عن حل أو رد."
+      },
+      {
+        "id": 10,
+        "en": "What is the price?",
+        "ar": "ما السعر؟",
+        "context": "للسؤال عن تكلفة شيء."
+      }
+    ]
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": 793,
+  "sentence": {
+    "en": "Where is he?",
+    "ar": "أين هو؟",
+    "context": "السؤال عن مكان وجود شخص (ذكر)."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Where is he?",
+        "ar": "أين هو؟",
+        "context": "سؤال مباشر عن مكان رجل أو ولد الآن.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "الفعل is يصف مكان الشخص الحالي، وWhere تسأل عن المكان."
+        },
+        "wordMeanings": [
+          {
+            "term": "Where",
+            "description": "أين؛ للسؤال عن المكان"
+          },
+          {
+            "term": "is",
+            "description": "يكون أو يوجد الآن"
+          },
+          {
+            "term": "he",
+            "description": "هو؛ رجل أو ولد"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Where is she?",
+        "ar": "أين هي؟",
+        "context": "للسؤال عن مكان امرأة أو فتاة."
+      },
+      {
+        "id": 2,
+        "en": "Where are they?",
+        "ar": "أين هم؟",
+        "context": "للسؤال عن مكان مجموعة."
+      },
+      {
+        "id": 3,
+        "en": "Where is your brother?",
+        "ar": "أين أخوك؟",
+        "context": "للسؤال عن مكان الأخ."
+      },
+      {
+        "id": 4,
+        "en": "Where is the teacher?",
+        "ar": "أين المعلم؟",
+        "context": "في صف أو مدرسة."
+      },
+      {
+        "id": 5,
+        "en": "Is he here?",
+        "ar": "هل هو هنا؟",
+        "context": "للتأكد من وجوده في المكان."
+      },
+      {
+        "id": 6,
+        "en": "Where is he now?",
+        "ar": "أين هو الآن؟",
+        "context": "للسؤال عن مكان حالي بدقة."
+      },
+      {
+        "id": 7,
+        "en": "Where is your father?",
+        "ar": "أين والدك؟",
+        "context": "للسؤال عن مكان الأب."
+      },
+      {
+        "id": 8,
+        "en": "Where is the driver?",
+        "ar": "أين السائق؟",
+        "context": "للسؤال عن شخص منتظر."
+      },
+      {
+        "id": 9,
+        "en": "Where is my son?",
+        "ar": "أين ابني؟",
+        "context": "للسؤال عن مكان الابن."
+      },
+      {
+        "id": 10,
+        "en": "Where is he going?",
+        "ar": "إلى أين يذهب؟",
+        "context": "للسؤال عن وجهته الحالية."
+      }
+    ]
+  }
+}

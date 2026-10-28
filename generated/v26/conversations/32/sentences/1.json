@@ -1,0 +1,147 @@
+{
+  "schemaVersion": 1,
+  "id": 1,
+  "sentence": {
+    "en": "I feel bored in this place. I stay at home all day.",
+    "ar": "أشعر بالملل في هذا المكان. أجلس في البيت طوال النهار.",
+    "context": "تعبّر عن شعورها بالضجر بسبب بقائها في المنزل طوال اليوم."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "I feel bored in this place.",
+        "ar": "أشعر بالملل في هذا المكان.",
+        "context": "تصف شعورها الحالي بالضجر من المكان.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "feel يصف إحساسًا حاليًا لدى المتكلمة."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "المتكلمة نفسها"
+          },
+          {
+            "term": "feel",
+            "description": "أشعر"
+          },
+          {
+            "term": "bored",
+            "description": "بالملل أو الضجر"
+          },
+          {
+            "term": "in",
+            "description": "في"
+          },
+          {
+            "term": "this",
+            "description": "هذا القريب أو الحالي"
+          },
+          {
+            "term": "place",
+            "description": "مكان"
+          }
+        ]
+      },
+      {
+        "sentence": "I stay at home all day.",
+        "ar": "أبقى في البيت طوال اليوم.",
+        "context": "تشرح سبب الملل وهو البقاء في البيت مدة طويلة.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "stay يصف عادة أو وضعًا متكررًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "المتكلمة نفسها"
+          },
+          {
+            "term": "stay",
+            "description": "أبقى"
+          },
+          {
+            "term": "at",
+            "description": "في أو عند"
+          },
+          {
+            "term": "home",
+            "description": "البيت"
+          },
+          {
+            "term": "all",
+            "description": "كل"
+          },
+          {
+            "term": "day",
+            "description": "اليوم أو النهار"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I feel bored at home.",
+        "ar": "أشعر بالملل في البيت.",
+        "context": "تقال عند الضجر من البقاء في المنزل."
+      },
+      {
+        "id": 2,
+        "en": "I stay inside all day.",
+        "ar": "أبقى في الداخل طوال اليوم.",
+        "context": "تقال عند عدم الخروج."
+      },
+      {
+        "id": 3,
+        "en": "This place feels boring.",
+        "ar": "هذا المكان يبدو مملًا.",
+        "context": "تقال عند عدم الاستمتاع بالمكان."
+      },
+      {
+        "id": 4,
+        "en": "She feels bored in the village.",
+        "ar": "هي تشعر بالملل في القرية.",
+        "context": "تقال عند الضجر من مكان."
+      },
+      {
+        "id": 5,
+        "en": "I stay at home when it rains.",
+        "ar": "أبقى في البيت عندما تمطر.",
+        "context": "تقال عن عادة في الطقس السيئ."
+      },
+      {
+        "id": 6,
+        "en": "All day at home makes me tired.",
+        "ar": "البقاء في البيت طوال اليوم يجعلني متعبًا.",
+        "context": "تقال عند الملل من الروتين."
+      },
+      {
+        "id": 7,
+        "en": "I feel bored without friends.",
+        "ar": "أشعر بالملل بدون أصدقاء.",
+        "context": "تقال عند الحاجة للتواصل."
+      },
+      {
+        "id": 8,
+        "en": "We stay at home on Sundays.",
+        "ar": "نبقى في البيت أيام الأحد.",
+        "context": "تقال عن عادة أسبوعية."
+      },
+      {
+        "id": 9,
+        "en": "This place is too quiet for me.",
+        "ar": "هذا المكان هادئ جدًا بالنسبة لي.",
+        "context": "تقال عند عدم مناسبة المكان."
+      },
+      {
+        "id": 10,
+        "en": "I need to go out because I feel bored.",
+        "ar": "أحتاج إلى الخروج لأنني أشعر بالملل.",
+        "context": "تقال عند الرغبة في تغيير الجو."
+      }
+    ]
+  }
+}

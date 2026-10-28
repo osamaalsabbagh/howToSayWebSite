@@ -1,0 +1,131 @@
+{
+  "schemaVersion": 1,
+  "id": 73,
+  "sentence": {
+    "en": "I have heard Texas is a beautiful place.",
+    "ar": "سمعت أن تكساس مكان جميل.",
+    "context": "قل أنك سمعت شيئًا إيجابيًا."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "I have heard",
+        "ar": "لقد سمعت.",
+        "context": "يبدأ به المتحدث الفكرة الأساسية قبل إضافة التفاصيل.",
+        "grammar": {
+          "tense": "المضارع التام",
+          "tenseEn": "Present Perfect",
+          "reason": "تستخدم have heard للتعبير عن خبر وصل إلى المتكلم قبل الآن، مع بقاء أثره في الرأي أو المعرفة الحالية."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير المتكلم ويشير إلى الشخص الذي يتحدث."
+          },
+          {
+            "term": "have",
+            "description": "تساعد هنا على تكوين معنى أن الخبر وصل إلى المتكلم قبل الآن."
+          },
+          {
+            "term": "heard",
+            "description": "سمعت أو وصلني خبر."
+          }
+        ]
+      },
+      {
+        "sentence": "Texas is a beautiful place",
+        "ar": "أن تكساس مكان جميل.",
+        "context": "يعرض الخبر أو الفكرة التي سمعها المتحدث.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "تستخدم is لوصف مكان بصفة عامة في الحاضر، وهي أن تكساس مكان جميل."
+        },
+        "wordMeanings": [
+          {
+            "term": "Texas",
+            "description": "تكساس، اسم مكان أو ولاية."
+          },
+          {
+            "term": "is",
+            "description": "صيغة تأتي مع المفرد وتربط المكان بوصفه."
+          },
+          {
+            "term": "a",
+            "description": "أداة تدل على شيء واحد غير محدد."
+          },
+          {
+            "term": "beautiful",
+            "description": "جميل أو حسن المنظر."
+          },
+          {
+            "term": "place",
+            "description": "مكان أو منطقة."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I have heard Canada is very cold.",
+        "ar": "سمعت أن كندا باردة جدًا.",
+        "context": "تقال عند نقل معلومة سمعتها عن بلد."
+      },
+      {
+        "id": 2,
+        "en": "She has heard the restaurant is good.",
+        "ar": "هي سمعت أن المطعم جيد.",
+        "context": "تقال عند نقل رأي سمعه شخص عن مطعم."
+      },
+      {
+        "id": 3,
+        "en": "I have heard this city is safe.",
+        "ar": "سمعت أن هذه المدينة آمنة.",
+        "context": "تقال عند ذكر خبر إيجابي عن مدينة."
+      },
+      {
+        "id": 4,
+        "en": "He has heard the teacher is kind.",
+        "ar": "هو سمع أن المعلم لطيف.",
+        "context": "تقال عند نقل انطباع سمعه شخص عن معلم."
+      },
+      {
+        "id": 5,
+        "en": "I have heard the hotel is clean.",
+        "ar": "سمعت أن الفندق نظيف.",
+        "context": "تقال عند الحديث عن سمعة فندق."
+      },
+      {
+        "id": 6,
+        "en": "We have heard the park is beautiful.",
+        "ar": "سمعنا أن الحديقة جميلة.",
+        "context": "تقال عند التخطيط لزيارة مكان سمعتم عنه."
+      },
+      {
+        "id": 7,
+        "en": "I have heard your brother is a doctor.",
+        "ar": "سمعت أن أخاك طبيب.",
+        "context": "تقال عند ذكر معلومة وصلت إليك عن شخص."
+      },
+      {
+        "id": 8,
+        "en": "They have heard the beach is quiet.",
+        "ar": "هم سمعوا أن الشاطئ هادئ.",
+        "context": "تقال عند نقل معلومة عن مكان سياحي."
+      },
+      {
+        "id": 9,
+        "en": "I have heard this book is useful.",
+        "ar": "سمعت أن هذا الكتاب مفيد.",
+        "context": "تقال عند ذكر رأي سمعته عن كتاب."
+      },
+      {
+        "id": 10,
+        "en": "My father has heard the road is long.",
+        "ar": "أبي سمع أن الطريق طويل.",
+        "context": "تقال عند نقل معلومة عن مسافة أو طريق."
+      }
+    ]
+  }
+}

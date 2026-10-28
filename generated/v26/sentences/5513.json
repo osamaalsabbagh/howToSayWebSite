@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 1,
+  "id": 5513,
+  "sentence": {
+    "en": "Please empty the bins before you leave.",
+    "ar": "من فضلك أفرغ سلال المهملات قبل مغادرتك.",
+    "context": "طلب إزالة كل ما في سلال المهملات قبل مغادرة المكان.",
+    "sourceWord": "empty",
+    "sourcePos": "v."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Please empty the bins",
+        "ar": "من فضلك أفرغ سلال المهملات",
+        "context": "طلب إزالة جميع محتويات حاويات القمامة.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "تبدأ العبارة بطلب مهذب يتبعه فعل الأمر في صورته الأساسية دون زمن مستقل."
+        },
+        "wordMeanings": [
+          {
+            "term": "Please",
+            "description": "من فضلك؛ لتلطيف الطلب"
+          },
+          {
+            "term": "empty",
+            "description": "أفرغ؛ أزل كل المحتويات"
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف لسلال محددة"
+          },
+          {
+            "term": "bins",
+            "description": "سلال المهملات؛ حاويات جمع القمامة"
+          }
+        ]
+      },
+      {
+        "sentence": "before you leave.",
+        "ar": "قبل مغادرتك.",
+        "context": "تحديد أن الإفراغ مطلوب قبل رحيل المخاطب عن المكان.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "تستخدم جملة الوقت بعد before المضارع البسيط للإشارة إلى المغادرة اللاحقة."
+        },
+        "wordMeanings": [
+          {
+            "term": "before",
+            "description": "قبل؛ تبين ترتيب الحدثين"
+          },
+          {
+            "term": "you",
+            "description": "أنت؛ الشخص المخاطب"
+          },
+          {
+            "term": "leave",
+            "description": "تغادر؛ ترحل عن المكان"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Please empty the bins before you leave.",
+        "ar": "من فضلك أفرغ سلال المهملات قبل مغادرتك.",
+        "context": "طلب إزالة كل ما في سلال المهملات قبل مغادرة المكان."
+      },
+      {
+        "id": 2,
+        "en": "He emptied his pockets onto the table.",
+        "ar": "هو أفرغ جيوبه على الطاولة.",
+        "context": "وصف إخراج سابق لكل الأشياء المحمولة في الجيوب ووضعها على سطح."
+      },
+      {
+        "id": 3,
+        "en": "The hall emptied within minutes.",
+        "ar": "القاعة خلت من الحاضرين خلال دقائق.",
+        "context": "وصف مغادرة الناس مكانًا بسرعة في موقف سابق."
+      },
+      {
+        "id": 4,
+        "en": "We have emptied the spare room of furniture.",
+        "ar": "نحن قد أفرغنا الغرفة الإضافية من الأثاث.",
+        "context": "الإبلاغ عن إزالة مكتملة لقطع الأثاث من حجرة."
+      },
+      {
+        "id": 5,
+        "en": "The dishwasher still needs emptying.",
+        "ar": "غسالة الصحون ما زالت تحتاج إلى إفراغها.",
+        "context": "وصف بقاء الأواني داخل الجهاز والحاجة إلى إخراجها."
+      },
+      {
+        "id": 6,
+        "en": "The stream empties into a lake.",
+        "ar": "الجدول يصب في بحيرة.",
+        "context": "وصف المكان الذي ينتهي إليه مجرى ماء صغير."
+      },
+      {
+        "id": 7,
+        "en": "The crew are emptying the cargo hold.",
+        "ar": "أفراد الطاقم يفرغون مخزن الشحن.",
+        "context": "وصف إزالة جارية للبضائع من حيز مخصص لنقلها."
+      },
+      {
+        "id": 8,
+        "en": "The last bus will empty the square of waiting passengers.",
+        "ar": "الحافلة الأخيرة ستُخلي الساحة من الركاب المنتظرين.",
+        "context": "توقع مغادرة جميع المنتظرين الساحة عند صعودهم إلى الحافلة."
+      },
+      {
+        "id": 9,
+        "en": "Empty the contents of the packet into a bowl.",
+        "ar": "أفرغ محتويات الكيس في وعاء.",
+        "context": "تعليمات لنقل كل ما في عبوة إلى إناء."
+      },
+      {
+        "id": 10,
+        "en": "The sudden expense emptied his savings account.",
+        "ar": "النفقة المفاجئة استنفدت رصيد حساب ادخاره.",
+        "context": "وصف تكلفة سابقة استهلكت كل المال الموجود في حساب معين."
+      }
+    ]
+  }
+}

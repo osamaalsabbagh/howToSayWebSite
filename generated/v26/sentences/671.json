@@ -1,0 +1,131 @@
+{
+  "schemaVersion": 1,
+  "id": 671,
+  "sentence": {
+    "en": "I do not understand what you are saying.",
+    "ar": "لا أفهم ما تقوله.",
+    "context": "الإشارة إلى عدم فهم ما قاله الطرف الآخر."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "I do not understand",
+        "ar": "أنا لا أفهم",
+        "context": "هذا الجزء يوضح عدم فهم المتكلم.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "الجملة تنفي حالة فهم حالية."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير يعني أنا."
+          },
+          {
+            "term": "do",
+            "description": "كلمة مساعدة تُستخدم هنا مع النفي."
+          },
+          {
+            "term": "not",
+            "description": "أداة نفي."
+          },
+          {
+            "term": "understand",
+            "description": "أفهم أو أدرك المعنى."
+          }
+        ]
+      },
+      {
+        "sentence": "what you are saying.",
+        "ar": "ما تقوله.",
+        "context": "هذا الجزء يحدد أن الشيء غير المفهوم هو كلام المخاطب الحالي.",
+        "grammar": {
+          "tense": "المضارع المستمر",
+          "tenseEn": "Present Continuous",
+          "reason": "يصف كلاماً يحدث الآن أثناء المحادثة."
+        },
+        "wordMeanings": [
+          {
+            "term": "what",
+            "description": "ما، وتشير إلى الكلام أو المعنى."
+          },
+          {
+            "term": "you",
+            "description": "أنت أو أنتم حسب السياق."
+          },
+          {
+            "term": "are",
+            "description": "صيغة مساعدة مع فعل جار للمخاطب."
+          },
+          {
+            "term": "saying",
+            "description": "تقول أو تتحدث به الآن."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I do not understand you.",
+        "ar": "لا أفهمك.",
+        "context": "تقال عند عدم فهم الشخص."
+      },
+      {
+        "id": 2,
+        "en": "I do not understand what she is saying.",
+        "ar": "لا أفهم ما تقوله.",
+        "context": "تستخدم عن كلام امرأة."
+      },
+      {
+        "id": 3,
+        "en": "Do you understand what I am saying?",
+        "ar": "هل تفهم ما أقوله؟",
+        "context": "تقال للتأكد من فهم المخاطب."
+      },
+      {
+        "id": 4,
+        "en": "I cannot hear what you are saying.",
+        "ar": "لا أستطيع سماع ما تقوله.",
+        "context": "تستخدم عند مشكلة صوت."
+      },
+      {
+        "id": 5,
+        "en": "Please say it again.",
+        "ar": "من فضلك قلها مرة أخرى.",
+        "context": "تقال بعد عدم الفهم."
+      },
+      {
+        "id": 6,
+        "en": "We do not understand this lesson.",
+        "ar": "لا نفهم هذا الدرس.",
+        "context": "تستخدم عن فهم درس."
+      },
+      {
+        "id": 7,
+        "en": "She understands what you are saying.",
+        "ar": "هي تفهم ما تقوله.",
+        "context": "تقال عند وجود فهم واضح."
+      },
+      {
+        "id": 8,
+        "en": "I do not know what you mean.",
+        "ar": "لا أعرف ماذا تقصد.",
+        "context": "تستخدم عند عدم فهم القصد."
+      },
+      {
+        "id": 9,
+        "en": "What are you saying?",
+        "ar": "ماذا تقول؟",
+        "context": "تقال للسؤال عن الكلام الحالي."
+      },
+      {
+        "id": 10,
+        "en": "I understand what you are saying now.",
+        "ar": "أفهم ما تقوله الآن.",
+        "context": "تستخدم بعد اتضاح المعنى."
+      }
+    ]
+  }
+}

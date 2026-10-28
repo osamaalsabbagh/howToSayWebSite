@@ -1,0 +1,133 @@
+{
+  "schemaVersion": 1,
+  "id": 3649,
+  "sentence": {
+    "en": "He paid twenty dollars, but I paid double.",
+    "ar": "هو دفع عشرين دولارًا، لكنني دفعت الضعف.",
+    "context": "مقارنة بين مبلغين مدفوعين، حيث دفع المتحدث مرتين المبلغ الأول.",
+    "sourceWord": "double",
+    "sourcePos": "pron."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "He paid twenty dollars",
+        "ar": "هو دفع عشرين دولارًا",
+        "context": "يعطي الجزء الأول المبلغ الأساسي للمقارنة.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "استُخدم paid لأن الدفع حدث واكتمل في الماضي."
+        },
+        "wordMeanings": [
+          {
+            "term": "He",
+            "description": "هو؛ ضمير للغائب."
+          },
+          {
+            "term": "paid",
+            "description": "دفع؛ أعطى مالًا مقابل شيء."
+          },
+          {
+            "term": "twenty",
+            "description": "عشرون؛ عدد يحدد مقدار المال."
+          },
+          {
+            "term": "dollars",
+            "description": "دولارات؛ وحدة مال."
+          }
+        ]
+      },
+      {
+        "sentence": "but I paid double",
+        "ar": "لكنني دفعت الضعف",
+        "context": "يوضح الجزء الثاني أن مبلغ المتحدث كان مرتين من المبلغ الأول.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "استُخدم paid مرة أخرى لأن دفع المتحدث حدث واكتمل في الماضي."
+        },
+        "wordMeanings": [
+          {
+            "term": "but",
+            "description": "لكن؛ تربط بين مقارنتين فيهما اختلاف."
+          },
+          {
+            "term": "I",
+            "description": "ضمير يعني أنا."
+          },
+          {
+            "term": "paid",
+            "description": "دفعت؛ أعطيت مالًا مقابل شيء."
+          },
+          {
+            "term": "double",
+            "description": "الضعف؛ مقدار يساوي مرتين من المبلغ المذكور قبل ذلك."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "He paid twenty dollars, but I paid double.",
+        "ar": "هو دفع عشرين دولارًا، لكنني دفعت الضعف.",
+        "context": "مقارنة بين مبلغين مدفوعين، حيث دفع المتحدث مرتين المبلغ الأول."
+      },
+      {
+        "id": 2,
+        "en": "They expected ten visitors, but double arrived.",
+        "ar": "هم توقعوا عشرة زوار، لكن الضعف وصل.",
+        "context": "رواية عن وصول عدد زوار يساوي مثلي العدد المتوقع."
+      },
+      {
+        "id": 3,
+        "en": "The restaurant served one portion, but he requested double.",
+        "ar": "المطعم قدم حصة واحدة، لكنه طلب الضعف.",
+        "context": "رواية عن طلب كمية طعام تساوي مثلي ما قُدم أولًا."
+      },
+      {
+        "id": 4,
+        "en": "The bag weighed ten kilograms; the suitcase weighed double.",
+        "ar": "الحقيبة كانت تزن عشرة كيلوغرامات؛ حقيبة السفر كانت تزن الضعف.",
+        "context": "مقارنة سابقة بين كتلتين، إحداهما تساوي مرتين مقدار الأخرى."
+      },
+      {
+        "id": 5,
+        "en": "The first task took an hour; the second took double.",
+        "ar": "المهمة الأولى استغرقت ساعة؛ الثانية استغرقت الضعف.",
+        "context": "رواية عن استغراق مهمة مدة تساوي مثلي مدة مهمة أخرى."
+      },
+      {
+        "id": 6,
+        "en": "I cycled ten miles; she cycled double.",
+        "ar": "أنا قدت الدراجة عشرة أميال؛ هي قادت الدراجة الضعف.",
+        "context": "مقارنة سابقة بين مسافتي ركوب دراجة، إحداهما تساوي مثلي الأخرى."
+      },
+      {
+        "id": 7,
+        "en": "She needed five people; he recruited double.",
+        "ar": "هي احتاجت إلى خمسة أشخاص؛ هو استقطب الضعف.",
+        "context": "رواية عن جمع مشاركين بعدد يساوي مثلي العدد المطلوب في المقارنة."
+      },
+      {
+        "id": 8,
+        "en": "The basic license allows two installations; the upgraded one allows double.",
+        "ar": "الترخيص الأساسي يسمح بعمليتي تثبيت؛ الترخيص المطور يسمح بالضعف.",
+        "context": "وصف ترخيصين معينين يتيح أحدهما تثبيت برنامج بعدد يساوي مثلي العدد في الآخر."
+      },
+      {
+        "id": 9,
+        "en": "He offered thirty dollars; she asked for double.",
+        "ar": "هو عرض ثلاثين دولارًا؛ هي طلبت الضعف.",
+        "context": "رواية عن تفاوض طُلب فيه مثلي مبلغ معروض."
+      },
+      {
+        "id": 10,
+        "en": "I asked for one copy; the printer produced double.",
+        "ar": "أنا طلبت نسخة واحدة؛ الطابعة أنتجت الضعف.",
+        "context": "رواية عن إنتاج نسخ ورقية بعدد يساوي مثلي المطلوب."
+      }
+    ]
+  }
+}

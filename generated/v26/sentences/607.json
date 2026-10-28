@@ -1,0 +1,111 @@
+{
+  "schemaVersion": 1,
+  "id": 607,
+  "sentence": {
+    "en": "Is there a movie theater nearby?",
+    "ar": "هل يوجد دار سينما قريبة؟",
+    "context": "السؤال عن وجود سينما قريبة من المكان الحالي."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Is there a movie theater nearby?",
+        "ar": "هل توجد دار سينما قريبة؟",
+        "context": "تستخدم للسؤال عن وجود سينما قرب المكان الحالي.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "هذه صيغة سؤال عن وجود مكان في الحاضر."
+        },
+        "wordMeanings": [
+          {
+            "term": "Is",
+            "description": "صيغة سؤال مع المفرد في تركيب يدل على الوجود."
+          },
+          {
+            "term": "there",
+            "description": "هناك، وتستخدم هنا للسؤال عن وجود شيء."
+          },
+          {
+            "term": "a",
+            "description": "أداة تأتي قبل اسم مفرد غير محدد."
+          },
+          {
+            "term": "movie",
+            "description": "فيلم، وتأتي هنا لتحديد نوع المكان."
+          },
+          {
+            "term": "theater",
+            "description": "دار عرض أو سينما."
+          },
+          {
+            "term": "nearby",
+            "description": "قريب من هنا."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Is there a bank nearby?",
+        "ar": "هل يوجد بنك قريب؟",
+        "context": "تقال عند البحث عن بنك."
+      },
+      {
+        "id": 2,
+        "en": "Is there a restaurant nearby?",
+        "ar": "هل يوجد مطعم قريب؟",
+        "context": "تستخدم عند البحث عن مكان للأكل."
+      },
+      {
+        "id": 3,
+        "en": "There is a movie theater downtown.",
+        "ar": "توجد دار سينما في وسط المدينة.",
+        "context": "تقال لتحديد موقع السينما."
+      },
+      {
+        "id": 4,
+        "en": "Is there a hotel nearby?",
+        "ar": "هل يوجد فندق قريب؟",
+        "context": "تستخدم عند البحث عن إقامة."
+      },
+      {
+        "id": 5,
+        "en": "Is there a store near here?",
+        "ar": "هل يوجد متجر قريب من هنا؟",
+        "context": "تقال للبحث عن متجر."
+      },
+      {
+        "id": 6,
+        "en": "There is no theater nearby.",
+        "ar": "لا توجد دار عرض قريبة.",
+        "context": "تستخدم لنفي وجود مكان قريب."
+      },
+      {
+        "id": 7,
+        "en": "Is there a concert hall nearby?",
+        "ar": "هل توجد قاعة حفلات قريبة؟",
+        "context": "تقال عند البحث عن مكان للفعاليات."
+      },
+      {
+        "id": 8,
+        "en": "The movie theater is nearby.",
+        "ar": "دار السينما قريبة.",
+        "context": "تستخدم للإجابة عن مكان السينما."
+      },
+      {
+        "id": 9,
+        "en": "Is there a bus stop nearby?",
+        "ar": "هل توجد محطة حافلات قريبة؟",
+        "context": "تقال عند البحث عن مواصلات."
+      },
+      {
+        "id": 10,
+        "en": "Is there a good movie theater here?",
+        "ar": "هل توجد دار سينما جيدة هنا؟",
+        "context": "تستخدم للسؤال عن مكان بجودة جيدة."
+      }
+    ]
+  }
+}

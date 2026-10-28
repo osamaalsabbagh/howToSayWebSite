@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "id": 990,
+  "sentence": {
+    "en": "Is this seat taken?",
+    "ar": "هل هذا المقعد مشغول؟",
+    "context": "تُستخدم للسؤال عما إذا كان المقعد مشغولاً."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Is this seat taken",
+        "ar": "هل هذا المقعد مشغول",
+        "context": "تُستخدم قبل الجلوس للتأكد أن المقعد ليس محجوزًا لشخص آخر.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "السؤال يصف حالة حالية للمقعد باستخدام is، وtaken هنا تعني محجوز أو مشغول."
+        },
+        "wordMeanings": [
+          {
+            "term": "Is",
+            "description": "هل يكون أو هل هو، وتبدأ سؤالًا عن الحالة"
+          },
+          {
+            "term": "this",
+            "description": "هذا، وتشير إلى شيء قريب"
+          },
+          {
+            "term": "seat",
+            "description": "مقعد"
+          },
+          {
+            "term": "taken",
+            "description": "مشغول أو محجوز لشخص آخر"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Is this chair taken?",
+        "ar": "هل هذا الكرسي مشغول؟",
+        "context": "تُستخدم قبل الجلوس على كرسي."
+      },
+      {
+        "id": 2,
+        "en": "Is this table taken?",
+        "ar": "هل هذه الطاولة مشغولة؟",
+        "context": "تُستخدم في مطعم أو مقهى."
+      },
+      {
+        "id": 3,
+        "en": "Is that seat free?",
+        "ar": "هل ذلك المقعد فارغ؟",
+        "context": "تُستخدم للبحث عن مكان للجلوس."
+      },
+      {
+        "id": 4,
+        "en": "Can I sit here?",
+        "ar": "هل يمكنني الجلوس هنا؟",
+        "context": "تُستخدم لطلب إذن بالجلوس."
+      },
+      {
+        "id": 5,
+        "en": "This seat is taken.",
+        "ar": "هذا المقعد مشغول.",
+        "context": "تُستخدم لإخبار شخص أن المقعد محجوز."
+      },
+      {
+        "id": 6,
+        "en": "This seat is free.",
+        "ar": "هذا المقعد فارغ.",
+        "context": "تُستخدم للسماح لشخص بالجلوس."
+      },
+      {
+        "id": 7,
+        "en": "Is this room taken?",
+        "ar": "هل هذه الغرفة مشغولة؟",
+        "context": "تُستخدم للسؤال عن توفر غرفة."
+      },
+      {
+        "id": 8,
+        "en": "Is this spot taken?",
+        "ar": "هل هذا المكان مشغول؟",
+        "context": "تُستخدم عند البحث عن مكان."
+      },
+      {
+        "id": 9,
+        "en": "Is this parking space taken?",
+        "ar": "هل مكان الوقوف هذا مشغول؟",
+        "context": "تُستخدم عند ركن السيارة."
+      },
+      {
+        "id": 10,
+        "en": "Are these seats taken?",
+        "ar": "هل هذه المقاعد مشغولة؟",
+        "context": "تُستخدم عندما تسأل عن أكثر من مقعد."
+      }
+    ]
+  }
+}

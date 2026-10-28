@@ -1,0 +1,133 @@
+{
+  "schemaVersion": 1,
+  "id": 9909,
+  "sentence": {
+    "en": "The bridge was closed, hence the long delay.",
+    "ar": "الجسر كان مغلقًا، ومن هنا جاء التأخير الطويل.",
+    "context": "ربط حالة إغلاق سابقة بتأخير طويل بصياغة رسمية دون تعيين المتأخر.",
+    "sourceWord": "hence",
+    "sourcePos": "adv."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "The bridge was closed,",
+        "ar": "الجسر كان مغلقًا،",
+        "context": "وصف حالة إغلاق سابقة لجسر.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "الماضي البسيط يصف حالة في الماضي."
+        },
+        "wordMeanings": [
+          {
+            "term": "The",
+            "description": "أداة تعريف تأتي مع الجسر."
+          },
+          {
+            "term": "bridge",
+            "description": "الجسر."
+          },
+          {
+            "term": "was",
+            "description": "كان."
+          },
+          {
+            "term": "closed",
+            "description": "مغلقًا."
+          }
+        ]
+      },
+      {
+        "sentence": "hence the long delay.",
+        "ar": "ومن هنا جاء التأخير الطويل.",
+        "context": "بيان التأخير بوصفه نتيجة للإغلاق بصياغة رسمية.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "الظرف الرسمي يعني لهذا السبب، ويأتي غالبًا قبل اسم دون فعل."
+        },
+        "wordMeanings": [
+          {
+            "term": "hence",
+            "description": "من هنا؛ لهذا السبب."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف تأتي مع التأخير."
+          },
+          {
+            "term": "long",
+            "description": "الطويل."
+          },
+          {
+            "term": "delay",
+            "description": "التأخير."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "The bridge was closed, hence the long delay.",
+        "ar": "الجسر كان مغلقًا، ومن هنا جاء التأخير الطويل.",
+        "context": "ربط حالة إغلاق سابقة بتأخير طويل بصياغة رسمية دون تعيين المتأخر."
+      },
+      {
+        "id": 2,
+        "en": "We expect a decision a month hence.",
+        "ar": "نحن نتوقع قرارًا بعد شهر من الآن.",
+        "context": "تحديد نقطة مستقبلية محسوبة من الوقت الحالي بصياغة رسمية."
+      },
+      {
+        "id": 3,
+        "en": "The evidence was incomplete, hence our caution.",
+        "ar": "الأدلة كانت ناقصة، ومن هنا جاء حذرنا.",
+        "context": "تفسير تحفظ سابق بنقص المعلومات."
+      },
+      {
+        "id": 4,
+        "en": "She works nights, hence the late breakfast.",
+        "ar": "هي تعمل ليلًا، ومن هنا يأتي الإفطار المتأخر.",
+        "context": "ربط عادة طعام بتوقيت عمل دون إضافة مهنة."
+      },
+      {
+        "id": 5,
+        "en": "The costs have risen, hence the revised budget.",
+        "ar": "التكاليف قد ارتفعت، ومن هنا جاءت الميزانية المعدلة.",
+        "context": "تفسير تعديل حاضر بزيادة سابقة في النفقات."
+      },
+      {
+        "id": 6,
+        "en": "The road is narrow; hence, buses use another route.",
+        "ar": "الطريق ضيق؛ لذلك الحافلات تستخدم مسارًا آخر.",
+        "context": "ربط اختيار طريق بحجم المساحة المتاحة."
+      },
+      {
+        "id": 7,
+        "en": "The next meeting will take place six weeks hence.",
+        "ar": "الاجتماع التالي سيُعقد بعد ستة أسابيع من الآن.",
+        "context": "تحديد مدة فاصلة من الحاضر إلى موعد قادم بصياغة رسمية."
+      },
+      {
+        "id": 8,
+        "en": "The data are uncertain, hence the wide range of estimates.",
+        "ar": "البيانات غير مؤكدة، ومن هنا يأتي النطاق الواسع للتقديرات.",
+        "context": "تفسير تفاوت قيم مقدرة بعدم اليقين في معلومات."
+      },
+      {
+        "id": 9,
+        "en": "The hall was full, hence the queue outside.",
+        "ar": "القاعة كانت ممتلئة، ومن هنا جاء الطابور خارجها.",
+        "context": "تفسير تجمع سابق خارج مكان ببلوغ سعته."
+      },
+      {
+        "id": 10,
+        "en": "A year hence, the garden will look different.",
+        "ar": "بعد سنة من الآن، الحديقة ستبدو مختلفة.",
+        "context": "توقع تغير مظهر بعد فترة محسوبة من الحاضر."
+      }
+    ]
+  }
+}

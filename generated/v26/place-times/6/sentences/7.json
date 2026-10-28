@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": 7,
+  "sentence": {
+    "en": "The student did not pass.",
+    "ar": "الطالب لم ينجح.",
+    "context": "الإعلان عن عدم اجتياز الامتحان."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "The student did not pass.",
+        "ar": "الطالب لم ينجح.",
+        "context": "تستخدم للإخبار بأن طالبا لم يجتز الامتحان أو المادة.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "did not pass ينفي حدثا في الماضي، ومع did يعود الفعل pass إلى صورته الأساسية."
+        },
+        "wordMeanings": [
+          {
+            "term": "The",
+            "description": "أداة تعريف تشير إلى طالب معروف في السياق."
+          },
+          {
+            "term": "student",
+            "description": "طالب أو متعلم."
+          },
+          {
+            "term": "did",
+            "description": "كلمة مساعدة للنفي في الماضي."
+          },
+          {
+            "term": "not",
+            "description": "أداة نفي تعني لم أو لا."
+          },
+          {
+            "term": "pass",
+            "description": "ينجح أو يجتاز الامتحان."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "The student did not pass the exam.",
+        "ar": "لم ينجح الطالب في الامتحان.",
+        "context": "إعلان نتيجة رسوب."
+      },
+      {
+        "id": 2,
+        "en": "She did not pass math.",
+        "ar": "لم تنجح في الرياضيات.",
+        "context": "رسوب في مادة محددة."
+      },
+      {
+        "id": 3,
+        "en": "He did not pass this time.",
+        "ar": "لم ينجح هذه المرة.",
+        "context": "حديث عن محاولة واحدة."
+      },
+      {
+        "id": 4,
+        "en": "The class did not pass the test.",
+        "ar": "لم ينجح الصف في الاختبار.",
+        "context": "وصف نتيجة جماعية."
+      },
+      {
+        "id": 5,
+        "en": "I did not pass the final exam.",
+        "ar": "لم أنجح في الامتحان النهائي.",
+        "context": "تعبير شخصي عن الرسوب."
+      },
+      {
+        "id": 6,
+        "en": "The student needs another chance.",
+        "ar": "يحتاج الطالب إلى فرصة أخرى.",
+        "context": "تعليق بعد عدم النجاح."
+      },
+      {
+        "id": 7,
+        "en": "They did not pass because the exam was hard.",
+        "ar": "لم ينجحوا لأن الامتحان كان صعبا.",
+        "context": "شرح سبب الرسوب."
+      },
+      {
+        "id": 8,
+        "en": "My friend did not pass the course.",
+        "ar": "لم ينجح صديقي في المادة.",
+        "context": "إخبار عن صديق."
+      },
+      {
+        "id": 9,
+        "en": "The result shows he did not pass.",
+        "ar": "تظهر النتيجة أنه لم ينجح.",
+        "context": "قراءة نتيجة رسمية."
+      },
+      {
+        "id": 10,
+        "en": "The student did not give up.",
+        "ar": "لم يستسلم الطالب.",
+        "context": "تشجيع بعد الرسوب."
+      }
+    ]
+  }
+}

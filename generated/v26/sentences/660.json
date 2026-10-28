@@ -1,0 +1,123 @@
+{
+  "schemaVersion": 1,
+  "id": 660,
+  "sentence": {
+    "en": "Excuse me, what did you say?",
+    "ar": "عذرًا، ماذا قلت؟",
+    "context": "طلب تكرار الكلام بسبب عدم سماعه بوضوح."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Excuse me,",
+        "ar": "عذراً،",
+        "context": "تستخدم لبدء الطلب بأدب قبل السؤال.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه عبارة اعتذار أو استئذان ثابتة وليست جملة ذات زمن."
+        },
+        "wordMeanings": [
+          {
+            "term": "Excuse",
+            "description": "اعذر أو اسمح، وتستخدم للاستئذان بأدب."
+          },
+          {
+            "term": "me",
+            "description": "لي أو إياي، وتكمل عبارة الاستئذان."
+          }
+        ]
+      },
+      {
+        "sentence": "what did you say?",
+        "ar": "ماذا قلت؟",
+        "context": "تستخدم للسؤال عن الكلام الذي قاله الشخص قبل قليل.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "السؤال عن كلام قيل في الماضي القريب."
+        },
+        "wordMeanings": [
+          {
+            "term": "what",
+            "description": "ماذا، وتستخدم للسؤال عن الكلام."
+          },
+          {
+            "term": "did",
+            "description": "كلمة مساعدة لتكوين سؤال في الماضي."
+          },
+          {
+            "term": "you",
+            "description": "أنت أو أنتم حسب السياق."
+          },
+          {
+            "term": "say",
+            "description": "تقول، وتأتي بصيغتها الأساسية بعد أداة الماضي."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Excuse me, can you say that again?",
+        "ar": "عذراً، هل يمكنك قول ذلك مرة أخرى؟",
+        "context": "تقال لطلب إعادة الكلام."
+      },
+      {
+        "id": 2,
+        "en": "What did she say?",
+        "ar": "ماذا قالت؟",
+        "context": "تستخدم للسؤال عن كلام امرأة."
+      },
+      {
+        "id": 3,
+        "en": "I did not hear you.",
+        "ar": "لم أسمعك.",
+        "context": "تقال لتوضيح سبب طلب الإعادة."
+      },
+      {
+        "id": 4,
+        "en": "What did you say to him?",
+        "ar": "ماذا قلت له؟",
+        "context": "تستخدم للسؤال عن كلام موجه لشخص."
+      },
+      {
+        "id": 5,
+        "en": "Excuse me, I do not understand.",
+        "ar": "عذراً، لا أفهم.",
+        "context": "تقال عند عدم الفهم."
+      },
+      {
+        "id": 6,
+        "en": "Can you repeat that please?",
+        "ar": "هل يمكنك تكرار ذلك من فضلك؟",
+        "context": "تستخدم كطلب مهذب للإعادة."
+      },
+      {
+        "id": 7,
+        "en": "What did he say about the hotel?",
+        "ar": "ماذا قال عن الفندق؟",
+        "context": "تستخدم للسؤال عن موضوع كلام سابق."
+      },
+      {
+        "id": 8,
+        "en": "Sorry, what did you say?",
+        "ar": "عذراً، ماذا قلت؟",
+        "context": "تقال بصيغة مشابهة عند عدم السماع."
+      },
+      {
+        "id": 9,
+        "en": "What did you hear?",
+        "ar": "ماذا سمعت؟",
+        "context": "تستخدم للسؤال عما وصل للشخص."
+      },
+      {
+        "id": 10,
+        "en": "Please say that slowly.",
+        "ar": "من فضلك قل ذلك ببطء.",
+        "context": "تستخدم عند الحاجة إلى وضوح أكبر."
+      }
+    ]
+  }
+}
