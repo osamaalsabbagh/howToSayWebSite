@@ -1,0 +1,133 @@
+{
+  "schemaVersion": 1,
+  "id": 7673,
+  "sentence": {
+    "en": "Take a taxi. Otherwise, you will be late.",
+    "ar": "خذ سيارة أجرة. وإلا، أنت ستتأخر.",
+    "context": "نصيحة للمخاطب بأخذ سيارة أجرة لتجنب التأخر.",
+    "sourceWord": "otherwise",
+    "sourcePos": "adv."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Take a taxi.",
+        "ar": "خذ سيارة أجرة.",
+        "context": "نصيحة مباشرة باختيار وسيلة نقل أسرع.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "أمر يبدأ بأصل الفعل، وفاعله المخاطب مفهوم دون ضمير ظاهر."
+        },
+        "wordMeanings": [
+          {
+            "term": "Take",
+            "description": "خذ؛ هنا بمعنى استخدم وسيلة النقل"
+          },
+          {
+            "term": "a",
+            "description": "أداة تنكير قبل سيارة أجرة واحدة"
+          },
+          {
+            "term": "taxi",
+            "description": "سيارة أجرة"
+          }
+        ]
+      },
+      {
+        "sentence": "Otherwise, you will be late.",
+        "ar": "وإلا، أنت ستتأخر.",
+        "context": "نتيجة مستقبلية لعدم اختيار وسيلة النقل المقترحة.",
+        "grammar": {
+          "tense": "المستقبل البسيط",
+          "tenseEn": "Future Simple",
+          "reason": "أداة المستقبل مع أصل فعل الربط تصف نتيجة متوقعة إذا لم تُنفذ النصيحة السابقة."
+        },
+        "wordMeanings": [
+          {
+            "term": "Otherwise",
+            "description": "وإلا؛ أي إذا لم تنفذ النصيحة السابقة"
+          },
+          {
+            "term": "you",
+            "description": "أنت؛ ضمير مخاطب مفرد"
+          },
+          {
+            "term": "will",
+            "description": "أداة توقع نتيجة في المستقبل"
+          },
+          {
+            "term": "be",
+            "description": "أصل فعل الربط الذي يصل المخاطب بحالة التأخر"
+          },
+          {
+            "term": "late",
+            "description": "متأخر؛ تصل بعد الوقت المطلوب"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Take a taxi. Otherwise, you will be late.",
+        "ar": "خذ سيارة أجرة. وإلا، أنت ستتأخر.",
+        "context": "نصيحة للمخاطب بأخذ سيارة أجرة لتجنب التأخر."
+      },
+      {
+        "id": 2,
+        "en": "I thought otherwise.",
+        "ar": "أنا كنت أعتقد خلاف ذلك.",
+        "context": "أنت تروي نقاشًا سابقًا كان رأيك فيه مختلفًا عن رأي المتحدث."
+      },
+      {
+        "id": 3,
+        "en": "She believes otherwise.",
+        "ar": "هي تعتقد خلاف ذلك.",
+        "context": "أنت تصف اختلاف رأي امرأة مع استنتاج عرضه زميلها."
+      },
+      {
+        "id": 4,
+        "en": "The report suggests otherwise.",
+        "ar": "التقرير يشير إلى خلاف ذلك.",
+        "context": "أنت تقارن ادعاءً بمعلومات في تقرير تدل على نتيجة مختلفة."
+      },
+      {
+        "id": 5,
+        "en": "We need a reservation; otherwise, we may have to wait.",
+        "ar": "نحن نحتاج إلى حجز؛ وإلا، نحن قد نضطر إلى الانتظار.",
+        "context": "أنت تناقش خطة زيارة مطعم واحتمال الانتظار إذا ذهبتم دون حجز."
+      },
+      {
+        "id": 6,
+        "en": "He would otherwise spend the evening alone.",
+        "ar": "هو كان سيقضي المساء وحده لولا ذلك.",
+        "context": "أنت توضح أثر دعوة رجل إلى لقاء بدل بقائه بمفرده."
+      },
+      {
+        "id": 7,
+        "en": "The path is muddy but otherwise easy to follow.",
+        "ar": "المسار موحل لكنه سهل التتبع فيما عدا ذلك.",
+        "context": "أنت تصف طريق مشي واضحًا رغم وجود الطين عليه."
+      },
+      {
+        "id": 8,
+        "en": "They said the parcel was empty, but we found otherwise.",
+        "ar": "هم قالوا إن الطرد فارغ، لكن نحن وجدنا خلاف ذلك.",
+        "context": "أنت تروي فتح طرد سابقًا واكتشاف محتويات تناقض ما قاله الآخرون."
+      },
+      {
+        "id": 9,
+        "en": "You should arrive early; otherwise, you may miss the opening.",
+        "ar": "أنت ينبغي أن تصل مبكرًا؛ وإلا، أنت قد تفوت بداية الفعالية.",
+        "context": "أنت تنصح صديقًا بالوصول قبل بدء برنامج المناسبة."
+      },
+      {
+        "id": 10,
+        "en": "The jacket fits well but is otherwise unsuitable for winter.",
+        "ar": "السترة مناسبة من حيث المقاس لكنها غير ملائمة للشتاء فيما عدا ذلك.",
+        "context": "أنت تقيم سترة مقاسها مناسب لكنها لا توفر متطلبات فصل الشتاء."
+      }
+    ]
+  }
+}

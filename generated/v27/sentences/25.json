@@ -1,0 +1,131 @@
+{
+  "schemaVersion": 1,
+  "id": 25,
+  "sentence": {
+    "en": "I do not know how to use it.",
+    "ar": "لا أعرف كيف أستخدمه.",
+    "context": "اعترف بعدم معرفة استخدام شيء."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "I do not know",
+        "ar": "لا أعرف.",
+        "context": "يعبّر عن عدم المعرفة قبل توضيح الشيء المقصود.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "تستخدم do not مع الفعل الأساسي للتعبير عن نفي معرفة حالية أو عامة عند المتكلم."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير المتكلم ويشير إلى الشخص الذي يتحدث."
+          },
+          {
+            "term": "do",
+            "description": "تساعد هنا على تكوين النفي في المضارع مع I."
+          },
+          {
+            "term": "not",
+            "description": "كلمة نفي تجعل المعنى لا أعرف."
+          },
+          {
+            "term": "know",
+            "description": "أعرف أو أملك معرفة بشيء."
+          }
+        ]
+      },
+      {
+        "sentence": "how to use it",
+        "ar": "كيف أستخدمه.",
+        "context": "يوضح المعلومة التي لا يعرفها المتحدث أو يسأل عنها.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذا جزء يشرح الشيء غير المعروف، وهو طريقة استخدام شيء معين، ولا يحتوي على فعل مصرف بزمن مستقل."
+        },
+        "wordMeanings": [
+          {
+            "term": "how",
+            "description": "تعني الطريقة أو الكيفية."
+          },
+          {
+            "term": "to",
+            "description": "تأتي قبل الفعل لربطه بكلمة how وبيان الطريقة."
+          },
+          {
+            "term": "use",
+            "description": "أستخدم أو أستعمل شيئًا."
+          },
+          {
+            "term": "it",
+            "description": "ضمير يشير إلى شيء معروف من السياق."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I do not know how to open it.",
+        "ar": "لا أعرف كيف أفتحه.",
+        "context": "تقال عند عدم معرفة طريقة فتح شيء."
+      },
+      {
+        "id": 2,
+        "en": "I do not know how to fix it.",
+        "ar": "لا أعرف كيف أصلحه.",
+        "context": "تقال عند عدم معرفة طريقة إصلاح شيء."
+      },
+      {
+        "id": 3,
+        "en": "She does not know how to drive.",
+        "ar": "هي لا تعرف كيف تقود.",
+        "context": "تقال عند الحديث عن مهارة غير موجودة عند شخص."
+      },
+      {
+        "id": 4,
+        "en": "We do not know how to start.",
+        "ar": "لا نعرف كيف نبدأ.",
+        "context": "تقال عند الحيرة في بداية مهمة."
+      },
+      {
+        "id": 5,
+        "en": "He does not know how to cook rice.",
+        "ar": "هو لا يعرف كيف يطبخ الأرز.",
+        "context": "تقال عند عدم معرفة طريقة طبخ شيء."
+      },
+      {
+        "id": 6,
+        "en": "I do not know how to adjust this chair.",
+        "ar": "أنا لا أعرف كيفية ضبط هذا الكرسي.",
+        "context": "الإقرار بعدم معرفة طريقة تغيير وضعية كرسي معين."
+      },
+      {
+        "id": 7,
+        "en": "They do not know how to get there.",
+        "ar": "هم لا يعرفون كيف يصلون إلى هناك.",
+        "context": "تقال عند عدم معرفة الطريق."
+      },
+      {
+        "id": 8,
+        "en": "I do not know how to change the password.",
+        "ar": "لا أعرف كيف أغير كلمة المرور.",
+        "context": "تقال عند عدم معرفة خطوة تقنية."
+      },
+      {
+        "id": 9,
+        "en": "My father does not know how to use this phone.",
+        "ar": "أبي لا يعرف كيف يستخدم هذا الهاتف.",
+        "context": "تقال عند صعوبة استخدام جهاز."
+      },
+      {
+        "id": 10,
+        "en": "I do not know how to explain it.",
+        "ar": "لا أعرف كيف أشرحه.",
+        "context": "تقال عند العجز عن توضيح شيء."
+      }
+    ]
+  }
+}

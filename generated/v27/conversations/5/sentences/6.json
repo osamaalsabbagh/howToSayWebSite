@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 1,
+  "id": 6,
+  "sentence": {
+    "en": "Alright, let us go see it now. If you like it, I can reserve it for you before anyone else asks.",
+    "ar": "تمام، دعنا نذهب لرؤيتها الآن. إذا أعجبتك، يمكنني حجزها لك قبل أن يسأل عنها أي شخص آخر.",
+    "context": "يعرض المعاينة فورًا ويجعل الحجز مشروطًا بإعجاب الزبون، مع بقاء أولوية قبل أي مهتم آخر."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Alright, let us go see it now.",
+        "ar": "تمام، دعنا نذهب لرؤيتها الآن.",
+        "context": "يبدأ به المتحدث الفكرة الأساسية قبل إضافة التفاصيل.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه صيغة اقتراح مباشر لفعل مشترك الآن، وليست جملة زمنية مستقلة."
+        },
+        "wordMeanings": [
+          {
+            "term": "Alright",
+            "description": "كلمة انتقال أو موافقة تعني حسنًا."
+          },
+          {
+            "term": "let",
+            "description": "تأتي هنا لاقتراح فعل مشترك."
+          },
+          {
+            "term": "us",
+            "description": "ضمير يشمل المتكلم والمخاطب، ومع let us تعني دعنا."
+          },
+          {
+            "term": "go",
+            "description": "تعني نذهب أو نتحرك إلى مكان."
+          },
+          {
+            "term": "see",
+            "description": "تعني نرى أو نعاين."
+          },
+          {
+            "term": "it",
+            "description": "ضمير يعود على الشقة."
+          },
+          {
+            "term": "now",
+            "description": "الآن، في هذه اللحظة."
+          }
+        ]
+      },
+      {
+        "sentence": "If you like it, I can reserve it for you before anyone else asks.",
+        "ar": "إذا أعجبتك، يمكنني حجزها لك قبل أن يسأل عنها أي شخص آخر.",
+        "context": "يضع شرطًا يحدد متى ينطبق الكلام أو الإجراء.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذا تركيب شرط مع can للتعبير عن إمكانية الحجز إذا تحقق الشرط، لذلك يشرح كتركيب وظيفي لا كزمن مستقل واحد."
+        },
+        "wordMeanings": [
+          {
+            "term": "If",
+            "description": "أداة شرط تعني إذا."
+          },
+          {
+            "term": "you",
+            "description": "ضمير المخاطب."
+          },
+          {
+            "term": "like",
+            "description": "تعني يعجبك أو تفضله."
+          },
+          {
+            "term": "it",
+            "description": "ضمير يعود على الشقة."
+          },
+          {
+            "term": "I",
+            "description": "ضمير المتكلم المفرد."
+          },
+          {
+            "term": "can",
+            "description": "يدل على القدرة أو الإمكانية."
+          },
+          {
+            "term": "reserve",
+            "description": "تعني أحجز أو أخصص."
+          },
+          {
+            "term": "it",
+            "description": "ضمير يعود على الشقة."
+          },
+          {
+            "term": "for",
+            "description": "تعني لصالح أو من أجل."
+          },
+          {
+            "term": "you",
+            "description": "ضمير المخاطب."
+          },
+          {
+            "term": "before",
+            "description": "تعني قبل حدوث شيء آخر."
+          },
+          {
+            "term": "anyone",
+            "description": "أي شخص."
+          },
+          {
+            "term": "else",
+            "description": "تعني آخر أو غيرك."
+          },
+          {
+            "term": "asks",
+            "description": "تعني يسأل أو يطلب معلومات."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Alright, let us see the apartment now.",
+        "ar": "حسنًا، دعنا نرى الشقة الآن.",
+        "context": "تبدأ المعاينة فورًا."
+      },
+      {
+        "id": 2,
+        "en": "If you like it, I can reserve it today.",
+        "ar": "إذا أعجبتك، يمكنني حجزها اليوم.",
+        "context": "تعرض حجزًا مشروطًا بالقبول."
+      },
+      {
+        "id": 3,
+        "en": "Let us go see the kitchen first.",
+        "ar": "دعنا نذهب لرؤية المطبخ أولًا.",
+        "context": "تقترح بداية المعاينة بجزء معين."
+      },
+      {
+        "id": 4,
+        "en": "I can reserve the room for you.",
+        "ar": "يمكنني حجز الغرفة لك.",
+        "context": "تعرض مساعدة في الحجز."
+      },
+      {
+        "id": 5,
+        "en": "If you like the balcony, we can continue.",
+        "ar": "إذا أعجبتك الشرفة، يمكننا المتابعة.",
+        "context": "تربط الخطوة التالية برضا الزبون."
+      },
+      {
+        "id": 6,
+        "en": "Let us go upstairs now.",
+        "ar": "دعنا نصعد إلى الأعلى الآن.",
+        "context": "توجه شخصًا أثناء المعاينة."
+      },
+      {
+        "id": 7,
+        "en": "I can reserve it before another customer calls.",
+        "ar": "يمكنني حجزها قبل أن يتصل زبون آخر.",
+        "context": "توضح أهمية السرعة في الحجز."
+      },
+      {
+        "id": 8,
+        "en": "If you like it, we can sign the papers.",
+        "ar": "إذا أعجبتك، يمكننا توقيع الأوراق.",
+        "context": "تشرح خطوة بعد المعاينة."
+      },
+      {
+        "id": 9,
+        "en": "Alright, let us check the bedroom.",
+        "ar": "حسنًا، دعنا نفحص غرفة النوم.",
+        "context": "تنتقل إلى جزء آخر من الشقة."
+      },
+      {
+        "id": 10,
+        "en": "I can show it before anyone else arrives.",
+        "ar": "يمكنني أن أريك إياها قبل أن يصل أي شخص آخر.",
+        "context": "تعطي الزبون أولوية في المعاينة."
+      }
+    ]
+  }
+}

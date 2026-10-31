@@ -1,0 +1,139 @@
+{
+  "schemaVersion": 1,
+  "id": 3,
+  "sentence": {
+    "en": "Oh no. Do you know what the delay is about?",
+    "ar": "أوه، لا. هل تعرف ما سبب التأخير؟",
+    "context": "يسأل بلطف عن السبب المحتمل لتأخر الرحلة"
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Oh no.",
+        "ar": "أوه، لا.",
+        "context": "تمهّد لما سيأتي بعده في الكلام.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذا الجزء تعبير قصير أو غير مكتمل فعليًا، لذلك لا نضع له زمنًا مستقلًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "Oh",
+            "description": "كلمة تعجب أو رد فعل سريع عند سماع خبر غير مريح."
+          },
+          {
+            "term": "no",
+            "description": "كلمة للنفي أو الرفض."
+          }
+        ]
+      },
+      {
+        "sentence": "Do you know what the delay is about?",
+        "ar": "هل تعرف ما سبب التأخير؟",
+        "context": "يُستخدم هذا السؤال لطلب المعلومة المقصودة في هذا الموقف.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُعمل المضارع البسيط لأن هذا الجزء يصف حالة أو حقيقة أو معنى حاضرًا في سياق الكلام."
+        },
+        "wordMeanings": [
+          {
+            "term": "Do",
+            "description": "تبدأ سؤالًا في المضارع البسيط عن معرفة الشخص بشيء."
+          },
+          {
+            "term": "you",
+            "description": "ضمير المخاطب."
+          },
+          {
+            "term": "know",
+            "description": "فعل يعني يعرف أو يعلم."
+          },
+          {
+            "term": "what",
+            "description": "أداة سؤال عن الشيء أو المعنى أو الاختيار."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف تشير إلى شيء معروف أو محدد."
+          },
+          {
+            "term": "delay",
+            "description": "اسم يعني التأخير."
+          },
+          {
+            "term": "is",
+            "description": "صيغة تربط التأخير بالسبب أو الموضوع الذي بعده."
+          },
+          {
+            "term": "about",
+            "description": "تعني هنا بسبب ماذا أو بخصوص ماذا، وتطلب سبب التأخير."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Oh no. Do you know what the delay is about?",
+        "ar": "أوه، لا. هل تعرف ما سبب التأخير؟",
+        "context": "سؤال مباشر بعد سماع أن الرحلة تأخرت."
+      },
+      {
+        "id": 2,
+        "en": "Do you know what the delay is about?",
+        "ar": "هل تعرف ما سبب التأخير؟",
+        "context": "صيغة أقصر بدون رد الفعل العاطفي في البداية."
+      },
+      {
+        "id": 3,
+        "en": "Oh no. Do you know why the flight is delayed?",
+        "ar": "أوه، لا. هل تعرف لماذا الرحلة متأخرة؟",
+        "context": "طريقة أخرى للسؤال عن السبب نفسه."
+      },
+      {
+        "id": 4,
+        "en": "Oh no. Do you know what the problem is?",
+        "ar": "أوه، لا. هل تعرف ما المشكلة؟",
+        "context": "سؤال عام عندما لا يعرف المتكلم سبب التعطيل."
+      },
+      {
+        "id": 5,
+        "en": "Oh no. Do you know what this announcement is about?",
+        "ar": "أوه، لا. هل تعرف ما موضوع هذا الإعلان؟",
+        "context": "تستخدم عند سماع إعلان في المطار."
+      },
+      {
+        "id": 6,
+        "en": "Excuse me, do you know what the delay is about?",
+        "ar": "عذرًا، هل تعرف ما سبب التأخير؟",
+        "context": "صيغة ألطف عند سؤال شخص لا تعرفه."
+      },
+      {
+        "id": 7,
+        "en": "Oh no. Do you know what the cancellation is about?",
+        "ar": "أوه، لا. هل تعرف ما سبب الإلغاء؟",
+        "context": "نفس التركيب لكن مع إلغاء بدل تأخير."
+      },
+      {
+        "id": 8,
+        "en": "Oh no. Do you know what the long wait is about?",
+        "ar": "أوه، لا. هل تعرف ما سبب الانتظار الطويل؟",
+        "context": "تستخدم عندما لا يفهم المتكلم سبب الانتظار."
+      },
+      {
+        "id": 9,
+        "en": "Oh no. Do you know what the gate change is about?",
+        "ar": "أوه، لا. هل تعرف ما سبب تغيير البوابة؟",
+        "context": "سؤال عن سبب تغيير بوابة الصعود."
+      },
+      {
+        "id": 10,
+        "en": "Oh no. Do you know what the extra security check is about?",
+        "ar": "أوه، لا. هل تعرف ما سبب الفحص الأمني الإضافي؟",
+        "context": "تستخدم عندما يظهر إجراء جديد غير متوقع."
+      }
+    ]
+  }
+}

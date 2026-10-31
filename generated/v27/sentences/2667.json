@@ -1,0 +1,113 @@
+{
+  "schemaVersion": 1,
+  "id": 2667,
+  "sentence": {
+    "en": "Do you want something to drink?",
+    "ar": "هل تريد شيئًا ما لتشربه؟",
+    "context": "عرض عام دون تحديد نوع الشيء المعروض.",
+    "sourceWord": "something",
+    "sourcePos": "pron."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Do you want something to drink?",
+        "ar": "هل تريد شيئا تشربه؟",
+        "context": "تستخدم الجملة كعرض مهذب لمشروب غير محدد.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "Do تبدأ سؤالا في المضارع البسيط مع الفعل want، وsomething تشير إلى شيء غير محدد."
+        },
+        "wordMeanings": [
+          {
+            "term": "Do",
+            "description": "أداة لتكوين سؤال في المضارع البسيط"
+          },
+          {
+            "term": "you",
+            "description": "أنت أو أنتم"
+          },
+          {
+            "term": "want",
+            "description": "تريد أو ترغب"
+          },
+          {
+            "term": "something",
+            "description": "شيئا ما غير محدد"
+          },
+          {
+            "term": "to",
+            "description": "تأتي قبل الفعل لتوضيح الغرض"
+          },
+          {
+            "term": "drink",
+            "description": "تشرب"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Do you want something to drink?",
+        "ar": "هل تريد شيئا تشربه؟",
+        "context": "تُقال عند عرض مشروب على ضيف."
+      },
+      {
+        "id": 2,
+        "en": "Something is blocking the drain under the sink.",
+        "ar": "شيء ما يسد المصرف تحت المغسلة.",
+        "context": "الإشارة إلى سبب غير محدد يمنع تصريف المياه."
+      },
+      {
+        "id": 3,
+        "en": "Would you like something warm to wear on the way home?",
+        "ar": "هل أنت ترغب في شيء دافئ ترتديه في طريق العودة إلى المنزل؟",
+        "context": "عرض ملابس دون تحديد قطعة بعينها."
+      },
+      {
+        "id": 4,
+        "en": "Do you not want anything to drink?",
+        "ar": "ألا تريد أي شيء تشربه؟",
+        "context": "سؤال عند توقع رفض المشروب."
+      },
+      {
+        "id": 5,
+        "en": "Can I get you something to drink?",
+        "ar": "هل أحضر لك شيئا تشربه؟",
+        "context": "عرض خدمة في بيت أو مطعم."
+      },
+      {
+        "id": 6,
+        "en": "I want something cold to drink.",
+        "ar": "أريد شيئا باردا أشربه.",
+        "context": "تصف طلبا لمشروب دون تحديد الاسم."
+      },
+      {
+        "id": 7,
+        "en": "She asked for something to drink.",
+        "ar": "طلبت شيئا تشربه.",
+        "context": "تصف طلب مشروب في الماضي."
+      },
+      {
+        "id": 8,
+        "en": "Please put something under the vase to protect the table.",
+        "ar": "من فضلك ضع شيئًا تحت المزهرية لحماية الطاولة.",
+        "context": "طلب استخدام غرض غير محدد كحاجز واقٍ."
+      },
+      {
+        "id": 9,
+        "en": "There is something to drink in the kitchen.",
+        "ar": "يوجد شيء للشرب في المطبخ.",
+        "context": "تُقال عند إخبار شخص بوجود مشروب."
+      },
+      {
+        "id": 10,
+        "en": "Do you want water or something else?",
+        "ar": "هل تريد ماء أم شيئا آخر؟",
+        "context": "عرض اختيار بين مشروب محدد وخيار آخر."
+      }
+    ]
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": 1156,
+  "sentence": {
+    "en": "Can you recommend nearby attractions?",
+    "ar": "هل يمكنك ترشيح أماكن سياحية قريبة؟",
+    "context": "تُستخدم لطلب اقتراحات لأماكن سياحية قريبة يمكن زيارتها."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Can you recommend nearby attractions",
+        "ar": "هل يمكنك ترشيح أماكن سياحية قريبة",
+        "context": "طلب اقتراحات لأماكن يمكن زيارتها.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه صيغة طلب باستخدام كلمة تدل على القدرة، وليست زمنًا مستقلًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "Can",
+            "description": "تُستخدم لطلب شيء أو السؤال عن القدرة"
+          },
+          {
+            "term": "you",
+            "description": "ضمير للمخاطب"
+          },
+          {
+            "term": "recommend",
+            "description": "يرشح أو يقترح"
+          },
+          {
+            "term": "nearby",
+            "description": "قريب"
+          },
+          {
+            "term": "attractions",
+            "description": "أماكن جذب أو أماكن سياحية"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Can you recommend a museum nearby?",
+        "ar": "هل يمكنك ترشيح متحف قريب؟",
+        "context": "تُستخدم لطلب مكان محدد."
+      },
+      {
+        "id": 2,
+        "en": "What attractions are nearby?",
+        "ar": "ما الأماكن السياحية القريبة؟",
+        "context": "تُستخدم للسؤال عن الخيارات."
+      },
+      {
+        "id": 3,
+        "en": "Can you suggest places to visit?",
+        "ar": "هل يمكنك اقتراح أماكن للزيارة؟",
+        "context": "تُستخدم للسياحة."
+      },
+      {
+        "id": 4,
+        "en": "Are there any nearby attractions?",
+        "ar": "هل توجد أي أماكن سياحية قريبة؟",
+        "context": "تُقال عند استكشاف منطقة."
+      },
+      {
+        "id": 5,
+        "en": "The old town is a popular attraction.",
+        "ar": "المدينة القديمة مكان سياحي مشهور.",
+        "context": "تُستخدم لوصف مكان معروف."
+      },
+      {
+        "id": 6,
+        "en": "Can you recommend something fun nearby?",
+        "ar": "هل يمكنك ترشيح شيء ممتع قريب؟",
+        "context": "تُستخدم لطلب نشاط."
+      },
+      {
+        "id": 7,
+        "en": "I want to visit local attractions.",
+        "ar": "أريد زيارة الأماكن السياحية المحلية.",
+        "context": "تُقال عند التخطيط للجولة."
+      },
+      {
+        "id": 8,
+        "en": "This area has many attractions.",
+        "ar": "هذه المنطقة فيها أماكن جذب كثيرة.",
+        "context": "تُستخدم لوصف منطقة سياحية."
+      },
+      {
+        "id": 9,
+        "en": "Can you recommend attractions for families?",
+        "ar": "هل يمكنك ترشيح أماكن سياحية للعائلات؟",
+        "context": "تُستخدم عند السفر مع عائلة."
+      },
+      {
+        "id": 10,
+        "en": "The park is a nearby attraction.",
+        "ar": "الحديقة مكان جذب قريب.",
+        "context": "تُستخدم لتقديم اقتراح بسيط."
+      }
+    ]
+  }
+}

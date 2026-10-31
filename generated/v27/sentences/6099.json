@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 1,
+  "id": 6099,
+  "sentence": {
+    "en": "My diary is private.",
+    "ar": "مذكراتي خاصة.",
+    "context": "وصف محتوى شخصي لا يرغب المتكلم في إتاحته للآخرين.",
+    "sourceWord": "private",
+    "sourcePos": "adj."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "My diary is private.",
+        "ar": "مذكراتي خاصة.",
+        "context": "وصف محتوى شخصي لا يرغب المتكلم في إتاحته للآخرين.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "المضارع البسيط يصف حالة ثابتة. الصفة هنا تعني سري وشخصي."
+        },
+        "wordMeanings": [
+          {
+            "term": "My",
+            "description": "ضمير ملكية للمتكلم؛ الخاصة بي."
+          },
+          {
+            "term": "diary",
+            "description": "مذكرات؛ دفتر يومي شخصي."
+          },
+          {
+            "term": "is",
+            "description": "صيغة الحاضر للكينونة مع المفرد."
+          },
+          {
+            "term": "private",
+            "description": "خاصة؛ سرية وشخصية."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "My diary is private.",
+        "ar": "مذكراتي خاصة.",
+        "context": "وصف محتوى شخصي لا يرغب المتكلم في إتاحته للآخرين."
+      },
+      {
+        "id": 2,
+        "en": "The hospital has private rooms.",
+        "ar": "المستشفى لديه غرف خاصة.",
+        "context": "وصف غرف مخصصة لاستخدام فردي أو غير مشترك بحسب ترتيب المرفق."
+      },
+      {
+        "id": 3,
+        "en": "The editor kept the conversation private.",
+        "ar": "المحرر أبقى المحادثة خاصة.",
+        "context": "وصف عدم إتاحة سابق لمضمون حديث إلى غير المشاركين فيه."
+      },
+      {
+        "id": 4,
+        "en": "We have arranged a private tour of the gallery.",
+        "ar": "نحن قد رتبنا جولة خاصة في المعرض.",
+        "context": "الإبلاغ عن تنظيم مكتمل لزيارة مخصصة للمجموعة بدل جولة عامة."
+      },
+      {
+        "id": 5,
+        "en": "The students are taking private lessons.",
+        "ar": "الطلاب يتلقون دروسًا خاصة.",
+        "context": "وصف تعلم جارٍ ضمن ترتيب تعليمي مخصص خارج الدروس العامة."
+      },
+      {
+        "id": 6,
+        "en": "The new building will have a private entrance.",
+        "ar": "المبنى الجديد سيكون له مدخل خاص.",
+        "context": "توقع فتحة دخول مخصصة لمستخدمين بعينهم."
+      },
+      {
+        "id": 7,
+        "en": "The company protects private information.",
+        "ar": "الشركة تحمي المعلومات الخاصة.",
+        "context": "وصف الحفاظ على بيانات شخصية من الاطلاع غير المصرح به."
+      },
+      {
+        "id": 8,
+        "en": "The collection belonged to a private owner.",
+        "ar": "المجموعة كانت ملكًا لمالك خاص.",
+        "context": "وصف ملكية سابقة لمقتنيات لدى فرد أو جهة غير عامة."
+      },
+      {
+        "id": 9,
+        "en": "The meeting is private.",
+        "ar": "الاجتماع خاص.",
+        "context": "وصف لقاء لا يفتح حضوره للجميع."
+      },
+      {
+        "id": 10,
+        "en": "The report compares public and private schools.",
+        "ar": "التقرير يقارن المدارس الحكومية والخاصة.",
+        "context": "وصف بحث في نوعين من المؤسسات التعليمية يختلفان في جهة الإدارة أو التمويل."
+      }
+    ]
+  }
+}

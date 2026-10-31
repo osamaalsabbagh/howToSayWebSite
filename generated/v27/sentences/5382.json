@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 1,
+  "id": 5382,
+  "sentence": {
+    "en": "She claims that the painting is hers.",
+    "ar": "هي تدعي أن اللوحة لها.",
+    "context": "نقل قول امرأة تؤكد ملكيتها للوحة من دون الجزم بصحة قولها.",
+    "sourceWord": "claim",
+    "sourcePos": "v."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "She claims",
+        "ar": "هي تدعي",
+        "context": "وصف امرأة تؤكد قولًا لم تُحسم صحته.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "تصف العبارة قولًا أو موقفًا قائمًا لدى المرأة."
+        },
+        "wordMeanings": [
+          {
+            "term": "She",
+            "description": "هي؛ ضمير يشير إلى امرأة أو فتاة"
+          },
+          {
+            "term": "claims",
+            "description": "تدعي؛ تؤكد أمرًا دون الجزم بصحته من جانب ناقل القول"
+          }
+        ]
+      },
+      {
+        "sentence": "that the painting is hers.",
+        "ar": "أن اللوحة لها.",
+        "context": "بيان أن مضمون القول يتعلق بملكية لوحة لامرأة.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "تصف الجملة التابعة ملكية مزعومة قائمة للوحة باستعمال فعل الربط is."
+        },
+        "wordMeanings": [
+          {
+            "term": "that",
+            "description": "أن؛ تربط مضمون الادعاء بقول المرأة"
+          },
+          {
+            "term": "the",
+            "description": "الـ؛ تحدد اللوحة المقصودة"
+          },
+          {
+            "term": "painting",
+            "description": "لوحة؛ عمل فني مرسوم"
+          },
+          {
+            "term": "is",
+            "description": "تكون؛ فعل ربط يقرر العلاقة بين اللوحة وملكية المرأة هنا"
+          },
+          {
+            "term": "hers",
+            "description": "ملك لها؛ تدل على أن اللوحة تخص المرأة"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "She claims that the painting is hers.",
+        "ar": "هي تدعي أن اللوحة لها.",
+        "context": "نقل قول امرأة تؤكد ملكيتها للوحة من دون الجزم بصحة قولها."
+      },
+      {
+        "id": 2,
+        "en": "The travelers claimed their luggage at the desk.",
+        "ar": "المسافرون تسلموا أمتعتهم عند المكتب.",
+        "context": "وصف استرداد سابق لأغراض يملكها أصحابها."
+      },
+      {
+        "id": 3,
+        "en": "Please claim your refund before Friday.",
+        "ar": "من فضلك طالب باسترداد مالك قبل الجمعة.",
+        "context": "طلب التقدم للحصول على مبلغ مستحق خلال مهلة."
+      },
+      {
+        "id": 4,
+        "en": "We have claimed the prize.",
+        "ar": "نحن قد تسلمنا الجائزة.",
+        "context": "الإبلاغ عن أخذ مكافأة مستحقة بعد الفوز بها."
+      },
+      {
+        "id": 5,
+        "en": "The charity run claims a place in the town's annual calendar.",
+        "ar": "سباق الجري الخيري يحتل مكانًا في التقويم السنوي للبلدة.",
+        "context": "وصف حصول مناسبة على موقع معروف بين الأنشطة المتكررة."
+      },
+      {
+        "id": 6,
+        "en": "The storm claimed three lives.",
+        "ar": "العاصفة أودت بحياة ثلاثة أشخاص.",
+        "context": "وصف وفاة سابقة لأشخاص بسبب طقس شديد."
+      },
+      {
+        "id": 7,
+        "en": "The researchers are claiming a major breakthrough.",
+        "ar": "الباحثون يعلنون تحقيق تقدم كبير.",
+        "context": "وصف تأكيد جارٍ لإنجاز علمي لم يجزم ناقل الخبر بصحته."
+      },
+      {
+        "id": 8,
+        "en": "The winner will claim the final seat on the team.",
+        "ar": "الفائز سيحصل على المقعد الأخير في الفريق.",
+        "context": "وصف نيل مرتقب لمكان متاح من خلال منافسة."
+      },
+      {
+        "id": 9,
+        "en": "He claimed responsibility for the mistake.",
+        "ar": "هو أعلن مسؤوليته عن الخطأ.",
+        "context": "وصف إقرار سابق بأن هفوة تعود إلى صاحب القول."
+      },
+      {
+        "id": 10,
+        "en": "The museum claims ownership of the manuscript.",
+        "ar": "المتحف يدعي ملكية المخطوطة.",
+        "context": "وصف تأكيد جهة أن وثيقة قديمة تخصها دون حسم صحة الملكية."
+      }
+    ]
+  }
+}

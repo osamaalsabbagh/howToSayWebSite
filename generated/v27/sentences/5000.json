@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 1,
+  "id": 5000,
+  "sentence": {
+    "en": "Text me after work.",
+    "ar": "أرسل إليّ رسالة نصية بعد العمل.",
+    "context": "طلب تواصل كتابي عبر الهاتف بعد انتهاء الدوام.",
+    "sourceWord": "text",
+    "sourcePos": "v."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Text me after work.",
+        "ar": "أرسل إليّ رسالة نصية بعد العمل.",
+        "context": "طلب تواصل كتابي عبر الهاتف بعد انتهاء الدوام.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "جملة أمر لا فاعل ظاهر لها، فيبدأ الفعل بصيغته الأساسية ويوجه الطلب مباشرة إلى المخاطب، ولذلك لا يحمل التركيب زمنًا مستقلًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "Text",
+            "description": "اطلب من المخاطب أن يبعث رسالة نصية قصيرة عبر الهاتف"
+          },
+          {
+            "term": "me",
+            "description": "ضمير المتكلم في موضع المفعول به"
+          },
+          {
+            "term": "after",
+            "description": "بعد، تدل على وقت لاحق لشيء آخر"
+          },
+          {
+            "term": "work",
+            "description": "ساعات الدوام والعمل"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Text me after work.",
+        "ar": "أرسل إليّ رسالة نصية بعد العمل.",
+        "context": "طلب تواصل كتابي عبر الهاتف بعد انتهاء الدوام."
+      },
+      {
+        "id": 2,
+        "en": "The plumber texted a photograph of the finished repair.",
+        "ar": "السباك أرسل صورة للإصلاح المنجز برسالة هاتفية.",
+        "context": "رواية عن توثيق اكتمال عمل ومشاركته."
+      },
+      {
+        "id": 3,
+        "en": "Please text your preferred day so we can arrange the visit.",
+        "ar": "من فضلك أرسل اليوم الذي تفضله برسالة نصية حتى نتمكن نحن من ترتيب الزيارة.",
+        "context": "طلب تفضيل زمني لتنسيق موعد."
+      },
+      {
+        "id": 4,
+        "en": "She is texting a warning about the closed road to the other drivers.",
+        "ar": "هي ترسل تحذيرًا برسالة نصية بشأن الطريق المغلق إلى السائقين الآخرين.",
+        "context": "وصف مشاركة جارية لمعلومة تعوق التنقل."
+      },
+      {
+        "id": 5,
+        "en": "He texts his neighbours before starting noisy work.",
+        "ar": "هو يرسل رسائل نصية إلى جيرانه قبل بدء عمل صاخب.",
+        "context": "وصف إخطار معتاد لمن قد يتأثرون بضوضاء."
+      },
+      {
+        "id": 6,
+        "en": "The theatre will text a reminder to bring proof of the discount.",
+        "ar": "المسرح سيرسل تذكيرًا برسالة نصية بإحضار ما يثبت استحقاق الخصم.",
+        "context": "توقع تنبيه بمستند مطلوب للدخول بسعر مخفض."
+      },
+      {
+        "id": 7,
+        "en": "I have texted the corrected date to everyone who received the invitation.",
+        "ar": "أنا قد أرسلت التاريخ المصحح برسالة نصية إلى كل من تلقى الدعوة.",
+        "context": "الإبلاغ عن إخطار الحاضرين بتصحيح موعد."
+      },
+      {
+        "id": 8,
+        "en": "They texted during the interval to arrange a meeting outside.",
+        "ar": "هم تراسلوا نصيًا أثناء الاستراحة لترتيب لقاء في الخارج.",
+        "context": "رواية عن تنسيق لقاء خلال توقف بين أجزاء عرض."
+      },
+      {
+        "id": 9,
+        "en": "The coordinator texts a weather update before each outdoor session.",
+        "ar": "المنسق يرسل تحديثًا عن الطقس برسالة نصية قبل كل جلسة خارجية.",
+        "context": "وصف إجراء متكرر يساعد المشاركين على الاستعداد."
+      },
+      {
+        "id": 10,
+        "en": "We are texting questions to the live discussion panel.",
+        "ar": "نحن نرسل أسئلة برسائل نصية إلى لجنة النقاش المباشر.",
+        "context": "وصف مشاركة جارية في حوار بإرسال نصوص من هواتف."
+      }
+    ]
+  }
+}

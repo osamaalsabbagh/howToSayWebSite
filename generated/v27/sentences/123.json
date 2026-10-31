@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "id": 123,
+  "sentence": {
+    "en": "That is not fair.",
+    "ar": "ذلك ليس عادلًا.",
+    "context": "اشتكِ من الظلم."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "That is not fair.",
+        "ar": "ذلك ليس عادلًا.",
+        "context": "تُستخدم الجملة للاعتراض على موقف يبدو غير عادل.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "تستخدم is not مع صفة للتعبير عن حكم حالي على موقف بأنه غير عادل."
+        },
+        "wordMeanings": [
+          {
+            "term": "That",
+            "description": "ذلك الشيء أو الموقف الذي تشير إليه."
+          },
+          {
+            "term": "is",
+            "description": "صيغة تأتي مع المفرد وتربط الشيء بوصفه أو حكمك عليه."
+          },
+          {
+            "term": "not",
+            "description": "كلمة نفي تجعل المعنى ليس."
+          },
+          {
+            "term": "fair",
+            "description": "عادل أو منصف."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "That is not fair.",
+        "ar": "ذلك ليس عادلًا.",
+        "context": "تقال عند الاعتراض على موقف ظالم."
+      },
+      {
+        "id": 2,
+        "en": "That rule is not fair.",
+        "ar": "تلك القاعدة ليست عادلة.",
+        "context": "تقال عند الاعتراض على قاعدة ظالمة."
+      },
+      {
+        "id": 3,
+        "en": "The price is not fair.",
+        "ar": "السعر ليس عادلًا.",
+        "context": "تقال عند الشعور أن السعر مبالغ فيه."
+      },
+      {
+        "id": 4,
+        "en": "It is not fair to blame her.",
+        "ar": "ليس عادلًا أن تلومها.",
+        "context": "تقال عند الدفاع عن شخص لا يستحق اللوم."
+      },
+      {
+        "id": 5,
+        "en": "Giving both prizes to one person is not fair.",
+        "ar": "منح الجائزتين لشخص واحد ليس عادلًا.",
+        "context": "الاعتراض على منح شخص واحد جائزتين باعتبار ذلك غير منصف."
+      },
+      {
+        "id": 6,
+        "en": "The game is not fair.",
+        "ar": "اللعبة ليست عادلة.",
+        "context": "تقال عندما تكون شروط اللعب غير متساوية."
+      },
+      {
+        "id": 7,
+        "en": "That answer is not fair.",
+        "ar": "تلك الإجابة ليست عادلة.",
+        "context": "تقال عند رفض رد غير منصف."
+      },
+      {
+        "id": 8,
+        "en": "It is not fair for the children.",
+        "ar": "إنه ليس عادلًا للأطفال.",
+        "context": "تقال عند تأثر الأطفال بقرار غير منصف."
+      },
+      {
+        "id": 9,
+        "en": "The test was not fair.",
+        "ar": "الاختبار لم يكن عادلًا.",
+        "context": "تقال بعد اختبار كان غير مناسب أو غير متوازن."
+      },
+      {
+        "id": 10,
+        "en": "That is not fair to anyone.",
+        "ar": "ذلك ليس عادلًا لأي شخص.",
+        "context": "تقال عند رفض موقف يضر الجميع."
+      }
+    ]
+  }
+}

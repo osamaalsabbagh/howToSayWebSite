@@ -1,0 +1,109 @@
+{
+  "schemaVersion": 1,
+  "id": 6171,
+  "sentence": {
+    "en": "The company rejected my application.",
+    "ar": "الشركة رفضت طلبي.",
+    "context": "رواية عن قرار شركة بعدم قبول طلب قدمه المتكلم.",
+    "sourceWord": "reject",
+    "sourcePos": "v."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "The company rejected my application.",
+        "ar": "الشركة رفضت طلبي.",
+        "context": "رواية عن قرار شركة بعدم قبول طلب قدمه المتكلم.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "الماضي البسيط يصف حدثًا انتهى. الفعل أكثر رسمية من الفعل الشائع للرفض."
+        },
+        "wordMeanings": [
+          {
+            "term": "The",
+            "description": "أداة تعريف تشير إلى شركة معروفة."
+          },
+          {
+            "term": "company",
+            "description": "شركة."
+          },
+          {
+            "term": "rejected",
+            "description": "رفضت؛ لم تقبل رسميًا."
+          },
+          {
+            "term": "my",
+            "description": "ضمير ملكية للمتكلم."
+          },
+          {
+            "term": "application",
+            "description": "طلب؛ تقديم رسمي لجهة كي تنظر فيه."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "The company rejected my application.",
+        "ar": "الشركة رفضت طلبي.",
+        "context": "رواية عن قرار شركة بعدم قبول طلب قدمه المتكلم."
+      },
+      {
+        "id": 2,
+        "en": "The faulty parts will be rejected during inspection.",
+        "ar": "القطع المعيبة ستُرفض أثناء الفحص.",
+        "context": "توقع استبعاد أجزاء غير سليمة عند التحقق من جودتها."
+      },
+      {
+        "id": 3,
+        "en": "The committee rejects proposals without evidence.",
+        "ar": "اللجنة ترفض الاقتراحات التي تفتقر إلى أدلة.",
+        "context": "وصف معيار يستبعد أفكارًا غير مدعومة بمعلومات كافية."
+      },
+      {
+        "id": 4,
+        "en": "The child rejected the unfamiliar food.",
+        "ar": "الطفل رفض الطعام غير المألوف.",
+        "context": "وصف امتناع سابق عن قبول طعام لم يعتده طفل."
+      },
+      {
+        "id": 5,
+        "en": "We have rejected the first version of the design.",
+        "ar": "نحن قد رفضنا النسخة الأولى من التصميم.",
+        "context": "الإبلاغ عن قرار مكتمل بعدم اعتماد صيغة أولية لعمل."
+      },
+      {
+        "id": 6,
+        "en": "The editor is rejecting repeated entries.",
+        "ar": "المحرر يستبعد المدخلات المكررة.",
+        "context": "وصف إزالة جارية لعناصر تعيد محتوى موجودًا."
+      },
+      {
+        "id": 7,
+        "en": "The body can reject transplanted tissue.",
+        "ar": "الجسم قد يرفض النسيج المزروع.",
+        "context": "وصف إمكان استجابة مناعية ضد نسيج منقول إلى جسم."
+      },
+      {
+        "id": 8,
+        "en": "She felt rejected by the group.",
+        "ar": "هي شعرت بأن المجموعة رفضتها.",
+        "context": "وصف إحساس سابق بعدم القبول الاجتماعي."
+      },
+      {
+        "id": 9,
+        "en": "The study rejected the original hypothesis.",
+        "ar": "الدراسة رفضت الفرضية الأصلية.",
+        "context": "وصف نتيجة بحث سابقة لم تعتمد تفسيرًا مقترحًا أولًا."
+      },
+      {
+        "id": 10,
+        "en": "The software rejects an invalid password.",
+        "ar": "البرنامج يرفض كلمة مرور غير صالحة.",
+        "context": "وصف منع قبول بيانات لا تستوفي شرط الدخول."
+      }
+    ]
+  }
+}

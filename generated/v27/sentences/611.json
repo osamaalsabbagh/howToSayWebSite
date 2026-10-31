@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "id": 611,
+  "sentence": {
+    "en": "Who was your teacher?",
+    "ar": "من كان معلمك؟",
+    "context": "السؤال عن معلم سابق."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Who was your teacher?",
+        "ar": "من كان معلمك؟",
+        "context": "تستخدم للسؤال عن اسم أو هوية معلم في الماضي.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "السؤال عن علاقة أو دور كان موجوداً في فترة سابقة."
+        },
+        "wordMeanings": [
+          {
+            "term": "Who",
+            "description": "من، وتستخدم للسؤال عن شخص."
+          },
+          {
+            "term": "was",
+            "description": "كان، صيغة للماضي مع المفرد."
+          },
+          {
+            "term": "your",
+            "description": "الخاص بك أو التابع لك."
+          },
+          {
+            "term": "teacher",
+            "description": "معلم أو مدرس."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Who was your doctor?",
+        "ar": "من كان طبيبك؟",
+        "context": "تقال للسؤال عن طبيب سابق."
+      },
+      {
+        "id": 2,
+        "en": "Who was her teacher?",
+        "ar": "من كان معلمها؟",
+        "context": "تستخدم للسؤال عن معلم امرأة."
+      },
+      {
+        "id": 3,
+        "en": "My teacher was Mr. Smith.",
+        "ar": "كان معلمي السيد سميث.",
+        "context": "تقال للإجابة عن هوية معلم سابق."
+      },
+      {
+        "id": 4,
+        "en": "Who was your first teacher?",
+        "ar": "من كان معلمك الأول؟",
+        "context": "تستخدم للسؤال عن أول معلم."
+      },
+      {
+        "id": 5,
+        "en": "She was my teacher.",
+        "ar": "كانت معلمتي.",
+        "context": "تقال لتحديد دور امرأة في الماضي."
+      },
+      {
+        "id": 6,
+        "en": "Who was your manager?",
+        "ar": "من كان مديرك؟",
+        "context": "تستخدم للسؤال عن مدير سابق."
+      },
+      {
+        "id": 7,
+        "en": "Who was the teacher yesterday?",
+        "ar": "من كان المعلم أمس؟",
+        "context": "تقال للسؤال عن شخص في وقت ماض محدد."
+      },
+      {
+        "id": 8,
+        "en": "My father was my teacher.",
+        "ar": "كان والدي معلمي.",
+        "context": "تستخدم عند ذكر دور الأب في التعليم."
+      },
+      {
+        "id": 9,
+        "en": "Who was your English teacher?",
+        "ar": "من كان معلم الإنجليزية الخاص بك؟",
+        "context": "تقال للسؤال عن معلم مادة محددة."
+      },
+      {
+        "id": 10,
+        "en": "He was our teacher in school.",
+        "ar": "كان معلمنا في المدرسة.",
+        "context": "تستخدم عند الحديث عن معلم سابق."
+      }
+    ]
+  }
+}

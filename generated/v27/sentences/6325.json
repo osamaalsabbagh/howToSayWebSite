@@ -1,0 +1,133 @@
+{
+  "schemaVersion": 1,
+  "id": 6325,
+  "sentence": {
+    "en": "Prices rose in May. Similarly, rents went up.",
+    "ar": "الأسعار ارتفعت في مايو. وبالمثل، الإيجارات ارتفعت.",
+    "context": "وصف ارتفاع سابق في الأسعار ثم ربطه بارتفاع مماثل في الإيجارات.",
+    "sourceWord": "similarly",
+    "sourcePos": "adv."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Prices rose in May.",
+        "ar": "الأسعار ارتفعت في مايو.",
+        "context": "وصف ارتفاع سابق للأسعار خلال شهر مايو.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "الماضي البسيط يصف حدثًا انتهى."
+        },
+        "wordMeanings": [
+          {
+            "term": "Prices",
+            "description": "الأسعار."
+          },
+          {
+            "term": "rose",
+            "description": "ارتفعت؛ صيغة الماضي غير المنتظمة."
+          },
+          {
+            "term": "in",
+            "description": "في."
+          },
+          {
+            "term": "May",
+            "description": "مايو."
+          }
+        ]
+      },
+      {
+        "sentence": "Similarly, rents went up.",
+        "ar": "وبالمثل، الإيجارات ارتفعت.",
+        "context": "إضافة ارتفاع سابق في الإيجارات بوصفه اتجاهًا مماثلًا.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "تصف went up ارتفاعًا سابقًا في الإيجارات. تربط Similarly هذا الاتجاه بارتفاع الأسعار المذكور قبله."
+        },
+        "wordMeanings": [
+          {
+            "term": "Similarly",
+            "description": "وبالمثل؛ بالطريقة نفسها."
+          },
+          {
+            "term": "rents",
+            "description": "الإيجارات."
+          },
+          {
+            "term": "went",
+            "description": "ذهبت؛ مع الكلمة التالية تعني ارتفعت."
+          },
+          {
+            "term": "up",
+            "description": "إلى أعلى."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Prices rose in May. Similarly, rents went up.",
+        "ar": "الأسعار ارتفعت في مايو. وبالمثل، الإيجارات ارتفعت.",
+        "context": "وصف ارتفاع سابق في الأسعار ثم ربطه بارتفاع مماثل في الإيجارات."
+      },
+      {
+        "id": 2,
+        "en": "The two machines work similarly.",
+        "ar": "الآلتان تعملان بطريقة متشابهة.",
+        "context": "وصف تقارب في طريقة تشغيل آلتين أو أدائهما."
+      },
+      {
+        "id": 3,
+        "en": "She responded similarly to both proposals.",
+        "ar": "هي استجابت بصورة متشابهة للاقتراحين.",
+        "context": "وصف ردين سابقين متقاربين على فكرتين."
+      },
+      {
+        "id": 4,
+        "en": "We have arranged the rooms similarly.",
+        "ar": "نحن قد رتبنا الغرف بصورة متشابهة.",
+        "context": "الإبلاغ عن تنظيم مكتمل يتكرر نمطه في عدة غرف."
+      },
+      {
+        "id": 5,
+        "en": "The team is testing similarly sized samples.",
+        "ar": "الفريق يختبر عينات متقاربة الحجم.",
+        "context": "وصف فحص جارٍ لعينات تتقارب أبعادها."
+      },
+      {
+        "id": 6,
+        "en": "The second group will be treated similarly.",
+        "ar": "المجموعة الثانية ستُعامل بطريقة مماثلة.",
+        "context": "توقع معاملة جماعة على نحو يشبه معاملة جماعة أخرى."
+      },
+      {
+        "id": 7,
+        "en": "Similarly named files caused confusion.",
+        "ar": "ملفات متشابهة الأسماء سببت ارتباكًا.",
+        "context": "وصف مشكلة سابقة نتجت عن تقارب أسماء ملفات."
+      },
+      {
+        "id": 8,
+        "en": "The report compares similarly priced hotels.",
+        "ar": "التقرير يقارن فنادق متقاربة الأسعار.",
+        "context": "وصف مقارنة لأماكن إقامة تتشابه تكلفتها."
+      },
+      {
+        "id": 9,
+        "en": "The first attempt failed. Similarly, the second produced no result.",
+        "ar": "المحاولة الأولى فشلت. وبالمثل، الثانية لم تنتج أي نتيجة.",
+        "context": "ربط نتيجتين سابقتين متقاربتين في عدم النجاح."
+      },
+      {
+        "id": 10,
+        "en": "The two fabrics feel similarly soft.",
+        "ar": "القماشان يبدوان متقاربين في النعومة عند اللمس.",
+        "context": "وصف تشابه ملمس مادتي نسيج."
+      }
+    ]
+  }
+}

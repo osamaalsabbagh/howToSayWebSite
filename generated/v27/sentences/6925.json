@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 1,
+  "id": 6925,
+  "sentence": {
+    "en": "My computer crashed while I was working.",
+    "ar": "حاسوبي تعطل بينما أنا كنت أعمل.",
+    "context": "وصف توقف حاسوبي مفاجئ في أثناء عمل جارٍ سابق دون تحديد نوع المهمة أو أهمية الملف.",
+    "sourceWord": "crash",
+    "sourcePos": "v."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "My computer crashed",
+        "ar": "حاسوبي تعطل",
+        "context": "وصف تعطل سابق مفاجئ لحاسوب المتكلم.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "الماضي البسيط يصف حدثًا مفاجئًا. الفعل يعني توقف فجأة أو اصطدم."
+        },
+        "wordMeanings": [
+          {
+            "term": "My",
+            "description": "ضمير ملكية للمتكلم."
+          },
+          {
+            "term": "computer",
+            "description": "حاسوبي."
+          },
+          {
+            "term": "crashed",
+            "description": "تعطل."
+          }
+        ]
+      },
+      {
+        "sentence": "while I was working.",
+        "ar": "بينما أنا كنت أعمل.",
+        "context": "تحديد عمل كان جاريًا وقت التعطل.",
+        "grammar": {
+          "tense": "الماضي المستمر",
+          "tenseEn": "Past Continuous",
+          "reason": "الماضي المستمر يصف فعلًا كان مستمرًا وقت الحدث."
+        },
+        "wordMeanings": [
+          {
+            "term": "while",
+            "description": "بينما."
+          },
+          {
+            "term": "I",
+            "description": "أنا."
+          },
+          {
+            "term": "was",
+            "description": "مساعد الماضي المستمر."
+          },
+          {
+            "term": "working",
+            "description": "أعمل."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "My computer crashed while I was working.",
+        "ar": "حاسوبي تعطل بينما أنا كنت أعمل.",
+        "context": "وصف توقف حاسوبي مفاجئ في أثناء عمل جارٍ سابق دون تحديد نوع المهمة أو أهمية الملف."
+      },
+      {
+        "id": 2,
+        "en": "The vase crashed to the floor.",
+        "ar": "المزهرية سقطت مرتطمة بالأرضية.",
+        "context": "وصف سقوط سابق بقوة أو صوت عالٍ."
+      },
+      {
+        "id": 3,
+        "en": "We have crashed the test program twice.",
+        "ar": "نحن قد تسببنا في تعطل البرنامج التجريبي مرتين.",
+        "context": "الإبلاغ عن توقفين مكتملين خلال اختبار برمجي."
+      },
+      {
+        "id": 4,
+        "en": "The actors are crashing through the door in the scene.",
+        "ar": "الممثلون يندفعون بقوة عبر الباب في المشهد.",
+        "context": "وصف حركة جارية صاخبة ضمن أداء قصصي."
+      },
+      {
+        "id": 5,
+        "en": "The old system will crash under that load in the simulation.",
+        "ar": "النظام القديم سيتعطل تحت ذلك الحمل في المحاكاة.",
+        "context": "توقع فشل تقني ضمن نموذج تجريبي."
+      },
+      {
+        "id": 6,
+        "en": "Please save your work before the application crashes.",
+        "ar": "من فضلك احفظ عملك قبل تعطل التطبيق.",
+        "context": "طلب الاحتفاظ ببيانات قبل توقف محتمل في البرنامج المعني."
+      },
+      {
+        "id": 7,
+        "en": "The car crashed into a barrier.",
+        "ar": "السيارة اصطدمت بحاجز.",
+        "context": "وصف اصطدام سابق بجسم يعترض طريقًا."
+      },
+      {
+        "id": 8,
+        "en": "The character crashed on the sofa after the journey.",
+        "ar": "الشخصية ارتمت على الأريكة بعد الرحلة.",
+        "context": "وصف غير رسمي سابق لراحة أو نوم من شدة التعب في قصة."
+      },
+      {
+        "id": 9,
+        "en": "The branches crashed together in the wind.",
+        "ar": "الأغصان اصطدمت بعضها ببعض في الريح.",
+        "context": "وصف حركة سابقة لأجزاء نباتية أحدثت صوتًا."
+      },
+      {
+        "id": 10,
+        "en": "The waves crash against the rocks.",
+        "ar": "الأمواج ترتطم بالصخور.",
+        "context": "وصف حركة ماء متكررة قوية مع صوت."
+      }
+    ]
+  }
+}

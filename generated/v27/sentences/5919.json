@@ -1,0 +1,133 @@
+{
+  "schemaVersion": 1,
+  "id": 5919,
+  "sentence": {
+    "en": "Please note that the office closes at five.",
+    "ar": "من فضلك لاحظ أن المكتب يغلق في الخامسة.",
+    "context": "تنبيه مهذب إلى أخذ موعد إغلاق مكتب في الحسبان.",
+    "sourceWord": "note",
+    "sourcePos": "v."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Please note",
+        "ar": "من فضلك لاحظ",
+        "context": "طلب مهذب للانتباه إلى معلومة.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "صيغة أمر مهذبة بلا زمن مستقل، وتكثر في الإعلانات والرسائل الرسمية."
+        },
+        "wordMeanings": [
+          {
+            "term": "Please",
+            "description": "من فضلك؛ كلمة تجعل الطلب مهذبًا."
+          },
+          {
+            "term": "note",
+            "description": "لاحظ؛ انتبه إلى المعلومة وخذها في الحسبان."
+          }
+        ]
+      },
+      {
+        "sentence": "that the office closes at five.",
+        "ar": "أن المكتب يغلق في الخامسة.",
+        "context": "تحديد موعد يغلق فيه المكتب بانتظام.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "تصف closes موعد إغلاق منتظمًا ضمن جدول، ويضاف s مع الفاعل المفرد office."
+        },
+        "wordMeanings": [
+          {
+            "term": "that",
+            "description": "أنّ؛ أداة تربط الفعل بالمعلومة بعده."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف تشير إلى مكتب معروف."
+          },
+          {
+            "term": "office",
+            "description": "مكتب."
+          },
+          {
+            "term": "closes",
+            "description": "يغلق؛ ينهي العمل ويقفل أبوابه."
+          },
+          {
+            "term": "at",
+            "description": "في؛ تدل على وقت محدد."
+          },
+          {
+            "term": "five",
+            "description": "الخامسة؛ الساعة الخامسة."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Please note that the office closes at five.",
+        "ar": "من فضلك لاحظ أن المكتب يغلق في الخامسة.",
+        "context": "تنبيه مهذب إلى أخذ موعد إغلاق مكتب في الحسبان."
+      },
+      {
+        "id": 2,
+        "en": "She noted the names of the volunteers who stayed to help.",
+        "ar": "هي دوّنت أسماء المتطوعين الذين بقوا للمساعدة.",
+        "context": "رواية عن تسجيل مشاركة أشخاص في عمل إضافي."
+      },
+      {
+        "id": 3,
+        "en": "The researchers have noted a steady rise in visits to the archive.",
+        "ar": "الباحثون قد لاحظوا ارتفاعًا مستمرًا في زيارات الأرشيف.",
+        "context": "الإبلاغ عن رصد تغير في بيانات حضور عبر مدة."
+      },
+      {
+        "id": 4,
+        "en": "The reviewer notes a contrast between the two characters.",
+        "ar": "المراجع يلاحظ تباينًا بين الشخصيتين.",
+        "context": "وصف إبراز فرق بين شخصيتين في تحليل عمل."
+      },
+      {
+        "id": 5,
+        "en": "We are noting every suggestion from the audience.",
+        "ar": "نحن ندون كل اقتراح من الجمهور.",
+        "context": "وصف تسجيل جارٍ لأفكار يقدمها الحاضرون."
+      },
+      {
+        "id": 6,
+        "en": "The report will note the limitations of the study.",
+        "ar": "التقرير سيذكر حدود الدراسة.",
+        "context": "توقع الإشارة إلى ما لا يستطيع بحث تناوله أو إثباته."
+      },
+      {
+        "id": 7,
+        "en": "Please note the emergency exits before the performance.",
+        "ar": "من فضلك انتبه إلى مخارج الطوارئ قبل العرض.",
+        "context": "طلب ملاحظة مواضع الخروج المخصصة للحالات الطارئة قبل بدء عرض."
+      },
+      {
+        "id": 8,
+        "en": "The guide noted that the building had once been a school.",
+        "ar": "الدليل أشار إلى أن المبنى كان مدرسة في السابق.",
+        "context": "وصف ذكر سابق لمعلومة عن استعمال أقدم لمبنى."
+      },
+      {
+        "id": 9,
+        "en": "The editor has noted several spelling errors.",
+        "ar": "المحرر قد لاحظ أخطاء إملائية عدة.",
+        "context": "الإبلاغ عن رصد مكتمل لمواضع كتابة غير صحيحة."
+      },
+      {
+        "id": 10,
+        "en": "The clerk noted down the delivery address.",
+        "ar": "الموظف دوّن عنوان التسليم.",
+        "context": "وصف تسجيل سابق لمكان يجب إيصال شيء إليه."
+      }
+    ]
+  }
+}

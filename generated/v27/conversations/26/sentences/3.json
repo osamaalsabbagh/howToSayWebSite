@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "id": 3,
+  "sentence": {
+    "en": "It is not very big, just the right size for me.",
+    "ar": "ليست كبيرة جدًا، فقط بالحجم المناسب لي.",
+    "context": "يوضح أن حجمها متوسط ومناسب."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "It is not very big",
+        "ar": "ليست كبيرة جدًا",
+        "context": "ينفي أن الدراجة كبيرة بدرجة زائدة.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "is not يصف صفة حالية منفية للدراجة."
+        },
+        "wordMeanings": [
+          {
+            "term": "It",
+            "description": "تشير إلى الدراجة"
+          },
+          {
+            "term": "is",
+            "description": "يربط الشيء بوصفه"
+          },
+          {
+            "term": "not",
+            "description": "تنفي الوصف"
+          },
+          {
+            "term": "very",
+            "description": "جدًا، وتزيد قوة الصفة"
+          },
+          {
+            "term": "big",
+            "description": "كبيرة الحجم"
+          }
+        ]
+      },
+      {
+        "sentence": "just the right size for me.",
+        "ar": "فقط بالحجم المناسب لي.",
+        "context": "توضح أن حجم الدراجة ملائم لاحتياج المتكلم.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذا جزء وصفي مختصر بلا فعل ظاهر مستقل."
+        },
+        "wordMeanings": [
+          {
+            "term": "just",
+            "description": "تمامًا أو فقط"
+          },
+          {
+            "term": "the",
+            "description": "تحدد الحجم المناسب تحديدًا"
+          },
+          {
+            "term": "right",
+            "description": "مناسب أو صحيح"
+          },
+          {
+            "term": "size",
+            "description": "حجم"
+          },
+          {
+            "term": "for",
+            "description": "لـ أو مناسب لشخص"
+          },
+          {
+            "term": "me",
+            "description": "لي أو بالنسبة إلي"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "It is not very heavy, just the right weight for me.",
+        "ar": "ليس ثقيلًا جدًا، فقط بالوزن المناسب لي.",
+        "context": "تقال عند وصف شيء يسهل حمله."
+      },
+      {
+        "id": 2,
+        "en": "It is not very small, just the right size.",
+        "ar": "ليس صغيرًا جدًا، فقط بالحجم المناسب.",
+        "context": "تقال عند وصف حجم متوازن."
+      },
+      {
+        "id": 3,
+        "en": "This bag is the right size for me.",
+        "ar": "هذه الحقيبة بالحجم المناسب لي.",
+        "context": "تقال عند اختيار حقيبة مناسبة."
+      },
+      {
+        "id": 4,
+        "en": "The bicycle is not very big.",
+        "ar": "الدراجة ليست كبيرة جدًا.",
+        "context": "تقال عند وصف حجم الدراجة."
+      },
+      {
+        "id": 5,
+        "en": "It is just the right color for me.",
+        "ar": "إنه باللون المناسب تمامًا لي.",
+        "context": "تقال عند الإعجاب بلون شيء."
+      },
+      {
+        "id": 6,
+        "en": "This chair is just the right height.",
+        "ar": "هذا الكرسي بالارتفاع المناسب تمامًا.",
+        "context": "تقال عند وصف كرسي مريح."
+      },
+      {
+        "id": 7,
+        "en": "It is not very expensive.",
+        "ar": "ليس غاليًا جدًا.",
+        "context": "تقال عند وصف سعر معقول."
+      },
+      {
+        "id": 8,
+        "en": "The room is just the right size.",
+        "ar": "الغرفة بالحجم المناسب تمامًا.",
+        "context": "تقال عند وصف غرفة ملائمة."
+      },
+      {
+        "id": 9,
+        "en": "It is not very long, just right.",
+        "ar": "ليس طويلًا جدًا، إنه مناسب تمامًا.",
+        "context": "تقال عند وصف طول شيء."
+      },
+      {
+        "id": 10,
+        "en": "The seat is the right size for me.",
+        "ar": "المقعد بالحجم المناسب لي.",
+        "context": "تقال عند تجربة مقعد أو دراجة."
+      }
+    ]
+  }
+}

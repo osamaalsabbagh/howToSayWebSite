@@ -1,0 +1,159 @@
+{
+  "schemaVersion": 1,
+  "id": 484,
+  "sentence": {
+    "en": "There is a restaurant over there, but I do not think it is very good.",
+    "ar": "يوجد مطعم هناك، لكن لا أظن أنه جيد جدًا.",
+    "context": "المتحدث هنا إما أنه يشير إلى المكان بيده أو أنه يوحي بالإشارة له ذهنيًا"
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "There is a restaurant over there,",
+        "ar": "يوجد مطعم هناك،",
+        "context": "الجزء الأول يشير إلى وجود مطعم في مكان محدد بعيد نسبيًا.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "There is تستخدم للتعبير عن وجود شيء مفرد في الحاضر."
+        },
+        "wordMeanings": [
+          {
+            "term": "There",
+            "description": "تبدأ تعبيرًا عن وجود شيء."
+          },
+          {
+            "term": "is",
+            "description": "تستخدم مع شيء مفرد موجود."
+          },
+          {
+            "term": "a",
+            "description": "تدل على شيء واحد غير محدد."
+          },
+          {
+            "term": "restaurant",
+            "description": "مكان يقدم الطعام."
+          },
+          {
+            "term": "over",
+            "description": "جزء من تعبير يدل على مكان بعيد نسبيًا."
+          },
+          {
+            "term": "there",
+            "description": "تعني هناك وتشير إلى المكان المقصود."
+          }
+        ]
+      },
+      {
+        "sentence": "but I do not think it is very good.",
+        "ar": "لكن لا أظن أنه جيد جدًا.",
+        "context": "الجزء الثاني يضيف رأيًا سلبيًا أو متحفظًا عن المطعم.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "do not think ينفي الرأي في الحاضر، وis يصف جودة المطعم."
+        },
+        "wordMeanings": [
+          {
+            "term": "but",
+            "description": "تربط بين الوجود والرأي المخالف."
+          },
+          {
+            "term": "I",
+            "description": "تشير إلى المتكلم."
+          },
+          {
+            "term": "do",
+            "description": "تساعد في تكوين النفي."
+          },
+          {
+            "term": "not",
+            "description": "تنفي الفعل بعد do."
+          },
+          {
+            "term": "think",
+            "description": "تعني أظن أو أعتقد."
+          },
+          {
+            "term": "it",
+            "description": "تشير إلى المطعم."
+          },
+          {
+            "term": "is",
+            "description": "تعني يكون وتصف الحالة."
+          },
+          {
+            "term": "very",
+            "description": "تعني جدًا وتزيد قوة الوصف."
+          },
+          {
+            "term": "good",
+            "description": "تعني جيد."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "There is a cafe over there.",
+        "ar": "يوجد مقهى هناك.",
+        "context": "الإشارة إلى مكان بعيد قليلًا."
+      },
+      {
+        "id": 2,
+        "en": "I do not think it is good.",
+        "ar": "لا أظن أنه جيد.",
+        "context": "إبداء رأي سلبي."
+      },
+      {
+        "id": 3,
+        "en": "There is a hotel over there, but it is expensive.",
+        "ar": "يوجد فندق هناك، لكنه غال.",
+        "context": "ذكر مكان مع ملاحظة سلبية."
+      },
+      {
+        "id": 4,
+        "en": "There is a restaurant here.",
+        "ar": "يوجد مطعم هنا.",
+        "context": "الإشارة إلى وجود مطعم قريب."
+      },
+      {
+        "id": 5,
+        "en": "Do you think it is good?",
+        "ar": "هل تظن أنه جيد؟",
+        "context": "سؤال عن الرأي."
+      },
+      {
+        "id": 6,
+        "en": "I think the food is good.",
+        "ar": "أظن أن الطعام جيد.",
+        "context": "إبداء رأي إيجابي."
+      },
+      {
+        "id": 7,
+        "en": "There is a store over there.",
+        "ar": "يوجد متجر هناك.",
+        "context": "الإشارة إلى متجر بعيد."
+      },
+      {
+        "id": 8,
+        "en": "It is not very good.",
+        "ar": "إنه ليس جيدًا جدًا.",
+        "context": "تقييم متوسط أو سلبي."
+      },
+      {
+        "id": 9,
+        "en": "There is a table over there.",
+        "ar": "توجد طاولة هناك.",
+        "context": "الإشارة إلى مكان طاولة."
+      },
+      {
+        "id": 10,
+        "en": "I do not think this is the right place.",
+        "ar": "لا أظن أن هذا هو المكان الصحيح.",
+        "context": "التعبير عن شك في مكان."
+      }
+    ]
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "schemaVersion": 1,
+  "id": 3622,
+  "sentence": {
+    "en": "The baby is crying because he is hungry.",
+    "ar": "الرضيع يبكي لأنه جائع.",
+    "context": "طفل رضيع ذكر يبكي في هذه اللحظة لأنه يشعر بالجوع.",
+    "sourceWord": "cry",
+    "sourcePos": "v."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "The baby is crying",
+        "ar": "الرضيع يبكي",
+        "context": "وصف بكاء يحدث في لحظة الحديث.",
+        "grammar": {
+          "tense": "المضارع المستمر",
+          "tenseEn": "Present Continuous",
+          "reason": "المضارع المستمر يصف بكاء الرضيع الجاري الآن."
+        },
+        "wordMeanings": [
+          {
+            "term": "The",
+            "description": "أداة تعريف لرضيع محدد."
+          },
+          {
+            "term": "baby",
+            "description": "رضيع؛ طفل في مرحلة مبكرة جدًا من العمر."
+          },
+          {
+            "term": "is",
+            "description": "فعل مساعد مع المفرد لبناء المضارع المستمر."
+          },
+          {
+            "term": "crying",
+            "description": "يبكي؛ يذرف الدموع أو يصدر صوت بكاء."
+          }
+        ]
+      },
+      {
+        "sentence": "because he is hungry.",
+        "ar": "لأنه جائع.",
+        "context": "الجوع هو السبب المذكور للبكاء.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "المضارع البسيط بفعل الكينونة يصف حالة الجوع الحالية، وتسبقها أداة تبين السبب."
+        },
+        "wordMeanings": [
+          {
+            "term": "because",
+            "description": "لأن؛ تقدم سبب الحدث."
+          },
+          {
+            "term": "he",
+            "description": "هو؛ ضمير يعود على الرضيع."
+          },
+          {
+            "term": "is",
+            "description": "فعل ربط في المضارع يصل الفاعل بحالته."
+          },
+          {
+            "term": "hungry",
+            "description": "جائع؛ يشعر بحاجة إلى الطعام."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "The baby is crying because he is hungry.",
+        "ar": "الرضيع يبكي لأنه جائع.",
+        "context": "طفل رضيع ذكر يبكي في هذه اللحظة لأنه يشعر بالجوع."
+      },
+      {
+        "id": 2,
+        "en": "She cried with joy.",
+        "ar": "هي بكت من الفرح.",
+        "context": "رواية عن دموع سببها شعور بالسعادة."
+      },
+      {
+        "id": 3,
+        "en": "He cried for help.",
+        "ar": "هو صاح طلبًا للمساعدة.",
+        "context": "رواية عن إطلاق صوت عالٍ لطلب عون، لا مجرد ذرف دموع."
+      },
+      {
+        "id": 4,
+        "en": "The gulls cried above the harbor.",
+        "ar": "النوارس صاحت فوق الميناء.",
+        "context": "رواية عن أصوات طيور بحرية في الهواء فوق موضع رسو السفن."
+      },
+      {
+        "id": 5,
+        "en": "The baby cried itself to sleep.",
+        "ar": "الرضيع بكى حتى نام.",
+        "context": "رواية عن بكاء استمر إلى أن غلب النوم رضيعًا."
+      },
+      {
+        "id": 6,
+        "en": "The old playground cries out for repairs.",
+        "ar": "الملعب القديم في حاجة ماسة إلى إصلاحات.",
+        "context": "تعبير مجازي يبين وضوح الحاجة الشديدة إلى معالجة تلف في مكان للعب."
+      },
+      {
+        "id": 7,
+        "en": "Do not cry over spilled milk.",
+        "ar": "لا تبكِ على اللبن المسكوب.",
+        "context": "نصيحة مجازية بعدم الاستغراق في الأسف على أمر مضى ولا يمكن تداركه."
+      },
+      {
+        "id": 8,
+        "en": "The boy cried wolf.",
+        "ar": "الصبي أطلق إنذارًا كاذبًا.",
+        "context": "رواية عن إنذار بشأن خطر لم يكن حقيقيًا؛ التعبير مجازي."
+      },
+      {
+        "id": 9,
+        "en": "She cried her eyes out.",
+        "ar": "هي بكت بحرقة.",
+        "context": "تعبير مجازي عن بكاء شديد دون إصابة فعلية للعينين."
+      },
+      {
+        "id": 10,
+        "en": "The fans cried out the singer's name.",
+        "ar": "المعجبون صاحوا باسم المغني.",
+        "context": "رواية عن جمهور نادى بصوت عالٍ باسم مؤدٍ غنائي."
+      }
+    ]
+  }
+}

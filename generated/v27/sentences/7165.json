@@ -1,0 +1,161 @@
+{
+  "schemaVersion": 1,
+  "id": 7165,
+  "sentence": {
+    "en": "It took me an hour to figure out how the machine works.",
+    "ar": "الأمر استغرق مني ساعة لفهم كيفية عمل الآلة.",
+    "context": "وصف مدة سابقة للتوصل إلى فهم تشغيل آلة دون تعيين نوعها أو سبب صعوبة فهمها.",
+    "sourceWord": "figure",
+    "sourcePos": "v."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "It took me an hour",
+        "ar": "الأمر استغرق مني ساعة",
+        "context": "تحديد مدة احتاج إليها المتكلم سابقًا.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "تصف took مدة استغرقها عمل سابق، وIt ضمير شكلي."
+        },
+        "wordMeanings": [
+          {
+            "term": "It",
+            "description": "الأمر؛ ضمير شكلي يقدم مدة العمل."
+          },
+          {
+            "term": "took",
+            "description": "استغرق."
+          },
+          {
+            "term": "me",
+            "description": "مني؛ ضمير يحدد من احتاج إلى الوقت."
+          },
+          {
+            "term": "an",
+            "description": "أداة تنكير قبل كلمة تبدأ بصوت حرف علة."
+          },
+          {
+            "term": "hour",
+            "description": "ساعة."
+          }
+        ]
+      },
+      {
+        "sentence": "to figure out",
+        "ar": "للتوصل إلى فهم",
+        "context": "تحديد العمل الذي استغرق الوقت بأنه الفهم بعد تفكير.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "عبارة to figure out مصدر يوضح العمل المقصود ولا يحمل زمنًا مستقلًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "to",
+            "description": "لـ؛ تقدم العمل الذي استغرق الوقت."
+          },
+          {
+            "term": "figure",
+            "description": "التوصل إلى فهم؛ مع out."
+          },
+          {
+            "term": "out",
+            "description": "تكمل التعبير figure out بمعنى فهم بعد تفكير."
+          }
+        ]
+      },
+      {
+        "sentence": "how the machine works.",
+        "ar": "كيفية عمل الآلة.",
+        "context": "تحديد طريقة تشغيل الآلة بوصفها ما فهمه المتكلم.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "تصف works طريقة عمل الآلة المعتادة، لا وقتًا مستقلًا لعملية figure out."
+        },
+        "wordMeanings": [
+          {
+            "term": "how",
+            "description": "كيف."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف تأتي مع الآلة."
+          },
+          {
+            "term": "machine",
+            "description": "الآلة."
+          },
+          {
+            "term": "works",
+            "description": "تعمل."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "It took me an hour to figure out how the machine works.",
+        "ar": "الأمر استغرق مني ساعة لفهم كيفية عمل الآلة.",
+        "context": "وصف مدة سابقة للتوصل إلى فهم تشغيل آلة دون تعيين نوعها أو سبب صعوبة فهمها."
+      },
+      {
+        "id": 2,
+        "en": "We finally figured out why the door would not close.",
+        "ar": "نحن توصلنا أخيرًا إلى فهم سبب تعذر إغلاق الباب.",
+        "context": "رواية عن اكتشاف سبب مشكلة إغلاق بعد تفكير أو فحص."
+      },
+      {
+        "id": 3,
+        "en": "Figure the tax into the total.",
+        "ar": "أدخل الضريبة في حساب المجموع.",
+        "context": "طلب احتساب الضريبة ضمن المبلغ الإجمالي."
+      },
+      {
+        "id": 4,
+        "en": "She figures on arriving before noon.",
+        "ar": "هي تتوقع الوصول قبل الظهر.",
+        "context": "وصف توقع حالي يتعلق بموعد الوصول."
+      },
+      {
+        "id": 5,
+        "en": "The missing letter figured largely in the investigation.",
+        "ar": "الرسالة المفقودة كان لها دور كبير في التحقيق.",
+        "context": "رواية عن دور مهم لرسالة مفقودة في بحث سابق عن الحقائق."
+      },
+      {
+        "id": 6,
+        "en": "I cannot figure him out.",
+        "ar": "أنا لا أستطيع فهمه.",
+        "context": "وصف صعوبة فهم تصرفات شخص أو طبيعته."
+      },
+      {
+        "id": 7,
+        "en": "The accountant figured the total at five hundred dollars.",
+        "ar": "المحاسب حسب المجموع فكان خمسمئة دولار.",
+        "context": "رواية عن حساب قيمة إجمالية وتحديد مقدارها."
+      },
+      {
+        "id": 8,
+        "en": "You can figure it out from the diagram.",
+        "ar": "أنت يمكنك التوصل إلى فهمه من الرسم التوضيحي.",
+        "context": "وصف إمكانية فهم أمر بالاستعانة بمخطط."
+      },
+      {
+        "id": 9,
+        "en": "I figured that the shop was closed.",
+        "ar": "أنا ظننت أن المتجر كان مغلقًا.",
+        "context": "رواية غير رسمية عن ظن سابق بشأن حالة متجر."
+      },
+      {
+        "id": 10,
+        "en": "The old bridge figures in many local stories.",
+        "ar": "الجسر القديم يرد بصورة بارزة في حكايات محلية كثيرة.",
+        "context": "وصف حضور مهم لمعلم قديم في حكايات المنطقة."
+      }
+    ]
+  }
+}

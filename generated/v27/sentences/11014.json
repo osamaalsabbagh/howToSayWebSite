@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": 11014,
+  "sentence": {
+    "en": "I have administered the medicine to the patient.",
+    "ar": "أنا قد أعطيت الدواء للمريض.",
+    "context": "أنت تصف إعطاء الدواء للمريض وقد تم ذلك وله صلة بوضعه الآن.",
+    "sourceWord": "administer",
+    "sourcePos": "v."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "I have administered the medicine to the patient.",
+        "ar": "أنا قد أعطيت الدواء للمريض.",
+        "context": "أنت تصف إعطاء الدواء للمريض وقد تم ذلك وله صلة بوضعه الآن.",
+        "grammar": {
+          "tense": "الحاضر التام",
+          "tenseEn": "Present Perfect",
+          "reason": "أخبر عن حدث وقع وله صلة بالحاضر، باستخدام الحاضر التام. الفعل المساعد مع التصريف الثالث يربط حدثًا سابقًا بالحاضر. إعطاء علاج أو دواء"
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "أنا؛ ضمير المتكلم المفرد"
+          },
+          {
+            "term": "have",
+            "description": "فعل مساعد مع المتكلم أو الجمع لبناء الحاضر التام"
+          },
+          {
+            "term": "administered",
+            "description": "أعطيت؛ إعطاء علاج أو دواء التصريف الثالث للفعل."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف"
+          },
+          {
+            "term": "medicine",
+            "description": "الدواء"
+          },
+          {
+            "term": "to",
+            "description": "لـ"
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف"
+          },
+          {
+            "term": "patient",
+            "description": "المريض"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I have administered the medicine to the patient.",
+        "ar": "أنا قد أعطيت الدواء للمريض.",
+        "context": "أنت تصف إعطاء الدواء للمريض وقد تم ذلك وله صلة بوضعه الآن."
+      },
+      {
+        "id": 2,
+        "en": "I administer the medicine to the patient.",
+        "ar": "أنا أعطي الدواء للمريض.",
+        "context": "أنت تصف إعطاء الدواء للمريض ضمن عملك المعتاد."
+      },
+      {
+        "id": 3,
+        "en": "I do not administer the medicine to the patient.",
+        "ar": "أنا لا أعطي الدواء للمريض.",
+        "context": "أنت تعمل في عيادة وتناقش إعطاء دواء لمريض. أنت توضح أن هذا ليس من عادتك أو وصفًا لوضعك الحالي."
+      },
+      {
+        "id": 4,
+        "en": "I am administering the medicine to the patient.",
+        "ar": "أنا أعطي الدواء للمريض.",
+        "context": "أنت تصف إعطاء الدواء للمريض الآن ولم تنته من ذلك بعد."
+      },
+      {
+        "id": 5,
+        "en": "I am not administering the medicine to the patient.",
+        "ar": "أنا لا أعطي الدواء للمريض.",
+        "context": "أنت تعمل في عيادة وتناقش إعطاء دواء لمريض. أنت تصحح توقعًا بشأن ما تفعله الآن وتوضح أن هذا النشاط لا يجري."
+      },
+      {
+        "id": 6,
+        "en": "I administered the medicine to the patient.",
+        "ar": "أنا أعطيت الدواء للمريض.",
+        "context": "أنت تروي إعطاء الدواء للمريض في وقت سابق."
+      },
+      {
+        "id": 7,
+        "en": "I did not administer the medicine to the patient.",
+        "ar": "أنا لم أعط الدواء للمريض.",
+        "context": "أنت تعمل في عيادة وتناقش إعطاء دواء لمريض. أنت تصحح رواية عن أحداث أمس وتوضح أن هذا الأمر لم يحصل."
+      },
+      {
+        "id": 8,
+        "en": "I have not administered the medicine to the patient.",
+        "ar": "أنا لم أعط الدواء للمريض.",
+        "context": "أنت تعمل في عيادة وتناقش إعطاء دواء لمريض. أنت تناقش ما تم حتى الآن وتوضح أن هذا الأمر لم يتم بعد."
+      },
+      {
+        "id": 9,
+        "en": "I will administer the medicine to the patient.",
+        "ar": "أنا سأعطي الدواء للمريض.",
+        "context": "أنت تتحدث عن إعطاء الدواء للمريض لاحقًا."
+      },
+      {
+        "id": 10,
+        "en": "I will not administer the medicine to the patient.",
+        "ar": "أنا لن أعطي الدواء للمريض.",
+        "context": "أنت تعمل في عيادة وتناقش إعطاء دواء لمريض. أنت تناقش خطط الغد وتوضح أن هذا الأمر لن يحدث."
+      }
+    ]
+  }
+}

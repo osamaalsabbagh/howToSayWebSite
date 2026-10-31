@@ -1,0 +1,141 @@
+{
+  "schemaVersion": 1,
+  "id": 9988,
+  "sentence": {
+    "en": "The program rejected the input because it contained invalid characters.",
+    "ar": "البرنامج رفض البيانات المدخلة لأنها احتوت أحرفًا غير صالحة.",
+    "context": "وصف رفض تقني سابق لمحتوى مُدخل بسبب رموزه، لا رفض مساهمة شخص في اجتماع.",
+    "sourceWord": "input",
+    "sourcePos": "n."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "The program rejected the input",
+        "ar": "البرنامج رفض البيانات المدخلة",
+        "context": "وصف عدم قبول سابق لبيانات في نظام حاسوبي.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "تصف الجملة حدثًا وقع في وقت سابق."
+        },
+        "wordMeanings": [
+          {
+            "term": "The",
+            "description": "أداة تعريف للبرنامج"
+          },
+          {
+            "term": "program",
+            "description": "البرنامج"
+          },
+          {
+            "term": "rejected",
+            "description": "رفض"
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف للمدخلات"
+          },
+          {
+            "term": "input",
+            "description": "البيانات المدخلة"
+          }
+        ]
+      },
+      {
+        "sentence": "because it contained invalid characters.",
+        "ar": "لأنها احتوت أحرفًا غير صالحة.",
+        "context": "بيان رموز في البيانات أدت إلى عدم قبولها.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "تصف الجملة حدثًا وقع في وقت سابق."
+        },
+        "wordMeanings": [
+          {
+            "term": "because",
+            "description": "لأن"
+          },
+          {
+            "term": "it",
+            "description": "هي؛ تعود على البيانات المدخلة"
+          },
+          {
+            "term": "contained",
+            "description": "احتوت"
+          },
+          {
+            "term": "invalid",
+            "description": "غير صالحة؛ مخالفة لما يقبله النظام"
+          },
+          {
+            "term": "characters",
+            "description": "أحرفًا؛ رموزًا نصية"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "The program rejected the input because it contained invalid characters.",
+        "ar": "البرنامج رفض البيانات المدخلة لأنها احتوت أحرفًا غير صالحة.",
+        "context": "وصف رفض تقني سابق لمحتوى مُدخل بسبب رموزه، لا رفض مساهمة شخص في اجتماع."
+      },
+      {
+        "id": 2,
+        "en": "The designers asked for input from customers before making the app.",
+        "ar": "المصممون طلبوا آراء الزبائن قبل صنع التطبيق.",
+        "context": "وصف طلب سابق لمساهمة المستخدمين قبل تطوير برنامج دون افتراض استبيان."
+      },
+      {
+        "id": 3,
+        "en": "The device has two audio inputs.",
+        "ar": "الجهاز لديه مدخلا صوت.",
+        "context": "استعمال يشير إلى مواضع استقبال إشارات صوتية."
+      },
+      {
+        "id": 4,
+        "en": "We have reduced the energy input.",
+        "ar": "نحن قد خفضنا الطاقة المدخلة.",
+        "context": "الإبلاغ عن تقليل مقدار طاقة يزود به نظام."
+      },
+      {
+        "id": 5,
+        "en": "The team is collecting input from local residents.",
+        "ar": "الفريق يجمع آراء من سكان محليين.",
+        "context": "وصف جمع جارٍ لمعلومات أو اقتراحات من مجموعة."
+      },
+      {
+        "id": 6,
+        "en": "The report will require input from several departments.",
+        "ar": "التقرير سيتطلب مساهمات من عدة أقسام.",
+        "context": "توقع مشاركة معلومات أو خبرات في عمل واحد."
+      },
+      {
+        "id": 7,
+        "en": "Please check the input before running the calculation.",
+        "ar": "من فضلك تحقق من المدخلات قبل تشغيل الحساب.",
+        "context": "طلب مراجعة بيانات يستخدمها إجراء حسابي."
+      },
+      {
+        "id": 8,
+        "en": "Her input shaped the final design.",
+        "ar": "مساهمتها صاغت التصميم النهائي.",
+        "context": "وصف أثر سابق لفكرة أو معرفة قدمها شخص."
+      },
+      {
+        "id": 9,
+        "en": "The model links input to output.",
+        "ar": "النموذج يربط المدخلات بالمخرجات.",
+        "context": "تمييز ما يُزوّد به نظام مما ينتج عنه."
+      },
+      {
+        "id": 10,
+        "en": "The microphone provides input to the recorder.",
+        "ar": "الميكروفون يوفر إشارة مدخلة إلى المسجل.",
+        "context": "وصف استقبال جهاز لإشارة من مصدر."
+      }
+    ]
+  }
+}

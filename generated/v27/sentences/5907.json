@@ -1,0 +1,141 @@
+{
+  "schemaVersion": 1,
+  "id": 5907,
+  "sentence": {
+    "en": "I do not like coffee, and neither does my wife.",
+    "ar": "أنا لا أحب القهوة، ولا زوجتي أيضًا.",
+    "context": "بيان اشتراك المتكلم وزوجته في عدم حب القهوة.",
+    "sourceWord": "neither",
+    "sourcePos": "adv."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "I do not like coffee,",
+        "ar": "أنا لا أحب القهوة،",
+        "context": "وصف عدم استمتاع المتكلم بمشروب القهوة بوصفه تفضيلًا عامًا.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "المضارع البسيط المنفي يعبر عن ذوق ثابت، ويتكون من الفعل المساعد مع أداة النفي ثم الفعل الأصلي."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "أنا؛ ضمير المتكلم المفرد."
+          },
+          {
+            "term": "do",
+            "description": "فعل مساعد يستعمل في النفي مع المتكلم."
+          },
+          {
+            "term": "not",
+            "description": "أداة نفي."
+          },
+          {
+            "term": "like",
+            "description": "أحب؛ أستمتع بالشيء."
+          },
+          {
+            "term": "coffee",
+            "description": "القهوة؛ المشروب المعروف."
+          }
+        ]
+      },
+      {
+        "sentence": "and neither does my wife.",
+        "ar": "ولا زوجتي أيضًا.",
+        "context": "إضافة الزوجة إلى من لا يحبون القهوة؛ هي تشارك المتكلم التفضيل نفسه.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "بعد الظرف الذي يعني ولا أيضًا يتقدم الفعل المساعد على الفاعل. الفعل المساعد هنا يطابق الفاعل المفرد الغائب."
+        },
+        "wordMeanings": [
+          {
+            "term": "and",
+            "description": "و؛ أداة ربط."
+          },
+          {
+            "term": "neither",
+            "description": "ولا أيضًا؛ تنفي الأمر عن شخص آخر كما نُفي عن الأول."
+          },
+          {
+            "term": "does",
+            "description": "فعل مساعد للمفرد الغائب يقوم مقام الفعل المنفي."
+          },
+          {
+            "term": "my",
+            "description": "ضمير ملكية للمتكلم؛ الخاصة بي."
+          },
+          {
+            "term": "wife",
+            "description": "زوجة."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I do not like coffee, and neither does my wife.",
+        "ar": "أنا لا أحب القهوة، ولا زوجتي أيضًا.",
+        "context": "بيان اشتراك المتكلم وزوجته في عدم حب القهوة."
+      },
+      {
+        "id": 2,
+        "en": "She has not seen the film. Neither have we.",
+        "ar": "هي لم تشاهد الفيلم. ولا نحن شاهدناه.",
+        "context": "بيان غياب تجربة مشاهدة فيلم حتى الآن عن امرأة وعن مجموعة تشمل المتكلم."
+      },
+      {
+        "id": 3,
+        "en": "I will not attend, and neither will my brother.",
+        "ar": "أنا لن أحضر، ولا أخي أيضًا.",
+        "context": "إخبار عن قرار مستقبلي مشترك بعدم المشاركة."
+      },
+      {
+        "id": 4,
+        "en": "The printer does not work. Neither does the scanner.",
+        "ar": "الطابعة لا تعمل. ولا الماسح الضوئي أيضًا.",
+        "context": "وصف تعطل جهازين يشتركان في الحالة نفسها."
+      },
+      {
+        "id": 5,
+        "en": "We were not ready, and neither were they.",
+        "ar": "نحن لم نكن مستعدين، ولا هم أيضًا.",
+        "context": "وصف عدم استعداد مجموعتين في وقت مضى."
+      },
+      {
+        "id": 6,
+        "en": "The answer is not clear. Neither is the question.",
+        "ar": "الإجابة ليست واضحة. ولا السؤال أيضًا.",
+        "context": "بيان غموض السؤال وجوابه معًا."
+      },
+      {
+        "id": 7,
+        "en": "You should not rush, and neither should I.",
+        "ar": "أنت ينبغي ألا تتعجل، ولا أنا أيضًا.",
+        "context": "توجيه توصية مشتركة إلى المخاطب والمتكلم بتجنب الاستعجال."
+      },
+      {
+        "id": 8,
+        "en": "The first attempt did not succeed. Neither did the second.",
+        "ar": "المحاولة الأولى لم تنجح. ولا الثانية أيضًا.",
+        "context": "وصف محاولتين انتهتا دون الوصول إلى النجاح."
+      },
+      {
+        "id": 9,
+        "en": "The guests have not arrived, and neither has the host.",
+        "ar": "الضيوف لم يصلوا، ولا المضيف أيضًا.",
+        "context": "بيان استمرار غياب المضيف والمدعوين حتى الآن."
+      },
+      {
+        "id": 10,
+        "en": "The old plan was not practical. Neither is the new one.",
+        "ar": "الخطة القديمة لم تكن عملية. ولا الجديدة كذلك.",
+        "context": "مقارنة عيب سابق في خطة بعيب ما زال قائمًا في بديلها."
+      }
+    ]
+  }
+}

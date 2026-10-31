@@ -1,0 +1,151 @@
+{
+  "schemaVersion": 1,
+  "id": 5,
+  "sentence": {
+    "en": "Of course. You can ask anything you like.",
+    "ar": "بالطبع. يمكنك أن تسأل أي شيء تحبه.",
+    "context": "المعلم يفتح المجال للطالب كي يسأل ما يحب"
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Of course.",
+        "ar": "بالطبع.",
+        "context": "تعطي موافقة أو تطمينًا قبل متابعة الكلام.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذا تعبير موافقة ثابت ولا يحمل زمنًا مستقلًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "Of",
+            "description": "جزء من تعبير ثابت مع course يعني الموافقة أو التأكيد."
+          },
+          {
+            "term": "course",
+            "description": "جزء من تعبير ثابت يعني بالطبع أو نعم بالتأكيد."
+          }
+        ]
+      },
+      {
+        "sentence": "You can ask anything you like.",
+        "ar": "يمكنك أن تسأل أي شيء تريده.",
+        "context": "يعطي المتحدث إذنًا أو يبين ما هو متاح في هذا الموقف.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "الجملة تستخدم can لإعطاء الإذن والسماح بالسؤال، لذلك تُفهم كتركيب إذن لا كزمن مستقل."
+        },
+        "wordMeanings": [
+          {
+            "term": "You",
+            "description": "ضمير المخاطب."
+          },
+          {
+            "term": "can",
+            "description": "تدل هنا على السماح أو الإمكانية."
+          },
+          {
+            "term": "ask",
+            "description": "يسأل أو يطرح سؤالًا."
+          },
+          {
+            "term": "anything",
+            "description": "أي شيء دون تحديد."
+          },
+          {
+            "term": "you",
+            "description": "ضمير يعود على المخاطب مرة أخرى."
+          },
+          {
+            "term": "like",
+            "description": "تحب أو تريد، وتحدد ما يسمح له بالسؤال عنه."
+          }
+        ]
+      },
+      {
+        "sentence": "you like",
+        "ar": "تريده.",
+        "context": "تكمل المعنى المرتبط بالجزء السابق.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "تصف ما يريده المخاطب أو يميل إليه بشكل عام في لحظة الحديث."
+        },
+        "wordMeanings": [
+          {
+            "term": "you",
+            "description": "ضمير يعود على المخاطب مرة أخرى."
+          },
+          {
+            "term": "like",
+            "description": "تحب أو تريد، وتحدد ما يسمح له بالسؤال عنه."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Of course. You can ask me now.",
+        "ar": "بالطبع. يمكنك أن تسألني الآن.",
+        "context": "يُستخدم عندما يسمح المتحدث لشخص بطرح سؤال."
+      },
+      {
+        "id": 2,
+        "en": "Of course. You can choose anything you like.",
+        "ar": "بالطبع. يمكنك اختيار أي شيء تحبه.",
+        "context": "يُستخدم لإعطاء حرية الاختيار."
+      },
+      {
+        "id": 3,
+        "en": "Of course. You can sit anywhere you like.",
+        "ar": "بالطبع. يمكنك الجلوس في أي مكان تحبه.",
+        "context": "يُستخدم للسماح لشخص باختيار مكانه."
+      },
+      {
+        "id": 4,
+        "en": "Of course. You can read anything you like.",
+        "ar": "بالطبع. يمكنك قراءة أي شيء تحبه.",
+        "context": "يُستخدم لإعطاء حرية اختيار مادة القراءة."
+      },
+      {
+        "id": 5,
+        "en": "Of course. You can ask another teacher.",
+        "ar": "بالطبع. يمكنك أن تسأل معلمًا آخر.",
+        "context": "يُستخدم عند السماح بالبحث عن مساعدة إضافية."
+      },
+      {
+        "id": 6,
+        "en": "Of course. You can take anything you need.",
+        "ar": "بالطبع. يمكنك أخذ أي شيء تحتاجه.",
+        "context": "يُستخدم عند إتاحة أدوات أو أغراض لشخص."
+      },
+      {
+        "id": 7,
+        "en": "Of course. You can call me anytime.",
+        "ar": "بالطبع. يمكنك الاتصال بي في أي وقت.",
+        "context": "يُستخدم لإظهار الاستعداد للمساعدة لاحقًا."
+      },
+      {
+        "id": 8,
+        "en": "Of course. You can write anything you like.",
+        "ar": "بالطبع. يمكنك كتابة أي شيء تحبه.",
+        "context": "يُستخدم عند إعطاء حرية في الكتابة."
+      },
+      {
+        "id": 9,
+        "en": "Of course. You can use any example you like.",
+        "ar": "بالطبع. يمكنك استخدام أي مثال تحبه.",
+        "context": "يُستخدم في درس أو تدريب عند السماح بالاختيار."
+      },
+      {
+        "id": 10,
+        "en": "Of course. You can speak when you are ready.",
+        "ar": "بالطبع. يمكنك التحدث عندما تكون جاهزًا.",
+        "context": "يُستخدم لتشجيع شخص على الكلام دون ضغط."
+      }
+    ]
+  }
+}

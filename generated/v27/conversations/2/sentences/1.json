@@ -1,0 +1,147 @@
+{
+  "schemaVersion": 1,
+  "id": 1,
+  "sentence": {
+    "en": "Good afternoon! Are you waiting for the flight to New York too?",
+    "ar": "طاب مساؤك! هل تنتظر رحلة نيويورك أيضًا؟",
+    "context": "الفترة بعد الظهر في صالة الانتظار، يفتتح الحديث بسؤال عن نفس الرحلة"
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Good afternoon!",
+        "ar": "طاب مساؤك!",
+        "context": "يفتتح بها المتحدث الكلام قبل الدخول في الفكرة الأساسية.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذا الجزء تعبير قصير أو غير مكتمل فعليًا، لذلك لا نضع له زمنًا مستقلًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "Good",
+            "description": "صفة تعني جيد أو مريح أو مناسب هنا."
+          },
+          {
+            "term": "afternoon",
+            "description": "اسم يعني فترة بعد الظهر، ويأتي هنا ضمن تحية مناسبة لهذا الوقت."
+          }
+        ]
+      },
+      {
+        "sentence": "Are you waiting for the flight to New York too?",
+        "ar": "هل تنتظر رحلة نيويورك أيضًا؟",
+        "context": "يُستخدم هذا السؤال للتحقق من حالة أو معلومة في هذا الموقف.",
+        "grammar": {
+          "tense": "المضارع المستمر",
+          "tenseEn": "Present Continuous",
+          "reason": "استُعمل المضارع المستمر لأن هذا الجزء يصف فعلًا يحدث الآن أو في فترة قريبة من الآن."
+        },
+        "wordMeanings": [
+          {
+            "term": "Are",
+            "description": "صيغة تبدأ سؤالًا عن حالة أو فعل يحدث الآن مع المخاطب."
+          },
+          {
+            "term": "you",
+            "description": "ضمير المخاطب."
+          },
+          {
+            "term": "waiting",
+            "description": "تعني ينتظر الآن، وتدل هنا على انتظار الرحلة في المطار."
+          },
+          {
+            "term": "for",
+            "description": "حرف جر يربط الانتظار بالشيء المنتظر."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف تشير إلى شيء معروف أو محدد."
+          },
+          {
+            "term": "flight",
+            "description": "اسم يعني رحلة."
+          },
+          {
+            "term": "to",
+            "description": "تعني إلى، وتربط الرحلة بوجهتها."
+          },
+          {
+            "term": "New",
+            "description": "جزء من اسم مدينة نيويورك، ولا يُقصد به معنى جديد هنا."
+          },
+          {
+            "term": "York",
+            "description": "اسم علم يشير إلى نيويورك."
+          },
+          {
+            "term": "too",
+            "description": "تعني أيضًا، وتدل على أن المتكلم ينتظر الرحلة نفسها."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Good afternoon! Are you waiting for the flight to London too?",
+        "ar": "طاب مساؤك! هل تنتظر رحلة لندن أيضًا؟",
+        "context": "سؤال لشخص في المطار يبدو أنه ينتظر نفس الرحلة."
+      },
+      {
+        "id": 2,
+        "en": "Are you waiting for the flight to New York too?",
+        "ar": "هل تنتظر رحلة نيويورك أيضًا؟",
+        "context": "صيغة مباشرة بدون تحية عندما يكون الحديث قد بدأ بالفعل."
+      },
+      {
+        "id": 3,
+        "en": "Good evening! Are you waiting for the flight to Paris too?",
+        "ar": "مساء الخير! هل تنتظر رحلة باريس أيضًا؟",
+        "context": "نفس السؤال مع تحية مناسبة لوقت لاحق ووجهة مختلفة."
+      },
+      {
+        "id": 4,
+        "en": "Good afternoon! Are you waiting for this gate too?",
+        "ar": "طاب مساؤك! هل تنتظر عند هذه البوابة أيضًا؟",
+        "context": "سؤال عن نفس بوابة الصعود بدل ذكر الرحلة."
+      },
+      {
+        "id": 5,
+        "en": "Good afternoon! Are you waiting for the delayed flight too?",
+        "ar": "طاب مساؤك! هل تنتظر الرحلة المتأخرة أيضًا؟",
+        "context": "عندما يعرف المتكلم أن هناك رحلة متأخرة ويريد التأكد."
+      },
+      {
+        "id": 6,
+        "en": "Excuse me, are you waiting for the flight to New York too?",
+        "ar": "عذرًا، هل تنتظر رحلة نيويورك أيضًا؟",
+        "context": "صيغة ألطف عند مقاطعة شخص لا تعرفه."
+      },
+      {
+        "id": 7,
+        "en": "Good afternoon! Are you waiting for the same flight too?",
+        "ar": "طاب مساؤك! هل تنتظر الرحلة نفسها أيضًا؟",
+        "context": "تستخدم عندما تكون الوجهة مفهومة من شاشة الرحلات أو من الحديث."
+      },
+      {
+        "id": 8,
+        "en": "Are you waiting for the bus to New York too?",
+        "ar": "هل تنتظر الحافلة إلى نيويورك أيضًا؟",
+        "context": "نفس التركيب مع وسيلة سفر مختلفة."
+      },
+      {
+        "id": 9,
+        "en": "Good afternoon! Are you waiting for your flight too?",
+        "ar": "طاب مساؤك! هل تنتظر رحلتك أيضًا؟",
+        "context": "سؤال عام عندما لا يعرف المتكلم وجهة الشخص الآخر."
+      },
+      {
+        "id": 10,
+        "en": "Good afternoon! Are you waiting for the flight to New York with me?",
+        "ar": "طاب مساؤك! هل تنتظر رحلة نيويورك معي؟",
+        "context": "تستخدم عندما يريد المتكلم معرفة إن كان الشخص الآخر على الرحلة نفسها."
+      }
+    ]
+  }
+}

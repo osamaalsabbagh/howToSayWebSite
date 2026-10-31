@@ -1,0 +1,137 @@
+{
+  "schemaVersion": 1,
+  "id": 7323,
+  "sentence": {
+    "en": "The airline informed us that the flight was canceled.",
+    "ar": "شركة الطيران أعلمتنا أن الرحلة أُلغيت.",
+    "context": "وصف إعلام سابق من شركة طيران بإلغاء رحلة دون تعيين وسيلة الإعلام.",
+    "sourceWord": "inform",
+    "sourcePos": "v."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "The airline informed us",
+        "ar": "شركة الطيران أعلمتنا",
+        "context": "وصف إبلاغ سابق من الجهة المنظمة للسفر.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "الماضي البسيط يصف حدثًا انتهى."
+        },
+        "wordMeanings": [
+          {
+            "term": "The",
+            "description": "أداة تعريف تأتي مع الشركة."
+          },
+          {
+            "term": "airline",
+            "description": "شركة الطيران."
+          },
+          {
+            "term": "informed",
+            "description": "أعلمت؛ أخبرت."
+          },
+          {
+            "term": "us",
+            "description": "نا؛ ضمير المفعول للمتكلمين."
+          }
+        ]
+      },
+      {
+        "sentence": "that the flight was canceled.",
+        "ar": "أن الرحلة أُلغيت.",
+        "context": "تحديد الخبر المنقول، وهو إلغاء الرحلة.",
+        "grammar": {
+          "tense": "الماضي البسيط المبني للمجهول",
+          "tenseEn": "Past Simple Passive",
+          "reason": "تصف was canceled إلغاءً سابقًا وقع على الرحلة دون تسمية من ألغاه."
+        },
+        "wordMeanings": [
+          {
+            "term": "that",
+            "description": "أن."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف تأتي مع الرحلة."
+          },
+          {
+            "term": "flight",
+            "description": "الرحلة."
+          },
+          {
+            "term": "was",
+            "description": "مساعد المبني للمجهول في الماضي."
+          },
+          {
+            "term": "canceled",
+            "description": "أُلغيت."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "The airline informed us that the flight was canceled.",
+        "ar": "شركة الطيران أعلمتنا أن الرحلة أُلغيت.",
+        "context": "وصف إعلام سابق من شركة طيران بإلغاء رحلة دون تعيين وسيلة الإعلام."
+      },
+      {
+        "id": 2,
+        "en": "Research informs the design of our courses.",
+        "ar": "البحث يوجه تصميم دوراتنا.",
+        "context": "استعمال المعرفة أساسًا لتطوير محتوى، لا مجرد إرسال خبر لشخص."
+      },
+      {
+        "id": 3,
+        "en": "She informed the committee of her decision.",
+        "ar": "هي أبلغت اللجنة بقرارها.",
+        "context": "وصف نقل سابق لقرار إلى جهة رسمية."
+      },
+      {
+        "id": 4,
+        "en": "We have informed all applicants of the result.",
+        "ar": "نحن قد أبلغنا جميع المتقدمين بالنتيجة.",
+        "context": "تأكيد إتمام إخطار مجموعة بشأن طلباتهم."
+      },
+      {
+        "id": 5,
+        "en": "The guide is informing visitors about the safety rules.",
+        "ar": "الدليل يبلغ الزوار بقواعد السلامة.",
+        "context": "وصف شرح جارٍ لمعلومات لازمة للزوار."
+      },
+      {
+        "id": 6,
+        "en": "The school will inform parents of any changes.",
+        "ar": "المدرسة ستبلغ أولياء الأمور بأي تغييرات.",
+        "context": "إعلان نية إخطار المسؤولين عن الطلاب بالتعديلات."
+      },
+      {
+        "id": 7,
+        "en": "Please keep me informed about the repairs.",
+        "ar": "من فضلك أبقني على اطلاع بشأن الإصلاحات.",
+        "context": "طلب استمرار وصول المستجدات عن عمل."
+      },
+      {
+        "id": 8,
+        "en": "Local experience informed their approach to the problem.",
+        "ar": "الخبرة المحلية وجهت نهجهم في التعامل مع المشكلة.",
+        "context": "وصف أثر سابق للخبرة في طريقة معالجة أمر."
+      },
+      {
+        "id": 9,
+        "en": "The sign informs drivers of the road closure.",
+        "ar": "اللافتة تبلغ السائقين بإغلاق الطريق.",
+        "context": "وصف وظيفة رسالة عامة بجانب طريق."
+      },
+      {
+        "id": 10,
+        "en": "The report helped inform the public debate.",
+        "ar": "التقرير ساعد في إثراء النقاش العام بالمعلومات.",
+        "context": "وصف تزويد نقاش سابق بمعرفة تساعد على فهم الموضوع."
+      }
+    ]
+  }
+}

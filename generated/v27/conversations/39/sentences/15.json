@@ -1,0 +1,127 @@
+{
+  "schemaVersion": 1,
+  "id": 15,
+  "sentence": {
+    "en": "Got it. Anything else I should prepare?",
+    "ar": "فهمتها، أي شيء آخر يجب أن أجهزه؟",
+    "context": "يسأله إن كان هناك متطلبات إضافية للعناية بالقطة."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Got it",
+        "ar": "فهمت.",
+        "context": "يؤكد أنه فهم التعليمات.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "Got it تعبير ثابت للفهم ولا يحتاج إلى زمن مستقل."
+        },
+        "wordMeanings": [
+          {
+            "term": "Got",
+            "description": "فهمت في هذا التعبير"
+          },
+          {
+            "term": "it",
+            "description": "ذلك أو التعليمات"
+          }
+        ]
+      },
+      {
+        "sentence": "Anything else I should prepare",
+        "ar": "هل هناك أي شيء آخر يجب أن أجهزه؟",
+        "context": "يسأل عن تجهيزات إضافية.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "should prepare تركيب نصيحة أو ضرورة خفيفة."
+        },
+        "wordMeanings": [
+          {
+            "term": "Anything",
+            "description": "أي شيء"
+          },
+          {
+            "term": "else",
+            "description": "آخر أو غير ذلك"
+          },
+          {
+            "term": "I",
+            "description": "أنا"
+          },
+          {
+            "term": "should",
+            "description": "ينبغي أو يجب"
+          },
+          {
+            "term": "prepare",
+            "description": "أجهز أو أحضر"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Got it, I understand",
+        "ar": "فهمت، أنا أفهم",
+        "context": "يقال بعد شرح"
+      },
+      {
+        "id": 2,
+        "en": "Anything else I should buy",
+        "ar": "هل هناك أي شيء آخر يجب أن أشتريه؟",
+        "context": "يقال في متجر"
+      },
+      {
+        "id": 3,
+        "en": "Should I prepare food",
+        "ar": "هل يجب أن أجهز الطعام؟",
+        "context": "يقال قبل رعاية حيوان"
+      },
+      {
+        "id": 4,
+        "en": "Got it, anything else",
+        "ar": "فهمت، أي شيء آخر؟",
+        "context": "يقال بعد تلقي تعليمات"
+      },
+      {
+        "id": 5,
+        "en": "I should prepare a clean box",
+        "ar": "يجب أن أجهز صندوقًا نظيفًا",
+        "context": "يقال عند تجهيز قطة"
+      },
+      {
+        "id": 6,
+        "en": "Anything else for the cat",
+        "ar": "أي شيء آخر للقطة؟",
+        "context": "يقال عند شراء مستلزمات"
+      },
+      {
+        "id": 7,
+        "en": "Prepare fresh water every day",
+        "ar": "جهز ماءً نقيًا كل يوم",
+        "context": "يقال كتعليمة رعاية"
+      },
+      {
+        "id": 8,
+        "en": "I should know this first",
+        "ar": "يجب أن أعرف هذا أولًا",
+        "context": "يقال قبل بدء مهمة"
+      },
+      {
+        "id": 9,
+        "en": "Got it, I will prepare it",
+        "ar": "فهمت، سأجهزه",
+        "context": "يقال عند قبول مسؤولية"
+      },
+      {
+        "id": 10,
+        "en": "What else should I do",
+        "ar": "ماذا يجب أن أفعل أيضًا؟",
+        "context": "يقال عند طلب تعليمات إضافية"
+      }
+    ]
+  }
+}

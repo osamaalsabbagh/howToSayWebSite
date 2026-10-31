@@ -1,0 +1,111 @@
+{
+  "schemaVersion": 1,
+  "id": 246,
+  "sentence": {
+    "en": "Is there any mail for me?",
+    "ar": "هل هناك أي بريد لي؟",
+    "context": "اسأل عن وصول بريد شخصي."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Is there any mail for me?",
+        "ar": "هل هناك أي بريد لي؟",
+        "context": "يُستخدم هذا السؤال للتحقق من حالة أو معلومة في هذا الموقف.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "يستخدم تركيب الوجود في الحاضر للسؤال عما إذا كان هناك بريد موجود الآن للمتكلم."
+        },
+        "wordMeanings": [
+          {
+            "term": "Is",
+            "description": "تأتي في بداية السؤال للسؤال عن وجود شيء."
+          },
+          {
+            "term": "there",
+            "description": "تستخدم هنا في تركيب يدل على وجود شيء."
+          },
+          {
+            "term": "any",
+            "description": "أي، وتستخدم في السؤال عن وجود كمية غير محددة."
+          },
+          {
+            "term": "mail",
+            "description": "بريد أو رسائل."
+          },
+          {
+            "term": "for",
+            "description": "لـ، وتربط البريد بالشخص المقصود."
+          },
+          {
+            "term": "me",
+            "description": "لي أو من أجلي، وتشير إلى المتكلم."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Is there any mail for me?",
+        "ar": "هل هناك أي بريد لي؟",
+        "context": "تقال عند السؤال عن وصول بريد شخصي."
+      },
+      {
+        "id": 2,
+        "en": "Is there any message for me?",
+        "ar": "هل هناك أي رسالة لي؟",
+        "context": "تقال عند السؤال عن رسالة وصلت لك."
+      },
+      {
+        "id": 3,
+        "en": "Is there any package for me?",
+        "ar": "هل هناك أي طرد لي؟",
+        "context": "تقال عند انتظار طرد."
+      },
+      {
+        "id": 4,
+        "en": "Is there any letter for me?",
+        "ar": "هل هناك أي رسالة بريدية لي؟",
+        "context": "تقال عند السؤال عن رسالة مكتوبة."
+      },
+      {
+        "id": 5,
+        "en": "Is there any news for me?",
+        "ar": "هل هناك أي خبر لي؟",
+        "context": "تقال عند انتظار تحديث أو معلومة."
+      },
+      {
+        "id": 6,
+        "en": "There is mail for you.",
+        "ar": "هناك بريد لك.",
+        "context": "تقال عند إبلاغ شخص بوصول بريد."
+      },
+      {
+        "id": 7,
+        "en": "There is no mail for you.",
+        "ar": "لا يوجد بريد لك.",
+        "context": "تقال عند إبلاغ شخص بعدم وجود بريد."
+      },
+      {
+        "id": 8,
+        "en": "Is there any mail for my room?",
+        "ar": "هل هناك أي بريد لغرفتي؟",
+        "context": "تقال في فندق عند السؤال عن بريد مرتبط بغرفة."
+      },
+      {
+        "id": 9,
+        "en": "Is there any mail today?",
+        "ar": "هل هناك أي بريد اليوم؟",
+        "context": "تقال عند السؤال عن وصول البريد في يوم معين."
+      },
+      {
+        "id": 10,
+        "en": "Is there any mail at the front desk?",
+        "ar": "هل هناك أي بريد في مكتب الاستقبال؟",
+        "context": "تقال في فندق أو مبنى عند السؤال عن مكان البريد."
+      }
+    ]
+  }
+}

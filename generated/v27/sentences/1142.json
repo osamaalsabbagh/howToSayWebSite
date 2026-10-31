@@ -1,0 +1,147 @@
+{
+  "schemaVersion": 1,
+  "id": 1142,
+  "sentence": {
+    "en": "Can I have your input on this project I am working on?",
+    "ar": "هل يمكنني الحصول على مدخلاتك بشأن هذا المشروع الذي أعمل عليه؟",
+    "context": "تُستخدم لطلب (اقتراحات - أفكار - رأي - مساهمات) شخص بخصوص مشروع عملي أو دراسي."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Can I have your input on this project",
+        "ar": "هل يمكنني الحصول على رأيك بشأن هذا المشروع",
+        "context": "طلب مهذب للحصول على رأي أو اقتراحات.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه صيغة طلب إذن أو مساعدة باستخدام كلمة تدل على الإمكان."
+        },
+        "wordMeanings": [
+          {
+            "term": "Can",
+            "description": "تُستخدم لطلب الإذن أو الإمكان"
+          },
+          {
+            "term": "I",
+            "description": "ضمير يشير إلى المتكلم"
+          },
+          {
+            "term": "have",
+            "description": "أحصل على أو آخذ"
+          },
+          {
+            "term": "your",
+            "description": "خاص بك"
+          },
+          {
+            "term": "input",
+            "description": "رأي أو مساهمة أو ملاحظات"
+          },
+          {
+            "term": "on",
+            "description": "بشأن أو حول"
+          },
+          {
+            "term": "this",
+            "description": "هذا"
+          },
+          {
+            "term": "project",
+            "description": "مشروع"
+          }
+        ]
+      },
+      {
+        "sentence": "I am working on",
+        "ar": "الذي أعمل عليه",
+        "context": "توضح أن المشروع جارٍ حاليًا.",
+        "grammar": {
+          "tense": "المضارع المستمر",
+          "tenseEn": "Present Continuous",
+          "reason": "استُخدم المضارع المستمر لوصف عمل جارٍ في الوقت الحالي."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير يشير إلى المتكلم"
+          },
+          {
+            "term": "am",
+            "description": "صيغة تأتي مع ضمير المتكلم المفرد في الحالة المستمرة"
+          },
+          {
+            "term": "working",
+            "description": "أعمل أو أشتغل"
+          },
+          {
+            "term": "on",
+            "description": "على أو بشأن"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Can I have your opinion on this?",
+        "ar": "هل يمكنني الحصول على رأيك في هذا؟",
+        "context": "تُستخدم لطلب رأي."
+      },
+      {
+        "id": 2,
+        "en": "Can I get your input on the report?",
+        "ar": "هل يمكنني الحصول على ملاحظاتك على التقرير؟",
+        "context": "تُقال في العمل أو الدراسة."
+      },
+      {
+        "id": 3,
+        "en": "I am working on a new plan.",
+        "ar": "أعمل على خطة جديدة.",
+        "context": "تُستخدم لوصف عمل جارٍ."
+      },
+      {
+        "id": 4,
+        "en": "Could you share your ideas?",
+        "ar": "هل يمكنك مشاركة أفكارك؟",
+        "context": "تُستخدم لطلب اقتراحات."
+      },
+      {
+        "id": 5,
+        "en": "Can you review this project?",
+        "ar": "هل يمكنك مراجعة هذا المشروع؟",
+        "context": "تُقال قبل طلب ملاحظات."
+      },
+      {
+        "id": 6,
+        "en": "I need your input before Friday.",
+        "ar": "أحتاج إلى رأيك قبل الجمعة.",
+        "context": "تُستخدم عند وجود موعد نهائي."
+      },
+      {
+        "id": 7,
+        "en": "Can I ask for your feedback?",
+        "ar": "هل يمكنني طلب ملاحظاتك؟",
+        "context": "تُستخدم لطلب تقييم."
+      },
+      {
+        "id": 8,
+        "en": "She is working on a team project.",
+        "ar": "هي تعمل على مشروع جماعي.",
+        "context": "تُستخدم لوصف نشاط حالي."
+      },
+      {
+        "id": 9,
+        "en": "Your input would help this project.",
+        "ar": "رأيك سيساعد هذا المشروع.",
+        "context": "تُقال لتوضيح أهمية المساهمة."
+      },
+      {
+        "id": 10,
+        "en": "Can we discuss the project today?",
+        "ar": "هل يمكننا مناقشة المشروع اليوم؟",
+        "context": "تُستخدم لطلب نقاش."
+      }
+    ]
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "id": 7,
+  "sentence": {
+    "en": "You and your sister were both born in the same city. Why does not she complain about being bored all the time?",
+    "ar": "أنت وأختك كلاكما وُلدتما في نفس المدينة. لماذا هي لا تشتكي من كونها مالّة طوال الوقت؟",
+    "context": "يقارن بينها وبين أختها التي لا تشعر بالملل رغم نفس الظروف."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "You and your sister were both born in the same city.",
+        "ar": "أنت وأختك وُلدتما كلاكما في المدينة نفسها.",
+        "context": "يذكر هذا الجزء حقيقة مشتركة ليبني عليها المقارنة بين الأختين.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "استُخدم الماضي البسيط المبني للمجهول للحديث عن حدث الولادة في الماضي."
+        },
+        "wordMeanings": [
+          {
+            "term": "You",
+            "description": "ضمير للمخاطب ويعني أنت أو أنتِ"
+          },
+          {
+            "term": "and",
+            "description": "حرف عطف يربط بين شخصين"
+          },
+          {
+            "term": "your",
+            "description": "ضمير ملكية يعني الخاص بك أو بكِ"
+          },
+          {
+            "term": "sister",
+            "description": "أخت"
+          },
+          {
+            "term": "were",
+            "description": "صيغة ماضية تُستخدم مع الجمع أو المخاطب"
+          },
+          {
+            "term": "both",
+            "description": "كلاكما أو الاثنان معًا"
+          },
+          {
+            "term": "born",
+            "description": "مولودان أو وُلدتما"
+          },
+          {
+            "term": "in",
+            "description": "في داخل مكان"
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف تشير إلى شيء محدد"
+          },
+          {
+            "term": "same",
+            "description": "نفس أو ذاته"
+          },
+          {
+            "term": "city",
+            "description": "مدينة"
+          }
+        ]
+      },
+      {
+        "sentence": "Why does not she complain about being bored all the time?",
+        "ar": "لماذا لا تشتكي هي من الشعور بالملل طوال الوقت؟",
+        "context": "هذا السؤال يقارن تصرف الأخت بتصرف المخاطبة ويشكك في سبب الملل.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُخدم المضارع البسيط في السؤال عن عادة أو سلوك متكرر، مع تركيب النفي does not."
+        },
+        "wordMeanings": [
+          {
+            "term": "Why",
+            "description": "لماذا، للسؤال عن السبب"
+          },
+          {
+            "term": "does",
+            "description": "كلمة مساعدة تُستخدم مع المفرد الغائب في السؤال"
+          },
+          {
+            "term": "not",
+            "description": "أداة نفي معناها لا"
+          },
+          {
+            "term": "she",
+            "description": "ضمير للأنثى الغائبة ويعني هي"
+          },
+          {
+            "term": "complain",
+            "description": "تشتكي أو تتذمر"
+          },
+          {
+            "term": "about",
+            "description": "عن أو بخصوص"
+          },
+          {
+            "term": "being",
+            "description": "كونها أو حالة الوجود في وضع معين"
+          },
+          {
+            "term": "bored",
+            "description": "شاعرة بالملل"
+          },
+          {
+            "term": "all",
+            "description": "كل أو كامل"
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف ضمن تعبير ثابت"
+          },
+          {
+            "term": "time",
+            "description": "الوقت"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "You and your brother were born in the same town.",
+        "ar": "أنت وأخوك وُلدتما في البلدة نفسها.",
+        "context": "تُقال عند مقارنة شخصين من المكان نفسه."
+      },
+      {
+        "id": 2,
+        "en": "They were both born in March.",
+        "ar": "كلاهما وُلد في شهر مارس.",
+        "context": "تُستخدم لذكر تشابه في تاريخ الولادة."
+      },
+      {
+        "id": 3,
+        "en": "Why does not he call us?",
+        "ar": "لماذا لا يتصل بنا؟",
+        "context": "تُقال عند الاستغراب من عدم اتصال شخص."
+      },
+      {
+        "id": 4,
+        "en": "Why does not she study at night?",
+        "ar": "لماذا لا تدرس في الليل؟",
+        "context": "تُستخدم للسؤال عن عادة غير موجودة."
+      },
+      {
+        "id": 5,
+        "en": "We were both born in the same hospital.",
+        "ar": "كلانا وُلد في المستشفى نفسه.",
+        "context": "تُقال عند ذكر صدفة مشتركة."
+      },
+      {
+        "id": 6,
+        "en": "Why does not your sister visit more often?",
+        "ar": "لماذا لا تزور أختك أكثر؟",
+        "context": "تُستخدم للسؤال عن قلة الزيارات."
+      },
+      {
+        "id": 7,
+        "en": "They complain about the noise all the time.",
+        "ar": "هم يشتكون من الضجيج طوال الوقت.",
+        "context": "تُقال لوصف شكوى متكررة."
+      },
+      {
+        "id": 8,
+        "en": "She does not complain about hard work.",
+        "ar": "هي لا تشتكي من العمل الشاق.",
+        "context": "تُستخدم لوصف شخص صبور."
+      },
+      {
+        "id": 9,
+        "en": "You were born in a big city.",
+        "ar": "أنت وُلدت في مدينة كبيرة.",
+        "context": "تُقال عند الحديث عن أصل شخص."
+      },
+      {
+        "id": 10,
+        "en": "Why does not he feel bored here?",
+        "ar": "لماذا لا يشعر بالملل هنا؟",
+        "context": "تُستخدم للمقارنة بين ردود فعل الناس."
+      }
+    ]
+  }
+}

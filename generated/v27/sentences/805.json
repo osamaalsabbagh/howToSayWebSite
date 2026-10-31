@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "id": 805,
+  "sentence": {
+    "en": "Who taught you that?",
+    "ar": "من علمك ذلك؟",
+    "context": "السؤال عن مصدر المعرفة أو التعليم."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Who taught you that?",
+        "ar": "من علمك ذلك؟",
+        "context": "سؤال عن الشخص الذي نقل معلومة أو مهارة في الماضي.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "الفعل taught هو ماضي teach ويستخدم لأن التعليم حدث قبل لحظة السؤال."
+        },
+        "wordMeanings": [
+          {
+            "term": "Who",
+            "description": "من؛ للسؤال عن الشخص"
+          },
+          {
+            "term": "taught",
+            "description": "علّم أو درّس في الماضي"
+          },
+          {
+            "term": "you",
+            "description": "الشخص المخاطب"
+          },
+          {
+            "term": "that",
+            "description": "ذلك الشيء أو تلك المعلومة"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Who taught you English?",
+        "ar": "من علمك الإنجليزية؟",
+        "context": "للسؤال عن معلم لغة."
+      },
+      {
+        "id": 2,
+        "en": "Who taught you to cook?",
+        "ar": "من علمك الطبخ؟",
+        "context": "للسؤال عن مصدر مهارة."
+      },
+      {
+        "id": 3,
+        "en": "Who told you that?",
+        "ar": "من أخبرك بذلك؟",
+        "context": "للسؤال عن مصدر معلومة."
+      },
+      {
+        "id": 4,
+        "en": "Who showed you this?",
+        "ar": "من أراك هذا؟",
+        "context": "للسؤال عن الشخص الذي عرض شيئا."
+      },
+      {
+        "id": 5,
+        "en": "Who taught her that?",
+        "ar": "من علمها ذلك؟",
+        "context": "للسؤال عن تعليم شخص آخر."
+      },
+      {
+        "id": 6,
+        "en": "Who taught you this song?",
+        "ar": "من علمك هذه الأغنية؟",
+        "context": "للسؤال عن مصدر أغنية."
+      },
+      {
+        "id": 7,
+        "en": "Who taught you to drive?",
+        "ar": "من علمك القيادة؟",
+        "context": "للسؤال عن تعلم القيادة."
+      },
+      {
+        "id": 8,
+        "en": "Who taught them Arabic?",
+        "ar": "من علمهم العربية؟",
+        "context": "للسؤال عن معلم مجموعة."
+      },
+      {
+        "id": 9,
+        "en": "Who taught you this word?",
+        "ar": "من علمك هذه الكلمة؟",
+        "context": "للسؤال عن مصدر كلمة."
+      },
+      {
+        "id": 10,
+        "en": "Who taught you the rule?",
+        "ar": "من علمك القاعدة؟",
+        "context": "للسؤال عن مصدر شرح قاعدة."
+      }
+    ]
+  }
+}

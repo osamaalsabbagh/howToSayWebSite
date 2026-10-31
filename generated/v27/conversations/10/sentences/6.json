@@ -1,0 +1,147 @@
+{
+  "schemaVersion": 1,
+  "id": 6,
+  "sentence": {
+    "en": "We can see it after two hours. Is that okay for you?",
+    "ar": "يمكننا رؤيتها بعد ساعتين. هل هذا مناسب لك؟",
+    "context": "الموظف يقترح موعدًا بعد ساعتين."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "We can see it after two hours.",
+        "ar": "يمكننا رؤيتها بعد ساعتين.",
+        "context": "يبيّن ما يمكن فعله أو ترتيبه في هذا الموقف.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "الجملة تستخدم can لاقتراح إمكانية معاينة الشقة بعد مدة محددة، لذلك تشرح كتركيب إمكانية لا كزمن مستقل."
+        },
+        "wordMeanings": [
+          {
+            "term": "We",
+            "description": "ضمير يشير إلى الموظف والزبون معًا."
+          },
+          {
+            "term": "can",
+            "description": "يدل على الإمكانية أو القدرة."
+          },
+          {
+            "term": "see",
+            "description": "تعني نرى أو نعاين."
+          },
+          {
+            "term": "it",
+            "description": "ضمير يعود على الشقة."
+          },
+          {
+            "term": "after",
+            "description": "تعني بعد."
+          },
+          {
+            "term": "two",
+            "description": "العدد اثنان."
+          },
+          {
+            "term": "hours",
+            "description": "ساعات."
+          }
+        ]
+      },
+      {
+        "sentence": "Is that okay for you?",
+        "ar": "هل هذا مناسب لك؟",
+        "context": "يُستخدم هذا السؤال للتحقق من حالة أو معلومة في هذا الموقف.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُعمل المضارع البسيط للسؤال عن ملاءمة الموعد المقترح للزبون الآن."
+        },
+        "wordMeanings": [
+          {
+            "term": "Is",
+            "description": "صيغة تبدأ سؤالًا عن الحالة أو الملاءمة."
+          },
+          {
+            "term": "that",
+            "description": "يشير إلى الموعد المقترح بعد ساعتين."
+          },
+          {
+            "term": "okay",
+            "description": "تعني مناسبًا أو مقبولًا."
+          },
+          {
+            "term": "for",
+            "description": "تعني بالنسبة إلى أو مناسبًا لـ."
+          },
+          {
+            "term": "you",
+            "description": "ضمير المخاطب، ويشير إلى الزبون."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "We can see it after one hour.",
+        "ar": "يمكننا رؤيتها بعد ساعة واحدة.",
+        "context": "تقترح موعد معاينة قريب."
+      },
+      {
+        "id": 2,
+        "en": "Is that okay for you?",
+        "ar": "هل هذا مناسب لك؟",
+        "context": "تتأكد من قبول الشخص للاقتراح."
+      },
+      {
+        "id": 3,
+        "en": "We can visit the apartment after lunch.",
+        "ar": "يمكننا زيارة الشقة بعد الغداء.",
+        "context": "تقترح وقتًا بعد وجبة."
+      },
+      {
+        "id": 4,
+        "en": "We can see it tomorrow morning.",
+        "ar": "يمكننا رؤيتها صباح الغد.",
+        "context": "تعرض موعدًا بديلًا."
+      },
+      {
+        "id": 5,
+        "en": "Is two hours okay for you?",
+        "ar": "هل ساعتان مناسبتان لك؟",
+        "context": "تسأل عن مدة الانتظار."
+      },
+      {
+        "id": 6,
+        "en": "We can meet after two hours.",
+        "ar": "يمكننا أن نلتقي بعد ساعتين.",
+        "context": "تحدد موعد لقاء لاحق."
+      },
+      {
+        "id": 7,
+        "en": "Is that time okay for you?",
+        "ar": "هل ذلك الوقت مناسب لك؟",
+        "context": "تسأل عن ملاءمة الموعد."
+      },
+      {
+        "id": 8,
+        "en": "We can check the key after two hours.",
+        "ar": "يمكننا التحقق من المفتاح بعد ساعتين.",
+        "context": "تحدد وقتًا لإجراء متعلق بالمفتاح."
+      },
+      {
+        "id": 9,
+        "en": "We can see it when the owner arrives.",
+        "ar": "يمكننا رؤيتها عندما يصل المالك.",
+        "context": "تربط المعاينة بوصول المالك."
+      },
+      {
+        "id": 10,
+        "en": "Is this plan okay for you?",
+        "ar": "هل هذه الخطة مناسبة لك؟",
+        "context": "تسأل عن قبول الخطة كاملة."
+      }
+    ]
+  }
+}

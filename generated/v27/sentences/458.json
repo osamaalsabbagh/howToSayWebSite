@@ -1,0 +1,135 @@
+{
+  "schemaVersion": 1,
+  "id": 458,
+  "sentence": {
+    "en": "He likes juice but he does not like milk",
+    "ar": "هو يحب العصير لكنه لا يحب الحليب.",
+    "context": "الحديث عن تفضيلات شخص في المشروبات."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "He likes juice",
+        "ar": "هو يحب العصير",
+        "context": "الجزء الأول يذكر مشروبًا يفضله الشخص.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استخدم المضارع البسيط للتعبير عن تفضيل ثابت."
+        },
+        "wordMeanings": [
+          {
+            "term": "He",
+            "description": "تشير إلى شخص مذكر."
+          },
+          {
+            "term": "likes",
+            "description": "تعني يحب أو يفضل."
+          },
+          {
+            "term": "juice",
+            "description": "مشروب مصنوع من الفاكهة غالبًا."
+          }
+        ]
+      },
+      {
+        "sentence": "but he does not like milk",
+        "ar": "لكنه لا يحب الحليب",
+        "context": "الجزء الثاني يوضح تفضيلًا معاكسًا باستخدام النفي.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استخدم does not مع الفاعل المفرد لنفي التفضيل في المضارع البسيط."
+        },
+        "wordMeanings": [
+          {
+            "term": "but",
+            "description": "تربط بين فكرتين متعارضتين."
+          },
+          {
+            "term": "he",
+            "description": "تشير إلى نفس الشخص المذكر."
+          },
+          {
+            "term": "does",
+            "description": "تساعد في تكوين النفي مع المفرد."
+          },
+          {
+            "term": "not",
+            "description": "تنفي الفعل بعدها."
+          },
+          {
+            "term": "like",
+            "description": "تعني يحب أو يفضل."
+          },
+          {
+            "term": "milk",
+            "description": "مشروب أبيض يأتي من الحيوانات غالبًا."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "He likes tea but he does not like coffee.",
+        "ar": "هو يحب الشاي لكنه لا يحب القهوة.",
+        "context": "مقارنة بين تفضيلين."
+      },
+      {
+        "id": 2,
+        "en": "She likes fish but she does not like meat.",
+        "ar": "هي تحب السمك لكنها لا تحب اللحم.",
+        "context": "وصف تفضيلات الطعام."
+      },
+      {
+        "id": 3,
+        "en": "I like juice.",
+        "ar": "أنا أحب العصير.",
+        "context": "إخبار عن مشروب مفضل."
+      },
+      {
+        "id": 4,
+        "en": "He does not like milk.",
+        "ar": "هو لا يحب الحليب.",
+        "context": "نفي تفضيل مشروب."
+      },
+      {
+        "id": 5,
+        "en": "They like water but they do not like soda.",
+        "ar": "هم يحبون الماء لكنهم لا يحبون المشروبات الغازية.",
+        "context": "مقارنة بين مشروبين."
+      },
+      {
+        "id": 6,
+        "en": "My brother likes orange juice.",
+        "ar": "أخي يحب عصير البرتقال.",
+        "context": "ذكر تفضيل شخص."
+      },
+      {
+        "id": 7,
+        "en": "She does not like cold milk.",
+        "ar": "هي لا تحب الحليب البارد.",
+        "context": "نفي تفضيل محدد."
+      },
+      {
+        "id": 8,
+        "en": "We like this restaurant but we do not like the music.",
+        "ar": "نحن نحب هذا المطعم لكننا لا نحب الموسيقى.",
+        "context": "مقارنة بين رأيين."
+      },
+      {
+        "id": 9,
+        "en": "He likes breakfast early.",
+        "ar": "هو يحب الفطور مبكرًا.",
+        "context": "ذكر عادة مفضلة."
+      },
+      {
+        "id": 10,
+        "en": "I do not like sweet juice.",
+        "ar": "أنا لا أحب العصير الحلو.",
+        "context": "نفي تفضيل طعم معين."
+      }
+    ]
+  }
+}

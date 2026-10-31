@@ -1,0 +1,135 @@
+{
+  "schemaVersion": 1,
+  "id": 186,
+  "sentence": {
+    "en": "I have a question I want to ask you.",
+    "ar": "لدي سؤال أريد أن أطرحه عليك.",
+    "context": "طلب مباشر وعفوي للسؤال."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "I have a question",
+        "ar": "لدي سؤال.",
+        "context": "يمهّد لطرح سؤال سيأتي بعده.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "يستخدم المضارع البسيط للتعبير عن حالة حالية لدى المتكلم، وهي أن لديه سؤالًا الآن."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "أنا، وتشير إلى المتكلم."
+          },
+          {
+            "term": "have",
+            "description": "لدي أو أملك."
+          },
+          {
+            "term": "a",
+            "description": "أداة تدل على شيء واحد غير محدد."
+          },
+          {
+            "term": "question",
+            "description": "سؤال."
+          }
+        ]
+      },
+      {
+        "sentence": "I want to ask you",
+        "ar": "أريد أن أطرحه عليك.",
+        "context": "يوضح السؤال الذي يريد المتحدث طرحه.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "يستخدم المضارع البسيط للتعبير عن رغبة حالية ومباشرة، ثم يأتي الفعل بصيغة المصدر ليشرح ما يريد المتكلم فعله."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "أنا، وتشير مرة أخرى إلى المتكلم."
+          },
+          {
+            "term": "want",
+            "description": "أريد أو أرغب."
+          },
+          {
+            "term": "to",
+            "description": "تربط الرغبة بالفعل بعدها."
+          },
+          {
+            "term": "ask",
+            "description": "أطرح سؤالًا أو أسأل."
+          },
+          {
+            "term": "you",
+            "description": "أنت أو عليك، وتشير إلى الشخص المخاطب."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I have a question I want to ask you.",
+        "ar": "لدي سؤال أريد أن أطرحه عليك.",
+        "context": "تقال عند طلب مباشر وعفوي للسؤال."
+      },
+      {
+        "id": 2,
+        "en": "I have a question for you.",
+        "ar": "لدي سؤال لك.",
+        "context": "تقال قبل طرح سؤال على شخص."
+      },
+      {
+        "id": 3,
+        "en": "I have something I want to ask you.",
+        "ar": "لدي شيء أريد أن أسألك عنه.",
+        "context": "تقال قبل سؤال خاص أو مهم."
+      },
+      {
+        "id": 4,
+        "en": "I have a problem I want to discuss.",
+        "ar": "لدي مشكلة أريد مناقشتها.",
+        "context": "تقال عند فتح موضوع يحتاج إلى حديث."
+      },
+      {
+        "id": 5,
+        "en": "I have a question about the ticket.",
+        "ar": "لدي سؤال عن التذكرة.",
+        "context": "تقال عند الاستفسار عن تذكرة."
+      },
+      {
+        "id": 6,
+        "en": "I want to ask you a question.",
+        "ar": "أريد أن أطرح عليك سؤالًا.",
+        "context": "تقال بصيغة مباشرة قبل السؤال."
+      },
+      {
+        "id": 7,
+        "en": "I have a question about the hotel.",
+        "ar": "لدي سؤال عن الفندق.",
+        "context": "تقال عند الاستفسار عن إقامة أو خدمة."
+      },
+      {
+        "id": 8,
+        "en": "I have a quick question.",
+        "ar": "لدي سؤال سريع.",
+        "context": "تقال عندما يكون السؤال قصيرًا."
+      },
+      {
+        "id": 9,
+        "en": "I have a question before we leave.",
+        "ar": "لدي سؤال قبل أن نغادر.",
+        "context": "تقال قبل المغادرة للتأكد من أمر."
+      },
+      {
+        "id": 10,
+        "en": "I have a question about this form.",
+        "ar": "لدي سؤال عن هذا النموذج.",
+        "context": "تقال عند ملء نموذج أو وثيقة."
+      }
+    ]
+  }
+}

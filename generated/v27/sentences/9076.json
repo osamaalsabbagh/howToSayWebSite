@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 1,
+  "id": 9076,
+  "sentence": {
+    "en": "I met the teacher whom you recommended.",
+    "ar": "أنا التقيت بالمعلم الذي أنت أوصيت به.",
+    "context": "مخاطبك أوصى بمعلم، وأنت تخبره بأسلوب رسمي متأنق أنك التقيت به.",
+    "sourceWord": "whom",
+    "sourcePos": "pron."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "I met the teacher",
+        "ar": "أنا التقيت بالمعلم",
+        "context": "أنت تخبر مخاطبك عن لقاء حدث.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "الماضي البسيط يصف لقاءً مكتملًا مع المعلم."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "أنا؛ ضمير المتكلم"
+          },
+          {
+            "term": "met",
+            "description": "التقيت؛ صيغة الماضي من فعل اللقاء"
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف للمعلم"
+          },
+          {
+            "term": "teacher",
+            "description": "معلم"
+          }
+        ]
+      },
+      {
+        "sentence": "whom you recommended.",
+        "ar": "الذي أنت أوصيت به.",
+        "context": "أنت تحدد أن المعلم هو الشخص الذي اقترحه مخاطبك عليك قبل اللقاء.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "جملة موصولة في الماضي البسيط تحدد المعلم الذي أوصى به المخاطب؛ الضمير الموصول في موضع المفعول."
+        },
+        "wordMeanings": [
+          {
+            "term": "whom",
+            "description": "الذي؛ ضمير موصول رسمي يعود إلى الموصى به"
+          },
+          {
+            "term": "you",
+            "description": "أنت؛ فاعل مخاطب"
+          },
+          {
+            "term": "recommended",
+            "description": "أوصيت به؛ صيغة الماضي"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I met the teacher whom you recommended.",
+        "ar": "أنا التقيت بالمعلم الذي أنت أوصيت به.",
+        "context": "مخاطبك أوصى بمعلم، وأنت تخبره بأسلوب رسمي متأنق أنك التقيت به."
+      },
+      {
+        "id": 2,
+        "en": "This is the colleague whom I trust.",
+        "ar": "هذا هو الزميل الذي أنا أثق به.",
+        "context": "عرّف بزميل تثق به مستخدمًا ضمير موصول رسميًا للشخص الواقع في موضع المفعول."
+      },
+      {
+        "id": 3,
+        "en": "Whom did the committee select for the scholarship?",
+        "ar": "من الذي اللجنة اختارته للمنحة الدراسية؟",
+        "context": "أنت تسأل بأسلوب رسمي عن الشخص الذي اختارته لجنة أمس للحصول على منحة دراسية."
+      },
+      {
+        "id": 4,
+        "en": "He is the artist whom I admire.",
+        "ar": "هو الفنان الذي أنا أعجب به.",
+        "context": "عرّف بفنان تعجب به مستخدمًا تركيبًا رسميًا."
+      },
+      {
+        "id": 5,
+        "en": "I thanked the woman whom he helped.",
+        "ar": "أنا شكرت المرأة التي هو ساعدها.",
+        "context": "تحدث عن شكر امرأة ساعدها رجل في الماضي."
+      },
+      {
+        "id": 6,
+        "en": "We hired the designer whom she suggested.",
+        "ar": "نحن وظفنا المصمم الذي هي اقترحته.",
+        "context": "تحدث عن توظيف مصمم اقترحته امرأة."
+      },
+      {
+        "id": 7,
+        "en": "I called the friend whom you met.",
+        "ar": "أنا اتصلت بالصديق الذي أنت التقيت به.",
+        "context": "تحدث عن اتصالك بصديق التقى به المخاطب."
+      },
+      {
+        "id": 8,
+        "en": "They know the author whom I mentioned.",
+        "ar": "هم يعرفون الكاتب الذي أنا ذكرته.",
+        "context": "صف معرفة مجموعة بكاتب ذكرته سابقًا."
+      },
+      {
+        "id": 9,
+        "en": "This is the guest whom we expected.",
+        "ar": "هذا هو الضيف الذي نحن توقعناه.",
+        "context": "عرّف بالضيف الذي كنتم تنتظرون وصوله."
+      },
+      {
+        "id": 10,
+        "en": "I respect the mentor whom she trusts.",
+        "ar": "أنا أحترم المرشد الذي هي تثق به.",
+        "context": "عبّر عن احترامك لمرشد تثق به امرأة."
+      }
+    ]
+  }
+}

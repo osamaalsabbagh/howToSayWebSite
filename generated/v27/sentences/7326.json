@@ -1,0 +1,149 @@
+{
+  "schemaVersion": 1,
+  "id": 7326,
+  "sentence": {
+    "en": "Initially, I did not like the city, but now I love it.",
+    "ar": "في البداية، أنا لم أحب المدينة، لكن الآن أنا أعشقها.",
+    "context": "مقارنة عدم إعجاب المتكلم بالمدينة في البداية بمحبة شديدة لها الآن.",
+    "sourceWord": "initially",
+    "sourcePos": "adv."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Initially, I did not like the city,",
+        "ar": "في البداية، أنا لم أحب المدينة،",
+        "context": "وصف عدم إعجاب المتكلم بالمدينة في البداية.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "الماضي البسيط في النفي. الظرف يعني في البداية."
+        },
+        "wordMeanings": [
+          {
+            "term": "Initially",
+            "description": "في البداية."
+          },
+          {
+            "term": "I",
+            "description": "أنا."
+          },
+          {
+            "term": "did",
+            "description": "مساعد النفي في الماضي."
+          },
+          {
+            "term": "not",
+            "description": "لم."
+          },
+          {
+            "term": "like",
+            "description": "أحب."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف تأتي مع المدينة."
+          },
+          {
+            "term": "city",
+            "description": "المدينة."
+          }
+        ]
+      },
+      {
+        "sentence": "but now I love it.",
+        "ar": "لكن الآن أنا أعشقها.",
+        "context": "بيان محبة شديدة للمدينة الآن بالمقارنة مع البداية.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "المضارع البسيط يصف شعورًا حاليًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "but",
+            "description": "لكن."
+          },
+          {
+            "term": "now",
+            "description": "الآن."
+          },
+          {
+            "term": "I",
+            "description": "أنا."
+          },
+          {
+            "term": "love",
+            "description": "أعشق؛ أحب بشدة."
+          },
+          {
+            "term": "it",
+            "description": "ها؛ ضمير يعود على المدينة."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Initially, I did not like the city, but now I love it.",
+        "ar": "في البداية، أنا لم أحب المدينة، لكن الآن أنا أعشقها.",
+        "context": "مقارنة عدم إعجاب المتكلم بالمدينة في البداية بمحبة شديدة لها الآن."
+      },
+      {
+        "id": 2,
+        "en": "The project was initially planned for one year.",
+        "ar": "المشروع كان مخططًا له في البداية لسنة واحدة.",
+        "context": "بيان المدة المقررة عند وضع الخطة الأولى دون تقرير المدة الفعلية."
+      },
+      {
+        "id": 3,
+        "en": "The room initially served as a library.",
+        "ar": "الغرفة استُخدمت في البداية مكتبةً.",
+        "context": "وصف الاستخدام الأول لغرفة في الماضي."
+      },
+      {
+        "id": 4,
+        "en": "She initially refused the invitation.",
+        "ar": "هي رفضت الدعوة في البداية.",
+        "context": "بيان أول رد على دعوة دون تحديد القرار النهائي."
+      },
+      {
+        "id": 5,
+        "en": "We initially underestimated the distance.",
+        "ar": "نحن قدرنا المسافة في البداية بأقل من حقيقتها.",
+        "context": "وصف خطأ في تقدير أولي سابق."
+      },
+      {
+        "id": 6,
+        "en": "The device will initially run on battery power.",
+        "ar": "الجهاز سيعمل في البداية بطاقة البطارية.",
+        "context": "توقع مصدر الطاقة خلال مرحلة التشغيل الأولى."
+      },
+      {
+        "id": 7,
+        "en": "The course initially focuses on listening.",
+        "ar": "الدورة تركز في البداية على الاستماع.",
+        "context": "وصف موضوع تتناوله الدورة في مراحلها المبكرة."
+      },
+      {
+        "id": 8,
+        "en": "Please limit access initially to the test team.",
+        "ar": "من فضلك اقصر الوصول في البداية على فريق الاختبار.",
+        "context": "طلب تقييد المستخدمين في أول فترة من التشغيل."
+      },
+      {
+        "id": 9,
+        "en": "The idea initially seemed impractical.",
+        "ar": "الفكرة بدت غير عملية في البداية.",
+        "context": "وصف انطباع سابق أول عن قابلية تنفيذ فكرة."
+      },
+      {
+        "id": 10,
+        "en": "The shop initially sold only books.",
+        "ar": "المحل باع كتبًا فقط في البداية.",
+        "context": "تحديد نطاق مبيعات محل عند بدء نشاطه."
+      }
+    ]
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 1,
+  "id": 7086,
+  "sentence": {
+    "en": "Please ensure that all windows are closed.",
+    "ar": "من فضلك تأكد من أن كل النوافذ مغلقة.",
+    "context": "طلب التحقق من إغلاق جميع النوافذ والقيام بما يلزم لتحقيق ذلك.",
+    "sourceWord": "ensure",
+    "sourcePos": "v."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Please ensure",
+        "ar": "من فضلك تأكد من",
+        "context": "طلب تحقق يحقق النتيجة المطلوبة لا مجرد نظرة عابرة.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "يقدم Please ensure طلبًا مهذبًا للتأكد من تحقق الحالة التالية."
+        },
+        "wordMeanings": [
+          {
+            "term": "Please",
+            "description": "من فضلك."
+          },
+          {
+            "term": "ensure",
+            "description": "تأكد من."
+          }
+        ]
+      },
+      {
+        "sentence": "that all windows are closed.",
+        "ar": "أن كل النوافذ مغلقة.",
+        "context": "تحديد النتيجة المطلوبة بأنها إغلاق جميع النوافذ.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "تصف are مع closed حالة النوافذ بأنها مغلقة، لا عملية إغلاق تجري الآن."
+        },
+        "wordMeanings": [
+          {
+            "term": "that",
+            "description": "أن."
+          },
+          {
+            "term": "all",
+            "description": "كل."
+          },
+          {
+            "term": "windows",
+            "description": "النوافذ."
+          },
+          {
+            "term": "are",
+            "description": "صيغة الحاضر للكينونة مع الجمع."
+          },
+          {
+            "term": "closed",
+            "description": "مغلقة؛ في حالة إغلاق."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Please ensure that all windows are closed.",
+        "ar": "من فضلك تأكد من أن كل النوافذ مغلقة.",
+        "context": "طلب التحقق من إغلاق جميع النوافذ والقيام بما يلزم لتحقيق ذلك."
+      },
+      {
+        "id": 2,
+        "en": "The guards ensure the safety of the visitors.",
+        "ar": "الحراس يضمنون سلامة الزوار.",
+        "context": "وصف دور الحراس المعتاد في حماية الزوار دون افتراض متحف أو حادث معين."
+      },
+      {
+        "id": 3,
+        "en": "The seal ensures a tight fit.",
+        "ar": "الحشية تضمن تركيبًا محكمًا.",
+        "context": "وصف وظيفة جزء يمنع الفراغ بين قطعتين في الآلية المقصودة."
+      },
+      {
+        "id": 4,
+        "en": "She ensured that everyone received a copy.",
+        "ar": "هي تأكدت من أن الجميع تلقوا نسخة.",
+        "context": "وصف إجراء سابق جعل حصول جميع المعنيين على مستند أمرًا متحققًا."
+      },
+      {
+        "id": 5,
+        "en": "We have ensured equal access to the materials.",
+        "ar": "نحن قد ضمنا وصولًا متساويًا إلى المواد.",
+        "context": "الإبلاغ عن ترتيب مكتمل يتيح موارد للمشاركين على نحو متساوٍ."
+      },
+      {
+        "id": 6,
+        "en": "The team is ensuring continuity during the move.",
+        "ar": "الفريق يضمن الاستمرارية أثناء الانتقال.",
+        "context": "وصف عمل جارٍ لمنع انقطاع نشاط عند تغيير موضعه."
+      },
+      {
+        "id": 7,
+        "en": "The extra support will ensure stability.",
+        "ar": "الدعامة الإضافية ستضمن الثبات.",
+        "context": "توقع أثر لتقوية بنية في الحالة المقصودة."
+      },
+      {
+        "id": 8,
+        "en": "Please ensure accurate spelling of each name.",
+        "ar": "من فضلك تأكد من كتابة كل اسم كتابة صحيحة.",
+        "context": "طلب مراجعة تهجئة أسماء وإصلاح الخطأ إن وجد."
+      },
+      {
+        "id": 9,
+        "en": "The organizer ensured a place for every speaker.",
+        "ar": "المنظم ضمن مكانًا لكل متحدث.",
+        "context": "وصف ترتيب سابق أتاح موضعًا لجميع من سيقدمون الكلام."
+      },
+      {
+        "id": 10,
+        "en": "Regular coordination ensures smooth handovers in this process.",
+        "ar": "التنسيق المنتظم يضمن انتقالات سلسة للمسؤولية في هذه العملية.",
+        "context": "وصف دور تواصل متكرر في نقل مهام بين المشاركين في إجراء معين."
+      }
+    ]
+  }
+}

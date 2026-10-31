@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": 6986,
+  "sentence": {
+    "en": "The flight was delayed because of the storm.",
+    "ar": "الرحلة تأخرت بسبب العاصفة.",
+    "context": "وصف تأخر سابق عن موعد الرحلة نتيجة عاصفة دون افتراض أن المتكلم ما زال في المطار.",
+    "sourceWord": "delay",
+    "sourcePos": "v."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "The flight was delayed because of the storm.",
+        "ar": "الرحلة تأخرت بسبب العاصفة.",
+        "context": "وصف تأخر سابق عن موعد الرحلة نتيجة عاصفة دون افتراض أن المتكلم ما زال في المطار.",
+        "grammar": {
+          "tense": "الماضي البسيط المبني للمجهول",
+          "tenseEn": "Past Simple Passive",
+          "reason": "تصف was delayed تأخيرًا وقع على الرحلة في وقت سابق، وتوضح العبارة الأخيرة سببه."
+        },
+        "wordMeanings": [
+          {
+            "term": "The",
+            "description": "أداة تعريف تأتي مع الرحلة."
+          },
+          {
+            "term": "flight",
+            "description": "الرحلة."
+          },
+          {
+            "term": "was",
+            "description": "مساعد المبني للمجهول في الماضي."
+          },
+          {
+            "term": "delayed",
+            "description": "تأخرت؛ أُخرت."
+          },
+          {
+            "term": "because",
+            "description": "بسبب."
+          },
+          {
+            "term": "of",
+            "description": "جزء من بسبب."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف تأتي مع العاصفة."
+          },
+          {
+            "term": "storm",
+            "description": "العاصفة."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "The flight was delayed because of the storm.",
+        "ar": "الرحلة تأخرت بسبب العاصفة.",
+        "context": "وصف تأخر سابق عن موعد الرحلة نتيجة عاصفة دون افتراض أن المتكلم ما زال في المطار."
+      },
+      {
+        "id": 2,
+        "en": "Please do not delay your reply.",
+        "ar": "من فضلك لا تؤخر ردك.",
+        "context": "طلب الاستجابة دون إرجاء."
+      },
+      {
+        "id": 3,
+        "en": "Heavy traffic delays the bus every morning.",
+        "ar": "الازدحام المروري يؤخر الحافلة كل صباح.",
+        "context": "وصف سبب متكرر لتأخر وسيلة نقل."
+      },
+      {
+        "id": 4,
+        "en": "We have delayed the launch until Monday.",
+        "ar": "نحن قد أجّلنا الإطلاق حتى الاثنين.",
+        "context": "الإبلاغ عن تغيير مكتمل لموعد بدء مشروع أو منتج."
+      },
+      {
+        "id": 5,
+        "en": "They are delaying the decision for another week.",
+        "ar": "هم يؤجلون القرار أسبوعًا آخر.",
+        "context": "وصف إرجاء جارٍ للحسم."
+      },
+      {
+        "id": 6,
+        "en": "The repairs will delay the opening.",
+        "ar": "الإصلاحات ستؤخر الافتتاح.",
+        "context": "توقع إرجاء بدء استخدام مكان."
+      },
+      {
+        "id": 7,
+        "en": "The missing key delayed our departure.",
+        "ar": "المفتاح المفقود أخّر مغادرتنا.",
+        "context": "وصف عائق سابق منع الانطلاق في الموعد."
+      },
+      {
+        "id": 8,
+        "en": "She delayed signing the contract.",
+        "ar": "هي أجّلت توقيع العقد.",
+        "context": "وصف إرجاء سابق لإتمام اتفاق مكتوب."
+      },
+      {
+        "id": 9,
+        "en": "This setting delays the signal by two seconds.",
+        "ar": "هذا الإعداد يؤخر الإشارة ثانيتين.",
+        "context": "وصف وظيفة تقنية تفصل بين حدث وإشارة مرتبطة به."
+      },
+      {
+        "id": 10,
+        "en": "The narrator delayed revealing the answer.",
+        "ar": "الراوي أجّل كشف الإجابة.",
+        "context": "وصف ترتيب سابق للمعلومات في حكاية."
+      }
+    ]
+  }
+}

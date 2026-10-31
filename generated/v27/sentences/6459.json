@@ -1,0 +1,145 @@
+{
+  "schemaVersion": 1,
+  "id": 6459,
+  "sentence": {
+    "en": "The tickets sold out. Therefore, we will watch it at home.",
+    "ar": "التذاكر نفدت. لذلك، نحن سنشاهده في البيت.",
+    "context": "ربط قرار مشاهدة عرض من المنزل بنفاد تذاكر حضوره دون تحديد نوع العرض أو وسيلة المشاهدة.",
+    "sourceWord": "therefore",
+    "sourcePos": "adv."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "The tickets sold out.",
+        "ar": "التذاكر نفدت.",
+        "context": "وصف نفاد سابق لتذاكر حضور عرض.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "الماضي البسيط يصف حدثًا انتهى. الفعل مع الظرف يعني بيعت كلها."
+        },
+        "wordMeanings": [
+          {
+            "term": "The",
+            "description": "أداة تعريف تأتي مع التذاكر."
+          },
+          {
+            "term": "tickets",
+            "description": "التذاكر."
+          },
+          {
+            "term": "sold",
+            "description": "بيعت؛ مع الظرف التالي تعني نفدت."
+          },
+          {
+            "term": "out",
+            "description": "مع الفعل السابق تعني نفدت."
+          }
+        ]
+      },
+      {
+        "sentence": "Therefore, we will watch it at home.",
+        "ar": "لذلك، نحن سنشاهده في البيت.",
+        "context": "تقديم قرار بالمشاهدة في المنزل نتيجة لنفاد التذاكر.",
+        "grammar": {
+          "tense": "المستقبل البسيط",
+          "tenseEn": "Future Simple",
+          "reason": "المستقبل البسيط يصف قرارًا. الظرف في أول الجملة يربطها بالسبب."
+        },
+        "wordMeanings": [
+          {
+            "term": "Therefore",
+            "description": "لذلك؛ لهذا السبب."
+          },
+          {
+            "term": "we",
+            "description": "نحن."
+          },
+          {
+            "term": "will",
+            "description": "فعل مساعد للمستقبل."
+          },
+          {
+            "term": "watch",
+            "description": "نشاهد."
+          },
+          {
+            "term": "it",
+            "description": "ه؛ ضمير يشير إلى المباراة."
+          },
+          {
+            "term": "at",
+            "description": "في."
+          },
+          {
+            "term": "home",
+            "description": "البيت."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "The tickets sold out. Therefore, we will watch it at home.",
+        "ar": "التذاكر نفدت. لذلك، نحن سنشاهده في البيت.",
+        "context": "ربط قرار مشاهدة عرض من المنزل بنفاد تذاكر حضوره دون تحديد نوع العرض أو وسيلة المشاهدة."
+      },
+      {
+        "id": 2,
+        "en": "The road is closed; therefore, the bus takes another route.",
+        "ar": "الطريق مغلق؛ لذلك، الحافلة تسلك مسارًا آخر.",
+        "context": "تقديم تغير في مسار نقل بوصفه نتيجة لإغلاق طريق."
+      },
+      {
+        "id": 3,
+        "en": "The sample was too small and therefore unreliable.",
+        "ar": "العينة كانت صغيرة أكثر من اللازم ولذلك غير موثوقة.",
+        "context": "وصف تقييم سابق لضعف استنتاج بسبب قلة حجم العينة."
+      },
+      {
+        "id": 4,
+        "en": "We have finished early and can therefore help you.",
+        "ar": "نحن قد انتهينا مبكرًا ولذلك نستطيع مساعدتك.",
+        "context": "ربط توافر قدرة حالية على المساعدة بانتهاء عمل قبل الوقت المتوقع."
+      },
+      {
+        "id": 5,
+        "en": "The team is expanding and therefore needs more space.",
+        "ar": "الفريق يتوسع ولذلك يحتاج إلى مساحة أكبر.",
+        "context": "ربط حاجة حالية إلى مكان إضافي بنمو جارٍ."
+      },
+      {
+        "id": 6,
+        "en": "The weather will be cold; therefore, we will meet indoors.",
+        "ar": "الطقس سيكون باردًا؛ لذلك، نحن سنلتقي في الداخل.",
+        "context": "ربط اختيار مكان لقاء مرتقب بتوقع الطقس."
+      },
+      {
+        "id": 7,
+        "en": "The figures are incomplete and should therefore be checked.",
+        "ar": "الأرقام غير مكتملة ولذلك ينبغي فحصها.",
+        "context": "استخلاص حاجة إلى مراجعة من نقص في بيانات."
+      },
+      {
+        "id": 8,
+        "en": "The key was missing; therefore, the cabinet stayed locked.",
+        "ar": "المفتاح كان مفقودًا؛ لذلك، الخزانة بقيت مقفلة.",
+        "context": "ربط بقاء سابق لإغلاق خزانة بغياب وسيلة فتحها."
+      },
+      {
+        "id": 9,
+        "en": "Please label the boxes; they will therefore be easier to identify.",
+        "ar": "من فضلك ضع بطاقات على الصناديق؛ هي ستكون لذلك أسهل تمييزًا.",
+        "context": "توضيح النتيجة المتوقعة لطلب وضع علامات تعريفية."
+      },
+      {
+        "id": 10,
+        "en": "The design uses less material and is therefore lighter.",
+        "ar": "التصميم يستخدم مادة أقل ولذلك هو أخف.",
+        "context": "ربط انخفاض الوزن بقلة المادة المستخدمة."
+      }
+    ]
+  }
+}

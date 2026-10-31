@@ -1,0 +1,125 @@
+{
+  "schemaVersion": 1,
+  "id": 9765,
+  "sentence": {
+    "en": "Do not exceed the speed limit near the school.",
+    "ar": "لا تتجاوز حد السرعة قرب المدرسة.",
+    "context": "أنت تنبه المخاطب إلى عدم تخطي السرعة المسموح بها قرب المدرسة.",
+    "sourceWord": "exceed",
+    "sourcePos": "v."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Do not exceed the speed limit near the school.",
+        "ar": "لا تتجاوز حد السرعة قرب المدرسة.",
+        "context": "أنت تنبه المخاطب إلى عدم تخطي السرعة المسموح بها قرب المدرسة.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "صيغة النهي تطلب عدم فعل شيء. الفعل يعني يزيد عن حد معين."
+        },
+        "wordMeanings": [
+          {
+            "term": "Do",
+            "description": "مساعد النهي."
+          },
+          {
+            "term": "not",
+            "description": "لا."
+          },
+          {
+            "term": "exceed",
+            "description": "تتجاوز."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف تأتي مع الحد."
+          },
+          {
+            "term": "speed",
+            "description": "السرعة."
+          },
+          {
+            "term": "limit",
+            "description": "حد."
+          },
+          {
+            "term": "near",
+            "description": "قرب."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف تأتي مع المدرسة."
+          },
+          {
+            "term": "school",
+            "description": "المدرسة."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Do not exceed the speed limit near the school.",
+        "ar": "لا تتجاوز حد السرعة قرب المدرسة.",
+        "context": "أنت تنبه المخاطب إلى عدم تخطي السرعة المسموح بها قرب المدرسة."
+      },
+      {
+        "id": 2,
+        "en": "The hotel exceeded all our expectations.",
+        "ar": "الفندق فاق كل توقعاتنا.",
+        "context": "حجزتم فندقًا رخيصًا للعطلة الماضية، لكن الغرف والطعام كانت أجمل بكثير مما ظننتم."
+      },
+      {
+        "id": 3,
+        "en": "The repair cost exceeded the original estimate.",
+        "ar": "تكلفة الإصلاح تجاوزت التقدير الأصلي.",
+        "context": "أنت تشرح سبب دفع مبلغ أكبر مما حدده الفني في بداية العمل."
+      },
+      {
+        "id": 4,
+        "en": "Her luggage exceeds the permitted weight.",
+        "ar": "أمتعتها تتجاوز الوزن المسموح به.",
+        "context": "أنت تصف نتيجة وزن حقيبة عند شباك السفر."
+      },
+      {
+        "id": 5,
+        "en": "We have exceeded our target for book donations.",
+        "ar": "نحن تجاوزنا هدفنا لجمع الكتب المتبرع بها.",
+        "context": "أنت تعلن للفريق أن العدد المطلوب تحقق وزادت عليه كتب أخرى."
+      },
+      {
+        "id": 6,
+        "en": "The number of visitors exceeded the hall's capacity.",
+        "ar": "عدد الزوار تجاوز سعة القاعة.",
+        "context": "أنت تتذكر اضطرار المنظمين إلى إبقاء بعض الحاضرين خارج قاعة ممتلئة."
+      },
+      {
+        "id": 7,
+        "en": "The essay must not exceed one thousand words.",
+        "ar": "المقال يجب ألا يتجاوز ألف كلمة.",
+        "context": "أنت تذكر طالبًا بالحد الأعلى لطول المهمة الكتابية."
+      },
+      {
+        "id": 8,
+        "en": "They will exceed the budget without a change of plan.",
+        "ar": "هم سيتجاوزون الميزانية دون تغيير الخطة.",
+        "context": "أنت تتوقع زيادة المصروفات على المبلغ المتاح إن استمرت الترتيبات الحالية."
+      },
+      {
+        "id": 9,
+        "en": "His responsibilities exceeded his authority.",
+        "ar": "مسؤولياته تجاوزت صلاحياته.",
+        "context": "أنت تصف موظفًا طُلب منه حل مسائل لا يملك حق اتخاذ القرار فيها."
+      },
+      {
+        "id": 10,
+        "en": "The new battery exceeds the old one in performance.",
+        "ar": "البطارية الجديدة تتفوق على القديمة في الأداء.",
+        "context": "أنت تقارن مدة تشغيل جهاز باستخدام بطاريتين مختلفتين."
+      }
+    ]
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "schemaVersion": 1,
+  "id": 7148,
+  "sentence": {
+    "en": "It is not your fault that the plan failed.",
+    "ar": "ليس خطأك أن الخطة فشلت.",
+    "context": "طمأنة تنفي مسؤولية المخاطب عن فشل خطة دون تحديد سبب الفشل أو علاقة المتكلمين.",
+    "sourceWord": "fault",
+    "sourcePos": "n."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "It is not your fault",
+        "ar": "ليس خطأك",
+        "context": "نفي اللوم عن المخاطب في واقعة معينة.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "المضارع البسيط في النفي. الاسم يعني المسؤولية عن خطأ."
+        },
+        "wordMeanings": [
+          {
+            "term": "It",
+            "description": "فاعل شكلي يشير إلى ما بعده."
+          },
+          {
+            "term": "is",
+            "description": "صيغة الحاضر للكينونة."
+          },
+          {
+            "term": "not",
+            "description": "ليس."
+          },
+          {
+            "term": "your",
+            "description": "ضمير ملكية للمخاطب."
+          },
+          {
+            "term": "fault",
+            "description": "خطأك."
+          }
+        ]
+      },
+      {
+        "sentence": "that the plan failed.",
+        "ar": "أن الخطة فشلت.",
+        "context": "تحديد الواقعة بأنها فشل سابق لخطة.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "الماضي البسيط يصف حدثًا انتهى."
+        },
+        "wordMeanings": [
+          {
+            "term": "that",
+            "description": "أن."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف تأتي مع الخطة."
+          },
+          {
+            "term": "plan",
+            "description": "الخطة."
+          },
+          {
+            "term": "failed",
+            "description": "فشلت."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "It is not your fault that the plan failed.",
+        "ar": "ليس خطأك أن الخطة فشلت.",
+        "context": "طمأنة تنفي مسؤولية المخاطب عن فشل خطة دون تحديد سبب الفشل أو علاقة المتكلمين."
+      },
+      {
+        "id": 2,
+        "en": "The engineer found a fault in the system.",
+        "ar": "المهندس وجد عطلًا في النظام.",
+        "context": "وصف اكتشاف سابق لخلل تقني دون تعيين وتيرة التعطل أو طريقة العثور عليه."
+      },
+      {
+        "id": 3,
+        "en": "The essay has one serious fault.",
+        "ar": "المقال فيه عيب خطير واحد.",
+        "context": "تقييم نقطة ضعف كبيرة في نص."
+      },
+      {
+        "id": 4,
+        "en": "She admitted that the mistake was her fault.",
+        "ar": "هي أقرت بأن الخطأ كان مسؤوليتها.",
+        "context": "وصف إقرار سابق بتحمل اللوم عن تصرف."
+      },
+      {
+        "id": 5,
+        "en": "We have corrected the design fault.",
+        "ar": "نحن قد صححنا عيب التصميم.",
+        "context": "الإبلاغ عن إصلاح مكتمل لخلل في بنية عمل."
+      },
+      {
+        "id": 6,
+        "en": "The team is tracing an electrical fault.",
+        "ar": "الفريق يتتبع عطلًا كهربائيًا.",
+        "context": "وصف بحث جارٍ عن موضع خلل في توصيل أو جهاز."
+      },
+      {
+        "id": 7,
+        "en": "The report will identify the main fault in the argument.",
+        "ar": "التقرير سيحدد العيب الرئيسي في الحجة.",
+        "context": "توقع بيان خلل منطقي في قول."
+      },
+      {
+        "id": 8,
+        "en": "Please do not find fault with every suggestion.",
+        "ar": "من فضلك لا تتصيد العيوب في كل اقتراح.",
+        "context": "طلب تقليل النقد الدائم للأفكار."
+      },
+      {
+        "id": 9,
+        "en": "The player served a fault at a crucial moment.",
+        "ar": "اللاعب ارتكب خطأ إرسال في لحظة حاسمة.",
+        "context": "وصف إرسال سابق غير صحيح في لعبة مضرب دون تفصيل قاعدة بعينها."
+      },
+      {
+        "id": 10,
+        "en": "The accident happened through no fault of her own.",
+        "ar": "الحادث وقع دون أي خطأ منها.",
+        "context": "وصف واقعة سابقة لا تتحمل المرأة المسؤولية عنها."
+      }
+    ]
+  }
+}

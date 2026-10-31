@@ -1,0 +1,113 @@
+{
+  "schemaVersion": 1,
+  "id": 6109,
+  "sentence": {
+    "en": "My brother is learning to program.",
+    "ar": "أخي يتعلم أن يبرمج.",
+    "context": "وصف تعلم جارٍ لدى أخ المتكلم لكتابة تعليمات حاسوبية.",
+    "sourceWord": "program",
+    "sourcePos": "v."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "My brother is learning to program.",
+        "ar": "أخي يتعلم أن يبرمج.",
+        "context": "وصف تعلم جارٍ لدى أخ المتكلم لكتابة تعليمات حاسوبية.",
+        "grammar": {
+          "tense": "المضارع المستمر",
+          "tenseEn": "Present Continuous",
+          "reason": "المضارع المستمر يصف نشاطًا يجري في الفترة الحالية. بعد فعل التعلم يأتي المصدر."
+        },
+        "wordMeanings": [
+          {
+            "term": "My",
+            "description": "ضمير ملكية للمتكلم؛ الخاص بي."
+          },
+          {
+            "term": "brother",
+            "description": "أخ."
+          },
+          {
+            "term": "is",
+            "description": "صيغة الحاضر للكينونة تساعد في بناء الزمن المستمر."
+          },
+          {
+            "term": "learning",
+            "description": "يتعلم؛ صيغة الاستمرار."
+          },
+          {
+            "term": "to",
+            "description": "أن؛ حرف المصدر."
+          },
+          {
+            "term": "program",
+            "description": "يبرمج؛ يكتب تعليمات للحاسوب."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "My brother is learning to program.",
+        "ar": "أخي يتعلم أن يبرمج.",
+        "context": "وصف تعلم جارٍ لدى أخ المتكلم لكتابة تعليمات حاسوبية."
+      },
+      {
+        "id": 2,
+        "en": "The technician programs the display to show a different message each morning.",
+        "ar": "الفني يبرمج شاشة العرض لتُظهر رسالة مختلفة كل صباح.",
+        "context": "وصف ضبط متكرر لمحتوى مرئي يعمل آليًا."
+      },
+      {
+        "id": 3,
+        "en": "The researcher programmed a model that compares different routes through the city.",
+        "ar": "الباحث برمج نموذجًا يقارن مسارات مختلفة عبر المدينة.",
+        "context": "رواية عن كتابة تعليمات حاسوبية لدراسة تنقل."
+      },
+      {
+        "id": 4,
+        "en": "We have programmed the heating to come on before the first class.",
+        "ar": "نحن قد برمجنا التدفئة لتعمل قبل الدرس الأول.",
+        "context": "الإبلاغ عن إعداد مكتمل لتوقيت تشغيل مرفق."
+      },
+      {
+        "id": 5,
+        "en": "The students are programming a game in which a boat collects floating objects.",
+        "ar": "الطلاب يبرمجون لعبة يجمع فيها قارب أغراضًا عائمة.",
+        "context": "وصف إنشاء جارٍ لنشاط رقمي ذي فكرة محددة."
+      },
+      {
+        "id": 6,
+        "en": "The engineer will program the controller to stop the belt when the box reaches the sensor.",
+        "ar": "المهندس سيبرمج وحدة التحكم لإيقاف الحزام عندما يصل الصندوق إلى المستشعر.",
+        "context": "توقع إعداد تعليمات لتنظيم جزء من نظام آلي."
+      },
+      {
+        "id": 7,
+        "en": "The lights can be programmed to dim gradually during the performance.",
+        "ar": "الأضواء يمكن برمجتها لتخفت تدريجيًا أثناء العرض.",
+        "context": "وصف إمكانية ضبط أثر بصري وفق تسلسل زمني."
+      },
+      {
+        "id": 8,
+        "en": "The designer programmed the sign to change when the shop closed.",
+        "ar": "المصمم برمج اللافتة لتتغير عند إغلاق المتجر.",
+        "context": "رواية عن إعداد استجابة مرئية تلقائية لحالة مكان."
+      },
+      {
+        "id": 9,
+        "en": "The course teaches beginners to program small tools for organizing their files.",
+        "ar": "الدورة تعلّم المبتدئين برمجة أدوات صغيرة لتنظيم ملفاتهم.",
+        "context": "وصف غرض عملي من تعليم كتابة برامج."
+      },
+      {
+        "id": 10,
+        "en": "The alarm was programmed for six in the morning.",
+        "ar": "المنبه بُرمج للساعة السادسة صباحًا.",
+        "context": "وصف إعداد سابق لجهاز تنبيه في موعد محدد."
+      }
+    ]
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "schemaVersion": 1,
+  "id": 68,
+  "sentence": {
+    "en": "I think it is very good.",
+    "ar": "أعتقد أنه جيد جدًا.",
+    "context": "أبدِ رأيًا إيجابيًا."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "I think",
+        "ar": "أعتقد.",
+        "context": "يمهّد لرأي شخصي قبل ذكر الفكرة نفسها.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "تستخدم think في المضارع البسيط للتعبير عن رأي المتكلم الحالي."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير المتكلم ويشير إلى الشخص الذي يتحدث."
+          },
+          {
+            "term": "think",
+            "description": "أعتقد أو أرى برأيي."
+          }
+        ]
+      },
+      {
+        "sentence": "it is very good",
+        "ar": "أنه جيد جدًا.",
+        "context": "يوضح الفكرة التي يراها المتحدث أو يسأل عنها.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "تستخدم is مع صفة لوصف الشيء محل الرأي، وتأتي very لتقوية معنى الجودة."
+        },
+        "wordMeanings": [
+          {
+            "term": "it",
+            "description": "ضمير يشير إلى شيء أو فكرة معروفة من السياق."
+          },
+          {
+            "term": "is",
+            "description": "صيغة تأتي مع المفرد وتربط الشيء بوصفه."
+          },
+          {
+            "term": "very",
+            "description": "كلمة تقوي الصفة وتجعلها بدرجة كبيرة."
+          },
+          {
+            "term": "good",
+            "description": "جيد أو مناسب أو مرضٍ."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I think it is a good idea.",
+        "ar": "أعتقد أنها فكرة جيدة.",
+        "context": "تقال عند إبداء رأي إيجابي في اقتراح."
+      },
+      {
+        "id": 2,
+        "en": "She thinks the plan is very useful.",
+        "ar": "هي تعتقد أن الخطة مفيدة جدًا.",
+        "context": "تقال عند نقل رأي شخص في خطة."
+      },
+      {
+        "id": 3,
+        "en": "I think this food is good.",
+        "ar": "أعتقد أن هذا الطعام جيد.",
+        "context": "تقال عند تقييم طعام."
+      },
+      {
+        "id": 4,
+        "en": "He thinks the movie is very funny.",
+        "ar": "هو يعتقد أن الفيلم مضحك جدًا.",
+        "context": "تقال عند ذكر رأي شخص في فيلم."
+      },
+      {
+        "id": 5,
+        "en": "I think your answer is correct.",
+        "ar": "أعتقد أن إجابتك صحيحة.",
+        "context": "تقال عند إبداء رأي في إجابة."
+      },
+      {
+        "id": 6,
+        "en": "We think the room is too small.",
+        "ar": "نعتقد أن الغرفة صغيرة جدًا.",
+        "context": "تقال عند مشاركة رأي جماعي في مكان."
+      },
+      {
+        "id": 7,
+        "en": "I think the price is fair.",
+        "ar": "أعتقد أن السعر عادل.",
+        "context": "تقال عند تقييم سعر."
+      },
+      {
+        "id": 8,
+        "en": "They think the teacher is kind.",
+        "ar": "هم يعتقدون أن المعلم لطيف.",
+        "context": "تقال عند نقل رأي مجموعة في شخص."
+      },
+      {
+        "id": 9,
+        "en": "I think the weather is nice today.",
+        "ar": "أعتقد أن الطقس جميل اليوم.",
+        "context": "تقال عند إبداء رأي في الطقس."
+      },
+      {
+        "id": 10,
+        "en": "My father thinks it is very important.",
+        "ar": "أبي يعتقد أنه مهم جدًا.",
+        "context": "تقال عند نقل رأي قوي عن أهمية شيء."
+      }
+    ]
+  }
+}

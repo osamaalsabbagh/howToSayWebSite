@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 1,
+  "id": 3,
+  "sentence": {
+    "en": "Relax. The recipe was not correct last time, but this one is reliable. It is from a cookbook.",
+    "ar": "استرخي. الوصفة لم تكن صحيحة في المرة الماضية، لكن هذه الواحدة موثوقة، فهي من كتاب طبخ.",
+    "context": "يطمئنها بأن الوصفة السابقة كانت غير دقيقة، لكن هذه المرة يعتمد على وصفة موثوقة من كتاب طبخ."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Relax.",
+        "ar": "استرخي.",
+        "context": "طمأنة قصيرة قبل شرح السبب.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "أمر مباشر ولا يحمل زمنًا مستقلًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "Relax",
+            "description": "استرخي"
+          }
+        ]
+      },
+      {
+        "sentence": "The recipe was not correct last time, but this one is reliable.",
+        "ar": "لم تكن الوصفة صحيحة في المرة الماضية، لكن هذه الوصفة موثوقة.",
+        "context": "يقارن بين وصفة سابقة وهذه الوصفة.",
+        "grammar": {
+          "tense": "الماضي البسيط والمضارع البسيط",
+          "tenseEn": "Past Simple and Present Simple",
+          "reason": "تستخدم was لوصف مشكلة ماضية، وis لوصف موثوقية الوصفة الحالية."
+        },
+        "wordMeanings": [
+          {
+            "term": "The",
+            "description": "أداة تعريف"
+          },
+          {
+            "term": "recipe",
+            "description": "الوصفة"
+          },
+          {
+            "term": "was",
+            "description": "كان أو كانت في الماضي"
+          },
+          {
+            "term": "not",
+            "description": "للنفي"
+          },
+          {
+            "term": "correct",
+            "description": "صحيحة"
+          },
+          {
+            "term": "last",
+            "description": "الماضية"
+          },
+          {
+            "term": "time",
+            "description": "مرة أو وقت"
+          },
+          {
+            "term": "but",
+            "description": "لكن"
+          },
+          {
+            "term": "this",
+            "description": "هذه"
+          },
+          {
+            "term": "one",
+            "description": "واحدة"
+          },
+          {
+            "term": "is",
+            "description": "صيغة تدل على حالة حالية"
+          },
+          {
+            "term": "reliable",
+            "description": "موثوقة"
+          }
+        ]
+      },
+      {
+        "sentence": "It is from a cookbook.",
+        "ar": "إنها من كتاب طبخ.",
+        "context": "يذكر مصدر الوصفة لزيادة الثقة.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "تستخدم is لوصف مصدر الشيء الحالي."
+        },
+        "wordMeanings": [
+          {
+            "term": "It",
+            "description": "يشير إلى الأمر أو الحالة"
+          },
+          {
+            "term": "is",
+            "description": "صيغة تدل على حالة حالية"
+          },
+          {
+            "term": "from",
+            "description": "من"
+          },
+          {
+            "term": "a",
+            "description": "أداة قبل كمية غير محددة"
+          },
+          {
+            "term": "cookbook",
+            "description": "كتاب طبخ"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "The recipe was not clear last time, but this one is reliable.",
+        "ar": "لم تكن الوصفة واضحة في المرة الماضية، لكن هذه الوصفة موثوقة.",
+        "context": "تقال للمقارنة بين محاولة سابقة وهذه المرة."
+      },
+      {
+        "id": 2,
+        "en": "The recipe was not clear last time, but this one is reliable 2.",
+        "ar": "لم تكن الوصفة واضحة في المرة الماضية، لكن هذه الوصفة موثوقة. رقم 2.",
+        "context": "تقال للمقارنة بين محاولة سابقة وهذه المرة."
+      },
+      {
+        "id": 3,
+        "en": "The recipe was not clear last time, but this one is reliable 3.",
+        "ar": "لم تكن الوصفة واضحة في المرة الماضية، لكن هذه الوصفة موثوقة. رقم 3.",
+        "context": "تقال للمقارنة بين محاولة سابقة وهذه المرة."
+      },
+      {
+        "id": 4,
+        "en": "The recipe was not clear last time, but this one is reliable 4.",
+        "ar": "لم تكن الوصفة واضحة في المرة الماضية، لكن هذه الوصفة موثوقة. رقم 4.",
+        "context": "تقال للمقارنة بين محاولة سابقة وهذه المرة."
+      },
+      {
+        "id": 5,
+        "en": "The recipe was not clear last time, but this one is reliable 5.",
+        "ar": "لم تكن الوصفة واضحة في المرة الماضية، لكن هذه الوصفة موثوقة. رقم 5.",
+        "context": "تقال للمقارنة بين محاولة سابقة وهذه المرة."
+      },
+      {
+        "id": 6,
+        "en": "The recipe was not clear last time, but this one is reliable 6.",
+        "ar": "لم تكن الوصفة واضحة في المرة الماضية، لكن هذه الوصفة موثوقة. رقم 6.",
+        "context": "تقال للمقارنة بين محاولة سابقة وهذه المرة."
+      },
+      {
+        "id": 7,
+        "en": "The recipe was not clear last time, but this one is reliable 7.",
+        "ar": "لم تكن الوصفة واضحة في المرة الماضية، لكن هذه الوصفة موثوقة. رقم 7.",
+        "context": "تقال للمقارنة بين محاولة سابقة وهذه المرة."
+      },
+      {
+        "id": 8,
+        "en": "The recipe was not clear last time, but this one is reliable 8.",
+        "ar": "لم تكن الوصفة واضحة في المرة الماضية، لكن هذه الوصفة موثوقة. رقم 8.",
+        "context": "تقال للمقارنة بين محاولة سابقة وهذه المرة."
+      },
+      {
+        "id": 9,
+        "en": "The recipe was not clear last time, but this one is reliable 9.",
+        "ar": "لم تكن الوصفة واضحة في المرة الماضية، لكن هذه الوصفة موثوقة. رقم 9.",
+        "context": "تقال للمقارنة بين محاولة سابقة وهذه المرة."
+      },
+      {
+        "id": 10,
+        "en": "The recipe was not clear last time, but this one is reliable 10.",
+        "ar": "لم تكن الوصفة واضحة في المرة الماضية، لكن هذه الوصفة موثوقة. رقم 10.",
+        "context": "تقال للمقارنة بين محاولة سابقة وهذه المرة."
+      }
+    ]
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": 6164,
+  "sentence": {
+    "en": "My teacher wrote me a letter of recommendation.",
+    "ar": "معلمي كتب لي رسالة توصية.",
+    "context": "وصف كتابة سابقة من معلم لتقييم إيجابي يدعم أهلية المتكلم.",
+    "sourceWord": "recommendation",
+    "sourcePos": "n."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "My teacher wrote me a letter of recommendation.",
+        "ar": "معلمي كتب لي رسالة توصية.",
+        "context": "وصف كتابة سابقة من معلم لتقييم إيجابي يدعم أهلية المتكلم.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "الماضي البسيط يصف فعلًا انتهى. بعد الفعل يأتي الشخص المستفيد ثم الشيء."
+        },
+        "wordMeanings": [
+          {
+            "term": "My",
+            "description": "ضمير ملكية للمتكلم."
+          },
+          {
+            "term": "teacher",
+            "description": "معلم."
+          },
+          {
+            "term": "wrote",
+            "description": "كتب؛ صيغة الماضي غير المنتظمة."
+          },
+          {
+            "term": "me",
+            "description": "لي؛ ضمير المفعول للمتكلم."
+          },
+          {
+            "term": "a",
+            "description": "أداة تنكير قبل اسم مفرد."
+          },
+          {
+            "term": "letter",
+            "description": "رسالة."
+          },
+          {
+            "term": "of",
+            "description": "حرف إضافة يصف نوع الرسالة."
+          },
+          {
+            "term": "recommendation",
+            "description": "توصية؛ مدح رسمي لشخص."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "My teacher wrote me a letter of recommendation.",
+        "ar": "معلمي كتب لي رسالة توصية.",
+        "context": "وصف كتابة سابقة من معلم لتقييم إيجابي يدعم أهلية المتكلم."
+      },
+      {
+        "id": 2,
+        "en": "The report contains recommendations for improving access.",
+        "ar": "التقرير يحتوي على توصيات لتحسين الوصول.",
+        "context": "وصف اقتراحات عملية تجعل استخدام مكان أو خدمة أيسر."
+      },
+      {
+        "id": 3,
+        "en": "The committee accepted the recommendation unanimously.",
+        "ar": "اللجنة قبلت التوصية بالإجماع.",
+        "context": "وصف اتفاق سابق بين جميع أعضاء جهة على اقتراح قدم إليها."
+      },
+      {
+        "id": 4,
+        "en": "We have followed the manufacturer's recommendation.",
+        "ar": "نحن قد اتبعنا توصية الجهة المصنعة.",
+        "context": "الإبلاغ عن تطبيق مكتمل لإرشاد قدمه صانع منتج."
+      },
+      {
+        "id": 5,
+        "en": "The students are comparing book recommendations.",
+        "ar": "الطلاب يقارنون توصيات الكتب.",
+        "context": "وصف تبادل جارٍ لآراء تقترح أعمالًا مناسبة للقراءة."
+      },
+      {
+        "id": 6,
+        "en": "The guide will include restaurant recommendations.",
+        "ar": "الدليل سيتضمن توصيات بمطاعم.",
+        "context": "توقع توفير اقتراحات لاختيار أماكن لتناول الطعام."
+      },
+      {
+        "id": 7,
+        "en": "The proposal goes beyond the original recommendation.",
+        "ar": "الاقتراح يتجاوز التوصية الأصلية.",
+        "context": "وصف توسيع لخطة مقارنة بما نُصح به أولًا."
+      },
+      {
+        "id": 8,
+        "en": "The teacher asked for a recommendation from a former colleague.",
+        "ar": "المعلم طلب توصية من زميل سابق.",
+        "context": "وصف طلب سابق لتقييم داعم من شخص عرف عمل صاحبه."
+      },
+      {
+        "id": 9,
+        "en": "The software generates recommendations based on user preferences.",
+        "ar": "البرنامج يولد توصيات بناءً على تفضيلات المستخدم.",
+        "context": "وصف اقتراح اختيارات آليًا وفق اهتمامات شخص."
+      },
+      {
+        "id": 10,
+        "en": "The final recommendation was to postpone the event.",
+        "ar": "التوصية النهائية كانت تأجيل الفعالية.",
+        "context": "وصف رأي ختامي سابق يرى أن نقل الموعد هو الأنسب."
+      }
+    ]
+  }
+}

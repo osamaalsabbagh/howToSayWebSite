@@ -1,0 +1,141 @@
+{
+  "schemaVersion": 1,
+  "id": 10054,
+  "sentence": {
+    "en": "My little brother took my joke literally and started crying.",
+    "ar": "أخي الصغير أخذ نكتتي حرفيًا وبدأ يبكي.",
+    "context": "وصف فهم سابق لكلام مازح كأنه حقيقة مباشرة دون اختلاق مضمون النكتة.",
+    "sourceWord": "literally",
+    "sourcePos": "adv."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "My little brother took my joke literally",
+        "ar": "أخي الصغير أخذ نكتتي حرفيًا",
+        "context": "وصف أخذ سابق لمزاح على المعنى المباشر.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "الماضي البسيط يصف حدثًا انتهى. الظرف هنا يعني بمعناه الحرفي."
+        },
+        "wordMeanings": [
+          {
+            "term": "My",
+            "description": "ضمير ملكية للمتكلم."
+          },
+          {
+            "term": "little",
+            "description": "الصغير."
+          },
+          {
+            "term": "brother",
+            "description": "أخي."
+          },
+          {
+            "term": "took",
+            "description": "أخذ."
+          },
+          {
+            "term": "my",
+            "description": "ضمير ملكية للمتكلم."
+          },
+          {
+            "term": "joke",
+            "description": "نكتتي."
+          },
+          {
+            "term": "literally",
+            "description": "حرفيًا."
+          }
+        ]
+      },
+      {
+        "sentence": "and started crying.",
+        "ar": "وبدأ يبكي.",
+        "context": "بيان البكاء بوصفه حدثًا أعقب ذلك الفهم.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "الماضي البسيط يصف حدثًا تاليًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "and",
+            "description": "و."
+          },
+          {
+            "term": "started",
+            "description": "بدأ."
+          },
+          {
+            "term": "crying",
+            "description": "يبكي."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "My little brother took my joke literally and started crying.",
+        "ar": "أخي الصغير أخذ نكتتي حرفيًا وبدأ يبكي.",
+        "context": "وصف فهم سابق لكلام مازح كأنه حقيقة مباشرة دون اختلاق مضمون النكتة."
+      },
+      {
+        "id": 2,
+        "en": "The phrase cannot be translated literally.",
+        "ar": "العبارة لا يمكن ترجمتها حرفيًا.",
+        "context": "وصف تعبير لا ينتقل معناه الصحيح بمجرد مقابلة الكلمات."
+      },
+      {
+        "id": 3,
+        "en": "She followed the instructions literally.",
+        "ar": "هي اتبعت التعليمات حرفيًا.",
+        "context": "وصف التزام سابق بالنص الدقيق دون تأويل أو تعديل."
+      },
+      {
+        "id": 4,
+        "en": "We have checked what the title literally means.",
+        "ar": "نحن قد تحققنا مما العنوان يعنيه حرفيًا.",
+        "context": "الإبلاغ عن فحص المعنى المباشر لعنوان."
+      },
+      {
+        "id": 5,
+        "en": "The artist is literally painting with light.",
+        "ar": "الفنان يرسم بالضوء حرفيًا.",
+        "context": "تأكيد استعمال الضوء نفسه في عمل فني لا تشبيهه بالفرشاة فقط."
+      },
+      {
+        "id": 6,
+        "en": "The next example will show how to read the statement literally.",
+        "ar": "المثال التالي سيبين كيفية قراءة العبارة حرفيًا.",
+        "context": "توقع شرح فهم مباشر للكلام مقابل تأويله."
+      },
+      {
+        "id": 7,
+        "en": "Please do not take every word literally.",
+        "ar": "من فضلك لا تأخذ كل كلمة حرفيًا.",
+        "context": "طلب الانتباه إلى احتمال المزاح أو المجاز في كلام."
+      },
+      {
+        "id": 8,
+        "en": "The box was literally full of sand.",
+        "ar": "الصندوق كان مليئًا بالرمل حرفيًا.",
+        "context": "تأكيد أن وصف الامتلاء حقيقي في موقف سابق لا مبالغة تصويرية."
+      },
+      {
+        "id": 9,
+        "en": "The village name literally translates as \"white hill\".",
+        "ar": "اسم القرية يُترجم حرفيًا إلى «التل الأبيض».",
+        "context": "بيان معنى مباشر لاسم غير محدد دون تعيين موقع القرية."
+      },
+      {
+        "id": 10,
+        "en": "He understood the promise literally.",
+        "ar": "هو فهم الوعد حرفيًا.",
+        "context": "وصف تفسير سابق لعبارة بحسب معناها المباشر."
+      }
+    ]
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "id": 819,
+  "sentence": {
+    "en": "Have you finished studying?",
+    "ar": "هل انتهيت من الدراسة؟",
+    "context": "سؤال عمّا إذا كان الشخص قد أنهى دراسته أو واجباته."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Have you finished studying?",
+        "ar": "هل انتهيت من الدراسة؟",
+        "context": "سؤال عن اكتمال فعل له نتيجة الآن.",
+        "grammar": {
+          "tense": "المضارع التام",
+          "tenseEn": "Present Perfect",
+          "reason": "يستخدم المضارع التام للسؤال عن إنجاز تم قبل الآن وله أثر حالي، وصيغته Have مع التصريف الثالث finished."
+        },
+        "wordMeanings": [
+          {
+            "term": "Have",
+            "description": "أداة لتكوين سؤال عن إنجاز حتى الآن"
+          },
+          {
+            "term": "you",
+            "description": "الشخص المخاطب"
+          },
+          {
+            "term": "finished",
+            "description": "أنهيت أو أكملت"
+          },
+          {
+            "term": "studying",
+            "description": "الدراسة أو المذاكرة"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Have you finished eating?",
+        "ar": "هل انتهيت من الأكل؟",
+        "context": "للسؤال عن نهاية وجبة."
+      },
+      {
+        "id": 2,
+        "en": "Have you finished your homework?",
+        "ar": "هل أنهيت واجبك؟",
+        "context": "للسؤال عن إنجاز واجب."
+      },
+      {
+        "id": 3,
+        "en": "Have they finished working?",
+        "ar": "هل انتهوا من العمل؟",
+        "context": "للسؤال عن انتهاء عمل مجموعة."
+      },
+      {
+        "id": 4,
+        "en": "Has she finished studying?",
+        "ar": "هل انتهت من الدراسة؟",
+        "context": "للسؤال عن شخص آخر."
+      },
+      {
+        "id": 5,
+        "en": "Have you finished the book?",
+        "ar": "هل أنهيت الكتاب؟",
+        "context": "للسؤال عن قراءة كتاب."
+      },
+      {
+        "id": 6,
+        "en": "Have you finished the report?",
+        "ar": "هل أنهيت التقرير؟",
+        "context": "في العمل أو الدراسة."
+      },
+      {
+        "id": 7,
+        "en": "Have you finished cleaning?",
+        "ar": "هل انتهيت من التنظيف؟",
+        "context": "للسؤال عن مهمة منزلية."
+      },
+      {
+        "id": 8,
+        "en": "Have you finished packing?",
+        "ar": "هل انتهيت من حزم الأمتعة؟",
+        "context": "قبل السفر."
+      },
+      {
+        "id": 9,
+        "en": "Have you finished your coffee?",
+        "ar": "هل أنهيت قهوتك؟",
+        "context": "قبل المغادرة من مقهى."
+      },
+      {
+        "id": 10,
+        "en": "Have you finished for today?",
+        "ar": "هل انتهيت لهذا اليوم؟",
+        "context": "للسؤال عن نهاية العمل اليومي."
+      }
+    ]
+  }
+}

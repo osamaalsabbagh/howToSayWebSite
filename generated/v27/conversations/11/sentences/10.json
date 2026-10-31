@@ -1,0 +1,151 @@
+{
+  "schemaVersion": 1,
+  "id": 10,
+  "sentence": {
+    "en": "Clean water means it is safe to drink.",
+    "ar": "الماء النظيف يعني أنه صالح للشرب.",
+    "context": "المعلم يوضح معنى الماء النظيف في السياق العلمي"
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Clean water means it is safe to drink.",
+        "ar": "الماء النظيف يعني أنه صالح للشرب.",
+        "context": "يبدأ به المتحدث الفكرة الأساسية قبل إضافة التفاصيل.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "الجملة تعطي تعريفًا عامًا لمعنى الماء النظيف في السياق العلمي."
+        },
+        "wordMeanings": [
+          {
+            "term": "Clean",
+            "description": "نظيف أو خالٍ مما يضر أو يلوث."
+          },
+          {
+            "term": "water",
+            "description": "ماء."
+          },
+          {
+            "term": "means",
+            "description": "يعني أو يدل على معنى معين."
+          },
+          {
+            "term": "it",
+            "description": "ضمير يعود على الماء النظيف."
+          },
+          {
+            "term": "is",
+            "description": "تربط الضمير بوصفه."
+          },
+          {
+            "term": "safe",
+            "description": "آمن أو لا يسبب ضررًا."
+          },
+          {
+            "term": "to",
+            "description": "تأتي قبل الفعل لتوضيح الغرض أو الاستخدام."
+          },
+          {
+            "term": "drink",
+            "description": "يشرب."
+          }
+        ]
+      },
+      {
+        "sentence": "it is safe to drink",
+        "ar": "أنه صالح للشرب.",
+        "context": "يكمل به المتحدث المعنى أو النتيجة داخل هذا الموقف.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "هذا الجزء يصف حالة عامة للماء بأنه صالح للشرب."
+        },
+        "wordMeanings": [
+          {
+            "term": "it",
+            "description": "ضمير يعود على الماء النظيف."
+          },
+          {
+            "term": "is",
+            "description": "تربط الضمير بوصفه."
+          },
+          {
+            "term": "safe",
+            "description": "آمن أو لا يسبب ضررًا."
+          },
+          {
+            "term": "to",
+            "description": "تأتي قبل الفعل لتوضيح الغرض أو الاستخدام."
+          },
+          {
+            "term": "drink",
+            "description": "يشرب."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Clean air means it is safe to breathe.",
+        "ar": "الهواء النظيف يعني أنه آمن للتنفس.",
+        "context": "يُستخدم لتعريف هواء غير ملوث."
+      },
+      {
+        "id": 2,
+        "en": "Safe water means it is okay to drink.",
+        "ar": "الماء الآمن يعني أنه مناسب للشرب.",
+        "context": "يُستخدم لتوضيح صلاحية الماء."
+      },
+      {
+        "id": 3,
+        "en": "Fresh food means it is good to eat.",
+        "ar": "الطعام الطازج يعني أنه جيد للأكل.",
+        "context": "يُستخدم لتعريف طعام مناسب للاستهلاك."
+      },
+      {
+        "id": 4,
+        "en": "Clear water means you can see through it.",
+        "ar": "الماء الصافي يعني أنك تستطيع الرؤية من خلاله.",
+        "context": "يُستخدم لوصف مظهر الماء."
+      },
+      {
+        "id": 5,
+        "en": "Clean water means it has no dangerous dirt.",
+        "ar": "الماء النظيف يعني أنه لا يحتوي على أوساخ خطيرة.",
+        "context": "يُستخدم لتوضيح جانب النظافة والسلامة."
+      },
+      {
+        "id": 6,
+        "en": "Safe food means it will not make you sick.",
+        "ar": "الطعام الآمن يعني أنه لن يجعلك مريضًا.",
+        "context": "يُستخدم عند شرح معنى السلامة في الطعام."
+      },
+      {
+        "id": 7,
+        "en": "Clean hands mean they have no harmful dirt.",
+        "ar": "الأيدي النظيفة تعني أنها لا تحتوي على أوساخ ضارة.",
+        "context": "يُستخدم في شرح النظافة الشخصية."
+      },
+      {
+        "id": 8,
+        "en": "Pure water means it has no extra chemicals.",
+        "ar": "الماء النقي يعني أنه لا يحتوي على مواد كيميائية إضافية.",
+        "context": "يُستخدم في شرح معنى النقاء."
+      },
+      {
+        "id": 9,
+        "en": "Healthy food means it is good for your body.",
+        "ar": "الطعام الصحي يعني أنه مفيد لجسمك.",
+        "context": "يُستخدم لتعريف معنى الطعام الصحي."
+      },
+      {
+        "id": 10,
+        "en": "Dirty water means it is not safe to drink.",
+        "ar": "الماء المتسخ يعني أنه غير آمن للشرب.",
+        "context": "يُستخدم لتوضيح عكس الماء النظيف."
+      }
+    ]
+  }
+}

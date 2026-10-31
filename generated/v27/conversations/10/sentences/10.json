@@ -1,0 +1,131 @@
+{
+  "schemaVersion": 1,
+  "id": 10,
+  "sentence": {
+    "en": "Sure, I will display them on the screen.",
+    "ar": "بالتأكيد، سأعرضها على الشاشة.",
+    "context": "الموظف يوافق على عرض الصور على الشاشة."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Sure",
+        "ar": "بالتأكيد.",
+        "context": "تعطي موافقة أو تطمينًا قبل متابعة الكلام.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "كلمة موافقة قصيرة وليست جملة بزمن مستقل."
+        },
+        "wordMeanings": [
+          {
+            "term": "Sure",
+            "description": "كلمة موافقة تعني بالتأكيد أو نعم."
+          }
+        ]
+      },
+      {
+        "sentence": "I will display them on the screen",
+        "ar": "سأعرضها على الشاشة.",
+        "context": "يكمل به المتحدث المعنى أو النتيجة داخل هذا الموقف.",
+        "grammar": {
+          "tense": "المستقبل البسيط",
+          "tenseEn": "Future Simple",
+          "reason": "استُخدم will للتعبير عن قرار فوري أو وعد بعرض الصور بعد لحظة الكلام."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير المتكلم المفرد."
+          },
+          {
+            "term": "will",
+            "description": "تدل هنا على قرار أو وعد بفعل شيء بعد لحظة الكلام."
+          },
+          {
+            "term": "display",
+            "description": "يعرض شيئًا ليكون مرئيًا."
+          },
+          {
+            "term": "them",
+            "description": "ضمير يعود على أشياء متعددة، مثل الصور."
+          },
+          {
+            "term": "on",
+            "description": "حرف جر يحدد السطح أو الوسيلة التي سيظهر عليها الشيء."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف تشير إلى شاشة معروفة في الموقف."
+          },
+          {
+            "term": "screen",
+            "description": "الشاشة التي تظهر عليها الصور أو المعلومات."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Sure, I will send them now.",
+        "ar": "بالتأكيد، سأرسلها الآن.",
+        "context": "يُستخدم عند الموافقة على إرسال أشياء مباشرة."
+      },
+      {
+        "id": 2,
+        "en": "Sure, I will open the file on the screen.",
+        "ar": "بالتأكيد، سأفتح الملف على الشاشة.",
+        "context": "يُستخدم عند الموافقة على عرض ملف لشخص."
+      },
+      {
+        "id": 3,
+        "en": "Sure, I will show you the photos.",
+        "ar": "بالتأكيد، سأريك الصور.",
+        "context": "يُستخدم للرد بالموافقة على طلب رؤية صور."
+      },
+      {
+        "id": 4,
+        "en": "Sure, I will explain it in a minute.",
+        "ar": "بالتأكيد، سأشرحه خلال دقيقة.",
+        "context": "يُستخدم عند الوعد بشرح شيء قريبًا."
+      },
+      {
+        "id": 5,
+        "en": "Sure, I will print them for you.",
+        "ar": "بالتأكيد، سأطبعها لك.",
+        "context": "يُستخدم عند الموافقة على خدمة بسيطة."
+      },
+      {
+        "id": 6,
+        "en": "Sure, I will put the map on the screen.",
+        "ar": "بالتأكيد، سأضع الخريطة على الشاشة.",
+        "context": "يُستخدم عند عرض خريطة لشخص."
+      },
+      {
+        "id": 7,
+        "en": "Sure, I will call the owner.",
+        "ar": "بالتأكيد، سأتصل بالمالك.",
+        "context": "يُستخدم للرد على طلب تواصل مع شخص آخر."
+      },
+      {
+        "id": 8,
+        "en": "Sure, I will check the schedule.",
+        "ar": "بالتأكيد، سأتحقق من الجدول.",
+        "context": "يُستخدم عند الموافقة على مراجعة وقت أو موعد."
+      },
+      {
+        "id": 9,
+        "en": "Sure, I will display the details here.",
+        "ar": "بالتأكيد، سأعرض التفاصيل هنا.",
+        "context": "يُستخدم عند عرض معلومات أمام شخص."
+      },
+      {
+        "id": 10,
+        "en": "Sure, I will answer your question.",
+        "ar": "بالتأكيد، سأجيب عن سؤالك.",
+        "context": "يُستخدم عند الموافقة على تقديم إجابة."
+      }
+    ]
+  }
+}

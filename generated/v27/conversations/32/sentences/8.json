@@ -1,0 +1,155 @@
+{
+  "schemaVersion": 1,
+  "id": 8,
+  "sentence": {
+    "en": "My sister lives in Texas, and she goes out every day with her friends.",
+    "ar": "أختي تسكن في مدينة تكساس وهي تخرج كل يوم مع أصدقائها.",
+    "context": "توضح أن أختها تملك حياة اجتماعية نشطة في مدينة أخرى."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "My sister lives in Texas",
+        "ar": "أختي تعيش في تكساس",
+        "context": "يحدد هذا الجزء مكان سكن الأخت ليشرح اختلاف ظروفها.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُخدم المضارع البسيط لوصف مكان سكن ثابت أو مستمر."
+        },
+        "wordMeanings": [
+          {
+            "term": "My",
+            "description": "ضمير ملكية يعني الخاص بي"
+          },
+          {
+            "term": "sister",
+            "description": "أخت"
+          },
+          {
+            "term": "lives",
+            "description": "تعيش أو تسكن"
+          },
+          {
+            "term": "in",
+            "description": "في داخل مكان"
+          },
+          {
+            "term": "Texas",
+            "description": "اسم ولاية أو مكان اسمه تكساس"
+          }
+        ]
+      },
+      {
+        "sentence": "and she goes out every day with her friends.",
+        "ar": "وهي تخرج كل يوم مع أصدقائها.",
+        "context": "يوضح هذا الجزء نشاطها الاجتماعي المتكرر.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُخدم المضارع البسيط مع every day للتعبير عن عادة يومية."
+        },
+        "wordMeanings": [
+          {
+            "term": "and",
+            "description": "حرف عطف يضيف فكرة ثانية"
+          },
+          {
+            "term": "she",
+            "description": "ضمير للأنثى الغائبة ويعني هي"
+          },
+          {
+            "term": "goes",
+            "description": "تذهب أو تخرج بصيغة تناسب المفرد الغائب"
+          },
+          {
+            "term": "out",
+            "description": "إلى الخارج أو خارج البيت"
+          },
+          {
+            "term": "every",
+            "description": "كل"
+          },
+          {
+            "term": "day",
+            "description": "يوم"
+          },
+          {
+            "term": "with",
+            "description": "مع"
+          },
+          {
+            "term": "her",
+            "description": "ضمير ملكية يعني الخاص بها"
+          },
+          {
+            "term": "friends",
+            "description": "أصدقاء"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "My brother lives in Chicago.",
+        "ar": "أخي يعيش في شيكاغو.",
+        "context": "تُقال عند ذكر مكان سكن قريب."
+      },
+      {
+        "id": 2,
+        "en": "She goes out every evening.",
+        "ar": "هي تخرج كل مساء.",
+        "context": "تُستخدم لوصف عادة يومية."
+      },
+      {
+        "id": 3,
+        "en": "My cousin lives in a small city.",
+        "ar": "ابن عمي يعيش في مدينة صغيرة.",
+        "context": "تُقال عند وصف مكان إقامة أحد الأقارب."
+      },
+      {
+        "id": 4,
+        "en": "He goes out with his friends on Friday.",
+        "ar": "هو يخرج مع أصدقائه يوم الجمعة.",
+        "context": "تُستخدم للحديث عن نشاط اجتماعي."
+      },
+      {
+        "id": 5,
+        "en": "My sister calls me every day.",
+        "ar": "أختي تتصل بي كل يوم.",
+        "context": "تُقال لوصف عادة منتظمة."
+      },
+      {
+        "id": 6,
+        "en": "They live in Texas now.",
+        "ar": "هم يعيشون في تكساس الآن.",
+        "context": "تُستخدم عند ذكر مكان السكن الحالي."
+      },
+      {
+        "id": 7,
+        "en": "She studies with her friends.",
+        "ar": "هي تدرس مع أصدقائها.",
+        "context": "تُقال عند وصف نشاط مع الأصدقاء."
+      },
+      {
+        "id": 8,
+        "en": "My father lives near the school.",
+        "ar": "أبي يعيش قرب المدرسة.",
+        "context": "تُستخدم لتحديد موقع السكن."
+      },
+      {
+        "id": 9,
+        "en": "He goes out after work.",
+        "ar": "هو يخرج بعد العمل.",
+        "context": "تُقال عند وصف روتين بعد الدوام."
+      },
+      {
+        "id": 10,
+        "en": "My friends visit me every week.",
+        "ar": "أصدقائي يزورونني كل أسبوع.",
+        "context": "تُستخدم للحديث عن تواصل اجتماعي متكرر."
+      }
+    ]
+  }
+}

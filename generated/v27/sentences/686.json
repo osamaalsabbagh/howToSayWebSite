@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": 686,
+  "sentence": {
+    "en": "What does this word mean?",
+    "ar": "ما معنى هذه الكلمة؟",
+    "context": "طلب معرفة معنى كلمة معينة."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "What does this word mean?",
+        "ar": "ما معنى هذه الكلمة؟",
+        "context": "تستخدم للسؤال عن معنى كلمة محددة أمامك أو مذكورة.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "السؤال عن معنى ثابت أو عام لكلمة."
+        },
+        "wordMeanings": [
+          {
+            "term": "What",
+            "description": "ماذا أو ما، وتستخدم للسؤال عن المعنى."
+          },
+          {
+            "term": "does",
+            "description": "كلمة مساعدة للسؤال مع مفرد."
+          },
+          {
+            "term": "this",
+            "description": "هذه أو هذا، وتشير إلى شيء قريب."
+          },
+          {
+            "term": "word",
+            "description": "كلمة."
+          },
+          {
+            "term": "mean",
+            "description": "تعني أو تدل على."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "What does that word mean?",
+        "ar": "ماذا تعني تلك الكلمة؟",
+        "context": "تقال عن كلمة أبعد أو سبق ذكرها."
+      },
+      {
+        "id": 2,
+        "en": "This word means friend.",
+        "ar": "هذه الكلمة تعني صديق.",
+        "context": "تستخدم للإجابة عن معنى كلمة."
+      },
+      {
+        "id": 3,
+        "en": "What does the last sentence of the notice mean?",
+        "ar": "ما معنى الجملة الأخيرة من الإعلان؟",
+        "context": "السؤال عن دلالة العبارة الموجودة في نهاية إعلان مكتوب."
+      },
+      {
+        "id": 4,
+        "en": "I do not know what this word means.",
+        "ar": "لا أعرف ماذا تعني هذه الكلمة.",
+        "context": "تستخدم عند عدم معرفة معنى."
+      },
+      {
+        "id": 5,
+        "en": "Can you explain the meaning of this word in the letter?",
+        "ar": "هل أنت تستطيع شرح معنى هذه الكلمة في الرسالة؟",
+        "context": "طلب توضيح المقصود من كلمة معينة ضمن رسالة مكتوبة."
+      },
+      {
+        "id": 6,
+        "en": "What does the heading on this form mean?",
+        "ar": "ما معنى العنوان الرئيسي في هذا النموذج؟",
+        "context": "الاستفسار عن دلالة العبارة التي تتصدر نموذجًا."
+      },
+      {
+        "id": 7,
+        "en": "Does this word mean yes?",
+        "ar": "هل تعني هذه الكلمة نعم؟",
+        "context": "تقال للتأكد من معنى محتمل."
+      },
+      {
+        "id": 8,
+        "en": "The word means water.",
+        "ar": "الكلمة تعني ماء.",
+        "context": "تستخدم لتوضيح معنى بسيط."
+      },
+      {
+        "id": 9,
+        "en": "What does this word mean in a recipe?",
+        "ar": "ما معنى هذه الكلمة في وصفة طعام؟",
+        "context": "طلب معنى كلمة بحسب استخدامها في تعليمات إعداد الطعام."
+      },
+      {
+        "id": 10,
+        "en": "Please tell me what this word means.",
+        "ar": "من فضلك أخبرني ماذا تعني هذه الكلمة.",
+        "context": "تستخدم لطلب معنى بأدب."
+      }
+    ]
+  }
+}

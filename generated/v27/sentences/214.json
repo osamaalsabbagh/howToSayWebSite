@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "id": 214,
+  "sentence": {
+    "en": "Where is she from?",
+    "ar": "من أين هي؟",
+    "context": "اسأل عن موطن امرأة."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Where is she from?",
+        "ar": "من أين هي؟",
+        "context": "يوضح المعلومة أو الفكرة التابعة لما قبله.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "يستخدم فعل الربط في الحاضر للسؤال عن أصلها أو موطنها، وهي معلومة حالية أو عامة."
+        },
+        "wordMeanings": [
+          {
+            "term": "Where",
+            "description": "أين أو من أين، وتستخدم للسؤال عن المكان أو الأصل."
+          },
+          {
+            "term": "is",
+            "description": "صيغة تربط الضمير بالمعلومة المطلوبة في الحاضر."
+          },
+          {
+            "term": "she",
+            "description": "هي، وتشير إلى امرأة أو فتاة."
+          },
+          {
+            "term": "from",
+            "description": "من، وتستخدم للسؤال عن الموطن أو الأصل."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Where is she from?",
+        "ar": "من أين هي؟",
+        "context": "تقال عند السؤال عن موطن امرأة."
+      },
+      {
+        "id": 2,
+        "en": "Where is the guide on our bus from?",
+        "ar": "من أين المرشد الموجود في حافلتنا؟",
+        "context": "السؤال عن موطن المرشد الذي يرافق الركاب في الحافلة."
+      },
+      {
+        "id": 3,
+        "en": "Where are your new neighbours from?",
+        "ar": "من أين جيرانك الجدد؟",
+        "context": "السؤال عن الموطن الذي جاء منه الجيران الجدد للمخاطب."
+      },
+      {
+        "id": 4,
+        "en": "Where are they from?",
+        "ar": "من أين هم؟",
+        "context": "تقال عند السؤال عن أصل مجموعة."
+      },
+      {
+        "id": 5,
+        "en": "She is from Boston.",
+        "ar": "هي من بوسطن.",
+        "context": "تقال عند ذكر مدينة امرأة."
+      },
+      {
+        "id": 6,
+        "en": "She is from Turkey.",
+        "ar": "هي من تركيا.",
+        "context": "تقال عند ذكر بلد امرأة."
+      },
+      {
+        "id": 7,
+        "en": "Where is your teacher from?",
+        "ar": "من أين معلمتك؟",
+        "context": "تقال عند السؤال عن أصل معلمة أو معلم."
+      },
+      {
+        "id": 8,
+        "en": "Where is your friend from?",
+        "ar": "من أين صديقك؟",
+        "context": "تقال عند السؤال عن موطن صديق."
+      },
+      {
+        "id": 9,
+        "en": "Where is that accent from?",
+        "ar": "من أين تلك اللكنة؟",
+        "context": "تقال عند السؤال عن أصل لهجة."
+      },
+      {
+        "id": 10,
+        "en": "Where is this food from?",
+        "ar": "من أين هذا الطعام؟",
+        "context": "تقال عند السؤال عن بلد أو مصدر طعام."
+      }
+    ]
+  }
+}

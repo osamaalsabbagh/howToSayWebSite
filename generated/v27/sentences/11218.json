@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": 11218,
+  "sentence": {
+    "en": "I changed the color attribute of the object.",
+    "ar": "أنا غيرت خاصية اللون للكائن.",
+    "context": "أنت تروي تعديل قيمة خاصية اللون في كائن برمجي.",
+    "sourceWord": "attribute",
+    "sourcePos": "n."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "I changed the color attribute of the object.",
+        "ar": "أنا غيرت خاصية اللون للكائن.",
+        "context": "أنت تروي تعديل قيمة خاصية اللون في كائن برمجي.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "أخبر عن حدث أو حالة في وقت ماضٍ انتهى، بالماضي البسيط. التصريف الماضي يصف حدثًا منتهيًا. خاصية مرتبطة بكائن في برنامج"
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "أنا؛ ضمير المتكلم المفرد"
+          },
+          {
+            "term": "changed",
+            "description": "غيرت؛ خاصية مرتبطة بكائن في برنامج التصريف الماضي للفعل."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف"
+          },
+          {
+            "term": "color",
+            "description": "اللون"
+          },
+          {
+            "term": "attribute",
+            "description": "خاصية"
+          },
+          {
+            "term": "of",
+            "description": "لـ"
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف"
+          },
+          {
+            "term": "object",
+            "description": "الكائن"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I changed the color attribute of the object.",
+        "ar": "أنا غيرت خاصية اللون للكائن.",
+        "context": "أنت تروي تعديل قيمة خاصية اللون في كائن برمجي."
+      },
+      {
+        "id": 2,
+        "en": "I change the color attribute of the object.",
+        "ar": "أنا أغير خاصية اللون للكائن.",
+        "context": "أنت تعدل قيمة اللون في خصائص كائن برمجي. أنت تشرح عادتك أو وضعك الحالي فيما يخص خاصية الكائن."
+      },
+      {
+        "id": 3,
+        "en": "I do not change the color attribute of the object.",
+        "ar": "أنا لا أغير خاصية اللون للكائن.",
+        "context": "أنت تعدل قيمة اللون في خصائص كائن برمجي. أنت توضح أن هذا ليس من عادتك أو وصفًا لوضعك الحالي."
+      },
+      {
+        "id": 4,
+        "en": "I am changing the color attribute of the object.",
+        "ar": "أنا أغير خاصية اللون للكائن.",
+        "context": "أنت تعدل قيمة اللون في خصائص كائن برمجي. أنت في أثناء التعامل مع خاصية الكائن الآن."
+      },
+      {
+        "id": 5,
+        "en": "I am not changing the color attribute of the object.",
+        "ar": "أنا لا أغير خاصية اللون للكائن.",
+        "context": "أنت تعدل قيمة اللون في خصائص كائن برمجي. أنت تصحح توقعًا بشأن ما تفعله الآن وتوضح أن هذا النشاط لا يجري."
+      },
+      {
+        "id": 6,
+        "en": "I did not change the color attribute of the object.",
+        "ar": "أنا لم أغير خاصية اللون للكائن.",
+        "context": "أنت تعدل قيمة اللون في خصائص كائن برمجي. أنت تصحح رواية عن أحداث أمس وتوضح أن هذا الأمر لم يحصل."
+      },
+      {
+        "id": 7,
+        "en": "I have changed the color attribute of the object.",
+        "ar": "أنا قد غيرت خاصية اللون للكائن.",
+        "context": "أنت تعدل قيمة اللون في خصائص كائن برمجي. أنت تناقش ما أنجزته أو خبرتك السابقة بشأن خاصية الكائن، لأن ذلك مهم لموقفك الآن."
+      },
+      {
+        "id": 8,
+        "en": "I have not changed the color attribute of the object.",
+        "ar": "أنا لم أغير خاصية اللون للكائن.",
+        "context": "أنت تعدل قيمة اللون في خصائص كائن برمجي. أنت تناقش ما تم حتى الآن وتوضح أن هذا الأمر لم يتم بعد."
+      },
+      {
+        "id": 9,
+        "en": "I will change the color attribute of the object.",
+        "ar": "أنا سأغير خاصية اللون للكائن.",
+        "context": "أنت تعدل قيمة اللون في خصائص كائن برمجي. أنت تتحدث عن خططك أو توقعاتك بشأن خاصية الكائن غدًا."
+      },
+      {
+        "id": 10,
+        "en": "I will not change the color attribute of the object.",
+        "ar": "أنا لن أغير خاصية اللون للكائن.",
+        "context": "أنت تعدل قيمة اللون في خصائص كائن برمجي. أنت تناقش خطط الغد وتوضح أن هذا الأمر لن يحدث."
+      }
+    ]
+  }
+}

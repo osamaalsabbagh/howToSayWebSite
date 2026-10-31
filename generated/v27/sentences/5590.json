@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 1,
+  "id": 5590,
+  "sentence": {
+    "en": "Fry the onions until they turn golden.",
+    "ar": "اقْلِ البصل حتى اكتسابه لونًا ذهبيًا.",
+    "context": "تعليمات بطهي البصل في مادة دهنية ساخنة إلى أن يكتسب لونًا ذهبيًا.",
+    "sourceWord": "fry",
+    "sourcePos": "v."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Fry the onions",
+        "ar": "اقْلِ البصل",
+        "context": "خطوة طهي تطلب وضع البصل في مادة دهنية ساخنة.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "تبدأ العبارة بالفعل Fry لتقديم تعليمات مباشرة دون زمن مستقل."
+        },
+        "wordMeanings": [
+          {
+            "term": "Fry",
+            "description": "اقْلِ؛ اطهُ في دهن ساخن"
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف لبصل محدد"
+          },
+          {
+            "term": "onions",
+            "description": "البصل؛ مكون نباتي يستخدم في الطهي"
+          }
+        ]
+      },
+      {
+        "sentence": "until they turn golden.",
+        "ar": "حتى اكتسابه لونًا ذهبيًا.",
+        "context": "تحديد أن القلي يستمر إلى وصول البصل إلى لون ذهبي.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "تستخدم جملة الوقت بعد until المضارع البسيط لبيان الحالة اللاحقة التي تنتهي عندها خطوة الطهي."
+        },
+        "wordMeanings": [
+          {
+            "term": "until",
+            "description": "حتى؛ تحدد نهاية استمرار القلي"
+          },
+          {
+            "term": "they",
+            "description": "هي؛ ضمير يعود إلى قطع البصل"
+          },
+          {
+            "term": "turn",
+            "description": "تصبح؛ تنتقل إلى حالة أخرى"
+          },
+          {
+            "term": "golden",
+            "description": "ذهبية اللون؛ مائلة إلى لون الذهب"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Fry the onions until they turn golden.",
+        "ar": "اقْلِ البصل حتى اكتسابه لونًا ذهبيًا.",
+        "context": "تعليمات بطهي البصل في مادة دهنية ساخنة إلى أن يكتسب لونًا ذهبيًا."
+      },
+      {
+        "id": 2,
+        "en": "The chef fried the fish in a shallow pan.",
+        "ar": "الطاهي قلى السمك في مقلاة ضحلة.",
+        "context": "وصف طهي سابق لطعام في دهن ساخن باستخدام إناء غير عميق."
+      },
+      {
+        "id": 3,
+        "en": "The potatoes fry quickly in small batches.",
+        "ar": "البطاطس تُقلى بسرعة في دفعات صغيرة.",
+        "context": "وصف طريقة طهي يتوزع فيها الطعام على كميات قليلة في كل مرة."
+      },
+      {
+        "id": 4,
+        "en": "We have fried the spices briefly before adding the rice.",
+        "ar": "نحن قد قلينا التوابل قليلًا قبل إضافة الأرز.",
+        "context": "الإبلاغ عن خطوة طهي مكتملة سبقت مزج مكون آخر."
+      },
+      {
+        "id": 5,
+        "en": "The power surge fried the circuit board.",
+        "ar": "الارتفاع المفاجئ في الكهرباء أتلف لوحة الدوائر.",
+        "context": "وصف تلف سابق بلغة غير رسمية، لا طهي حقيقي."
+      },
+      {
+        "id": 6,
+        "en": "She fried an egg for breakfast.",
+        "ar": "هي قلت بيضة للإفطار.",
+        "context": "وصف إعداد سابق لوجبة صباحية بطهي مكون في مقلاة ودهن."
+      },
+      {
+        "id": 7,
+        "en": "The cook is frying slices of bread in butter.",
+        "ar": "الطاهي يقلي شرائح خبز في الزبدة.",
+        "context": "وصف تحمير جارٍ لقطع خبز باستخدام مادة دهنية."
+      },
+      {
+        "id": 8,
+        "en": "The restaurant will fry the vegetables to order.",
+        "ar": "المطعم سيقلي الخضراوات عند الطلب.",
+        "context": "توقع إعداد طعام في دهن ساخن بعد تلقي طلب الزبون."
+      },
+      {
+        "id": 9,
+        "en": "The tofu fried to a crisp on the outside.",
+        "ar": "التوفو تحمر بالقلي حتى صار مقرمشًا من الخارج.",
+        "context": "وصف نتيجة سابقة للطهي جعلت سطح طعام متماسكًا ومقرمشًا."
+      },
+      {
+        "id": 10,
+        "en": "The recipe calls for frying rather than boiling.",
+        "ar": "الوصفة تتطلب القلي بدل السلق.",
+        "context": "تحديد أسلوب إعداد يعتمد على دهن ساخن بدل الماء."
+      }
+    ]
+  }
+}

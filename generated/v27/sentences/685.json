@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "id": 685,
+  "sentence": {
+    "en": "What does this say?",
+    "ar": "ماذا يقول هذا؟",
+    "context": "طلب قراءة أو شرح شيء مكتوب."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "What does this say?",
+        "ar": "ماذا يقول هذا؟",
+        "context": "تستخدم للسؤال عن محتوى مكتوب أو ما تقوله لافتة أو رسالة.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "السؤال عن محتوى ثابت مكتوب في الحاضر."
+        },
+        "wordMeanings": [
+          {
+            "term": "What",
+            "description": "ماذا، وتستخدم للسؤال عن المحتوى."
+          },
+          {
+            "term": "does",
+            "description": "كلمة مساعدة للسؤال مع مفرد."
+          },
+          {
+            "term": "this",
+            "description": "هذا، وتشير إلى نص أو شيء مكتوب قريب."
+          },
+          {
+            "term": "say",
+            "description": "يقول أو مكتوب فيه في هذا السياق."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "What does that sign say?",
+        "ar": "ماذا تقول تلك اللافتة؟",
+        "context": "تقال للسؤال عن لافتة."
+      },
+      {
+        "id": 2,
+        "en": "What does this letter say?",
+        "ar": "ماذا تقول هذه الرسالة؟",
+        "context": "تستخدم لطلب قراءة رسالة."
+      },
+      {
+        "id": 3,
+        "en": "This says the store is closed.",
+        "ar": "هذا يقول إن المتجر مغلق.",
+        "context": "تقال لشرح نص مكتوب."
+      },
+      {
+        "id": 4,
+        "en": "Can you read what this says?",
+        "ar": "هل يمكنك قراءة ما يقوله هذا؟",
+        "context": "تستخدم عند طلب مساعدة في القراءة."
+      },
+      {
+        "id": 5,
+        "en": "What does the message say?",
+        "ar": "ماذا تقول الرسالة؟",
+        "context": "تقال للسؤال عن رسالة نصية."
+      },
+      {
+        "id": 6,
+        "en": "I cannot see what this says.",
+        "ar": "لا أستطيع رؤية ما يقوله هذا.",
+        "context": "تستخدم عند صعوبة قراءة النص."
+      },
+      {
+        "id": 7,
+        "en": "What does this word say?",
+        "ar": "ماذا تقول هذه الكلمة؟",
+        "context": "تقال عند قراءة كلمة غير واضحة."
+      },
+      {
+        "id": 8,
+        "en": "The card says thank you.",
+        "ar": "البطاقة تقول شكراً.",
+        "context": "تستخدم لشرح ما على بطاقة."
+      },
+      {
+        "id": 9,
+        "en": "What does this paper say?",
+        "ar": "ماذا تقول هذه الورقة؟",
+        "context": "تستخدم للسؤال عن ورقة مكتوبة."
+      },
+      {
+        "id": 10,
+        "en": "This says your name.",
+        "ar": "هذا يقول اسمك.",
+        "context": "تقال عند الإشارة إلى اسم مكتوب."
+      }
+    ]
+  }
+}

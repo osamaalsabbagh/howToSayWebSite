@@ -1,0 +1,167 @@
+{
+  "schemaVersion": 1,
+  "id": 1,
+  "sentence": {
+    "en": "I booked a table by the window at the new cafe downtown to celebrate our project success.",
+    "ar": "حجزت طاولة قرب النافذة في المقهى الجديد وسط المدينة للاحتفال بنجاح مشروعنا.",
+    "context": "يخبره أنه حجز طاولة في المقهى للاحتفال بنجاح مشروعهما."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "I booked a table by the window at the new cafe downtown",
+        "ar": "حجزت طاولة قرب النافذة في المقهى الجديد وسط المدينة.",
+        "context": "يشرح الحجز ومكان الطاولة بالتفصيل.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "booked يصف فعل حجز حدث وانتهى قبل لحظة الكلام."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "أنا"
+          },
+          {
+            "term": "booked",
+            "description": "حجزت"
+          },
+          {
+            "term": "a",
+            "description": "أداة قبل اسم مفرد غير محدد"
+          },
+          {
+            "term": "table",
+            "description": "طاولة"
+          },
+          {
+            "term": "by",
+            "description": "بجانب أو قرب"
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف"
+          },
+          {
+            "term": "window",
+            "description": "نافذة"
+          },
+          {
+            "term": "at",
+            "description": "في، لتحديد مكان"
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف"
+          },
+          {
+            "term": "new",
+            "description": "جديد"
+          },
+          {
+            "term": "cafe",
+            "description": "مقهى"
+          },
+          {
+            "term": "downtown",
+            "description": "وسط المدينة"
+          }
+        ]
+      },
+      {
+        "sentence": "to celebrate our project success",
+        "ar": "للاحتفال بنجاح مشروعنا.",
+        "context": "يوضح سبب الحجز والهدف منه.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "to celebrate عبارة غرض تشرح لماذا حدث الحجز ولا تحمل زمنًا مستقلًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "to",
+            "description": "لـ أو من أجل"
+          },
+          {
+            "term": "celebrate",
+            "description": "نحتفل"
+          },
+          {
+            "term": "our",
+            "description": "خاص بنا"
+          },
+          {
+            "term": "project",
+            "description": "مشروع"
+          },
+          {
+            "term": "success",
+            "description": "نجاح"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I booked a room to celebrate our anniversary",
+        "ar": "حجزت غرفة للاحتفال بذكرانا السنوية",
+        "context": "يقال عند ترتيب احتفال خاص"
+      },
+      {
+        "id": 2,
+        "en": "She booked a table by the door",
+        "ar": "حجزت طاولة بجانب الباب",
+        "context": "يقال لوصف مكان طاولة محجوزة"
+      },
+      {
+        "id": 3,
+        "en": "We booked a hotel downtown",
+        "ar": "حجزنا فندقًا وسط المدينة",
+        "context": "يقال عند ذكر حجز في موقع مركزي"
+      },
+      {
+        "id": 4,
+        "en": "I booked two seats at the cafe",
+        "ar": "حجزت مقعدين في المقهى",
+        "context": "يقال عند ترتيب لقاء في مقهى"
+      },
+      {
+        "id": 5,
+        "en": "They celebrated the project success",
+        "ar": "احتفلوا بنجاح المشروع",
+        "context": "يقال بعد إنجاز عمل مهم"
+      },
+      {
+        "id": 6,
+        "en": "I chose a table by the window",
+        "ar": "اخترت طاولة بجانب النافذة",
+        "context": "يقال عند تفضيل مكان جلوس"
+      },
+      {
+        "id": 7,
+        "en": "We went downtown to meet our friends",
+        "ar": "ذهبنا إلى وسط المدينة لمقابلة أصدقائنا",
+        "context": "يقال عند ذكر سبب الذهاب"
+      },
+      {
+        "id": 8,
+        "en": "He booked a taxi to reach the office",
+        "ar": "حجز سيارة أجرة للوصول إلى المكتب",
+        "context": "يقال عند ترتيب وسيلة نقل"
+      },
+      {
+        "id": 9,
+        "en": "I brought flowers to celebrate her success",
+        "ar": "أحضرت زهورًا للاحتفال بنجاحها",
+        "context": "يقال عند شرح سبب إحضار هدية"
+      },
+      {
+        "id": 10,
+        "en": "We reserved a table at the new restaurant",
+        "ar": "حجزنا طاولة في المطعم الجديد",
+        "context": "يقال عند ترتيب عشاء أو لقاء"
+      }
+    ]
+  }
+}

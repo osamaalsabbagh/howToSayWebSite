@@ -1,0 +1,137 @@
+{
+  "schemaVersion": 1,
+  "id": 5486,
+  "sentence": {
+    "en": "I doubt that this key will fit the lock.",
+    "ar": "أنا أشك في أن هذا المفتاح سيلائم القفل.",
+    "context": "وصف عدم اقتناع المتكلم حاليًا بأن مفتاحًا محددًا سيلائم القفل عند تجربته.",
+    "sourceWord": "doubt",
+    "sourcePos": "v."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "I doubt",
+        "ar": "أنا أشك",
+        "context": "وصف موقف ذهني حالي لا يثق باحتمال معين.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "تصف العبارة موقف المتكلم الذهني القائم الآن."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "أنا؛ ضمير المتكلم المفرد"
+          },
+          {
+            "term": "doubt",
+            "description": "أشك؛ لا أرجح صحة احتمال بثقة"
+          }
+        ]
+      },
+      {
+        "sentence": "that this key will fit the lock.",
+        "ar": "في أن هذا المفتاح سيلائم القفل.",
+        "context": "بيان الاحتمال المتعلق بملاءمة مفتاح لقفل عند تجربته لاحقًا.",
+        "grammar": {
+          "tense": "المستقبل البسيط",
+          "tenseEn": "Future Simple",
+          "reason": "تتعلق الجملة التابعة بملاءمة متوقعة عند تجربة المفتاح لاحقًا، والمتكلم يشك في تحققها."
+        },
+        "wordMeanings": [
+          {
+            "term": "that",
+            "description": "أن؛ تربط الشك بمضمونه"
+          },
+          {
+            "term": "this",
+            "description": "هذا؛ يحدد المفتاح المقصود"
+          },
+          {
+            "term": "key",
+            "description": "مفتاح؛ أداة لفتح قفل"
+          },
+          {
+            "term": "will",
+            "description": "سـ؛ يبين ملاءمة محتملة في وقت لاحق ضمن مضمون الشك"
+          },
+          {
+            "term": "fit",
+            "description": "يلائم؛ يناسب الشكل والحجم المطلوبين"
+          },
+          {
+            "term": "the",
+            "description": "الـ؛ تحدد القفل المقصود"
+          },
+          {
+            "term": "lock",
+            "description": "قفل؛ آلية تغلق بابًا أو غرضًا"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I doubt that this key will fit the lock.",
+        "ar": "أنا أشك في أن هذا المفتاح سيلائم القفل.",
+        "context": "وصف عدم اقتناع المتكلم حاليًا بأن مفتاحًا محددًا سيلائم القفل عند تجربته."
+      },
+      {
+        "id": 2,
+        "en": "Please do not doubt your ability to learn.",
+        "ar": "من فضلك لا تشك في قدرتك على التعلم.",
+        "context": "تشجيع على الثقة بإمكان اكتساب معرفة أو مهارة."
+      },
+      {
+        "id": 3,
+        "en": "We have doubted the explanation from the beginning.",
+        "ar": "نحن قد شككنا في التفسير منذ البداية.",
+        "context": "الإبلاغ عن عدم اقتناع بدأ مبكرًا واستمر حتى الآن."
+      },
+      {
+        "id": 4,
+        "en": "The coach never doubts her team's effort.",
+        "ar": "المدربة لا تشك أبدًا في جهد فريقها.",
+        "context": "وصف ثقة المدربة المعتادة بالجهد الذي يبذله فريقها."
+      },
+      {
+        "id": 5,
+        "en": "He doubted the story because the dates did not match.",
+        "ar": "هو شك في القصة لأن التواريخ لم تتطابق.",
+        "context": "وصف عدم تصديق سابق ناتج عن تعارض معلومات زمنية."
+      },
+      {
+        "id": 6,
+        "en": "The new evidence is making the researchers doubt their first conclusion.",
+        "ar": "الأدلة الجديدة تجعل الباحثين يشكون في استنتاجهم الأول.",
+        "context": "وصف تراجع جارٍ في اليقين بحكم سابق بسبب معلومات مستجدة."
+      },
+      {
+        "id": 7,
+        "en": "The visitors will doubt the map if the signs disagree.",
+        "ar": "الزوار سيشكون في الخريطة في حال اختلاف اللافتات عنها.",
+        "context": "توقع فقدان ثقة بمصدر إرشاد عند تعارضه مع علامات طريق."
+      },
+      {
+        "id": 8,
+        "en": "She never doubted his kindness.",
+        "ar": "هي لم تشك قط في لطفه.",
+        "context": "وصف ثقة سابقة ثابتة بلطف شخص."
+      },
+      {
+        "id": 9,
+        "en": "The report gives us reason to doubt the estimate.",
+        "ar": "التقرير يعطينا سببًا للشك في التقدير.",
+        "context": "وصف معلومات تقلل اليقين بمبلغ أو مقدار متوقع."
+      },
+      {
+        "id": 10,
+        "en": "The editor doubted the accuracy of the quotation.",
+        "ar": "المحرر شك في دقة الاقتباس.",
+        "context": "وصف عدم يقين سابق بأن كلامًا منقولًا يطابق أصله."
+      }
+    ]
+  }
+}

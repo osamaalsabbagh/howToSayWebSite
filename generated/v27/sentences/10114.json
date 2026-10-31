@@ -1,0 +1,141 @@
+{
+  "schemaVersion": 1,
+  "id": 10114,
+  "sentence": {
+    "en": "The car is old. Moreover, it uses too much fuel.",
+    "ar": "السيارة قديمة. علاوة على ذلك، هي تستهلك وقودًا أكثر من اللازم.",
+    "context": "إضافة مأخذ ثانٍ على سيارة دون اختلاق نية بيع أو تأكيد علاقة سببية بين العمر والاستهلاك.",
+    "sourceWord": "moreover",
+    "sourcePos": "adv."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "The car is old.",
+        "ar": "السيارة قديمة.",
+        "context": "وصف عمر سيارة دون تقديم سبب للتخلص منها.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "المضارع البسيط يصف حالة."
+        },
+        "wordMeanings": [
+          {
+            "term": "The",
+            "description": "أداة تعريف تأتي مع السيارة."
+          },
+          {
+            "term": "car",
+            "description": "السيارة."
+          },
+          {
+            "term": "is",
+            "description": "صيغة الحاضر للكينونة."
+          },
+          {
+            "term": "old",
+            "description": "قديمة."
+          }
+        ]
+      },
+      {
+        "sentence": "Moreover, it uses too much fuel.",
+        "ar": "علاوة على ذلك، هي تستهلك وقودًا أكثر من اللازم.",
+        "context": "إضافة ملاحظة عن استهلاك يتجاوز المقدار المناسب.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "المضارع البسيط يصف حالة. الظرف يضيف سببًا ثانيًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "Moreover",
+            "description": "علاوة على ذلك."
+          },
+          {
+            "term": "it",
+            "description": "هي؛ تعود على السيارة."
+          },
+          {
+            "term": "uses",
+            "description": "تستهلك."
+          },
+          {
+            "term": "too",
+            "description": "أكثر من اللازم؛ تفيد تجاوز المقدار المناسب."
+          },
+          {
+            "term": "much",
+            "description": "كثيرًا."
+          },
+          {
+            "term": "fuel",
+            "description": "وقودًا."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "The car is old. Moreover, it uses too much fuel.",
+        "ar": "السيارة قديمة. علاوة على ذلك، هي تستهلك وقودًا أكثر من اللازم.",
+        "context": "إضافة مأخذ ثانٍ على سيارة دون اختلاق نية بيع أو تأكيد علاقة سببية بين العمر والاستهلاك."
+      },
+      {
+        "id": 2,
+        "en": "The method is simple. Moreover, it saves time.",
+        "ar": "الطريقة بسيطة. علاوة على ذلك، هي توفر الوقت.",
+        "context": "ضم حجة إضافية تؤيد طريقة عمل."
+      },
+      {
+        "id": 3,
+        "en": "She finished early. Moreover, her work was accurate.",
+        "ar": "هي انتهت مبكرًا. علاوة على ذلك، عملها كان دقيقًا.",
+        "context": "إضافة تقييم إيجابي ثانٍ إلى وصف إنجاز سابق."
+      },
+      {
+        "id": 4,
+        "en": "We have reduced costs. Moreover, we have improved quality.",
+        "ar": "نحن قد خفضنا التكاليف. علاوة على ذلك، نحن قد حسّنا الجودة.",
+        "context": "الإبلاغ عن نتيجتين مكتملتين تدعم الثانية منهما الأولى."
+      },
+      {
+        "id": 5,
+        "en": "The team is growing. Moreover, it is attracting experienced staff.",
+        "ar": "الفريق ينمو. علاوة على ذلك، هو يجذب موظفين ذوي خبرة.",
+        "context": "إضافة تطور جارٍ إلى تطور قائم آخر في جهة عمل."
+      },
+      {
+        "id": 6,
+        "en": "The plan will expand access. Moreover, it will lower costs.",
+        "ar": "الخطة ستوسع إمكانية الوصول. علاوة على ذلك، هي ستخفض التكاليف.",
+        "context": "توقع منفعتين قادمتين في خطة معينة دون تعميمهما."
+      },
+      {
+        "id": 7,
+        "en": "The room is quiet. Moreover, it has a good view.",
+        "ar": "الغرفة هادئة. علاوة على ذلك، هي لديها إطلالة جيدة.",
+        "context": "الجمع بين صفتين إيجابيتين في وصف مكان."
+      },
+      {
+        "id": 8,
+        "en": "The evidence was weak. Moreover, the witness changed his account.",
+        "ar": "الأدلة كانت ضعيفة. علاوة على ذلك، الشاهد غير روايته.",
+        "context": "تقديم سبب إضافي سابق للتحفظ دون الجزم بكذب الشاهد."
+      },
+      {
+        "id": 9,
+        "en": "The book is informative. Moreover, it is easy to read.",
+        "ar": "الكتاب غني بالمعلومات. علاوة على ذلك، هو سهل القراءة.",
+        "context": "إضافة ميزة تتعلق بالأسلوب إلى فائدة المحتوى."
+      },
+      {
+        "id": 10,
+        "en": "The path is narrow. Moreover, it becomes slippery in rain.",
+        "ar": "المسار ضيق. علاوة على ذلك، هو يصبح زلقًا في المطر.",
+        "context": "ذكر صعوبة ثانية مرتبطة بظروف طريق معين."
+      }
+    ]
+  }
+}

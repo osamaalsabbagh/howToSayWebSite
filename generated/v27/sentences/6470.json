@@ -1,0 +1,125 @@
+{
+  "schemaVersion": 1,
+  "id": 6470,
+  "sentence": {
+    "en": "Wait here till I come back.",
+    "ar": "انتظر هنا حتى أنا أعود.",
+    "context": "طلب بقاء في المكان إلى لحظة عودة المتكلم دون تحديد وجهته أو مدة غيابه.",
+    "sourceWord": "till",
+    "sourcePos": "conj./prep."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Wait here",
+        "ar": "انتظر هنا",
+        "context": "طلب انتظار في المكان الحالي.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "صيغة أمر بلا زمن مستقل."
+        },
+        "wordMeanings": [
+          {
+            "term": "Wait",
+            "description": "انتظر."
+          },
+          {
+            "term": "here",
+            "description": "هنا."
+          }
+        ]
+      },
+      {
+        "sentence": "till I come back.",
+        "ar": "حتى أنا أعود.",
+        "context": "جعل عودة المتكلم نهاية لفترة الانتظار.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "المضارع البسيط بعد أداة الوقت حتى عند الحديث عن المستقبل. الكلمة هنا أداة ربط غير رسمية بمعنى حتى."
+        },
+        "wordMeanings": [
+          {
+            "term": "till",
+            "description": "حتى؛ أداة ربط غير رسمية."
+          },
+          {
+            "term": "I",
+            "description": "أنا."
+          },
+          {
+            "term": "come",
+            "description": "آتي؛ مع الكلمة التالية تعني أعود."
+          },
+          {
+            "term": "back",
+            "description": "مع الفعل السابق تعني أعود."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Wait here till I come back.",
+        "ar": "انتظر هنا حتى أنا أعود.",
+        "context": "طلب بقاء في المكان إلى لحظة عودة المتكلم دون تحديد وجهته أو مدة غيابه."
+      },
+      {
+        "id": 2,
+        "en": "The shop is open till nine.",
+        "ar": "المتجر مفتوح حتى التاسعة.",
+        "context": "تحديد الساعة التاسعة حدًا لنهاية فتح متجر دون تعيين صباحًا أو مساءً."
+      },
+      {
+        "id": 3,
+        "en": "She read till midnight.",
+        "ar": "هي قرأت حتى منتصف الليل.",
+        "context": "وصف استمرار سابق للقراءة إلى وقت محدد."
+      },
+      {
+        "id": 4,
+        "en": "We have kept the room free till now.",
+        "ar": "نحن قد أبقينا الغرفة شاغرة حتى الآن.",
+        "context": "الإبلاغ عن استمرار حالة وصولًا إلى اللحظة الحالية."
+      },
+      {
+        "id": 5,
+        "en": "The team is staying till the work is finished.",
+        "ar": "الفريق يبقى حتى إتمام العمل.",
+        "context": "وصف بقاء جارٍ ينتهي بتحقق إنجاز محدد."
+      },
+      {
+        "id": 6,
+        "en": "The exhibition will run till Friday.",
+        "ar": "المعرض سيستمر حتى الجمعة.",
+        "context": "وصف نهاية مرتقبة لفترة عرض عند يوم محدد."
+      },
+      {
+        "id": 7,
+        "en": "Please do not decide till you have read the report.",
+        "ar": "من فضلك لا تقرر حتى إتمام قراءتك التقرير.",
+        "context": "طلب تأجيل قرار إلى اكتمال الاطلاع على معلومات."
+      },
+      {
+        "id": 8,
+        "en": "The noise continued till dawn.",
+        "ar": "الضجيج استمر حتى الفجر.",
+        "context": "وصف امتداد سابق لصوت إلى بداية النهار."
+      },
+      {
+        "id": 9,
+        "en": "The path stays narrow till the bridge.",
+        "ar": "المسار يبقى ضيقًا حتى الجسر.",
+        "context": "تحديد نقطة مكانية ينتهي عندها استمرار صفة في طريق."
+      },
+      {
+        "id": 10,
+        "en": "Nothing changed till the new manager arrived.",
+        "ar": "لا شيء تغير حتى وصول المدير الجديد.",
+        "context": "وصف ثبات سابق استمر إلى وقوع حدث محدد."
+      }
+    ]
+  }
+}

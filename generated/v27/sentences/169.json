@@ -1,0 +1,111 @@
+{
+  "schemaVersion": 1,
+  "id": 169,
+  "sentence": {
+    "en": "Do you know how to cook?",
+    "ar": "هل تعرف كيف تطبخ؟",
+    "context": "اسأل إن كان شخص يعرف الطهي."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Do you know how to cook?",
+        "ar": "هل تعرف كيف تطبخ؟",
+        "context": "يُستخدم هذا السؤال لطلب المعلومة المقصودة في هذا الموقف.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "يستخدم السؤال المضارع البسيط لأنه يسأل عن معرفة أو مهارة عامة لدى الشخص، وعبارة كيف تطبخ تأتي بعد الفعل لتحديد المهارة."
+        },
+        "wordMeanings": [
+          {
+            "term": "Do",
+            "description": "تأتي في بداية السؤال مع المخاطب لتكوين سؤال في الحاضر."
+          },
+          {
+            "term": "you",
+            "description": "أنت، وتشير إلى الشخص المخاطب."
+          },
+          {
+            "term": "know",
+            "description": "تعرف أو لديك معرفة."
+          },
+          {
+            "term": "how",
+            "description": "كيف، وتستخدم هنا للسؤال عن طريقة أو مهارة."
+          },
+          {
+            "term": "to",
+            "description": "تربط كلمة كيف بالفعل بعدها لتكوين معنى معرفة طريقة فعل الشيء."
+          },
+          {
+            "term": "cook",
+            "description": "تطبخ أو تعد الطعام."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Do you know how to cook?",
+        "ar": "هل تعرف كيف تطبخ؟",
+        "context": "تقال للسؤال عن مهارة الطبخ."
+      },
+      {
+        "id": 2,
+        "en": "Do you know how to cook rice without a rice cooker?",
+        "ar": "هل أنت تعرف كيفية طهي الأرز دون جهاز لطهي الأرز؟",
+        "context": "السؤال عن معرفة طريقة إعداد الأرز دون استخدام جهاز مخصص لذلك."
+      },
+      {
+        "id": 3,
+        "en": "Do you know how to sharpen a kitchen knife?",
+        "ar": "هل أنت تعرف كيفية شحذ سكين مطبخ؟",
+        "context": "السؤال عن معرفة طريقة جعل سكين المطبخ حادة من جديد."
+      },
+      {
+        "id": 4,
+        "en": "Do you know how to read this?",
+        "ar": "هل تعرف كيف تقرأ هذا؟",
+        "context": "تقال عند طلب فهم كتابة أو نص."
+      },
+      {
+        "id": 5,
+        "en": "Do you know how to use this machine?",
+        "ar": "هل تعرف كيف تستخدم هذه الآلة؟",
+        "context": "تقال عند السؤال عن طريقة استخدام جهاز."
+      },
+      {
+        "id": 6,
+        "en": "Do you know how to fix it?",
+        "ar": "هل تعرف كيف تصلحه؟",
+        "context": "تقال عند وجود مشكلة تحتاج إلى إصلاح."
+      },
+      {
+        "id": 7,
+        "en": "Do you know how to get there?",
+        "ar": "هل تعرف كيف تصل إلى هناك؟",
+        "context": "تقال عند السؤال عن طريق أو وسيلة وصول."
+      },
+      {
+        "id": 8,
+        "en": "Do you know how to open this door?",
+        "ar": "هل تعرف كيف تفتح هذا الباب؟",
+        "context": "تقال عند صعوبة فتح باب."
+      },
+      {
+        "id": 9,
+        "en": "Do you know how to make tea?",
+        "ar": "هل تعرف كيف تعد الشاي؟",
+        "context": "تقال للسؤال عن طريقة إعداد الشاي."
+      },
+      {
+        "id": 10,
+        "en": "Do you know how to speak Arabic?",
+        "ar": "هل تعرف كيف تتحدث العربية؟",
+        "context": "تقال للسؤال عن القدرة على التحدث بالعربية."
+      }
+    ]
+  }
+}

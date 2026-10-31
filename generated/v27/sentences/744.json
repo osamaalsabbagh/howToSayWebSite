@@ -1,0 +1,139 @@
+{
+  "schemaVersion": 1,
+  "id": 744,
+  "sentence": {
+    "en": "Do you know how to get to the Marriott Hotel?",
+    "ar": "هل تعرف كيف تصل إلى فندق ماريوت؟",
+    "context": "السؤال عن كيفية الوصول إلى فندق ماريوت."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Do you know",
+        "ar": "هل تعرف",
+        "context": "بداية السؤال لطلب معلومة من الشخص.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "يستخدم المضارع البسيط مع know للسؤال عن معرفة موجودة لدى الشخص الآن."
+        },
+        "wordMeanings": [
+          {
+            "term": "Do",
+            "description": "أداة سؤال في المضارع البسيط"
+          },
+          {
+            "term": "you",
+            "description": "الشخص المخاطب"
+          },
+          {
+            "term": "know",
+            "description": "تعرف أو لديك معرفة"
+          }
+        ]
+      },
+      {
+        "sentence": "how to get to the Marriott Hotel",
+        "ar": "كيف تصل إلى فندق ماريوت",
+        "context": "جزء يوضح نوع المعلومة المطلوبة وهي طريقة الوصول.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذا تركيب استفهامي غير مباشر مع how to يشرح الطريقة، وليس جملة بزمن مستقل."
+        },
+        "wordMeanings": [
+          {
+            "term": "how",
+            "description": "كيف أو بأي طريقة"
+          },
+          {
+            "term": "to",
+            "description": "تأتي قبل الفعل للدلالة على المقصود فعله"
+          },
+          {
+            "term": "get",
+            "description": "تصل أو تذهب إلى مكان"
+          },
+          {
+            "term": "to",
+            "description": "إلى؛ تدل على الاتجاه"
+          },
+          {
+            "term": "the",
+            "description": "تحدد أن المقصود مكان معروف"
+          },
+          {
+            "term": "Marriott",
+            "description": "اسم فندق أو علامة فندقية"
+          },
+          {
+            "term": "Hotel",
+            "description": "فندق"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Do you know how to get to the airport?",
+        "ar": "هل تعرف كيف تصل إلى المطار؟",
+        "context": "لطلب اتجاهات إلى المطار."
+      },
+      {
+        "id": 2,
+        "en": "Do you know how to get home?",
+        "ar": "هل تعرف كيف تصل إلى البيت؟",
+        "context": "للسؤال عن طريق العودة."
+      },
+      {
+        "id": 3,
+        "en": "Do you know where the station is?",
+        "ar": "هل تعرف أين المحطة؟",
+        "context": "لطلب مكان محطة."
+      },
+      {
+        "id": 4,
+        "en": "Do you know how to call a taxi?",
+        "ar": "هل تعرف كيف تطلب سيارة أجرة؟",
+        "context": "لطلب طريقة الحصول على سيارة أجرة."
+      },
+      {
+        "id": 5,
+        "en": "Do you know the way to the hotel?",
+        "ar": "هل تعرف الطريق إلى الفندق؟",
+        "context": "للسؤال عن اتجاهات فندق."
+      },
+      {
+        "id": 6,
+        "en": "Do you know how to use this map?",
+        "ar": "هل تعرف كيف تستخدم هذه الخريطة؟",
+        "context": "للسؤال عن طريقة استخدام خريطة."
+      },
+      {
+        "id": 7,
+        "en": "Do you know how to reach the office?",
+        "ar": "هل تعرف كيف تصل إلى المكتب؟",
+        "context": "لطلب طريق إلى مكتب."
+      },
+      {
+        "id": 8,
+        "en": "Do you know which bus goes there?",
+        "ar": "هل تعرف أي حافلة تذهب إلى هناك؟",
+        "context": "للسؤال عن وسيلة مواصلات مناسبة."
+      },
+      {
+        "id": 9,
+        "en": "Do you know how to find this street?",
+        "ar": "هل تعرف كيف تجد هذا الشارع؟",
+        "context": "لطلب مساعدة في العثور على شارع."
+      },
+      {
+        "id": 10,
+        "en": "Do you know where I should turn?",
+        "ar": "هل تعرف أين يجب أن أنعطف؟",
+        "context": "للسؤال عن اتجاه أثناء الطريق."
+      }
+    ]
+  }
+}

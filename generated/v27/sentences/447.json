@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": 447,
+  "sentence": {
+    "en": "Are you here alone?",
+    "ar": "هل أنت هنا وحدك؟",
+    "context": "السؤال إن كان الشخص بمفرده."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Are you here alone?",
+        "ar": "هل أنت هنا وحدك؟",
+        "context": "سؤال لشخص عما إذا كان موجودًا في هذا المكان بلا أحد معه.",
+        "grammar": {
+          "tense": "simple present",
+          "tenseEn": "Simple Present",
+          "reason": "Are asks about a present state or situation."
+        },
+        "wordMeanings": [
+          {
+            "term": "Are",
+            "ar": "هل تكون",
+            "description": "Arabic meaning for \"Are\" in this sentence."
+          },
+          {
+            "term": "you",
+            "ar": "أنت",
+            "description": "Arabic meaning for \"you\" in this sentence."
+          },
+          {
+            "term": "here",
+            "ar": "هنا",
+            "description": "Arabic meaning for \"here\" in this sentence."
+          },
+          {
+            "term": "alone",
+            "ar": "وحدك",
+            "description": "Arabic meaning for \"alone\" in this sentence."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Are you alone?",
+        "ar": "هل أنت وحدك؟",
+        "context": "سؤال قصير عن وجود المخاطب بلا أحد معه."
+      },
+      {
+        "id": 2,
+        "en": "Are you here now?",
+        "ar": "هل أنت هنا الآن؟",
+        "context": "سؤال عن حضور المخاطب في هذه اللحظة."
+      },
+      {
+        "id": 3,
+        "en": "I am here alone.",
+        "ar": "أنا هنا وحدي.",
+        "context": "إخبار بأن المتكلم في المكان بلا أحد معه."
+      },
+      {
+        "id": 4,
+        "en": "She is not alone.",
+        "ar": "هي ليست وحدها.",
+        "context": "نفي أن تكون المرأة بلا أحد معها."
+      },
+      {
+        "id": 5,
+        "en": "Are they here?",
+        "ar": "هل هم هنا؟",
+        "context": "سؤال عن حضور جماعة في المكان."
+      },
+      {
+        "id": 6,
+        "en": "You are here early.",
+        "ar": "أنت هنا مبكرًا.",
+        "context": "ملاحظة أن المخاطب وصل قبل الموعد."
+      },
+      {
+        "id": 7,
+        "en": "He is alone in the waiting room.",
+        "ar": "هو وحده في غرفة الانتظار.",
+        "context": "وصف وجود رجل في غرفة الانتظار دون أن يرافقه أحد."
+      },
+      {
+        "id": 8,
+        "en": "Are we alone here?",
+        "ar": "هل نحن وحدنا هنا؟",
+        "context": "سؤال عن خلو المكان من غير المتكلم ومن معه."
+      },
+      {
+        "id": 9,
+        "en": "The room is empty.",
+        "ar": "الغرفة فارغة.",
+        "context": "وصف غرفة لا يوجد فيها أحد."
+      },
+      {
+        "id": 10,
+        "en": "Are you with a friend?",
+        "ar": "هل أنت مع صديق؟",
+        "context": "سؤال عن مرافقة صديق للمخاطب."
+      }
+    ]
+  }
+}

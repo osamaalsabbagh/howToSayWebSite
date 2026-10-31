@@ -1,0 +1,151 @@
+{
+  "schemaVersion": 1,
+  "id": 6,
+  "sentence": {
+    "en": "Look behind you, isn't that John who works with us in the office?",
+    "ar": "انظر خلفك، أليس ذاك جون الذي يعمل معنا في المكتب؟",
+    "context": "يشير إلى شخص يعرفانه ويعمل معهما في المكتب."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Look behind you",
+        "ar": "انظر خلفك",
+        "context": "تستعمل لتنبيه شخص إلى شيء أو شخص موجود خلفه.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "Look هنا أمر مباشر، لذلك لا يحمل زمنًا مستقلًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "Look",
+            "description": "انظر أو وجه نظرك"
+          },
+          {
+            "term": "behind",
+            "description": "في الجهة الخلفية"
+          },
+          {
+            "term": "you",
+            "description": "الشخص المخاطب"
+          }
+        ]
+      },
+      {
+        "sentence": "isn't that John who works with us in the office?",
+        "ar": "أليس ذاك جون الذي يعمل معنا في المكتب؟",
+        "context": "تستعمل للتأكد من هوية شخص يراه المتكلم.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "isn't that صيغة سؤال تأكيدي عن الهوية، وworks يصف عملًا معتادًا أو ثابتًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "isn't",
+            "description": "صيغة سؤال منفية بمعنى أليس"
+          },
+          {
+            "term": "that",
+            "description": "ذاك الشخص المشار إليه"
+          },
+          {
+            "term": "John",
+            "description": "اسم الشخص المقصود"
+          },
+          {
+            "term": "who",
+            "description": "الذي وتربط الشخص بوصفه"
+          },
+          {
+            "term": "works",
+            "description": "يعمل بشكل معتاد"
+          },
+          {
+            "term": "with",
+            "description": "مع أو برفقة"
+          },
+          {
+            "term": "us",
+            "description": "نحن، أي المتكلم والمخاطب"
+          },
+          {
+            "term": "in",
+            "description": "داخل مكان"
+          },
+          {
+            "term": "the",
+            "description": "تحدد مكتبًا معروفًا"
+          },
+          {
+            "term": "office",
+            "description": "مكان العمل الإداري"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Look behind you, is that Sara from our class?",
+        "ar": "انظر خلفك، هل تلك سارة من صفنا؟",
+        "context": "تقال عند محاولة التعرف على شخص."
+      },
+      {
+        "id": 2,
+        "en": "Look outside, isn't that the waiter from yesterday?",
+        "ar": "انظر إلى الخارج، أليس ذلك النادل من الأمس؟",
+        "context": "تقال عند تذكر شخص من موقف سابق."
+      },
+      {
+        "id": 3,
+        "en": "Isn't that Mark who lives near us?",
+        "ar": "أليس ذلك مارك الذي يعيش بالقرب منا؟",
+        "context": "تقال للتأكد من هوية جار."
+      },
+      {
+        "id": 4,
+        "en": "Look behind you, someone is waving.",
+        "ar": "انظر خلفك، هناك شخص يلوح.",
+        "context": "تقال لتنبيه شخص إلى حركة خلفه."
+      },
+      {
+        "id": 5,
+        "en": "Isn't that the woman who works at the bank?",
+        "ar": "أليست تلك المرأة التي تعمل في البنك؟",
+        "context": "تقال عند التعرف على شخص من عمله."
+      },
+      {
+        "id": 6,
+        "en": "Look near the door, is that our teacher?",
+        "ar": "انظر قرب الباب، هل ذلك معلمنا؟",
+        "context": "تقال عند رؤية شخص مألوف في مكان عام."
+      },
+      {
+        "id": 7,
+        "en": "Isn't that John from the office?",
+        "ar": "أليس ذلك جون من المكتب؟",
+        "context": "تقال للتأكد من رؤية زميل عمل."
+      },
+      {
+        "id": 8,
+        "en": "Look behind you, your friend is there.",
+        "ar": "انظر خلفك، صديقك هناك.",
+        "context": "تقال عندما يظهر شخص معروف خلف المخاطب."
+      },
+      {
+        "id": 9,
+        "en": "Isn't that the man who helped us?",
+        "ar": "أليس ذلك الرجل الذي ساعدنا؟",
+        "context": "تقال عند تمييز شخص قدّم مساعدة سابقًا."
+      },
+      {
+        "id": 10,
+        "en": "Look across the room, is that your manager?",
+        "ar": "انظر إلى الجهة الأخرى من الغرفة، هل ذلك مديرك؟",
+        "context": "تقال عند ملاحظة شخص مهم في المكان."
+      }
+    ]
+  }
+}

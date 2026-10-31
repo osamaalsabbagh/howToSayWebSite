@@ -1,0 +1,131 @@
+{
+  "schemaVersion": 1,
+  "id": 17,
+  "sentence": {
+    "en": "How about Sam? Have you talked to him?",
+    "ar": "ماذا عن سام؟ هل كلمته؟",
+    "context": "استفسار إذا كان هناك تواصل مع شخص"
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "How about Sam?",
+        "ar": "ماذا عن سام؟",
+        "context": "تستخدم لتحويل الحديث إلى سام والسؤال عن حالته أو أمره.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "How about تعبير ثابت لطرح موضوع أو شخص للنقاش، وليس له زمن مستقل."
+        },
+        "wordMeanings": [
+          {
+            "term": "How",
+            "description": "تأتي هنا ضمن تعبير يعني ماذا عن."
+          },
+          {
+            "term": "about",
+            "description": "عن؛ تكمل التعبير للسؤال عن موضوع."
+          },
+          {
+            "term": "Sam",
+            "description": "اسم الشخص الذي يدور عنه السؤال."
+          }
+        ]
+      },
+      {
+        "sentence": "Have you talked to him?",
+        "ar": "هل كلمته؟",
+        "context": "سؤال لمعرفة هل حدث تواصل مع سام حتى الآن.",
+        "grammar": {
+          "tense": "المضارع التام",
+          "tenseEn": "Present Perfect",
+          "reason": "Have you talked يسأل عن تجربة أو فعل حدث قبل الآن وله صلة بالحاضر، مثل معرفة آخر تواصل."
+        },
+        "wordMeanings": [
+          {
+            "term": "Have",
+            "description": "كلمة مساعدة لبدء سؤال في المضارع التام."
+          },
+          {
+            "term": "you",
+            "description": "ضمير المخاطب؛ الشخص المسؤول عن التواصل."
+          },
+          {
+            "term": "talked",
+            "description": "تحدث أو كلم شخصا."
+          },
+          {
+            "term": "to",
+            "description": "تدل على اتجاه الكلام نحو شخص."
+          },
+          {
+            "term": "him",
+            "description": "ضمير يعود على سام أو رجل سبق ذكره."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "How about Ali? Have you called him?",
+        "ar": "ماذا عن علي؟ هل اتصلت به؟",
+        "context": "سؤال عن التواصل مع شخص محدد."
+      },
+      {
+        "id": 2,
+        "en": "How about Nora? Have you seen her?",
+        "ar": "ماذا عن نورا؟ هل رأيتها؟",
+        "context": "يستخدم للسؤال عن مقابلة شخص."
+      },
+      {
+        "id": 3,
+        "en": "Have you talked to the teacher?",
+        "ar": "هل كلمت المعلم؟",
+        "context": "سؤال عن تواصل مهم."
+      },
+      {
+        "id": 4,
+        "en": "Have you sent him a message?",
+        "ar": "هل أرسلت له رسالة؟",
+        "context": "يقال لمعرفة هل حدث تواصل كتابي."
+      },
+      {
+        "id": 5,
+        "en": "How about your brother?",
+        "ar": "ماذا عن أخيك؟",
+        "context": "يستخدم لتحويل السؤال إلى شخص آخر."
+      },
+      {
+        "id": 6,
+        "en": "Have they talked to Sam?",
+        "ar": "هل كلموا سام؟",
+        "context": "سؤال عن تواصل مجموعة مع سام."
+      },
+      {
+        "id": 7,
+        "en": "How about the manager? Have you informed him?",
+        "ar": "ماذا عن المدير؟ هل أخبرته؟",
+        "context": "يستخدم في متابعة مهمة."
+      },
+      {
+        "id": 8,
+        "en": "Have you talked to her today?",
+        "ar": "هل كلمتها اليوم؟",
+        "context": "سؤال عن تواصل في نفس اليوم."
+      },
+      {
+        "id": 9,
+        "en": "How about your friend? Have you checked on him?",
+        "ar": "ماذا عن صديقك؟ هل اطمأننت عليه؟",
+        "context": "يستخدم عند الاهتمام بحال شخص."
+      },
+      {
+        "id": 10,
+        "en": "Have you asked him about the meeting?",
+        "ar": "هل سألته عن الاجتماع؟",
+        "context": "سؤال عن أخذ معلومة من شخص."
+      }
+    ]
+  }
+}

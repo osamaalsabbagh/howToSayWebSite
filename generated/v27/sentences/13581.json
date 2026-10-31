@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 1,
+  "id": 13581,
+  "sentence": {
+    "en": "If the pain persists, see a doctor.",
+    "ar": "إذا الألم استمر، راجع طبيبًا.",
+    "context": "نصيحة طبية عامة لمن يشعر بوجع لا يزول مع الوقت.",
+    "sourceWord": "persist",
+    "sourcePos": "v."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "If the pain persists",
+        "ar": "إذا الألم استمر",
+        "context": "شرط يصف حالة الوجع الذي لا يزول.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "المضارع البسيط بعد «If» يصف شرطًا عامًا قد يتحقق."
+        },
+        "wordMeanings": [
+          {
+            "term": "If",
+            "description": "إذا"
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف"
+          },
+          {
+            "term": "pain",
+            "description": "الألم"
+          },
+          {
+            "term": "persists",
+            "description": "استمر؛ بقي ولم يتوقف"
+          }
+        ]
+      },
+      {
+        "sentence": "see a doctor",
+        "ar": "راجع طبيبًا",
+        "context": "جواب الشرط وهو نصيحة مباشرة.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "جملة أمر تطلب من المخاطب فعل شيء؛ لا يوجد زمن مستقل."
+        },
+        "wordMeanings": [
+          {
+            "term": "see",
+            "description": "راجع؛ قابل"
+          },
+          {
+            "term": "a",
+            "description": "أداة تنكير"
+          },
+          {
+            "term": "doctor",
+            "description": "طبيبًا"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "If the pain persists, see a doctor.",
+        "ar": "إذا الألم استمر، راجع طبيبًا.",
+        "context": "نصيحة طبية عامة لمن يشعر بوجع لا يزول مع الوقت."
+      },
+      {
+        "id": 2,
+        "en": "If the problem persists, call the help desk.",
+        "ar": "إذا المشكلة استمرت، اتصل بمكتب المساعدة.",
+        "context": "دعم فني."
+      },
+      {
+        "id": 3,
+        "en": "If symptoms persist, stop taking the drug.",
+        "ar": "إذا الأعراض استمرت، توقف عن تناول الدواء.",
+        "context": "نشرة دواء."
+      },
+      {
+        "id": 4,
+        "en": "Bad habits often persist for years.",
+        "ar": "العادات السيئة غالبًا تستمر لسنوات.",
+        "context": "سلوك."
+      },
+      {
+        "id": 5,
+        "en": "The smell persists even after cleaning.",
+        "ar": "الرائحة تستمر حتى بعد التنظيف.",
+        "context": "بيت."
+      },
+      {
+        "id": 6,
+        "en": "Inequality persists in many countries.",
+        "ar": "عدم المساواة يستمر في بلدان كثيرة.",
+        "context": "مجتمع."
+      },
+      {
+        "id": 7,
+        "en": "If the noise persists, tell the manager.",
+        "ar": "إذا الضجيج استمر، أخبر المدير.",
+        "context": "فندق."
+      },
+      {
+        "id": 8,
+        "en": "Myths persist despite the facts.",
+        "ar": "الخرافات تستمر رغم الحقائق.",
+        "context": "علم."
+      },
+      {
+        "id": 9,
+        "en": "If the fever persists, go to the hospital.",
+        "ar": "إذا الحمى استمرت، اذهب إلى المستشفى.",
+        "context": "طب."
+      },
+      {
+        "id": 10,
+        "en": "Some memories persist forever.",
+        "ar": "بعض الذكريات تستمر إلى الأبد.",
+        "context": "مشاعر."
+      }
+    ]
+  }
+}

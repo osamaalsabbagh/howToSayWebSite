@@ -1,0 +1,133 @@
+{
+  "schemaVersion": 1,
+  "id": 5902,
+  "sentence": {
+    "en": "That does not necessarily mean he is wrong.",
+    "ar": "ذلك لا يعني بالضرورة أنه مخطئ.",
+    "context": "نفي أن يكون أمر مشار إليه دليلًا حتميًا على خطأ رجل.",
+    "sourceWord": "necessarily",
+    "sourcePos": "adv."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "That does not necessarily mean",
+        "ar": "ذلك لا يعني بالضرورة",
+        "context": "نفي وجود دلالة حتمية لأمر مشار إليه.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "يصف does not mean نفي دلالة قائمة، وتحد necessarily من حتمية الاستنتاج."
+        },
+        "wordMeanings": [
+          {
+            "term": "That",
+            "description": "ذلك؛ إشارة إلى أمر مذكور"
+          },
+          {
+            "term": "does",
+            "description": "فعل مساعد لبناء النفي"
+          },
+          {
+            "term": "not",
+            "description": "لا؛ تنفي الدلالة"
+          },
+          {
+            "term": "necessarily",
+            "description": "بالضرورة؛ بصورة حتمية"
+          },
+          {
+            "term": "mean",
+            "description": "يعني؛ يدل على نتيجة"
+          }
+        ]
+      },
+      {
+        "sentence": "he is wrong",
+        "ar": "أنه مخطئ",
+        "context": "النتيجة غير المؤكدة هي أن رجلًا على خطأ.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "تصف is wrong حالة الشخص التي لا يلزم استنتاجها من الأمر المشار إليه."
+        },
+        "wordMeanings": [
+          {
+            "term": "he",
+            "description": "هو؛ الرجل المقصود ويظهر في أنه"
+          },
+          {
+            "term": "is",
+            "description": "فعل ربط يصل الشخص بوصفه"
+          },
+          {
+            "term": "wrong",
+            "description": "مخطئ؛ على غير صواب"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "That does not necessarily mean he is wrong.",
+        "ar": "ذلك لا يعني بالضرورة أنه مخطئ.",
+        "context": "نفي أن يكون أمر مشار إليه دليلًا حتميًا على خطأ رجل."
+      },
+      {
+        "id": 2,
+        "en": "A short answer is not necessarily rude.",
+        "ar": "الإجابة القصيرة ليست بالضرورة فظة.",
+        "context": "نفي الحكم على قلة الكلام بأنها سوء أدب في كل حالة."
+      },
+      {
+        "id": 3,
+        "en": "The delay did not necessarily indicate a problem.",
+        "ar": "التأخير لم يدل بالضرورة على مشكلة.",
+        "context": "وصف تأخير سابق لا تكفي ملاحظته للجزم بوجود خلل."
+      },
+      {
+        "id": 4,
+        "en": "We have not necessarily reached the same conclusion.",
+        "ar": "نحن لم نصل بالضرورة إلى الاستنتاج نفسه.",
+        "context": "التنبيه إلى أن اتفاق النتيجة بين المتكلمين ليس مؤكدًا بعد ما جرى من تفكير."
+      },
+      {
+        "id": 5,
+        "en": "The cheapest route will not necessarily save time.",
+        "ar": "المسار الأرخص لن يوفر الوقت بالضرورة.",
+        "context": "نفي ضمان أن يؤدي اختيار أقل كلفة إلى رحلة أسرع."
+      },
+      {
+        "id": 6,
+        "en": "The two events are not necessarily connected.",
+        "ar": "الحدثان ليسا مرتبطين بالضرورة.",
+        "context": "وصف غياب اليقين بوجود علاقة بين واقعتين."
+      },
+      {
+        "id": 7,
+        "en": "More practice does not necessarily mean longer sessions.",
+        "ar": "المزيد من التدريب لا يعني بالضرورة جلسات أطول.",
+        "context": "نفي التلازم الحتمي بين زيادة التمرين وإطالة مدة كل جلسة."
+      },
+      {
+        "id": 8,
+        "en": "The policy necessarily affects every department.",
+        "ar": "السياسة تؤثر حتمًا في كل قسم.",
+        "context": "وصف أثر لا يمكن تجنبه يشمل جميع أقسام جهة ما."
+      },
+      {
+        "id": 9,
+        "en": "A change of location does not necessarily solve the difficulty.",
+        "ar": "تغيير المكان لا يحل الصعوبة بالضرورة.",
+        "context": "نفي كون الانتقال المكاني علاجًا مضمونًا لعقبة."
+      },
+      {
+        "id": 10,
+        "en": "The new version is not necessarily easier to use.",
+        "ar": "الإصدار الجديد ليس أسهل استخدامًا بالضرورة.",
+        "context": "نفي ضمان أن تترافق حداثة إصدار مع بساطة التعامل معه."
+      }
+    ]
+  }
+}

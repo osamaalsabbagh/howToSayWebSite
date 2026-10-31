@@ -1,0 +1,113 @@
+{
+  "schemaVersion": 1,
+  "id": 4210,
+  "sentence": {
+    "en": "Please read the notice before entering.",
+    "ar": "من فضلك اقرأ الإشعار قبل الدخول.",
+    "context": "طلب قراءة إعلان مكتوب أو تعليمات معلقة قبل دخول مكان.",
+    "sourceWord": "notice",
+    "sourcePos": "n."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Please read the notice before entering.",
+        "ar": "من فضلك اقرأ الإشعار قبل الدخول.",
+        "context": "طلب قراءة إعلان مكتوب أو تعليمات معلقة قبل دخول مكان.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "الجملة أمر مهذب وليست خبرًا بزمن مستقل؛ تبدأ بكلمة تهذيب ثم فعل أمر."
+        },
+        "wordMeanings": [
+          {
+            "term": "Please",
+            "description": "من فضلك؛ تجعل الطلب مهذبًا."
+          },
+          {
+            "term": "read",
+            "description": "اقرأ؛ انظر إلى النص وافهمه."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف تشير إلى إشعار محدد."
+          },
+          {
+            "term": "notice",
+            "description": "إشعار أو إعلان مكتوب؛ نص قصير يعطي معلومة أو تعليمات للناس."
+          },
+          {
+            "term": "before",
+            "description": "قبل؛ يحدد أن القراءة تسبق الدخول."
+          },
+          {
+            "term": "entering",
+            "description": "الدخول؛ فعل الدخول إلى مكان."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Please read the notice before entering.",
+        "ar": "من فضلك اقرأ الإشعار قبل الدخول.",
+        "context": "طلب قراءة إعلان مكتوب أو تعليمات معلقة قبل دخول مكان."
+      },
+      {
+        "id": 2,
+        "en": "We have put a notice on the door.",
+        "ar": "نحن قد وضعنا إشعارًا على الباب.",
+        "context": "الإبلاغ عن تعليق نص أصبح مرئيًا الآن لمن يقترب من المدخل."
+      },
+      {
+        "id": 3,
+        "en": "The warning escaped my notice.",
+        "ar": "التحذير فات انتباهي.",
+        "context": "وصف عدم إدراك المتكلم تنبيهًا في موقف مضى؛ المقصود الانتباه لا ورقة يملكها."
+      },
+      {
+        "id": 4,
+        "en": "The shop will close until further notice.",
+        "ar": "المتجر سيغلق حتى إشعار آخر.",
+        "context": "ذكر إغلاق مرتقب يستمر إلى إعلان جديد دون تحديد نهاية مسبقة."
+      },
+      {
+        "id": 5,
+        "en": "Her work attracted the editor's notice.",
+        "ar": "عملها لفت انتباه المحرر.",
+        "context": "وصف اهتمام شخص بمحتوى امرأة في موقف مضى."
+      },
+      {
+        "id": 6,
+        "en": "The venue can host meetings at short notice.",
+        "ar": "المكان يمكنه استضافة اجتماعات بعد مهلة إبلاغ قصيرة.",
+        "context": "بيان إمكان الترتيب رغم قلة الوقت بين الإبلاغ والموعد."
+      },
+      {
+        "id": 7,
+        "en": "The actor received favorable notices after the opening.",
+        "ar": "الممثل تلقى مراجعات إيجابية بعد الافتتاح.",
+        "context": "وصف تقييمات صحفية لأداء فني في عرض مضى، لا تعليمات معلقة."
+      },
+      {
+        "id": 8,
+        "en": "The landlord posted a repair notice in the hallway.",
+        "ar": "المالك علّق إشعار إصلاح في الممر.",
+        "context": "وصف إعلان مكتوب عن أعمال في مبنى وُضع في وقت مضى."
+      },
+      {
+        "id": 9,
+        "en": "The instructions ask readers to take notice of the date.",
+        "ar": "التعليمات تطلب من القراء الانتباه إلى التاريخ.",
+        "context": "وصف دعوة للتركيز على يوم محدد في وثيقة، لا تقديم إشعار رسمي."
+      },
+      {
+        "id": 10,
+        "en": "The company gave staff advance notice of the move.",
+        "ar": "الشركة أعطت الموظفين إشعارًا مسبقًا بالانتقال.",
+        "context": "وصف إبلاغ عاملين قبل تغيير مكان العمل في إجراء مضى."
+      }
+    ]
+  }
+}

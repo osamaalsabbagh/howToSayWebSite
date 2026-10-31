@@ -1,0 +1,133 @@
+{
+  "schemaVersion": 1,
+  "id": 9285,
+  "sentence": {
+    "en": "I am tired. Besides, I have work tomorrow.",
+    "ar": "أنا متعب. بالإضافة إلى ذلك، أنا لدي عمل غدًا.",
+    "context": "أنت تشرح أسباب اعتذارك عن الخروج الليلة.",
+    "sourceWord": "besides",
+    "sourcePos": "adv."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "I am tired.",
+        "ar": "أنا متعب.",
+        "context": "أنت تذكر التعب سببًا للاعتذار عن الخروج.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "فعل الربط في المضارع يصف حالة المتكلم الحالية."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "أنا؛ ضمير المتكلم"
+          },
+          {
+            "term": "am",
+            "description": "فعل ربط مع المتكلم في المضارع"
+          },
+          {
+            "term": "tired",
+            "description": "متعب"
+          }
+        ]
+      },
+      {
+        "sentence": "Besides, I have work tomorrow.",
+        "ar": "بالإضافة إلى ذلك، أنا لدي عمل غدًا.",
+        "context": "أنت تضيف التزام العمل غدًا سببًا آخر للاعتذار عن الخروج.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "فعل في المضارع يصف وجود التزام حالي يتعلق بالغد؛ الظرف يضيف سببًا آخر."
+        },
+        "wordMeanings": [
+          {
+            "term": "Besides",
+            "description": "بالإضافة إلى ذلك؛ ظرف يضيف سببًا آخر"
+          },
+          {
+            "term": "I",
+            "description": "أنا؛ ضمير المتكلم"
+          },
+          {
+            "term": "have",
+            "description": "لدي؛ وجود التزام"
+          },
+          {
+            "term": "work",
+            "description": "عمل"
+          },
+          {
+            "term": "tomorrow",
+            "description": "غدًا"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I am tired. Besides, I have work tomorrow.",
+        "ar": "أنا متعب. بالإضافة إلى ذلك، أنا لدي عمل غدًا.",
+        "context": "أنت تشرح أسباب اعتذارك عن الخروج الليلة."
+      },
+      {
+        "id": 2,
+        "en": "Besides English, I speak Arabic.",
+        "ar": "بالإضافة إلى الإنجليزية، أنا أتكلم العربية.",
+        "context": "أنت تعدد اللغات التي تتكلمها عادة، وتضيف العربية إلى الإنجليزية."
+      },
+      {
+        "id": 3,
+        "en": "Besides teaching, I write books.",
+        "ar": "بالإضافة إلى التدريس، أنا أكتب كتبًا.",
+        "context": "أنت تعدد أنشطتك المعتادة وتضيف كتابة الكتب إلى التدريس."
+      },
+      {
+        "id": 4,
+        "en": "Besides coffee, we serve tea.",
+        "ar": "بالإضافة إلى القهوة، نحن نقدم الشاي.",
+        "context": "أنت تعدد المشروبات التي تقدمونها عادة."
+      },
+      {
+        "id": 5,
+        "en": "Besides my brother, I invited my cousin.",
+        "ar": "بالإضافة إلى أخي، أنا دعوت قريبي.",
+        "context": "أنت تعدد من دعوتهم إلى لقاء أمس."
+      },
+      {
+        "id": 6,
+        "en": "Besides the rent, I paid for electricity.",
+        "ar": "بالإضافة إلى الإيجار، أنا دفعت مقابل الكهرباء.",
+        "context": "أنت تعدد ما دفعته لفواتير المنزل أمس."
+      },
+      {
+        "id": 7,
+        "en": "The bag is expensive. Besides, I do not need it.",
+        "ar": "الحقيبة غالية. بالإضافة إلى ذلك، أنا لا أحتاج إليها.",
+        "context": "أنت تشرح سببين لعدم شراء حقيبة معروضة أمامك."
+      },
+      {
+        "id": 8,
+        "en": "We have no space. Besides, we have no money.",
+        "ar": "نحن ليست لدينا مساحة. بالإضافة إلى ذلك، نحن ليس لدينا مال.",
+        "context": "أنت تشرح عائقين أمام شراء أثاث جديد."
+      },
+      {
+        "id": 9,
+        "en": "I know the route. Besides, I have a map.",
+        "ar": "أنا أعرف الطريق. بالإضافة إلى ذلك، أنا لدي خريطة.",
+        "context": "أنت تشرح أسباب ثقتك في الوصول إلى الوجهة."
+      },
+      {
+        "id": 10,
+        "en": "We can walk. Besides, the weather is pleasant.",
+        "ar": "نحن نستطيع المشي. بالإضافة إلى ذلك، الطقس لطيف.",
+        "context": "أنت تقترح الذهاب سيرًا على الأقدام وتضيف أن الجو اللطيف سبب آخر لاختيار المشي."
+      }
+    ]
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "schemaVersion": 1,
+  "id": 5532,
+  "sentence": {
+    "en": "I would join you except that I have to work.",
+    "ar": "أنا كنت سأنضم إليكم، لولا أنني مضطر إلى العمل.",
+    "context": "متحدث يرغب في الانضمام إلى الآخرين لكن وجوب العمل يمنعه.",
+    "sourceWord": "except",
+    "sourcePos": "conj."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "I would join you",
+        "ar": "أنا كنت سأنضم إليكم",
+        "context": "تعبير عن رغبة في مشاركة الآخرين لو لم يوجد مانع.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "تستخدم العبارة would مع join للتعبير عن انضمام مفترض يمنعه قيد مذكور بعدها."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "أنا؛ ضمير المتكلم المفرد"
+          },
+          {
+            "term": "would",
+            "description": "فعل ناقص يفيد نتيجة مفترضة هنا"
+          },
+          {
+            "term": "join",
+            "description": "أنضم؛ أشارك الآخرين وجودهم أو نشاطهم"
+          },
+          {
+            "term": "you",
+            "description": "إليكم؛ المخاطبون الذين ينوي المتكلم الانضمام إليهم"
+          }
+        ]
+      },
+      {
+        "sentence": "except that I have to work.",
+        "ar": "لولا أنني مضطر إلى العمل.",
+        "context": "بيان أن التزام المتكلم بالعمل هو ما يمنع انضمامه.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "تستخدم الجملة have to work لبيان التزام قائم بالعمل."
+        },
+        "wordMeanings": [
+          {
+            "term": "except",
+            "description": "إلا؛ تقدم مانعًا أو استدراكًا هنا"
+          },
+          {
+            "term": "that",
+            "description": "أن؛ تربط الاستدراك بجملته"
+          },
+          {
+            "term": "I",
+            "description": "أنا؛ ضمير المتكلم المفرد"
+          },
+          {
+            "term": "have",
+            "description": "مضطر؛ جزء من have to لبيان الالتزام"
+          },
+          {
+            "term": "to",
+            "description": "جزء من have to الذي يسبق الفعل المطلوب"
+          },
+          {
+            "term": "work",
+            "description": "أعمل؛ أؤدي عملي"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I would join you except that I have to work.",
+        "ar": "أنا كنت سأنضم إليكم، لولا أنني مضطر إلى العمل.",
+        "context": "متحدث يرغب في الانضمام إلى الآخرين لكن وجوب العمل يمنعه."
+      },
+      {
+        "id": 2,
+        "en": "The apartment is perfect except that the kitchen is small.",
+        "ar": "الشقة مثالية إلا أن المطبخ صغير.",
+        "context": "وصف رضا عن مسكن مع استدراك يتعلق بمساحة جزء منه."
+      },
+      {
+        "id": 3,
+        "en": "She remembered nothing except that the room was cold.",
+        "ar": "هي لم تتذكر شيئًا إلا أن الغرفة كانت باردة.",
+        "context": "وصف ذكرى سابقة بقيت منها معلومة واحدة فقط."
+      },
+      {
+        "id": 4,
+        "en": "We rarely use the balcony except when the weather is warm.",
+        "ar": "نحن نادرًا ما نستخدم الشرفة إلا عندما يكون الطقس دافئًا.",
+        "context": "تحديد الحالة التي يخرج فيها استعمال مكان عن كونه نادرًا."
+      },
+      {
+        "id": 5,
+        "en": "The copy matches the original except that one paragraph is missing.",
+        "ar": "النسخة تطابق الأصل إلا أن فقرة واحدة مفقودة.",
+        "context": "وصف اتفاق بين نصين مع فرق محدد في محتواهما."
+      },
+      {
+        "id": 6,
+        "en": "The shop was quiet except when a delivery arrived.",
+        "ar": "المتجر كان هادئًا إلا عند وصول شحنة.",
+        "context": "وصف فترات سابقة خرجت فيها حال المكان عن الهدوء."
+      },
+      {
+        "id": 7,
+        "en": "He agreed to the plan except that he wanted an earlier start.",
+        "ar": "هو وافق على الخطة، غير أنه أراد بدءًا أبكر.",
+        "context": "وصف قبول سابق مع تحفظ واحد يتعلق بوقت الانطلاق."
+      },
+      {
+        "id": 8,
+        "en": "The path is easy except where it crosses loose stones.",
+        "ar": "المسار سهل إلا في موضع عبوره حجارة مفككة.",
+        "context": "تحديد جزء من طريق يختلف في صعوبته عن بقيته."
+      },
+      {
+        "id": 9,
+        "en": "The equipment worked well except that the fan made a loud noise.",
+        "ar": "المعدات عملت جيدًا إلا أن المروحة أصدرت ضجيجًا عاليًا.",
+        "context": "وصف أداء سابق مرضٍ مع عيب واحد في الصوت."
+      },
+      {
+        "id": 10,
+        "en": "The two versions are identical except that the newer one includes a map.",
+        "ar": "النسختان متطابقتان إلا أن الأحدث تتضمن خريطة.",
+        "context": "توضيح إضافة واحدة تميز إصدارًا عن آخر."
+      }
+    ]
+  }
+}

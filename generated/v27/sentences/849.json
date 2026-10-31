@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": 849,
+  "sentence": {
+    "en": "Is it close?",
+    "ar": "هل هو قريب؟",
+    "context": "للسؤال عما إذا كان المكان قريبًا."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Is it close?",
+        "ar": "هل هو قريب؟",
+        "context": "سؤال عن قرب مكان أو شيء من المتكلم.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "الفعل is يصف حالة أو موقع الشيء الآن، وتقديمه يجعل الجملة سؤالا."
+        },
+        "wordMeanings": [
+          {
+            "term": "Is",
+            "description": "هل يكون أو هل هو"
+          },
+          {
+            "term": "it",
+            "description": "المكان أو الشيء المقصود"
+          },
+          {
+            "term": "close",
+            "description": "قريب"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Is it far?",
+        "ar": "هل هو بعيد؟",
+        "context": "للسؤال عن البعد."
+      },
+      {
+        "id": 2,
+        "en": "Is the hotel close?",
+        "ar": "هل الفندق قريب؟",
+        "context": "للسؤال عن موقع فندق."
+      },
+      {
+        "id": 3,
+        "en": "Is it close to here?",
+        "ar": "هل هو قريب من هنا؟",
+        "context": "للسؤال عن قرب من الموقع الحالي."
+      },
+      {
+        "id": 4,
+        "en": "Is the station close?",
+        "ar": "هل المحطة قريبة؟",
+        "context": "للسؤال عن محطة."
+      },
+      {
+        "id": 5,
+        "en": "It is close.",
+        "ar": "إنه قريب.",
+        "context": "للإجابة عن سؤال المسافة."
+      },
+      {
+        "id": 6,
+        "en": "Is your house close?",
+        "ar": "هل بيتك قريب؟",
+        "context": "للسؤال عن مكان السكن."
+      },
+      {
+        "id": 7,
+        "en": "Is it close enough?",
+        "ar": "هل هو قريب بما يكفي؟",
+        "context": "للتأكد من مناسبة المسافة."
+      },
+      {
+        "id": 8,
+        "en": "Is the airport close?",
+        "ar": "هل المطار قريب؟",
+        "context": "للسؤال عن مسافة المطار."
+      },
+      {
+        "id": 9,
+        "en": "Is it close by car?",
+        "ar": "هل هو قريب بالسيارة؟",
+        "context": "للسؤال عن المسافة بوسيلة نقل."
+      },
+      {
+        "id": 10,
+        "en": "Is it close to the hotel?",
+        "ar": "هل هو قريب من الفندق؟",
+        "context": "للسؤال عن قرب مكان من فندق."
+      }
+    ]
+  }
+}

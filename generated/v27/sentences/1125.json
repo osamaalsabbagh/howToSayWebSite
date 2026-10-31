@@ -1,0 +1,155 @@
+{
+  "schemaVersion": 1,
+  "id": 1125,
+  "sentence": {
+    "en": "These textbooks are due today. I will have to return them within the day.",
+    "ar": "هذه الكتب الدراسية مستحقة التسليم اليوم. سوف يكون علي إعادتها خلال اليوم.",
+    "context": "تُستخدم للحديث عن موعد تسليم الكتب أو المواد المُعارة من المدرسة."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "These textbooks are due today",
+        "ar": "هذه الكتب الدراسية مستحقة التسليم اليوم",
+        "context": "توضح أن موعد إعادة الكتب هو اليوم.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُخدم المضارع البسيط لوصف حالة حالية مرتبطة بموعد تسليم."
+        },
+        "wordMeanings": [
+          {
+            "term": "These",
+            "description": "هذه، وتشير إلى أشياء قريبة أو محددة"
+          },
+          {
+            "term": "textbooks",
+            "description": "كتب دراسية"
+          },
+          {
+            "term": "are",
+            "description": "تدل على حالة حالية للجمع"
+          },
+          {
+            "term": "due",
+            "description": "مستحق التسليم أو موعده الآن"
+          },
+          {
+            "term": "today",
+            "description": "اليوم"
+          }
+        ]
+      },
+      {
+        "sentence": "I will have to return them within the day",
+        "ar": "سوف يكون علي إعادتها خلال اليوم",
+        "context": "توضح الالتزام بإعادة الكتب قبل نهاية اليوم.",
+        "grammar": {
+          "tense": "المستقبل البسيط",
+          "tenseEn": "Future Simple",
+          "reason": "استُخدم تركيب المستقبل مع معنى الوجوب للتعبير عن التزام سيحدث خلال اليوم."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير يشير إلى المتكلم"
+          },
+          {
+            "term": "will",
+            "description": "تدل على المستقبل"
+          },
+          {
+            "term": "have",
+            "description": "تدخل هنا في تعبير يدل على الوجوب"
+          },
+          {
+            "term": "to",
+            "description": "تُكمل معنى الوجوب قبل الفعل"
+          },
+          {
+            "term": "return",
+            "description": "يعيد أو يرجع"
+          },
+          {
+            "term": "them",
+            "description": "ضمير يشير إلى الكتب"
+          },
+          {
+            "term": "within",
+            "description": "خلال أو قبل انتهاء مدة محددة"
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف"
+          },
+          {
+            "term": "day",
+            "description": "اليوم"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "This book is due today.",
+        "ar": "هذا الكتاب مستحق التسليم اليوم.",
+        "context": "تُستخدم عند موعد إعادة كتاب."
+      },
+      {
+        "id": 2,
+        "en": "I have to return the book tomorrow.",
+        "ar": "يجب أن أعيد الكتاب غدًا.",
+        "context": "تُقال عن موعد تسليم قادم."
+      },
+      {
+        "id": 3,
+        "en": "These books are due next week.",
+        "ar": "هذه الكتب مستحقة التسليم الأسبوع المقبل.",
+        "context": "تُستخدم عند ذكر موعد لاحق."
+      },
+      {
+        "id": 4,
+        "en": "I will return the textbooks today.",
+        "ar": "سأعيد الكتب الدراسية اليوم.",
+        "context": "تُقال عند التخطيط لإعادة الكتب."
+      },
+      {
+        "id": 5,
+        "en": "The library books are due on Friday.",
+        "ar": "كتب المكتبة مستحقة التسليم يوم الجمعة.",
+        "context": "تُستخدم لذكر موعد مكتبة."
+      },
+      {
+        "id": 6,
+        "en": "I need to return these papers today.",
+        "ar": "أحتاج إلى إعادة هذه الأوراق اليوم.",
+        "context": "تُقال عن مواد مدرسية مستعارة."
+      },
+      {
+        "id": 7,
+        "en": "The assignment is due today.",
+        "ar": "الواجب مستحق التسليم اليوم.",
+        "context": "تُستخدم للتذكير بواجب."
+      },
+      {
+        "id": 8,
+        "en": "I will have to finish it by tonight.",
+        "ar": "سيكون علي إنهاؤه بحلول الليلة.",
+        "context": "تُستخدم عند وجود موعد نهائي."
+      },
+      {
+        "id": 9,
+        "en": "Please return the books before class ends.",
+        "ar": "يرجى إعادة الكتب قبل انتهاء الحصة.",
+        "context": "تُقال كتعليمات مدرسية."
+      },
+      {
+        "id": 10,
+        "en": "The borrowed materials are due today.",
+        "ar": "المواد المستعارة مستحقة التسليم اليوم.",
+        "context": "تُستخدم عن أشياء مُعارة."
+      }
+    ]
+  }
+}

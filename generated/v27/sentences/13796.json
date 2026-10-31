@@ -1,0 +1,141 @@
+{
+  "schemaVersion": 1,
+  "id": 13796,
+  "sentence": {
+    "en": "Human rights groups say soldiers raped civilians during the war.",
+    "ar": "منظمات حقوق الإنسان تقول إن جنودًا اغتصبوا مدنيين خلال الحرب.",
+    "context": "أنت تنقل قول منظمات حقوق الإنسان إن جنودًا اغتصبوا مدنيين خلال الحرب، دون تقديمه بوصفه تحققًا مستقلًا منك.",
+    "sourceWord": "rape",
+    "sourcePos": "v."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Human rights groups say",
+        "ar": "منظمات حقوق الإنسان تقول",
+        "context": "الجزء الذي يذكر مصدر الخبر.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "المضارع البسيط يصف تصريحًا قائمًا الآن."
+        },
+        "wordMeanings": [
+          {
+            "term": "Human",
+            "description": "الإنسان"
+          },
+          {
+            "term": "rights",
+            "description": "حقوق"
+          },
+          {
+            "term": "groups",
+            "description": "منظمات"
+          },
+          {
+            "term": "say",
+            "description": "تقول"
+          }
+        ]
+      },
+      {
+        "sentence": "soldiers raped civilians during the war",
+        "ar": "جنودًا اغتصبوا مدنيين خلال الحرب",
+        "context": "الجزء الذي ينقل مضمون الاتهام عن حدث في الماضي.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "الماضي البسيط يروي أحداثًا وقعت خلال فترة الحرب المنتهية."
+        },
+        "wordMeanings": [
+          {
+            "term": "soldiers",
+            "description": "جنودًا"
+          },
+          {
+            "term": "raped",
+            "description": "اغتصبوا"
+          },
+          {
+            "term": "civilians",
+            "description": "مدنيين"
+          },
+          {
+            "term": "during",
+            "description": "خلال"
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف"
+          },
+          {
+            "term": "war",
+            "description": "الحرب"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Human rights groups say soldiers raped civilians during the war.",
+        "ar": "منظمات حقوق الإنسان تقول إن جنودًا اغتصبوا مدنيين خلال الحرب.",
+        "context": "أنت تنقل قول منظمات حقوق الإنسان إن جنودًا اغتصبوا مدنيين خلال الحرب، دون تقديمه بوصفه تحققًا مستقلًا منك."
+      },
+      {
+        "id": 2,
+        "en": "Witnesses said fighters raped women in the village.",
+        "ar": "الشهود قالوا إن مقاتلين اغتصبوا نساء في القرية.",
+        "context": "شهادات."
+      },
+      {
+        "id": 3,
+        "en": "The report found that guards raped prisoners.",
+        "ar": "التقرير وجد أن حراسًا اغتصبوا سجناء.",
+        "context": "حقوق."
+      },
+      {
+        "id": 4,
+        "en": "Investigators believe he raped several women.",
+        "ar": "المحققون يعتقدون أنه اغتصب عدة نساء.",
+        "context": "تحقيق."
+      },
+      {
+        "id": 5,
+        "en": "The court ruled that the officer raped the detainee.",
+        "ar": "المحكمة قضت بأن الضابط اغتصب المحتجزة.",
+        "context": "حكم."
+      },
+      {
+        "id": 6,
+        "en": "Survivors described how soldiers raped them.",
+        "ar": "الناجون وصفوا كيف اغتصبهم الجنود.",
+        "context": "شهادة."
+      },
+      {
+        "id": 7,
+        "en": "The trial showed that the gang raped a girl.",
+        "ar": "المحاكمة أظهرت أن العصابة اغتصبت فتاة.",
+        "context": "قضاء."
+      },
+      {
+        "id": 8,
+        "en": "Many women were raped during the conflict.",
+        "ar": "نساء كثيرات اغتُصبن خلال النزاع.",
+        "context": "حرب."
+      },
+      {
+        "id": 9,
+        "en": "The UN says troops raped civilians.",
+        "ar": "الأمم المتحدة تقول إن قوات اغتصبت مدنيين.",
+        "context": "تقرير دولي."
+      },
+      {
+        "id": 10,
+        "en": "Nobody should be raped or abused.",
+        "ar": "لا أحد يجب أن يُغتصب أو يُساء إليه.",
+        "context": "حقوق."
+      }
+    ]
+  }
+}

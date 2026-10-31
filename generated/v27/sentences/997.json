@@ -1,0 +1,131 @@
+{
+  "schemaVersion": 1,
+  "id": 997,
+  "sentence": {
+    "en": "Can I have the bill after dessert, please?",
+    "ar": "هل يمكنني الحصول على الفاتورة بعد الحلوى، من فضلك؟",
+    "context": "تُستخدم لطلب الفاتورة بعد الانتهاء من الحلوى في المطعم."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Can I have the bill after dessert",
+        "ar": "هل يمكنني الحصول على الفاتورة بعد الحلوى",
+        "context": "هذا الجزء يطلب الفاتورة بعد الحلوى في مطعم أو مقهى.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "السؤال يستخدم Can I لطلب شيء بأدب، وليس للتعبير عن زمن مستقل."
+        },
+        "wordMeanings": [
+          {
+            "term": "Can",
+            "description": "هل يمكن، للسؤال بأدب عن إمكانية الحصول على شيء"
+          },
+          {
+            "term": "I",
+            "description": "ضمير يشير إلى المتكلم"
+          },
+          {
+            "term": "have",
+            "description": "أحصل على أو آخذ في سياق الطلب"
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف تشير إلى الفاتورة الخاصة بالطاولة"
+          },
+          {
+            "term": "bill",
+            "description": "فاتورة أو حساب المطلوب دفعه"
+          },
+          {
+            "term": "after",
+            "description": "بعد؛ تحدد أن الطلب يأتي بعد شيء آخر"
+          },
+          {
+            "term": "dessert",
+            "description": "الحلوى التي تؤكل بعد الوجبة"
+          }
+        ]
+      },
+      {
+        "sentence": "please",
+        "ar": "من فضلك",
+        "context": "كلمة تزيد تهذيب الطلب.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "كلمة أدب ثابتة لا تحمل زمنًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "please",
+            "description": "من فضلك، لتلطيف الطلب"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Can I have the check, please?",
+        "ar": "هل يمكنني الحصول على الحساب، من فضلك؟",
+        "context": "تُستخدم في مطعم بنفس معنى طلب الفاتورة."
+      },
+      {
+        "id": 2,
+        "en": "Can we have one bill for the whole table, please?",
+        "ar": "هل نحن نستطيع الحصول على فاتورة واحدة للطاولة كلها، من فضلك؟",
+        "context": "طلب حساب موحد لجميع من يجلسون إلى الطاولة."
+      },
+      {
+        "id": 3,
+        "en": "Can I pay now, please?",
+        "ar": "هل يمكنني الدفع الآن، من فضلك؟",
+        "context": "تُستخدم عند الاستعداد للمغادرة."
+      },
+      {
+        "id": 4,
+        "en": "Could I have the bill, please?",
+        "ar": "هل يمكنني الحصول على الفاتورة، من فضلك؟",
+        "context": "تُستخدم بصيغة أكثر تهذيبًا."
+      },
+      {
+        "id": 5,
+        "en": "Can I have a printed receipt for my expenses, please?",
+        "ar": "هل أنا أستطيع الحصول على إيصال مطبوع لمصاريفي، من فضلك؟",
+        "context": "طلب إثبات دفع ورقي لتوثيق المصروفات."
+      },
+      {
+        "id": 6,
+        "en": "Can I have the dessert menu after the main course, please?",
+        "ar": "هل أنا أستطيع الحصول على قائمة الحلويات بعد الطبق الرئيسي، من فضلك؟",
+        "context": "طلب قائمة الأصناف الحلوة بعد الانتهاء من الجزء الأساسي من الوجبة."
+      },
+      {
+        "id": 7,
+        "en": "Can I have a jug of water for the table, please?",
+        "ar": "هل أنا أستطيع الحصول على إبريق ماء للطاولة، من فضلك؟",
+        "context": "طلب وعاء ماء يكفي للمشاركة بين الجالسين إلى طاولة الطعام."
+      },
+      {
+        "id": 8,
+        "en": "Can I have a table away from the kitchen, please?",
+        "ar": "هل أنا أستطيع الحصول على طاولة بعيدة عن المطبخ، من فضلك؟",
+        "context": "طلب الجلوس في موضع من المطعم لا يكون قريبًا من مكان إعداد الطعام."
+      },
+      {
+        "id": 9,
+        "en": "Can I have my change, please?",
+        "ar": "هل يمكنني الحصول على باقي نقودي، من فضلك؟",
+        "context": "تُستخدم بعد الدفع نقدًا."
+      },
+      {
+        "id": 10,
+        "en": "Can I have the total before the service charge, please?",
+        "ar": "هل أنا أستطيع معرفة المجموع قبل إضافة رسوم الخدمة، من فضلك؟",
+        "context": "طلب قيمة الحساب الأساسية دون احتساب المبلغ المضاف مقابل الخدمة."
+      }
+    ]
+  }
+}

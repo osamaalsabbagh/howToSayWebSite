@@ -1,0 +1,141 @@
+{
+  "schemaVersion": 1,
+  "id": 9065,
+  "sentence": {
+    "en": "He works at night, whereas I work during the day.",
+    "ar": "هو يعمل ليلًا، في حين أنا أعمل نهارًا.",
+    "context": "لكل منكما جدول عمل مختلف؛ هو يعمل ليلًا، وأنت تعمل نهارًا.",
+    "sourceWord": "whereas",
+    "sourcePos": "conj."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "He works at night",
+        "ar": "هو يعمل ليلًا",
+        "context": "أنت تصف مواعيد عمله المعتادة.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "المضارع البسيط يصف عادة عمل رجل في الليل."
+        },
+        "wordMeanings": [
+          {
+            "term": "He",
+            "description": "هو؛ ضمير الغائب"
+          },
+          {
+            "term": "works",
+            "description": "يعمل؛ مضارع مع المفرد"
+          },
+          {
+            "term": "at",
+            "description": "في؛ ضمن تركيب يدل على الليل"
+          },
+          {
+            "term": "night",
+            "description": "ليل"
+          }
+        ]
+      },
+      {
+        "sentence": "whereas I work during the day.",
+        "ar": "في حين أنا أعمل نهارًا.",
+        "context": "أنت توضح اختلاف مواعيد عملك عن مواعيده.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "رابط التباين يقارن عادة العمل ليلًا بعادة العمل في النهار، وكلتاهما في المضارع البسيط."
+        },
+        "wordMeanings": [
+          {
+            "term": "whereas",
+            "description": "في حين؛ رابط يبرز التباين"
+          },
+          {
+            "term": "I",
+            "description": "أنا؛ ضمير المتكلم"
+          },
+          {
+            "term": "work",
+            "description": "أعمل؛ عادة قائمة"
+          },
+          {
+            "term": "during",
+            "description": "أثناء"
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف للنهار"
+          },
+          {
+            "term": "day",
+            "description": "نهار"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "He works at night, whereas I work during the day.",
+        "ar": "هو يعمل ليلًا، في حين أنا أعمل نهارًا.",
+        "context": "لكل منكما جدول عمل مختلف؛ هو يعمل ليلًا، وأنت تعمل نهارًا."
+      },
+      {
+        "id": 2,
+        "en": "I prefer tea, whereas she prefers coffee.",
+        "ar": "أنا أفضل الشاي، في حين هي تفضل القهوة.",
+        "context": "قارن بين تفضيلك للشاي وتفضيل امرأة للقهوة في الحاضر."
+      },
+      {
+        "id": 3,
+        "en": "We live near the sea, whereas they live inland.",
+        "ar": "نحن نعيش قرب البحر، في حين هم يعيشون في الداخل.",
+        "context": "قارن بين السكن قرب البحر والسكن بعيدًا عنه."
+      },
+      {
+        "id": 4,
+        "en": "I like quiet rooms, whereas he likes busy places.",
+        "ar": "أنا أحب الغرف الهادئة، في حين هو يحب الأماكن المزدحمة.",
+        "context": "قارن بين تفضيل الأماكن الهادئة والمزدحمة."
+      },
+      {
+        "id": 5,
+        "en": "She drives to work, whereas I walk.",
+        "ar": "هي تقود إلى العمل، في حين أنا أمشي.",
+        "context": "قارن بين وسيلتين معتادتين للذهاب إلى العمل."
+      },
+      {
+        "id": 6,
+        "en": "I chose the small bag, whereas he chose the large one.",
+        "ar": "أنا اخترت الحقيبة الصغيرة، في حين هو اختار الكبيرة.",
+        "context": "قارن بين اختيارين حدثا في الماضي."
+      },
+      {
+        "id": 7,
+        "en": "We arrived early, whereas they arrived late.",
+        "ar": "نحن وصلنا مبكرًا، في حين هم وصلوا متأخرين.",
+        "context": "قارن بين وصول مبكر ووصول متأخر في الماضي."
+      },
+      {
+        "id": 8,
+        "en": "This path is narrow, whereas the main road is wide.",
+        "ar": "هذا الممر ضيق، في حين الطريق الرئيسي واسع.",
+        "context": "أنت تقارن بين اتساع ممر تمشي فيه وطريق رئيسي قريب منه، وتبرز اختلافهما."
+      },
+      {
+        "id": 9,
+        "en": "I need more time, whereas she needs more money.",
+        "ar": "أنا أحتاج إلى وقت أكثر، في حين هي تحتاج إلى مال أكثر.",
+        "context": "قارن بين حاجتين مختلفتين في الحاضر."
+      },
+      {
+        "id": 10,
+        "en": "I cook at home, whereas he eats out.",
+        "ar": "أنا أطبخ في المنزل، في حين هو يأكل خارج المنزل.",
+        "context": "قارن بين عادتين في تناول الطعام."
+      }
+    ]
+  }
+}

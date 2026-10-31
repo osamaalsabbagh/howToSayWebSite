@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "id": 2,
+  "sentence": {
+    "en": "I know! My aunt is coming to visit us next week.",
+    "ar": "أعلم! عمتي ستأتي لزيارتنا الأسبوع القادم.",
+    "context": "الموافقة على ملاحظة المتحدث الأول وإضافة خبر عن زيارة العمة"
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "I know!",
+        "ar": "أعلم!",
+        "context": "تمهّد لما سيأتي بعده في الكلام.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُعمل المضارع البسيط للتعبير عن معرفة أو موافقة حاضرة على ما قيل."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير المتكلم المفرد."
+          },
+          {
+            "term": "know",
+            "description": "تعني أعرف أو أتفق مع ما قيل."
+          }
+        ]
+      },
+      {
+        "sentence": "My aunt is coming to visit us next week.",
+        "ar": "عمتي ستأتي لزيارتنا الأسبوع القادم.",
+        "context": "يكمل به المتحدث المعنى أو النتيجة داخل هذا الموقف.",
+        "grammar": {
+          "tense": "المضارع المستمر",
+          "tenseEn": "Present Continuous",
+          "reason": "استُعمل المضارع المستمر للحديث عن ترتيب مستقبلي قريب ومخطط له، وهو زيارة العمة الأسبوع القادم."
+        },
+        "wordMeanings": [
+          {
+            "term": "My",
+            "description": "صفة ملكية تعني الخاصة بي."
+          },
+          {
+            "term": "aunt",
+            "description": "العمة أو الخالة حسب السياق العائلي."
+          },
+          {
+            "term": "is",
+            "description": "صيغة تساعد على تكوين المضارع المستمر."
+          },
+          {
+            "term": "coming",
+            "description": "تعني قادمة أو ستأتي قريبًا."
+          },
+          {
+            "term": "to",
+            "description": "تأتي قبل الفعل لتوضيح الغرض من القدوم."
+          },
+          {
+            "term": "visit",
+            "description": "تعني تزور."
+          },
+          {
+            "term": "us",
+            "description": "ضمير يعود على المتكلم ومن معه."
+          },
+          {
+            "term": "next",
+            "description": "تعني القادم أو التالي."
+          },
+          {
+            "term": "week",
+            "description": "أسبوع."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "My aunt is coming to visit us tomorrow.",
+        "ar": "عمتي ستأتي لزيارتنا غدًا.",
+        "context": "تخبر عن زيارة قريبة ومخطط لها."
+      },
+      {
+        "id": 2,
+        "en": "My cousin is coming next week.",
+        "ar": "ابن عمي قادم الأسبوع القادم.",
+        "context": "تذكر زيارة عائلية قريبة."
+      },
+      {
+        "id": 3,
+        "en": "I know! Time is moving fast.",
+        "ar": "أعلم! الوقت يمضي بسرعة.",
+        "context": "توافق على ملاحظة عن سرعة الوقت."
+      },
+      {
+        "id": 4,
+        "en": "She is coming to stay with us.",
+        "ar": "هي قادمة لتقيم معنا.",
+        "context": "توضح غرض القدوم."
+      },
+      {
+        "id": 5,
+        "en": "My aunt is visiting us in August.",
+        "ar": "عمتي ستزورنا في أغسطس.",
+        "context": "تذكر وقت الزيارة."
+      },
+      {
+        "id": 6,
+        "en": "I know! My brother is arriving tonight.",
+        "ar": "أعلم! أخي سيصل الليلة.",
+        "context": "تضيف خبرًا عن وصول قريب."
+      },
+      {
+        "id": 7,
+        "en": "They are coming to visit us next month.",
+        "ar": "هم قادمون لزيارتنا الشهر القادم.",
+        "context": "تتحدث عن زيارة جماعية قادمة."
+      },
+      {
+        "id": 8,
+        "en": "My aunt is coming from Chicago.",
+        "ar": "عمتي قادمة من شيكاغو.",
+        "context": "تذكر مصدر قدوم القريبة."
+      },
+      {
+        "id": 9,
+        "en": "She is coming to see the baby.",
+        "ar": "هي قادمة لرؤية الطفل.",
+        "context": "توضح سبب الزيارة."
+      },
+      {
+        "id": 10,
+        "en": "I know! Next week is almost here.",
+        "ar": "أعلم! الأسبوع القادم أوشك أن يأتي.",
+        "context": "تتحدث بحماس عن موعد قريب."
+      }
+    ]
+  }
+}

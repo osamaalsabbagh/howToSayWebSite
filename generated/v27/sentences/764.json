@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": 764,
+  "sentence": {
+    "en": "Is it raining?",
+    "ar": "هل تمطر؟",
+    "context": "السؤال عن حالة الطقس الحالية."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Is it raining?",
+        "ar": "هل تمطر؟",
+        "context": "سؤال عن حدث طقس يحدث الآن.",
+        "grammar": {
+          "tense": "المضارع المستمر",
+          "tenseEn": "Present Continuous",
+          "reason": "يستخدم المضارع المستمر لوصف شيء يحدث في هذه اللحظة، وit يستخدم للحديث عن الطقس."
+        },
+        "wordMeanings": [
+          {
+            "term": "Is",
+            "description": "أداة مع الفاعل لتكوين سؤال عن حدث جار"
+          },
+          {
+            "term": "it",
+            "description": "تستخدم للحديث عن الطقس"
+          },
+          {
+            "term": "raining",
+            "description": "تمطر أو ينزل المطر"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Is it snowing?",
+        "ar": "هل تثلج؟",
+        "context": "للسؤال عن تساقط الثلج الآن."
+      },
+      {
+        "id": 2,
+        "en": "Is it getting cold?",
+        "ar": "هل يزداد الجو برودة؟",
+        "context": "للسؤال عن تغير الطقس."
+      },
+      {
+        "id": 3,
+        "en": "Is the wind blowing?",
+        "ar": "هل تهب الرياح؟",
+        "context": "للسؤال عن حركة الرياح الآن."
+      },
+      {
+        "id": 4,
+        "en": "Is it raining outside?",
+        "ar": "هل تمطر في الخارج؟",
+        "context": "قبل الخروج من المكان."
+      },
+      {
+        "id": 5,
+        "en": "Is it raining there?",
+        "ar": "هل تمطر هناك؟",
+        "context": "للسؤال عن طقس مكان آخر."
+      },
+      {
+        "id": 6,
+        "en": "Is it still raining?",
+        "ar": "هل ما زالت تمطر؟",
+        "context": "للتأكد من استمرار المطر."
+      },
+      {
+        "id": 7,
+        "en": "Is it raining hard?",
+        "ar": "هل تمطر بغزارة؟",
+        "context": "للسؤال عن شدة المطر."
+      },
+      {
+        "id": 8,
+        "en": "Is water leaking?",
+        "ar": "هل يتسرب الماء؟",
+        "context": "للسؤال عن مشكلة تحدث الآن."
+      },
+      {
+        "id": 9,
+        "en": "Is the baby sleeping?",
+        "ar": "هل الطفل نائم؟",
+        "context": "للسؤال عن حدث جار."
+      },
+      {
+        "id": 10,
+        "en": "Is the phone ringing?",
+        "ar": "هل الهاتف يرن؟",
+        "context": "للسؤال عن صوت يحدث الآن."
+      }
+    ]
+  }
+}

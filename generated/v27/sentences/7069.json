@@ -1,0 +1,137 @@
+{
+  "schemaVersion": 1,
+  "id": 7069,
+  "sentence": {
+    "en": "My family lives here, but my friends live elsewhere.",
+    "ar": "عائلتي تسكن هنا، لكن أصدقائي يسكنون في مكان آخر.",
+    "context": "مقارنة موضع سكن الأسرة بموضع آخر لسكن الأصدقاء دون افتراض انتقال أو مدن محددة.",
+    "sourceWord": "elsewhere",
+    "sourcePos": "adv."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "My family lives here,",
+        "ar": "عائلتي تسكن هنا،",
+        "context": "تحديد موضع إقامة الأسرة بأنه المكان المشار إليه.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "المضارع البسيط يصف حالة ثابتة."
+        },
+        "wordMeanings": [
+          {
+            "term": "My",
+            "description": "ضمير ملكية للمتكلم."
+          },
+          {
+            "term": "family",
+            "description": "عائلتي."
+          },
+          {
+            "term": "lives",
+            "description": "تسكن."
+          },
+          {
+            "term": "here",
+            "description": "هنا."
+          }
+        ]
+      },
+      {
+        "sentence": "but my friends live elsewhere.",
+        "ar": "لكن أصدقائي يسكنون في مكان آخر.",
+        "context": "بيان أن إقامة الأصدقاء في موضع مختلف.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "المضارع البسيط يصف حالة ثابتة. الظرف يعني في مكان آخر."
+        },
+        "wordMeanings": [
+          {
+            "term": "but",
+            "description": "لكن."
+          },
+          {
+            "term": "my",
+            "description": "ضمير ملكية للمتكلم."
+          },
+          {
+            "term": "friends",
+            "description": "أصدقائي."
+          },
+          {
+            "term": "live",
+            "description": "يسكنون."
+          },
+          {
+            "term": "elsewhere",
+            "description": "في أماكن أخرى."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "My family lives here, but my friends live elsewhere.",
+        "ar": "عائلتي تسكن هنا، لكن أصدقائي يسكنون في مكان آخر.",
+        "context": "مقارنة موضع سكن الأسرة بموضع آخر لسكن الأصدقاء دون افتراض انتقال أو مدن محددة."
+      },
+      {
+        "id": 2,
+        "en": "The answer appears elsewhere in the book.",
+        "ar": "الإجابة تظهر في موضع آخر من الكتاب.",
+        "context": "تحديد وجود معلومة في قسم مختلف من المرجع نفسه."
+      },
+      {
+        "id": 3,
+        "en": "She found work elsewhere.",
+        "ar": "هي وجدت عملًا في مكان آخر.",
+        "context": "وصف عثور سابق على وظيفة خارج المكان المعروف من الحديث."
+      },
+      {
+        "id": 4,
+        "en": "We have stored the backup elsewhere.",
+        "ar": "نحن قد خزنا النسخة الاحتياطية في مكان آخر.",
+        "context": "الإبلاغ عن حفظ مكتمل للبيانات في موضع منفصل."
+      },
+      {
+        "id": 5,
+        "en": "The team is looking elsewhere for support.",
+        "ar": "الفريق يبحث لدى جهة أخرى عن الدعم.",
+        "context": "وصف سعي جارٍ لمساعدة من مصدر مختلف."
+      },
+      {
+        "id": 6,
+        "en": "The event will take place elsewhere.",
+        "ar": "الفعالية ستقام في مكان آخر.",
+        "context": "وصف موقع مرتقب مختلف عن المكان المذكور أو المتوقع."
+      },
+      {
+        "id": 7,
+        "en": "Please direct your complaints elsewhere.",
+        "ar": "من فضلك وجه شكاواك إلى جهة أخرى.",
+        "context": "طلب تقديم اعتراضات إلى عنوان أو مسؤول مختلف."
+      },
+      {
+        "id": 8,
+        "en": "His thoughts drifted elsewhere during the lecture.",
+        "ar": "أفكاره شردت إلى أمور أخرى أثناء المحاضرة.",
+        "context": "وصف انتقال سابق للانتباه عن الموضوع الجاري."
+      },
+      {
+        "id": 9,
+        "en": "The gallery borrowed paintings displayed elsewhere.",
+        "ar": "المعرض استعار لوحات معروضة في مكان آخر.",
+        "context": "وصف استعارة سابقة لأعمال فنية موجودة لدى جهة مختلفة."
+      },
+      {
+        "id": 10,
+        "en": "The same method is used elsewhere in the system.",
+        "ar": "الطريقة نفسها تُستخدم في موضع آخر من النظام.",
+        "context": "وصف تكرار استعمال أسلوب في جزء مختلف من بنية واحدة."
+      }
+    ]
+  }
+}

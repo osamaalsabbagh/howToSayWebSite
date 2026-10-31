@@ -1,0 +1,139 @@
+{
+  "schemaVersion": 1,
+  "id": 62,
+  "sentence": {
+    "en": "I am very busy. I do not have time now.",
+    "ar": "أنا مشغول جدًا. ليس لدي وقت الآن.",
+    "context": "قل أنك مشغول جدًا الآن."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "I am very busy.",
+        "ar": "أنا مشغول جدًا.",
+        "context": "يبدأ به المتحدث الفكرة الأساسية قبل إضافة التفاصيل.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "تستخدم الجملة am مع صفة لوصف حالة المتكلم الحالية، وتأتي very لتقوية معنى الانشغال."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير المتكلم ويشير إلى الشخص الذي يتحدث."
+          },
+          {
+            "term": "am",
+            "description": "صيغة تأتي مع ضمير المتكلم المفرد وتربط الشخص بحالته."
+          },
+          {
+            "term": "very",
+            "description": "كلمة تقوي الصفة وتجعل الانشغال بدرجة كبيرة."
+          },
+          {
+            "term": "busy",
+            "description": "مشغول أو غير متفرغ."
+          }
+        ]
+      },
+      {
+        "sentence": "I do not have time now.",
+        "ar": "ليس لدي وقت الآن.",
+        "context": "يكمل به المتحدث المعنى أو النتيجة داخل هذا الموقف.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "تستخدم do not مع الفعل الأساسي have لنفي توفر الوقت عند المتكلم في الوقت الحالي."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير المتكلم ويشير إلى الشخص نفسه في الجملة الثانية."
+          },
+          {
+            "term": "do",
+            "description": "تساعد هنا على تكوين النفي في المضارع مع I."
+          },
+          {
+            "term": "not",
+            "description": "كلمة نفي تجعل المعنى ليس لدي."
+          },
+          {
+            "term": "have",
+            "description": "أملك أو يتوفر لدي في هذا السياق."
+          },
+          {
+            "term": "time",
+            "description": "وقت متاح لفعل شيء."
+          },
+          {
+            "term": "now",
+            "description": "الآن أو في هذه اللحظة."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I am busy now.",
+        "ar": "أنا مشغول الآن.",
+        "context": "تقال عند عدم القدرة على التفرغ فورًا."
+      },
+      {
+        "id": 2,
+        "en": "She is very busy today.",
+        "ar": "هي مشغولة جدًا اليوم.",
+        "context": "تقال عند وصف يوم مزدحم لشخص."
+      },
+      {
+        "id": 3,
+        "en": "I do not have time to cook before work.",
+        "ar": "أنا ليس لدي وقت للطهي قبل العمل.",
+        "context": "توضيح عدم توفر وقت لإعداد الطعام قبل الذهاب إلى العمل."
+      },
+      {
+        "id": 4,
+        "en": "He does not have time now.",
+        "ar": "ليس لديه وقت الآن.",
+        "context": "تقال عند عدم توفر شخص في هذه اللحظة."
+      },
+      {
+        "id": 5,
+        "en": "We are busy this morning.",
+        "ar": "نحن مشغولون هذا الصباح.",
+        "context": "تقال عند عدم التفرغ في فترة معينة."
+      },
+      {
+        "id": 6,
+        "en": "They do not have time for a meeting.",
+        "ar": "ليس لديهم وقت لاجتماع.",
+        "context": "تقال عند تعذر عقد اجتماع."
+      },
+      {
+        "id": 7,
+        "en": "I am too busy to talk.",
+        "ar": "أنا مشغول جدًا ولا أستطيع التحدث.",
+        "context": "تقال عند عدم القدرة على الكلام بسبب الانشغال."
+      },
+      {
+        "id": 8,
+        "en": "My manager is very busy.",
+        "ar": "مديري مشغول جدًا.",
+        "context": "تقال عند صعوبة مقابلة المدير."
+      },
+      {
+        "id": 9,
+        "en": "I do not have time to wait.",
+        "ar": "ليس لدي وقت للانتظار.",
+        "context": "تقال عند الحاجة إلى المغادرة بسرعة."
+      },
+      {
+        "id": 10,
+        "en": "The doctor is busy now.",
+        "ar": "الطبيب مشغول الآن.",
+        "context": "تقال عند انتظار طبيب غير متفرغ."
+      }
+    ]
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "schemaVersion": 1,
+  "id": 5912,
+  "sentence": {
+    "en": "One day it was sunny, and the next it was snowing.",
+    "ar": "في يومٍ كان الجو مشمسًا، وفي اليوم التالي كانت السماء تُثلج.",
+    "context": "وصف تبدّل الطقس فجأة بين يوم مضى واليوم الذي تلاه.",
+    "sourceWord": "next",
+    "sourcePos": "n."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "One day it was sunny,",
+        "ar": "في يومٍ كان الجو مشمسًا،",
+        "context": "وصف إشراق الشمس في أحد يومين سابقين.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "تصف was sunny حالة الطقس في يوم سابق."
+        },
+        "wordMeanings": [
+          {
+            "term": "One",
+            "description": "أحد؛ يحدد يومًا من الأيام"
+          },
+          {
+            "term": "day",
+            "description": "يوم؛ فترة زمنية"
+          },
+          {
+            "term": "it",
+            "description": "فاعل شكلي للحديث عن الطقس"
+          },
+          {
+            "term": "was",
+            "description": "كان؛ يربط الطقس بوصف سابق"
+          },
+          {
+            "term": "sunny",
+            "description": "مشمسًا؛ تظهر فيه الشمس"
+          }
+        ]
+      },
+      {
+        "sentence": "and the next it was snowing.",
+        "ar": "وفي اليوم التالي كانت السماء تُثلج.",
+        "context": "وصف تساقط جارٍ للثلج خلال اليوم الذي تلا اليوم المشمس.",
+        "grammar": {
+          "tense": "الماضي المستمر",
+          "tenseEn": "Past Continuous",
+          "reason": "تصف was snowing تساقط الثلج خلال اليوم التالي لذلك اليوم الماضي."
+        },
+        "wordMeanings": [
+          {
+            "term": "and",
+            "description": "و؛ تربط حالتي الطقس"
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف لليوم التالي"
+          },
+          {
+            "term": "next",
+            "description": "التالي؛ اليوم الذي يلي المذكور"
+          },
+          {
+            "term": "it",
+            "description": "فاعل شكلي للطقس"
+          },
+          {
+            "term": "was",
+            "description": "فعل مساعد لبناء الماضي المستمر"
+          },
+          {
+            "term": "snowing",
+            "description": "تُثلج؛ يتساقط الثلج في ذلك الوقت"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "One day it was sunny, and the next it was snowing.",
+        "ar": "في يومٍ كان الجو مشمسًا، وفي اليوم التالي كانت السماء تُثلج.",
+        "context": "وصف تبدّل الطقس فجأة بين يوم مضى واليوم الذي تلاه."
+      },
+      {
+        "id": 2,
+        "en": "What is next on the agenda after the budget discussion?",
+        "ar": "ما التالي على جدول الأعمال بعد مناقشة الميزانية؟",
+        "context": "السؤال عن بند يلي موضوعًا محددًا في اجتماع."
+      },
+      {
+        "id": 3,
+        "en": "The next in line held up her ticket and approached the desk.",
+        "ar": "التالية في الطابور رفعت تذكرتها واقتربت من المنضدة.",
+        "context": "رواية عن تقدم شخص عندما حان دوره للحصول على خدمة."
+      },
+      {
+        "id": 4,
+        "en": "One chapter describes the journey; the next explains what the travelers found.",
+        "ar": "فصل يصف الرحلة؛ والفصل التالي يشرح ما وجده المسافرون.",
+        "context": "وصف توزيع موضوعين بين جزأين متعاقبين من كتاب."
+      },
+      {
+        "id": 5,
+        "en": "We have completed one stage and are waiting for instructions for the next.",
+        "ar": "نحن قد أكملنا مرحلة واحدة وننتظر تعليمات للمرحلة التالية.",
+        "context": "وصف وضع حالي يجمع إنجازًا سابقًا واستعدادًا لخطوة لاحقة."
+      },
+      {
+        "id": 6,
+        "en": "The next of the four performers is warming up behind the curtain.",
+        "ar": "التالي من المؤدين الأربعة يجري تمارين الإحماء خلف الستار.",
+        "context": "وصف استعداد جارٍ لشخص يقترب دوره في عرض."
+      },
+      {
+        "id": 7,
+        "en": "The team will move the display from one gallery to the next.",
+        "ar": "الفريق سينقل المعروضات من صالة عرض إلى التالية.",
+        "context": "توقع نقل أغراض بالتتابع بين أماكن داخل مؤسسة."
+      },
+      {
+        "id": 8,
+        "en": "One train was canceled, so we booked seats on the next.",
+        "ar": "قطار واحد أُلغي، لذلك نحن حجزنا مقاعد في القطار التالي.",
+        "context": "رواية عن اختيار بديل يأتي بعد رحلة تعذر استخدامها."
+      },
+      {
+        "id": 9,
+        "en": "The next on the list had already accepted another offer.",
+        "ar": "التالي في القائمة كان قد قبل عرضًا آخر بالفعل.",
+        "context": "رواية عن تعذر اختيار مرشح عند بلوغ دوره بسبب قرار سابق منه."
+      },
+      {
+        "id": 10,
+        "en": "The display changes from one image to the next.",
+        "ar": "العرض يتغير من صورة إلى التالية.",
+        "context": "وصف تعاقب صور في ترتيب عرض."
+      }
+    ]
+  }
+}

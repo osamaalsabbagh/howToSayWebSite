@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 1,
+  "id": 9075,
+  "sentence": {
+    "en": "This is the colleague whom I trust.",
+    "ar": "هذا هو الزميل الذي أنا أثق به.",
+    "context": "أنت تقدم زميلًا لشخص جديد وتوضح أنك تثق به، بأسلوب رسمي متأنق.",
+    "sourceWord": "whom",
+    "sourcePos": "pron."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "This is the colleague",
+        "ar": "هذا هو الزميل",
+        "context": "أنت تشير إلى زميلك لتقدمه لشخص آخر.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "جملة تعريف في المضارع البسيط تربط اسم الإشارة بالزميل."
+        },
+        "wordMeanings": [
+          {
+            "term": "This",
+            "description": "هذا؛ اسم إشارة"
+          },
+          {
+            "term": "is",
+            "description": "فعل ربط في المضارع مع المفرد"
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف للزميل"
+          },
+          {
+            "term": "colleague",
+            "description": "زميل في العمل"
+          }
+        ]
+      },
+      {
+        "sentence": "whom I trust.",
+        "ar": "الذي أنا أثق به.",
+        "context": "أنت توضح سبب ارتياحك للتعامل مع هذا الزميل.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "جملة موصولة في المضارع البسيط تصف الزميل؛ الضمير الموصول يعود إلى الشخص الذي تقع عليه الثقة."
+        },
+        "wordMeanings": [
+          {
+            "term": "whom",
+            "description": "الذي؛ ضمير موصول رسمي في موضع المفعول لفعل الثقة"
+          },
+          {
+            "term": "I",
+            "description": "أنا؛ فاعل المتكلم"
+          },
+          {
+            "term": "trust",
+            "description": "أثق؛ مضارع"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "This is the colleague whom I trust.",
+        "ar": "هذا هو الزميل الذي أنا أثق به.",
+        "context": "أنت تقدم زميلًا لشخص جديد وتوضح أنك تثق به، بأسلوب رسمي متأنق."
+      },
+      {
+        "id": 2,
+        "en": "I met the teacher whom you recommended.",
+        "ar": "أنا التقيت بالمعلم الذي أنت أوصيت به.",
+        "context": "تحدث عن لقاء معلم سبق أن أوصى به المخاطب؛ الحدثان في الماضي."
+      },
+      {
+        "id": 3,
+        "en": "She is the doctor whom we invited.",
+        "ar": "هي الطبيبة التي نحن دعوناها.",
+        "context": "عرّف بطبيبة دعوتموها سابقًا باستخدام ضمير موصول للمفعول."
+      },
+      {
+        "id": 4,
+        "en": "He is the artist whom I admire.",
+        "ar": "هو الفنان الذي أنا أعجب به.",
+        "context": "عرّف بفنان تعجب به مستخدمًا تركيبًا رسميًا."
+      },
+      {
+        "id": 5,
+        "en": "I thanked the woman whom he helped.",
+        "ar": "أنا شكرت المرأة التي هو ساعدها.",
+        "context": "تحدث عن شكر امرأة ساعدها رجل في الماضي."
+      },
+      {
+        "id": 6,
+        "en": "We hired the designer whom she suggested.",
+        "ar": "نحن وظفنا المصمم الذي هي اقترحته.",
+        "context": "تحدث عن توظيف مصمم اقترحته امرأة."
+      },
+      {
+        "id": 7,
+        "en": "I called the friend whom you met.",
+        "ar": "أنا اتصلت بالصديق الذي أنت التقيت به.",
+        "context": "تحدث عن اتصالك بصديق التقى به المخاطب."
+      },
+      {
+        "id": 8,
+        "en": "They know the author whom I mentioned.",
+        "ar": "هم يعرفون الكاتب الذي أنا ذكرته.",
+        "context": "صف معرفة مجموعة بكاتب ذكرته سابقًا."
+      },
+      {
+        "id": 9,
+        "en": "This is the guest whom we expected.",
+        "ar": "هذا هو الضيف الذي نحن توقعناه.",
+        "context": "عرّف بالضيف الذي كنتم تنتظرون وصوله."
+      },
+      {
+        "id": 10,
+        "en": "I respect the mentor whom she trusts.",
+        "ar": "أنا أحترم المرشد الذي هي تثق به.",
+        "context": "عبّر عن احترامك لمرشد تثق به امرأة."
+      }
+    ]
+  }
+}

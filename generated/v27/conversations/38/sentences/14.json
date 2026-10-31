@@ -1,0 +1,131 @@
+{
+  "schemaVersion": 1,
+  "id": 14,
+  "sentence": {
+    "en": "Dad, are you paying with your card again?",
+    "ar": "أبي، هل ستدفع ببطاقتك مجددًا؟",
+    "context": "يسأل الابن عن طريقة الدفع."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Dad",
+        "ar": "أبي.",
+        "context": "نداء للأب قبل السؤال.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه كلمة نداء ولا تحمل زمنًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "Dad",
+            "description": "أبي أو بابا"
+          }
+        ]
+      },
+      {
+        "sentence": "are you paying with your card again",
+        "ar": "هل ستدفع ببطاقتك مجددًا؟",
+        "context": "يسأل عن طريقة الدفع المتوقعة الآن.",
+        "grammar": {
+          "tense": "المضارع المستمر",
+          "tenseEn": "Present Continuous",
+          "reason": "are paying يستخدم هنا للسؤال عن خطة قريبة أو فعل سيحدث في الموقف الحالي."
+        },
+        "wordMeanings": [
+          {
+            "term": "are",
+            "description": "كلمة مساعدة للسؤال مع أنت"
+          },
+          {
+            "term": "you",
+            "description": "أنت"
+          },
+          {
+            "term": "paying",
+            "description": "تدفع"
+          },
+          {
+            "term": "with",
+            "description": "بـ أو باستخدام"
+          },
+          {
+            "term": "your",
+            "description": "الخاص بك"
+          },
+          {
+            "term": "card",
+            "description": "بطاقة"
+          },
+          {
+            "term": "again",
+            "description": "مجددًا"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Are you paying with cash",
+        "ar": "هل ستدفع نقدًا؟",
+        "context": "يقال للسؤال عن طريقة الدفع"
+      },
+      {
+        "id": 2,
+        "en": "Are you using your card again",
+        "ar": "هل تستخدم بطاقتك مجددًا؟",
+        "context": "يقال عند ملاحظة عادة في الدفع"
+      },
+      {
+        "id": 3,
+        "en": "Dad, are we leaving now",
+        "ar": "أبي، هل سنغادر الآن؟",
+        "context": "يقال عند السؤال عن خطة قريبة"
+      },
+      {
+        "id": 4,
+        "en": "She is paying with her card",
+        "ar": "هي تدفع ببطاقتها",
+        "context": "يقال لوصف طريقة الدفع"
+      },
+      {
+        "id": 5,
+        "en": "Are they paying today",
+        "ar": "هل سيدفعون اليوم؟",
+        "context": "يقال للسؤال عن دفع متوقع"
+      },
+      {
+        "id": 6,
+        "en": "Are you buying coffee again",
+        "ar": "هل ستشتري القهوة مجددًا؟",
+        "context": "يقال عند تكرار فعل"
+      },
+      {
+        "id": 7,
+        "en": "I am paying with my phone",
+        "ar": "أنا أدفع بهاتفي",
+        "context": "يقال عند استخدام دفع إلكتروني"
+      },
+      {
+        "id": 8,
+        "en": "Dad, do you have your card",
+        "ar": "أبي، هل معك بطاقتك؟",
+        "context": "يقال قبل الدفع"
+      },
+      {
+        "id": 9,
+        "en": "Are you waiting here again",
+        "ar": "هل تنتظر هنا مجددًا؟",
+        "context": "يقال عند تكرار موقف"
+      },
+      {
+        "id": 10,
+        "en": "We are paying at the counter",
+        "ar": "نحن ندفع عند الصندوق",
+        "context": "يقال أثناء التسوق"
+      }
+    ]
+  }
+}

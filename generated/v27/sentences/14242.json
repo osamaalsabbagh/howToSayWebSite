@@ -1,0 +1,137 @@
+{
+  "schemaVersion": 1,
+  "id": 14242,
+  "sentence": {
+    "en": "I will sue if they do not pay me.",
+    "ar": "أنا سأرفع دعوى إذا هم لم يدفعوا لي.",
+    "context": "تهديد شخص بالذهاب إلى المحكمة إن لم يحصل على ماله.",
+    "sourceWord": "sue",
+    "sourcePos": "v."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "I will sue",
+        "ar": "أنا سأرفع دعوى",
+        "context": "النتيجة التي يهدد بها المتكلم.",
+        "grammar": {
+          "tense": "المستقبل البسيط",
+          "tenseEn": "Future Simple",
+          "reason": "المستقبل البسيط يعبر عن قرار أو تهديد لما سيحدث."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "أنا"
+          },
+          {
+            "term": "will",
+            "description": "أداة تدل على المستقبل"
+          },
+          {
+            "term": "sue",
+            "description": "سأرفع دعوى"
+          }
+        ]
+      },
+      {
+        "sentence": "if they do not pay me",
+        "ar": "إذا هم لم يدفعوا لي",
+        "context": "الشرط الذي يتوقف عليه رفع الدعوى.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "المضارع البسيط بعد «if» يصف شرطًا يتعلق بالمستقبل."
+        },
+        "wordMeanings": [
+          {
+            "term": "if",
+            "description": "إذا"
+          },
+          {
+            "term": "they",
+            "description": "هم"
+          },
+          {
+            "term": "do",
+            "description": "أداة مساعدة للنفي"
+          },
+          {
+            "term": "not",
+            "description": "لم"
+          },
+          {
+            "term": "pay",
+            "description": "يدفعوا"
+          },
+          {
+            "term": "me",
+            "description": "لي"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I will sue if they do not pay me.",
+        "ar": "أنا سأرفع دعوى إذا هم لم يدفعوا لي.",
+        "context": "تهديد شخص بالذهاب إلى المحكمة إن لم يحصل على ماله."
+      },
+      {
+        "id": 2,
+        "en": "People sue when they feel cheated.",
+        "ar": "الناس يرفعون دعاوى عندما يشعرون بالخداع.",
+        "context": "قانون."
+      },
+      {
+        "id": 3,
+        "en": "Can I sue my landlord?",
+        "ar": "هل أستطيع رفع دعوى على مالك البيت؟",
+        "context": "سكن."
+      },
+      {
+        "id": 4,
+        "en": "Patients sometimes sue hospitals.",
+        "ar": "المرضى أحيانًا يرفعون دعاوى على المستشفيات.",
+        "context": "طب."
+      },
+      {
+        "id": 5,
+        "en": "The family is suing the airline.",
+        "ar": "العائلة ترفع دعوى على شركة الطيران.",
+        "context": "سفر."
+      },
+      {
+        "id": 6,
+        "en": "They threatened to sue.",
+        "ar": "هم هددوا برفع دعوى.",
+        "context": "خلاف."
+      },
+      {
+        "id": 7,
+        "en": "Customers can sue for faulty products.",
+        "ar": "الزبائن يستطيعون رفع دعوى بسبب المنتجات المعيبة.",
+        "context": "حقوق."
+      },
+      {
+        "id": 8,
+        "en": "Nobody wants to sue a friend.",
+        "ar": "لا أحد يريد رفع دعوى على صديق.",
+        "context": "علاقات."
+      },
+      {
+        "id": 9,
+        "en": "The workers are suing for back pay.",
+        "ar": "العمال يرفعون دعوى للأجور المتأخرة.",
+        "context": "عمل."
+      },
+      {
+        "id": 10,
+        "en": "The state will sue the polluters.",
+        "ar": "الولاية سترفع دعوى على الملوثين.",
+        "context": "بيئة."
+      }
+    ]
+  }
+}

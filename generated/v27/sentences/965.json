@@ -1,0 +1,111 @@
+{
+  "schemaVersion": 1,
+  "id": 965,
+  "sentence": {
+    "en": "Where is the nearest bus stop?",
+    "ar": "أين أقرب موقف للحافلات؟",
+    "context": "تُستخدم للسؤال عن أقرب نقطة توقف للحافلات."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Where is the nearest bus stop",
+        "ar": "أين أقرب موقف للحافلات",
+        "context": "تُستخدم عندما تريد العثور على أقرب مكان لركوب الحافلة.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "السؤال يستخدم is للسؤال عن موقع حالي لمكان محدد."
+        },
+        "wordMeanings": [
+          {
+            "term": "Where",
+            "description": "أين، وتُستخدم للسؤال عن المكان"
+          },
+          {
+            "term": "is",
+            "description": "تعني يوجد أو يكون، وتأتي هنا للسؤال عن الموقع"
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف تشير إلى أقرب موقف معروف ضمن المكان"
+          },
+          {
+            "term": "nearest",
+            "description": "الأقرب من حيث المسافة"
+          },
+          {
+            "term": "bus",
+            "description": "حافلة، وتصف نوع الموقف"
+          },
+          {
+            "term": "stop",
+            "description": "موقف أو نقطة توقف"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Where is the nearest train station?",
+        "ar": "أين أقرب محطة قطار؟",
+        "context": "تُستخدم عند البحث عن قطار قريب."
+      },
+      {
+        "id": 2,
+        "en": "Where is the nearest hospital on this side of the river?",
+        "ar": "أين أقرب مستشفى على هذا الجانب من النهر؟",
+        "context": "البحث عن مستشفى قريب يمكن الوصول إليه دون الانتقال إلى الضفة الأخرى."
+      },
+      {
+        "id": 3,
+        "en": "Where is the nearest bank with an outdoor cash machine?",
+        "ar": "أين أقرب بنك فيه آلة صراف آلي خارجية؟",
+        "context": "طلب تحديد بنك قريب يوفر جهاز سحب نقود خارج المبنى."
+      },
+      {
+        "id": 4,
+        "en": "Where is the nearest pharmacy open after ten at night?",
+        "ar": "أين أقرب صيدلية تفتح بعد العاشرة ليلًا؟",
+        "context": "البحث عن صيدلية قريبة تقدم خدمتها في وقت متأخر من الليل."
+      },
+      {
+        "id": 5,
+        "en": "Where is the nearest hotel with family rooms?",
+        "ar": "أين أقرب فندق فيه غرف عائلية؟",
+        "context": "السؤال عن أقرب فندق يوفر غرفًا تتسع لأفراد الأسرة معًا."
+      },
+      {
+        "id": 6,
+        "en": "Where is the nearest restroom with a baby changing table?",
+        "ar": "أين أقرب دورة مياه فيها طاولة لتغيير حفاضات الرضع؟",
+        "context": "البحث عن دورة مياه قريبة تتوفر فيها تجهيزات للعناية بحفاض رضيع."
+      },
+      {
+        "id": 7,
+        "en": "Where is the nearest taxi stand outside the station?",
+        "ar": "أين أقرب موقف سيارات أجرة خارج المحطة؟",
+        "context": "طلب تحديد موضع قريب لركوب سيارة أجرة بعد الخروج من المحطة."
+      },
+      {
+        "id": 8,
+        "en": "Where is the nearest store selling phone chargers?",
+        "ar": "أين أقرب متجر يبيع شواحن الهواتف؟",
+        "context": "السؤال عن أقل المتاجر بُعدًا ضمن المتاجر التي توفر أجهزة شحن الهواتف."
+      },
+      {
+        "id": 9,
+        "en": "Where is the nearest exit to the taxi rank?",
+        "ar": "أين أقرب مخرج إلى موقف سيارات الأجرة؟",
+        "context": "طلب اختيار باب الخروج الأقرب إلى المكان الذي تنتظر فيه سيارات الأجرة."
+      },
+      {
+        "id": 10,
+        "en": "Where is the nearest cafe?",
+        "ar": "أين أقرب مقهى؟",
+        "context": "تُستخدم عند البحث عن مكان للجلوس."
+      }
+    ]
+  }
+}

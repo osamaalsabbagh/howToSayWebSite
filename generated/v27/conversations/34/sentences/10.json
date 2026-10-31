@@ -1,0 +1,135 @@
+{
+  "schemaVersion": 1,
+  "id": 10,
+  "sentence": {
+    "en": "Do you know the brown hospital building next to your old school?",
+    "ar": "أتعرف مبنى المشفى البني بجانب مدرستك القديمة؟",
+    "context": "يشير إلى أحد المباني التي أنجزوها، ويميزه بلونه البني."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Do you know the brown hospital building next to your old school",
+        "ar": "هل تعرف مبنى المستشفى البني بجانب مدرستك القديمة؟",
+        "context": "سؤال للتأكد من معرفة مكان محدد.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "Do you know سؤال في المضارع البسيط عن معرفة حالية."
+        },
+        "wordMeanings": [
+          {
+            "term": "Do",
+            "description": "كلمة مساعدة لتكوين السؤال"
+          },
+          {
+            "term": "you",
+            "description": "أنت"
+          },
+          {
+            "term": "know",
+            "description": "تعرف أو تعلم"
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف"
+          },
+          {
+            "term": "brown",
+            "description": "بني اللون"
+          },
+          {
+            "term": "hospital",
+            "description": "مستشفى"
+          },
+          {
+            "term": "building",
+            "description": "مبنى"
+          },
+          {
+            "term": "next",
+            "description": "قريب أو ملاصق في عبارة بجانب"
+          },
+          {
+            "term": "to",
+            "description": "إلى، وتكمل معنى بجانب"
+          },
+          {
+            "term": "your",
+            "description": "الخاص بك"
+          },
+          {
+            "term": "old",
+            "description": "قديم أو سابق"
+          },
+          {
+            "term": "school",
+            "description": "مدرسة"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Do you know the cafe next to the bank",
+        "ar": "هل تعرف المقهى بجانب البنك؟",
+        "context": "يقال للسؤال عن مكان معروف"
+      },
+      {
+        "id": 2,
+        "en": "Do you know the old bridge",
+        "ar": "هل تعرف الجسر القديم؟",
+        "context": "يقال للتحقق من معرفة معلم معين"
+      },
+      {
+        "id": 3,
+        "en": "Do you know the teacher at this school",
+        "ar": "هل تعرف المعلم في هذه المدرسة؟",
+        "context": "يقال للسؤال عن معرفة شخص"
+      },
+      {
+        "id": 4,
+        "en": "The red shop is next to my office",
+        "ar": "المتجر الأحمر بجانب مكتبي",
+        "context": "يقال لوصف موقع باستخدام لون ومعلم"
+      },
+      {
+        "id": 5,
+        "en": "Do you know the new hospital",
+        "ar": "هل تعرف المستشفى الجديد؟",
+        "context": "يقال للسؤال عن مكان جديد"
+      },
+      {
+        "id": 6,
+        "en": "The building is next to your house",
+        "ar": "المبنى بجانب بيتك",
+        "context": "يقال لتحديد مكان قريب"
+      },
+      {
+        "id": 7,
+        "en": "Do you know that brown door",
+        "ar": "هل تعرف ذلك الباب البني؟",
+        "context": "يقال للإشارة إلى شيء محدد بلونه"
+      },
+      {
+        "id": 8,
+        "en": "The bus stop is next to the school",
+        "ar": "موقف الحافلات بجانب المدرسة",
+        "context": "يقال لتحديد موقع موقف"
+      },
+      {
+        "id": 9,
+        "en": "Do you know this street",
+        "ar": "هل تعرف هذا الشارع؟",
+        "context": "يقال عند طلب معرفة طريق"
+      },
+      {
+        "id": 10,
+        "en": "The old office is next to the station",
+        "ar": "المكتب القديم بجانب المحطة",
+        "context": "يقال لوصف مكان قديم معروف"
+      }
+    ]
+  }
+}

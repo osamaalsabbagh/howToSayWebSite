@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": 505,
+  "sentence": {
+    "en": "Are you American?",
+    "ar": "هل أنت أمريكي؟",
+    "context": "السؤال عن جنسية الشخص."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Are you American?",
+        "ar": "هل أنت أمريكي؟",
+        "context": "سؤال عن جنسية الشخص أو أصله.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "Are يصف حالة أو هوية حالية للشخص."
+        },
+        "wordMeanings": [
+          {
+            "term": "Are",
+            "description": "تستخدم للسؤال عن حالة أو صفة مع المخاطب."
+          },
+          {
+            "term": "you",
+            "description": "تشير إلى الشخص المخاطب."
+          },
+          {
+            "term": "American",
+            "description": "تعني أمريكي أو من أمريكا."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Are you Canadian?",
+        "ar": "هل أنت كندي؟",
+        "context": "سؤال عن جنسية أخرى."
+      },
+      {
+        "id": 2,
+        "en": "I am American, but I grew up in Italy.",
+        "ar": "أنا أمريكي، لكنني نشأت في إيطاليا.",
+        "context": "ذكر الجنسية الأمريكية مع توضيح أن سنوات النشأة كانت في إيطاليا."
+      },
+      {
+        "id": 3,
+        "en": "She is American and has a Canadian passport too.",
+        "ar": "هي أمريكية ولديها جواز سفر كندي أيضًا.",
+        "context": "ذكر جنسية امرأة وحيازتها جواز سفر كنديًا بالإضافة إلى ذلك."
+      },
+      {
+        "id": 4,
+        "en": "Are they American?",
+        "ar": "هل هم أمريكيون؟",
+        "context": "سؤال عن جنسية مجموعة."
+      },
+      {
+        "id": 5,
+        "en": "He is not American.",
+        "ar": "هو ليس أمريكيًا.",
+        "context": "نفي جنسية."
+      },
+      {
+        "id": 6,
+        "en": "Where in America did your grandparents live?",
+        "ar": "أين في أمريكا كان جدك وجدتك يعيشان؟",
+        "context": "السؤال عن المكان الذي أقام فيه الجد والجدة في أمريكا سابقًا."
+      },
+      {
+        "id": 7,
+        "en": "Are you from America?",
+        "ar": "هل أنت من أمريكا؟",
+        "context": "صيغة أخرى للسؤال."
+      },
+      {
+        "id": 8,
+        "en": "We are American tourists.",
+        "ar": "نحن سياح أمريكيون.",
+        "context": "وصف مجموعة."
+      },
+      {
+        "id": 9,
+        "en": "Is your friend an American citizen or a permanent resident?",
+        "ar": "هل صديقك مواطن أمريكي أم مقيم دائم؟",
+        "context": "السؤال للتمييز بين حمل الصديق للجنسية الأمريكية وحصوله على إقامة دائمة."
+      },
+      {
+        "id": 10,
+        "en": "I am from America, and this is my first visit to Turkey.",
+        "ar": "أنا من أمريكا، وهذه زيارتي الأولى لتركيا.",
+        "context": "التعريف ببلد الأصل مع ذكر أن زيارة تركيا الحالية هي الأولى."
+      }
+    ]
+  }
+}

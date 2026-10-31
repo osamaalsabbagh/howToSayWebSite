@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": 168,
+  "sentence": {
+    "en": "Do you have enough money?",
+    "ar": "هل لديك ما يكفي من المال؟",
+    "context": "اسأل إن كان لدى شخص مال كافٍ."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Do you have enough money?",
+        "ar": "هل لديك ما يكفي من المال؟",
+        "context": "يُستخدم هذا السؤال لطلب المعلومة المقصودة في هذا الموقف.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "يستخدم السؤال المضارع البسيط لأنه يسأل عن حالة حالية أو امتلاك المال في الوقت العام، وتأتي كلمة السؤال المساعدة قبل المخاطب."
+        },
+        "wordMeanings": [
+          {
+            "term": "Do",
+            "description": "تأتي في بداية السؤال مع المخاطب لتكوين سؤال في الحاضر."
+          },
+          {
+            "term": "you",
+            "description": "أنت، وتشير إلى الشخص المخاطب."
+          },
+          {
+            "term": "have",
+            "description": "تملك أو لديك."
+          },
+          {
+            "term": "enough",
+            "description": "كافٍ أو بمقدار مناسب للحاجة."
+          },
+          {
+            "term": "money",
+            "description": "مال أو نقود."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Do you have enough money?",
+        "ar": "هل لديك ما يكفي من المال؟",
+        "context": "تقال للتأكد من قدرة شخص على الدفع."
+      },
+      {
+        "id": 2,
+        "en": "Do you have enough time?",
+        "ar": "هل لديك وقت كافٍ؟",
+        "context": "تقال عند السؤال عن توفر الوقت."
+      },
+      {
+        "id": 3,
+        "en": "Do you have enough food?",
+        "ar": "هل لديك طعام كافٍ؟",
+        "context": "تقال للتأكد من وجود كمية كافية من الطعام."
+      },
+      {
+        "id": 4,
+        "en": "Do you have enough water?",
+        "ar": "هل لديك ماء كافٍ؟",
+        "context": "تقال قبل رحلة أو نشاط طويل."
+      },
+      {
+        "id": 5,
+        "en": "Do you have enough cash?",
+        "ar": "هل لديك نقد كافٍ؟",
+        "context": "تقال عند الحاجة إلى الدفع نقدًا."
+      },
+      {
+        "id": 6,
+        "en": "Do you have enough change?",
+        "ar": "هل لديك فكة كافية؟",
+        "context": "تقال عند دفع مبلغ صغير."
+      },
+      {
+        "id": 7,
+        "en": "Do you have enough gas?",
+        "ar": "هل لديك وقود كافٍ؟",
+        "context": "تقال قبل السفر بالسيارة."
+      },
+      {
+        "id": 8,
+        "en": "Do you have enough space?",
+        "ar": "هل لديك مساحة كافية؟",
+        "context": "تقال عند ترتيب حقائب أو مقاعد."
+      },
+      {
+        "id": 9,
+        "en": "Do you have enough information?",
+        "ar": "هل لديك معلومات كافية؟",
+        "context": "تقال قبل اتخاذ قرار."
+      },
+      {
+        "id": 10,
+        "en": "Do you have enough tickets?",
+        "ar": "هل لديك تذاكر كافية؟",
+        "context": "تقال عند التأكد من عدد التذاكر."
+      }
+    ]
+  }
+}

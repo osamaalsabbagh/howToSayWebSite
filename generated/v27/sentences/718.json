@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": 718,
+  "sentence": {
+    "en": "Where is the nearest hospital?",
+    "ar": "أين أقرب مستشفى؟",
+    "context": "طلب معرفة أقرب مستشفى."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Where is the nearest hospital?",
+        "ar": "أين أقرب مستشفى؟",
+        "context": "سؤال يستخدم عند الحاجة إلى الوصول بسرعة إلى مستشفى قريب.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "الفعل يدل على موقع ثابت أو حالي، لذلك يستخدم المضارع البسيط مع السؤال عن المكان."
+        },
+        "wordMeanings": [
+          {
+            "term": "Where",
+            "description": "أداة سؤال عن المكان"
+          },
+          {
+            "term": "is",
+            "description": "صيغة تدل على وجود شيء أو مكانه الآن"
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف تشير إلى شيء محدد"
+          },
+          {
+            "term": "nearest",
+            "description": "الأقرب من حيث المسافة"
+          },
+          {
+            "term": "hospital",
+            "description": "مستشفى أو مكان للعلاج"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Where is the nearest pharmacy?",
+        "ar": "أين أقرب صيدلية؟",
+        "context": "يستخدم عند الحاجة إلى شراء دواء."
+      },
+      {
+        "id": 2,
+        "en": "Where is the nearest bus stop for the hospital?",
+        "ar": "أين أقرب موقف حافلات متجهة إلى المستشفى؟",
+        "context": "البحث عن موقف قريب تخدمه حافلات تنقل الركاب إلى المستشفى."
+      },
+      {
+        "id": 3,
+        "en": "Where is the nearest hotel to the hospital entrance?",
+        "ar": "أين أقرب فندق إلى مدخل المستشفى؟",
+        "context": "طلب تحديد الفندق الأقل بُعدًا عن باب الدخول إلى المستشفى."
+      },
+      {
+        "id": 4,
+        "en": "Where is the nearest clinic open on Sundays?",
+        "ar": "أين أقرب عيادة تفتح أيام الأحد؟",
+        "context": "البحث عن عيادة قريبة تقدم خدماتها في يوم الأحد من كل أسبوع."
+      },
+      {
+        "id": 5,
+        "en": "Where is the nearest hospital with a children's ward?",
+        "ar": "أين أقرب مستشفى فيه قسم للأطفال؟",
+        "context": "طلب تحديد المستشفى الأقل بُعدًا ضمن المستشفيات التي تضم قسمًا لعلاج الصغار."
+      },
+      {
+        "id": 6,
+        "en": "Where is the nearest taxi stand?",
+        "ar": "أين أقرب موقف سيارات أجرة؟",
+        "context": "يستخدم عند الحاجة إلى سيارة أجرة."
+      },
+      {
+        "id": 7,
+        "en": "Where is the nearest police station?",
+        "ar": "أين أقرب مركز شرطة؟",
+        "context": "يستخدم عند الحاجة إلى مساعدة رسمية."
+      },
+      {
+        "id": 8,
+        "en": "Where is the nearest exit?",
+        "ar": "أين أقرب مخرج؟",
+        "context": "يستخدم عند محاولة مغادرة مبنى."
+      },
+      {
+        "id": 9,
+        "en": "Where is the nearest restroom?",
+        "ar": "أين أقرب دورة مياه؟",
+        "context": "يستخدم للسؤال عن مكان دورة المياه."
+      },
+      {
+        "id": 10,
+        "en": "Where is the nearest place to get a taxi to the hospital?",
+        "ar": "أين أقرب مكان للحصول على سيارة أجرة إلى المستشفى؟",
+        "context": "السؤال عن موضع قريب يمكن منه ركوب سيارة أجرة متجهة إلى المستشفى."
+      }
+    ]
+  }
+}

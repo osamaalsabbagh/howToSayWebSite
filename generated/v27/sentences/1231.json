@@ -1,0 +1,123 @@
+{
+  "schemaVersion": 1,
+  "id": 1231,
+  "sentence": {
+    "en": "I would like to book an appointment on Monday.",
+    "ar": "أود حجز موعد في يوم الاثنين.",
+    "context": "تُستخدم لحجز موعد في بداية الأسبوع."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "I would like to book an appointment on Monday",
+        "ar": "أود حجز موعد يوم الاثنين",
+        "context": "طلب مهذب لحجز موعد في يوم محدد.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه صيغة رغبة مهذبة باستخدام تركيب ثابت، وليست زمنًا مستقلًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير يشير إلى المتكلم"
+          },
+          {
+            "term": "would",
+            "description": "تُستخدم لجعل الطلب مهذبًا"
+          },
+          {
+            "term": "like",
+            "description": "أود أو أرغب"
+          },
+          {
+            "term": "to",
+            "description": "تأتي قبل الفعل لبيان الرغبة"
+          },
+          {
+            "term": "book",
+            "description": "أحجز"
+          },
+          {
+            "term": "an",
+            "description": "أداة تدل على شيء واحد غير محدد"
+          },
+          {
+            "term": "appointment",
+            "description": "موعد"
+          },
+          {
+            "term": "on",
+            "description": "في"
+          },
+          {
+            "term": "Monday",
+            "description": "يوم الاثنين"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I would like to book a visit.",
+        "ar": "أود حجز زيارة.",
+        "context": "تُستخدم للحجز."
+      },
+      {
+        "id": 2,
+        "en": "Can I book an appointment on Tuesday?",
+        "ar": "هل يمكنني حجز موعد يوم الثلاثاء؟",
+        "context": "تُستخدم لاقتراح يوم."
+      },
+      {
+        "id": 3,
+        "en": "Monday is good for me.",
+        "ar": "الاثنين مناسب لي.",
+        "context": "تُستخدم لتأكيد يوم."
+      },
+      {
+        "id": 4,
+        "en": "I need an appointment on Monday.",
+        "ar": "أحتاج إلى موعد يوم الاثنين.",
+        "context": "تُقال للحجز."
+      },
+      {
+        "id": 5,
+        "en": "Please book me for Monday.",
+        "ar": "يرجى حجز موعد لي يوم الاثنين.",
+        "context": "تُستخدم كطلب مباشر."
+      },
+      {
+        "id": 6,
+        "en": "The appointment is on Monday.",
+        "ar": "الموعد يوم الاثنين.",
+        "context": "تُستخدم للإبلاغ."
+      },
+      {
+        "id": 7,
+        "en": "I would like to book a morning appointment.",
+        "ar": "أود حجز موعد صباحي.",
+        "context": "تُستخدم لتحديد وقت."
+      },
+      {
+        "id": 8,
+        "en": "Do you have Monday available?",
+        "ar": "هل لديكم الاثنين متاحًا؟",
+        "context": "تُستخدم للسؤال عن التوفر."
+      },
+      {
+        "id": 9,
+        "en": "I booked an appointment yesterday.",
+        "ar": "حجزت موعدًا أمس.",
+        "context": "تُستخدم عن حجز سابق."
+      },
+      {
+        "id": 10,
+        "en": "Can we move the appointment to Monday?",
+        "ar": "هل يمكننا نقل الموعد إلى الاثنين؟",
+        "context": "تُستخدم لتغيير موعد."
+      }
+    ]
+  }
+}

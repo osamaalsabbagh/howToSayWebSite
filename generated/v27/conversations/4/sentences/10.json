@@ -1,0 +1,139 @@
+{
+  "schemaVersion": 1,
+  "id": 10,
+  "sentence": {
+    "en": "Who knows? Maybe one day. Safe travels!",
+    "ar": "من يدري؟ ربما يومًا ما. رحلة موفقة!",
+    "context": "يبقي الاحتمال مفتوحًا بخصوص عودته ويودعه بتمنيات طيبة"
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Who knows?",
+        "ar": "من يدري؟",
+        "context": "يوضح المعلومة أو الفكرة التابعة لما قبله.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "استُعمل المضارع البسيط في سؤال بلاغي قصير معناه أن المستقبل غير معروف."
+        },
+        "wordMeanings": [
+          {
+            "term": "Who",
+            "description": "أداة سؤال عن الشخص، وتأتي هنا في عبارة تعني لا أحد يعرف."
+          },
+          {
+            "term": "knows",
+            "description": "تعني يعرف، والعبارة كلها تفيد أن الأمر غير مؤكد."
+          }
+        ]
+      },
+      {
+        "sentence": "Maybe one day.",
+        "ar": "ربما يومًا ما.",
+        "context": "تكمل المعنى المرتبط بالجزء السابق.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه عبارة احتمال قصيرة وليست جملة فعلية كاملة لها زمن مستقل."
+        },
+        "wordMeanings": [
+          {
+            "term": "Maybe",
+            "description": "تعني ربما أو من الممكن."
+          },
+          {
+            "term": "one",
+            "description": "تأتي ضمن عبارة one day التي تعني يومًا ما."
+          },
+          {
+            "term": "day",
+            "description": "تكمل عبارة one day وتعني يومًا في المستقبل."
+          }
+        ]
+      },
+      {
+        "sentence": "Safe travels!",
+        "ar": "رحلة موفقة!",
+        "context": "تكمل المعنى المرتبط بالجزء السابق.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه عبارة تمني ثابتة تقال قبل سفر شخص، وليست جملة فعلية بزمن مستقل."
+        },
+        "wordMeanings": [
+          {
+            "term": "Safe",
+            "description": "صفة تعني آمنًا أو سالمًا."
+          },
+          {
+            "term": "travels",
+            "description": "رحلات أو تنقلات، وتستعمل هنا كتمنٍّ بالسلامة أثناء السفر."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Who knows? Maybe next year.",
+        "ar": "من يدري؟ ربما في العام القادم.",
+        "context": "تترك احتمالًا مفتوحًا للمستقبل."
+      },
+      {
+        "id": 2,
+        "en": "Maybe one day, I will visit again.",
+        "ar": "ربما يومًا ما سأزور مرة أخرى.",
+        "context": "تتحدث عن احتمال زيارة مستقبلية."
+      },
+      {
+        "id": 3,
+        "en": "Safe travels, and enjoy your trip.",
+        "ar": "رحلات آمنة، واستمتع برحلتك.",
+        "context": "تودع شخصًا مسافرًا."
+      },
+      {
+        "id": 4,
+        "en": "Who knows? Things may change.",
+        "ar": "من يدري؟ قد تتغير الأمور.",
+        "context": "تتحدث عن مستقبل غير مؤكد."
+      },
+      {
+        "id": 5,
+        "en": "Maybe one day we will work together.",
+        "ar": "ربما يومًا ما سنعمل معًا.",
+        "context": "تترك احتمال تعاون مستقبلًا."
+      },
+      {
+        "id": 6,
+        "en": "Safe travels to Los Angeles!",
+        "ar": "رحلة آمنة إلى لوس أنجلوس!",
+        "context": "تتمنى السلامة لشخص مسافر إلى مدينة محددة."
+      },
+      {
+        "id": 7,
+        "en": "Who knows? Maybe I will try acting again.",
+        "ar": "من يدري؟ ربما سأجرب التمثيل مرة أخرى.",
+        "context": "تتحدث عن احتمال العودة لنشاط سابق."
+      },
+      {
+        "id": 8,
+        "en": "Maybe one day this will happen.",
+        "ar": "ربما يحدث هذا يومًا ما.",
+        "context": "تعبر عن احتمال بعيد."
+      },
+      {
+        "id": 9,
+        "en": "Safe travels, my friend!",
+        "ar": "رحلات آمنة يا صديقي!",
+        "context": "تودع صديقًا بلطف."
+      },
+      {
+        "id": 10,
+        "en": "Who knows? Maybe we will meet again.",
+        "ar": "من يدري؟ ربما سنلتقي مرة أخرى.",
+        "context": "تغلق حديثًا مع إبقاء احتمال اللقاء."
+      }
+    ]
+  }
+}

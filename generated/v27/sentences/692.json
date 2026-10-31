@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": 692,
+  "sentence": {
+    "en": "Are you allergic to anything?",
+    "ar": "هل لديك حساسية من شيء ما؟",
+    "context": "السؤال عن وجود حساسية من أطعمة أو أشياء معينة."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Are you allergic to anything?",
+        "ar": "هل لديك حساسية من أي شيء؟",
+        "context": "تستخدم للسؤال عن حساسية طعام أو دواء أو شيء آخر.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "السؤال عن حالة صحية عامة أو مستمرة."
+        },
+        "wordMeanings": [
+          {
+            "term": "Are",
+            "description": "صيغة سؤال تربط المخاطب بحالة أو صفة."
+          },
+          {
+            "term": "you",
+            "description": "أنت أو أنتم حسب السياق."
+          },
+          {
+            "term": "allergic",
+            "description": "لديك حساسية."
+          },
+          {
+            "term": "to",
+            "description": "من أو تجاه، وتربط الحساسية بالسبب."
+          },
+          {
+            "term": "anything",
+            "description": "أي شيء."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Are you allergic to peanuts?",
+        "ar": "هل لديك حساسية من الفول السوداني؟",
+        "context": "تقال قبل تقديم طعام."
+      },
+      {
+        "id": 2,
+        "en": "I am allergic to milk.",
+        "ar": "لدي حساسية من الحليب.",
+        "context": "تستخدم لذكر حساسية محددة."
+      },
+      {
+        "id": 3,
+        "en": "She is allergic to cats.",
+        "ar": "لديها حساسية من القطط.",
+        "context": "تقال عن حساسية شخص آخر."
+      },
+      {
+        "id": 4,
+        "en": "Are you allergic to this medicine?",
+        "ar": "هل لديك حساسية من هذا الدواء؟",
+        "context": "تستخدم في سياق طبي."
+      },
+      {
+        "id": 5,
+        "en": "I am not allergic to anything.",
+        "ar": "ليست لدي حساسية من أي شيء.",
+        "context": "تقال لنفي وجود حساسية."
+      },
+      {
+        "id": 6,
+        "en": "Is your son allergic to eggs?",
+        "ar": "هل لدى ابنك حساسية من البيض؟",
+        "context": "تستخدم للسؤال عن طفل."
+      },
+      {
+        "id": 7,
+        "en": "They are allergic to seafood.",
+        "ar": "لديهم حساسية من المأكولات البحرية.",
+        "context": "تقال عن حساسية مجموعة."
+      },
+      {
+        "id": 8,
+        "en": "Do you have any allergies?",
+        "ar": "هل لديك أي حساسية؟",
+        "context": "تستخدم بصيغة طبية عامة."
+      },
+      {
+        "id": 9,
+        "en": "He is allergic to dust.",
+        "ar": "لديه حساسية من الغبار.",
+        "context": "تستخدم عن حساسية بيئية."
+      },
+      {
+        "id": 10,
+        "en": "Please tell me if you are allergic to anything.",
+        "ar": "من فضلك أخبرني إذا كان لديك حساسية من أي شيء.",
+        "context": "تقال قبل تقديم طعام أو دواء."
+      }
+    ]
+  }
+}

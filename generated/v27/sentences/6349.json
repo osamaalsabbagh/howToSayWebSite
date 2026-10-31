@@ -1,0 +1,133 @@
+{
+  "schemaVersion": 1,
+  "id": 6349,
+  "sentence": {
+    "en": "Do not worry, I will sort it out.",
+    "ar": "لا تقلق، أنا سأحل الأمر.",
+    "context": "طمأنة يتبعها وعد بمعالجة مشكلة دون تحديد نوعها.",
+    "sourceWord": "sort",
+    "sourcePos": "v."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Do not worry,",
+        "ar": "لا تقلق،",
+        "context": "طلب الكف عن القلق على سبيل الطمأنة.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "صيغة نهي بلا زمن مستقل."
+        },
+        "wordMeanings": [
+          {
+            "term": "Do",
+            "description": "فعل مساعد يستعمل مع النهي."
+          },
+          {
+            "term": "not",
+            "description": "أداة نفي."
+          },
+          {
+            "term": "worry",
+            "description": "تقلق."
+          }
+        ]
+      },
+      {
+        "sentence": "I will sort it out.",
+        "ar": "أنا سأحل الأمر.",
+        "context": "وعد بمعالجة الأمر الذي يثير القلق.",
+        "grammar": {
+          "tense": "المستقبل البسيط",
+          "tenseEn": "Future Simple",
+          "reason": "المستقبل البسيط يعبر عن وعد. الفعل مع الظرف يعني حل مشكلة أو رتب أمرًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "أنا."
+          },
+          {
+            "term": "will",
+            "description": "فعل مساعد للمستقبل."
+          },
+          {
+            "term": "sort",
+            "description": "أحل؛ مع الظرف تعني أعالج المشكلة."
+          },
+          {
+            "term": "it",
+            "description": "ه؛ ضمير يشير إلى المشكلة."
+          },
+          {
+            "term": "out",
+            "description": "مع الفعل السابق تعني حل المشكلة."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Do not worry, I will sort it out.",
+        "ar": "لا تقلق، أنا سأحل الأمر.",
+        "context": "طمأنة يتبعها وعد بمعالجة مشكلة دون تحديد نوعها."
+      },
+      {
+        "id": 2,
+        "en": "The details will sort themselves out.",
+        "ar": "التفاصيل ستنتظم من تلقاء نفسها.",
+        "context": "توقع اتضاح تفاصيل واستقرارها دون معالجة مباشرة لكل واحدة."
+      },
+      {
+        "id": 3,
+        "en": "He needs time to sort himself out.",
+        "ar": "هو يحتاج إلى وقت لترتيب أموره واستعادة توازنه.",
+        "context": "وصف حاجة إلى تنظيم الوضع الشخصي كي يتمكن صاحبه من التصرف بفاعلية."
+      },
+      {
+        "id": 4,
+        "en": "The teacher helped them sort fact from opinion.",
+        "ar": "المعلم ساعدهم على تمييز الحقائق من الآراء.",
+        "context": "رواية عن مساعدة تعليمية في التفريق بين معلومات قابلة للتحقق ووجهات نظر."
+      },
+      {
+        "id": 5,
+        "en": "She sorted through her feelings before replying.",
+        "ar": "هي تفحّصت مشاعرها قبل الرد.",
+        "context": "رواية عن مراجعة داخلية للمشاعر قبل الإجابة."
+      },
+      {
+        "id": 6,
+        "en": "The program sorts names alphabetically.",
+        "ar": "البرنامج يرتب الأسماء أبجديًا.",
+        "context": "وصف ترتيب آلي بحسب تسلسل الحروف."
+      },
+      {
+        "id": 7,
+        "en": "The volunteers are sorting donations.",
+        "ar": "المتطوعون يفرزون التبرعات.",
+        "context": "وصف تصنيف جارٍ لأشياء قدمها متبرعون."
+      },
+      {
+        "id": 8,
+        "en": "Please sort out the broken tools from the usable ones.",
+        "ar": "من فضلك افصل الأدوات المكسورة عن الصالحة للاستخدام.",
+        "context": "طلب تمييز أدوات تالفة وإبعادها عن أدوات تعمل."
+      },
+      {
+        "id": 9,
+        "en": "They sorted out their differences before the meeting.",
+        "ar": "هم سوّوا خلافاتهم قبل الاجتماع.",
+        "context": "وصف معالجة سابقة لنقاط اختلاف بين أشخاص."
+      },
+      {
+        "id": 10,
+        "en": "The children sorted the shapes into matching pairs.",
+        "ar": "الأطفال صنفوا الأشكال في أزواج متطابقة.",
+        "context": "وصف تجميع سابق لقطع بحسب توافق الشكل."
+      }
+    ]
+  }
+}

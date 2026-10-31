@@ -1,0 +1,131 @@
+{
+  "schemaVersion": 1,
+  "id": 3,
+  "sentence": {
+    "en": "Thank you. I am excited about this opportunity.",
+    "ar": "شكرًا لك. أنا متحمس لهذه الفرصة.",
+    "context": "المتقدم يعبر عن حماسه"
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Thank you.",
+        "ar": "شكرًا لك.",
+        "context": "تُستخدم للتعبير عن الشكر داخل هذا الموقف.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذا الجزء تعبير قصير أو غير مكتمل فعليًا، لذلك لا نضع له زمنًا مستقلًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "Thank",
+            "description": "فعل يدل على الشكر، ويأتي هنا ضمن عبارة شكر مهذبة."
+          },
+          {
+            "term": "you",
+            "description": "ضمير المخاطب، ويشير هنا إلى المقابِلة أو الشخص الذي يتحدث معه المتقدم."
+          }
+        ]
+      },
+      {
+        "sentence": "I am excited about this opportunity.",
+        "ar": "أنا متحمس لهذه الفرصة.",
+        "context": "يكمل به المتحدث المعنى أو النتيجة داخل هذا الموقف.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "استُعمل الماضي البسيط لأن هذا الجزء يتحدث عن حدث أو حالة في الماضي."
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "ضمير المتكلم المفرد، ويشير هنا إلى المتقدم نفسه."
+          },
+          {
+            "term": "am",
+            "description": "صيغة تأتي مع ضمير المتكلم المفرد وتصف هنا شعور المتقدم في الوقت الحالي."
+          },
+          {
+            "term": "excited",
+            "description": "صفة تعني متحمس أو سعيد بشيء منتظر."
+          },
+          {
+            "term": "about",
+            "description": "حرف جر يربط الحماس بالشيء الذي يسبب هذا الشعور."
+          },
+          {
+            "term": "this",
+            "description": "اسم إشارة يدل على شيء قريب أو محدد، وهنا يشير إلى الفرصة الحالية."
+          },
+          {
+            "term": "opportunity",
+            "description": "فرصة يمكن أن تؤدي إلى عمل أو تطور أو تجربة جديدة."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Thank you. I am very excited about this opportunity.",
+        "ar": "شكرًا لك. أنا متحمس جدًا لهذه الفرصة.",
+        "context": "تزيد قوة الشعور بكلمة very."
+      },
+      {
+        "id": 2,
+        "en": "Thank you for inviting me. I am excited about this opportunity.",
+        "ar": "شكرًا لدعوتي. أنا متحمس لهذه الفرصة.",
+        "context": "تشكرهم على الدعوة قبل التعبير عن الحماس."
+      },
+      {
+        "id": 3,
+        "en": "Thank you. I am excited about the chance to join your team.",
+        "ar": "شكرًا لك. أنا متحمس لفرصة الانضمام إلى فريقكم.",
+        "context": "تجعل الحماس مرتبطًا بالعمل مع الفريق."
+      },
+      {
+        "id": 4,
+        "en": "I appreciate your time, and I am excited about this opportunity.",
+        "ar": "أقدّر وقتك، وأنا متحمس لهذه الفرصة.",
+        "context": "صيغة أكثر مهنية في مقابلات العمل."
+      },
+      {
+        "id": 5,
+        "en": "Thank you. I am excited to learn more about the role.",
+        "ar": "شكرًا لك. أنا متحمس لمعرفة المزيد عن الدور.",
+        "context": "تظهر اهتمامك بالتفاصيل وليس فقط بالحصول على الوظيفة."
+      },
+      {
+        "id": 6,
+        "en": "Thank you. This opportunity is very exciting for me.",
+        "ar": "شكرًا لك. هذه الفرصة مثيرة جدًا بالنسبة لي.",
+        "context": "نفس المعنى لكن التركيز على الفرصة بدل المتكلم."
+      },
+      {
+        "id": 7,
+        "en": "Thank you. I am excited about speaking with you today.",
+        "ar": "شكرًا لك. أنا متحمس للتحدث معك اليوم.",
+        "context": "تربط الحماس بالمقابلة نفسها."
+      },
+      {
+        "id": 8,
+        "en": "Thank you for meeting with me. I am excited about this opportunity.",
+        "ar": "شكرًا للقائك بي. أنا متحمس لهذه الفرصة.",
+        "context": "تصلح في بداية أو نهاية المقابلة."
+      },
+      {
+        "id": 9,
+        "en": "Thank you. I am excited because this role matches my skills.",
+        "ar": "شكرًا لك. أنا متحمس لأن هذا الدور يناسب مهاراتي.",
+        "context": "توضح سبب الحماس بطريقة مقنعة."
+      },
+      {
+        "id": 10,
+        "en": "Thank you. I am genuinely excited about this opportunity.",
+        "ar": "شكرًا لك. أنا متحمس بصدق لهذه الفرصة.",
+        "context": "تضيف genuinely لتأكيد أن الحماس حقيقي."
+      }
+    ]
+  }
+}

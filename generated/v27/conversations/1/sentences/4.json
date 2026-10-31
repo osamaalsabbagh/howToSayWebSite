@@ -1,0 +1,131 @@
+{
+  "schemaVersion": 1,
+  "id": 4,
+  "sentence": {
+    "en": "Great! Can you tell me about your experience?",
+    "ar": "رائع! هل يمكنك أن تخبرني عن خبرتك؟",
+    "context": "المقابِلة يسأل عن الخبرة"
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Great!",
+        "ar": "رائع!",
+        "context": "تُظهر قبولًا أو استحسانًا لما قيل قبلها.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذا الجزء تعبير قصير أو غير مكتمل فعليًا، لذلك لا نضع له زمنًا مستقلًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "Great",
+            "description": "كلمة تشجيع أو موافقة تعني رائع أو ممتاز."
+          }
+        ]
+      },
+      {
+        "sentence": "Can you tell me about your experience?",
+        "ar": "هل يمكنك أن تخبرني عن خبرتك؟",
+        "context": "يُستخدم هذا السؤال لطلب شيء أو المساعدة بشكل مهذب.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذا الجزء يعتمد على فعل مساعد للتعبير عن طلب أو قدرة أو احتمال، لذلك يشرح كتركيب وظيفي لا كزمن مستقل."
+        },
+        "wordMeanings": [
+          {
+            "term": "Can",
+            "description": "تبدأ سؤالًا عن القدرة أو الإمكانية، وتُستعمل هنا لطلب الكلام بلطف."
+          },
+          {
+            "term": "you",
+            "description": "ضمير المخاطب، ويشير هنا إلى المتقدم في المقابلة."
+          },
+          {
+            "term": "tell",
+            "description": "يعني يخبر أو يشرح، والمطلوب هنا أن يتحدث المتقدم عن خبرته."
+          },
+          {
+            "term": "me",
+            "description": "ضمير يعود على المتكلم، أي المقابِلة التي تسأل السؤال."
+          },
+          {
+            "term": "about",
+            "description": "تعني عن أو بخصوص، وتربط طلب الكلام بموضوع الخبرة."
+          },
+          {
+            "term": "your",
+            "description": "ضمير ملكية يعني الخاص بك، ويشير هنا إلى خبرة المتقدم."
+          },
+          {
+            "term": "experience",
+            "description": "خبرة عملية أو تجربة سابقة حسب السياق."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Great! Can you tell me about your previous experience?",
+        "ar": "رائع! هل يمكنك أن تخبرني عن خبرتك السابقة؟",
+        "context": "تطلب خبرة الشخص قبل هذه الوظيفة."
+      },
+      {
+        "id": 2,
+        "en": "Great! Can you tell me more about your experience?",
+        "ar": "رائع! هل يمكنك أن تخبرني بالمزيد عن خبرتك؟",
+        "context": "تطلب تفصيلًا إضافيًا بعد إجابة قصيرة."
+      },
+      {
+        "id": 3,
+        "en": "Can you tell me about your experience in software development?",
+        "ar": "هل يمكنك أن تخبرني عن خبرتك في تطوير البرمجيات؟",
+        "context": "تحدد مجال الخبرة المطلوب."
+      },
+      {
+        "id": 4,
+        "en": "Great. Can you tell us about your experience with mobile apps?",
+        "ar": "رائع. هل يمكنك أن تخبرنا عن خبرتك مع تطبيقات الهاتف؟",
+        "context": "تستخدم us عندما يمثل السائل فريقًا أو لجنة."
+      },
+      {
+        "id": 5,
+        "en": "Can you tell me about your experience on your last project?",
+        "ar": "هل يمكنك أن تخبرني عن خبرتك في مشروعك الأخير؟",
+        "context": "تركز على مشروع محدد بدل السيرة العامة."
+      },
+      {
+        "id": 6,
+        "en": "Great! Could you tell me about your experience?",
+        "ar": "رائع! هل يمكنك أن تخبرني عن خبرتك؟",
+        "context": "صيغة أكثر لطفًا ورسمية لطلب شرح الخبرة."
+      },
+      {
+        "id": 7,
+        "en": "Can you tell me about the experience you listed on your CV?",
+        "ar": "هل يمكنك أن تخبرني عن الخبرة التي ذكرتها في سيرتك الذاتية؟",
+        "context": "تسأل عن نقطة موجودة في السيرة الذاتية."
+      },
+      {
+        "id": 8,
+        "en": "Great! Can you tell me about your experience with customers?",
+        "ar": "رائع! هل يمكنك أن تخبرني عن خبرتك مع العملاء؟",
+        "context": "تخصص السؤال في التعامل مع العملاء."
+      },
+      {
+        "id": 9,
+        "en": "Before we continue, can you tell me about your experience?",
+        "ar": "قبل أن نكمل، هل يمكنك أن تخبرني عن خبرتك؟",
+        "context": "تنقل الحوار إلى جزء الخبرة في المقابلة."
+      },
+      {
+        "id": 10,
+        "en": "Can you briefly tell me about your experience?",
+        "ar": "هل يمكنك أن تخبرني باختصار عن خبرتك؟",
+        "context": "تطلب إجابة قصيرة ومركزة."
+      }
+    ]
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "schemaVersion": 1,
+  "id": 11175,
+  "sentence": {
+    "en": "I condemned the assassination of the journalist.",
+    "ar": "أنا أدنت اغتيال الصحفي.",
+    "context": "أنت تروي إدانة قتل متعمد استهدف الصحفي.",
+    "sourceWord": "assassination",
+    "sourcePos": "n."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "I condemned the assassination of the journalist.",
+        "ar": "أنا أدنت اغتيال الصحفي.",
+        "context": "أنت تروي إدانة قتل متعمد استهدف الصحفي.",
+        "grammar": {
+          "tense": "الماضي البسيط",
+          "tenseEn": "Past Simple",
+          "reason": "أخبر عن حدث أو حالة في وقت ماضٍ انتهى، بالماضي البسيط. التصريف الماضي يصف حدثًا منتهيًا. قتل متعمد بسبب الدور العام للضحية"
+        },
+        "wordMeanings": [
+          {
+            "term": "I",
+            "description": "أنا؛ ضمير المتكلم المفرد"
+          },
+          {
+            "term": "condemned",
+            "description": "أدنت؛ قتل متعمد بسبب الدور العام للضحية التصريف الماضي للفعل."
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف"
+          },
+          {
+            "term": "assassination",
+            "description": "الاغتيال"
+          },
+          {
+            "term": "of",
+            "description": "حرف يربط الاغتيال بالضحية"
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف"
+          },
+          {
+            "term": "journalist",
+            "description": "الصحفي"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "I condemned the assassination of the journalist.",
+        "ar": "أنا أدنت اغتيال الصحفي.",
+        "context": "أنت تروي إدانة قتل متعمد استهدف الصحفي."
+      },
+      {
+        "id": 2,
+        "en": "I condemn the assassination of the journalist.",
+        "ar": "أنا أدين اغتيال الصحفي.",
+        "context": "أنت تعبر عن رفض جريمة قتل متعمدة استهدفت صحفيًا. أنت تشرح عادتك أو وضعك الحالي فيما يخص إدانة الاغتيال."
+      },
+      {
+        "id": 3,
+        "en": "I do not condemn the assassination of the journalist.",
+        "ar": "أنا لا أدين اغتيال الصحفي.",
+        "context": "أنت تعبر عن رفض جريمة قتل متعمدة استهدفت صحفيًا. أنت توضح أن هذا ليس من عادتك أو وصفًا لوضعك الحالي."
+      },
+      {
+        "id": 4,
+        "en": "I am condemning the assassination of the journalist.",
+        "ar": "أنا أدين اغتيال الصحفي.",
+        "context": "أنت تعبر عن رفض جريمة قتل متعمدة استهدفت صحفيًا. أنت في أثناء التعامل مع إدانة الاغتيال الآن."
+      },
+      {
+        "id": 5,
+        "en": "I am not condemning the assassination of the journalist.",
+        "ar": "أنا لا أدين اغتيال الصحفي.",
+        "context": "أنت تعبر عن رفض جريمة قتل متعمدة استهدفت صحفيًا. أنت تصحح توقعًا بشأن ما تفعله الآن وتوضح أن هذا النشاط لا يجري."
+      },
+      {
+        "id": 6,
+        "en": "I did not condemn the assassination of the journalist.",
+        "ar": "أنا لم أدن اغتيال الصحفي.",
+        "context": "أنت تعبر عن رفض جريمة قتل متعمدة استهدفت صحفيًا. أنت تصحح رواية عن أحداث أمس وتوضح أن هذا الأمر لم يحصل."
+      },
+      {
+        "id": 7,
+        "en": "I have condemned the assassination of the journalist.",
+        "ar": "أنا قد أدنت اغتيال الصحفي.",
+        "context": "أنت تعبر عن رفض جريمة قتل متعمدة استهدفت صحفيًا. أنت تناقش ما أنجزته أو خبرتك السابقة بشأن إدانة الاغتيال، لأن ذلك مهم لموقفك الآن."
+      },
+      {
+        "id": 8,
+        "en": "I have not condemned the assassination of the journalist.",
+        "ar": "أنا لم أدن اغتيال الصحفي.",
+        "context": "أنت تعبر عن رفض جريمة قتل متعمدة استهدفت صحفيًا. أنت تناقش ما تم حتى الآن وتوضح أن هذا الأمر لم يتم بعد."
+      },
+      {
+        "id": 9,
+        "en": "I will condemn the assassination of the journalist.",
+        "ar": "أنا سأدين اغتيال الصحفي.",
+        "context": "أنت تعبر عن رفض جريمة قتل متعمدة استهدفت صحفيًا. أنت تتحدث عن خططك أو توقعاتك بشأن إدانة الاغتيال غدًا."
+      },
+      {
+        "id": 10,
+        "en": "I will not condemn the assassination of the journalist.",
+        "ar": "أنا لن أدين اغتيال الصحفي.",
+        "context": "أنت تعبر عن رفض جريمة قتل متعمدة استهدفت صحفيًا. أنت تناقش خطط الغد وتوضح أن هذا الأمر لن يحدث."
+      }
+    ]
+  }
+}

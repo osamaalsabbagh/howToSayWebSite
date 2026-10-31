@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "id": 445,
+  "sentence": {
+    "en": "Where is the airport?",
+    "ar": "أين المطار؟",
+    "context": "السؤال عن موقع المطار."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Where is the airport?",
+        "ar": "أين المطار؟",
+        "context": "سؤال عن موقع المطار من شخص في المكان.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "يستخدم المضارع البسيط للسؤال عن حالة أو توفر أو معلومة حالية."
+        },
+        "wordMeanings": [
+          {
+            "term": "Where",
+            "description": "كلمة سؤال تسأل عن المكان أو الوجهة"
+          },
+          {
+            "term": "is",
+            "description": "صيغة تربط الفاعل بمعلومة أو حالة في الحاضر"
+          },
+          {
+            "term": "the",
+            "description": "أداة تعريف تشير إلى شيء محدد"
+          },
+          {
+            "term": "airport",
+            "description": "المطار"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Where is the airport?",
+        "ar": "أين المطار؟",
+        "context": "سؤال عن موقع المطار."
+      },
+      {
+        "id": 2,
+        "en": "Where is the train station for the airport express?",
+        "ar": "أين محطة قطار المطار السريع؟",
+        "context": "السؤال عن موضع المحطة التي تخدم قطارًا سريعًا متجهًا إلى المطار."
+      },
+      {
+        "id": 3,
+        "en": "Where is the bus stop?",
+        "ar": "أين موقف الحافلات؟",
+        "context": "سؤال عن موقع موقف الحافلات."
+      },
+      {
+        "id": 4,
+        "en": "Where is the bathroom beside the departure gates?",
+        "ar": "أين الحمام بجوار بوابات المغادرة؟",
+        "context": "طلب إرشاد إلى حمام قريب من بوابات صعود المسافرين إلى الطائرات."
+      },
+      {
+        "id": 5,
+        "en": "Where is the restaurant on the top floor?",
+        "ar": "أين المطعم في الطابق الأخير؟",
+        "context": "السؤال عن مطعم موجود في أعلى طابق من المبنى."
+      },
+      {
+        "id": 6,
+        "en": "Where is the nearest place to exchange money?",
+        "ar": "أين أقرب مكان لصرف العملات؟",
+        "context": "البحث عن أقل الأماكن بُعدًا لتحويل النقود إلى عملة أخرى."
+      },
+      {
+        "id": 7,
+        "en": "Where is the front desk?",
+        "ar": "أين مكتب الاستقبال؟",
+        "context": "سؤال عن موقع مكتب استقبال الفندق."
+      },
+      {
+        "id": 8,
+        "en": "Where is the parking lot?",
+        "ar": "أين موقف السيارات؟",
+        "context": "سؤال عن موقع موقف السيارات، بكلمتين."
+      },
+      {
+        "id": 9,
+        "en": "Where is the city center?",
+        "ar": "أين مركز المدينة؟",
+        "context": "سؤال عن موقع مركز المدينة."
+      },
+      {
+        "id": 10,
+        "en": "Where is the hotel shuttle pick-up point?",
+        "ar": "أين نقطة الركوب لحافلة الفندق المكوكية؟",
+        "context": "طلب تحديد المكان الذي تقل منه حافلة الفندق ركابها."
+      }
+    ]
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": 763,
+  "sentence": {
+    "en": "Is it hot?",
+    "ar": "هل الجو حار؟",
+    "context": "السؤال عن حرارة الطقس أو شيء ما."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Is it hot?",
+        "ar": "هل الجو حار؟",
+        "context": "سؤال عن الحرارة في الجو أو في شيء معروف من السياق.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "الفعل is يصف الحالة الحالية، وit يعود على الجو أو الشيء المشار إليه."
+        },
+        "wordMeanings": [
+          {
+            "term": "Is",
+            "description": "هل يكون أو هل الحالة كذلك"
+          },
+          {
+            "term": "it",
+            "description": "الجو أو الشيء المقصود"
+          },
+          {
+            "term": "hot",
+            "description": "حار أو ساخن"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Is it hot outside?",
+        "ar": "هل الجو حار في الخارج؟",
+        "context": "للسؤال عن الطقس خارجا."
+      },
+      {
+        "id": 2,
+        "en": "Is the soup hot?",
+        "ar": "هل الحساء ساخن؟",
+        "context": "قبل تناول الطعام."
+      },
+      {
+        "id": 3,
+        "en": "Is the coffee hot?",
+        "ar": "هل القهوة ساخنة؟",
+        "context": "عند تقديم القهوة."
+      },
+      {
+        "id": 4,
+        "en": "Is it hot in summer?",
+        "ar": "هل الجو حار في الصيف؟",
+        "context": "للسؤال عن طقس موسم."
+      },
+      {
+        "id": 5,
+        "en": "Is the room hot?",
+        "ar": "هل الغرفة حارة؟",
+        "context": "للسؤال عن حرارة غرفة."
+      },
+      {
+        "id": 6,
+        "en": "Is it too hot?",
+        "ar": "هل هو حار جدا؟",
+        "context": "للسؤال عن درجة حرارة مزعجة."
+      },
+      {
+        "id": 7,
+        "en": "Is the water hot?",
+        "ar": "هل الماء ساخن؟",
+        "context": "قبل الاستحمام أو الشرب."
+      },
+      {
+        "id": 8,
+        "en": "Is it hot today?",
+        "ar": "هل الجو حار اليوم؟",
+        "context": "للسؤال عن طقس اليوم."
+      },
+      {
+        "id": 9,
+        "en": "Is your food hot?",
+        "ar": "هل طعامك ساخن؟",
+        "context": "للاطمئنان على الطعام."
+      },
+      {
+        "id": 10,
+        "en": "Is it hot there?",
+        "ar": "هل الجو حار هناك؟",
+        "context": "للسؤال عن طقس مكان آخر."
+      }
+    ]
+  }
+}

@@ -1,0 +1,171 @@
+{
+  "schemaVersion": 1,
+  "id": 12,
+  "sentence": {
+    "en": "Yeah, right here. It says carrots, cucumbers, tomatoes, lemons, lettuce, and two pounds of meat.",
+    "ar": "نعم، ها هي. تقول جزر، خيار، بندورة، ليمون، خس، ورطلان من اللحم.",
+    "context": "يجيب الابن بنعم غير رسمية وكلمة تقول هنا بمعنى مكتوب فيها."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "Yeah",
+        "ar": "نعم.",
+        "context": "جواب غير رسمي بالموافقة.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه كلمة جوابية غير رسمية ولا تحمل زمنًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "Yeah",
+            "description": "نعم بشكل غير رسمي"
+          }
+        ]
+      },
+      {
+        "sentence": "right here",
+        "ar": "هنا تمامًا.",
+        "context": "يشير إلى أن القائمة معه في هذا المكان.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذه عبارة مكانية مختصرة ولا تحمل فعلًا بزمن."
+        },
+        "wordMeanings": [
+          {
+            "term": "right",
+            "description": "تمامًا أو مباشرة"
+          },
+          {
+            "term": "here",
+            "description": "هنا"
+          }
+        ]
+      },
+      {
+        "sentence": "It says carrots cucumbers tomatoes lemons lettuce and two pounds of meat",
+        "ar": "مكتوب فيها جزر وخيار وبندورة وليمون وخس ورطلان من اللحم.",
+        "context": "يقرأ محتوى قائمة المشتريات.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "says هنا تعني مكتوب فيها، وتستخدم لوصف محتوى نص أو قائمة."
+        },
+        "wordMeanings": [
+          {
+            "term": "It",
+            "description": "هي أو هو للقائمة"
+          },
+          {
+            "term": "says",
+            "description": "تقول أو مكتوب فيها"
+          },
+          {
+            "term": "carrots",
+            "description": "جزر"
+          },
+          {
+            "term": "cucumbers",
+            "description": "خيار"
+          },
+          {
+            "term": "tomatoes",
+            "description": "بندورة أو طماطم"
+          },
+          {
+            "term": "lemons",
+            "description": "ليمون"
+          },
+          {
+            "term": "lettuce",
+            "description": "خس"
+          },
+          {
+            "term": "and",
+            "description": "و"
+          },
+          {
+            "term": "two",
+            "description": "اثنان"
+          },
+          {
+            "term": "pounds",
+            "description": "أرطال، وحدة وزن"
+          },
+          {
+            "term": "of",
+            "description": "من"
+          },
+          {
+            "term": "meat",
+            "description": "لحم"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "Yeah, right here",
+        "ar": "نعم، هنا تمامًا",
+        "context": "يقال عند إظهار شيء معك"
+      },
+      {
+        "id": 2,
+        "en": "It says milk and bread",
+        "ar": "مكتوب فيها حليب وخبز",
+        "context": "يقال عند قراءة قائمة"
+      },
+      {
+        "id": 3,
+        "en": "The list says apples and lemons",
+        "ar": "القائمة تقول تفاحًا وليمونًا",
+        "context": "يقال لتوضيح محتوى القائمة"
+      },
+      {
+        "id": 4,
+        "en": "It says two pounds of meat",
+        "ar": "مكتوب فيها رطلان من اللحم",
+        "context": "يقال عند قراءة كمية"
+      },
+      {
+        "id": 5,
+        "en": "Yeah, I have it",
+        "ar": "نعم، إنها معي",
+        "context": "يقال لتأكيد امتلاك شيء"
+      },
+      {
+        "id": 6,
+        "en": "The note says call Dad",
+        "ar": "الملاحظة تقول اتصل بأبي",
+        "context": "يقال عند قراءة ملاحظة"
+      },
+      {
+        "id": 7,
+        "en": "It says carrots and cucumbers",
+        "ar": "مكتوب فيها جزر وخيار",
+        "context": "يقال عند قراءة مشتريات"
+      },
+      {
+        "id": 8,
+        "en": "Right here on the table",
+        "ar": "هنا تمامًا على الطاولة",
+        "context": "يقال لتحديد مكان شيء"
+      },
+      {
+        "id": 9,
+        "en": "It says tomatoes and lettuce",
+        "ar": "مكتوب فيها بندورة وخس",
+        "context": "يقال عند قراءة أسماء خضار"
+      },
+      {
+        "id": 10,
+        "en": "Yeah, the list is here",
+        "ar": "نعم، القائمة هنا",
+        "context": "يقال عند إيجاد القائمة"
+      }
+    ]
+  }
+}

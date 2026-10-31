@@ -1,0 +1,135 @@
+{
+  "schemaVersion": 1,
+  "id": 181,
+  "sentence": {
+    "en": "How long does it take to get to Georgia?",
+    "ar": "كم من الوقت يستغرق للوصول إلى جورجيا؟",
+    "context": "اسأل عن مدة الوصول إلى جورجيا."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "How long does it take",
+        "ar": "كم من الوقت يستغرق",
+        "context": "يوضح المعلومة أو الفكرة التابعة لما قبله.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "هذا جزء السؤال الرئيسي، ويستخدم المضارع البسيط للسؤال عن مدة معتادة أو متوقعة."
+        },
+        "wordMeanings": [
+          {
+            "term": "How",
+            "description": "تبدأ السؤال عن المقدار."
+          },
+          {
+            "term": "long",
+            "description": "طويل من حيث المدة، ومع الكلمة السابقة تعني كم من الوقت."
+          },
+          {
+            "term": "does",
+            "description": "تأتي في السؤال مع المفرد لتكوين سؤال في الحاضر."
+          },
+          {
+            "term": "it",
+            "description": "تشير إلى عملية الوصول أو الرحلة المقصودة."
+          },
+          {
+            "term": "take",
+            "description": "يستغرق من الوقت."
+          }
+        ]
+      },
+      {
+        "sentence": "to get to Georgia",
+        "ar": "للوصول إلى جورجيا؟",
+        "context": "يوضح الغرض أو الفعل المقصود بعد العبارة السابقة.",
+        "grammar": {
+          "tense": null,
+          "tenseEn": null,
+          "reason": "هذا جزء تابع بصيغة المصدر يوضح الهدف من المدة، وهو الوصول إلى جورجيا، ولا يحمل زمنًا مستقلًا."
+        },
+        "wordMeanings": [
+          {
+            "term": "to",
+            "description": "تربط المدة بالفعل الذي يوضح الهدف."
+          },
+          {
+            "term": "get",
+            "description": "أصل أو أذهب إلى مكان."
+          },
+          {
+            "term": "to",
+            "description": "إلى، وتربط الوصول بالوجهة."
+          },
+          {
+            "term": "Georgia",
+            "description": "جورجيا، اسم مكان أو ولاية حسب السياق."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "How long does it take to get to Georgia?",
+        "ar": "كم من الوقت يستغرق للوصول إلى جورجيا؟",
+        "context": "تقال عند السؤال عن مدة الوصول إلى جورجيا."
+      },
+      {
+        "id": 2,
+        "en": "How long does it take to get to Boston?",
+        "ar": "كم من الوقت يستغرق للوصول إلى بوسطن؟",
+        "context": "تقال عند السؤال عن مدة الوصول إلى مدينة."
+      },
+      {
+        "id": 3,
+        "en": "How long does it take to get to the airport?",
+        "ar": "كم من الوقت يستغرق للوصول إلى المطار؟",
+        "context": "تقال عند التخطيط للوصول إلى المطار."
+      },
+      {
+        "id": 4,
+        "en": "How long does it take to get to the hotel?",
+        "ar": "كم من الوقت يستغرق للوصول إلى الفندق؟",
+        "context": "تقال عند السؤال عن مدة الطريق إلى الفندق."
+      },
+      {
+        "id": 5,
+        "en": "How long does it take to get downtown?",
+        "ar": "كم من الوقت يستغرق للوصول إلى وسط المدينة؟",
+        "context": "تقال عند السؤال عن مدة الوصول إلى وسط المدينة."
+      },
+      {
+        "id": 6,
+        "en": "How long does it take to get there by car?",
+        "ar": "كم من الوقت يستغرق للوصول إلى هناك بالسيارة؟",
+        "context": "تقال عند السؤال عن مدة طريق بالسيارة."
+      },
+      {
+        "id": 7,
+        "en": "How long does it take to get there by bus?",
+        "ar": "كم من الوقت يستغرق للوصول إلى هناك بالحافلة؟",
+        "context": "تقال عند السؤال عن مدة طريق بالحافلة."
+      },
+      {
+        "id": 8,
+        "en": "How long does it take to get to work?",
+        "ar": "كم من الوقت يستغرق للوصول إلى العمل؟",
+        "context": "تقال عند السؤال عن مدة التنقل إلى العمل."
+      },
+      {
+        "id": 9,
+        "en": "How long does it take to get home?",
+        "ar": "كم من الوقت يستغرق للوصول إلى البيت؟",
+        "context": "تقال عند السؤال عن مدة العودة إلى المنزل."
+      },
+      {
+        "id": 10,
+        "en": "How long does it take to get to the embassy?",
+        "ar": "كم من الوقت يستغرق للوصول إلى السفارة؟",
+        "context": "تقال عند السؤال عن مدة الوصول إلى جهة رسمية."
+      }
+    ]
+  }
+}

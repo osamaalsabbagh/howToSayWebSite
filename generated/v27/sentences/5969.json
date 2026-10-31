@@ -1,0 +1,125 @@
+{
+  "schemaVersion": 1,
+  "id": 5969,
+  "sentence": {
+    "en": "You look pale. Are you sick?",
+    "ar": "أنت تبدو شاحبًا. هل أنت مريض؟",
+    "context": "ملاحظة نقص ظاهر في لون بشرة المخاطب يتبعها سؤال عن صحته، دون الجزم بمرضه.",
+    "sourceWord": "pale",
+    "sourcePos": "adj."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "You look pale.",
+        "ar": "أنت تبدو شاحبًا.",
+        "context": "ملاحظة عن مظهر الوجه.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "المضارع البسيط مع فعل المظهر يصف ما يبدو الآن، وتأتي بعده الصفة لا الظرف."
+        },
+        "wordMeanings": [
+          {
+            "term": "You",
+            "description": "أنت؛ ضمير المخاطب."
+          },
+          {
+            "term": "look",
+            "description": "تبدو؛ يظهر عليك."
+          },
+          {
+            "term": "pale",
+            "description": "شاحب؛ قليل اللون الظاهر في البشرة، دون إثبات سبب محدد."
+          }
+        ]
+      },
+      {
+        "sentence": "Are you sick?",
+        "ar": "هل أنت مريض؟",
+        "context": "سؤال للتحقق من الصحة.",
+        "grammar": {
+          "tense": "المضارع البسيط",
+          "tenseEn": "Present Simple",
+          "reason": "المضارع البسيط في سؤال يتقدم فيه فعل الكينونة على الفاعل."
+        },
+        "wordMeanings": [
+          {
+            "term": "Are",
+            "description": "فعل الكينونة مع المخاطب، يتقدم في السؤال."
+          },
+          {
+            "term": "you",
+            "description": "أنت؛ ضمير المخاطب."
+          },
+          {
+            "term": "sick",
+            "description": "مريض."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "You look pale. Are you sick?",
+        "ar": "أنت تبدو شاحبًا. هل أنت مريض؟",
+        "context": "ملاحظة نقص ظاهر في لون بشرة المخاطب يتبعها سؤال عن صحته، دون الجزم بمرضه."
+      },
+      {
+        "id": 2,
+        "en": "She painted the room pale blue.",
+        "ar": "هي دهنت الغرفة باللون الأزرق الفاتح.",
+        "context": "وصف طلاء سابق لغرفة بدرجة خفيفة غير داكنة من الأزرق."
+      },
+      {
+        "id": 3,
+        "en": "The moon cast a pale light over the field.",
+        "ar": "القمر ألقى ضوءًا باهتًا على الحقل.",
+        "context": "وصف إنارة سابقة خافتة من جرم في السماء."
+      },
+      {
+        "id": 4,
+        "en": "The old photograph has become pale with age.",
+        "ar": "الصورة القديمة قد أصبحت باهتة مع مرور الزمن.",
+        "context": "الإبلاغ عن ضعف مكتمل في شدة ألوان صورة نتيجة تقادمها."
+      },
+      {
+        "id": 5,
+        "en": "The decorator is choosing pale curtains.",
+        "ar": "المزين يختار ستائر فاتحة اللون.",
+        "context": "وصف اختيار جارٍ لقماش ذي لون خفيف بدل لون داكن."
+      },
+      {
+        "id": 6,
+        "en": "The flowers will open with pale yellow petals.",
+        "ar": "الأزهار ستتفتح ببتلات صفراء فاتحة.",
+        "context": "توقع ظهور أجزاء زهرية بدرجة خفيفة من لون معين."
+      },
+      {
+        "id": 7,
+        "en": "His face turned pale at the news.",
+        "ar": "وجهه أصبح شاحبًا عند سماع الخبر.",
+        "context": "وصف تغير سابق جعل لون بشرة رجل أقل ظهورًا بعد خبر."
+      },
+      {
+        "id": 8,
+        "en": "The imitation is a pale copy of the original.",
+        "ar": "التقليد نسخة باهتة من الأصل.",
+        "context": "وصف مجازي لنسخة تفتقر إلى قوة العمل الأصلي أو جودته."
+      },
+      {
+        "id": 9,
+        "en": "The room has pale wooden furniture.",
+        "ar": "الغرفة فيها أثاث خشبي فاتح اللون.",
+        "context": "وصف درجة خفيفة للون خشب قطع داخل غرفة."
+      },
+      {
+        "id": 10,
+        "en": "A pale line marked the edge of the page.",
+        "ar": "خط باهت حدد حافة الصفحة.",
+        "context": "وصف علامة سابقة قليلة الشدة على طرف ورقة."
+      }
+    ]
+  }
+}

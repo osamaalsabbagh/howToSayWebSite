@@ -1,0 +1,139 @@
+{
+  "schemaVersion": 1,
+  "id": 11,
+  "sentence": {
+    "en": "That is true. It is very quiet here.",
+    "ar": "هذا صحيح. إنه هادئ جدًا هنا.",
+    "context": "تأكيد بسيط على هدوء المكان."
+  },
+  "lesson": {
+    "parts": [
+      {
+        "sentence": "That is true.",
+        "ar": "هذا صحيح.",
+        "context": "The speaker agrees with the previous statement.",
+        "grammar": {
+          "tense": "simple present",
+          "tenseEn": "Simple Present",
+          "reason": "Is states present agreement."
+        },
+        "wordMeanings": [
+          {
+            "term": "That",
+            "ar": "هذا",
+            "description": "Arabic meaning for \"That\" in this sentence."
+          },
+          {
+            "term": "is",
+            "ar": "يكون",
+            "description": "Arabic meaning for \"is\" in this sentence."
+          },
+          {
+            "term": "true",
+            "ar": "صحيح",
+            "description": "Arabic meaning for \"true\" in this sentence."
+          }
+        ]
+      },
+      {
+        "sentence": "It is very quiet here.",
+        "ar": "إنه هادئ جدًا هنا.",
+        "context": "The speaker confirms that the place is quiet.",
+        "grammar": {
+          "tense": "simple present",
+          "tenseEn": "Simple Present",
+          "reason": "Is describes the current state of the place."
+        },
+        "wordMeanings": [
+          {
+            "term": "It",
+            "ar": "إنه",
+            "description": "Arabic meaning for \"It\" in this sentence."
+          },
+          {
+            "term": "is",
+            "ar": "يكون",
+            "description": "Arabic meaning for \"is\" in this sentence."
+          },
+          {
+            "term": "very",
+            "ar": "جدًا",
+            "description": "Arabic meaning for \"very\" in this sentence."
+          },
+          {
+            "term": "quiet",
+            "ar": "هادئ",
+            "description": "Arabic meaning for \"quiet\" in this sentence."
+          },
+          {
+            "term": "here",
+            "ar": "هنا",
+            "description": "Arabic meaning for \"here\" in this sentence."
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": 1,
+        "en": "That is true.",
+        "ar": "هذا صحيح.",
+        "context": "Agreeing with someone."
+      },
+      {
+        "id": 2,
+        "en": "It is quiet here.",
+        "ar": "إنه هادئ هنا.",
+        "context": "Describing a place."
+      },
+      {
+        "id": 3,
+        "en": "This room is very quiet.",
+        "ar": "هذه الغرفة هادئة جدًا.",
+        "context": "Describing a quiet room."
+      },
+      {
+        "id": 4,
+        "en": "The cafe is quiet today.",
+        "ar": "المقهى هادئ اليوم.",
+        "context": "Talking about the cafe atmosphere."
+      },
+      {
+        "id": 5,
+        "en": "It is true now.",
+        "ar": "هذا صحيح الآن.",
+        "context": "Saying something is currently correct."
+      },
+      {
+        "id": 6,
+        "en": "Here is very pleasant.",
+        "ar": "هنا مريح جدًا.",
+        "context": "Describing a place positively."
+      },
+      {
+        "id": 7,
+        "en": "The office is quiet.",
+        "ar": "المكتب هادئ.",
+        "context": "Describing a work space."
+      },
+      {
+        "id": 8,
+        "en": "It is very warm here.",
+        "ar": "إنه دافئ جدًا هنا.",
+        "context": "Describing temperature."
+      },
+      {
+        "id": 9,
+        "en": "That place is quiet.",
+        "ar": "ذلك المكان هادئ.",
+        "context": "Describing another place."
+      },
+      {
+        "id": 10,
+        "en": "It is quiet in the morning.",
+        "ar": "إنه هادئ في الصباح.",
+        "context": "Describing a time of day."
+      }
+    ]
+  }
+}
